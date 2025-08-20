@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0NdeXmnYpT.md) - [plain]
 
 ### [The Disastrous Life of Saiki K\. 斉木楠雄のΨ難 ](https://open.spotify.com/playlist/37i9dQZF1DWV0NdeXmnYpT)
 
-> Music from "The Disastrous Life of Saiki K."! /アニメ「斉木楠雄のΨ難」の世界を彩る楽曲をプレイリストで。©麻生周一／集英社・PK学園
+> Music from "The Disastrous Life of Saiki K."! /アニメ「斉木楠雄のΨ難」の世界を彩る楽曲をプレイリストで。©麻生周一／集英社・PK学園R
 
-[Spotify](https://open.spotify.com/user/spotify) - 88 likes - 105 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 105 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0NdeXmnYpT.md) - [plain]
 | 104 | [穏やかな日々](https://open.spotify.com/track/7Kag2JaMqVAPTQ5e57HHka) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [テレビアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック2](https://open.spotify.com/album/12oiRo3QQqaGe0nUBSR16L) | 1:59 |
 | 105 | [仲間との友情](https://open.spotify.com/track/5QVbsG2Z5YOGbQXEUSkjX9) | [斉木ックラバー](https://open.spotify.com/artist/0k0oyUe2LgzCmhtUzr0xGp) | [テレビアニメ「斉木楠雄のΨ難」オリジナル・サウンドトラック2](https://open.spotify.com/album/12oiRo3QQqaGe0nUBSR16L) | 1:58 |
 
-Snapshot ID: `AAAAAKAHYnpI+8jaoDWsSqAoShcvPLv/`
+Snapshot ID: `AAAAAIOrC6b7Vmmc5+r2lb1kQV0IumNA`

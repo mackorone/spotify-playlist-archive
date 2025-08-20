@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Baagh",
+        "url": "https://open.spotify.com/album/3ItDPo58OHSB4vo99lsu6z"
+      },
+      "artists": [
+        {
+          "name": "Khasa Aala Chahar",
+          "url": "https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "Baagh",
+      "url": "https://open.spotify.com/track/27vHx0lpzWllP7iV224uel"
+    },
+    {
+      "album": {
         "name": "Bad Boys",
         "url": "https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw"
       },
@@ -1950,7 +1968,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 203846,
       "name": "Mucha Aale Tag",
       "url": "https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6"

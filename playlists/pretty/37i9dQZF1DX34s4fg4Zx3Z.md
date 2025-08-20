@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Yeolan
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,357 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,356 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 13 | [Ta Rồi Sẽ Ổn Thôi](https://open.spotify.com/track/1w2LdiRy2gYuSjSwbzErnM) | [BRIL](https://open.spotify.com/artist/1j6GqZG7oBfwqhGKOObKIJ), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Ta Rồi Sẽ Ổn Thôi](https://open.spotify.com/album/0tjrz41Dd7hTtS5TQYOP6I) | 4:59 |
 | 14 | [Yêu cả hai](https://open.spotify.com/track/6AXCk9jmanK7sZuuMwqJ9u) | [ULTIMÍT](https://open.spotify.com/artist/672HBWiY6ZZ44TLWZtKwYa), [Keen](https://open.spotify.com/artist/50lH1JCWzaCDAF2uKjQInf) | [Yêu cả hai](https://open.spotify.com/album/6SxudnbUZIX2SLHCw7wccM) | 2:44 |
 | 15 | [Con Đường Xa](https://open.spotify.com/track/2jNefNkySA6SOJjBF9Jxfv) | [BILLY100](https://open.spotify.com/artist/5eGFciQFU7LU4JQZeIy9uS), [NVM](https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC), [A6lonely](https://open.spotify.com/artist/3POuZVWPpugGBv1FBdzAq8) | [Con Đường Xa](https://open.spotify.com/album/3wafJbskj9YAF7OmZmpizj) | 3:40 |
-| 16 | [TÌNH SHI](https://open.spotify.com/track/0XzyhjbEsglfjOLzozgamI) | [Quang Huy](https://open.spotify.com/artist/5QIhpiFVMtAGsnNiiMRGOw), [PAGANINO](https://open.spotify.com/artist/1MwzdNF7cfIWwlVYg0onWY) | [TÌNH SHI](https://open.spotify.com/album/3KWbquckBY4rZ7wE4m2jPI) | 3:00 |
+| 16 | [TÌNH SHI](https://open.spotify.com/track/0XzyhjbEsglfjOLzozgamI) | [QUANG HUY](https://open.spotify.com/artist/5QIhpiFVMtAGsnNiiMRGOw), [PAGANINO](https://open.spotify.com/artist/1MwzdNF7cfIWwlVYg0onWY) | [TÌNH SHI](https://open.spotify.com/album/3KWbquckBY4rZ7wE4m2jPI) | 3:00 |
 | 17 | [Đóa Hoa Lả Lơi](https://open.spotify.com/track/1WE9ZqiL4NKK1IAVexgc2k) | [TiHi](https://open.spotify.com/artist/1yFYZte32EDLcXlRX6DV3L) | [Đóa Hoa Lả Lơi](https://open.spotify.com/album/5RhYp9EpjuQOvo6b2Jh6m5) | 4:07 |
 | 18 | [Tơ.](https://open.spotify.com/track/2kIxTrsRhxaorGhIjmUj9e) | [Na Sofia](https://open.spotify.com/artist/6cDKXpUdeH62W6Bkfyiokv) | [Tơ.](https://open.spotify.com/album/3RP7Ltzo2bRobpDr45EGhI) | 3:09 |
 | 19 | [Lời Em Bông Đùa](https://open.spotify.com/track/4v9P9d2jq57x0Jag2aBVd0) | [Huynh Duc](https://open.spotify.com/artist/1g6Z31sXLyZQHnljLpwOMX), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Lời Em Bông Đùa](https://open.spotify.com/album/7xHpgfKdztX05st3XHYDmx) | 3:50 |

@@ -4,7 +4,7 @@
 
 > Symphonic and power metal at its most epic\. Cover: Doro
 
-665 songs - 2 day 2 hr 43 min
+666 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bound for Glory](https://open.spotify.com/track/6iaE692yddzSZCtas13O3G) | [Power Quest](https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip) | [Bound for Glory](https://open.spotify.com/album/67ivunRzZPCKSFkJ0RLkUa) | 5:27 | 2021-10-29 | 2022-06-12 |
 | [Bound to You](https://open.spotify.com/track/2e3BYKQxVqrwDNBthAVMRf) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [Bound to You](https://open.spotify.com/album/4LBRpVSwm4DKouQRuj9xJg) | 5:20 | 2021-10-01 | 2022-05-14 |
 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 | 2024-05-24 |  |
+| [Break The Silence](https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Break The Silence](https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH) | 4:23 | 2025-08-19 |  |
 | [Breaking the Rules of Heavy Metal](https://open.spotify.com/track/5fqssXsp0MIyarjoidnV3l) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [Breaking the Rules of Heavy Metal](https://open.spotify.com/album/3QCnyC286dqbTckQbGjUhV) | 4:42 | 2021-10-16 | 2021-11-20 |
 | [Breath](https://open.spotify.com/track/6srr7GORT5rCZyFKO5jd2G) | [Rioghan](https://open.spotify.com/artist/2Ev0s3CG4Oz7MJvqpQzHWw) | [Breath](https://open.spotify.com/album/2A70NvbWyMrMhCgCCLB05g) | 3:44 | 2022-03-11 | 2023-07-18 |
 | [Breathing Divinity](https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8) | [Jani Liimatainen](https://open.spotify.com/artist/15o2IVJ6hHAxdBBvAjjtn9), [Bjorn "Speed" Strid](https://open.spotify.com/artist/5qA1ILfKx6JbW6dw17N0BN) | [My Father's Son](https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr) | 5:03 | 2022-05-06 | 2024-09-07 |
@@ -655,7 +656,7 @@
 | [Whiteworm](https://open.spotify.com/track/6iY9AS4wKGbUCDyxAjWICR) | [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p) | [Wall of Sound](https://open.spotify.com/album/0zLXtoeV4X9Pa70507bbFf) | 4:35 | 2022-07-13 | 2022-07-30 |
 | [Who Am I?](https://open.spotify.com/track/1LKatUdpTgcqWNfMm3XprZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [Who Am I?](https://open.spotify.com/album/6plpyLilJlVK607mkW5cJ3) | 3:53 | 2022-05-13 | 2023-04-15 |
 | [Wings of Fire](https://open.spotify.com/track/6OWQLU8zkE7ph047jVwt1i) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Blood on Blood](https://open.spotify.com/album/1OLRjNNIkMhGXRsAa3VSDD) | 3:59 | 2021-10-29 | 2022-05-28 |
-| [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 | 2022-10-07 |  |
+| [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 | 2022-10-07 | 2025-08-20 |
 | [Winter Storm Vigilantes](https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm Vigilantes](https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs) | 5:12 | 2024-06-24 |  |
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5Gdgx8sxajwAUykuwha8dj) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness, Pt\. 1](https://open.spotify.com/album/551YLCPFOY6gkn8Yy2pj5i) | 5:20 | 2022-07-13 | 2022-07-26 |
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5mjPofHP2uRZx8IqXs2cki) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness](https://open.spotify.com/album/4qHmxRDBpZ1JnHfVBsu82F) | 5:20 | 2022-07-13 | 2022-07-30 |

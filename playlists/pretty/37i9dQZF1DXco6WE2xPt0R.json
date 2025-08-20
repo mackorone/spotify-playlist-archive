@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 126589,
+  "num_followers": 126591,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-08-01 19:15:22",
       "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
-    },
-    {
-      "added_at": "2025-08-01 19:15:22",
-      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 229879,
       "name": "Summer in November",
       "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
+    },
+    {
+      "added_at": "2025-08-01 19:15:22",
+      "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
     },
     {
       "added_at": "2025-08-01 19:15:22",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-08-01 19:15:22",
       "album": {
+        "name": "Waiting In Vain (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 252573,
+      "name": "Waiting in Vain - Spotify Singles",
+      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
+    },
+    {
+      "added_at": "2025-08-01 19:15:22",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
-    },
-    {
-      "added_at": "2025-08-01 19:15:22",
-      "album": {
-        "name": "Waiting In Vain (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5zlUBlDmY6dM4XFlZ3SFVs"
-      },
-      "artists": [
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 252573,
-      "name": "Waiting in Vain - Spotify Singles",
-      "url": "https://open.spotify.com/track/5tHipIzrGqcoZ4ovlW1Aip"
     },
     {
       "added_at": "2025-08-01 19:15:22",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-08-01 19:15:22",
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Here I Am",
-      "url": "https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG"
-    },
-    {
-      "added_at": "2025-08-01 19:15:22",
-      "album": {
         "name": "Type Of Day",
         "url": "https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2025-08-01 19:15:22",
       "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 208615,
-      "name": "Stay Down",
-      "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
+      "duration_ms": 173160,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1iNEjh4Lb3zLvUc7MRiZsG"
     },
     {
       "added_at": "2025-08-01 19:15:22",
@@ -1375,6 +1359,22 @@
       "duration_ms": 158249,
       "name": "dumb luck (Live at VEVO)",
       "url": "https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U"
+    },
+    {
+      "added_at": "2025-08-01 19:15:22",
+      "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "duration_ms": 208615,
+      "name": "Stay Down",
+      "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
     },
     {
       "added_at": "2025-08-01 19:15:22",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-08-01 19:15:22",
       "album": {
-        "name": "Imperfections",
-        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
-      },
-      "artists": [
-        {
-          "name": "Sharna Bass",
-          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
-        },
-        {
-          "name": "Arz",
-          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
-        }
-      ],
-      "duration_ms": 110640,
-      "name": "Arz Interlude",
-      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
-    },
-    {
-      "added_at": "2025-08-01 19:15:22",
-      "album": {
         "name": "Where Love Grows",
         "url": "https://open.spotify.com/album/5lzP8FF6iJ02BZbtcZSnki"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 194233,
       "name": "Love Like This (feat. Phonte & Carmen Rodgers)",
       "url": "https://open.spotify.com/track/7mWAiYyAwKuH2rSmMbmtj6"
+    },
+    {
+      "added_at": "2025-08-01 19:15:22",
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/4Ym7k7Y7SsaHe3ZVMGtQxm"
+      },
+      "artists": [
+        {
+          "name": "Sharna Bass",
+          "url": "https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs"
+        },
+        {
+          "name": "Arz",
+          "url": "https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL"
+        }
+      ],
+      "duration_ms": 110640,
+      "name": "Arz Interlude",
+      "url": "https://open.spotify.com/track/3ZaQi25N8wqY9GWpmVsvoQ"
     },
     {
       "added_at": "2025-08-01 19:15:22",

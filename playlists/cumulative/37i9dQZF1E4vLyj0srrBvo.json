@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Labyrinth Ear, Eartheater, Pearly Drops and more",
+  "description": "With Sky Ferreira, Eartheater, Labyrinth Ear and more",
   "name": "Grimes Radio",
   "tracks": [
     {
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 181640,
       "name": "Bang Bang Bang Bang",
       "url": "https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
@@ -6326,7 +6326,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 223026,
       "name": "Circumambient",
       "url": "https://open.spotify.com/track/2yP2fo52aCyQGr8K9QMXiw"
@@ -7248,7 +7248,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0nsIevK1SeDfZzDOi6Si75"
@@ -7946,7 +7946,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "Deceptacon",
       "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
@@ -10194,7 +10194,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 223226,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/5UKj2UGT4AMc1GMLk5S5sw"
@@ -10688,7 +10688,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -10988,7 +10988,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
@@ -13183,6 +13183,24 @@
     },
     {
       "album": {
+        "name": "Hearing Damage",
+        "url": "https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303360,
+      "name": "Hearing Damage",
+      "url": "https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1"
+    },
+    {
+      "album": {
         "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
@@ -13818,7 +13836,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 184132,
       "name": "Hit Me Where It Hurts",
       "url": "https://open.spotify.com/track/2wcrQZ7ZJolYEfIaPP9yL4"
@@ -14774,7 +14792,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 198106,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS"
@@ -15226,7 +15244,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 249208,
       "name": "Illest Alive",
       "url": "https://open.spotify.com/track/6OsAdrgNaI7yeXVccv0Cq3"
@@ -17646,7 +17664,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/3ofiQMPt5OZZTzzsCewZBU"
@@ -17700,7 +17718,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 299960,
       "name": "Little Dark Age",
       "url": "https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM"
@@ -19531,6 +19549,32 @@
     },
     {
       "album": {
+        "name": "Mistress Violet",
+        "url": "https://open.spotify.com/album/2I9s0QQH1dFLYw6F2ohmh2"
+      },
+      "artists": [
+        {
+          "name": "Violet Chachki",
+          "url": "https://open.spotify.com/artist/39MrkAPZRa0GzXX7KaSC3m"
+        },
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        {
+          "name": "Lecomte De Br\u00e9geot",
+          "url": "https://open.spotify.com/artist/0Y3QSSc5Uw3g2ZHPkR2bdA"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216216,
+      "name": "Mistress Violet",
+      "url": "https://open.spotify.com/track/7GCuGDn4lnGyhxmvoda7eV"
+    },
+    {
+      "album": {
         "name": "Mitosis",
         "url": "https://open.spotify.com/album/2CVIaaGDNB8EgWEz239BpP"
       },
@@ -21226,7 +21270,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 199183,
       "name": "Nothing Lasts Forever (with Grimes)",
       "url": "https://open.spotify.com/track/3g2JWlyUpLgwiLRsIKHM8h"
@@ -22032,7 +22076,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 314866,
       "name": "Pagan Poetry",
       "url": "https://open.spotify.com/track/0mc51xomEC6CZUZdB8xgQU"
@@ -22808,7 +22852,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 194080,
       "name": "Pitch the Baby",
       "url": "https://open.spotify.com/track/1DXD0wVXXHwUYo9AXbcMMI"
@@ -23610,7 +23654,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 224343,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
@@ -25798,7 +25842,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
@@ -25990,7 +26034,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 213610,
       "name": "Sheesh (feat. Grimes)",
       "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
@@ -26438,7 +26482,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 194622,
       "name": "Sims 2",
       "url": "https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI"
@@ -26698,7 +26742,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 174760,
       "name": "Sleepyhead",
       "url": "https://open.spotify.com/track/4prEPl61C8qZpeo3IkYSMl"
@@ -31790,7 +31834,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 118853,
       "name": "Visiting Statue",
       "url": "https://open.spotify.com/track/2p8RITtRYMtk3RkpgLYe5M"
@@ -33932,7 +33976,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 146293,
       "name": "\u4eba\u70ba\u6a5f\u5668 (Humans Become Machines)",
       "url": "https://open.spotify.com/track/6J1w3mHuDmRseT5u00hh9h"

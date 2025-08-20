@@ -1,6 +1,6 @@
 {
   "description": "Afrobeats' hottest singles. Cover: D'Banj, DJ Maphorisa, Dj Obi ",
-  "num_followers": 183347,
+  "num_followers": 183424,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 188263,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 219628,
       "name": "MMS",
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0SSa5t24QuJPYXCDCgJadM"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 188263,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/0BzX5iHjzOJw3j9xK4B5pq"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Black Girl Magic",
-      "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
         "name": "Back to Back",
         "url": "https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 146129,
       "name": "Back to Back",
       "url": "https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Black Girl Magic",
+      "url": "https://open.spotify.com/track/6n6J0mZb0ltWlt2AqobHVd"
     },
     {
       "added_at": "2025-08-15 00:01:34",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-08-15 00:01:34",
       "album": {
-        "name": "Free Service",
-        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 156473,
-      "name": "Free Service",
-      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
-    },
-    {
-      "added_at": "2025-08-15 00:01:34",
-      "album": {
         "name": "For Days",
         "url": "https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 207378,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD"
+    },
+    {
+      "added_at": "2025-08-15 00:01:34",
+      "album": {
+        "name": "Free Service",
+        "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 156473,
+      "name": "Free Service",
+      "url": "https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR"
     },
     {
       "added_at": "2025-08-15 00:01:34",

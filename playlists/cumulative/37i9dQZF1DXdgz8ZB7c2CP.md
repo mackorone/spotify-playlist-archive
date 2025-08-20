@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Ninajirachi
 
-1,106 songs - 2 day 12 hr 46 min
+1,107 songs - 2 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/track/3zrX6izmn310lKIUjOG9eL) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [Daybreak \(with Zachary Knowles\)](https://open.spotify.com/album/0LgdvD2Xy58iSm87rEWhBm) | 2:20 | 2023-05-19 | 2023-12-14 |
 | [Daydream](https://open.spotify.com/track/6i4EnLC2vUgww1BotS8xRs) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Daydream](https://open.spotify.com/album/0ynRpNRMKtNtpBy8Ref95Q) | 3:06 | 2021-10-15 | 2023-02-17 |
 | [Decision](https://open.spotify.com/track/2LNS489RB6StbTWZiypZRR) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Decision](https://open.spotify.com/album/40esOd1J7ivHrH0dZ9ubim) | 4:22 | 2023-07-21 | 2023-09-16 |
+| [Deep Down](https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Deep Down](https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw) | 3:05 | 2025-08-15 |  |
 | [deep in the water](https://open.spotify.com/track/155hvjjETZnGJXg187HGXy) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [deep in the water](https://open.spotify.com/album/70GCYDi0vauSbd8AVTHDHI) | 2:16 | 2023-12-08 | 2024-01-27 |
 | [Deep Water \(feat\. EVAN GIIA\)](https://open.spotify.com/track/5wHQcpGwuVdpHFwESBeW2w) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Deep Water \(feat\. EVAN GIIA\)](https://open.spotify.com/album/0cPAAQbvY34RUjf5J0uFec) | 3:03 | 2024-02-16 | 2024-04-16 |
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-06 | 2024-09-20 |
@@ -1096,7 +1097,7 @@
 | [Would I Believe](https://open.spotify.com/track/5J7z4X615BmONq0bRNC0x3) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Would I Believe](https://open.spotify.com/album/0bS7F6oNnt7rMf9S9g3jq4) | 4:24 | 2022-01-21 | 2022-07-25 |
 | [Wrong For Me](https://open.spotify.com/track/1lSDRaA8wcru8fYC8QAMmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Wrong For Me](https://open.spotify.com/album/6kJpok0ZOZ2sMbGUJgOswC) | 3:25 | 2025-02-27 | 2025-04-25 |
 | [XE3 \(Whethan Turn\)](https://open.spotify.com/track/0uUQq7tP8upuBaN6cmQuqx) | [Mssingno](https://open.spotify.com/artist/7iNWihBrDST1H86nEeFY9W), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [XE3 \(Whethan Turn\)](https://open.spotify.com/album/1Zg6vOcUQAZfltTLYhmqpr) | 3:53 | 2025-02-20 | 2025-04-22 |
-| [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 | 2024-09-13 |  |
+| [YA BODY](https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [YA BODY](https://open.spotify.com/album/4wpE3IlFOM1T571dAN94xU) | 3:03 | 2024-09-13 | 2025-08-20 |
 | [Yapa Yapa \(Shut It Pls\)](https://open.spotify.com/track/6j2ahxtJ0tzWX6ElZUGiHj) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp) | [Yapa Yapa \(Shut It Pls\)](https://open.spotify.com/album/3Z9MUVPl8LX8k61pp53zdz) | 1:54 | 2025-03-20 | 2025-06-26 |
 | [Yosemite \- Wilkinson Remix](https://open.spotify.com/track/4jUKR2J4CheTJyaJUMJIaA) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Yosemite \(Wilkinson Remix\)](https://open.spotify.com/album/7gt7cZAXp0bg2dyYkoOPBU) | 4:04 | 2025-04-17 |  |
 | [You](https://open.spotify.com/track/48pPiD01arCZeI8Pehoh3R) | [Third Vibes](https://open.spotify.com/artist/08FHB0pa7F05yP7c7eQp5u) | [You](https://open.spotify.com/album/7Bt2Pr93eamhyHWFMvbmKw) | 2:16 | 2021-08-06 | 2023-02-11 |

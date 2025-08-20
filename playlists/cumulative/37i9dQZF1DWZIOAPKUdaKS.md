@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-816 songs - 1 day 11 hr 21 min
+819 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,6 +514,7 @@
 | [Over The Fields](https://open.spotify.com/track/0t0mP5UyvLADSM7E97iJCl) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Over The Fields](https://open.spotify.com/album/0jClBDY4X9H1YixLl3sbhH) | 2:45 | 2023-12-12 |  |
 | [Overcoming](https://open.spotify.com/track/0vsFwLrazvsKYDalACjCXQ) | [Jean\-Pierre Elman](https://open.spotify.com/artist/70WcF6zocxsqUIuoI4E12E) | [Overcoming](https://open.spotify.com/album/2cekUsqKAoR1DAUqndUHul) | 2:06 | 2021-12-07 | 2022-07-29 |
 | [Overcoming](https://open.spotify.com/track/7xUlSPFsbp0NbH297CenJy) | [Jean\-Pierre Elman](https://open.spotify.com/artist/70WcF6zocxsqUIuoI4E12E) | [Overcoming](https://open.spotify.com/album/6kitpH9oAvToRbzYoOoP8u) | 2:06 | 2022-07-28 | 2022-10-05 |
+| [Pacific Rim](https://open.spotify.com/track/5Le01r2jl0VfV4K9u7e5tB) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Pacific Rim](https://open.spotify.com/album/5mThTCK1I72pdGhXM8V8MB) | 2:34 | 2025-08-19 |  |
 | [Pacífico](https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Pacífico](https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD) | 2:33 | 2024-03-04 |  |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 | 2025-04-10 |
 | [Pagodes](https://open.spotify.com/track/22H0gtWkqkj0ek7CdJ4xu3) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Pagodes](https://open.spotify.com/album/7z3g5mPgsMAJvITOSJdmTd) | 2:02 | 2022-05-20 |  |
@@ -640,6 +641,7 @@
 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 | 2021-12-07 | 2022-08-10 |
 | [Sleepy Meadows](https://open.spotify.com/track/6ZolaAx9dpXGBDlD83TGAT) | [Julia Andersson](https://open.spotify.com/artist/2biLvSI1dr6gdNAZAnq6z2) | [Promise / Sleepy Meadows](https://open.spotify.com/album/6MdzdWtD1WUDDE25TV05w3) | 3:29 | 2021-12-07 | 2022-04-08 |
 | [Slow Fall](https://open.spotify.com/track/0VZ71YhAIA1W3T71DJUi32) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Slow Fall](https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S) | 2:58 | 2024-05-29 |  |
+| [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 | 2025-08-19 |  |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2021-12-07 | 2022-04-21 |
 | [Slow Waltz](https://open.spotify.com/track/2wyIbvTuQfPMbFmRt2qfgG) | [Goetz Oestlind](https://open.spotify.com/artist/2dejdVBnRDOEoLMZ6nQKIj) | [Slow Waltz](https://open.spotify.com/album/11dmrdFJuamnUrGWmYOKMH) | 2:14 | 2022-04-20 | 2022-10-25 |
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-02-15 | 2024-05-23 |
@@ -711,6 +713,7 @@
 | [the time has come](https://open.spotify.com/track/3c0jigaQuhR3R4c6RGX6Ao) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Freedom](https://open.spotify.com/album/7lUBViasfvFfPgJvxTuXnC) | 2:26 | 2021-12-07 | 2022-10-14 |
 | [The Truth](https://open.spotify.com/track/3NPDTMVP9BwvbOQXoGNkV0) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Passageways](https://open.spotify.com/album/557439Fi4P9aWE0MZyy5PV) | 3:27 | 2022-01-04 | 2022-08-10 |
 | [The View 景色](https://open.spotify.com/track/2sdCizizVGvenywdhB3VIx) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [The View 景色](https://open.spotify.com/album/4KkEK1Oxi1nJ8g6bPuFOSp) | 2:55 | 2024-07-15 |  |
+| [The Years Grew Quiet](https://open.spotify.com/track/5TjMmdE5zIWUrFhBqL9Lge) | [Giorgio Rossi](https://open.spotify.com/artist/3RvSlZ7BpKhAGz82LPMBXh) | [The Years Grew Quiet](https://open.spotify.com/album/4UstDcz4qnqpClYifA0YSW) | 2:29 | 2025-08-19 |  |
 | [There and Then](https://open.spotify.com/track/1sF09Ih9eA9R7sIsYRMlqg) | [Yelena Delarosa](https://open.spotify.com/artist/3qTAPQWKzfKcA3LEI21B9e) | [There and Then](https://open.spotify.com/album/1dqZlgnGdPTw0JxSXSUBPF) | 1:57 | 2021-12-07 | 2023-06-21 |
 | [They'll be out for us](https://open.spotify.com/track/1kaj6oW9veB9lAvUuy52TC) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [They'll be out for us](https://open.spotify.com/album/35CFT5d4Vus6953tBe0eYJ) | 2:17 | 2023-03-21 | 2024-12-18 |
 | [Things Untold](https://open.spotify.com/track/7wGZxAnqMmLb7zB2cXcIo3) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Things Untold](https://open.spotify.com/album/2Cc0WE7uCJedRtu9tHVw2t) | 2:06 | 2024-10-01 | 2025-04-02 |

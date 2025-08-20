@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,575 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,618 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 11 | [Ocean Mist](https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE) | [Sol Reya](https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8) | [Ocean Mist](https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY) | 2:31 |
 | 12 | [Aurora](https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Aurora](https://open.spotify.com/album/6YHmqQCu7irYJFGaUSjK3j) | 2:54 |
 | 13 | [Ocean Air](https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS) | [Omiophyllus](https://open.spotify.com/artist/6qgzkp2OY1uBlebnJxfOlx) | [Ocean Air](https://open.spotify.com/album/47JNKaAOWcUKr7FeiJtM1y) | 2:35 |
-| 14 | [Molecular Vibrations](https://open.spotify.com/track/09flvILs00hWOFboghP5H7) | [Earth Tone](https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj) | [Molecular Vibrations](https://open.spotify.com/album/2xeinigzbjt1sSsVG5Yl99) | 2:37 |
+| 14 | [Molecular Vibrations](https://open.spotify.com/track/09flvILs00hWOFboghP5H7) | [Shiro Uin](https://open.spotify.com/artist/3BUfBQyjeoddbtE0h12YS8) | [Molecular Vibrations](https://open.spotify.com/album/2xeinigzbjt1sSsVG5Yl99) | 2:37 |
 | 15 | [Brionglóid \(Sound Bath\)](https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF) | [Tamila Gagan](https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k) | [Brionglóid \(Sound Bath\)](https://open.spotify.com/album/59lt6zR15MfN9LUnMpTD1Y) | 2:45 |
 | 16 | [Arms Reach](https://open.spotify.com/track/4HbSh61MlKqwfp089lUqx1) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Arms Reach](https://open.spotify.com/album/5bUvUBOI9nB7dzOz3PMIQl) | 2:53 |
 | 17 | [In Balance By The Shore](https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [In Balance By The Shore](https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO) | 2:53 |

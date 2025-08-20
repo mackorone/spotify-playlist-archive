@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21594,
+  "num_followers": 21610,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -991,26 +991,6 @@
     {
       "added_at": "2025-08-18 15:06:34",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
-      },
-      "artists": [
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
-        },
-        {
-          "name": "Jay Kay",
-          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
-        }
-      ],
-      "duration_ms": 135693,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
-    },
-    {
-      "added_at": "2025-08-18 15:06:34",
-      "album": {
         "name": "MELHOR FASE",
         "url": "https://open.spotify.com/album/63suSL6QHh6iSDjg3VUFnJ"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 210821,
       "name": "MELHOR FASE",
       "url": "https://open.spotify.com/track/6CdWZLtCtAw45jkTd9P3Gl"
+    },
+    {
+      "added_at": "2025-08-18 15:06:34",
+      "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm"
+      },
+      "artists": [
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Jay Kay",
+          "url": "https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0"
     },
     {
       "added_at": "2025-08-18 15:06:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 249 likes - 704 songs - 1 day 15 hr 59 min
+[thatmooncake](https://open.spotify.com/user/31uxz2oxbogfcep4e6oz3lk7hbnu) - 249 likes - 705 songs - 1 day 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -712,5 +712,6 @@ pretty - [cumulative](/playlists/cumulative/1mA1xzh8OIViazS0AQy5un.md) - [plain]
 | 702 | [What’s Going On?!](https://open.spotify.com/track/5s7nzC5NOwTo61L1NBGH26) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer) | [What’s Going On?!](https://open.spotify.com/album/1wQ7VxnsFQC75cuF3k6VtO) | 4:03 |
 | 703 | [The Main Character](https://open.spotify.com/track/2NHntfUPC17b0nmilAWl87) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | ["In case I make it,"](https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV) | 4:25 |
 | 704 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
+| 705 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
 
-Snapshot ID: `AAAC02Xm4oQca230ATNWOdxm3PFUeQNB`
+Snapshot ID: `AAAC1BAzKfbxAUadLsaUIGyB3Jp1iSSX`

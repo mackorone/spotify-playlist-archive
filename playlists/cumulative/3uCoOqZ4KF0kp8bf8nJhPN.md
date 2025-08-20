@@ -4,7 +4,7 @@
 
 > 
 
-280 songs - 10 hr 57 min
+283 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,9 +258,12 @@
 | [Водка 2](https://open.spotify.com/track/50kfjdmN1bXx0p6KKe02J9) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:48 | 2025-08-15 | 2025-08-16 |
 | [Время](https://open.spotify.com/track/0FG44HPieiwRG8qtXYDj0M) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Двадцать](https://open.spotify.com/album/3VSKRTCBH45QYFW4PEQJf6) | 2:23 | 2025-08-15 |  |
 | [Все это подходит](https://open.spotify.com/track/5F3Cp2dsshuQUFeTN6mJHZ) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [MOSCOW TAPE](https://open.spotify.com/album/50ngi4DeZg3pundpIJIhXt) | 2:44 | 2025-08-12 |  |
+| [Два пива](https://open.spotify.com/track/2ra5h8PS1nH3Bq4FFZ4yuu) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [молодой калуга](https://open.spotify.com/artist/0Tqo0PZewBqEA7VKODeWTF) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 1:57 | 2025-08-19 |  |
 | [Делай](https://open.spotify.com/track/4g00Wv1illOrg0SnmJ22Qz) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:56 | 2025-08-12 |  |
 | [Динамика](https://open.spotify.com/track/2Cxa9RcBGdvVvawCqDXRVb) | [2hug](https://open.spotify.com/artist/5gL5FGeuSIhu0iNFC22UyY) | [Классика Квартала](https://open.spotify.com/album/1DeAs0vBw3ZRrqDkB5Fnt2) | 2:13 | 2025-08-15 |  |
 | [Другой стиль](https://open.spotify.com/track/1wIu4Ou0z7XJcLB0rs3Ufz) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [GROW GUIDE 3](https://open.spotify.com/album/5t7UxmzKETdwSL7hvy5KRu) | 3:10 | 2025-08-09 |  |
+| [Дружба](https://open.spotify.com/track/7FzCYhQtSYCWp7lNClZZOX) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:26 | 2025-08-19 |  |
+| [Дубчик](https://open.spotify.com/track/1uWUG6pioVivZHFDvgR90S) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:03 | 2025-08-19 |  |
 | [Жмурки](https://open.spotify.com/track/3WhjBLDn0rIae7vtTDKpCO) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:07 | 2025-08-09 |  |
 | [Картофель фри](https://open.spotify.com/track/3knvvNaXp6BFQGNeQTcxTl) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 1:34 | 2025-08-13 |  |
 | [Классика](https://open.spotify.com/track/6Rodf9UQBd8qSB5Pjr4eFk) | [Джон Гарик](https://open.spotify.com/artist/0TZRoAaYBvPOmV7oiVz1GZ), [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Классика](https://open.spotify.com/album/02ICez9aq6nCVnoPq5D1XL) | 2:19 | 2025-08-14 |  |

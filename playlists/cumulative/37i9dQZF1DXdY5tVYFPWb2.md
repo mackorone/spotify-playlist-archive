@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-919 songs - 2 day 12 hr 32 min
+920 songs - 2 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [BOOGIE WOOGIE MAINLAND](https://open.spotify.com/track/7rqrslgzRiDYtrDx7em11N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [BOOGIE WOOGIE MAINLAND](https://open.spotify.com/album/2CVKifr1Zri3kN93o3I4or) | 4:32 | 2023-08-23 | 2023-08-30 |
 | [BRAND NEW MEMORY](https://open.spotify.com/track/4GNnCJe90wEbBrGwTAJkhm) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [BRAND NEW MEMORY](https://open.spotify.com/album/6KzMPmEpiXOiTDWrtDencR) | 4:19 | 2023-04-04 | 2023-11-18 |
 | [Brand New World](https://open.spotify.com/track/7M1nS90qYk8A3J1e9mJz9x) | [FANCYLABO](https://open.spotify.com/artist/34MPZmd0trUjRPtfDVUrwo), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Aoi Yagawa](https://open.spotify.com/artist/7w3N4hKPh9CssP6wIKDaww), [Miori Ichikawa](https://open.spotify.com/artist/47FeV9K8iEFuZTUwneophb) | [Brand New World](https://open.spotify.com/album/0RAPOQ0Hojp8W8ZZ6KACSP) | 3:06 | 2023-11-10 | 2023-12-14 |
-| [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 | 2022-09-20 |  |
+| [Call me back](https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [Call me back](https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi) | 3:45 | 2022-09-20 | 2025-08-20 |
 | [Call out](https://open.spotify.com/track/3eaoxObc2n7viuxcL6fogs) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [Spectre](https://open.spotify.com/album/2JlUMeJnyFR4vBO8wkbV8b) | 4:54 | 2023-05-23 | 2023-06-27 |
 | [candy](https://open.spotify.com/track/2UGlEEIp5JTjwfmLX4RFhj) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [candy](https://open.spotify.com/album/71kjYyNCa7sIffRTOrIDtZ) | 3:10 | 2023-07-11 | 2023-09-15 |
 | [CANDY MOON](https://open.spotify.com/track/2zqbFeCXeON4VggxeAatGd) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj) | [New Beautiful](https://open.spotify.com/album/4BFKguk68XmcaazFf6GU9S) | 3:51 | 2022-05-24 | 2022-07-26 |
@@ -720,6 +720,7 @@
 | [スーパー・ジェネレイション](https://open.spotify.com/track/7yizzYHoFDvCfAMmvqezUk) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [スーパー・ジェネレイション](https://open.spotify.com/album/3OpqupY7TONXTFevfEa4nZ) | 5:18 | 2024-04-02 | 2024-07-31 |
 | [ズラかれ](https://open.spotify.com/track/2ojNegUZsjmLDC4g4TG3tv) | [Akabane New Romantica](https://open.spotify.com/artist/0dtId6LlA1ZzD8PcoZaRVi) | [City Poop](https://open.spotify.com/album/7tOhv2taU7PYphcUWE5kuO) | 3:04 | 2022-05-24 | 2022-07-28 |
 | [ソーダポップ](https://open.spotify.com/track/7JyF36LuFCh0xDyZEVbuY9) | [トナリノサティ](https://open.spotify.com/artist/6hLQxYUIxrMWCkCUVB0P18) | [ソーダポップ](https://open.spotify.com/album/2ogIHpYUWjpnvzMvjxqOJG) | 2:55 | 2022-07-12 | 2022-07-20 |
+| [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 | 2025-08-19 |  |
 | [タイム・トラベラー](https://open.spotify.com/track/5nDuWO51rojlQQFC8oUwwt) | [RYUSENKEI](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [イリュージョン](https://open.spotify.com/album/2jCFAfhBQw262nqznoDUkL) | 5:42 | 2024-07-24 | 2024-09-18 |
 | [ターミナル](https://open.spotify.com/track/1FQzvs6ghpgubJjKdpzglH) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [ターミナル](https://open.spotify.com/album/7n4LWrlV65FkAX8rAqfhfn) | 3:59 | 2022-09-27 | 2022-09-29 |
 | [ダロウ](https://open.spotify.com/track/16B2RmB3Zrle55oDMIeAtG) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [CAN](https://open.spotify.com/album/6NCNTq6njeQ9mkk091oSx8) | 3:11 | 2023-06-27 | 2023-07-05 |

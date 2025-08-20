@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,114 songs - 2 day 20 hr 30 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,116 songs - 2 day 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1122,5 +1122,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1112 | [TOUCH THE SKY](https://open.spotify.com/track/3kJptBOmtHgfHkAJstQSV7) | [ihatetyler](https://open.spotify.com/artist/7aTM8FvaprJdB9kd5atcUI) | [VANISHER \(The Lost Tapes\)](https://open.spotify.com/album/3OOJWCsqkuGohtYAj8WI7D) | 2:30 |
 | 1113 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 |
 | 1114 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
+| 1115 | [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 |
+| 1116 | [Sunflower \- Live at Radio City Music Hall](https://open.spotify.com/track/3xz5n1xyi3DOMIb8vodsZm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Live at Radio City Music Hall](https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz) | 6:24 |
 
-Snapshot ID: `AAAJQlIFxIXNoBBBc0yM2uvNzkYgPxgb`
+Snapshot ID: `AAAJRJLod4lAKz9UI2SoQSQf5PDALDTc`

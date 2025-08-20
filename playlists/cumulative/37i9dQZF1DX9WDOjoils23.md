@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-98 songs - 12 hr 0 min
+99 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 | 2025-02-01 |  |
 | [Ruttan Aaiyan Mera Yaar Ni Aaya](https://open.spotify.com/track/4RhgKAdnUhQUL8QlzJMQWy) | [Ustad Hussain Baksh Gullo](https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn) | [Abr Barsa Na Hawa Tez Chali](https://open.spotify.com/album/7m7GoFsaFxblSjZ2tFcZ7d) | 6:10 | 2023-02-15 | 2024-04-19 |
 | [Ruttan Aaiyan Mera Yaar Ni Aaya](https://open.spotify.com/track/4MiqW92WfkDrdt9LMUZfs2) | [Ustad Hussain Baksh Gullo](https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn) | [Abr Barsa Na Hawa Tez Chali](https://open.spotify.com/album/3k8WvVxXyqRbDfXLSqhehY) | 6:11 | 2023-12-18 | 2025-03-01 |
-| [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 | 2025-02-01 |  |
+| [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 | 2025-02-01 | 2025-08-20 |
 | [Sanun Nahar Wale Pul](https://open.spotify.com/track/5Va8mH395NByfbTPyp2h1q) | [Noor Jehan](https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh) | [Meri Pasand](https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76) | 4:16 | 2024-04-24 | 2025-05-14 |
+| [Saugaat \- From Travel Diaries Vol III](https://open.spotify.com/track/7yDUkSB556mIA5tYlxKngO) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Saugaat \(From Travel Diaries Vol III\)](https://open.spotify.com/album/3jHD1uvDbwlRIcSwX4SOcD) | 6:16 | 2025-08-19 |  |
 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6M4o88XTUa3RxrB4TcN1Gt) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal Modern Punjabi Poerty](https://open.spotify.com/album/4lNGQs8i9dFA2Aso4NZ5cp) | 6:54 | 2023-12-18 |  |
 | [Sayio Nee Dhal Challian Pippal Dian Chanwan Poetry](https://open.spotify.com/track/6MUNQc53iyfVfRx0gQcf8W) | [Dilraj Kaur](https://open.spotify.com/artist/7CyTpH4bv3zB2M6CqYMv3Z) | [Ichhabal \- Modern Punjabi Poerty](https://open.spotify.com/album/5186Cx4izgBvxEsOIz1dxY) | 6:54 | 2023-02-15 | 2024-04-19 |
 | [Sohnia Mukh Tera Sajri Saver Ay](https://open.spotify.com/track/3udQzZUrapNiMW9Ajy2G1v) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 10:24 | 2023-02-15 | 2025-07-01 |

@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-866 songs - 1 day 13 hr 12 min
+869 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,6 +450,7 @@
 | [Little Boy](https://open.spotify.com/track/5vl7yLTgL1cpEmUqtMhk9n) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Little Boy](https://open.spotify.com/album/70GsT9wbvO2cUu0lhKnuvQ) | 2:35 | 2021-12-13 | 2022-03-18 |
 | [Little Prince](https://open.spotify.com/track/175xBbzJoYRG4UTg1rzHo6) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Little Prince](https://open.spotify.com/album/2C2ZSqbsCYG9Ie5TAo2VPS) | 2:14 | 2021-12-13 | 2022-05-27 |
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-05-09 |  |
+| [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-19 |  |
 | [Lost at Sea](https://open.spotify.com/track/0OQWq6Sgbn0L59KfhVYxBT) | [Alcon Blue](https://open.spotify.com/artist/4BathNj58pS2EbPPlASeYX) | [Lost at Sea](https://open.spotify.com/album/2q8kS6jiETavV5psaO4DAP) | 2:40 | 2023-01-09 | 2024-01-03 |
 | [Lost in a Dream](https://open.spotify.com/track/3n4WSQV9xopZy4wamL2tKL) | [Sophie Ronstadt](https://open.spotify.com/artist/3vXkoxi4Fo3dhKEy1Wxa8V) | [Lost in a Dream](https://open.spotify.com/album/5ZIgYon1ibEQwYlTyQyKTz) | 2:21 | 2021-12-13 | 2022-09-13 |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-02-02 | 2023-11-21 |
@@ -687,6 +688,7 @@
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-13 | 2022-10-25 |
 | [Solace](https://open.spotify.com/track/0y4oznUeCBGiTZou3hmimL) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Solace](https://open.spotify.com/album/1PKrrLeulHP3htvBJH5WDF) | 2:09 | 2024-04-15 |  |
 | [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 | 2025-08-11 |  |
+| [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 | 2025-08-19 |  |
 | [Solitudine](https://open.spotify.com/track/6YAlzxrja9WNcYHBukp1ZM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Solitudine](https://open.spotify.com/album/613rQEf20H9ku0bsP2zFjs) | 2:37 | 2021-12-13 | 2022-11-12 |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-03 |  |
 | [Sommersturm \- Solo Piano](https://open.spotify.com/track/4lVmCosrwdhCJPhXyqs0do) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Sommersturm](https://open.spotify.com/album/5MoRUWekh0EO4FOurmyDCE) | 2:39 | 2021-12-13 | 2022-10-25 |
@@ -717,6 +719,7 @@
 | [Subitum](https://open.spotify.com/track/4MiTIkXSAqWTkZlUvA5QJ2) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Subitum](https://open.spotify.com/album/1DErexZVlUw9bBneZGEJUO) | 2:47 | 2021-12-13 | 2023-05-20 |
 | [Sui](https://open.spotify.com/track/3CNyikzIjzTLdcMSriulrg) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sui](https://open.spotify.com/album/1pxpKat9HD0bN45GWhgKSZ) | 2:34 | 2021-12-13 | 2022-07-22 |
 | [Suki Desu](https://open.spotify.com/track/7geHCfvKGWHQ9d24S2a2aa) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Sakura](https://open.spotify.com/album/2BarWHunh4UHpIHvj1Xoka) | 2:16 | 2021-12-13 | 2022-10-25 |
+| [Summer Dream](https://open.spotify.com/track/010G1VMphoKTZPrDRYAJDY) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Summer Dream](https://open.spotify.com/album/43DI5lCugo6Meef3a9Qr69) | 2:55 | 2025-08-19 |  |
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-17 | 2022-11-22 |
 | [Summer Rain](https://open.spotify.com/track/65bAHScaQVFYqTJHbYSemu) | [Clara Cummins](https://open.spotify.com/artist/7BkqDUSYVXw22jeAJ1ImrJ) | [Summer Rain](https://open.spotify.com/album/3wRVob1I0atdY4G78lYNFC) | 2:32 | 2025-08-11 |  |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2021-12-13 | 2022-02-16 |

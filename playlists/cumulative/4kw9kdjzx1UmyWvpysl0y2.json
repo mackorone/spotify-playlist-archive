@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "A Flicker of Hope",
+        "url": "https://open.spotify.com/album/3k9fpNCXZDPfNJXFsY1qVL"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "A Flicker of Hope",
+      "url": "https://open.spotify.com/track/23Lq2x9AhuEt3nKhFWJlh2"
+    },
+    {
+      "album": {
         "name": "A Game Of Fairies",
         "url": "https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk"
       },
@@ -544,7 +562,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 168000,
       "name": "Adore",
       "url": "https://open.spotify.com/track/1vukPZMZWg6BcdT3xShfmY"
@@ -738,7 +756,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 145655,
       "name": "AHORA",
       "url": "https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL"

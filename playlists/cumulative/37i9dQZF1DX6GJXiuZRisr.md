@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-610 songs - 1 day 18 hr 17 min
+611 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Change](https://open.spotify.com/track/5UjOTMEtd4vqSLXxyO71Yb) | [Henrik Villard](https://open.spotify.com/artist/6nEESP4x7kZ1zQGSaQ33TG) | [Change](https://open.spotify.com/album/3AEd6QqRYFC4Jcw74u2kcg) | 6:32 | 2021-05-07 | 2022-04-20 |
 | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/track/1ABmhkPKvCoVSNh5NJYScq) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/album/7jPy3P2O7RA3VCBNtqzJS8) | 4:00 | 2022-02-04 | 2022-07-29 |
 | [Change Your Mind](https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk) | [Giorgio Gee](https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R) | [Change Your Mind](https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR) | 2:40 | 2022-07-01 | 2023-05-16 |
-| [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-03-07 |  |
+| [Cheating Heart](https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Monophase \(IT\)](https://open.spotify.com/artist/2zOPWsVJRlO1narDOJ8z9Z), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Cheating Heart](https://open.spotify.com/album/271Fs3TKtlAL9d7H5OMrtn) | 3:40 | 2025-03-07 | 2025-08-20 |
 | [Chemical](https://open.spotify.com/track/5w7oiZLuf3fFilWEnp9pqo) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Chemical](https://open.spotify.com/album/2sZjKwUAJzBIO89XANMon8) | 3:35 | 2021-10-08 | 2022-07-29 |
 | [Children](https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR) | 4:05 | 2022-07-01 | 2024-04-19 |
 | [Children \- Edit Mix](https://open.spotify.com/track/0pJDnLRe38vYS1zAhpsESV) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y) | 4:05 | 2021-05-07 |  |
@@ -324,6 +324,7 @@
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |
 | [Made Of Gold](https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Made Of Gold](https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7) | 3:18 | 2023-04-09 | 2024-10-05 |
+| [Make Believe](https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Make Believe](https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv) | 5:05 | 2025-08-15 |  |
 | [Make This Last](https://open.spotify.com/track/04opOX2Aa6K5b137Mag3LK) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Make This Last](https://open.spotify.com/album/0JYTYKa3PepCIywcV2ha8S) | 3:39 | 2021-05-07 | 2022-04-19 |
 | [Manta](https://open.spotify.com/track/0uXlFJxr5zDnoLql7DELIm) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Manta](https://open.spotify.com/album/26PV47U9aFqbYOkcsUUcq5) | 4:07 | 2025-04-25 |  |
 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 | 2021-05-07 | 2022-04-18 |

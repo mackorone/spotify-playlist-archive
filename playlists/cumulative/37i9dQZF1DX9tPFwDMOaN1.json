@@ -2897,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/4q6x6Myi5QRSiUL9FnueIv"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/3O7O66Z1EMSHdivQ92XUfx"
+    },
+    {
+      "album": {
         "name": "Doctor! Doctor!",
         "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
       },
@@ -4680,7 +4698,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 154386,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/6d8DgvFxp6lbdfOw9BVkLS"
@@ -7116,6 +7134,24 @@
       "duration_ms": 199066,
       "name": "Love Shhh!",
       "url": "https://open.spotify.com/track/00vy9aiFjxMfnKniQAYzrC"
+    },
+    {
+      "album": {
+        "name": "From JOY, with Love - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Love Splash!",
+      "url": "https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY"
     },
     {
       "album": {
@@ -12006,7 +12042,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 186026,
       "name": "Touch",
       "url": "https://open.spotify.com/track/0QUDmGJaoWf97QIMTG8Lnn"

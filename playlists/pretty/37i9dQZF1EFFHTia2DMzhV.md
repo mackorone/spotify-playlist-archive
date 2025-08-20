@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 525 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 68 | [Lonely Room](https://open.spotify.com/track/5vtzs0BHkPsNSkVMtuOWm9) | [Patrick Vaill](https://open.spotify.com/artist/1cWKS6fpFeWUjlskPfZm1x) | [Oklahoma! \(2019 Broadway Cast Recording\)](https://open.spotify.com/album/3JctweW8WZzHbU8gw0J8NP) | 2:56 |
 | 69 | [My Lord And Master](https://open.spotify.com/track/2WIdd3pjdZ8wwGghGIZtPJ) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 2:11 |
 | 70 | [Shall I Tell You What I Think Of You](https://open.spotify.com/track/260zXOAiMXBR5annwDYRZS) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 4:40 |
-| 71 | [The Desert Song](https://open.spotify.com/track/2LoxwD3OEs3EIyMbdzh2A6) | [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [All\-American Showcase](https://open.spotify.com/album/4vlqZJjIY05FIq4KQNbPcF) | 3:20 |
-| 72 | [When The Children Are Asleep](https://open.spotify.com/track/79Suj4FDZjynTAxZy7BP83) | [Alexander Gemignani](https://open.spotify.com/artist/5rXsEGRJkz8Pxz4iZnOPHl), [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 4:54 |
+| 71 | [When The Children Are Asleep](https://open.spotify.com/track/79Suj4FDZjynTAxZy7BP83) | [Alexander Gemignani](https://open.spotify.com/artist/5rXsEGRJkz8Pxz4iZnOPHl), [Lindsay Mendez](https://open.spotify.com/artist/57G7MG8kyc16ncjh62gqO2) | [Rodgers & Hammerstein's Carousel \(2018 Broadway Cast Recording\)](https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG) | 4:54 |
+| 72 | [The Desert Song](https://open.spotify.com/track/2LoxwD3OEs3EIyMbdzh2A6) | [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [All\-American Showcase](https://open.spotify.com/album/4vlqZJjIY05FIq4KQNbPcF) | 3:20 |
 | 73 | [One Alone](https://open.spotify.com/track/52knbM8s3iy9rYIFiMLvsk) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Diz And Getz](https://open.spotify.com/album/7KA8kHUpFAYiplsWXcrMrl) | 3:04 |
 | 74 | [State Fair 1945: It's A Grand Night For Singing](https://open.spotify.com/track/6q5UOPPx7LqyXxv5Q8kBES) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Oscar Hammerstein II](https://open.spotify.com/artist/1DsYsmAtNbrMkoyrIXP6HU) | [State Fair \(Original Motion Picture Soundtracks 1945 & 1962\)](https://open.spotify.com/album/4ujwry5njx0K4xKFF220UR) | 3:38 |
 | 75 | [Overture](https://open.spotify.com/track/1i18hbOqXKuPOxuikEFwKG) | [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:13 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `Ab53MgAAAADjdNtQCpNQIVCWiS7gV4Tr`
+Snapshot ID: `Ab58tAAAAADdmEcZHHSVVntsNZcts/rA`

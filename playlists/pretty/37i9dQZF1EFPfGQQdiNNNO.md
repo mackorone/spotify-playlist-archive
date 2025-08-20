@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPfGQQdiNNNO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6jCxdxp9ZKUXa9kaAVlnx4">Jake Kosich \(of Beach Noise\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412 likes - 19 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 19 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPfGQQdiNNNO.md) - [plain]
 | 18 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 | 19 | [Happy Head](https://open.spotify.com/track/7EzefciQSXjQdWQH58cv5l) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Paradise Now](https://open.spotify.com/album/4sYJgySdNNgZxlOkog89xv) | 3:06 |
 
-Snapshot ID: `Ab53FAAAAAAkCVNkn1osaOIg4FKzJk2d`
+Snapshot ID: `Ab58oAAAAAB6CptehFwAGLIulmKE5cEc`

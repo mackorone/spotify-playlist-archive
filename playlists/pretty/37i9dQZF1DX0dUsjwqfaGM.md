@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,082 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,084 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 3 | [tâm trí lang thang](https://open.spotify.com/track/3W77mLoXjQEkNjxvYRifjG) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [tâm trí lang thang](https://open.spotify.com/album/46Lf1gPNwYWk9eLS0vtzrc) | 3:57 |
 | 4 | [Girl Hà Nội](https://open.spotify.com/track/3nOQ8LlNDS2U9vohMlBWJq) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [Lu](https://open.spotify.com/artist/0QRUD41ltP8vhaAIxMZb2H), [Rem](https://open.spotify.com/artist/1njilcHXinpoFdb02K4sK2) | [Girl Hà Nội](https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9) | 3:54 |
 | 5 | [Da Key](https://open.spotify.com/track/1w1zYOYYyX45UMnn0LMHdI) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 2:58 |
-| 6 | [MD Anniversary](https://open.spotify.com/track/69GP0uR8ps0MAyWRvlCKSw) | [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [MD Anniversary](https://open.spotify.com/album/6DGdufufGeh0Hw6ZTX9or8) | 2:20 |
-| 7 | [Thành phố phía Đông](https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:42 |
+| 6 | [Thành phố phía Đông](https://open.spotify.com/track/23v3rSWUt4YqbyH8BHoYWs) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:42 |
+| 7 | [MD Anniversary](https://open.spotify.com/track/69GP0uR8ps0MAyWRvlCKSw) | [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi) | [MD Anniversary](https://open.spotify.com/album/6DGdufufGeh0Hw6ZTX9or8) | 2:20 |
 | 8 | [USO](https://open.spotify.com/track/2qhK89eyBbw7Xb1nZOMLh7) | [Ánh Sáng AZA](https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc) | [AZA](https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22) | 3:29 |
 | 9 | [Vui Đét](https://open.spotify.com/track/5e1kUuII1bqgwu8fjuFNxE) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [Duy B](https://open.spotify.com/artist/5PMctPa8RxN3yzRVm93SI0), [Trix](https://open.spotify.com/artist/6n5eDbbT3ErAGFipwc9DEg) | [Vui Đét](https://open.spotify.com/album/6UmKSgtvHaQ62A2LHDQyuB) | 3:12 |
 | 10 | [Gentle Bad](https://open.spotify.com/track/2P7pzfouGemFllA5fYzNug) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:56 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 43 | [Bạch Nguyệt Quang](https://open.spotify.com/track/5eR0WC8y4VLeRQouyV0tIW) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:05 |
 | 44 | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD) | 3:30 |
 | 45 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 18\)](https://open.spotify.com/album/4CgePAYAxf7QmlJqPS5kor) | 4:07 |
-| 46 | [mơ](https://open.spotify.com/track/7egXRAL5jmZMWcgu0OqzuQ) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [mơ](https://open.spotify.com/album/5uuAgeZeoZmEIYxg6LTvZM) | 3:10 |
+| 46 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 |
 | 47 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
 | 48 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |
 | 49 | [Gentle Bad \- Special Acoustic Version](https://open.spotify.com/track/7eH52MOG0HpwIQBbtlveuU) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad \(Special Acoustic Version\)](https://open.spotify.com/album/3VyRzYzL0tmMIiXYqo9UQI) | 3:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Andi Bernadee, Conan Gray, Cardi B, 3P, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,532 likes - 116 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,530 likes - 116 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 60 | [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 |
 | 61 | [內心有一把聲音](https://open.spotify.com/track/1Fd95Ud11xyxXI1C2ER2on) | [Ah5ive the Band](https://open.spotify.com/artist/7xeAey43hE64qU2CaN759N) | [內心有一把聲音](https://open.spotify.com/album/5ltdirAiuhR8nSLFq19aCR) | 5:09 |
 | 62 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康钧](https://open.spotify.com/artist/6nm407v04NzMuUrci7SxNP) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
-| 63 | [B.B.B \(Bigger Badder Better\) \[feat\. A2O LTG\] \- English Ver.](https://open.spotify.com/track/24rLULwo5TRiAe2V52Nbbz) | [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LTG](https://open.spotify.com/artist/6u0Rehsl6UHQuMQ4vIrgQR) | [B.B.B \(Bigger Badder Better\) \[feat\. A2O LTG\]](https://open.spotify.com/album/6OzSZeYhglVjyMKg7vkSnl) | 3:36 |
+| 63 | [B.B.B \(Bigger Badder Better\) \[feat\. A2O LTG\] \- English Ver.](https://open.spotify.com/track/24rLULwo5TRiAe2V52Nbbz) | [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LTG](https://open.spotify.com/artist/0plV4NwVqqGMx8BVwjL5D1) | [B.B.B \(Bigger Badder Better\) \(feat\. A2O LTG\)](https://open.spotify.com/album/6OzSZeYhglVjyMKg7vkSnl) | 3:36 |
 | 64 | [Good for U](https://open.spotify.com/track/6dNQcfj7hMPUKL7i5hSVK4) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Good for U](https://open.spotify.com/album/3bet0Hx67bSeEbp2oDnCT8) | 3:24 |
 | 65 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
 | 66 | [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 |

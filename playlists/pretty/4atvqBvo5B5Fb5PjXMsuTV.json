@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Aug 18:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Aug 03:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUDaKtcRTPMTviuJ7uahOlp0ELJcfP",
+  "snapshot_id": "AAAUEa+fNIfo+Vpk9AqXuu0fA44lHBWd",
   "tracks": [
+    {
+      "added_at": "2025-08-20 03:04:04",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/4RTq2z9SyBswjkAl6EgNsU"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 110173,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0qJSQOkbXfEKil9AjcLWxZ"
+    },
+    {
+      "added_at": "2025-08-20 03:04:04",
+      "album": {
+        "name": "Fort Knox",
+        "url": "https://open.spotify.com/album/7rNO8fROL7jP9VA4plXlHG"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 198757,
+      "name": "Fort Knox",
+      "url": "https://open.spotify.com/track/6y0anhNk6EoCFsCeiCFGwm"
+    },
     {
       "added_at": "2025-08-18 18:04:28",
       "album": {
@@ -55,6 +87,22 @@
       "duration_ms": 173856,
       "name": "DARK AURA",
       "url": "https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs"
+    },
+    {
+      "added_at": "2025-08-19 18:04:26",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb"
     },
     {
       "added_at": "2025-08-15 13:03:53",
@@ -433,6 +481,22 @@
       "url": "https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56"
     },
     {
+      "added_at": "2025-08-20 03:04:04",
+      "album": {
+        "name": "Lesbian Of The Year",
+        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 213824,
+      "name": "Lesbian Of The Year",
+      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
+    },
+    {
       "added_at": "2025-08-14 13:08:12",
       "album": {
         "name": "Forever War",
@@ -775,70 +839,6 @@
       "duration_ms": 194361,
       "name": "Remember, There's Always a Tomorrow",
       "url": "https://open.spotify.com/track/0PiN9eFw4GJ4k4E8ZI911P"
-    },
-    {
-      "added_at": "2025-08-11 18:05:29",
-      "album": {
-        "name": "Topping",
-        "url": "https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "Topping",
-      "url": "https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y"
-    },
-    {
-      "added_at": "2025-08-14 08:07:59",
-      "album": {
-        "name": "Diet Pepsi (Live from 2025 Las Culturistas Culture Awards)",
-        "url": "https://open.spotify.com/album/6lZqIyM1KoSFp9OH6AAkTq"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 194083,
-      "name": "Diet Pepsi - Live from 2025 Las Culturistas Culture Awards",
-      "url": "https://open.spotify.com/track/2LtosLi7dutfc3ZxFBEdAL"
-    },
-    {
-      "added_at": "2025-08-09 03:04:15",
-      "album": {
-        "name": "Specter",
-        "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 274408,
-      "name": "Specter",
-      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
-    },
-    {
-      "added_at": "2025-08-09 18:04:37",
-      "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/6VGug7OxdoXbwLE0Y7IUZZ"
-      },
-      "artists": [
-        {
-          "name": "TURQUOISEDEATH",
-          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
-        }
-      ],
-      "duration_ms": 462187,
-      "name": "Feel Again",
-      "url": "https://open.spotify.com/track/6ImYUu32noNZlEOBjRqFDV"
     }
   ],
   "unique_name": "New Singles Now",

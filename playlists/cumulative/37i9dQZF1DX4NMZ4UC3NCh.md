@@ -4,7 +4,7 @@
 
 > Happiness! This is Red Velvet!
 
-160 songs - 9 hr 17 min
+161 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Look](https://open.spotify.com/track/48Nd8rdc0WVG4rHTd76Mh6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Perfect Velvet \- The 2nd Album](https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH) | 4:05 | 2022-03-22 |  |
 | [Love Arcade](https://open.spotify.com/track/10BVwlzgtLNDE7mE8frtmd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Cosmic](https://open.spotify.com/album/5E8apoFsaUFhZxGGSju6aW) | 2:56 | 2024-06-24 |  |
 | [Love Is The Way](https://open.spotify.com/track/12okmCNziVZkDIcEOx0SD9) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:31 | 2022-03-22 |  |
+| [Love Splash!](https://open.spotify.com/track/39uQz3OxvafRdfwmcIelAY) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [From JOY, with Love \- The 1st Mini Album](https://open.spotify.com/album/4Q7CuacC5KIxOaeStpiGDV) | 3:09 | 2025-08-19 |  |
 | [LP](https://open.spotify.com/track/7gs7h249FMYC3U02BimoD6) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival’ Finale](https://open.spotify.com/album/3rVtm00UfbuzWOewdm4iYM) | 3:27 | 2022-03-22 |  |
 | [Lucky Girl](https://open.spotify.com/track/22v5j98MRwc6p5KgwHvpBZ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:23 | 2022-03-22 | 2024-04-19 |
 | [Lucky Girl](https://open.spotify.com/track/33WQq0E3ya1lEaag30ohq4) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/2pBrB5hW9CjLWWZGqrET2g) | 3:23 | 2022-03-22 |  |

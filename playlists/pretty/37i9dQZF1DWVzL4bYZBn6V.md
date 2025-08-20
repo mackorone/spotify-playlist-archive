@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,341 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,366 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 28 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 |
 | 29 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
 | 30 | [Pink](https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Pink](https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR) | 2:40 |
-| 31 | [Where Do We Go?](https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Leo The Lion](https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL) | [Where Do We Go?](https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE) | 3:14 |
-| 32 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
+| 31 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
+| 32 | [Where Do We Go?](https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Leo The Lion](https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL) | [Where Do We Go?](https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE) | 3:14 |
 | 33 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |
 | 34 | [Bailalo \- Radio Edit](https://open.spotify.com/track/6rzG1q2gQ4kUtK1OUT4sIY) | [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec), [Styline](https://open.spotify.com/artist/0DfXOhUve7dNuy34H95vqS) | [Bailalo \(Radio Edit\)](https://open.spotify.com/album/5pgbDyU2hrE9eX01HGKUNj) | 3:01 |
 | 35 | [Won’t Give Up](https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Won't Give Up](https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1) | 3:02 |

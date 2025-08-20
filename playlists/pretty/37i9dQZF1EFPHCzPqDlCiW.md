@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 151 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 239 likes - 151 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 55 | [Only Ticket Home](https://open.spotify.com/track/3xBFofaAqfwaaSu4RHzcuu) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:14 |
 | 56 | [Signals \- Live At St Pancras Old Church](https://open.spotify.com/track/5WTWrbK15e3zJa61LjYH0i) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Live At St Pancras Old Church](https://open.spotify.com/album/3QwlRqRlEvJnEcKNWTuuN1) | 3:57 |
 | 57 | [Hideaway](https://open.spotify.com/track/6J7trSlbpRHY2JbvxnYiCN) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:16 |
-| 58 | [Beautiful](https://open.spotify.com/track/0HnbZP4HYWkf1tk1HzDhk8) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/79GSUDh5hTzNF61UNETYdG) | 4:22 |
-| 59 | [Loved Somebody Else](https://open.spotify.com/track/03S5dBXGXyS8S9fyLNRS2P) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:12 |
+| 58 | [Loved Somebody Else](https://open.spotify.com/track/03S5dBXGXyS8S9fyLNRS2P) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:12 |
+| 59 | [Beautiful](https://open.spotify.com/track/0HnbZP4HYWkf1tk1HzDhk8) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [The Ride](https://open.spotify.com/album/79GSUDh5hTzNF61UNETYdG) | 4:22 |
 | 60 | [High Hopes](https://open.spotify.com/track/2QzlUwDods1IHQF3UyYAAO) | [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [High Hopes](https://open.spotify.com/album/3dXia3q3srWDlY9P3rTGdq) | 2:58 |
 | 61 | [Temporary](https://open.spotify.com/track/350Y0f1QT40SQPyolTu0hH) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Temporary](https://open.spotify.com/album/5ut9OrzYisjyf7bIFbKCF4) | 3:10 |
 | 62 | [Out My Mind \(Radio Edit\)](https://open.spotify.com/track/70p6I136qdvKKQExxwfuHO) | [Kayper](https://open.spotify.com/artist/7eX82EeZz6qIASWIsheMlv) | [Out My Mind \(Radio Edit\)](https://open.spotify.com/album/5fp53L7e6svWWHj6Mqxi1z) | 3:36 |
@@ -149,9 +149,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 139 | [Tightrope](https://open.spotify.com/track/3PpqMt1if7lsZQTut0ZTs2) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:26 |
 | 140 | [Rectify](https://open.spotify.com/track/4R92vwddgoPdxQoO5D4tqs) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 2:48 |
 | 141 | [Crystal Eyes](https://open.spotify.com/track/1KdzQykEwm0cPDzn7zwElT) | [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Crystal Eyes](https://open.spotify.com/album/6VVyTq85wDqNEjoKRD3KRE) | 3:18 |
-| 142 | [Taboo](https://open.spotify.com/track/0LKALGlOvOau898oFGfEMu) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Red](https://open.spotify.com/album/5hmhIJQOtTfAncnrg6lZv3) | 3:44 |
-| 143 | [Cold World \(feat\. London Community Gospel Choir\)](https://open.spotify.com/track/3equAC7RDftpvGFp9p0Bm6) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:51 |
-| 144 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |
+| 142 | [All Yours Again](https://open.spotify.com/track/3x3diAZ3AuNCyPnmwxKmQN) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 2:47 |
+| 143 | [Taboo](https://open.spotify.com/track/0LKALGlOvOau898oFGfEMu) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Red](https://open.spotify.com/album/5hmhIJQOtTfAncnrg6lZv3) | 3:44 |
+| 144 | [Cold World \(feat\. London Community Gospel Choir\)](https://open.spotify.com/track/3equAC7RDftpvGFp9p0Bm6) | [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [The Fifth Chapter](https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC) | 2:51 |
 | 145 | [Before You Let Me Down](https://open.spotify.com/track/778HnQTXflDcZVMWnCwrIf) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Before You Let Me Down](https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA) | 3:03 |
 | 146 | [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 |
 | 147 | [Enlightened](https://open.spotify.com/track/2gHOYkfncsID7v89HU7wpc) | [Mark McCabe](https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn) | [Enlightened](https://open.spotify.com/album/2wrvR3grhGvyoywz20XRmC) | 3:08 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 150 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 151 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Ab53HgAAAADbsWXHUezUE0nZCgWWH6Is`
+Snapshot ID: `Ab58tAAAAADaZneJ6VIHXGZ2syFwypb3`

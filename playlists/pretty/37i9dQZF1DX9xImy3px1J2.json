@@ -1,12 +1,12 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 339356,
+  "num_followers": 339391,
   "original_name": "Party 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACa8eXspZid9BSd84tojEd+HysBe",
+  "snapshot_id": "AAAAAHiMLMwLFXeqy7Eerg2M930JBpIz",
   "tracks": [
     {
       "added_at": "2025-08-05 08:16:07",
@@ -759,6 +759,30 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "added_at": "2025-08-05 08:16:07",
+      "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2025-08-05 08:16:07",
-      "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2025-08-05 08:16:07",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
-        "name": "Famax",
-        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
-      },
-      "artists": [
-        {
-          "name": "RAFFA GUIDO",
-          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
-        }
-      ],
-      "duration_ms": 335194,
-      "name": "Famax",
-      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
-    },
-    {
-      "added_at": "2025-08-05 08:16:07",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
+        "name": "Famax",
+        "url": "https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ"
+      },
+      "artists": [
+        {
+          "name": "RAFFA GUIDO",
+          "url": "https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ"
+        }
+      ],
+      "duration_ms": 335194,
+      "name": "Famax",
+      "url": "https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz"
+    },
+    {
+      "added_at": "2025-08-05 08:16:07",
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD"
       },
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
+    },
+    {
+      "added_at": "2025-08-05 08:16:07",
+      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 177689,
       "name": "Where Did You Go? (feat. MNEK)",
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2025-08-05 08:16:07",
-      "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
     },
     {
       "added_at": "2025-08-05 08:16:07",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        }
+      ],
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
+    },
+    {
+      "added_at": "2025-08-05 08:16:07",
+      "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
       },
@@ -1707,22 +1723,6 @@
       "duration_ms": 125178,
       "name": "Makeba - Ian Asher Remix",
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-    },
-    {
-      "added_at": "2025-08-05 08:16:07",
-      "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2025-08-05 08:16:07",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
-        "name": "The Wrong Kind of War",
-        "url": "https://open.spotify.com/album/12ViHXhXTAxPEDM1TYCxvF"
-      },
-      "artists": [
-        {
-          "name": "Imany",
-          "url": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
-        },
-        {
-          "name": "Filatov & Karas",
-          "url": "https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Don't Be so Shy - Filatov & Karas Remix",
-      "url": "https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf"
-    },
-    {
-      "added_at": "2025-08-05 08:16:07",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA"
       },
@@ -1871,18 +1851,22 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
-        "name": "Chill",
-        "url": "https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF"
+        "name": "The Wrong Kind of War",
+        "url": "https://open.spotify.com/album/12ViHXhXTAxPEDM1TYCxvF"
       },
       "artists": [
         {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+          "name": "Imany",
+          "url": "https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw"
+        },
+        {
+          "name": "Filatov & Karas",
+          "url": "https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO"
         }
       ],
-      "duration_ms": 135692,
-      "name": "Chill",
-      "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
+      "duration_ms": 191360,
+      "name": "Don't Be so Shy - Filatov & Karas Remix",
+      "url": "https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf"
     },
     {
       "added_at": "2025-08-05 08:16:07",
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
+        "name": "Chill",
+        "url": "https://open.spotify.com/album/4kgJXn6V8rscGUuTO8P9EF"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/74tpC8vZ6DJUILzGG9uvp4"
+    },
+    {
+      "added_at": "2025-08-05 08:16:07",
+      "album": {
         "name": "PERFECT (feat. Sarah Toscano)",
         "url": "https://open.spotify.com/album/1buMJRGay49lIAuZ5330SR"
       },
@@ -1975,18 +1975,22 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
-        "name": "Mi Ami Mi Odi",
-        "url": "https://open.spotify.com/album/2TPANvT33Btxc1596fjAwe"
+        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
       },
       "artists": [
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        },
+        {
+          "name": "Roberto Ferrante",
+          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Mi Ami Mi Odi",
-      "url": "https://open.spotify.com/track/1oHT9T42XDgyL2cOWEkfXu"
+      "duration_ms": 245066,
+      "name": "Si Te Vas / Que Tengo Que Hacer - Original Remix",
+      "url": "https://open.spotify.com/track/0OyHCmkCp2qZJ44ZKB26fX"
     },
     {
       "added_at": "2025-08-05 08:16:07",
@@ -2007,22 +2011,18 @@
     {
       "added_at": "2025-08-05 08:16:07",
       "album": {
-        "name": "El Due\u00f1o Del Flow (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3eQlstvvO9KwC44StPIJep"
+        "name": "Mi Ami Mi Odi",
+        "url": "https://open.spotify.com/album/2TPANvT33Btxc1596fjAwe"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        },
-        {
-          "name": "Roberto Ferrante",
-          "url": "https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1"
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Si Te Vas / Que Tengo Que Hacer - Original Remix",
-      "url": "https://open.spotify.com/track/0OyHCmkCp2qZJ44ZKB26fX"
+      "duration_ms": 211875,
+      "name": "Mi Ami Mi Odi",
+      "url": "https://open.spotify.com/track/1oHT9T42XDgyL2cOWEkfXu"
     },
     {
       "added_at": "2025-08-05 08:16:07",

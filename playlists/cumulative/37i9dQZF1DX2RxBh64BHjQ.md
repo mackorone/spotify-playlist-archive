@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6UIpxj5ggLdOebFVCOxVax">Loe Shimmy</a>
 
-2,469 songs - 4 day 13 hr 31 min
+2,470 songs - 4 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -913,6 +913,7 @@
 | [H.L.F.](https://open.spotify.com/track/464bVdsYzXMZE8FykJoxw0) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [2 Effortless](https://open.spotify.com/album/7oAmbqYiBL1MN2FGdRQ0rz) | 1:43 | 2023-03-10 | 2023-04-22 |
 | [Ha Ha Ha Ha](https://open.spotify.com/track/1w4rNrGx0wma36pUiZGJyr) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [Ha Ha Ha Ha](https://open.spotify.com/album/2nI2NLgIRedSw5UnPPKiKF) | 3:34 | 2022-04-01 | 2022-06-11 |
 | [Had To Ask \(feat\. Babyface Ray\)](https://open.spotify.com/track/51swI5WeqofTGcTHXXmP5v) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Had To Ask \(feat\. Babyface Ray\)](https://open.spotify.com/album/5pkRLJesMpChyAZd4iENYJ) | 2:36 | 2023-06-16 | 2023-07-29 |
+| [Hadju](https://open.spotify.com/track/67boR1qcg0tmLQDcWntTqX) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Hadju](https://open.spotify.com/album/0H91S2e4amzMxtmqBo2YcR) | 2:26 | 2025-08-19 |  |
 | [HAHA](https://open.spotify.com/track/6QKsXlPrbg39EHLGoXGRsr) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [HAHA](https://open.spotify.com/album/0nLPy1MZOTSsDaY76gdMJI) | 3:09 | 2024-10-25 | 2024-11-09 |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-17 | 2022-08-06 |
 | [HALF COURT SHOTS](https://open.spotify.com/track/0Kap5m8tN2yTwmK8AJeJmx) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [HALF COURT SHOTS](https://open.spotify.com/album/6n1cEcwP70DHbnK1GzVNNf) | 2:41 | 2025-08-08 |  |
@@ -2412,7 +2413,7 @@
 | [Woedy](https://open.spotify.com/track/0SA4nmbOKqfmpgu7yuRVLE) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [4GOD II](https://open.spotify.com/album/14J4vtLYatcLVFZ3HSW4QK) | 2:47 | 2023-06-09 | 2023-08-05 |
 | [Woke Up](https://open.spotify.com/track/21CsEAX3X8wiWjtqedsRNb) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Woke Up](https://open.spotify.com/album/77FxQyGZyd38qKM0HKy8Q6) | 2:14 | 2025-06-27 | 2025-07-26 |
 | [WOKEUPTHINKINBOUT](https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [WOKEUPTHINKINBOUT / HIDDEN VOICES](https://open.spotify.com/album/5YvxEnP5o1gFq3tynqsPBf) | 2:34 | 2022-01-07 | 2022-02-12 |
-| [Wonder](https://open.spotify.com/track/12uSBGnjyndDbEVPnIYbjn) | [Kaygo Gotti](https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS) | [Wonder](https://open.spotify.com/album/3NtyuEu6cVbs3GR9lVaRE0) | 2:07 | 2025-07-13 |  |
+| [Wonder](https://open.spotify.com/track/12uSBGnjyndDbEVPnIYbjn) | [Kaygo Gotti](https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS) | [Wonder](https://open.spotify.com/album/3NtyuEu6cVbs3GR9lVaRE0) | 2:07 | 2025-07-13 | 2025-08-20 |
 | [Wonderful Wayne & Jackie Boy](https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [MOB](https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM) | 2:13 | 2022-12-02 | 2023-04-22 |
 | [Woo Nina](https://open.spotify.com/track/3AZBX8HNkzTfvBL0mdebvi) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Woo Nina](https://open.spotify.com/album/0MnDNgWKsjqXWMzBEYJrC7) | 2:08 | 2022-06-03 | 2022-07-16 |
 | [Wop](https://open.spotify.com/track/1RDyaS05lKnreDIPY9ByVN) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w) | [Wop](https://open.spotify.com/album/0niYaRUVW1Kp1Dq2qcThbo) | 2:53 | 2022-04-22 | 2022-06-18 |

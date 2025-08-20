@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Chapo102
 
-254 songs - 11 hr 28 min
+255 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
 | [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2025-08-17 |
+| [Chat GPT](https://open.spotify.com/track/3lbzJMBosiFEjpyyRBAWrk) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Chat GPT](https://open.spotify.com/album/7wzvLGAY31cAsIowxkhqkp) | 2:41 | 2025-08-14 |  |
 | [Coming Home](https://open.spotify.com/track/1j0ua1p8vz5pnLwHKcRIeO) | [EstA](https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG) | [Coming Home](https://open.spotify.com/album/5txv1AStdjW1j9yhCZIC1s) | 2:44 | 2024-10-24 | 2025-04-13 |
 | [Daddy Issues](https://open.spotify.com/track/79MvFIuO9ehGPKzpD3ERWv) | [ANTHI](https://open.spotify.com/artist/6IkHFTRWPXeoJqL5DLcL6u) | [Daddy Issues](https://open.spotify.com/album/6p2zgYa7Su9vIJlmg0GmgB) | 2:35 | 2024-10-24 | 2024-11-12 |
 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 | 2024-06-28 | 2025-04-11 |
@@ -161,7 +162,7 @@
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-14 |  |
 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-28 | 2024-08-23 |
 | [Mondlicht](https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:39 | 2024-06-28 | 2024-09-02 |
-| [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 |  |
+| [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 | 2025-08-20 |
 | [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |
 | [MÜNCHEN GIRLS](https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t) | [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [MÜNCHEN GIRLS](https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV) | 2:51 | 2024-06-28 | 2024-09-10 |
 | [NaNa](https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [NaNa](https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69) | 2:21 | 2024-06-28 | 2025-04-13 |

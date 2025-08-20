@@ -1827,6 +1827,28 @@
     },
     {
       "album": {
+        "name": "Are You Still Listening?",
+        "url": "https://open.spotify.com/album/2oSCVAgYxOv9OA0MTHJV3E"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6Csi0jcFI8RUX3aHOnUGJO"
+    },
+    {
+      "album": {
         "name": "Did It First (with Central Cee)",
         "url": "https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr"
       },

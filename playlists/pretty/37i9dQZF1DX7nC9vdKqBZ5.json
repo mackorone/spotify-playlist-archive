@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1516524,
+  "num_followers": 1516555,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Sei L\u00e1",
         "url": "https://open.spotify.com/album/4LMsH7jGH7oD0CLA8My6Hf"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+        "name": "Algo Parecido",
+        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
       },
       "artists": [
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         }
       ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+      "duration_ms": 225018,
+      "name": "Algo Parecido",
+      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -255,22 +271,6 @@
       "duration_ms": 202474,
       "name": "Por Voc\u00ea - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Algo Parecido",
-        "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Algo Parecido",
-      "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Interestelar",
-        "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        }
-      ],
-      "duration_ms": 226714,
-      "name": "Interestelar",
-      "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Outra Vez (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W"
       },
@@ -1187,8 +1171,24 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N\u00f3s 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
+        "name": "Interestelar",
+        "url": "https://open.spotify.com/album/4cqMYtMb2kWxnpuFNPNsOQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        }
+      ],
+      "duration_ms": 226714,
+      "name": "Interestelar",
+      "url": "https://open.spotify.com/track/227AKgtjtFJNDTY9TJwQ4x"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Valeu a Pena (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
       },
       "artists": [
         {
@@ -1196,9 +1196,9 @@
           "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 266250,
-      "name": "N\u00f3s 3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
+      "duration_ms": 184062,
+      "name": "Valeu a Pena - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1279,8 +1279,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Valeu a Pena (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
+        "name": "N\u00f3s 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
       },
       "artists": [
         {
@@ -1288,9 +1288,9 @@
           "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 184062,
-      "name": "Valeu a Pena - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
+      "duration_ms": 266250,
+      "name": "N\u00f3s 3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
     },
     {
       "added_at": "2024-08-02 18:37:00",

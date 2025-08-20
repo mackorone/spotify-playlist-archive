@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp?si=bVnkSRUsQ9CTho6A0kELIQ">Phiwo</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8?si=5sEBrXOWQRur0QLDCxZVCA">Nanette</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,650 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,666 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Falling](https://open.spotify.com/track/2M4YefuMvNtH1Ju20KAVs9) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Falling](https://open.spotify.com/album/388RujVUG7i0xdABpTkn1b) | 3:36 |
-| 2 | [I'm Not Psycho](https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [I'm Not Psycho](https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE) | 4:10 |
-| 3 | [Where you want \(feat\. Joh Makini & Kane Keid\)](https://open.spotify.com/track/4SmxftalCwkw2eZhnWw4xz) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto) | [Where you want \(feat\. Joh Makini & Kane Keid\)](https://open.spotify.com/album/2rDDjnlF2nrrYGzgVJWRv6) | 3:43 |
+| 1 | [I'm Not Psycho](https://open.spotify.com/track/74WJDEJkbHbZGoADMw10I5) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [I'm Not Psycho](https://open.spotify.com/album/6rq02kHQ14i9Goruy0dULE) | 4:10 |
+| 2 | [Where you want \(feat\. Joh Makini & Kane Keid\)](https://open.spotify.com/track/4SmxftalCwkw2eZhnWw4xz) | [Itaré](https://open.spotify.com/artist/3yI6gNRof3sCjlPnUPX1Ps), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Kane Keid](https://open.spotify.com/artist/3ve1wkH34zrfqTDaotzBto) | [Where you want \(feat\. Joh Makini & Kane Keid\)](https://open.spotify.com/album/2rDDjnlF2nrrYGzgVJWRv6) | 3:43 |
+| 3 | [Falling](https://open.spotify.com/track/2M4YefuMvNtH1Ju20KAVs9) | [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [Falling](https://open.spotify.com/album/388RujVUG7i0xdABpTkn1b) | 3:36 |
 | 4 | [ASSA](https://open.spotify.com/track/6lrKOj1kSQmw4Ewv6w8X2r) | [MOONLIGHT AFRIQA](https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF) | [ASSA](https://open.spotify.com/album/3Egn9fKoasndsAN2w3UghB) | 2:29 |
 | 5 | [better](https://open.spotify.com/track/3yNPijn8ek1rbsnqdNTS0K) | [Afamefuna](https://open.spotify.com/artist/77xX6GTfHs4OBEBGUtxOuG), [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [i.r.l](https://open.spotify.com/album/1bbOePBd59aRiqNV9wvJPH) | 3:51 |
 | 6 | [Nyambura](https://open.spotify.com/track/1xjHdu6gNnRg2uYUYpTPur) | [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Nyambura](https://open.spotify.com/album/0YPGhp4F8ShifkQKVqAtVs) | 4:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 74 | [Flowers](https://open.spotify.com/track/3ilP9ixF3L5wM9dJWTaSid) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Flowers](https://open.spotify.com/album/2wHdzPoNzGCKToVOwfpVIM) | 2:18 |
 | 75 | [PTSD](https://open.spotify.com/track/3oSOAmX3az2ekWnOZrWqRN) | [Dan Drizzy](https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI) | [PTSD](https://open.spotify.com/album/7y7BPELlPwXptFNCS4MGMC) | 2:50 |
 
-Snapshot ID: `AAAAADUJR5lB2F9ow07b7XZqUj6t0VOq`
+Snapshot ID: `AAAAACnFjwdx9aDohzSrywR9yv3ZBbCi`

@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43231,
+  "num_followers": 43230,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MDaZeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MDfq+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "Miklu betri einn",
+        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
+      },
+      "artists": [
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 144775,
+      "name": "Miklu betri einn",
+      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Miklu betri einn",
-        "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
-      },
-      "artists": [
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 144775,
-      "name": "Miklu betri einn",
-      "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -89,7 +89,23 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "Lonely Without You",
         "url": "https://open.spotify.com/album/3eOyxVblFhEITefWFfLQCH"
@@ -105,7 +121,99 @@
       "url": "https://open.spotify.com/track/2EurvjkcgNuBs0YHd17Yfk"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "Kalla\u00f0u \u00c1 Mig",
+        "url": "https://open.spotify.com/album/2WpArQjNmp7xV61kMryKrf"
+      },
+      "artists": [
+        {
+          "name": "Kristjan Saenz",
+          "url": "https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR"
+        }
+      ],
+      "duration_ms": 185856,
+      "name": "Kalla\u00f0u \u00c1 Mig",
+      "url": "https://open.spotify.com/track/3QFbWRS7LpFA6eRZfZfhjg"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "G\u00f3\u00f0ur Dagur",
+        "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "P\u00e1ll \u00d3skar",
+          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
+        }
+      ],
+      "duration_ms": 144165,
+      "name": "G\u00f3\u00f0ur Dagur",
+      "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "\u00dearft a\u00f0 vita",
+        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "\u00dearft a\u00f0 vita",
+      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Vopn",
+      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -145,7 +253,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -154,34 +262,14 @@
         {
           "name": "Birnir",
           "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        },
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
         }
       ],
-      "duration_ms": 200106,
-      "name": "Vopn",
-      "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
+      "duration_ms": 212520,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -197,23 +285,47 @@
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "ST\u00c9TTIN",
+        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
         }
       ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+      "duration_ms": 141705,
+      "name": "SIGGA BEINTEINS",
+      "url": "https://open.spotify.com/track/2bCo33ql9gC0sUvhnObICz"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "Huganum af \u00fe\u00e9r",
+        "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 135463,
+      "name": "Huganum af \u00fe\u00e9r",
+      "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -229,47 +341,23 @@
       "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
-        "name": "G\u00f3\u00f0ur Dagur",
-        "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        },
-        {
-          "name": "P\u00e1ll \u00d3skar",
-          "url": "https://open.spotify.com/artist/4YnmlfVdziLiqFQtQ4zTcq"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 144165,
-      "name": "G\u00f3\u00f0ur Dagur",
-      "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "\u00dearft a\u00f0 vita",
-        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "\u00dearft a\u00f0 vita",
-      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -301,7 +389,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -341,71 +429,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "LXS",
-      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Kalla\u00f0u \u00c1 Mig",
-        "url": "https://open.spotify.com/album/2WpArQjNmp7xV61kMryKrf"
-      },
-      "artists": [
-        {
-          "name": "Kristjan Saenz",
-          "url": "https://open.spotify.com/artist/5zH80l2t6OwDlt2Xpr1giR"
-        }
-      ],
-      "duration_ms": 185856,
-      "name": "Kalla\u00f0u \u00c1 Mig",
-      "url": "https://open.spotify.com/track/3QFbWRS7LpFA6eRZfZfhjg"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -421,23 +445,7 @@
       "url": "https://open.spotify.com/track/5FJ4SDGMFCvHoQWMoMpkDo"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Celebrate the Dream",
-      "url": "https://open.spotify.com/track/2Q8OdbmNtpSLz6PtzJm32E"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -453,7 +461,7 @@
       "url": "https://open.spotify.com/track/5acpp7T773MPkiNH3ZH5bJ"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -465,27 +473,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Blur the Light",
-      "url": "https://open.spotify.com/track/2Vgf2wi8r5TdMJWUoFHCGm"
+      "name": "Celebrate the Dream",
+      "url": "https://open.spotify.com/track/2Q8OdbmNtpSLz6PtzJm32E"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Chase the Stars",
-      "url": "https://open.spotify.com/track/7nu9R576h5mWBzRRehIC8Y"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -501,55 +493,7 @@
       "url": "https://open.spotify.com/track/0qjJEeqFguygZRPMaVgQ7T"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Eternal, Like the Stars Above",
-      "url": "https://open.spotify.com/track/5Tve9PpP8XfSuxECpsog24"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5biOEiDd3HE4WmhthIxoBf"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Feel the Beat",
-      "url": "https://open.spotify.com/track/59KN8sNYxX6264jcvK5GJr"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -565,7 +509,7 @@
       "url": "https://open.spotify.com/track/2k68Z35nLk905psiWwul4A"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -577,27 +521,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Feel the Fire",
-      "url": "https://open.spotify.com/track/56dE0N4VRcA84kTzHBVE9K"
+      "name": "Eternal, Like the Stars Above",
+      "url": "https://open.spotify.com/track/5Tve9PpP8XfSuxECpsog24"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/0Fi7NzIPFJiowbLQdE5eCq"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -613,7 +541,7 @@
       "url": "https://open.spotify.com/track/74zVoEQAB2aPYAFQUeq89o"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -625,11 +553,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Feel the Pulse",
-      "url": "https://open.spotify.com/track/4oCcI1kLdGHoYlP6TYtacF"
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/5biOEiDd3HE4WmhthIxoBf"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -641,11 +569,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Chasing the Light",
-      "url": "https://open.spotify.com/track/40Qr3OebBN1bWRZ75UTyly"
+      "name": "Chase the Stars",
+      "url": "https://open.spotify.com/track/7nu9R576h5mWBzRRehIC8Y"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -657,11 +585,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Breaking Through the Night",
-      "url": "https://open.spotify.com/track/3mrkOjpCl64rw4PeoDBis4"
+      "name": "Feel the Fire",
+      "url": "https://open.spotify.com/track/56dE0N4VRcA84kTzHBVE9K"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -677,43 +605,7 @@
       "url": "https://open.spotify.com/track/7hTDGiXHdS6Vxy8kJaJjIE"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Feel the Magic",
-      "url": "https://open.spotify.com/track/1JttoXaehFBwwPGjJWZwrI"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Huganum af \u00fe\u00e9r",
-        "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 135463,
-      "name": "Huganum af \u00fe\u00e9r",
-      "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -725,11 +617,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Lift Me Higher",
-      "url": "https://open.spotify.com/track/5dQ8DwTLpwrq2JzQOzb4NO"
+      "name": "Feel the Beat",
+      "url": "https://open.spotify.com/track/59KN8sNYxX6264jcvK5GJr"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -741,107 +633,11 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Let It Move Me",
-      "url": "https://open.spotify.com/track/3RKDSfshbsiMkiZzManRTx"
+      "name": "Chasing the Light",
+      "url": "https://open.spotify.com/track/40Qr3OebBN1bWRZ75UTyly"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 65471,
-      "name": "Just Me and You",
-      "url": "https://open.spotify.com/track/3tHGrrNsMg7SLnn4Nj0NOK"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/6VKem6CsCQY5ikyNTkxEsG"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/3DuFSYyYx55IyEkLEy9TWV"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 65471,
-      "name": "Get It",
-      "url": "https://open.spotify.com/track/3J9125FzqLJPkma2PUV6Uc"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Keep That in Mind",
-      "url": "https://open.spotify.com/track/0jFlGmCX808DTwYWIQUsUY"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Last Chance for Love",
-      "url": "https://open.spotify.com/track/0vjv5DHrgrQuw0CVrlfD16"
-    },
-    {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
@@ -857,7 +653,135 @@
       "url": "https://open.spotify.com/track/0UhIbz8xdyuGXNu8LVqXWM"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Lift Me Higher",
+      "url": "https://open.spotify.com/track/5dQ8DwTLpwrq2JzQOzb4NO"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 65471,
+      "name": "Just Me and You",
+      "url": "https://open.spotify.com/track/3tHGrrNsMg7SLnn4Nj0NOK"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Keep That in Mind",
+      "url": "https://open.spotify.com/track/0jFlGmCX808DTwYWIQUsUY"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Feel the Pulse",
+      "url": "https://open.spotify.com/track/4oCcI1kLdGHoYlP6TYtacF"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Let It Move Me",
+      "url": "https://open.spotify.com/track/3RKDSfshbsiMkiZzManRTx"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/3DuFSYyYx55IyEkLEy9TWV"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/0Fi7NzIPFJiowbLQdE5eCq"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Breaking Through the Night",
+      "url": "https://open.spotify.com/track/3mrkOjpCl64rw4PeoDBis4"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -873,7 +797,23 @@
       "url": "https://open.spotify.com/track/7kePO0Mw3NW5vjBTWu0ewH"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Echoes Guide Us High",
+      "url": "https://open.spotify.com/track/77X4Gqutw87yyUJtFYXRU8"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -889,7 +829,39 @@
       "url": "https://open.spotify.com/track/26nuXXv1VnK7X00odcv4PD"
     },
     {
-      "added_at": "2025-08-18 13:07:03",
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Alive Tonight",
+      "url": "https://open.spotify.com/track/6lw0EMt5h41luxvAm1raoU"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
       "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
@@ -901,8 +873,40 @@
         }
       ],
       "duration_ms": 32810,
-      "name": "Echoes Guide Us High",
-      "url": "https://open.spotify.com/track/77X4Gqutw87yyUJtFYXRU8"
+      "name": "Dancing Through the Colors Bright",
+      "url": "https://open.spotify.com/track/60CW4adB2iKs8wGgB2VLLF"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5XJEefpIGPRL950U8A6ZHt"
+    },
+    {
+      "added_at": "2025-08-19 13:25:55",
+      "album": {
+        "name": "M\u0142ody Francesco",
+        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+      },
+      "artists": [
+        {
+          "name": "France3c0",
+          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+        }
+      ],
+      "duration_ms": 32810,
+      "name": "In the Moment",
+      "url": "https://open.spotify.com/track/5SFOkjHnZXlJqwuSqI4ZDT"
     }
   ],
   "unique_name": "Top 50 - Iceland",

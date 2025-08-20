@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 
 > Parque Simón Bolívar, Marzo 27, 28, 29 y 30\. Foto: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,261 likes - 150 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,259 likes - 150 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 60 | [BALD!](https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i) | 2:33 |
 | 61 | [Cactus](https://open.spotify.com/track/2UWoUC9m7nmewGGKujsJOs) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Cactus](https://open.spotify.com/album/5kL1tVuZuSNtfn9v4ZAdyY) | 3:32 |
 | 62 | [Dublin in Ecstasy](https://open.spotify.com/track/3sjgaVtZIOEwR21pfM42Ly) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 5:11 |
-| 63 | [Tell Me](https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Tell Me](https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3) | 3:18 |
-| 64 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
+| 63 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
+| 64 | [Tell Me](https://open.spotify.com/track/1FJYX0a18UBzFOWzec43Ih) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Tell Me](https://open.spotify.com/album/3yjqJkHqnGlO6wpE9GPxV3) | 3:18 |
 | 65 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 |
 | 66 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 |
 | 67 | [The Weight](https://open.spotify.com/track/3Mi8mCnvcBPdiPgmHYWEow) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG) | 3:03 |
@@ -114,9 +114,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfEH87eTMRz.md) - [plain]
 | 104 | [Helado y Oscuro](https://open.spotify.com/track/1SCLJm3Pf7IxlfKjzSHd1z) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Edac Selectah](https://open.spotify.com/artist/7EICglBUtJwFr3CR72JWka), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k) | [Cine Negro](https://open.spotify.com/album/5XtXkmfrHgEL2MJyJf6yIl) | 3:55 |
 | 105 | [Testarossa Nightdrive](https://open.spotify.com/track/39ZvG3rdUhZFccoWnmejNu) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [Teddy Boy](https://open.spotify.com/album/1SbguC3zYCsklaIGThmoMt) | 3:28 |
 | 106 | [Aunque No Estés](https://open.spotify.com/track/0N258TTgaufqYDGCtBEYZX) | [Chell](https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId) | [Me Hizo un Amarre](https://open.spotify.com/album/0KMp7IvuciTWlK9D0o0is2) | 3:20 |
-| 107 | [Llorando En La Limo](https://open.spotify.com/track/67FhuBvtSAij3rAB3nRs4F) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Llorando En La Limo](https://open.spotify.com/album/641HF5Dke7iDKWLWIeKhir) | 2:17 |
+| 107 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 |
 | 108 | [Se Va, Se Va](https://open.spotify.com/track/4FdAAU9OClnZ5jclUZhVIE) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Se Va, Se Va](https://open.spotify.com/album/3e1o7UkNTr0dTQyW9aNvn9) | 4:25 |
-| 109 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 |
+| 109 | [Llorando En La Limo](https://open.spotify.com/track/67FhuBvtSAij3rAB3nRs4F) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Llorando En La Limo](https://open.spotify.com/album/641HF5Dke7iDKWLWIeKhir) | 2:17 |
 | 110 | [Good Times \(feat\. Triciq\)](https://open.spotify.com/track/3oSYwASkN2eAt0uGYanNP2) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Triciq](https://open.spotify.com/artist/6GqIDfk0pUJ5RT55F9um6o) | [Good Times \(feat\. Triciq\)](https://open.spotify.com/album/5KVoDkDSQBHEcNEWwVkuLE) | 3:51 |
 | 111 | [Climbing](https://open.spotify.com/track/6IBf1LqXwKmTLsKb6FK5Tb) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc) | 4:10 |
 | 112 | [How Music Makes You Feel Better](https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 4:43 |

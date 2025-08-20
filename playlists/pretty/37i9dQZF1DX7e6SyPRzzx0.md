@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Homixide Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,378 likes - 65 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,461 likes - 65 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 10 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 |
 | 11 | [BA$$](https://open.spotify.com/track/51OiK90giWwDI0RedEYBcg) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:33 |
 | 12 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 |
-| 13 | [bags](https://open.spotify.com/track/6kjv8jfYnJ15fPIQYSvFKe) | [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn), [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bags](https://open.spotify.com/album/3TwHdwW0nNdjuFtZnFnVdO) | 2:46 |
+| 13 | [bags](https://open.spotify.com/track/6kjv8jfYnJ15fPIQYSvFKe) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn) | [bags](https://open.spotify.com/album/3TwHdwW0nNdjuFtZnFnVdO) | 2:46 |
 | 14 | [LOOSE LEAF](https://open.spotify.com/track/0rDy4G5erghtM8RR0svKzA) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:50 |
 | 15 | [CONTEST](https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 4:32 |
 | 16 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 |

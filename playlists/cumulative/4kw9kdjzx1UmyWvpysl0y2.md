@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,051 songs - 2 day 10 hr 53 min
+1,052 songs - 2 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [99 Octane](https://open.spotify.com/track/58HDy7QoiDCFZG9sxTxRfN) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Monstercat x Hospital Records](https://open.spotify.com/album/15NgKtJaUrVVJ7UwvtWtiO) | 2:59 | 2025-01-31 | 2025-05-01 |
 | [A Cause And Effect](https://open.spotify.com/track/2hR48fmeaUy2AHrcbznrvB) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:40 | 2022-10-29 | 2023-01-19 |
 | [A Cookie From Space](https://open.spotify.com/track/7q2h3i7mn0mpO847Yo4rUC) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bliss](https://open.spotify.com/artist/5kCxDwD2rjY6lKSGdAW7Lk) | [A Cookie From Space](https://open.spotify.com/album/1QbTncSh1e7wfVvJXLEX4G) | 10:19 | 2022-07-07 | 2022-09-17 |
+| [A Flicker of Hope](https://open.spotify.com/track/23Lq2x9AhuEt3nKhFWJlh2) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc) | [A Flicker of Hope](https://open.spotify.com/album/3k9fpNCXZDPfNJXFsY1qVL) | 3:16 | 2025-08-19 |  |
 | [A Game Of Fairies](https://open.spotify.com/track/2rvY72BOiaKVatWch8DT4b) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3) | [A Game Of Fairies](https://open.spotify.com/album/4aW2r0pFeRUDuo3OvRchGk) | 3:56 | 2023-09-05 | 2024-01-11 |
 | [A Moment Apart](https://open.spotify.com/track/4GWnEGVm89z7WSQ3BEuAN0) | [Matrx](https://open.spotify.com/artist/3UWM8Rb3JjZegw71LpCT6M) | [A Moment Apart](https://open.spotify.com/album/6tRgBvbPBZXCOaTPtv1Juz) | 3:34 | 2021-11-19 | 2022-02-19 |
 | [A Sudden Display Of Life](https://open.spotify.com/track/5qYZZL0iuEwHs1JJlVk63Q) | [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8), [Clarico](https://open.spotify.com/artist/4z0z7HVzL9JOn53wLYnBi9) | [A Sudden Display Of Life](https://open.spotify.com/album/4WJ71uIq1XFJz4skDuYZsN) | 3:39 | 2024-07-10 | 2024-10-02 |
@@ -34,7 +35,7 @@
 | [ACTIVATE](https://open.spotify.com/track/1ROJBKCmBH1Quk9gN2qI0E) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [ACTIVATE](https://open.spotify.com/album/2v6Ae2mZgaWFyMtfSNpXee) | 2:38 | 2025-06-09 |  |
 | [Addicted](https://open.spotify.com/track/10Ypa5Os3CqBKRZT8K2V9Q) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR) | [Addicted](https://open.spotify.com/album/3nonfj60UK0mksfJlP9Dir) | 2:49 | 2022-11-10 | 2023-02-08 |
 | [Addiction](https://open.spotify.com/track/0XM2m2WD4G0mpQqf3LpBGK) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Addiction](https://open.spotify.com/album/4Jf40Z8SdqGDIjDarkfMDL) | 3:03 | 2022-03-25 | 2022-06-08 |
-| [Adore](https://open.spotify.com/track/1vukPZMZWg6BcdT3xShfmY) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Adore](https://open.spotify.com/album/2OBeOZJ1BHtIj1JEPC88dW) | 2:48 | 2025-05-27 |  |
+| [Adore](https://open.spotify.com/track/1vukPZMZWg6BcdT3xShfmY) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Adore](https://open.spotify.com/album/2OBeOZJ1BHtIj1JEPC88dW) | 2:48 | 2025-05-27 | 2025-08-20 |
 | [AF1](https://open.spotify.com/track/3uMe9Jrzjn006oHTAvgvYj) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AF1](https://open.spotify.com/album/6gRSAPkjUctZmxPlG6LN7F) | 1:51 | 2024-09-25 | 2024-12-19 |
 | [Afraid of the Dark \- hayve Remix](https://open.spotify.com/track/6TGxVTSPgXV65MCYcaFf3P) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Sophiya](https://open.spotify.com/artist/4rmlD2kScuttioQsraasZn), [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Afraid of the Dark \(hayve Remix\)](https://open.spotify.com/album/5FSRhgzGRiuilD0okKKDct) | 4:04 | 2022-12-12 | 2023-03-15 |
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
@@ -43,7 +44,7 @@
 | [Afterlife](https://open.spotify.com/track/6WBUjjJfJfCuAw2QKrduFv) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Afterlife](https://open.spotify.com/album/7I7CPbDYjhgk6wuecUzxwJ) | 3:41 | 2025-03-13 | 2025-06-13 |
 | [Again](https://open.spotify.com/track/3eam4YNpR4GHxBGqLNzZ4U) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Again](https://open.spotify.com/album/0sPXhRIkT8X3866JIiN1Rq) | 3:48 | 2025-05-13 | 2025-08-06 |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
-| [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-28 |  |
+| [AHORA](https://open.spotify.com/track/1Re81w8xdZjUNuRu1AUSoL) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [AHORA](https://open.spotify.com/album/4JcvArkgyQyq8C7gAETGgu) | 2:25 | 2025-05-28 | 2025-08-20 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
 | [Aklana](https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Aklana](https://open.spotify.com/album/15LjTU9nmCPpMQbPMH8TDc) | 3:24 | 2024-08-27 | 2024-11-20 |
 | [Alibi](https://open.spotify.com/track/654LHKBikT7p3xoI6ByrBh) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Alibi](https://open.spotify.com/album/5PPBZar51GDZjE6xCRmPRH) | 3:32 | 2024-03-07 | 2024-06-01 |

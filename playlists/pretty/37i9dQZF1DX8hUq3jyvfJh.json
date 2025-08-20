@@ -1,6 +1,6 @@
 {
   "description": "Escute AJULIACOSTA e mais mulheres incr\u00edveis no volume m\u00e1ximo! co-curada por AJULIACOSTA.",
-  "num_followers": 188701,
+  "num_followers": 188692,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2025-08-12 17:39:06",
       "album": {
+        "name": "\u00c9 Disso Que Eu Me Alimento",
+        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
+      },
+      "artists": [
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "winx",
+          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Pq Vc N\u00e3o Me Liga?",
+      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
+    },
+    {
+      "added_at": "2025-08-12 17:39:06",
+      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -235,26 +255,6 @@
       "duration_ms": 268986,
       "name": "How Many Mics",
       "url": "https://open.spotify.com/track/2lOnbK3gm1N6keYkUD3mis"
-    },
-    {
-      "added_at": "2025-08-12 17:39:06",
-      "album": {
-        "name": "\u00c9 Disso Que Eu Me Alimento",
-        "url": "https://open.spotify.com/album/3c3KwsgclCMiakrOkw4mUg"
-      },
-      "artists": [
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "winx",
-          "url": "https://open.spotify.com/artist/7c8aL5TD7eVJbiifo1QVkY"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Pq Vc N\u00e3o Me Liga?",
-      "url": "https://open.spotify.com/track/1hESdOnr1bF7LHqvubefn4"
     },
     {
       "added_at": "2025-08-12 17:39:06",
@@ -683,34 +683,6 @@
     {
       "added_at": "2025-08-12 17:39:06",
       "album": {
-        "name": "Mate Ou Morra",
-        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Barona",
-          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
-        },
-        {
-          "name": "UM ENT",
-          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "RITMOU",
-      "url": "https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK"
-    },
-    {
-      "added_at": "2025-08-12 17:39:06",
-      "album": {
         "name": "Pose",
         "url": "https://open.spotify.com/album/6W0sVbgxTdfYkkVYZo3Ksl"
       },
@@ -735,6 +707,34 @@
       "duration_ms": 214285,
       "name": "Pose",
       "url": "https://open.spotify.com/track/1yPJYuQktZ51yGXHlsKras"
+    },
+    {
+      "added_at": "2025-08-12 17:39:06",
+      "album": {
+        "name": "Mate Ou Morra",
+        "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Barona",
+          "url": "https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn"
+        },
+        {
+          "name": "UM ENT",
+          "url": "https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "RITMOU",
+      "url": "https://open.spotify.com/track/5X5h025Lv44N6zM2obbotK"
     },
     {
       "added_at": "2025-08-12 17:39:06",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1fNMFb.md) - [plain]
 
 > This is Natania\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 46 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 46 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

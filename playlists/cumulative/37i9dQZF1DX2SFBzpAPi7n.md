@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 터치드\(TOUCHED\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,014 songs - 2 day 13 hr 58 min
+1,015 songs - 2 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,7 +601,7 @@
 | [Now \(Feat\. THAMA\)](https://open.spotify.com/track/3VAD6IG91tzUaSlPeei63M) | [JUNE](https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ending](https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD) | 3:55 | 2022-04-22 | 2022-07-27 |
 | [Now or Never](https://open.spotify.com/track/1mYOaI1QRsxA1c0ZHEx4jD) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [A N E W](https://open.spotify.com/album/14IlHQB8I9Cbe1V6OrYpNP) | 3:45 | 2024-11-06 | 2024-12-19 |
 | [Now, love](https://open.spotify.com/track/6TuabkccWNyU5aFBYB9kPT) | [EJel](https://open.spotify.com/artist/2d1ZL2dWu4rNvKr8lXrbvd) | [﻿Cinderella at 2AM OST Part 7](https://open.spotify.com/album/5h0ANL1dEmueSADLxmbGPJ) | 3:35 | 2024-11-06 | 2024-12-03 |
-| [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 | 2025-05-30 |  |
+| [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 | 2025-05-30 | 2025-08-20 |
 | [O2](https://open.spotify.com/track/3gE6fZuOsBCOoIWONBtd2T) | [SUHO](https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m) | [Self\-Portrait \- The 1st Mini Album](https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1) | 3:48 | 2022-04-22 | 2022-07-23 |
 | [OCEAN](https://open.spotify.com/track/76HdYXlpceoc0N2P6E4oGW) | [The VANE](https://open.spotify.com/artist/2zWjCnsFalXdhQ2jxb29Hw) | [OCEAN](https://open.spotify.com/album/4rOhOYOy9Arjaula5XaBlg) | 4:38 | 2022-05-11 | 2022-07-07 |
 | [OffCourse](https://open.spotify.com/track/3gwtdR9M1DpKn6Ejsfax5L) | [RecordTheVoiceMessage](https://open.spotify.com/artist/6ZEZZTSdUA8x7CrFEdWKkS) | [OffCourse](https://open.spotify.com/album/10oASQp25ZGiM1Ad1V1oxU) | 3:45 | 2025-03-06 | 2025-03-18 |
@@ -916,6 +916,7 @@
 | [We All Live Young \- Geuneu Remix Version](https://open.spotify.com/track/2C8PXEFlJPsEZw4qEYhv78) | [이츠허밍](https://open.spotify.com/artist/2qYgbpt1efCVWNjDbhpeVf) | [We All Live Young](https://open.spotify.com/album/2ZUs2eaYqRsSOEUbZzgRXk) | 3:22 | 2023-07-28 | 2023-08-18 |
 | [We are](https://open.spotify.com/track/7urVxZOTjXnk41uyX7kFOo) | [Kim Ki Tae](https://open.spotify.com/artist/2DT5Ql0hYDhX2PUF6q15US) | [Brain Cooperation \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/7kzPYujOxWaZhNnlKIS5LP) | 3:19 | 2023-01-14 | 2023-01-26 |
 | [we are fine](https://open.spotify.com/track/4h4FflzmpQTIMZ062LpCqm) | [BLSG](https://open.spotify.com/artist/1a4wvAslylMTa4fafqPJFi) | [we are fine](https://open.spotify.com/album/6QBzIrib2DDrsMB3vQO6GO) | 3:27 | 2022-04-12 | 2022-04-21 |
+| [We are golden](https://open.spotify.com/track/7N37rATkfSerMi7zcpQncq) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [We are golden](https://open.spotify.com/album/00DUo0FtbVurn0wqZi2dm0) | 4:20 | 2025-08-19 |  |
 | [We don't stop](https://open.spotify.com/track/1riEr6o3obQxrQRFmD9Sed) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [The Fiery Priest 2 \(Original Soundtrack\) Part.2](https://open.spotify.com/album/4cUiPsVFLX87U79rXqbNjL) | 3:22 | 2024-11-20 | 2025-01-15 |
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2024-06-05 | 2024-11-07 |
 | [WE GO HIGH](https://open.spotify.com/track/2xiMbOHBJhAysqRSTLMYnk) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [WE GO HIGH](https://open.spotify.com/album/0JVq4vVvfai25hdLJhvHxz) | 3:13 | 2023-06-19 | 2023-07-08 |

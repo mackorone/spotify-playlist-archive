@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, FBC, Rogerio Flausino
 
-1,026 songs - 2 day 3 hr 2 min
+1,027 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [cABeçA De VEnTo](https://open.spotify.com/track/7xehHTNvc8fQEbNDfoE16P) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [cABeçA De VEnTo](https://open.spotify.com/album/2giZ7WnTkyie1TJJOoTEPX) | 2:45 | 2023-03-10 | 2023-04-15 |
 | [Cachoeira](https://open.spotify.com/track/0LqOJ2Vcm5uupnsHin7gRC) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Mc Fredd](https://open.spotify.com/artist/4UHmkWMHvZlj2ryO8gpwM5) | [Cachoeira](https://open.spotify.com/album/4mAithietzaFqqKXXniP44) | 2:47 | 2023-09-15 | 2023-12-16 |
 | [Cadeado](https://open.spotify.com/track/2rfTApJDFBGy96I3AgQh6I) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:48 | 2023-02-14 | 2023-09-30 |
+| [Cadela](https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n) | [MARIA MIRANDA](https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3) | [Cadela](https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX) | 3:17 | 2025-08-19 |  |
 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 | 2024-08-21 | 2025-03-08 |
 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 | 2023-08-04 | 2023-08-26 |
 | [Caliente](https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN) | [Lily Nobre](https://open.spotify.com/artist/38SMTPnAWS5j9wALRSV7mD), [MC RUAN RZAN](https://open.spotify.com/artist/6H8R7o8nKuXWxG19X2XoVE), [Skorps](https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy) | [Caliente](https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2) | 2:13 | 2023-10-06 | 2024-03-23 |
@@ -937,7 +938,7 @@
 | [Toda Manhã](https://open.spotify.com/track/1FpIwrg7pwzGhakpokNbuT) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/5caF5n4dvpJv0BsqEOJnA7) | 2:26 | 2023-04-25 | 2023-05-06 |
 | [Toda Manhã](https://open.spotify.com/track/5tPrL24NVBC6crh1xl7uGw) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Ato 1: TODAMANHÃ](https://open.spotify.com/album/4c2wwlgbTHER3fxe6TzDlZ) | 2:26 | 2023-04-14 | 2023-04-26 |
 | [Todo Mundo Que Amei Já Me Fez Chorar](https://open.spotify.com/track/1ba9HdaWfIYmIytRcI90eU) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx) | [Todo Mundo Que Amei Já Me Fez Chorar](https://open.spotify.com/album/78PwIdZ0l97RtXpcj1WMDw) | 2:58 | 2023-10-06 | 2023-11-11 |
-| [TOKITÔ](https://open.spotify.com/track/1os5N47cdC2rycRhpMzgMP) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:06 | 2025-04-04 |  |
+| [TOKITÔ](https://open.spotify.com/track/1os5N47cdC2rycRhpMzgMP) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Coisas Naturais](https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE) | 3:06 | 2025-04-04 | 2025-08-20 |
 | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Tommy Lee \(feat\. Post Malone\)](https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0) | 3:44 | 2020-10-20 | 2023-02-15 |
 | [Tontom Perigosa](https://open.spotify.com/track/38ifsBGpq5igWYZoxofixU) | [Tontom](https://open.spotify.com/artist/3skzQIG1feNhVQs2TnoFGV) | [Tontom Perigosa](https://open.spotify.com/album/2CXwdp669W9YO5g7WdGdYJ) | 3:36 | 2024-06-24 | 2024-06-29 |
 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 | 2020-10-20 | 2023-02-15 |

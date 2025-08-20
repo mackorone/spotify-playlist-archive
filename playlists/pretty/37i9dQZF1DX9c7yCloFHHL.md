@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Jefre Cantu\-Ledesma
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,288 likes - 101 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,332 likes - 101 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

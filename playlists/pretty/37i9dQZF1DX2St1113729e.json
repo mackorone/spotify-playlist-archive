@@ -1,6 +1,6 @@
 {
   "description": " sOniiDos En conStaNte mutAci\u00f3Nn \u2729\u00b0\uff61\u22c6\u2e1c \ud83c\udfa7\u272e feat. Orslok.",
-  "num_followers": 217334,
+  "num_followers": 217337,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-08-14 22:00:29",
       "album": {
+        "name": "BLINBLIN",
+        "url": "https://open.spotify.com/album/4CQRGxwGARjrQwQGouIFPZ"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "BLINBLIN",
+      "url": "https://open.spotify.com/track/3tWs3eKpkC1PGWxbgzdI4O"
+    },
+    {
+      "added_at": "2025-08-14 22:00:29",
+      "album": {
         "name": "No Te Atrevas a Preguntar Qe Si Tq...",
         "url": "https://open.spotify.com/album/3vrgzkRmkgMRIYp2uoPFXp"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 123576,
       "name": "No Te Atrevas a Preguntar Qe Si Tq...",
       "url": "https://open.spotify.com/track/6RUSufbCpYtxYDTqOKmLwr"
-    },
-    {
-      "added_at": "2025-08-14 22:00:29",
-      "album": {
-        "name": "BLINBLIN",
-        "url": "https://open.spotify.com/album/4CQRGxwGARjrQwQGouIFPZ"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "BLINBLIN",
-      "url": "https://open.spotify.com/track/3tWs3eKpkC1PGWxbgzdI4O"
     },
     {
       "added_at": "2025-08-14 22:00:29",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-08-14 22:00:29",
       "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
-      },
-      "artists": [
-        {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
-    },
-    {
-      "added_at": "2025-08-14 22:00:29",
-      "album": {
         "name": "Ying Yang",
         "url": "https://open.spotify.com/album/2OpQgfCYSUYtcG61uZZQxs"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 139200,
       "name": "Ying Yang",
       "url": "https://open.spotify.com/track/23o9L9sJybYutV5O8TQKLL"
+    },
+    {
+      "added_at": "2025-08-14 22:00:29",
+      "album": {
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+      },
+      "artists": [
+        {
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-08-14 22:00:29",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2025-08-14 22:00:29",
       "album": {
-        "name": "q va",
-        "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
-      },
-      "artists": [
-        {
-          "name": "Serehiio",
-          "url": "https://open.spotify.com/artist/4V9TMF0bpvEOg3ZpygwyrZ"
-        },
-        {
-          "name": "Mariete",
-          "url": "https://open.spotify.com/artist/1HMgcN78ihS1AsXaPBwSTx"
-        }
-      ],
-      "duration_ms": 106187,
-      "name": "q va",
-      "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
-    },
-    {
-      "added_at": "2025-08-14 22:00:29",
-      "album": {
         "name": "Lo Que Dijiste",
         "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 208182,
       "name": "Lo Que Dijiste",
       "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
+    },
+    {
+      "added_at": "2025-08-14 22:00:29",
+      "album": {
+        "name": "q va",
+        "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
+      },
+      "artists": [
+        {
+          "name": "Serehiio",
+          "url": "https://open.spotify.com/artist/4V9TMF0bpvEOg3ZpygwyrZ"
+        },
+        {
+          "name": "Mariete",
+          "url": "https://open.spotify.com/artist/1HMgcN78ihS1AsXaPBwSTx"
+        }
+      ],
+      "duration_ms": 106187,
+      "name": "q va",
+      "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
     },
     {
       "added_at": "2025-08-14 22:00:29",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-08-14 22:00:29",
       "album": {
-        "name": "DeLorean",
-        "url": "https://open.spotify.com/album/48e7AIpXz7gDXqvtp8wNwe"
-      },
-      "artists": [
-        {
-          "name": "Zaphel",
-          "url": "https://open.spotify.com/artist/0wLNznVTr2HmmoZaUAafyX"
-        }
-      ],
-      "duration_ms": 149557,
-      "name": "DeLorean",
-      "url": "https://open.spotify.com/track/6ZZu8PmxZbA7FE6rJ0gFfk"
-    },
-    {
-      "added_at": "2025-08-14 22:00:29",
-      "album": {
         "name": "cuando vienes t\u00fa",
         "url": "https://open.spotify.com/album/0w3uVaDDwl9m52UdIvGkB6"
       },
@@ -1843,22 +1827,18 @@
     {
       "added_at": "2025-08-14 22:00:29",
       "album": {
-        "name": "FIESTA DE MODERNAS",
-        "url": "https://open.spotify.com/album/0KFkxKNQN40Avc3N2rPCFh"
+        "name": "DeLorean",
+        "url": "https://open.spotify.com/album/48e7AIpXz7gDXqvtp8wNwe"
       },
       "artists": [
         {
-          "name": "antimorbo",
-          "url": "https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS"
-        },
-        {
-          "name": "kimera.",
-          "url": "https://open.spotify.com/artist/7IWxjRHtE3LygfF4ALX2wQ"
+          "name": "Zaphel",
+          "url": "https://open.spotify.com/artist/0wLNznVTr2HmmoZaUAafyX"
         }
       ],
-      "duration_ms": 189002,
-      "name": "Lady Bird",
-      "url": "https://open.spotify.com/track/1f2Xk8oCGOWFIU1haKlKnA"
+      "duration_ms": 149557,
+      "name": "DeLorean",
+      "url": "https://open.spotify.com/track/6ZZu8PmxZbA7FE6rJ0gFfk"
     },
     {
       "added_at": "2025-08-14 22:00:29",
@@ -1875,6 +1855,26 @@
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
+    },
+    {
+      "added_at": "2025-08-14 22:00:29",
+      "album": {
+        "name": "FIESTA DE MODERNAS",
+        "url": "https://open.spotify.com/album/0KFkxKNQN40Avc3N2rPCFh"
+      },
+      "artists": [
+        {
+          "name": "antimorbo",
+          "url": "https://open.spotify.com/artist/4qSSfcyAi4jaUNXl3ayXcS"
+        },
+        {
+          "name": "kimera.",
+          "url": "https://open.spotify.com/artist/7IWxjRHtE3LygfF4ALX2wQ"
+        }
+      ],
+      "duration_ms": 189002,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/1f2Xk8oCGOWFIU1haKlKnA"
     }
   ],
   "unique_name": "helium",

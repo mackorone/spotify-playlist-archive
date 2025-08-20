@@ -4101,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "solitude",
+        "url": "https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Frays",
+          "url": "https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149763,
+      "name": "solitude",
+      "url": "https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n"
+    },
+    {
+      "album": {
         "name": "Solituned",
         "url": "https://open.spotify.com/album/3HtvOePMqTZ6XXSUbzL5gi"
       },

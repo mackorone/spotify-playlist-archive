@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: ANTHNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,340 likes - 98 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,378 likes - 98 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 13 | [Follow the Lamb](https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Follow the Lamb](https://open.spotify.com/album/0rvQFF3rxjydtHBZJWEBhn) | 5:24 |
 | 14 | [So So Good \- Live](https://open.spotify.com/track/1NfkApXza2Stn80T8vBGOq) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [So So Good \(Live\)](https://open.spotify.com/album/37gaFi95mVqqxKOYVdyTv4) | 4:48 |
 | 15 | [Elohim \- Live From Church](https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [Elohim \(Live\)](https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ) | 7:27 |
-| 16 | [Send The Fire](https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Tim Hughes](https://open.spotify.com/artist/2LUJNxXhenSOfHKFzaWxca), [Lindsey Arcaro](https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH) | [Send The Fire](https://open.spotify.com/album/2NSViSZWOHyf2RM05iYCvp) | 7:43 |
+| 16 | [Send The Fire](https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh), [Lindsey Arcaro](https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH) | [Send The Fire](https://open.spotify.com/album/2NSViSZWOHyf2RM05iYCvp) | 7:43 |
 | 17 | [Worthy Of It All / I Exalt Thee \- Jeremy And Adrienne Camp Version](https://open.spotify.com/track/3F03CcIJ1pRXXEiub9h65d) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Adrienne Camp](https://open.spotify.com/artist/336Pq8Mzm8a8of9wkZWePp) | [Worthy Of It All / I Exalt Thee \(Jeremy And Adrienne Camp Version\)](https://open.spotify.com/album/3iGbU4fZHlxUNEXosoCO8g) | 5:01 |
 | 18 | [Jesus Over Everything \- Live](https://open.spotify.com/track/74Jklsm8x70aYcdrzOsday) | [Peter Burton](https://open.spotify.com/artist/1672I4FOIEA58baau2xHk0) | [Jesus Over Everything \(Live\)](https://open.spotify.com/album/4M4JMeezUveeSbiqPyX2dO) | 4:11 |
 | 19 | [ALL EYES ON HIM](https://open.spotify.com/track/4rrRJO6faiekyd0zkzXzeI) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp) | [ALL EYES ON HIM](https://open.spotify.com/album/0XDCEy0TNubAgJdCAxC9IS) | 5:27 |

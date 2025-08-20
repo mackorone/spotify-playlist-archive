@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: YUNGBLUD",
-  "num_followers": 732269,
+  "num_followers": 732384,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2025-03-28 16:47:55",
       "album": {
-        "name": "DJ Got Us Fallin in Love",
-        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
-      },
-      "artists": [
-        {
-          "name": "Her Bright Skies",
-          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
-        }
-      ],
-      "duration_ms": 215922,
-      "name": "DJ Got Us Fallin in Love",
-      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
-    },
-    {
-      "added_at": "2025-03-28 16:47:55",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2025-03-28 16:47:55",
-      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -1471,6 +1439,38 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
+    },
+    {
+      "added_at": "2025-03-28 16:47:55",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
+    },
+    {
+      "added_at": "2025-03-28 16:47:55",
+      "album": {
+        "name": "DJ Got Us Fallin in Love",
+        "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
+      },
+      "artists": [
+        {
+          "name": "Her Bright Skies",
+          "url": "https://open.spotify.com/artist/2bbUP7SmbTeujkLaOa6IGI"
+        }
+      ],
+      "duration_ms": 215922,
+      "name": "DJ Got Us Fallin in Love",
+      "url": "https://open.spotify.com/track/5QOWi9IVukyO3DGOIBM5To"
     },
     {
       "added_at": "2025-03-28 16:47:55",

@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Ninajirachi",
-  "num_followers": 129631,
+  "num_followers": 129643,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
+        "name": "Linger / Heading For The Door (Sirius XM Session)",
+        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Linger - SiriusXM Session",
+      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 212209,
       "name": "Sweet Disposition (a moment, a love)",
       "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "Linger / Heading For The Door (Sirius XM Session)",
-        "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Linger - SiriusXM Session",
-      "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 186971,
-      "name": "Hurt So Bad",
-      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "Where You Need To Be",
         "url": "https://open.spotify.com/album/5zuAaJ9wg60dc7UOVHVgRz"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 290802,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 290802,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 189780,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 186971,
+      "name": "Hurt So Bad",
+      "url": "https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 207661,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
         "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
       },
@@ -699,22 +683,6 @@
       "duration_ms": 173800,
       "name": "If Our Love Is Dead",
       "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "Safeandsound",
-        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 277617,
-      "name": "Safeandsound",
-      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -739,18 +707,34 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Backflips in a Restaurant (Deluxe)",
-        "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
+        "name": "Safeandsound",
+        "url": "https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 145890,
-      "name": "Might Not Be",
-      "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
+      "duration_ms": 277617,
+      "name": "Safeandsound",
+      "url": "https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/1PoebRqjvlN71Tjdwg6I37"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 207661,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/4mSDOE2kImbodUtKFLmcqm"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -767,6 +751,22 @@
       "duration_ms": 206870,
       "name": "Rage Against The Fatigue",
       "url": "https://open.spotify.com/track/3qP8F1NNIIBiU2mtQytkz9"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "Backflips in a Restaurant (Deluxe)",
+        "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 145890,
+      "name": "Might Not Be",
+      "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Sleepless Nights",
-      "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "Music On The Radio",
         "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/7u8UILHegMwW50M0Wgsx2c"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/2mAxV39CZxPL2lsBdfXgvh"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "iPod Touch",
-        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 196524,
-      "name": "iPod Touch",
-      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
         "name": "I Can Die Now",
         "url": "https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 171280,
       "name": "I Can Die Now",
       "url": "https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
+        "name": "iPod Touch",
+        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 196524,
+      "name": "iPod Touch",
+      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
+        "name": "Ooo",
+        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+      },
+      "artists": [
+        {
+          "name": "Skin On Skin",
+          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+        }
+      ],
+      "duration_ms": 239823,
+      "name": "Ooo",
+      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+    },
+    {
+      "added_at": "2025-08-14 14:00:41",
+      "album": {
         "name": "We Live In A Society",
         "url": "https://open.spotify.com/album/2NvuDARjVRkDMZAHnx8ll5"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2025-08-14 14:00:41",
       "album": {
-        "name": "Ooo",
-        "url": "https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX"
+        "name": "100 Times Around the Sun",
+        "url": "https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by"
       },
       "artists": [
         {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
         }
       ],
-      "duration_ms": 239823,
-      "name": "Ooo",
-      "url": "https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu"
+      "duration_ms": 185988,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX"
     },
     {
       "added_at": "2025-08-14 14:00:41",
@@ -1231,22 +1247,6 @@
       "duration_ms": 245892,
       "name": "summer in december",
       "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
-    },
-    {
-      "added_at": "2025-08-14 14:00:41",
-      "album": {
-        "name": "100 Times Around the Sun",
-        "url": "https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by"
-      },
-      "artists": [
-        {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
-        }
-      ],
-      "duration_ms": 185988,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX"
     },
     {
       "added_at": "2025-08-14 14:00:41",

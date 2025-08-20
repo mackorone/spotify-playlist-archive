@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,852 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,865 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 23 | [Chakalon](https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ) | [Los Cómplices](https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Chakalon](https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg) | 2:50 |
 | 24 | [FLOR marchita](https://open.spotify.com/track/7BgxOXanBzh7HTGHOgFCku) | [Mérida](https://open.spotify.com/artist/40mr1p17oA1QhgK0IoJZkj) | [FLOR marchita](https://open.spotify.com/album/22F1ZtDQdfNB8Ak1PH1MXh) | 3:29 |
 | 25 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 |
-| 26 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
-| 27 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
+| 26 | [LLORAR!](https://open.spotify.com/track/1V7YMVEyPas3JlnphWJ5nf) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64) | [LLORAR!](https://open.spotify.com/album/1ADAcjQ6EVTWOzC7yYKQI4) | 1:47 |
+| 27 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
 | 28 | [3 Chakas \(Aferrados Al Culo\)](https://open.spotify.com/track/6coYvVbQYPGlpNBInFvJXS) | [Nasty Vato](https://open.spotify.com/artist/2euk6cwOEpdVumMD89x6qD), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP), [Dulzón](https://open.spotify.com/artist/7KIQoIHGwiMhd84kW3211q) | [El Aferrado](https://open.spotify.com/album/1mjSdq627mNj9Cc7aYjDoE) | 3:01 |
 | 29 | [Nocturna \- Remix](https://open.spotify.com/track/1Pm96NkK5n5JTiMux2a7Hw) | [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4), [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Nocturna \(Remix\)](https://open.spotify.com/album/64KBVRY3R66jdxb9w99ZVH) | 3:55 |
 | 30 | [PANAMIUR](https://open.spotify.com/track/5NRoPUQy0epRhNWGFEPyfv) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Ezya](https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F) | [SEX\-TEX](https://open.spotify.com/album/75J4zinpVSTBEi74HiUxeS) | 2:51 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Entresueños](https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Entresueños](https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz) | 2:56 |
 | 50 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
 | 51 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
-| 52 | [rompopito](https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k) | [gatitaartistica](https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH) | [rompopito](https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc) | 1:59 |
-| 53 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
+| 52 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
+| 53 | [rompopito](https://open.spotify.com/track/5whTsCJbEm0oOKuyL4571k) | [gatitaartistica](https://open.spotify.com/artist/35QbBmTEGYgGdExpZ77zSH) | [rompopito](https://open.spotify.com/album/1WAh3dKS5N8WxTCnAt2IMc) | 1:59 |
 | 54 | [Cuándo Tú Me Tocas](https://open.spotify.com/track/30TTf4yeMehLBTHNPIIu4m) | [Las Prez](https://open.spotify.com/artist/5059qZwA16CgTTFxWTF4Tl), [Just Roger](https://open.spotify.com/artist/3kCpQU5gVbYXISDOtlkIv0) | [Cuándo Tú Me Tocas](https://open.spotify.com/album/51gf6U4IMv23H5p3TYRM1M) | 2:28 |
 | 55 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 56 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 |

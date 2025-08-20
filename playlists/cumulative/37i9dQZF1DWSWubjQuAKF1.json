@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Dominika P\u0142onka",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Jan Marczewski, Hugo Tarres",
   "name": "up next",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "a mo\u017ce?",
       "url": "https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx"
@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 230506,
       "name": "Chcia\u0142e\u015b wiedzie\u0107 o mnie wszystko",
       "url": "https://open.spotify.com/track/6y5s91kwhg8x2Ev357Ji7S"
@@ -1959,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Dancer",
+        "url": "https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180117,
+      "name": "Dancer",
+      "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "album": {
         "name": "Danse Macabre",
         "url": "https://open.spotify.com/album/01Ud1JJmY6UbrqjMOQa8rt"
       },
@@ -2194,6 +2212,28 @@
       "duration_ms": 141428,
       "name": "dla Ciebie m\u00f3g\u0142bym zabi\u0107",
       "url": "https://open.spotify.com/track/2cljfGUtSk2mbIJBo8EKch"
+    },
+    {
+      "album": {
+        "name": "Dla Turyst\u00f3w",
+        "url": "https://open.spotify.com/album/0aFnmKbMvJxPEtC9H2yUb0"
+      },
+      "artists": [
+        {
+          "name": "Znowu Tony",
+          "url": "https://open.spotify.com/artist/6QqUWGJ9uo9vA8BUSG8VGy"
+        },
+        {
+          "name": "Ren\u00e9",
+          "url": "https://open.spotify.com/artist/1ecSx6BZlYBQvDa8HvXzRz"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Dla Turyst\u00f3w",
+      "url": "https://open.spotify.com/track/1xBiiCNb0YUsEftywzL6kd"
     },
     {
       "album": {
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 186435,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/75Xur1uT892l0A6ypOxrhw"
@@ -3498,7 +3538,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 125578,
       "name": "Jersey In July",
       "url": "https://open.spotify.com/track/17YAmnbsjNbnA2Cp4XbWtV"
@@ -3722,7 +3762,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 273829,
       "name": "Kalifornia",
       "url": "https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU"
@@ -4139,6 +4179,36 @@
     },
     {
       "album": {
+        "name": "K\u0141OPOTY",
+        "url": "https://open.spotify.com/album/3k62wujjzZwoNyjduqwWNE"
+      },
+      "artists": [
+        {
+          "name": "Hanafi",
+          "url": "https://open.spotify.com/artist/2JQBdaMfMfTzqCKlLVzndL"
+        },
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        },
+        {
+          "name": "Hubi",
+          "url": "https://open.spotify.com/artist/755Qcptgh9gvozO8dXZcHN"
+        },
+        {
+          "name": "Adash",
+          "url": "https://open.spotify.com/artist/61OiK85G3liQ764VKRLJPk"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "K\u0141OPOTY",
+      "url": "https://open.spotify.com/track/7bl2ekqiQVO6xbQ1qIOdJX"
+    },
+    {
+      "album": {
         "name": "K\u0142\u00f3dki",
         "url": "https://open.spotify.com/album/4l98agKaPj5xStMDqwXYe6"
       },
@@ -4216,6 +4286,24 @@
       "duration_ms": 214838,
       "name": "Lepsze dni",
       "url": "https://open.spotify.com/track/7HnzviYTC1Ag8hPkBaKvHa"
+    },
+    {
+      "album": {
+        "name": "Lepsze dni",
+        "url": "https://open.spotify.com/album/4b98rZf8iYZ5lyux2knvGS"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215842,
+      "name": "Lepsze dni",
+      "url": "https://open.spotify.com/track/3eS2Q7d7Pd8RG1B2eQ8cwA"
     },
     {
       "album": {
@@ -7442,7 +7530,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 200249,
       "name": "Psy",
       "url": "https://open.spotify.com/track/2EAjmK1F2Rb9afmzRUmdCB"
@@ -7634,6 +7722,24 @@
       "duration_ms": 217307,
       "name": "rych\u0142o",
       "url": "https://open.spotify.com/track/7MelYNEVwd91gVDJFpu6it"
+    },
+    {
+      "album": {
+        "name": "Rzeka",
+        "url": "https://open.spotify.com/album/3D3J5dpQAHrawx2KujS2ao"
+      },
+      "artists": [
+        {
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Rzeka",
+      "url": "https://open.spotify.com/track/7EI8yqG3nA8MvfUKGkTIwC"
     },
     {
       "album": {
@@ -7948,7 +8054,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 163013,
       "name": "Siostra",
       "url": "https://open.spotify.com/track/6tqLDvntpOCReWMz5iujGx"
@@ -8819,6 +8925,24 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/5R2bGv16Uk0YL2R1cy394F"
+      },
+      "artists": [
+        {
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215713,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/0hv9WfQMyLzzhut0JsNRaS"
+    },
+    {
+      "album": {
         "name": "Addison",
         "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
       },
@@ -9072,7 +9196,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 188023,
       "name": "Tylko gest",
       "url": "https://open.spotify.com/track/2cHOEJcqGGNv3GVDxgF579"
@@ -9246,7 +9370,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 198000,
       "name": "Vicious Delicious",
       "url": "https://open.spotify.com/track/2Y5QngbL3MJscJPzVhzhGO"
@@ -9510,6 +9634,24 @@
       "duration_ms": 159160,
       "name": "Why she's better",
       "url": "https://open.spotify.com/track/6JvAJgRYNpMG53GjPThcE1"
+    },
+    {
+      "album": {
+        "name": "Wiem co z nami b\u0119dzie",
+        "url": "https://open.spotify.com/album/0Na93OlcBPkgdXFS3Wrc7V"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200268,
+      "name": "Wiem co z nami b\u0119dzie",
+      "url": "https://open.spotify.com/track/1Hcn4nkvEolgue5ZzkN4cj"
     },
     {
       "album": {
@@ -9795,6 +9937,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
+    },
+    {
+      "album": {
         "name": "You Killed The Music",
         "url": "https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW"
       },
@@ -9842,7 +10002,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 165011,
       "name": "Your Villain",
       "url": "https://open.spotify.com/track/4wVC94cEh7rER1zuzFeOsx"

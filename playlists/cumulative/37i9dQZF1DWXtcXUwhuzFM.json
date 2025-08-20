@@ -37181,6 +37181,24 @@
     },
     {
       "album": {
+        "name": "Fort Knox",
+        "url": "https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198757,
+      "name": "Fort Knox",
+      "url": "https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7"
+    },
+    {
+      "album": {
         "name": "Fortified",
         "url": "https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I"
       },

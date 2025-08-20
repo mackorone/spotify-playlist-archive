@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 201891,
+  "num_followers": 201919,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "Soda Pop * Rip Off",
+        "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
+      },
+      "artists": [
+        {
+          "name": "Slant 6",
+          "url": "https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY"
+        }
+      ],
+      "duration_ms": 123240,
+      "name": "What Kind of Monster Are You?",
+      "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "Rhythm and Paranoia: The Best of Bush Tetras",
         "url": "https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 228191,
       "name": "Where's My Wife",
       "url": "https://open.spotify.com/track/7MY32OSePqeLg5YPAqEkEc"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "Soda Pop * Rip Off",
-        "url": "https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ"
-      },
-      "artists": [
-        {
-          "name": "Slant 6",
-          "url": "https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY"
-        }
-      ],
-      "duration_ms": 123240,
-      "name": "What Kind of Monster Are You?",
-      "url": "https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd"
     },
     {
       "added_at": "2024-10-07 20:36:39",

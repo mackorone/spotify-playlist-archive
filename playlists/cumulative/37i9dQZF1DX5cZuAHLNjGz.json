@@ -3581,28 +3581,6 @@
     },
     {
       "album": {
-        "name": "Gabhru!",
-        "url": "https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "date_added": "2025-08-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 200385,
-      "name": "Gabhru!",
-      "url": "https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3"
-    },
-    {
-      "album": {
         "name": "Gaddi Red Challenger",
         "url": "https://open.spotify.com/album/1CcsWReP4vKGkdR1P4tClX"
       },
@@ -6146,6 +6124,28 @@
       "duration_ms": 156426,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/0mNxYkKtXVY9HcFTuTmSPP"
+    },
+    {
+      "album": {
+        "name": "MF Gabhru!",
+        "url": "https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200385,
+      "name": "MF Gabhru!",
+      "url": "https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3"
     },
     {
       "album": {

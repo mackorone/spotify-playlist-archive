@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Olivia Dean
 
-3,496 songs - 7 day 23 hr 5 min
+3,497 songs - 7 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1492,6 +1492,7 @@
 | [I Like Me](https://open.spotify.com/track/6Sxu7v5cVU36u4pSFc4QGs) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Like Me](https://open.spotify.com/album/0XFnNV4tAhhN5HdIoi2OEq) | 2:30 | 2021-07-10 | 2021-11-13 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-19 | 2024-03-30 |
 | [i like the way you kiss me \- burnt](https://open.spotify.com/track/7FKLbfLP8JK1MXKRrYx4Kd) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me \(burnt\)](https://open.spotify.com/album/45Qix7gFNajr6IofEIhhE4) | 2:42 | 2024-03-29 | 2024-06-08 |
+| [I like to touch people](https://open.spotify.com/track/43Cx7YPYDXC1MIAbHzHYg7) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Who's the Clown?](https://open.spotify.com/album/4QkGb3CSKsea5ceCKuWt8X) | 2:04 | 2025-08-19 |  |
 | [I liked it](https://open.spotify.com/track/28T6SN4z5CSSc0sd9gvr4k) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [I liked it](https://open.spotify.com/album/6A12F6iYT2oa853sJhXyHH) | 2:27 | 2024-06-28 | 2025-01-18 |
 | [I Love All My Friends](https://open.spotify.com/track/5cMt4oV1AUS1JNomILulP4) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659) | [I Love All My Friends](https://open.spotify.com/album/32s3XB6VgcLt0YnhfPVVmO) | 2:22 | 2020-07-23 | 2020-08-20 |
 | [I Love This Song](https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [I Love This Song](https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7) | 3:26 | 2022-01-27 | 2022-06-10 |

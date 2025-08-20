@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Babasha
+> Cele mai de succes 50 de hituri în România\. Cover: Aerozen
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,413 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,441 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 12 | [Marae](https://open.spotify.com/track/0B0G4rBspOqDL7Ap9pgFm0) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [ATIPIC](https://open.spotify.com/album/77EqeG8eEhpdTWwYlc4kW0) | 3:02 |
 | 13 | [Meneaito](https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Meneaito](https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb) | 2:39 |
 | 14 | [English Tallava \- From BUZZ HOUSE: The Movie 2](https://open.spotify.com/track/06aLLJPPUMin3MitTaSAkP) | [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64) | [English Tallava \(From BUZZ HOUSE: The Movie 2\)](https://open.spotify.com/album/6auRlsaI2RCv34YLee1nJI) | 3:00 |
-| 15 | [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 |
+| 15 | [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 |
 | 16 | [Să nu uiți cât te\-am iubit](https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Să nu uiți cât te\-am iubit](https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS) | 3:16 |
 | 17 | [FARMACISTA](https://open.spotify.com/track/0QGHB3naWsYs9Sz70RjkZ2) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Z PRINT](https://open.spotify.com/album/0W76I80KanqoAZe1Sg5bso) | 2:22 |
 | 18 | [Regele \- From Buzz House: The Movie 2](https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW), [rares bebelusul](https://open.spotify.com/artist/3eCAhRYvSFzfMpPeSgbxvw) | [Regele \(From Buzz House: The Movie 2\)](https://open.spotify.com/album/3c42cmU7lwbcvIFgVELEMk) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [Your Idol](https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031) | [Saja Boys](https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4), [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Danny Chung](https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33), [KEVIN WOO](https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN), [samUIL Lee](https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:11 |
 | 50 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 |
 
-Snapshot ID: `AAAAAJfWhisCQH/ZN0219qLeyl/pqImQ`
+Snapshot ID: `AAAAAOjeC51JNG90bPJ+nIBh46HVUc4A`

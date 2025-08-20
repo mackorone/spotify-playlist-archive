@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Kings Elliot
 
-388 songs - 20 hr 2 min
+389 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Euphoria \(feat\. Mc Hero\)](https://open.spotify.com/track/4FhBT5uVKfoNbcHPy9Qg5B) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Baby Tape V2](https://open.spotify.com/album/4IJokeTG49W36VJ4WtksXw) | 3:23 | 2025-03-07 | 2025-04-07 |
 | [Eurostar](https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Eurostar](https://open.spotify.com/album/3TIuWz1xtNlre0XVZqm0BS) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [Ewigi Liäbi](https://open.spotify.com/track/5ZhhqmfPUKOvrtApk9fSOh) | [Mash](https://open.spotify.com/artist/3B57Z4DUtbwlGvAlTWzCPl) | [Nid Vo Bärn](https://open.spotify.com/album/1bL3dNNhKomStmA6QuE6KY) | 4:21 | 2025-05-08 | 2025-05-16 |
+| [exit door](https://open.spotify.com/track/3ACRopLRVpHh4WAGyNAPQO) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [exit door](https://open.spotify.com/album/2FSf42CGwejkhmBUJEzpty) | 2:01 | 2025-08-14 |  |
 | [F\*gg Di](https://open.spotify.com/track/7Ke1aQ1Ppg8vzVgp6IHeIH) | [Tommy Vercetti](https://open.spotify.com/artist/26ZoEX0BLjUNba2ED2JyP3), [Dezmond Dez](https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD), [Manillio](https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul) | [Ostbärn gseh und stärbe](https://open.spotify.com/album/7lfj26zC3hF9Gm9mHSqxyk) | 3:39 | 2025-04-24 | 2025-05-02 |
 | [Fading Fire](https://open.spotify.com/track/6MByHM4f80ba7SdRgNDdtZ) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Fading Fire](https://open.spotify.com/album/4948hTZx3MeXxnG39mSniT) | 2:33 | 2025-05-22 | 2025-05-24 |
 | [Fantasy](https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb) | [Gabriel Benedek](https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu) | [Fantasy](https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd) | 2:37 | 2025-02-14 | 2025-04-18 |
@@ -301,7 +302,7 @@
 | [Schlüssu](https://open.spotify.com/track/0NYYj56OODUg2Gz0reX5ZQ) | [Soukey](https://open.spotify.com/artist/5opdTjPNqjz4eHPyYbpoZ6) | [Schlüssu](https://open.spotify.com/album/51wb8H7NqVok5rhnSmhhdp) | 2:42 | 2025-04-24 | 2025-05-02 |
 | [Schön](https://open.spotify.com/track/1swGr7I8NjsAu8iZ6MT1Hx) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V), [Gigi](https://open.spotify.com/artist/4WHIwrxGzplAND7Cgs7aCh) | [Schön](https://open.spotify.com/album/6SgeUyLbCBVSgohKv8x1Ir) | 2:45 | 2025-06-26 |  |
 | [Scorpio](https://open.spotify.com/track/02mBTUzWaTyUQAvoJZ1470) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [WHERE WERE YOU ?!](https://open.spotify.com/album/5YbEYcrhyGVXIRZtxuKRkb) | 2:29 | 2024-09-06 | 2024-11-07 |
-| [Seg Wer](https://open.spotify.com/track/30d3dbDTmLoRsdoErGPFkH) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Seg Wer](https://open.spotify.com/album/3ZzgLaGww7ehVMoPNWMgRD) | 1:54 | 2025-07-31 |  |
+| [Seg Wer](https://open.spotify.com/track/30d3dbDTmLoRsdoErGPFkH) | [Mc Hero](https://open.spotify.com/artist/2G7CDlBznNGyzKFpbngRMx) | [Seg Wer](https://open.spotify.com/album/3ZzgLaGww7ehVMoPNWMgRD) | 1:54 | 2025-07-31 | 2025-08-20 |
 | [September Skies](https://open.spotify.com/track/2MQ6lxKWTVglCe88CDK7Xv) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [September Skies](https://open.spotify.com/album/1A5hVwUNgtvJudlzsnBKdV) | 3:25 | 2025-04-17 | 2025-04-25 |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
 | [she calls me daddy](https://open.spotify.com/track/6411vwtWuPOLhAy4eipNOC) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 2:29 | 2025-04-24 | 2025-05-02 |

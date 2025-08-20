@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Tenors In Chaos",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u5e38\u7530\u5927\u5e0c",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199013,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38"
+    },
+    {
+      "album": {
         "name": "We Are Together",
         "url": "https://open.spotify.com/album/578nh8ZsyB7z51xv3Gkfr2"
       },
@@ -798,6 +816,28 @@
       "duration_ms": 202162,
       "name": "Birds",
       "url": "https://open.spotify.com/track/4NKCtKcL7oGSwJ2EfOBU8N"
+    },
+    {
+      "album": {
+        "name": "Birth of the Yamato",
+        "url": "https://open.spotify.com/album/6EuBKRBMsjMJ241s4nDbUJ"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Wind Loop Case",
+          "url": "https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256799,
+      "name": "Birth of the Yamato",
+      "url": "https://open.spotify.com/track/4qYlmxXfbURWTu2VAsoAwM"
     },
     {
       "album": {
@@ -1559,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "N.S.D",
+        "url": "https://open.spotify.com/album/4wcoVdGyM9o1gFUVBaROfM"
+      },
+      "artists": [
+        {
+          "name": "N.S. DANCEMBLE",
+          "url": "https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217526,
+      "name": "Crash Brain",
+      "url": "https://open.spotify.com/track/1RQNYSoKh0SjvKcVRHAVFr"
+    },
+    {
+      "album": {
         "name": "Crazy Focus",
         "url": "https://open.spotify.com/album/31o0ngsr6RjNxEJqzDbXIt"
       },
@@ -1984,7 +2042,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 189993,
       "name": "Drive Z",
       "url": "https://open.spotify.com/track/1twVNq0Ndt6yb2BHQW7Y45"
@@ -3257,6 +3315,36 @@
     },
     {
       "album": {
+        "name": "In Black",
+        "url": "https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        },
+        {
+          "name": "\u5b88\u771f\u4eba",
+          "url": "https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB"
+        },
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211541,
+      "name": "In Black",
+      "url": "https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4DocDEGzuG9MzMzRUY6Fuy"
       },
@@ -3966,7 +4054,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 182000,
       "name": "Lenha Na Fogueira",
       "url": "https://open.spotify.com/track/1NID0KmcpFGbV9muWTc6ef"
@@ -4362,7 +4450,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 351400,
       "name": "Make Friends",
       "url": "https://open.spotify.com/track/3BbDzepbz5e061ysg6brbk"
@@ -4782,7 +4870,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 201716,
       "name": "moonlight (feat. Shun Ishiwaka & Shunsuke Ochi)",
       "url": "https://open.spotify.com/track/1JuSLgWrZPhEj2nPdBqyg2"
@@ -5930,7 +6018,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 123506,
       "name": "Rippling",
       "url": "https://open.spotify.com/track/0SHGfREepNpkbAceg1G6sC"
@@ -5978,6 +6066,24 @@
       "duration_ms": 290466,
       "name": "Rock With You",
       "url": "https://open.spotify.com/track/3XdUIOw2vuzo8MC2aaSifj"
+    },
+    {
+      "album": {
+        "name": "Rules",
+        "url": "https://open.spotify.com/album/0PglSvJf10SJtN20WP1DOL"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185648,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/0rUuNudQpUBVIuGjbtBvRR"
     },
     {
       "album": {
@@ -7883,6 +7989,24 @@
     },
     {
       "album": {
+        "name": "SUNDANCE FOR BOTTEGA VENETA",
+        "url": "https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR"
+      },
+      "artists": [
+        {
+          "name": "Daiki Tsuneta",
+          "url": "https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189444,
+      "name": "WHEN YOUR OWN INITIALS ARE ENOUGH",
+      "url": "https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5"
+    },
+    {
+      "album": {
         "name": "WHIP.wav",
         "url": "https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC"
       },
@@ -7996,7 +8120,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 194727,
       "name": "Yellow Hello",
       "url": "https://open.spotify.com/track/18rSQpe1DVokN2puNo2Vc0"

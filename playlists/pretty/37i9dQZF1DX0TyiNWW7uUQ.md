@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 
 > Finest collection of Tamil Music from the past 10 years<br/>Cover : Dragon
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,796 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,911 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TyiNWW7uUQ.md) - [plain]
 | 42 | [Imaye Imaye](https://open.spotify.com/track/6H1hnJRQOGQ9djPL3jNu9G) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Raja Rani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1nOeFhmoJdycHgRtf8KDwA) | 3:28 |
 | 43 | [Senthoora](https://open.spotify.com/track/6LtQGnMSsQ859t930Anbyk) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Luksimi Sivaneswaralingam](https://open.spotify.com/artist/1yu8UL7E8i1XSFjHLjbYUb) | [Bogan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HELb8dimYZvajrbPJGPXV) | 4:24 |
 | 44 | [Kannala Kannala \- The Melting Point of Love](https://open.spotify.com/track/4nSwWiwtieiNmRAjy9fEXN) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Kaushik Krish](https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Thani Oruvan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AOEe4UzP8MAtjwvzo2lcQ) | 3:35 |
-| 45 | [Aval](https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep](https://open.spotify.com/artist/5TZzBBayl8u85ZdzhwMHuO), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Manithan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb) | 4:26 |
+| 45 | [Aval](https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva) | [Manithan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb) | 4:26 |
 | 46 | [Hukum \- Thalaivar Alappara](https://open.spotify.com/track/5DgY6Ab0vpyUMKnY9ubFOF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Jailer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zRUzTXH7GtGLxt6uVdARD) | 3:27 |
 | 47 | [Vaa Vaathi](https://open.spotify.com/track/2cpUvniCAhrcbVteDWeiTG) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Vaathi](https://open.spotify.com/album/2weBs8ybMyW4WkUDQN1EC8) | 3:45 |
 | 48 | [Jimikki Ponnu](https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Varisu](https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy) | 3:44 |

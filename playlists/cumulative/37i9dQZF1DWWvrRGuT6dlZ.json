@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "all or nothing",
+        "url": "https://open.spotify.com/album/7HDuF2h3GouJg9bULrE4sN"
+      },
+      "artists": [
+        {
+          "name": "hsiuhsien",
+          "url": "https://open.spotify.com/artist/3K4kBf0ovw9wQbqWbeMniB"
+        }
+      ],
+      "date_added": "2025-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188863,
+      "name": "all or nothing",
+      "url": "https://open.spotify.com/track/7IZDvSY6RjnNYsSGPV3QwV"
+    },
+    {
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/6Ois0be5wOtbLrIL3Ik3iO"
       },
@@ -878,24 +896,6 @@
       "duration_ms": 215760,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/0zOqKu2FY6N6BiNoC91MgY"
-    },
-    {
-      "album": {
-        "name": "all or nothing",
-        "url": "https://open.spotify.com/album/7HDuF2h3GouJg9bULrE4sN"
-      },
-      "artists": [
-        {
-          "name": "Zachary",
-          "url": "https://open.spotify.com/artist/0crgkY846uAuJxxmB7n57p"
-        }
-      ],
-      "date_added": "2025-07-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188863,
-      "name": "all or nothing",
-      "url": "https://open.spotify.com/track/7IZDvSY6RjnNYsSGPV3QwV"
     },
     {
       "album": {

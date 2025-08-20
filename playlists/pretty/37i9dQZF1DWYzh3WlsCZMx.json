@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 41908,
+  "num_followers": 41930,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Sneaky Link Shemix",
+        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 98795,
+      "name": "Sneaky Link Shemix",
+      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "SMD",
         "url": "https://open.spotify.com/album/2v9QOVsyQI2815eaOk4em6"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 182146,
       "name": "LIT BITCH",
       "url": "https://open.spotify.com/track/6rXEeSswc5z1lpRcHcV6zc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Sneaky Link Shemix",
-        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 98795,
-      "name": "Sneaky Link Shemix",
-      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        }
-      ],
-      "duration_ms": 154100,
-      "name": "Spend Sum Cash",
-      "url": "https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Bad Bitch",
         "url": "https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 135263,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "duration_ms": 154100,
+      "name": "Spend Sum Cash",
+      "url": "https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0"
     },
     {
       "added_at": "2022-10-01 16:00:00",

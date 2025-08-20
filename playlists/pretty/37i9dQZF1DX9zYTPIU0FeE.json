@@ -1,6 +1,6 @@
 {
   "description": "In loving memory of the legendary Bra Feya Faku. ",
-  "num_followers": 11564,
+  "num_followers": 11578,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
         }
       ],
-      "duration_ms": 237516,
-      "name": "Baby Ngimanzi Wuthando",
-      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
+      "duration_ms": 199917,
+      "name": "Dr. Philip Tabane",
+      "url": "https://open.spotify.com/track/2JD8gIF0Oclp6odnHWoZNw"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
         }
       ],
-      "duration_ms": 199917,
-      "name": "Dr. Philip Tabane",
-      "url": "https://open.spotify.com/track/2JD8gIF0Oclp6odnHWoZNw"
+      "duration_ms": 237516,
+      "name": "Baby Ngimanzi Wuthando",
+      "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -275,6 +275,38 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "Our People",
+        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+      },
+      "artists": [
+        {
+          "name": "NLite.",
+          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "Our People",
+      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "South African Jam",
+        "url": "https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 229579,
+      "name": "South African Jam - Radio Edit",
+      "url": "https://open.spotify.com/track/4u980mCjnbUX72zchqFw0i"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "The Crossover II",
         "url": "https://open.spotify.com/album/3jyWT4o0KD5VMAuUAJM5BE"
       },
@@ -299,22 +331,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "South African Jam",
-        "url": "https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 229579,
-      "name": "South African Jam - Radio Edit",
-      "url": "https://open.spotify.com/track/4u980mCjnbUX72zchqFw0i"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "In The Wake",
         "url": "https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 418730,
       "name": "Clarion Call",
       "url": "https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "iLadi",
-        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
-      },
-      "artists": [
-        {
-          "name": "Linda Sikhakhane",
-          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
-        }
-      ],
-      "duration_ms": 414587,
-      "name": "iGosa",
-      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -363,18 +363,18 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "Our People",
-        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+        "name": "iLadi",
+        "url": "https://open.spotify.com/album/2fxOL93WjnYC4tNoPGkKqL"
       },
       "artists": [
         {
-          "name": "NLite.",
-          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+          "name": "Linda Sikhakhane",
+          "url": "https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Our People",
-      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
+      "duration_ms": 414587,
+      "name": "iGosa",
+      "url": "https://open.spotify.com/track/4Fl542e8KE9jXiJEBq3fHK"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
+        "name": "A Dance More Sweetly Played",
+        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
+      },
+      "artists": [
+        {
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+        }
+      ],
+      "duration_ms": 348186,
+      "name": "For Oumou Sangar\u00e9",
+      "url": "https://open.spotify.com/track/1Xhykv3oYhzPW178eqA6X7"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
         "name": "Africa",
         "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 271705,
       "name": "The Anchor",
       "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
-        "name": "A Dance More Sweetly Played",
-        "url": "https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7"
-      },
-      "artists": [
-        {
-          "name": "Kyle Shepherd Trio",
-          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
-        }
-      ],
-      "duration_ms": 348186,
-      "name": "For Oumou Sangar\u00e9",
-      "url": "https://open.spotify.com/track/1Xhykv3oYhzPW178eqA6X7"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "Wrapped in Rhythm, Vol. 1",
-        "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
-      },
-      "artists": [
-        {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "P (x) J",
         "url": "https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 272120,
       "name": "P (x) J",
       "url": "https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "Wrapped in Rhythm, Vol. 1",
+        "url": "https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i"
+      },
+      "artists": [
+        {
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a"
     },
     {
       "added_at": "2025-06-24 13:36:01",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-06-24 13:36:01",
       "album": {
-        "name": "MaBrrrrrrrrr",
-        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Jiyane Tree-O",
-          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
-        }
-      ],
-      "duration_ms": 296678,
-      "name": "MaBrrrrrrrrr",
-      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
-    },
-    {
-      "added_at": "2025-06-24 13:36:01",
-      "album": {
         "name": "Njia",
         "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 113750,
       "name": "Njia",
       "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
+    },
+    {
+      "added_at": "2025-06-24 13:36:01",
+      "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
     },
     {
       "added_at": "2025-06-24 13:36:01",

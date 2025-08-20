@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,133 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,173 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 35 | [Water No Get Enemy](https://open.spotify.com/track/4fGbjbqR2psf6zgwwBPecd) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/6zZXBV5eC1oISyUGZFfthw) | 11:00 |
 | 36 | [Olufunmi](https://open.spotify.com/track/5oBMwr31HDA5zW0LKC5RVD) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 5:11 |
 | 37 | [If You Ask Me](https://open.spotify.com/track/1tsCod19WhQKq198y5jyhq) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj) | [Lasso of Truth](https://open.spotify.com/album/07CpwfF3iM9vj2oIqTuk2w) | 3:43 |
-| 38 | [Implication](https://open.spotify.com/track/2JgnAVPrS91zBkuCZ05AXX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [T.I.A "This Is Afrobeats"](https://open.spotify.com/album/3JmTzkOMwlIlXWfvzZbMj4) | 3:27 |
-| 39 | [Yes/No](https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv) | 4:07 |
+| 38 | [Yes/No](https://open.spotify.com/track/0ZaMQuEmdsGaKQOXtiqrHn) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [R & BW](https://open.spotify.com/album/0n1PpUAHQ6DZvQ4mOiSztv) | 4:07 |
+| 39 | [Implication](https://open.spotify.com/track/2JgnAVPrS91zBkuCZ05AXX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [T.I.A "This Is Afrobeats"](https://open.spotify.com/album/3JmTzkOMwlIlXWfvzZbMj4) | 3:27 |
 | 40 | [Stalemate](https://open.spotify.com/track/039djQX5LwqXM93UxvktmR) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Stalemate \(Edit\)](https://open.spotify.com/album/4E9cv2ksnwf1JttplEwyTd) | 12:54 |
 | 41 | [Imagine That](https://open.spotify.com/track/7zZdhUwZnYEtjBRv9VFY1J) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/4dSUWYw7R9pvrdJJEkTy0n) | 4:59 |
 | 42 | [Temptation](https://open.spotify.com/track/46FEsUbii0gqgLDFJwKaq2) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0x7J2lQoSvwTedF3yy2dWL) | 4:44 |

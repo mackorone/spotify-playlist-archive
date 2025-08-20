@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,317 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,342 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 81 | [Tutto Qui](https://open.spotify.com/track/2cpZJsQFxwHvBF0KB5dCaB) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Tutto Qui](https://open.spotify.com/album/7c4WZWTbWCodNxtex7owQN) | 3:31 |
 | 82 | [Vattene amore \(feat\. Amedeo Minghi\)](https://open.spotify.com/track/3roodBW6Fdvl8R2cooFU7L) | [Mietta](https://open.spotify.com/artist/6Mv3vVeRt0ceyptR8xtbEP), [Amedeo Minghi](https://open.spotify.com/artist/0b09Wj9kgEK9v3BBzuz5DZ) | [Canzoni](https://open.spotify.com/album/5xH8VzKB4lKCBz2ADCLZRs) | 4:01 |
 | 83 | [L'amore è](https://open.spotify.com/track/0iOHkI1AyDXfDeoXEFaP2e) | [Enrico Nigiotti](https://open.spotify.com/artist/4Umo1uO9VemTgnkjeUhx8c) | [L'amore è](https://open.spotify.com/album/38KfDURRSexb9tA6Ll5ZT1) | 3:44 |
-| 84 | [Il primo amore](https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Il primo amore](https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo) | 3:21 |
-| 85 | [Sfiorivano le viole](https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Mio Fratello E' Figlio Unico](https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i) | 5:01 |
-| 86 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 |
+| 84 | [Sfiorivano le viole](https://open.spotify.com/track/4UqKJx2oFJvgLIBrBV82Ou) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Mio Fratello E' Figlio Unico](https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i) | 5:01 |
+| 85 | [Ho messo via](https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5) | [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Sopravvissuti e sopravviventi \(2009 Remaster\)](https://open.spotify.com/album/2Fyjpn0vYwNPS7PIsOPLrt) | 4:46 |
+| 86 | [Il primo amore](https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Il primo amore](https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo) | 3:21 |
 | 87 | [Del verde](https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:48 |
 | 88 | [Margherita](https://open.spotify.com/track/3OmkSLoCJEX505kQOZJg1K) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Concerto Per Margherita](https://open.spotify.com/album/5cXd8lH3e53AtK7VXpA1Pe) | 4:30 |
 | 89 | [E Ti Vengo A Cercare \- Remastered 2008](https://open.spotify.com/track/12SccVj2Jqibxc1zRuUzTC) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Fisiognomica \(2008 Remastered Edition\)](https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2) | 3:52 |

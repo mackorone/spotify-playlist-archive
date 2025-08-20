@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-354 songs - 20 hr 16 min
+355 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Into You](https://open.spotify.com/track/2meEiZKWkiN28gITzFwQo5) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3OZgEywV4krCZ814pTJWr7) | 4:04 | 2021-12-16 | 2022-07-29 |
 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2022-07-08 | 2024-04-19 |
 | [ISSUE](https://open.spotify.com/track/14XAip5CLUhA0xtAwXwXGN) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [friends, vol\. 2](https://open.spotify.com/album/4fAtA6cyPkXVjoiP4XmfI0) | 2:35 | 2025-05-27 |  |
+| [It Is What It Is](https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [It Is What It Is](https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5) | 2:26 | 2025-08-18 |  |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-09-11 | 2024-11-30 |
 | [Just Like a Pill](https://open.spotify.com/track/1BpV8IGf4XsRRJf4Xuui9q) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [M!ssundaztood \(Expanded Edition\)](https://open.spotify.com/album/57wJKO7qrPw56iOEKhTmg2) | 3:56 | 2022-09-23 |  |
 | [Keep Me Crazy](https://open.spotify.com/track/2LbJeXxDsWwu3rIz4wdIcK) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Watching The Sky](https://open.spotify.com/album/1wQJ3BLua9Lmy7lcFLHFjh) | 3:16 | 2021-12-16 | 2022-07-29 |

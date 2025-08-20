@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-11-19",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY93LDbwWQHn>Simge</a>, <a href=spotify:playlist:37i9dQZF1EIYGCZWsVWt0b>SANTA</a>, <a href=spotify:playlist:37i9dQZF1EIZiE4aqSJc5g>King</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ8ZJF1M4Cbt>Kygo</a>, <a href=spotify:playlist:37i9dQZF1EIV87q6rQOKjU>Foxy Brown</a>, <a href=spotify:playlist:37i9dQZF1EIUqhqTfcdGLg>Near</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -575,6 +575,28 @@
     },
     {
       "album": {
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
+      },
+      "artists": [
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW"
+    },
+    {
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -1013,6 +1035,32 @@
     },
     {
       "album": {
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
+    },
+    {
+      "album": {
         "name": "The Lady Killer",
         "url": "https://open.spotify.com/album/3MXU6UoWrf4w4bOvjZTlvY"
       },
@@ -1386,6 +1434,28 @@
       "duration_ms": 206613,
       "name": "Karal\u0131m",
       "url": "https://open.spotify.com/track/35VOiGpgQgPv2EJJYZaZ8H"
+    },
+    {
+      "album": {
+        "name": "Karna Su Sayang",
+        "url": "https://open.spotify.com/album/21BdMjk11B9dfhgSErIJFs"
+      },
+      "artists": [
+        {
+          "name": "Near",
+          "url": "https://open.spotify.com/artist/6ojLiXkE6pfuxeb9cfY7fU"
+        },
+        {
+          "name": "Dian Sorowea",
+          "url": "https://open.spotify.com/artist/4lQeXyLf0cvVcxCkM7weZM"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Karna Su Sayang",
+      "url": "https://open.spotify.com/track/2IAzEJoGwn8IGMUQdVUugM"
     },
     {
       "album": {
@@ -2092,7 +2162,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 196334,
       "name": "Recommence-moi",
       "url": "https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N"
@@ -2486,7 +2556,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 219632,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO"
@@ -3304,7 +3374,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 181518,
       "name": "\u00d6n\u00fcm\u00fcz Yaz",
       "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"

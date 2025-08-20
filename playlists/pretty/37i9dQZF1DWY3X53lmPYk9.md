@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft and gentle piano interpretations of Jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,159 likes - 407 songs - 20 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,170 likes - 407 songs - 20 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 | 138 | [When The Night Is Young](https://open.spotify.com/track/6I1tdxYGrDclzP0Zholt5c) | [Will Mays](https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil) | [When The Night Is Young](https://open.spotify.com/album/4ianOqLiP8SZzihfVXANER) | 2:32 |
 | 139 | [Sense of deja vu](https://open.spotify.com/track/6skHdCKQql2JWRHv7A6kY0) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Sense of deja vu](https://open.spotify.com/album/5xiZ8E2KJx45TZ8tRVfff7) | 2:51 |
 | 140 | [The Drive](https://open.spotify.com/track/5mbWFrquPO3HGkShUuoW1s) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [The Drive](https://open.spotify.com/album/0iOkAxEHl2pxlAu9edGyJu) | 2:40 |
-| 141 | [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 |
+| 141 | [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 |
 | 142 | [Dreamer](https://open.spotify.com/track/22Boj3xlWhTJeoE2UdWCzH) | [Lars Griffin](https://open.spotify.com/artist/1qELgxrcF6pJQll3tQfNJN) | [Dreamer](https://open.spotify.com/album/4gs6vplWiAfM30HdjxrHYT) | 2:40 |
 | 143 | [Entitled to it](https://open.spotify.com/track/0bwStnI8IMa1wFwC7yvufp) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Entitled to it](https://open.spotify.com/album/1sOY5lgk4il7M6zCOK0Dit) | 3:27 |
 | 144 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 |

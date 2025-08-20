@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > J Balvin con Jay Wheeler, Maroon 5, Xavi & Omar Montes, Mau y Ricky y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,299 likes - 45 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,296 likes - 45 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 12 | [Los Besos que nos Dimos](https://open.spotify.com/track/0RtnPOLzaIsBcZ2FZ9Xtom) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Los Besos que nos Dimos](https://open.spotify.com/album/0ViJBN7NClwRZCyE4jJIzC) | 2:51 |
 | 13 | [Calambre](https://open.spotify.com/track/6KL1qPK1vv1MvFiWAMdu40) | [Urichi El Son Cubano](https://open.spotify.com/artist/2sy2pUpCewbBZUFafAHrQB), [Samueliyo Baby](https://open.spotify.com/artist/4LuezDRPeENhjIphng4u15), [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [Irrita el Indio](https://open.spotify.com/artist/1kxkxsbGY5vyXscRnljg4E), [Kiki Maya](https://open.spotify.com/artist/3D2TaTRo19g6G957inh9L0) | [Calambre](https://open.spotify.com/album/21zZucwFDjtDMtZSawmv2B) | 3:06 |
 | 14 | [Gafas Carrera](https://open.spotify.com/track/3JAvgj69ef7nfE2ubci0JG) | [C Marí](https://open.spotify.com/artist/7uthE7Fmy5aYOwlu1Yt4Ps), [BLNCO](https://open.spotify.com/artist/0uyyPsii9AYIF6eu60pS4p) | [Gafas Carrera](https://open.spotify.com/album/60ff9aDjnJcx1ePqcV7eJQ) | 2:29 |
-| 15 | [Espera](https://open.spotify.com/track/70IPusjLETWFKWqshFbXXq) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7yUV5pja3SRq32e0fYJLP6), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Los del Volumen](https://open.spotify.com/album/34PkP2cEaWjXkvO6TusatX) | 3:54 |
+| 15 | [Espera](https://open.spotify.com/track/70IPusjLETWFKWqshFbXXq) | [8belial](https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Virtual Flavor](https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA) | [Los del Volumen](https://open.spotify.com/album/34PkP2cEaWjXkvO6TusatX) | 3:54 |
 | 16 | [HONEY & PERC](https://open.spotify.com/track/3ixKddD285ZurHZA8TBMt7) | [yyy891](https://open.spotify.com/artist/5eBluOvPk819K9BZB1XV9v), [Icy Vedo](https://open.spotify.com/artist/1bnzmAfNDUuhvuSNBMsMlN), [JOHNNYFUU](https://open.spotify.com/artist/4qvOXukEJTWZG6jjlUQFEu) | [HONEY & PERC](https://open.spotify.com/album/2lydWXtAU8x5l9iV8LCwlf) | 2:31 |
 | 17 | [DE MI](https://open.spotify.com/track/39MSjfvgZ8PDhQ41779rfv) | [Fran y Nico](https://open.spotify.com/artist/0MshSBlTe7LBnw17PsggdI) | [DE MI](https://open.spotify.com/album/7dTw3UDALPjZd1ZNydUiUd) | 2:40 |
 | 18 | [No Le Tengo Miedo](https://open.spotify.com/track/018HtdijNBaJU6723u1E6M) | [Gonzalo Hermida](https://open.spotify.com/artist/2bk3GMoc0FPUB4nt5gW7Or) | [No Le Tengo Miedo](https://open.spotify.com/album/1gKvUoHsf1qoaxNKkK8cJ6) | 3:24 |

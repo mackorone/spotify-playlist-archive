@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸   AFSKUM
 
-277 songs - 14 hr 10 min
+278 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/track/79pkpQo5RSxW8QKzktg7Su) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp), [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Berlin \(feat\. Marcus.wav\)](https://open.spotify.com/album/3UoNkriZF8Mtot3EcPU7cL) | 2:52 | 2024-06-27 | 2025-03-08 |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 |  |
 | [Big Deal](https://open.spotify.com/track/1QjVJm65BfSr63wbpzk86Q) | [Pascoe](https://open.spotify.com/artist/3EUDC2YMBp9j5hgOVoQE4c) | [Big Deal](https://open.spotify.com/album/6O0cIr1fA4U7hB3z7p6ydQ) | 3:37 | 2025-08-14 |  |
+| [Big Shark Club](https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V) | [EMI WIDE](https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK) | [Big Shark Club](https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd) | 2:20 | 2025-08-14 |  |
 | [Bind Mig](https://open.spotify.com/track/7cfDdSNtV5YcF3E3M0LWjB) | [Sebastian Wegener](https://open.spotify.com/artist/7cb1H8FTdpjQYaNxKSWt9O) | [Bind Mig](https://open.spotify.com/album/0ubeyeKwal621XlihDvhRu) | 3:05 | 2025-02-27 | 2025-03-07 |
 | [blå nætter](https://open.spotify.com/track/5QnW9XOkrkOF4l3KciQwOu) | [Lea Eyðbjørg](https://open.spotify.com/artist/5UTFhx3pJkrUHKlM4gd2rv), [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [blå nætter](https://open.spotify.com/album/1Rb8lqf2mIY0DyerLKkVhS) | 2:38 | 2025-06-12 |  |
 | [Blød](https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Blød](https://open.spotify.com/album/6SYYzhXwDRTRUzHQIrAx6O) | 2:21 | 2024-09-26 |  |
@@ -95,7 +96,7 @@
 | [Fri](https://open.spotify.com/track/0V9y9q6r83jO8dpikgctm0) | [willum](https://open.spotify.com/artist/5TkuPbaXBv3T08JcdvsiDz) | [Fri](https://open.spotify.com/album/4CqgNKlaaPjZHBsqK8lEfy) | 2:47 | 2025-06-26 | 2025-07-04 |
 | [Fri mand](https://open.spotify.com/track/5FAAsjvJYsNE64tbNwTPT9) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Fri mand](https://open.spotify.com/album/0A0bpSED85vWCLuX5NqKyJ) | 2:49 | 2025-05-01 |  |
 | [Følsom dreng](https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t) | [Blaue Blume](https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh) | [Følsom dreng](https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA) | 3:18 | 2024-09-05 | 2025-02-07 |
-| [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 | 2025-06-26 |  |
+| [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 | 2025-06-26 | 2025-08-20 |
 | [Gav Det Et Skud](https://open.spotify.com/track/0GTdMP7x3g3sqWfc90C6il) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Gav Det Et Skud](https://open.spotify.com/album/5VSbZUKdlrZpXEOub9OEZJ) | 2:56 | 2025-02-20 |  |
 | [Genfærd](https://open.spotify.com/track/0DSXSBT15E18Wzmh4JV41L) | [ANYA](https://open.spotify.com/artist/0LtICwkx09q0oc4VjuwJTT) | [Genfærd](https://open.spotify.com/album/3JwZ1Dtmuvc0rN8f02BF2Q) | 3:20 | 2025-02-20 | 2025-03-11 |
 | [Gennem Dit Hjerte \(feat\. Hans Philip\)](https://open.spotify.com/track/2nnuovjlAAfkGRTPW1NJOb) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Når Man Taler Om Solen](https://open.spotify.com/album/4TQRX60tYsCyalmTrFNxrx) | 2:52 | 2024-06-27 | 2025-01-24 |

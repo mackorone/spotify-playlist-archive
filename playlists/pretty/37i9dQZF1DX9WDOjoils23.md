@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,606 likes - 50 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,632 likes - 50 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 4 | [Nit Khair Manga](https://open.spotify.com/track/56xKQu2yEWxz5h2Iv5jwVe) | [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx) | [Nit Khair Manga](https://open.spotify.com/album/1GpHMadC0c2fwLxZPPBe5b) | 2:21 |
 | 5 | [Flowers Of the Same Tree](https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d) | [Bir Singh](https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi), [Jaskirat Singh](https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6) | [Flowers Of the Same Tree](https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6) | 4:44 |
 | 6 | [Uthan Wale Lai Jaange](https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Ishqe De](https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C) | 6:58 |
-| 7 | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 |
+| 7 | [Saugaat \- From Travel Diaries Vol III](https://open.spotify.com/track/7yDUkSB556mIA5tYlxKngO) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Saugaat \(From Travel Diaries Vol III\)](https://open.spotify.com/album/3jHD1uvDbwlRIcSwX4SOcD) | 6:16 |
 | 8 | [Ghazal](https://open.spotify.com/track/3eRa8kceGoVTtF8e2PYvCi) | [Ammri](https://open.spotify.com/artist/5MPjfZvwPc5tjpNNPYDxQr), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Ghazal](https://open.spotify.com/album/7KH85irsR6yzG4GUDEeoaR) | 3:19 |
 | 9 | [Tu Mane Ya Na Mane \- Edit Version](https://open.spotify.com/track/1RjvAAfONgaKgseqqRXZ3B) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Tu Mane Ya Na Mane](https://open.spotify.com/album/2wobOFgWpnQqSP3HUMfjhI) | 14:28 |
 | 10 | [Mahiya Tere Vekan Nu](https://open.spotify.com/track/2DQvBdqEgSFtcGDviaKnGb) | [Aakash kandiara](https://open.spotify.com/artist/0JDYLIDGgqFN492T5InWjT), [The Rish](https://open.spotify.com/artist/5JHD9Mys3Vg6IUgIWRjYN0), [Sharry Shayar](https://open.spotify.com/artist/5TBSoOt1ZXHA2YWqKDY4H8) | [Mahiya Tere Vekan Nu](https://open.spotify.com/album/26IzYb8ASprzkkQBl9kurh) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WDOjoils23.md) - [plain]
 | 49 | [Ikko \- Mikke\-Title Track](https://open.spotify.com/track/0VLOjHoPU01al8NSwcIGIF) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Ikko \- Mikke](https://open.spotify.com/album/3QrDIIhCfGDnpnuw10GJtk) | 6:38 |
 | 50 | [Goriye Main Jana Pardes](https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9) | [Parvez Mehdi](https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ) | [Merian Gallan Yaad Karengi](https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm) | 5:29 |
 
-Snapshot ID: `AAAAAJBAOuegGX7FGnr4WbnoktT2G6X+`
+Snapshot ID: `AAAAABw3Z3c8Ods2kfjupWZhpyons0hD`

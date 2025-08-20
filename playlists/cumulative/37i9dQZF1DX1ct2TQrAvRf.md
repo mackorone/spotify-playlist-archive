@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover \- Dhanda Nyoliwala
 
-321 songs - 17 hr 21 min
+322 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 | 2024-08-13 | 2025-05-24 |
 | [OM](https://open.spotify.com/track/64whxGk19WtoxDzHRbcXJI) | [Brodha V](https://open.spotify.com/artist/6xl0mjD1B4paRyfPDUOynf) | [OM](https://open.spotify.com/album/1gzJo2q9a9ZhgJbibcBBsA) | 5:10 | 2025-08-08 | 2025-08-16 |
 | [On Top](https://open.spotify.com/track/4SJMuaIYcBS8ke96lDYOsw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [On Top](https://open.spotify.com/album/6ephunHyThVj3tQkGgZKpJ) | 3:03 | 2023-06-08 | 2024-09-26 |
-| [One Who Breaks Them All \(feat\. Agnijita Sen\)](https://open.spotify.com/track/7qxHEcU31PGAHIdzSgLQBn) | [Trilok](https://open.spotify.com/artist/3KGvPJVuMw3dluy8gXmoFd), [Agnijita Sen](https://open.spotify.com/artist/4Lw4HLMsSt8uXZ6bvkwZJE) | [Devi](https://open.spotify.com/album/3cUr4H7l3mNOqvoczhGdzT) | 3:02 | 2025-08-15 |  |
+| [One Who Breaks Them All \(feat\. Agnijita Sen\)](https://open.spotify.com/track/7qxHEcU31PGAHIdzSgLQBn) | [Trilok](https://open.spotify.com/artist/3KGvPJVuMw3dluy8gXmoFd), [Agnijita Sen](https://open.spotify.com/artist/4Lw4HLMsSt8uXZ6bvkwZJE) | [Devi](https://open.spotify.com/album/3cUr4H7l3mNOqvoczhGdzT) | 3:02 | 2025-08-15 | 2025-08-20 |
 | [Pablo](https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 4:39 | 2023-03-27 | 2023-08-18 |
 | [Pacha Parishkari](https://open.spotify.com/track/1AX9IVuMQ9WThp1koU7sdY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ), [Jay Stellar](https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk) | [Pacha Parishkari](https://open.spotify.com/album/1PFv6IHNN4aVjxqLNph5rG) | 2:58 | 2025-02-21 |  |
 | [Paisa Paisa](https://open.spotify.com/track/5Yyi121XIsVNEfCHcHFbcG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Paisa Paisa](https://open.spotify.com/album/3f4IXfdh2675rAhyHU1AFx) | 3:06 | 2025-06-20 | 2025-07-05 |
@@ -276,6 +276,7 @@
 | [Showtime](https://open.spotify.com/track/5WOcMWqXg2nTnWrAfJwf4v) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:58 | 2023-03-27 | 2023-08-09 |
 | [SHUNDA MANDI](https://open.spotify.com/track/5eOZW6Sqmt34JHdZdYjHd2) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rishi Roy](https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH) | [SHUNDA MANDI](https://open.spotify.com/album/2mysz6I2aTYuvfgeXA6Lx1) | 3:14 | 2025-04-04 |  |
 | [Shut Up](https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [For The Day One$](https://open.spotify.com/album/1OLxqHVU7CIkB90Y13yCzT) | 2:46 | 2024-07-05 | 2025-03-01 |
+| [Sigma Paiyan \- From "Think Indie"](https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Sigma Paiyan \(From "Think Indie"\)](https://open.spotify.com/album/4sTHhxgBEZifnSNjbmkyg6) | 2:29 | 2025-08-19 |  |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2023-06-08 | 2024-09-14 |
 | [Snake](https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Snake](https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd) | 4:41 | 2023-04-19 | 2024-08-03 |
 | [Soch](https://open.spotify.com/track/38F8BE500Tybqd3jrzp5Av) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Soch](https://open.spotify.com/album/0lQ9GvffDL17ufwTEqA7gm) | 2:36 | 2023-03-27 | 2023-07-18 |

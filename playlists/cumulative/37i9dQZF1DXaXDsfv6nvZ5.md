@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: TAVE
 
-808 songs - 2 day 0 hr 21 min
+809 songs - 2 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL) | 3:38 | 2023-05-05 | 2024-03-16 |
 | [FORTUNATE](https://open.spotify.com/track/4n2y2jCJpQwy1Ywa85oLmA) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [FORTUNATE](https://open.spotify.com/album/62nqgY2yFKAn82kGc4OgZs) | 3:06 | 2024-07-19 | 2024-09-07 |
 | [Fragile](https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Fragile](https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO) | 4:02 | 2021-12-03 | 2022-07-20 |
-| [Free Fallin'](https://open.spotify.com/track/4hmmx1yd7U5LKmU8jkrzuV) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Free Fallin'](https://open.spotify.com/album/3JQ4zns5D1DTCoAgmjjweC) | 2:17 | 2024-10-13 |  |
+| [Free Fallin'](https://open.spotify.com/track/4hmmx1yd7U5LKmU8jkrzuV) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Free Fallin'](https://open.spotify.com/album/3JQ4zns5D1DTCoAgmjjweC) | 2:17 | 2024-10-13 | 2025-08-20 |
 | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ) | 4:01 | 2024-05-17 |  |
 | [Full Speed](https://open.spotify.com/track/0ZcN9Vx5j4exYEyAlThwKa) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Full Speed](https://open.spotify.com/album/0Kjcg6xKRgmN5klFo9EPWi) | 3:19 | 2025-02-21 | 2025-05-04 |
 | [Funk Witch U \(feat\. George Clinton\)](https://open.spotify.com/track/4NLIDxpxwFB023SbO93eDo) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:19 | 2024-03-22 | 2024-06-10 |
@@ -300,6 +300,7 @@
 | [Hold Me Up](https://open.spotify.com/track/2OjQHB8BoADlEToXt2HeDb) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Give It More Time](https://open.spotify.com/album/11EHl3HcQlvBlTniWjt6Ld) | 3:24 | 2025-01-31 |  |
 | [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 | 2024-01-21 |
 | [Hollywood \(feat\. Earth, Wind & Fire + Hazel Monét\)](https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Hazel Monét](https://open.spotify.com/artist/1bTg11MvR0Htzj18jZ9ENg) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:37 | 2023-08-25 |  |
+| [Holy Father](https://open.spotify.com/track/33w29FnS86hDdKZrDN3Cmc) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Holy Father](https://open.spotify.com/album/4huLEgyn0VIOpuZs1k3pJ1) | 2:16 | 2025-08-15 |  |
 | [Hope & Love](https://open.spotify.com/track/0sv8Os7FyqzVDNVrxcgRuq) | [The Pocket Queen](https://open.spotify.com/artist/4VjLpSXI7zOBMj8jsFAP9w), [The Royal Flush](https://open.spotify.com/artist/40WNjE5OE1DuK5JvSlsrAb), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Hope & Love](https://open.spotify.com/album/51tnMbvrCU8Wnjt0TAxCfk) | 5:07 | 2025-02-28 | 2025-05-10 |
 | [Hopes and Dreams \- Abbey Road After Hours Sessions](https://open.spotify.com/track/2GI2CqfgtVHUH2DFEUWW9B) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Hopes and Dreams \(Abbey Road After Hours Session\)](https://open.spotify.com/album/1HTDlnGtmEPI6CDTZWhkR3) | 5:06 | 2024-10-04 | 2025-03-22 |
 | [Hotel Lobby](https://open.spotify.com/track/1YjGMLIu5NmX7A0p6AQsCJ) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Hotel Lobby](https://open.spotify.com/album/23MJIfVoGJi3Svn0xgKUUZ) | 3:08 | 2025-03-14 | 2025-07-26 |

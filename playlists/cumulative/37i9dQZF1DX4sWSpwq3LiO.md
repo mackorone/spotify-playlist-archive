@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,803 songs - 3 day 8 hr 1 min
+1,805 songs - 3 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,6 +854,7 @@
 | [Lofoten](https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Lofoten](https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD) | 2:41 | 2023-05-09 |  |
 | [Lonely Children](https://open.spotify.com/track/3qOEq8x1ayOUmvcEvzkPux) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Lonely Children](https://open.spotify.com/album/11ytfVbaf7XPoKghET8RIy) | 2:44 | 2020-09-01 | 2021-10-01 |
 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 | 2021-10-13 | 2022-04-29 |
+| [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-18 |  |
 | [Lonewolf](https://open.spotify.com/track/65lkARn7lMcwoDtySoAubT) | [Emmanuelle Rimbaud](https://open.spotify.com/artist/25eoowiv7avebKZvqc7knq) | [Lonewolf](https://open.spotify.com/album/6XlsHNPS58hVCZKl8O5kLu) | 2:35 | 2020-05-06 | 2021-03-24 |
 | [Longest days](https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Longest days](https://open.spotify.com/album/5jQDQGF85HaPrqvrVQBAMi) | 2:45 | 2022-07-06 | 2024-01-03 |
 | [Longevity](https://open.spotify.com/track/4Aq7uO12FRC7JnLqY4T7Z7) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Longevity](https://open.spotify.com/album/2hGzgUz7lBVvXlDft2lmlb) | 3:07 | 2019-05-26\* | 2019-12-17 |
@@ -1464,6 +1465,7 @@
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-09-16 | 2022-08-27 |
 | [Styx](https://open.spotify.com/track/5GpUw9Az0LB37zYMrLb97b) | [Plïnkï Plønkï](https://open.spotify.com/artist/7GHBho1pRWUW3jiA1oOFGA) | [Styx](https://open.spotify.com/album/1OxEIo8Aj1CeNiFNnej812) | 2:06 | 2022-03-31 | 2022-10-25 |
 | [Sugarcane](https://open.spotify.com/track/6uWjjaiquXsjuQuks2mZME) | [Ana Olgica](https://open.spotify.com/artist/29nLvGubwGVV9I4kF3nldc) | [Sugarcane](https://open.spotify.com/album/4vrgKKdOXkFTiuzjcDwYNE) | 2:24 | 2019-05-26\* | 2021-06-03 |
+| [Summer Dream](https://open.spotify.com/track/010G1VMphoKTZPrDRYAJDY) | [Della Valle](https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm) | [Summer Dream](https://open.spotify.com/album/43DI5lCugo6Meef3a9Qr69) | 2:55 | 2025-08-18 |  |
 | [Summer Light](https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [Summer Light](https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA) | 2:12 | 2022-03-10 | 2022-12-21 |
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2021-09-09 | 2022-05-21 |
 | [Summer Waltz / The Drive](https://open.spotify.com/track/4FSCzl1G0xzaaE6hiNELv4) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Breathe In \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0I6UcVWLhpFVWdMqKzU0XU) | 1:30 | 2019-05-26\* | 2019-11-14 |

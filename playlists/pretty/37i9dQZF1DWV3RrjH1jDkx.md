@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Tobias Sten & Synne Vo, Segertåget, Zara Larsson og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,528 likes - 107 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,525 likes - 107 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

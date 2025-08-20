@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: ITZY x FCB) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: JAESSBEE) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Bora",
       "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Do What I Want",
+        "url": "https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0"
+      },
+      "artists": [
+        {
+          "name": "MONSTA X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Do What I Want",
+      "url": "https://open.spotify.com/track/2Pe2lfTj1oN6qykfZhNDnV"
+    },
+    {
+      "album": {
         "name": "DON'T FIGHT THE FEELING - Special Album",
         "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
       },
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 204466,
       "name": "Fighting (Feat. Lee Young Ji)",
       "url": "https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 149453,
       "name": "Gas Me Up",
       "url": "https://open.spotify.com/track/0f8PmjBDqhUYDipxqMieOY"
@@ -5036,7 +5054,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/4JjJ1KNRrzqstSY0uDuys3"
@@ -5584,7 +5602,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/6hAznmvhIfHE4vSZYsyONI"
@@ -8549,6 +8567,24 @@
     },
     {
       "album": {
+        "name": "SHUT THAT",
+        "url": "https://open.spotify.com/album/2QQAcZRaWAmaxiE6jUY5HA"
+      },
+      "artists": [
+        {
+          "name": "JAESSBEE",
+          "url": "https://open.spotify.com/artist/17RX24onuwf8gksn9Xa8hq"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "SHUT THAT",
+      "url": "https://open.spotify.com/track/4Gym2x61AmBJnSqV9WYfeK"
+    },
+    {
+      "album": {
         "name": "Love Right Back - The 1st Mini Album",
         "url": "https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV"
       },
@@ -9028,7 +9064,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 233725,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3CWuU5kIw8zsWJTcgreUwl"
@@ -9170,7 +9206,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 173218,
       "name": "sunburn",
       "url": "https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS"
@@ -9282,6 +9318,24 @@
       "duration_ms": 174146,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
+    },
+    {
+      "album": {
+        "name": "Surf",
+        "url": "https://open.spotify.com/album/5XC6zgE2x581zlkJdOxjsZ"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/2bJI4NceMjye26SmzewutW"
     },
     {
       "album": {
@@ -10156,7 +10210,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5kLVrmG2ZaVT2aYIrE7u3S"
@@ -10760,7 +10814,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 217067,
       "name": "Welcome to the Show",
       "url": "https://open.spotify.com/track/3BMAWsBp4jc35mCmebC3WT"

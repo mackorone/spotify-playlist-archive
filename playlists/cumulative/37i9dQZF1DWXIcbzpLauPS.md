@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Fit For A King
 
-1,297 songs - 3 day 7 hr 28 min
+1,298 songs - 3 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 | 2022-07-13 | 2022-07-17 |
 | [Blind Kings](https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Blind Kings](https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG) | 4:02 | 2022-07-13 | 2022-07-21 |
 | [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-03-08 | 2024-12-13 |
+| [BLOOD](https://open.spotify.com/track/35MyLnfHifLWW15xh2OneJ) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [BLOOD](https://open.spotify.com/album/0O2SirOLrTgeR090nKsXKO) | 3:11 | 2025-08-15 |  |
 | [Blood $oda](https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Blood $oda](https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH) | 3:04 | 2024-08-12 | 2024-12-19 |
 | [Blood & Honey](https://open.spotify.com/track/2stPzQY6XyjRTtsevzgjdA) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol\. 2](https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx) | 3:17 | 2022-02-11 | 2022-05-06 |
 | [Blood Eagle](https://open.spotify.com/track/7k4bQ69rhUem3UcfJN8brF) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Blood Eagle](https://open.spotify.com/album/5bGQuHM7O09qh8Iqftm9lD) | 4:37 | 2021-12-17 | 2022-01-22 |
@@ -1281,7 +1282,7 @@
 | [Wildfires](https://open.spotify.com/track/0oFMLBF1GaN3xMCAxKfmKm) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Wildfires](https://open.spotify.com/album/4SjnWy1dRE4laBw4qAerMf) | 3:24 | 2024-08-30 | 2024-09-09 |
 | [Wish You The Worst](https://open.spotify.com/track/5bP9loKqIou1QjTpjBD4x7) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Wish You The Worst](https://open.spotify.com/album/1fy4e4QBePdSa2IE1PfPQ9) | 3:06 | 2025-08-15 |  |
 | [Wishing Well](https://open.spotify.com/track/2evEFxMnGDwCK30gpEEpXH) | [Saviour](https://open.spotify.com/artist/6xVW2xsoMQbvcUTwqYxf0y) | [Shine & Fade](https://open.spotify.com/album/3CBH9X13DU7f7hBwyzLNFB) | 4:10 | 2022-04-29 | 2022-07-08 |
-| [Wither](https://open.spotify.com/track/0djLamzAIwucyBaTzVyUHp) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [SEVEN.](https://open.spotify.com/album/7JeN1aczcGqtq4TZ5ljZm9) | 2:31 | 2025-06-30 |  |
+| [Wither](https://open.spotify.com/track/0djLamzAIwucyBaTzVyUHp) | [Deadlands](https://open.spotify.com/artist/75ItOLlAwbDFJFx3PhyzTc) | [SEVEN.](https://open.spotify.com/album/7JeN1aczcGqtq4TZ5ljZm9) | 2:31 | 2025-06-30 | 2025-08-20 |
 | [Without a Whisper](https://open.spotify.com/track/6QElYAt0RHossldXx3Udv9) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Heavener](https://open.spotify.com/album/0OUb9GCxls0erHrS98Htv1) | 4:17 | 2023-03-24 | 2024-01-23 |
 | [Without End](https://open.spotify.com/track/6vE0AhseePfs2so9cqszSh) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Without End](https://open.spotify.com/album/0IA2Y65MEFgE8x2y6OhNwP) | 2:34 | 2022-07-13 | 2022-07-20 |
 | [Witness The End](https://open.spotify.com/track/6nUskXqES0NwMOzgdZf8u7) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [Chris Motionless](https://open.spotify.com/artist/2bulKOP1y1iUYGE6FcMrHd) | [Witness The End](https://open.spotify.com/album/2a5Btl1VIyyCunyQ9aGzXk) | 4:08 | 2025-07-18 |  |

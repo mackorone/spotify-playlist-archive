@@ -2,7 +2,7 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Official髭男dism
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: back number
 
 1,594 songs - 4 day 2 hr 53 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Gavin Adcock
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,407 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,343 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 28 | [20 Cigarettes](https://open.spotify.com/track/0YsIYFRoxkmEvbKCwTp0Tg) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 2:40 |
 | 29 | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/track/31dKu1hasoYuOq0ycWL0QF) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Forget Tonight \(ft\. Tyler Hubbard\)](https://open.spotify.com/album/78XgwQ4p4EMhZvGFvMvCdV) | 2:45 |
 | 30 | [Easy To Love](https://open.spotify.com/track/3yG18Ue8wjrlcHfCiKYgjs) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Easy To Love](https://open.spotify.com/album/1ttV5Nga8CAgetgj5MGaRN) | 2:44 |
-| 31 | [Under My Skin](https://open.spotify.com/track/04tSh2if4TZgvIU1mEadZE) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Under My Skin](https://open.spotify.com/album/6HpT5yCZnAWm8x7EKxPaZ4) | 2:53 |
+| 31 | [under my skin](https://open.spotify.com/track/04tSh2if4TZgvIU1mEadZE) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [under my skin](https://open.spotify.com/album/6HpT5yCZnAWm8x7EKxPaZ4) | 2:53 |
 | 32 | [Sorryville](https://open.spotify.com/track/2Ri6KgtAyWJwJNc8ooQcGs) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Sorryville](https://open.spotify.com/album/6C2CseI4u2YgwW6RzE5Pa5) | 2:54 |
 | 33 | [Circa 1943](https://open.spotify.com/track/5MvsDMllJt9Sxe0iPsYLzY) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Circa 1943](https://open.spotify.com/album/3dY0zgl3HRBwXqNVWisi6k) | 4:19 |
 | 34 | [Marlboro Man](https://open.spotify.com/track/6Wzl4TwDZLRDmFmv1KHyp5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Marlboro Man](https://open.spotify.com/album/76zkHW7rcIRtQ8h9Cc2YTW) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: Rombongan Bodonk Koplo, Ncum
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,132 likes - 54 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,212 likes - 54 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

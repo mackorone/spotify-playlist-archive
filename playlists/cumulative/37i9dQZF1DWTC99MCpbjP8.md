@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-656 songs - 1 day 4 hr 25 min
+659 songs - 1 day 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,6 +415,7 @@
 | [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-04-22 | 2023-08-08 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-22 | 2024-02-14 |
 | [Overcome](https://open.spotify.com/track/6a29Wq1AQWAGVdJGwYDXJs) | [Thad Caoimhe](https://open.spotify.com/artist/5yf4zjHyDTrEX2STRfIV3C) | [Overcome](https://open.spotify.com/album/3r50b0k1FpdZfmoPg8FVQY) | 2:24 | 2022-04-22 | 2024-02-14 |
+| [Pacific Rim](https://open.spotify.com/track/5Le01r2jl0VfV4K9u7e5tB) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Pacific Rim](https://open.spotify.com/album/5mThTCK1I72pdGhXM8V8MB) | 2:34 | 2025-08-19 |  |
 | [Pacífico](https://open.spotify.com/track/48NKvaN1zc5pCUaqGLc82G) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Pacífico](https://open.spotify.com/album/6iFHWlxXAT6HQ8QS5prOCD) | 2:33 | 2024-03-04 |  |
 | [Paradise Waiting](https://open.spotify.com/track/1ZLB65RUVj9ahQZ1OV9I8H) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Paradise Waiting](https://open.spotify.com/album/7xC1EtGPuHLOUYXfKMAXU2) | 3:45 | 2024-08-07 |  |
 | [Pardon](https://open.spotify.com/track/2Gv0GXMGtNEcMYjDNVpSRu) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Pardon](https://open.spotify.com/album/1k0MRE52O7Lxth7DSEyYRz) | 2:30 | 2022-04-22 | 2023-08-15 |
@@ -500,6 +501,7 @@
 | [Skymning](https://open.spotify.com/track/2jRlPB32YMnpz1qcIY97oY) | [Vanja Lind](https://open.spotify.com/artist/2L3FiPy8Ek8kHpSD6EdFLV) | [Skymning](https://open.spotify.com/album/6iB98euArvi49Fl9ys2CQP) | 2:03 | 2022-04-22 | 2024-04-16 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-22 | 2025-05-15 |
 | [Slipping Through My Fingers](https://open.spotify.com/track/2OkAHVd8rZLFcIYYqmqKGR) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Slipping Through My Fingers](https://open.spotify.com/album/08Jyf59VQRCGXub4ktyp29) | 2:41 | 2023-01-31 | 2023-02-28 |
+| [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 | 2025-08-19 |  |
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-04-22 | 2023-01-27 |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-04-22 | 2024-11-14 |
 | [Small happy things](https://open.spotify.com/track/2F2t2bas7fraE3LlsjlCyh) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Small happy things](https://open.spotify.com/album/57TduEjsf2df4N636cbcM8) | 2:19 | 2024-03-19 |  |
@@ -511,6 +513,7 @@
 | [Solace](https://open.spotify.com/track/2AHSUI2C0WLWrknZcPDpft) | [Lunar Lull](https://open.spotify.com/artist/0w0zHn5v90BiyC7Puy5dPo) | [Solace](https://open.spotify.com/album/2bq4ptv6LwMRFnNedCAp5n) | 2:12 | 2023-09-11 |  |
 | [Solfeggio](https://open.spotify.com/track/0iZ9VfP5adrL4UdIa5D2Cs) | [Finja Seiden](https://open.spotify.com/artist/4HgoiVnZ4T75NSjXygiOyH) | [Solfeggio](https://open.spotify.com/album/6potW1KKhU50Il0kKXrdzo) | 2:54 | 2022-04-22 | 2023-08-15 |
 | [Solitude](https://open.spotify.com/track/1zFkdQz9JTr02jBEekVp8e) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Solitude](https://open.spotify.com/album/60GqHa76MYi3AKen22bzVe) | 3:22 | 2022-04-22 | 2023-10-05 |
+| [solitude](https://open.spotify.com/track/4PZob6mB5Tcf5JGRa6lq4n) | [Félix Frays](https://open.spotify.com/artist/0usPMjkhvwpAa45RWFao1p) | [solitude](https://open.spotify.com/album/4eQmlilKMCq0T87rRpA206) | 2:29 | 2025-08-19 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2022-04-22 | 2023-10-05 |
 | [Somewhere](https://open.spotify.com/track/6WZ0FZFfh0kwNYOwaxlAr7) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Somewhere](https://open.spotify.com/album/6wP1XjtfhZjzvFiDTJMfgV) | 3:02 | 2022-04-22 | 2023-10-05 |
 | [Sonder](https://open.spotify.com/track/3piXN9w4wKQGll4ryYpVl5) | [Eugene Goh](https://open.spotify.com/artist/2xWyi5H9hUsrq5V7wZVdNI) | [Sonder](https://open.spotify.com/album/5kJ4JlLmhkJiMnzkMSStON) | 2:55 | 2022-04-22 | 2022-07-28 |

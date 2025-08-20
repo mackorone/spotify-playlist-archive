@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Djion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,940 likes - 158 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,900 likes - 158 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 5 | [Little Gods](https://open.spotify.com/track/68BECk0aZS6jm7z3fqOkG6) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE) | [Little Gods / My Suitor](https://open.spotify.com/album/5FQ36szYCOzMNOTuTXgKs3) | 3:40 |
 | 6 | [my man](https://open.spotify.com/track/12STQE6jL68yjGk63UCmPn) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:59 |
 | 7 | [Penthouse Samba](https://open.spotify.com/track/0GQA5sHHPC3cX3JEJQYFTS) | [Marina Zispin](https://open.spotify.com/artist/4eDyyrcE0ztmLfCdwCiC2o) | [Now You See Me, Now You Don't](https://open.spotify.com/album/2DlJlWjvi1XNl3n0DnJgtS) | 4:10 |
-| 8 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
+| 8 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
 | 9 | [The Echo](https://open.spotify.com/track/13vv2vy3F15e62jVqnnGAA) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Desire / The Echo](https://open.spotify.com/album/6rOgSgLPH6OtQuJsX7inJP) | 5:06 |
 | 10 | [Lonyo!](https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Lonyo!](https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE) | 3:35 |
 | 11 | [High](https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [High](https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik) | 2:56 |

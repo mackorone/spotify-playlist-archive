@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-806 songs - 1 day 12 hr 23 min
+807 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,6 +362,7 @@
 | [Konbi](https://open.spotify.com/track/6P8KIcJyzzBst9rTZoTpFh) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Konbi](https://open.spotify.com/album/7oujpeIz11LxhncniITIoh) | 2:15 | 2021-12-23 | 2022-05-29 |
 | [Kurumi](https://open.spotify.com/track/3j1b88dEz4HILuRltaaC00) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0kyAObNeOcC4abeGJkLW0K) | 2:43 | 2022-04-14 | 2022-07-29 |
 | [Kurumi](https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 2:43 | 2022-07-28 | 2022-12-24 |
+| [Kyoto](https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS) | [Nahokimama](https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Kyoto](https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ) | 3:07 | 2025-08-20 |  |
 | [Kyoto](https://open.spotify.com/track/7IjGOT0SryOTficNfVV08m) | [Yokohono](https://open.spotify.com/artist/6wN9Myp6ZoPeY86ST60sGU) | [Kyoto](https://open.spotify.com/album/2mZ9JlxCat3rYrYssJQcSW) | 1:38 | 2021-12-23 | 2022-05-02 |
 | [Kyoto Gardens](https://open.spotify.com/track/4pMa1ovtjpq8kTiTxUGQYU) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Kyoto Gardens](https://open.spotify.com/album/48r9zb2kBSfegLL4HvLE5o) | 2:45 | 2021-12-23 | 2022-01-28 |
 | [kyou](https://open.spotify.com/track/3aRUdjDIGzHoH93jHy07YZ) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [kyou](https://open.spotify.com/album/1bsTiQ9tGAR7wUveZ6oTo7) | 1:58 | 2022-01-06 | 2022-07-25 |
@@ -608,7 +609,7 @@
 | [sanctuary](https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [sanctuary](https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t) | 3:15 | 2025-02-09 | 2025-04-01 |
 | [Sasanqua](https://open.spotify.com/track/08POPoMeYXmzyOnrxLQRlU) | [physis](https://open.spotify.com/artist/3NPEPBUgyPFCn4qNjKdhMx), [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Sasanqua](https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd) | 2:14 | 2025-04-04 |  |
 | [Saudade Ouchi Jikan](https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp) | [NASSO](https://open.spotify.com/artist/66sr7J88vUI5GteXcgL5AJ) | [CLUBE DA OUCHINA](https://open.spotify.com/album/1TkPZxYESG1GVLE24oVpyH) | 3:21 | 2021-12-23 | 2022-01-28 |
-| [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 |  |
+| [say it all](https://open.spotify.com/track/0oyCGXicN0nEnckVP1ADOm) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [say it all](https://open.spotify.com/album/6NAG1zrtwVkQKQgG34pf9Q) | 2:55 | 2021-12-23 | 2025-08-20 |
 | [Scintillate](https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Scintillate](https://open.spotify.com/album/0adv9JqoGDSm3WhTL3jzcq) | 2:53 | 2025-02-09 |  |
 | [sea birth](https://open.spotify.com/track/4XXcR2WtL63vIchwSyuy20) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [sea birth](https://open.spotify.com/album/2VrDUcY0fGBOoLi7g4khGa) | 2:38 | 2022-01-06 | 2022-01-09 |
 | [Seadragon](https://open.spotify.com/track/7boUHR6t1fhZ3ClhU8lJ3C) | [NOA NOA](https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0) | [Seadragon](https://open.spotify.com/album/5TsByUC60f0sDd5FjadG1B) | 2:40 | 2024-12-14 | 2025-04-18 |

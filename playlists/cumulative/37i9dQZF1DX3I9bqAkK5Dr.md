@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! <br/>Cover : Jagdish, Ayaan, Damini
 
-390 songs - 23 hr 19 min
+391 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Senorita](https://open.spotify.com/track/3sOIbX8Z78FhbGlkEyyGik) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk) | [Senorita](https://open.spotify.com/album/7pQCwjwozrK3RFejeLP6UA) | 3:26 | 2023-11-20 | 2023-12-20 |
 | [Shahbano \- Telugu](https://open.spotify.com/track/6ShmStKOGEONmr439CaoO1) | [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Sri Harsha Emani](https://open.spotify.com/artist/7DRvW1g6oBZ7Aoc7waaVit), [Sony Komanduri](https://open.spotify.com/artist/6wjRMnOpf2jN6VsNn3SkPW) | [Shahbano \- Telugu](https://open.spotify.com/album/4EKjpV209OQhIjhhd2YkVf) | 3:53 | 2024-07-24 |  |
 | [Shashi](https://open.spotify.com/track/34LZWWbtsf1EeuHFFXCh4j) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Shashi](https://open.spotify.com/album/4M7U0wd17LfToupjlmn4GZ) | 4:02 | 2022-11-25 | 2024-03-09 |
+| [Shyama Shyam](https://open.spotify.com/track/4rrtLmqjnTuyg8KgsZ7d1K) | [Paul Prashanth](https://open.spotify.com/artist/5bIgxzh5iv4FXQpJcFWcGf), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Shyama Shyam](https://open.spotify.com/album/6Fr6MEyJc80Fz0A9umQHG5) | 5:21 | 2025-08-19 |  |
 | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9) | [Hanumanth Yadav](https://open.spotify.com/artist/43kJUZHwzDo9sZtO81v2zl) | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ) | 3:27 | 2023-05-19 | 2024-02-15 |
 | [Sin Amor](https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Sin Amor](https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb) | 2:54 | 2023-05-31 | 2023-07-11 |
 | [Sinnadhani Soopule](https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Dasari Meghanaa Naidu](https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU) | [Sinnadhani Soopule](https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL) | 2:42 | 2024-05-20 |  |

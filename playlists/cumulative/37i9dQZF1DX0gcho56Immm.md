@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: haloplus+
 
-159 songs - 9 hr 2 min
+160 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/6kvYlDN7rVedMOE7VxeQGg) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/album/59V4YNExoSF8HH4JVEtn6k) | 7:03 | 2025-03-13 |  |
 | [Boys In Movies](https://open.spotify.com/track/52aOlXUlDbqSu811EeWP3H) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [I Guess Nothing Will Be The Same](https://open.spotify.com/album/5WBpaqXvTImljfXirlFZs5) | 3:44 | 2025-03-13 | 2025-08-09 |
 | [Candy Says](https://open.spotify.com/track/3kqBmvGhDR5TpwWci9vMHn) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Candy says](https://open.spotify.com/album/5PKcI4pE9f3m5JFHZ1ztfM) | 3:36 | 2025-03-13 | 2025-08-09 |
-| [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 |  |
+| [Carry\-On Bag](https://open.spotify.com/track/2ljmp1g7ytAuiTGFBFsKs0) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [Carry\-On Bag](https://open.spotify.com/album/3k7DigGwe8jF4hXpWujNhm) | 3:38 | 2025-05-15 | 2025-08-20 |
 | [Ceiling](https://open.spotify.com/track/7asTOYW6l14nwV8rLDCnD5) | [Issy Wood](https://open.spotify.com/artist/3nyoodEXBH2JZUcZuT4KhU) | [The Blame, Pt\. 4](https://open.spotify.com/album/77m4TmpJPNLx2mKdZGemWJ) | 3:27 | 2025-03-13 |  |
 | [Channeling codes](https://open.spotify.com/track/3AVfmyHn1XwkupZXPZ0Odg) | [Musspell](https://open.spotify.com/artist/0Lpgi7wyIavnWFEqgUVczz) | [Channeling codes](https://open.spotify.com/album/4wAvLx9vFOtCBwz3V18yFT) | 4:09 | 2025-04-17 |  |
 | [Chrome, Hallowed be.](https://open.spotify.com/track/1I6mvx4WW1XsB3K6uS6qwL) | [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Joseph, What Have You Done?](https://open.spotify.com/album/7sDYrsX4m9SP7AtNQXwFC0) | 2:45 | 2025-08-08 |  |
@@ -140,6 +140,7 @@
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-06 | 2025-08-09 |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 |  |
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-26 |
+| [tears on his rings and chains](https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [tears on his rings and chains](https://open.spotify.com/album/5DXpvfvNrOTSM2nYL5YlyR) | 3:18 | 2025-08-19 |  |
 | [The artist is absent \- 89 seconds rewrite](https://open.spotify.com/track/2ukYn5UsXjyaTskqf8x9Xe) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The artist is absent](https://open.spotify.com/album/7egg349kHYANI2fdTjQXSk) | 2:35 | 2025-04-03 |  |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 |  |
 | [The Future](https://open.spotify.com/track/1aaGeVnP4r66IgNvVoyL6T) | [Ragnhild og](https://open.spotify.com/artist/48WSqLS1CDGcKE7NUwdHNt) | [The Future](https://open.spotify.com/album/5VGi3079D9C2xp1bggAujV) | 4:13 | 2025-04-24 |  |

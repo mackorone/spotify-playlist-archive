@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-589 songs - 1 day 2 hr 23 min
+590 songs - 1 day 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [Dusty](https://open.spotify.com/track/6mNXITyQm2fVWL0zc08YYD) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Dusty](https://open.spotify.com/album/5AuHEai8Ic7ZjJKCJDYVj9) | 3:11 | 2024-02-16 | 2025-05-17 |
 | [Déjà vu](https://open.spotify.com/track/0KJZkIvbHYRmZhP6NGsP6n) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Chameleon](https://open.spotify.com/album/2INZD6kTNVO54IqhcMHvIt) | 2:28 | 2025-04-18 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2023-08-22 | 2023-09-22 |
-| [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 |  |
+| [El Palo](https://open.spotify.com/track/3g0kAUSN4jgzzCpL8AO3wj) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [El Palo](https://open.spotify.com/album/3qkYCskTbk7laIYiRVvXp1) | 2:00 | 2024-11-22 | 2025-08-20 |
 | [Eldstaden](https://open.spotify.com/track/0RJaXClmRBz77vnVGjw0lL) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [Eldstaden](https://open.spotify.com/album/5nCJ4HB1xhdQTZA73JotEr) | 2:36 | 2025-02-07 |  |
 | [Elements](https://open.spotify.com/track/5jLagdhjTqE0tx8U1dZGiq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Elements](https://open.spotify.com/album/7eNFkCGeXCtLAaHG7XTVlL) | 2:03 | 2024-10-18 | 2025-05-10 |
 | [Elsewhere](https://open.spotify.com/track/74xZG75SSihGRat5rQBFUb) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Elsewhere](https://open.spotify.com/album/21SHZW1MKbZpeK0Q2TwQfQ) | 2:37 | 2023-08-22 | 2024-12-23 |
@@ -242,6 +242,7 @@
 | [Intervention](https://open.spotify.com/track/0WmSthVCkysVZMK3WoWS8J) | [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Intervention](https://open.spotify.com/album/4RYqE4sPXD161kM29SOdtd) | 2:38 | 2024-08-23 | 2025-01-10 |
 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 | 2023-08-22 | 2024-09-25 |
 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 | 2023-09-22 | 2025-04-12 |
+| [Jazz Avenue](https://open.spotify.com/track/6QqnukvyWYFjFHu4lD769j) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Jazz Avenue](https://open.spotify.com/album/6rjCOUsb4yIBp23z7Sac0F) | 2:08 | 2025-07-25 |  |
 | [Jazz for the Kids](https://open.spotify.com/track/6EYsN9cxLUQNGElsAglsCI) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [Jazz for the Kids](https://open.spotify.com/album/2nra8mymlfuAvZG09hwxCz) | 1:58 | 2025-05-23 | 2025-06-21 |
 | [JazzRevelations](https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzRevelations](https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR) | 2:15 | 2024-08-30 |  |
 | [Jazzterfield 3](https://open.spotify.com/track/4Z6a5JQLO3yGDpECi4ovF9) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Roberto Di Gioia](https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR) | [Jazzterfield 3](https://open.spotify.com/album/5T2J4pbIrL17C4oGbbN0WE) | 2:09 | 2024-12-06 |  |

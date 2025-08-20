@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: ADL, Dexter, Borges, MC Carol, Sandra de Sá
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,163 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,150 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 45 | [Como Cê Consegue?](https://open.spotify.com/track/1rXKifiSYvwmA0ZOacNemE) | [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M) | [Como Cê Consegue?](https://open.spotify.com/album/1A30IeNDDgjyXMCm4pqz8Q) | 2:56 |
 | 46 | [1%](https://open.spotify.com/track/25qfkiAp2ZrTJ3EuKeC0tZ) | [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [CHF](https://open.spotify.com/artist/1HNVz8Sg0CzK1um1QNB7qS) | [1%](https://open.spotify.com/album/6BuOFiMYMoRLmU88P5K0cf) | 2:00 |
 | 47 | [Experiência](https://open.spotify.com/track/2insVRGjZplS4DbcVdCFE6) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Experiência](https://open.spotify.com/album/16ccY5kLhQiO7TsWPl3Gq8) | 2:27 |
-| 48 | [Filho Pródigo](https://open.spotify.com/track/7hA5YGYS0tml6CFc8jv6vn) | [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [Filho Pródigo](https://open.spotify.com/album/01CsnOi81XA5BiLxEtwE9R) | 2:24 |
+| 48 | [Filho Pródigo](https://open.spotify.com/track/7hA5YGYS0tml6CFc8jv6vn) | [f.b.o](https://open.spotify.com/artist/1ac7vvl78LVq0f2sIjyEpU), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Filho Pródigo](https://open.spotify.com/album/01CsnOi81XA5BiLxEtwE9R) | 2:24 |
 | 49 | [Subversiva](https://open.spotify.com/track/5fZNWp1WG34spCEuGTc3F0) | [BIONE](https://open.spotify.com/artist/2rezeeC5zV7kCkdjqT1nGz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Mahai](https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy) | [Subversiva](https://open.spotify.com/album/0rCHPBTLyjjhaQktBysqFp) | 2:52 |
 | 50 | [O Sonho de Brida](https://open.spotify.com/track/3hgdjjUE7JKyo7o7xOyX9q) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 3:17 |
 | 51 | [Promessa](https://open.spotify.com/track/6PDNMJ0X2e35RJqEsHbycF) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [6ee](https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW) | [Aruanda](https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU) | 2:47 |

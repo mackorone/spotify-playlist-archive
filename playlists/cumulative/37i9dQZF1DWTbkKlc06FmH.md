@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,076 songs - 2 day 15 hr 30 min
+1,077 songs - 2 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 | 2023-03-21 |  |
 | [burning man](https://open.spotify.com/track/5H47xnpkJJ7GoWCwWqgdwh) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [burning man](https://open.spotify.com/album/22HED6m34EsVktB1gImPoS) | 2:40 | 2023-04-20 | 2023-05-10 |
 | [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 | 2025-04-14 |
+| [by my side](https://open.spotify.com/track/47FdTZdjdRJikiBNA8LXdu) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt) | [by my side](https://open.spotify.com/album/5awZWNPfit7cn7YQQwEfi6) | 4:49 | 2025-08-13 |  |
 | [Cactus Water](https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Cactus Water](https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR) | 3:24 | 2024-06-04 | 2024-07-03 |
 | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/track/2Dw6yvvZEStwyr5xPnudaJ) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Eddie Chacon](https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD) | [Call It \(feat\. Eddie Chacon\)](https://open.spotify.com/album/1TMSyOYQglfAuZqzL3B3JQ) | 4:00 | 2024-05-08 | 2024-06-05 |
 | [Call It Off](https://open.spotify.com/track/0CVfsusVjjnR7CfDAlp25o) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Call It Off](https://open.spotify.com/album/5eLFx3qaedNQ1VOYdQZf7V) | 3:36 | 2025-04-30 | 2025-07-26 |
@@ -347,7 +348,7 @@
 | [Happy Ending Show](https://open.spotify.com/track/7IgtInfdL98RaUo7Cd3lZq) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Happy Ending Show](https://open.spotify.com/album/6bDf4iFszh8ZTUTdTYC3RN) | 4:01 | 2025-03-11 | 2025-03-19 |
 | [happy im](https://open.spotify.com/track/6Za2226TkUi5miWrAnUy5k) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [happy im](https://open.spotify.com/album/7w5kjOOIpou1Aat626u6ZI) | 2:54 | 2023-08-10 | 2023-10-23 |
 | [HARD TRUTHS](https://open.spotify.com/track/2kkRW9QXMQ6shaneQWqCgB) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [HARD TRUTHS](https://open.spotify.com/album/0fuIOqcLppUGvtS9sVssCF) | 2:26 | 2025-05-13 |  |
-| [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-11 |  |
+| [Hate to Love](https://open.spotify.com/track/62cT0mioPrrNTrt5Vj8wor) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Hate to Love](https://open.spotify.com/album/1XRIRDIrlLUojdWBerZyFE) | 3:07 | 2025-06-11 | 2025-08-20 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-30 |  |
 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-06-18 |  |
 | [Hearth \(feat\. YonYon & Sagiri Sól\)](https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Hearth \(feat\. YonYon & Sagiri Sól\)](https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx) | 3:26 | 2023-05-09 | 2023-09-08 |

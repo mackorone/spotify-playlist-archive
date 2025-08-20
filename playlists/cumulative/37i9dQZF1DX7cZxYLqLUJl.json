@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Summer Dream",
+        "url": "https://open.spotify.com/album/43DI5lCugo6Meef3a9Qr69"
+      },
+      "artists": [
+        {
+          "name": "Della Valle",
+          "url": "https://open.spotify.com/artist/0QsQ7aCgsuTSOib9lt6NGm"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175715,
+      "name": "Summer Dream",
+      "url": "https://open.spotify.com/track/010G1VMphoKTZPrDRYAJDY"
+    },
+    {
+      "album": {
         "name": "Quiet Cove",
         "url": "https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL"
       },

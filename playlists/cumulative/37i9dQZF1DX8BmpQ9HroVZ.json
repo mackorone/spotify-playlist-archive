@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-22",
-  "description": "The hottest tracks trending in Pakistan. Cover: Maanu, Annural Khalid",
+  "description": "The hottest tracks trending in Pakistan. Cover: Asim Azhar",
   "name": "Hot Hits Pakistan",
   "tracks": [
     {
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 210337,
       "name": "Hoor",
       "url": "https://open.spotify.com/track/09tcpqekQgXb87ETaAijXf"
@@ -4675,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "Karde Karam Tu (From \"Parwarish\")",
+        "url": "https://open.spotify.com/album/0HNO3WO0pzK2gsaDsVnCjg"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Karde Karam Tu (From \"Parwarish\")",
+      "url": "https://open.spotify.com/track/6VOwPPenagLmIJ679Nx2ZS"
+    },
+    {
+      "album": {
         "name": "Kashish",
         "url": "https://open.spotify.com/album/6mOd7bvvtzy4mtdOTKPIX8"
       },
@@ -4694,10 +4712,36 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 193124,
       "name": "Kashish",
       "url": "https://open.spotify.com/track/3BDhT4z4gy8rukyJpuWM59"
+    },
+    {
+      "album": {
+        "name": "Kashish",
+        "url": "https://open.spotify.com/album/2uv0DOLXkB2LeFhfk8bIcL"
+      },
+      "artists": [
+        {
+          "name": "Ashish Bhatia",
+          "url": "https://open.spotify.com/artist/2msR4dHmBiBa99uLmuqFFk"
+        },
+        {
+          "name": "Omkar Singh",
+          "url": "https://open.spotify.com/artist/6dk4snfeN31dQDbb03Wmmr"
+        },
+        {
+          "name": "Kashish Ratnani",
+          "url": "https://open.spotify.com/artist/5maYabmLqXL3Y5fhFaD3zk"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Kashish",
+      "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
     },
     {
       "album": {
@@ -7528,7 +7572,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo"
@@ -8308,6 +8352,32 @@
       "duration_ms": 270000,
       "name": "Shikayat",
       "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
+    },
+    {
+      "album": {
+        "name": "one sided luv",
+        "url": "https://open.spotify.com/album/67nGwhTZPGYt0LqA9ftQoZ"
+      },
+      "artists": [
+        {
+          "name": "Jevin Gill",
+          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "shutup call",
+      "url": "https://open.spotify.com/track/2YUgUYAXNCrhF7t9Bk9qQH"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Trannos",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Ivan Greko ",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 192026,
       "name": "DEMON II",
       "url": "https://open.spotify.com/track/1Dq9yztl0OSwtNMIytx1xP"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 120004,
       "name": "DUBAI",
       "url": "https://open.spotify.com/track/0XJWpeTU1aE0QErb4o2jyj"
@@ -2422,6 +2422,24 @@
       "duration_ms": 194666,
       "name": "FOS STO DROMO",
       "url": "https://open.spotify.com/track/1R3RMMX96zftzTPnboEa6N"
+    },
+    {
+      "album": {
+        "name": "FOTIA",
+        "url": "https://open.spotify.com/album/018vgFG2q7Gru59X6YVu2u"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "FOTIA",
+      "url": "https://open.spotify.com/track/5KD5e1AcZvf8cDvk9lMFIt"
     },
     {
       "album": {
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 162000,
       "name": "Kante",
       "url": "https://open.spotify.com/track/7lERkyLmPdoGrJFYlvUuNc"
@@ -4725,6 +4743,28 @@
     },
     {
       "album": {
+        "name": "OLA GYRNANE",
+        "url": "https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167538,
+      "name": "OLA GYRNANE",
+      "url": "https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme"
+    },
+    {
+      "album": {
         "name": "EGO THERAPY",
         "url": "https://open.spotify.com/album/1q26U80QVKg26wIZpBGFi8"
       },
@@ -4766,6 +4806,24 @@
       "duration_ms": 232900,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/1w2xhyNViLHhLzrgrOGPM0"
+    },
+    {
+      "album": {
+        "name": "Oneiro Tha 'Nai Ksana (Kounia)",
+        "url": "https://open.spotify.com/album/61gWlmayYlMAWCewqGCTqB"
+      },
+      "artists": [
+        {
+          "name": "Thodoris Ferris",
+          "url": "https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244922,
+      "name": "Oneiro Tha 'Nai Ksana - Kounia",
+      "url": "https://open.spotify.com/track/25JqyktP3AJulyV4wfthln"
     },
     {
       "album": {
@@ -6140,7 +6198,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 128000,
       "name": "TA EXW PANW MOU",
       "url": "https://open.spotify.com/track/6c0Mv6NHqLAJQ2mZxiVjGB"
@@ -6756,6 +6814,24 @@
       "duration_ms": 135636,
       "name": "VARKARIS",
       "url": "https://open.spotify.com/track/049yfS33wXFjQtwTnx0iM6"
+    },
+    {
+      "album": {
+        "name": "VILLA",
+        "url": "https://open.spotify.com/album/23baFzwKiREF162Q0qObue"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "VILLA",
+      "url": "https://open.spotify.com/track/5b5LRNnYD5RdspYyNjI5On"
     },
     {
       "album": {

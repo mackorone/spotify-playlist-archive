@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 
 > Gentle instrumental covers of known songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,276 likes - 280 songs - 14 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,676 likes - 280 songs - 14 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9j444F9NCBa.md) - [plain]
 | 52 | [Boom Clap](https://open.spotify.com/track/2lOgPF8PkjdEkK1t6grvAF) | [Jón Araujo](https://open.spotify.com/artist/3yVtxFWtzQHdSK2lPkX3M8) | [Boom Clap](https://open.spotify.com/album/6rj0F95b76TfhJiu9VV3IZ) | 2:31 |
 | 53 | [Dancing Queen](https://open.spotify.com/track/4ZAb57aSLA2sf0YBqkfm29) | [Simone Morelli](https://open.spotify.com/artist/0fwledftqxvzcog7xziwbY) | [Dancing Queen](https://open.spotify.com/album/4yC6ASgRwxZXsPLi7rrRXV) | 3:28 |
 | 54 | [Espresso](https://open.spotify.com/track/6IrXpR6VybCIatiUBfD8Jd) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Espresso](https://open.spotify.com/album/7tcFWmY3xY7yXX2BUTgl7Z) | 3:45 |
-| 55 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 |
+| 55 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 |
 | 56 | [Ceilings](https://open.spotify.com/track/7aN6kodJ7XchFIhIBy7Zbr) | [Miriam Modest](https://open.spotify.com/artist/1pNPm4X2b7wMtlZ2CQQcvb) | [Ceilings](https://open.spotify.com/album/0HGBolWimrL2GOslTEDhlU) | 3:00 |
 | 57 | [Frozen](https://open.spotify.com/track/0P6sZGgNjafAYt9mNLzmgC) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Frozen](https://open.spotify.com/album/1wW9CUmaPYDnRnmt9E2eUV) | 3:30 |
 | 58 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0tSC38lQ2G9GKYZJ0C4WEM) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Nothing's Gonna Change My Love for You](https://open.spotify.com/album/0jFZAaQyoXkD0Orn05x8OU) | 3:10 |

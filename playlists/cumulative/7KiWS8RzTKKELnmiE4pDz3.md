@@ -4,7 +4,7 @@
 
 > 
 
-1,145 songs - 2 day 9 hr 46 min
+1,146 songs - 2 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [I Choose Violence](https://open.spotify.com/track/4HiLV59Z9iCaWbbBxRregh) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [I Choose Violence](https://open.spotify.com/album/48UIGbmSKJGDOFniUwOsd1) | 2:38 | 2023-01-09 | 2023-12-14 |
 | [I Choose Violence](https://open.spotify.com/track/5n9MYzhJ3wYnxYyxCeydj4) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Glokk Files](https://open.spotify.com/album/4AWrZMeLeNpWJoOYTQXRUC) | 2:39 | 2023-10-03 |  |
 | [I Don’t Text Back \(feat\. Yeat\)](https://open.spotify.com/track/6Gh8SC2X9tC1EmgJK6tin0) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Ma’ I Got A Family \(A Gangsta Grillz Special Edition Hosted by DJ Drama\)](https://open.spotify.com/album/03uqzSo0gE0j2kXooydtMh) | 2:11 | 2022-10-21 | 2023-05-09 |
+| [I Gotcha](https://open.spotify.com/track/3j1UrSXCeWYa5ltei4ZAxt) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:58 | 2025-08-19 |  |
 | [I Hope You Find Your Way Home](https://open.spotify.com/track/0pvZCv4JOS5WBu7JITYef6) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:29 | 2024-11-05 | 2025-05-21 |
 | [I LIKE IT](https://open.spotify.com/track/5lRWBweszE9cOlXR7AdAKS) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Snot](https://open.spotify.com/artist/5Z7iMZyRRVN2rv8AiUeDfe) | [SATURN.](https://open.spotify.com/album/1WuDkDW6gq2PwArg6uJPTZ) | 3:21 | 2022-07-22 | 2023-12-14 |
 | [I Love This Feeling](https://open.spotify.com/track/3UDor25dsBp55meFUeOpx2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:17 | 2024-06-11 | 2024-11-06 |

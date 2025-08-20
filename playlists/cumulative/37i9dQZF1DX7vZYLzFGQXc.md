@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: ddbb\) \(Meet the emerging talents of Korea!\)
 
-1,586 songs - 3 day 17 hr 10 min
+1,587 songs - 3 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Burn \(feat\. HWI YOUNG\)](https://open.spotify.com/track/6kyoDUOnuJ8LOz8MHGqyHl) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM), [Hemo](https://open.spotify.com/artist/2iEc1J1tlRKvBC7XX77tnz), [HWI YOUNG](https://open.spotify.com/artist/33AKNSK4a6ue4IWvjojOCP) | [Burn \(feat\. HWI YOUNG\)](https://open.spotify.com/album/25I59rAJSxacffGGW95Nmh) | 3:57 | 2022-10-14 | 2023-02-01 |
 | [BURN\-OUT](https://open.spotify.com/track/6wJ6w7zUkO9XXI90HxGll1) | [FRIDA\-ANNE](https://open.spotify.com/artist/5YfqwaqXKVlPHQYrFNrETr) | [BURN\-OUT](https://open.spotify.com/album/3AIPiHniTj4nvppiLvTyof) | 2:36 | 2023-01-11 | 2023-02-09 |
 | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \- Remix](https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6) | [Molly Yam](https://open.spotify.com/artist/52Rh1eNJIw4i8E3qZGTSHP), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [GGM LIL DRAGON](https://open.spotify.com/artist/41mlkzYR9tlZ8ZByH6yhCS) | [Burning slow \(feat\. Sik\-K, GGM LIL DRAGON\) \[Remix\]](https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh) | 2:50 | 2025-02-14 | 2025-06-11 |
+| [Busy Boy](https://open.spotify.com/track/5scNLPks8Dntf8dCuZ8Zur) | [Hyelyn Joo](https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E) | [stereo](https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ) | 3:15 | 2025-08-19 |  |
 | [But I'll let you go now](https://open.spotify.com/track/452KNEoKCdREczV2K75Ccg) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [But I'll let you go now](https://open.spotify.com/album/0coGY4BoKKCiGr8PZf7Qft) | 3:38 | 2024-09-19 | 2025-02-04 |
 | [Butterfly on my mind](https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w) | [HolyBear](https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn) | [Honey jar No.01](https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t) | 3:39 | 2023-01-11 | 2023-02-09 |
 | [by your side](https://open.spotify.com/track/1euSUsk7zx85oQfpv8JpK1) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP), [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [by your side](https://open.spotify.com/album/7GzJlw0XgAIV5mAKTkqIWC) | 4:00 | 2022-09-29 | 2022-12-01 |
@@ -686,7 +687,7 @@
 | [In The Rain](https://open.spotify.com/track/1vyPrGqBCve587nS5x142B) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [Rain In Tequila](https://open.spotify.com/album/2PN6HKnZfzv1J8x29ApGLW) | 3:16 | 2022-09-29 | 2022-12-01 |
 | [In The Waves](https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [In The Waves](https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH) | 3:48 | 2025-07-31 |  |
 | [In This Morning](https://open.spotify.com/track/0WziV52uDQhR2c2CWg38fe) | [Nyork](https://open.spotify.com/artist/4nEjPtZHCsxLmwltzWJvRr), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [In This Morning](https://open.spotify.com/album/16I6H2xqNKAHLpGx7ofQEs) | 3:45 | 2024-03-21 | 2024-08-02 |
-| [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 | 2025-05-09 |  |
+| [indivisible](https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam) | [Mool](https://open.spotify.com/artist/67Wv3fgZWdwgg4Reln59OV) | [indivisible](https://open.spotify.com/album/3sV0oGcZ3dNE59Mi3TQ13U) | 2:41 | 2025-05-09 | 2025-08-20 |
 | [insomnia \(feat\. KURO\)](https://open.spotify.com/track/7Jartabvap5nlDW9IGXrPd) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr), [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [insomnia \(feat\. KURO\)](https://open.spotify.com/album/0ltQcPJwhuE68IyKTLlHYs) | 3:47 | 2023-06-01 | 2024-01-03 |
 | [Into You](https://open.spotify.com/track/6BWj5TuwDnHyyvLii4T6R4) | [Anoc](https://open.spotify.com/artist/0mOPxa6cfGNqcVjKQlFnAo) | [Into You](https://open.spotify.com/album/6QbzRMwrWhL4xnMqDpgrNy) | 3:08 | 2023-05-01 | 2023-06-02 |
 | [IntoPieces](https://open.spotify.com/track/3cgZ5I67WMvN5SVpawIQEs) | [Byul.org](https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP) | [Me & My Dog](https://open.spotify.com/album/6J4eAHhWhTmVVMO03ZXeUE) | 4:29 | 2024-06-04 | 2024-09-03 |

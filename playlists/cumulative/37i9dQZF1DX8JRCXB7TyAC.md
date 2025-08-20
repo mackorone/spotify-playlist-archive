@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-145 songs - 7 hr 11 min
+146 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 |  |
 | [All Eyes Down](https://open.spotify.com/track/0FtqurPJxBXugBGEPyHXtG) | [M Soni](https://open.spotify.com/artist/68BFsEEExE8N2YNjmYlP4X), [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [All Eyes Down](https://open.spotify.com/album/1dQn4cFiJRHy9cMLNlnhpx) | 3:01 | 2024-03-01 | 2024-05-01 |
 | [Asla](https://open.spotify.com/track/39dMWNYC5L8Vi4H7T7y2LZ) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf), [Raj Mawar](https://open.spotify.com/artist/0481f4CMOOSlFB69C2wyZf), [Vikrant Mehla](https://open.spotify.com/artist/6oh6dByxCViHDAuvRBE50H), [Khushboo Manhas](https://open.spotify.com/artist/4AcqEg3wRMVuY32zjQnCVf) | [Asla](https://open.spotify.com/album/6yWbqtrvJssVPu5MKs9cVG) | 2:29 | 2023-07-24 | 2024-04-19 |
+| [Baagh](https://open.spotify.com/track/27vHx0lpzWllP7iV224uel) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Baagh](https://open.spotify.com/album/3ItDPo58OHSB4vo99lsu6z) | 3:09 | 2025-08-19 |  |
 | [Bad Boys](https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Bad Boys](https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw) | 2:22 | 2023-12-22 | 2024-03-27 |
 | [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 | 2025-05-16 |  |
 | [Badmasa Ka Garh](https://open.spotify.com/track/7HXSXBJJXfqFbywTBjdHNf) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj) | [Badmasa Ka Garh](https://open.spotify.com/album/0xNCSvRoSzulUTSZpFPOxM) | 2:15 | 2025-03-27 |  |
@@ -95,7 +96,7 @@
 | [Manas Maar](https://open.spotify.com/track/6oV5XakaaQ2YMpk7hgEhxU) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Swara Verma](https://open.spotify.com/artist/1p8AG9V0Y60vhvdYdRbxqn), [Manjeet Mor](https://open.spotify.com/artist/78slqekUy3ukaQNoEmrBWh), [Nidhi Negi](https://open.spotify.com/artist/2JVmFhx7dBCmJEnnRsxTIY) | [Manas Maar](https://open.spotify.com/album/0ZXdPbjmNMNCdCUoIJGiC4) | 2:29 | 2025-02-27 |  |
 | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/3YPp5F4PvyBd1nEuEoifcH) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/2OeJGiIeWIQRV7SF7d6G3b) | 2:39 | 2023-07-24 | 2024-01-01 |
 | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/track/55D7IBTCePfG8B4Wflgucy) | [Suraj Khatak](https://open.spotify.com/artist/1so9s8g20D1TUg0YHIFZzA), [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b) | [Mein Banda Thik Nahi \(feat\. Kanishka Sharma,Amit Attri\)](https://open.spotify.com/album/1rJKxpk0zIt56FuCz8e2zq) | 2:39 | 2023-12-22 | 2024-03-09 |
-| [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-07-24 |  |
+| [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-07-24 | 2025-08-20 |
 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 | 2024-10-23 |  |
 | [No Escape](https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [No Escape](https://open.spotify.com/album/44GmLku7At0sHfzevpWJn7) | 3:16 | 2024-03-26 |  |
 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 | 2023-10-03 | 2023-11-10 |

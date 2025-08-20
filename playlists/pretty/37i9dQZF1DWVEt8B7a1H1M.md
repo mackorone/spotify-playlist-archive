@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Bird sounds in the background
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,378 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,434 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 | 22 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
 | 23 | [Natural and Wild Birds Singing](https://open.spotify.com/track/1U4yMwxEEI7IXZPysM5jxP) | [101 Noise](https://open.spotify.com/artist/4DFZxJir9eDvJM7Tbr4HYI), [Forest Sounds](https://open.spotify.com/artist/3DCUYm4ife62EAKya2fULx), [Nature Therapy](https://open.spotify.com/artist/0i427rmFO91za6EZmhbSCh) | [Birds in Nature, Whistling Birds, Nature Sounds for Deep Sleep](https://open.spotify.com/album/762pFiHP51wPNr8b7IgPUw) | 2:13 |
 | 24 | [Birds Singing in the Morning Rain](https://open.spotify.com/track/5eksbeKyteoDgDb9E6Hj2K) | [Sound of the Wilderness](https://open.spotify.com/artist/3dhmYlIkKaYTdTqh1O7wLX) | [Rain Chirpings](https://open.spotify.com/album/5oxNLUGZlrn7RlyaU9IoaC) | 3:03 |
-| 25 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
-| 26 | [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 |
+| 25 | [Northern Birds](https://open.spotify.com/track/7pmoGrDQTWH0PHgRvJcHAm) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Spring Birds](https://open.spotify.com/album/1V9jTmnMPdFCPEyLQuy5ZQ) | 2:51 |
+| 26 | [Cuckoo & Other Birds](https://open.spotify.com/track/2oU9jD1FRGW1ocaKLcLeW9) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Cuckoo & Other Birds](https://open.spotify.com/album/4c5T7nnoDGFjy4eptvyysb) | 3:28 |
 | 27 | [Still River \- Green Noise](https://open.spotify.com/track/76t29X9hSeFcZMh4ZOxPF0) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Soothing Green Noise](https://open.spotify.com/album/214myHKaTaC0qjXa2VDLpW) | 2:12 |
 | 28 | [Spring Birds Calling](https://open.spotify.com/track/5JTIydAbaixj7wuulxKbKd) | [Birds On Television](https://open.spotify.com/artist/5vBa5eR4bpuGBiYrXDyN8J) | [Birds Sounds 1](https://open.spotify.com/album/3YhXoFHl3TIYaNpE7bwRth) | 4:23 |
 | 29 | [Spring Birds In The Forest](https://open.spotify.com/track/7a1XGxwYRr3YUW3NpKrBDX) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Spring Birds](https://open.spotify.com/album/0pkEvYY6HzXUaEveXWYOnE) | 2:25 |

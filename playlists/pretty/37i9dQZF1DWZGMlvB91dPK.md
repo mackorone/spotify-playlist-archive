@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,278 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,282 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 38 | [Togbui Ha](https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 5:07 |
 | 39 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
 | 40 | [Do Things Right](https://open.spotify.com/track/0R9wB9ssVRhJQzsOiIQ7hS) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Do Things Right](https://open.spotify.com/album/5QoRLEUibCebF1jefIwK2T) | 2:47 |
-| 41 | [Forever](https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [Forever](https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT) | 4:00 |
+| 41 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 |
 | 42 | [Can't Wait](https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:34 |
-| 43 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 |
+| 43 | [Forever](https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [Forever](https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT) | 4:00 |
 | 44 | [PAPILLON PIMPÉ !](https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [FUCK IT WE BALL !](https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5) | 2:47 |
 | 45 | [Follow No One](https://open.spotify.com/track/61z91eJ0TGByK98iasB1hf) | [DITTER](https://open.spotify.com/artist/2XQrzLnabbe3OLJOctSvSQ) | [Follow No One](https://open.spotify.com/album/5EWDjhLV1wSGDQw45Hx4jz) | 3:26 |
 | 46 | [Lost](https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU) | [JENYS](https://open.spotify.com/artist/1J5hoLhYARvrdAp7WFCQVl) | [Lost](https://open.spotify.com/album/21MIvAGmRCnx8dibBxzpVE) | 3:32 |

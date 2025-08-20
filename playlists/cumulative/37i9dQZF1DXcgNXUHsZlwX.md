@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌞
 
-499 songs - 1 day 5 hr 45 min
+500 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/2lteOvX9fOLjSQ9oQbCJEN) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au\-delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/77r4k3rT8cj7lzraRrkSNa) | 4:07 | 2021-01-03\* | 2022-07-29 |
 | [Aussi loin](https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z) | [Cédric Langlois](https://open.spotify.com/artist/58esGBpFFArMIeANHE1FDb) | [Aussi loin](https://open.spotify.com/album/06WpLqlcjUXKn9KPl3qAu9) | 3:39 | 2021-09-20 | 2022-07-24 |
 | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ) | [Amylie](https://open.spotify.com/artist/1zUJUkYOBLMRNyot7fHae5) | [Au​\-​delà de la marée \(la mère et le père et leur petit\)](https://open.spotify.com/album/0U09K98D8jyU0izVJlxOlH) | 4:07 | 2022-07-08 | 2023-02-24 |
-| [baby blue frigidaire mini fridge](https://open.spotify.com/track/6YWKvsh28AOZKYHJZksbaX) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [baby blue frigidaire mini fridge](https://open.spotify.com/album/0GPaa5BO7kPvc6pjhxEjya) | 3:39 | 2025-08-07 |  |
+| [baby blue frigidaire mini fridge](https://open.spotify.com/track/6YWKvsh28AOZKYHJZksbaX) | [Ada Lea](https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy) | [baby blue frigidaire mini fridge](https://open.spotify.com/album/0GPaa5BO7kPvc6pjhxEjya) | 3:39 | 2025-08-07 | 2025-08-20 |
 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 | 2022-06-03 | 2025-08-08 |
 | [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-30 | 2024-04-19 |
 | [berceuse \(elle veille encore\)](https://open.spotify.com/track/7o2VWOEH0XznJlwW0OllFE) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1), [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR) | [elle veille encore](https://open.spotify.com/album/36stZjlUhNpOzaK6MIvV4l) | 3:38 | 2024-11-08 |  |
@@ -288,6 +288,7 @@
 | [Love Is a Stranger \- Spotify Singles](https://open.spotify.com/track/1BSirCglKNnJ39ag8fhiK0) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Spotify Singles](https://open.spotify.com/album/5bbRNKzRs3j44dxQR9SzJ3) | 3:42 | 2023-12-01 | 2024-03-18 |
 | [Lubie](https://open.spotify.com/track/3WoduPYTnBKYKnawyMzrJE) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/3FDeFFaEu4I8IMd5heH2h8) | 3:17 | 2021-01-03\* | 2022-07-29 |
 | [Lubie](https://open.spotify.com/track/62ZILfGIjQ9y7CUyfoR0z2) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [Ruche de mouches](https://open.spotify.com/album/0PgBQ2nr9lGwY49QjAhMaa) | 3:17 | 2022-07-08 | 2022-08-02 |
+| [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-14 |  |
 | [Ma belle Clodie](https://open.spotify.com/track/6dIDM0vzyZqsqjODV3JK2a) | [Lauma](https://open.spotify.com/artist/7cHW7ZcuXJbucvesjvD4GK) | [Pixels](https://open.spotify.com/album/160lLNQ7uEPxrhosSwa5pk) | 5:02 | 2021-01-03\* | 2022-02-12 |
 | [Ma chanson Natashquan](https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Ma chanson Natashquan](https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6) | 3:18 | 2022-10-14 |  |
 | [Ma déroute \(Radio Edit\)](https://open.spotify.com/track/7tzJ2UyWtJX2CFUvKYVLuE) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy) | [Ma déroute \(Radio Edit\)](https://open.spotify.com/album/13fBLkvKWZ5bfMLdngqNdJ) | 2:55 | 2021-03-27 | 2021-05-08 |

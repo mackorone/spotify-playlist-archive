@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYva3WHwOh0z.md) - [plain]
 
 > ¡Las canciones rancheras de Luismi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,664 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,744 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

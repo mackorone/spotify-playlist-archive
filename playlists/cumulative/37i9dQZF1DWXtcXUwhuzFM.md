@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Vestalta, Sara Siipolalta, kialta, Zara Larssonilta ja monelta muulta!
 
-7,350 songs - 16 day 3 hr 48 min
+7,351 songs - 16 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1914,6 +1914,7 @@
 | [Forgiveness](https://open.spotify.com/track/4kzVwlkEigZPvgnKhcl6YR) | [STINAKO](https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s) | [Body](https://open.spotify.com/album/31iixkCCxseX3aTtTpbM8e) | 3:18 | 2024-08-29 | 2024-09-06 |
 | [forgot to forget me](https://open.spotify.com/track/4X3aDRAUFsY8RPtJbPQeKt) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [forgot to forget me](https://open.spotify.com/album/1CdxAPurJbldbTOj7QDFVF) | 2:51 | 2025-06-05 | 2025-06-13 |
 | [FORSTÅR DU? \(feat\. Artigeardit\)](https://open.spotify.com/track/5bxbA6Uv3EVpEV6fqu4wjS) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [FORSTÅR DU? \(feat\. Artigeardit\)](https://open.spotify.com/album/5ZdiU7EZzlasLwknxeDSmT) | 2:28 | 2025-07-31 | 2025-08-08 |
+| [Fort Knox](https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Fort Knox](https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl) | 3:18 | 2025-08-14 |  |
 | [Fortified](https://open.spotify.com/track/4DCUXQ5oVnTqEnCgK65B5a) | [Kidnap](https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT), [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG) | [Fortified](https://open.spotify.com/album/3CY9DD7Kle1y2hA5tjoT4I) | 3:32 | 2024-05-30 | 2024-06-07 |
 | [Fortnight \(feat\. Post Malone\) \- Acoustic Version](https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Fortnight \(Acoustic Version\)](https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX) | 3:48 | 2024-07-11 | 2024-07-19 |
 | [Fortnight \(feat\. Post Malone\) \- BLOND:ISH Remix](https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Fortnight \(feat\. Post Malone\) \[BLOND:ISH Remix\]](https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu) | 3:36 | 2024-05-23 | 2024-06-01 |

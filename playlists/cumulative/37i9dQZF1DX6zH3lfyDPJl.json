@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "1:05",
       "url": "https://open.spotify.com/track/4bjNOhOMvqFPflwHIaS7Fw"
@@ -244,6 +244,24 @@
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "album": {
+        "name": "Annie",
+        "url": "https://open.spotify.com/album/2SQtjYXd0phPc8rUERwIVD"
+      },
+      "artists": [
+        {
+          "name": "diego",
+          "url": "https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224448,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/4cr0ygULVC2CQdz4lnNoim"
     },
     {
       "album": {
@@ -474,7 +492,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 177699,
       "name": "Busan",
       "url": "https://open.spotify.com/track/183Goj05EKF7leyhEWPSOR"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 203409,
       "name": "Bye Bye My Blue",
       "url": "https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7"
@@ -841,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Everything's okay",
+        "url": "https://open.spotify.com/album/5Bg8xKlw7sVy6hCLiK5S9O"
+      },
+      "artists": [
+        {
+          "name": "87dance",
+          "url": "https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255488,
+      "name": "Everything's okay",
+      "url": "https://open.spotify.com/track/0pASV8oPppxN9gRkxnf6qK"
+    },
+    {
+      "album": {
         "name": "Ohio Players",
         "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 221666,
       "name": "Holidays",
       "url": "https://open.spotify.com/track/4U6Mq3JeRNyrNdG70cPsyJ"
@@ -1296,7 +1332,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 188311,
       "name": "Listen to me",
       "url": "https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF"
@@ -1350,7 +1386,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 266499,
       "name": "Love Shine",
       "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
@@ -1732,7 +1768,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 198893,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/5sCwshjdYivIeXRwhVdgDw"
@@ -1988,7 +2024,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 124479,
       "name": "PURE",
       "url": "https://open.spotify.com/track/5NFaJjMuxjlzQWAetRr37C"
@@ -2132,7 +2168,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-17",
+      "date_removed": null,
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"
@@ -2186,7 +2222,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 256000,
       "name": "Shadow of You",
       "url": "https://open.spotify.com/track/0dYn8RJrjXi5jh7pnhrcZi"
@@ -2348,7 +2384,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 192514,
       "name": "Starfish on your head",
       "url": "https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh"
@@ -2456,7 +2492,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 189520,
       "name": "Swim",
       "url": "https://open.spotify.com/track/0BgpmgvnvZg1FfLdATrCsr"
@@ -2528,7 +2564,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 174133,
       "name": "The Craving (Jenna's version)",
       "url": "https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ"
@@ -2708,7 +2744,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 204923,
       "name": "velvet sunsets",
       "url": "https://open.spotify.com/track/08mSxxh6tQydW7nYICEp4R"
@@ -2726,7 +2762,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 159800,
       "name": "We Don't Wanna Talk",
       "url": "https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay"
@@ -2924,7 +2960,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-04",
+      "date_removed": null,
       "duration_ms": 167144,
       "name": "You (Show Me Where My Days Went)",
       "url": "https://open.spotify.com/track/08QharKdouaH70SCqhfcZM"

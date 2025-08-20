@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,628,823 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,628,878 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 68 | [KOALA](https://open.spotify.com/track/322yrwaIaTkmpGbuJ7nfev) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [KOALA](https://open.spotify.com/album/0DY831aGA9JmyjcX6XI1Ls) | 3:26 |
 | 69 | [Mind Body Soul](https://open.spotify.com/track/5knFikjbQt5qvc3LJ9JrKU) | [Veerus](https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH) | [Mind Body Soul](https://open.spotify.com/album/3lwCWMsEeTEijLZuwT7NaW) | 4:27 |
 | 70 | [Echoes of Eternity](https://open.spotify.com/track/6dzjcB0W9cmmflug3ABGCr) | [Bouras](https://open.spotify.com/artist/5Lu7JOTiNvqjQswt0Uyms2), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Echoes of Eternity](https://open.spotify.com/album/5dGOt3kM30Fb5N8XbgQhay) | 3:40 |
-| 71 | [Reborn](https://open.spotify.com/track/1FxEYFrZxLoBe3P5SKZmJo) | [Before Dawn](https://open.spotify.com/artist/05PChur8kUBBmNGYYVMlQh), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Reborn EP](https://open.spotify.com/album/1UNi2paxNWOyRbNKB2s48F) | 3:37 |
+| 71 | [Reborn \- Radio Edit](https://open.spotify.com/track/1FxEYFrZxLoBe3P5SKZmJo) | [Before Dawn](https://open.spotify.com/artist/05PChur8kUBBmNGYYVMlQh), [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q) | [Reborn EP \(Radio Edit\)](https://open.spotify.com/album/1UNi2paxNWOyRbNKB2s48F) | 3:37 |
 | 72 | [Ivory](https://open.spotify.com/track/42XB8nQh91SlpVxROzogRl) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Hertz](https://open.spotify.com/artist/2tH4HqwEi0m5fBvB2dB7q7) | [Ivory](https://open.spotify.com/album/7hmLe7YvaSKDqbY7OTsRwk) | 5:50 |
 | 73 | [Atmosphere](https://open.spotify.com/track/0K6j9TthnI8F4uvt4ecI1d) | [Zeltak](https://open.spotify.com/artist/7abM3xmXx55x7dQZot1Dpd), [HOEHENANGST](https://open.spotify.com/artist/5Th92yptJHxyXDEgc5qtQl) | [Atmosphere](https://open.spotify.com/album/2KO4aVMoXCnZyCGlJDzXLv) | 4:57 |
 | 74 | [Don't Sleep](https://open.spotify.com/track/3Wb1Fvjo6m3ozb3nZN28tI) | [Luca Agnelli](https://open.spotify.com/artist/4gF60Mys5KoWdQrf0bhRWq) | [Take Control](https://open.spotify.com/album/4dyuSWDud0CghnsfKTF06a) | 3:43 |

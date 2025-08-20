@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
+        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a/\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK"
+        }
+      ],
+      "date_added": "2025-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48893,
+      "name": "Power Charge!++",
+      "url": "https://open.spotify.com/track/6at8Mpc0Cnz6LtSCxyECh0"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
         "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
       },
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2025-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 157846,
       "name": "Ruby Love - Game Edit",
       "url": "https://open.spotify.com/track/6bihc8V3RsruncQ6YQ94eV"

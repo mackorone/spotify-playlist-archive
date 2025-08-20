@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia con Laura Dsk.",
-  "num_followers": 112577,
+  "num_followers": 112583,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-08-14 22:00:34",
       "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+    },
+    {
+      "added_at": "2025-08-14 22:00:34",
+      "album": {
         "name": "Blasfemia",
         "url": "https://open.spotify.com/album/4GMnftnnC0PUmqjTz4G5Ac"
       },
@@ -971,18 +987,18 @@
     {
       "added_at": "2025-08-14 22:00:34",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+        "name": "Los de las Paguitas Sois Vosotros",
+        "url": "https://open.spotify.com/album/75rFXATmBtY2Ks9NsAWlHA"
       },
       "artists": [
         {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
         }
       ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
+      "duration_ms": 188250,
+      "name": "Los de las Paguitas Sois Vosotros",
+      "url": "https://open.spotify.com/track/3BtvmKUSPhwGzjKOlZtiyI"
     },
     {
       "added_at": "2025-08-14 22:00:34",
@@ -999,22 +1015,6 @@
       "duration_ms": 57840,
       "name": "Todos Mis Enemigos Se Llaman Cayetano",
       "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
-    },
-    {
-      "added_at": "2025-08-14 22:00:34",
-      "album": {
-        "name": "Los de las Paguitas Sois Vosotros",
-        "url": "https://open.spotify.com/album/75rFXATmBtY2Ks9NsAWlHA"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Los de las Paguitas Sois Vosotros",
-      "url": "https://open.spotify.com/track/3BtvmKUSPhwGzjKOlZtiyI"
     },
     {
       "added_at": "2025-08-14 22:00:34",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-08-14 22:00:34",
       "album": {
-        "name": "Res de Nou",
-        "url": "https://open.spotify.com/album/7zp4PaDjA6Pt2CjZRLfapA"
-      },
-      "artists": [
-        {
-          "name": "Crim",
-          "url": "https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2"
-        }
-      ],
-      "duration_ms": 227746,
-      "name": "Res de Nou",
-      "url": "https://open.spotify.com/track/7pzdAfGVuCPkltHztUFFUu"
-    },
-    {
-      "added_at": "2025-08-14 22:00:34",
-      "album": {
         "name": "Preso",
         "url": "https://open.spotify.com/album/3TzAzbJ17X9l7vthAmDwOm"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 118173,
       "name": "Preso",
       "url": "https://open.spotify.com/track/42TVfH4Q0zv21NQKHsum8U"
+    },
+    {
+      "added_at": "2025-08-14 22:00:34",
+      "album": {
+        "name": "Res de Nou",
+        "url": "https://open.spotify.com/album/7zp4PaDjA6Pt2CjZRLfapA"
+      },
+      "artists": [
+        {
+          "name": "Crim",
+          "url": "https://open.spotify.com/artist/2p7rRgVQsbzdA8zkpb83Q2"
+        }
+      ],
+      "duration_ms": 227746,
+      "name": "Res de Nou",
+      "url": "https://open.spotify.com/track/7pzdAfGVuCPkltHztUFFUu"
     },
     {
       "added_at": "2025-08-14 22:00:34",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-08-14 22:00:34",
       "album": {
-        "name": "Manual de supervivencia extrema",
-        "url": "https://open.spotify.com/album/2w6v7xVczkW4iq2UPOoQCL"
-      },
-      "artists": [
-        {
-          "name": "Er Tabardillo",
-          "url": "https://open.spotify.com/artist/6edzea6vZ4X4LkcACnOAW2"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Vaya semanita",
-      "url": "https://open.spotify.com/track/4w8TbXB3frLjrHgUT7gmDI"
-    },
-    {
-      "added_at": "2025-08-14 22:00:34",
-      "album": {
         "name": "Aliens",
         "url": "https://open.spotify.com/album/2zSV2m3p4Gb5Rs9MATrAbW"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 148517,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/2hzxOH4HcrvXC5Zhcaw9Sf"
+    },
+    {
+      "added_at": "2025-08-14 22:00:34",
+      "album": {
+        "name": "Manual de supervivencia extrema",
+        "url": "https://open.spotify.com/album/2w6v7xVczkW4iq2UPOoQCL"
+      },
+      "artists": [
+        {
+          "name": "Er Tabardillo",
+          "url": "https://open.spotify.com/artist/6edzea6vZ4X4LkcACnOAW2"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "Vaya semanita",
+      "url": "https://open.spotify.com/track/4w8TbXB3frLjrHgUT7gmDI"
     },
     {
       "added_at": "2025-08-14 22:00:34",

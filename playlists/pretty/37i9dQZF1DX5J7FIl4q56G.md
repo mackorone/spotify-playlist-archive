@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: I Prevail
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,007 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,056 likes - 99 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,24 +89,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 79 | [Summertime Sadness](https://open.spotify.com/track/7bSBrmuDIKpRm9PXT8ffat) | [Frayle](https://open.spotify.com/artist/0qsMpawuC9W6kQlbu1mbo1) | [Summertime Sadness](https://open.spotify.com/album/5JnMm5ravnwFtOKRS62kWB) | 4:26 |
 | 80 | [Los Angeles](https://open.spotify.com/track/6b88cpqs11gsMUmNceEO4K) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [Buried In Jade](https://open.spotify.com/album/4laT3ZAxFr87LQjMKlynm6) | 3:38 |
 | 81 | [My Shadow](https://open.spotify.com/track/38lF7wyI5SDalhYw6EcVQd) | [Take The Name](https://open.spotify.com/artist/0Lt4DRxPG70NoiBseFGVtf), [Softspoken](https://open.spotify.com/artist/3y8JSazi8hWvLiSFXQqGIk) | [My Shadow](https://open.spotify.com/album/3UnwcAkQl07V6fE8rpphXG) | 3:33 |
-| 82 | [Neon Demons](https://open.spotify.com/track/3p79nCk0tCuqft6sqDcHNK) | [Revoid](https://open.spotify.com/artist/4bFfNjcl5q8NMo2dbsje7o) | [Neon Demons](https://open.spotify.com/album/0MxCBNh31WMna6zaJNmtYs) | 3:39 |
-| 83 | [Covert One](https://open.spotify.com/track/2VUzSTz4X7u60BCPMKqHBc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Covert One](https://open.spotify.com/album/5vfS6nAS1z0jg5YLnqiBRM) | 3:06 |
-| 84 | [medicine](https://open.spotify.com/track/3H4nj5atJz5cbGX0tbRkn6) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [medicine](https://open.spotify.com/album/3tMY7XGfSF56GbSnCjTpxP) | 3:50 |
-| 85 | [Over My Dead Body](https://open.spotify.com/track/3oCUJeXw7T8SbRfaBg663B) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn), [Matt Honeycutt](https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO) | [Over My Dead Body](https://open.spotify.com/album/0DtlQs4vvP6nuiVZgonCUE) | 3:27 |
-| 86 | [Blood\-Soaked Candy Heart](https://open.spotify.com/track/3HnRF8h2lgR9Awprc1rgd1) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Blood\-Soaked Candy Heart](https://open.spotify.com/album/6DsgODNp2LedKB2PlYDjVI) | 3:26 |
-| 87 | [Simulacra](https://open.spotify.com/track/7zJ5TghDDQEIyFMXEGYASq) | [Bad Juju](https://open.spotify.com/artist/0JEXbU5CMLdo03UvBqAvyB) | [Simulacra](https://open.spotify.com/album/2MSLItYHPRpsejl0Q3jPyv) | 3:01 |
-| 88 | [EVIL J0RDAN \- COVER](https://open.spotify.com/track/6SrUDOk7mUsdVKdvRTzIIW) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [EVIL J0RDAN \(COVER\)](https://open.spotify.com/album/0QwOx6zRLLi9X72FlUdq8P) | 1:12 |
-| 89 | [Sarcophagi of the Soul](https://open.spotify.com/track/27nQwQ02hYXoY7Bvxp4mze) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3) | [Sarcophagi of the Soul](https://open.spotify.com/album/3OZa4pWWNUbCSV3TlxYs1i) | 4:10 |
-| 90 | [Why do I bleed this way?](https://open.spotify.com/track/6UFtBqmLHBsFvSCVdylCc3) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [Why do I bleed this way?](https://open.spotify.com/album/4gPbhP2VnuedqMRugTiUho) | 3:29 |
-| 91 | [My Pain](https://open.spotify.com/track/02qEFZ9GAgL37r5uKyuHm3) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [My Pain](https://open.spotify.com/album/4bXId9munb07PokkdXBjrl) | 4:53 |
-| 92 | [Karmageddon](https://open.spotify.com/track/2ucKr6wYbk1TZ8pZXE01Me) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Karmageddon](https://open.spotify.com/album/4gvSouBfSAxN4wWqsCJAWK) | 3:18 |
-| 93 | [Nothing Lost](https://open.spotify.com/track/1uYKY2DXvWOdQbHAWeUtbz) | [My Ticket Home](https://open.spotify.com/artist/4g3JlT9j18DeWH7gr1uF6L) | [Nothing Lost](https://open.spotify.com/album/0HJAB9lz1V2VMrffdFZdjD) | 5:10 |
-| 94 | [Come Angel of Night](https://open.spotify.com/track/2lkBKqLLhlsB0MR9WGMjtE) | [Ambush](https://open.spotify.com/artist/5ZnuwxU3BQDmhQSdZO743a) | [Come Angel of Night](https://open.spotify.com/album/79VYYHHTxGfvdaCXwr8m2z) | 4:18 |
-| 95 | [Castigation Choir](https://open.spotify.com/track/2fMRSefNpGO0IvbazlhN30) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [A Voice from the Outer Dark](https://open.spotify.com/album/2bYk8l2JktDtf2kY4TEHzX) | 4:36 |
-| 96 | [Dead & Gone](https://open.spotify.com/track/5qa1Z8uiWItEsTTAKmORlk) | [Sever](https://open.spotify.com/artist/2EEOsdvu1oJzCKk9rUNQFq) | [Dead & Gone](https://open.spotify.com/album/7803WHnzqcYzacC26JK00j) | 3:01 |
-| 97 | [ENEMY](https://open.spotify.com/track/5P0kf8MWosBmZDZtWJkXiN) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ENEMY](https://open.spotify.com/album/4QJVcO58dTP9RE587Z6Hxs) | 3:32 |
-| 98 | [Drowning](https://open.spotify.com/track/5cYXapV7EV0LHi7pf91OVS) | [VAELE](https://open.spotify.com/artist/1XLD4E99FKLOyk20YLtmqD), [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Drowning](https://open.spotify.com/album/2EJuQbL1o3m2KPGHO4CfOd) | 3:30 |
-| 99 | [Shades of Black](https://open.spotify.com/track/1FKMzAMTI9NM1MUCe86FvC) | [Sinsaenum](https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B) | [In Devastation](https://open.spotify.com/album/7qnROZ0qYUeDkd78LPMNxS) | 4:30 |
-| 100 | [Decay](https://open.spotify.com/track/08AKBYpYvB2bMX7UIYtVou) | [Wretched](https://open.spotify.com/artist/3sc34B4NYjNQZQqpxeAGnK) | [Decay](https://open.spotify.com/album/5vZjviV4VJ6tNvIxcIPJrr) | 5:26 |
+| 82 | [Covert One](https://open.spotify.com/track/2VUzSTz4X7u60BCPMKqHBc) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [Covert One](https://open.spotify.com/album/5vfS6nAS1z0jg5YLnqiBRM) | 3:06 |
+| 83 | [medicine](https://open.spotify.com/track/3H4nj5atJz5cbGX0tbRkn6) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [medicine](https://open.spotify.com/album/3tMY7XGfSF56GbSnCjTpxP) | 3:50 |
+| 84 | [Over My Dead Body](https://open.spotify.com/track/3oCUJeXw7T8SbRfaBg663B) | [Despised Icon](https://open.spotify.com/artist/3MjNMjqBpaQ0P8ebfbZjYn), [Matt Honeycutt](https://open.spotify.com/artist/3l3aszE2AlLuQ0LP4H54zO) | [Over My Dead Body](https://open.spotify.com/album/0DtlQs4vvP6nuiVZgonCUE) | 3:27 |
+| 85 | [Blood\-Soaked Candy Heart](https://open.spotify.com/track/3HnRF8h2lgR9Awprc1rgd1) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Blood\-Soaked Candy Heart](https://open.spotify.com/album/6DsgODNp2LedKB2PlYDjVI) | 3:26 |
+| 86 | [Simulacra](https://open.spotify.com/track/7zJ5TghDDQEIyFMXEGYASq) | [Bad Juju](https://open.spotify.com/artist/0JEXbU5CMLdo03UvBqAvyB) | [Simulacra](https://open.spotify.com/album/2MSLItYHPRpsejl0Q3jPyv) | 3:01 |
+| 87 | [EVIL J0RDAN \- COVER](https://open.spotify.com/track/6SrUDOk7mUsdVKdvRTzIIW) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9) | [EVIL J0RDAN \(COVER\)](https://open.spotify.com/album/0QwOx6zRLLi9X72FlUdq8P) | 1:12 |
+| 88 | [Sarcophagi of the Soul](https://open.spotify.com/track/27nQwQ02hYXoY7Bvxp4mze) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3) | [Sarcophagi of the Soul](https://open.spotify.com/album/3OZa4pWWNUbCSV3TlxYs1i) | 4:10 |
+| 89 | [Why do I bleed this way?](https://open.spotify.com/track/6UFtBqmLHBsFvSCVdylCc3) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [Why do I bleed this way?](https://open.spotify.com/album/4gPbhP2VnuedqMRugTiUho) | 3:29 |
+| 90 | [My Pain](https://open.spotify.com/track/02qEFZ9GAgL37r5uKyuHm3) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [My Pain](https://open.spotify.com/album/4bXId9munb07PokkdXBjrl) | 4:53 |
+| 91 | [Karmageddon](https://open.spotify.com/track/2ucKr6wYbk1TZ8pZXE01Me) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Karmageddon](https://open.spotify.com/album/4gvSouBfSAxN4wWqsCJAWK) | 3:18 |
+| 92 | [Nothing Lost](https://open.spotify.com/track/1uYKY2DXvWOdQbHAWeUtbz) | [My Ticket Home](https://open.spotify.com/artist/4g3JlT9j18DeWH7gr1uF6L) | [Nothing Lost](https://open.spotify.com/album/0HJAB9lz1V2VMrffdFZdjD) | 5:10 |
+| 93 | [Come Angel of Night](https://open.spotify.com/track/2lkBKqLLhlsB0MR9WGMjtE) | [Ambush](https://open.spotify.com/artist/5ZnuwxU3BQDmhQSdZO743a) | [Come Angel of Night](https://open.spotify.com/album/79VYYHHTxGfvdaCXwr8m2z) | 4:18 |
+| 94 | [Castigation Choir](https://open.spotify.com/track/2fMRSefNpGO0IvbazlhN30) | [Aversions Crown](https://open.spotify.com/artist/6OITsYO1BqjC0VIF6yGFOc) | [A Voice from the Outer Dark](https://open.spotify.com/album/2bYk8l2JktDtf2kY4TEHzX) | 4:36 |
+| 95 | [Dead & Gone](https://open.spotify.com/track/5qa1Z8uiWItEsTTAKmORlk) | [Sever](https://open.spotify.com/artist/2EEOsdvu1oJzCKk9rUNQFq) | [Dead & Gone](https://open.spotify.com/album/7803WHnzqcYzacC26JK00j) | 3:01 |
+| 96 | [ENEMY](https://open.spotify.com/track/5P0kf8MWosBmZDZtWJkXiN) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ENEMY](https://open.spotify.com/album/4QJVcO58dTP9RE587Z6Hxs) | 3:32 |
+| 97 | [Drowning](https://open.spotify.com/track/5cYXapV7EV0LHi7pf91OVS) | [VAELE](https://open.spotify.com/artist/1XLD4E99FKLOyk20YLtmqD), [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Drowning](https://open.spotify.com/album/2EJuQbL1o3m2KPGHO4CfOd) | 3:30 |
+| 98 | [Shades of Black](https://open.spotify.com/track/1FKMzAMTI9NM1MUCe86FvC) | [Sinsaenum](https://open.spotify.com/artist/4IC0vJuY4fw72mSBesfO5B) | [In Devastation](https://open.spotify.com/album/7qnROZ0qYUeDkd78LPMNxS) | 4:30 |
+| 99 | [Decay](https://open.spotify.com/track/08AKBYpYvB2bMX7UIYtVou) | [Wretched](https://open.spotify.com/artist/3sc34B4NYjNQZQqpxeAGnK) | [Decay](https://open.spotify.com/album/5vZjviV4VJ6tNvIxcIPJrr) | 5:26 |
 
-Snapshot ID: `AAAAAGDbR080lwz0jDnUyqlPWwmkj4lU`
+Snapshot ID: `AAAAAPc8eNRbCdowZiIw5/cQ++BhfTPc`

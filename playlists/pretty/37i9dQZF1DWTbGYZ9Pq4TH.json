@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 183317,
+  "num_followers": 183342,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2025-06-30 10:21:22",
       "album": {
-        "name": "Il primo amore",
-        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "Yanomi",
-          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
-        }
-      ],
-      "duration_ms": 201974,
-      "name": "Il primo amore",
-      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
-    },
-    {
-      "added_at": "2025-06-30 10:21:22",
-      "album": {
         "name": "Mio Fratello E' Figlio Unico",
         "url": "https://open.spotify.com/album/3s7QkjKcFtAlOpvYAQoG2i"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 286146,
       "name": "Ho messo via",
       "url": "https://open.spotify.com/track/4xyp77VPg90ezi7N1p99a5"
+    },
+    {
+      "added_at": "2025-06-30 10:21:22",
+      "album": {
+        "name": "Il primo amore",
+        "url": "https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "Yanomi",
+          "url": "https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW"
+        }
+      ],
+      "duration_ms": 201974,
+      "name": "Il primo amore",
+      "url": "https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW"
     },
     {
       "added_at": "2025-06-30 10:21:22",

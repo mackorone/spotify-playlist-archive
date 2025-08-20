@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Dean, Steve Lacy, Dijon and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 923,000 likes - 121 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,984 likes - 121 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 43 | [The Avant Garde](https://open.spotify.com/track/6vYbXVWGQzdPCL9rwb6APG) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [The Avant Garde](https://open.spotify.com/album/4NyDMwiqlYmygI31lb7fL0) | 3:41 |
 | 44 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 |
 | 45 | [Init Gyal](https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Init Gyal](https://open.spotify.com/album/2qpKN28C1BfvGeHVULQ0mI) | 1:05 |
-| 46 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
+| 46 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
 | 47 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 |
 | 48 | [Hoes Be Mad](https://open.spotify.com/track/4Eon806kqIVQCbq7ULjpKg) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Hoes Be Mad](https://open.spotify.com/album/6x7qZPUUne0i7EvTV4ENvL) | 1:46 |
 | 49 | [Bike Air Anthem](https://open.spotify.com/track/64l10zH8TMlar9zCqpUaEg) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Bike Air Anthem](https://open.spotify.com/album/4BqLZhPK5wK6arUiSbuI7Q) | 1:27 |

@@ -319,26 +319,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Heart to Heart",
-        "url": "https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck"
-      },
-      "artists": [
-        {
-          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
-          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
-        },
-        {
-          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
-          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/506yu8tzGbPfQ6szDwseb4"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 210000,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/4nyF38uqLRNqdh4AmmiJCY"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Heart to Heart",
+        "url": "https://open.spotify.com/album/0omNgjOGsdPCTw6o9RF0ck"
+      },
+      "artists": [
+        {
+          "name": "\u72d7\u4e38\u30c8\u30a6\u30de (CV.\u6728\u6751 \u6634)",
+          "url": "https://open.spotify.com/artist/3XV7Ak6OwcLFuNVEz0RRmM"
+        },
+        {
+          "name": "\u4ea5\u6e05 \u60a0 (CV.\u5e83\u702c\u88d5\u4e5f)",
+          "url": "https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Heart to Heart",
+      "url": "https://open.spotify.com/track/3Ro76WHTJlOKxPlM5J0Acq"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
+        "name": "\u5348\u524d4\u6642\u306eDusty Love",
+        "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
       },
       "artists": [
         {
-          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
+          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
+          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
         }
       ],
-      "duration_ms": 235013,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
+      "duration_ms": 274946,
+      "name": "\u5348\u524d4\u6642\u306eDusty Love",
+      "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "\u5348\u524d4\u6642\u306eDusty Love",
-        "url": "https://open.spotify.com/album/5ELinRPiJCLrmCCKsOTAvd"
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/2sxCRIMhFNNPInRgTdOmM5"
       },
       "artists": [
         {
-          "name": "\u5fa1\u5802\u864e\u65bc (CV.\u8fd1\u85e4 \u9686)",
-          "url": "https://open.spotify.com/artist/4NuxWb2eGVkzb6AsN2sv8H"
+          "name": "\u68d7 \u5df3\u6ce2 (CV.\u897f\u5c71\u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/2ClkCmN3ssmdtBGuDYmutj"
         }
       ],
-      "duration_ms": 274946,
-      "name": "\u5348\u524d4\u6642\u306eDusty Love",
-      "url": "https://open.spotify.com/track/4VpQnA8PUQGJlSREzEjf2u"
+      "duration_ms": 235013,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/2x96Uek1encMpPxzZfRixB"
     },
     {
       "added_at": "2025-06-09 15:00:27",

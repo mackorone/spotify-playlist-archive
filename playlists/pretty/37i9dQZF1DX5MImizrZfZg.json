@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 79623,
+  "num_followers": 79649,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
-      },
-      "artists": [
-        {
-          "name": "Joe McBride",
-          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
-        }
-      ],
-      "duration_ms": 301693,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Tim Bowman",
         "url": "https://open.spotify.com/album/0j6ODbG302rX09vrgDoA3e"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 302813,
       "name": "Soul Dream",
       "url": "https://open.spotify.com/track/7LdSiHHU6cynBDc7j3DDoc"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/1oEzGC5KIwVQ5Zic2EqiTW"
+      },
+      "artists": [
+        {
+          "name": "Joe McBride",
+          "url": "https://open.spotify.com/artist/0fqABdgGiy0H0NLUb5GNWs"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/6tvzrHd7zWzSV93jIG0r4R"
     },
     {
       "added_at": "2020-08-19 19:15:51",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
-        "name": "Metro Blue",
-        "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "People Make the World Go Round",
-      "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
         "name": "Kickin' It Up",
         "url": "https://open.spotify.com/album/2K2hpHYSq3zS68jFFgMBhB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 267360,
       "name": "4 On The Floor",
       "url": "https://open.spotify.com/track/1vYBGXVfENemD4GnAIR8JN"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
+        "name": "Metro Blue",
+        "url": "https://open.spotify.com/album/2dIQqLUUw0qZ8Eeu7AVdxR"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "People Make the World Go Round",
+      "url": "https://open.spotify.com/track/4JWPdkrjQhOA46YXwclTOp"
     },
     {
       "added_at": "2020-08-19 19:15:51",

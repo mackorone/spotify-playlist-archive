@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 941867,
+  "num_followers": 942075,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
       "added_at": "2025-07-25 04:00:45",
@@ -651,26 +651,6 @@
     {
       "added_at": "2025-07-25 04:00:45",
       "album": {
-        "name": "TRALALERO TRALALA FUNK",
-        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
-      },
-      "artists": [
-        {
-          "name": "DJ Raulipues",
-          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
-        },
-        {
-          "name": "DJ DYLANFK",
-          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
-        }
-      ],
-      "duration_ms": 117901,
-      "name": "TRALALERO TRALALA FUNK",
-      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
-    },
-    {
-      "added_at": "2025-07-25 04:00:45",
-      "album": {
         "name": "BRAZILIAN DAN\u00c7A PHONK",
         "url": "https://open.spotify.com/album/4QlnGetYxfXaVGhgdmF0vG"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 118194,
       "name": "BRAZILIAN DAN\u00c7A PHONK",
       "url": "https://open.spotify.com/track/6yVjjQA31SLM1kc4j5jPwF"
+    },
+    {
+      "added_at": "2025-07-25 04:00:45",
+      "album": {
+        "name": "TRALALERO TRALALA FUNK",
+        "url": "https://open.spotify.com/album/3ByS7pZG6sOgHIZVBTj9v4"
+      },
+      "artists": [
+        {
+          "name": "DJ Raulipues",
+          "url": "https://open.spotify.com/artist/0NNEggTd7RupgifjoxF9tG"
+        },
+        {
+          "name": "DJ DYLANFK",
+          "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        }
+      ],
+      "duration_ms": 117901,
+      "name": "TRALALERO TRALALA FUNK",
+      "url": "https://open.spotify.com/track/1F50ebAU2S8gRzjmfmyzn1"
     },
     {
       "added_at": "2025-07-25 04:00:45",

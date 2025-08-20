@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "exit door",
+        "url": "https://open.spotify.com/album/2FSf42CGwejkhmBUJEzpty"
+      },
+      "artists": [
+        {
+          "name": "Nomuel",
+          "url": "https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121626,
+      "name": "exit door",
+      "url": "https://open.spotify.com/track/3ACRopLRVpHh4WAGyNAPQO"
+    },
+    {
+      "album": {
         "name": "Ostb\u00e4rn gseh und st\u00e4rbe",
         "url": "https://open.spotify.com/album/7lfj26zC3hF9Gm9mHSqxyk"
       },
@@ -5498,7 +5516,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 114000,
       "name": "Seg Wer",
       "url": "https://open.spotify.com/track/30d3dbDTmLoRsdoErGPFkH"

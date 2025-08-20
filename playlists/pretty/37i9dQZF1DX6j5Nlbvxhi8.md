@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6j5Nlbvxhi8.md) - [plain]
 
 > 2024年にプレイリスト「Hot Hits Japan」で聴かれた楽曲を総まとめ。 cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,514 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,513 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

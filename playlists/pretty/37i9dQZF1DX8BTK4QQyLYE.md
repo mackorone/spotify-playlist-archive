@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/amberruffin/">Amber Ruffin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 51 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,559 likes - 51 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BTK4QQyLYE.md) - [plain]
 | 41 | [My Drink N' My 2 Step \(feat\. Swizz Beatz\) \- Radio Edit](https://open.spotify.com/track/1ksleezIr9hz61v7TFNYE1) | [Cassidy](https://open.spotify.com/artist/3WilJWdCNLSU7fpYjiKb7v), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [My Drink N' My 2 Step \(feat\. Swizz Beatz\) \[Radio Edit\]](https://open.spotify.com/album/7kfqVXjqQPz0gQFpkSYWl1) | 3:14 |
 | 42 | [Put Your Hands Where My Eyes Could See \(feat\. Jamal\)](https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [When Disaster Strikes...](https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP) | 3:14 |
 | 43 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:31 |
-| 44 | [Bad Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/6sFh7nERcmeMZB3rzZFcK3) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:01 |
+| 44 | [Bad Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/6sFh7nERcmeMZB3rzZFcK3) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:01 |
 | 45 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
 | 46 | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/track/5cHpzOCrgpnjKuoFqOUIdw) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Savage Remix \(feat\. Beyoncé\)](https://open.spotify.com/album/5RJFtdfvAxvgiRxjbMOZ2u) | 4:02 |
 | 47 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 |

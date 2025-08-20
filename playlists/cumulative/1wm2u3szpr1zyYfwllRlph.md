@@ -4,7 +4,7 @@
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-143 songs - 7 hr 1 min
+144 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2025-07-18 |  |
 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 | 2025-07-18 | 2025-08-06 |
 | [Sleepyhead 2025](https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Sleepyhead 2025](https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc) | 4:05 | 2025-07-18 |  |
+| [SLOWLY](https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [SLOWLY](https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2) | 2:48 | 2025-08-19 |  |
 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2025-07-18 |  |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-07-18 |  |
 | [somebody else](https://open.spotify.com/track/6aInSNYXYd5fSDZN5zX6Tc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [somebody else](https://open.spotify.com/album/1hHndqjMpJ426F7xFruQ2z) | 2:11 | 2025-07-18 |  |
@@ -136,7 +137,7 @@
 | [The Feeling](https://open.spotify.com/track/2XwfwHvM8iqvWL5bZWbo86) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [The Feeling](https://open.spotify.com/album/3cPlIoKj0mGfn4gOJGf1Ms) | 2:48 | 2025-07-18 |  |
 | [The Glen \- Levi Heron Edit](https://open.spotify.com/track/7K2DFO1NYMtBdNP6vNlhWI) | [Levi Heron](https://open.spotify.com/artist/4l6SsatjUmNTPQEOS33NnP) | [The Glen \(Levi Heron Edit\)](https://open.spotify.com/album/3rJU9t2bPnf4WWyaDHjF9h) | 2:53 | 2025-07-18 |  |
 | [There She Goes](https://open.spotify.com/track/2aSjWonALEwE3wTpjYMvc7) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs), [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [There She Goes](https://open.spotify.com/album/3gHDnPPOgXcueJrL1r03q2) | 2:01 | 2025-07-18 |  |
-| [Time After Time](https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:19 | 2025-07-18 |  |
+| [Time After Time](https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:19 | 2025-07-18 | 2025-08-20 |
 | [Toca's Miracle](https://open.spotify.com/track/7B1ws2PP3ecrUIkEqqCF8L) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [Toca's Miracle](https://open.spotify.com/album/267YQ7EDLLkc2EV46aoAZ6) | 2:40 | 2025-07-18 |  |
 | [Toute première fois](https://open.spotify.com/track/1wrQRszAyr6cP8mj8PLQLS) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Jeanne Mas](https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR) | [Toute première fois](https://open.spotify.com/album/4MaY6euKQwdKVyj3LTFJdY) | 3:11 | 2025-07-22 |  |
 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 | 2025-07-18 | 2025-08-16 |

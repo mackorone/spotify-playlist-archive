@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française\. Photo: Julien Lieb
 
-302 songs - 14 hr 51 min
+303 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [Rien qu'ça](https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur](https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv) | 2:33 | 2025-03-06 | 2025-04-18 |
 | [Rome](https://open.spotify.com/track/6uli5hr7BAqcCPflGOQwLv) | [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [KAM](https://open.spotify.com/artist/2bRFB156zGRK5of4nNcHYZ), [Yukaï](https://open.spotify.com/artist/0oEG02X9HtMCp3veQMWD92) | [Rome](https://open.spotify.com/album/7HkMD4BxwBZIqH8SABg43O) | 3:29 | 2025-07-10 |  |
 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 | 2024-07-18 | 2024-11-08 |
-| [Rose](https://open.spotify.com/track/2vaKqWn0w9Tkv5dj9ecsvr) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Rose](https://open.spotify.com/album/6VtJI4PQO2y2Yh32NC7uui) | 2:29 | 2025-05-15 |  |
+| [Rose](https://open.spotify.com/track/2vaKqWn0w9Tkv5dj9ecsvr) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Rose](https://open.spotify.com/album/6VtJI4PQO2y2Yh32NC7uui) | 2:29 | 2025-05-15 | 2025-08-20 |
 | [Résister \(What about Peace?\)](https://open.spotify.com/track/46fePeAZ2ui3QHDoGxpDMx) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Résister \(What about Peace?\)](https://open.spotify.com/album/3lrK6iynnWj1oO1fONiQ9I) | 3:10 | 2024-06-27 | 2024-10-04 |
 | [Sans toi](https://open.spotify.com/track/7F67nFKCxSnDdSJwOkZQCn) | [Hugo Nogam](https://open.spotify.com/artist/3A08xhQd902eJmnI5U0bJe) | [Sans toi](https://open.spotify.com/album/6dIHkbZtnkMcNa9ITpFgWu) | 2:45 | 2024-09-26 | 2024-11-15 |
 | [Sans toi](https://open.spotify.com/track/6o7M2MVp3DrPGJcR3ZHRsv) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Sans toi](https://open.spotify.com/album/6XRgeirorxvr1SNfZGcnVI) | 3:34 | 2024-10-03 | 2025-01-10 |
@@ -277,6 +277,7 @@
 | [Tour du monde \(feat\. Ronisia\)](https://open.spotify.com/track/5SuyFU4CGBodJOaAeGBI7J) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Adrénaline](https://open.spotify.com/album/37MDglqBpeVjrOdA0votKm) | 2:47 | 2025-03-20 | 2025-06-13 |
 | [Tourne Tourne](https://open.spotify.com/track/0RAYTKZxMhS5nWbPP2Ojuz) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [CARDIO DRAME](https://open.spotify.com/album/0t4I2vTPNL4IKMXCVNSCvY) | 2:29 | 2025-03-13 | 2025-06-06 |
 | [Tourner sous la pluie](https://open.spotify.com/track/4TxDNMIF4z0kZigtnWnLUC) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Tourner sous la pluie](https://open.spotify.com/album/73ZdGxzyocIdXVst4anPgQ) | 2:38 | 2024-12-12 | 2025-01-31 |
+| [Tout a changé \(Rien n'a changé\)](https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 2:46 | 2025-08-18 |  |
 | [Tout dire](https://open.spotify.com/track/27GjxhZTxOVpCTBjSwqvdN) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Tout dire \(Version Deluxe\)](https://open.spotify.com/album/42oKj8M6xxE644yYGYjZqy) | 2:57 | 2025-01-09 | 2025-03-07 |
 | [Tout finit par s'arranger](https://open.spotify.com/track/0HZfhYY0wc85JbzulGptsF) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Tout finit par s'arranger](https://open.spotify.com/album/5FdmckG2IazguMhFrgrN9x) | 2:50 | 2024-11-28 | 2025-02-21 |
 | [Tout ira bien](https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E) | [Adèle & Robin](https://open.spotify.com/artist/1C04qPsvqhYBJhpWGCIFo8) | [Tout ira bien](https://open.spotify.com/album/4I0IDPYWMSVOwBCmhSxnuj) | 2:59 | 2024-07-04 | 2024-10-18 |

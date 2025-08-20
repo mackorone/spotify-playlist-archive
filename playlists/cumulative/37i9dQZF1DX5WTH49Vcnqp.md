@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: Dijon
 
-1,682 songs - 4 day 0 hr 4 min
+1,683 songs - 4 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Dancing Circles 2.0](https://open.spotify.com/track/3C5eqElWp0s4of3vTU37bF) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai \(Deluxe\)](https://open.spotify.com/album/0oKro6GftR6X0sk7fVH7T8) | 3:46 | 2024-10-03 | 2024-11-15 |
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-13 | 2023-06-16 |
 | [Dancing Shoes](https://open.spotify.com/track/7BKOfKtv10zEygWd1WABrh) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Dancing Shoes](https://open.spotify.com/album/6L9DCSXBlSRG63bmPUnJkj) | 3:57 | 2022-04-28 | 2022-07-22 |
+| [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 | 2025-08-19 |  |
 | [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2023-04-06 | 2023-04-14 |
 | [Dark Vacay](https://open.spotify.com/track/3ng8K57CBb7e6vcf8ZODjj) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/0YE44iEo0n62thnJAoVDtu) | 3:33 | 2024-04-18 | 2024-05-24 |
 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 | 2024-10-24 |  |
@@ -1239,7 +1240,7 @@
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-26 | 2025-05-02 |
 | [Sad to Breathe](https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sad to Breathe](https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6) | 3:34 | 2023-04-27 | 2023-05-19 |
 | [Sadie](https://open.spotify.com/track/5yioG7z2EDTHR5aBN1WS7K) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Lola](https://open.spotify.com/album/2nkuEWWUZLf4tLMZrns03r) | 3:43 | 2024-01-25 | 2024-03-01 |
-| [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-20 |  |
+| [Safeandsound](https://open.spotify.com/track/0krZJTkVX0szMqd1VYBGK4) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Safeandsound](https://open.spotify.com/album/6sbkXlpjVLMg7D5lSiawXA) | 4:37 | 2025-03-20 | 2025-08-20 |
 | [Safety](https://open.spotify.com/track/2712VhU2lg1zVicy19XYax) | [Becca Hatch](https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg) | [Safety](https://open.spotify.com/album/5rw8OZBGecZW0MJCUAORct) | 3:57 | 2021-12-28 | 2022-01-14 |
 | [Safety Pin](https://open.spotify.com/track/40PpXqN7v1Fsa3epSOjCQp) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [Safety Pin](https://open.spotify.com/album/4W0qgDWnfpdSkfDkWrGl8C) | 2:18 | 2024-04-25 | 2024-08-30 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-20 | 2025-06-27 |

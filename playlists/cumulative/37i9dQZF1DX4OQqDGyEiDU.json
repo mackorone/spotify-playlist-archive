@@ -3201,6 +3201,28 @@
     },
     {
       "album": {
+        "name": "sakuramochihokusaikyousoukyoku (feat. HATSUNE MIKU)",
+        "url": "https://open.spotify.com/album/1LA1d1aV1FmkBfNUX22pBx"
+      },
+      "artists": [
+        {
+          "name": "bouinboushokup",
+          "url": "https://open.spotify.com/artist/4qQhqSCTjDOfXw4SYbj6Mo"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "sakuramochihokusaikyousoukyoku (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/6bdcKhmAgyMR4kvU9CJ7Mt"
+    },
+    {
+      "album": {
         "name": "Samsa",
         "url": "https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH"
       },
@@ -4176,7 +4198,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 192000,
       "name": "\u3044\u3044\u3088",
       "url": "https://open.spotify.com/track/5XgSk64rzXDw1BdvFiSu4T"
@@ -4872,6 +4894,24 @@
       "duration_ms": 254897,
       "name": "\u3088\u308b\u306e\u307e\u3061",
       "url": "https://open.spotify.com/track/6qRwekcRi63FvffBSkg2AH"
+    },
+    {
+      "album": {
+        "name": "\u3089\u3063\u3071\u30fc",
+        "url": "https://open.spotify.com/album/3Lr0WodCvi3gyVZOUv8CWO"
+      },
+      "artists": [
+        {
+          "name": "peanut butters",
+          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189214,
+      "name": "\u3089\u3063\u3071\u30fc",
+      "url": "https://open.spotify.com/track/7LNdtEw0aL7tQdjlhAAiij"
     },
     {
       "album": {
@@ -10510,7 +10550,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 224415,
       "name": "\u63fa\u3089\u3044\u3067\u3044\u305f feat. \u53ef\u4e0d",
       "url": "https://open.spotify.com/track/4UR4WxFbRtUfQXZ1kBQri2"
@@ -11298,7 +11338,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 203760,
       "name": "\u795e\u3063\u307d\u3044\u306a",
       "url": "https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu"
@@ -11728,7 +11768,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 217488,
       "name": "\u9583\u5149\u3060\u3063\u305f",
       "url": "https://open.spotify.com/track/4AxvjJfalZNctvSHdADFqN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Rich Brian, Maroon 5, The Lantis dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,411 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,423 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 53 | [Pasti\-Pasti Aja \(feat\. Berry Saint Loco\) \[Remastered\]](https://open.spotify.com/track/4cKyDdP8h1RA0JHaOx3IiE) | [Obin The Flops](https://open.spotify.com/artist/2wXqfe7SLy5IvueZkOI21L), [Berry Saint Loco](https://open.spotify.com/artist/1TB3hqYSOqWl3vg9SJCEd0) | [Pasti\-Pasti Aja \(feat\. Berry Saint Loco\) \[Remastered\]](https://open.spotify.com/album/616Bpm1tC9uCnhgGZoGlcE) | 4:13 |
 | 54 | [My Love Will Remain](https://open.spotify.com/track/0xrn8inTNkXR8FGo6Z8OZY) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [My Love Will Remain](https://open.spotify.com/album/6i7JBA0K2QfeztrB7grOkt) | 3:52 |
 | 55 | [Aftermath \- Edit](https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Here are the first 3 songs from my mixtape, Rocket](https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4) | 1:42 |
-| 56 | [B.B.B \(Bigger Badder Better\) \[feat\. A2O LTG\] \- English Ver.](https://open.spotify.com/track/24rLULwo5TRiAe2V52Nbbz) | [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LTG](https://open.spotify.com/artist/6u0Rehsl6UHQuMQ4vIrgQR) | [B.B.B \(Bigger Badder Better\) \[feat\. A2O LTG\]](https://open.spotify.com/album/6OzSZeYhglVjyMKg7vkSnl) | 3:36 |
+| 56 | [B.B.B \(Bigger Badder Better\) \[feat\. A2O LTG\] \- English Ver.](https://open.spotify.com/track/24rLULwo5TRiAe2V52Nbbz) | [A2O MAY](https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4), [A2O](https://open.spotify.com/artist/7rBQch7KtqQNQjV5AxdHlE), [A2O LTG](https://open.spotify.com/artist/0plV4NwVqqGMx8BVwjL5D1) | [B.B.B \(Bigger Badder Better\) \(feat\. A2O LTG\)](https://open.spotify.com/album/6OzSZeYhglVjyMKg7vkSnl) | 3:36 |
 | 57 | [Good for U](https://open.spotify.com/track/6dNQcfj7hMPUKL7i5hSVK4) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Good for U](https://open.spotify.com/album/3bet0Hx67bSeEbp2oDnCT8) | 3:24 |
 | 58 | [Topping](https://open.spotify.com/track/59vn9z2EUT8GStAdmDNf3y) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Topping](https://open.spotify.com/album/41tisXYtO2LPc1kGG0kEKn) | 2:46 |
 | 59 | [REPLY](https://open.spotify.com/track/5x8eDWlfUUrwLtlpNmYEyE) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [In Bloom](https://open.spotify.com/album/4FaPGtnRQ3rUMk0G0hpqsf) | 2:53 |

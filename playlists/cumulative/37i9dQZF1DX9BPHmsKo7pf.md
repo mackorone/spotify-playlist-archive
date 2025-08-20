@@ -2,7 +2,7 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Babasha
+> Cele mai de succes 50 de hituri în România\. Cover: Aerozen
 
 206 songs - 9 hr 57 min
 
@@ -151,7 +151,7 @@
 | [PE STRADĂ](https://open.spotify.com/track/5m8qkGkNUdclEqMrFEADmD) | [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [PE STRADĂ](https://open.spotify.com/album/3P1d69RRAhJxr3UIntRcvK) | 2:12 | 2025-03-24 | 2025-04-15 |
 | [Pe un pat](https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Pe un pat](https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81) | 2:37 | 2024-07-01 | 2024-08-27 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-07-30 |
-| [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 | 2025-08-04 |  |
+| [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 | 2025-08-04 |  |
 | [PRAF 3](https://open.spotify.com/track/1JZG2Uy2YX81JVWFGpz16J) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [PRAF 3](https://open.spotify.com/album/0eQ1ejoOl4WVZBVbuCKcIi) | 3:07 | 2024-07-22 | 2024-08-13 |
 | [PRIETENA TA](https://open.spotify.com/track/65s5E9OK3p1fER8OCdJjWO) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn), [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [Dj Nattan](https://open.spotify.com/artist/6IcnhoOZCRfWT8viBrredL) | [PRIETENA TA](https://open.spotify.com/album/0f9WWquV54mxfVNBppwy9i) | 3:22 | 2025-05-05 |  |
 | [Păi naa](https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Păi naa](https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q) | 2:40 | 2024-07-01 | 2025-04-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Ty Myers, Jordan Davis, Gavin Adcock and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,291 likes - 73 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,392 likes - 73 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 21 | [Nostalgic for Nothing](https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Nostalgic for Nothing](https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c) | 3:25 |
 | 22 | [The Going](https://open.spotify.com/track/32Bh9145i500cQtTxDGRGI) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [The Going](https://open.spotify.com/album/2jDyZ4qoMwxCSLs5Lpy2ks) | 4:23 |
 | 23 | [People Please](https://open.spotify.com/track/0p7DRwy4ZeqYTyumxdwDEb) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [People Please](https://open.spotify.com/album/0yzWSu6F1wccP2ujjAicLJ) | 2:55 |
-| 24 | [Under My Skin](https://open.spotify.com/track/04tSh2if4TZgvIU1mEadZE) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Under My Skin](https://open.spotify.com/album/6HpT5yCZnAWm8x7EKxPaZ4) | 2:53 |
+| 24 | [under my skin](https://open.spotify.com/track/04tSh2if4TZgvIU1mEadZE) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [under my skin](https://open.spotify.com/album/6HpT5yCZnAWm8x7EKxPaZ4) | 2:53 |
 | 25 | [WHERE YOU'LL FIND ME](https://open.spotify.com/track/0XxfzXtECJyHoDXzidruzQ) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [WHERE YOU'LL FIND ME](https://open.spotify.com/album/5LOSkN1kUg1sgZ15rSqoO1) | 2:58 |
 | 26 | [OVER THE RIVER](https://open.spotify.com/track/3FRCRNsHOUxpmAIbrUnS6K) | [Sean Stemaly](https://open.spotify.com/artist/2dZ1l4hWgtbMS0N5T9Oalb) | [OVER THE RIVER](https://open.spotify.com/album/1gMxygMLOyLEZduNf7FoJN) | 3:00 |
 | 27 | [Honky Tonk Talkin'](https://open.spotify.com/track/5olrmgh4lJL0qXFjlOfseb) | [Will Banister](https://open.spotify.com/artist/5b28wAQnFmBIedOrbr1Wek), [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [Honky Tonk Talkin'](https://open.spotify.com/album/5zidH1nx9EUt1cDYJVjzD2) | 3:06 |

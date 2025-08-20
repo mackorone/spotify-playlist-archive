@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "It\u2019s pop punk, it\u2019s the best . Pride edition \ud83c\udf08",
+  "description": "It\u2019s pop punk, it\u2019s the best",
   "name": "Best Of Pop Punk ",
   "tracks": [
     {
@@ -622,6 +622,24 @@
       "duration_ms": 196504,
       "name": "April 7th",
       "url": "https://open.spotify.com/track/77LRMJWWUt85fNPHiospQU"
+    },
+    {
+      "album": {
+        "name": "ARE THE KIDS OKAY?",
+        "url": "https://open.spotify.com/album/0iq7y5F9qbXnfGRUcpf3uo"
+      },
+      "artists": [
+        {
+          "name": "Nick Karcher",
+          "url": "https://open.spotify.com/artist/3Ge0DWpNmmWN39IGnQ98yc"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "ARE THE KIDS OKAY?",
+      "url": "https://open.spotify.com/track/7EcGqSvhanVTkwLbC5TpUy"
     },
     {
       "album": {

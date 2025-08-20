@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Akira Presidente, LEALL
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,677 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,712 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 25 | [MUITO BRABO](https://open.spotify.com/track/3QNjS73flaaTBKyxk7E0kL) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [MUITO BRABO](https://open.spotify.com/album/6H7CjzXl7ILsfMqs9pyik6) | 3:39 |
 | 26 | [Cabana Terminal](https://open.spotify.com/track/46RASVE1jZ3bTavDxvnudx) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 2:46 |
 | 27 | [Ficar Rico Esse Ano](https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ficar Rico Esse Ano](https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb) | 2:57 |
-| 28 | [Boom Boom Bap](https://open.spotify.com/track/4yfxzJmXuqLSId9wGY1odh) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Boom Boom Bap](https://open.spotify.com/album/5AFus3y1xZRuokOyHpxjxL) | 3:03 |
+| 28 | [Boom Boom Bap](https://open.spotify.com/track/4yfxzJmXuqLSId9wGY1odh) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Boom Boom Bap](https://open.spotify.com/album/5AFus3y1xZRuokOyHpxjxL) | 3:03 |
 | 29 | [Assaltos e Batidas](https://open.spotify.com/track/5rmZvDdnuxDUq2OPoDN2sA) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL) | [ASSALTOS E BATIDAS](https://open.spotify.com/album/5ZCEu4tVlxt0PR0J4NJ0Ex) | 2:20 |
 | 30 | [dias de verão](https://open.spotify.com/track/3rVMq9q6MVqMlhceKRgU4M) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [CARO Vapor II \- qual a forma de pagamento ?](https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ) | 2:57 |
 | 31 | [JÓIAS NO COFRE](https://open.spotify.com/track/05xHVCa4LsX7g5i38vFRbM) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [GTA](https://open.spotify.com/artist/7l3UtcnrlxH7wPrb1HXFI6), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Phat Kat](https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [CONVICTO](https://open.spotify.com/album/2nzvI4V9nJDHaLqgM6jgnC) | 4:47 |

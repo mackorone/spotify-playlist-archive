@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Remble
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,450 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,449 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [Truth Is \(feat\. Roddy Ricch\)](https://open.spotify.com/track/3vg3cG1nFVe8Gru8pvgUEZ) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 2:31 |
 | 100 | [Leanin](https://open.spotify.com/track/6iPo21Q3Yw3k2kWuURTNGM) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Class of 95](https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO) | 3:12 |
 
-Snapshot ID: `AAAAAObEYTq2vPM/9Yptd2qMf0dtJX9G`
+Snapshot ID: `AAAAACNGJjWH4ZnplXdYaBw2upUsGXc3`

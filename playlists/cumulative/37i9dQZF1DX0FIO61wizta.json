@@ -4077,32 +4077,6 @@
     },
     {
       "album": {
-        "name": "Verdi : Rigoletto",
-        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of Welsh National Opera",
-          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 110800,
-      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
-      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
-    },
-    {
-      "album": {
         "name": "Verdi: Aida",
         "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
       },
@@ -4288,6 +4262,40 @@
       "duration_ms": 273000,
       "name": "Verdi: Nabucco, Act 3: \"Va pensiero\", 'Chorus of the Hebrew slaves' (Chorus)",
       "url": "https://open.spotify.com/track/1OOFbCYALA1gOGgdml5PF8"
+    },
+    {
+      "album": {
+        "name": "Verdi : Rigoletto",
+        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Alexandru Agache",
+          "url": "https://open.spotify.com/artist/55OM9xMkesuRJJRSaKM2Vm"
+        },
+        {
+          "name": "Leontina Vaduva",
+          "url": "https://open.spotify.com/artist/7tnWwr4R5o3aecretwqytf"
+        },
+        {
+          "name": "Orchestra of Welsh National Opera",
+          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110800,
+      "name": "Verdi: Rigoletto, Act 3: \"Chi mai, chi \u00e8 qui\" (Rigoletto, Gilda)",
+      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0FIO61wizta"

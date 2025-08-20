@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-741 songs - 1 day 7 hr 26 min
+744 songs - 1 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-06-07 | 2022-09-15 |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-08-15 |  |
 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 | 2022-06-07 | 2025-02-27 |
+| [Armonia](https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT) | [Elion Veero](https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO) | [Armonia](https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG) | 3:00 | 2025-08-19 |  |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-03-01 |  |
 | [As if She Were The Sun](https://open.spotify.com/track/5AhXtjD4g5KCV5A0z2jpeD) | [Avery Hall](https://open.spotify.com/artist/13iFrunlI1q3bWFisDA4k1) | [As if She Were The Sun](https://open.spotify.com/album/4zAI7PqqyswWjYoATzLDde) | 2:10 | 2022-06-07 | 2022-09-15 |
 | [As You Close Your Eyes](https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [As You Close Your Eyes](https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa) | 2:06 | 2022-06-07 | 2022-12-24 |
@@ -339,6 +340,7 @@
 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 | 2022-06-07 | 2025-04-26 |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-06-07 | 2025-04-26 |
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2022-06-07 | 2022-07-20 |
+| [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-19 |  |
 | [Long\-Awaited Light](https://open.spotify.com/track/0MllxU17FqcO092gj9Gj9k) | [Marcelo Salvius](https://open.spotify.com/artist/4exM1DAqbTjDfgaj98AGiO) | [Long\-Awaited Light](https://open.spotify.com/album/4dtLMUejmFxtkEBRs3yjCN) | 2:38 | 2025-03-11 |  |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2022-06-07 | 2024-03-27 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2022-06-07 | 2022-09-15 |
@@ -510,6 +512,7 @@
 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 | 2022-06-07 | 2022-07-20 |
 | [Round Corners](https://open.spotify.com/track/5Xihr5cDsWzZoAXDYXIyQT) | [Gino Carbone](https://open.spotify.com/artist/6GHpZni4assd8ljmgjhMix) | [Round Corners](https://open.spotify.com/album/2nSqjcfvtIkeqzscccMkZr) | 2:26 | 2022-06-07 | 2023-05-17 |
 | [Rowan](https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Rowan](https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw) | 2:48 | 2025-08-05 |  |
+| [Ruby Clouds](https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ruby Clouds](https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM) | 2:20 | 2025-08-19 |  |
 | [Rêveuse](https://open.spotify.com/track/2WKKf8jH7nOZ28yLjr67RM) | [Hibou](https://open.spotify.com/artist/6HhcL4UQynXwbA9sLoonuy) | [Rêveuse](https://open.spotify.com/album/4RbYp5krh9CSt7DTrfSmnb) | 2:11 | 2022-06-07 | 2022-09-24 |
 | [s'effondrer](https://open.spotify.com/track/3e8h3zJiIpod0eksz4QXZ4) | [Liliane Lucy](https://open.spotify.com/artist/1ICOz8tPrLAs5l5hYq12om) | [s'effondrer](https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY) | 3:03 | 2022-06-07 | 2024-08-10 |
 | [Sacred Secret](https://open.spotify.com/track/4sVyIUWPXRaXeu4f3PcsHL) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Sacred Secret](https://open.spotify.com/album/6U50m93mAe1gTDENvUukNW) | 2:00 | 2022-06-07 | 2022-07-20 |

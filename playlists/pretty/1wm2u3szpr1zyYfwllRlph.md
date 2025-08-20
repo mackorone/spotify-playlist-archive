@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 
 > Dance Hits \- EDM, Summer and dance floor favourites from Calvin Harris, Lost Frequencies, Kygo, Tiesto, David Guetta! Cover: Lost Frequencies
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 57,839 likes - 135 songs - 6 hr 38 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 57,803 likes - 135 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 34 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 |
 | 35 | [somebody else](https://open.spotify.com/track/6aInSNYXYd5fSDZN5zX6Tc) | [e.motion](https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ) | [somebody else](https://open.spotify.com/album/1hHndqjMpJ426F7xFruQ2z) | 2:11 |
 | 36 | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/track/5w3RgZoLVUp2jKONPZ2JVe) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [My Heart Goes \(feat\. Oaks\)](https://open.spotify.com/album/4ldeQvtnsa2PrA1ergNyMS) | 2:13 |
-| 37 | [Time After Time](https://open.spotify.com/track/5VpPQHUxGdz7ntrITnaRBg) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Time After Time](https://open.spotify.com/album/2Cx2YJ3A63ywLbsP8zLUj8) | 2:19 |
+| 37 | [SLOWLY](https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [SLOWLY](https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2) | 2:48 |
 | 38 | [Walking On A Dream](https://open.spotify.com/track/3tDaxaj8DPYSpKuKLbYivr) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Walking On A Dream](https://open.spotify.com/album/0If2TvEiZbLz38TpWiAD9j) | 2:32 |
 | 39 | [Dream Machine](https://open.spotify.com/track/5InP3qeijJ8Ct2gn4Ri7BJ) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Dream Machine](https://open.spotify.com/album/2iguONF9gd6iYmXIbAi5wO) | 3:26 |
 | 40 | [HIDEAWAY](https://open.spotify.com/track/3Cju4hxTTHvFkb7OcLIk3f) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [HIDEAWAY](https://open.spotify.com/album/3v9D67n4NEiG0C62XrI9XW) | 3:07 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/1wm2u3szpr1zyYfwllRlph.md) - [plain]
 | 134 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 135 | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Lonely \(feat\. Sananda Maitreya\)](https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5) | 2:50 |
 
-Snapshot ID: `AAAgMTSmLICi8+rwRyrvX1+PgVRaZf5z`
+Snapshot ID: `AAAgNRH3hvWK+qPxTxaPnmr1O37dJUFO`

@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring FISHER & bbyclose",
-  "num_followers": 1959559,
+  "num_followers": 1959417,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "Ease My Mind",
-        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 191704,
-      "name": "Ease My Mind",
-      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
         "name": "I'm Not Alone (MPH Remix)",
         "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 213333,
       "name": "I'm Not Alone - MPH Remix",
       "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
+        "name": "Ease My Mind",
+        "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 191704,
+      "name": "Ease My Mind",
+      "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
+        "name": "Too Big For B-Side",
+        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 224414,
+      "name": "Like I Like It",
+      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
-        "name": "Too Big For B-Side",
-        "url": "https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 224414,
-      "name": "Like I Like It",
-      "url": "https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "TWOSTEP",
-        "url": "https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "TWOSTEP",
-      "url": "https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
         "name": "BANG BANG",
         "url": "https://open.spotify.com/album/2IKf2bBeD3RF178UUTC3ZA"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 193000,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4TZaceVVtIEtHOx8w8KkJV"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
+        "name": "TWOSTEP",
+        "url": "https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "TWOSTEP",
+      "url": "https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "Sunny",
-        "url": "https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "GUDFELLA",
-          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
-        }
-      ],
-      "duration_ms": 154354,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
         "name": "Liquor Store (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/4s6ArJmKtOG3xOtV7AsdjZ"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 137404,
       "name": "Liquor Store (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/1Ofr85G2VL1z2Ge4g0R6CT"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/2VTfQy8ZPbdjvYzHCO0PVz"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "duration_ms": 154354,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "She's A Bad Mama Jama",
-        "url": "https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t"
-      },
-      "artists": [
-        {
-          "name": "Si\u00e2n Owen",
-          "url": "https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1"
-        }
-      ],
-      "duration_ms": 144394,
-      "name": "She's A Bad Mama Jama",
-      "url": "https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 227500,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
+        "name": "She's A Bad Mama Jama",
+        "url": "https://open.spotify.com/album/2MgqRp7d0yT7fbvHY3RF8t"
+      },
+      "artists": [
+        {
+          "name": "Si\u00e2n Owen",
+          "url": "https://open.spotify.com/artist/3V078Un8f8Q8RPfCM78wA1"
+        }
+      ],
+      "duration_ms": 144394,
+      "name": "She's A Bad Mama Jama",
+      "url": "https://open.spotify.com/track/3zuL8wnCbFPlZ5wH2EFn0P"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -2115,42 +2115,6 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "So & So",
-        "url": "https://open.spotify.com/album/6APT3J7Qd9Gmz9UJyyVJjq"
-      },
-      "artists": [
-        {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "So & So",
-      "url": "https://open.spotify.com/track/44cYxhkVbl6ATgsp2B9VZK"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
-        "name": "groove that never stops",
-        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
-      },
-      "artists": [
-        {
-          "name": "Jake Antonio",
-          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "groove that never stops",
-      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
-    },
-    {
-      "added_at": "2025-08-15 04:00:06",
-      "album": {
         "name": "Deep Inside",
         "url": "https://open.spotify.com/album/1RCUm0QaiUMJxkdFLawDU0"
       },
@@ -2171,22 +2135,38 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "The Devil Works Hard",
-        "url": "https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4"
+        "name": "groove that never stops",
+        "url": "https://open.spotify.com/album/6Wtw2L9uDfz1h60LOFDtaZ"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+          "name": "Jake Antonio",
+          "url": "https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC"
         }
       ],
-      "duration_ms": 169453,
-      "name": "The Devil Works Hard",
-      "url": "https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni"
+      "duration_ms": 247384,
+      "name": "groove that never stops",
+      "url": "https://open.spotify.com/track/2WCEzJ2pXmk5Wf6uZEk4ds"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
+        "name": "So & So",
+        "url": "https://open.spotify.com/album/6APT3J7Qd9Gmz9UJyyVJjq"
+      },
+      "artists": [
+        {
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "So & So",
+      "url": "https://open.spotify.com/track/44cYxhkVbl6ATgsp2B9VZK"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -2207,6 +2187,26 @@
       "duration_ms": 184130,
       "name": "Got The Funk",
       "url": "https://open.spotify.com/track/62HMqOpPcNgECRoOMUD8B2"
+    },
+    {
+      "added_at": "2025-08-15 04:00:06",
+      "album": {
+        "name": "The Devil Works Hard",
+        "url": "https://open.spotify.com/album/3Y3UmB3THsefvGMZh1BGw4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        }
+      ],
+      "duration_ms": 169453,
+      "name": "The Devil Works Hard",
+      "url": "https://open.spotify.com/track/0hP0E1XXzOmCBJI7ROF0Ni"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -2371,22 +2371,22 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "Playa Paradiso",
-        "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
       },
       "artists": [
         {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+          "name": "SLAMM",
+          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
         },
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+          "name": "Dan Molinari",
+          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
         }
       ],
-      "duration_ms": 185353,
-      "name": "Playa Paradiso",
-      "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
+      "duration_ms": 162461,
+      "name": "K.E.T. - Amine Mix",
+      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
     },
     {
       "added_at": "2025-08-15 04:00:06",
@@ -2411,22 +2411,22 @@
     {
       "added_at": "2025-08-15 04:00:06",
       "album": {
-        "name": "D.O.P.E.",
-        "url": "https://open.spotify.com/album/7GqNwkZzWJhUIndPE7KF4d"
+        "name": "Playa Paradiso",
+        "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
       },
       "artists": [
         {
-          "name": "SLAMM",
-          "url": "https://open.spotify.com/artist/1MXqVY3BMc0RaQYu05MVpn"
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
         },
         {
-          "name": "Dan Molinari",
-          "url": "https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE"
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
         }
       ],
-      "duration_ms": 162461,
-      "name": "K.E.T. - Amine Mix",
-      "url": "https://open.spotify.com/track/2lHQRWqKnLuFHl52CypW2X"
+      "duration_ms": 185353,
+      "name": "Playa Paradiso",
+      "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
     }
   ],
   "unique_name": "Housewerk",

@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: tariisx
+> Os funks mais 🔑 do Brasil / Foto: Mc Negão Original, MC Jvila, MC Willian, DJ Japa NK, MC Meno K, DJ Guh Mix
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,597,649 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,598,181 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [fire hair](https://open.spotify.com/artist/6wyE69vcYrfYvRaG5GNEkN), [WenHard](https://open.spotify.com/artist/4otphgHII0GMrR36Kexd3o) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
-| 2 | [Vou pela Madrugada](https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [A Nata de Tudo \- A Ovelha Negra](https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx) | 4:41 |
+| 1 | [Vou pela Madrugada](https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [A Nata de Tudo \- A Ovelha Negra](https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx) | 4:41 |
+| 2 | [OUTRA](https://open.spotify.com/track/2LzXPUzL9sgeRl9a5miHMA) | [tarisiix](https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si), [fire hair](https://open.spotify.com/artist/6wyE69vcYrfYvRaG5GNEkN), [WenHard](https://open.spotify.com/artist/4otphgHII0GMrR36Kexd3o) | [OUTRA](https://open.spotify.com/album/0eTwgY32XuAf076DHI34Pz) | 2:08 |
 | 3 | [VAI NO CHÃO BANDIDA](https://open.spotify.com/track/5bPVaf87iW31GGfmk2yqsd) | [Dj Guuh](https://open.spotify.com/artist/58SW6CcsQsZthOpEf0KASk), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Talibã](https://open.spotify.com/artist/2DMQ1LeygTDGeyErwBwaeG) | [VAI NO CHÃO BANDIDA](https://open.spotify.com/album/7Cm2qf3lcohOwS1DZS5HiZ) | 2:20 |
 | 4 | [FAMOSINHA](https://open.spotify.com/track/5Nj2UVsxXAvhfYNpcre3al) | [Dj Caio Vieira](https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC) | [FAMOSINHA](https://open.spotify.com/album/1hOcmOgX024gR2IkB7Xg26) | 2:12 |
 | 5 | [Tipo Nino Vs Kabrinha](https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8) | [DJ Biel Divulga](https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o), [DJ Dozabri](https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg), [Mc Lekão](https://open.spotify.com/artist/19yiaMgl4Z5TFhUNp7R1JJ) | [Tipo Nino Vs Kabrinha](https://open.spotify.com/album/3kdrIdpP89aiYsJW2e3BYH) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 | 49 | [Longe de Magnata](https://open.spotify.com/track/7c2zWmVMYkqd86M1pL82rS) | [Deejhay RB](https://open.spotify.com/artist/6VOn8xBJH73S7DN8VBAoaN), [MC Tuto](https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z), [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Mc Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Longe de Magnata](https://open.spotify.com/album/3VfRuv1P76YLIJ1HksojUQ) | 7:32 |
 | 50 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |
 
-Snapshot ID: `AAAAAImQxknbFUzf70trOU8uZzfS2NyM`
+Snapshot ID: `AAAAAMYAyz33/KO/rx5d+ncs3xtp+7lZ`

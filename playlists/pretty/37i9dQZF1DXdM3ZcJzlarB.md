@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,556 likes - 110 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,564 likes - 110 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 109 | [Al Sur \(Remix\)](https://open.spotify.com/track/653NELKyXY5eHtXUfZeEHQ) | [Klauss](https://open.spotify.com/artist/5shIwMUlc16bVmFU7AbNfr) | [Al Sur \(Remix\)](https://open.spotify.com/album/3mviZQjGBXJ8eZhdXohbVf) | 5:39 |
 | 110 | [Es Por Ti \(Afro House\)](https://open.spotify.com/track/5BaMBVMxo9vSluCkdVqlRH) | [Benja Murano](https://open.spotify.com/artist/60iQQCqxRxnfGVn7O0ijl4) | [Es Por Ti \(Afro House\)](https://open.spotify.com/album/29Otm254rv5Hh3uVEPuAa2) | 4:34 |
 
-Snapshot ID: `AAAAALSWk+X2BGHCF4hl+qcEMeeMicTj`
+Snapshot ID: `AAAAAGFfWbpf+Tx/aL2JOn3X/pQKa48d`

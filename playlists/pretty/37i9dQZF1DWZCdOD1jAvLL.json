@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 265973,
+  "num_followers": 266006,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "No Enemies (feat. Namasenda)",
         "url": "https://open.spotify.com/album/7pvzIp85EdrRsBMN1SDW5p"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 160768,
       "name": "No Enemies (feat. Namasenda)",
       "url": "https://open.spotify.com/track/55gp7v87CYS1lxWQ5ho5nK"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1335,38 +1335,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Push",
-        "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
-        },
-        {
-          "name": "contra",
-          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
-        }
-      ],
-      "duration_ms": 185244,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
       },
@@ -1407,6 +1375,38 @@
       "duration_ms": 183157,
       "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
+        }
+      ],
+      "duration_ms": 185244,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Sutekh",
-        "url": "https://open.spotify.com/album/1i8kcOPHIXfTaRVELOWcR5"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Sutekh",
-      "url": "https://open.spotify.com/track/4sPAOLcK7XM61T0purl6Fw"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Night In Detroit (feat. Fedde Le Grand)",
         "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 166356,
       "name": "Night In Detroit (feat. Fedde Le Grand)",
       "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Sutekh",
+        "url": "https://open.spotify.com/album/1i8kcOPHIXfTaRVELOWcR5"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Sutekh",
+      "url": "https://open.spotify.com/track/4sPAOLcK7XM61T0purl6Fw"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Take It All",
-        "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 171207,
-      "name": "Take It All",
-      "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 205116,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Take It All",
+        "url": "https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 171207,
+      "name": "Take It All",
+      "url": "https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "GASOLINA & COCAINA",
+        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 192390,
+      "name": "GASOLINA & COCAINA",
+      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "SEROTONIN",
         "url": "https://open.spotify.com/album/60MfyEyAjQacig6zUbwgYK"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 169777,
       "name": "SEROTONIN",
       "url": "https://open.spotify.com/track/7GCGxfYiuvtSylERpjYWBd"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "GASOLINA & COCAINA",
-        "url": "https://open.spotify.com/album/3mdYxKYicOvBpjQkDWM1az"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 192390,
-      "name": "GASOLINA & COCAINA",
-      "url": "https://open.spotify.com/track/0e5hNZrUwqeKua0GJHPQFp"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "KARMA",
-        "url": "https://open.spotify.com/album/3bJ3S4GoWr2KBgpyaoIyCM"
-      },
-      "artists": [
-        {
-          "name": "SHIMA",
-          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "KARMA",
-      "url": "https://open.spotify.com/track/1TVqn4jUhBRsiZ4C6hOYSx"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Bass Face",
         "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3bJ3S4GoWr2KBgpyaoIyCM"
+      },
+      "artists": [
+        {
+          "name": "SHIMA",
+          "url": "https://open.spotify.com/artist/5DIqscCDlSKeas54ucF9SI"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/1TVqn4jUhBRsiZ4C6hOYSx"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "I Only Smoke When I Drink Remixes",
+        "url": "https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "duration_ms": 131970,
+      "name": "I Only Smoke When I Drink - Badger Remix",
+      "url": "https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -2315,26 +2335,6 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "I Only Smoke When I Drink Remixes",
-        "url": "https://open.spotify.com/album/49SdiGWkN6XqxoYeQPHRzd"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        }
-      ],
-      "duration_ms": 131970,
-      "name": "I Only Smoke When I Drink - Badger Remix",
-      "url": "https://open.spotify.com/track/1NeKGzcnnQi6kD20pdBwU1"
     },
     {
       "added_at": "2025-08-15 04:00:16",

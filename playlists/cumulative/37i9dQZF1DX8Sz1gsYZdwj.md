@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-238 songs - 11 hr 17 min
+239 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Quiet](https://open.spotify.com/track/2s7vQpVichRlRiyNuIPtKA) | [Naomi Coleman](https://open.spotify.com/artist/3Xv5X7d2v1UchIWXei1xHc) | [Quiet](https://open.spotify.com/album/4gpse5MnShhhOBEa4DDdnp) | 2:22 | 2023-09-29 | 2025-05-17 |
 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 | 2023-09-29 |  |
 | [Quietly Quietly](https://open.spotify.com/track/4WWzf8XjwjnvlCtXBd3y6c) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Quietly Quietly](https://open.spotify.com/album/2x2prQ4nWkiX5kg3qDagz4) | 3:22 | 2021-11-09 | 2025-05-17 |
+| [Reason to Stop](https://open.spotify.com/track/3VwzDRmxEpp5O58v3tMeSh) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Reason to Stop](https://open.spotify.com/album/6BlzhI9X3enKQJuTWHGCaz) | 2:22 | 2025-08-19 |  |
 | [Reef](https://open.spotify.com/track/14E2KOXyzozxKQHu2bh1VW) | [Antonymes](https://open.spotify.com/artist/1FXNgc8dxBxW9XQzQBWUj7) | [Reef](https://open.spotify.com/album/3MjhtNO02yct2msRjP5g0O) | 4:11 | 2021-11-09 | 2024-10-02 |
 | [Reflection](https://open.spotify.com/track/5EjEo7s2rLHcMZz0BxhOPm) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Reflections](https://open.spotify.com/album/5BvQCAdlTeCpshkRFORsWY) | 5:34 | 2023-02-28 | 2023-09-30 |
 | [Refreshing](https://open.spotify.com/track/6d4hQC6SMrJQayOCwxffSn) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Flourishing](https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8) | 2:27 | 2023-09-29 |  |

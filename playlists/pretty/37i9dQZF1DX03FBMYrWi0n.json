@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Population II",
-  "num_followers": 6870,
+  "num_followers": 6871,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
+        "name": "PICTURA DE IPSE : Musique directe",
+        "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 189712,
+      "name": "DIMANCHE SOIR",
+      "url": "https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
         "name": "Rouge Blanc",
         "url": "https://open.spotify.com/album/6bfCe5L8ncyo5vbGat4o3Z"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 199574,
       "name": "Rouge Blanc",
       "url": "https://open.spotify.com/track/3lgz1irr7pyERou6uA1g4i"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "PICTURA DE IPSE : Musique directe",
-        "url": "https://open.spotify.com/album/0kZhfjUFcDMoiedoaN48ic"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 189712,
-      "name": "DIMANCHE SOIR",
-      "url": "https://open.spotify.com/track/2Alp8pWLWoEjbkqWwd6di1"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Darl\u00e8ne",
         "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 145936,
       "name": "Ton h\u00f4tel",
       "url": "https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Sainte-Col\u00e8re",
-        "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
-      },
-      "artists": [
-        {
-          "name": "Etienne Dufresne",
-          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
-        }
-      ],
-      "duration_ms": 155982,
-      "name": "Fant\u00f4mes",
-      "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Baloney suicide",
         "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 122253,
       "name": "Celui qui attend",
       "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Sainte-Col\u00e8re",
+        "url": "https://open.spotify.com/album/5Xc7ZbRXsrVvAxC3RehckN"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "duration_ms": 155982,
+      "name": "Fant\u00f4mes",
+      "url": "https://open.spotify.com/track/4nvSSgdtZJwbA8uCo3uVw1"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
+        "name": "Quand la nuit tombe",
+        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 279397,
+      "name": "La photo",
+      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
         "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
         "url": "https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "Quand la nuit tombe",
-        "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 279397,
-      "name": "La photo",
-      "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "All\u00f4 Fant\u00f4me",
-        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
-      },
-      "artists": [
-        {
-          "name": "All\u00f4 Fant\u00f4me",
-          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
-        }
-      ],
-      "duration_ms": 396142,
-      "name": "Sur la pointe des pieds",
-      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Disruption",
         "url": "https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 193027,
       "name": "OK",
       "url": "https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "All\u00f4 Fant\u00f4me",
+        "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
+      },
+      "artists": [
+        {
+          "name": "All\u00f4 Fant\u00f4me",
+          "url": "https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i"
+        }
+      ],
+      "duration_ms": 396142,
+      "name": "Sur la pointe des pieds",
+      "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Business Core",
-        "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
-      },
-      "artists": [
-        {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
-        },
-        {
-          "name": "fish narc",
-          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "5a7",
-      "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "SIMULATION FREESTYLE",
         "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 150923,
       "name": "SIMULATION FREESTYLE",
       "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Business Core",
+        "url": "https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        },
+        {
+          "name": "fish narc",
+          "url": "https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "5a7",
+      "url": "https://open.spotify.com/track/3Os7vQSGt2CeT2Q8SvGKSP"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Attaque \u00e0 cinq",
-        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
-      },
-      "artists": [
-        {
-          "name": "Les Dales Hawerchuk",
-          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
-        }
-      ],
-      "duration_ms": 162613,
-      "name": "Megastar",
-      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Ketchup",
         "url": "https://open.spotify.com/album/3Rc9SpfmAFy661xFZRZXKY"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 164571,
       "name": "Ketchup",
       "url": "https://open.spotify.com/track/1l6JgsaeYbtEE5eE5COasN"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Attaque \u00e0 cinq",
+        "url": "https://open.spotify.com/album/71XdYuOf1H7TWaUOsEHklR"
+      },
+      "artists": [
+        {
+          "name": "Les Dales Hawerchuk",
+          "url": "https://open.spotify.com/artist/5kYwyvlqsCuDlzmfsSNSSC"
+        }
+      ],
+      "duration_ms": 162613,
+      "name": "Megastar",
+      "url": "https://open.spotify.com/track/2yJ3ULFBKKC5MX0x9e9NVW"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Des feux pour voir",
-        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 243859,
-      "name": "Dans tes r\u00eaves",
-      "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Choses Sauvages II",
         "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Des feux pour voir",
+        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "duration_ms": 243859,
+      "name": "Dans tes r\u00eaves",
+      "url": "https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo"
     },
     {
       "added_at": "2025-07-18 04:00:28",

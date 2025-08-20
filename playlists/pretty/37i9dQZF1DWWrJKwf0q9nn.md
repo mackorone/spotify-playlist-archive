@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Julian Fijma
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,848 likes - 103 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,842 likes - 103 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 51 | [Vibration](https://open.spotify.com/track/2XDcMSaXSlXKtQLF5E45N1) | [Armando Martinez](https://open.spotify.com/artist/5qjYRdvFJgnx6zGjOsBst3) | [Vibration](https://open.spotify.com/album/3GDTnkcgIrBOA1HZvdqb6Y) | 4:01 |
 | 52 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
 | 53 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 |
-| 54 | [What You've Done](https://open.spotify.com/track/0gpEMBnI9bV6XUeVhQV2z1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Felixx](https://open.spotify.com/artist/0XC9No7W96qmxh2AweFsjQ), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB) | [What You've Done](https://open.spotify.com/album/5sq3pYe4geR9UybicHvPNw) | 2:08 |
+| 54 | [What You've Done](https://open.spotify.com/track/0gpEMBnI9bV6XUeVhQV2z1) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Felixx](https://open.spotify.com/artist/0XC9No7W96qmxh2AweFsjQ), [Marco Nobel](https://open.spotify.com/artist/5PZS7XY3NZHDnI6g3wGyAB), [bankr](https://open.spotify.com/artist/1yeRfHskcp7ujLZNmabEpp) | [What You've Done](https://open.spotify.com/album/5sq3pYe4geR9UybicHvPNw) | 2:08 |
 | 55 | [The B Side](https://open.spotify.com/track/12SC4NqICdEAZ4XkTcHDKD) | [EMJIE](https://open.spotify.com/artist/3RqdVnPEMwpv4EVX5J2lzh) | [Wan Time](https://open.spotify.com/album/6d4awKIQYOXDO2hlVrCClM) | 4:34 |
 | 56 | [Jovens Dias](https://open.spotify.com/track/415R1PHUQ1nwK9PrEN3bi5) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Jovens Dias](https://open.spotify.com/album/4WatONlKBPEem3P27oICCN) | 2:42 |
 | 57 | [Infohazard](https://open.spotify.com/track/51e5r0rQraYmN6zflHv9mN) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Infohazard](https://open.spotify.com/album/4BKbfIYLYdEWatTBcXtogQ) | 4:29 |

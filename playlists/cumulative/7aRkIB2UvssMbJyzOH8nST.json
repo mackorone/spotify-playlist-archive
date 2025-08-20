@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "Late Great Heartbreak",
+        "url": "https://open.spotify.com/album/7EK72V1AIviuzHIaUdHsze"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216482,
+      "name": "Late Great Heartbreak",
+      "url": "https://open.spotify.com/track/2RMnh3vwM4SylRrWgacyEp"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 208981,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/2C4W2HgZRhiruFHmOGa7GB"

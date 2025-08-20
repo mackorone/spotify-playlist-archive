@@ -1,60 +1,76 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY93LDbwWQHn>Simge</a>, <a href=spotify:playlist:37i9dQZF1EIYGCZWsVWt0b>SANTA</a>, <a href=spotify:playlist:37i9dQZF1EIZiE4aqSJc5g>King</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ8ZJF1M4Cbt>Kygo</a>, <a href=spotify:playlist:37i9dQZF1EIV87q6rQOKjU>Foxy Brown</a>, <a href=spotify:playlist:37i9dQZF1EIUqhqTfcdGLg>Near</a> and more",
   "num_followers": 0,
   "original_name": "Pop Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADlXhwTiivEKx9f6kydB3Sx",
+  "snapshot_id": "AAAAAAAAAAAiofhmrPG8JDZv6VAqadPl",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "\u00d6n\u00fcm\u00fcz Yaz",
-        "url": "https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v"
+        "name": "Forever Yours (Avicii Tribute)",
+        "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
       "artists": [
         {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
         }
       ],
-      "duration_ms": 181518,
-      "name": "\u00d6n\u00fcm\u00fcz Yaz",
-      "url": "https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR"
+      "duration_ms": 193846,
+      "name": "Forever Yours - Avicii Tribute",
+      "url": "https://open.spotify.com/track/3o1CUVeHIid49sabk6A6Nf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "RECOMMENCE-MOI",
-        "url": "https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu"
+        "name": "Broken Silence",
+        "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
       },
       "artists": [
         {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
         }
       ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N"
+      "duration_ms": 223573,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr"
+        "name": "Karna Su Sayang",
+        "url": "https://open.spotify.com/album/21BdMjk11B9dfhgSErIJFs"
       },
       "artists": [
         {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+          "name": "Near",
+          "url": "https://open.spotify.com/artist/6ojLiXkE6pfuxeb9cfY7fU"
+        },
+        {
+          "name": "Dian Sorowea",
+          "url": "https://open.spotify.com/artist/4lQeXyLf0cvVcxCkM7weZM"
         }
       ],
-      "duration_ms": 219632,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO"
+      "duration_ms": 201230,
+      "name": "Karna Su Sayang",
+      "url": "https://open.spotify.com/track/2IAzEJoGwn8IGMUQdVUugM"
     },
     {
       "added_at": null,

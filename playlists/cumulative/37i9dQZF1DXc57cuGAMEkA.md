@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Maroon 5, Kaytranada, Conan Gray, Steve Lacy and more!
 
-10,670 songs - 24 day 19 hr 20 min
+10,671 songs - 24 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1795,7 +1795,7 @@
 | [Could Be Something](https://open.spotify.com/track/2YB0SVIghSbQ729pyZPVk5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 3:16 | 2024-11-28 | 2024-12-06 |
 | [Could You Love Me?](https://open.spotify.com/track/0hBGzwzgTL5BhHRJhlogFN) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [Could You Love Me?](https://open.spotify.com/album/3x2NJ3esVtSF788RLMeyYZ) | 3:57 | 2025-02-27 | 2025-03-07 |
 | [could've been you](https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [could've been you](https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA) | 3:07 | 2023-12-21 | 2023-12-30 |
-| [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 | 2025-08-14 |  |
+| [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 | 2025-08-14 |  |
 | [Council Skies](https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L) | [Council Skies](https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud) | 4:42 | 2023-04-20 | 2023-04-28 |
 | [Council Skies \- The Reflex Revision](https://open.spotify.com/track/50aTa1VLDpcXXmAZdBwAlc) | [Noel Gallagher's High Flying Birds](https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L), [The Reflex](https://open.spotify.com/artist/6E7SbenCPEit9gDFnMlDUA) | [Council Skies \(The Reflex Revision\)](https://open.spotify.com/album/3XVRHph1vIQcqefiFh7drP) | 5:25 | 2023-05-11 | 2023-05-19 |
 | [Count On Me](https://open.spotify.com/track/1NFEXNMg8AZ0jGSux4CJdd) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Cape Town to Cairo](https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK) | 2:49 | 2024-06-13 | 2024-06-21 |
@@ -6040,6 +6040,7 @@
 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 | 2024-10-10 | 2024-10-18 |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-04-27 | 2023-05-05 |
 | [No More Naija Men](https://open.spotify.com/track/1u3S0SK3ecQRW0tLndolro) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [No More Naija Men](https://open.spotify.com/album/0JK59x4KpdHnE5QNCaPFb3) | 2:11 | 2023-02-16 | 2023-02-24 |
+| [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE \(Clean\)](https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6) | 4:53 | 2025-08-19 |  |
 | [No Muse](https://open.spotify.com/track/0ZCZyGzHMGlav44I6KSrsz) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/2UWZy9f4H6JoPAbL1bLHew) | 2:15 | 2023-08-17 | 2023-08-25 |
 | [No Muse](https://open.spotify.com/track/74GXziVyklmE9cPRRtLfDk) | [AFSHEEN](https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR), [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [No Muse](https://open.spotify.com/album/16JY4eMFy8lbAgpZT3g1jC) | 2:15 | 2023-08-17 | 2023-08-19 |
 | [NO NEED TO WIN](https://open.spotify.com/track/6lkZv7S629WHtPXVxCRptB) | [MPC GIRL USAGI](https://open.spotify.com/artist/5f2e0f0Q7tv69BzuLHvien) | [MOMENT EP](https://open.spotify.com/album/18u9DwRJvQkkqle3HNNkE9) | 3:09 | 2024-09-12 | 2024-09-20 |

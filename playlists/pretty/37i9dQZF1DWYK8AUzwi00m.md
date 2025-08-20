@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 
 > have yourself a chill and lofi xmas
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,452 likes - 175 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,445 likes - 175 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 122 | [Angels We Have Heard on High](https://open.spotify.com/track/1fIoIfXOHKdfiyJAnv54NM) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [The First Noel](https://open.spotify.com/album/4VDcIWYBeiyr8yKB1MCNX2) | 3:07 |
 | 123 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
 | 124 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
-| 125 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
+| 125 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/1f11nQsAdOzegXAK2fX1cq) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
 | 126 | [My Christmas in Brooklyn](https://open.spotify.com/track/2TafYvQY6ABtnDeWVBkHNd) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [My Christmas in Brooklyn](https://open.spotify.com/album/00C32wsRQi76yAIBVOnL4j) | 1:41 |
 | 127 | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/track/2aDiHNUA8SjS42bzJCchuJ) | [wake deprived](https://open.spotify.com/artist/7GjL7O7YHh0GpFqxacW7xP) | [Rudolph The Red Nosed Reindeer](https://open.spotify.com/album/2t6m2FWQSyV9anoTx0FD0k) | 1:31 |
 | 128 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYK8AUzwi00m.md) - [plain]
 | 154 | [Driving Home For Christmas](https://open.spotify.com/track/7mWwxSmE7c48vBi7prMn0t) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [Driving Home For Christmas](https://open.spotify.com/album/6XKOjoYnhSCY3WdJYcd19X) | 2:30 |
 | 155 | [All the Jingle Ladies](https://open.spotify.com/track/1ShWwWzEOlcIRVO9sGMDQy) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Jobii Christmas](https://open.spotify.com/album/1JukKeeVpYUuj8HCD1kGMS) | 2:33 |
 | 156 | [Wonderland](https://open.spotify.com/track/0emoEFX5JN5rKhAYWx9Tr3) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP) | [Chillhop Essentials Winter 2016](https://open.spotify.com/album/3IhmoT6nYsFYBpixYe72VZ) | 2:06 |
-| 157 | [Chubby Santa](https://open.spotify.com/track/2DlWXYl3D5LLtI0dr2SXPQ) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:25 |
+| 157 | [Chubby Santa](https://open.spotify.com/track/2DlWXYl3D5LLtI0dr2SXPQ) | [Sleepy Tom](https://open.spotify.com/artist/1f11nQsAdOzegXAK2fX1cq) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:25 |
 | 158 | [Frosty the Snowman](https://open.spotify.com/track/5aplSXqxGAsfsplGBaxk0w) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [A Very Lofi Christmas](https://open.spotify.com/album/5VcaJd6u7O07L728tIMtbn) | 1:32 |
 | 159 | [Santas Coming](https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp) | [Cruel Buddhist](https://open.spotify.com/artist/54lvPJJ966M1TPYz0ccBdX) | [A Lofi Christmas](https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb) | 2:12 |
 | 160 | [Bells R Ringin](https://open.spotify.com/track/6BQlF26EIaqZqvOvo0YOtX) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:08 |

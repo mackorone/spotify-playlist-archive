@@ -2761,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Reason to Stop",
+        "url": "https://open.spotify.com/album/6BlzhI9X3enKQJuTWHGCaz"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142425,
+      "name": "Reason to Stop",
+      "url": "https://open.spotify.com/track/3VwzDRmxEpp5O58v3tMeSh"
+    },
+    {
+      "album": {
         "name": "Flourishing",
         "url": "https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8"
       },

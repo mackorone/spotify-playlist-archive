@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 
 ### [Best Of Pop Punk ](https://open.spotify.com/playlist/317l1YGA14Vl2sRaVL8INT)
 
-> It’s pop punk, it’s the best \. Pride edition 🌈
+> It’s pop punk, it’s the best
 
-[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,419 likes - 41 songs - 2 hr 6 min
+[Hopeless Records](https://open.spotify.com/user/hopelessrecords) - 43,414 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/317l1YGA14Vl2sRaVL8INT.md) - [plain]
 | 39 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 | 40 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
 | 41 | [KILL\[H\]ER](https://open.spotify.com/track/15Vzew24KEQEKYixVNg6TK) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WAS HERE](https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG) | 2:25 |
+| 42 | [ARE THE KIDS OKAY?](https://open.spotify.com/track/7EcGqSvhanVTkwLbC5TpUy) | [Nick Karcher](https://open.spotify.com/artist/3Ge0DWpNmmWN39IGnQ98yc) | [ARE THE KIDS OKAY?](https://open.spotify.com/album/0iq7y5F9qbXnfGRUcpf3uo) | 3:05 |
 
-Snapshot ID: `AAAcMR+aKdy5l2a69AZ8NfmGEigVxuNc`
+Snapshot ID: `AAAcM9uPWwSsHcex7D9baVcmCa2dKdGL`

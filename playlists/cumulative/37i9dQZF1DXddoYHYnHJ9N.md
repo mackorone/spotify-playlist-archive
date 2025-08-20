@@ -4,7 +4,7 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Manuel
 
-131 songs - 6 hr 30 min
+132 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-07-01 | 2025-05-20 |
 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 | 2025-03-17 | 2025-04-29 |
 | [EZ AZ ÁRA](https://open.spotify.com/track/6yTX00Aj6tqE5WNSFCB9DZ) | [Moriones](https://open.spotify.com/artist/5Y82XghASZwxaZGe7tJVUJ) | [EZ AZ ÁRA](https://open.spotify.com/album/2Yq1EgoRmXaTXjk7blZU96) | 3:02 | 2024-08-19 |  |
+| [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 | 2025-08-19 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-10-22 |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-07-01 | 2024-08-14 |
 | [GIN TONIC](https://open.spotify.com/track/3ObcOmEWDsBKLeqxoyxVzu) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [GIN TONIC](https://open.spotify.com/album/5Gn66d9b7excbeLZuZygB9) | 3:28 | 2025-05-05 |  |
@@ -81,7 +82,7 @@
 | [Nekem ez a fless](https://open.spotify.com/track/1z9TztWBItgIKO3vmiBB9d) | [HENN](https://open.spotify.com/artist/7MiVTMPyOXp6jr9H3mFHBb), [Hibrid](https://open.spotify.com/artist/4eQzOeeIdEKVDAhOA2y0JP) | [Nekem ez a fless](https://open.spotify.com/album/145gn7ULDwmk73BPFKIMam) | 3:00 | 2024-11-18 | 2025-02-04 |
 | [Nem vagyok rosszul](https://open.spotify.com/track/20WM1IuecsXUcc0qPcqoeV) | [Misshmusic](https://open.spotify.com/artist/6PD6eSZM8ulCg5PRU6mEII), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Nem vagyok rosszul](https://open.spotify.com/album/79HTuN78Nzh6Ht6Q4IGF0U) | 2:56 | 2024-07-01 | 2024-07-16 |
 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 | 2025-05-05 |  |
-| [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2024-07-01 |  |
+| [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2024-07-01 | 2025-08-20 |
 | [Nosztalgia](https://open.spotify.com/track/33FPGRObmoMXs2oWY9H9lk) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 3:09 | 2025-02-10 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-15 | 2024-10-22 |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-31 |  |

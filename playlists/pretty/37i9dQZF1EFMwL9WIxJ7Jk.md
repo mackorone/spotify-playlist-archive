@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,399 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,401 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 96 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 | 97 | [Nice to Meet Ya](https://open.spotify.com/track/60SQiZejxmqwgiSe2mPJqu) | [Cody Pendelton](https://open.spotify.com/artist/0kxOvMQwTYw90WEV7JrHBT) | [Mega Bops](https://open.spotify.com/album/5ajMtM28U3mK2az8PLY6Eu) | 3:17 |
 
-Snapshot ID: `Ab53HgAAAADgSWYxovCiYnVpRMtxroTi`
+Snapshot ID: `Ab58tAAAAAAcWPySWjAlj50g7gdBdJgO`

@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-580 songs - 1 day 8 hr 24 min
+581 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Love Strings](https://open.spotify.com/track/0X74jZuAmNab2gOmZpGkrC) | [Honeyjeet Singh](https://open.spotify.com/artist/6Q7V7hUyKWeIzBz8X90PhZ) | [Love Strings](https://open.spotify.com/album/78SUVtYpOdV367OE30nglI) | 2:58 | 2025-02-03 | 2025-04-19 |
 | [Lovestruck](https://open.spotify.com/track/2uo1gmZZrFGkEP5gAqDhR7) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk), [KNOJIA](https://open.spotify.com/artist/0giaHm23OwBcUmSVKXndAB) | [Lovestruck](https://open.spotify.com/album/1yCz8yC7MWRjSo8HwhcSyi) | 3:14 | 2024-03-12 | 2024-07-23 |
 | [Maanliya](https://open.spotify.com/track/1KpsvdF5MDK8Xflp22gl04) | [Ashku](https://open.spotify.com/artist/2ICU5Htew2uhWBpJWjjbqG), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW), [Harshad NLT](https://open.spotify.com/artist/3fU9eGeT7xj2vw8qfTjfID) | [Maanliya](https://open.spotify.com/album/615P5SIufwS2mN89GG0ebG) | 3:36 | 2025-07-18 |  |
-| [Mahi Mere Mahi](https://open.spotify.com/track/1sllzIqIynjYvzFNrXsFjs) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Mahi Mere Mahi](https://open.spotify.com/album/1hxEJVTQVGFz4xbuvS2kHK) | 2:58 | 2025-05-21 |  |
+| [Mahi Mere Mahi](https://open.spotify.com/track/1sllzIqIynjYvzFNrXsFjs) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Mahi Mere Mahi](https://open.spotify.com/album/1hxEJVTQVGFz4xbuvS2kHK) | 2:58 | 2025-05-21 | 2025-08-20 |
 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 | 2023-08-09 |  |
 | [Main Badal Gaya](https://open.spotify.com/track/7zDWmBat5hPhGzrvsz4aGH) | [Harry Arora](https://open.spotify.com/artist/0Hv1cidXFr7vPUtWijAoMQ) | [Main Badal Gaya](https://open.spotify.com/album/4uIseloolEIePDsVQAW6hh) | 3:48 | 2024-04-19 | 2024-06-13 |
 | [Main Na Jaanu Kyun](https://open.spotify.com/track/7ePPBTUfDOj5t6UCXecSLI) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:10 | 2024-04-19 | 2024-11-26 |
@@ -469,6 +469,7 @@
 | [Suljhey](https://open.spotify.com/track/5XEkKMyjhpb5pKH04Z7p8v) | [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc) | [Suljhey](https://open.spotify.com/album/6Er0lHIv1tq0Hed9DYKgxF) | 3:17 | 2024-12-05 | 2025-01-07 |
 | [Suljhi Si Zindagi](https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM) | [Vasuda Sharma](https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL), [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Suljhi Si Zindagi](https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF) | 3:38 | 2023-12-26 | 2025-05-30 |
 | [Sun Le Zara](https://open.spotify.com/track/6n93IAPBFSIBlhuHI7ap0w) | [Risha](https://open.spotify.com/artist/6sHNlOXxxsUfrXBJTX7WTo), [Sayan](https://open.spotify.com/artist/5nrrnbBvjmao3RUBh8ceK2) | [Sun Le Zara](https://open.spotify.com/album/3qdKpFFJy2Hzq1FxWuocKJ) | 3:14 | 2025-05-30 | 2025-06-07 |
+| [Sunlega](https://open.spotify.com/track/3uXcrWrhy3TI85N9eezbHo) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Sunlega](https://open.spotify.com/album/32iDjJWrBsoudbkpeqouCC) | 2:56 | 2025-08-19 |  |
 | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/track/4DfwE2GhqMvKeuGu6DfwmX) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR) | [Tabaahi \(Stripped Down Version\)](https://open.spotify.com/album/4TXUigDQ7VWhNxmgBz62O7) | 2:18 | 2023-06-23 | 2023-08-05 |
 | [Tabeer](https://open.spotify.com/track/3JFEpoKGheoQ5EOrNJ1nJn) | [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7), [Venoz](https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm), [Mark Bhatia](https://open.spotify.com/artist/5EwNqXdDHTI6Z9qcW4V676) | [Tabeer](https://open.spotify.com/album/1EuCJuNXvzBsXdO1zgkVIw) | 3:54 | 2024-02-05 | 2024-03-13 |
 | [Tanhai](https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:51 | 2023-09-26 | 2023-09-27 |

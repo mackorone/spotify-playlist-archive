@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,761 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,777 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 13 | [LONELY](https://open.spotify.com/track/1YDnbv3zhSQ1z5TZT2BNH3) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [LONELY](https://open.spotify.com/album/0lyUiWAoAOC08gAc6Tkeiz) | 2:39 |
 | 14 | [Diez Mil Razones](https://open.spotify.com/track/6ZTC7BGLtPgjz8pcRDG88b) | [Zander](https://open.spotify.com/artist/0gMR4IlYgNQHl7smugxuWN) | [Diez Mil Razones](https://open.spotify.com/album/1z18dSxKVxkeRZeK9Jp37H) | 3:00 |
 | 15 | [Me Encontró](https://open.spotify.com/track/63u65QjlAGPZeWFiqtRnUu) | [Omar Salas](https://open.spotify.com/artist/3E2IitJNIbpATIAvtJPUzd) | [Me Encontró](https://open.spotify.com/album/5phrKSVCrkrFV3dSJBAy1p) | 3:54 |
-| 16 | [Confiado](https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Falkom R](https://open.spotify.com/artist/4MZ5oa6STNN0Al4lLeo1F4) | [Confiado / Olas del Mar](https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3) | 4:02 |
+| 16 | [Confiado](https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Falkom R](https://open.spotify.com/artist/4MZ5oa6STNN0Al4lLeo1F4) | [Confiado / Olas del Mar \(Live\)](https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3) | 4:02 |
 | 17 | [El Maestro de Galilea](https://open.spotify.com/track/6zLxr6n6tFeqmh2uNmBGGd) | [Alex Rodriguez](https://open.spotify.com/artist/0xcJ6S4UGlO2NVwOU4mhxa) | [Sin Fronteras](https://open.spotify.com/album/51PR5dCBvEsCNcjXofx2VT) | 5:46 |
 | 18 | [Fuego En El Altar \(Alabar al Rey\)](https://open.spotify.com/track/7FQTM4CTPymdNnAzTOTbFV) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Set Religioso](https://open.spotify.com/album/1Jsps0jrrKU6Ia4R80nLRB) | 0:53 |
 | 19 | [Tengo Victoria](https://open.spotify.com/track/7JIUI9bHyaifT8EAyNWqBU) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [De La a a La Z](https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt) | 3:07 |

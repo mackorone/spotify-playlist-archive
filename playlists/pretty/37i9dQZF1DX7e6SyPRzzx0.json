@@ -1,6 +1,6 @@
 {
   "description": "The home of rage rap. Cover: Homixide Gang",
-  "num_followers": 124378,
+  "num_followers": 124461,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
@@ -220,12 +220,12 @@
       },
       "artists": [
         {
-          "name": "FearDorian",
-          "url": "https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn"
-        },
-        {
           "name": "osquinn",
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "FearDorian",
+          "url": "https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn"
         }
       ],
       "duration_ms": 166807,

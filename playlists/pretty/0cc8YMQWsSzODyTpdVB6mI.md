@@ -8,8 +8,8 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N) | 4:38 |
-| 2 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 |
+| 1 | [OVERDOSE](https://open.spotify.com/track/7J1idk8GVjvHVh76gMRQtl) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [FALL: OVERDOSE x RUMBA](https://open.spotify.com/album/7Hg7lABFu1peV1dnG4nNJN) | 2:33 |
+| 2 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N) | 4:38 |
 | 3 | [What You Say](https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [What You Say](https://open.spotify.com/album/5s3IVczOcSEXVTsnNIbHvx) | 3:40 |
 | 4 | [GET LOST](https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [GET LOST](https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp) | 3:05 |
 | 5 | [My Soul](https://open.spotify.com/track/7KCUvLNglwYUvYoMjKullD) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [My Soul](https://open.spotify.com/album/0VIkQGuUWicrdehWh0YDyj) | 4:33 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 | 51 | [Gypsy Woman \(She's Homeless\) \- House Kitsuné America](https://open.spotify.com/track/4mCk2GnFtnSGN8qzaV8xKu) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O) | [Gypsy Woman \(She's Homeless\) \[House Kitsuné America\]](https://open.spotify.com/album/0b1ex0LTG3T89fdnzDveVF) | 4:29 |
 | 52 | [Be with You Tonight](https://open.spotify.com/track/2opgPV5Slxx13Cu9bIaArt) | [Valère](https://open.spotify.com/artist/0V78ret9j8rEFKVB480Rcs), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Be with You Tonight](https://open.spotify.com/album/5ekFu16M8ZCHl1zsLFqd6o) | 3:39 |
 
-Snapshot ID: `AAAMRmwVeBHNJ3n298udaHFRKgEIQ4aY`
+Snapshot ID: `AAAMR/JzQ7NsBDF/QjmvqXO/KHnzU+Gw`

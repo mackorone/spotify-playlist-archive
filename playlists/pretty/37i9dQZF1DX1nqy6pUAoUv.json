@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 175422,
+  "num_followers": 175358,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Wild Turkey",
-        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Wild Turkey",
-      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Wild Turkey",
+        "url": "https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Wild Turkey",
+      "url": "https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+        "name": "Vincent Neil Emerson",
+        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
       "artists": [
         {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+          "name": "Vincent Neil Emerson",
+          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
         }
       ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+      "duration_ms": 293240,
+      "name": "Learnin' to Drown",
+      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Vincent Neil Emerson",
-        "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
       },
       "artists": [
         {
-          "name": "Vincent Neil Emerson",
-          "url": "https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC"
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
         }
       ],
-      "duration_ms": 293240,
-      "name": "Learnin' to Drown",
-      "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Rosey",
-        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
-      },
-      "artists": [
-        {
-          "name": "Bermuda Triangle",
-          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
-        }
-      ],
-      "duration_ms": 225999,
-      "name": "Rosey",
-      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 287439,
       "name": "Broken Harvest",
       "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Rosey",
+        "url": "https://open.spotify.com/album/3q96oj9JSBra41e2rCBPlG"
+      },
+      "artists": [
+        {
+          "name": "Bermuda Triangle",
+          "url": "https://open.spotify.com/artist/7wPvbZRRBwR2rzVrxz6ixE"
+        }
+      ],
+      "duration_ms": 225999,
+      "name": "Rosey",
+      "url": "https://open.spotify.com/track/6hQyok9o5eHVrOTrAnHKro"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Blonde On The Tracks (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
-      },
-      "artists": [
-        {
-          "name": "Emma Swift",
-          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
-        }
-      ],
-      "duration_ms": 276576,
-      "name": "Queen Jane Approximately",
-      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Blonde On The Tracks (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ybHj4IkUqoN3NOCsFBO4i"
+      },
+      "artists": [
+        {
+          "name": "Emma Swift",
+          "url": "https://open.spotify.com/artist/3H6AuhYMI6U7kxuC7pfG3R"
+        }
+      ],
+      "duration_ms": 276576,
+      "name": "Queen Jane Approximately",
+      "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1019,18 +1019,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Amythyst Kiah and Her Chest of Glass",
-        "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
+        "name": "Raise The Roof",
+        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah & Her Chest of Glass",
-          "url": "https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ"
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
         }
       ],
-      "duration_ms": 362527,
-      "name": "Trouble so Hard",
-      "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
+      "duration_ms": 257920,
+      "name": "You Led Me To The Wrong",
+      "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Raise The Roof",
-        "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
+        "name": "Amythyst Kiah and Her Chest of Glass",
+        "url": "https://open.spotify.com/album/79JTpqZ22lkjS9g9VblMI5"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Amythyst Kiah & Her Chest of Glass",
+          "url": "https://open.spotify.com/artist/03l8MKqtSTRh6MaKr0m4aQ"
         }
       ],
-      "duration_ms": 257920,
-      "name": "You Led Me To The Wrong",
-      "url": "https://open.spotify.com/track/0QnMuP68PXfHbjPASDUPxE"
+      "duration_ms": 362527,
+      "name": "Trouble so Hard",
+      "url": "https://open.spotify.com/track/2natNmtgiB8GyASSHKdNA7"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
+        "name": "In the Kingdom of Dreams",
+        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
+      },
+      "artists": [
+        {
+          "name": "Ian Felice",
+          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
+        }
+      ],
+      "duration_ms": 236394,
+      "name": "In the Kingdom of Dreams",
+      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
         "name": "Chain Reaction",
         "url": "https://open.spotify.com/album/0EFV8dTelIT79qbvzRtGuP"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "In the Kingdom of Dreams",
-        "url": "https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7"
-      },
-      "artists": [
-        {
-          "name": "Ian Felice",
-          "url": "https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv"
-        }
-      ],
-      "duration_ms": 236394,
-      "name": "In the Kingdom of Dreams",
-      "url": "https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD"
     },
     {
       "added_at": "2024-11-15 05:00:00",

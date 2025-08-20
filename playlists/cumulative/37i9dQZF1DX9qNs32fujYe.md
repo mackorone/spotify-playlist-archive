@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks\. Cover: Ozzy Osbourne
 
-1,109 songs - 3 day 8 hr 54 min
+1,110 songs - 3 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [BRAVE NEW WORLD](https://open.spotify.com/track/7stpbtJzoBx1D38egFeT29) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [BRAVE NEW WORLD](https://open.spotify.com/album/6ODIDW9Ud3whinMHkY2Cbh) | 4:23 | 2024-05-03 |  |
 | [Break Away](https://open.spotify.com/track/6wtfIonPBuxMmgPZUCM0kj) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [Firewind](https://open.spotify.com/album/0eABZjNzoxwU6UVDyPzg3y) | 5:13 | 2021-12-17 | 2022-07-29 |
 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 | 2022-08-19 | 2025-02-01 |
+| [Break The Silence](https://open.spotify.com/track/0HsVlWPK8eZ8ig3NMZC5zP) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Break The Silence](https://open.spotify.com/album/3V6YPXL4wfUaO2rr5YoAfH) | 4:23 | 2025-08-19 |  |
 | [Break the Silence](https://open.spotify.com/track/0lUykx87qMYn0VYGN2SCzN) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [Break the Silence](https://open.spotify.com/album/2xDONBAfy61NbCoI1F8BBa) | 4:21 | 2025-06-13 | 2025-06-21 |
 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 | 2022-08-19 | 2024-02-10 |
 | [Breaking The Chains](https://open.spotify.com/track/3PZJwntD9O7WLXm2g2jTmD) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/6NYFg9at2mwtM51vlzQYDu) | 3:51 | 2024-01-26 | 2024-04-19 |
@@ -708,7 +709,7 @@
 | [Pray](https://open.spotify.com/track/51vgMochoqsIX5SZEhhXDi) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Pray](https://open.spotify.com/album/3YCi2v3qZOVD8Ni6JlnPVu) | 4:07 | 2024-11-04 |  |
 | [Prepackaged](https://open.spotify.com/track/5SaEsMhNB9f6wI2dbZ4xJ2) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Prepackaged](https://open.spotify.com/album/0V2vrD3pKBj5R58x0z8Hfo) | 5:03 | 2024-07-12 | 2024-11-05 |
 | [Prescribing Horror](https://open.spotify.com/track/3Ikpm8FSxVV5ho2nUjRK4o) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Persona Non Grata](https://open.spotify.com/album/604klFpB4UfWrxeVaJQgL4) | 5:09 | 2021-12-29 | 2022-07-29 |
-| [Presence of Mind](https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Presence of Mind](https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd) | 4:15 | 2021-12-17 |  |
+| [Presence of Mind](https://open.spotify.com/track/7kn8PMqB1Cx3qnzB0Slayd) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Presence of Mind](https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd) | 4:15 | 2021-12-17 | 2025-08-20 |
 | [Primal](https://open.spotify.com/track/69WXO4IQ9C7zSvOmbjT76W) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Primal](https://open.spotify.com/album/340oejTjksML4uDHGVW9iM) | 3:53 | 2024-05-31 | 2024-07-05 |
 | [Princess of the Night](https://open.spotify.com/track/2Quz6deYulrojpI9Bi3lXl) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather](https://open.spotify.com/album/4ZeBGn0FbyUHL4Xf6Qn2lh) | 4:02 | 2023-10-27 | 2024-04-19 |
 | [Princess of the Night \- 2009 Remaster](https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather \(2009 Remastered Version\)](https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad) | 4:02 | 2022-08-19 | 2023-11-05 |

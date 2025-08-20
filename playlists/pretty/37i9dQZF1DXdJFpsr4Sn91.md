@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa KUUMAA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,755 likes - 79 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,766 likes - 79 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
-| 2 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
-| 3 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
-| 4 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
-| 5 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
-| 6 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
-| 7 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
+| 2 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
+| 3 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
+| 4 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
+| 5 | [Crush](https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Crush](https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst) | 2:57 |
+| 6 | [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 |
+| 7 | [Wait So Long](https://open.spotify.com/track/1UlkpIKiVchDMB03AN6LmT) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Wait So Long](https://open.spotify.com/album/4iJYUempAYp2xtPrUX5qKl) | 3:19 |
 | 8 | [Haluun elää](https://open.spotify.com/track/1ycZc1mTlBaMUG9XhcUCDQ) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Haluun elää](https://open.spotify.com/album/0WuEH3SQr8ZM6tItDQMZ4U) | 3:13 |
 | 9 | [Oma Vika](https://open.spotify.com/track/1XVaev7QO2VXE9px7ZVYQU) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Oma Vika](https://open.spotify.com/album/263PqyFcT0ybALVIkRKZvt) | 2:57 |
 | 10 | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS) | 2:48 |

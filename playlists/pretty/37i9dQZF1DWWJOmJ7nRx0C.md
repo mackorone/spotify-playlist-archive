@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Three Days Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,678 likes - 76 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,596 likes - 76 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 75 | [Alive & Well](https://open.spotify.com/track/2W5MV8gAzYhvcWV7lywxP1) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Alive & Well](https://open.spotify.com/album/1tsnyH9PnolLVWB8MgsAD7) | 3:32 |
 | 76 | [You Ominously End](https://open.spotify.com/track/6aFhWmqi9SlGa2Qflui6DN) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [You Ominously End](https://open.spotify.com/album/1IyGQCrMLsshcFmjPxtLg7) | 3:33 |
 
-Snapshot ID: `AAAAAKzujoD9fznXmvW5Y2BzYP4wxJsI`
+Snapshot ID: `AAAAAPxltW++ZWY/5LwKtl3xtFrd9a/P`

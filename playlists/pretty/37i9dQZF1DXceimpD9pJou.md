@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: TOMATULUGAR
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,704 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,727 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 87 | [Yo Sé](https://open.spotify.com/track/5gIWW9MfXLeqqxtdHxmabh) | [Juan Carlos Rosa](https://open.spotify.com/artist/33eANNL7le5TGc2f51Q1IO) | [Yo Sé](https://open.spotify.com/album/1Y4MuD5FGRGfP7tFE7vCpj) | 5:46 |
 | 88 | [ESTOY CON CRISTO](https://open.spotify.com/track/4BPmF7Z4oHvDUMR4NPk02U) | [Israel Pacheco](https://open.spotify.com/artist/0CpT6Y3Z1q9CHky4sqNIo6), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [ESTOY CON CRISTO](https://open.spotify.com/album/3YI9WS5XCsTCpXZIVSrMRP) | 3:25 |
 | 89 | [El Espíritu De Dios](https://open.spotify.com/track/2gzzFmNs2QTNPkFIbfIqiF) | [Son Celestial](https://open.spotify.com/artist/0oLmUsl7nnrAhc8tbxkHUc), [Silvio Brito](https://open.spotify.com/artist/7q81irQWwRx8be6NFjynKg), [Bolañito](https://open.spotify.com/artist/2fwfSrfPAvhJQKjqGzbGSE) | [El Espíritu De Dios](https://open.spotify.com/album/2s4TZJpq6kFwy39XpeVNf3) | 4:18 |
-| 90 | [Confiado](https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Falkom R](https://open.spotify.com/artist/4MZ5oa6STNN0Al4lLeo1F4) | [Confiado / Olas del Mar](https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3) | 4:02 |
+| 90 | [Confiado](https://open.spotify.com/track/4SeWG3G40AxVSSuuDzqokl) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Falkom R](https://open.spotify.com/artist/4MZ5oa6STNN0Al4lLeo1F4) | [Confiado / Olas del Mar \(Live\)](https://open.spotify.com/album/0PQwhpCjiaEJog03u89Ro3) | 4:02 |
 | 91 | [Siempre y Nunca](https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Siempre y Nunca](https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11) | 2:33 |
 | 92 | [Supernova](https://open.spotify.com/track/6vWm1F6CImVmdcaFRenMu2) | [ANMILY](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Supernova](https://open.spotify.com/album/2wj4FcLG8QpYaTQmUUtN5V) | 2:25 |
 | 93 | [Con Dio’](https://open.spotify.com/track/5BGBIy5gxjAXWgtOFYKi0G) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Con Dio’](https://open.spotify.com/album/22LMGZA7CzDWuz4oJvFiwH) | 3:29 |

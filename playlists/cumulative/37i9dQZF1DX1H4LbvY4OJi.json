@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 179928,
       "name": "A Song To Sing",
       "url": "https://open.spotify.com/track/7L9N5bxblTyzTknaxo7duX"
@@ -510,6 +510,24 @@
       "duration_ms": 332826,
       "name": "Acceptable in the 80's",
       "url": "https://open.spotify.com/track/5squS60Sv1CqhIaohl7qro"
+    },
+    {
+      "album": {
+        "name": "Accidentally In Love (From Shrek 2 S/T)",
+        "url": "https://open.spotify.com/album/2VuCWE3A2QXpC7vECziDsh"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "Accidentally In Love - From \"Shrek 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/2Y6uY65ZwKl9WbVOvKyZg6"
     },
     {
       "album": {
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
@@ -10032,7 +10050,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 240906,
       "name": "Love Balloon",
       "url": "https://open.spotify.com/track/4XvO443Fegm0qj3FWjNFoI"
@@ -15460,7 +15478,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 222496,
       "name": "Start From Scratch",
       "url": "https://open.spotify.com/track/1ZJAQ3uE0jzFYm6aipAyJE"
@@ -16810,7 +16828,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 180692,
       "name": "That's Just Love",
       "url": "https://open.spotify.com/track/3axt8o9qCEM8EPjHHLn0mR"

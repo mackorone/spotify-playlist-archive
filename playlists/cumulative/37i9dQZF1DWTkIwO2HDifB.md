@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/37i9dQZF1DWTkIwO2HDifB)
 
-> Os funks mais 🔑 do Brasil / Foto: tariisx
+> Os funks mais 🔑 do Brasil / Foto: Mc Negão Original, MC Jvila, MC Willian, DJ Japa NK, MC Meno K, DJ Guh Mix
 
 376 songs - 22 hr 27 min
 

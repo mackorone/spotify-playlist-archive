@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 3 hr 33 min
+59 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Intro: Earth Birth](https://open.spotify.com/track/4mSKRxdLpMKMzcsYnqFKxg) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [The Visitor](https://open.spotify.com/album/4V9BgSnwEMP5yRnZE5flSP) | 1:28 | 2022-05-25 |  |
 | [JGS](https://open.spotify.com/track/0lYuxJG0W5ReSZ31j6Lnqv) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [JGS](https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj) | 4:40 | 2022-08-11 |  |
 | [Joy](https://open.spotify.com/track/5kK4NGiSPo3S2azAeStKF8) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:07 | 2022-05-25 |  |
+| [KADHJA \(Demo 28.04.21\)](https://open.spotify.com/track/4F0R0O630kS4DyDBOnf19V) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [OASIS](https://open.spotify.com/album/1t6WPyaoHQmCugRRvT32RW) | 2:12 | 2025-08-19 |  |
 | [Love Theme \(feat\. Kadhja Bonet\)](https://open.spotify.com/track/42yyhfzkfJIjNHSy1deT0A) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass \(Expanded Edition\)](https://open.spotify.com/album/38L5GcyigNKgG0sfu0sJ9u) | 5:26 | 2022-05-25 |  |
 | [Mother Maybe](https://open.spotify.com/track/02JjaSuokjv0LRHjSvsdls) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:15 | 2022-05-25 |  |
 | [New Sky](https://open.spotify.com/track/1xHwJuDNzkqER4YseTBECi) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 3:11 | 2023-12-13 |  |

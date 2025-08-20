@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: BABYMETAL",
+  "description": "The biggest rock artists in Japan right now!  Cover: ART-SCHOOL",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -660,6 +660,24 @@
       "duration_ms": 229000,
       "name": "anointment",
       "url": "https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC"
+    },
+    {
+      "album": {
+        "name": "World Is Yours",
+        "url": "https://open.spotify.com/album/4Uq030a2lUBHDUzhiqmgDV"
+      },
+      "artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282173,
+      "name": "Aoi, Koi, Daidaiiro No Hi",
+      "url": "https://open.spotify.com/track/6NdukYRb2JWrKLv2UZMntG"
     },
     {
       "album": {
@@ -2256,7 +2274,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 217803,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/2Or2rAuyRobNiq1SCprmeq"
@@ -2714,7 +2732,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 188560,
       "name": "Die or feel",
       "url": "https://open.spotify.com/track/14XKJkURophMkotFxR3tGl"
@@ -3523,6 +3541,24 @@
     },
     {
       "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "syrup16g",
+          "url": "https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215246,
+      "name": "EVIL",
+      "url": "https://open.spotify.com/track/4VB2FmoiZ1y5FXLJ3NX9eB"
+    },
+    {
+      "album": {
         "name": "EYE to EYE",
         "url": "https://open.spotify.com/album/36m3Q9JB4eguQdVAMsS18O"
       },
@@ -3574,6 +3610,24 @@
       "duration_ms": 251546,
       "name": "Eye's Sentry",
       "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
+    },
+    {
+      "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201961,
+      "name": "FADE TO BLACK",
+      "url": "https://open.spotify.com/track/4xiLNg93B7zJj1tWqlcenE"
     },
     {
       "album": {
@@ -4250,6 +4304,24 @@
       "duration_ms": 243693,
       "name": "G.W.D",
       "url": "https://open.spotify.com/track/0dtghVBbAUTjgHURS8yrvV"
+    },
+    {
+      "album": {
+        "name": "Solar Strain",
+        "url": "https://open.spotify.com/album/0hXYSmAh2qU9D7AFYZaMHQ"
+      },
+      "artists": [
+        {
+          "name": "Broken By The Scream",
+          "url": "https://open.spotify.com/artist/0QJjaDqswcLyjDOgcBBf1Z"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306473,
+      "name": "Gekko Karen Stripe",
+      "url": "https://open.spotify.com/track/6W0GXnBnorSQ2PB1adaOvI"
     },
     {
       "album": {
@@ -7256,7 +7328,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 281773,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7LhFZAamVSW35NGGSMxwoZ"
@@ -7714,7 +7786,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 188613,
       "name": "mild days",
       "url": "https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ"
@@ -7790,6 +7862,24 @@
       "duration_ms": 230499,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
+    },
+    {
+      "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141746,
+      "name": "MISS WORLD",
+      "url": "https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO"
     },
     {
       "album": {
@@ -8338,7 +8428,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 233415,
       "name": "Natsu no Saibu",
       "url": "https://open.spotify.com/track/63QfN1eAvWSDnPMRxJbGTS"
@@ -8800,7 +8890,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 311026,
       "name": "Old Blood",
       "url": "https://open.spotify.com/track/0xm04V0lvOLxTtuTjw4qGO"
@@ -9594,7 +9684,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 194493,
       "name": "Puppets Can\u2019t Control You",
       "url": "https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV"
@@ -10072,6 +10162,24 @@
       "duration_ms": 243333,
       "name": "REMEMBER",
       "url": "https://open.spotify.com/track/3zQfJvpdIOPxGLu3NR9zy4"
+    },
+    {
+      "album": {
+        "name": "Rerise",
+        "url": "https://open.spotify.com/album/3HyYHgC9ivsqShJ1VVC5mM"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Rerise",
+      "url": "https://open.spotify.com/track/4n409IMGY0DtYnAyDa7vPj"
     },
     {
       "album": {
@@ -10956,7 +11064,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 164268,
       "name": "Shade",
       "url": "https://open.spotify.com/track/6ErQ6D7KHBqPsKv8wvDqoH"
@@ -11320,7 +11428,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 235659,
       "name": "Sleep Walking Orchestra",
       "url": "https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7"
@@ -12349,6 +12457,42 @@
     },
     {
       "album": {
+        "name": "SWAN SONG (DISC-1)",
+        "url": "https://open.spotify.com/album/4DBZfLUYW8mQPflg6M0sPo"
+      },
+      "artists": [
+        {
+          "name": "ART-SCHOOL",
+          "url": "https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "SWAN SONG",
+      "url": "https://open.spotify.com/track/60JLjdLSrTLg0L07iPcQd2"
+    },
+    {
+      "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "THE NOVEMBERS",
+          "url": "https://open.spotify.com/artist/06qEHODsluMWTP4MrQC9RF"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262932,
+      "name": "SWAN SONG",
+      "url": "https://open.spotify.com/track/3AQamUWjPeicYskRHLxGTa"
+    },
+    {
+      "album": {
         "name": "SweetSweet",
         "url": "https://open.spotify.com/album/3GeS61a2vvPT50oKHaOoIv"
       },
@@ -13176,7 +13320,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 248267,
       "name": "Time of War - ft. Moostop",
       "url": "https://open.spotify.com/track/7LWzvtzmuelx8CivCbbVhZ"
@@ -13328,7 +13472,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 141000,
       "name": "Tombo",
       "url": "https://open.spotify.com/track/5yn9Kb048RozFq694L2TCX"
@@ -14058,7 +14202,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 190500,
       "name": "Useless",
       "url": "https://open.spotify.com/track/4w1n6SNwu8H0SlwzhsyaiV"
@@ -14682,7 +14826,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 401871,
       "name": "Who's In My House?",
       "url": "https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0"
@@ -16446,7 +16590,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 172085,
       "name": "\u3072\u307e\u308f\u308a",
       "url": "https://open.spotify.com/track/2KskwqOHY43u6gRn4fVSLX"
@@ -17812,7 +17956,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 199826,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg"
@@ -19549,6 +19693,24 @@
     },
     {
       "album": {
+        "name": "\u6620\u753b\u300c\u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0\u300d (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
+        "url": "https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf"
+      },
+      "artists": [
+        {
+          "name": "\u30d1-\u30e9\u30f3\u30de\u30a6\u30e0",
+          "url": "https://open.spotify.com/artist/5I1aEYkdNib5fVrGMyREVy"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158573,
+      "name": "\u30ea\u30f3\u30c0 \u30ea\u30f3\u30c0",
+      "url": "https://open.spotify.com/track/5xO0ynhnuVy9dLLOTAabac"
+    },
+    {
+      "album": {
         "name": "\u4e00\u65e5\u82b1 feat.imase & \u7fd2\u5fd7\u91ce\u9ad8\u6821\u5439\u594f\u697d\u90e8",
         "url": "https://open.spotify.com/album/0c4UljWfYwTkhDbrnlpcQG"
       },
@@ -20462,7 +20624,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 146624,
       "name": "\u56db\u5b63\u56de\u751f",
       "url": "https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD"
@@ -21725,6 +21887,24 @@
     },
     {
       "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "LOSTAGE",
+          "url": "https://open.spotify.com/artist/0abSsUUjX1N3vBM72GdFAk"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214688,
+      "name": "\u659c\u967d",
+      "url": "https://open.spotify.com/track/027MQoO13DSFdsAbx6Nhyf"
+    },
+    {
+      "album": {
         "name": "834.194",
         "url": "https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB"
       },
@@ -22184,7 +22364,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 294053,
       "name": "\u6708\u9762\u63a5\u543b",
       "url": "https://open.spotify.com/track/1BVaTJoYRHVUFaLMyZYzCX"
@@ -22682,6 +22862,24 @@
       "duration_ms": 255706,
       "name": "\u6d85\u69c3",
       "url": "https://open.spotify.com/track/1rvbAtrJ2FBUBeLbES41qV"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3063!",
+        "url": "https://open.spotify.com/album/4DYr1fOg1saZQw3Txp7ObJ"
+      },
+      "artists": [
+        {
+          "name": "DOGADOGA",
+          "url": "https://open.spotify.com/artist/5rGVSXTLvetVl0pjdCrDM6"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206862,
+      "name": "\u6d88\u305b\u306a\u3044!",
+      "url": "https://open.spotify.com/track/3onVM8XG0eW9ZtaLqu5zlw"
     },
     {
       "album": {
@@ -24452,7 +24650,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 282173,
       "name": "\u9752\u3044\u3001\u6fc3\u3044\u3001\u6a59\u8272\u306e\u65e5",
       "url": "https://open.spotify.com/track/7uiQ13BUmIi3nGauGXhmM6"
@@ -24506,7 +24704,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 215142,
       "name": "\u9752\u967d\u6f6e",
       "url": "https://open.spotify.com/track/7DsSuSygp4N7CwlpadQcRQ"

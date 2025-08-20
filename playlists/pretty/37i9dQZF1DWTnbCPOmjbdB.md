@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Maciej Skiba
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,506 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,561 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 23 | [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 |
 | 24 | [Bądź Duży](https://open.spotify.com/track/59J2aInt1Fo3gt0i9Kfeuy) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj), [Tymoteusz](https://open.spotify.com/artist/6vmzxIxi1A7CfB52BhRVKS), [Tymek](https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh), [Michał Lange](https://open.spotify.com/artist/5sh77l01GDJ6JfCWs1CiiB) | [Bądź Duży](https://open.spotify.com/album/2BhyjzqRYdbEqg1aYAlaTl) | 3:31 |
 | 25 | [Małgośka](https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Małgośka](https://open.spotify.com/album/65Y5MXSN1X3WekMpUGkGlL) | 3:22 |
-| 26 | [dopóki się nie znüdzisz](https://open.spotify.com/track/4WU8ZRMoonGLw00lXLOvpY) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO) | [dopóki się nie znüdzisz](https://open.spotify.com/album/1o1JLfKESFIoGR6ssuy8Pl) | 3:24 |
+| 26 | [dopóki się nie znüdzisz](https://open.spotify.com/track/4WU8ZRMoonGLw00lXLOvpY) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Koder](https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [dopóki się nie znüdzisz](https://open.spotify.com/album/1o1JLfKESFIoGR6ssuy8Pl) | 3:24 |
 | 27 | [zanim spadnie deszcz](https://open.spotify.com/track/5QBDROatL8ZMsXRTsZQXnc) | [Kuban](https://open.spotify.com/artist/2RIWb22QZmud0Ik6Ad7dS1), [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [zanim spadnie deszcz](https://open.spotify.com/album/2LGAoh4XlyCyBUsCp7rSVk) | 3:08 |
 | 28 | [w kilometrach](https://open.spotify.com/track/7G4wYMAA1C4sgjfUqDiPLf) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW), [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [tylko haj.](https://open.spotify.com/album/0CJLjWszByYZc9UczenSCA) | 3:35 |
 | 29 | [Chcę Ciebie częściej](https://open.spotify.com/track/6pMLpqFEmvZKwPcIC16fdl) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Chcę Ciebie częściej](https://open.spotify.com/album/02Kv8S3E8SRvT14ylhpGH7) | 3:01 |

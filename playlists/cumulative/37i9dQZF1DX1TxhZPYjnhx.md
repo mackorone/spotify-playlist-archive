@@ -4,7 +4,7 @@
 
 > Discover new favorites or tomorrow's hits today\. Cover: Josh Makazo
 
-889 songs - 1 day 22 hr 54 min
+891 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-12 | 2025-01-10 |
 | [Misbehave](https://open.spotify.com/track/4kdK6ElvEvHh3MaD2sBAOh) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Misbehave](https://open.spotify.com/album/18BMu9faCjCie5pvbEejmc) | 3:42 | 2025-05-29 | 2025-06-27 |
 | [Misfire](https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Misfire](https://open.spotify.com/album/6M5QmMS439LRvmjdNKVwAy) | 3:41 | 2025-08-14 |  |
+| [miss sunshine](https://open.spotify.com/track/7pCCElBzCzyZmurimkqT3n) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 3:23 | 2025-08-19 |  |
 | [missed call](https://open.spotify.com/track/4DvbIQF7woSBVO3PkxGu1y) | [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [missed call](https://open.spotify.com/album/3TxhBZL0RbHDMrZuoNGd9q) | 2:21 | 2025-07-03 |  |
 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 | 2025-08-07 |  |
 | [Modern Romance](https://open.spotify.com/track/4RKWUH5jGlgSMcKLQQo43W) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0triBHsPaKoJJr3YPwzJjv) | 3:34 | 2025-04-18 | 2025-05-23 |
@@ -561,7 +562,7 @@
 | [Next 2 You \(feat\. DC The Don\)](https://open.spotify.com/track/5MnohMY7oAr70LNJkyMGGt) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Nothings Ever Good Enough II](https://open.spotify.com/album/3WHlVZN7DKKz7Oq1RkRfZy) | 2:43 | 2025-02-21 | 2025-05-10 |
 | [next to you](https://open.spotify.com/track/1GmZgx9giHMoqXqYBqbtw7) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [next to you](https://open.spotify.com/album/1krJ5WnQuLKJhBK81PFVMW) | 2:34 | 2024-10-30 | 2025-02-28 |
 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 | 2025-08-14 |  |
-| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-29 | 2025-07-12 |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-05-29 |  |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-06-26 | 2024-07-18 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-12 | 2025-02-07 |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2024-08-21 | 2024-09-19 |
@@ -633,6 +634,7 @@
 | [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-16 | 2025-06-13 |
 | [RAVIOLI](https://open.spotify.com/track/3bm8yMrciHdHZWUp1Nzoog) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [RAVIOLI](https://open.spotify.com/album/0JGlJaPgMJK6qBywAJ6Td0) | 2:39 | 2025-05-16 | 2025-06-13 |
 | [Ready For Love](https://open.spotify.com/track/22P3JuYQGYQxD5jagzc9dC) | [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI) | [Ready For Love](https://open.spotify.com/album/5mhZIc8Il70byoez6HeoDG) | 3:19 | 2025-01-23 | 2025-03-21 |
+| [Reason To Stay](https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 3:18 | 2025-08-19 |  |
 | [REBEL HEART](https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REBEL HEART](https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3) | 3:08 | 2025-01-16 | 2025-03-21 |
 | [RED \(from Arena Breakout: Infinite\)](https://open.spotify.com/track/6eowYvfU4m6MfTXHn7ScUB) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [1](https://open.spotify.com/album/6iDWPMotr0jVMUr5ZfPhjE) | 3:05 | 2025-06-26 | 2025-07-25 |
 | [RED FLAG.](https://open.spotify.com/track/3IjFwyQmjlLTrApPSGOlf8) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [.](https://open.spotify.com/album/0kjnLvCvaGwRDJ53kvdqi9) | 3:34 | 2025-07-03 |  |

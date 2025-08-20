@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > Our editors' picks for the best bass songs of 2024! Cover: ISOKNOCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,807 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,822 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 36 | [Switch](https://open.spotify.com/track/1DGmrSDuDEbpXYbsiYxrR7) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Blush](https://open.spotify.com/artist/13PiNC8qn2wXQLxYSm2E3X) | [Switch](https://open.spotify.com/album/77nvaXnZNuzwBRv7OLGmr8) | 4:16 |
 | 37 | [i hate edm](https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [i hate edm](https://open.spotify.com/album/1S2aKEi6MWfp5FmXaS6s9a) | 1:47 |
 | 38 | [feel U luv Me](https://open.spotify.com/track/0xDSZ754ZOdthmF784uuE5) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [feel U luv Me](https://open.spotify.com/album/0JdYTPeARfVEIDfRgWMZgY) | 3:54 |
-| 39 | [Pocket Change](https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Pocket Change](https://open.spotify.com/album/3gBf9Qk0FqcaDeRxxL1iYC) | 2:27 |
+| 39 | [Pocket Change](https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78) | [G\-REX](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK) | [Pocket Change](https://open.spotify.com/album/3gBf9Qk0FqcaDeRxxL1iYC) | 2:27 |
 | 40 | [Yummy Gummy](https://open.spotify.com/track/6NlBcr0CvGpWvuxgLUjD9t) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Yummy Gummy](https://open.spotify.com/album/4WIjbGDOI6ShqYSfcV3B0y) | 2:50 |
 | 41 | [Happier By Now](https://open.spotify.com/track/0qq33nVMNHelvjRGhTKPVH) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Happier By Now](https://open.spotify.com/album/61WvoZ2SDiN5PpxPbkOcov) | 3:47 |
 | 42 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 |

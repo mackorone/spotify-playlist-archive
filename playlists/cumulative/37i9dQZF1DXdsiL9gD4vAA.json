@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Bahut Sonchta Hoon",
+        "url": "https://open.spotify.com/album/5TtYcncsWLhIhgAkHbpztz"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382828,
+      "name": "Bahut Sonchta Hoon",
+      "url": "https://open.spotify.com/track/5MSsS7cqt5WzwOfwoSl4GV"
+    },
+    {
+      "album": {
         "name": "Bandh Aankhein",
         "url": "https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG"
       },
@@ -3574,7 +3592,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 219600,
       "name": "Tasveer",
       "url": "https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez"

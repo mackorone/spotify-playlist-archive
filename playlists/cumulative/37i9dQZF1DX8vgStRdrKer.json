@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 332307,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/633CYHYMJgB8nSfR5HfSaL"
@@ -5197,6 +5197,28 @@
     },
     {
       "album": {
+        "name": "Jesus Is Mine",
+        "url": "https://open.spotify.com/album/2fV4M6LV18YIBtrijWj5hB"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169327,
+      "name": "Jesus Is Mine",
+      "url": "https://open.spotify.com/track/55zOfV0sAdp3PifQR5AqA4"
+    },
+    {
+      "album": {
         "name": "Jesus Oh",
         "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
@@ -7776,7 +7798,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 159574,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5lADkecaaJM5qXqkHttL5e"
@@ -8628,6 +8650,24 @@
       "duration_ms": 208695,
       "name": "Sacrifices",
       "url": "https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG"
+    },
+    {
+      "album": {
+        "name": "Sagona",
+        "url": "https://open.spotify.com/album/4ExhBArXnjrY9y3lvAZz1A"
+      },
+      "artists": [
+        {
+          "name": "Tio Nason",
+          "url": "https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O"
+        }
+      ],
+      "date_added": "2025-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "Sagona",
+      "url": "https://open.spotify.com/track/7q5Hub5C9r8H4BrICTufGV"
     },
     {
       "album": {

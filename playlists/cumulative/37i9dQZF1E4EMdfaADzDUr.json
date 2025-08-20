@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With winterburn, Leblanc, Birrd and more",
+  "description": "With After Cooking, Leblanc, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -34,10 +34,28 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 210000,
       "name": "711",
       "url": "https://open.spotify.com/track/5r2Rbf1RxKG5ge8wbzzqOF"
+    },
+    {
+      "album": {
+        "name": "A Name I Don't Know",
+        "url": "https://open.spotify.com/album/6EmABfQLdrKwJAL7Eax3sQ"
+      },
+      "artists": [
+        {
+          "name": "After Cooking",
+          "url": "https://open.spotify.com/artist/2Rmf1bXhvVw6sF5tyVsVGf"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "A Name I Don't Know",
+      "url": "https://open.spotify.com/track/7jTuokUoFx6FRojl3twhLc"
     },
     {
       "album": {
@@ -52,7 +70,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Instrumental Version",
       "url": "https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY"
@@ -106,7 +124,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 291786,
       "name": "Alba",
       "url": "https://open.spotify.com/track/7dZQqNPWP4mBH935sp3Bkw"
@@ -164,7 +182,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 254516,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/2rR2DzYaP5fTFv65HDqm2x"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 338000,
       "name": "Bodhisattva",
       "url": "https://open.spotify.com/track/5dzhXwTjMkVhsHfPYk3OYr"
@@ -316,7 +334,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 366942,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/3hS7bI9vIRu1kflLaqj61a"
@@ -439,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Die Dunkle Biene",
+        "url": "https://open.spotify.com/album/3rQs5F0Mt9r9oV8Jrt00bx"
+      },
+      "artists": [
+        {
+          "name": "Dominik Eulberg",
+          "url": "https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465833,
+      "name": "Die Dunkle Biene",
+      "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
+    },
+    {
+      "album": {
         "name": "Die Eisbraut (Leblanc Remix)",
         "url": "https://open.spotify.com/album/43BqIUsaOrQyGmQg6CKZdU"
       },
@@ -454,7 +490,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 190525,
       "name": "Die Eisbraut - Leblanc Remix",
       "url": "https://open.spotify.com/track/153Zciw2gZmJfajrbxGOSK"
@@ -508,10 +544,28 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 250826,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/3scWnhahRG6x0Ul4bn1L62"
+    },
+    {
+      "album": {
+        "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
+        "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
+      },
+      "artists": [
+        {
+          "name": "Paul Sabin",
+          "url": "https://open.spotify.com/artist/4RLRQiIuWRZgOT0DJ0ZG5S"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285335,
+      "name": "Dump",
+      "url": "https://open.spotify.com/track/0W1cL2BberTqh7rKMSk6GG"
     },
     {
       "album": {
@@ -620,7 +674,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 302400,
       "name": "Fairytale of Berlin",
       "url": "https://open.spotify.com/track/34U4HVc9fdGUmFbbm7jgqc"
@@ -798,7 +852,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 438900,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/2BUcGUp1TUAOllgxRg6u2Z"
@@ -964,7 +1018,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 362449,
       "name": "Laminar",
       "url": "https://open.spotify.com/track/3c4KwEAWynCZs9QcxxMemz"
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 395874,
       "name": "Laminar - Moonbootica Remix",
       "url": "https://open.spotify.com/track/3XsNa1764TvABm41Ru2WgR"
@@ -1058,7 +1112,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -1102,7 +1156,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 196632,
       "name": "Morgat",
       "url": "https://open.spotify.com/track/1wdycgsKqsYaBdqbOTRVTm"
@@ -1120,7 +1174,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 222389,
       "name": "My mind is heavy",
       "url": "https://open.spotify.com/track/256oObpbROJwMUaEN9aqAr"
@@ -1214,7 +1268,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 299514,
       "name": "No Tribe",
       "url": "https://open.spotify.com/track/1hGODdyZHPyAU2gsv14a8Q"
@@ -1448,7 +1502,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Rivi\u00e8re",
       "url": "https://open.spotify.com/track/6f7mqZcx2ZeGaz3jhfqPvK"
@@ -1466,7 +1520,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 141093,
       "name": "Roads - Original Mix",
       "url": "https://open.spotify.com/track/1CgrZqS3mbUXSo5blucWdq"
@@ -1538,7 +1592,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -1664,7 +1718,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 230005,
       "name": "Suicul",
       "url": "https://open.spotify.com/track/6iUUDX6KuKKv0DUSUgmLjU"
@@ -1812,7 +1866,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -1848,7 +1902,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -1960,7 +2014,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 489523,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"

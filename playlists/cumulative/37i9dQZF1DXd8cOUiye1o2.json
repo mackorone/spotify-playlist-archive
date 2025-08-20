@@ -832,7 +832,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 216986,
       "name": "Chahatein",
       "url": "https://open.spotify.com/track/236VOozHmMSm7yLLbaYXLy"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 220002,
       "name": "DOBARA",
       "url": "https://open.spotify.com/track/1hL3oTpFn4QJnS5gBro7eY"
@@ -3603,6 +3603,24 @@
     },
     {
       "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/0t6uWqgntzMF3sPYget76N"
+      },
+      "artists": [
+        {
+          "name": "Vilen",
+          "url": "https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179300,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/6HQhiyAI78PjlanrRIVgHA"
+    },
+    {
+      "album": {
         "name": "Saajan Ghar Aaja",
         "url": "https://open.spotify.com/album/0M6KQUOeTGvXmBVK94MNfF"
       },
@@ -4620,6 +4638,32 @@
       "duration_ms": 261254,
       "name": "Ve Mahiya (From \"Sarzameen\")",
       "url": "https://open.spotify.com/track/1N69uoU8VYLDmNzFHKGk1i"
+    },
+    {
+      "album": {
+        "name": "Yaar Bichhda (From \"Tehran\")",
+        "url": "https://open.spotify.com/album/6RbQ7dRbeHU74DEiVXDbDz"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243841,
+      "name": "Yaar Bichhda - From \"Tehran\"",
+      "url": "https://open.spotify.com/track/7gIVNnlh8oVCydvC5ZlDiq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 
 > Relax and unwind with gentle piano covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,194 likes - 200 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,252 likes - 200 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSADWNdZfn11.md) - [plain]
 | 6 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 |
 | 7 | [In The Stars](https://open.spotify.com/track/5ag98t2kFpZmtUOtJRECE2) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [In The Stars](https://open.spotify.com/album/2fiDcQIOOYhDKkJRgnF4Gi) | 3:18 |
 | 8 | [Vampire](https://open.spotify.com/track/1PJ6gIJxcF3v9TwhrMPBjT) | [Danielle Quenoil](https://open.spotify.com/artist/4nr0yQbnbBCUqUSqQV53l0) | [Vampire](https://open.spotify.com/album/2pfliYSgsm7DY68Pxifaz8) | 3:07 |
-| 9 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 |
+| 9 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 |
 | 10 | [Eyes Closed](https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Eyes Closed](https://open.spotify.com/album/2r7wVDEXwJbMgTnwtpuIbf) | 3:40 |
 | 11 | [Manchild](https://open.spotify.com/track/7MMFRjAiYOwPxQnmxcsert) | [Davy Burns](https://open.spotify.com/artist/3i1joJ76xcNJLuBNHlQ5Pi) | [Manchild](https://open.spotify.com/album/6IEifv95ND12iR1WHrRFxD) | 3:25 |
 | 12 | [Revolving Door](https://open.spotify.com/track/5nUvBVsd05Zfl3lh4Z0ZNO) | [Karen Elf](https://open.spotify.com/artist/5RWEVr9QGQJrCXyVxMJD48) | [Revolving Door](https://open.spotify.com/album/2SU9GgNS6xwdr1RSfpiQ8j) | 3:33 |

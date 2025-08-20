@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-385 songs - 1 day 0 hr 46 min
+386 songs - 1 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Decide](https://open.spotify.com/track/7kgkHtqxN1es6hHW6SQJPG) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [Decide](https://open.spotify.com/album/1eqrynMJ4HC4MJ5ycoHMsW) | 3:51 | 2021-12-15 | 2022-07-28 |
 | [Devotion](https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Devotion](https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR) | 4:09 | 2021-12-15 | 2022-07-29 |
 | [Diamond Boy \(DTM\)](https://open.spotify.com/track/0SCIwbS0Q4etwJmDyNjHaQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:37 | 2024-12-20 | 2025-01-08 |
+| [Diamonds](https://open.spotify.com/track/6Csi0jcFI8RUX3aHOnUGJO) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Are You Still Listening?](https://open.spotify.com/album/2oSCVAgYxOv9OA0MTHJV3E) | 3:00 | 2025-08-18 |  |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-25 | 2024-08-08 |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2021-12-15 | 2023-02-11 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2024-01-31 |  |

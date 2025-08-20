@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. yanaco on cover.
 
-325 songs - 1 day 0 hr 1 min
+326 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [From a Distance](https://open.spotify.com/track/7g8a6a2UGRgsW2b083IKr4) | [marucoporoporo](https://open.spotify.com/artist/0XkAhjSQrr02YRiKbKKIMk) | [Conceive the Sea](https://open.spotify.com/album/01gkrRbIagn2PbpTRe5hD1) | 3:19 | 2025-02-11 |  |
 | [Gallery window](https://open.spotify.com/track/13vhl1xEGceDmaf1gTMVCM) | [iu takahashi](https://open.spotify.com/artist/4UlECRY6JKXwdnZH6ESGuZ) | [Gallery window](https://open.spotify.com/album/4Pa9k24dXX0WPtTidFKXPq) | 3:31 | 2022-01-07 |  |
 | [Glass Chattering](https://open.spotify.com/track/6lGHPfFmZGcjNv7tmTYzZ0) | [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 5:56 | 2022-12-30 | 2025-03-22 |
+| [Glow Echoes](https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Glow Echoes](https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3) | 2:26 | 2025-08-20 |  |
 | [Gold Dust](https://open.spotify.com/track/7j1kjPYeQiGfk21JEk761r) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Idealism II](https://open.spotify.com/album/5lJI2Znj1TmTnlyGGHlmtk) | 3:16 | 2023-11-24 | 2025-02-11 |
 | [Grass Harp](https://open.spotify.com/track/3IS7K9DaeCMDC087s79GWk) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/71o5rJ09vTQMQghsbbQ0mC) | 5:57 | 2022-07-22 | 2023-05-01 |
 | [Grass Harp](https://open.spotify.com/track/5bhD5fspebQAHffkiqsav2) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [Embrace](https://open.spotify.com/album/1wSOB3O3o2XfyRQ4XjB1Q4) | 5:57 | 2023-04-28 | 2023-11-01 |
@@ -139,7 +140,7 @@
 | [June Love](https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [June Love](https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO) | 2:45 | 2024-10-11 |  |
 | [Kaiketu](https://open.spotify.com/track/40QroEBlHB5yyQQZdOECdh) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Konomama](https://open.spotify.com/album/0Xp5gDINnEjsj92TPIcaMH) | 3:15 | 2022-02-22 | 2023-07-07 |
 | [Kansai](https://open.spotify.com/track/1lRmIEvPzmp1z2MB1Y2jzB) | [The Kyoto Connection](https://open.spotify.com/artist/6l13uPtVBgHB3gfpimh7Rb) | [Postcards](https://open.spotify.com/album/5ChAbDpWAXnCOPtsyTFmlY) | 3:38 | 2022-01-07 |  |
-| [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 |  |
+| [Kernel](https://open.spotify.com/track/58F27RlxevRB7p4e1Bm5TK) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Kernel](https://open.spotify.com/album/6eAyylPBXwxNOYr7ZbtKCq) | 1:56 | 2024-12-14 | 2025-08-20 |
 | [Kibou](https://open.spotify.com/track/2XJeHGe5YMCJgfKbsfCONV) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Kibou](https://open.spotify.com/album/0ohwM6AWnYHFfVeltMAiCq) | 3:32 | 2023-01-13 | 2025-03-21 |
 | [Kiteki](https://open.spotify.com/track/01Vg2gmX03mM3ku0MD9FKC) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/0lOOVHHIPOxHfOPdD9dRKJ) | 3:58 | 2023-07-06 | 2025-01-25 |
 | [Kiteki](https://open.spotify.com/track/5ElIBhljMv506V5OZChLbW) | [Shingo Mimura](https://open.spotify.com/artist/0CkbeuCIE8dfPc7csjP5wT) | [Minamo](https://open.spotify.com/album/5PxpE5M4KNm4pl1EKbsCjc) | 3:58 | 2023-10-13 | 2024-04-19 |

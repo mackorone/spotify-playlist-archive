@@ -4,7 +4,7 @@
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Narivetta
 
-87 songs - 5 hr 9 min
+88 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [CHAAK](https://open.spotify.com/track/75bFXmSzjxpyWDRNgsW8OQ) | [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY) | [CHAAK](https://open.spotify.com/album/3aszUJVOWfne09WCBb5f9r) | 2:44 | 2025-04-08 | 2025-06-04 |
 | [Cheth Song \(From "Pravinkoodu Shappu"\)](https://open.spotify.com/track/6zu3OZLSZqrHedlgvrdCPE) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Aparna Harikumar](https://open.spotify.com/artist/7LNUzNqFRlLgmF05m4yyXK), [Padmaja Sreenivasan](https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P), [Indu Sanath](https://open.spotify.com/artist/6uXJN01hJLo1cZPfQOldgi), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Cheth Song \(From "Pravinkoodu Shappu"\)](https://open.spotify.com/album/74sP5qGtpKTlQ21rZB6W3S) | 3:45 | 2025-02-17 |  |
 | [Chirapunji \- From Saina Music Indie](https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi) | [Chirapunji \(From Saina Music Indie\)](https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ) | 2:40 | 2025-06-23 |  |
+| [Derniere Dance Funk \- Deluxe Version](https://open.spotify.com/track/14BhJkCNiaPAlsUdVXGjdN) | [Sachin SSS](https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi) | [Derniere Dance Funk \(Deluxe Version\)](https://open.spotify.com/album/0WJyJlJj8AXv0dj4X1SVKE) | 2:17 | 2025-08-19 |  |
 | [Dhurooha Manthahasame \- From "Sookshmadarshini"](https://open.spotify.com/track/05EpQNTKhOlX6NBI5h8RPJ) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn), [Ahi Ajayan](https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Dhurooha Manthahasame \(From "Sookshmadarshini"\)](https://open.spotify.com/album/39Ffgbe1WFfcZLd0wXDEmg) | 3:32 | 2024-11-25 |  |
 | [Ennile Punchiri \(From "Phoenix"\)](https://open.spotify.com/track/30NOoFVrVgeqa6otE18Kza) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Ennile Punchiri \(From "Phoenix"\)](https://open.spotify.com/album/7zeAZmsGyQ0jhkKnKMwMax) | 3:40 | 2023-12-02 |  |
 | [Enthero Mahaanubhaavalu](https://open.spotify.com/track/3496pVYTAGr3seBF38OnBT) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Harmony](https://open.spotify.com/artist/6BxJYU8FYNl77AyPYxsnjs) | [Devadoothan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OFTVwPywwJSh2pMQTOJVS) | 3:51 | 2024-07-29 | 2025-04-09 |

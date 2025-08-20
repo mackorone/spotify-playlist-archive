@@ -2,9 +2,9 @@
 
 ### [Best Of Pop Punk ](https://open.spotify.com/playlist/317l1YGA14Vl2sRaVL8INT)
 
-> It’s pop punk, it’s the best \. Pride edition 🌈
+> It’s pop punk, it’s the best
 
-413 songs - 22 hr 32 min
+414 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Ankles](https://open.spotify.com/track/4VhbsGXRGDncpi79aiX8eE) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Forever Is A Feeling](https://open.spotify.com/album/2PedUC4azy5ywqWp8gVVrs) | 3:11 | 2025-05-29 | 2025-06-02 |
 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 | 2024-01-09 | 2025-06-02 |
 | [April 7th](https://open.spotify.com/track/77LRMJWWUt85fNPHiospQU) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [XOXO: From Love & Anxiety In Real Time](https://open.spotify.com/album/0XFA5pfYjdDx6tnPLEaeDz) | 3:16 | 2025-04-02 | 2025-06-02 |
+| [ARE THE KIDS OKAY?](https://open.spotify.com/track/7EcGqSvhanVTkwLbC5TpUy) | [Nick Karcher](https://open.spotify.com/artist/3Ge0DWpNmmWN39IGnQ98yc) | [ARE THE KIDS OKAY?](https://open.spotify.com/album/0iq7y5F9qbXnfGRUcpf3uo) | 3:05 | 2025-08-20 |  |
 | [Are You Happy Now?](https://open.spotify.com/track/5B7XIcS5T76NJZFOHX30Io) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hotel Paper](https://open.spotify.com/album/5cMMHA3CyA21eRXP1pnm0Z) | 3:50 | 2023-10-19 | 2023-12-02 |
 | [Aside](https://open.spotify.com/track/1bjzuQ0SHfrOVN0U2WqZdf) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk), [Hopelessly Devoted To You](https://open.spotify.com/artist/7ETms2ZVLM4yqRbJTNPfc8) | [Aside](https://open.spotify.com/album/4opsk1nTx5X1rKiHLTNLuG) | 3:14 | 2024-08-29 | 2025-02-04 |
 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 | 2024-08-29 | 2025-02-04 |

@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Willi Carlisle
 
-505 songs - 1 day 7 hr 13 min
+506 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,6 +402,7 @@
 | [Tea Kettle Tea](https://open.spotify.com/track/7u0fkaLBo5ikZdWfQO04Ht) | [Ollella](https://open.spotify.com/artist/3YNR12AqEXI45S6sgRrZrI) | [Back Back Back](https://open.spotify.com/album/5dwRcOW8ImaOBfKVaKXH8e) | 4:30 | 2023-04-07 | 2024-02-24 |
 | [Team Hoover](https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Team Hoover](https://open.spotify.com/album/1AVH0irCkKoElBzN8vhynT) | 5:41 | 2023-04-14 | 2023-07-22 |
 | [Tell Me I'm Not Dreaming](https://open.spotify.com/track/5lLLan3sQ3MqvVifwOcBAN) | [The Bombadils](https://open.spotify.com/artist/493LaUkdvofHBb12qHUG60) | [Tell Me I'm Not Dreaming](https://open.spotify.com/album/5dELRNjEB4K7BDoSz3VwOP) | 4:22 | 2022-09-30 | 2024-08-31 |
+| [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 | 2025-08-19 |  |
 | [Tennessee Dust](https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g) | [Henry Grace](https://open.spotify.com/artist/4QSOwlnim2Tb1hgrHakjyV) | [Alive In America](https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s) | 3:16 | 2022-01-14 | 2024-02-24 |
 | [That Sh\*t Ain't Funny](https://open.spotify.com/track/2kocxF7L0u2j3ddQkvyC0H) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Turning Up The Ground](https://open.spotify.com/album/28oUDXddkgbgHpl4OJPWp5) | 4:12 | 2022-07-29 | 2022-10-08 |
 | [The Ballad of Sally Anne](https://open.spotify.com/track/2kozuAaT0clm71FtU5bThw) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Ballad of Sally Anne](https://open.spotify.com/album/3uc7lb3lx1Ww2XRPBnAJkh) | 3:58 | 2024-07-13 |  |

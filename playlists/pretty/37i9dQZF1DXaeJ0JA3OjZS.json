@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 195455,
+  "num_followers": 195675,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,18 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -535,18 +531,22 @@
     {
       "added_at": "2025-05-09 06:00:12",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -944,17 +944,13 @@
           "url": "https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi"
         },
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Edwin Luna",
+          "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
         }
       ],
-      "duration_ms": 278623,
-      "name": "Potro Lobo Gateado",
-      "url": "https://open.spotify.com/track/1Ks8NK7LDMjOMEc26rithO"
+      "duration_ms": 181635,
+      "name": "El Alaz\u00e1n y el Rosillo",
+      "url": "https://open.spotify.com/track/2CSqRM3YG0JzXB9KMFdR0M"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -1034,11 +1030,15 @@
         {
           "name": "Leandro R\u00edos",
           "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
         }
       ],
-      "duration_ms": 162867,
-      "name": "Se Vende un Caballo",
-      "url": "https://open.spotify.com/track/1JYTrgXZsXbrNLCBXfEwds"
+      "duration_ms": 278623,
+      "name": "Potro Lobo Gateado",
+      "url": "https://open.spotify.com/track/1Ks8NK7LDMjOMEc26rithO"
     },
     {
       "added_at": "2025-05-09 06:00:12",
@@ -1122,11 +1122,23 @@
         {
           "name": "Edwin Luna",
           "url": "https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph"
+        },
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Humberto Herrera",
+          "url": "https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC"
         }
       ],
-      "duration_ms": 181635,
-      "name": "El Alaz\u00e1n y el Rosillo",
-      "url": "https://open.spotify.com/track/2CSqRM3YG0JzXB9KMFdR0M"
+      "duration_ms": 178272,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6k9wJzaGs5qBAfMGSMGHQn"
     },
     {
       "added_at": "2025-05-09 06:00:12",

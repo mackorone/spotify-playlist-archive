@@ -4515,6 +4515,28 @@
     },
     {
       "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/6EamBf1vIof4uCfBkRKadw"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/7iWa3V2lqxh7AtMVFju1W8"
+    },
+    {
+      "album": {
         "name": "deep in the water",
         "url": "https://open.spotify.com/album/70GCYDi0vauSbd8AVTHDHI"
       },
@@ -22808,7 +22830,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 183165,
       "name": "YA BODY",
       "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"

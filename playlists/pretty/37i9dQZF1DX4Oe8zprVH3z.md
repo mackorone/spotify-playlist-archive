@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 > Breathe deep, close your eyes, immerse yourself..\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,413 likes - 150 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,628 likes - 150 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 | 147 | [432hz Resonant Creek](https://open.spotify.com/track/7yEf9a0t2fYFUwvPGhHWPh) | [Jarra](https://open.spotify.com/artist/3Cz7AqV45zqiyWoFaXrS69) | [432hz Resonant Creek](https://open.spotify.com/album/6dfduJ79Cg8wiLInP5Qba2) | 2:51 |
 | 148 | [Krathong](https://open.spotify.com/track/2ZJEXYpeQy4YBx3DmjoakI) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Krathong](https://open.spotify.com/album/4FsrtxxXyROSsrqwvX4tBg) | 3:03 |
 | 149 | [Dormire Bowls](https://open.spotify.com/track/2jYioAcAHOTxS4IPu0zZxO) | [Temple of Schrawa](https://open.spotify.com/artist/246BPwHoKsivpZL7i7Q1Lt) | [Dormire Bowls](https://open.spotify.com/album/2Xh3s8zADoWWZ5Qzzch0sl) | 2:59 |
-| 150 | [Healing Bowls](https://open.spotify.com/track/0A8FaTLnTktPGdT445LvOl) | [Earth Tone](https://open.spotify.com/artist/05MiTtnA2sTCrvI9TsTBhj) | [Healing Bowls](https://open.spotify.com/album/1ZiNUgU0nlnDWiY9IX0B8X) | 3:33 |
+| 150 | [Healing Bowls](https://open.spotify.com/track/0A8FaTLnTktPGdT445LvOl) | [Shiro Uin](https://open.spotify.com/artist/3BUfBQyjeoddbtE0h12YS8) | [Healing Bowls](https://open.spotify.com/album/1ZiNUgU0nlnDWiY9IX0B8X) | 3:33 |
 
 Snapshot ID: `AAAAAFplpMlcSwqMjDkLH1cgE77iHpR+`

@@ -4,7 +4,7 @@
 
 > This is a collaborative playlist that a bunch of lovely people in the DCA fandom \(including myself\) came up with that are just pure DCA vibes \(or perhaps for an AU twist!\)
 
-694 songs - 1 day 15 hr 21 min
+695 songs - 1 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [My Eyes](https://open.spotify.com/track/7Ak1OOi3ecT36gDR1gAuMt) | [Neil Patrick Harris](https://open.spotify.com/artist/3UBvyQF5Hipou6Pm7wncxr), [Felicia Day](https://open.spotify.com/artist/67pV3IHfrxmBSOdhwyKDQU) | [Dr\. Horrible's Sing\-Along Blog \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZCs5TZ79t6vQojJMeILu0) | 2:47 | 2023-05-27 |  |
 | [My Favorite Things](https://open.spotify.com/track/1iCHl2R7xoEsh7CvYe5Ej0) | [Julie Andrews](https://open.spotify.com/artist/5RdqZVi36tpDPYNPw8jJbO) | [The Sound Of Music \(Original Soundtrack Recording\)](https://open.spotify.com/album/1KN5Lr40H56umfa1yzmO5R) | 2:20 | 2023-04-19 |  |
 | [My Freeze Ray](https://open.spotify.com/track/6kwP8Yd9i4wIHZf58E8gjh) | [Neil Patrick Harris](https://open.spotify.com/artist/3UBvyQF5Hipou6Pm7wncxr) | [Dr\. Horrible's Sing\-Along Blog \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZCs5TZ79t6vQojJMeILu0) | 1:54 | 2023-05-22 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2025-08-19 |  |
 | [My Name](https://open.spotify.com/track/1U26qoqg5Pg4VKMYCbPtsf) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Hobo](https://open.spotify.com/album/0kIoWjsmtbutAC6p7qholE) | 4:28 | 2023-04-25 |  |
 | [My Ordinary Life](https://open.spotify.com/track/6tMdpUXfT70TD6Eh3XfB1p) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [My Ordinary Life](https://open.spotify.com/album/4AmFZET7RGujQAhG80kjwu) | 3:50 | 2023-04-19 |  |
 | [Never](https://open.spotify.com/track/7fwE3Nr0RsTzYOocfu2XbV) | [Mag.Lo](https://open.spotify.com/artist/4pRlsLqOBsPKbTr4aSAe2y), [O Super](https://open.spotify.com/artist/5pkyK1GpSOzRAYqs7XclPo) | [Never](https://open.spotify.com/album/6UXGi2ZR2aJ8JfXqnEaI3t) | 6:24 | 2023-05-12 |  |

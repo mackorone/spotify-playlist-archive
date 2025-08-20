@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Scott Evans x Rehmahz
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,404 likes - 151 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,401 likes - 151 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

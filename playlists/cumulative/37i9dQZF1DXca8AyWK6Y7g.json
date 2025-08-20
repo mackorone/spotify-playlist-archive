@@ -32257,6 +32257,24 @@
     },
     {
       "album": {
+        "name": "pool house",
+        "url": "https://open.spotify.com/album/0OzhXqnN3ycNAzPGJTK7uk"
+      },
+      "artists": [
+        {
+          "name": "garbagepink",
+          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212250,
+      "name": "pool house",
+      "url": "https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt"
+    },
+    {
+      "album": {
         "name": "Hey dad, I tried to be nice",
         "url": "https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH"
       },
@@ -36582,7 +36600,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 192670,
       "name": "Slap In The Face",
       "url": "https://open.spotify.com/track/6FPr15g2fSz8ZJE6lbi2iQ"

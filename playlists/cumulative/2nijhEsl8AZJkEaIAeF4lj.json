@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "BADLANDS (Deluxe)",
+        "url": "https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258764,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3ek4HgBlmvkTWgfT5sTSe9"
+    },
+    {
+      "album": {
         "name": "The Sailor",
         "url": "https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509 likes - 157 songs - 11 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 157 songs - 11 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 19 | [Bricks & Bags](https://open.spotify.com/track/3XhRkia2pZ0apnY1Yp2DfK) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 3:42 |
 | 20 | [They All Laughed](https://open.spotify.com/track/5s44vQBcE1dK8VxRk3VMqr) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Cheek To Cheek \(Deluxe\)](https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu) | 1:48 |
 | 21 | [Summertime](https://open.spotify.com/track/0EIVfSsMX5NNTLKJPqej7Y) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wild](https://open.spotify.com/album/2CX7Bs0bl9Ic940Va4S0G0) | 5:33 |
-| 22 | [There's A Boat Dat's Leavin' Soon For New York](https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:52 |
-| 23 | [WISH \- Japanese Ver.](https://open.spotify.com/track/0KLLSLbR0UA2818dmAc20n) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:05 |
+| 22 | [WISH \- Japanese Ver.](https://open.spotify.com/track/0KLLSLbR0UA2818dmAc20n) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [WISHFUL](https://open.spotify.com/album/3JSUHAskqOwtOnMLO21kd3) | 3:05 |
+| 23 | [There's A Boat Dat's Leavin' Soon For New York](https://open.spotify.com/track/2uj3E00ODowy5IAj4BgULp) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [An American Songbook](https://open.spotify.com/album/3gsiubesHF5mUeWZWRQZhS) | 4:52 |
 | 24 | [My Man's Gone Now \- Live At The Village Vanguard, NYC; 6/25/1961](https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Sunday At The Village Vanguard \[Keepnews Collection\]](https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB) | 6:24 |
 | 25 | [I Was Doing All Right](https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 4:06 |
 | 26 | [Fame](https://open.spotify.com/track/3SiUGXivvan3tlVSitU2Ci) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [B.o.B Presents: The Adventures of Bobby Ray](https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P) | 3:41 |
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 156 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 | 157 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 
-Snapshot ID: `Ab53KAAAAAB41y5fezAo1tbewmGqD7MA`
+Snapshot ID: `Ab58vgAAAABJm568r5u1tP8kF6nHptQu`

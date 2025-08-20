@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Songs from LGBTQIA+ artists. Cover: sarah salola",
+  "description": "Songs from LGBTQIA+ artists. Cover: JOSH",
   "name": "GLOW",
   "tracks": [
     {
@@ -1378,6 +1378,24 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/1ZISfpg3UgLPXx9tucGgsP"
+    },
+    {
+      "album": {
+        "name": "amen",
+        "url": "https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137536,
+      "name": "amen",
+      "url": "https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v"
     },
     {
       "album": {
@@ -8217,6 +8235,28 @@
     },
     {
       "album": {
+        "name": "BUD & DENI",
+        "url": "https://open.spotify.com/album/27j0jVa9hKVPOhRxUDgXe8"
+      },
+      "artists": [
+        {
+          "name": "Jamaica Moana",
+          "url": "https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh"
+        },
+        {
+          "name": "Kevin Jz Prodigy",
+          "url": "https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206157,
+      "name": "FINALE",
+      "url": "https://open.spotify.com/track/3VOeBY0XjyFtSIiByOOZUQ"
+    },
+    {
+      "album": {
         "name": "Find You",
         "url": "https://open.spotify.com/album/1EdHFGfvFJsRf3D8mFyn7I"
       },
@@ -11560,7 +11600,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 168000,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/4ymrDw34Yx1oxU1R5yNdeR"
@@ -14390,7 +14430,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 177400,
       "name": "La Perra de Despe\u00f1aperros (Seg\u00fan Sta. Francisca)",
       "url": "https://open.spotify.com/track/2srJ8wZ7AJaPP5Q1p48e0N"
@@ -16922,7 +16962,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 147580,
       "name": "MNM (feat. MYDRAMA & VTR)",
       "url": "https://open.spotify.com/track/1ryU8bcGlofoUfnF5QQU0a"
@@ -20498,7 +20538,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 158150,
       "name": "PRIDE",
       "url": "https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO"
@@ -20984,6 +21024,24 @@
       "duration_ms": 234461,
       "name": "QUEIMANDO ICE",
       "url": "https://open.spotify.com/track/2RfHXxlkGUXSs1m9UJQZXz"
+    },
+    {
+      "album": {
+        "name": "Quero Partir",
+        "url": "https://open.spotify.com/album/4FYImUFa5IbgdlmtTWIhNE"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Seravat",
+          "url": "https://open.spotify.com/artist/43TcomLetjfAQNVrZSqJfa"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "Quero Partir",
+      "url": "https://open.spotify.com/track/6Oo4wHLKIBBEh9pIOYMjmP"
     },
     {
       "album": {
@@ -26035,6 +26093,24 @@
     },
     {
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4p3XDEvo4wScVOk5liCo0x"
+      },
+      "artists": [
+        {
+          "name": "Grace Power",
+          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219413,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4ZP6WPdLgbP9z1N4JifxYA"
+    },
+    {
+      "album": {
         "name": "Time Will Tell",
         "url": "https://open.spotify.com/album/1OgA0KrmfCLFhvd4MYdcks"
       },
@@ -26284,7 +26360,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 171335,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
@@ -28102,6 +28178,24 @@
       "duration_ms": 359693,
       "name": "Why Am I Alive Now?",
       "url": "https://open.spotify.com/track/0qAFlAyvkr9iZHLg1c8xJb"
+    },
+    {
+      "album": {
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
     },
     {
       "album": {

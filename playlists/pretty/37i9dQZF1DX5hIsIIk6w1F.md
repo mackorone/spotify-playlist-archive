@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Lucky Brown y Tobal Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,563 likes - 102 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,627 likes - 102 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 4 | [MASOQUISTA](https://open.spotify.com/track/3hpdPi4I8d0uBMrRYTWLbZ) | [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Yai y Toly](https://open.spotify.com/artist/27VYiFaaCFKaB4hxB0Qglb) | [MASOQUISTA](https://open.spotify.com/album/6fSZTHyZr5dGdUYLrXpoq5) | 4:05 |
 | 5 | [La Ruta](https://open.spotify.com/track/1mzB6blAOm0CxvTixuMeWl) | [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV), [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Nacho G Flow](https://open.spotify.com/artist/6RGDPzIqEVP895rTeeYk2Q) | [La Ruta](https://open.spotify.com/album/7G5FcNb3ZyeA99UAkx6UX0) | 3:29 |
 | 6 | [Bmw](https://open.spotify.com/track/5v4OgFxhCat9uXE75CdfF5) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [carlitos music](https://open.spotify.com/artist/7lbz0j8HG98mTjUgeEwS0H) | [Bmw](https://open.spotify.com/album/4mXG7OGLNodiDWftqgoc4s) | 2:49 |
-| 7 | [PNSD\-K \(feat\. Fran C\)](https://open.spotify.com/track/5WR8CilKvYzG1sweZPqQw9) | [En La Nota Records](https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [PNSD\-K \(feat\. Fran C\)](https://open.spotify.com/album/3MoFMwixzoBiJguPRXUhDn) | 3:17 |
+| 7 | [Pensando Que \(feat\. Fran C\)](https://open.spotify.com/track/5WR8CilKvYzG1sweZPqQw9) | [En La Nota Records](https://open.spotify.com/artist/0fYYFdqW44JKqmBPSHX1c2), [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Pensando Que \(feat\. Fran C\)](https://open.spotify.com/album/3MoFMwixzoBiJguPRXUhDn) | 3:17 |
 | 8 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 |
 | 9 | [Tu Boca Me Provoca](https://open.spotify.com/track/0dv9RH6XCGbRaoyiKz9U8z) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs) | [Tu Boca Me Provoca](https://open.spotify.com/album/394QJY8xaopyw4JePhuWzl) | 2:17 |
 | 10 | [EXTRAÑO TUS BESOS](https://open.spotify.com/track/7nZyc2jufgsiwEndgyVLxX) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [Somos Diferentes](https://open.spotify.com/album/5JBMg2fnHJSkROuL14hs4J) | 2:56 |

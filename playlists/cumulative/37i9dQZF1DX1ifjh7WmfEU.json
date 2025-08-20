@@ -196,7 +196,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 152903,
       "name": "adieu",
       "url": "https://open.spotify.com/track/6nDr6kqqRDetH1G6kDooNJ"
@@ -3053,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "Nebula Rain",
+        "url": "https://open.spotify.com/album/0lFtqe54Svwk26elLcPZYB"
+      },
+      "artists": [
+        {
+          "name": "Medhi Tate",
+          "url": "https://open.spotify.com/artist/5EOHMF3L8Jtte0cid9DWS4"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125847,
+      "name": "Nebula Rain",
+      "url": "https://open.spotify.com/track/6UYZ9iFueAv0vkA98ziA08"
+    },
+    {
+      "album": {
         "name": "Nefoedd",
         "url": "https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI"
       },
@@ -4562,6 +4580,24 @@
       "duration_ms": 170750,
       "name": "The Winds Know My Name",
       "url": "https://open.spotify.com/track/6nnQtoLq0ob2xkqDm5ZLXT"
+    },
+    {
+      "album": {
+        "name": "The Years Grew Quiet",
+        "url": "https://open.spotify.com/album/4UstDcz4qnqpClYifA0YSW"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Rossi",
+          "url": "https://open.spotify.com/artist/3RvSlZ7BpKhAGz82LPMBXh"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149719,
+      "name": "The Years Grew Quiet",
+      "url": "https://open.spotify.com/track/5TjMmdE5zIWUrFhBqL9Lge"
     },
     {
       "album": {

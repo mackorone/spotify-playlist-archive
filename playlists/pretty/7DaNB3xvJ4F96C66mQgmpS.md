@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Kendrick Lamar, Offset, Travis Scott, Drake and more!  High Energy Rap \| Hip Hop Workout \| Rap Bangers \| Rap Workout
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,548 likes - 176 songs - 9 hr 13 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 85,544 likes - 176 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 9 | [WHAT'S HAPPENIN' \(feat\. Latto & Coupe\)](https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [PARADISE](https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD) | 3:21 |
 | 10 | [Cloud 9](https://open.spotify.com/track/28fUpt1LV5Wltsi1BoSvB7) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Cloud 9](https://open.spotify.com/album/6bUscpseVctRDlYDK7Nfjs) | 1:58 |
 | 11 | [They Wanna Have Fun](https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:44 |
-| 12 | [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 |
+| 12 | [pookie wookie](https://open.spotify.com/track/47kNo1roYlMXIZTGxAYO3P) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [pookie wookie](https://open.spotify.com/album/0jYGFjIt2G4ZjDfi8HD11g) | 3:31 |
 | 13 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 |
 | 14 | [Stretch](https://open.spotify.com/track/5htRc3x7rwRcWNZjVU66Jt) | [Mazza\_l20](https://open.spotify.com/artist/00IiVt687EdR9JnSoJN7IA) | [Stretch](https://open.spotify.com/album/6p2SmXQHfVwPspY1bHrckE) | 3:25 |
 | 15 | [Drip BBQ](https://open.spotify.com/track/01eSWKxmuj7VZ8JmZorO4o) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J Money](https://open.spotify.com/artist/6ma7eBrKihYrXcvdMNpnc5), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Metro Boomin Presents: A Futuristic Summa \(Hosted by DJ Spinz\)](https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ) | 3:06 |

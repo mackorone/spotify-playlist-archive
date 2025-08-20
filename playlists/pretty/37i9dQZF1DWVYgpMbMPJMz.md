@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Phil Wickham, Brandon Lake, Chris Brown of Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,417 likes - 95 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,483 likes - 95 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 4 | [Good Day \- Live](https://open.spotify.com/track/3pajbvCouuW4s6Lt3Ij165) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Weight Of Heaven \(Live\)](https://open.spotify.com/album/0q9rvf3AbwZ5iMhC04Zw7Z) | 3:47 |
 | 5 | [How Good It Is](https://open.spotify.com/track/0vJOXzOybkJy7yQsdVt0Jg) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Good It Is](https://open.spotify.com/album/1rZ0ypc9rtMEeUlKw5ouGc) | 3:56 |
 | 6 | [Song Of The Saints](https://open.spotify.com/track/7hDnAItpviJf4XFrgqAgpI) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/1iLSXlQXtY9OKtvcp2dcbh) | 6:00 |
-| 7 | [Send The Fire](https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Tim Hughes](https://open.spotify.com/artist/2LUJNxXhenSOfHKFzaWxca), [Lindsey Arcaro](https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH) | [Send The Fire](https://open.spotify.com/album/2NSViSZWOHyf2RM05iYCvp) | 7:43 |
+| 7 | [Send The Fire](https://open.spotify.com/track/0nA8aos5a7tWOXlm6ZkseN) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh), [Lindsey Arcaro](https://open.spotify.com/artist/3JhAmrIzgB8ssJ22OWIhQH) | [Send The Fire](https://open.spotify.com/album/2NSViSZWOHyf2RM05iYCvp) | 7:43 |
 | 8 | [The Perfect Love of Jesus \- Live](https://open.spotify.com/track/5R7MwLBKlUPzRptEuQFY1I) | [LO Worship](https://open.spotify.com/artist/3W1GhZUgWMZBqYwH42Ycuq), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [The Perfect Love of Jesus \(Live\)](https://open.spotify.com/album/0t6mPMKBtiYM0BRfYW0TIM) | 7:53 |
 | 9 | [Holy Hands \- Live](https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp) | [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Holy Hands \(Live\)](https://open.spotify.com/album/0TlNPCiRxU36TmSo9ovB6P) | 7:14 |
 | 10 | [Elohim \- Live From Church](https://open.spotify.com/track/7crAY5NVt4JB7oDEy7rEI6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [Elohim \(Live\)](https://open.spotify.com/album/2tZSh33eyL3zDIbC73nVdJ) | 7:27 |

@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 320062,
+  "num_followers": 320040,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Addictions (Ultimate Version)",
-        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Longtemps",
-      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Savoir Aimer",
         "url": "https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 281213,
       "name": "Savoir aimer",
       "url": "https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Addictions (Ultimate Version)",
+        "url": "https://open.spotify.com/album/3Pn9nKN7m8MKBhAtRzuugW"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Longtemps",
+      "url": "https://open.spotify.com/track/73yB2HMz9zu0VcueZ4P1UU"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Hommages",
-        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
-      },
-      "artists": [
-        {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Comme d'habitude",
-      "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
         "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 217640,
       "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
       "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Hommages",
+        "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Comme d'habitude",
+      "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
     },
     {
       "added_at": "2024-10-15 19:50:17",

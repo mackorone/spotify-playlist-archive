@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: JEON SOMI",
+  "description": "\u30b0\u30ed\u30fc\u30d0\u30eb\u3067\u6d3b\u8e8d\u3059\u308b\u30ac\u30fc\u30eb\u30ba\u30b0\u30eb\u30fc\u30d7/\u30bd\u30ed\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Girls groups/solo artists shining beyond borders. Cover: Kep1er",
   "name": "Stargirl vibes",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 208293,
       "name": "1-4-3",
       "url": "https://open.spotify.com/track/4OWKzw44sCXWih8qy4Av8K"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 192013,
       "name": "Accendio -Japanese version-",
       "url": "https://open.spotify.com/track/5l2XppGInufS9ScfiPzkR3"
@@ -3601,6 +3601,24 @@
     },
     {
       "album": {
+        "name": "Kep1er The 7th Mini Album <BUBBLE GUM>",
+        "url": "https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "BUBBLE GUM",
+      "url": "https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5"
+    },
+    {
+      "album": {
         "name": "Bubble Gum",
         "url": "https://open.spotify.com/album/6RimC35FgBE0g9kdYecpsB"
       },
@@ -3684,7 +3702,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 177898,
       "name": "Burning Flower",
       "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
@@ -6188,6 +6206,24 @@
         {
           "name": "aespa",
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180250,
+      "name": "Dirty Work",
+      "url": "https://open.spotify.com/track/1ic3Thr0mG0IsBE98pPcQ2"
+    },
+    {
+      "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/1aFHAf8YwiYUAqzeU4PsdE"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         },
         {
           "name": "Flo Milli",
@@ -6196,7 +6232,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 180127,
       "name": "Dirty Work (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/3KcHHPN23AwgnSkq7TouwW"
@@ -6685,6 +6721,24 @@
     },
     {
       "album": {
+        "name": "Don't Touch",
+        "url": "https://open.spotify.com/album/5nMo3OStsZNGqLxtuE0zfr"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/4oMYjkb2TPjiC01owjrAB0"
+    },
+    {
+      "album": {
         "name": "THE X",
         "url": "https://open.spotify.com/album/6uH7xQqslMPMlfYKRRKoP9"
       },
@@ -6862,6 +6916,24 @@
       "duration_ms": 214973,
       "name": "Drama",
       "url": "https://open.spotify.com/track/5XWlyfo0kZ8LF7VSyfS4Ew"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/7bRumRaEIgUBnHiwiORk6J"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223716,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/5fFdUV9NMDxPjgkS54My63"
     },
     {
       "album": {
@@ -7374,7 +7446,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 161949,
       "name": "ENEMY",
       "url": "https://open.spotify.com/track/4Cv1YTkESvHPWnQAtVNoBF"
@@ -10450,7 +10522,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 174240,
       "name": "Hell or Heaven",
       "url": "https://open.spotify.com/track/3YYJhvip3QCfKirhcLVJUf"
@@ -12606,7 +12678,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 200920,
       "name": "Kawaii (Prod. Gen Hoshino)",
       "url": "https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA"
@@ -13436,6 +13508,24 @@
       "duration_ms": 249026,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/77FgO272LaNIQklzQIVlJt"
+    },
+    {
+      "album": {
+        "name": "Like 1",
+        "url": "https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "Like 1",
+      "url": "https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V"
     },
     {
       "album": {
@@ -17384,7 +17474,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 184466,
       "name": "Only cry in the rain",
       "url": "https://open.spotify.com/track/0J92BX2A6XcG2ZbWAxtk1x"

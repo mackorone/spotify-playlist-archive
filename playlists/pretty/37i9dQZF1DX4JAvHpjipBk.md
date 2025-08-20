@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Dijon, Conan Gray, Cardi B, Jordan Davis, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425,370 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,424,934 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 69 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:08 |
 | 70 | [Sorry Not Sorry](https://open.spotify.com/track/6vYHmAn5oh1KnYy3rP6iEm) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Sorry Not Sorry](https://open.spotify.com/album/7FycGUdkHdyvoJSx16fIFE) | 4:05 |
 | 71 | [Coming Home Tomorrow](https://open.spotify.com/track/3qtZ23iLx4dCH5YeNVE7Fq) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Coming Home Tomorrow](https://open.spotify.com/album/6EG01vE9twDFn3sJIwnScO) | 2:32 |
-| 72 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
+| 72 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
 | 73 | [Gold Star Baby](https://open.spotify.com/track/219Pva98rNNCWJlywHZorh) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Gold Star Baby](https://open.spotify.com/album/5f6o1GrIrDjFnuxDd0c4GK) | 2:45 |
 | 74 | [Piece Of My Heart](https://open.spotify.com/track/6wtsNV5SwSuNOYSucwa8xq) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [City Woman](https://open.spotify.com/album/0sjM1eT9s4ARHFb9LCfU3W) | 3:16 |
 | 75 | [Daughter](https://open.spotify.com/track/06M3qf1hDrXyq2765sdOqc) | [Elizabeth Nichols](https://open.spotify.com/artist/06cAJQBSPkt3bG7uMoWfmA) | [Daughter](https://open.spotify.com/album/4UJAhqyKdShGbmrd1Y4pbC) | 2:55 |

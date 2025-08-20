@@ -3779,6 +3779,24 @@
     },
     {
       "album": {
+        "name": "stereo",
+        "url": "https://open.spotify.com/album/2iZQUDdBmpRb0fNtAbM1XJ"
+      },
+      "artists": [
+        {
+          "name": "Hyelyn Joo",
+          "url": "https://open.spotify.com/artist/3XnKEXjrEOZnc2FlaFDK8E"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Busy Boy",
+      "url": "https://open.spotify.com/track/5scNLPks8Dntf8dCuZ8Zur"
+    },
+    {
+      "album": {
         "name": "But I'll let you go now",
         "url": "https://open.spotify.com/album/0coGY4BoKKCiGr8PZf7Qft"
       },
@@ -13056,7 +13074,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 161379,
       "name": "indivisible",
       "url": "https://open.spotify.com/track/1SgeUkSYNwSQilkVGf7Eam"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Kxci Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,639 likes - 198 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,647 likes - 198 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 10 | [Kahit Ipagpalit](https://open.spotify.com/track/0sTig017TTW9O3soPgbAkw) | [YOUNGMOB](https://open.spotify.com/artist/6OTpwG6TRwvA6vzTpRzl7p) | [Kahit Ipagpalit](https://open.spotify.com/album/053KxjSn7yLiHRJR4n5x35) | 2:51 |
 | 11 | [Ulitin Pa Natin](https://open.spotify.com/track/7h3yJKSxtpJGYsv1CVJg3r) | [Arvien](https://open.spotify.com/artist/79Nz2Qrqv3s49MoCBCBX2o), [KAM](https://open.spotify.com/artist/3xg0pJxAHg2lehnFpiTMaQ) | [Ulitin Pa Natin](https://open.spotify.com/album/4Y8SGgTEQyYrKcWxHLYL8M) | 2:46 |
 | 12 | [Lipstick](https://open.spotify.com/track/63JRM5n95SFY49feQu9U1G) | [Japè Tucciné](https://open.spotify.com/artist/1gtBC2uSoEoJpR3XploNCg) | [Lipstick](https://open.spotify.com/album/72ppnGYnkFvja6QwlmTG6S) | 2:26 |
-| 13 | [Eastside](https://open.spotify.com/track/1VDjrgiraNk4z6pOFHKHFQ) | [n\_d\_g](https://open.spotify.com/artist/03nJFzQYJFQ7RdprHime47), [Vic Olive](https://open.spotify.com/artist/3UIKloXzHSPSb9hrvDE4DG), [k1ko](https://open.spotify.com/artist/3RgneSSFFnl8fbeeWDJ9L9) | [Eastside](https://open.spotify.com/album/6nqHRMblnTaqREXsUaaztB) | 3:08 |
+| 13 | [Eastside](https://open.spotify.com/track/1VDjrgiraNk4z6pOFHKHFQ) | [n\_d\_g](https://open.spotify.com/artist/03nJFzQYJFQ7RdprHime47), [Vic Olive](https://open.spotify.com/artist/3UIKloXzHSPSb9hrvDE4DG), [k1ko](https://open.spotify.com/artist/3RgneSSFFnl8fbeeWDJ9L9) | [Eastside](https://open.spotify.com/album/6nqHRMblnTaqREXsUaaztB) | 3:06 |
 | 14 | [SUGAL](https://open.spotify.com/track/7rQPWVzJOcOZfUaAeC5uOQ) | [Ruther](https://open.spotify.com/artist/31zipYoACFKp7kDDp9HON9) | [SUGAL](https://open.spotify.com/album/6Js7s5ikxkI4UPIjLBRDOm) | 3:10 |
 | 15 | [Wag Nang Ipilit Pa](https://open.spotify.com/track/40yhjIg3yiGzX539mgm9LU) | [Nico Bisco](https://open.spotify.com/artist/5vVMl2dt9Cjbu7dNg4Xf1n) | [Wag Nang Ipilit Pa](https://open.spotify.com/album/323tm993dTWce9U3Y67UUr) | 4:01 |
 | 16 | [Alam Ko](https://open.spotify.com/track/7dkdTtyltGe2e3yDpjw4cs) | [LUQS](https://open.spotify.com/artist/02XuyG2cGLf3kaUTJQCYEr), [KAM](https://open.spotify.com/artist/3xg0pJxAHg2lehnFpiTMaQ) | [Alam Ko](https://open.spotify.com/album/0ZDnYz6j9FWGLspFPzK8GY) | 4:08 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: HAON(\uae40\ud558\uc628))(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: ASH ISLAND)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 196333,
       "name": "Because",
       "url": "https://open.spotify.com/track/08xMOoUaMWWlNStVUdBTBC"
@@ -3436,7 +3436,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 125354,
       "name": "Diamond Stars",
       "url": "https://open.spotify.com/track/7ifZxbYSKhZaPa2kBB9aa3"
@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 120000,
       "name": "drama",
       "url": "https://open.spotify.com/track/7qzKImwqCrSGssJaJexZNj"
@@ -4792,6 +4792,24 @@
       "duration_ms": 184397,
       "name": "Fool To Love",
       "url": "https://open.spotify.com/track/1xF51lGbgdTmJ2QZGbUfwA"
+    },
+    {
+      "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/6KnVNEQHf8QY3FsNPol2fk"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/24mkagnUG0RDALoucyZ9iw"
     },
     {
       "album": {
@@ -9435,6 +9453,28 @@
     },
     {
       "album": {
+        "name": "AP Melodies",
+        "url": "https://open.spotify.com/album/6dGSTPRWk3ZwXVdb4Lsjzi"
+      },
+      "artists": [
+        {
+          "name": "Bamsem",
+          "url": "https://open.spotify.com/artist/5iHMzgKZSoexGZSlY7Fext"
+        },
+        {
+          "name": "YULEUM",
+          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "MOOD;Cloud (Prod. hyeminsong)",
+      "url": "https://open.spotify.com/track/0Na5lK4xELYnL2VVbSytiB"
+    },
+    {
+      "album": {
         "name": "MOONLIGHT (ALL ABOUT YOU)",
         "url": "https://open.spotify.com/album/6ezx4OUNOWc9O90NAD219H"
       },
@@ -11558,6 +11598,24 @@
       "duration_ms": 227663,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/6aoJWBJoFfg7ZeLANcvsNV"
+    },
+    {
+      "album": {
+        "name": "Rain Drop",
+        "url": "https://open.spotify.com/album/66aJWJw3GGv6dwnyUG8axW"
+      },
+      "artists": [
+        {
+          "name": "Kidd King",
+          "url": "https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Rain Drop",
+      "url": "https://open.spotify.com/track/34br5IL3Lx1qjVneX5XmwP"
     },
     {
       "album": {

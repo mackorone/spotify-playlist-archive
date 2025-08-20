@@ -2,12 +2,13 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Nik Tendo, Decky
+> 50 nejžhavějších hitů v České republice\. Cover: FattyPillow
 
-141 songs - 6 hr 57 min
+142 songs - 7 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 let](https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ) | [FattyPillow](https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ) | [10 let](https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz) | 4:25 | 2025-08-19 |  |
 | [415 ft\. Robin Zoot](https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq) | [Katannah](https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [The Underdog](https://open.spotify.com/album/3rOYAOvImczZjhKw2m6f6B) | 2:42 | 2025-04-07 |  |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-10 | 2025-06-10 |
 | [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-07-01 | 2024-10-15 |
@@ -21,7 +22,7 @@
 | [Baila](https://open.spotify.com/track/4USCgD3COcDf6KX1LNX3ga) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Baila](https://open.spotify.com/album/5ftQSOaSwf5KPnCzXGteJ6) | 2:38 | 2024-07-01 | 2025-02-18 |
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-05-19 | 2025-05-30 |
 | [BBL](https://open.spotify.com/track/5oKp0X19SzHnBujp10QTmr) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [BBL](https://open.spotify.com/album/4FD5UxTqUt0wCRobdlYuVI) | 2:35 | 2025-06-30 |  |
-| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 |  |
+| [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-07-01 | 2025-08-20 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-12 | 2024-10-29 |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-01 | 2025-06-24 |
 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 | 2025-04-07 |  |

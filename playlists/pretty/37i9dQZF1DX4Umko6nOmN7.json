@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 618087,
+  "num_followers": 618050,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
-        "url": "https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 191599,
-      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
-      "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Just Because",
         "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 132096,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
+        "url": "https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 191599,
+      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
+      "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -663,38 +663,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "A Lovestory",
         "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 184120,
       "name": "A Lovestory",
       "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -787,18 +787,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Genom Eld & Vatten - Spotify Singles",
-        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
+        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
       },
       "artists": [
         {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 186449,
-      "name": "Genom Eld & Vatten - Spotify Singles",
-      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
+      "duration_ms": 177422,
+      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
+      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -819,34 +819,34 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-        "url": "https://open.spotify.com/album/61EAAy4mdQA5NEZ27nEfxQ"
+        "name": "Genom Eld & Vatten - Spotify Singles",
+        "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
       "artists": [
         {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 177422,
-      "name": "En del av dig (From the Netflix film \"A Part Of You\")",
-      "url": "https://open.spotify.com/track/0OVrEZzc1xXPXrhUS0QvlU"
+      "duration_ms": 186449,
+      "name": "Genom Eld & Vatten - Spotify Singles",
+      "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
     },
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Hus utan speglar",
-        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
       },
       "artists": [
         {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 164531,
-      "name": "Hus utan speglar",
-      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -867,18 +867,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Do You Haunt Me",
-        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+        "name": "Hus utan speglar",
+        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
         }
       ],
-      "duration_ms": 193155,
-      "name": "Do You Haunt Me",
-      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
+      "duration_ms": 164531,
+      "name": "Hus utan speglar",
+      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Younger",
-        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
-      },
-      "artists": [
-        {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Younger",
-      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "All My Friends",
         "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 180578,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 205146,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "P\u00e5 svenska",
-        "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "R\u00f6da sten",
-      "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
+        "name": "P\u00e5 svenska",
+        "url": "https://open.spotify.com/album/59yVJJgWzN71NZtKnwqeci"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "R\u00f6da sten",
+      "url": "https://open.spotify.com/track/2cwxukwW922rPXcKYWvLlu"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
         "name": "Oh love",
         "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 256047,
       "name": "Oh love",
       "url": "https://open.spotify.com/track/1I0gbWZdUhCo2a6qkJP4m0"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
+        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 167843,
+      "name": "Deep Down - From the Film \u2018The Abyss\u2019",
+      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1471,18 +1487,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
-        "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 167843,
-      "name": "Deep Down - From the Film \u2018The Abyss\u2019",
-      "url": "https://open.spotify.com/track/2WceL6NsGULw1kZb3hGR0y"
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/3JkLkXIokxYZebpeOOqKK8"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 231907,
-      "name": "logical",
-      "url": "https://open.spotify.com/track/3dKYak9dKL8YeHx5jMokoP"
+      "duration_ms": 240277,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2025-06-26 22:00:32",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 240277,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 202453,
       "name": "Back To My Roots - Acoustic Version",
       "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
-    },
-    {
-      "added_at": "2025-06-26 22:00:32",
-      "album": {
-        "name": "Oh Daughters",
-        "url": "https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G"
-      },
-      "artists": [
-        {
-          "name": "Moa Lignell",
-          "url": "https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO"
-        }
-      ],
-      "duration_ms": 302500,
-      "name": "Daughters",
-      "url": "https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL"
     },
     {
       "added_at": "2025-06-26 22:00:32",
@@ -1599,6 +1583,22 @@
       "duration_ms": 203760,
       "name": "I mina armar",
       "url": "https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh"
+    },
+    {
+      "added_at": "2025-06-26 22:00:32",
+      "album": {
+        "name": "Oh Daughters",
+        "url": "https://open.spotify.com/album/0AS2q4m3CykbM5xFiJgA4G"
+      },
+      "artists": [
+        {
+          "name": "Moa Lignell",
+          "url": "https://open.spotify.com/artist/0HrcSCqklP5G1QFHrIiztO"
+        }
+      ],
+      "duration_ms": 302500,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/0QvBbxPRfekbg8hYFMO0nL"
     },
     {
       "added_at": "2025-06-26 22:00:32",

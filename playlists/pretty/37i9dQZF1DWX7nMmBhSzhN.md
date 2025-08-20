@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,989 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,629 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 40 | [Chhupana Bhi Nahin Aata](https://open.spotify.com/track/2rEKnx0JgrhwiWanoYdw5a) | [Vinod Rathod](https://open.spotify.com/artist/1gHVDWrG6hVra3ZxV7mQWd) | [Baazigar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm) | 6:59 |
 | 41 | [Hum Na Samjhe The](https://open.spotify.com/track/7BHiUTRUS93wHA9vZrViFr) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Gardish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VoMY6VEh3Lpg2KXQH5V7s) | 4:28 |
 | 42 | [Are Re Are \(Part\-2\)](https://open.spotify.com/track/39DfslxGf8Hh0ljKN8h0Ng) | [Uttam Singh](https://open.spotify.com/artist/0AWYFpUfZxzxKUgN5k0GrQ), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Dil To Pagal Hai](https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8) | 2:05 |
-| 43 | [Dil Mera Churaya Kyun](https://open.spotify.com/track/4OvdhTOjq75CvPO6O7AWRw) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Akele Hum Akele Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F) | 4:42 |
+| 43 | [Dil Mera Churaya Kyun](https://open.spotify.com/track/4OvdhTOjq75CvPO6O7AWRw) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00) | [Akele Hum Akele Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F) | 4:36 |
 | 44 | [Yara Seeli Seeli](https://open.spotify.com/track/0CK9b2dEDscskyQ0Xd7L4p) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lekin](https://open.spotify.com/album/1fU4zPiQdPHq0OGZ10O6Lk) | 5:05 |
 | 45 | [Kuchh Na Kaho \- Sad](https://open.spotify.com/track/3WzyCA2R9pllvKLHgjOU3l) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [1942 A Love Story](https://open.spotify.com/album/7MY6mU1NlibP3FHt8vut3F) | 6:23 |
 | 46 | [Dheere Dheere Hausla](https://open.spotify.com/track/3dY8ozWoOCSg6akDHnt1hj) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Phool Aur Kaante \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Io1WaSa7zSLlLmop0bNKL) | 2:28 |

@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-518 songs - 22 hr 34 min
+524 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Answer With Light](https://open.spotify.com/track/51bCmUlVILY4qBFkm2t0Km) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Answer With Light](https://open.spotify.com/album/73ONbpwmVtKFKWFPkPq2dE) | 2:21 | 2023-03-10 |  |
 | [Apart](https://open.spotify.com/track/1Eqlx3dtG65l9KI0uF3zuP) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Apart](https://open.spotify.com/album/0dIFaSYu3tI7NohFzFf3sr) | 3:01 | 2023-09-26 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2023-03-10 | 2023-10-11 |
+| [Armonia](https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT) | [Elion Veero](https://open.spotify.com/artist/23t1xJeBxLCYomcRBWqVtO) | [Armonia](https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG) | 3:00 | 2025-08-19 |  |
 | [Around In Circles](https://open.spotify.com/track/2vFCPvJ1HHw7t9nRl4bKXz) | [Santo De Luca](https://open.spotify.com/artist/0s7z0HatZQ3GXIuUrg5hyL) | [Around In Circles](https://open.spotify.com/album/4XGG0dsoZceyfUImSCrQM3) | 2:15 | 2023-10-10 |  |
 | [Arturo](https://open.spotify.com/track/1PfP9J1Vuc3HQgAqkg0GFW) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 2:52 | 2023-03-10 | 2024-04-19 |
 | [Arturo](https://open.spotify.com/track/3pDCl4BDuDe4PBMjGapL9E) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Arturo](https://open.spotify.com/album/497QetxHSeqogYKtB3dkVT) | 2:52 | 2024-04-09 | 2024-11-13 |
@@ -89,6 +90,7 @@
 | [Da adesso fino all'eternità](https://open.spotify.com/track/26OTGhDqOhNmVQLeI3W2ub) | [Rosa La Corte](https://open.spotify.com/artist/57woN5sU727z9ImHQPuQL7) | [Da adesso fino all'eternità](https://open.spotify.com/album/6RxGkjRQ7iKkQQ1GByow06) | 2:03 | 2023-03-10 | 2024-03-26 |
 | [Dagrøm](https://open.spotify.com/track/2x66aNwtjp3riJ1lurDElm) | [Flemming Hoovgard](https://open.spotify.com/artist/4aW1OBhYHyrbMWqbEfE5gT) | [Dagrøm](https://open.spotify.com/album/42mz8sXPvqxfnQGYbmHtbP) | 2:21 | 2023-03-10 | 2024-04-10 |
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2023-03-10 |  |
+| [Dark Neroli](https://open.spotify.com/track/5tSJn5ebj9K9HWtGQUotrQ) | [Dustin Koller](https://open.spotify.com/artist/62yrCbWafSx5Wsh2nwEjSa) | [Dark Neroli](https://open.spotify.com/album/55bGGgWgETASCqUoP2e3mE) | 3:12 | 2025-08-19 |  |
 | [Day 2](https://open.spotify.com/track/6U1kPBM3jg1p0Cy3KBCIYm) | [Cal Yumi](https://open.spotify.com/artist/2xA4M9ua48TrZA7dwLh1ep) | [Day 2](https://open.spotify.com/album/2Opjbq58KxzIUhK0kXNvnu) | 2:01 | 2023-03-10 | 2024-03-26 |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2023-03-10 | 2024-04-04 |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2023-03-10 | 2024-04-10 |
@@ -210,6 +212,7 @@
 | [Instant Stillness](https://open.spotify.com/track/3haMh6Cy2skBZzZcBZA7qt) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Instant Stillness](https://open.spotify.com/album/3Uy5IMKPuYCOiu0otRJTv7) | 3:46 | 2023-03-10 |  |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2023-03-10 | 2024-04-10 |
 | [Introspection](https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3) | [Amadeo Rossi](https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ) | [Introspection](https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR) | 2:10 | 2023-03-10 | 2024-04-04 |
+| [invisible grace](https://open.spotify.com/track/6L1TN7HFt94qtFC1vJw7Rr) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [invisible grace](https://open.spotify.com/album/76H71qIvsrDgdCM8fNlOPL) | 2:47 | 2025-08-19 |  |
 | [Involution](https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Involution](https://open.spotify.com/album/3GqBjeMovVIis4YxjAYfg4) | 2:43 | 2023-03-10 | 2024-04-04 |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2023-03-10 |  |
 | [Journey in Place](https://open.spotify.com/track/7dNH0Srg1kTobjTUwGnqxc) | [Walter Groenig](https://open.spotify.com/artist/5wS8vfWhht4IzuXzQisbim) | [Journey in Place](https://open.spotify.com/album/0SkWn5AmuyrZyDMBvCvj8q) | 2:52 | 2023-03-10 | 2024-04-04 |
@@ -259,6 +262,7 @@
 | [Logos](https://open.spotify.com/track/0kkakmky3CMRbBgVKNhN1s) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc) | 3:31 | 2024-04-09 | 2024-10-02 |
 | [Logos](https://open.spotify.com/track/1amYrmZJg6aFSREx06JSym) | [Alex BH](https://open.spotify.com/artist/6uklxPVeaAMFJDpYWydETZ) | [Logos](https://open.spotify.com/album/3BGBYHmNBBNJE8gv51xzut) | 3:31 | 2023-03-10 | 2024-04-19 |
 | [Loma Alta](https://open.spotify.com/track/02K5XSjaev4kpxVFfYP7nd) | [Contra La Muerte De La Luz](https://open.spotify.com/artist/7C19Hdd6VZQcs5tqzJl7QE) | [Loma Alta](https://open.spotify.com/album/7slnb5GLn20qDuRKGcXHel) | 2:10 | 2023-03-10 |  |
+| [Lonely Lights](https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw) | [Into the Harmonies](https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h) | [Lonely Lights](https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU) | 2:35 | 2025-08-19 |  |
 | [Longing](https://open.spotify.com/track/6oHL2MofTFzFld6Ww15cSd) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Longing](https://open.spotify.com/album/2Qub51cerm4B3cv904j4zH) | 2:20 | 2025-08-05 |  |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2023-03-10 | 2025-08-13 |
 | [Looking Back](https://open.spotify.com/track/3GXXTCrbeSnCCeex84gUnX) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Looking Back](https://open.spotify.com/album/1z7dnB4fPpXGtPC1GON9rY) | 2:50 | 2023-03-10 | 2024-04-10 |
@@ -379,6 +383,7 @@
 | [Rocking Chair](https://open.spotify.com/track/6w5UdflXn5t7rLq8pUP4Ft) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Rocking Chair](https://open.spotify.com/album/05UDZPPJkcWFOo7UnfOJBV) | 2:42 | 2023-03-10 | 2024-10-22 |
 | [Roots](https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Roots](https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3) | 2:47 | 2023-03-10 | 2024-10-16 |
 | [Rowan](https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Rowan](https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw) | 2:48 | 2025-08-05 |  |
+| [Ruby Clouds](https://open.spotify.com/track/3rhUcw5N8J31Y8zNREQArL) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Ruby Clouds](https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM) | 2:20 | 2025-08-19 |  |
 | [Rêves d'éternité](https://open.spotify.com/track/013h40ZaPMhd98D3SCqrjC) | [Amélie Chantal](https://open.spotify.com/artist/5zuXGJ6hQt9pckfi7JOLVO) | [Rêves d'éternité](https://open.spotify.com/album/45b289J4ODP1WeI9RYjgjR) | 1:56 | 2023-03-10 | 2023-10-11 |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2023-03-10 | 2025-08-13 |
 | [Røgslør](https://open.spotify.com/track/16zbo4n31PEtvx6eDCWJqe) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Røgslør](https://open.spotify.com/album/13DfNvc23HtZrIJRQ0hkMN) | 2:12 | 2023-03-10 | 2025-08-13 |
@@ -468,6 +473,7 @@
 | [Truss](https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Imvula/Truss](https://open.spotify.com/album/2PgSIpWxAyvrkIw0zhg59c) | 1:56 | 2023-03-10 | 2023-10-11 |
 | [Turquoise Move](https://open.spotify.com/track/4A2wH8rE13iOi4hiDqDid6) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Turquoise Move](https://open.spotify.com/album/2jqDjTZvqtCnRpBuuK3yZZ) | 3:08 | 2023-03-10 | 2023-09-28 |
 | [Twilight](https://open.spotify.com/track/4lYecNh8R7ephdgqMlAs7t) | [Arabelle](https://open.spotify.com/artist/1CCyqsGLyugbtE3V5X6Pwx) | [Carousel](https://open.spotify.com/album/7nGhSpUUROVtBqqHDdtltQ) | 2:31 | 2023-03-10 | 2024-03-26 |
+| [Two Sides](https://open.spotify.com/track/3Anmncvo0nRfp0keODvz5b) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Two Sides](https://open.spotify.com/album/5qL9hrO0oEMIooR5vj5FOw) | 2:07 | 2025-08-19 |  |
 | [Tålamod](https://open.spotify.com/track/2pFheJ7wiffFLs37le8jrB) | [Carl Fredman](https://open.spotify.com/artist/5jtOQKqrJ7r0exrpWykoWU) | [Tålamod](https://open.spotify.com/album/6QFz6Bw5GxaANTxIiL67EW) | 2:39 | 2023-03-10 | 2025-08-13 |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2023-03-10 |  |
 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 | 2023-03-10 | 2024-04-10 |

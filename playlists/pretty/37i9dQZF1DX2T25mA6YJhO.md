@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Capros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,304 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,314 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 54 | [Una Daga](https://open.spotify.com/track/3NSmwcpdYpQ6qL3XR7Jjbf) | [Marban](https://open.spotify.com/artist/13rd4oAW4xak707186Vnun), [Rufus T\. Firefly](https://open.spotify.com/artist/51Hx65ymA6pNWu8cTTXET1) | [Una daga](https://open.spotify.com/album/3gfyf5nkJ6llGolwyJAMXo) | 3:42 |
 | 55 | [Un poco de cariño](https://open.spotify.com/track/60RGc6MtwwTYMNp6A3CS2D) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Un poco de cariño](https://open.spotify.com/album/1mZ5r1KWBFdIxABNoOh9aD) | 3:20 |
 | 56 | [Joven Ciudad](https://open.spotify.com/track/3ozDtfXkjFUlhXjqFGdGzN) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [Joven Ciudad](https://open.spotify.com/album/0BEAUvrAwpEErJEB6w0Mb6) | 3:11 |
-| 57 | [FIESTAS DE PUEBLO](https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [FIESTAS DE PUEBLO](https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym) | 3:05 |
-| 58 | [HASTA QUE EL CUERPO REVIENTE](https://open.spotify.com/track/0YXEGfhal4UJTtOspZQSll) | [MARTIZ](https://open.spotify.com/artist/3EhQ0MJjbGPIHsolimNXh6) | [HASTA QUE EL CUERPO REVIENTE](https://open.spotify.com/album/2pvmCOPps09JNDeLxGJrg9) | 2:32 |
+| 57 | [HASTA QUE EL CUERPO REVIENTE](https://open.spotify.com/track/0YXEGfhal4UJTtOspZQSll) | [MARTIZ](https://open.spotify.com/artist/3EhQ0MJjbGPIHsolimNXh6) | [HASTA QUE EL CUERPO REVIENTE](https://open.spotify.com/album/2pvmCOPps09JNDeLxGJrg9) | 2:32 |
+| 58 | [FIESTAS DE PUEBLO](https://open.spotify.com/track/3d15wTxzirLa8rz3smUZdh) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [FIESTAS DE PUEBLO](https://open.spotify.com/album/13E9CkFhDZTd0Z8r9zirym) | 3:05 |
 | 59 | [Qué hay de ti? con Cora Yako](https://open.spotify.com/track/6FvEi1KYQx1woTCaYcw4Om) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24), [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Qué hay de ti? con Cora Yako](https://open.spotify.com/album/7oM21zceAHpG7pWF8ma13q) | 3:04 |
 | 60 | [Pogo](https://open.spotify.com/track/3iOahJinkCMmZOvP2VApg7) | [Sexy Zebras](https://open.spotify.com/artist/2FN1YrHU65dhPZKl3GD7Vd) | [Pogo](https://open.spotify.com/album/2yksVeZKwSi1PJ3CUFIupN) | 3:04 |
 | 61 | [Insurrección](https://open.spotify.com/track/1mYHwnXp7kgJqgbwCyixz4) | [Cala Vento](https://open.spotify.com/artist/6QpQ7WsYLIpTV3yRa0fJo1) | [Insurrección](https://open.spotify.com/album/2rMavMLN5bU00KBWTdqG9f) | 2:04 |

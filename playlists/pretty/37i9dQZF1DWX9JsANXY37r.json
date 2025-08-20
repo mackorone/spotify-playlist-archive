@@ -1,6 +1,6 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 122823,
+  "num_followers": 122829,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 291900,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
+    },
+    {
+      "added_at": "2025-07-11 05:44:01",
+      "album": {
         "name": "Wake Up Love",
         "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 215329,
       "name": "Wake Up Love",
       "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
-    },
-    {
-      "added_at": "2025-07-11 05:44:01",
-      "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 291900,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/2xWVD6aecDSHroyPVVcPpa"
     },
     {
       "added_at": "2025-07-11 05:44:01",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-07-11 05:44:01",
       "album": {
-        "name": "Acid Dreams",
-        "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 183930,
-      "name": "Acid Dreams",
-      "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
-    },
-    {
-      "added_at": "2025-07-11 05:44:01",
-      "album": {
         "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
         "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 207235,
       "name": "desapega",
       "url": "https://open.spotify.com/track/7IsDSVPpbW6UNe3CycVeZA"
+    },
+    {
+      "added_at": "2025-07-11 05:44:01",
+      "album": {
+        "name": "Acid Dreams",
+        "url": "https://open.spotify.com/album/5k1l2dCZ6WnBrIUMYC5jZk"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 183930,
+      "name": "Acid Dreams",
+      "url": "https://open.spotify.com/track/3XEdqQtGHAM5huMrs3RaKN"
     },
     {
       "added_at": "2025-07-11 05:44:01",

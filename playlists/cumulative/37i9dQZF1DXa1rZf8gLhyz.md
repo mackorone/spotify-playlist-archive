@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-682 songs - 1 day 10 hr 21 min
+685 songs - 1 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [always you](https://open.spotify.com/track/6CiSQLqDIwgyJKLbYsKXwR) | [Niels Henningsen](https://open.spotify.com/artist/6j9utDobDDjqHOlkOlpg0x) | [always you](https://open.spotify.com/album/2vnxbOxcXicmqlAfXsV2x4) | 2:43 | 2025-06-17 |  |
 | [Am I Blue?](https://open.spotify.com/track/1OfgmNmV2MLEJkAWLvAXdr) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Am I Blue?](https://open.spotify.com/album/6aRhuHC2bvD8eKbtYRWwqx) | 2:16 | 2024-03-22 |  |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-03-16 |  |
-| [Amber](https://open.spotify.com/track/2WT18TfMA2IXrJm5ls7lnQ) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Amber](https://open.spotify.com/album/2NVvyLpFSBlWL6APjaj09b) | 2:49 | 2024-10-08 |  |
+| [Amber](https://open.spotify.com/track/2WT18TfMA2IXrJm5ls7lnQ) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Amber](https://open.spotify.com/album/2NVvyLpFSBlWL6APjaj09b) | 2:49 | 2024-10-08 |  |
 | [An Evening Walk](https://open.spotify.com/track/7cj4cJfK1juIXTuNviu9XB) | [Uno Blanket](https://open.spotify.com/artist/6V1Pk0mCdVkx6StOttWcev) | [An Evening Walk](https://open.spotify.com/album/4PYXwB3FNXLepaBLOpXr7V) | 2:13 | 2025-07-23 |  |
 | [And The Angels Sing](https://open.spotify.com/track/3zeA8ODqQsXBFopF1G0O8l) | [Alec Taylor](https://open.spotify.com/artist/2sYoTL6PUYCa6rZo1SKFyd) | [And The Angels Sing](https://open.spotify.com/album/6IgxgnjurJBBXoXFQ9b3Af) | 3:28 | 2024-06-04 | 2025-02-04 |
 | [And Then](https://open.spotify.com/track/1ZepDoXqsQdiyD87zBxYK1) | [Ben Evans\-Parker](https://open.spotify.com/artist/5ItKNtikXXvdBrzYzwVplB) | [And Then](https://open.spotify.com/album/08zpU0LpH2KBdjP6Cqm2E5) | 2:27 | 2021-12-07 | 2022-02-02 |
@@ -72,7 +72,7 @@
 | [Autumn In New York](https://open.spotify.com/track/0LpjqQQbvJjeGR1Ao3EEGa) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Autumn In New York](https://open.spotify.com/album/0lSQN5U9Dkq4PM1tDh5Xmz) | 4:19 | 2022-09-29 | 2024-06-28 |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2021-12-07 | 2025-06-18 |
 | [Autumn nocturne](https://open.spotify.com/track/7GzCb29gghRInEd8bUHgLt) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Autumn nocturne](https://open.spotify.com/album/74GNqzlT1Jh72qXGqGqQ0Q) | 2:35 | 2023-12-08 |  |
-| [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2023-11-17 |  |
+| [Autumn Whispers](https://open.spotify.com/track/7vFkJvPnvLN8djHr2us3Gq) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Autumn Whispers](https://open.spotify.com/album/7Mv0fUvisgztcDZLG4mFLz) | 2:52 | 2023-11-17 |  |
 | [Backwards era](https://open.spotify.com/track/42I2pIhLglLv0La7ubo2U4) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [Backwards era](https://open.spotify.com/album/5V8wQwPdd4uZjEo6OhBP3Z) | 2:24 | 2023-08-10 |  |
 | [Be Calm My Friend](https://open.spotify.com/track/1if9t68jDrFkOqFyrAKHVz) | [Wes Ivory](https://open.spotify.com/artist/5CBG76eSqNpXwV6ZlOgnHU) | [Be Calm My Friend](https://open.spotify.com/album/07deTUhd4hd0QK8DBnhgCW) | 3:17 | 2025-03-11 |  |
 | [Be Free](https://open.spotify.com/track/3TuflVEQkgUdpMCIDZzg95) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Be Free](https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ) | 2:17 | 2022-11-17 | 2024-08-07 |
@@ -160,7 +160,7 @@
 | [Doyers Street](https://open.spotify.com/track/1MfniAfn6EXKcqpTmzer9N) | [Jakob München](https://open.spotify.com/artist/5lzyS07BZQrvRmABhTmroF) | [Doyers Street](https://open.spotify.com/album/5KGaVLyPCekCDxkeq3vnIk) | 2:33 | 2024-07-12 |  |
 | [Dreaming Of You](https://open.spotify.com/track/28QoRmgNTP79BmBMK0k3ng) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Dreaming Of You](https://open.spotify.com/album/0HbKqBR48CLjGYvR0EUtxA) | 2:36 | 2023-12-22 |  |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
-| [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 |  |
+| [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 | 2025-08-20 |
 | [Drift Away](https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD) | [Nova Blanche](https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf) | [Drift Away](https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR) | 2:45 | 2025-08-01 |  |
 | [Duero](https://open.spotify.com/track/1lH3KG2MVPqXp6QmSevMb2) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Duero](https://open.spotify.com/album/1aI7HeoLOS1UyFroeRGNGk) | 3:15 | 2023-12-22 |  |
 | [Early Autumn](https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:53 | 2023-02-23 | 2025-02-11 |
@@ -203,7 +203,7 @@
 | [For All We Know](https://open.spotify.com/track/46YHnrTI0ZmXBOclUDsbI3) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:14 | 2023-01-05 |  |
 | [For Heaven's Sake](https://open.spotify.com/track/1Awk77fTG0Vf17KlekKECz) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [For Heaven's Sake](https://open.spotify.com/album/1QBGjJQnNFwrGxdyUuFsml) | 4:32 | 2021-12-07 | 2022-05-10 |
 | [For Sentimental Reasons](https://open.spotify.com/track/5u4mnLSbUYyVUP7TBZHbK4) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [For Sentimental Reasons](https://open.spotify.com/album/1smcXwdSpSedTOPEXd9aEY) | 3:15 | 2024-05-30 |  |
-| [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2023-02-23 |  |
+| [Forest Flower](https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Forest Flower](https://open.spotify.com/album/1xEwOzWSVhygukb5WJYXnZ) | 4:13 | 2023-02-23 | 2025-08-20 |
 | [Forever in your arms](https://open.spotify.com/track/5dbsWC1EVqbhHcRbJr4vjF) | [Sophie Nichols](https://open.spotify.com/artist/2Vud9HNRfM5SLNkqdmPUa3) | [Forever in your arms](https://open.spotify.com/album/55HHyCZLRi0RCo1qoBoJZV) | 2:46 | 2021-12-07 |  |
 | [Forever Yours](https://open.spotify.com/track/3756RYg6B88hMEFRoMbarD) | [Gabrielle](https://open.spotify.com/artist/5uXfvRxvTgcu82Zqa56g4r) | [Forever Yours](https://open.spotify.com/album/7MEbAca7yBtqEEnagaxQR9) | 2:56 | 2024-02-02 |  |
 | [Four Casinos](https://open.spotify.com/track/04lRn70B8yfARIXJ4kyrWx) | [Montenegro Garner](https://open.spotify.com/artist/0jEJWpBlQoEGME65oJi0ms) | [Four Casinos](https://open.spotify.com/album/4h3c6zAo3Qj26fVX2Bmz2a) | 2:28 | 2023-05-25 |  |
@@ -240,6 +240,7 @@
 | [Heartbreak Avenue](https://open.spotify.com/track/0ibXzDN3MG91YTyGUXJJSQ) | [James Elias](https://open.spotify.com/artist/1uOGdY4LAe4Bc2YLhjsPGr) | [Heartbreak Avenue](https://open.spotify.com/album/2R2mL8rm0iWK58lNSuVufc) | 1:48 | 2023-04-20 | 2023-08-19 |
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-23 | 2024-10-22 |
 | [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-02 |  |
+| [Here We Are](https://open.spotify.com/track/6yGZttEiKNuSlim8guXSl3) | [Paolo Biscottini](https://open.spotify.com/artist/6XTAgjCPixFSoiGjxVvDhN) | [Here We Are](https://open.spotify.com/album/1QilyUuFOz1PWPzZS2I9vW) | 2:56 | 2025-08-19 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/08zG2Lrqlfp3ldWVzEbnjc) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Here's That Rainy Day](https://open.spotify.com/album/2BLTJotFjrXROaxkzPgqnh) | 4:19 | 2021-12-07 | 2022-12-02 |
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-01-05 | 2024-10-09 |
 | [He’s a good kid](https://open.spotify.com/track/2tSSroZLU5ikFBZW83EC69) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [He’s a good kid](https://open.spotify.com/album/21jLquIJrmwqfcmke7ddWc) | 2:26 | 2023-04-13 |  |
@@ -410,7 +411,7 @@
 | [My Foolishness](https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe) | [Franck Byrne](https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq) | [My Foolishness](https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ) | 2:46 | 2023-10-27 |  |
 | [My Funny Valentine](https://open.spotify.com/track/16ux8DXCSRapY8mxHavplM) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [My Funny Valentine](https://open.spotify.com/album/0N33fi2a8iGqcs5WWbnIdC) | 2:50 | 2022-08-29 | 2025-03-04 |
 | [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 | 2021-12-07 | 2025-07-24 |
-| [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2022-08-09 |  |
+| [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2022-08-09 | 2025-08-20 |
 | [My Old Town](https://open.spotify.com/track/4bgcSZ5LgC8O6KBHyybI6T) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [My Old Town](https://open.spotify.com/album/5Fen3A5kz69GvxgEl016un) | 3:33 | 2023-01-26 | 2025-07-24 |
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2021-12-07 | 2025-03-25 |
 | [My Periscope](https://open.spotify.com/track/5e98RqB5qbAMxE2l8wB7pc) | [Miles Hartfield](https://open.spotify.com/artist/0rRnduLmaVVPR7hcsAectW) | [My Periscope](https://open.spotify.com/album/2lG9d8CAcQ7vxoubAjnazb) | 2:23 | 2025-07-01 |  |
@@ -523,6 +524,7 @@
 | [Sleep Warm](https://open.spotify.com/track/5lt4NedCUCfgU48VU25fTN) | [M\. Birkeland](https://open.spotify.com/artist/0JldzuwP5NF3nsxjnlLCTS) | [Sleep Warm](https://open.spotify.com/album/21JzK3UXvkY3Bq7TzuSnbi) | 2:25 | 2023-08-10 |  |
 | [Slow Down](https://open.spotify.com/track/0smp1YZcD0pilQEGbc3KcS) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Slow Down](https://open.spotify.com/album/34FnrbjzUSh4lJNmTANyTP) | 3:14 | 2024-08-06 |  |
 | [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-04-27 |  |
+| [Slowly Moving Forward](https://open.spotify.com/track/6Fd6aiIghztXABZu3yyMIi) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [Slowly Moving Forward](https://open.spotify.com/album/09xYUcUWDC5UEHY9JKFKVy) | 2:31 | 2025-08-19 |  |
 | [Slumber](https://open.spotify.com/track/15puYvwdrHY0sZUzSQBaNq) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [Slumber](https://open.spotify.com/album/1p5YyXdqlySUTkTRhe41aq) | 2:48 | 2025-01-20 |  |
 | [Small Hours](https://open.spotify.com/track/0QWQfOY7qO0YvA6Uspn9bP) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Small Hours](https://open.spotify.com/album/2vgcZW7MMDbkfHXelDzvEY) | 2:55 | 2021-12-07 | 2022-11-25 |
 | [Small World](https://open.spotify.com/track/6kYn1i8snskAJFjpxmMjEg) | [Novo Alonso](https://open.spotify.com/artist/5CswSV6SeGqATyFK4cEUqg) | [Small World](https://open.spotify.com/album/4g4IhCxRH2ui6Zg5Rq6wK3) | 2:05 | 2023-08-10 | 2024-08-07 |
@@ -593,6 +595,7 @@
 | [The Hills](https://open.spotify.com/track/6R1p1fumkttTWuMZqMLojv) | [Jaden Cohen](https://open.spotify.com/artist/5FDFlNDmnGwmTB0broI9MA) | [The Hills](https://open.spotify.com/album/2EpNaRXAmNdUmG3I40dJXv) | 2:48 | 2024-01-05 |  |
 | [The Isle of Aye](https://open.spotify.com/track/0wfCH7YhtRZl0EAfo63y74) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [The Isle of Aye](https://open.spotify.com/album/5qIgH2QDeeN1nCJL3PF4XG) | 2:31 | 2024-11-05 | 2024-12-17 |
 | [The last chance saloon](https://open.spotify.com/track/0AOJQ4Z5NRdI8w8s8LxcNv) | [Aaron Xeres](https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ) | [The last chance saloon](https://open.spotify.com/album/5GckOfbpIga1ELGdmh1qSZ) | 2:05 | 2023-06-01 |  |
+| [The last kiss](https://open.spotify.com/track/03jkyMuDhVI0nhpNxxvLgr) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [The last kiss](https://open.spotify.com/album/2KqrwvBUGKmKpJe7Z6uixJ) | 2:45 | 2025-08-19 |  |
 | [The Last Show](https://open.spotify.com/track/6qqU4X4ylPPSvGr4z38bh5) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [The Last Show](https://open.spotify.com/album/6wJ6UaPgnEwASjFenTThhL) | 3:08 | 2024-05-10 | 2025-02-04 |
 | [The Memories We Have](https://open.spotify.com/track/1pDs64abTrzh2xOZ5PcpA1) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [The Memories We Have](https://open.spotify.com/album/73vXfkDbtL5ce56LjZtK4z) | 2:52 | 2024-11-12 |  |
 | [The Midday Heat](https://open.spotify.com/track/3o3lK3EBpwmyKrhUsLGyRB) | [Donald Minestra](https://open.spotify.com/artist/4Vp3eoDbOl901ITzOwanhB) | [The Midday Heat](https://open.spotify.com/album/1uEFsEsd3nBKIzVPhzeDfs) | 3:43 | 2021-12-07 | 2024-06-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 67684,
+  "num_followers": 67709,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-08-01 03:00:08",
       "album": {
-        "name": "S\u00fabete",
-        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
-      },
-      "artists": [
-        {
-          "name": "12 Tribus",
-          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
-        },
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "El Cuento",
-      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
-    },
-    {
-      "added_at": "2025-08-01 03:00:08",
-      "album": {
         "name": "Seguirla",
         "url": "https://open.spotify.com/album/33Gw7j5OgHFfno8VAtCYwm"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 222000,
       "name": "Agua Nueva",
       "url": "https://open.spotify.com/track/0SNOtKlYtfNzv0fg0gdBCh"
+    },
+    {
+      "added_at": "2025-08-01 03:00:08",
+      "album": {
+        "name": "S\u00fabete",
+        "url": "https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU"
+      },
+      "artists": [
+        {
+          "name": "12 Tribus",
+          "url": "https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4"
+        },
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "El Cuento",
+      "url": "https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ"
     },
     {
       "added_at": "2025-08-01 03:00:08",

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,000 songs - 1 day 16 hr 27 min
+2,003 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,6 +1267,7 @@
 | [Paris Evenings Together](https://open.spotify.com/track/407uVroXgjXAlH3BMgLi32) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Paris Evenings Together](https://open.spotify.com/album/5IXOS33xZgrodqYb37qXb0) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Paris In Spring](https://open.spotify.com/track/6voqma6nGkJDVqw8IRFNYf) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Here](https://open.spotify.com/album/7iNn2dwf5X85GZidRJWUoU) | 1:05 | 2022-02-24 | 2024-01-30 |
 | [Particles of Light](https://open.spotify.com/track/4sC864mswD3bOShELao6Gp) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Daydreaming](https://open.spotify.com/album/72T026EJN1ZCBM10yJ6Nb8) | 1:31 | 2024-01-29 |  |
+| [Passage](https://open.spotify.com/track/1F2J3yXktdnPBVRU806keC) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Passage](https://open.spotify.com/album/053bb416AKjrmy553LwqIP) | 1:00 | 2025-08-20 |  |
 | [Passing Moments](https://open.spotify.com/track/3bMhhlStxFW9wyiuLRGqF1) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Autumn](https://open.spotify.com/album/3msCLq3wKyEw6079LqerhN) | 1:22 | 2024-01-29 |  |
 | [Past](https://open.spotify.com/track/6c6ZqAkYJlXaydASbVA0zd) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Night Melodies](https://open.spotify.com/album/4xCGDMioLmUYbgCfn4q9kk) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Past \- Alternate Cello Version](https://open.spotify.com/track/5h6s924KJo9Y1wscVts9f7) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Past \(Alternate Cello Version\)](https://open.spotify.com/album/207krIzUiHT684297hbJtx) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -1531,6 +1532,7 @@
 | [Silent Ceremony](https://open.spotify.com/track/5sukbOEGYFYBb0xYqUfs18) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:05 | 2022-01-12 |  |
 | [Silent Drift](https://open.spotify.com/track/7wqCeQix4Yh0cCHV3wYK31) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Our Dreams](https://open.spotify.com/album/44JzdzxKFan8JqnUxK40sl) | 1:23 | 2022-01-12 |  |
 | [Silent Joy](https://open.spotify.com/track/2GLGsZPiwD9yNo0H8lVlSM) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Silent Joy](https://open.spotify.com/album/1X1DVB4SKnYfIf5NG21mCC) | 1:00 | 2025-08-12 |  |
+| [Silent Morning](https://open.spotify.com/track/0cgkIn8SnJgsv1U5YQFyuy) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Silent Morning](https://open.spotify.com/album/4pPEUDPxA5mjDIwJHq4fFI) | 1:00 | 2025-08-19 |  |
 | [Silent Rooms](https://open.spotify.com/track/0S6WNxqCEEPFWJukC175u4) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Cello Reflections](https://open.spotify.com/album/3a4E60s56WkQRylOD84uJB) | 1:34 | 2022-01-20 | 2024-01-30 |
 | [Silent Swell](https://open.spotify.com/track/2dPMZCeYcXH9HGIt2sG3xo) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Gentle Flow](https://open.spotify.com/album/2xnFA2PQopVi0ZGeOi9g9I) | 1:00 | 2022-05-25 |  |
 | [Silent Waves](https://open.spotify.com/track/6uKOKssyfhyoGp7KAy4oaH) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Silent Waves](https://open.spotify.com/album/66QYaVG7A7jpp1EWs8yaay) | 1:00 | 2025-02-15 |  |
@@ -1546,6 +1548,7 @@
 | [Simple Moments Again \- Alternate Version](https://open.spotify.com/track/1JJ1DKjPklozEllEPphaEo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Simple Moments Again \(Alternate Version\)](https://open.spotify.com/album/617KMDHRS1DaqGfIkWgGor) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Simple Times](https://open.spotify.com/track/0hRNl6UGhVyC3HFKj8tlBP) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Lullabies by the Seaside](https://open.spotify.com/album/6pC7SbPTtjxRdWfEJqu14G) | 1:38 | 2022-01-20 | 2024-01-30 |
 | [Simplicity](https://open.spotify.com/track/1Xqy63kclpytkXJ5y95RWj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Simplicity](https://open.spotify.com/album/7i2hTDuLrt88WYFi9mrBsc) | 1:00 | 2025-01-23 |  |
+| [Sincerely](https://open.spotify.com/track/4x2SyGQXu32TgZhGM6gJfR) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Sincerely](https://open.spotify.com/album/2pqrjkLFfmP2ugJLV3HkJL) | 1:00 | 2025-08-20 |  |
 | [Skies](https://open.spotify.com/track/2J3aTb3fexm0hf9M30th7b) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Skies](https://open.spotify.com/album/6oZZHp9yVNOOJHzQIXk2Bo) | 1:00 | 2024-04-04 |  |
 | [Skies Of Blue](https://open.spotify.com/track/0oNj2R3LsmAphfRJhzxzxk) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:07 | 2022-01-27 |  |
 | [Sky](https://open.spotify.com/track/5rHfbA9E0OEPD1H3hL51rM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:39 | 2022-01-12 |  |

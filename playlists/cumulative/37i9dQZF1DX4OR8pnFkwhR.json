@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: AKASAKI",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: HALVES",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -590,6 +590,24 @@
       "duration_ms": 162933,
       "name": "3\u5206\u30a2\u30e9\u30fc\u30e0",
       "url": "https://open.spotify.com/track/40QKY5KHFEnt0Z0ScxqMCK"
+    },
+    {
+      "album": {
+        "name": "3\u6642\u306eHey Yo\uff01",
+        "url": "https://open.spotify.com/album/3oivkA7EaaVZzSdws5tTk1"
+      },
+      "artists": [
+        {
+          "name": "HALVES",
+          "url": "https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208330,
+      "name": "3\u6642\u306eHey Yo\uff01",
+      "url": "https://open.spotify.com/track/4EWBCoXZjKZtxRFeOBaAwX"
     },
     {
       "album": {
@@ -3606,10 +3624,32 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 165853,
       "name": "Cheese (feat. Manaka)",
       "url": "https://open.spotify.com/track/5EGjNgoJxZakg7oLhrnKGE"
+    },
+    {
+      "album": {
+        "name": "Cheese (feat. Manaka)",
+        "url": "https://open.spotify.com/album/0qnGjnpfdidRbo8nOi2F9F"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165903,
+      "name": "Cheese (feat. Manaka)",
+      "url": "https://open.spotify.com/track/1Q2vHLsoQYqF2JJluCMUMS"
     },
     {
       "album": {
@@ -4670,6 +4710,24 @@
       "duration_ms": 145333,
       "name": "Dasee Dasei",
       "url": "https://open.spotify.com/track/51HAbKZ8gYPICA3RPXUgpQ"
+    },
+    {
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0mELGQzNxkrhbss7JbHmm5"
+      },
+      "artists": [
+        {
+          "name": "64DX",
+          "url": "https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151740,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/2WkvhtHXDvImXFcN6QCIsY"
     },
     {
       "album": {
@@ -7000,7 +7058,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 225354,
       "name": "Funky Lovely Girl",
       "url": "https://open.spotify.com/track/43J0Mmcg3wJ0NAXNXMRG84"
@@ -7480,7 +7538,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 281257,
       "name": "Goes On",
       "url": "https://open.spotify.com/track/0ABdjpCuLnTTluGGdlDfja"
@@ -9144,6 +9202,28 @@
       "duration_ms": 183666,
       "name": "IAI",
       "url": "https://open.spotify.com/track/4YXWRCYxpJnxgZlJmwrvKe"
+    },
+    {
+      "album": {
+        "name": "ICE Natsu feat. Daito Yamamoto",
+        "url": "https://open.spotify.com/album/3DNn855DdIZX2MQqNnBjTg"
+      },
+      "artists": [
+        {
+          "name": "Natsudaidai",
+          "url": "https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G"
+        },
+        {
+          "name": "Daito Yamamoto",
+          "url": "https://open.spotify.com/artist/762qGCF3I5PMEOLNRb5Ghs"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196245,
+      "name": "ICE Natsu feat. Daito Yamamoto",
+      "url": "https://open.spotify.com/track/6aQSUToZgg1TQkjvqlpf4I"
     },
     {
       "album": {
@@ -16509,6 +16589,24 @@
     },
     {
       "album": {
+        "name": "SELF",
+        "url": "https://open.spotify.com/album/2nCt4dZzGxXYOelb0dGw5L"
+      },
+      "artists": [
+        {
+          "name": "\u3056\u3089\u3070\u3093\u3057",
+          "url": "https://open.spotify.com/artist/3MU1QugoEIeuNgHBfEeUij"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188689,
+      "name": "SELF",
+      "url": "https://open.spotify.com/track/000IngOSeNlUFNNsbZ5gd1"
+    },
+    {
+      "album": {
         "name": "Senpai",
         "url": "https://open.spotify.com/album/3a9z2tnR8VQlJ3jYhHRLUg"
       },
@@ -21057,6 +21155,24 @@
     },
     {
       "album": {
+        "name": "wolf moon",
+        "url": "https://open.spotify.com/album/5oioKgDqssAhTVd5jWNtMV"
+      },
+      "artists": [
+        {
+          "name": "\u6765\u6d77",
+          "url": "https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290293,
+      "name": "wolf moon",
+      "url": "https://open.spotify.com/track/4Xp9m04sCoqzu41LaGCmk1"
+    },
+    {
+      "album": {
         "name": "WONDER TOKYO",
         "url": "https://open.spotify.com/album/45NTnxI0fPx20OzKgby5WU"
       },
@@ -24346,7 +24462,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 178879,
       "name": "\u30a6\u30a4\u30b9\u30ad\u30fc",
       "url": "https://open.spotify.com/track/28h2vtVlD77ejdc24Hgdo0"
@@ -25822,7 +25938,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 239454,
       "name": "\u30bb\u30f3\u30ab",
       "url": "https://open.spotify.com/track/3TIy0kAq4wJpPJkLsZsb6m"
@@ -27200,7 +27316,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 211633,
       "name": "\u30d6\u30eb\u30fc\u30e2\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ"

@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-228 songs - 9 hr 38 min
+230 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/track/13MvoF7XbeyuvUkYFdcTsR) | [Oscar Johansson](https://open.spotify.com/artist/23tMk4k83BihntN9bkQ2K1) | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/album/1g8Cg2tX8F6vuflRgaGL1o) | 1:56 | 2023-05-09 | 2024-02-03 |
 | [Her First Theme](https://open.spotify.com/track/4Fdm4NrMFgHRCQZIr1guDz) | [Eva Starr](https://open.spotify.com/artist/7EgGZxKYGxtAllHEOF7hrU) | [Her First Theme](https://open.spotify.com/album/6oxC9shBjvSwCnbs1iwKNg) | 2:30 | 2024-07-16 |  |
 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 | 2024-02-02 |  |
+| [hollow hour](https://open.spotify.com/track/6LaeVakkn3QgRM9YLX48WM) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [hollow hour](https://open.spotify.com/album/1v7zdJllhIxRLHndR4tits) | 2:45 | 2025-08-19 |  |
 | [Holy Embers](https://open.spotify.com/track/6XovkaL6NCGSq42LWERqz4) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Holy Embers](https://open.spotify.com/album/4uWmXxPxhG9WoggJ1v46p0) | 2:15 | 2024-11-19 |  |
 | [Hopelessly in Love](https://open.spotify.com/track/4qJMyRUlLa6zIzq5yKrOPo) | [Phoebe Weber](https://open.spotify.com/artist/2WgYyclJDRvXJaeSw1N0O4) | [Hopelessly in Love](https://open.spotify.com/album/0pU42ES2MpgobwRjLE6Rib) | 3:00 | 2023-05-09 | 2024-10-02 |
 | [How Things Blend](https://open.spotify.com/track/18hOR7RxHGxmXTXXB4GLKj) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO) | [About The Known](https://open.spotify.com/album/1II575rpuj84021opzGTJ3) | 2:36 | 2024-03-05 | 2024-03-27 |
@@ -183,6 +184,7 @@
 | [Simple Pleasures](https://open.spotify.com/track/2D66MDdbYaJyDuw53Vtju4) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Simple Pleasures](https://open.spotify.com/album/2X5SruBiLwtcWV86lflqqE) | 2:51 | 2024-09-03 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 | 2025-03-13 |
 | [Slow Fall](https://open.spotify.com/track/0VZ71YhAIA1W3T71DJUi32) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Slow Fall](https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S) | 2:58 | 2024-05-29 |  |
+| [Slow Morning](https://open.spotify.com/track/2H52h4eB5VOlYLk9ij1bBA) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Slow Morning](https://open.spotify.com/album/07Y9Dqu922zuptTVX3vWA9) | 2:39 | 2025-08-19 |  |
 | [Soft Echoes](https://open.spotify.com/track/6LgGNehVT0BpXcYqu4tWIc) | [Lukasz Allain](https://open.spotify.com/artist/3O2fAJFoOE1uxFK9ZXouLc) | [Soft Echoes](https://open.spotify.com/album/0j3nUOkfEKrduxG19DtbTJ) | 2:47 | 2025-03-20 |  |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-05-09 |  |
 | [Sophisticated](https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Sophisticated](https://open.spotify.com/album/2ybmczckxP8uMWeZVaC9rK) | 2:05 | 2024-05-01 |  |

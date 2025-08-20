@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,918 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,911 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 6 | [BABY BABY](https://open.spotify.com/track/37RNy61lMUr4NoYmSOroHJ) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BABY BABY](https://open.spotify.com/album/0JxcpQDSe6M0TLo5N0l9P1) | 3:17 |
 | 7 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 8 | [new david bowie](https://open.spotify.com/track/0LnjlEJ3A7CfVYVH2l5KkH) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 2:14 |
-| 9 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
+| 9 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |
 | 10 | [Conversation](https://open.spotify.com/track/6wMnZzsRUWQAENpnqTmIJk) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Conversation](https://open.spotify.com/album/0OJjgbzuaOF0f2U7vdriTK) | 2:31 |
 | 11 | [Little Gods](https://open.spotify.com/track/2FpX0lLE01fW4HD88l2DmJ) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH), [jonatan leandoer96](https://open.spotify.com/artist/5tPS5f7Gu3SaJQusdkehtE) | [Little Gods](https://open.spotify.com/album/3nzBF4atvaVYxVPjGOG845) | 3:40 |
 | 12 | [Wear and Tear](https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Wear and Tear](https://open.spotify.com/album/5bolRHcWoIIET6qafkDUtT) | 3:09 |

@@ -4,7 +4,7 @@
 
 > Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Loredana
 
-80 songs - 3 hr 29 min
+81 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,12 +68,13 @@
 | [RS7](https://open.spotify.com/track/1NXEkfWUKNoEQ1Ve2HoO9w) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Soufian](https://open.spotify.com/artist/3Vnl7pKDxagUgRJ3NMtEcE) | [RS7](https://open.spotify.com/album/6hpv3u2QBfPn1N8UDKMJC8) | 2:11 | 2025-07-17 | 2025-07-29 |
 | [Run Run](https://open.spotify.com/track/27dn9ZTwGj5uZjIQPulwAE) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Run Run](https://open.spotify.com/album/5JxlJGXiIRwsA2RPM9PTso) | 2:06 | 2025-07-17 | 2025-08-01 |
 | [Sauvage](https://open.spotify.com/track/2Ed0ve2x6FVzEVKYVbPfGq) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Banditorinho 2](https://open.spotify.com/album/1MRdWNh2d1HGfayGvHdaip) | 1:49 | 2025-08-14 |  |
-| [Scherbenhaus](https://open.spotify.com/track/1ehSSVqtdKXUqFxklpRjRX) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:51 | 2025-07-24 |  |
+| [Scherbenhaus](https://open.spotify.com/track/1ehSSVqtdKXUqFxklpRjRX) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:51 | 2025-07-24 | 2025-08-20 |
 | [Serie A](https://open.spotify.com/track/4GJd3kcSBnLqrXCtuEOEPH) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [SSJ](https://open.spotify.com/album/64i90MATD7eZu6yTlkVOHS) | 2:39 | 2025-07-31 |  |
 | [Sexy Lady](https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Sexy Lady](https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn) | 2:20 | 2025-08-07 |  |
 | [Shabab\(e\)s im VIP](https://open.spotify.com/track/1JjHQ4lfAjbDq7wmOmH9wM) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [grünewürfelflow](https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv) | 1:55 | 2025-07-17 |  |
 | [Summer Baby](https://open.spotify.com/track/1OH0dxRdfoKbZG9ubxiT7I) | [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Summer Baby](https://open.spotify.com/album/7la8ldIlZqwMs1hgFFJVPG) | 2:23 | 2025-07-17 |  |
 | [Sure Shots](https://open.spotify.com/track/2Nryu9QVJp6pOBRnzbjCMd) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [THIZZY52](https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3) | [Sure Shots](https://open.spotify.com/album/17O5lB1crIROppolN6toHG) | 3:15 | 2025-08-07 |  |
+| [TANLINES](https://open.spotify.com/track/0WjgqfgjsdwZnwUBCqdOxq) | [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [TANLINES](https://open.spotify.com/album/2t6jOeoZ2DjOQ57PK0sdoR) | 1:49 | 2025-08-18 |  |
 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-07-17 | 2025-08-09 |
 | [tip top](https://open.spotify.com/track/0yQ5tta0wxd3K8Qb1jXz2k) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [tip top](https://open.spotify.com/album/6SZeG8ti0CTYNsIovAE62L) | 1:51 | 2025-07-17 | 2025-08-01 |
 | [Toxicgirl II](https://open.spotify.com/track/0cIC015EZJbgmcOZJ7Fc4P) | [YAKARY](https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI) | [Toxicgirl II](https://open.spotify.com/album/5Qap87bFrs5nxm1u3XBln9) | 2:21 | 2025-07-17 | 2025-07-25 |

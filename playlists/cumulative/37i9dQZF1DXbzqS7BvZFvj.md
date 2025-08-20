@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Cardi B
 
-1,290 songs - 2 day 16 hr 45 min
+1,291 songs - 2 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 | 2024-04-11 | 2024-07-19 |
 | [No More](https://open.spotify.com/track/7cNUMPXO8gGjKnKkXVn5T0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No More](https://open.spotify.com/album/1xoLz54rjNeQpRmfQB2BZk) | 3:02 | 2023-06-30 | 2023-07-14 |
 | [No More Naija Men](https://open.spotify.com/track/1u3S0SK3ecQRW0tLndolro) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [No More Naija Men](https://open.spotify.com/album/0JK59x4KpdHnE5QNCaPFb3) | 2:11 | 2023-03-16 | 2023-03-31 |
+| [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE \(Clean\)](https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6) | 4:53 | 2025-08-19 |  |
 | [NO PHOTO \(feat\. Banditt\)](https://open.spotify.com/track/5xTwykaKhGqYBhu4rWGNTn) | [Shigge](https://open.spotify.com/artist/7rZcAJNx9WPPw8ti31isbv), [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A) | [NO PHOTO \(feat\. Banditt\)](https://open.spotify.com/album/4CUOenFP1gkCiHvs7RNU6m) | 2:47 | 2024-08-23 | 2024-08-30 |
 | [No Question](https://open.spotify.com/track/1gRajwEnMGfgpNtFdP0j9u) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [No Question](https://open.spotify.com/album/6lpb6SknO3Jajwvz0BFXNO) | 2:22 | 2024-07-12 | 2024-09-27 |
 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 | 2025-08-07 |  |

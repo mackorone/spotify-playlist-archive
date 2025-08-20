@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Meera, Sagar Verma and other exciting artists.\n",
-  "num_followers": 93127,
+  "num_followers": 93171,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Sweetburn",
+        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+      },
+      "artists": [
+        {
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+        }
+      ],
+      "duration_ms": 167903,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/5KvnDsNuSiLY4TxworhRLC"
       },
@@ -603,18 +619,18 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
-        "name": "Sweetburn",
-        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
+        "name": "Chandni",
+        "url": "https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp"
       },
       "artists": [
         {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
+          "name": "Anmol A",
+          "url": "https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb"
         }
       ],
-      "duration_ms": 167903,
-      "name": "Ishaare",
-      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
+      "duration_ms": 204800,
+      "name": "Chandni",
+      "url": "https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -643,22 +659,6 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
-        "name": "Chandni",
-        "url": "https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp"
-      },
-      "artists": [
-        {
-          "name": "Anmol A",
-          "url": "https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Chandni",
-      "url": "https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
         "name": "Soz e Dil",
         "url": "https://open.spotify.com/album/4jydMVHW4fFei0hhkuDzhp"
       },
@@ -671,6 +671,30 @@
       "duration_ms": 372587,
       "name": "Soz e Dil",
       "url": "https://open.spotify.com/track/2HsLavkCiRviSxOx57d7UR"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/7xuRruXoz3s9VhTtIgHAAy"
+      },
+      "artists": [
+        {
+          "name": "Third Hour",
+          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
+        },
+        {
+          "name": "Jlok",
+          "url": "https://open.spotify.com/artist/2SYXyfwDgUuad1YucOpGqy"
+        },
+        {
+          "name": "VZO",
+          "url": "https://open.spotify.com/artist/0YdTJNwbHAnzpAhlwBDgXF"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5DStpR7tH6DgP06HJpJr5r"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -691,6 +715,38 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Aadhi Chai",
+        "url": "https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b"
+      },
+      "artists": [
+        {
+          "name": "Deepak Rathore Project",
+          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
+        }
+      ],
+      "duration_ms": 217692,
+      "name": "Aadhi Chai",
+      "url": "https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
+        "name": "Kaisi Ye Aandhi Thee",
+        "url": "https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU"
+      },
+      "artists": [
+        {
+          "name": "Mansa Jimmy",
+          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+        }
+      ],
+      "duration_ms": 228228,
+      "name": "Kaisi Ye Aandhi Thee",
+      "url": "https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "Kuch Na Rahe",
         "url": "https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi"
       },
@@ -707,6 +763,46 @@
       "duration_ms": 192527,
       "name": "Kuch Na Rahe",
       "url": "https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
+        "name": "Faza",
+        "url": "https://open.spotify.com/album/2VKSUMvPriwzKyOGcsbG0w"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Crustacean",
+          "url": "https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2"
+        }
+      ],
+      "duration_ms": 182771,
+      "name": "Faza",
+      "url": "https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
+        "name": "Peeche Mudke",
+        "url": "https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        },
+        {
+          "name": "Shreya Jain",
+          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Peeche Mudke",
+      "url": "https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -735,102 +831,6 @@
       "duration_ms": 105000,
       "name": "Bheja No Dahi",
       "url": "https://open.spotify.com/track/3HB6DGSmxzzWBBWXkQUW21"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Kaisi Ye Aandhi Thee",
-        "url": "https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU"
-      },
-      "artists": [
-        {
-          "name": "Mansa Jimmy",
-          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
-        }
-      ],
-      "duration_ms": 228228,
-      "name": "Kaisi Ye Aandhi Thee",
-      "url": "https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Aadhi Chai",
-        "url": "https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b"
-      },
-      "artists": [
-        {
-          "name": "Deepak Rathore Project",
-          "url": "https://open.spotify.com/artist/1VFIeAFbzMVHmvGQtfE6OI"
-        }
-      ],
-      "duration_ms": 217692,
-      "name": "Aadhi Chai",
-      "url": "https://open.spotify.com/track/10Mbwe81neb7Q3AATNwUBr"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Peeche Mudke",
-        "url": "https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i"
-      },
-      "artists": [
-        {
-          "name": "SidB",
-          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
-        },
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Peeche Mudke",
-      "url": "https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Faza",
-        "url": "https://open.spotify.com/album/2VKSUMvPriwzKyOGcsbG0w"
-      },
-      "artists": [
-        {
-          "name": "Samad Khan",
-          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
-        },
-        {
-          "name": "Crustacean",
-          "url": "https://open.spotify.com/artist/3657x7tvzI3LT8WPU0WuL2"
-        }
-      ],
-      "duration_ms": 182771,
-      "name": "Faza",
-      "url": "https://open.spotify.com/track/7bNIiEn2iHswdljQHcQY5Q"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/7xuRruXoz3s9VhTtIgHAAy"
-      },
-      "artists": [
-        {
-          "name": "Third Hour",
-          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
-        },
-        {
-          "name": "Jlok",
-          "url": "https://open.spotify.com/artist/2SYXyfwDgUuad1YucOpGqy"
-        },
-        {
-          "name": "VZO",
-          "url": "https://open.spotify.com/artist/0YdTJNwbHAnzpAhlwBDgXF"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5DStpR7tH6DgP06HJpJr5r"
     },
     {
       "added_at": "2025-08-15 05:45:57",

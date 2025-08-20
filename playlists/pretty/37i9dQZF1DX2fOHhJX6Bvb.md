@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fOHhJX6Bvb.md) - [plain]
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,468 likes - 133 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,488 likes - 133 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fOHhJX6Bvb.md) - [plain]
 | 25 | [Go your own way](https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:02 |
 | 26 | [Espresso](https://open.spotify.com/track/6IrXpR6VybCIatiUBfD8Jd) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Espresso](https://open.spotify.com/album/7tcFWmY3xY7yXX2BUTgl7Z) | 3:45 |
 | 27 | [Right Here Waiting](https://open.spotify.com/track/34qR9YyC7FxLfkfq8JQS6p) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Right Here Waiting](https://open.spotify.com/album/3rPEZpmAnrGOvZWlAyfwAj) | 2:57 |
-| 28 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Sinead Fisher](https://open.spotify.com/artist/50JqVZOiKb0Rbeeeg8XJhz) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 |
+| 28 | [Out of Reach](https://open.spotify.com/track/1YJy6ofVeKjNk1SxudWgg3) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Out of Reach](https://open.spotify.com/album/5piCyCGSfoap2QpQPt0NCD) | 2:37 |
 | 29 | [I Love You, I'm Sorry](https://open.spotify.com/track/6cQQn17qENxzPHazVOpeXH) | [Oak & Honey](https://open.spotify.com/artist/1uTw6urRN1eni0YP1wEGBb) | [I Love You, I'm Sorry](https://open.spotify.com/album/3dcE0xr4ZDE9bXhN4pHWxx) | 2:27 |
 | 30 | [Jolene](https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB) | [Elin Porsinger](https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK) | [Jolene](https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR) | 2:17 |
 | 31 | [My Love Is Your Love](https://open.spotify.com/track/4uJbyfXdhYv0rFlCD8A7OP) | [April Ball](https://open.spotify.com/artist/2GUsnUd4hKTZUWYSXKMLae) | [My Love Is Your Love](https://open.spotify.com/album/2zHVJqtr8i8Tp6qaknqZYR) | 3:30 |

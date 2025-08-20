@@ -11010,7 +11010,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 282053,
       "name": "O",
       "url": "https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP"
@@ -16778,6 +16778,24 @@
       "duration_ms": 207493,
       "name": "we are fine",
       "url": "https://open.spotify.com/track/4h4FflzmpQTIMZ062LpCqm"
+    },
+    {
+      "album": {
+        "name": "We are golden",
+        "url": "https://open.spotify.com/album/00DUo0FtbVurn0wqZi2dm0"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "We are golden",
+      "url": "https://open.spotify.com/track/7N37rATkfSerMi7zcpQncq"
     },
     {
       "album": {

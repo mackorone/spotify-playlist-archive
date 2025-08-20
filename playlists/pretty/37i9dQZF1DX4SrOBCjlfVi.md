@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Youngboy Never Broke Again, Cardi B, Kodak Black and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,194 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,318 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 44 | [fallin’](https://open.spotify.com/track/3IdcG690ejaSSmV5xKLIzS) | [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU) | [MARCO PLUS vs\. tha Underworld](https://open.spotify.com/album/6CRsycLmp5msVvtPxPKqHH) | 2:38 |
 | 45 | [Every Night](https://open.spotify.com/track/3Epx1mwWzD8y1PBc0O3YjJ) | [XanMan](https://open.spotify.com/artist/1cyidXIhLIwg1WAEm7rJQP) | [In The Way Of Myself](https://open.spotify.com/album/2TWYeRKxjiW7NsYKOvdqzM) | 1:54 |
 | 46 | [Off Me](https://open.spotify.com/track/2uxvA2wfmEiTnz5iFZyeCz) | [Bri3](https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H) | [Off Me](https://open.spotify.com/album/3Cyll1Ghi5o0k7EwcE6RXo) | 2:53 |
-| 47 | [bags](https://open.spotify.com/track/6kjv8jfYnJ15fPIQYSvFKe) | [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn), [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [bags](https://open.spotify.com/album/3TwHdwW0nNdjuFtZnFnVdO) | 2:46 |
+| 47 | [bags](https://open.spotify.com/track/6kjv8jfYnJ15fPIQYSvFKe) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN), [FearDorian](https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn) | [bags](https://open.spotify.com/album/3TwHdwW0nNdjuFtZnFnVdO) | 2:46 |
 | 48 | [On BS Again](https://open.spotify.com/track/7cCfS9DGWesjsQOH7f3wZ2) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [On BS Again](https://open.spotify.com/album/76n1YWkHvrc1Mi9rGCifT2) | 2:12 |
 | 49 | [Penny Proud](https://open.spotify.com/track/0HyxfzPiGq2jxuB2iT1rdX) | [Black Fortune](https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z), [Swaggyono](https://open.spotify.com/artist/2eth98H0ggjeX0fPe1Aqvn) | [OSSHYONO](https://open.spotify.com/album/28YmsKUmiNAnVctE3vswOW) | 2:14 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 
 > India's Rap Scene\. Cover \- Dhanda Nyoliwala
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,042 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,286 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 8 | [NERA](https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [NERA](https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd) | 3:33 |
 | 9 | [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 |
 | 10 | [Desi Hood](https://open.spotify.com/track/1ytkL95GzG5FfFHozezQFx) | [Krish Rao](https://open.spotify.com/artist/0iwEynjG3vgrTK0dj5QHxl) | [Desi Hood](https://open.spotify.com/album/36B93HW3IYVWNVZH0qPaCR) | 2:28 |
-| 11 | [One Who Breaks Them All \(feat\. Agnijita Sen\)](https://open.spotify.com/track/7qxHEcU31PGAHIdzSgLQBn) | [Trilok](https://open.spotify.com/artist/3KGvPJVuMw3dluy8gXmoFd), [Agnijita Sen](https://open.spotify.com/artist/4Lw4HLMsSt8uXZ6bvkwZJE) | [Devi](https://open.spotify.com/album/3cUr4H7l3mNOqvoczhGdzT) | 3:02 |
-| 12 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
-| 13 | [YEDA YUNG](https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG](https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h) | 2:39 |
-| 14 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
-| 15 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
-| 16 | [Vartmaan](https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ) | [UNIYAL](https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0), [Soumya Rawat](https://open.spotify.com/artist/7m8OhaTNCBhSp616MhhOMY) | [Nanda Devi Express](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b) | 1:58 |
+| 11 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Glory](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
+| 12 | [YEDA YUNG](https://open.spotify.com/track/7n5QRJlaXL5a3LCjOwsdcs) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl), [Year Down](https://open.spotify.com/artist/4vIfkn8fo2rtRIBJi9fdku) | [YEDA YUNG](https://open.spotify.com/album/2iCtI3xT8CcPyiyEuVIR2h) | 2:39 |
+| 13 | [Knife Brows](https://open.spotify.com/track/5nIrIdLPPXeRMl8WXnnDv1) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [DNW Vol\. 1](https://open.spotify.com/album/2HKS1DAJvHmsYs2ORrMQE1) | 2:55 |
+| 14 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 |
+| 15 | [Vartmaan](https://open.spotify.com/track/20slSXvCF6j6Zp3WMqmyfQ) | [UNIYAL](https://open.spotify.com/artist/0EdBUkJHdLP4GGx3EN8AH0), [Soumya Rawat](https://open.spotify.com/artist/7m8OhaTNCBhSp616MhhOMY) | [Nanda Devi Express](https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b) | 1:58 |
+| 16 | [Sigma Paiyan \- From "Think Indie"](https://open.spotify.com/track/6XKlfesXLwVbzumSS7XN4o) | [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Sigma Paiyan \(From "Think Indie"\)](https://open.spotify.com/album/4sTHhxgBEZifnSNjbmkyg6) | 2:29 |
 | 17 | [Mafia](https://open.spotify.com/track/7uynQTQcY6cG3C4FvLdCa6) | [Bhartiya Radio](https://open.spotify.com/artist/1zp8O28oBtOu9LqJei4627), [D Hell](https://open.spotify.com/artist/3ZKnyiq5ueImGm0JvCf9cD), [Nickox](https://open.spotify.com/artist/0RYqUJYH3wtrv3YjOMR7o4), [Young Jeric](https://open.spotify.com/artist/2IYRiLP6g7vz3jTdiDKmXF) | [Mafia](https://open.spotify.com/album/3f7hO9sBGmDzaHN2xUvoOB) | 3:23 |
 | 18 | [Knock Knock](https://open.spotify.com/track/2Kw97Ze8yhh5WDlRkEURKh) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Phenom](https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7) | [Yours Truly](https://open.spotify.com/album/5U4ZWKgrnmAdWNyLBG7DAU) | 3:26 |
 | 19 | [Wavy](https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Wavy](https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt) | 2:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ct2TQrAvRf.md) - [plain]
 | 49 | [Reckless \(feat\. Denzel Curry\)](https://open.spotify.com/track/3LrAGrfCLRDhQoDxS5Nz3B) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Monsoon Season](https://open.spotify.com/album/0AVJyPXZnYYxrqwqhcTzfX) | 2:32 |
 | 50 | [KL42](https://open.spotify.com/track/2akQaKSgo8XjKj5eqccOV4) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Kevin Soney](https://open.spotify.com/artist/7dGRq77QLo5zlEMXGEd3wI) | [KL42](https://open.spotify.com/album/7jp8mlpnbba5T3Mjj0A49w) | 2:39 |
 
-Snapshot ID: `AAAAABiZUNp7PhmxTJBCEaCSMC4ehSEM`
+Snapshot ID: `AAAAALZ8aXDKzh2FyNA2H7dQtVQq3t3G`

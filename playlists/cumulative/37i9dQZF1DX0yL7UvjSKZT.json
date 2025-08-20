@@ -7553,6 +7553,24 @@
     },
     {
       "album": {
+        "name": "River Rat",
+        "url": "https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE"
+    },
+    {
+      "album": {
         "name": "Alive In America",
         "url": "https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s"
       },

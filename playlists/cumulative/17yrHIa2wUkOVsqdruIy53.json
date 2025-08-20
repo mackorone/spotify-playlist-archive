@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-07-28",
   "description": "Die erfolgreichsten in einer Woche gestreamten Songs - alle Genres, alle Plattformen.",
-  "name": "Offizielle Deutsche Streaming-Charts KW 32.2025 / German Streaming-Charts",
+  "name": "Offizielle Deutsche Streaming-Charts KW 33.2025 / German Streaming-Charts",
   "tracks": [
+    {
+      "album": {
+        "name": "15P",
+        "url": "https://open.spotify.com/album/2ZqqXlDuZKizEe2O9FDrol"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "15P",
+      "url": "https://open.spotify.com/track/1ygRROar1duYozCdLxUL9z"
+    },
     {
       "album": {
         "name": "30 mal am Tag",
@@ -42,6 +60,42 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5"
+    },
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192043,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
     },
     {
       "album": {
@@ -219,6 +273,28 @@
     },
     {
       "album": {
+        "name": "Baccarat",
+        "url": "https://open.spotify.com/album/19QZyVt0YSbfplha3kmarF"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172617,
+      "name": "Baccarat",
+      "url": "https://open.spotify.com/track/5D8AHnEpn032hHedYTNb8C"
+    },
+    {
+      "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
@@ -382,7 +458,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 166440,
       "name": "Big Boy",
       "url": "https://open.spotify.com/track/3lviRnxqGTGtOZu90fvqgw"
@@ -451,6 +527,28 @@
     },
     {
       "album": {
+        "name": "BORN SPINNER",
+        "url": "https://open.spotify.com/album/2F0qN01HIyAlTUJw2oYLzS"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183788,
+      "name": "BORN SPINNER",
+      "url": "https://open.spotify.com/track/5BoNupK3QFtVHB5Eru61HB"
+    },
+    {
+      "album": {
         "name": "Buscape",
         "url": "https://open.spotify.com/album/1DXIc6GvvfFdx7j2gOdCNb"
       },
@@ -466,7 +564,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 151755,
       "name": "Buscape",
       "url": "https://open.spotify.com/track/20ABHNIR9jBXjaQnLjcVI2"
@@ -594,7 +692,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 126593,
       "name": "COOKIT! (ESTORER OST)",
       "url": "https://open.spotify.com/track/6UJH5Zp4qqhXyZFTWeeGLX"
@@ -983,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/60XndUjPqFimUaGzaKmlgS"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/1ivw4hEEh8sUHcqjmuYnZ6"
+    },
+    {
+      "album": {
         "name": "Hit One",
         "url": "https://open.spotify.com/album/3z6CXw7UiNQKZ2ZRSN6wfi"
       },
@@ -1094,7 +1214,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-06",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -1130,7 +1250,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -1214,7 +1334,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 167356,
       "name": "Komet",
       "url": "https://open.spotify.com/track/7oQepKHmXDaPC3rgeLRvQu"
@@ -1232,7 +1352,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 163815,
       "name": "Kotti d'Azur",
       "url": "https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5"
@@ -1316,7 +1436,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
@@ -1534,7 +1654,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 132631,
       "name": "Mona Lisa Motion",
       "url": "https://open.spotify.com/track/18o2gKM9pMyEWWAT9ZaGvr"
@@ -1669,6 +1789,28 @@
     },
     {
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/78VoWDb6ySOq4Ss2OwGIuE"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145654,
+      "name": "OCEAN",
+      "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+    },
+    {
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -1698,7 +1840,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 168626,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/3hwuHzRicnu6Ji9i1JLzor"
@@ -1778,7 +1920,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 145000,
       "name": "RAGE GIRL",
       "url": "https://open.spotify.com/track/2ghPrJZ7sn1MlyCAUja1C6"
@@ -1804,6 +1946,28 @@
       "duration_ms": 150125,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/773uSnil7arBe7hEZJJf7p"
+    },
+    {
+      "album": {
+        "name": "REWIND",
+        "url": "https://open.spotify.com/album/65ijsTDn3s79szZs096u95"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163819,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/2YRZpVmHDc943Q3EcvpysQ"
     },
     {
       "album": {
@@ -1920,6 +2084,24 @@
       "duration_ms": 167847,
       "name": "Sch\u00f6n, dass du da warst",
       "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
+    },
+    {
+      "album": {
+        "name": "Sexy Lady",
+        "url": "https://open.spotify.com/album/7tFiRReJyATOnuKryi1jFn"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140178,
+      "name": "Sexy Lady",
+      "url": "https://open.spotify.com/track/3xA6Eb4uD9HLF4K3syPpJD"
     },
     {
       "album": {
@@ -2064,6 +2246,28 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Sure Shots",
+        "url": "https://open.spotify.com/album/17O5lB1crIROppolN6toHG"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195790,
+      "name": "Sure Shots",
+      "url": "https://open.spotify.com/track/2Nryu9QVJp6pOBRnzbjCMd"
     },
     {
       "album": {
@@ -2559,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Wenn ich tot bin, fang ich wieder an",
+        "url": "https://open.spotify.com/album/38KsuTCAeC7HCnR3yYChUx"
+      },
+      "artists": [
+        {
+          "name": "Kraftklub",
+          "url": "https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176571,
+      "name": "Wenn ich tot bin, fang ich wieder an",
+      "url": "https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi"
+    },
+    {
+      "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
@@ -2622,7 +2844,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 173325,
       "name": "Wie?",
       "url": "https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q"
@@ -2698,7 +2920,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 150576,
       "name": "XOX",
       "url": "https://open.spotify.com/track/2TqYWeFkqhvBOlVe5EMQsv"

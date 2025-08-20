@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Varinder Brar, Xvir Grewal and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,759 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,768 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 17 | [PPL](https://open.spotify.com/track/0FjTHHJL0ouvjgXskvxwyK) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [PPL](https://open.spotify.com/album/5PUZxnsYh7pWj0oRqZUkDM) | 3:38 |
 | 18 | [Dominance](https://open.spotify.com/track/0ov0R1KKD2i0bbwDHPwXy2) | [Ammy Gurm](https://open.spotify.com/artist/7qJ20ZQEkpaMufLsw32Aaj), [Tani Sandhu](https://open.spotify.com/artist/1VlCfAhej4nPTvjk6nC9ym) | [Dominance](https://open.spotify.com/album/5kl8aeBobyk6sNjTnK6uGs) | 2:30 |
 | 19 | [Off Grid](https://open.spotify.com/track/4zU21wkgCR0T3CFxc49Mmw) | [Heaven Gill](https://open.spotify.com/artist/1MEZXJTKxu4J9ma63tSIiJ), [RG Cash](https://open.spotify.com/artist/5GB2hHBq1MTdEqC35Ovuuw) | [RAMBO](https://open.spotify.com/album/3EhjAybiDRcP4x73ONJntr) | 2:44 |
-| 20 | [Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 |
+| 20 | [MF Gabhru!](https://open.spotify.com/track/1jjmRJyc4A8bzH9PlLQdG3) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [MF Gabhru!](https://open.spotify.com/album/2BB6xtsyXLRuWiOaTD8Y1i) | 3:20 |
 | 21 | [Wass Good](https://open.spotify.com/track/3vdZzE6XC17R6iWVkG8knh) | [Pawan Dhanda](https://open.spotify.com/artist/4Hoz7OmMfGJhRUcPCUoJgc), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [SMRN](https://open.spotify.com/artist/4CjvYkV5G6tekMQ6lvaXBM) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:35 |
 | 22 | [OVERSEAS](https://open.spotify.com/track/0dvLCQwTUTcby5STeJqt01) | [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45), [Taxsaal](https://open.spotify.com/artist/7hiTkXJusWkbN3YyTFLkjz) | [OVERSEAS](https://open.spotify.com/album/3NQTRlaRE1DO86uDziDutX) | 2:31 |
 | 23 | [Jattan Te Jawani](https://open.spotify.com/track/0LsTv2GyTS89aZsV9ujRxD) | [Kranti Maan](https://open.spotify.com/artist/4uliXCIcyoe4ce0PyL10Ca), [Babbu Chalheri](https://open.spotify.com/artist/0Uw3Kt8A6tJcUiJVYPVXFX), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi) | [Jattan Te Jawani](https://open.spotify.com/album/3VGFzlq7M2kap2BzmZ6uRe) | 2:50 |

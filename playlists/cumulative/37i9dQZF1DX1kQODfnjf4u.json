@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: Nik Tendo, Decky",
+  "description": "50 nej\u017ehav\u011bj\u0161\u00edch hit\u016f v \u010cesk\u00e9 republice. Cover: FattyPillow",
   "name": "Hot Hits \u010cesk\u00e1 republika",
   "tracks": [
+    {
+      "album": {
+        "name": "10 let",
+        "url": "https://open.spotify.com/album/33OhQBHCnpg3F1vsuWtqiz"
+      },
+      "artists": [
+        {
+          "name": "FattyPillow",
+          "url": "https://open.spotify.com/artist/53zJujQ0C8gp3zFRz78WoZ"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265631,
+      "name": "10 let",
+      "url": "https://open.spotify.com/track/6myE4s91ZPko0Ad94B0zyZ"
+    },
     {
       "album": {
         "name": "The Underdog",
@@ -282,7 +300,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"

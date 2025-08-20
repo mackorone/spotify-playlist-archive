@@ -2,7 +2,7 @@
 
 ### [The Disastrous Life of Saiki K\. 斉木楠雄のΨ難 ](https://open.spotify.com/playlist/37i9dQZF1DWV0NdeXmnYpT)
 
-> Music from "The Disastrous Life of Saiki K."! /アニメ「斉木楠雄のΨ難」の世界を彩る楽曲をプレイリストで。©麻生周一／集英社・PK学園
+> Music from "The Disastrous Life of Saiki K."! /アニメ「斉木楠雄のΨ難」の世界を彩る楽曲をプレイリストで。©麻生周一／集英社・PK学園R
 
 105 songs - 2 hr 25 min
 

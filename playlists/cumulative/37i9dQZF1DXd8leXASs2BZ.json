@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Sound's Deli",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 64DX",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -4227,6 +4227,24 @@
     },
     {
       "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0mELGQzNxkrhbss7JbHmm5"
+      },
+      "artists": [
+        {
+          "name": "64DX",
+          "url": "https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151740,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/2WkvhtHXDvImXFcN6QCIsY"
+    },
+    {
+      "album": {
         "name": "day n night",
         "url": "https://open.spotify.com/album/0aJYcmiXlFv40XcfSfV3Hm"
       },
@@ -7721,6 +7739,24 @@
     },
     {
       "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/3hwaSgGklTs8yFSynyIc7B"
+      },
+      "artists": [
+        {
+          "name": "HekA",
+          "url": "https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/7cQwHS1zVXbSsaWA8G6fAA"
+    },
+    {
+      "album": {
         "name": "Good Day (feat. YELLASOMA & Lucy)",
         "url": "https://open.spotify.com/album/4OBq21ke2vV3Up4vQcIAsg"
       },
@@ -10340,7 +10376,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 173419,
       "name": "ktkr (feat. PM Kenobi & KVGGLV)",
       "url": "https://open.spotify.com/track/5VVFtTwrjxaMmZuHYg9hMQ"
@@ -10528,7 +10564,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 175164,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/6R4rXF5OqEF2K8XvWspWvN"
@@ -10728,7 +10764,7 @@
       ],
       "date_added": "2025-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 197569,
       "name": "LIFE TAPE",
       "url": "https://open.spotify.com/track/28eCDLLlJwphyrcDJZ5W03"
@@ -16637,6 +16673,24 @@
     },
     {
       "album": {
+        "name": "Side Seat",
+        "url": "https://open.spotify.com/album/2MfT0oAWAvR8UFaQFWDlOh"
+      },
+      "artists": [
+        {
+          "name": "LOM",
+          "url": "https://open.spotify.com/artist/1EUJrEkPvE0hC3qVhl8FuT"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "Side Seat",
+      "url": "https://open.spotify.com/track/3ays6YyULnE2QXYGpDXt1J"
+    },
+    {
+      "album": {
         "name": "Silent",
         "url": "https://open.spotify.com/album/4ebp7Q0WlT00X4O6nUh8gt"
       },
@@ -19108,7 +19162,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 176000,
       "name": "Vibin'",
       "url": "https://open.spotify.com/track/2K77C9SjqlcSFceL6KzYsC"
@@ -19832,7 +19886,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-20",
       "duration_ms": 169007,
       "name": "Why?",
       "url": "https://open.spotify.com/track/5EE81OGNgVqkydnD0dN7xR"

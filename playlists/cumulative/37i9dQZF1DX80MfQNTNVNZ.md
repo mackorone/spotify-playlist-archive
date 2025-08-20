@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-598 songs - 1 day 11 hr 15 min
+599 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-16 | 2025-06-28 |
 | [Funny Thing About Love \(with Bipolar Sunshine\)](https://open.spotify.com/track/4u1uoGRnt2bAvan9JYLvjN) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Funny Thing About Love](https://open.spotify.com/album/6VeNlwGaLoFL2B8rcVgDf9) | 2:43 | 2021-12-23 | 2022-04-20 |
 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 | 2021-12-23 | 2022-09-15 |
-| [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 | 2025-06-27 |  |
+| [Gasoline](https://open.spotify.com/track/4fQ8T6FrEKDCcKULjCyE9t) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:39 | 2025-06-27 | 2025-08-20 |
 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 | 2024-11-30 | 2024-12-14 |
 | [Get By \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/3MEnUZCTYBvvsCFnciFFUD) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Starfruit](https://open.spotify.com/album/19qPt0RZapWvOKsACyvfQF) | 3:42 | 2022-02-10 | 2022-07-29 |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 | 2025-06-06 |
@@ -553,6 +553,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-27 | 2024-01-26 |
 | [Wave \(Utopia Acoustic Session Ver.\) Feat\. Kazuki Isogai](https://open.spotify.com/track/3QUiyRipjcsvyE8mPU2rF3) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Wave \(Utopia Acoustic Session Ver.\)](https://open.spotify.com/album/7snwgwAmUIVfirTwWL2CH5) | 3:38 | 2022-12-16 | 2023-01-13 |
 | [We Don't Make Sense](https://open.spotify.com/track/25WdkhsSsNdc0Fa2EjfLim) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [We Don't Make Sense](https://open.spotify.com/album/212WkWG04xW3rGE2JN4sL2) | 4:03 | 2024-06-15 | 2024-07-27 |
+| [Wear and Tear](https://open.spotify.com/track/4oGAWdRWgD0F5WGytn12JI) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ), [Jah Wobble](https://open.spotify.com/artist/5jhqwsWfRaETrWPWI0Rc7u) | [Wear and Tear](https://open.spotify.com/album/5bolRHcWoIIET6qafkDUtT) | 3:09 | 2025-08-20 |  |
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-01-19 | 2023-05-01 |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2021-12-23 |  |
 | [What Not To Do \- Moodymann Remix](https://open.spotify.com/track/4M6ywvPu0K14mUPJ6qnTjK) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [What Not To Do \(Moodymann Remix\)](https://open.spotify.com/album/0q5IDnHeEk0RqkaQvZ8gOY) | 5:16 | 2023-08-10 | 2023-08-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: B Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,121 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,172 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 44 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 45 | [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 |
 | 46 | [NGÁO NGƠ \(feat\. HIEUTHUHAI, ERIK, Anh Tú Atus, JSOL & Orange\)](https://open.spotify.com/track/64PCybDxes3edHijrcsPV4) | [ANH TRAI "SAY HI"](https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U), [Anh Tú Atus](https://open.spotify.com/artist/62D1qvKkvUCvXEtY1xwRfo), [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [ANH TRAI "SAY HI", Tập 7](https://open.spotify.com/album/3gwFeH7KKLaUVrPVX3nZqQ) | 4:12 |
-| 47 | [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:42 |
-| 48 | [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 |
+| 47 | [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 |
+| 48 | [TALAGI](https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [WHENITSASUNNIDAY](https://open.spotify.com/artist/3Hw8laObefIk5NMDmXMMsn) | [TALAGI](https://open.spotify.com/album/5jCumbmCqmSAUfPUNqYGgw) | 3:42 |
 | 49 | [The One For Me](https://open.spotify.com/track/3eJr9Z8KZuOTRblAeJi2zB) | [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Machiot](https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh) | [THE ONE](https://open.spotify.com/album/1qdmgU35Clg7RPfMShUNkN) | 3:59 |
 | 50 | [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 |
 

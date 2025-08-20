@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Volkspop \| Nederpop\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,079 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,174 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 62 | [Mijn Liefste](https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 3:16 |
 | 63 | [Pa Olvidarte](https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers Seizoen 12 \(Aflevering 8 \- Duetten\)](https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi) | 2:51 |
 | 64 | [Pretty Belinda](https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA) | [Lawineboys](https://open.spotify.com/artist/4y6ycmATEW4V7Ce0Dv0Hs4), [Rocky Vosse](https://open.spotify.com/artist/5MgHd2kIXqz2naASTYJMWJ) | [Pretty Belinda](https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm) | 2:54 |
-| 65 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
-| 66 | [Bieber Van De Kroeg](https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ) | 3:06 |
+| 65 | [Bieber Van De Kroeg](https://open.spotify.com/track/5V2cXsvFE3VIQp5mYAi3Mn) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Bieber Van De Kroeg](https://open.spotify.com/album/1uR0EX3KqVNwVGs5NJJbTQ) | 3:06 |
+| 66 | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/track/47MByuvKeNo5iAdd3aHlyc) | [Diego Holzken](https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx) | [Hoe Kan Ik Je Hart Bereiken](https://open.spotify.com/album/4Q7ekV7ogAlgm9II0xotE6) | 3:10 |
 | 67 | [Voel Je Dan Niet?](https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Voel Je Dan Niet?](https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK) | 3:00 |
 | 68 | [Adio Amore Adio](https://open.spotify.com/track/53AddGhMgfIE85Az2Ipovu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Gewoon Jannes](https://open.spotify.com/album/0PzS61l1kAX6RF8nxNGPrV) | 3:27 |
 | 69 | [De Woonboot](https://open.spotify.com/track/2xTuB4v38ACgxKDclUdB1S) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | ['n Koffer Vol Met Dromen](https://open.spotify.com/album/3mhHNUvaALUDIwaZriCDDz) | 4:27 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 76 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
 | 77 | [Esmeralda](https://open.spotify.com/track/04I59pMKCdNbLlSIJNAExH) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Esmeralda](https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef) | 2:31 |
 | 78 | [Jannes hitmedley](https://open.spotify.com/track/5ytN4bv3YOAPtYr6WJFFea) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [De nieuwe van....](https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL) | 5:08 |
-| 79 | [Doe mij 'n rondje](https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Doe mij 'n rondje](https://open.spotify.com/album/2ZUSyVIh6uJPzfXkw25fLq) | 3:12 |
-| 80 | [Hoe Zou Je Doen](https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Hoe Zou Je Doen](https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj) | 3:04 |
+| 79 | [Hoe Zou Je Doen](https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Hoe Zou Je Doen](https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj) | 3:04 |
+| 80 | [Doe mij 'n rondje](https://open.spotify.com/track/36mfPdmT0HORyDrswBxDBQ) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Doe mij 'n rondje](https://open.spotify.com/album/2ZUSyVIh6uJPzfXkw25fLq) | 3:12 |
 | 81 | [Laat ze maar lullen](https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM) | [Peter Beense](https://open.spotify.com/artist/3upVW49Vj8DqUrkrCYmi86) | ['n Rondje van mij](https://open.spotify.com/album/0xFsAJ0Z79d1rfEXu6mmvD) | 3:39 |
 | 82 | [We Dansen Op De Mambo](https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [We Dansen Op De Mambo](https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3) | 2:46 |
 | 83 | [Sexy Lady](https://open.spotify.com/track/1YlHHngcUYlyxB19hVSYYd) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Sexy Lady](https://open.spotify.com/album/0jXeAJGHJKT61UABkNMERu) | 3:16 |

@@ -4,7 +4,7 @@
 
 > WHO'S MY SALLY TONIGHT?
 
-2,501 songs - 5 day 5 hr 39 min
+2,502 songs - 5 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1732,6 +1732,7 @@
 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 | 2022-01-21 | 2022-03-26 |
 | [Poison](https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Messy](https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD) | 2:04 | 2022-11-11 | 2024-01-05 |
 | [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 | 2023-08-29 | 2023-09-16 |
+| [pool house](https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [pool house](https://open.spotify.com/album/0OzhXqnN3ycNAzPGJTK7uk) | 3:32 | 2025-08-18 |  |
 | [Popstar](https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hey dad, I tried to be nice](https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH) | 3:33 | 2023-05-19 | 2023-07-01 |
 | [pos](https://open.spotify.com/track/5EwIo2Vc50Blvpk00ynRQP) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 3:05 | 2023-09-29 | 2023-11-11 |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-04 | 2022-10-22 |
@@ -1965,7 +1966,7 @@
 | [skin](https://open.spotify.com/track/5fjXYssZZSUbVK1wM5KYV0) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [in the mirror, in the night](https://open.spotify.com/album/2a5Xt0sHOpQcHcCfmNYo0p) | 2:44 | 2022-02-15 | 2022-03-12 |
 | [skip curfew](https://open.spotify.com/track/2VeLmWAw5HtgedSL2Sp2TY) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:18 | 2021-12-03 | 2022-01-15 |
 | [skip.that.party \(with Jensen McRae\)](https://open.spotify.com/track/7IbWXDiwOW8egg28MA0Qpb) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [skip.that.party \(with Jensen McRae\)](https://open.spotify.com/album/0w7D24H0GkZiX2z4co1GKe) | 3:51 | 2021-03-01 | 2021-10-14 |
-| [Slap In The Face](https://open.spotify.com/track/6FPr15g2fSz8ZJE6lbi2iQ) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Slap In The Face](https://open.spotify.com/album/1Pcu7HRh4QG9boEnM6GrnO) | 3:12 | 2025-06-06 |  |
+| [Slap In The Face](https://open.spotify.com/track/6FPr15g2fSz8ZJE6lbi2iQ) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Slap In The Face](https://open.spotify.com/album/1Pcu7HRh4QG9boEnM6GrnO) | 3:12 | 2025-06-06 | 2025-08-20 |
 | [Sleepwalking](https://open.spotify.com/track/3frxCmYzfGb21jmovl7QwD) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Sleepwalking](https://open.spotify.com/album/23McAXEN23T8dqNdSM8Wia) | 2:47 | 2021-03-30 | 2021-11-20 |
 | [Sleepyhead](https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Sleepyhead](https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf) | 2:58 | 2022-01-28 | 2022-03-26 |
 | [Slow Drag](https://open.spotify.com/track/16zOWQbxQIKimPxSRGubkr) | [OCTAVIO the Dweeb](https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt) | [Slow Drag](https://open.spotify.com/album/0yaKoexstY4nPWVZ8wTN2o) | 2:53 | 2021-07-13 | 2022-03-12 |

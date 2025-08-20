@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste knive i dansk musik  \ud83d\udcf8   AFSKUM",
-  "num_followers": 46908,
+  "num_followers": 46911,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
+        "name": "Sytten",
+        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+      },
+      "artists": [
+        {
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Hvad Nu Hvis",
+      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
         "name": "Tag Mig Som Jeg Er",
         "url": "https://open.spotify.com/album/5cgv7qdPVxJS9jN50kr3nH"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 195748,
       "name": "Tag Mig Som Jeg Er",
       "url": "https://open.spotify.com/track/7aSvvFYDuR8fCurPx6hqwl"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 216677,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -227,18 +227,18 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "Sytten",
-        "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM"
       },
       "artists": [
         {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
         }
       ],
-      "duration_ms": 194899,
-      "name": "Hvad Nu Hvis",
-      "url": "https://open.spotify.com/track/0duVSc8MQzBa1mbcDel12P"
+      "duration_ms": 216677,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "Big city life",
-        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128437,
-      "name": "Big city life",
-      "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
         "name": "P\u00e6n",
         "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
       },
@@ -571,34 +555,18 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "Halsk\u00e6de",
-        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
+        "name": "Big city life",
+        "url": "https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd"
       },
       "artists": [
         {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 157373,
-      "name": "Halsk\u00e6de",
-      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
-        "name": "Synger Bare",
-        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 107812,
-      "name": "Synger Bare",
-      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+      "duration_ms": 128437,
+      "name": "Big city life",
+      "url": "https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -623,6 +591,38 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
+        "name": "Synger Bare",
+        "url": "https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 107812,
+      "name": "Synger Bare",
+      "url": "https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
+        "name": "Halsk\u00e6de",
+        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Halsk\u00e6de",
+      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
         "name": "JEG VIL IKKE VIDE DU FINDES",
         "url": "https://open.spotify.com/album/7lZ0NCBbfMvh3MbRg6nJbM"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 174240,
       "name": "DET V\u00c6RSTE VED DIG (feat. Ida Laurberg)",
       "url": "https://open.spotify.com/track/6AzeApPdgk5mSF02oRsRCV"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
+        "name": "Rend Mig I R\u00f8ven",
+        "url": "https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR"
+      },
+      "artists": [
+        {
+          "name": "Dahlin",
+          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
+        }
+      ],
+      "duration_ms": 200875,
+      "name": "Rend Mig I R\u00f8ven",
+      "url": "https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -699,22 +715,6 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "Rend Mig I R\u00f8ven",
-        "url": "https://open.spotify.com/album/1sDdW8nuxx1aZpGNAAghSR"
-      },
-      "artists": [
-        {
-          "name": "Dahlin",
-          "url": "https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P"
-        }
-      ],
-      "duration_ms": 200875,
-      "name": "Rend Mig I R\u00f8ven",
-      "url": "https://open.spotify.com/track/2v1TCgB9lxdMp7v2LPQ9GA"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
-        "name": "Elendig Software",
-        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
-      },
-      "artists": [
-        {
-          "name": "Zar Paulo",
-          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
-        }
-      ],
-      "duration_ms": 243312,
-      "name": "T\u00e6t P\u00e5 Paradis",
-      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -763,18 +747,18 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "Hen til det",
-        "url": "https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp"
+        "name": "Elendig Software",
+        "url": "https://open.spotify.com/album/63y6pPYBqIlVWzA0xj796o"
       },
       "artists": [
         {
-          "name": "Karla Korsbak",
-          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
+          "name": "Zar Paulo",
+          "url": "https://open.spotify.com/artist/5Org3M2mFFEFd8A57h9Yv2"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Hen til det",
-      "url": "https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD"
+      "duration_ms": 243312,
+      "name": "T\u00e6t P\u00e5 Paradis",
+      "url": "https://open.spotify.com/track/7dUd1GZ3DEbL2wyhzjpvoM"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -791,6 +775,22 @@
       "duration_ms": 141653,
       "name": "Bl\u00f8d",
       "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
+        "name": "Hen til det",
+        "url": "https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp"
+      },
+      "artists": [
+        {
+          "name": "Karla Korsbak",
+          "url": "https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Hen til det",
+      "url": "https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "apricot jam",
-        "url": "https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N"
-      },
-      "artists": [
-        {
-          "name": "mags",
-          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
-        }
-      ],
-      "duration_ms": 194166,
-      "name": "apricot jam",
-      "url": "https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
         "name": "Alt hvad jeg vil",
         "url": "https://open.spotify.com/album/1TqxFYrfpBc3OYJTPatQhF"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 178746,
       "name": "Carpe Diem",
       "url": "https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
+        "name": "apricot jam",
+        "url": "https://open.spotify.com/album/0YIqLLGGuZLiqfsZkL1e3N"
+      },
+      "artists": [
+        {
+          "name": "mags",
+          "url": "https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V"
+        }
+      ],
+      "duration_ms": 194166,
+      "name": "apricot jam",
+      "url": "https://open.spotify.com/track/3lt60TB5Y83IgaijLVmg6f"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
-      },
-      "artists": [
-        {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
         "name": "Et Sted p\u00e5 Vesterbro",
         "url": "https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 148521,
       "name": "Et Sted p\u00e5 Vesterbro",
       "url": "https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+      },
+      "artists": [
+        {
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "Die For You",
-        "url": "https://open.spotify.com/album/0fv5gmYtBNyd5yANUN0ASo"
-      },
-      "artists": [
-        {
-          "name": "CARLLO YABOY",
-          "url": "https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie"
-        }
-      ],
-      "duration_ms": 165803,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/12ShYQUzYZel1n5f4icThX"
-    },
-    {
-      "added_at": "2025-08-14 22:00:35",
-      "album": {
         "name": "F\u00f8r Jeg Falder",
         "url": "https://open.spotify.com/album/5VEvNimYjgSZDXbBPZ8Qf9"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 196225,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5gCsQD68LPv4FmndQwyGEx"
+    },
+    {
+      "added_at": "2025-08-14 22:00:35",
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/0fv5gmYtBNyd5yANUN0ASo"
+      },
+      "artists": [
+        {
+          "name": "CARLLO YABOY",
+          "url": "https://open.spotify.com/artist/2bNu4X7w2lipOdnbvYCVie"
+        }
+      ],
+      "duration_ms": 165803,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/12ShYQUzYZel1n5f4icThX"
     },
     {
       "added_at": "2025-08-14 22:00:35",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2025-08-14 22:00:35",
       "album": {
-        "name": "F\u00f8rhen",
-        "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
+        "name": "Big Shark Club",
+        "url": "https://open.spotify.com/album/7Fz0HMNflexWyLBmGr97Sd"
       },
       "artists": [
         {
-          "name": "will",
-          "url": "https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB"
+          "name": "EMI WIDE",
+          "url": "https://open.spotify.com/artist/1iBY2CNfLshyrAVMt6gBvK"
         }
       ],
-      "duration_ms": 199313,
-      "name": "F\u00f8rhen",
-      "url": "https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk"
+      "duration_ms": 140546,
+      "name": "Big Shark Club",
+      "url": "https://open.spotify.com/track/1qVFhWBKBE5GOOEoqEgG1V"
     }
   ],
   "unique_name": "ung kniv ",

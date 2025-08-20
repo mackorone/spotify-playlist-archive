@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 7482,
+  "num_followers": 7489,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
+        "name": "God Is With Us",
+        "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 226777,
+      "name": "God Is With Us",
+      "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
         "name": "Miracle No Dey Tire Jesus",
         "url": "https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 166000,
       "name": "Miracle No Dey Tire Jesus",
       "url": "https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
-        "name": "God Is With Us",
-        "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 226777,
-      "name": "God Is With Us",
-      "url": "https://open.spotify.com/track/7LQMnGF4OAVX6JBqBpr9p5"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "CAVES",
-        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 264386,
-      "name": "Fall On Me (feat. Carly Pearce)",
-      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/42cHDu5hVDctyXV4fAe9UB"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 243522,
       "name": "Chances",
       "url": "https://open.spotify.com/track/58jKfEKmPpXkHx9ujeAzr8"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "CAVES",
+        "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 264386,
+      "name": "Fall On Me (feat. Carly Pearce)",
+      "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
     },
     {
       "added_at": "2024-12-05 23:59:00",

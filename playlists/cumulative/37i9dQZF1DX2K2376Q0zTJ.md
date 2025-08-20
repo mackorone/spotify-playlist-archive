@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: reina
 
-1,365 songs - 3 day 8 hr 20 min
+1,367 songs - 3 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [BURIBURI](https://open.spotify.com/track/1jnKolSiECUUSDsvRXG0sN) | [重盛さと美](https://open.spotify.com/artist/520STFW9IFHZA5A1WPWUeZ), [Tomodachi](https://open.spotify.com/artist/10b7iI7HzdtxZgCfPovith) | [BURIBURI](https://open.spotify.com/album/0esLtav09urol1KUKmUKw9) | 2:17 | 2023-05-02 | 2023-06-07 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-09 | 2025-01-18 |
 | [Burning Flower](https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Burning Flower](https://open.spotify.com/album/163oByKktJZI76tPDx5iHx) | 2:57 | 2025-06-11 | 2025-08-13 |
-| [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 |  |
+| [Butterfly](https://open.spotify.com/track/0hwtEIit3clZ8uVLYGyCyj) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Butterfly](https://open.spotify.com/album/428NUiCIToyIhyAQEf2zAw) | 3:09 | 2025-03-11 | 2025-08-20 |
 | [Butterfly Effect](https://open.spotify.com/track/0sps5YsUzFCDFxpADH02Cw) | [RAY](https://open.spotify.com/artist/11XXERdBUPHGsCBbpyaMwz) | [Pink](https://open.spotify.com/album/2LUEQdAWtMbGwzlUm4STTz) | 4:26 | 2022-11-08 | 2022-12-07 |
 | [Bye\-Bye King](https://open.spotify.com/track/0zTHa1Kd07I1VTZX8jMKrb) | [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [RICK NOVA](https://open.spotify.com/artist/7flydDGMB0orujddPJZnTg) | [Bye\-Bye King](https://open.spotify.com/album/355SYUVufkwA8t7mDJEJQK) | 2:56 | 2022-04-05 | 2022-05-05 |
 | [Bye\-Bye Show](https://open.spotify.com/track/6Md1BGo8aCwM2dA33RiKIJ) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/1m85FhfhwsxWNmE27G2a69) | 4:41 | 2023-04-04 | 2023-05-03 |
@@ -163,6 +163,7 @@
 | [could it be magic?](https://open.spotify.com/track/6CNh1flfKkPFTS2dnueiCs) | [Negicco](https://open.spotify.com/artist/4PoAqzGXLjpuYMmTRv24q6) | [Perfect Sense](https://open.spotify.com/album/0npicG7KRdq1P5KVZzJDtx) | 3:43 | 2023-11-07 | 2023-11-30 |
 | [CREAM](https://open.spotify.com/track/651fQeqTd1Ey4UT5taZVkB) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [CREAM](https://open.spotify.com/album/5JU1UWjdplLyeC4lEhj0uH) | 2:54 | 2022-10-04 | 2022-11-09 |
 | [Crush Style](https://open.spotify.com/track/5t4Y3IWiYiguDDPe7zW02z) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Crush Style](https://open.spotify.com/album/4iF42sLoBZy1xqC0Ssgvah) | 2:52 | 2022-02-01 | 2022-03-08 |
+| [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 | 2025-08-19 |  |
 | [Cute](https://open.spotify.com/track/6jcqQCCsyt4p9dSwETvXMR) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [To the one who chose me and the one who did not choose me](https://open.spotify.com/album/6tlmoidAsdokPY9tcYlpV4) | 2:32 | 2025-03-18 | 2025-07-09 |
 | [Daikokai](https://open.spotify.com/track/2621hKGk5mYi4hcxGZvygV) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 4:32 | 2024-04-02 | 2024-04-19 |
 | [Dancing Tonight](https://open.spotify.com/track/7mfyQdEnCvEzaVIRkTq49O) | [Wang Dang Doodle](https://open.spotify.com/artist/5OWQWpSRACBuLtPRFPdfq1) | [Bicycle](https://open.spotify.com/album/1Y9QrYdLxPaFZIWQWDx33s) | 3:03 | 2023-02-01 | 2023-05-03 |
@@ -498,7 +499,7 @@
 | [Lucid Dreaming](https://open.spotify.com/track/5WMX92HWkwRdvlh05jC2nQ) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Lucid Dreaming](https://open.spotify.com/album/0WqJS36WfpteeudLuB7kok) | 3:10 | 2022-01-04 | 2022-02-02 |
 | [Lucky](https://open.spotify.com/track/5jkuq8q8itgaOxZtg8fsT7) | [Lucie,Too](https://open.spotify.com/artist/5PhoNkzWUeTayL3gJv4Gvn) | [LUCKY](https://open.spotify.com/album/72yTKKxE0QxtBU4VVvMz59) | 1:38 | 2022-03-07 | 2022-04-06 |
 | [Lucky](https://open.spotify.com/track/1CKTWxWluZ7oRTFoyeBZgy) | [Supercar](https://open.spotify.com/artist/4g59G9OEAMkD8pd8oiEqx0) | [スリーアウトチェンジ](https://open.spotify.com/album/22vS4hYOWr9Ds6HtHIdieR) | 4:14 | 2022-01-04 | 2022-02-02 |
-| [Lucky mistake](https://open.spotify.com/track/6qZC5lzptwMLYYWQdJjCGb) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Lucky mistake](https://open.spotify.com/album/41EdSS5tPvraCLs3OuUigT) | 3:56 | 2025-08-05 |  |
+| [Lucky mistake](https://open.spotify.com/track/6qZC5lzptwMLYYWQdJjCGb) | [Nao Kawamura](https://open.spotify.com/artist/2eNLNPGrTxWd6BEvCNFpP2) | [Lucky mistake](https://open.spotify.com/album/41EdSS5tPvraCLs3OuUigT) | 3:56 | 2025-08-05 | 2025-08-20 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-04 | 2022-06-01 |
 | [MAD](https://open.spotify.com/track/5POPCrXiKvVDVaJrrssVk0) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [MAD](https://open.spotify.com/album/4cOBpDn4PKOzDQNgnwYJOU) | 3:29 | 2022-04-05 | 2022-07-06 |
 | [Mad Doctor](https://open.spotify.com/track/0wJHFF3NJ09G7sWEs5bDIA) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/2W8ZRl6rcEgiYVyGEis3uO) | 2:33 | 2022-07-05 | 2022-07-29 |
@@ -1122,6 +1123,7 @@
 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-07-04 | 2023-09-06 |
 | [スローなブギにしてくれ \(I want you\)](https://open.spotify.com/track/4FHbqI6YtXqbW5thlUiKir) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [スローなブギにしてくれ \(I want you\)](https://open.spotify.com/album/1zVQVpshlnQ4E5PkBXGFDh) | 3:28 | 2022-03-07 | 2022-04-06 |
 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 | 2022-02-01 | 2022-03-08 |
+| [ソーラ・ウィンド](https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ネビュラロマンス 後篇](https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz) | 4:15 | 2025-08-19 |  |
 | [ダダダ!](https://open.spotify.com/track/1FEsfUvbhObYdTnZo9IADv) | [ダダダ!](https://open.spotify.com/artist/3SEhZNiNKScIdZ3xJSQY8G) | [ダダダ!](https://open.spotify.com/album/1AaB5JSUoh9ahzDG7bdKia) | 1:02 | 2021-11-30 | 2022-01-05 |
 | [タイムマシーン](https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [TIME LEAP](https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B) | 3:52 | 2023-04-04 | 2023-05-03 |
 | [タイムラグ](https://open.spotify.com/track/5lWXtNrMkgiSCpWDaHbnM4) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [あっ、海だ。](https://open.spotify.com/album/27SEePjKnhB08VAIPHzz6T) | 3:05 | 2022-03-07 | 2022-06-01 |

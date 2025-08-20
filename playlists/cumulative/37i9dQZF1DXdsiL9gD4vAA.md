@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Pankaj Udhas
 
-209 songs - 18 hr 39 min
+210 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Awara](https://open.spotify.com/track/5ECnRRG6R0dNL1MpJ9lSeu) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Horizon](https://open.spotify.com/album/0xkgV2gUv5wHBIcM0hZ9Sg) | 6:22 | 2021-12-01 | 2023-07-20 |
 | [Baalam](https://open.spotify.com/track/6nVouCfWYhoA5mxaCeezNy) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Baalam](https://open.spotify.com/album/2PjcTTSCszEjfMRT7hiIK2) | 4:20 | 2024-12-31 |  |
 | [Baat Itni Si](https://open.spotify.com/track/4ISPpMP57Se1MYcDobKNnF) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Baat Itni Si](https://open.spotify.com/album/2jMB523HNQd8eMeZsspmhY) | 5:34 | 2024-11-08 |  |
+| [Bahut Sonchta Hoon](https://open.spotify.com/track/5MSsS7cqt5WzwOfwoSl4GV) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Bahut Sonchta Hoon](https://open.spotify.com/album/5TtYcncsWLhIhgAkHbpztz) | 6:22 | 2025-08-08 |  |
 | [Bandh Aankhein](https://open.spotify.com/track/5RDas0NITNlZ5auekdbHiP) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Bandh Aankhein](https://open.spotify.com/album/7eSDGsefiMfGzzaRbnZgJG) | 3:24 | 2024-12-31 |  |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6E2BUkw4XCghytulGBrbNI) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Nazm, Vol\. 1 & 2](https://open.spotify.com/album/7zxbbT2rlXgkwOEvyPOEYk) | 0:33 | 2023-09-14 | 2024-04-19 |
 | [Beete Rishte Talash Karti Hai](https://open.spotify.com/track/6cQFfIR4FenzBP1tztktJL) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Gulzars Nazm Vol.2](https://open.spotify.com/album/6mtRHyLK4jWGNjse3byVu1) | 0:33 | 2024-04-18 | 2025-01-01 |
@@ -187,7 +188,7 @@
 | [Sharab Cheez Hi Aisi](https://open.spotify.com/track/6pDDpwdS8NkgE1ZZMpFA3o) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw) | [Soulful Ghazals](https://open.spotify.com/album/5npeS4QWzh2ONX9p1zOYxe) | 6:04 | 2024-02-07 |  |
 | [Shayad Main Zindagi Ki Sahar](https://open.spotify.com/track/0o6uSD5VMHr8NFxd8E3g2T) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 6:51 | 2021-12-01 | 2025-01-01 |
 | [Taiy Nahi Kiya Abhi](https://open.spotify.com/track/776QLSBeutwuBJukKGsb7I) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Goldfish \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/04MVkLp56msHwLxlNP83Co) | 6:49 | 2023-08-22 |  |
-| [Tasveer](https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tasveer](https://open.spotify.com/album/5ZS8DHF277xtrwG0zmt0xf) | 3:39 | 2023-03-03 |  |
+| [Tasveer](https://open.spotify.com/track/1qfpfieVEi4SJVpe5gpTez) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m) | [Tasveer](https://open.spotify.com/album/5ZS8DHF277xtrwG0zmt0xf) | 3:39 | 2023-03-03 | 2025-08-20 |
 | [Tere Jane Se](https://open.spotify.com/track/5zfKHMv3fIwCdaz4H3f6Uz) | [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Bhupinder Singh](https://open.spotify.com/artist/4FMGD43a8aLM0LRKXDSXne) | [Sunset Point](https://open.spotify.com/album/21LwESMM1kqVnuhxuArokv) | 6:01 | 2021-12-01 |  |
 | [Tere Naina](https://open.spotify.com/track/79W60eqjZUix0MLbNKHXFw) | [Suraj Bhartti](https://open.spotify.com/artist/6PfVdIgCgiV31RiOPgJGkG) | [Tere Naina](https://open.spotify.com/album/0JwYOcs056DFfR8YzTtJGu) | 4:36 | 2025-02-21 | 2025-05-24 |
 | [Teri Yaad Yaad Yaad](https://open.spotify.com/track/0fop0xkp8P9b7JTJSDdBB4) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Bewafaa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7lSYGvPT8tiSkQtF9SKYAY) | 8:09 | 2022-07-26 | 2024-04-19 |

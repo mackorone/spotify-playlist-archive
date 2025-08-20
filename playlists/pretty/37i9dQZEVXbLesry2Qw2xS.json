@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Estonia.",
-  "num_followers": 19183,
+  "num_followers": 19193,
   "original_name": "Top 50 - Estonia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MDaZeAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MDfq+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "kanuu",
         "url": "https://open.spotify.com/album/1ZBHJDmgKBcpjpv2zK6tbm"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1DYnCz8lfVmSCiDZLl0AsH"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -41,27 +41,7 @@
       "url": "https://open.spotify.com/track/47GAYk6gq9ZE6Ij9WWYdGP"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "parasiit",
-        "url": "https://open.spotify.com/album/3RLYPVVEoZ6tOH5x38mZJp"
-      },
-      "artists": [
-        {
-          "name": "ALIKA",
-          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
-        },
-        {
-          "name": "s\u00e4m",
-          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
-        }
-      ],
-      "duration_ms": 202379,
-      "name": "parasiit",
-      "url": "https://open.spotify.com/track/2qW8hfxkbyrDYowSKMCMMv"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "SUPERSUURE HOOLEGA.",
         "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
@@ -81,27 +61,27 @@
       "url": "https://open.spotify.com/track/5EDMOu7PXIbybCGF8vpgbL"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "\u00f5lleavaja",
-        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
+        "name": "parasiit",
+        "url": "https://open.spotify.com/album/3RLYPVVEoZ6tOH5x38mZJp"
       },
       "artists": [
         {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+          "name": "ALIKA",
+          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
         },
         {
-          "name": "Maiduk",
-          "url": "https://open.spotify.com/artist/2RYvGHgapA1c9dUXaHd8KY"
+          "name": "s\u00e4m",
+          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
         }
       ],
-      "duration_ms": 175263,
-      "name": "ulakas kaunitar",
-      "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
+      "duration_ms": 202379,
+      "name": "parasiit",
+      "url": "https://open.spotify.com/track/2qW8hfxkbyrDYowSKMCMMv"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -121,7 +101,7 @@
       "url": "https://open.spotify.com/track/3llyYmTWZDBGCZH76jF4ck"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "\u00f5lleavaja",
         "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
@@ -130,14 +110,18 @@
         {
           "name": "triibupasta",
           "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        },
+        {
+          "name": "Maiduk",
+          "url": "https://open.spotify.com/artist/2RYvGHgapA1c9dUXaHd8KY"
         }
       ],
-      "duration_ms": 176000,
-      "name": "LLC",
-      "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
+      "duration_ms": 175263,
+      "name": "ulakas kaunitar",
+      "url": "https://open.spotify.com/track/0jcJEcK0eX5acLVU1VYmbd"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "Rahvalaul",
         "url": "https://open.spotify.com/album/7qARyd7hovDcbPRIcu1XMp"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/6pLUlgilUe0ky5UU6x5qH9"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "\u00f5lleavaja",
+        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "LLC",
+      "url": "https://open.spotify.com/track/5JhljRLzNxMRHho5AoQzAM"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "Punased Bikiinid",
         "url": "https://open.spotify.com/album/61pKrC7x7EApCIYR88gsgi"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/2TpwmZrkepYR0W48Iec8N4"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "emotsionaalne elektronmuusika",
         "url": "https://open.spotify.com/album/3JiE4r47p4i2kBmU8TQCXY"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/56ygCy6bOYAOTSdi6nRjQa"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "SUPERSUURE HOOLEGA.",
         "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
@@ -213,23 +213,7 @@
       "url": "https://open.spotify.com/track/0DGsLP0TvRcU23zCme7zR2"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "Ebapopulaarne",
-        "url": "https://open.spotify.com/album/0gCaW7dl3Gey7RRncwn4a3"
-      },
-      "artists": [
-        {
-          "name": "Kermo Murel",
-          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ebapopulaarne",
-      "url": "https://open.spotify.com/track/4nnBWEm9NoFOxYl453b2XJ"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "Palavaks",
         "url": "https://open.spotify.com/album/6MDf6jvWb1PO8ot8FKBJcg"
@@ -249,23 +233,55 @@
       "url": "https://open.spotify.com/track/4AlYeC8XICULLr3Kxkjass"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "L\u00e4mmi",
-        "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
+        "name": "Ebapopulaarne",
+        "url": "https://open.spotify.com/album/0gCaW7dl3Gey7RRncwn4a3"
       },
       "artists": [
         {
-          "name": "K\u00fcber\u00fcnnak & Karmo",
-          "url": "https://open.spotify.com/artist/55I7E3FxDsnuRqr0sQSrMf"
+          "name": "Kermo Murel",
+          "url": "https://open.spotify.com/artist/5L5CvCkNlaUISVFjUicdEf"
         }
       ],
-      "duration_ms": 194682,
-      "name": "L\u00e4mmi",
-      "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
+      "duration_ms": 160000,
+      "name": "Ebapopulaarne",
+      "url": "https://open.spotify.com/track/4nnBWEm9NoFOxYl453b2XJ"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "6llekas",
+        "url": "https://open.spotify.com/album/766nukWzL7P7uayNpEtrXb"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 226415,
+      "name": "6llekas",
+      "url": "https://open.spotify.com/track/42L8fRwgmWXnNcq1R5QsJr"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/5Oyf6M8raXiIpZJAOJtPcn"
+      },
+      "artists": [
+        {
+          "name": "Qotid",
+          "url": "https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa"
+        }
+      ],
+      "duration_ms": 128126,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3qBrPz8ulrgiF1hfECAZw3"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -297,107 +313,23 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "6llekas",
-        "url": "https://open.spotify.com/album/766nukWzL7P7uayNpEtrXb"
+        "name": "L\u00e4mmi",
+        "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
       },
       "artists": [
         {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+          "name": "K\u00fcber\u00fcnnak & Karmo",
+          "url": "https://open.spotify.com/artist/55I7E3FxDsnuRqr0sQSrMf"
         }
       ],
-      "duration_ms": 226415,
-      "name": "6llekas",
-      "url": "https://open.spotify.com/track/42L8fRwgmWXnNcq1R5QsJr"
+      "duration_ms": 194682,
+      "name": "L\u00e4mmi",
+      "url": "https://open.spotify.com/track/03dUoht4jmfAZmpgCvOIkT"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "kirjadkoju.zip",
-        "url": "https://open.spotify.com/album/4jaa4yLNoQi7PMc4wZSdlV"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        }
-      ],
-      "duration_ms": 147397,
-      "name": "peagi saabun...",
-      "url": "https://open.spotify.com/track/5qih3ineeZsuEgr5TlyeaZ"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/5Oyf6M8raXiIpZJAOJtPcn"
-      },
-      "artists": [
-        {
-          "name": "Qotid",
-          "url": "https://open.spotify.com/artist/1pssEG1vKMJhQfwwGhtbNa"
-        }
-      ],
-      "duration_ms": 128126,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/3qBrPz8ulrgiF1hfECAZw3"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "trampoliino",
-        "url": "https://open.spotify.com/album/4QWYnrVSkCNwj5vweJS6Re"
-      },
-      "artists": [
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 153290,
-      "name": "trampoliino",
-      "url": "https://open.spotify.com/track/1PaVrZirju9QgP7cvjG1MZ"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "\u00f5lleavaja",
-        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
-      },
-      "artists": [
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 184503,
-      "name": "kanapoja lauluke",
-      "url": "https://open.spotify.com/track/4zo6RIT37PhMRN4n2Z1k5b"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "push it",
-        "url": "https://open.spotify.com/album/5z8qzmFPXBk5GhBCiJOTJJ"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "maria kallastu",
-          "url": "https://open.spotify.com/artist/6kSiYWWt4597uZNH0Cpjig"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "push it",
-      "url": "https://open.spotify.com/track/7AleqJvqrVBeQitkWntUUc"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "hr maakler",
         "url": "https://open.spotify.com/album/0CissRsTGHKTr5Bwm1bw6k"
@@ -417,23 +349,23 @@
       "url": "https://open.spotify.com/track/1Bv5Gdvm899YYmjQg94172"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "\u00f5lleavaja",
+        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 184503,
+      "name": "kanapoja lauluke",
+      "url": "https://open.spotify.com/track/4zo6RIT37PhMRN4n2Z1k5b"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -453,7 +385,139 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "kirjadkoju.zip",
+        "url": "https://open.spotify.com/album/4jaa4yLNoQi7PMc4wZSdlV"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        }
+      ],
+      "duration_ms": 147397,
+      "name": "peagi saabun...",
+      "url": "https://open.spotify.com/track/5qih3ineeZsuEgr5TlyeaZ"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "trampoliino",
+        "url": "https://open.spotify.com/album/4QWYnrVSkCNwj5vweJS6Re"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 153290,
+      "name": "trampoliino",
+      "url": "https://open.spotify.com/track/1PaVrZirju9QgP7cvjG1MZ"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "push it",
+        "url": "https://open.spotify.com/album/5z8qzmFPXBk5GhBCiJOTJJ"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        },
+        {
+          "name": "maria kallastu",
+          "url": "https://open.spotify.com/artist/6kSiYWWt4597uZNH0Cpjig"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "push it",
+      "url": "https://open.spotify.com/track/7AleqJvqrVBeQitkWntUUc"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "undressed",
+        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "Keerleb",
         "url": "https://open.spotify.com/album/3vEumf5jBYopyV2eMBrRIN"
@@ -469,7 +533,115 @@
       "url": "https://open.spotify.com/track/4URODx8BrDkLRFmfYrREL2"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "\u00f5lleavaja",
+        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
+      },
+      "artists": [
+        {
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "ou piff",
+      "url": "https://open.spotify.com/track/44ru4YUmYE8iNbZgUl54ZI"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "oliver",
+        "url": "https://open.spotify.com/album/4wEz8H501EepBZi6it0Y85"
+      },
+      "artists": [
+        {
+          "name": "villemdrillem",
+          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+        }
+      ],
+      "duration_ms": 173216,
+      "name": "oliver",
+      "url": "https://open.spotify.com/track/4oZfPQ6YL3j4YOaqMBxwcs"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "SUPERSUURE HOOLEGA.",
+        "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
+      },
+      "artists": [
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+        },
+        {
+          "name": "Vaiko Eplik",
+          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
+        }
+      ],
+      "duration_ms": 153703,
+      "name": "WAIKUSE VALGE UDU",
+      "url": "https://open.spotify.com/track/3m7hl9t6lEogbc36JOtQMb"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -509,107 +681,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "SUPERSUURE HOOLEGA.",
-        "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "Vaiko Eplik",
-          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
-        }
-      ],
-      "duration_ms": 153703,
-      "name": "WAIKUSE VALGE UDU",
-      "url": "https://open.spotify.com/track/3m7hl9t6lEogbc36JOtQMb"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "undressed",
-        "url": "https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "\u00f5lleavaja",
-        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
-      },
-      "artists": [
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "ou piff",
-      "url": "https://open.spotify.com/track/44ru4YUmYE8iNbZgUl54ZI"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 153332,
-      "name": "Sugar On My Tongue",
-      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "PISARAD",
         "url": "https://open.spotify.com/album/2lt47rh7uFqlcE9YlQTAg1"
@@ -625,39 +697,63 @@
       "url": "https://open.spotify.com/track/0IDsFsjysmIHDJujdbPfFo"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "oliver",
-        "url": "https://open.spotify.com/album/4wEz8H501EepBZi6it0Y85"
+        "name": "j\u00e4nkunuss",
+        "url": "https://open.spotify.com/album/05s99sCOLlT1JNHf46yZxQ"
       },
       "artists": [
         {
-          "name": "villemdrillem",
-          "url": "https://open.spotify.com/artist/5nZADoZFWVB90dHpk5zvXy"
+          "name": "Noored ja N\u00e4ljased",
+          "url": "https://open.spotify.com/artist/3sx3rTSQsp2SR6sfQmJknT"
         }
       ],
-      "duration_ms": 173216,
-      "name": "oliver",
-      "url": "https://open.spotify.com/track/4oZfPQ6YL3j4YOaqMBxwcs"
+      "duration_ms": 154301,
+      "name": "j\u00e4nkunuss",
+      "url": "https://open.spotify.com/track/0mAwiuxCOpb72818xWImDE"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "KUHU KADUS STEN?",
+        "url": "https://open.spotify.com/album/6JzKsSDTwFt2tOO5vparW2"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "gameboy tetris",
+          "url": "https://open.spotify.com/artist/5LWs2DNQhJXiG6X2o4XUpQ"
+        },
+        {
+          "name": "nublu",
+          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+      "duration_ms": 163822,
+      "name": "KUHU KADUS STEN?",
+      "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+      },
+      "artists": [
+        {
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+        }
+      ],
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -689,7 +785,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "Suvepalavik",
         "url": "https://open.spotify.com/album/3ChNpddGegzFXp7Y666aRg"
@@ -705,27 +801,83 @@
       "url": "https://open.spotify.com/track/1fySIg6QY2qyDgvChQv6la"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
+        "name": "\u00f5lleavaja",
+        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
       },
       "artists": [
         {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
+          "name": "triibupasta",
+          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
         }
       ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
+      "duration_ms": 157790,
+      "name": "tantsuriik",
+      "url": "https://open.spotify.com/track/6p1WSCHxkK6pGFh7sOt67k"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
+      },
+      "artists": [
+        {
+          "name": "WizTheMc",
+          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "duration_ms": 176965,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "pilates spiritual cl\u00fcb",
+        "url": "https://open.spotify.com/album/14BbHBuzr3kmi5XS7h9tA2"
+      },
+      "artists": [
+        {
+          "name": "5MIINUST",
+          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
+        },
+        {
+          "name": "Florian Wahl",
+          "url": "https://open.spotify.com/artist/4S18DTzCeExY2k5vi6rGWW"
+        },
+        {
+          "name": "Jozels",
+          "url": "https://open.spotify.com/artist/0U1vPNbcJ2OJIcqFmhf3dy"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "pilates spiritual cl\u00fcb",
+      "url": "https://open.spotify.com/track/6wvLcKXaXvFStiaUpQ8hjX"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "peegel",
+        "url": "https://open.spotify.com/album/4zeEKhxvspVGXHGioooeju"
+      },
+      "artists": [
+        {
+          "name": "An-Marlen",
+          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
+        }
+      ],
+      "duration_ms": 152181,
+      "name": "peegel",
+      "url": "https://open.spotify.com/track/6TWSdpMosWn0enAvZO92sA"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -765,179 +917,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "j\u00e4nkunuss",
-        "url": "https://open.spotify.com/album/05s99sCOLlT1JNHf46yZxQ"
-      },
-      "artists": [
-        {
-          "name": "Noored ja N\u00e4ljased",
-          "url": "https://open.spotify.com/artist/3sx3rTSQsp2SR6sfQmJknT"
-        }
-      ],
-      "duration_ms": 154301,
-      "name": "j\u00e4nkunuss",
-      "url": "https://open.spotify.com/track/0mAwiuxCOpb72818xWImDE"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "pilates spiritual cl\u00fcb",
-        "url": "https://open.spotify.com/album/14BbHBuzr3kmi5XS7h9tA2"
-      },
-      "artists": [
-        {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
-        },
-        {
-          "name": "Florian Wahl",
-          "url": "https://open.spotify.com/artist/4S18DTzCeExY2k5vi6rGWW"
-        },
-        {
-          "name": "Jozels",
-          "url": "https://open.spotify.com/artist/0U1vPNbcJ2OJIcqFmhf3dy"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "pilates spiritual cl\u00fcb",
-      "url": "https://open.spotify.com/track/6wvLcKXaXvFStiaUpQ8hjX"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "The Days (NOTION Remix)",
-        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
-      },
-      "artists": [
-        {
-          "name": "Chrystal",
-          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
-        },
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "The Days - NOTION Remix",
-      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "KUHU KADUS STEN?",
-        "url": "https://open.spotify.com/album/6JzKsSDTwFt2tOO5vparW2"
-      },
-      "artists": [
-        {
-          "name": "gameboy tetris",
-          "url": "https://open.spotify.com/artist/5LWs2DNQhJXiG6X2o4XUpQ"
-        },
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        }
-      ],
-      "duration_ms": 163822,
-      "name": "KUHU KADUS STEN?",
-      "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "SUPERSUURE HOOLEGA.",
-        "url": "https://open.spotify.com/album/3sGePnnzrWnSEVvuw2oVSm"
-      },
-      "artists": [
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
-        },
-        {
-          "name": "Vaiko Eplik",
-          "url": "https://open.spotify.com/artist/4bUkC2pVAl1Hk0uXok7W1t"
-        }
-      ],
-      "duration_ms": 174435,
-      "name": "BACH/BRUNNER",
-      "url": "https://open.spotify.com/track/4dsK7UQYhTU7UmW6h73EbN"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "peegel",
-        "url": "https://open.spotify.com/album/4zeEKhxvspVGXHGioooeju"
-      },
-      "artists": [
-        {
-          "name": "An-Marlen",
-          "url": "https://open.spotify.com/artist/4Ej2jIiPJF0VL1F92mwmOx"
-        }
-      ],
-      "duration_ms": 152181,
-      "name": "peegel",
-      "url": "https://open.spotify.com/track/6TWSdpMosWn0enAvZO92sA"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "\u00f5lleavaja",
-        "url": "https://open.spotify.com/album/6RN7ImUrEI2wpJa27Ku51K"
-      },
-      "artists": [
-        {
-          "name": "triibupasta",
-          "url": "https://open.spotify.com/artist/2a8z7MVhEtvZXFbgEE9ihL"
-        }
-      ],
-      "duration_ms": 157790,
-      "name": "tantsuriik",
-      "url": "https://open.spotify.com/track/6p1WSCHxkK6pGFh7sOt67k"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
-      "album": {
-        "name": "Show Me Love",
-        "url": "https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6"
-      },
-      "artists": [
-        {
-          "name": "WizTheMc",
-          "url": "https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5"
-        },
-        {
-          "name": "bees & honey",
-          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
-        }
-      ],
-      "duration_ms": 176965,
-      "name": "Show Me Love",
-      "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
-    },
-    {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
         "name": "S\u00fcdamelt \u00e4ra (Deluxe)",
         "url": "https://open.spotify.com/album/11hSAbGw2n31AZ0p5YYzGj"
@@ -953,24 +933,40 @@
       "url": "https://open.spotify.com/track/5vpRJ11UdT4IXlSUHIqUxg"
     },
     {
-      "added_at": "2025-08-18 13:07:00",
+      "added_at": "2025-08-19 13:25:57",
       "album": {
-        "name": "Alusp\u00fckse",
-        "url": "https://open.spotify.com/album/3pJrxBKVSotXG1f0LOyBLo"
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
       "artists": [
         {
-          "name": "5MIINUST",
-          "url": "https://open.spotify.com/artist/6acByqWJeuaM0TX5VoY6an"
-        },
-        {
-          "name": "nublu",
-          "url": "https://open.spotify.com/artist/2cNMMulo6S2a0tHrwX2s6i"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Alusp\u00fckse",
-      "url": "https://open.spotify.com/track/2xtLPeeUmIzM1hFw2qeH4U"
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-08-19 13:25:57",
+      "album": {
+        "name": "Dior (feat. Chrystal)",
+        "url": "https://open.spotify.com/album/2V6yQUv1W4BhCatOQUJkVf"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "duration_ms": 169159,
+      "name": "Dior (feat. Chrystal)",
+      "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
     }
   ],
   "unique_name": "Top 50 - Estonia",

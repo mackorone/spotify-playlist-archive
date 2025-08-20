@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 167507,
+  "num_followers": 167516,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 127807,
       "name": "All To Me",
       "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175237,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 253106,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175237,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -195,26 +195,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "Those Days",
-        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
-      },
-      "artists": [
-        {
-          "name": "Dal",
-          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
-        },
-        {
-          "name": "Leah Yeger",
-          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
-        }
-      ],
-      "duration_ms": 229750,
-      "name": "Those Days",
-      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "Good & Plenty",
         "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 141220,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "Those Days",
+        "url": "https://open.spotify.com/album/3ruuXdcYTLv8j85lBvUouX"
+      },
+      "artists": [
+        {
+          "name": "Dal",
+          "url": "https://open.spotify.com/artist/3NF4EmZKXeCmMKLOAWzYjt"
+        },
+        {
+          "name": "Leah Yeger",
+          "url": "https://open.spotify.com/artist/06p9GzfGI2V2Pmokgy123k"
+        }
+      ],
+      "duration_ms": 229750,
+      "name": "Those Days",
+      "url": "https://open.spotify.com/track/42yFErprYYtoYtzVdkNNAg"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "I Wouldn't Know Any Better Than You",
-        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        }
-      ],
-      "duration_ms": 151041,
-      "name": "I Wouldn't Know Any Better Than You",
-      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 220945,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "I Wouldn't Know Any Better Than You",
+        "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 151041,
+      "name": "I Wouldn't Know Any Better Than You",
+      "url": "https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 195275,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "bad weather",
         "url": "https://open.spotify.com/album/7A0VdU0ipw7rApLq7OR7tb"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 148855,
       "name": "bad weather",
       "url": "https://open.spotify.com/track/3Uf6WXkeF4b9LlDNC4PKOw"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4zhxQLpyqo7xnKpFHOgJvw"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 169687,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0Qc117NULtyGJEovqVl5lx"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2025-08-07 16:00:17",
@@ -1559,6 +1559,38 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
+        "name": "ELEVATED LOVE",
+        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
+      },
+      "artists": [
+        {
+          "name": "KAMOBii",
+          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
+        }
+      ],
+      "duration_ms": 208391,
+      "name": "ELEVATED LOVE",
+      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
+      },
+      "artists": [
+        {
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
+        }
+      ],
+      "duration_ms": 124811,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
         "name": "Cheap Queen",
         "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
       },
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "ELEVATED LOVE",
-        "url": "https://open.spotify.com/album/4srnbIqcCujzndeJwJSmwP"
-      },
-      "artists": [
-        {
-          "name": "KAMOBii",
-          "url": "https://open.spotify.com/artist/2oQ9BxzlZifyZKD035tVj1"
-        }
-      ],
-      "duration_ms": 208391,
-      "name": "ELEVATED LOVE",
-      "url": "https://open.spotify.com/track/68S4hD2MjipTvup1a4Qyvw"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "Ambivalence",
         "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
       },
@@ -1643,38 +1659,6 @@
     {
       "added_at": "2025-08-07 16:00:17",
       "album": {
-        "name": "I WILL BE THE CAUSE OF OUR DEATH",
-        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
-      },
-      "artists": [
-        {
-          "name": "takeshi iwamoto",
-          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "I WILL BE THE CAUSE OF OUR DEATH",
-      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
-      },
-      "artists": [
-        {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
-        }
-      ],
-      "duration_ms": 124811,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
-    },
-    {
-      "added_at": "2025-08-07 16:00:17",
-      "album": {
         "name": "Our Time is Blue",
         "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2025-08-07 16:00:17",
+      "album": {
+        "name": "I WILL BE THE CAUSE OF OUR DEATH",
+        "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
+      },
+      "artists": [
+        {
+          "name": "takeshi iwamoto",
+          "url": "https://open.spotify.com/artist/28fZt7cLleTXJB9V8zDxE9"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "I WILL BE THE CAUSE OF OUR DEATH",
+      "url": "https://open.spotify.com/track/2cKY2agDTAezOq1HZPOheC"
     },
     {
       "added_at": "2025-08-07 16:00:17",
