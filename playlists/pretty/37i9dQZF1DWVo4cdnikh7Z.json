@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Coolie",
-  "num_followers": 719668,
+  "num_followers": 719931,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPwDWZyjkc6j8vRGhh3Xayg+k3xX",
+  "snapshot_id": "AAAAANjP5Cqdy+7dAMPC1Vgsgh9cF8Zu",
   "tracks": [
     {
       "added_at": "2025-08-02 11:46:37",
@@ -449,6 +449,38 @@
       "url": "https://open.spotify.com/track/1qmds7VpyOCMicRpHTC2sP"
     },
     {
+      "added_at": "2025-08-21 01:54:47",
+      "album": {
+        "name": "Dassora (From \"GHAATI\")(Tamil)",
+        "url": "https://open.spotify.com/album/4G3f8ImQgsxzADr3K5d5Ax"
+      },
+      "artists": [
+        {
+          "name": "Nagavelli Vidya Sagar",
+          "url": "https://open.spotify.com/artist/2ik2sh5tUx1dFIB5AI5cxt"
+        },
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+        },
+        {
+          "name": "Sruthi Ranjani",
+          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
+        },
+        {
+          "name": "Saketh Komanduri",
+          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
+        },
+        {
+          "name": "Madhan Karky",
+          "url": "https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Dassora (From \"GHAATI\")(Tamil)",
+      "url": "https://open.spotify.com/track/6rpHQLMePYyMYqYTEZFq0F"
+    },
+    {
       "added_at": "2025-08-08 14:37:22",
       "album": {
         "name": "Bad Girl (Original Motion Picture Soundtrack)",
@@ -680,7 +712,7 @@
           "url": "https://open.spotify.com/artist/6xVlnKfRctFcRDOYhmkHFS"
         },
         {
-          "name": "Krithika Nelson",
+          "name": "Madrashe",
           "url": "https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm"
         }
       ],
@@ -1667,30 +1699,6 @@
       "duration_ms": 201600,
       "name": "Namaste Narsimha - Orchestral Version",
       "url": "https://open.spotify.com/track/15FvlZKIS3FqeujwavdWT9"
-    },
-    {
-      "added_at": "2025-07-03 08:46:58",
-      "album": {
-        "name": "Bar Anthem (From \"Good Day\")",
-        "url": "https://open.spotify.com/album/4xtpG5LSH41N8JbDRjwp7E"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Anthakudi Ilayaraja",
-          "url": "https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        }
-      ],
-      "duration_ms": 183648,
-      "name": "Bar Anthem - From \"Good Day\"",
-      "url": "https://open.spotify.com/track/4lamCUKj6lUNqaOzhmkN8k"
     },
     {
       "added_at": "2025-07-10 07:10:33",

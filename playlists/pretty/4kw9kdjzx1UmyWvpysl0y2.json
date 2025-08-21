@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125065,
+  "num_followers": 125059,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUfQZ9fCoU9Myg7w0jjCVVimE2XViR",
+  "snapshot_id": "AAAUfkPv+MiZ4Qs8DqRQh+pqMtLPHut0",
   "tracks": [
+    {
+      "added_at": "2025-08-20 14:17:43",
+      "album": {
+        "name": "Burning Inside",
+        "url": "https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Burning Inside",
+      "url": "https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z"
+    },
     {
       "added_at": "2025-08-19 14:51:19",
       "album": {
@@ -134,6 +150,10 @@
         {
           "name": "oncor",
           "url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX"
+        },
+        {
+          "name": "Conro",
+          "url": "https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ"
         }
       ],
       "duration_ms": 152500,

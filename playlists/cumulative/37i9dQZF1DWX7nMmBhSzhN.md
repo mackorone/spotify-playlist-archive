@@ -4,7 +4,7 @@
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-120 songs - 11 hr 11 min
+120 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Jaa Sajna Tujhko Bhula](https://open.spotify.com/track/1ZQq1bb4pDz4Qw6d7qnERi) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Raja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Dj8WYLlv47T0W03zDdFJI) | 6:15 | 2023-05-24 |  |
 | [Jab Kisiki Taraf Dil](https://open.spotify.com/track/38ql2maaz4VFexTGL8yIW3) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Pyaar To Hona Hi Tha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pEHb1MG9U5UZJK0rQ2OUX) | 6:54 | 2023-05-24 |  |
 | [Jahan Teri Yeh Nazar Hai \- Kaalia / Soundtrack Version](https://open.spotify.com/track/6RY2fEKYTORAsKKpbky5Qt) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Kaalia](https://open.spotify.com/album/3uVcRjvmtAJZn72jotnfM1) | 5:27 | 2021-11-26 | 2023-05-24 |
-| [Jeeta Tha Jiske Liye](https://open.spotify.com/track/66DKTbjw8hpSnRiKEgml3Q) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PDILz2Sxow9ZRNlTKfBKD) | 7:38 | 2023-05-24 |  |
+| [Jeeta Tha Jiske Liye](https://open.spotify.com/track/66DKTbjw8hpSnRiKEgml3Q) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PDILz2Sxow9ZRNlTKfBKD) | 6:32 | 2023-05-24 |  |
 | [Jeeye to Jeeye Kaise](https://open.spotify.com/track/19GWgGIJzqZqe6i1v41NZZ) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Saajan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ) | 6:37 | 2023-05-24 |  |
 | [Jhoomka Gira Re \(From "Mera Saaya"\)](https://open.spotify.com/track/3O4S3w4EM3ubp6S2jtOkpM) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Singing Icon \- Asha Bhosle](https://open.spotify.com/album/3dXlPx1XUd6VIMgXTwpnQ3) | 4:56 | 2021-11-26 | 2023-05-24 |
 | [Judaai Judaai, Pt\. 1](https://open.spotify.com/track/5nJgoQtpypT1SEYaKCKaXm) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Jaspinder Narula](https://open.spotify.com/artist/4qf5iWCSqeCW9TlbwO58bo) | [Judaai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ttq5LojOO2nVKQiXVXCpY) | 7:18 | 2023-05-24 |  |

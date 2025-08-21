@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 113492,
+  "num_followers": 113591,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-11-18 18:28:40",
       "album": {
+        "name": "Puros Corridos Bravos",
+        "url": "https://open.spotify.com/album/0F2bQsoxjJktGPTFsvwxg1"
+      },
+      "artists": [
+        {
+          "name": "El As De La Sierra",
+          "url": "https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Entre Perico Y Perico",
+      "url": "https://open.spotify.com/track/69SnfiYjygFVUH8fSKx8y7"
+    },
+    {
+      "added_at": "2024-11-18 18:28:40",
+      "album": {
         "name": "Los Corridos Favoritos Del Jefe",
         "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 219360,
       "name": "El Bazucazo",
       "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
-    },
-    {
-      "added_at": "2024-11-18 18:28:40",
-      "album": {
-        "name": "Lo Mejor De Rancheras",
-        "url": "https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8"
-      },
-      "artists": [
-        {
-          "name": "Luis P\u00e9rez Meza",
-          "url": "https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "El Barzon",
-      "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
     }
   ],
   "unique_name": "We Love Corridos Viejitos ",

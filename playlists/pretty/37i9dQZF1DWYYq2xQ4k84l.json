@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 43451,
+  "num_followers": 43478,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-13 01:25:09",
       "album": {
+        "name": "Agarre De Fieras",
+        "url": "https://open.spotify.com/album/5AzHdlw7PCUkiN7mlZ1661"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/5gEqsAFXdbOyyT1tCbtR65"
+    },
+    {
+      "added_at": "2024-07-13 01:25:09",
+      "album": {
         "name": "1989-2009",
         "url": "https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 275077,
       "name": "Duele El Amor!",
       "url": "https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi"
-    },
-    {
-      "added_at": "2024-07-13 01:25:09",
-      "album": {
-        "name": "Agarre De Fieras",
-        "url": "https://open.spotify.com/album/5AzHdlw7PCUkiN7mlZ1661"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/5gEqsAFXdbOyyT1tCbtR65"
     },
     {
       "added_at": "2024-07-13 01:25:09",

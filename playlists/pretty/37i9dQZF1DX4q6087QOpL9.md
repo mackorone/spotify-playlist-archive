@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,934 likes - 150 songs - 14 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,967 likes - 150 songs - 14 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

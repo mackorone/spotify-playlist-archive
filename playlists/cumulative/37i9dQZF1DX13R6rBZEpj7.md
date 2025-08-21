@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-341 songs - 20 hr 8 min
+342 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 | 2023-12-01 |  |
 | [Lululemon](https://open.spotify.com/track/4gUQvWM9KoiIkbw9cOLJWW) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Lululemon](https://open.spotify.com/album/66ToBa4wAO6EOnlZHPfsVR) | 3:28 | 2025-06-20 |  |
 | [Lyrically Ill](https://open.spotify.com/track/4KDwVMAww2vyI08I9gwiHk) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Lyrically Ill](https://open.spotify.com/album/3y0EuLlQ2mYOls7yWycvlv) | 3:42 | 2025-07-03 |  |
+| [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 | 2025-08-14 |  |
 | [Mash Up](https://open.spotify.com/track/1b6lq9XLhXLq7PQFcfvRtb) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [Mash Up](https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04) | 3:05 | 2025-05-29 |  |
 | [Melody](https://open.spotify.com/track/10k14cylE1yRtHZgwRUC6w) | [Kirbs](https://open.spotify.com/artist/4nuxG6KiK9pq1GRc89GkIm), [Joshua Blu](https://open.spotify.com/artist/1HF6XJU6BW3gu4vL4rxkd5) | [Melody](https://open.spotify.com/album/7HN0FUMZ9WaHfzesEcSfSt) | 3:58 | 2022-07-14 | 2022-07-28 |
 | [Misfit](https://open.spotify.com/track/4Lnb1dh4iXpuIRCK4fLBHv) | [Monrroe](https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH) | [Ikebana \- EP](https://open.spotify.com/album/36zGzMRineBKzY4yq9tmeK) | 3:46 | 2024-01-26 | 2024-11-06 |
@@ -231,7 +232,7 @@
 | [Nonsense](https://open.spotify.com/track/3y7UBdI6NKZZJpzop0yef8) | [Baitz](https://open.spotify.com/artist/3eNvZcanhnb4T3nwlLQfYQ) | [Nonsense](https://open.spotify.com/album/4ZQIv1jbxnqpViBAq8Vj4i) | 3:50 | 2022-04-22 | 2022-07-24 |
 | [Nuclear](https://open.spotify.com/track/3OWUGei3PnLi5pqAl68fhZ) | [Arc Nade](https://open.spotify.com/artist/57dmsH0BOHyhumBwhL2zqL) | [Nuclear \- EP](https://open.spotify.com/album/6Y5fwzWmzx1kgIPUUybmNa) | 3:15 | 2022-09-05 | 2023-03-29 |
 | [Numerous Bootings \(Bro in a Coffee Shop\) \- Allstars Remix](https://open.spotify.com/track/2fmXNXuyrvAQ3dzh2ULEV9) | [Meathead](https://open.spotify.com/artist/5WjxmIQ54CJpZwCPuNiDv3), [YA](https://open.spotify.com/artist/2lfx4F5uxI1ayp3nKo3gY9), [Marky B](https://open.spotify.com/artist/15k1qXazWMXAuvcYb59XFj), [KAV](https://open.spotify.com/artist/1wj92TXbOIJAhbgA2WH7ZE), [MC Innes](https://open.spotify.com/artist/4svKLOwhxVeGOjta7SPRIC), [Bailey Holmes Music](https://open.spotify.com/artist/1n8kmW7kZujPlgZ5Q0LP2F) | [Numerous Bootings \(Bro in a Coffee Shop\) \[Allstars Remix\]](https://open.spotify.com/album/3etSqWTLBd8yzGcqq8hSAo) | 4:01 | 2025-08-07 |  |
-| [Oh My Gosh](https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Take No Chat \(EP\)](https://open.spotify.com/album/6DY9FDwvEnaBVoDu6gkPxF) | 3:28 | 2025-04-03 |  |
+| [Oh My Gosh](https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ), [IsGwan](https://open.spotify.com/artist/6Ma2SwwsytVh9Uq915R5Mz), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk) | [Take No Chat \(EP\)](https://open.spotify.com/album/6DY9FDwvEnaBVoDu6gkPxF) | 3:28 | 2025-04-03 | 2025-08-21 |
 | [On My Line](https://open.spotify.com/track/3Y5iyIB6OVvhybwGoE9mGv) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [On My Line](https://open.spotify.com/album/63hVrszqSChih5vJ18lquM) | 3:22 | 2023-12-01 | 2025-07-09 |
 | [On My Way \(Feat\. Zdot, Kara Marni\) \- ZKG Remix](https://open.spotify.com/track/0QXvYArdrPJEaGJTW5hL2N) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Kara Marni](https://open.spotify.com/artist/2lfOu2DjnvR4Xpolt3OPfv), [ZKG](https://open.spotify.com/artist/6SXQM1iGWeRGGpxJKcl4uh) | [On My Way \(Feat\. Zdot, Kara Marni\) \[ZKG Remix\]](https://open.spotify.com/album/5hKK3n38k4IFoMVR72APw5) | 2:39 | 2025-06-20 |  |
 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 | 2022-04-15 | 2025-05-02 |

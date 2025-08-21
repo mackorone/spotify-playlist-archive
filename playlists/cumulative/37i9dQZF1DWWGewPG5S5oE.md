@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/2PSRePU0vQZsVq3tkXmgV3) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | ['Round Midnight](https://open.spotify.com/album/67i0aJ0bDyPZYz561oUfO2) | 4:24 | 2024-11-19 | 2025-01-07 |
-| [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 | 2024-03-05 | 2025-08-20 |
+| [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 | 2024-03-05 |  |
 | [15 Eunomia](https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:07 | 2024-01-10 |  |
 | [24/7](https://open.spotify.com/track/1bL6QTUJBtDqcme7D3BRXE) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/0sGwnCQvYdQ2fuBBNIotJ9) | 6:07 | 2023-05-16 | 2023-05-18 |
 | [24/7](https://open.spotify.com/track/1dbKUjODEfs0srsw3KgFD9) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [24/7](https://open.spotify.com/album/7MJG1uYr3RqRqucOIvWrBr) | 6:07 | 2023-05-16 | 2023-06-14 |
@@ -228,7 +228,7 @@
 | [Noisia](https://open.spotify.com/track/54DUSBw5r1lEqlsvVFmgBm) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [Noisia](https://open.spotify.com/album/0oKLUiiUtEe6nrJzUS5hFz) | 5:07 | 2025-02-26 | 2025-04-06 |
 | [null](https://open.spotify.com/track/0lNwTmuyzwkZ3lcQwjUIm6) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [null](https://open.spotify.com/album/5OQnbpSFMWExzOv12Jqms7) | 3:38 | 2024-02-27 | 2024-06-12 |
 | [obsession](https://open.spotify.com/track/2sbXCzEskFPka5D80ZKzbG) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [LOTUS](https://open.spotify.com/album/35t0TpLbsQWFJQJXlwOyXV) | 4:26 | 2024-08-13 | 2024-09-18 |
-| [Off\-the\-cuff](https://open.spotify.com/track/5X6T29oDYziZKe59d62wRy) | [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Off\-the\-cuff](https://open.spotify.com/album/09g2LMDN0QntOdKzsaCWld) | 6:24 | 2025-07-08 |  |
+| [Off\-the\-cuff](https://open.spotify.com/track/5X6T29oDYziZKe59d62wRy) | [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Off\-the\-cuff](https://open.spotify.com/album/09g2LMDN0QntOdKzsaCWld) | 6:24 | 2025-07-08 | 2025-08-21 |
 | [Oh My God](https://open.spotify.com/track/2tchGr5VPrWR8qwQA5VVyw) | [John Nakayama Trio](https://open.spotify.com/artist/43wM3prVdVeBJc4qD3gVdz), [VICTORIA](https://open.spotify.com/artist/4WaiQ89t3P3tsZ6FQNmnW2) | [Oh My God](https://open.spotify.com/album/2CqlzqET3jM9r5y7nUgIdn) | 4:49 | 2024-06-11 | 2024-07-24 |
 | [One More Time](https://open.spotify.com/track/5zDaw3oBx3e5dCnpyt7NEW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [One More Time](https://open.spotify.com/album/31dVWeU7ZyIezMhWU1dNWc) | 4:55 | 2023-01-10 | 2023-04-29 |
 | [Orange Mug](https://open.spotify.com/track/5IpMtUqMWw8ff0Yeq38wqx) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Orange Mug](https://open.spotify.com/album/7je7p75wCnvd8RnrgsZSVS) | 3:38 | 2022-09-06 | 2023-12-27 |

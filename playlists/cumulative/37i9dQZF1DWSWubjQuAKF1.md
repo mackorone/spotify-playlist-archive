@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Jan Marczewski, Hugo Tarres
 
-552 songs - 1 day 2 hr 53 min
+553 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [8 am](https://open.spotify.com/track/1p8PD4ArjnUjLoapFKUn5B) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 3:03 | 2025-02-06 | 2025-03-02 |
 | [a little bit](https://open.spotify.com/track/1Hbyh9JfAmbA9WlleNAtz2) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [a little bit](https://open.spotify.com/album/23NFYz0ppzxQJCI67Hd08n) | 2:45 | 2025-03-27 | 2025-07-04 |
 | [a może nie?](https://open.spotify.com/track/5uqA8dbykXOfO0mMqSqYF7) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [a może nie?](https://open.spotify.com/album/1ETEZPz5LDI15kDa3Q6crm) | 2:42 | 2024-10-04 | 2025-01-10 |
-| [a może?](https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx) | [Klaudia Marzec](https://open.spotify.com/artist/2SlZJko0OpkOSKoZzoMkta) | [a może?](https://open.spotify.com/album/3XhmAdtbJEnVqhjgQbRFKL) | 3:39 | 2025-07-24 |  |
+| [a może?](https://open.spotify.com/track/0lC5fionUUvt77bZlD87Hx) | [Klaudia Marzec](https://open.spotify.com/artist/2SlZJko0OpkOSKoZzoMkta) | [a może?](https://open.spotify.com/album/3XhmAdtbJEnVqhjgQbRFKL) | 3:39 | 2025-07-24 | 2025-08-21 |
 | [Adoruje](https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ) | [Artur Sikorski](https://open.spotify.com/artist/0IGDk5SQHJVCpiSTLDGs5A), [pik pik](https://open.spotify.com/artist/2tg8M5no3GJwNf0XBq4tcY) | [Adoruje](https://open.spotify.com/album/4coeoHHAySMXfGt4PjGsAp) | 2:35 | 2024-06-28 | 2024-07-19 |
 | [Ale Boli!](https://open.spotify.com/track/4Mbgf7iCBWoHABhcUPhWlN) | [Michał Anioł](https://open.spotify.com/artist/7jIDRyneRCnRsLQyuO91pS) | [Ale Boli!](https://open.spotify.com/album/4Lhi9Li8RsBAke2BM6sda9) | 1:53 | 2024-09-27 | 2024-11-08 |
 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 | 2025-03-13 | 2025-07-04 |
@@ -481,6 +481,7 @@
 | [TOKIO](https://open.spotify.com/track/0FUgOyAUgA9FLdYv6rHENE) | [Barnim](https://open.spotify.com/artist/4Bp6oWHVWsocBpnqFJP4Zj) | [TOKIO](https://open.spotify.com/album/1UnwAXNTPp9frqmoWkQlp1) | 2:52 | 2025-07-17 | 2025-08-07 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 | 2025-05-09 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-06-20 |
+| [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-19 |  |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-23 | 2025-01-31 |
 | [tracimy sens](https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr) | [nefrea](https://open.spotify.com/artist/0LDHuGDQljiQdkLri5BSAW), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [tracimy sens](https://open.spotify.com/album/7cjyOgy8HEkt6Dwu0Gytjz) | 2:30 | 2025-07-17 | 2025-07-25 |
 | [Trauma](https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Trauma](https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy) | 1:46 | 2024-12-06 | 2025-01-31 |

@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-617 songs - 1 day 0 hr 6 min
+622 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Hussle](https://open.spotify.com/track/4YRE4xS9IQJvYb3MMtYd0t) | [Inversion](https://open.spotify.com/artist/4pjxBayRpsdAJMPF3v8kIP) | [Hussle](https://open.spotify.com/album/2r2asjHx3hdzu8lWR79wAq) | 1:23 | 2023-08-03 | 2024-09-07 |
 | [Ice Cubes](https://open.spotify.com/track/7o2M9p2nBQzBBNOXCE1XPL) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Ice Cubes](https://open.spotify.com/album/0PQRvgoWtUJmbkXwNawC2d) | 2:18 | 2023-03-01 | 2023-09-29 |
 | [Iced Tea](https://open.spotify.com/track/5tRZ5EMRDkuRiJ49iCzudM) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb), [Mike Beating](https://open.spotify.com/artist/3EuxGwWNxr2SRmosxJZEB3) | [Iced Tea](https://open.spotify.com/album/1zFOiKmCbekeOWT0n7aNTq) | 1:57 | 2022-07-15 |  |
+| [if](https://open.spotify.com/track/2aL37gKJ4SoLAaGbhiqHAO) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [if](https://open.spotify.com/album/43Bd1UhASCiNx79u1LQzVP) | 2:30 | 2025-08-20 |  |
 | [If These Streets Could Talk \(T.A.X.I\)](https://open.spotify.com/track/2zOuDVOuHUhzIQmdVtTw2t) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [If These Streets Could Talk \(T.A.X.I\)](https://open.spotify.com/album/69IctPZ9b4gQwtjmlon3z3) | 3:17 | 2024-07-05 | 2025-07-03 |
 | [In Comparison With](https://open.spotify.com/track/2kRqoND9nTZ6ShVTWPQ3Y6) | [State Artefact](https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q) | [In Comparison With](https://open.spotify.com/album/3vvMXi4IWwUbgQi7S2oxJP) | 3:22 | 2024-07-26 |  |
 | [In My Lifetime](https://open.spotify.com/track/4xnUnOJbzbWZEVY4Ktublu) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [In My Lifetime](https://open.spotify.com/album/4I8emTVXQz9SwQJ4n0sDio) | 1:49 | 2023-04-13 | 2023-09-29 |
@@ -306,7 +307,9 @@
 | [Long Way Home](https://open.spotify.com/track/4B0rDSA8jga7wjmKaSIHYj) | [Ben Bada Boom](https://open.spotify.com/artist/0sN3N3h3Ti2BTwqrenBhU2) | [A Walk in Summer](https://open.spotify.com/album/0DxdMoaCtNOXENBnyf4nl1) | 2:56 | 2022-06-24 | 2022-09-03 |
 | [Longing For](https://open.spotify.com/track/6tC7lce2KkOFAB4dvK5ZpM) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Longing For](https://open.spotify.com/album/5G3xHYW51UTTOjWDtj7R30) | 2:24 | 2022-08-05 | 2023-09-16 |
 | [Los días grises \(Remix\)](https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Remixes lofi del Regional Chill](https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT) | 2:03 | 2023-06-06 | 2023-09-08 |
+| [lotus lullaby](https://open.spotify.com/track/2hLnS47GXY6F7K1tRIeKQb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [lotus lullaby](https://open.spotify.com/album/2fVgpha9xp7HSIws6hl3yh) | 2:19 | 2025-08-20 |  |
 | [Lovebites](https://open.spotify.com/track/4Qil9aFPFjPxo4kUcL7Zym) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Lovebites](https://open.spotify.com/album/6p6lIvpJt7O9t5QNVs8A9u) | 1:33 | 2023-04-13 | 2023-06-07 |
+| [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 | 2025-08-20 |  |
 | [lullabi](https://open.spotify.com/track/3o4CP6tTnBcQMIEsCS9rME) | [dozeoff](https://open.spotify.com/artist/1DDkZGlHuj5FFsrieyvsHW) | [lullabi / midnight](https://open.spotify.com/album/0pDSPrCWW6uHGBcfm9G3zS) | 2:54 | 2024-07-12 |  |
 | [Lullaby](https://open.spotify.com/track/3uF7LQEgBBPri5wTGf2nh2) | [Kayyyy](https://open.spotify.com/artist/5g4nLwrKsbQSYCI4AXhsTJ) | [Lullaby](https://open.spotify.com/album/0qtCgr4PsLFwY2EGp0ciWj) | 2:14 | 2025-07-11 | 2025-07-19 |
 | [Luton](https://open.spotify.com/track/2lkaNasVnIobxN1tuVPuFm) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l), [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Luton](https://open.spotify.com/album/1fujLmksUjwmJFZ7C7lCHq) | 2:03 | 2022-10-14 | 2022-11-24 |
@@ -402,6 +405,7 @@
 | [Pienso en ti](https://open.spotify.com/track/68gE83oU6RHJhueRremnVI) | [B.L.U.N.T.S](https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n), [SUPPER TRANKKI](https://open.spotify.com/artist/2LDeDIeSKH7tJZ8LLQEm07), [Pacifico Beats](https://open.spotify.com/artist/12cXod2nNIxSDhbITtXZ0d) | [Pienso en ti](https://open.spotify.com/album/7tfDDfseRhiLBEdBjps2j3) | 2:13 | 2022-06-24 | 2022-07-01 |
 | [pines at dusk](https://open.spotify.com/track/1FdWM4HlgD6InlubgXRy4x) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [pines at dusk](https://open.spotify.com/album/41YC2jtjkuisD1Qd4rQ5xw) | 2:45 | 2025-07-11 |  |
 | [pink inc](https://open.spotify.com/track/4lbtIYl10Ji2Xv8H5I9mny) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [pink inc](https://open.spotify.com/album/446hWWDZPWXDsAj5BXKXm0) | 1:44 | 2024-03-22 | 2024-07-27 |
+| [Piped Up Lately](https://open.spotify.com/track/48CjGSOWBdZ11IOiMAwD0K) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Piped Up Lately](https://open.spotify.com/album/7zRzz2vXolxYUzP8sLQ88g) | 2:20 | 2025-08-20 |  |
 | [Pizzazz](https://open.spotify.com/track/2uv5i2WtcA6TxsMO9YIQBR) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Pizzazz](https://open.spotify.com/album/5BfUFXf3jVHcDd48Tsk3Zv) | 2:16 | 2022-05-27 | 2022-09-03 |
 | [Piñas, hamaca y slide](https://open.spotify.com/track/61tXTWB7EODDhT5KVGE19v) | [TRANQUI.LO](https://open.spotify.com/artist/77SHIzYuzLKxBC7giec5Jg) | [Tranquilo](https://open.spotify.com/album/3Y65Ok9dgM9Wxqg4rG53j7) | 2:14 | 2023-06-06 | 2023-09-08 |
 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 | 2022-05-27 | 2022-07-15 |
@@ -483,6 +487,7 @@
 | [Soft Breeze](https://open.spotify.com/track/39vp8D8UInw4o5jIoAz579) | [l'eupe](https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9) | [Soft Breeze](https://open.spotify.com/album/5XFoPzRvqxSjWben0sMG71) | 2:18 | 2023-06-06 |  |
 | [soft crease](https://open.spotify.com/track/4EvjMS9j7oolUc8i5PHWLW) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [soft crease](https://open.spotify.com/album/47Pe1jyvlETHKsMTiN0c3P) | 2:18 | 2023-03-24 | 2024-07-27 |
 | [Soft Lad](https://open.spotify.com/track/2gyXrVDU4SGXqpCRcXbZid) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [Soft Lad](https://open.spotify.com/album/7uoBTodwAjmtlC51RFcl6g) | 4:26 | 2022-05-27 | 2022-07-08 |
+| [Soil](https://open.spotify.com/track/39c6fk5gs2W6HISF6qLzvD) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Soil](https://open.spotify.com/album/4oeMTjcfFglYvN5oX5iRUx) | 2:22 | 2025-08-20 |  |
 | [Solar](https://open.spotify.com/track/0K10ENKa2CiPZCVtctyqwf) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0) | [Solar](https://open.spotify.com/album/7uhbQFA0Jcvwc3exGK53Ib) | 2:46 | 2023-04-13 | 2023-09-29 |
 | [Solitaire](https://open.spotify.com/track/4SBrpMj6oa4keWYoXPklyL) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Solitaire](https://open.spotify.com/album/4wub7J4LP8LsMC1Zj4kuDR) | 2:05 | 2022-09-09 |  |
 | [Solitude](https://open.spotify.com/track/4b9bN05qHHaRpwd60J0sN3) | [Soibú](https://open.spotify.com/artist/4HFaAaWRSjxvxyNB6RoUaI) | [Solitude](https://open.spotify.com/album/2qBou21EABjntC15p7h3cz) | 2:23 | 2024-08-23 |  |

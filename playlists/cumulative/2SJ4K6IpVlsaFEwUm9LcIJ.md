@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-687 songs - 1 day 16 hr 23 min
+691 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bachelor Kisses](https://open.spotify.com/track/3RnE0PPErzblWEXZND1NEG) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [Spring Hill Fair](https://open.spotify.com/album/4LoBNOutats9DaceI3Brtn) | 3:31 | 2025-04-29 | 2025-05-09 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-22 | 2025-05-09 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
+| [Bastan Toure](https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377) | [Bajourou](https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS) | [Big String Theory](https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ) | 5:48 | 2025-08-20 |  |
 | [Be Good To Them Always](https://open.spotify.com/track/6ZjuwJor7BsyPUUXilxGQE) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 4:51 | 2025-06-22 | 2025-07-04 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 | 2024-07-12 |
 | [Believe Me](https://open.spotify.com/track/3Gh6jgFviAJ4rgjZM69ME2) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 3:36 | 2025-08-11 |  |
@@ -390,6 +391,7 @@
 | [Midnight Round Mekines](https://open.spotify.com/track/3Fsgp9pjoP5BUmFl5KeBsx) | [Javier Bergia](https://open.spotify.com/artist/00UEHtbE9afbslwaeYm9mw) | [Tagomago](https://open.spotify.com/album/5OkTZ0yybDXoA6BDNxPKyE) | 5:19 | 2025-04-28 | 2025-07-04 |
 | [Mint](https://open.spotify.com/track/0RYwEPSvf7KSj5YI0VA72t) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 3:23 | 2024-01-08 | 2024-03-10 |
 | [Minute papillon](https://open.spotify.com/track/6h9DpgttzIscg0VXEnyUUx) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Open Source](https://open.spotify.com/album/3zUPEKdFY8AdS9Efz2BMLs) | 3:50 | 2025-07-28 | 2025-08-08 |
+| [Money! Money!](https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ) | [The Three Night Wizards](https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 2:46 | 2025-08-20 |  |
 | [Monochrome photography](https://open.spotify.com/track/36WOdy91Cs6wCUTlic2mdN) | [Electron Sheep](https://open.spotify.com/artist/1ZWn3NgMdeJKs2vmCZzJZa) | [Day Is Far Too Long](https://open.spotify.com/album/5OMI8HfEGEebdfeYHHDba0) | 3:53 | 2025-06-25 | 2025-07-04 |
 | [Monsoon: Top to Bottom](https://open.spotify.com/track/6MVRZzhHrMUEvPiCH3Srbl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:12 | 2025-06-28 | 2025-07-04 |
 | [Moon Hymn](https://open.spotify.com/track/63Nr0q3IH032UPK2NMuGOh) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 4:17 | 2025-07-09 |  |
@@ -457,6 +459,7 @@
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-17 |  |
 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 | 2024-10-10 | 2024-11-14 |
 | [Our Dust](https://open.spotify.com/track/7kbwqZhRlhbTE3QEbH1mVm) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 3:29 | 2024-12-10 | 2025-01-12 |
+| [Our Love Will Never Go](https://open.spotify.com/track/15wbuzzUSRwr3Vne6X4TK7) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [I'm A Man: The Chess Masters, 1955\-1958](https://open.spotify.com/album/3elQneouDEy4phwU24ysGK) | 2:40 | 2025-08-20 |  |
 | [Overcome \- 2009 Remix](https://open.spotify.com/track/2fIn2blB174jad6eM27LXj) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6), [Al Riley](https://open.spotify.com/artist/5FTqRHLv1p7TcX9qQzHpIY) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:24 | 2024-11-13 | 2025-01-12 |
 | [P.A.S](https://open.spotify.com/track/65wQBgs1nWRi97RssuWaJ9) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 6:01 | 2025-01-20 | 2025-03-02 |
 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-11-26 | 2024-12-07 |
@@ -579,6 +582,7 @@
 | [Tape 27 Track 5](https://open.spotify.com/track/4yDWhQvxgjHElaMgdELmZx) | [Ahmed Malek](https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [The Electronic Tapes \(Habibi Funk 005\)](https://open.spotify.com/album/7x2uLqFMqaviXJ3sf4E01J) | 1:38 | 2024-01-08 | 2024-03-10 |
 | [Target](https://open.spotify.com/track/0pC0qIpSTvptjrCSg0p9Gq) | [Rui Gabriel](https://open.spotify.com/artist/1LhAwMWCGYmplvmnZmvoDz), [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Target](https://open.spotify.com/album/3ZbLs2qH6lDnDbEnNmsYYv) | 4:59 | 2024-02-23 | 2024-03-10 |
 | [Tattler](https://open.spotify.com/track/0Z8PnlfoTklzYEvFEsWlEc) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Paradise and Lunch](https://open.spotify.com/album/0i7EzDfNC1tfBRpbKkYbrt) | 4:19 | 2024-07-12 | 2024-09-08 |
+| [Taxi Driver](https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU) | [Bobby Benson & His Orchestra](https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 3:22 | 2025-08-20 |  |
 | [Tbtf](https://open.spotify.com/track/7Dha5Jw4EVQbFHe58pJ5AU) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Spirit If...](https://open.spotify.com/album/0MtuWHjHXAEwWimsMuEtZf) | 3:51 | 2024-06-17 | 2024-07-12 |
 | [Tea Or Coffee](https://open.spotify.com/track/4ZISwlHvOnn5zg9kHZmM7o) | [Gaze](https://open.spotify.com/artist/7nRXUCPuFbA0y7dGZ06Jlq) | [Shake the Pounce](https://open.spotify.com/album/3eMTYeAfSefi2vy5TTbB4Q) | 2:11 | 2024-05-29 | 2024-06-06 |
 | [Tell me I never knew that](https://open.spotify.com/track/2Kd9o6XhbcMLQcqkyoAg3f) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Tell me I never knew that](https://open.spotify.com/album/6Z76fbESpNdmG9WSvlvaCW) | 4:39 | 2025-04-15 | 2025-05-09 |

@@ -4,7 +4,7 @@
 
 > 
 
-1,146 songs - 2 day 9 hr 50 min
+1,147 songs - 2 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [gang](https://open.spotify.com/track/4ygYHBVVDwA2QBRrO74Sod) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:46 | 2022-11-07 | 2023-12-14 |
 | [Gang](https://open.spotify.com/track/7m2fy0MughZKLySpzhq8bt) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj), [LOOK KILLA](https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf) | [Lost Files 3](https://open.spotify.com/album/1nhYrOuf367Rl1VDQ0iAuS) | 2:49 | 2024-12-08 | 2025-05-21 |
 | [Gang Shit](https://open.spotify.com/track/0igHhcoLY0yHVPHiPvGuXx) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:40 | 2024-12-06 | 2025-05-21 |
+| [Gangsta Lean](https://open.spotify.com/track/7fhxlqe6RvHhAsQOcJPTIv) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 5:20 | 2025-08-20 |  |
 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 | 2024-10-18 | 2025-05-21 |
 | [Geeked Up](https://open.spotify.com/track/6MEvdgFV9t2k6LqsAAUDHU) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Boy Barbie](https://open.spotify.com/album/4qp7MpTf0DBrHmnHROj99y) | 1:43 | 2022-03-25 | 2023-05-09 |
 | [Generation](https://open.spotify.com/track/3Piw8TimucHAUY1zwVQrEo) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 4:16 | 2025-03-03 | 2025-05-21 |

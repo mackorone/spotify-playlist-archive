@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Yoon Da Hye\(윤다혜\)\)
 
-559 songs - 1 day 6 hr 10 min
+561 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Breathing](https://open.spotify.com/track/4WV4vmgNARzkQVQ4e9nyxT) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Breathing](https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y) | 2:53 | 2024-02-06 | 2024-06-06 |
 | [Butterflies](https://open.spotify.com/track/41wU3rrHdHoQlNlGqy2tzX) | [Gyeongree](https://open.spotify.com/artist/5YF2nij1cyiWmWFB8TLZtj) | [Eternal Bloom](https://open.spotify.com/album/3EwJyf1lxKa26PQvLWJUtC) | 2:38 | 2024-08-21 | 2024-11-30 |
 | [Butterfly \(feat\. Oceanfromtheblue\)](https://open.spotify.com/track/1P9ztAUu6vrOdZ0Mr8lxWp) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Therapy Session](https://open.spotify.com/album/2hp1xdmCKrjVdAodJjDVgO) | 3:46 | 2022-09-08 | 2023-02-15 |
+| [Bye my night](https://open.spotify.com/track/77rDd91lHEwp1uh4hZvhy1) | [onthedal](https://open.spotify.com/artist/0tsXBeeMipHNUtu5GtUAWV) | [Bye my night](https://open.spotify.com/album/4kMdU0vmbR1L8ffVa97Zng) | 3:54 | 2025-08-20 |  |
 | [BYOB](https://open.spotify.com/track/512i7xNnsgoCnxGZDc7yjY) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb), [Hersh](https://open.spotify.com/artist/1mQmR1RcQpvrcrF6S1njyF), [PoPoMo](https://open.spotify.com/artist/6Lr03QZ7TGfnUqg5PXJEjG) | [PoPoMo](https://open.spotify.com/album/5sfmDWyzik4PhHVYcxuHcG) | 4:12 | 2024-01-08 | 2024-05-28 |
 | [Caffeine](https://open.spotify.com/track/2Sn9FClQKj6FrBFOXbKtl7) | [Maylinn](https://open.spotify.com/artist/60CX9yGvjcDd4kcKculbMg) | [Caffeine](https://open.spotify.com/album/1qC8qEhfPZvZcgpRqCV50P) | 2:58 | 2025-04-09 | 2025-08-06 |
 | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/track/2BSjpT2O5Wf1k6fpurjwLN) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [CAKE \(Feat\. TRADE L\)](https://open.spotify.com/album/0LREv8FEBfU58CJS8w2rSI) | 2:08 | 2023-10-05 | 2024-02-07 |
@@ -199,6 +200,7 @@
 | [FRR](https://open.spotify.com/track/231FbnNQRNo9PMwEyu8Tp9) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [FRR](https://open.spotify.com/album/17GjPCmRcDP1ZerwRSduIC) | 3:40 | 2023-04-27 | 2023-10-06 |
 | [Fxxk U](https://open.spotify.com/track/4r1hWaa99K7i69M5eEEy8V) | [Jhnovr](https://open.spotify.com/artist/4GqXWudNdgIhuDnYHFnQez) | [Fxxk U](https://open.spotify.com/album/1R7rVkQjokKtivCt8dc6wD) | 3:51 | 2024-08-16 | 2024-10-28 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-28 | 2022-08-13 |
+| [Giddy Up](https://open.spotify.com/track/7rAtB9982DtnSsw0225d3K) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [Giddy Up](https://open.spotify.com/album/7yueiK3U9Q18o8OJV6IHgo) | 2:33 | 2025-08-20 |  |
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-28 | 2022-08-13 |
 | [Glow Stars](https://open.spotify.com/track/2diKKn6SXjEUklvTVAdavi) | [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [Glow Stars](https://open.spotify.com/album/6YIMzx1Hrag23hMqOVW5Nz) | 3:29 | 2025-03-13 | 2025-07-09 |
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-15 | 2023-07-08 |
@@ -230,7 +232,7 @@
 | [Hey \(Feat\. Chiaki Mayumura\)](https://open.spotify.com/track/2nfcWiUMIPkNT9fPqrClIX) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [Hey](https://open.spotify.com/album/73kcy19PNsu4NPQjBpLGAD) | 3:38 | 2025-05-20 |  |
 | [Hidden Castle](https://open.spotify.com/track/5g9OF6EfVqiIUjKCIsnCG0) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Hidden Castle](https://open.spotify.com/album/1Kz44qP8JD4QF3sC2fRyBX) | 3:28 | 2022-07-27 | 2022-12-14 |
 | [Hide & Seek](https://open.spotify.com/track/2WZKsCUDta0F8VgZtLCba7) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Reverie](https://open.spotify.com/album/3K7HY3ilH0IA6anq6l9RcN) | 2:34 | 2024-07-09 | 2024-09-14 |
-| [Hills & Valleys](https://open.spotify.com/track/13DbxYzAMAWTVvk2ia1dq9) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [Hills & Valleys](https://open.spotify.com/album/1TVqoxEkZtvsRDFPQRGV5Q) | 3:29 | 2025-04-18 |  |
+| [Hills & Valleys](https://open.spotify.com/track/13DbxYzAMAWTVvk2ia1dq9) | [JENNA SUHL](https://open.spotify.com/artist/1SMnENMqknGXgRHFf41lgH) | [Hills & Valleys](https://open.spotify.com/album/1TVqoxEkZtvsRDFPQRGV5Q) | 3:29 | 2025-04-18 | 2025-08-21 |
 | [Hmm\-cheat](https://open.spotify.com/track/7hYGWflgiI2aa25jOgL6eg) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [wonderego](https://open.spotify.com/album/7ikvq6MB2VhB2IPCDO6RnP) | 3:03 | 2023-11-14 | 2024-04-19 |
 | [Hola](https://open.spotify.com/track/2nHh7scNhJmTdVqEFPJFbj) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Hola](https://open.spotify.com/album/71s7XKGq4QBc5h2Axy3i7t) | 3:14 | 2022-11-14 | 2023-07-08 |
 | [Hold Me Up](https://open.spotify.com/track/1SbOXVok2b7VsxXsTOnPpM) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Hold Me Up](https://open.spotify.com/album/0cNcrqOqpRJ89wTHw3e6k0) | 3:06 | 2024-05-17 | 2024-08-11 |
@@ -421,7 +423,7 @@
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-08-18 |
 | [Scream TT](https://open.spotify.com/track/1Rbbsova3KJ0dwqF79rtbZ) | [SUZU](https://open.spotify.com/artist/0zlvwCaqdYsdSrr5ZD22d5) | [B2B](https://open.spotify.com/album/581IpgL4QvytkHGGNCUjxo) | 2:01 | 2025-08-05 |  |
 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 | 2024-10-23 | 2025-03-13 |
-| [See through \(Feat\. Michelle\)](https://open.spotify.com/track/7mvrsDEEEvR7sRapkxsjDg) | [gani](https://open.spotify.com/artist/4ZslxGFMt5d6axpVivGwZr), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [See through \(Feat\. Michelle\)](https://open.spotify.com/album/6cunlL6umFfwNoHhSJQWJz) | 2:48 | 2025-04-18 |  |
+| [See through \(Feat\. Michelle\)](https://open.spotify.com/track/7mvrsDEEEvR7sRapkxsjDg) | [gani](https://open.spotify.com/artist/4ZslxGFMt5d6axpVivGwZr), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk) | [See through \(Feat\. Michelle\)](https://open.spotify.com/album/6cunlL6umFfwNoHhSJQWJz) | 2:48 | 2025-04-18 | 2025-08-21 |
 | [Seed](https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 4:15 | 2023-05-05 | 2023-10-17 |
 | [Sentimental Love](https://open.spotify.com/track/3AXhW63USQmXX3d4Efzmdd) | [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Sentimental Love](https://open.spotify.com/album/32V9wJHI9Mt9vnYCiUuX9N) | 2:14 | 2024-10-04 | 2025-03-13 |
 | [She \(Ain’t the Love That I Wanted\)](https://open.spotify.com/track/1EDNpVMU55uNnNO2yrLJJM) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa) | [She \(Ain’t the Love That I Wanted\)](https://open.spotify.com/album/0zB5PaoDPqW5o0jGrYYOPw) | 2:33 | 2025-05-20 |  |

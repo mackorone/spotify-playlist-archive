@@ -6223,6 +6223,32 @@
     },
     {
       "album": {
+        "name": "PARA",
+        "url": "https://open.spotify.com/album/7HQznjog1JZfOAbkNLMLWu"
+      },
+      "artists": [
+        {
+          "name": "Lil Roony",
+          "url": "https://open.spotify.com/artist/7MD92P1XCS8QKLty9eheWb"
+        },
+        {
+          "name": "Vizzy",
+          "url": "https://open.spotify.com/artist/1aeFXfBL572xxk20YVHkiB"
+        },
+        {
+          "name": "VXAL",
+          "url": "https://open.spotify.com/artist/04ftZCJgjzpuUAFwO4OSpC"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144329,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/0HtMfcpHt0BVbzp0Zg94sZ"
+    },
+    {
+      "album": {
         "name": "PARATTA SONG",
         "url": "https://open.spotify.com/album/1QcDIFDIzuJvCpJMA5TZBH"
       },

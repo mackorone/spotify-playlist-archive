@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來欣賞女性音樂人的精采表現！Cover: 曾沛慈 \(Pets Tseng\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,929 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,928 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [不藥而癒 \- 第三波](https://open.spotify.com/track/31VWgseQeMXzcNdOD4N9Xu) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [下一個天亮](https://open.spotify.com/album/16uIFSrJsyKODQjFXtHTxj) | 4:32 |
 | 50 | [最後的晚安\(DEMO\)](https://open.spotify.com/track/2BZnKatCiyHaRFFv3oy3v2) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [最後的晚安\(DEMO\)](https://open.spotify.com/album/4Thhd8c8bh6nsuVB9x5OT3) | 4:04 |
 
-Snapshot ID: `AAAAABXyicO3iJdclxOiTFyxpx9FW0kt`
+Snapshot ID: `AAAAAPmfjKYTpvCKDi2VWMkqmgDhtsvt`

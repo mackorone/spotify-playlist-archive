@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Gapes
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,511 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,523 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 16 | [Cara Dura](https://open.spotify.com/track/3VkMpucpevh2Hn4rFvXsis) | [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [Cara Dura](https://open.spotify.com/album/1Mg64yMRpAYfERFtMiEzoB) | 3:18 |
 | 17 | [Remédio Para Talarico](https://open.spotify.com/track/1mrlm0OwvARUUZV2E44Spl) | [Mvk](https://open.spotify.com/artist/78TUxGXS6Jpos6nj2oEqSP), [Surfista](https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Remédio Para Talarico](https://open.spotify.com/album/7gwgeO8HPemL0J31pFNYkY) | 2:25 |
 | 18 | [Movimentando](https://open.spotify.com/track/0gXMumUCRPtlOV23kaT4p6) | [Chase](https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo), [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po) | [Movimentando](https://open.spotify.com/album/2EqeIQiSoomjrLg1wf8WGc) | 2:37 |
-| 19 | [Querendo Mais \- Querendo Mais](https://open.spotify.com/track/0YDev76f62f7wjRrrUXqJn) | [DESTRAVALT](https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Querendo Mais](https://open.spotify.com/album/6wvxLmc0UNOGGj01iFmcvl) | 2:24 |
+| 19 | [Querendo Mais](https://open.spotify.com/track/0YDev76f62f7wjRrrUXqJn) | [DESTRAVALT](https://open.spotify.com/artist/29IVf7WBMdBDnuI2wuwaiB), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Querendo Mais](https://open.spotify.com/album/6wvxLmc0UNOGGj01iFmcvl) | 2:24 |
 | 20 | [Blefando Online](https://open.spotify.com/track/3Ki0stdqkDTqo2O6WQ2wEj) | [Delatorvi](https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu), [Vamp](https://open.spotify.com/artist/3bX1UBuREUv9PBbkeqeY1S) | [Blefando Online](https://open.spotify.com/album/4bIczh6Zk68F1XVYv2P9P0) | 2:14 |
 | 21 | [QUERO PRA NÓS](https://open.spotify.com/track/51LcOHrJZA9UpUDdivHX68) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [MC Marcelly](https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 4:06 |
 | 22 | [Modo Sport](https://open.spotify.com/track/0XwfQskri77tsjOUKdGQu2) | [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Modo Sport](https://open.spotify.com/album/4aJ1LSWCh5cLj7L2edH8lV) | 2:27 |

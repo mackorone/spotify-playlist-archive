@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,377 likes - 160 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,320 likes - 160 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 159 | [Country Kid](https://open.spotify.com/track/0qHRw28w5WnjVgaLp6bAlX) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Country Kid](https://open.spotify.com/album/2sjMqp2bBoT0abDKJYavl1) | 3:33 |
 | 160 | [Death Wish](https://open.spotify.com/track/7u16KXOttsLNh7U8FQx2G1) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Death Wish](https://open.spotify.com/album/3N4m9O8Zsof2RX84aHWyy7) | 4:30 |
 
-Snapshot ID: `AAAAAGOVF9pnJBS/ElbznUSIGy5NTXbn`
+Snapshot ID: `AAAAAMJoxOMNo2kWw7QPMeBpOIOUTQ/b`

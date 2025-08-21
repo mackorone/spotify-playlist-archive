@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MDfq+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MDk6IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "downtown",
         "url": "https://open.spotify.com/album/1oaHlsVVHDlbcxYTtoFB56"
@@ -57,39 +57,23 @@
       "url": "https://open.spotify.com/track/6Ur4ZVoemg8EI6WT7aHBWk"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "a good man with a broken heart",
-        "url": "https://open.spotify.com/album/3kxkF527EE0sDV8ftKEibJ"
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
       },
       "artists": [
         {
-          "name": "LoVibe.",
-          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         }
       ],
-      "duration_ms": 118752,
-      "name": "a good man with a broken heart",
-      "url": "https://open.spotify.com/track/2JvU5ShUHIDgaRB2liXZfs"
+      "duration_ms": 121089,
+      "name": "poster boy",
+      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
@@ -105,7 +89,23 @@
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Erika (Essential Tunes)",
         "url": "https://open.spotify.com/album/5t0M5IUCcpE96by5cOVJZ1"
@@ -121,7 +121,79 @@
       "url": "https://open.spotify.com/track/7iwPGVfoiedHFNHvpxTznL"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "a good man with a broken heart",
+        "url": "https://open.spotify.com/album/3kxkF527EE0sDV8ftKEibJ"
+      },
+      "artists": [
+        {
+          "name": "LoVibe.",
+          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+        }
+      ],
+      "duration_ms": 118752,
+      "name": "a good man with a broken heart",
+      "url": "https://open.spotify.com/track/2JvU5ShUHIDgaRB2liXZfs"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "Zub za zub",
+        "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+        }
+      ],
+      "duration_ms": 240116,
+      "name": "Zub za zub",
+      "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "Topol\u010dianska Zlatokopka (Desolate Remix)",
+        "url": "https://open.spotify.com/album/0fyxnvhkCV6oI7AzPI8YKZ"
+      },
+      "artists": [
+        {
+          "name": "Desolate",
+          "url": "https://open.spotify.com/artist/0kWLrnk1QCQvfkZw165q9P"
+        },
+        {
+          "name": "Gipsy \u010c\u00e1ve",
+          "url": "https://open.spotify.com/artist/4id0C1kGvnz9xXNHggEtBi"
+        }
+      ],
+      "duration_ms": 167112,
+      "name": "Topol\u010dianska Zlatokopka - Desolate Remix",
+      "url": "https://open.spotify.com/track/73E16Dcpw2n0jnqB3t4dQm"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "Devil in Disguise",
+        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+        }
+      ],
+      "duration_ms": 104431,
+      "name": "Devil in Disguise",
+      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/2yamyyBAOGWiGKI1O9X0wf"
@@ -141,23 +213,23 @@
       "url": "https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Devil in Disguise",
-        "url": "https://open.spotify.com/album/3x72yJC4Ynj7UTJSjCMbTM"
+        "name": "Pln\u00fd Ch\u00fdb (Singel)",
+        "url": "https://open.spotify.com/album/1o5sfPhnC8DwSNPGbzSrd2"
       },
       "artists": [
         {
-          "name": "Marino",
-          "url": "https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI"
+          "name": "Chyz\u00edny",
+          "url": "https://open.spotify.com/artist/32M6bQ98omOZWezHBr2UdU"
         }
       ],
-      "duration_ms": 104431,
-      "name": "Devil in Disguise",
-      "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
+      "duration_ms": 157861,
+      "name": "Pln\u00fd Ch\u00fdb - Singel",
+      "url": "https://open.spotify.com/track/2zbeQBKA3YryytrXQZ6Xrc"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -189,7 +261,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "The Sick",
         "url": "https://open.spotify.com/album/0nkCKW79JSfRkqpPvz9lPs"
@@ -205,43 +277,23 @@
       "url": "https://open.spotify.com/track/18d1pubaNYUpaKIeSoxPFA"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Zub za zub",
-        "url": "https://open.spotify.com/album/3wbWpJrAKp2bm6RWbAVJJB"
+        "name": "MSI B-SIDES vol.1",
+        "url": "https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS"
       },
       "artists": [
         {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/3RryZO1NCx4BNG6TWyieTe"
+          "name": "Mindless Self Indulgence",
+          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
         }
       ],
-      "duration_ms": 240116,
-      "name": "Zub za zub",
-      "url": "https://open.spotify.com/track/2CPkBjKdmuhiSInYPqIVDZ"
+      "duration_ms": 133979,
+      "name": "Seven Minutes in Heaven",
+      "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 121089,
-      "name": "poster boy",
-      "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -257,27 +309,7 @@
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "Topol\u010dianska Zlatokopka (Desolate Remix)",
-        "url": "https://open.spotify.com/album/0fyxnvhkCV6oI7AzPI8YKZ"
-      },
-      "artists": [
-        {
-          "name": "Desolate",
-          "url": "https://open.spotify.com/artist/0kWLrnk1QCQvfkZw165q9P"
-        },
-        {
-          "name": "Gipsy \u010c\u00e1ve",
-          "url": "https://open.spotify.com/artist/4id0C1kGvnz9xXNHggEtBi"
-        }
-      ],
-      "duration_ms": 167112,
-      "name": "Topol\u010dianska Zlatokopka - Desolate Remix",
-      "url": "https://open.spotify.com/track/73E16Dcpw2n0jnqB3t4dQm"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -317,55 +349,7 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "More Tralalero Songs",
-        "url": "https://open.spotify.com/album/17r4w7R7YNUflUPoHKTAP0"
-      },
-      "artists": [
-        {
-          "name": "Gazzarino",
-          "url": "https://open.spotify.com/artist/4BoTna9gEMXM6YLxrM78w7"
-        }
-      ],
-      "duration_ms": 84977,
-      "name": "TRALALERO TRALALA x Sigma Boy",
-      "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "Pln\u00fd Ch\u00fdb (Singel)",
-        "url": "https://open.spotify.com/album/1o5sfPhnC8DwSNPGbzSrd2"
-      },
-      "artists": [
-        {
-          "name": "Chyz\u00edny",
-          "url": "https://open.spotify.com/artist/32M6bQ98omOZWezHBr2UdU"
-        }
-      ],
-      "duration_ms": 157861,
-      "name": "Pln\u00fd Ch\u00fdb - Singel",
-      "url": "https://open.spotify.com/track/2zbeQBKA3YryytrXQZ6Xrc"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "MSI B-SIDES vol.1",
-        "url": "https://open.spotify.com/album/1EKVMKNNAOROOmoupP5OwS"
-      },
-      "artists": [
-        {
-          "name": "Mindless Self Indulgence",
-          "url": "https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN"
-        }
-      ],
-      "duration_ms": 133979,
-      "name": "Seven Minutes in Heaven",
-      "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "No Broke Boys",
         "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
@@ -385,27 +369,23 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Pretty & Blessed",
-        "url": "https://open.spotify.com/album/4OBb63wNzy0yz7VV4CLPPE"
+        "name": "More Tralalero Songs",
+        "url": "https://open.spotify.com/album/17r4w7R7YNUflUPoHKTAP0"
       },
       "artists": [
         {
-          "name": "Marko Damian",
-          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
-        },
-        {
-          "name": "Katannah",
-          "url": "https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j"
+          "name": "Gazzarino",
+          "url": "https://open.spotify.com/artist/4BoTna9gEMXM6YLxrM78w7"
         }
       ],
-      "duration_ms": 223218,
-      "name": "Pretty & Blessed",
-      "url": "https://open.spotify.com/track/2TYIbNUZsKB7c9HhM3yoUE"
+      "duration_ms": 84977,
+      "name": "TRALALERO TRALALA x Sigma Boy",
+      "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Make Me Feel",
         "url": "https://open.spotify.com/album/1c6Y4gCvI7Ey2M07Ahvwva"
@@ -421,7 +401,63 @@
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Rumi",
+          "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
+        },
+        {
+          "name": "Jinu",
+          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 187963,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "SOLDIERS",
+        "url": "https://open.spotify.com/album/5KMXapnfQKreblcNlOCs6g"
+      },
+      "artists": [
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        },
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Smolki13K",
+          "url": "https://open.spotify.com/artist/1HvbncRao6Ct5pgnT5FyFa"
+        }
+      ],
+      "duration_ms": 247317,
+      "name": "Spioniro Golubiro",
+      "url": "https://open.spotify.com/track/7Bh4gmWtWTjtqdOJNUhRuK"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -461,115 +497,7 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "Rumi",
-          "url": "https://open.spotify.com/artist/2DSE0PhxKUmTPLfZm13sup"
-        },
-        {
-          "name": "Jinu",
-          "url": "https://open.spotify.com/artist/0rIiNDJUesrgFPkYesJmKl"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "Andrew Choi",
-          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 187963,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "SOLDIERS",
-        "url": "https://open.spotify.com/album/5KMXapnfQKreblcNlOCs6g"
-      },
-      "artists": [
-        {
-          "name": "13K",
-          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
-        },
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Smolki13K",
-          "url": "https://open.spotify.com/artist/1HvbncRao6Ct5pgnT5FyFa"
-        }
-      ],
-      "duration_ms": 247317,
-      "name": "Spioniro Golubiro",
-      "url": "https://open.spotify.com/track/7Bh4gmWtWTjtqdOJNUhRuK"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "GoldKiid",
-        "url": "https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU"
-      },
-      "artists": [
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "Decky",
-          "url": "https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX"
-        }
-      ],
-      "duration_ms": 157219,
-      "name": "SP\u00c1NEK",
-      "url": "https://open.spotify.com/track/55EkJGkSS6boe9oPxyBzV3"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
-      },
-      "artists": [
-        {
-          "name": "HUNTR/X",
-          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        },
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "REI AMI",
-          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
-        },
-        {
-          "name": "KPop Demon Hunters Cast",
-          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
-        }
-      ],
-      "duration_ms": 176059,
-      "name": "How It\u2019s Done",
-      "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "DOORS LIGHT FUNK",
         "url": "https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV"
@@ -589,7 +517,7 @@
       "url": "https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Souvenir from Italy, Vol. 2",
         "url": "https://open.spotify.com/album/4b7DhwAWGl7fneRKFptARw"
@@ -605,7 +533,43 @@
       "url": "https://open.spotify.com/track/38PeI250yF3gDZsCZJYfhB"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "Pretty & Blessed",
+        "url": "https://open.spotify.com/album/4OBb63wNzy0yz7VV4CLPPE"
+      },
+      "artists": [
+        {
+          "name": "Marko Damian",
+          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
+        },
+        {
+          "name": "Katannah",
+          "url": "https://open.spotify.com/artist/4FlpITxeMarYCggIrcOE6j"
+        }
+      ],
+      "duration_ms": 223218,
+      "name": "Pretty & Blessed",
+      "url": "https://open.spotify.com/track/2TYIbNUZsKB7c9HhM3yoUE"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "Cumbia Cumbia 1 & 2",
+        "url": "https://open.spotify.com/album/7r1Aoe1PF9XYNHxQsgJT9C"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo y su T\u00edpica RA7",
+          "url": "https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/5XyfJqyQbBXiZtG98a8RBY"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "GET NAKED",
         "url": "https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh"
@@ -621,23 +585,7 @@
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "GoldKiid",
         "url": "https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU"
@@ -650,18 +598,14 @@
         {
           "name": "Decky",
           "url": "https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX"
-        },
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
         }
       ],
-      "duration_ms": 199673,
-      "name": "\u0158EKNI MI PRAVDU",
-      "url": "https://open.spotify.com/track/6m6T2GEUhecN8weKqdoE8x"
+      "duration_ms": 157219,
+      "name": "SP\u00c1NEK",
+      "url": "https://open.spotify.com/track/55EkJGkSS6boe9oPxyBzV3"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4Xqf8b22c4vUcl9PFEmy50"
@@ -681,7 +625,7 @@
       "url": "https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
         "url": "https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg"
@@ -697,43 +641,7 @@
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "suburban daredevil",
-        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
-      },
-      "artists": [
-        {
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "duration_ms": 90067,
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "THY KINGDOM COME",
-        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 156478,
-      "name": "Napoleon",
-      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -765,75 +673,151 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Cumbia Cumbia 1&2",
-        "url": "https://open.spotify.com/album/6MxcYFtV7ZjHq199qBWAsr"
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
       "artists": [
         {
-          "name": "Rodolfo y su T\u00edpica RA7",
-          "url": "https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 220440,
-      "name": "La Colegiala",
-      "url": "https://open.spotify.com/track/2FjsGDl0BHc8xXPVof7Ttn"
+      "duration_ms": 156478,
+      "name": "Napoleon",
+      "url": "https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Montagem Supersonic",
-        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
       "artists": [
         {
-          "name": "KHAOS",
-          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
         },
         {
-          "name": "Jmilton",
-          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
-      "duration_ms": 87816,
-      "name": "Montagem Supersonic",
-      "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
+      "duration_ms": 176059,
+      "name": "How It\u2019s Done",
+      "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Grande Amore",
-        "url": "https://open.spotify.com/album/50bLvnuiHRnu7JwIOhyQZg"
+        "name": "suburban daredevil",
+        "url": "https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK"
       },
       "artists": [
         {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+          "name": "wifiskeleton",
+          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
+        },
+        {
+          "name": "i wanna be a jack-o-lantern",
+          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
         }
       ],
-      "duration_ms": 217606,
-      "name": "Gianna",
-      "url": "https://open.spotify.com/track/56Y88HOwL6sTkPriMX3Nwm"
+      "duration_ms": 90067,
+      "name": "Nope your too late i already died",
+      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Danika House",
-        "url": "https://open.spotify.com/album/5mcmc5S21lL2g8EgjPR1Wv"
+        "name": "M\u00e1m \u0165a r\u00e1d (Vinea Remake)",
+        "url": "https://open.spotify.com/album/0gWA7RpiNbztqwEJBHjE10"
       },
       "artists": [
         {
-          "name": "unhealthy zoglin",
-          "url": "https://open.spotify.com/artist/4peHtbrtDTtzJbs0BdTCLo"
+          "name": "VINEA",
+          "url": "https://open.spotify.com/artist/6uuelOgDUdJ3m93kJZibFg"
+        },
+        {
+          "name": "Karol Ducho\u0148",
+          "url": "https://open.spotify.com/artist/7t9Ee452yVH58xneswOHNH"
+        },
+        {
+          "name": "Tina",
+          "url": "https://open.spotify.com/artist/0ZzVyuKOsz1YLpAujWhDWf"
+        },
+        {
+          "name": "Annet X",
+          "url": "https://open.spotify.com/artist/3wTmekbMox022tiwirdy6F"
+        },
+        {
+          "name": "Vladislav Plev\u010d\u00edk",
+          "url": "https://open.spotify.com/artist/1GoM5vkAsBcUQlQmVDXFo8"
+        },
+        {
+          "name": "L\u00fa\u010dnica",
+          "url": "https://open.spotify.com/artist/46H3haRjfNA69JXtch93mY"
+        },
+        {
+          "name": "NobodyListen",
+          "url": "https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C"
         }
       ],
-      "duration_ms": 353288,
-      "name": "Danika House",
-      "url": "https://open.spotify.com/track/3fF7GIvxkj5OJho20nAfr4"
+      "duration_ms": 167280,
+      "name": "M\u00e1m \u0165a r\u00e1d - Vinea Remake",
+      "url": "https://open.spotify.com/track/7qcqUQYqEfhDBLfL6Eyiwm"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "CLIMA LINDO",
+        "url": "https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH"
+      },
+      "artists": [
+        {
+          "name": "GXMZ",
+          "url": "https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02"
+        },
+        {
+          "name": "Repsaj",
+          "url": "https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko"
+        }
+      ],
+      "duration_ms": 81995,
+      "name": "CLIMA LINDO - SLOWED",
+      "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "back to friends",
         "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
@@ -849,10 +833,26 @@
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "Grande Amore",
+        "url": "https://open.spotify.com/album/50bLvnuiHRnu7JwIOhyQZg"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 217606,
+      "name": "Gianna",
+      "url": "https://open.spotify.com/track/56Y88HOwL6sTkPriMX3Nwm"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Espresso Macchiato",
-        "url": "https://open.spotify.com/album/6oyTmTZoCYK6zyoaOPK9ns"
+        "url": "https://open.spotify.com/album/6i83szVwI1FZFeMQHobNsj"
       },
       "artists": [
         {
@@ -862,34 +862,10 @@
       ],
       "duration_ms": 173746,
       "name": "Espresso Macchiato",
-      "url": "https://open.spotify.com/track/3gWBWLw3J3XTy3QTo36GqJ"
+      "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "GoldKiid",
-        "url": "https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU"
-      },
-      "artists": [
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "Decky",
-          "url": "https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX"
-        },
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
-        }
-      ],
-      "duration_ms": 208122,
-      "name": "M\u016eZA",
-      "url": "https://open.spotify.com/track/04L4CRMAV3BnowYoXMs1nM"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Ja, S\u00e1ra",
         "url": "https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte"
@@ -909,7 +885,51 @@
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "MONTAGEM COMA",
+        "url": "https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi"
+      },
+      "artists": [
+        {
+          "name": "ANDROMEDA",
+          "url": "https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS"
+        },
+        {
+          "name": "elysian.",
+          "url": "https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we"
+        }
+      ],
+      "duration_ms": 73480,
+      "name": "MONTAGEM COMA",
+      "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "GoldKiid",
+        "url": "https://open.spotify.com/album/75BwUpwFikffhSNtr6Z1hU"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "Decky",
+          "url": "https://open.spotify.com/artist/7wjbFMCXWpPswS7olSgEjX"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 199673,
+      "name": "\u0158EKNI MI PRAVDU",
+      "url": "https://open.spotify.com/track/6m6T2GEUhecN8weKqdoE8x"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
       "album": {
         "name": "Young Italo",
         "url": "https://open.spotify.com/album/1wXbUptebMFKvhHvGY6uQD"
@@ -925,80 +945,88 @@
       "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "I ONE",
-        "url": "https://open.spotify.com/album/46slN6OuQu3lRKvfUeIBOW"
+        "name": "Montagem Supersonic",
+        "url": "https://open.spotify.com/album/0fauumBf19hArK8Wt3XhkC"
       },
       "artists": [
         {
-          "name": "XLOV",
-          "url": "https://open.spotify.com/artist/2b8aDRZFgUGWiUGchpWsyC"
-        }
-      ],
-      "duration_ms": 174910,
-      "name": "1&Only",
-      "url": "https://open.spotify.com/track/0lOOUAYUITTHYyGWWAqKIr"
-    },
-    {
-      "added_at": "2025-08-19 15:47:09",
-      "album": {
-        "name": "brat",
-        "url": "https://open.spotify.com/album/0MDAesOLCoNXZ010xdBzKp"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+          "name": "KHAOS",
+          "url": "https://open.spotify.com/artist/3SENePgknpJt3DvLK2JAfZ"
         },
         {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
-        },
-        {
-          "name": "Dollar Prync",
-          "url": "https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux"
+          "name": "Jmilton",
+          "url": "https://open.spotify.com/artist/2q5vFLZus8uaVSzmIwH4Tz"
         }
       ],
-      "duration_ms": 179130,
-      "name": "dole",
-      "url": "https://open.spotify.com/track/60s9qt0f9uweJvExCjHSyb"
+      "duration_ms": 87816,
+      "name": "Montagem Supersonic",
+      "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "Soft Machine (U.S. Version)",
-        "url": "https://open.spotify.com/album/10HtFICbVgVbkz90OxM8Xx"
+        "name": "Addicted (feat. TIMID.)",
+        "url": "https://open.spotify.com/album/1g3CRfapU2HVFs1QK6jNAs"
       },
       "artists": [
         {
-          "name": "Teddybears",
-          "url": "https://open.spotify.com/artist/3gqv1kgivAc92KnUm4elKv"
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
         },
         {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Daytona",
+          "url": "https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC"
+        },
+        {
+          "name": "LEWS",
+          "url": "https://open.spotify.com/artist/25tLh0UFb4VoF3Oe8C8vuL"
+        },
+        {
+          "name": "FIRSTCLASS",
+          "url": "https://open.spotify.com/artist/1WM31JXTIDvyaQXFkNoWVK"
+        },
+        {
+          "name": "TIMID.",
+          "url": "https://open.spotify.com/artist/7ohUwQ36GNovdC1LFlhiQg"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Punkrocker (feat. Iggy Pop)",
-      "url": "https://open.spotify.com/track/5JqMWnxVKjJZ2NNOEux46S"
+      "duration_ms": 134000,
+      "name": "Addicted (feat. TIMID.)",
+      "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
     },
     {
-      "added_at": "2025-08-19 15:47:09",
+      "added_at": "2025-08-20 18:06:09",
       "album": {
-        "name": "STRESSZ",
-        "url": "https://open.spotify.com/album/33kQNgChvr8USSJ5lER3hJ"
+        "name": "THY KINGDOM COME",
+        "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
       "artists": [
         {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 168738,
-      "name": "STRESSZ",
-      "url": "https://open.spotify.com/track/0HQbcGdDDXz6YN1rH7SAQe"
+      "duration_ms": 137601,
+      "name": "Monochromatic",
+      "url": "https://open.spotify.com/track/6dIIwvSCxyixY2y9vJmyVg"
+    },
+    {
+      "added_at": "2025-08-20 18:06:09",
+      "album": {
+        "name": "\u30cf\u30eb\u30ab\u30ea\u30d9\u30fc\u30b3\u30f3",
+        "url": "https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c"
+      },
+      "artists": [
+        {
+          "name": "HALCALI",
+          "url": "https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "\u304a\u3064\u304b\u308cSUMMER",
+      "url": "https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV"
     }
   ],
   "unique_name": "Viral 50 - Slovakia",

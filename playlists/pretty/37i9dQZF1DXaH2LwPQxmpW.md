@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaH2LwPQxmpW.md) - [plain]
 
 > A perfect match and an ex she can't forget\. Who would you choose? Listen to music from The Materialists, in theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,835 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,975 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

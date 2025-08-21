@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 137035,
       "name": "Algo Lento",
       "url": "https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V"
@@ -3200,7 +3200,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 139625,
       "name": "Deep Waters",
       "url": "https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL"
@@ -9059,6 +9059,24 @@
     },
     {
       "album": {
+        "name": "Nostalgic",
+        "url": "https://open.spotify.com/album/2sAoh43R2UOHgKF5cuNiuk"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173408,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ"
+    },
+    {
+      "album": {
         "name": "Nostalgic Memories",
         "url": "https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71"
       },
@@ -9092,6 +9110,24 @@
       "duration_ms": 147500,
       "name": "Now and Always",
       "url": "https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW"
+    },
+    {
+      "album": {
+        "name": "Now Let's Move On",
+        "url": "https://open.spotify.com/album/11DnBfUveDGErBMm4h8zQo"
+      },
+      "artists": [
+        {
+          "name": "Sam Stone",
+          "url": "https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143152,
+      "name": "Now Let's Move On",
+      "url": "https://open.spotify.com/track/4Ch7WJ7oWgjCNR0gTSWnxu"
     },
     {
       "album": {
@@ -11234,7 +11270,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 128807,
       "name": "Share her stories",
       "url": "https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr"
@@ -13182,6 +13218,24 @@
       "duration_ms": 129625,
       "name": "This Time Tomorrow",
       "url": "https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D"
+    },
+    {
+      "album": {
+        "name": "This Yellow Light",
+        "url": "https://open.spotify.com/album/5H1LeHCf7tV7ydiInjejnv"
+      },
+      "artists": [
+        {
+          "name": "Somerset Kent",
+          "url": "https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw"
+        }
+      ],
+      "date_added": "2025-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140876,
+      "name": "This Yellow Light",
+      "url": "https://open.spotify.com/track/4kctoVJ5NcwQxD8MwKcsa4"
     },
     {
       "album": {

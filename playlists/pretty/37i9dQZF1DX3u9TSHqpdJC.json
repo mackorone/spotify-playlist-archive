@@ -1,13 +1,241 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Avery Cochrane. Artwork by Paola Saliby",
-  "num_followers": 229424,
+  "description": "The best new pop music from new, independent artists.  Cover: Dafna. Artwork by Paola Saliby",
+  "num_followers": 229435,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6Ns1ep6ZK4wD6V8sekRurrpTIy",
+  "snapshot_id": "AAAAADJQglUYVr2tCmnCVudMCymlpVuJ",
   "tracks": [
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "BADBADNEWS",
+        "url": "https://open.spotify.com/album/3EXuiB7krKItwbBIqjrF2f"
+      },
+      "artists": [
+        {
+          "name": "Dafna",
+          "url": "https://open.spotify.com/artist/6FR2ARlfDqNU7BMBaWjGZP"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "BADBADNEWS",
+      "url": "https://open.spotify.com/track/5myy6teEETaZkuOY9AJoIg"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "Keep It Chic",
+        "url": "https://open.spotify.com/album/3wotas98423uIAgzaKLHJk"
+      },
+      "artists": [
+        {
+          "name": "Jessica Doolan",
+          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Chic",
+      "url": "https://open.spotify.com/track/2FfWe4bCCBxLJa111E6GNI"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "I Don't Go Out",
+        "url": "https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "duration_ms": 158962,
+      "name": "I Don't Go Out",
+      "url": "https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/2MVmqLta2bgx5KPITqhQYX"
+      },
+      "artists": [
+        {
+          "name": "Coria",
+          "url": "https://open.spotify.com/artist/4wdtB6s3W9H46b7ESavill"
+        }
+      ],
+      "duration_ms": 194347,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/0wzJgqkMPrsvKTEZdCa1Kp"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "Bellissima",
+        "url": "https://open.spotify.com/album/5ZkbyQwPO1V1flVJMSKmQx"
+      },
+      "artists": [
+        {
+          "name": "Leah Dong",
+          "url": "https://open.spotify.com/artist/3hbD9w1UqE6s1EsnwJ2j1J"
+        }
+      ],
+      "duration_ms": 247955,
+      "name": "Bellissima",
+      "url": "https://open.spotify.com/track/2qiphiZkWC6GFKNOcrr7ch"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "pool house",
+        "url": "https://open.spotify.com/album/0OzhXqnN3ycNAzPGJTK7uk"
+      },
+      "artists": [
+        {
+          "name": "garbagepink",
+          "url": "https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "pool house",
+      "url": "https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "i liked u better in the dark",
+        "url": "https://open.spotify.com/album/1pM6CHVZxriexTXpRJwUya"
+      },
+      "artists": [
+        {
+          "name": "ONUR",
+          "url": "https://open.spotify.com/artist/0NQnxyOtffxLFIatMhCp35"
+        }
+      ],
+      "duration_ms": 162627,
+      "name": "i liked u better in the dark",
+      "url": "https://open.spotify.com/track/6LCzgCDtkOuEXgySL5ir60"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "I Want You to Stay",
+        "url": "https://open.spotify.com/album/2BHAdVwHYTnnTwixuPxURF"
+      },
+      "artists": [
+        {
+          "name": "Lillimure",
+          "url": "https://open.spotify.com/artist/4nn9ivW8DtP3uYYic9Tsjs"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "I Want You to Stay",
+      "url": "https://open.spotify.com/track/3sxKYeiKLOJF7LZDuXkINr"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "The End of May",
+        "url": "https://open.spotify.com/album/0Oca1Oe5Vo5KXf8nevlsjk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Quinn",
+          "url": "https://open.spotify.com/artist/5Y0muXMkSFnDw4eMguwGo4"
+        }
+      ],
+      "duration_ms": 286749,
+      "name": "Who I've Been",
+      "url": "https://open.spotify.com/track/4sL7wZTCXvxK075MiMopjk"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "Write It Down",
+        "url": "https://open.spotify.com/album/0CsplxJu2GSq17IKdvv6YS"
+      },
+      "artists": [
+        {
+          "name": "Niamh McCrystal",
+          "url": "https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Write It Down",
+      "url": "https://open.spotify.com/track/3o9prbtGcP3BtxCETH5wcz"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "Simple Math",
+        "url": "https://open.spotify.com/album/7C6hAezi8iPxhossZyBeO5"
+      },
+      "artists": [
+        {
+          "name": "Emma Andersen",
+          "url": "https://open.spotify.com/artist/3RR7Sxoi6uXq4Y8PDEPR4v"
+        }
+      ],
+      "duration_ms": 144817,
+      "name": "Simple Math",
+      "url": "https://open.spotify.com/track/2h3tXKnvbRSCpQvPoOcUbs"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "She's Predictable",
+        "url": "https://open.spotify.com/album/0lW7uw5Iwzw3cIpXDPBaXz"
+      },
+      "artists": [
+        {
+          "name": "Hannah Berry",
+          "url": "https://open.spotify.com/artist/0C7IHnLahltg7KIOYeEvmp"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "She's Predictable",
+      "url": "https://open.spotify.com/track/6pf9PueAqWWEpAX3LcjFE5"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "SEVEN",
+        "url": "https://open.spotify.com/album/0janmZ6GMg082yd8hCp9yy"
+      },
+      "artists": [
+        {
+          "name": "Lois",
+          "url": "https://open.spotify.com/artist/6qAYnkQmOOQCBPPmyd4lo1"
+        }
+      ],
+      "duration_ms": 285973,
+      "name": "APRIL SHOWERS",
+      "url": "https://open.spotify.com/track/40Qw0s7oqA3GzlTxuw1GMe"
+    },
+    {
+      "added_at": "2025-08-20 04:00:26",
+      "album": {
+        "name": "Red Wine Eyes",
+        "url": "https://open.spotify.com/album/3SdqhCeBNPK1fJ80hENS1i"
+      },
+      "artists": [
+        {
+          "name": "MCK",
+          "url": "https://open.spotify.com/artist/4gTs9iz3O0hzMwY2U2XKS7"
+        },
+        {
+          "name": "Taylor Roche",
+          "url": "https://open.spotify.com/artist/6YwDZ1txRytZuE9Zvx5Pl0"
+        }
+      ],
+      "duration_ms": 195529,
+      "name": "Red Wine Eyes",
+      "url": "https://open.spotify.com/track/7B1oGGLCI7WW6y9j0TSumV"
+    },
     {
       "added_at": "2025-08-13 04:00:29",
       "album": {
@@ -1383,214 +1611,6 @@
       "duration_ms": 196718,
       "name": "happy 4 u",
       "url": "https://open.spotify.com/track/2OwvgYtIVUT65olr13imQ1"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/64cUjD0SLAcBAwGvzPNfDS"
-      },
-      "artists": [
-        {
-          "name": "Ola Poskrop",
-          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
-        }
-      ],
-      "duration_ms": 181227,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/17oskAb302jfK8VU1pTFkA"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/56LDkwR6QPFUQIsjhBUNPy"
-      },
-      "artists": [
-        {
-          "name": "Crybabyamy",
-          "url": "https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/7n1kmYMdmhMPXxMNRfXfTy"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/1K5kNi4wFnmw1VihVAbtmW"
-      },
-      "artists": [
-        {
-          "name": "Darcie Haven",
-          "url": "https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni"
-        }
-      ],
-      "duration_ms": 237273,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/6BGHWRkl23oGOgmqssf1WG"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "B.I.T.E Me",
-        "url": "https://open.spotify.com/album/6wTv43avTJpBQ7KwSAjew2"
-      },
-      "artists": [
-        {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/0wXM6da1sfZlrXOzIgwCwH"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "B.I.T.E Me",
-      "url": "https://open.spotify.com/track/7pk7muB7UCXr8s3pCKlngE"
-    },
-    {
-      "added_at": "2025-06-25 04:00:08",
-      "album": {
-        "name": "cool, calm and collected",
-        "url": "https://open.spotify.com/album/5ajutQW6cInAa2twYWxN6q"
-      },
-      "artists": [
-        {
-          "name": "Monica Lalut",
-          "url": "https://open.spotify.com/artist/3eFwtxzPKmIoc6GLjrfyxT"
-        }
-      ],
-      "duration_ms": 192284,
-      "name": "cool, calm and collected",
-      "url": "https://open.spotify.com/track/4akBeMezHwcSH1xhxJAxrC"
-    },
-    {
-      "added_at": "2025-06-25 04:37:03",
-      "album": {
-        "name": "IDK her anymore",
-        "url": "https://open.spotify.com/album/1565ih3sfBehX6fvY0Mqoc"
-      },
-      "artists": [
-        {
-          "name": "gottsy",
-          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
-        }
-      ],
-      "duration_ms": 142375,
-      "name": "IDK her anymore",
-      "url": "https://open.spotify.com/track/05KEXFBghfRnC8yibxjfFA"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "His LA Girl",
-        "url": "https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY"
-      },
-      "artists": [
-        {
-          "name": "Ren Martinez",
-          "url": "https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "His LA Girl",
-      "url": "https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Maybe It All Works Out In The End",
-        "url": "https://open.spotify.com/album/668p9dyWrKlmmAz7URTIBM"
-      },
-      "artists": [
-        {
-          "name": "Mariae Cassandra",
-          "url": "https://open.spotify.com/artist/1IYXeH99vFlUjAXWUhFXhJ"
-        }
-      ],
-      "duration_ms": 209181,
-      "name": "Maybe It All Works Out In The End",
-      "url": "https://open.spotify.com/track/6121gvpb7wkHUUj0AuUmNs"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Girl\u2019s Girl",
-        "url": "https://open.spotify.com/album/3QhxTB2C1mUdUAlpntDjge"
-      },
-      "artists": [
-        {
-          "name": "EDIE",
-          "url": "https://open.spotify.com/artist/1zcbZrLQ9t1AXrLXy1lIMY"
-        }
-      ],
-      "duration_ms": 191978,
-      "name": "Girl\u2019s Girl",
-      "url": "https://open.spotify.com/track/1SEWV5XmjNBeBCmURjHxhf"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Paper Frames",
-        "url": "https://open.spotify.com/album/26eUGaLyK5TNcgqepe1zTG"
-      },
-      "artists": [
-        {
-          "name": "Theeth",
-          "url": "https://open.spotify.com/artist/1G2cEDQVQgvz8c9nHg65Zj"
-        }
-      ],
-      "duration_ms": 210545,
-      "name": "Paper Frames",
-      "url": "https://open.spotify.com/track/4DjzD8j70eItuwFQJEWKlD"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Safe For Another Day",
-        "url": "https://open.spotify.com/album/5lFIiWu2PSgEIETJ77dBJ7"
-      },
-      "artists": [
-        {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
-        }
-      ],
-      "duration_ms": 186426,
-      "name": "Safe For Another Day",
-      "url": "https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "LOLA",
-        "url": "https://open.spotify.com/album/5MZjzS9KWzLuRFJ9nf28l1"
-      },
-      "artists": [
-        {
-          "name": "George Lyons",
-          "url": "https://open.spotify.com/artist/42dK0eCb48P1tILqEV28mW"
-        }
-      ],
-      "duration_ms": 165263,
-      "name": "LOLA",
-      "url": "https://open.spotify.com/track/09rbDRGEfhvOVuvHvsRzuU"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "ASHES",
-        "url": "https://open.spotify.com/album/1P3pfGokPUf05uG4eQ10uo"
-      },
-      "artists": [
-        {
-          "name": "AYEJAY",
-          "url": "https://open.spotify.com/artist/16thVpns7sAaGzV4hG5Lnl"
-        }
-      ],
-      "duration_ms": 180728,
-      "name": "ASHES",
-      "url": "https://open.spotify.com/track/1IsmamnccFOPXTev45zyrb"
     }
   ],
   "unique_name": "Fresh Finds Pop",

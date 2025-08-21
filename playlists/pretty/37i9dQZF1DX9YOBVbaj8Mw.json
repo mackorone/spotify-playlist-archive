@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19264,
+  "num_followers": 19265,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Recut",
+        "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        },
+        {
+          "name": "Pejza\u017c",
+          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
+        }
+      ],
+      "duration_ms": 250431,
+      "name": "Together - Pejza\u017c Remix",
+      "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "BIA\u0141E SZALE\u0143STWO",
         "url": "https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 154886,
       "name": "TYLE MAM",
       "url": "https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Recut",
-        "url": "https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        },
-        {
-          "name": "Pejza\u017c",
-          "url": "https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH"
-        }
-      ],
-      "duration_ms": 250431,
-      "name": "Together - Pejza\u017c Remix",
-      "url": "https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Instant Rewards",
-        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Fearflood",
-      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
         "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 321506,
       "name": "Ch\u0142opcy",
       "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Instant Rewards",
+        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Fearflood",
+      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
-      },
-      "artists": [
-        {
-          "name": "Pianohooligan",
-          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
-        },
-        {
-          "name": "Piotr Orzechowski",
-          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
-        }
-      ],
-      "duration_ms": 865922,
-      "name": "Critique of Swing in Two Parts, Pt. 1",
-      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Wsp\u00f3\u0142g\u0142osy",
         "url": "https://open.spotify.com/album/4SaFER9pNaleX46ZukkmgA"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 91803,
       "name": "Gospel Song",
       "url": "https://open.spotify.com/track/5qUpX6it0ihllRAKuRV5CD"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Critique of Swing in Two Parts, Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5RVSw8lvyoBB3gPqRMSExg"
+      },
+      "artists": [
+        {
+          "name": "Pianohooligan",
+          "url": "https://open.spotify.com/artist/0ySx9kLnz7yNsMsNyNq9XZ"
+        },
+        {
+          "name": "Piotr Orzechowski",
+          "url": "https://open.spotify.com/artist/7giTy2KusvGb5wNhjoBpOV"
+        }
+      ],
+      "duration_ms": 865922,
+      "name": "Critique of Swing in Two Parts, Pt. 1",
+      "url": "https://open.spotify.com/track/6otl8jyQ2wV1UoweSV7bj2"
     },
     {
       "added_at": "2025-04-06 08:27:45",

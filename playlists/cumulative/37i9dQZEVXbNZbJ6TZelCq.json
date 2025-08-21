@@ -1322,7 +1322,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 147487,
       "name": "Ai Cu Mine Ganduri Multe Fac Pariu Pe 15 Sute",
       "url": "https://open.spotify.com/track/1fJHP8FfBmni0wudcQfvGT"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 162352,
       "name": "AMO",
       "url": "https://open.spotify.com/track/7xBvYMY8gMCtBbj5ZMIgbo"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 173571,
       "name": "Aoleu ce da din ea",
       "url": "https://open.spotify.com/track/26t4HM9mtd05gdx77bPxyA"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 190416,
       "name": "Ban pe ban",
       "url": "https://open.spotify.com/track/0Ju9yyLP0bgxJ9Avn2m28S"
@@ -15460,7 +15460,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -20500,7 +20500,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -25684,7 +25684,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 128591,
       "name": "M\u0103 rupe r\u0103u",
       "url": "https://open.spotify.com/track/5kFawu0YBiZNktW7Fa2rQO"
@@ -26496,7 +26496,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 239673,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/5p3IlWd7CNG0liBD35g675"
@@ -27706,7 +27706,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 209999,
       "name": "Olla, olla",
       "url": "https://open.spotify.com/track/7xwvCKAfPihDr47OUsxoQm"
@@ -32976,7 +32976,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 119343,
       "name": "Sa MM Care Pleaca",
       "url": "https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6"
@@ -34318,7 +34318,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 236712,
       "name": "SHEGONDIE",
       "url": "https://open.spotify.com/track/4YOfOwu17u9I36mazMcXSR"
@@ -36900,7 +36900,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 134519,
       "name": "SUNETE 2",
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
@@ -40939,6 +40939,24 @@
     },
     {
       "album": {
+        "name": "Uneori",
+        "url": "https://open.spotify.com/album/3yYXf10k4w2jyo7tXlIuZt"
+      },
+      "artists": [
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151448,
+      "name": "Uneori",
+      "url": "https://open.spotify.com/track/5QiaV79p5avdlQj03zQCul"
+    },
+    {
+      "album": {
         "name": "Unfollow",
         "url": "https://open.spotify.com/album/5toUQtEVUkSwgz5F1c85O0"
       },
@@ -41930,7 +41948,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 159350,
       "name": "Vorba Francezului - From \"Buzz House\" The Movie",
       "url": "https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr"
@@ -41988,7 +42006,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "Vreau",
       "url": "https://open.spotify.com/track/6fi9kxR0M6S2chzb2O4YIy"

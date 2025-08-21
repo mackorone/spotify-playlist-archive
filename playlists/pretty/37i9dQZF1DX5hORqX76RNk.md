@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hORqX76RNk.md) - [plain]
 
 > 😭💔 Surullisia biisejä, joiden avulla selvisimme vuonna 2023 läpi kyynelten ja särkyneiden sydänten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 967 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 966 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 165358,
+  "num_followers": 165384,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
-        "name": "Purple Road",
-        "url": "https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu"
-      },
-      "artists": [
-        {
-          "name": "Kei Ishiguro",
-          "url": "https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "\u611f\u3058\u308b\u307e\u307e\u306b",
-      "url": "https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci"
-    },
-    {
-      "added_at": "2025-02-02 23:33:48",
-      "album": {
         "name": "VITAMIN E\u30fbP\u30fbO",
         "url": "https://open.spotify.com/album/6IpND4kv199toWznRRTqrW"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 249866,
       "name": "\u571f\u66dc\u306e\u591c\u306f\u30d1\u30e9\u30c0\u30a4\u30b9",
       "url": "https://open.spotify.com/track/0nS9XbCc736b2TIXOdrkNe"
+    },
+    {
+      "added_at": "2025-02-02 23:33:48",
+      "album": {
+        "name": "Purple Road",
+        "url": "https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu"
+      },
+      "artists": [
+        {
+          "name": "Kei Ishiguro",
+          "url": "https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "\u611f\u3058\u308b\u307e\u307e\u306b",
+      "url": "https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci"
     },
     {
       "added_at": "2025-02-02 23:33:48",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
-        "name": "ROMANTIC VIEW",
-        "url": "https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy"
-      },
-      "artists": [
-        {
-          "name": "Tatsuhiko Yamamoto",
-          "url": "https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h"
-        }
-      ],
-      "duration_ms": 258533,
-      "name": "\u4eca\u591c\u306f\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7"
-    },
-    {
-      "added_at": "2025-02-02 23:33:48",
-      "album": {
         "name": "\u6628\u6669\u304a\u4f1a\u3044\u3057\u307e\u3057\u3087\u3046",
         "url": "https://open.spotify.com/album/1SOU69vRno4XD2yvz7zqF4"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
-        "name": "PLANETARIUM",
-        "url": "https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh"
+        "name": "ROMANTIC VIEW",
+        "url": "https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy"
       },
       "artists": [
         {
-          "name": "Kaoru Sudo",
-          "url": "https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3"
+          "name": "Tatsuhiko Yamamoto",
+          "url": "https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h"
         }
       ],
-      "duration_ms": 289893,
-      "name": "\u30d5\u30ed\u30f3\u30c8\u30ac\u30e9\u30b9\u8d8a\u3057\u306b",
-      "url": "https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"
+      "duration_ms": 258533,
+      "name": "\u4eca\u591c\u306f\u30c9\u30e9\u30de\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7"
     },
     {
       "added_at": "2025-02-02 23:33:48",
@@ -743,6 +727,22 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
+        "name": "PLANETARIUM",
+        "url": "https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh"
+      },
+      "artists": [
+        {
+          "name": "Kaoru Sudo",
+          "url": "https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "\u30d5\u30ed\u30f3\u30c8\u30ac\u30e9\u30b9\u8d8a\u3057\u306b",
+      "url": "https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh"
+    },
+    {
+      "added_at": "2025-02-02 23:33:48",
+      "album": {
         "name": "\u677e\u539f\u307f\u304d \u30d9\u30b9\u30c8\u30fb\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/05h12dyMb1LnstCIRpl1Xf"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-02-02 23:33:48",
       "album": {
-        "name": "EMANON",
-        "url": "https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "duration_ms": 224966,
-      "name": "EMANON",
-      "url": "https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO"
-    },
-    {
-      "added_at": "2025-02-02 23:33:48",
-      "album": {
         "name": "PEARL PIERCE",
         "url": "https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 279234,
       "name": "\u3088\u3046\u3053\u305d\u8f1d\u304f\u6642\u9593\u3078",
       "url": "https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD"
+    },
+    {
+      "added_at": "2025-02-02 23:33:48",
+      "album": {
+        "name": "EMANON",
+        "url": "https://open.spotify.com/album/2XEh5k4VOFroU66s4ey93y"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "duration_ms": 224966,
+      "name": "EMANON",
+      "url": "https://open.spotify.com/track/7AxapY0BhgmHATRDhjKsGO"
     },
     {
       "added_at": "2025-02-02 23:33:48",

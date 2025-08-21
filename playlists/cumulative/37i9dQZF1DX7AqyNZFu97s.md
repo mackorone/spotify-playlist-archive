@@ -2,7 +2,7 @@
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music by independent artists in the UK & Ireland\. Cover: Green Gardens
+> The best new music by independent artists in the UK & Ireland\. Cover: Mudi Sama
 
 3,128 songs - 6 day 21 hr 18 min
 

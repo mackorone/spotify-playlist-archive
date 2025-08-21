@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Alvo do Momento",
+        "url": "https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg"
+      },
+      "artists": [
+        {
+          "name": "Alan Leone",
+          "url": "https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Alvo do Momento",
+      "url": "https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b"
+    },
+    {
+      "album": {
         "name": "Minha Loucura de Amor",
         "url": "https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5"
       },

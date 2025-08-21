@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,180 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,183 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 27 | [N.O.V.A](https://open.spotify.com/track/7u2yyIyLLMGyAuFrAHRbm6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [N.O.V.A](https://open.spotify.com/album/4HBA9y6e5lpzONKwSfs487) | 2:40 |
 | 28 | [milk of the madonna](https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [milk of the madonna](https://open.spotify.com/album/3IZLumOOvTChaGYODcMuen) | 4:08 |
 | 29 | [GUTSY](https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [GUTSY](https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ) | 4:41 |
-| 30 | [Harder Man](https://open.spotify.com/track/5SVYj74Qb91h8WHlgnpk24) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Nicholas Allbrook](https://open.spotify.com/artist/0fXNL948r9cbGsA6ZSwg6L) | [Harder Man](https://open.spotify.com/album/7w2lC3Qv74FU3Jvk8IU3XX) | 2:42 |
+| 30 | [Harder Man](https://open.spotify.com/track/14RN9agTtTRpVGbKcufitR) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Nicholas Allbrook](https://open.spotify.com/artist/0fXNL948r9cbGsA6ZSwg6L) | [Harder Man](https://open.spotify.com/album/3EmJSdofoEpkvf20WL0toP) | 2:42 |
 | 31 | [Ask Someone Else](https://open.spotify.com/track/1aBYi3eh45AFdGtlnSLvGc) | [Petey USA](https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr) | [The Yips](https://open.spotify.com/album/6sWgSbyVRgGCdRM2dQtut6) | 3:32 |
 | 32 | [ON AND ON \(Song for Jasmin\)](https://open.spotify.com/track/2PBRGvWLBnC1qyvcdT0jwq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Nostalgia](https://open.spotify.com/album/2BLiShYVFio23DH6oxG9wy) | 2:31 |
 | 33 | [Ur A Rat](https://open.spotify.com/track/63n0N10n1XYQTMCka3yqtE) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [Ur A Rat](https://open.spotify.com/album/0fA2VjYx1r2NnxUe2bP9ib) | 2:39 |
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 52 | [Scene](https://open.spotify.com/track/2petumqUp7aFgl9n6HEMiI) | [Full Flower Moon Band](https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4), [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Scene](https://open.spotify.com/album/5fJ57H1kJ7aP1usIWAjMUX) | 3:11 |
 | 53 | [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 |
 | 54 | [Strange Place](https://open.spotify.com/track/0mz5SWYPnVLjReRyOB5ItI) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [Strange Place](https://open.spotify.com/album/4RejF2vhT7y1NwE080Hy0i) | 2:50 |
-| 55 | [BALCONY](https://open.spotify.com/track/1FqQNvS76qtUAwj3aore7f) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BALCONY](https://open.spotify.com/album/0OwTqwcUlQbjVMKe7FvLof) | 3:25 |
+| 55 | [BALCONY](https://open.spotify.com/track/5JIJJL0GcFNQviHCd4Hydl) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [BALCONY](https://open.spotify.com/album/727B3pMlAraaLwVmC8Cpt1) | 3:25 |
 | 56 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 |
 | 57 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 |
 | 58 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 |
 | 59 | [Killing Fields](https://open.spotify.com/track/2TaoUoqmerQ8jxjsQguVdX) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Killing Fields](https://open.spotify.com/album/0bitrBOkeCj6Zzy7yl2Ijx) | 3:45 |
 | 60 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
-| 61 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 |
+| 61 | [PTRCK](https://open.spotify.com/track/32GOdJModoO0lIO40uMIYw) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [F U IN MORSE CODE](https://open.spotify.com/album/2GbYbt9hZVZlMA8jP13ihR) | 2:32 |
 | 62 | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Afterlife \(from the Netflix Series "Devil May Cry"\)](https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY) | 4:09 |
 | 63 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 |
 | 64 | [Butterknife](https://open.spotify.com/track/4u472hZQnq5h6noTuImsC4) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Butterknife](https://open.spotify.com/album/6Iza5nOc6WmKWctsiYqMsg) | 2:56 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 72 | [The End](https://open.spotify.com/track/6O07S5jyxG1e2hri4pcIjY) | [Mammoth](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [The End](https://open.spotify.com/album/6pktSS5acVnqbT5VNnRagN) | 3:33 |
 | 73 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 |
 | 74 | [Hand That Feeds \- From the Film Ballerina](https://open.spotify.com/track/0svd9Ojc1lK8tmp7bRwO7N) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Hand That Feeds \(From the Film Ballerina\)](https://open.spotify.com/album/11mWSwVmv4qfmi2BVHDXmg) | 3:06 |
-| 75 | [Bad Dreams](https://open.spotify.com/track/03pTYE8KbaLRp29vEKucIV) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/4GCA7dZvYiZAq38EBsZqgL) | 3:28 |
+| 75 | [Bad Dreams](https://open.spotify.com/track/46rhazFJihfkulyX8adr4X) | [Fool Nelson](https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp) | [Bad Dreams](https://open.spotify.com/album/5qMzJcq1skKYbBsyOEsYwX) | 3:28 |
 | 76 | [I Am Everything](https://open.spotify.com/track/3KtC8awsPhk1WPQLzbPeGU) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [I Am Everything](https://open.spotify.com/album/4wHOmqPIqa5shEdrpcQQ1D) | 2:52 |
 | 77 | [Up All Night](https://open.spotify.com/track/03CAFzT6Niehv1sBnXdcJl) | [The Vanns](https://open.spotify.com/artist/7CFtg726anbQC3CY0glRDG) | [Up All Night](https://open.spotify.com/album/2irLctfrU53y79OFPygvSP) | 3:38 |
 | 78 | [Ghosts](https://open.spotify.com/track/6FVK5UcCwZ3k34vT2wenhd) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 6:26 |
 | 79 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
-| 80 | [UNSCARRED](https://open.spotify.com/track/4NCCOQLzOJxor8Jv7nTEGx) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [UNSCARRED](https://open.spotify.com/album/6czRU4J9bxMfsn2NFKPrId) | 3:01 |
+| 80 | [UNSCARRED](https://open.spotify.com/track/6VvnEwzNURl6zBKYfhFReY) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [UNSCARRED](https://open.spotify.com/album/249red8CojKtkiGk3b3dI6) | 3:01 |
 
-Snapshot ID: `AAAAAJAVfOqyjyrDEYn5Ypa4oXfJBNe6`
+Snapshot ID: `AAAAAKRwIbDmif5sueOdOnNlaz3VmUwM`

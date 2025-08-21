@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1pRhf8tFJk2k1ejw6sRqQK">IDDA</a> in cover
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì—riprendiamo il 27 agosto! <a href="spotify:artist:1pRhf8tFJk2k1ejw6sRqQK">IDDA</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,399 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,400 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 69 | [Il mondo non ha gli occhi](https://open.spotify.com/track/59BXctKNyOByqpFA5oSwcS) | [Notlau](https://open.spotify.com/artist/3i25JvfCIGrr4IYCo7rg4V) | [Il mondo non ha gli occhi](https://open.spotify.com/album/1hSzN1SVGpmjAK2C4lGOAf) | 3:00 |
 | 70 | [forse si o forse no](https://open.spotify.com/track/4JjmOmkTXKELRBFJogLXkW) | [fallimento](https://open.spotify.com/artist/0VCQDpOfWR5bFdBQXb7Mq0) | [forse si o forse no](https://open.spotify.com/album/2dg41oUeAruXsH7v29UM12) | 3:02 |
 
-Snapshot ID: `AAAAAIKWR68I34REJxnLQlPPMOYaz1Ow`
+Snapshot ID: `AAAAAMKajteMc97FRoyrCPI3x76S0rXM`

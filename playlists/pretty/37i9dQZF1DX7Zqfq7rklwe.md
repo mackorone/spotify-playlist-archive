@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,454 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,464 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing Shadow](https://open.spotify.com/track/2yp3vlZi440JXxX1Mz2W4h) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Dancing Shadow](https://open.spotify.com/album/5CoNRYYHILmFu0pmgA6YED) | 4:58 |
-| 2 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
-| 3 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
-| 4 | [Whiteout Moon](https://open.spotify.com/track/5Wphkrmc1NYqFf4Geb1rFm) | [My Bloodline](https://open.spotify.com/artist/020hYe5zmCGRFWKCAs5eoe) | [Whiteout Moon](https://open.spotify.com/album/37pUcxYtnzQXAzbixEnXrV) | 3:58 |
-| 5 | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/track/2lQgqBaf5ie7LWiG8NsEGw) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC), [Tomi Joutsen](https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui) | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/album/0hUlq2Cl3WB7n5yBWacztM) | 3:52 |
+| 2 | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/track/2lQgqBaf5ie7LWiG8NsEGw) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC), [Tomi Joutsen](https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui) | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/album/0hUlq2Cl3WB7n5yBWacztM) | 3:52 |
+| 3 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
+| 4 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
+| 5 | [Whiteout Moon](https://open.spotify.com/track/5Wphkrmc1NYqFf4Geb1rFm) | [My Bloodline](https://open.spotify.com/artist/020hYe5zmCGRFWKCAs5eoe) | [Whiteout Moon](https://open.spotify.com/album/37pUcxYtnzQXAzbixEnXrV) | 3:58 |
 | 6 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 7 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
 | 8 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 79 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 |
 | 80 | [The Ring](https://open.spotify.com/track/3zEcOUkZuXfM9UBjEuyOxJ) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Ring](https://open.spotify.com/album/7JahzP1AdsdKlspPFNedVT) | 5:35 |
 
-Snapshot ID: `AAAAAH0oIhlbIacYkeRrgK+2hLtT3ufB`
+Snapshot ID: `AAAAADl4vXn4w8LZtLvUe7h7wiacWnUq`

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u5bb6\u4e3b Yanushi",
-  "num_followers": 64279,
+  "num_followers": 64282,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 4",
+      "duration_ms": 335784,
+      "name": "\u96e8\u306e\u964d\u308b\u753a",
       "url": "https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA"
     },
     {
@@ -256,8 +256,8 @@
           "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 129338,
+      "name": "Attara Shiawase",
       "url": "https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ"
     },
     {
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "\u304b\u307f\u3093\u3061",
-        "url": "https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "\u304b\u307f\u3093\u3061",
-      "url": "https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
         "name": "lapis lazuli",
         "url": "https://open.spotify.com/album/6cD9JRGnKgOlqM7m2UqKad"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 220816,
       "name": "lapis lazuli feat. luvis",
       "url": "https://open.spotify.com/track/1ldtIYXr0WSaXRzolhzPsW"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
+        "name": "\u304b\u307f\u3093\u3061",
+        "url": "https://open.spotify.com/album/1ydEpJ0NE93jZZAfzLrjRs"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 233560,
+      "name": "\u304b\u307f\u3093\u3061",
+      "url": "https://open.spotify.com/track/0qpll2Iu7RM1P2YI7jxUFc"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
+        "name": "Grown Too Old",
+        "url": "https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Grown Too Old",
+      "url": "https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
         "name": "\u30b5\u30cb\u30fc\u30d3\u30fc\u30c8",
         "url": "https://open.spotify.com/album/3S95YpFh0LLtsuvNflTeFe"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 158804,
       "name": "Pre-logue",
       "url": "https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
-        "name": "Grown Too Old",
-        "url": "https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8"
-      },
-      "artists": [
-        {
-          "name": "VivaOla",
-          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Grown Too Old",
-      "url": "https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
+        "name": "\u71d5",
+        "url": "https://open.spotify.com/album/685yIpLHwzuyHX3TepAVir"
+      },
+      "artists": [
+        {
+          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
+          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
+        }
+      ],
+      "duration_ms": 229043,
+      "name": "\u71d5",
+      "url": "https://open.spotify.com/track/6toPGhuVJ5qwD7odP82bxG"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
         "name": "sekisei inko",
         "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
       },
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
+        "name": "Can we do it again?",
+        "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
+      },
+      "artists": [
+        {
+          "name": "Julia Takada",
+          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Can we do it again?",
+      "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
         "name": "Who's in My House?",
         "url": "https://open.spotify.com/album/3Ak37Feu5PK03x4hjujdnf"
       },
@@ -1103,22 +1135,6 @@
       "duration_ms": 401871,
       "name": "Who's In My House?",
       "url": "https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
-        "name": "\u71d5",
-        "url": "https://open.spotify.com/album/685yIpLHwzuyHX3TepAVir"
-      },
-      "artists": [
-        {
-          "name": "\u30b9\u30fc\u30d1\u30fc\u767b\u5c71\u90e8",
-          "url": "https://open.spotify.com/artist/5evTVfgO40erEFI5qBxtQ9"
-        }
-      ],
-      "duration_ms": 229043,
-      "name": "\u71d5",
-      "url": "https://open.spotify.com/track/6toPGhuVJ5qwD7odP82bxG"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "Can we do it again?",
-        "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
-      },
-      "artists": [
-        {
-          "name": "Julia Takada",
-          "url": "https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Can we do it again?",
-      "url": "https://open.spotify.com/track/1RytrvNto1GzocVV1RHkLn"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
         "name": "TIME SLIP",
         "url": "https://open.spotify.com/album/0vS4ZBuvy8i8dibPsAp8fo"
       },
@@ -1207,6 +1207,22 @@
       "duration_ms": 268060,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/0HjrhgjXi2yKUm1lTlm2Cq"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
+        "name": "WINDSDAY",
+        "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 185094,
+      "name": "WINDSDAY",
+      "url": "https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -1239,22 +1255,6 @@
       "duration_ms": 194198,
       "name": "\u4e0d\u5b8c\u5168\u306a\u50d5\u306e\u58f0\u3068\u541b\u306e\u5b8c\u74a7\u306a\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/3iASdDwztv8An2kHTVCUME"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
-        "name": "WINDSDAY",
-        "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 185094,
-      "name": "WINDSDAY",
-      "url": "https://open.spotify.com/track/3P0mTFl9aQJg2KU3QgIt0n"
     },
     {
       "added_at": "2025-08-19 17:30:08",

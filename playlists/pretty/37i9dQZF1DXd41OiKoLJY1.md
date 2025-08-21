@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover:  Kxci Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,647 likes - 198 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,657 likes - 198 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 99 | [Blunt](https://open.spotify.com/track/2Xarbz4Q0DafGEYqdXVlsT) | [OD MZ](https://open.spotify.com/artist/6iyotE27f1eBCYVxDZgjc9) | [BLUNT](https://open.spotify.com/album/4WKzcRO1RDqF13HhRduVpg) | 2:27 |
 | 100 | [Mahiyain](https://open.spotify.com/track/4BpLrIBP4B3oqEuw1kmgI0) | [Arkin Lagman](https://open.spotify.com/artist/2ktWKWskUipNQ1xioXtRcl) | [Mahiyain](https://open.spotify.com/album/180w551nAex9mwGs8iTFQU) | 3:10 |
 | 101 | [onebadbish!](https://open.spotify.com/track/1YnydipVPZ9SvVqpfYDI1T) | [$Fidel](https://open.spotify.com/artist/7y8CjXsOVsAEhNrYjfKjEC), [clv$](https://open.spotify.com/artist/6KX1VmwWrAZBW5V8oh5SG0) | [onebadbish!](https://open.spotify.com/album/4jKr3wPO1NvUxvgRwRTpKY) | 2:34 |
-| 102 | [Nicole](https://open.spotify.com/track/6eO5l7vGhr5yFSs5Aruoa3) | [H.Y.P.E.®](https://open.spotify.com/artist/49FM9DdkH5WN0zmEoVPbW5) | [Nicole](https://open.spotify.com/album/3NPsQYW9fcP3Amn5imKozk) | 3:57 |
+| 102 | [Nicole](https://open.spotify.com/track/6eO5l7vGhr5yFSs5Aruoa3) | [Whadapop](https://open.spotify.com/artist/6nF7bpUw4FRazyPLpEFodZ) | [Nicole](https://open.spotify.com/album/3NPsQYW9fcP3Amn5imKozk) | 3:57 |
 | 103 | [Anino](https://open.spotify.com/track/1OBwSK9dMiYFZrtKSLDFkN) | [Aye, The Anchor](https://open.spotify.com/artist/0gZuauHY2eMUolgEulgTay) | [Anino](https://open.spotify.com/album/5oKU44rnxSjssi03y6NfFe) | 5:38 |
 | 104 | [Balik](https://open.spotify.com/track/0z7atbI6gFP5DUH1ZSdsNb) | [JJ Bautista](https://open.spotify.com/artist/3M51QuIvpjtew3YrZbKdqj) | [Balik](https://open.spotify.com/album/4YZvvBHUcRgaded5PIL6Eo) | 4:31 |
 | 105 | [Won't Wait](https://open.spotify.com/track/0Jz0p8rGnz5xypeXZ6pZy1) | [Jopper Ril](https://open.spotify.com/artist/3gyeV0Xls4UpNJdLU3IHoc) | [Won't Wait](https://open.spotify.com/album/6hkPngMrouHXxu7YxDkQED) | 4:52 |

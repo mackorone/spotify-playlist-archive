@@ -4,7 +4,7 @@
 
 > Artie 5ive in cover della playlist con il top dello street rap italiano ⛓️
 
-854 songs - 1 day 15 hr 6 min
+855 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -853,6 +853,7 @@
 | [X Sempre](https://open.spotify.com/track/69QHlK1wzGaY8M5QzB1fNx) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Dark Love EP](https://open.spotify.com/album/5Z5JxIgeTDnZdg6pLootUs) | 3:25 | 2022-08-29 | 2022-10-21 |
 | [X\-ADV \(feat\. Simba La Rue\)](https://open.spotify.com/track/76XNiHNTZ2KqW3cejIly4p) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [X\-ADV \(feat\. Simba La Rue\)](https://open.spotify.com/album/6e4RHSzdHbQXSpTUXM5WZe) | 2:01 | 2024-04-18 | 2024-06-14 |
 | [YALLA \(feat\. Guè & Marracash\)](https://open.spotify.com/track/6VTxXLLqkJw1GoKlKrwsvQ) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:17 | 2023-06-29 | 2023-10-27 |
+| [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 | 2025-08-20 |  |
 | [YAMAMAY](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [YAMAMAY](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 | 2023-02-16 | 2023-07-14 |
 | [YO](https://open.spotify.com/track/50ku9kOIoxwfKfdQCqbe8m) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [YO](https://open.spotify.com/album/27hO8daTikBVebKuEhZFGT) | 2:25 | 2022-09-29 | 2022-11-04 |
 | [Z4 \(don't play\)](https://open.spotify.com/track/0xrwA0Ww9aHqitSzxBJ858) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4 \(don't play\)](https://open.spotify.com/album/0SQQWjkyt1DtDIUhA8AxhP) | 2:20 | 2023-05-04 | 2023-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,578 songs - 19 day 14 hr 6 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,580 songs - 19 day 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7586,5 +7586,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7576 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
 | 7577 | [Ride \(feat\. Do or Die\)](https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Do Or Die](https://open.spotify.com/artist/0u6b6Qa5VJEvr3SgzzeVOB) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 2:59 |
 | 7578 | [아름다운 세상](https://open.spotify.com/track/4uh2B2Ps2Nci12nkzcj1nH) | [Yurisangja](https://open.spotify.com/artist/0yHsQ2vzDleLT7qjgo7qt7) | [All That Yurisangja](https://open.spotify.com/album/2AFoXmIqS5xgmaCzQRBtlY) | 3:34 |
+| 7579 | [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 |
+| 7580 | [Youth Promise \(청춘서약\)](https://open.spotify.com/track/6S9gXG6Qi9KJkQEdAtcXd6) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Youth Promise \(청춘서약\)](https://open.spotify.com/album/1PZCGYkcJDwUN3WjseqKN1) | 3:13 |
 
-Snapshot ID: `AAAIZKrUi1KcWok82n/2bhbfVEwGnHI0`
+Snapshot ID: `AAAIZpYdEpnqkgLfJMA1fSarEkA+s9wo`

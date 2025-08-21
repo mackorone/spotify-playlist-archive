@@ -4,7 +4,7 @@
 
 > <a href="https://loremandfriends.substack.com/p/at\-least\-we\-have\-music">Check out our latest newsletter!</a> Cover: Olivia Dean
 
-3,497 songs - 7 day 23 hr 7 min
+3,498 songs - 7 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1983,6 +1983,7 @@
 | [Mercury](https://open.spotify.com/track/0koaXm11b7sizUYJ67ebyn) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Mercury](https://open.spotify.com/album/1JgvMVfhrX7t3p2oAzO3aw) | 4:23 | 2025-08-01 |  |
 | [Merry Mary Marry Me](https://open.spotify.com/track/46eFhc076SX9jsJZ23tMjN) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 3:08 | 2024-05-03 | 2024-10-26 |
 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 | 2021-10-28 | 2022-06-03 |
+| [Message 1](https://open.spotify.com/track/1Ax55SEHx4toTKFEM3z7T5) | [Not For Radio](https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT) | [Message 1](https://open.spotify.com/album/6pgixwiySWx8NVXDLnplbI) | 0:54 | 2025-08-20 |  |
 | [Messed Up](https://open.spotify.com/track/4WHmafrJ0ANeLFf7UlXjiM) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Messed Up](https://open.spotify.com/album/5Bzq6KT7Xvqv6qsMDJpyi5) | 3:53 | 2020-10-24 | 2021-01-12 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 | 2025-01-18 |
 | [Messy Hair](https://open.spotify.com/track/5TBvQZLNHpCvYLiO98FjEg) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Fauxllennium \(Japanese Deluxe Edition\)](https://open.spotify.com/album/5MQx9UktIiM86OYBZh1c4M) | 1:56 | 2025-04-04 | 2025-08-02 |

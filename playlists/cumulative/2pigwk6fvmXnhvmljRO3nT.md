@@ -4,7 +4,7 @@
 
 > 
 
-7,648 songs - 19 day 17 hr 57 min
+7,650 songs - 19 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5407,6 +5407,7 @@
 | [Standing Ovation](https://open.spotify.com/track/3eMv1zl9vJhN5Lp7ol5NqM) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 4:08 | 2025-01-03 |  |
 | [staple stable](https://open.spotify.com/track/7AhiAL6fOhqIabtgZ8gF5L) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Bakemonogatari Gekihanongakushu \(Original Soundtrack\)](https://open.spotify.com/album/2sEpN2bNZaS8xgpaPDNJej) | 4:35 | 2025-01-15 |  |
 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2025-01-03 |  |
+| [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 | 2025-08-20 |  |
 | [Star U](https://open.spotify.com/track/2p37rpqVkZuWcSuP5wTdNi) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [Ideation Deluxe](https://open.spotify.com/album/4p1q83d3FMGXXAjEUBep7Z) | 3:47 | 2025-01-24 |  |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2025-01-03 |  |
 | [STAR WARS SAMBA](https://open.spotify.com/track/4Xzi9Jo2w2MWkuKF3WY3EX) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [BRASILIAN SKIES](https://open.spotify.com/album/0zXeZw0oFC2Db99RqlfHur) | 3:45 | 2025-01-04 |  |
@@ -6732,6 +6733,7 @@
 | [Your Prime](https://open.spotify.com/track/1GJr5BQIOvzFEoQlrufunl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 3:57 | 2024-12-05 |  |
 | [Your Reality](https://open.spotify.com/track/65X2rKeXgVceqex382wfuL) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:01 | 2025-03-22 |  |
 | [yours](https://open.spotify.com/track/24ISyrkOgpc0IodIEUokog) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [yours](https://open.spotify.com/album/0qtekNG39nfP3Os1iKpDLH) | 2:45 | 2025-01-15 |  |
+| [Youth Promise \(청춘서약\)](https://open.spotify.com/track/6S9gXG6Qi9KJkQEdAtcXd6) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Youth Promise \(청춘서약\)](https://open.spotify.com/album/1PZCGYkcJDwUN3WjseqKN1) | 3:13 | 2025-08-20 |  |
 | [youthful beautiful](https://open.spotify.com/track/1CNoDPlTxopkb9gDvDV9QC) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [youthful beautiful](https://open.spotify.com/album/3nZRen2XIx53Hmzt9D8j3N) | 4:37 | 2025-01-04 |  |
 | [youthful lunch](https://open.spotify.com/track/1fEzLmRhsJjzgn7aiNcXrG) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/5Q3abTCaUaDZRDBM1BpVAr) | 1:41 | 2024-12-10 |  |
 | [youthful lunch](https://open.spotify.com/track/6HAufILij6clOZ2UcutNCu) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 1:41 | 2025-04-20 | 2025-06-07 |

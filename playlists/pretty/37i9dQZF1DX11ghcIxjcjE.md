@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Eddie Vedder
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,742,430 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,742,551 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 40 | [Crown Of Thorns](https://open.spotify.com/track/2dLBo6rg8B2OuhuCETN9Dd) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab) | 6:21 |
 | 41 | [Burn a Hole](https://open.spotify.com/track/7fJZisLc35j8EbIQxTFx8b) | [Skin Yard](https://open.spotify.com/artist/0sPa3yPonEuDbDhBzz7g4E) | [1000 Smiling Knuckles](https://open.spotify.com/album/6eEONt3JiPOcm8IoYRCtH0) | 4:54 |
 | 42 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
-| 43 | [Revolve](https://open.spotify.com/track/09hctAvAEUpm7MKl1RBK2j) | [Melvins](https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 4:44 |
+| 43 | [Revolve](https://open.spotify.com/track/09hctAvAEUpm7MKl1RBK2j) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 4:44 |
 | 44 | [Between The Eyes](https://open.spotify.com/track/6qJw4fs0BB5pxYvb9RXuJk) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Between The Eyes](https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc) | 4:28 |
 | 45 | [This Is Shangrila](https://open.spotify.com/track/5bgyaidikHcXFd0o3Pp7A1) | [Mother Love Bone](https://open.spotify.com/artist/3XR64HmFo4OvexUUNW7TP0) | [Mother Love Bone](https://open.spotify.com/album/24UTTxVO1B0956xXWmtpab) | 3:41 |
 | 46 | [Alone + Easy Target](https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Foo Fighters](https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY) | 4:05 |

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 다린\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김뭉먕\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-601 songs - 1 day 11 hr 31 min
+602 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,10 +169,11 @@
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2021-12-10 |  |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-03-21 | 2022-04-10 |
 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 | 2024-03-06 | 2024-03-16 |
-| [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 |  |
+| [Gift](https://open.spotify.com/track/768qjgYUQghPWwiB7bOO8v) | [LEE JINJAE](https://open.spotify.com/artist/1i1n72fBCccroesjc4QJy6), [Lee Hyun Seok](https://open.spotify.com/artist/3hwqsPYE2apLL7pqeG8mvZ) | [Illustration Music Collaboration with Keykney](https://open.spotify.com/album/32wtvoiec5kgcVZxJ3rWHV) | 3:22 | 2025-08-18 | 2025-08-21 |
 | [Going Home](https://open.spotify.com/track/2XgJawz0ICRWPMu6fLUM18) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [School 2017, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5TNyLDNbnUnxnoLTS8pouH) | 3:24 | 2022-03-31 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-12-10 | 2024-09-03 |
 | [GONE BY THE MORNING](https://open.spotify.com/track/0KlY3QwVmVZnW4fcuqoccY) | [John OFA Rhee](https://open.spotify.com/artist/7iWynR4oOvJpSKOAR3zazP) | [bleeding in](https://open.spotify.com/album/5FnmNodRYZmvGdVvYUnapA) | 2:09 | 2021-12-10 | 2022-06-07 |
+| [Good Morning](https://open.spotify.com/track/3tQZVNZ8VJn9rO7sBvqZ50) | [Moong myang](https://open.spotify.com/artist/0wG6Zaj9hGxocaJ8v0osmZ) | [Brrrm](https://open.spotify.com/album/78YAT6fGxY8uRo7BFCUm3T) | 3:41 | 2025-08-20 |  |
 | [Good Night Song](https://open.spotify.com/track/7cjFci99s7GA53NSfNG59L) | [Lady Rocket](https://open.spotify.com/artist/2zVGdvvm1xcLGDQVLIiLUF), [Kim Mok In](https://open.spotify.com/artist/3IUX8SmaJD0APPRuGFmBZ1) | [Good Night Song](https://open.spotify.com/album/34RONRgxZDuUDBzdMsfxFb) | 2:04 | 2022-03-31 | 2022-04-06 |
 | [Good\-Bye](https://open.spotify.com/track/1kkZlKUU5DTvEMbS0daTLn) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 4:13 | 2022-03-31 | 2022-04-21 |
 | [Goodbye my blue \- Guitar ver.](https://open.spotify.com/track/6b7KxggNvupWQ0KR3OqiF4) | [Hong Jae Mok](https://open.spotify.com/artist/39kyg5uWqt115h7UWscgbM) | [Goodbye my blue \(Guitar ver.\)](https://open.spotify.com/album/3aglVF8E1ZzdXlz5xQl22q) | 4:16 | 2022-04-12 | 2022-04-14 |
@@ -432,7 +433,7 @@
 | [Spring in September](https://open.spotify.com/track/5PkgKQxZ73NxGaKdWrAUNg) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Spring in September](https://open.spotify.com/album/6iZSNXjixRDZ6owQkOM37K) | 3:43 | 2022-03-31 | 2022-04-11 |
 | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/track/6yfBZ5lr40Ckhas4fAD1r2) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ahin](https://open.spotify.com/artist/5JNaIRLfD6BwSR0R6jfT6B) | [Spring Love \(feat\. Ahin\)](https://open.spotify.com/album/1rbVqD8VBB5U0pJN5wdLLM) | 3:32 | 2022-03-31 | 2022-04-19 |
 | [Spring With You \(feat\. 20 Years of Age\)](https://open.spotify.com/track/6x2NxClyNFYyxfzr7Accjn) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG), [20 Years of Age](https://open.spotify.com/artist/0KaZcu3pEVHfYOnB62eLFp) | [Fit Me](https://open.spotify.com/album/7nGDmQqfUlVvXnmJF4Aid9) | 3:47 | 2022-04-12 | 2022-04-14 |
-| [Star](https://open.spotify.com/track/6wftNadxJrNC2jyVdt2Biu) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [My Girlfriend is the Man \(Original Soundtrack\) Part.5](https://open.spotify.com/album/7END3fAnSeSi907kheRqD2) | 4:27 | 2025-08-18 |  |
+| [Star](https://open.spotify.com/track/6wftNadxJrNC2jyVdt2Biu) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [My Girlfriend is the Man \(Original Soundtrack\) Part.5](https://open.spotify.com/album/7END3fAnSeSi907kheRqD2) | 4:27 | 2025-08-18 | 2025-08-21 |
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-20 | 2024-09-24 |
 | [Starfish on your head](https://open.spotify.com/track/6EUu1a2UhYLokK3A3xkmRh) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 3:12 | 2024-06-27 | 2024-08-02 |
 | [Starlight](https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2) | 4:33 | 2021-12-10 | 2022-07-21 |
@@ -510,7 +511,7 @@
 | [Twist Calm And Passion](https://open.spotify.com/track/3RyUljsKYUQsLJ3NhwCCja) | [Old Yearning](https://open.spotify.com/artist/1pvExL7XF65L9vFFoBLH1r) | [incomplete two](https://open.spotify.com/album/6KmnjYSHeNQqok12MJf5EM) | 2:46 | 2024-02-13 | 2024-02-21 |
 | [Umbrella](https://open.spotify.com/track/0o18OyyGIciA1QbaSWiMm0) | [diego](https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn) | [Fractal](https://open.spotify.com/album/7nRBNnnHayboasRapn3I91) | 2:56 | 2024-08-10 | 2024-08-23 |
 | [Underdog Love](https://open.spotify.com/track/2B3m6yaFZf5Tzwyn1opfT8) | [E.ul](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA) | [Underdog Love](https://open.spotify.com/album/7krQUrbx4ixgB9xD5eltcm) | 3:18 | 2025-07-11 | 2025-08-19 |
-| [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 | 2025-08-12 | 2025-08-19 |
+| [Unrelenting Love](https://open.spotify.com/track/12K3XV24edIuYrvWk7zvz1) | [NA Gichul](https://open.spotify.com/artist/5DByRDR4n4U5hFrtJbaVT2) | [Unrelenting Love](https://open.spotify.com/album/123F0Zaaf75ByBpgT1LRgA) | 3:35 | 2025-08-12 |  |
 | [Use Me](https://open.spotify.com/track/2u6CuICoBLDdCVYzyQi9E6) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [Use Me](https://open.spotify.com/album/5y6rbOkVDqjWIQhu4hfF7b) | 2:25 | 2022-03-04 | 2022-04-15 |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2021-12-10 |  |
 | [Very, Slowly](https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Twenty\-Five Twenty\-One OST Part 3](https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP) | 3:34 | 2022-03-04 | 2024-09-03 |

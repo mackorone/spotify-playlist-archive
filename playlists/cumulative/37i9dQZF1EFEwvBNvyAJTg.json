@@ -1782,7 +1782,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 172869,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/1s3lN9mJhWzhNIw28SQTuf"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 172869,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/2X8GwyuNBiOJKLCLNaefOT"
@@ -2214,7 +2214,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218480,
-      "name": "Just Got Paid",
+      "name": "Just Got Paid (feat. French Montana)",
       "url": "https://open.spotify.com/track/5CpkVOosLFc83LbwqO6hnI"
     },
     {
@@ -3564,7 +3564,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202506,
-      "name": "Say You Do",
+      "name": "Say You Do (feat. DJ Fresh)",
       "url": "https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O"
     },
     {
@@ -4537,28 +4537,6 @@
     },
     {
       "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "date_added": "2024-06-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251173,
-      "name": "What You Waiting For",
-      "url": "https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj"
-    },
-    {
-      "album": {
         "name": "Lullaby Renditions of Sigala",
         "url": "https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th"
       },
@@ -4592,6 +4570,28 @@
       "duration_ms": 226950,
       "name": "What You Waiting For",
       "url": "https://open.spotify.com/track/5XoO5CqmGa6CT8qOZI9IuV"
+    },
+    {
+      "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "What You Waiting For (feat. Kylie Minogue)",
+      "url": "https://open.spotify.com/track/3tjNFVYyJwiWAq1XfHWLMj"
     },
     {
       "album": {

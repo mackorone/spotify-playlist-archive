@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Lucky
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,574 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,570 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 24 | [Boring](https://open.spotify.com/track/3LaXW0BfRdbaidOfo8Sflq) | [Banjo Ulysses](https://open.spotify.com/artist/0Ipr4wuTLRX8ljmtrt3jR3) | [T4](https://open.spotify.com/album/6k9a1xfR6sedpMtRBITvQi) | 3:16 |
 | 25 | [Downtown Lights](https://open.spotify.com/track/2fzVt8fg0RDWhM8tcWMbiF) | [Chloe Dadd](https://open.spotify.com/artist/7uXyXCNAbNu5X6BdPFBWrj) | [Downtown Lights](https://open.spotify.com/album/5bsoPNmoxDjrXqhzKOd5CH) | 2:28 |
 | 26 | [lego](https://open.spotify.com/track/2lIvl5lxoJxmiyZfG1Mgrf) | [Maple's Pet Dinosaur](https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je) | [lego](https://open.spotify.com/album/23iZtzJsbEpUzWDDWKbHLD) | 2:18 |
-| 27 | [Let's Go Out](https://open.spotify.com/track/5KfTbmYBZ9SF5CwqGWkEnY) | [miramar](https://open.spotify.com/artist/1KXB7OnOrEEM6tZUBa6CUX) | [Best of a Thing \- EP](https://open.spotify.com/album/3tUJjpy7PCZOb0HZpDMHkd) | 3:11 |
+| 27 | [Let's Go Out](https://open.spotify.com/track/5KfTbmYBZ9SF5CwqGWkEnY) | [miramar](https://open.spotify.com/artist/1KXB7OnOrEEM6tZUBa6CUX) | [Best of a Thing](https://open.spotify.com/album/3tUJjpy7PCZOb0HZpDMHkd) | 3:11 |
 | 28 | [Glide](https://open.spotify.com/track/7e2polOF7Yjrs3eGiexCVW) | [ALZZY](https://open.spotify.com/artist/7AO0PhHfvJgyp71cMqusc7) | [Glide](https://open.spotify.com/album/1exJ4zN191WcU3Ok2OeOOT) | 2:38 |
 | 29 | [10Tall](https://open.spotify.com/track/04LjJGH3w4RDrAbNki1nOx) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [10Tall](https://open.spotify.com/album/3wHvldNqZyWfl1wUSKQcTC) | 3:41 |
 | 30 | [Growing Old](https://open.spotify.com/track/72lncHer2PfUorS32qexwb) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK), [Dylan Young](https://open.spotify.com/artist/1mStq9PMg0Q8dcY4jYEOwD), [Chet Sounds](https://open.spotify.com/artist/6tL6Eapfk83u9m5yvCVedX) | [Growing Old](https://open.spotify.com/album/2Jq9JgprHddef6YaX8CY4b) | 3:16 |

@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tassi](https://open.spotify.com/track/5WfeCCpif2aYodXapvRv96) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Tassi](https://open.spotify.com/album/3gSUL69CSDeIOCgXYUlaXS) | 4:43 |
-| 2 | [Indlela](https://open.spotify.com/track/1JyFiQLj1id2Yxi3MvxZ63) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The God Anomaly](https://open.spotify.com/album/4LUkscfzKv5S5Dy84jhVJG) | 4:01 |
+| 2 | [Indlela](https://open.spotify.com/track/1JyFiQLj1id2Yxi3MvxZ63) | [Solo Ntsizwa](https://open.spotify.com/artist/7LRc3DKRa8l7kC5pd65q6k), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The God Anomaly](https://open.spotify.com/album/4LUkscfzKv5S5Dy84jhVJG) | 4:01 |
 | 3 | [Amaqatha Amancane](https://open.spotify.com/track/60VjGvGReNEvFixZjzkAnI) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Amaqatha Amancane](https://open.spotify.com/album/4hsxCzsRFIhmFyCu4lvHrB) | 1:37 |
 | 4 | [BLESSINGS](https://open.spotify.com/track/3brIQFWT3uH1qBiHwXgJID) | [OLOOTÙ](https://open.spotify.com/artist/2r8dLv6MC4fUri2tk2jSJe) | [BLESSINGS](https://open.spotify.com/album/4UeIGRcGHjtrzfbU8RWlFB) | 4:17 |
 | 5 | [Rudo](https://open.spotify.com/track/48tvQhZFaNw7yDOqmEMpea) | [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Rudo](https://open.spotify.com/album/3EXzPFbV1E9sFGFFuYFeVe) | 3:30 |

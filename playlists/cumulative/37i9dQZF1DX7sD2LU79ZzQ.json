@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "ADDICTION",
+        "url": "https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp"
+      },
+      "artists": [
+        {
+          "name": "Naomi Ivo",
+          "url": "https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149743,
+      "name": "ADDICTION",
+      "url": "https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI"
+    },
+    {
+      "album": {
         "name": "PROJECT POP 2856",
         "url": "https://open.spotify.com/album/3j8X0tnyGb892c9RyOveK9"
       },

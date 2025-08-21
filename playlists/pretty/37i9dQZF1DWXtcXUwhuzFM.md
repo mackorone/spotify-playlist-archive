@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia Vestalta, Sara Siipolalta, kialta, Zara Larssonilta ja monelta muulta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,523 likes - 113 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,520 likes - 113 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

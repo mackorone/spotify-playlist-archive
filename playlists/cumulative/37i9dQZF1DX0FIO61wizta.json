@@ -1894,44 +1894,6 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Dame Joan Sutherland",
-          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
-        },
-        {
-          "name": "The London Opera Chorus",
-          "url": "https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169333,
-      "name": "La traviata / Act 1: Libiamo ne'lieti calici",
-      "url": "https://open.spotify.com/track/2jPFGSbq3exl6sc9udZPr2"
-    },
-    {
-      "album": {
-        "name": "Verdi: La Traviata - Highlights",
-        "url": "https://open.spotify.com/album/4Z7x65Pdm8AWeA8rtSXzcv"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
           "name": "National Philharmonic Orchestra",
           "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
         },
@@ -1972,32 +1934,6 @@
       "duration_ms": 247120,
       "name": "La traviata / Act 1: Prelude",
       "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
-    },
-    {
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/79g1os8AKRFd8iQwCaokGR"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "date_added": "2019-11-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/3gHhHH1raH4Xf7j1YkvlTX"
     },
     {
       "album": {
@@ -2242,6 +2178,70 @@
       "duration_ms": 216706,
       "name": "La traviata, Act I: E strano! - Ah, fors'\u00e8 lui",
       "url": "https://open.spotify.com/track/3O5ALEXsR3Us1ys00AD7c2"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata - Highlights",
+        "url": "https://open.spotify.com/album/4Z7x65Pdm8AWeA8rtSXzcv"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "The London Opera Chorus",
+          "url": "https://open.spotify.com/artist/3RIfkcDRrJkrLteTN46oHJ"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "La traviata, Act I: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/2jPFGSbq3exl6sc9udZPr2"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/79g1os8AKRFd8iQwCaokGR"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2019-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247120,
+      "name": "La traviata, Act I: Prelude",
+      "url": "https://open.spotify.com/track/3gHhHH1raH4Xf7j1YkvlTX"
     },
     {
       "album": {

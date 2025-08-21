@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring Meera, Sagar Verma and other exciting artists.\n",
-  "num_followers": 93171,
+  "num_followers": 93209,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Tujhi Mein",
+        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
+      },
+      "artists": [
+        {
+          "name": "Saahel",
+          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tujhi Mein",
+      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "Kaise Ho Tum",
         "url": "https://open.spotify.com/album/6AnZMvLRQAA3WNH5OXC4ZJ"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 163899,
       "name": "Kaise Ho Tum",
       "url": "https://open.spotify.com/track/3Uwok7aLLQyXhfqNlekSim"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Tujhi Mein",
-        "url": "https://open.spotify.com/album/1o8mYmyDY6pvGOOeQwz4Ag"
-      },
-      "artists": [
-        {
-          "name": "Saahel",
-          "url": "https://open.spotify.com/artist/7st82DZof2QDfmIZPTgr7r"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tujhi Mein",
-      "url": "https://open.spotify.com/track/33dMUDcgnHuhRKFBv2dIWt"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -483,26 +483,18 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
-        "name": "Shaam Se",
-        "url": "https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G"
+        "name": "Sweetburn",
+        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
       },
       "artists": [
         {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        },
-        {
-          "name": "Aditya Bisht",
-          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+          "name": "W.i.S.H.",
+          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
         }
       ],
-      "duration_ms": 170204,
-      "name": "Shaam Se",
-      "url": "https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv"
+      "duration_ms": 167903,
+      "name": "Ishaare",
+      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -531,6 +523,30 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Shaam Se",
+        "url": "https://open.spotify.com/album/1cCw1JPunWjj8wsOrkGB7G"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        },
+        {
+          "name": "Aditya Bisht",
+          "url": "https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR"
+        }
+      ],
+      "duration_ms": 170204,
+      "name": "Shaam Se",
+      "url": "https://open.spotify.com/track/74nIqX0QoICGwolrFuWKrv"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "kinaare",
         "url": "https://open.spotify.com/album/3y51mLmOeoD68jxmMdAr4i"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 230357,
       "name": "kinaare",
       "url": "https://open.spotify.com/track/6oUfzXJGtzdjANU7Hx2FHY"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Sweetburn",
-        "url": "https://open.spotify.com/album/2CLrTDeBWcP9WfoimcOyfX"
-      },
-      "artists": [
-        {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
-        }
-      ],
-      "duration_ms": 167903,
-      "name": "Ishaare",
-      "url": "https://open.spotify.com/track/6Mf2tip4xjmlyGGaQRJr60"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -603,6 +603,22 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Chandni",
+        "url": "https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp"
+      },
+      "artists": [
+        {
+          "name": "Anmol A",
+          "url": "https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Chandni",
+      "url": "https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "Jaane Do Mujhe",
         "url": "https://open.spotify.com/album/5hKv5HdcDLIvWnrAzLVelE"
       },
@@ -619,18 +635,26 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
-        "name": "Chandni",
-        "url": "https://open.spotify.com/album/6NNdw1bjy6Z3BHfd5S9Fbp"
+        "name": "You",
+        "url": "https://open.spotify.com/album/7xuRruXoz3s9VhTtIgHAAy"
       },
       "artists": [
         {
-          "name": "Anmol A",
-          "url": "https://open.spotify.com/artist/4K60fhzI6KgrXpVsPwxuJb"
+          "name": "Third Hour",
+          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
+        },
+        {
+          "name": "Jlok",
+          "url": "https://open.spotify.com/artist/2SYXyfwDgUuad1YucOpGqy"
+        },
+        {
+          "name": "VZO",
+          "url": "https://open.spotify.com/artist/0YdTJNwbHAnzpAhlwBDgXF"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Chandni",
-      "url": "https://open.spotify.com/track/0k4MaE3r8qucVkFeJZPzwG"
+      "duration_ms": 136615,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5DStpR7tH6DgP06HJpJr5r"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -675,46 +699,6 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/7xuRruXoz3s9VhTtIgHAAy"
-      },
-      "artists": [
-        {
-          "name": "Third Hour",
-          "url": "https://open.spotify.com/artist/64h4PgJYGBgxo4UNFAJfxJ"
-        },
-        {
-          "name": "Jlok",
-          "url": "https://open.spotify.com/artist/2SYXyfwDgUuad1YucOpGqy"
-        },
-        {
-          "name": "VZO",
-          "url": "https://open.spotify.com/artist/0YdTJNwbHAnzpAhlwBDgXF"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5DStpR7tH6DgP06HJpJr5r"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Kisse",
-        "url": "https://open.spotify.com/album/7dkpnaX8v3uCNDKZ8gWASu"
-      },
-      "artists": [
-        {
-          "name": "Samira Koppikar",
-          "url": "https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e"
-        }
-      ],
-      "duration_ms": 178839,
-      "name": "Kisse",
-      "url": "https://open.spotify.com/track/0iK7uwDTeX9riw5J1DaBe6"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
         "name": "Aadhi Chai",
         "url": "https://open.spotify.com/album/0u5P8rVA9QOeBtkQYyZ66b"
       },
@@ -731,38 +715,18 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
-        "name": "Kaisi Ye Aandhi Thee",
-        "url": "https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU"
+        "name": "Kisse",
+        "url": "https://open.spotify.com/album/7dkpnaX8v3uCNDKZ8gWASu"
       },
       "artists": [
         {
-          "name": "Mansa Jimmy",
-          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+          "name": "Samira Koppikar",
+          "url": "https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e"
         }
       ],
-      "duration_ms": 228228,
-      "name": "Kaisi Ye Aandhi Thee",
-      "url": "https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Kuch Na Rahe",
-        "url": "https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi"
-      },
-      "artists": [
-        {
-          "name": "Sanyanth Naroth",
-          "url": "https://open.spotify.com/artist/1BwWT5CEluf0Stu2vMG8WR"
-        },
-        {
-          "name": "Ankur Tewari",
-          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
-        }
-      ],
-      "duration_ms": 192527,
-      "name": "Kuch Na Rahe",
-      "url": "https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8"
+      "duration_ms": 178839,
+      "name": "Kisse",
+      "url": "https://open.spotify.com/track/0iK7uwDTeX9riw5J1DaBe6"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -787,6 +751,22 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Kaisi Ye Aandhi Thee",
+        "url": "https://open.spotify.com/album/1fdzdvL1O03xY27LOxbpkU"
+      },
+      "artists": [
+        {
+          "name": "Mansa Jimmy",
+          "url": "https://open.spotify.com/artist/6FJ5r41aRtJHkEJCPWGTKu"
+        }
+      ],
+      "duration_ms": 228228,
+      "name": "Kaisi Ye Aandhi Thee",
+      "url": "https://open.spotify.com/track/7h1OtQaJ6HVMNVPYbNmH7p"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "Peeche Mudke",
         "url": "https://open.spotify.com/album/1Q5uXL243RxNPyfGVPHB8i"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 212500,
       "name": "Peeche Mudke",
       "url": "https://open.spotify.com/track/1H35qSJKvmYlVDycuvBWVq"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
+        "name": "Kuch Na Rahe",
+        "url": "https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi"
+      },
+      "artists": [
+        {
+          "name": "Sanyanth Naroth",
+          "url": "https://open.spotify.com/artist/1BwWT5CEluf0Stu2vMG8WR"
+        },
+        {
+          "name": "Ankur Tewari",
+          "url": "https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6"
+        }
+      ],
+      "duration_ms": 192527,
+      "name": "Kuch Na Rahe",
+      "url": "https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8"
     },
     {
       "added_at": "2025-08-15 05:45:57",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-08-15 05:45:57",
       "album": {
+        "name": "Thokro Ke Dhabe",
+        "url": "https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb"
+      },
+      "artists": [
+        {
+          "name": "Rahgir",
+          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
+        }
+      ],
+      "duration_ms": 210581,
+      "name": "Thokro Ke Dhabe",
+      "url": "https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa"
+    },
+    {
+      "added_at": "2025-08-15 05:45:57",
+      "album": {
         "name": "O Maaa",
         "url": "https://open.spotify.com/album/2GjCniVKKT8c15EIP4CfBQ"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 180916,
       "name": "O Maaa",
       "url": "https://open.spotify.com/track/3dTLzaV6YGQn6gOZ2j9t0L"
-    },
-    {
-      "added_at": "2025-08-15 05:45:57",
-      "album": {
-        "name": "Thokro Ke Dhabe",
-        "url": "https://open.spotify.com/album/29cJqwLp5LR97kCAtIjoNb"
-      },
-      "artists": [
-        {
-          "name": "Rahgir",
-          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
-        }
-      ],
-      "duration_ms": 210581,
-      "name": "Thokro Ke Dhabe",
-      "url": "https://open.spotify.com/track/5NDD08apREZEiLlT3xKQEa"
     }
   ],
   "unique_name": "Naya Indiestan",

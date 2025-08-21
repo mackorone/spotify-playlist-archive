@@ -11912,7 +11912,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 265762,
       "name": "Di Chopper",
       "url": "https://open.spotify.com/track/3CLA4E7HOX6MBSjZG7hyhm"
@@ -14612,7 +14612,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 336600,
       "name": "Esandleni",
       "url": "https://open.spotify.com/track/2LeOHKRLm1Bz7eeNVinUYs"
@@ -22512,7 +22512,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 345704,
       "name": "Inja Kabi Lena",
       "url": "https://open.spotify.com/track/0UUJITwaCJnhBECKzJmNTW"
@@ -23464,6 +23464,28 @@
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
+    },
+    {
+      "album": {
+        "name": "Ithathe (Shenge Version)",
+        "url": "https://open.spotify.com/album/7qKFaRqZ6IlbxF9b5KxLSI"
+      },
+      "artists": [
+        {
+          "name": "Mshinwemali",
+          "url": "https://open.spotify.com/artist/16Sxr5Kd5KJIUXTUVtmVOV"
+        },
+        {
+          "name": "Shenge Wasehlalankosi",
+          "url": "https://open.spotify.com/artist/5LtC3sE9p9buuA3v1YpFfs"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Ithathe - Shenge Version",
+      "url": "https://open.spotify.com/track/3NwDK579thyRXH36kNcXSN"
     },
     {
       "album": {
@@ -27284,7 +27306,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 148869,
       "name": "Leftie (Dlala Ngcobo)",
       "url": "https://open.spotify.com/track/4rvyWzIbcobWutWtcgUN0k"
@@ -27602,7 +27624,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -27620,7 +27642,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -51540,7 +51562,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 284055,
       "name": "Uvume Kanjani?",
       "url": "https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI"
@@ -51802,7 +51824,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 402285,
       "name": "Uyisela - Remix",
       "url": "https://open.spotify.com/track/31bd1gDnH7vhunCzawxaDj"
@@ -56164,7 +56186,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

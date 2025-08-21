@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,137 likes - 60 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,141 likes - 60 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 6 | [Erhmia](https://open.spotify.com/track/2UePKNtKiYpgxpAhuDOxzS) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [Erhmia](https://open.spotify.com/album/3XQSiiFtEjajpU2BHfATAf) | 2:11 |
 | 7 | [NAXO](https://open.spotify.com/track/76GRYJiHeSiMQwnduYIlyr) | [BAKV](https://open.spotify.com/artist/7q4dxsrYuPcd0PgxBc1eQ4), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [NAXO](https://open.spotify.com/album/1lwa1Dba6uADUwmasQR6Mc) | 2:44 |
 | 8 | [DO DO DO](https://open.spotify.com/track/1VXkBopWGByUHkQTipDycM) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [FOR ALL THE BEACHES 2.8](https://open.spotify.com/album/2ugHLvVQosJYX1kFBDyMfp) | 2:00 |
-| 9 | [bichota](https://open.spotify.com/track/7JB5KMD4UvyiJvZ0ZAGwxW) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [bichota](https://open.spotify.com/album/52UuThkSQTrH7wXCjFLSk3) | 2:18 |
+| 9 | [bichota](https://open.spotify.com/track/7JB5KMD4UvyiJvZ0ZAGwxW) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [bichota](https://open.spotify.com/album/52UuThkSQTrH7wXCjFLSk3) | 2:14 |
 | 10 | [Gunshot](https://open.spotify.com/track/0TfiM5B3ODte1XwSMs9E3r) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [TRAUMA](https://open.spotify.com/album/7FZiadbexPEv9gnRnzA0MM) | 2:58 |
 | 11 | [V.A.R.](https://open.spotify.com/track/0Stg1iLZjuakhqa2iu7lCF) | [Block 93](https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo), [Sp93](https://open.spotify.com/artist/70BVuSoIusPEV52Fyi3RlK), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [V.A.R.](https://open.spotify.com/album/1mj6Fki6aITCoQjSYqOl1h) | 3:15 |
 | 12 | [Thelw Na Se Dw](https://open.spotify.com/track/6vSy6np4X6taAUmk8R1DTp) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Thelw Na Se Dw](https://open.spotify.com/album/6vTLwPmhUJKlUtNeUedsQw) | 2:37 |

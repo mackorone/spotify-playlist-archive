@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-819 songs - 1 day 10 hr 52 min
+822 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 | 2023-04-22 |
 | [Alegría](https://open.spotify.com/track/4EknSwO7h0DapEHV5G2vys) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Alegría](https://open.spotify.com/album/2UUxdIpFuyKudZgrUNZA6U) | 2:34 | 2023-04-21 | 2024-06-11 |
 | [Alexandria](https://open.spotify.com/track/6VBcvDRVk9dPAVkA9Katq8) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Alexandria](https://open.spotify.com/album/40l2y3r9iYUVkxTrA5yYU1) | 2:38 | 2023-04-21 | 2023-06-03 |
-| [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 | 2025-06-11 |  |
+| [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 | 2025-06-11 | 2025-08-21 |
 | [All Because I Found You](https://open.spotify.com/track/7nMYvgw89GfmCixfIopY3J) | [Miko Yoshida](https://open.spotify.com/artist/54v563e3Njq2wjXwnXM6DR) | [All Because I Found You](https://open.spotify.com/album/1bAwPcodbxhx19GvgzYSsX) | 3:11 | 2023-05-12 | 2024-05-28 |
 | [Along The River Bed](https://open.spotify.com/track/1BM24Gn75oMaeHhhepw5s5) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Along The River Bed](https://open.spotify.com/album/5SgOo5N1ol9tZM97orurK0) | 3:26 | 2023-04-21 | 2023-05-13 |
 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 | 2022-12-16 | 2023-04-22 |
@@ -184,7 +184,7 @@
 | [Dedicatoria](https://open.spotify.com/track/4kSgfg7Onjho66CRdBNIEV) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Laurine Phélut](https://open.spotify.com/artist/2oK2RQBv4xshG5I2K1YsXh) | [Dedicatoria](https://open.spotify.com/album/14UWqXiWi3thrZOh1oUEIO) | 2:03 | 2023-04-21 | 2023-05-13 |
 | [Deep End](https://open.spotify.com/track/3NHWhbuTDRO5y5lWjkZOLE) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Deep End](https://open.spotify.com/album/1LvDcTZgsmxYBuuyKFt8ba) | 2:23 | 2023-04-21 | 2023-06-09 |
 | [Deep Rivers](https://open.spotify.com/track/68DrdlEmRZrV7XSrGxg4Fc) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Deep Rivers](https://open.spotify.com/album/7pEzbIpYdVpDxBUhDkcZQu) | 2:16 | 2023-04-21 | 2024-04-20 |
-| [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 |  |
+| [Deep Waters](https://open.spotify.com/track/2OhWtf18hW60rqXpCxhCLL) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Deep Waters](https://open.spotify.com/album/2jFYCbPkXAN8JrOG93kXmt) | 2:19 | 2023-08-10 | 2025-08-21 |
 | [Demelza](https://open.spotify.com/track/4ENWUdGVKTUKpwLVcW7wCW) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Demelza](https://open.spotify.com/album/3I4jdlp5h4GbDV5OOletTP) | 3:25 | 2023-03-10 | 2024-07-19 |
 | [Depois do adeus](https://open.spotify.com/track/3UW7pLXAXwvGc6cMnnYd0e) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [The Longest Night](https://open.spotify.com/album/4LiHFIquwspZcQoqIfrTgi) | 2:51 | 2022-07-15 | 2023-04-22 |
 | [der Elch](https://open.spotify.com/track/4O13E1iUnn7rHagANfr69q) | [Diane Edison](https://open.spotify.com/artist/1zBXAlRbmBsKxR6q9Xwph9) | [colored ocean](https://open.spotify.com/album/698szoxtS7pr3ur5Km4CaX) | 3:25 | 2022-07-15 | 2023-02-25 |
@@ -509,8 +509,10 @@
 | [Northern Lights](https://open.spotify.com/track/2KBsor7M5dzpNzOGTGEzvf) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Northern Lights](https://open.spotify.com/album/6Is1SWxtKzl1oHvNV81G8L) | 2:14 | 2024-08-20 |  |
 | [Nostalgia](https://open.spotify.com/track/0ytp8JZQRlVUhV6QQRZmEI) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/1Wezujs4mQrwg1cvpb4Mad) | 2:28 | 2023-04-21 | 2023-04-27 |
 | [Nostalgia](https://open.spotify.com/track/4atfRW7bT2qyNJhlgmB3RR) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Nostalgia](https://open.spotify.com/album/6bzPgSWghq5hhVwgbIrTTX) | 2:28 | 2023-04-21 | 2023-10-23 |
+| [Nostalgic](https://open.spotify.com/track/5q5otSq5s8JRENndQRisZJ) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Nostalgic](https://open.spotify.com/album/2sAoh43R2UOHgKF5cuNiuk) | 2:53 | 2025-08-18 |  |
 | [Nostalgic Memories](https://open.spotify.com/track/1NAZJrkYw51qkxkyyE9Olc) | [Robert Lowe](https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5) | [Nostalgic Memories](https://open.spotify.com/album/2jLfK4yOn715dvrxLVLV71) | 3:23 | 2024-11-20 |  |
 | [Now and Always](https://open.spotify.com/track/1y4kDlA8bZhboSNVxSa8vW) | [Sam Blom](https://open.spotify.com/artist/25zEYREIlgZF0kZ4Mb7OKN) | [Now and Always](https://open.spotify.com/album/6p2dyzjZvDiVZib2tSRjt0) | 2:27 | 2025-06-16 |  |
+| [Now Let's Move On](https://open.spotify.com/track/4Ch7WJ7oWgjCNR0gTSWnxu) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Now Let's Move On](https://open.spotify.com/album/11DnBfUveDGErBMm4h8zQo) | 2:23 | 2025-08-18 |  |
 | [Now's Not The Time](https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L) | [Gabriel Sellier](https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ) | [Now's Not The Time](https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt) | 2:58 | 2024-03-08 |  |
 | [Nuovi inizi](https://open.spotify.com/track/0odeeMwtvPisk7GJdTrP8m) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Nuovi inizi](https://open.spotify.com/album/5bUd4Ea2GEcJudlDfMGE94) | 2:02 | 2023-04-21 | 2024-05-08 |
 | [Oak](https://open.spotify.com/track/12fpjrMk5mK2rpr6VwVAbs) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nantucket](https://open.spotify.com/album/6nwzydXcRkEsvMIK2mGpfB) | 2:57 | 2023-04-21 | 2023-06-03 |
@@ -629,7 +631,7 @@
 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
-| [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 |  |
+| [Share her stories](https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Share her stories](https://open.spotify.com/album/18tauEkO61p1X265CtryAz) | 2:08 | 2024-09-10 | 2025-08-21 |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 | 2025-02-20 |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 | 2022-09-17 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2023-04-21 |  |
@@ -738,6 +740,7 @@
 | [Think Of Me](https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Think Of Me](https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO) | 2:41 | 2023-06-02 |  |
 | [This Time Tomorrow](https://open.spotify.com/track/4Eivcpu9MoHaEvYLJ9fV4k) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/3efIhVkzBPxJnYHVy2me9S) | 2:09 | 2023-04-21 | 2023-05-13 |
 | [This Time Tomorrow](https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV) | 2:09 | 2023-04-21 | 2023-05-06 |
+| [This Yellow Light](https://open.spotify.com/track/4kctoVJ5NcwQxD8MwKcsa4) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [This Yellow Light](https://open.spotify.com/album/5H1LeHCf7tV7ydiInjejnv) | 2:20 | 2025-08-18 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 | 2023-04-22 |
 | [Through Space And Time](https://open.spotify.com/track/7ntTUba89GDgmTiIDaF9FU) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Through Space And Time](https://open.spotify.com/album/43ZdDQgeDHozcQIuojFdBR) | 2:33 | 2024-09-03 |  |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2022-07-15 | 2023-04-22 |

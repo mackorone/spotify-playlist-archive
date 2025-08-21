@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG?si=qdILn\_9sT260KeE\_LkwZuA">Gemma Griffiths</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,009 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,012 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 | 7 | [Another Mess I Make](https://open.spotify.com/track/27aqkdGNCiEt6o2BLRdbda) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Nkatha Muthoni](https://open.spotify.com/artist/6GsjoCCj2BMdqDSjbl6B2P) | [Another Mess I Make](https://open.spotify.com/album/4MpHnTvay6SD8GPU0uCMQ8) | 4:17 |
 | 8 | [Heartbreaker](https://open.spotify.com/track/5yX2b0p2F3JuTmGqbwz29o) | [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [Heartbreaker](https://open.spotify.com/album/2Pi2ZiUR6koGI6a5yZO9oO) | 2:26 |
 | 9 | [Alive](https://open.spotify.com/track/19Tv0G8b8c2TRGu2UiuxK5) | [Halo Yagami](https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW) | [Alive](https://open.spotify.com/album/21DePZ4Js4Dv92ZzjaFC94) | 2:38 |
-| 10 | [Indlela](https://open.spotify.com/track/1JyFiQLj1id2Yxi3MvxZ63) | [Solo Ntsizwa Ka Mthimkhulu](https://open.spotify.com/artist/5YW48kOOBcUUOpXgAI1KYY), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The God Anomaly](https://open.spotify.com/album/4LUkscfzKv5S5Dy84jhVJG) | 4:01 |
+| 10 | [Indlela](https://open.spotify.com/track/1JyFiQLj1id2Yxi3MvxZ63) | [Solo Ntsizwa](https://open.spotify.com/artist/7LRc3DKRa8l7kC5pd65q6k), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [The God Anomaly](https://open.spotify.com/album/4LUkscfzKv5S5Dy84jhVJG) | 4:01 |
 | 11 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 12 | [Heaven](https://open.spotify.com/track/0Ux6CyGdySGIvrzQ6Lx9ri) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 3:19 |
 | 13 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 |

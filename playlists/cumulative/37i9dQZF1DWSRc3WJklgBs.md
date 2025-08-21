@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,480 songs - 3 day 13 hr 22 min
+1,481 songs - 3 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/track/54Yr0BPkVQ378IeCWnG91Q) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Burning \(feat\. Camden Cox\)](https://open.spotify.com/album/6sWssLrwhCrk3kGjzwJ9ZV) | 3:06 | 2021-09-25 | 2022-05-14 |
 | [Burning My Bridges](https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr) | [Burning My Bridges](https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84) | 3:08 | 2022-02-25 | 2024-04-10 |
 | [butterflies \(with ellie d.\)](https://open.spotify.com/track/5pvns5bolpTAa81tgq0BGA) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie), [spüke](https://open.spotify.com/artist/7Kp3QigsDv1da3pxDfSfI8), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [butterflies \(with ellie d.\)](https://open.spotify.com/album/2X1X9CnCYTq07bnXXdg12E) | 2:53 | 2024-08-23 | 2025-03-22 |
+| [By My Side](https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9) | [Beau Cruz](https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS) | [By My Side](https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC) | 2:47 | 2025-08-15 |  |
 | [By My Side](https://open.spotify.com/track/4D7emHjofR0gcO9VxSoShw) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [ENDORPHINS](https://open.spotify.com/album/0cp9Tdzpu5SR0zKeKtGPBl) | 2:46 | 2021-08-14 | 2022-05-14 |
 | [By Your Side](https://open.spotify.com/track/3ZCLZ1tQf9Pcl2UO8s6JnN) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [By Your Side](https://open.spotify.com/album/19SBeuGsl71hCzjSy7i7Sc) | 2:35 | 2022-07-22 | 2024-04-10 |
 | [By Your Side](https://open.spotify.com/track/7bgz8auLPA7PesBhDHY1vW) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [By Your Side](https://open.spotify.com/album/6fvuV3mI9SUO2HM7QmHMJg) | 2:35 | 2020-12-05 | 2022-07-29 |
@@ -1431,7 +1432,7 @@
 | [With Me](https://open.spotify.com/track/3BAqz3rhnEEIvW8KWBr3E7) | [Dastic](https://open.spotify.com/artist/1wdU1J2NHzcDYarT7jEU2A), [Amanda Collis](https://open.spotify.com/artist/2RXmfgMl9V8akCT4wzTyE9) | [With Me](https://open.spotify.com/album/08JGDZxUzYyCPaZYziCP88) | 3:03 | 2020-09-07 | 2021-09-25 |
 | [With You](https://open.spotify.com/track/3gCF6JWBIyUxkKSA5GjCPR) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 4:31 | 2019-08-09\* | 2019-11-30 |
 | [With You](https://open.spotify.com/track/2niEmkDmcR2T0ch2qPPoLm) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [With You](https://open.spotify.com/album/1STaSLMAgjTvXuQTOqyvEw) | 3:21 | 2025-07-25 |  |
-| [With You](https://open.spotify.com/track/3MaQZqQ8LwRgOYHdQSyvxm) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Erolflynn](https://open.spotify.com/artist/6SWhyQG2La9G5ERxV3u64L) | [With You](https://open.spotify.com/album/7pvH2zsXHMCPsEOb1OFBQI) | 2:30 | 2025-03-07 |  |
+| [With You](https://open.spotify.com/track/3MaQZqQ8LwRgOYHdQSyvxm) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Erolflynn](https://open.spotify.com/artist/6SWhyQG2La9G5ERxV3u64L) | [With You](https://open.spotify.com/album/7pvH2zsXHMCPsEOb1OFBQI) | 2:30 | 2025-03-07 | 2025-08-21 |
 | [With You](https://open.spotify.com/track/4EQsvb4EX5TgiXiwMxADJL) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [LZRZ](https://open.spotify.com/artist/02Y4AdQs7ofsz3OBWbE5Yl) | [With You](https://open.spotify.com/album/0WpclKxFD2ZPtqf58NnbEl) | 2:57 | 2020-02-24 | 2021-09-25 |
 | [With You \(with Morgin Madison\)](https://open.spotify.com/track/5lW36ZLCGu81VzbIsMD2Rz) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej) | [With You \(with Morgin Madison\)](https://open.spotify.com/album/3ao0vhcYn0YR92cGNC9kW5) | 2:58 | 2023-03-07 | 2025-03-22 |
 | [With You, Friends \(Long Drive\)](https://open.spotify.com/track/1aF6jpITT6RzPxrYsZJeIm) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Scary Monsters and Nice Sprites EP](https://open.spotify.com/album/35tQBmq1RblVUzAvfsw5uO) | 6:29 | 2019-08-09\* | 2019-08-27 |

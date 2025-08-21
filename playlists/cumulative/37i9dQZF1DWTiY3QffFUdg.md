@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-298 songs - 15 hr 32 min
+299 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-08-11 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-11-03 | 2024-04-19 |
 | [Goes Like This](https://open.spotify.com/track/7t1rB0I5QZFhCtPAwOuqqc) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [ShortRound](https://open.spotify.com/artist/1ujyB2Dmn2EFyVmjDBjGGK) | [Goes Like This](https://open.spotify.com/album/2V8yiW5TVx3u3tGwqlLwlX) | 4:08 | 2024-01-26 | 2024-02-06 |
+| [Havana Bounce](https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Havana Bounce](https://open.spotify.com/album/78f1sQGjkzuQbS7boCVv8w) | 4:31 | 2025-08-15 |  |
 | [Hellfire](https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Hellfire](https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs) | 3:03 | 2025-02-28 | 2025-03-22 |
 | [Hello \(Call All My Friends\)](https://open.spotify.com/track/3TXgvBsDfEdSfJXXHRprCx) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [Hello \(Call All My Friends\)](https://open.spotify.com/album/2OlzZDJPCpBeH0zElBaisI) | 2:18 | 2023-12-08 | 2024-02-18 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-08-11 |  |
@@ -305,6 +306,6 @@
 | [Winter \(The Four Seasons\) \- Techno Mix](https://open.spotify.com/track/3UPltDNDxsC4rot0fJwBjv) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Winter \(The Four Seasons\) \[Techno Mix\]](https://open.spotify.com/album/2yEIqIvFwLaz1WIthNjff3) | 1:55 | 2024-05-10 | 2025-08-16 |
 | [Work That Body](https://open.spotify.com/track/20NQhs8KmLKBXmPJXB7jn9) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Temper](https://open.spotify.com/artist/0mvc9ZkNsOGa8coriUFV1h), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Work That Body](https://open.spotify.com/album/6olBCFfy8ATzQRpxQrPnfy) | 2:15 | 2025-05-16 | 2025-06-06 |
 | [XTC](https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [XTC](https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2) | 2:56 | 2024-07-12 | 2024-12-02 |
-| [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-13 |  |
+| [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-13 | 2025-08-21 |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

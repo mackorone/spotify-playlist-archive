@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-581 songs - 1 day 8 hr 27 min
+582 songs - 1 day 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Alag Aasman](https://open.spotify.com/track/4VgkQazKMpeWrCX2LT8CtW) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA) | [Alag Aasman](https://open.spotify.com/album/4nhqssTZYpv8dTO29InlEG) | 2:23 | 2023-10-26 | 2023-11-08 |
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Andhere Ka Sawera](https://open.spotify.com/track/75vCRbmPdxOKzkkLDpgLCU) | [Lavanya Dixit](https://open.spotify.com/artist/4TIlUf7GZgIhIHnLrdYxLm) | [Andhere Ka Sawera](https://open.spotify.com/album/6kbg7stADaZUYHWduMBzw4) | 1:22 | 2024-04-19 | 2024-05-29 |
+| [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 | 2025-08-20 |  |
 | [Arziyaan](https://open.spotify.com/track/49zLvT6TozhbD6ZYue8DUO) | [himRAAG](https://open.spotify.com/artist/79mjISM2eHu96BNO8xZx6X) | [Arziyaan](https://open.spotify.com/album/6spzdYgHt3Q6CHn0puHuOi) | 4:28 | 2025-05-05 | 2025-05-30 |
 | [Ashnaa](https://open.spotify.com/track/3C8ZxQ25aqnr3EtmIgVim7) | [Kajol Chatterjee](https://open.spotify.com/artist/4Li62BrnJU0dFuT40o4k19) | [Ashnaa](https://open.spotify.com/album/7zWt8dmsLiXipRty85huAK) | 4:06 | 2025-06-19 |  |
 | [Awaara](https://open.spotify.com/track/6e57KndbKvAeQzzSXiNjbn) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Awaara](https://open.spotify.com/album/3IdThrYvDFw688tR3DxfCF) | 2:52 | 2025-03-07 |  |
@@ -235,7 +236,7 @@
 | [Kahan Woh Din Gaye \- Revisit](https://open.spotify.com/track/0NeistykuenLMZFVIwA7Ko) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahan Woh Din Gaye \(Revisit\)](https://open.spotify.com/album/2Dsd3nEkuc3eopbSvOI9Gy) | 3:46 | 2024-07-19 | 2025-02-22 |
 | [Kahani](https://open.spotify.com/track/6sMxjlCiYvcfmK8DxfIXeH) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Kahani](https://open.spotify.com/album/7I29dbTNdImBhxnqhOEEWD) | 4:05 | 2024-03-14 | 2024-08-09 |
 | [Kaheen Dur](https://open.spotify.com/track/3aao7Ivw6dX2JwadKVB86f) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa) | [Kaheen Dur](https://open.spotify.com/album/1qSuMszKzt2pQUnBD4ZiDD) | 3:20 | 2023-07-12 | 2023-09-16 |
-| [Kahin Duur \(on the Piano\)](https://open.spotify.com/track/6dvj1hrlBnpriZYfnJUQSF) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Harsh Karmakar](https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD) | [Kahin Duur \(on the Piano\)](https://open.spotify.com/album/576ClYXt3r62u3KxWZ611F) | 5:06 | 2025-06-27 |  |
+| [Kahin Duur \(on the Piano\)](https://open.spotify.com/track/6dvj1hrlBnpriZYfnJUQSF) | [Deepika Seth](https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv), [Harsh Karmakar](https://open.spotify.com/artist/5KC5BRvLbQwTTGS1szdtrD) | [Kahin Duur \(on the Piano\)](https://open.spotify.com/album/576ClYXt3r62u3KxWZ611F) | 5:06 | 2025-06-27 | 2025-08-21 |
 | [Kaisa Hai Tu](https://open.spotify.com/track/7ha7c175FMuemBB38vvIrl) | [Tirth Thakkar](https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf) | [Kaisa Hai Tu](https://open.spotify.com/album/42ymCah47LkmJtV1AhjJAj) | 3:15 | 2024-03-11 | 2024-05-07 |
 | [Kaise Bataun](https://open.spotify.com/track/7kZPzHdYiNLacsoCBxSpI3) | [Sur](https://open.spotify.com/artist/6L5KkoxG4x8q5kGTMER0U5) | [Kaise Bataun](https://open.spotify.com/album/2N8oJuriRWv8yM4nNIAclm) | 3:10 | 2025-02-13 | 2025-03-19 |
 | [Kaise Kahun](https://open.spotify.com/track/1DLjYfDBS2bwdpcUyb2sHq) | [Abhin Joshi](https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq), [Abhi Solanki](https://open.spotify.com/artist/3tC0KUr3YwXIhJ2l6mJ8ob) | [Ek Kamre Ki Zindagi](https://open.spotify.com/album/6OEnEcgbGhOONF4urn8xPU) | 3:38 | 2025-05-30 | 2025-06-12 |

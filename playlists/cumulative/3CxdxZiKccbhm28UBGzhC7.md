@@ -4,7 +4,7 @@
 
 > 2023
 
-95 songs - 5 hr 27 min
+96 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-10-30 |  |
 | [The Man Don't Give a Fuck \- 2016 \- Remaster](https://open.spotify.com/track/3nKgqK8lLseqdMyUZm9ed0) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Fuzzy Logic \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1x6JiZdZ5HJcBk2zh6OTRl) | 4:53 | 2022-09-06 |  |
 | [The View From The Afternoon](https://open.spotify.com/track/5eyTC5GZzpzlN7YRO9AoPf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:42 | 2022-10-21 |  |
+| [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-08-20 |  |
 | [Vanilla](https://open.spotify.com/track/78cn5IFJkDRa60DMaiitPs) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [Vanilla](https://open.spotify.com/album/2PHZpaTOwRSdbUYRGFp92t) | 2:37 | 2023-09-01 |  |
 | [Vibrate](https://open.spotify.com/track/49qlXXclrGVj1V9mtQovx3) | [Red Rum Club](https://open.spotify.com/artist/36ccNWK0en3ouoLFpWfgJb) | [How To Steal The World](https://open.spotify.com/album/4kGCKCIGbJvPP6TQT9XPqc) | 4:08 | 2023-09-01 |  |
 | [Wall of Glass](https://open.spotify.com/track/5qlSYa5PePLAuAsAFgqVxW) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [As You Were \(Deluxe Edition\)](https://open.spotify.com/album/2V3WS9tlPYmscBNWHHYu9X) | 3:43 | 2024-10-30 |  |

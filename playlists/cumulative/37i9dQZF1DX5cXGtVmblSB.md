@@ -4,7 +4,7 @@
 
 > Soft music to calm down cats, kittens and their humans.
 
-245 songs - 13 hr 45 min
+250 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Book I: Prelude and Fugue No\. 1 in C Major BWV 846](https://open.spotify.com/track/4DhsyDcXQvtbSwqrvNtk47) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Bach: Well Tempered Clavier \(Books I & II, Complete\)](https://open.spotify.com/album/2hYizcKgB3qoyTbxqkIB1A) | 2:35 | 2020-01-10 | 2023-01-09 |
 | [Book I: Prelude and Fugue No\. 1 in C Major BWV 846: I\. Prelude](https://open.spotify.com/track/5zogxOXSQsQTyY5p49BG6D) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Bach: Well Tempered Clavier \(Books I & II, Complete\)](https://open.spotify.com/album/4OsweMAATSbKd9awYvOEEj) | 1:58 | 2020-01-10 | 2022-12-22 |
 | [Book I: Prelude and Fugue No\. 1 in C Major BWV 846: II\. Fugue](https://open.spotify.com/track/7zHvJKdxDHeTfOnUGgwBJR) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Sviatoslav Richter](https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X) | [Bach: Well Tempered Clavier \(Books I & II, Complete\)](https://open.spotify.com/album/4OsweMAATSbKd9awYvOEEj) | 2:35 | 2020-01-10 | 2022-12-21 |
+| [Bowl of Light](https://open.spotify.com/track/3VBGDT23rpjf8QQNnuCvXL) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Bowl of Light](https://open.spotify.com/album/1Dfd3f43IsM1w9Sc5MQv5E) | 2:46 | 2025-08-20 |  |
 | [Breathing Beliefs 528 Hz](https://open.spotify.com/track/62KNbFaTQiZLy6uuCv2eqn) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Breathing Beliefs 528 Hz](https://open.spotify.com/album/05Zhw8YRzYvqD6IaTjWBjE) | 4:41 | 2023-08-02 | 2024-08-29 |
 | [Brilliant World](https://open.spotify.com/track/109tY81HO3zaLidHHiSBPU) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Brilliant World & Blooming Peace](https://open.spotify.com/album/1PIfE4jAici4b5icjZnsB8) | 2:16 | 2023-07-03 |  |
 | [By Candlelight](https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:05 | 2023-05-19 |  |
@@ -65,6 +66,7 @@
 | [Catnap](https://open.spotify.com/track/3snvN0sHnVPxVdPBBntmGu) | [Chasing Mice](https://open.spotify.com/artist/5emC0ACttJgLui278GswPX) | [Catnap](https://open.spotify.com/album/3RV1nkRs14dnTMEa2avT7y) | 2:25 | 2023-08-31 | 2024-02-14 |
 | [Celestial Relief 174 Hz](https://open.spotify.com/track/76gz4q6jYJromho6Q04exU) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Celestial Relief 174 Hz](https://open.spotify.com/album/7eoD7DhZvERn9lRkB1g3qd) | 3:04 | 2023-10-16 |  |
 | [Center 528 Hz](https://open.spotify.com/track/75IwoDcRiVsD9nJnXD8zrP) | [Particles And Waves](https://open.spotify.com/artist/08hauwWhZFOvlZp1p1AGWa) | [Center 528 Hz](https://open.spotify.com/album/6jAJ0Hq3HxnmAZ3tQWzcUc) | 2:18 | 2023-09-20 | 2024-08-29 |
+| [Chime Currents](https://open.spotify.com/track/6EmuKO6k9vJ5eH7DWdoTLo) | [Atephis](https://open.spotify.com/artist/7wLT6L68giSFZDvgaotGIU) | [Chime Currents](https://open.spotify.com/album/5XUhlZCPFGq0n00e4aAYjH) | 2:41 | 2025-08-20 |  |
 | [Clear Mind \- 432 Hz](https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA) | [Liilia Janes](https://open.spotify.com/artist/3wJTyh4srXwp5jfld7LZ8j) | [Clear Mind \- 432 Hz](https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM) | 2:51 | 2023-09-20 |  |
 | [Clear Skies Ahead](https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Clear Skies Ahead](https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg) | 2:36 | 2024-07-18 |  |
 | [Cloud Jumping](https://open.spotify.com/track/00bauDnMAMynuMfOA9nGiq) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Cloud Jumping](https://open.spotify.com/album/3uNISiwQRief8WXrJt4qXd) | 3:11 | 2025-03-19 |  |
@@ -193,6 +195,7 @@
 | [Reflector](https://open.spotify.com/track/3VActv26ShH9wZKsYivLut) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Reflector](https://open.spotify.com/album/0iRZ3PagoECbNcicNO9xp6) | 3:30 | 2023-08-02 | 2024-08-29 |
 | [Relax My Cat](https://open.spotify.com/track/0ek9tPrHh2sZukgfv6mvkt) | [Cat Music Dreams](https://open.spotify.com/artist/47U20M8lyC5AJLNJg3laOD), [RelaxMyCat](https://open.spotify.com/artist/2uO0Hew2xpva3P9AgknpzB) | [Calming Music for Anxious Cats: Songs to Soothe Your Cat](https://open.spotify.com/album/6oJRshmkcJerjwLT6Pc8rO) | 3:01 | 2023-05-19 | 2023-08-03 |
 | [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-08-31 |  |
+| [Returning Gently](https://open.spotify.com/track/0szLXWwlIPhE6QzdzJkGaG) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Returning Gently](https://open.spotify.com/album/1foJInQP4GkHHqtqA0s05v) | 2:47 | 2025-08-20 |  |
 | [Right Path 852 Hz](https://open.spotify.com/track/1rh9Aygw80WFVq70T54FcK) | [Meodna](https://open.spotify.com/artist/1acgr2GgwWnpDzCjBF9wsn) | [Right Path 852 Hz](https://open.spotify.com/album/1ionnqL9Rk1nOHUQD5xny7) | 3:01 | 2023-07-03 | 2024-08-29 |
 | [Rosemary](https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5) | [Laurence Furr](https://open.spotify.com/artist/24tme04aimWOpZKvAcKogM) | [Portraits](https://open.spotify.com/album/4OJyeOfgd44Byen2ENCjnN) | 3:21 | 2024-11-07 |  |
 | [Rusty's Ballad](https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI) | [David Teie](https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B) | [Rusty's Ballad](https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF) | 3:21 | 2020-01-10 | 2023-07-04 |
@@ -214,9 +217,11 @@
 | [Sleep Bound](https://open.spotify.com/track/7omhwqtcygm5YRNEvdNeR8) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Sleep Bound](https://open.spotify.com/album/5XmXpiBBJCEvOX5KrkN059) | 2:40 | 2025-03-19 |  |
 | [Slumberism](https://open.spotify.com/track/7pnr5tNNmB7EibF2ClbJ3M) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Slumberism](https://open.spotify.com/album/1czUeCsPgac17RpwBagdUq) | 3:11 | 2024-11-07 |  |
 | [Soft and Warm](https://open.spotify.com/track/7IwF2srLrQFhY64GHbG2AC) | [Himlavalv](https://open.spotify.com/artist/4lFZjO0NQUgvQLC8G6J8uC) | [Soft and Warm](https://open.spotify.com/album/7ohG3WhIEOlZz1lle1P2ZR) | 2:58 | 2025-07-15 |  |
+| [Soft Breath](https://open.spotify.com/track/1GSjgekBv2Ot2Efv3L8jzN) | [Parting Clouds](https://open.spotify.com/artist/1l20ZEjuxcNE41jVZ5uy8Q) | [Soft Breath](https://open.spotify.com/album/3YWo2awwIzJLU8xLXlrndU) | 2:45 | 2025-08-20 |  |
 | [Soft Light](https://open.spotify.com/track/5OQwak2SbcXhdDcB2nZJhw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR), [Softly Drift](https://open.spotify.com/artist/59PkxjxtOeVVOBK47vR4Or) | [Soft Light](https://open.spotify.com/album/3H1q8Ma2yFWDRU7eTbsVvG) | 2:22 | 2024-07-18 |  |
 | [Soft Red Bunk](https://open.spotify.com/track/2MAS4wdXkuqRmIkMmzZaQB) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Red Bunk](https://open.spotify.com/album/2sNghMXOciUYE1gvsOaIli) | 3:06 | 2025-01-09 |  |
 | [Solaris Infinita](https://open.spotify.com/track/5GwOVucXWg6fas0ABlTy53) | [Astra Far](https://open.spotify.com/artist/1l8inXQNhMUFaDofdVS94T) | [Solaris Infinita](https://open.spotify.com/album/3AELibxtsFeEjTDg5Pkczz) | 2:51 | 2025-05-06 |  |
+| [Somatic Driftwave](https://open.spotify.com/track/7703934McmpblYTCc1JWjg) | [Dream Drift Tunes](https://open.spotify.com/artist/26ZbGRftrJHVZUDaz5rSkM) | [Somatic Driftwave](https://open.spotify.com/album/0KYa4UgZlhZjSyVp7CCWXe) | 3:13 | 2025-08-20 |  |
 | [Somnolentus](https://open.spotify.com/track/4Me94hxyIMZxR4xthlN2Ee) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Somnolentus](https://open.spotify.com/album/0sFl4ETRwpMkyiE4vBTHmz) | 2:31 | 2025-06-11 |  |
 | [Soothe](https://open.spotify.com/track/1DL4f1FiSNforkp9pWBWRc) | [Damir Yamm](https://open.spotify.com/artist/1IpLgouAHJGUP94xZkXi5z) | [Soothe](https://open.spotify.com/album/1gNyZvF7PBAgWsMyW4DvTP) | 2:35 | 2023-07-03 | 2025-03-20 |
 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 | 2023-09-20 |  |

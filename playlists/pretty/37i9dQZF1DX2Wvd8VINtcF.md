@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Dijon✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,820 likes - 145 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,833 likes - 145 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

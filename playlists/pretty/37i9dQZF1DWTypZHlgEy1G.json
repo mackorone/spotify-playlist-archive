@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 535963,
+  "num_followers": 535949,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
-        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "J'ai deux amours",
-      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Yves Montand - Les feuilles mortes",
         "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 203382,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
+        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "J'ai deux amours",
+      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
     },
     {
       "added_at": "2024-07-25 13:22:22",

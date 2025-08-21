@@ -11433,6 +11433,24 @@
     },
     {
       "album": {
+        "name": "B\u00fafalo do Maraj\u00f3",
+        "url": "https://open.spotify.com/album/1zIUhOYWVJJbqezA8CEfCv"
+      },
+      "artists": [
+        {
+          "name": "O Muriel",
+          "url": "https://open.spotify.com/artist/4tuEa306iAefne5kgwLFnD"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172071,
+      "name": "B\u00fafalo do Maraj\u00f3",
+      "url": "https://open.spotify.com/track/5JOqMN734zqcTt5k5drwfj"
+    },
+    {
+      "album": {
         "name": "B\u00fafalo Do Maraj\u00f3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6UsSyERCkmVnakQEwvgVsD"
       },
@@ -19198,7 +19216,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 104431,
       "name": "Devil in Disguise",
       "url": "https://open.spotify.com/track/3MKhTroJs5GF9H7LqN9fiw"
@@ -54102,6 +54120,32 @@
     {
       "album": {
         "name": "Passa o Teu Bigode",
+        "url": "https://open.spotify.com/album/6ayGn3yxeJq1dfrH8bqZxR"
+      },
+      "artists": [
+        {
+          "name": "Luk\u00e3o Mec",
+          "url": "https://open.spotify.com/artist/1Ils6k71OZSgIuDPdgZwsg"
+        },
+        {
+          "name": "Dj Adah",
+          "url": "https://open.spotify.com/artist/2AsiMvIZTg9c36hjw3eWLr"
+        },
+        {
+          "name": "Lado Sul",
+          "url": "https://open.spotify.com/artist/0uZFRGwRv2x81BFQjPxzDu"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119244,
+      "name": "Passa o Teu Bigode",
+      "url": "https://open.spotify.com/track/4oDxxFLVQMOdiSKf3YGgEq"
+    },
+    {
+      "album": {
+        "name": "Passa o Teu Bigode",
         "url": "https://open.spotify.com/album/7k7cLLrzQyUjmwiUSblWDs"
       },
       "artists": [
@@ -54120,7 +54164,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 119244,
       "name": "Passa o Teu Bigode",
       "url": "https://open.spotify.com/track/5RAhFxussVOdgr7yWRT6JA"
@@ -61847,7 +61891,7 @@
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 134769,
+      "duration_ms": 135349,
       "name": "SACODE AUTOMOTIVO",
       "url": "https://open.spotify.com/track/09L86iWuxm6WJy2gXWNsQt"
     },

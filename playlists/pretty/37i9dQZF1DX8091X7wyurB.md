@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > CeCe Winans goes on her 'More Than This' Africa Tour starting this week in South Africa\.  Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,202 likes - 60 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,901 likes - 60 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 59 | [Hope In You](https://open.spotify.com/track/3QLU7OUlo1RY6rWTgqz458) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Hope In You](https://open.spotify.com/album/3sodQmguZBkx6lymeOcwqi) | 4:55 |
 | 60 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 |
 
-Snapshot ID: `AAAAAEYQ/+sNNq+mPRCEH8Vlg5Js7aYr`
+Snapshot ID: `AAAAAAcgGe8kmUTqS+6uyiw5qLXAi//w`

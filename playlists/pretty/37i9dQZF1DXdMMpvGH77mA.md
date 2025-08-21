@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,219 likes - 98 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,418 likes - 98 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 97 | [Sunsets](https://open.spotify.com/track/0ptc8HobLzNaUvSldufG9t) | [Vintage Key](https://open.spotify.com/artist/2TQThrKSXqIsCGGbyN5ARi) | [Sunsets](https://open.spotify.com/album/7uDT4j5i4eRcwr6AHOp2Rm) | 2:18 |
 | 98 | [Pashchim](https://open.spotify.com/track/2bFkakPnF3oplT6hzVH5I7) | [Therodum](https://open.spotify.com/artist/6GhN3fX8bNqdf1HkKvsSCy) | [Pashchim](https://open.spotify.com/album/1cDqxaxW1PB8960godMaFq) | 3:13 |
 
-Snapshot ID: `AAAAAESvLccUM2/kFEHlr2GeeBg07Wia`
+Snapshot ID: `AAAAAB+GEQa4pYbX50d8DoHsDRoW4VZ+`

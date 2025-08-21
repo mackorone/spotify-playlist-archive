@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Phil Wickham, Brandon Lake, Chris Brown of Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,483 likes - 95 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,543 likes - 95 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

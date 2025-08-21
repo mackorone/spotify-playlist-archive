@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。cover: Kohjiya
 
-1,883 songs - 3 day 23 hr 34 min
+1,884 songs - 3 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1372,6 +1372,7 @@
 | [Slow Down](https://open.spotify.com/track/09ugFDsvJDQLMUpsE4IS0L) | [NGONG](https://open.spotify.com/artist/2YnP9D6Xjf1U8HHSu9Lwmq), [Shuto](https://open.spotify.com/artist/25LbZVdqAdvceFjT5kSjIH), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Slow Down](https://open.spotify.com/album/1cSQfptWx5BzodaVMwtYVj) | 3:28 | 2023-10-17 | 2023-11-25 |
 | [Slow Motion](https://open.spotify.com/track/2HJdQqRWs1yXYZBUqaZ5tk) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Slow Motion](https://open.spotify.com/album/1deimYkVxAZ7V6L5SR6AAh) | 4:28 | 2024-10-23 | 2024-11-06 |
 | [Slowsurf feat\. shimizu eisuke, in\-d](https://open.spotify.com/track/3Nk8AHtU0s8VjzxQH7XkJO) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [shimizu eisuke \(Age Factory\)](https://open.spotify.com/artist/2E1EqsTx4PIY1eezC953Bd), [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo), [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj) | [Slowsurf feat\. shimizu eisuke, in\-d](https://open.spotify.com/album/1aLtmKVJsQFqXO4DT03hac) | 5:08 | 2024-07-16 | 2024-08-21 |
+| [Small Soldiers \(feat\. PUNPEE\)](https://open.spotify.com/track/1sSbFXxmmqzkDXouQkN3mj) | [ピーナッツくん](https://open.spotify.com/artist/3ssBfPaamcxmTrzSXcc2cb), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Tele倶楽部II](https://open.spotify.com/album/5s5CB41XTaefx41xmF8dZV) | 3:31 | 2025-08-20 |  |
 | [Small World](https://open.spotify.com/track/65SnZLzFEzP0wUsdaJnHlj) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Capture Land](https://open.spotify.com/album/04FGsURTFus22yMBTk8TRa) | 3:42 | 2024-05-21 | 2024-06-07 |
 | [Small World \- Shinichi Osawa Remix](https://open.spotify.com/track/2DGM9Z8XW2lNFBdJHrFczc) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Shinichi Osawa](https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp) | [Small World \(feat\. Elle Teresa\) \[Shinichi Osawa Remix\]](https://open.spotify.com/album/5UVh8B3r3bkP4WRG5i3XBT) | 3:42 | 2025-04-01 | 2025-05-14 |
 | [SMASH HIT](https://open.spotify.com/track/0Q5yP96VSzPGPEH7v6cJ1j) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [SMASH HIT](https://open.spotify.com/album/0xZrGQ0EV9kK8s2e9Rurmw) | 3:37 | 2024-05-16 | 2024-08-28 |

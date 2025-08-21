@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  NJ
 
-404 songs - 20 hr 41 min
+405 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [PANIPAALI](https://open.spotify.com/track/1BuUtMcQoplYtoiRUTLWTa) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [PANIPAALI](https://open.spotify.com/album/1q5r4D2xFAdPr16F4xYbI1) | 3:40 | 2021-12-03 | 2025-01-28 |
 | [Panipaali\-2](https://open.spotify.com/track/4DkshUNprCxqUt2tRdTNO5) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Panipaali\-2](https://open.spotify.com/album/4md2GkBem01yXH7CsAeHIz) | 3:38 | 2021-12-03 | 2024-05-22 |
 | [Panth](https://open.spotify.com/track/1rF58Eo5WYzBkBOG90TANz) | [BINS](https://open.spotify.com/artist/6tiGtBHx9xg2WMXJBIRaYX), [AjOopaan](https://open.spotify.com/artist/2Y145zR3OhtZPZtQoEqIJY) | [Panth](https://open.spotify.com/album/1qIl1f55pkRtMn4YAoKxJT) | 3:41 | 2025-03-21 | 2025-05-17 |
+| [PARA](https://open.spotify.com/track/0HtMfcpHt0BVbzp0Zg94sZ) | [Lil Roony](https://open.spotify.com/artist/7MD92P1XCS8QKLty9eheWb), [Vizzy](https://open.spotify.com/artist/1aeFXfBL572xxk20YVHkiB), [VXAL](https://open.spotify.com/artist/04ftZCJgjzpuUAFwO4OSpC) | [PARA](https://open.spotify.com/album/7HQznjog1JZfOAbkNLMLWu) | 2:24 | 2025-08-20 |  |
 | [PARATTA SONG](https://open.spotify.com/track/0ocgMbg427kQwsyjmKNTBe) | [BG BLACKGOAT](https://open.spotify.com/artist/4P6OHqlLgbb2JmlqMt3gQd) | [PARATTA SONG](https://open.spotify.com/album/1QcDIFDIzuJvCpJMA5TZBH) | 2:32 | 2025-06-25 | 2025-06-27 |
 | [Pathanam](https://open.spotify.com/track/7J1LLA1CxdLgP7wrM7slun) | [Ashbin](https://open.spotify.com/artist/28LkhTNiL3kC1wprEPgaQy), [Adz](https://open.spotify.com/artist/0jTYDTKvLDBHL8Fi3gYnFc) | [Ethir](https://open.spotify.com/album/3yhqspJcACvqD8hXXredEf) | 1:47 | 2025-02-03 | 2025-03-27 |
 | [Pathavi](https://open.spotify.com/track/5MEzlxLvDPc6gkJgJG9DNc) | [EK](https://open.spotify.com/artist/6tvycdUtKZqqVKPxek64gN) | [Pathavi](https://open.spotify.com/album/4KuHuibE09VLY5KwizbypZ) | 2:38 | 2025-07-21 |  |

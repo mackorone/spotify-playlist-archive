@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-264 songs - 15 hr 57 min
+265 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Estrela e o Astronauta](https://open.spotify.com/track/7gMYX7O4kaij5IMsPH2ohd) | [Parde2](https://open.spotify.com/artist/4TvbeEkwn4ar4HdDxSeGDj), [Cris Delanno](https://open.spotify.com/artist/1q66oVc7ZO3bFndFCAuOOd), [Alex Moreira](https://open.spotify.com/artist/5xQSgIYsZy3Hr0gguDgpI8) | [A Estrela e o Astronauta](https://open.spotify.com/album/4F2Fdtg26oRbzDfzFykVt4) | 3:24 | 2022-03-22 | 2022-04-20 |
 | [A Paraíba Não É Chicago](https://open.spotify.com/track/1YL6kqPu1Pde4zb5u93x9t) | [Quarteto do Rio](https://open.spotify.com/artist/2IRXlLBgHK3HSNJ7YlbyW4) | [A Paraíba Não É Chicago](https://open.spotify.com/album/1g4IpOiQIki2xR1198ntds) | 2:53 | 2022-02-04 | 2022-07-15 |
 | [A parte que falta](https://open.spotify.com/track/0NUu7f2wLfBrdNgiLmyVBz) | [LoreB](https://open.spotify.com/artist/7MjaGpdVZenDgXEUF4CXSz) | [A parte que falta](https://open.spotify.com/album/5LSpRZX5Bm6rQ9ye5ACNra) | 4:46 | 2022-02-04 | 2022-07-23 |
+| [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 | 2025-08-15 |  |
 | [Acalanto](https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Acalanto](https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz) | 4:28 | 2022-03-22 | 2025-06-16 |
 | [afro futurista](https://open.spotify.com/track/707zgXxO0fchdraumiV1R9) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [raiz](https://open.spotify.com/album/0YetCaCRXkQxlnVAhWBJA5) | 4:06 | 2022-02-04 | 2025-06-08 |
 | [Ainda É Tempo pra Ser Feliz](https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv) | [Sambabook](https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE), [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Sambabook Beth Carvalho](https://open.spotify.com/album/6n2DZ90JnfaXLij3cqfLye) | 4:16 | 2025-04-04 |  |
@@ -225,7 +226,7 @@
 | [Samurai \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 4:48 | 2022-03-22 |  |
 | [Se Avexe Não](https://open.spotify.com/track/0PaNt7j8MFe0FhZg9PdHbO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/69C3YveqQVaurpkSqVcVZl) | 3:42 | 2022-03-22 | 2022-07-28 |
 | [Se Avexe Não](https://open.spotify.com/track/27hosIGRjZMgGU8HUuKIKc) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/7BZkkvPysgOxPgwO4HzB3v) | 3:44 | 2022-07-22 | 2022-08-02 |
-| [segredo](https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [segredo](https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s) | 3:12 | 2025-06-27 |  |
+| [segredo](https://open.spotify.com/track/3HbGtwpBueLosAGkP8BUqJ) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [segredo](https://open.spotify.com/album/0YoGRjLqlh5Z5SaL2yfw3s) | 3:12 | 2025-06-27 | 2025-08-21 |
 | [Segue o baile](https://open.spotify.com/track/0egTKiqudl4bbXlPZlRVtw) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nua](https://open.spotify.com/album/5vv8azxRUNzzWpuN8afj3a) | 2:55 | 2022-03-22 | 2022-07-18 |
 | [Sem Medo](https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sem Medo](https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA) | 4:12 | 2022-02-04 | 2022-11-05 |
 | [Sentido da Vida](https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE) | [Pseudo](https://open.spotify.com/artist/0vSgwGjTHcH6k7FIAChc3N) | [Sentido da Vida](https://open.spotify.com/album/4rTZqc29huKABVedShBX1x) | 3:14 | 2022-02-04 | 2022-07-13 |

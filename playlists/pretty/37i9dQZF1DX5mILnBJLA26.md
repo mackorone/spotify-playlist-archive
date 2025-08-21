@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: Xduppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,883 likes - 65 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,289 likes - 65 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

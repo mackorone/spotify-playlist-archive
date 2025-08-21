@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/0weLliC8lL49CoiBpc6ieC"
+      },
+      "artists": [
+        {
+          "name": "Beau Cruz",
+          "url": "https://open.spotify.com/artist/5rKzRUYK7yX3lrWNsm2nbS"
+        }
+      ],
+      "date_added": "2025-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/3EnPWB9QR0PyYV6Oey8si9"
+    },
+    {
+      "album": {
         "name": "ENDORPHINS",
         "url": "https://open.spotify.com/album/0cp9Tdzpu5SR0zKeKtGPBl"
       },
@@ -30734,7 +30752,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 150559,
       "name": "With You",
       "url": "https://open.spotify.com/track/3MaQZqQ8LwRgOYHdQSyvxm"

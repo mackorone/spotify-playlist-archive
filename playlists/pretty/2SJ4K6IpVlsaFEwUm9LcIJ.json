@@ -6,7 +6,7 @@
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAM8/P2c5O5mLSbeZFxZY7LC9yvIagH",
+  "snapshot_id": "AAAM9yw8aDeAvRBg3hCktvk/o20gb5fI",
   "tracks": [
     {
       "added_at": "2025-07-03 23:45:51",
@@ -907,6 +907,70 @@
       "duration_ms": 293306,
       "name": "Boer Farmstead",
       "url": "https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7"
+    },
+    {
+      "added_at": "2025-08-20 18:17:25",
+      "album": {
+        "name": "I'm A Man: The Chess Masters, 1955-1958",
+        "url": "https://open.spotify.com/album/3elQneouDEy4phwU24ysGK"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 160320,
+      "name": "Our Love Will Never Go",
+      "url": "https://open.spotify.com/track/15wbuzzUSRwr3Vne6X4TK7"
+    },
+    {
+      "added_at": "2025-08-20 18:51:48",
+      "album": {
+        "name": "Nigerian Popular Music from the 50's",
+        "url": "https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA"
+      },
+      "artists": [
+        {
+          "name": "Bobby Benson & His Orchestra",
+          "url": "https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU"
+    },
+    {
+      "added_at": "2025-08-20 21:24:02",
+      "album": {
+        "name": "Big String Theory",
+        "url": "https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ"
+      },
+      "artists": [
+        {
+          "name": "Bajourou",
+          "url": "https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS"
+        }
+      ],
+      "duration_ms": 348466,
+      "name": "Bastan Toure",
+      "url": "https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377"
+    },
+    {
+      "added_at": "2025-08-20 21:24:29",
+      "album": {
+        "name": "Nigerian Popular Music from the 50's",
+        "url": "https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA"
+      },
+      "artists": [
+        {
+          "name": "The Three Night Wizards",
+          "url": "https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT"
+        }
+      ],
+      "duration_ms": 166022,
+      "name": "Money! Money!",
+      "url": "https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ"
     }
   ],
   "unique_name": "the return of cookie",

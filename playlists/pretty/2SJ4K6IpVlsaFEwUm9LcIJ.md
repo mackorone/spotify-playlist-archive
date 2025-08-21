@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,204 likes - 55 songs - 3 hr 50 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,204 likes - 59 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,5 +63,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 53 | [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 |
 | 54 | [The Light Reveals The Place](https://open.spotify.com/track/0GWF2ruSPrqtQgW96w4Hyy) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 6:59 |
 | 55 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 |
+| 56 | [Our Love Will Never Go](https://open.spotify.com/track/15wbuzzUSRwr3Vne6X4TK7) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [I'm A Man: The Chess Masters, 1955\-1958](https://open.spotify.com/album/3elQneouDEy4phwU24ysGK) | 2:40 |
+| 57 | [Taxi Driver](https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU) | [Bobby Benson & His Orchestra](https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 3:22 |
+| 58 | [Bastan Toure](https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377) | [Bajourou](https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS) | [Big String Theory](https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ) | 5:48 |
+| 59 | [Money! Money!](https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ) | [The Three Night Wizards](https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 2:46 |
 
-Snapshot ID: `AAAM8/P2c5O5mLSbeZFxZY7LC9yvIagH`
+Snapshot ID: `AAAM9yw8aDeAvRBg3hCktvk/o20gb5fI`

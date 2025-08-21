@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Qetoo. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Mao. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -3358,6 +3358,24 @@
       "duration_ms": 232000,
       "name": "Khayal",
       "url": "https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq"
+    },
+    {
+      "album": {
+        "name": "SOLARR ECLIPSE",
+        "url": "https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V"
+      },
+      "artists": [
+        {
+          "name": "Mao",
+          "url": "https://open.spotify.com/artist/4cb8yNt7de02GQkL9ibmaV"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167225,
+      "name": "KHELLINI",
+      "url": "https://open.spotify.com/track/55EhjWKpOWKbzZaaj3OmUL"
     },
     {
       "album": {
@@ -7894,7 +7912,7 @@
       ],
       "date_added": "2025-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 200726,
       "name": "\u0628\u0637\u0644 \u0627\u0644\u0644\u0651\u064a\u0644",
       "url": "https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd"

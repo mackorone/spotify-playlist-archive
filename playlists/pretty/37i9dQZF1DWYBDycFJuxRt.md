@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/340017">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/340134">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,276 likes - 86 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,279 likes - 86 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 22 | [Poker Faced Cowboy](https://open.spotify.com/track/0JTWeGEgXDfK7mns2j1bXw) | [CENT](https://open.spotify.com/artist/6XoPPVd3Cqm3yXoZAdn8ms) | [Love Album](https://open.spotify.com/album/1gUt9kDKA3nypNRqh8MQ5l) | 3:01 |
 | 23 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
 | 24 | [Geeek](https://open.spotify.com/track/2nKqe0pTqsP5IyA748HlT0) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Geeek](https://open.spotify.com/album/1C9Of3Hj5JujNDdVZ93HJt) | 3:08 |
-| 25 | [BUBBLE GUM](https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 7th Mini Album <BUBBLE GUM>](https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3) | 2:37 |
+| 25 | [BUBBLE GUM](https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [BUBBLE GUM](https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3) | 2:37 |
 | 26 | [Lemonade](https://open.spotify.com/track/1DcQF23V9BaAUufunxz0G5) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [Sparkle Summer](https://open.spotify.com/album/4r37jJb40Y8tVuFXayxK0v) | 3:41 |
 | 27 | [涙](https://open.spotify.com/track/2S0i7W6IDT3fE1NixUamvB) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [涙](https://open.spotify.com/album/0UVAJGeX3VdebaoVGm1x7b) | 3:50 |
 | 28 | [Yumeka](https://open.spotify.com/track/6jctwqve5iQOjKzjmqK9vS) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Yumeka](https://open.spotify.com/album/08JkrwXMBHiKHPXYdLaeBC) | 3:03 |
 | 29 | [Phase \(feat\. JJJ & Daichi Yamamoto\)](https://open.spotify.com/track/5ucJ3w8mwETGCeCPxaExlw) | [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Let This Be The Healing](https://open.spotify.com/album/4kqxbNFQmIg1vncMonx8aS) | 3:03 |
 | 30 | [龍](https://open.spotify.com/track/67EkuUCJLd68ec8md3Dcwu) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [龍](https://open.spotify.com/album/2tWWmQSb9ygRh3IElPd7aR) | 2:29 |
-| 31 | [Track 4](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 0:00 |
+| 31 | [雨の降る町](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 5:35 |
 | 32 | [pepperoni feat\. Hiyn](https://open.spotify.com/track/1MVEpnTvToQTgB12TyWSuZ) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Hiyn](https://open.spotify.com/artist/3g0RKK54hM9ukJwraaCJS3) | [East Blue](https://open.spotify.com/album/6cRoiBgZtqHseVvfK5PaEQ) | 2:51 |
 | 33 | [ラブル](https://open.spotify.com/track/6Rt93La5sMqC8v8PIO4bkU) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラブル](https://open.spotify.com/album/0pLRXKiTZIYWnXSroHfDjx) | 3:23 |
 | 34 | [Kiseki](https://open.spotify.com/track/6bQ788swk0VR4DISxGxs5w) | [Aoi Teshima](https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD) | [Aoi Works 3 \~best collection 2019\-2025\~](https://open.spotify.com/album/2W0DEeXxCMV7vAUdfgw5o8) | 1:31 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 45 | [Asahino Atarumichi](https://open.spotify.com/track/35XS6FX2D5SagCD3w5cRCN) | [RYUTO KASAHARA](https://open.spotify.com/artist/3jBsOn36WAeFeq0c7qt8Oz), [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg) | [Asahino Atarumichi](https://open.spotify.com/album/33GGUVZcrLmLzhQ5JA0I0k) | 5:12 |
 | 46 | [ICE Natsu feat\. Daito Yamamoto](https://open.spotify.com/track/6aQSUToZgg1TQkjvqlpf4I) | [Natsudaidai](https://open.spotify.com/artist/7tipvX4wcOjtV5g0inLM2G), [Daito Yamamoto](https://open.spotify.com/artist/762qGCF3I5PMEOLNRb5Ghs) | [ICE Natsu feat\. Daito Yamamoto](https://open.spotify.com/album/3DNn855DdIZX2MQqNnBjTg) | 3:16 |
 | 47 | [Day After Tomorrow](https://open.spotify.com/track/2WkvhtHXDvImXFcN6QCIsY) | [64DX](https://open.spotify.com/artist/68BRPNjNCEp6Ku8YMnAp2F) | [Day After Tomorrow](https://open.spotify.com/album/0mELGQzNxkrhbss7JbHmm5) | 2:31 |
-| 48 | [Track 5](https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [GOOD PLACE](https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF) | 0:00 |
+| 48 | [Attara Shiawase](https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [GOOD PLACE](https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF) | 2:09 |
 | 49 | [FOCUS ON U](https://open.spotify.com/track/28OqkHjyd0B73RcIyyx0YL) | [Kaikun](https://open.spotify.com/artist/2yXYV0qNsatMoSA2B5uKSj), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [FOCUS ON U](https://open.spotify.com/album/7wt8yhQatKgdcFh5rIjlYN) | 1:57 |
 | 50 | [Flower](https://open.spotify.com/track/6NNjh8CuPdfbnxze6MrREh) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Flower](https://open.spotify.com/album/2STGuktJZuvsAr9UxvFph1) | 2:14 |
 | 51 | [Come back home](https://open.spotify.com/track/6pXo30oBrkUpOpPNXOOuqW) | [FUNKY MONKEY BΛBY'S](https://open.spotify.com/artist/2w4WfstEu2xDTe7y0vLhN9) | [Come back home](https://open.spotify.com/album/2NkA28Vb5uyuTy1nOPpQOh) | 3:36 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 85 | [空蝉](https://open.spotify.com/track/5z9CWI3SlrP6U9XuqZnsss) | [NÖVEIL](https://open.spotify.com/artist/5ZT6FV8xeXchcbT1avPiBD) | [空蝉](https://open.spotify.com/album/6LMoznI3Ybnb2kE7kwv2zd) | 3:52 |
 | 86 | [ラブレター feat\. 川辺素](https://open.spotify.com/track/4kyJGlMjQHOVphiGlfD10L) | [HarutoYamamoto](https://open.spotify.com/artist/6S6N7ipaDRslAZLrhj5yqF), [川辺素](https://open.spotify.com/artist/30M8P26BqSDSfsAJlfrebD) | [ラブレター feat\. 川辺素](https://open.spotify.com/album/5veSDpHDe82Csv1TnOkUGd) | 4:23 |
 
-Snapshot ID: `AAAAAJDSUZDXR0LxDnYgWRo8t7ahaZXX`
+Snapshot ID: `AAAAACL4xYBgGg9DQZ8tnkRoH+FlcfSE`

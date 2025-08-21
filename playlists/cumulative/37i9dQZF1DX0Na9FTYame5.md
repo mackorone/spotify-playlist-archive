@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Chapo102
 
-255 songs - 11 hr 31 min
+256 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Ende der Strasse](https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Ende der Strasse](https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ) | 2:36 | 2024-06-28 | 2025-01-03 |
 | [Engel](https://open.spotify.com/track/46EwNycSh1V6DTtsIffbS0) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Engel](https://open.spotify.com/album/7Jy7AQ54wPaWiYXExMZ70r) | 2:16 | 2024-09-16 | 2024-10-13 |
 | [Erinnerung](https://open.spotify.com/track/6gOb1LRs0P6PE9oxLkH61i) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Erinnerung](https://open.spotify.com/album/12HdgFBc0Ij4mvk9MefIk2) | 3:26 | 2025-03-24 | 2025-06-07 |
-| [Erkläre mir die Liebe](https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Erkläre mir die Liebe](https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX) | 3:04 | 2024-06-28 |  |
+| [Erkläre mir die Liebe](https://open.spotify.com/track/0K6QpySe2WtrAR2wXKheVh) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg) | [Erkläre mir die Liebe](https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX) | 3:04 | 2024-06-28 | 2025-08-21 |
 | [Es tut mir leid](https://open.spotify.com/track/25iULX1Gp22gr5dS98PRTy) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Es tut mir leid](https://open.spotify.com/album/6roQdjU31kV82xdkNbKHoK) | 2:30 | 2024-10-10 | 2025-07-14 |
 | [Es tut weh](https://open.spotify.com/track/5oXobks1fMidFZW8m49ZEs) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Es tut weh](https://open.spotify.com/album/2AvzE3D7894RnykpjQIa0x) | 2:00 | 2025-07-17 |  |
 | [Etage 3 \(feat\. Bausa\)](https://open.spotify.com/track/2yhSIniqP26PvJePcHFIg8) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Etage 3 \(feat\. Bausa\)](https://open.spotify.com/album/3sczb1THK9mTeiQTx8od59) | 2:14 | 2024-12-09 | 2025-02-04 |
@@ -161,6 +161,7 @@
 | [MISSED CALLS](https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [MISSED CALLS](https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH) | 2:12 | 2024-06-28 | 2024-12-03 |
 | [mit dir ist es anders](https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [pass auf mein herz auf](https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j) | 2:36 | 2024-10-14 |  |
 | [Mittelfinger](https://open.spotify.com/track/3SuzunWJyo7gaedTPAp06r) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Mittelfinger](https://open.spotify.com/album/7vR1STUfZ9Io0u1Ei67XDH) | 2:09 | 2024-06-28 | 2024-08-23 |
+| [Mitten im Leben](https://open.spotify.com/track/4lrMjKFODnG1w3RObnHEYc) | [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [KATI K](https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Mitten im Leben](https://open.spotify.com/album/5Aux7ZXF6u4siHoFvy3k6q) | 2:03 | 2025-08-14 |  |
 | [Mondlicht](https://open.spotify.com/track/0pvXz9FgGWxFXagwtQIQOO) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:39 | 2024-06-28 | 2024-09-02 |
 | [Monoton](https://open.spotify.com/track/6gZEyiqUvEpWpJYz7QjLjx) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Megaloh](https://open.spotify.com/artist/7M6ItqYUMPQRQQ5q54tl7G), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [BOI](https://open.spotify.com/album/48xBOWLlBupgfhNKkErgDJ) | 3:48 | 2024-06-28 | 2025-08-20 |
 | [Morpheus](https://open.spotify.com/track/33UJjKCtghGywf33vRZl1u) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S) | [König für immer](https://open.spotify.com/album/4Ruh25eyPDaVdu7KyW67hZ) | 3:10 | 2024-06-28 | 2024-07-24 |

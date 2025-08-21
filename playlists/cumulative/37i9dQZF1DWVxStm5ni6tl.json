@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels from Canada, updated every Wednesday. Cover: KAYAM, Artwork: Isu Kim.",
+  "description": "The best new music by independent artists and labels from Canada, updated every Wednesday. Cover: Samant, Artwork: Isu Kim.",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 208211,
       "name": "1-800-LOVECLUB",
       "url": "https://open.spotify.com/track/5vR9m3yy3Ne3PoPY26a6Fh"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 123692,
       "name": "ABRE ESPA\u00c7O",
       "url": "https://open.spotify.com/track/3yJvFe49MGrwLBgCFeDVtg"
@@ -2729,6 +2729,24 @@
     },
     {
       "album": {
+        "name": "Sob Stories 2",
+        "url": "https://open.spotify.com/album/2Usz5Pcp8HRBEA8AtJw5GB"
+      },
+      "artists": [
+        {
+          "name": "Ricci Paolo",
+          "url": "https://open.spotify.com/artist/7EJM0JFbKFLLVfjLlKCWF8"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/3OVpxbtFIo2LJ39gkN6Kqs"
+    },
+    {
+      "album": {
         "name": "Asphalt",
         "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
       },
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 169014,
       "name": "background check",
       "url": "https://open.spotify.com/track/4p0CN3p41y178UE7d95MUe"
@@ -3962,6 +3980,24 @@
       "duration_ms": 219728,
       "name": "Bellingham, WA",
       "url": "https://open.spotify.com/track/42YkF8rT4xK5NuyEfR1I9r"
+    },
+    {
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/1RhfxWkVqVhY6iSnHs4KX9"
+      },
+      "artists": [
+        {
+          "name": "nyan",
+          "url": "https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148369,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/3qulGnMuDFn1javAqho9yi"
     },
     {
       "album": {
@@ -5872,6 +5908,24 @@
       "duration_ms": 155065,
       "name": "Burn",
       "url": "https://open.spotify.com/track/4pvyho5MOsG3yVCYV0Ydym"
+    },
+    {
+      "album": {
+        "name": "Burn Blue",
+        "url": "https://open.spotify.com/album/5lK217xOELhKS4AhSvNLWE"
+      },
+      "artists": [
+        {
+          "name": "Ali Shah",
+          "url": "https://open.spotify.com/artist/4vTQYLOX7njU3JWsr91Aht"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149583,
+      "name": "Burn Blue",
+      "url": "https://open.spotify.com/track/0wpBO1LXAhvTMKdagyGXXW"
     },
     {
       "album": {
@@ -8470,6 +8524,24 @@
       "duration_ms": 380386,
       "name": "Corde \u00e0 linge",
       "url": "https://open.spotify.com/track/5LNNbY0nL1dYlS0ziCJa0w"
+    },
+    {
+      "album": {
+        "name": "Corporate Prophet",
+        "url": "https://open.spotify.com/album/2y3LygTyG2pB7jzn9C3G4p"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145982,
+      "name": "Corporate Prophet",
+      "url": "https://open.spotify.com/track/0vRsW41kB53FgrgLS9IxPU"
     },
     {
       "album": {
@@ -13385,6 +13457,28 @@
     },
     {
       "album": {
+        "name": "FINE SHYT",
+        "url": "https://open.spotify.com/album/7xao93TD3qnUOxBcW0Lzhr"
+      },
+      "artists": [
+        {
+          "name": "Mahdi Ba",
+          "url": "https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M"
+        },
+        {
+          "name": "thaHomey",
+          "url": "https://open.spotify.com/artist/5N2P9zB8202SrtnWCjqe1j"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "FINE SHYT",
+      "url": "https://open.spotify.com/track/65NiYwUEFV5jFARptN37ms"
+    },
+    {
+      "album": {
         "name": "fire",
         "url": "https://open.spotify.com/album/5A2hJXqjJydfk3JvbsUyJk"
       },
@@ -16715,6 +16809,28 @@
     },
     {
       "album": {
+        "name": "HEARTLESS",
+        "url": "https://open.spotify.com/album/7d5EIDkACKtDSLHUZce7TE"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234425,
+      "name": "HEARTLESS",
+      "url": "https://open.spotify.com/track/0Qg6C8x7cXrO7KiV8wl6M6"
+    },
+    {
+      "album": {
         "name": "HEARTTHROB",
         "url": "https://open.spotify.com/album/6gXGwUsnLexh9FJw9EtQS8"
       },
@@ -16780,7 +16896,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 227247,
       "name": "Heaven Right Now",
       "url": "https://open.spotify.com/track/2oe0nsIEr0UgV3L6SbZr5r"
@@ -22580,7 +22696,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 161250,
       "name": "Lead By Example",
       "url": "https://open.spotify.com/track/5xZiaIIkujl8HrijBdtku8"
@@ -26717,6 +26833,24 @@
     },
     {
       "album": {
+        "name": "MY BRAIN DON'T GET HER",
+        "url": "https://open.spotify.com/album/0bKLNXcF2t4AEM0HeqVIiV"
+      },
+      "artists": [
+        {
+          "name": "SUCKERPUNCH!",
+          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165228,
+      "name": "MY BRAIN DON\u2019T GET HER",
+      "url": "https://open.spotify.com/track/1vrumUaI8Uygzdz1R8Rs51"
+    },
+    {
+      "album": {
         "name": "MY CAR",
         "url": "https://open.spotify.com/album/5F3nSFeamCtesTOxbniSPw"
       },
@@ -27092,7 +27226,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 266013,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/2K5HpSUyvuKhnIbBJUiEy5"
@@ -28470,7 +28604,7 @@
       ],
       "date_added": "2025-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 266641,
       "name": "no promises",
       "url": "https://open.spotify.com/track/50CJy27zZEUAvn8FxtZDXE"
@@ -28694,7 +28828,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 127312,
       "name": "Not Gonna Fit In",
       "url": "https://open.spotify.com/track/1PRMncG11FnOEbapNA6dVZ"
@@ -28874,7 +29008,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 254360,
       "name": "Nothing To Do",
       "url": "https://open.spotify.com/track/0CUcqntrNo4AexX9jWrmzr"
@@ -31486,6 +31620,24 @@
       "duration_ms": 229220,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/2UeyKofqyvzIrOOKguxiqY"
+    },
+    {
+      "album": {
+        "name": "Perfectly Fine",
+        "url": "https://open.spotify.com/album/57nIbYPD9JzGhCH03EPXYp"
+      },
+      "artists": [
+        {
+          "name": "Lauryn Kovacs",
+          "url": "https://open.spotify.com/artist/312rRK1ajyuXCvS4nCpIdr"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Perfectly Fine",
+      "url": "https://open.spotify.com/track/2dq3ioiwZOe1ckIG1UPlkj"
     },
     {
       "album": {
@@ -36267,6 +36419,24 @@
     },
     {
       "album": {
+        "name": "Shoot & Drive",
+        "url": "https://open.spotify.com/album/0UIjFrnU3PfzEHRS4jypaz"
+      },
+      "artists": [
+        {
+          "name": "Savv4x",
+          "url": "https://open.spotify.com/artist/6ljuVTdHjv6rz6QLiNXg2r"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Shoot & Drive",
+      "url": "https://open.spotify.com/track/66x8cFjDG5teUYG4Yrku9f"
+    },
+    {
+      "album": {
         "name": "Shooters Shoot",
         "url": "https://open.spotify.com/album/5WIhT0TOGD5ZkYpe1RilQ8"
       },
@@ -36354,7 +36524,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 137777,
       "name": "Show Me a Good Time",
       "url": "https://open.spotify.com/track/1JZpc1dMaKffGrCCOh8Xfr"
@@ -37038,6 +37208,24 @@
       "duration_ms": 143242,
       "name": "Slide Through",
       "url": "https://open.spotify.com/track/2ZjGWIVFAWPKbIMp6G22pi"
+    },
+    {
+      "album": {
+        "name": "Eye of the Storm",
+        "url": "https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221551,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4"
     },
     {
       "album": {

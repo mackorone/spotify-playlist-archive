@@ -1,13 +1,77 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Aug 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Aug 03:04 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUEa+fNIfo+Vpk9AqXuu0fA44lHBWd",
+  "snapshot_id": "AAAUGe1JKq8W1yapd0GZMXby6nnvIaze",
   "tracks": [
+    {
+      "added_at": "2025-08-20 22:03:57",
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "added_at": "2025-08-20 13:07:45",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 204483,
+      "name": "More",
+      "url": "https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh"
+    },
+    {
+      "added_at": "2025-08-21 03:04:25",
+      "album": {
+        "name": "Year of the Optimist",
+        "url": "https://open.spotify.com/album/0KcREv7Ql3GaGVkMp8SgO9"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 155350,
+      "name": "Year of the Optimist",
+      "url": "https://open.spotify.com/track/7FwNMwUTmuG9foVKIs6vQi"
+    },
+    {
+      "added_at": "2025-08-20 08:05:13",
+      "album": {
+        "name": "Appalachia",
+        "url": "https://open.spotify.com/album/3yTGd142wMD28wd17gzdpO"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 138043,
+      "name": "Appalachia",
+      "url": "https://open.spotify.com/track/1eh7N11Wxib2KZ5w8eKJ94"
+    },
     {
       "added_at": "2025-08-20 03:04:04",
       "album": {
@@ -39,6 +103,38 @@
       "duration_ms": 198757,
       "name": "Fort Knox",
       "url": "https://open.spotify.com/track/6y0anhNk6EoCFsCeiCFGwm"
+    },
+    {
+      "added_at": "2025-08-20 13:07:45",
+      "album": {
+        "name": "Politix",
+        "url": "https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Politix",
+      "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
+    },
+    {
+      "added_at": "2025-08-20 08:05:13",
+      "album": {
+        "name": "Bitter Everyday",
+        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Bitter Everyday",
+      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
     },
     {
       "added_at": "2025-08-18 18:04:28",
@@ -433,6 +529,22 @@
       "url": "https://open.spotify.com/track/2a1yoleQBqguvqshRdvtsT"
     },
     {
+      "added_at": "2025-08-20 13:07:45",
+      "album": {
+        "name": "Little By Little (Live from London, 2 August '25)",
+        "url": "https://open.spotify.com/album/5QSPQFuj1heseH4jEQoHCY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 285627,
+      "name": "Little By Little (Live from London, 2 August '25)",
+      "url": "https://open.spotify.com/track/3DbYSWmxCEBmrvm0guKasf"
+    },
+    {
       "added_at": "2025-08-17 08:03:59",
       "album": {
         "name": "FACEDOWN",
@@ -727,118 +839,6 @@
       "duration_ms": 116504,
       "name": "Trinkets",
       "url": "https://open.spotify.com/track/2sTXsUJ9S1cZOtA69inxrv"
-    },
-    {
-      "added_at": "2025-08-12 08:06:00",
-      "album": {
-        "name": "SPACE INVADER",
-        "url": "https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 274302,
-      "name": "SPACE INVADER",
-      "url": "https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg"
-    },
-    {
-      "added_at": "2025-08-15 18:03:46",
-      "album": {
-        "name": "Surf",
-        "url": "https://open.spotify.com/album/5XC6zgE2x581zlkJdOxjsZ"
-      },
-      "artists": [
-        {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Surf",
-      "url": "https://open.spotify.com/track/2bJI4NceMjye26SmzewutW"
-    },
-    {
-      "added_at": "2025-08-15 22:03:39",
-      "album": {
-        "name": "Everyone's Wrong",
-        "url": "https://open.spotify.com/album/4yMVFQblD5TKoFRuFICvdA"
-      },
-      "artists": [
-        {
-          "name": "Ariel Pink",
-          "url": "https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN"
-        }
-      ],
-      "duration_ms": 288100,
-      "name": "Everyone's Wrong",
-      "url": "https://open.spotify.com/track/5RYJt9PfrPA3ls9kxuanST"
-    },
-    {
-      "added_at": "2025-08-12 18:07:07",
-      "album": {
-        "name": "MS. PAC MAN",
-        "url": "https://open.spotify.com/album/27PoIYUgfm5iGDimPMwSEK"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "MS. PAC MAN",
-      "url": "https://open.spotify.com/track/77znSEH8JaxMlgBN48NKBC"
-    },
-    {
-      "added_at": "2025-08-14 18:23:56",
-      "album": {
-        "name": "Submerged",
-        "url": "https://open.spotify.com/album/2ksaF0VuU3Wk8dZLtHlSs0"
-      },
-      "artists": [
-        {
-          "name": "Gaerea",
-          "url": "https://open.spotify.com/artist/1wXoI3Ajpv4WwQ3LmcrSBw"
-        }
-      ],
-      "duration_ms": 308357,
-      "name": "Submerged",
-      "url": "https://open.spotify.com/track/4D2Sj9wMIIZmd7yqgmE9wi"
-    },
-    {
-      "added_at": "2025-08-10 22:05:35",
-      "album": {
-        "name": "Hit 'Em Up",
-        "url": "https://open.spotify.com/album/2suN9YZB6olORWdNYAvCxZ"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        }
-      ],
-      "duration_ms": 250785,
-      "name": "Hit 'Em Up",
-      "url": "https://open.spotify.com/track/4nqAUn2LswZDBTq6Eewevy"
-    },
-    {
-      "added_at": "2025-08-12 13:08:20",
-      "album": {
-        "name": "Remember, There's Always a Tomorrow",
-        "url": "https://open.spotify.com/album/0IbCDkoHPgqsns4S7v0inh"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        }
-      ],
-      "duration_ms": 194361,
-      "name": "Remember, There's Always a Tomorrow",
-      "url": "https://open.spotify.com/track/0PiN9eFw4GJ4k4E8ZI911P"
     }
   ],
   "unique_name": "New Singles Now",

@@ -4,7 +4,7 @@
 
 > Totally Enormous Extinct Dinosaurs is now TEED ❤️ 🦕 it's all the best indie dance tracks of the moment
 
-1,962 songs - 4 day 23 hr 37 min
+1,963 songs - 4 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Automatic \- Midnight Version](https://open.spotify.com/track/40fgY5FZ6p55dZi0dj5TIp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Automatic \(Midnight Version\)](https://open.spotify.com/album/2gSO9P2YrfvelbwGybLwPF) | 4:54 | 2025-05-09 | 2025-06-28 |
 | [Avenue Of The Fireflies](https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Daymaker](https://open.spotify.com/album/61H3cb9u9WlaajR64UWu7c) | 3:39 | 2021-06-25 | 2022-07-16 |
 | [Avoiding Pain](https://open.spotify.com/track/5bJjMsfoU0EWtXcg03eY6u) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Avoiding Pain](https://open.spotify.com/album/4H57gAzcBcaUAb4ua9H3zD) | 4:07 | 2023-10-02 | 2023-12-09 |
+| [Away](https://open.spotify.com/track/6vMkNjkfzL1aH9Lgbk9bhp) | [Jaime Rosso](https://open.spotify.com/artist/3oDtDYBr9Eb1Iels4yzcFJ) | [Away](https://open.spotify.com/album/1a8HbQtIUl7JPGLNOdXA9X) | 3:50 | 2025-08-20 |  |
 | [Away From You](https://open.spotify.com/track/5QJXEfSZF7zdApCdFJc8FQ) | [Ango](https://open.spotify.com/artist/7vVIuca8HvlM60Q6O4p8s5) | [Away From You](https://open.spotify.com/album/0lPrvDygTuyyi6DAhUl3Kb) | 6:10 | 2024-10-04 | 2024-11-23 |
 | [Awesome Ways](https://open.spotify.com/track/5TXzZVDo9yl1hc85SBM24m) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Awesome Ways](https://open.spotify.com/album/0REKjgSZr8BaRYMDBiVqXL) | 3:08 | 2023-07-28 | 2024-01-13 |
 | [Baby](https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Baby](https://open.spotify.com/album/1thp3kVmCI247UNoTRwicf) | 3:23 | 2024-10-11 | 2024-11-23 |
@@ -1507,7 +1508,7 @@
 | [Shine a Light](https://open.spotify.com/track/2Y61neJqFlIhIlToV1HVZK) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s), [Zayden](https://open.spotify.com/artist/2qnLoq981D2rjdJiHltYb8) | [Shine a Light](https://open.spotify.com/album/0J3vMnW6cDhihkSmASC0iw) | 2:07 | 2025-04-18 | 2025-06-14 |
 | [Shine Love In](https://open.spotify.com/track/6oX2fvFiYdxpVXhvUiUPX0) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Shine Love In](https://open.spotify.com/album/5cITFIW9CxttK24F0wyWXn) | 3:09 | 2024-03-22 | 2024-08-10 |
 | [Shotgun \- Magdalena Bay Remix](https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Shotgun \(Magdalena Bay Remix\)](https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB) | 3:59 | 2022-08-19 | 2022-09-10 |
-| [show me how u do it!](https://open.spotify.com/track/3QLscjV0e8LEuiwz77lrZZ) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl) | [show me how u do it!](https://open.spotify.com/album/18nScLtRAb4qwKqNcxWafz) | 3:02 | 2025-06-27 |  |
+| [show me how u do it!](https://open.spotify.com/track/3QLscjV0e8LEuiwz77lrZZ) | [Bad Snacks](https://open.spotify.com/artist/5gZDpKtrxDf0ULvDuhLMZy), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl) | [show me how u do it!](https://open.spotify.com/album/18nScLtRAb4qwKqNcxWafz) | 3:02 | 2025-06-27 | 2025-08-21 |
 | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Show Me The Money \(with Tkay Maidza\)](https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B) | 3:07 | 2023-03-17 | 2023-12-01 |
 | [Show the Way](https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Show the Way](https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J) | 4:21 | 2025-03-28 | 2025-05-17 |
 | [Show You](https://open.spotify.com/track/74EHydQvXX3mdZEzxw2zsf) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3) | [Show You](https://open.spotify.com/album/1zGO4KHUpo2qEBLnUcTHfL) | 3:51 | 2024-09-20 | 2024-12-07 |

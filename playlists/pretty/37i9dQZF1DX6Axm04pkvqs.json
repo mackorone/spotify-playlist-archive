@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 55844,
+  "num_followers": 55888,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-26 00:01:00",
       "album": {
+        "name": "Nekwa Mu",
+        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
+      },
+      "artists": [
+        {
+          "name": "Mr M & Revelation",
+          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
+        }
+      ],
+      "duration_ms": 162655,
+      "name": "Nekwa Mu",
+      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
         "name": "Daddy wey dey Pamper",
         "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 760597,
       "name": "Daddy wey dey Pamper",
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Nekwa Mu",
-        "url": "https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k"
-      },
-      "artists": [
-        {
-          "name": "Mr M & Revelation",
-          "url": "https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa"
-        }
-      ],
-      "duration_ms": 162655,
-      "name": "Nekwa Mu",
-      "url": "https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6"
     },
     {
-      "added_at": "2024-09-20 00:01:00",
-      "album": {
-        "name": "The Conqueror\u2019s Chant (Agalliao)",
-        "url": "https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 524409,
-      "name": "The Conqueror\u2019s Chant (Agalliao)",
-      "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Testimony",
@@ -1265,20 +1249,20 @@
       "url": "https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
+      "added_at": "2024-09-20 00:01:00",
       "album": {
-        "name": "Strings of Glory (Prayer Chant)",
-        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+        "name": "The Conqueror\u2019s Chant (Agalliao)",
+        "url": "https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj"
       },
       "artists": [
         {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 320000,
-      "name": "I'm Available (Prayer Chant)",
-      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
+      "duration_ms": 524409,
+      "name": "The Conqueror\u2019s Chant (Agalliao)",
+      "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
     },
     {
       "added_at": "2024-07-26 00:01:00",
@@ -1303,6 +1287,22 @@
       "duration_ms": 380123,
       "name": "Awake",
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Strings of Glory (Prayer Chant)",
+        "url": "https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "I'm Available (Prayer Chant)",
+      "url": "https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u"
     },
     {
       "added_at": "2025-08-01 00:01:33",

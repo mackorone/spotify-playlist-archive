@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Remble
 
-1,333 songs - 2 day 13 hr 57 min
+1,334 songs - 2 day 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Daboii Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboii Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 | 2024-05-17 | 2025-04-12 |
 | [Dance With The Devil](https://open.spotify.com/track/45wa8hJ0kmnoFHe3Q2b7wD) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Dance With The Devil](https://open.spotify.com/album/5G78ENtLhRyWmGjXL2CGTo) | 3:30 | 2024-06-28 | 2024-07-06 |
 | [Darkest Part Of You](https://open.spotify.com/track/2jRCBnLBkG2fdsA2oFmzch) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [The Reaper](https://open.spotify.com/album/5DyuTZUXgZBk40wy03M17o) | 3:14 | 2024-08-23 | 2024-11-09 |
+| [Darling, I \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 | 2025-08-19 |  |
 | [Dawg House](https://open.spotify.com/track/4OWhcwHOnB7ZLGJI0Fo4oN) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Dawg House](https://open.spotify.com/album/1sjsLTzS0WxitdFmqvPpUW) | 1:46 | 2022-08-26 | 2022-11-26 |
 | [Days Like This](https://open.spotify.com/track/1SDmHiEsPpO2YLsubzKRUW) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful \(Deluxe\)](https://open.spotify.com/album/2eKy2HAQ2J3WY4Q4rVCha2) | 3:36 | 2025-08-08 |  |
 | [Dead Homies](https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Dead Homies](https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY) | 2:52 | 2022-03-11 | 2022-06-25 |
@@ -1132,7 +1133,7 @@
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-30 | 2022-12-17 |
 | [STOP IT](https://open.spotify.com/track/3loQ69RjHEsOB2ADrusRwy) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [STOP IT](https://open.spotify.com/album/3h853f1lbotNRiJUTxwOJg) | 1:55 | 2021-12-03 | 2022-03-12 |
 | [Stop Playin'](https://open.spotify.com/track/2z2ctSksThQQiV113DvZNL) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Stop Playin'](https://open.spotify.com/album/6ZBALbgsms8DpV0nDxm45q) | 2:06 | 2023-07-14 | 2023-09-02 |
-| [Stop Playing With Me](https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:13 | 2025-07-21 |  |
+| [Stop Playing With Me](https://open.spotify.com/track/1IF3hx6HU46Pitm0dOdVJO) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:13 | 2025-07-21 | 2025-08-21 |
 | [Strange Ways](https://open.spotify.com/track/6cCr4322AW8708Af5VL60d) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [While The Iron Is Hot](https://open.spotify.com/album/0cFavtnkVxB3dpml8KpJEg) | 2:22 | 2025-05-30 |  |
 | [Strapped Up](https://open.spotify.com/track/0TKPNO7dh3MkGLkSB1ju1D) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3) | [Strapped Up](https://open.spotify.com/album/4ayXMWN3id6YUpABQFMFew) | 2:46 | 2024-06-14 | 2024-06-29 |
 | [Street Love](https://open.spotify.com/track/37AiMqKkNsN3Pnz2HkYAeU) | [Rob Law](https://open.spotify.com/artist/01NMOS8Qb5eVN7QyJE4VAo), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [Jus Charlie](https://open.spotify.com/artist/018dwInf08zLeTmxZIkcny) | [Street Love](https://open.spotify.com/album/5OmuxzfQqkZvpZG6iiETKI) | 3:46 | 2023-08-25 | 2023-09-09 |

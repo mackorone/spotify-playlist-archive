@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Click on the feed to see what's going on in the world of Afro R&B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,093,125 likes - 165 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,093,018 likes - 165 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

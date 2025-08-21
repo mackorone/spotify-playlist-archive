@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music by independent artists in the UK & Ireland\. Cover: Green Gardens
+> The best new music by independent artists in the UK & Ireland\. Cover: Mudi Sama
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,591 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,598 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [EASTSIDE](https://open.spotify.com/track/4Lo7ugXkj3xfWS55yRo1BT) | [FIA](https://open.spotify.com/artist/4sBchWt0QKpGVFvAm52jq4) | [EASTSIDE](https://open.spotify.com/album/7vHz8nVItHJ62Gl1h0ItMw) | 3:08 |
 | 100 | [Again](https://open.spotify.com/track/12hlmFC0kmPTVfrwJr55yA) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Again](https://open.spotify.com/album/2Rv29DiIEjX54L0u4Oco42) | 3:32 |
 
-Snapshot ID: `AAAAAEVhztO1Wyr1Y3deT/BvVoIWqZmt`
+Snapshot ID: `AAAAAKTN6nEva/m15PnSqvy1MRw16FrG`

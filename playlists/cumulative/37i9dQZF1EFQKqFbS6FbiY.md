@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-684 songs - 1 day 9 hr 19 min
+685 songs - 1 day 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Aliança Invisível](https://open.spotify.com/track/6OxCJnjt0N2QaPvuYNQm84) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Aliança Invisível](https://open.spotify.com/album/3DgQfXjPUypCPgmhSFh7vP) | 2:47 | 2023-12-30 |  |
 | [Aliança no Dedo \- Uai](https://open.spotify.com/track/5BsUKfX24bU0H8z5ArQakM) | [Andri & Hector](https://open.spotify.com/artist/6Z5H6o9sDFCMcAr43wcYRh) | [Aliança no Dedo \(Uai\)](https://open.spotify.com/album/6oKbggIQs3v1SLkYIEtVbn) | 2:54 | 2023-12-30 |  |
 | [Alugo\-Me \- Ao Vivo](https://open.spotify.com/track/4eAwNHoqTcWKQBCcVqaHyW) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Acode Aí \(Ao Vivo\)](https://open.spotify.com/album/08ZYDQwSdUTRgE3FNr4W5J) | 2:34 | 2023-12-30 | 2025-06-28 |
+| [Alvo do Momento](https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b) | [Alan Leone](https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J) | [Alvo do Momento](https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg) | 3:32 | 2025-08-20 |  |
 | [Além do Infinito](https://open.spotify.com/track/4KH54qZxMm0H0f23GKLzCy) | [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Minha Loucura de Amor](https://open.spotify.com/album/4wTpCdqGoBIg8TlvFcZCh5) | 3:37 | 2023-12-30 |  |
 | [Amando Individual](https://open.spotify.com/track/40jJXSACXLpFp5czWoa32I) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Check](https://open.spotify.com/album/4VtFp9aoqQYTqxlsN0A8Qg) | 2:56 | 2023-12-30 | 2025-06-28 |
 | [Amigo Que É Amigo](https://open.spotify.com/track/5D1ixNARlM6FgtVwrb0esH) | [Junior Magalhaes](https://open.spotify.com/artist/55PGtNFOs1hBbN0szW9p2T) | [Junior Magalhaes](https://open.spotify.com/album/2DE1jLXH3UgvNWW7WXxbSR) | 2:16 | 2023-12-30 |  |

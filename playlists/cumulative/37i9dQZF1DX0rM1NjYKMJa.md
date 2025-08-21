@@ -4,7 +4,7 @@
 
 > Get ready for Notting Hill Carnival 2025\. The vibes start here.
 
-498 songs - 1 day 2 hr 41 min
+499 songs - 1 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [Far Away](https://open.spotify.com/track/7lfRes9dTHe5bJ3X8tEhLu) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M) | [Sunkissed Shores](https://open.spotify.com/album/1Qh6lvD6dPqqLhViFvwYrg) | 3:25 | 2021-08-26 | 2022-02-25 |
 | [Fast Wine](https://open.spotify.com/track/2RQ2CwHD5mJBox0Hc6HYRc) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/1mlDPzy4l8LhGVqNEiopIN) | 3:24 | 2022-08-18 | 2023-09-25 |
 | [Fast Wine](https://open.spotify.com/track/4NwVmwGWpiiPdJj3NCehe9) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Fast Wine](https://open.spotify.com/album/2htMNG5thjmStMpHtdE9iH) | 3:24 | 2025-08-18 |  |
-| [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 | 2025-06-20 |  |
+| [Feel It](https://open.spotify.com/track/4zegbzhJVyZ8RBM86t6ZqI) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Feel It](https://open.spotify.com/album/5pAhTwf5anpAM4qQ8JZD4H) | 3:32 | 2025-06-20 | 2025-08-21 |
 | [Feel The Love](https://open.spotify.com/track/13vorXelUCLrciiOxPtUwC) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [YAGO](https://open.spotify.com/album/0rhXufoWIvJPOqC5Y3AhHa) | 3:27 | 2023-07-10 | 2023-08-08 |
 | [Feel The Love](https://open.spotify.com/track/2XYPHD71AlPDFekVePLSC7) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [Feel The Love](https://open.spotify.com/album/43pDCKtWtKOUDYxUZkwPCP) | 3:27 | 2021-08-26 | 2022-02-25 |
 | [Feel The Love](https://open.spotify.com/track/7r2M83V4U7ijVWc8HAWr3f) | [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG), [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp) | [YAGO](https://open.spotify.com/album/2a0t7RwWIBIsIp1vlxXycA) | 3:27 | 2022-02-24 | 2022-07-31 |
@@ -382,6 +382,7 @@
 | [Shay'mpempe Amapiano Mix](https://open.spotify.com/track/2zEubbwXFFI7bb3B0etgBf) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C), [Dj Mavuthela](https://open.spotify.com/artist/3BwYXyhg61oe5XyrGfzJbg), [Ribby De Deejay](https://open.spotify.com/artist/7EZoW1TtCANKJa8r4TlmA9), [Rhino](https://open.spotify.com/artist/5jWLqtFEAW8fVtwGo7gArt) | [Shay'mpempe Amapiano Mix](https://open.spotify.com/album/4jfFgrCgBblCVt5FeZfAlm) | 5:55 | 2023-07-10 | 2023-08-04 |
 | [She Ready](https://open.spotify.com/track/7iMQcJkDfiEF07buHkUZCe) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M), [Salty](https://open.spotify.com/artist/5wTiDWdoGJYXviy2rK8Out) | [Road Bounce Riddim](https://open.spotify.com/album/4sUT7BdvKj38vja03FATG4) | 3:17 | 2023-02-21 | 2023-07-11 |
 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 | 2025-05-30 |  |
+| [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 | 2025-08-18 |  |
 | [Shut Up & Dance \(with King Promise, Kes & Anthony Ramos\)](https://open.spotify.com/track/0BtgOXvhaWt8AZizp6Jqt1) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [FAMI SUMMER](https://open.spotify.com/album/5Mqife0K9kGhxmXJsnqUy9) | 2:59 | 2023-09-24 | 2025-08-12 |
 | [SIDUNG](https://open.spotify.com/track/7vuQEzDmZAGUkfFRDNd4OW) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [SIDUNG](https://open.spotify.com/album/5xvkP892H4YG7N8JFIzg5v) | 2:25 | 2023-08-23 | 2023-09-25 |
 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 | 2023-07-10 | 2023-08-08 |

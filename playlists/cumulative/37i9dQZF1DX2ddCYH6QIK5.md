@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Victoria West, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Superweak, Artwork: Isu Kim
 
-1,461 songs - 3 day 10 hr 19 min
+1,465 songs - 3 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [Click On It](https://open.spotify.com/track/1YQBSstf3y6GMI9ojqgolg) | [Schatz](https://open.spotify.com/artist/4BNIGMgt7IvUs5y2DUQoCq) | [Click On It](https://open.spotify.com/album/0GrqIQCOV2OLT9ZncfOHfy) | 3:07 | 2023-07-12 | 2023-08-03 |
 | [Closer Closer Closer](https://open.spotify.com/track/258TMOnq8gRv15NVK0kxAt) | [Tobias Jensen](https://open.spotify.com/artist/58b7ah7ekcjMDdqRXp0VrK) | [Closer Closer Closer](https://open.spotify.com/album/0O3gw2mZICiib9dvFy4LIS) | 2:21 | 2023-09-20 | 2023-10-12 |
 | [closure](https://open.spotify.com/track/4wfbsHukb95LmqXmcKLUtx) | [ELLE MB](https://open.spotify.com/artist/1fbq8P7ffshPlbpfoN3Xg3) | [closure](https://open.spotify.com/album/0UXB8RrbmesJlhmWqiKEqA) | 2:49 | 2023-04-19 | 2023-05-04 |
+| [Clover & Camelia](https://open.spotify.com/track/3xbxHVaNjCBlczxbjdtvqU) | [Malummí](https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl) | [Clover & Camelia](https://open.spotify.com/album/5x7fvqbEdEyHTOHiHFMaAJ) | 3:55 | 2025-08-20 |  |
 | [Coffee](https://open.spotify.com/track/3XHnCCAMa3TgIQzA0R2REG) | [vincent varus](https://open.spotify.com/artist/2Mirs2KlJTaBavdK1i6jIP) | [Coffee](https://open.spotify.com/album/0qT49y3iSgfahdp2hNBX5u) | 2:50 | 2024-05-22 | 2024-07-17 |
 | [COLD](https://open.spotify.com/track/5se2V2FG9DPzmSF3F9LZlO) | [eldergaze](https://open.spotify.com/artist/14soKg8A3qQYAfNRA69WCL) | [COLD](https://open.spotify.com/album/1pUplFlAmscU56lrEu64kH) | 3:19 | 2024-11-13 | 2025-02-06 |
 | [Cold](https://open.spotify.com/track/6X4erYrbt5YC7m9XlTp2KT) | [Iuna Lux](https://open.spotify.com/artist/0HNLFWeKZoz8bI9ImJUdLX) | [Cold](https://open.spotify.com/album/6JqDwyZv90VIEHa0ROTpRw) | 3:41 | 2022-02-02 | 2023-01-05 |
@@ -311,7 +312,7 @@
 | [demons](https://open.spotify.com/track/1BD0ImThI67KU3NAL33KeB) | [MAÍRA](https://open.spotify.com/artist/6pNk0KDfGJIXQXnR2zQpV4) | [demons](https://open.spotify.com/album/7rEBMIzt3DtZyBVaQTpHiX) | 2:55 | 2024-10-16 | 2025-07-10 |
 | [DEMONS](https://open.spotify.com/track/1m9esVBIT1EMcKF3hRot6I) | [NOA](https://open.spotify.com/artist/7m9NX0O3pL0wL2DJNCiKOd) | [DEMONS](https://open.spotify.com/album/5QApd87hTqy2Mm8PuHXJpw) | 3:20 | 2022-10-26 | 2023-03-09 |
 | [Deniable](https://open.spotify.com/track/1LirjwjXGwh5Q5x7m72eP5) | [Laurel Bloom](https://open.spotify.com/artist/4ga5OvUBX2rGaWpOGLyfe6) | [Deniable](https://open.spotify.com/album/3Qpy8Lq4HHeOfQPp0xhvmP) | 3:09 | 2024-11-13 | 2025-03-27 |
-| [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 | 2025-02-19 |  |
+| [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 | 2025-02-19 | 2025-08-21 |
 | [Departure](https://open.spotify.com/track/5M0sGKRpEbuPRp6h9MwBpH) | [Clear Coast](https://open.spotify.com/artist/58UapvdMDXRAObkMvp4Ree) | [Departure](https://open.spotify.com/album/0lHYuBBi2sWFP0j8ilARPz) | 3:09 | 2022-05-04 | 2022-06-23 |
 | [Der Regen](https://open.spotify.com/track/1bk2IQSbELCqnwgfPGwTDy) | [Julian Knoth](https://open.spotify.com/artist/5M8jA3ppKtesQSNnlw787M) | [Der Regen](https://open.spotify.com/album/5WnpEv7Mwwtp5PxkgUQ7R2) | 3:20 | 2025-04-09 | 2025-05-22 |
 | [Desire](https://open.spotify.com/track/7BFEDDCUYqYXnVH5ItVvOo) | [Etur Usheo](https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg) | [Desire](https://open.spotify.com/album/0T9t94ZmiwFdMybdAi213o) | 5:52 | 2022-10-26 | 2023-03-02 |
@@ -320,7 +321,7 @@
 | [Deutschland \- Edit](https://open.spotify.com/track/1n2gqDlSGj1in0kxdo5My2) | [NACKT](https://open.spotify.com/artist/1oqcIyj0tetznO8NcWJDjt) | [Deutschland \(Edit\)](https://open.spotify.com/album/6kNvdRcpb2Y1DFuTt73yIY) | 3:30 | 2024-05-29 | 2024-07-04 |
 | [Diamond](https://open.spotify.com/track/7BbXpIIyz0I410Ifqzm03u) | [arthur the gang](https://open.spotify.com/artist/6CVeQGlxp0gotdC6FYKRnc) | [Diamond](https://open.spotify.com/album/36j28iZ2cSNJh5kTYaPS8j) | 2:24 | 2025-06-12 |  |
 | [dich](https://open.spotify.com/track/4yOJtArN2pOXrJw7F2lT8c) | [Lea Marie](https://open.spotify.com/artist/5XIF2l3hXty0qWMNR58Bqk) | [dich](https://open.spotify.com/album/4YDcucTNgCxgCVVaTyyZhL) | 2:02 | 2025-07-02 |  |
-| [Didn't Know Back Then](https://open.spotify.com/track/0ULwAiooN2lRCppAP6YFxZ) | [ÄNN](https://open.spotify.com/artist/274B7ikaDY7W3bsAUx02aV) | [Didn't Know Back Then](https://open.spotify.com/album/5J89o3t8KlqPTFMfs800P8) | 4:38 | 2025-06-04 |  |
+| [Didn't Know Back Then](https://open.spotify.com/track/0ULwAiooN2lRCppAP6YFxZ) | [ÄNN](https://open.spotify.com/artist/274B7ikaDY7W3bsAUx02aV) | [Didn't Know Back Then](https://open.spotify.com/album/5J89o3t8KlqPTFMfs800P8) | 4:38 | 2025-06-04 | 2025-08-21 |
 | [Die Gefahr](https://open.spotify.com/track/0QsG6331LyC4bNlwlrR37b) | [Die Gefahr](https://open.spotify.com/artist/72PcBih0TelN6vxG4EmRLk) | [Die Gefahr](https://open.spotify.com/album/3qFp36bFh4oIoINKUsF1T8) | 5:24 | 2023-04-12 | 2023-06-01 |
 | [Die Makrele, die nicht ganz zufrieden war](https://open.spotify.com/track/1aR90vjP8uEwTadXg66yh2) | [Die weiteren Aussichten](https://open.spotify.com/artist/6qTckVBrsUTM2igSoWf5jc) | [Die Makrele, die nicht ganz zufrieden war](https://open.spotify.com/album/1QQYMqckh1fWgUGwWfR6tr) | 4:06 | 2023-10-11 | 2023-11-30 |
 | [Die Nacht ist Schwarz](https://open.spotify.com/track/3TbKfhV2fdLLc6uvn6sX0U) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Die Nacht Ist Schwarz](https://open.spotify.com/album/0LCCUokTaYSbtZMmbYexZR) | 5:58 | 2022-05-18 | 2022-09-09 |
@@ -696,6 +697,7 @@
 | [Jupi](https://open.spotify.com/track/1VM2xgkPbd8yrHcjnowA7b) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Jupi](https://open.spotify.com/album/7pTtpTElpvPfylKrwXokp3) | 2:46 | 2022-01-05 | 2022-04-07 |
 | [Jupi](https://open.spotify.com/track/5RKxOzTpM3IkfJifsDv0TM) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [Illusion](https://open.spotify.com/album/6tkbXaUeodtx2x4eNa9wu9) | 2:46 | 2022-11-30 | 2023-01-05 |
 | [Jurassic Park](https://open.spotify.com/track/5OUs1CehWjX1L8ClOM24ep) | [Peter aus der Mozartstrasse](https://open.spotify.com/artist/2d0hWUrMLEnczPs4u8zTmm) | [Jurassic Park](https://open.spotify.com/album/6ROUOgNAM3gJFdADvqBeTK) | 3:33 | 2022-03-30 | 2022-04-07 |
+| [kaffee am bett](https://open.spotify.com/track/5WdSWli3WhQolHlE3ykIam) | [Nie ohne Timba](https://open.spotify.com/artist/1lL3XKkvD4ZMHFTOXoXVzt), [Moonis](https://open.spotify.com/artist/2cIm0WVXYXsmTJ7JV7e1oX) | [kaffee am bett](https://open.spotify.com/album/3TQtyKQAx3yO4MsEDMaaQi) | 2:19 | 2025-08-20 |  |
 | [Kaisermantel](https://open.spotify.com/track/1ThZOanS72JqrhCCpfOPXo) | [Ken Hayakawa](https://open.spotify.com/artist/28vlaUSHlgk9VhGO3jXgWO) | [Kaisermantel](https://open.spotify.com/album/3WtDALoF3wVFPGhcBBRA7s) | 4:55 | 2022-03-02 | 2022-05-05 |
 | [Kalt](https://open.spotify.com/track/2IVUshvWUJ3pWrlZ5peC2O) | [LARA](https://open.spotify.com/artist/5sJwUJdjiGahgdLEVf81MF) | [Kalt](https://open.spotify.com/album/2p7hXqCCDBYROrpPTpcOEP) | 2:07 | 2024-05-29 | 2024-07-04 |
 | [Kalter Rauch](https://open.spotify.com/track/3K12JwlIfDYrjtxbRSBdEG) | [HUND](https://open.spotify.com/artist/6xktnntP78vNwrOS0Llg76) | [Kalter Rauch](https://open.spotify.com/album/5tY9nXBuvKrvO8ViaHqcqS) | 3:40 | 2024-01-03 | 2025-01-10 |
@@ -738,6 +740,7 @@
 | [Labels](https://open.spotify.com/track/335dWnxWmadMNh5245heUY) | [neji.mp3](https://open.spotify.com/artist/2rFHqnk7YxBSaFKCiNt6b8) | [Labels](https://open.spotify.com/album/6pfSB2fbJRivRCLJKAyK0V) | 1:46 | 2022-01-26 | 2022-02-10 |
 | [LACTOBOY](https://open.spotify.com/track/2C1VLt6q6bvPOQGQZyKgCk) | [Sebastian der Saubere](https://open.spotify.com/artist/3F8hZErqnfFKa81D1qUDBI), [Pablo Rochat](https://open.spotify.com/artist/1jrRHAXkOac4wogkGnWubr) | [LACTOBOY](https://open.spotify.com/album/5L6H23VeiDrwdHn2JmZAkP) | 3:28 | 2024-10-09 | 2024-11-21 |
 | [Ladder](https://open.spotify.com/track/30q636SYFTMgBoYkUpDucv) | [Enya El](https://open.spotify.com/artist/7InSqIOYCcGiFGrajTdcZU) | [Ladder](https://open.spotify.com/album/4EmuQzPsYMen5oRgaltkO2) | 2:39 | 2022-04-13 | 2022-06-23 |
+| [Lange Her](https://open.spotify.com/track/2NIGGrekV5gx8XRfBEqFPi) | [Indigo](https://open.spotify.com/artist/0E5ZN8IXViJS5PinN7lcdj) | [Lange Her](https://open.spotify.com/album/1ZS1z9hvqP1QU7iLCuUSHX) | 2:21 | 2025-08-20 |  |
 | [Lange her](https://open.spotify.com/track/3o1g9quk4CP1Zf36CsyjUk) | [Skatch](https://open.spotify.com/artist/3N1D35YkG9RefRmyD614CS) | [Lange her](https://open.spotify.com/album/6xkzcojzbpqLmMIJI7CE54) | 2:31 | 2024-02-14 | 2024-08-22 |
 | [Langsam](https://open.spotify.com/track/5G8tWhCYkFm4hHhaIdhX34) | [NIEMALS](https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y) | [Lichtblick](https://open.spotify.com/album/6Einzy6kxuwNopqb81HfHk) | 2:37 | 2024-12-04 | 2025-01-10 |
 | [Lantern](https://open.spotify.com/track/2sToQDhcxwguNcbzFueTVT) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Lantern](https://open.spotify.com/album/3hq0lmCHxCKFqFaYItuWwz) | 1:54 | 2022-02-02 | 2022-04-21 |
@@ -775,7 +778,7 @@
 | [Liebesbriefe](https://open.spotify.com/track/6lVRDNNb4omegvDYORrAet) | [Arctic8](https://open.spotify.com/artist/06uvtPo2ZlLhC4yKI5i2Is) | [Liebesbriefe](https://open.spotify.com/album/75WcHRxhZRy1zGlzoRTeFa) | 4:14 | 2023-03-01 | 2023-08-10 |
 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 | 2024-05-15 | 2025-01-10 |
 | [life is good \- edit](https://open.spotify.com/track/0X3qqqrbSVnkZJkfHozQQJ) | [RAFFL](https://open.spotify.com/artist/7aTha9gJAg4C4OZV24F3IF) | [life is good \(edit\)](https://open.spotify.com/album/5QCBPqx56QmCnJNCaJc7gl) | 3:44 | 2024-07-31 | 2025-06-13 |
-| [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 | 2025-02-19 |  |
+| [Lifeline](https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4) | [GOODWIN](https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l) | [Lifeline](https://open.spotify.com/album/4Hns3o2t7vtNEpFDxkAVvC) | 2:53 | 2025-02-19 | 2025-08-21 |
 | [lights on](https://open.spotify.com/track/1n3RYcH8gK88jRYSFhQqzP) | [h3nce](https://open.spotify.com/artist/2NII5V3cxjPuP5cg6UK7Ob) | [lights on](https://open.spotify.com/album/6KfvkXIlE3bdcbD2slpZVM) | 2:45 | 2023-09-20 | 2023-10-12 |
 | [Like That](https://open.spotify.com/track/30903SVcxddVIQG89To0nj) | [TRUU](https://open.spotify.com/artist/7kd90G2LsciMJH8MeQ4lHL) | [Like That](https://open.spotify.com/album/0guMKCbLyA3PYQylf1xt16) | 2:17 | 2022-10-26 | 2022-11-24 |
 | [Lipstick](https://open.spotify.com/track/6K1CKsjd3dmE7iZq2bTkse) | [Palacity](https://open.spotify.com/artist/7m6O3pKbxei8YtnYnEVmYP) | [Lipstick](https://open.spotify.com/album/0eTupJzHAy01CpbEnHnNlQ) | 3:33 | 2025-01-29 | 2025-04-03 |
@@ -1219,7 +1222,7 @@
 | [Strangers](https://open.spotify.com/track/5slGloF5Q8G7quDkUbBccm) | [Monomers](https://open.spotify.com/artist/0MYxZLFZQRGMYEtN1tntq6) | [Strangers](https://open.spotify.com/album/0gq7kwNKZoTf22GJS33zJz) | 3:49 | 2023-10-25 | 2023-11-09 |
 | [strassenzügelichterketten](https://open.spotify.com/track/2xOnvMpJu2klPqlfQ87YK4) | [GAST](https://open.spotify.com/artist/6p8CmCRoWyArAOTnuBmU56) | [GAST](https://open.spotify.com/album/7xdlH0Qfw1lMBUh6I1EqwY) | 4:06 | 2022-11-23 | 2023-02-16 |
 | [strawberry picking](https://open.spotify.com/track/4EBIVV2rqDVZ5ecz6njqPT) | [being anne](https://open.spotify.com/artist/0IGdniqj6s9L1Hty8RoIIw) | [strawberry picking](https://open.spotify.com/album/3eZxgp9d9avXi8syq5rC0v) | 3:25 | 2024-01-03 | 2024-02-22 |
-| [Streichholz \(Demo\)](https://open.spotify.com/track/1Etz2OveAk1dtfgkvhi6q6) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Streichholz \(Demo\)](https://open.spotify.com/album/6dQYBrYAtdBtJML9pEwXBZ) | 1:38 | 2025-06-18 |  |
+| [Streichholz \(Demo\)](https://open.spotify.com/track/1Etz2OveAk1dtfgkvhi6q6) | [Sam James](https://open.spotify.com/artist/3VQwTh92cOv9BsboReaIQy) | [Streichholz \(Demo\)](https://open.spotify.com/album/6dQYBrYAtdBtJML9pEwXBZ) | 1:38 | 2025-06-18 | 2025-08-21 |
 | [Stretching Eyes](https://open.spotify.com/track/3fHTf2mF35at31txWHMitJ) | [Line Gøttsche](https://open.spotify.com/artist/4uKRQsOsbatBEDfAlc1oZW) | [Stretching Eyes](https://open.spotify.com/album/43EpSTPEMJb8F9kjUANEkU) | 3:17 | 2025-01-09 | 2025-03-06 |
 | [Stronger Than Me](https://open.spotify.com/track/3GrEbeE8X4LoVwWv42y7ai) | [Between Bodies](https://open.spotify.com/artist/4c9as8vPweJK4VD8JvdjQr) | [Stronger Than Me](https://open.spotify.com/album/3W0DGChEgAjzLpDQmVsb22) | 3:21 | 2022-06-22 | 2022-07-14 |
 | [STRUGGLE](https://open.spotify.com/track/0LEERa0B2yvLwwJjrJMHSA) | [ISAIAH](https://open.spotify.com/artist/01iPtgyGh1o00ypKadP5DK) | [STRUGGLE](https://open.spotify.com/album/2frz9hOTIwcaaM0ezctsU5) | 3:12 | 2022-10-12 | 2022-11-10 |
@@ -1234,6 +1237,7 @@
 | [Sunburn](https://open.spotify.com/track/0IjXr94p2opARXxCTX92bY) | [Laundromat Chicks](https://open.spotify.com/artist/46HzAMITllrFpiZAvvJudl) | [Sunburn](https://open.spotify.com/album/5buzaLuGXo6sPuftgENpbB) | 3:42 | 2024-11-20 | 2024-12-05 |
 | [Sunday](https://open.spotify.com/track/4KBmNiEQ39ximnGPy8Gds1) | [Mote](https://open.spotify.com/artist/3fnFaQr5shMn4CFA0wpm7i) | [Sunday](https://open.spotify.com/album/554HQYo31w6IpvG8Z9dPCF) | 4:13 | 2025-01-09 | 2025-05-22 |
 | [sundown](https://open.spotify.com/track/1yVRDWtLuYGPje84qKQkqb) | [melting reeds](https://open.spotify.com/artist/4yOLXFtr2crwkV5v4QBQtO) | [sundown](https://open.spotify.com/album/5Mmz0gqYUGzBdH74cNELNt) | 5:10 | 2023-10-18 | 2024-04-19 |
+| [Sunny All The Time](https://open.spotify.com/track/6kYWpEFk0CQLVZHfSmEAOk) | [Superweak](https://open.spotify.com/artist/7gxARotrFBsOr69X3atVDL) | [Sunny All The Time](https://open.spotify.com/album/4kJybCbiEzXWCfCg7cYCj3) | 1:56 | 2025-08-20 |  |
 | [Supermarkt](https://open.spotify.com/track/18AM2pDpat41hGkqNdoR7O) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Supermarkt](https://open.spotify.com/album/5R96YOF9ZBS1ROBPwrSGN7) | 5:34 | 2022-07-20 | 2022-12-01 |
 | [Superstitious Thoughts](https://open.spotify.com/track/4ZoggoHYM0Ll0jDOPeKPsU) | [Skatman](https://open.spotify.com/artist/79K6YRpx6Q5HZJfxxcDq58) | [Superstitious Thoughts EP](https://open.spotify.com/album/0Fa9rAVo45sYENGM0PVatb) | 5:56 | 2022-09-07 | 2022-12-01 |
 | [Surreal](https://open.spotify.com/track/7nK4XY3bTTb3LI5wbaoMVu) | [Lazy](https://open.spotify.com/artist/1tR5tstHZ3h0J5pi5jX5kA), [Mahi](https://open.spotify.com/artist/49Ovq0GspSd8KXMomyUkOi) | [Surreal](https://open.spotify.com/album/1ZYEv5MBwHzokFbC42U0oz) | 2:48 | 2023-10-04 | 2024-04-04 |

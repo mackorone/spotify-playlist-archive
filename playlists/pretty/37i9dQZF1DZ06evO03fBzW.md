@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 
 > This is No Doubt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,594 likes - 48 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,611 likes - 48 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO03fBzW.md) - [plain]
 | 4 | [Ex\-Girlfriend](https://open.spotify.com/track/5ECMRJbRlj0FZRg9cRg94m) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 3:32 |
 | 5 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 6 | [Hella Good](https://open.spotify.com/track/6AfLmKXzhEZjwiVPs5jhdV) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 4:02 |
-| 7 | [What Is Wrong & What Is Right \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD) | [T.I.M.](https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC), [John Hayes](https://open.spotify.com/artist/26RcNeLhz7MLjnfIBdVuiB), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [What Is Wrong & What Is Right](https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me) | 2:59 |
+| 7 | [What Is Wrong & What Is Right \(feat\. Adrian Young of No Doubt\)](https://open.spotify.com/track/66MAVbjKx4ZcXNuiIgdvmD) | [T.I.M.](https://open.spotify.com/artist/7wfonq285Ez77TiowGAAAC), [John Hayes](https://open.spotify.com/artist/0pBj903ovIkiNZpaWuW6QY), [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [What Is Wrong & What Is Right](https://open.spotify.com/album/4JLiv2tvefCX7fESoEo3Me) | 2:59 |
 | 8 | [Bathwater](https://open.spotify.com/track/3xbZU7KENdHZrX99VDNGwx) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Return Of Saturn](https://open.spotify.com/album/6O35YawqZFdtOhL9smKmh7) | 4:02 |
 | 9 | [Spiderwebs](https://open.spotify.com/track/4ZD6SiaJi75smnel0d7jl3) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:26 |
 | 10 | [Hey Baby](https://open.spotify.com/track/2QsoVMTKj5m5kgztTOep98) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Rock Steady \(Expanded Edition\)](https://open.spotify.com/album/0KFPnm4Ow2L9BuivmWT3pu) | 3:27 |

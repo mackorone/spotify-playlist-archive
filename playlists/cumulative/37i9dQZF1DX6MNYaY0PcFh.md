@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Jorja Smith
 
-297 songs - 16 hr 49 min
+298 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 | 2023-06-08 | 2024-04-19 |
 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 | 2024-03-15 | 2024-06-01 |
 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 | 2022-11-25 | 2024-02-09 |
-| [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 | 2024-10-24 |  |
+| [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 | 2024-10-24 | 2025-08-21 |
 | [Empty](https://open.spotify.com/track/0geLfVS9vrNQhDPFJBqsL8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Love Me Not](https://open.spotify.com/album/0FYjV1mYKYhQqxrPSJWaLi) | 3:21 | 2025-04-17 | 2025-07-25 |
 | [Endless Sky](https://open.spotify.com/track/6yx9SdXE5O69efsGQqNiLp) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 2:39 | 2023-10-06 | 2024-09-13 |
 | [Everybody Over](https://open.spotify.com/track/4No1alSr6ux0ttjJqjAx8A) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Everybody Over](https://open.spotify.com/album/5efKfj820nvc1oQ71S43YC) | 2:46 | 2025-07-03 |  |
@@ -216,6 +216,7 @@
 | [Pretty Little Raver](https://open.spotify.com/track/4Ppdt9mETYFVcN1lQJHEJA) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Pretty Little Raver](https://open.spotify.com/album/5EMbeN8ZYxnlEcTQiLveUk) | 2:23 | 2024-05-10 | 2025-06-20 |
 | [Productive](https://open.spotify.com/track/55L2XhAvgd8gMLkgjYK8F9) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv) | [Productive](https://open.spotify.com/album/2HXUvL5Lzg5nMGe1g8PJEm) | 2:28 | 2025-06-19 | 2025-07-04 |
 | [Promise](https://open.spotify.com/track/6mTaiZPlOEop2t4FLUEMUc) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Crash & Burn EP](https://open.spotify.com/album/41p2H83VU86PDW3BpylYOV) | 3:26 | 2023-10-20 | 2024-09-06 |
+| [Pumpin Jumpin](https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Pumpin Jumpin](https://open.spotify.com/album/0WyIwrLoLBoS30ES2bgnXF) | 3:41 | 2025-08-15 |  |
 | [Push The Love \- Seb Zito Remix](https://open.spotify.com/track/0JpjBUzhrLH9Md5DSP4jSS) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Push The Love \(Seb Zito Remix\)](https://open.spotify.com/album/0p31PmsmGMYkOvc7Zro3DQ) | 3:38 | 2023-10-06 | 2024-03-22 |
 | [Put A Record On \- Sammy Virji Remix](https://open.spotify.com/track/5qV7vQA1BvlDWY7CED68SL) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Remixes](https://open.spotify.com/album/2Le6cq7l8xVgh04U5EQXYq) | 3:33 | 2022-11-25 | 2023-04-15 |
 | [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 | 2024-11-15 | 2025-07-04 |

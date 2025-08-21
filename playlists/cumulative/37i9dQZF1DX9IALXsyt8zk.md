@@ -4,7 +4,7 @@
 
 > Unearthing up\-and\-coming Korean acts\. \(Cover: JUNNY\)
 
-638 songs - 1 day 9 hr 49 min
+640 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Bye Flu](https://open.spotify.com/track/3uC2MJmj2dgZfVDOCpUU4y) | [KINIE.K](https://open.spotify.com/artist/1zeg1qsG6bzkQMucU0eayP) | [Bye Flu](https://open.spotify.com/album/1epfxooiLP9lVzFMaQotOe) | 4:05 | 2021-12-30 | 2022-02-18 |
 | [C.A.Y.A! \(Prod & Feat\. SAAY\)](https://open.spotify.com/track/4vytdsmz9onRzW6vkkk7zG) | [Hayoung](https://open.spotify.com/artist/2ny3vi2UsKF10iKDTscdSV), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [C.A.Y.A! \(Prod & Feat\. SAAY\)](https://open.spotify.com/album/6mqjKk4nTyLyoaN7AGWfU5) | 3:04 | 2021-12-30 | 2022-01-07 |
 | [Call me](https://open.spotify.com/track/5vWxHje3VHomfrnuHnw424) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Call me](https://open.spotify.com/album/5mHmn4iGuzbi81R6SLqftE) | 3:55 | 2021-12-30 | 2023-01-12 |
-| [call my name](https://open.spotify.com/track/3wp6nwsa8x95HEKer9Y5OG) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [96](https://open.spotify.com/album/2kAA71fuWIvHSJ2FfD2Pjg) | 2:52 | 2025-08-17 |  |
+| [call my name](https://open.spotify.com/track/3wp6nwsa8x95HEKer9Y5OG) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [96](https://open.spotify.com/album/2kAA71fuWIvHSJ2FfD2Pjg) | 2:52 | 2025-08-17 | 2025-08-21 |
 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-08-04 |  |
 | [Can I sleep next to you](https://open.spotify.com/track/36V5tCKEHlJHOATtUal5Xa) | [Faver](https://open.spotify.com/artist/4dKhpre3rrqk52jpFngYag) | [Can I sleep next to you](https://open.spotify.com/album/6qqBiGMNrSEj18NbDvhk2Z) | 3:36 | 2022-03-18 | 2022-05-27 |
 | [Can’t Be Happy](https://open.spotify.com/track/2XmehABLWyeBGu5Q9Nt5vN) | [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [Reality Check](https://open.spotify.com/album/1aWLDWVEHr87l5QuK1JUCA) | 2:46 | 2022-04-20 | 2022-07-05 |
@@ -155,6 +155,7 @@
 | [EARLY \(feat\. DUT2\)](https://open.spotify.com/track/4WZUZ7izRSUYhocujt9uDh) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:02 | 2023-02-15 | 2024-01-03 |
 | [ELEVEN](https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [ELEVEN](https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI) | 2:58 | 2021-12-30 | 2023-01-12 |
 | [End Better \(Feat\. Skinny Brown\)](https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [TOAST](https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ) | 3:43 | 2023-01-31 | 2024-01-03 |
+| [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-20 |  |
 | [Escape](https://open.spotify.com/track/2F0sKBGLcYhE62hTGruluO) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Begins youth \(Original Xclusive Soundtrack\), Pt\. 3](https://open.spotify.com/album/2UutdTEebU46QZaBPqBRja) | 3:47 | 2024-05-30 | 2024-08-02 |
 | [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-09-14 | 2024-03-22 |
 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 | 2025-06-10 | 2025-08-18 |
@@ -272,7 +273,7 @@
 | [in my room \(feat\. pH\-1, Marv\) \(prod\. moocean\)](https://open.spotify.com/track/3x3STzbhNeCivtioNh2k2I) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [love is](https://open.spotify.com/album/5uivJupx1ZmlrLMIBVbbYy) | 3:57 | 2023-05-01 | 2024-01-03 |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-08-23 | 2023-10-30 |
 | [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 | 2024-09-11 | 2024-11-28 |
-| [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 | 2025-08-17 |  |
+| [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 | 2025-08-17 | 2025-08-21 |
 | [Ironic](https://open.spotify.com/track/0CpJtbDzgqFjfcckyJvyc5) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Ironic](https://open.spotify.com/album/222uC5p2bcGmcTh8at8Iv5) | 2:30 | 2025-04-18 |  |
 | [It'll pass](https://open.spotify.com/track/3Yzlsk9g1zqWZUeI5oq1BN) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [It'll pass](https://open.spotify.com/album/6MkAOPaZtqTuDYVi68jqDU) | 3:48 | 2023-09-14 | 2023-11-16 |
 | [IZNA](https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [N/a](https://open.spotify.com/album/0OZI8FUpj852bAMgu1okko) | 2:36 | 2024-11-27 | 2025-05-08 |
@@ -505,6 +506,7 @@
 | [Something](https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [Something](https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo) | 4:40 | 2023-05-01 | 2023-09-15 |
 | [Somozu Fury](https://open.spotify.com/track/2YZ5AUwWi7ZqTsaKg4h9vi) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [Somozu Fury](https://open.spotify.com/album/6heXgTq8fkAfzBkDRWDDL8) | 2:35 | 2024-01-05 | 2024-04-24 |
 | [Song for You](https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Thanks For Nothing](https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk) | 3:11 | 2023-11-15 | 2024-04-24 |
+| [SOUR](https://open.spotify.com/track/6hoCY16RZyOAw3v5BtTJTA) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:28 | 2025-08-20 |  |
 | [Spoil U](https://open.spotify.com/track/4XrCv9Fxpgl3xuFgz9MD2Z) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [Jvcki Wai](https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN) | [Spoil U](https://open.spotify.com/album/2EfO38de75NslySrG9xA8y) | 2:05 | 2025-03-12 | 2025-05-21 |
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-12-30 | 2022-01-07 |
 | [Stargazers](https://open.spotify.com/track/5ddJtDFlVL9GwdWNdnEDGL) | [ISEGYE IDOL](https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6) | [Stargazers](https://open.spotify.com/album/3UENaS6UmhRQ5blgKC8JQ5) | 3:38 | 2025-05-20 |  |

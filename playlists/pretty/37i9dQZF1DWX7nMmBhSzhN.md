@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,629 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,272 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 2 | [Jeeye to Jeeye Kaise](https://open.spotify.com/track/19GWgGIJzqZqe6i1v41NZZ) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Saajan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ) | 6:37 |
 | 3 | [Tu Pyar Hai Kisi Aur Ka](https://open.spotify.com/track/5jib3JBR209gQizgISFbrH) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Hai Ke Manta Nahin](https://open.spotify.com/album/2azyipdkosVEQFLWDaHGi3) | 6:52 |
 | 4 | [Tere Dard Se Dil](https://open.spotify.com/track/32SM1giQug40rRNN10fYZj) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Deewana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL) | 4:51 |
-| 5 | [Jeeta Tha Jiske Liye](https://open.spotify.com/track/66DKTbjw8hpSnRiKEgml3Q) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PDILz2Sxow9ZRNlTKfBKD) | 7:38 |
+| 5 | [Jeeta Tha Jiske Liye](https://open.spotify.com/track/66DKTbjw8hpSnRiKEgml3Q) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Ajay Devgan](https://open.spotify.com/artist/1H7XdAotpijnnZPOlpDJfv) | [Dilwale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PDILz2Sxow9ZRNlTKfBKD) | 6:32 |
 | 6 | [Ab Tere Bin](https://open.spotify.com/track/5maLNkwnwUGzB7I6dNANV5) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn), [Super Cassettes Industries Private Limited](https://open.spotify.com/artist/7op82a4Hg19bs5i63swfII), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Aashiqui](https://open.spotify.com/album/7mUTDWUBOPcpXTALk1TJuX) | 5:46 |
 | 7 | [Tujhe Yaad Na Meri Aayee](https://open.spotify.com/track/2UtsLJy1O0OFkCgjJGPGfe) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Manpreet Akhtar](https://open.spotify.com/artist/1CwUuNEwAVFy1v7499k1b6) | [Kuch Kuch Hota Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:04 |
 | 8 | [Pardesi Pardesi](https://open.spotify.com/track/01bXxpjsD4ARa6ZOP8dmLY) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Raja Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5G16twTP5dS4B99YLakLE6) | 7:28 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Victoria West, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Superweak, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4385,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "Clover & Camelia",
+        "url": "https://open.spotify.com/album/5x7fvqbEdEyHTOHiHFMaAJ"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Clover & Camelia",
+      "url": "https://open.spotify.com/track/3xbxHVaNjCBlczxbjdtvqU"
+    },
+    {
+      "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/0qT49y3iSgfahdp2hNBX5u"
       },
@@ -5598,7 +5616,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 197769,
       "name": "denkst du an mich?",
       "url": "https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 278422,
       "name": "Didn't Know Back Then",
       "url": "https://open.spotify.com/track/0ULwAiooN2lRCppAP6YFxZ"
@@ -12697,6 +12715,28 @@
     },
     {
       "album": {
+        "name": "kaffee am bett",
+        "url": "https://open.spotify.com/album/3TQtyKQAx3yO4MsEDMaaQi"
+      },
+      "artists": [
+        {
+          "name": "Nie ohne Timba",
+          "url": "https://open.spotify.com/artist/1lL3XKkvD4ZMHFTOXoXVzt"
+        },
+        {
+          "name": "Moonis",
+          "url": "https://open.spotify.com/artist/2cIm0WVXYXsmTJ7JV7e1oX"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139578,
+      "name": "kaffee am bett",
+      "url": "https://open.spotify.com/track/5WdSWli3WhQolHlE3ykIam"
+    },
+    {
+      "album": {
         "name": "Kaisermantel",
         "url": "https://open.spotify.com/album/3WtDALoF3wVFPGhcBBRA7s"
       },
@@ -13461,6 +13501,24 @@
     },
     {
       "album": {
+        "name": "Lange Her",
+        "url": "https://open.spotify.com/album/1ZS1z9hvqP1QU7iLCuUSHX"
+      },
+      "artists": [
+        {
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/0E5ZN8IXViJS5PinN7lcdj"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141500,
+      "name": "Lange Her",
+      "url": "https://open.spotify.com/track/2NIGGrekV5gx8XRfBEqFPi"
+    },
+    {
+      "album": {
         "name": "Lange her",
         "url": "https://open.spotify.com/album/6xkzcojzbpqLmMIJI7CE54"
       },
@@ -14150,7 +14208,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 173320,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/3vq1QywpmuefxQtGo6dNM4"
@@ -22334,7 +22392,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 98400,
       "name": "Streichholz (Demo)",
       "url": "https://open.spotify.com/track/1Etz2OveAk1dtfgkvhi6q6"
@@ -22594,6 +22652,24 @@
       "duration_ms": 310600,
       "name": "sundown",
       "url": "https://open.spotify.com/track/1yVRDWtLuYGPje84qKQkqb"
+    },
+    {
+      "album": {
+        "name": "Sunny All The Time",
+        "url": "https://open.spotify.com/album/4kJybCbiEzXWCfCg7cYCj3"
+      },
+      "artists": [
+        {
+          "name": "Superweak",
+          "url": "https://open.spotify.com/artist/7gxARotrFBsOr69X3atVDL"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116369,
+      "name": "Sunny All The Time",
+      "url": "https://open.spotify.com/track/6kYWpEFk0CQLVZHfSmEAOk"
     },
     {
       "album": {

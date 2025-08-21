@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,052 songs - 2 day 10 hr 57 min
+1,053 songs - 2 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
 | [BLUSH](https://open.spotify.com/track/5NUhNHjkyThQGAjm2M6gni) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [BLUSH](https://open.spotify.com/album/7AuAvWclZMbjuvnNv3hGR5) | 2:52 | 2025-04-10 | 2025-07-09 |
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
-| [bones](https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX) | [bones](https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT) | 2:32 | 2025-08-12 |  |
+| [bones](https://open.spotify.com/track/0zfVNW3Uh0tNgZY2YEKhYB) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [bones](https://open.spotify.com/album/035rVrXDB5G9Lv2isRtqeT) | 2:32 | 2025-08-12 |  |
 | [BOOMBA](https://open.spotify.com/track/5LHRP4KmkSMCqrGbLUGaTo) | [Psy Trance Mafia](https://open.spotify.com/artist/6AJiVMljdDi2Z1GF43m60q), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p) | [Breathe Underwater](https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq) | 6:33 | 2024-12-06 | 2025-03-19 |
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
 | [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 | 2025-03-13 |
@@ -151,6 +151,7 @@
 | [Buckshots](https://open.spotify.com/track/7cl3BbyjU0AdCbbsf1lIx8) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Buckshots](https://open.spotify.com/album/4ZsDomkJqxfKQcH25O0XyK) | 4:11 | 2023-09-14 | 2024-01-11 |
 | [Bunny Hop](https://open.spotify.com/track/4I1hvzQ39B3ol9OYfdckhG) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Bunny Hop](https://open.spotify.com/album/0ecWxnAULTqsFsBuEcmrY4) | 3:09 | 2024-10-07 | 2025-01-15 |
 | [Burbank Nights](https://open.spotify.com/track/6cOxE8TUiPe4iYi4kvDoJu) | [Dirtyphonics](https://open.spotify.com/artist/4zymhxzJ0UJc74tMHGyoWs) | [Burbank Nights](https://open.spotify.com/album/1equ0DwRZaGqjzWi588Oum) | 4:15 | 2023-09-05 | 2024-01-11 |
+| [Burning Inside](https://open.spotify.com/track/449kNr07oY9jZWkRwlZl5Z) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Burning Inside](https://open.spotify.com/album/5VMcsCWlKoqmhO9t9ZD8H3) | 3:38 | 2025-08-20 |  |
 | [BUSTED](https://open.spotify.com/track/49mT4saNKf5BskrD7Bwrw9) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Teminite](https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF), [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR) | [BUSTED](https://open.spotify.com/album/0j1YfLra3m8CJCRvPhVcql) | 2:22 | 2025-06-23 |  |
 | [By My Side](https://open.spotify.com/track/0OyH2wwpCKZRKkSdxqCAef) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [By My Side](https://open.spotify.com/album/4HMiG31eRc9Tj8iNYOG1A0) | 3:39 | 2025-05-14 | 2025-08-16 |
 | [by myself](https://open.spotify.com/track/6GnEtewHDS2VS3GZj4lYgb) | [oncor](https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [by myself](https://open.spotify.com/album/0PvhONM5R6IeP0dPf7ocBV) | 3:05 | 2025-02-25 | 2025-05-24 |

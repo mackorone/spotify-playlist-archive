@@ -19123,6 +19123,24 @@
     },
     {
       "album": {
+        "name": "YAMAL",
+        "url": "https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "YAMAL",
+      "url": "https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy"
+    },
+    {
+      "album": {
         "name": "YAMAMAY",
         "url": "https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB"
       },

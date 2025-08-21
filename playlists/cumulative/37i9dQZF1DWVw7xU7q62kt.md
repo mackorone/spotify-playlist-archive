@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-590 songs - 1 day 2 hr 25 min
+591 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [parandrus](https://open.spotify.com/track/3ZGQDdB9ihULtXlwRnrzIP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [parandrus](https://open.spotify.com/album/5C0MZpkOVSOzVetfNg5WGC) | 2:06 | 2025-05-09 | 2025-06-07 |
 | [Parc Mercier](https://open.spotify.com/track/4W35aBRFyjBsfxJg12iSxY) | [Racasse](https://open.spotify.com/artist/0GwP2VFRGAt7RaZwjDQHN6), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Parc Mercier](https://open.spotify.com/album/0gq5Gp8HA0CkzEFn1w8By5) | 2:13 | 2025-07-18 |  |
 | [Parcels](https://open.spotify.com/track/3XH6VLP67eaWY8WE5zpcUW) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Parcels](https://open.spotify.com/album/60H62b6Ew5algY7SLyOMT9) | 1:46 | 2025-02-14 | 2025-05-28 |
+| [Pentacats](https://open.spotify.com/track/1i6AogN5U3QcxAzQ8Avy2L) | [Rasmus Trinderup](https://open.spotify.com/artist/78wXyoxvLQpLsVfpkEk5kL), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG), [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Pentacats](https://open.spotify.com/album/1htgP0eg2xmGYnRLxCI1yv) | 2:25 | 2025-07-25 |  |
 | [Perception](https://open.spotify.com/track/6I5ahEl9wBaSiruCxvpWCK) | [yosev](https://open.spotify.com/artist/1sBvMbjmvbOs0ckEQpm52v), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Perception](https://open.spotify.com/album/5ux9uG1y42yFELCGh7VzvP) | 2:20 | 2025-01-10 |  |
 | [Picadilly](https://open.spotify.com/track/4GP63RpTwxOCnMq5ZVnKZR) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Beto Braga](https://open.spotify.com/artist/3WTydG1gUdND4uShUQAB5h), [Raouf](https://open.spotify.com/artist/6nX2UIOy2F9Tt7uqp4wwvL) | [Picadilly](https://open.spotify.com/album/1aEsXse9pLtnHC0uJ9uONb) | 2:27 | 2024-06-04 | 2025-05-17 |
 | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS) | [Chris Hyson](https://open.spotify.com/artist/2joqhIRsfoh7YoUdtXrQjd), [Joe Webb](https://open.spotify.com/artist/1sOlO8Btmufez22Yf0Ofs6) | [Pinecone \(feat\. Joe Webb\)](https://open.spotify.com/album/1oaKO5r4jqYYlKcudsKegI) | 5:56 | 2023-08-22 | 2024-09-10 |
@@ -511,7 +512,7 @@
 | [Talk About It](https://open.spotify.com/track/5jCSyRjdrIqiw1NQH36zlY) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd) | [Talk About It](https://open.spotify.com/album/5Vdt6fWIBQVdGi1xWew1hT) | 1:51 | 2025-07-25 |  |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-01-24 |  |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-08-22 | 2025-04-12 |
-| [TDNM, Pt\. I](https://open.spotify.com/track/43tOzr3KFjnxMkhfR8q01u) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI) | [TDNM](https://open.spotify.com/album/6FauWsdnBkwmM4nDSj1rKg) | 2:39 | 2025-01-10 |  |
+| [TDNM, Pt\. I](https://open.spotify.com/track/43tOzr3KFjnxMkhfR8q01u) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI) | [TDNM](https://open.spotify.com/album/6FauWsdnBkwmM4nDSj1rKg) | 2:39 | 2025-01-10 | 2025-08-21 |
 | [Tea Ceremony](https://open.spotify.com/track/23cLHNTqtU9BjKoLUgD1c0) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Tea Ceremony](https://open.spotify.com/album/3UtYd1smJnxZX5jGRuHRo3) | 2:36 | 2024-09-20 |  |
 | [Tears of Fate](https://open.spotify.com/track/4zrlJ5ukxX2dDxgPAcSZiw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 4:33 | 2023-10-13 | 2024-09-28 |
 | [tempeh's blues](https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2) | [jetfueljayy](https://open.spotify.com/artist/70ovbvXoXJ33c8zTKFFHw2), [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [tempeh's blues](https://open.spotify.com/album/2unzpgV37RboGqTjsp7HIG) | 1:51 | 2024-09-06 | 2025-05-10 |

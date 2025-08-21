@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0xsrXMvwEnkoX0xb4W1O7b.md) - [plain]
 
 > SPIELTRIEB! <a href="http://www.rammstein.com">RAMMSTEIN</a>
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,472 likes - 11 songs - 46 min 6 sec
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,471 likes - 11 songs - 46 min 6 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

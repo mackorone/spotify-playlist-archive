@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,018 likes - 150 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,047 likes - 150 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 149 | [In My Dreams](https://open.spotify.com/track/2e0rVHWeslstKv2BJI1QOm) | [IMA](https://open.spotify.com/artist/5oWyfOpzOmgNnLHFtXBPBn), [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT), [Pakora](https://open.spotify.com/artist/0Km8q2VEbS7WMPOGFnBDqz) | [In My Dreams](https://open.spotify.com/album/2N6YU7ddlN4bCPufIcgV36) | 2:13 |
 | 150 | [down the street](https://open.spotify.com/track/4vq6NpI6BR2JxKVQf8MJFQ) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [down the street](https://open.spotify.com/album/7nFDioqfi7uuPtmb4EtkgC) | 1:50 |
 
-Snapshot ID: `AAAAAD3jED0pbPqBV0muuy6eJIOlbrbh`
+Snapshot ID: `AAAAAEpVlIuX6Ey9EBWTOoFMiiR7S6PP`

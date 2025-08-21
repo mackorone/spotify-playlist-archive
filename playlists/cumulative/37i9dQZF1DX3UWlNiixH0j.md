@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 家主 Yanushi
 
-2,626 songs - 6 day 19 hr 47 min
+2,626 songs - 6 day 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Atlantic Ocean](https://open.spotify.com/track/4ht2BBpRPK0xH77b2uV6V6) | [NTsKi](https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9) | [Atlantic Ocean](https://open.spotify.com/album/5Ti7cLVIqXn9W6dciR2gzv) | 2:39 | 2023-10-05 | 2023-10-07 |
 | [ATOH](https://open.spotify.com/track/6BKmFihMaaJ0G9blWUxxQJ) | [シャッポ](https://open.spotify.com/artist/0gcK8vIyzGRwvNeHkCZgFz) | [ATOH](https://open.spotify.com/album/60ebnNELMQExY2T8HvVyn2) | 4:29 | 2025-02-25 | 2025-03-12 |
 | [aTOZ / BATH](https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O) | [yangdoe](https://open.spotify.com/artist/5vyv06gQtkjX0DrZwAKcoX) | [aTOZ / BATH](https://open.spotify.com/album/2wrAK0JqzIBU1bX7IQQ06n) | 3:05 | 2023-04-11 | 2023-04-26 |
+| [Attara Shiawase](https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [GOOD PLACE](https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF) | 2:09 | 2025-08-19 |  |
 | [AUGHOST](https://open.spotify.com/track/3CIC4Hhu4OTH8o5Qx3BB7b) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [koizumi kyoko](https://open.spotify.com/artist/3eNfif7D047aRloRtNn4sL) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6hvYxf47rTGD9q1FFlAp89) | 4:37 | 2024-03-07 | 2024-03-13 |
 | [AUGHOST](https://open.spotify.com/track/3v4FtGIzDeWESUYg1q092k) | [GEZAN](https://open.spotify.com/artist/0bMxJbKiRQm2oaozKgoZo6), [Kyoko Koizumi](https://open.spotify.com/artist/47CIQFAst7iOrRZ16XOfP8) | [i ai ORIGINAL SOUNDTRACK](https://open.spotify.com/album/6ffbWXYFwz2c8yfFjVOceR) | 4:37 | 2024-03-07 | 2024-03-09 |
 | [Aura](https://open.spotify.com/track/4RcHvfKNRsF23MaL1oPJTZ) | [Masaya Kudo](https://open.spotify.com/artist/2Jw7yBPDAHziuP4rQf0dEX) | [View from the window](https://open.spotify.com/album/0iQmiTEWmnTHA8FmMManGC) | 3:48 | 2023-06-20 | 2023-06-28 |
@@ -1534,8 +1535,6 @@
 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 | 2024-08-06 | 2024-08-31 |
 | [Tower](https://open.spotify.com/track/6RTy1yYaJPhJ5372QTHDv5) | [砂の壁](https://open.spotify.com/artist/63BnigqL6MjIgPZF5kG9fy) | [Tower](https://open.spotify.com/album/1ISSwD8yInosQUOTxqiuFN) | 5:20 | 2024-04-02 | 2024-04-10 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
-| [Track 4](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 0:00 | 2025-08-19 |  |
-| [Track 5](https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [GOOD PLACE](https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF) | 0:00 | 2025-08-19 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |
@@ -2603,6 +2602,7 @@
 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 | 2025-06-24 |  |
 | [雨のシュプール](https://open.spotify.com/track/1OtHmvvdRpPo03fRDanMSb) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [雨のシュプール](https://open.spotify.com/album/0WVIBJPBRw0MjGXSdLqyVi) | 4:16 | 2023-09-05 | 2023-09-20 |
 | [雨の匂いはメッセージ](https://open.spotify.com/track/15e0xl1rIssFH5fenqD3Vo) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [季節のつかまえ方](https://open.spotify.com/album/7a2s3JhweKjXe1YSg6hEnR) | 4:10 | 2023-04-18 | 2023-04-20 |
+| [雨の降る町](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 5:35 | 2025-08-19 |  |
 | [雨雲と晴れのあいだ](https://open.spotify.com/track/61YDVXG5hPUKFY3Duy3Pck) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [雨雲と晴れのあいだ](https://open.spotify.com/album/4RKL5eUEwbzMqWt9HLxZvQ) | 4:22 | 2023-11-29 | 2023-12-01 |
 | [青いワンピース](https://open.spotify.com/track/14AjzGgLwDhnK16wi5sn6V) | [細井徳太郎](https://open.spotify.com/artist/2x2MSTsQpVWJ2xIMS0OEc7) | [魚 ＿ 魚](https://open.spotify.com/album/2DJYhop9XRweeinNLK37YJ) | 2:45 | 2023-10-03 | 2023-10-11 |
 | [青い空の幻](https://open.spotify.com/track/4LY4WB62mr7yhSj2MOBP4U) | [FULL OF LOVE](https://open.spotify.com/artist/21H82W5uNA68DQ43dAMs8i) | [FULL OF LOVE](https://open.spotify.com/album/3LdSpParymYK20V21oOI2m) | 3:32 | 2023-01-31 | 2023-03-08 |

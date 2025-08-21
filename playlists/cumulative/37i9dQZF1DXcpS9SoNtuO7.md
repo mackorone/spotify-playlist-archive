@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-797 songs - 3 day 8 hr 51 min
+801 songs - 3 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [\#82 エモすぎた…「蓮ノ空」「学マス」最新ライブを語ろう／FLOW THE FESTIVAL 2025／おじさんとアキネーター](https://open.spotify.com/episode/2fylbJOrUThkkTFngauNVN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 44:49 | 2025-07-22 |  |
 | [\#83 “リスパレ！LIVE vol.3”と“リスアニ！LIVE 2025 ナツヤスミ”4日間の大団円を見届けて](https://open.spotify.com/episode/0orTVaWmlwfNQfzxRM0KTV) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 56:27 | 2025-07-22 |  |
 | [\#84 何が好き～？「愛♡スクリ〜ム！」の大バズりに学ぶもの／『ジークアクス』色々ありすぎた最終話／あのちゃんと『タコピーの原罪』](https://open.spotify.com/episode/5AovKzQs3h1J8cqYrqnnoN) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:47 | 2025-08-06 |  |
+| [\#85 過去最強メンツが集結“アニサマ2025”／『鬼滅の刃』現象は止まらない／今年も語ります…ボーナストラック怪談Ⅳ](https://open.spotify.com/episode/6xwGtHJSAL455cNf3M6zqH) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 59:10 | 2025-08-20 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 | 2025-01-27 |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |
@@ -352,6 +353,7 @@
 | [sign](https://open.spotify.com/track/5w1L7Bj14oC7II12HdZP1k) | [Ray](https://open.spotify.com/artist/7cN69jaR3jtYeBaNsiVFoN) | [sign](https://open.spotify.com/album/5tuOGEA8zB2GxrUgtkzP2e) | 4:47 | 2022-08-02 | 2023-01-12 |
 | [Silly\-Go\-Round](https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [『.hack//Roots』オープニングテーマ「Silly\-Go\-Round」](https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl) | 4:52 | 2023-05-16 | 2024-01-24 |
 | [sister's noise \(\-version 2022\-\)](https://open.spotify.com/track/4hQFJsBbZ8LLxDIObdSWCp) | [fripSide](https://open.spotify.com/artist/7ucOhItVkxNqunNLo8AkzN) | [double Decades](https://open.spotify.com/album/3x99HmexDuRN1325jOdfwS) | 4:21 | 2023-01-29 | 2023-07-12 |
+| [SKILL](https://open.spotify.com/track/3o6WLxKx8qgMECec5MlYad) | [JAM Project](https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU) | [SKILL](https://open.spotify.com/album/2lQgFZuwAAJZNZJlvSvX4C) | 5:51 | 2025-08-20 |  |
 | [skirt](https://open.spotify.com/track/4Tpsjv8zpTKcWPL6deVsr1) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [残心残暑](https://open.spotify.com/album/7jP1J26XhTXiLzVAIcDc0D) | 4:15 | 2025-06-25 |  |
 | [So Precious](https://open.spotify.com/track/3NV9kuNM08gHRKTAcONpN9) | [亜咲花](https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h) | [So Precious](https://open.spotify.com/album/3sBJZi1DW4c8OsTzdZjdnw) | 3:29 | 2024-05-21 | 2025-01-27 |
 | [Sousho Innocence](https://open.spotify.com/track/0MRktElPC3UUrDC3Uwww9m) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Penki \(Standard Edition\)](https://open.spotify.com/album/1XY3l2HM92KroMo4ynFGQu) | 3:45 | 2023-01-29 | 2023-07-12 |
@@ -665,6 +667,7 @@
 | [夜ふかしダンス](https://open.spotify.com/track/2KYiVbI9cdMA8ijfBC8BJo) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ハピメモ](https://open.spotify.com/album/6EA25iRB0h0FcxIrZ2Zavs) | 3:50 | 2025-01-27 | 2025-05-03 |
 | [夜空](https://open.spotify.com/track/1SEPMXUucO3iiYgDDWUk2u) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [TVアニメ「恋する小惑星\(アステロイド\)」エンディングテーマ 夜空](https://open.spotify.com/album/4TJ9KLG8yOufjImNxcEmHc) | 4:37 | 2022-06-07 | 2022-06-23 |
 | [夢想歌](https://open.spotify.com/track/7yv8pgdxtPaqOshqunGUdP) | [Suara](https://open.spotify.com/artist/4gaoQ5e8RCOVswub7zcfoV) | [The Best〜タイアップコレクション〜](https://open.spotify.com/album/6wlC5al4ymX8Xkxq7unGTF) | 4:06 | 2022-09-27 | 2023-01-12 |
+| [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [太陽が昇らない世界 \- A World Where the Sun Never Rises](https://open.spotify.com/album/0aXl0xBDZOomD6UqTFezRo) | 2:50 | 2025-08-20 |  |
 | [太陽は夜も輝く](https://open.spotify.com/track/4gTqkjp6ItiOwNTr5sqirn) | [WINO](https://open.spotify.com/artist/71rjIVhe7PAlIovJgmqvUS) | [THE BEST OF WINO \- Volume 1](https://open.spotify.com/album/315dT0izR7lHaVTZyrPrJI) | 5:27 | 2022-06-22 | 2023-01-28 |
 | [太陽キッス](https://open.spotify.com/track/7zHBye4FWEI3W6u3rqm39M) | [HO\-KA\-GO CLIMAX GIRLS](https://open.spotify.com/artist/274c1FFqS8HAIeL7XgK0Hz) | [THE IDOLM@STER SHINY COLORS BRILLI@NT WING 04 夢咲きAfter school](https://open.spotify.com/album/7nbtHmpCxyd61CvO3DstSu) | 4:51 | 2024-01-28 | 2024-07-06 |
 | [好きじゃないよ](https://open.spotify.com/track/5BGiDyJcxkeBQONkP1Onh3) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [ペタルズ](https://open.spotify.com/album/2SkT0uHQuGEGjwweAt6JMk) | 2:55 | 2022-06-07 | 2022-06-23 |
@@ -714,6 +717,7 @@
 | [標火](https://open.spotify.com/track/3fcURKHcfJ6QKsqKmh9aZ1) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [標火](https://open.spotify.com/album/0SlUuSl4ExtpsLTinG8iiR) | 4:43 | 2022-06-07 | 2022-06-23 |
 | [歌いましょう鳴らしましょう](https://open.spotify.com/track/2ppMBBzXosczsCWvB2XBFd) | [MyGO!!!!!](https://open.spotify.com/artist/5o5tkWvWYdyyAKhNr8vlMq) | [迷跡波](https://open.spotify.com/album/00NGDnA59dl4yGhGBn4gnx) | 2:56 | 2025-01-27 | 2025-05-03 |
 | [歌詠鳥](https://open.spotify.com/track/2nzvDQQC8LreddEGhUtn7b) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [TOKYO\-BYAKUYA](https://open.spotify.com/album/76aGzlJ6Ml55E2eNQLPosj) | 4:13 | 2025-01-27 | 2025-05-03 |
+| [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 | 2025-08-20 |  |
 | [気分上々↑↑](https://open.spotify.com/track/5X9ycYsHdb4XeeKmvZVmMs) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa), [千葉翔也](https://open.spotify.com/artist/4K9KcKXSLwOVO44wHuxML1), [Lezel](https://open.spotify.com/artist/6Dt654Ld9lg3i6fjLGClz7) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:50 | 2022-06-22 | 2023-01-12 |
 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2022-07-05 | 2023-01-12 |
 | [永遠なんかありえない](https://open.spotify.com/track/6a2YUeVPHgSj8dY04xtXoJ) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [TOKYO\-BYAKUYA](https://open.spotify.com/album/76aGzlJ6Ml55E2eNQLPosj) | 4:01 | 2025-01-27 | 2025-05-03 |

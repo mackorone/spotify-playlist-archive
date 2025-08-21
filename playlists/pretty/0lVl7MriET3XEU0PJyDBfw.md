@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > Only the best Tech House 🔥 Find the mix series on SoundCloud —&gt; Bassline Therapy Radio
 
-[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,851 likes - 101 songs - 5 hr 35 min
+[Bassline Therapy by Houseium](https://open.spotify.com/user/jayke0108) - 10,850 likes - 101 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 51 | [Beat Won't Stop](https://open.spotify.com/track/11Wmr8miC2Qx1PGJfHryWo) | [SPACEWALK](https://open.spotify.com/artist/2uvFMBkYjjkXZJNcdslxMr) | [Beat Won't Stop](https://open.spotify.com/album/50HfAPzPU4ieCHPLteIcb1) | 3:19 |
 | 52 | [Party Jumpin'](https://open.spotify.com/track/6R7qT58x43pw4LemDZGMrN) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Party Jumpin'](https://open.spotify.com/album/0zj2TXqCjmhht4VCMun36c) | 3:04 |
 | 53 | [Mind Your Business \- Radio Edit](https://open.spotify.com/track/6Wi20Q4JG88PMzlllCDyWF) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Mind Your Business](https://open.spotify.com/album/7e8gCH2b87tPpDFkoVU6D9) | 3:00 |
-| 54 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley](https://open.spotify.com/artist/1yl871BgLujEey3zsKTJew) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
+| 54 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 55 | [Move To The Rhythm](https://open.spotify.com/track/4LmRZIoDMoma0C5Xlirh8G) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Move To The Rhythm](https://open.spotify.com/album/0fmNR24lOaLIHt1eDPYv4y) | 2:41 |
 | 56 | [girl$ \- Nala Remix](https://open.spotify.com/track/3SPBjIab6VmLqYsrAsGuv9) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [girl$ \(Nala Remix\)](https://open.spotify.com/album/2nb7D2tsCtrmMpnM7KfxCY) | 3:27 |
 | 57 | [Supersonic](https://open.spotify.com/track/2xazqBgWjJ6mDyprFbfFtG) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx) | [Supersonic](https://open.spotify.com/album/14xy1s0yN4g2exRPh7RMFr) | 2:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 100 | [All That](https://open.spotify.com/track/1ZyETPkRcZuqm9ZCcP8MEO) | [Bessey](https://open.spotify.com/artist/2Y8520emzk5wmRe9zFSVzA) | [All That](https://open.spotify.com/album/5Ypdp95q0Tq4ja5IsuiMCI) | 2:38 |
 | 101 | [Say Hello](https://open.spotify.com/track/22kdzArm3L4jOWarvdCEdN) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Say Hello](https://open.spotify.com/album/48cb9pQ8cKvjXscRvlQGjX) | 2:35 |
 
-Snapshot ID: `AAAcBOUOQvlNtlta63eQlmf244KVi9Cn`
+Snapshot ID: `AAAcBbC2RrEBGJfuIpWY/aYm93OL/Zru`

@@ -1,6 +1,6 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Doro\n",
-  "num_followers": 806875,
+  "num_followers": 806924,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2025-08-19 09:57:02",
       "album": {
+        "name": "Feed the Fire",
+        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
+      },
+      "artists": [
+        {
+          "name": "Crimson Sun",
+          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Feed the Fire",
+      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
+    },
+    {
+      "added_at": "2025-08-19 09:57:02",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 273837,
       "name": "IRIDE",
       "url": "https://open.spotify.com/track/17UbjWjl5deZmzN8tHGkrw"
-    },
-    {
-      "added_at": "2025-08-19 09:57:02",
-      "album": {
-        "name": "Feed the Fire",
-        "url": "https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP"
-      },
-      "artists": [
-        {
-          "name": "Crimson Sun",
-          "url": "https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Feed the Fire",
-      "url": "https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI"
     },
     {
       "added_at": "2025-08-19 09:57:02",
@@ -1215,26 +1215,6 @@
       "duration_ms": 298124,
       "name": "The Endless Shore",
       "url": "https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is"
-    },
-    {
-      "added_at": "2025-08-19 09:57:02",
-      "album": {
-        "name": "The Four Horsemen (feat. Robert Trujillo)",
-        "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Robert Trujillo",
-          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
-        }
-      ],
-      "duration_ms": 286117,
-      "name": "The Four Horsemen (feat. Robert Trujillo)",
-      "url": "https://open.spotify.com/track/5tZHAwrNbJEA0o7jK2nilG"
     },
     {
       "added_at": "2025-08-19 09:57:02",
@@ -1283,6 +1263,26 @@
       "duration_ms": 234280,
       "name": "Legends Never Die",
       "url": "https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f"
+    },
+    {
+      "added_at": "2025-08-19 09:57:02",
+      "album": {
+        "name": "The Four Horsemen (feat. Robert Trujillo)",
+        "url": "https://open.spotify.com/album/0NLcGZRqxmMlgCZqjNMKKw"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        }
+      ],
+      "duration_ms": 286117,
+      "name": "The Four Horsemen (feat. Robert Trujillo)",
+      "url": "https://open.spotify.com/track/5tZHAwrNbJEA0o7jK2nilG"
     },
     {
       "added_at": "2025-08-19 09:57:02",
@@ -1675,18 +1675,22 @@
     {
       "added_at": "2025-08-19 09:57:02",
       "album": {
-        "name": "Inquisition",
-        "url": "https://open.spotify.com/album/1vtYXlNR6avt28pSZnJqhT"
+        "name": "Target Acquired (feat. Megan McDuffee)",
+        "url": "https://open.spotify.com/album/2V5RiMu96qwpW0dDY0LDXt"
       },
       "artists": [
         {
-          "name": "Burning Witches",
-          "url": "https://open.spotify.com/artist/0eNuNAhL4dW2nvKbSe2mS8"
+          "name": "Void Chapter",
+          "url": "https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq"
+        },
+        {
+          "name": "Megan McDuffee",
+          "url": "https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn"
         }
       ],
-      "duration_ms": 341743,
-      "name": "Inquisition",
-      "url": "https://open.spotify.com/track/1dh8SWXV7lGsmcjQpoIVJj"
+      "duration_ms": 288166,
+      "name": "Target Acquired",
+      "url": "https://open.spotify.com/track/25x7xXk5m6oCO1x67J0HRY"
     }
   ],
   "unique_name": "Epic & Melodic",

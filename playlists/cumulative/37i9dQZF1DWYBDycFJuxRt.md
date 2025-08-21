@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/340017">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: iri \*👉 <a href="https://spice.eplus.jp/articles/340134">連動記事</a>をSPICEでチェック!
 
-11,667 songs - 30 day 10 hr 52 min
+11,667 songs - 30 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [ATOMS](https://open.spotify.com/track/1t520RiupQQUjdklPdnjRN) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [ATOMS](https://open.spotify.com/album/1WaYoFcVHWlVoXgu7WLVsz) | 4:15 | 2025-07-08 | 2025-07-16 |
 | [aTOZ / BATH](https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O) | [yangdoe](https://open.spotify.com/artist/5vyv06gQtkjX0DrZwAKcoX) | [aTOZ / BATH](https://open.spotify.com/album/2wrAK0JqzIBU1bX7IQQ06n) | 3:05 | 2023-04-11 | 2023-04-19 |
 | [Attaka〜ine](https://open.spotify.com/track/212MqcnthDliLkPSIVIacN) | [マコトコンドウ](https://open.spotify.com/artist/5LGNw6Zr6yaFM9px1QiTwc) | [Attaka〜ine](https://open.spotify.com/album/6yo6eNlSTXZnaFP9EpAMMH) | 2:40 | 2025-01-28 | 2025-02-05 |
+| [Attara Shiawase](https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [GOOD PLACE](https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF) | 2:09 | 2025-08-20 |  |
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-20 | 2023-06-28 |
 | [ATTENTION](https://open.spotify.com/track/1ocrIc0ammblLTOuHfXG3d) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/6yyYGRIhEHSd0RW8EU2dO0) | 3:06 | 2024-02-21 | 2024-02-28 |
 | [ATTENTION](https://open.spotify.com/track/6BKZksyx56fu08aIr57r2U) | [TAXON](https://open.spotify.com/artist/5P4QZuZGQD2FjvNF6lk49r), [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ATTENTION](https://open.spotify.com/album/69hkeaytszlZEHuniaXeJH) | 3:06 | 2024-02-20 | 2024-02-22 |
@@ -1071,7 +1072,7 @@
 | [Bubble \- Japanese Ver.](https://open.spotify.com/track/6lBifd8pkWukU3sIjtkwIR) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Bubble \(Japanese Ver.\)](https://open.spotify.com/album/0LIFa5uJeyyNq58t9k4UfH) | 2:59 | 2023-12-05 | 2023-12-13 |
 | [Bubble gum](https://open.spotify.com/track/2P0JpOknppbgVsthBLIYmD) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Bubble gum](https://open.spotify.com/album/7gySRZ7u3rzhD4zoZK0XJY) | 3:06 | 2024-03-27 | 2024-04-03 |
 | [Bubble gum](https://open.spotify.com/track/2mjewk5cEbfzsscw3oPKzp) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Bubble gum](https://open.spotify.com/album/43ZFDNoo7EvnAoyInvT7Tu) | 3:06 | 2024-03-26 | 2024-03-28 |
-| [BUBBLE GUM](https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 7th Mini Album <BUBBLE GUM>](https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3) | 2:37 | 2025-08-20 |  |
+| [BUBBLE GUM](https://open.spotify.com/track/3mwiQvgLdLUL6RJQvN34T5) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [BUBBLE GUM](https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3) | 2:37 | 2025-08-20 |  |
 | [bubble summer](https://open.spotify.com/track/2xRCVNT0UGimdhpZ2LyH42) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [bubble summer](https://open.spotify.com/album/5s7vFzqPwCGxjzLcWlMFdl) | 3:34 | 2025-07-22 | 2025-07-30 |
 | [Bubblegum](https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv) | 4:39 | 2023-07-18 | 2023-07-26 |
 | [Bubblegum Dog](https://open.spotify.com/track/5MHNVfob6U5PBe8y15A4MG) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Bubblegum Dog](https://open.spotify.com/album/6CWVALzNFLjaPvr8HW5S9Z) | 4:21 | 2023-11-28 | 2023-12-06 |
@@ -7008,8 +7009,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-11 | 2024-12-18 |
 | [TOY](https://open.spotify.com/track/1lEx4vBP4323Jkq7XcZpXa) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [TOY](https://open.spotify.com/album/3rrZBogMusvZvTXv50Kevg) | 2:39 | 2025-01-14 | 2025-01-22 |
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
-| [Track 4](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 0:00 | 2025-08-20 |  |
-| [Track 5](https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ) | [ZOMBIE\-CHANG](https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U) | [GOOD PLACE](https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF) | 0:00 | 2025-08-20 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -11533,6 +11532,7 @@
 | [雨に打たれて](https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [雨に打たれて](https://open.spotify.com/album/7FnpL2blQQRVKEIiY8gC7c) | 3:18 | 2025-06-24 | 2025-07-02 |
 | [雨のシュプール](https://open.spotify.com/track/1OtHmvvdRpPo03fRDanMSb) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [雨のシュプール](https://open.spotify.com/album/0WVIBJPBRw0MjGXSdLqyVi) | 4:16 | 2023-09-05 | 2023-09-13 |
 | [雨の匂いはメッセージ](https://open.spotify.com/track/15e0xl1rIssFH5fenqD3Vo) | [生活の設計](https://open.spotify.com/artist/6ZQ0j6vz0P9rQOQjP8BXlR) | [季節のつかまえ方](https://open.spotify.com/album/7a2s3JhweKjXe1YSg6hEnR) | 4:10 | 2023-04-18 | 2023-04-20 |
+| [雨の降る町](https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [NORM](https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq) | 5:35 | 2025-08-20 |  |
 | [雨予報](https://open.spotify.com/track/1EZ4f2lC4Im1WoPyym9zK0) | [Leola](https://open.spotify.com/artist/5WpHAEOowRK9peCx0CIdMy) | [雨予報](https://open.spotify.com/album/2a9423z8EdHQ5IVBe9KD2w) | 3:57 | 2024-04-16 | 2024-04-24 |
 | [雨恋](https://open.spotify.com/track/4MlANzsK8DFnRrluNf1Swb) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z), [ちとせみな](https://open.spotify.com/artist/7xf6dqV93VlQGpEvih6ode) | [HUG](https://open.spotify.com/album/6MoCJgVVBdnvWEdHPaSd7V) | 4:42 | 2023-03-14 | 2023-03-22 |
 | [雨景色](https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [日陰](https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK) | 3:00 | 2025-07-22 | 2025-07-30 |

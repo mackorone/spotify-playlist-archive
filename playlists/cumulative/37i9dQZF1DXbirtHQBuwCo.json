@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBIBI(\ube44\ube44))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: \nJUNNY(\uc8fc\ub2c8))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 215760,
       "name": "All My Poetry",
       "url": "https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0"
@@ -4822,6 +4822,24 @@
       "duration_ms": 211093,
       "name": "Encourage",
       "url": "https://open.spotify.com/track/4yitm2JyWU6MvIXkVeAzej"
+    },
+    {
+      "album": {
+        "name": "null",
+        "url": "https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161789,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W"
     },
     {
       "album": {
@@ -12308,7 +12326,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 172773,
       "name": "R.E.M",
       "url": "https://open.spotify.com/track/7D2B5pj751b3MIaU4TwE6e"
@@ -12948,7 +12966,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"

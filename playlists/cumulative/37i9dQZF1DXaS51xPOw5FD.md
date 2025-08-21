@@ -4,7 +4,7 @@
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-289 songs - 17 hr 12 min
+290 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Cold](https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Cold](https://open.spotify.com/album/2G8OZPlwKrzWxkEEfWbbFV) | 2:25 | 2025-04-17 |  |
 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 | 2022-08-05 | 2024-04-19 |
 | [Control](https://open.spotify.com/track/5jtxBiPcN1rlvNDZOYI7UT) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Control](https://open.spotify.com/album/6hlTk0Uez126pGiaVpmVPx) | 3:48 | 2024-04-04 | 2024-09-20 |
-| [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-05-19 |  |
+| [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 | 2023-05-19 | 2025-08-21 |
 | [Curtain Call](https://open.spotify.com/track/2FpKhOSjXEIsML61zNDibJ) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2) | [Curtain Call](https://open.spotify.com/album/4yzoYL0O0VSACgnOytIqS5) | 3:21 | 2025-03-06 | 2025-06-27 |
 | [Dahlia](https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Dahlia](https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV) | 5:06 | 2022-08-05 | 2023-09-08 |
 | [Dahlia](https://open.spotify.com/track/3v76fnrYSYA8OVqxzjWIPJ) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [Neon Dust](https://open.spotify.com/album/55TBJxFWNk8t8SqBajqfDt) | 5:06 | 2023-09-22 | 2024-04-05 |
@@ -291,6 +291,7 @@
 | [What You Came Here For](https://open.spotify.com/track/2LFuOES0fbFjpfIJpnLCjC) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [What You Came Here For](https://open.spotify.com/album/57mDv1eiouOl2xfQgMceII) | 4:02 | 2025-06-26 | 2025-08-15 |
 | [What You Heard About Me](https://open.spotify.com/track/1ErOaiF4mXvdhb5YQTG6vE) | [Posk](https://open.spotify.com/artist/0Se9VSGYSzcS0QmxztSJxe), [Ekstatic](https://open.spotify.com/artist/1VQbUvRt7zz4zzLGD3vrMD) | [What You Heard About Me](https://open.spotify.com/album/5AiGxsokv0sJxw1IOYR1pV) | 2:39 | 2024-10-16 | 2025-03-07 |
 | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/track/4MZCttWZHqjmIefkrUiA0t) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi), [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [When It Runs Out \(feat\. Felix Samuel\)](https://open.spotify.com/album/4mvaF4ugSd44nVs4SLsTZs) | 2:07 | 2025-03-06 | 2025-03-30 |
+| [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 | 2025-08-07 |  |
 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 | 2023-05-19 |  |
 | [Where You Are](https://open.spotify.com/track/0D5qWqcQzcWOsmUi8jAkgw) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [shadxwgirl](https://open.spotify.com/artist/0VI8OJAF4LWfSHukdALwia) | [Where You Are](https://open.spotify.com/album/1olN41ilLwcgf8egALwSvu) | 3:24 | 2025-08-07 |  |
 | [White Noise](https://open.spotify.com/track/5MsnXwlc53vv0ym7NPw5gh) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [White Noise](https://open.spotify.com/album/2oXZn3B3jk9U1KTINe6qQa) | 3:07 | 2023-05-19 | 2024-05-10 |

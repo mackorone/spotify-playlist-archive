@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 
 > Get jiggy with 90s 'dhinchak' beats\. Cover \- Khal Nayak
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,995 likes - 50 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,382 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcRZAcc2QFU.md) - [plain]
 | 29 | [Jooma Chumma De De](https://open.spotify.com/track/0oy4Zk7CVLObwnDX8YZZ1e) | [Sudesh Bhosle](https://open.spotify.com/artist/7GNoTWm5VObvMUeS0Wkueu), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Hum](https://open.spotify.com/album/5zmbuk1OJjZVE5sK3QQjHV) | 8:21 |
 | 30 | [Muqabala Muqabala](https://open.spotify.com/track/0iG83qZ0ftWr43VggRYkp3) | [Mano](https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Hum Se Hai Muqabala \- Kadalan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9) | 2:23 |
 | 31 | [Ek Ho Gaye Hum Aur Tum \- From "Bombay"](https://open.spotify.com/track/6oRFw7tkc38QToqfoF7jVR) | [Remo Fernandes](https://open.spotify.com/artist/6Bthsls57GgYPQFdrY3eyw) | [Bombay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk) | 5:15 |
-| 32 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:56 |
+| 32 | [Chaiyya Chaiyya](https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Dil Se \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz) | 6:46 |
 | 33 | [Taal Se Taal \- Western Version](https://open.spotify.com/track/5zjFsuLrTM5sp6coribhCa) | [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Taal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd) | 2:34 |
 | 34 | [Tamma Tamma Loge](https://open.spotify.com/track/5HF9NzwuIWJqTVBjZ2Sgdg) | [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn) | [Thanedaar](https://open.spotify.com/album/3DWGpKv82YXLwO6xmLamE6) | 7:54 |
 | 35 | [Aap KO Dekh Ke](https://open.spotify.com/track/1LzMLGHxXSOh1iehTEWZNY) | [Amit Kumar](https://open.spotify.com/artist/5l1aGNGCRGomCMHVufh6xC), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Kishen Kanhaiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XuYdiEQZlGK7d1DySUOGw) | 6:46 |

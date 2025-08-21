@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 297 songs - 16 hr 28 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 298 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,5 +305,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 295 | [Yeah \- bonus](https://open.spotify.com/track/7b8aKAUn1BB2k1clevj4aB) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 5:04 |
 | 296 | [Beat Goes On \(feat\. Kanye West\)](https://open.spotify.com/track/0wFvvGzJn1zJmrwLK2HN6g) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:26 |
 | 297 | [I Gotcha](https://open.spotify.com/track/3j1UrSXCeWYa5ltei4ZAxt) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 3:58 |
+| 298 | [Gangsta Lean](https://open.spotify.com/track/7fhxlqe6RvHhAsQOcJPTIv) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Lord Willin'](https://open.spotify.com/album/1Q83nQO2QG81TVa10hW7LX) | 5:20 |
 
-Snapshot ID: `AAAe8tq9Ufil/uBJnb/L23MBZUKdJuLq`
+Snapshot ID: `AAAe84a9EvVHREYjBgwEDL94M/TUBsqj`

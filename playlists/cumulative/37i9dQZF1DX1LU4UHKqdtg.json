@@ -1947,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "BBB",
+        "url": "https://open.spotify.com/album/2NR8lgTAAD0RLX6deLR8hR"
+      },
+      "artists": [
+        {
+          "name": "HUS",
+          "url": "https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT"
+        },
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "BBB (feat. CHUU)",
+      "url": "https://open.spotify.com/track/7teSwvY24pM0s7UpCm8QkJ"
+    },
+    {
+      "album": {
         "name": "ON THE VIOLET",
         "url": "https://open.spotify.com/album/3mSt4t8JUxngS6ftaqEdio"
       },
@@ -3601,7 +3623,7 @@
     },
     {
       "album": {
-        "name": "Kep1er The 7th Mini Album <BUBBLE GUM>",
+        "name": "BUBBLE GUM",
         "url": "https://open.spotify.com/album/5GFPQTrEu0ye4iRLwzFpy3"
       },
       "artists": [

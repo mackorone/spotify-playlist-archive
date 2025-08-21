@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Baddie Bassline",
+        "url": "https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR"
+      },
+      "artists": [
+        {
+          "name": "Chad Harrison",
+          "url": "https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP"
+        }
+      ],
+      "date_added": "2025-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "Make A Fool",
+      "url": "https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O"
+    },
+    {
+      "album": {
         "name": "Mash Up",
         "url": "https://open.spotify.com/album/46MG0EvcJHEW9NKOXJ6e04"
       },
@@ -4758,7 +4776,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 208596,
       "name": "Oh My Gosh",
       "url": "https://open.spotify.com/track/2UsR4KZpVColypYnCCLLpB"

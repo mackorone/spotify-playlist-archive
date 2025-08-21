@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Gurnam Bhullar & Hitika Bali
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,370 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,451 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 6 | [SPAIN](https://open.spotify.com/track/4ZVtid5khBfDx6Co0vTUE6) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:44 |
 | 7 | [Got You](https://open.spotify.com/track/7mJ2BANWY4PnWtfsQWzn6C) | [GKhan](https://open.spotify.com/artist/3fxBst8oqDfPvHHrd9wEse), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Kulshan Sandhu](https://open.spotify.com/artist/6kts6HRiH6lynXnCemu5ap) | [Got You](https://open.spotify.com/album/6UesXENuAbvKpwjDgkWEaE) | 3:42 |
 | 8 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 |
-| 9 | [Moh](https://open.spotify.com/track/1c4E6VuVodcKfj0ZmtGbpn) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Moh](https://open.spotify.com/album/65wM9A0DVXu5YhYLE6KdFX) | 2:24 |
+| 9 | [Moh](https://open.spotify.com/track/1c4E6VuVodcKfj0ZmtGbpn) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Moh](https://open.spotify.com/album/65wM9A0DVXu5YhYLE6KdFX) | 2:24 |
 | 10 | [Judge](https://open.spotify.com/track/2Lk8EGzQH29V4tHlwwN2kd) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Chal Mera Putt 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5NhfE9JEtJXxK0XvXZwxiy) | 2:20 |
 | 11 | [Rangeen](https://open.spotify.com/track/1ChFEDpGjf0hNniMelD2n8) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gill Raunta](https://open.spotify.com/artist/6kz3taYAGtHb9kDWvzQm9k), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Rangeen](https://open.spotify.com/album/35dlHWLrLqGVncm3EnjuAl) | 3:05 |
 | 12 | [Yaar Bawara \(From "Raunak"\)](https://open.spotify.com/track/6Ns79GWBJVRjzaBpTdKCVb) | [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Jaidev Kumar](https://open.spotify.com/artist/3jFf4UnboFrqsHZA8qBkH8), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Yaar Bawara \(From "Raunak"\)](https://open.spotify.com/album/4UqfZntJTYM62fr06ZXwe7) | 2:29 |

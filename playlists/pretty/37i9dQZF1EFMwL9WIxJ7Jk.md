@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,401 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,401 likes - 96 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,6 +104,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 94 | [Thuis Met Kerst](https://open.spotify.com/track/7GPYBjORxZHTRkzlWdg9ZH) | [Sterre Koning](https://open.spotify.com/artist/3vE2dQ30qWbC54d4K93zlB) | [Thuis Met Kerst](https://open.spotify.com/album/57F06YWxjejADp9Flm5eFJ) | 3:10 |
 | 95 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 96 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
-| 97 | [Nice to Meet Ya](https://open.spotify.com/track/60SQiZejxmqwgiSe2mPJqu) | [Cody Pendelton](https://open.spotify.com/artist/0kxOvMQwTYw90WEV7JrHBT) | [Mega Bops](https://open.spotify.com/album/5ajMtM28U3mK2az8PLY6Eu) | 3:17 |
 
-Snapshot ID: `Ab58tAAAAAAcWPySWjAlj50g7gdBdJgO`
+Snapshot ID: `Ab6CSgAAAABnGL/8CIKnZzgkGX8Z+qd1`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: 9Million",
-  "num_followers": 165492,
+  "num_followers": 165516,
   "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGV1J++UroLEwWkhCweU5dr5AaHo",
+  "snapshot_id": "AAAAADfLQ6U9dbyXnUCkUxtM/lsMd0QW",
   "tracks": [
     {
       "added_at": "2025-08-13 16:05:00",
@@ -27,6 +27,54 @@
     {
       "added_at": "2025-08-13 16:05:00",
       "album": {
+        "name": "Drawbacks",
+        "url": "https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp"
+      },
+      "artists": [
+        {
+          "name": "dust",
+          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
+        }
+      ],
+      "duration_ms": 248114,
+      "name": "Drawbacks",
+      "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
+    },
+    {
+      "added_at": "2025-08-13 16:05:00",
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "Lady Beetle",
+        "url": "https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "duration_ms": 212298,
+      "name": "Lady Beetle",
+      "url": "https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU"
+    },
+    {
+      "added_at": "2025-08-13 16:05:00",
+      "album": {
         "name": "Filler Migration",
         "url": "https://open.spotify.com/album/0gmKMzJr7kZpN032yuCiXo"
       },
@@ -39,6 +87,86 @@
       "duration_ms": 236424,
       "name": "7 Window Still",
       "url": "https://open.spotify.com/track/1gfkJ2R7zpbxoaNRl7mGiD"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/4ySm8JfEmvssNsWfcIhNKg"
+      },
+      "artists": [
+        {
+          "name": "Te'Jani",
+          "url": "https://open.spotify.com/artist/0fLMB0i6hNRFO82ROhfTqp"
+        }
+      ],
+      "duration_ms": 180833,
+      "name": "MEDICINE",
+      "url": "https://open.spotify.com/track/5kUZ8yMBONgEyCY2yNzox8"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "Comforting Cry",
+        "url": "https://open.spotify.com/album/3eSSKtj8YzQLfFFmAdi4PD"
+      },
+      "artists": [
+        {
+          "name": "AC/ES",
+          "url": "https://open.spotify.com/artist/4DGkZBLTWioZXNVcw8nXOK"
+        }
+      ],
+      "duration_ms": 85274,
+      "name": "Comforting Cry",
+      "url": "https://open.spotify.com/track/6sscF6aUjV1uGQIOVi6CHN"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "bad seed/without you",
+        "url": "https://open.spotify.com/album/4LguoCqrw6whQUnyG57Zxn"
+      },
+      "artists": [
+        {
+          "name": "wilt",
+          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
+        }
+      ],
+      "duration_ms": 156132,
+      "name": "bad seed",
+      "url": "https://open.spotify.com/track/4pyiLilJ8RzW62u3CY3dqx"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/7FycGUdkHdyvoJSx16fIFE"
+      },
+      "artists": [
+        {
+          "name": "Pool Kids",
+          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
+        }
+      ],
+      "duration_ms": 245623,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/6vYHmAn5oh1KnYy3rP6iEm"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "Bad Dream",
+        "url": "https://open.spotify.com/album/5ntvCcnE5JM9nVGuVKYxWM"
+      },
+      "artists": [
+        {
+          "name": "EVNTYD",
+          "url": "https://open.spotify.com/artist/3z32J9a8nv9EJKQX07bwxh"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Bad Dream",
+      "url": "https://open.spotify.com/track/1oA5rA2MlDZ6TIuEpfuaow"
     },
     {
       "added_at": "2025-08-04 17:20:23",
@@ -57,20 +185,20 @@
       "url": "https://open.spotify.com/track/4luxOEfutsNhpklD0kox93"
     },
     {
-      "added_at": "2025-08-13 16:05:00",
+      "added_at": "2025-08-20 16:38:51",
       "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+        "name": "Strawberry",
+        "url": "https://open.spotify.com/album/533mGcpHy1LJqL1heJXqZ8"
       },
       "artists": [
         {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+          "name": "Laveda",
+          "url": "https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7"
         }
       ],
-      "duration_ms": 211313,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
+      "duration_ms": 201840,
+      "name": "Strawberry",
+      "url": "https://open.spotify.com/track/0BquaKRxebE4Pv6D7ryXql"
     },
     {
       "added_at": "2025-08-13 16:05:00",
@@ -105,20 +233,20 @@
       "url": "https://open.spotify.com/track/3JZozbWIyv8rbd8EkZkXoG"
     },
     {
-      "added_at": "2025-08-13 16:05:00",
+      "added_at": "2025-08-20 16:38:51",
       "album": {
-        "name": "Drawbacks",
-        "url": "https://open.spotify.com/album/4IIiC2PhFFFPX2uyEaBhLp"
+        "name": "Sadie",
+        "url": "https://open.spotify.com/album/0n3DhS3DUbC0ekWfyYohfx"
       },
       "artists": [
         {
-          "name": "dust",
-          "url": "https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA"
+          "name": "Shallowater",
+          "url": "https://open.spotify.com/artist/3BV5N0bOmtkavYFUSHsfMQ"
         }
       ],
-      "duration_ms": 248114,
-      "name": "Drawbacks",
-      "url": "https://open.spotify.com/track/6iDYmVlL9vC5aVImnAGrgZ"
+      "duration_ms": 453520,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/0rKj9U39ZTizj48aXzUXd5"
     },
     {
       "added_at": "2025-08-13 16:05:00",
@@ -135,6 +263,22 @@
       "duration_ms": 323125,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1HexZviExJ9zwg6k3fTJ9N"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "Beimax Chessclub",
+        "url": "https://open.spotify.com/album/49HitCH1NlvJtUyt608TVP"
+      },
+      "artists": [
+        {
+          "name": "Marjorie -W.C. Sinclair",
+          "url": "https://open.spotify.com/artist/112cbRcCg2YpqBQiB0g7dW"
+        }
+      ],
+      "duration_ms": 115272,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7bdt7iOOTrmejd6nsXdgjq"
     },
     {
       "added_at": "2025-07-23 16:00:16",
@@ -183,6 +327,22 @@
       "duration_ms": 213176,
       "name": "Drift",
       "url": "https://open.spotify.com/track/0nF85GFq7dPC56E7fVKoW9"
+    },
+    {
+      "added_at": "2025-08-20 16:38:51",
+      "album": {
+        "name": "lost my mind in the moment",
+        "url": "https://open.spotify.com/album/1HNl8ClkDQIsmEszfKOAWE"
+      },
+      "artists": [
+        {
+          "name": "tmdistant",
+          "url": "https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi"
+        }
+      ],
+      "duration_ms": 178676,
+      "name": "lost my mind in the moment",
+      "url": "https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf"
     },
     {
       "added_at": "2025-08-06 16:00:06",
@@ -247,22 +407,6 @@
       "duration_ms": 235135,
       "name": "Ribbons",
       "url": "https://open.spotify.com/track/3V27RRDIZ9LokW2aN9yG3i"
-    },
-    {
-      "added_at": "2025-07-23 16:00:16",
-      "album": {
-        "name": "Leona Street",
-        "url": "https://open.spotify.com/album/5c2Yrdb5pHBkMFZbXBmP7q"
-      },
-      "artists": [
-        {
-          "name": "Pool Kids",
-          "url": "https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f"
-        }
-      ],
-      "duration_ms": 207065,
-      "name": "Leona Street",
-      "url": "https://open.spotify.com/track/3EPo3rq2oJNggi6QMzKKv4"
     },
     {
       "added_at": "2025-08-06 16:00:06",
@@ -1959,70 +2103,6 @@
       "duration_ms": 150159,
       "name": "Guillotine",
       "url": "https://open.spotify.com/track/6FrJGY0a8kl6kx3k3P03Y2"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "your silence is my favorite song",
-        "url": "https://open.spotify.com/album/1LMrSU9bVBV41VSlgeJ49L"
-      },
-      "artists": [
-        {
-          "name": "Flooding",
-          "url": "https://open.spotify.com/artist/3w1bWeCjgPD3RbIp60ZRtw"
-        }
-      ],
-      "duration_ms": 269765,
-      "name": "your silence is my favorite song",
-      "url": "https://open.spotify.com/track/4tp5h23nGaiOOOK06bF5vT"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Veil",
-        "url": "https://open.spotify.com/album/2Z5puHgDOcrZhYlM7Nqb9X"
-      },
-      "artists": [
-        {
-          "name": "Boxxer",
-          "url": "https://open.spotify.com/artist/0qTqLJS1XACxuWDIPxgnA5"
-        }
-      ],
-      "duration_ms": 219176,
-      "name": "Gown",
-      "url": "https://open.spotify.com/track/1m2m2Nrdl8Ta5l8u5ENVb9"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/69fGLEzDBpRjqQl3XiHVKF"
-      },
-      "artists": [
-        {
-          "name": "Comet",
-          "url": "https://open.spotify.com/artist/60p7G6IdFcd9Pyk86uAnrs"
-        }
-      ],
-      "duration_ms": 276149,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/3XdRwPrU35AQMz4l3KmFV1"
-    },
-    {
-      "added_at": "2025-06-18 04:00:16",
-      "album": {
-        "name": "Clover",
-        "url": "https://open.spotify.com/album/66nUg2oO8IIdkmwUsplmsk"
-      },
-      "artists": [
-        {
-          "name": "Lucky",
-          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
-        }
-      ],
-      "duration_ms": 157086,
-      "name": "Clover",
-      "url": "https://open.spotify.com/track/3fjhggzP3OIeNN1G7ZRrBR"
     }
   ],
   "unique_name": "Fresh Finds Rock",

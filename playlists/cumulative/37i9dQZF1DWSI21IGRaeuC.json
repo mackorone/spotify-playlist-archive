@@ -3073,6 +3073,24 @@
     },
     {
       "album": {
+        "name": "Do You Like Bass",
+        "url": "https://open.spotify.com/album/09JYai4mGwViy7xpvFRSYO"
+      },
+      "artists": [
+        {
+          "name": "Aitor Astiz",
+          "url": "https://open.spotify.com/artist/2bsLrKmjDykFzFMvA3DaXz"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Do You Like Bass",
+      "url": "https://open.spotify.com/track/0ATjMMo8OW5d5pJqzK0usi"
+    },
+    {
+      "album": {
         "name": "Dog Days",
         "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
       },
@@ -3310,6 +3328,24 @@
       "duration_ms": 187926,
       "name": "Drip Like Me",
       "url": "https://open.spotify.com/track/6MiIo8O7WDBhrUNAo56oc9"
+    },
+    {
+      "album": {
+        "name": "Dry Socket EP",
+        "url": "https://open.spotify.com/album/6z21WzR8O9meDeJNJP8PhQ"
+      },
+      "artists": [
+        {
+          "name": "Soulfreq",
+          "url": "https://open.spotify.com/artist/0DYm4LvbfgVT9zgpHyat5o"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358156,
+      "name": "Dry Socket",
+      "url": "https://open.spotify.com/track/6lmz9YdWW6tU6Yw1DkZNGi"
     },
     {
       "album": {
@@ -5454,7 +5490,7 @@
       ],
       "date_added": "2025-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 188350,
       "name": "Hold Up",
       "url": "https://open.spotify.com/track/2ryb9UfpOrNG7DJC0klX0l"
@@ -6266,7 +6302,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 182769,
       "name": "JOYSTICK",
       "url": "https://open.spotify.com/track/6xXw7zobixBrmZxXg2MvUs"
@@ -8714,7 +8750,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 230936,
       "name": "Octave Five",
       "url": "https://open.spotify.com/track/1UQ0EfJgAUCq6CqfW9ZQXF"
@@ -10078,8 +10114,8 @@
       },
       "artists": [
         {
-          "name": "Riley",
-          "url": "https://open.spotify.com/artist/1yl871BgLujEey3zsKTJew"
+          "name": "Riley (UK)",
+          "url": "https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3"
         }
       ],
       "date_added": "2025-04-18",
@@ -12427,6 +12463,28 @@
     },
     {
       "album": {
+        "name": "The Real Sucka EP",
+        "url": "https://open.spotify.com/album/7LhLHl5ddynNpygXQ19OHl"
+      },
+      "artists": [
+        {
+          "name": "FINKY",
+          "url": "https://open.spotify.com/artist/2rZjYuAVFCk4oCPHmCZ4y2"
+        },
+        {
+          "name": "Dan Fresco",
+          "url": "https://open.spotify.com/artist/2g2PlDZQoNih53dy2I14zB"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "The Real Sucka",
+      "url": "https://open.spotify.com/track/24mmhkshFtL77aVukzwdhW"
+    },
+    {
+      "album": {
         "name": "The Rider",
         "url": "https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM"
       },
@@ -13475,6 +13533,28 @@
     },
     {
       "album": {
+        "name": "Wanna C U (Radio Edit)",
+        "url": "https://open.spotify.com/album/07hicjIcYkyyBkmYhJRUuR"
+      },
+      "artists": [
+        {
+          "name": "Jamie Aramayo",
+          "url": "https://open.spotify.com/artist/5N7iEEpdeCJfWPSLvSUHKE"
+        },
+        {
+          "name": "DXNBY",
+          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190076,
+      "name": "Wanna C U - Radio Edit",
+      "url": "https://open.spotify.com/track/6KjzfHZd7KEAnUo3ViOl9p"
+    },
+    {
+      "album": {
         "name": "wants and needs",
         "url": "https://open.spotify.com/album/7ekXaFXySyHzm6KhFMKarl"
       },
@@ -13714,7 +13794,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 311168,
       "name": "What You Say",
       "url": "https://open.spotify.com/track/2aOlGcKkcYYLABhtLDAvqn"

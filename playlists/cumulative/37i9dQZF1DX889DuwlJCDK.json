@@ -9547,24 +9547,6 @@
     },
     {
       "album": {
-        "name": "NORM",
-        "url": "https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq"
-      },
-      "artists": [
-        {
-          "name": "\u5bb6\u4e3b",
-          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
-        }
-      ],
-      "date_added": "2025-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA"
-    },
-    {
-      "album": {
         "name": "tragedy",
         "url": "https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9"
       },
@@ -23406,6 +23388,24 @@
       "duration_ms": 198833,
       "name": "\u96e8\u306b\u6253\u305f\u308c\u3066",
       "url": "https://open.spotify.com/track/55HMKYZOKMYc58naFdvCMc"
+    },
+    {
+      "album": {
+        "name": "NORM",
+        "url": "https://open.spotify.com/album/2HqRQNUYtonTi5BK3eeneq"
+      },
+      "artists": [
+        {
+          "name": "\u5bb6\u4e3b",
+          "url": "https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335784,
+      "name": "\u96e8\u306e\u964d\u308b\u753a",
+      "url": "https://open.spotify.com/track/4itG0yWd73gnhFreIu7SHA"
     },
     {
       "album": {

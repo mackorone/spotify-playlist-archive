@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 370697,
+  "num_followers": 370709,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1011,18 +1011,22 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Cactus Water",
-        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "BXKS",
+          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
+        },
+        {
+          "name": "Joe James",
+          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
         }
       ],
-      "duration_ms": 204240,
-      "name": "Cactus Water",
-      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
+      "duration_ms": 139680,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
       },
       "artists": [
         {
-          "name": "BXKS",
-          "url": "https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ"
-        },
-        {
-          "name": "Joe James",
-          "url": "https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 139680,
-      "name": "Excuse Me",
-      "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Soon We Will Reminisce",
-        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
-      },
-      "artists": [
-        {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
-        }
-      ],
-      "duration_ms": 127235,
-      "name": "Soon We Will Reminisce",
-      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "The Water",
         "url": "https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox"
       },
@@ -1151,6 +1135,42 @@
       "duration_ms": 180000,
       "name": "The Water",
       "url": "https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "touch",
+        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
+      },
+      "artists": [
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        },
+        {
+          "name": "Bad Honey",
+          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "touch",
+      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Soon We Will Reminisce",
+        "url": "https://open.spotify.com/album/0LwFkMpnSjOEOPcZECj5a2"
+      },
+      "artists": [
+        {
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+        }
+      ],
+      "duration_ms": 127235,
+      "name": "Soon We Will Reminisce",
+      "url": "https://open.spotify.com/track/1Q6eNHzBl7PfGemMSCrAOP"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1191,26 +1211,6 @@
       "duration_ms": 152750,
       "name": "High Notes",
       "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "touch",
-        "url": "https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh"
-      },
-      "artists": [
-        {
-          "name": "Dejector",
-          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
-        },
-        {
-          "name": "Bad Honey",
-          "url": "https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "touch",
-      "url": "https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Sunrise Sunfall (Edit)",
-        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
-      },
-      "artists": [
-        {
-          "name": "NATE08",
-          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
-        },
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 193105,
-      "name": "Sunrise Sunfall - Edit",
-      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Rhythm Vol.1",
         "url": "https://open.spotify.com/album/2Icj4vEVEjXyrIHhEWWJ2e"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 222834,
       "name": "Hold of Me",
       "url": "https://open.spotify.com/track/5yzwtVC34FhG478dU4SlKT"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Sunrise Sunfall (Edit)",
+        "url": "https://open.spotify.com/album/2dxUn6hVWWdHXvidEdJ7R6"
+      },
+      "artists": [
+        {
+          "name": "NATE08",
+          "url": "https://open.spotify.com/artist/2Ozq8aYmGgLiGdbpsW6KSl"
+        },
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 193105,
+      "name": "Sunrise Sunfall - Edit",
+      "url": "https://open.spotify.com/track/191lXO61Bz5ncHsxCJksUW"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 169943,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
-      },
-      "artists": [
-        {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2025-07-03 16:15:48",

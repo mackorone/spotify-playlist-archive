@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:1pRhf8tFJk2k1ejw6sRqQK">IDDA</a> in cover
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì—riprendiamo il 27 agosto! <a href="spotify:artist:1pRhf8tFJk2k1ejw6sRqQK">IDDA</a> in cover.
 
 1,797 songs - 3 day 16 hr 58 min
 

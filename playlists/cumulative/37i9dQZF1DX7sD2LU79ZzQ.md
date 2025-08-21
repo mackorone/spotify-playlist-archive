@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: The Lantis
 
-1,052 songs - 2 day 19 hr 40 min
+1,053 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Ada Yang Hilang](https://open.spotify.com/track/7MIR2IjKU4Q1vJBJAPIXK3) | [Ipang Lazuardi](https://open.spotify.com/artist/6j7d3OtOyA95ESoCHJIJEh) | [Hits Ipang Lazuardi](https://open.spotify.com/album/70LLL4EGfndl8zsfCp4Rc3) | 3:50 | 2024-10-24 | 2024-12-20 |
 | [Adakah Yang Memanggil](https://open.spotify.com/track/1xmGBveHto8zsN4pAWxVnm) | [Mirelle G Edith](https://open.spotify.com/artist/6IaBHU1Mw5RA8Ye6syJRo8) | [Sebentar, Aku Mau Cerita](https://open.spotify.com/album/2u0Ufuo5CM8qgj56b08Ggj) | 3:34 | 2025-06-12 |  |
 | [Adam & Eve](https://open.spotify.com/track/63vscEc34aVwFMsdYM88gd) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Adam & Eve](https://open.spotify.com/album/0DIay3dTps5nQRfq3LLcss) | 3:25 | 2024-12-12 | 2025-03-07 |
+| [ADDICTION](https://open.spotify.com/track/62yN59Z49wkOnPByz4VzWI) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [ADDICTION](https://open.spotify.com/album/7c1IM0Lwuv0NzcFAt6FVSp) | 2:29 | 2025-08-20 |  |
 | [Ade 2024](https://open.spotify.com/track/6PVtqu8Lrjckx3sASMpMij) | [Project Pop](https://open.spotify.com/artist/2D3ztMHoKJOJs3HgQJPXf6), [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK), [Nagita Slavina](https://open.spotify.com/artist/63PbdDwARA6MC2VixhGkD0) | [PROJECT POP 2856](https://open.spotify.com/album/3j8X0tnyGb892c9RyOveK9) | 3:53 | 2024-06-27 | 2024-07-19 |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2024-01-18 | 2024-03-22 |
 | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/track/2ce4QtgMJ9123s78zwprXB) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [affa iyah \(feat\. Basboi\)](https://open.spotify.com/album/4NVrxWTYO3d7ZfW4FmGo3h) | 3:40 | 2024-08-08 | 2025-01-10 |

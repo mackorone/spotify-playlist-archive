@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,966 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,976 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tension](https://open.spotify.com/track/70YFXFbrvl5J3nUfqxTFue) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Tension](https://open.spotify.com/album/4q4VhpYWO14Jtdeyg3w6wb) | 2:23 |
 | 2 | [OG](https://open.spotify.com/track/7JM1xhWHqXcTvm2mgkgH87) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [OG](https://open.spotify.com/album/0Z1qsvQh2z2icFxQfKMH4T) | 2:40 |
 | 3 | [King In The North](https://open.spotify.com/track/0MYd8A1gDPJf9uCm2Zcd8P) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:46 |
-| 4 | [God's Deed](https://open.spotify.com/track/76dHeWfTuqf2p5BICYvJec) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [God's Deed](https://open.spotify.com/album/0fodxcQQhIFHUiawclfHM5) | 3:16 |
+| 4 | [God's Deed](https://open.spotify.com/track/76dHeWfTuqf2p5BICYvJec) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [THOUGHT](https://open.spotify.com/artist/5GZklBtmZD8WZsLGVbHQqC) | [God's Deed](https://open.spotify.com/album/0fodxcQQhIFHUiawclfHM5) | 3:16 |
 | 5 | [Ghane Gande](https://open.spotify.com/track/1rWSLMe0neIBRZi15GgfY6) | [Sumit Parta](https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr) | [Ghane Gande](https://open.spotify.com/album/5GghzJpDq0yvH3YE0jiAWJ) | 2:56 |
 | 6 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 |
 | 7 | [4 SEATER](https://open.spotify.com/track/71JS4jGMy3I0jbXdUtal53) | [Kuhad](https://open.spotify.com/artist/2YusRqnuLAKGIS4IwFUqin), [T\-Raj](https://open.spotify.com/artist/1uLfLI0SaOga2AjuaC6tQW) | [4 SEATER](https://open.spotify.com/album/58u2VMaJlXYrMoPSVZh9pX) | 2:32 |

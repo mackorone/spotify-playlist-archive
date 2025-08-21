@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: AVAION, RANI
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,360 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,369 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 77 | [I Just Wanna Turn It Up](https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [I Just Wanna Turn It Up](https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld) | 2:44 |
 | 78 | [Fly High High](https://open.spotify.com/track/0v4YWtFHTCkikEtyrSDphM) | [Marc Korn](https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt), [Semitoo](https://open.spotify.com/artist/4MWJBSx7ScBa5ETzTjdFvk), [Michael Roman](https://open.spotify.com/artist/6ymKRGN5gpJNYqUGkxHyFH) | [Fly High High](https://open.spotify.com/album/5tHekosAvn6rtgirfgbVe0) | 3:05 |
 | 79 | [Down Under 2025](https://open.spotify.com/track/0uu4zP1xNBHPgXEmeUGLLq) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under 2025](https://open.spotify.com/album/5WpNJCjeYCu2QslyoXXzBY) | 2:38 |
-| 80 | [Gurbet](https://open.spotify.com/track/33XAylEyQuQyUFbHbdJK3a) | [Sirin Inci](https://open.spotify.com/artist/1D6SOEMomVjGnVkKyN60dR), [Özdemir Erdoğan](https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6) | [Gurbet](https://open.spotify.com/album/2Ck87ML7b6hDeZdNEHuxMJ) | 3:48 |
+| 80 | [Gurbet](https://open.spotify.com/track/33XAylEyQuQyUFbHbdJK3a) | [Sirin Inci](https://open.spotify.com/artist/1D6SOEMomVjGnVkKyN60dR) | [Gurbet](https://open.spotify.com/album/2Ck87ML7b6hDeZdNEHuxMJ) | 3:48 |
 | 81 | [Forever Fighting](https://open.spotify.com/track/7uZLDchZFDheikSUATFXcz) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Forever Fighting](https://open.spotify.com/album/5sSRBwdeZrG8xsaCBnOqYo) | 2:50 |
 | 82 | [La Serenissima](https://open.spotify.com/track/4EjYJjrT8nglONxLjsutjS) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [AVG](https://open.spotify.com/artist/0CxqFWFFJmjGVdphWpJhxo) | [La Serenissima](https://open.spotify.com/album/1Ku2bVtdZHRatXvu26I55N) | 3:36 |
 | 83 | [Remember](https://open.spotify.com/track/03HFTTNw2oQfC0mPeNlTLV) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [The Underdog Project](https://open.spotify.com/artist/06XDzzi31mBGSsaAABTZLb) | [Remember](https://open.spotify.com/album/5Ghc9wTMRxXR9htJ4UgaB6) | 2:31 |

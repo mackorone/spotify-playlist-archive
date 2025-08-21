@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Qetoo\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mao\. Artwork: Isu Kim
 
-441 songs - 23 hr 28 min
+442 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Khatwa L’Wara](https://open.spotify.com/track/0K4MwuLFgOKuKKyQ1M545t) | [LAÏ](https://open.spotify.com/artist/7uUpJfXcVzBYTyaL55IKe6) | [Khatwa L’Wara](https://open.spotify.com/album/4EM54jqs5a7MBPvPDuOBE4) | 2:35 | 2024-07-09 | 2024-10-31 |
 | [Khayal](https://open.spotify.com/track/60LnIv9hAQulxVCSbPFQ6b) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74) | [Khayal](https://open.spotify.com/album/1oQtEMocdtaP1GBH7eVZbO) | 5:13 | 2022-10-25 | 2023-04-05 |
 | [Khayal](https://open.spotify.com/track/7JujukqNH3ouQYr2JM9TIq) | [Zatara](https://open.spotify.com/artist/5WOif35LUAZ7VfSmpELcQF) | [Khayal](https://open.spotify.com/album/3JM7yXIZdI6CH5gNIezXtZ) | 3:52 | 2023-01-17 | 2023-03-02 |
+| [KHELLINI](https://open.spotify.com/track/55EhjWKpOWKbzZaaj3OmUL) | [Mao](https://open.spotify.com/artist/4cb8yNt7de02GQkL9ibmaV) | [SOLARR ECLIPSE](https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V) | 2:47 | 2025-08-20 |  |
 | [Khyoot](https://open.spotify.com/track/5Ew7C2IAFELiBga5hWPSHe) | [Jawhar](https://open.spotify.com/artist/37ASPH0bOi7XSVBTq8U9Zd) | [Khyoot](https://open.spotify.com/album/42iQZR7bpK5XilonNVD3Lg) | 3:58 | 2024-10-30 | 2025-04-18 |
 | [Kindir Suprise](https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Kindir Surprise](https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM) | 4:48 | 2023-06-20 | 2024-02-01 |
 | [Kitchen](https://open.spotify.com/track/5nRtylSD6JbhoC3DoFkinD) | [Beast](https://open.spotify.com/artist/5DJLMjyosyNTiQZsdY44ED) | [Kitchen](https://open.spotify.com/album/5jTJVLDVNF5vBr1RL4txfl) | 3:15 | 2023-07-18 | 2024-02-21 |
@@ -425,7 +426,7 @@
 | [انا وانت](https://open.spotify.com/track/14JgycDjp70uvPpebq7Ijq) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k), [Badran](https://open.spotify.com/artist/00OR5zC9Om6wu6xRg2WGqP) | [انا وانت](https://open.spotify.com/album/7gLVh02tmLj3XfCxn15jc3) | 3:19 | 2025-05-28 |  |
 | [برقص عل احزان](https://open.spotify.com/track/701o32JXLUpsioqlsBGC9G) | [Qetoo](https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF) | [برقص عل احزان](https://open.spotify.com/album/0fYArJcRhUrpU4YYZ1ihqw) | 1:52 | 2025-05-20 |  |
 | [بسيط ايفكتڤ](https://open.spotify.com/track/0AHVNC8und8XJU61876q0o) | [Dattune](https://open.spotify.com/artist/7KV81tK9fACDT7gCl4pFmj), [DZEEZ دزيز](https://open.spotify.com/artist/0NwIwzq4fV5i0LNEC7Vtwg) | [بسيط ايفكتڤ](https://open.spotify.com/album/4Gf35Uc9uEEi5M9qWKGA5c) | 1:35 | 2022-09-20 | 2022-09-28 |
-| [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 | 2025-01-22 |  |
+| [بطل اللّيل](https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd) | [Nour Yamm](https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR) | [بطل اللّيل](https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ) | 3:20 | 2025-01-22 | 2025-08-21 |
 | [تصعيد](https://open.spotify.com/track/6SixeQLcrCufbftSxj6Lha) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd) | [تصعيد](https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi) | 2:04 | 2024-11-26 | 2025-07-15 |
 | [خارج اسرابي](https://open.spotify.com/track/4OEVXSK3RYbc86SsbiIiOw) | [Eisa Abdulla](https://open.spotify.com/artist/47rLY8kQgCXwY9rxi4q7Vy) | [خارج اسرابي](https://open.spotify.com/album/1ZAOSVktOxqyUZwKC6qAwh) | 3:40 | 2024-09-11 | 2024-11-27 |
 | [خصلة](https://open.spotify.com/track/58xuxqwXEEWFpiU6Mju8bQ) | [HIYA](https://open.spotify.com/artist/1FnryusWztu8TJm7fQqOg1) | [خصلة](https://open.spotify.com/album/58D2vS5ynxxr7h22aNoyE2) | 2:57 | 2024-09-11 | 2025-01-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: ddbb\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,194 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,203 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 3 | [In The Waves](https://open.spotify.com/track/2CHaA72LgJVFg8HpIUxJMf) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [In The Waves](https://open.spotify.com/album/3DFZJC49crxZ6MZsmxEQKH) | 3:48 |
 | 4 | [water drop](https://open.spotify.com/track/6cGSFAkpPuO4ray6C6IwNp) | [zfuul](https://open.spotify.com/artist/34vy394kjoH1hmTYmIAMnx) | [kyeon](https://open.spotify.com/album/7on3hpcrztRDoNM24qLGDO) | 4:50 |
 | 5 | [Movie](https://open.spotify.com/track/2i9YP5Olads9g9bEE6Gxm0) | [heeju](https://open.spotify.com/artist/7K57siwKn5EnZAGr6dD9Ct) | [Movie](https://open.spotify.com/album/5f3UPSNId36pblBYOBQVu0) | 2:46 |
-| 6 | [Petty Thief \(Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 |
+| 6 | [Petty Thief \(Basecamp Remix\)](https://open.spotify.com/track/2VVadP8EuRhhKnBsXZZqMK) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [Petty Thief \(Basecamp Remix\)](https://open.spotify.com/album/6R2HO9qN2IVkYPBe24KKyR) | 2:41 |
 | 7 | [ease](https://open.spotify.com/track/2UuBsH8yc2HWsZgYwQFGuR) | [Ghim Reezn](https://open.spotify.com/artist/6sA91BD6gLqVE0tyyxx5zI) | [ease](https://open.spotify.com/album/7y0O4fVqSwFSaPgpahelAU) | 2:12 |
 | 8 | [Nightmare](https://open.spotify.com/track/2LKOR5LWYep8NUfuHDzJTw) | [Mischiefers](https://open.spotify.com/artist/0MTXUD8nmQFUC6v4xRc8aI) | [Nightmare](https://open.spotify.com/album/7tgArUxacLoK9bF44wakOa) | 4:24 |
 | 9 | [Last Scene](https://open.spotify.com/track/0tJU0IwpKmUSg2uFOZ7RC6) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Last Scene](https://open.spotify.com/album/1FMpS9DvBEDsGVkYKDSTBa) | 3:46 |

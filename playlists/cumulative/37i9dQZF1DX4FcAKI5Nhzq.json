@@ -2950,7 +2950,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 135000,
       "name": "Bora",
       "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
@@ -7099,6 +7099,24 @@
     },
     {
       "album": {
+        "name": "null",
+        "url": "https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161789,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W"
+    },
+    {
+      "album": {
         "name": "Glow to Haze",
         "url": "https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o"
       },
@@ -9368,6 +9386,24 @@
       "duration_ms": 236000,
       "name": "Goodbye, My Summer",
       "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
+    },
+    {
+      "album": {
+        "name": "laundri",
+        "url": "https://open.spotify.com/album/0sxsewzGDZxhfVDklmezGT"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Goodbyes and Sad Eyes",
+      "url": "https://open.spotify.com/track/39eHEOhXdVh3tsxDyiAXnI"
     },
     {
       "album": {
@@ -22882,7 +22918,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 186000,
       "name": "THUNDERSTORM",
       "url": "https://open.spotify.com/track/0O0NPdO8h33Ozg0Nek9qCx"

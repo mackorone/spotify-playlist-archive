@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "GOOD PLACE",
+        "url": "https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF"
+      },
+      "artists": [
+        {
+          "name": "ZOMBIE-CHANG",
+          "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129338,
+      "name": "Attara Shiawase",
+      "url": "https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ"
+    },
+    {
+      "album": {
         "name": "GRAND POP",
         "url": "https://open.spotify.com/album/1swGpfzQ3CGs1faMrdfy1H"
       },
@@ -1550,24 +1568,6 @@
       "duration_ms": 258528,
       "name": "TOKYO JOURNEY",
       "url": "https://open.spotify.com/track/3eVvBU4nUV2GoVoF4iHo12"
-    },
-    {
-      "album": {
-        "name": "GOOD PLACE",
-        "url": "https://open.spotify.com/album/0b3hcALzfKxepALj8Tg3vF"
-      },
-      "artists": [
-        {
-          "name": "ZOMBIE-CHANG",
-          "url": "https://open.spotify.com/artist/3Wsg07elLUSq6AdkUw1W9U"
-        }
-      ],
-      "date_added": "2025-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/5lTY8mbJ4V5dcbJX3l7ATJ"
     },
     {
       "album": {

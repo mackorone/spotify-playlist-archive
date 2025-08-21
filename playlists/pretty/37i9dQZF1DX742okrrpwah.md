@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > GIMS & Damso, Maroon 5 & Lil Wayne et KAYTRANADA au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,043 likes - 73 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,029 likes - 73 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-332 songs - 18 hr 52 min
+333 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Love I Need](https://open.spotify.com/track/1pvjgrDx35jAt5FOcdrsuT) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Love I Need](https://open.spotify.com/album/7oQqmAf8OR0zfW5wbZIVH4) | 3:12 | 2022-08-04 |  |
 | [Lunatic Crazy](https://open.spotify.com/track/14miRMV78M1iWIr4hIUlel) | [lapix](https://open.spotify.com/artist/5fIZxtu9KYwRi3MnLEVLCC), [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1), [PANXI](https://open.spotify.com/artist/3Qk3X6M4odVeDUv8rr7arJ) | [Lunatic Crazy](https://open.spotify.com/album/2vAmVOCw26noicE9CmBQsE) | 3:06 | 2024-06-05 |  |
 | [Machina in the brain \(feat\. KAFU\)](https://open.spotify.com/track/41IgLoZErPsZzAixZ8Mk7s) | [Folicca](https://open.spotify.com/artist/5XIRgaAF0uYvbtnKQNPOoW), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [City in the Brain](https://open.spotify.com/album/5W9zumOT376LaVx9Dj23wR) | 2:24 | 2024-07-01 |  |
+| [machrie](https://open.spotify.com/track/6PRDtyRDRPdxE2y07h33Z3) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [ma chérie](https://open.spotify.com/album/1WtQZclqIcvSPTtutuSPuo) | 5:23 | 2025-08-20 |  |
 | [Mass Destruction \-Reload\-](https://open.spotify.com/track/3m058FygvgfkxiUcLIDXKK) | [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/0ou89XjahTvTUm8mJu8go6) | 3:05 | 2024-04-11 |  |
 | [Mellow mellow Lily](https://open.spotify.com/track/68GkZrkZVZQlv9eXZofLL0) | [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO) | [ヤリチン☆ビッチ部 キャラクターソングシリーズ「いちご味」](https://open.spotify.com/album/5JiJPMzj7fN1UZzzWmghml) | 3:28 | 2024-12-24 |  |
 | [Memories of You \-Reload\-](https://open.spotify.com/track/3R0XM0PaKh2R7WYF8UJYe0) | [高橋あず美](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 6:39 | 2024-06-03 |  |

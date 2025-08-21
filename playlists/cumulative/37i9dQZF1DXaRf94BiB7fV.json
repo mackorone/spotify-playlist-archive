@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Curry",
+  "description": "The best new music by independent artists and labels in India. Cover - Ruhfikra",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1273,6 +1273,28 @@
     },
     {
       "album": {
+        "name": "adhoore humsafar",
+        "url": "https://open.spotify.com/album/4mpuUytuzwpO2gYRQUPtVY"
+      },
+      "artists": [
+        {
+          "name": "Meera",
+          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+        },
+        {
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164727,
+      "name": "adhoore humsafar",
+      "url": "https://open.spotify.com/track/0PcFui48eZSBmTUWy7SigV"
+    },
+    {
+      "album": {
         "name": "Adhuri Batein",
         "url": "https://open.spotify.com/album/4ET3UfAvdcmhC4cqLD4kXt"
       },
@@ -2076,6 +2098,24 @@
       "duration_ms": 245555,
       "name": "Aria",
       "url": "https://open.spotify.com/track/59Gh7hAmHdkmOCgUbNgtyO"
+    },
+    {
+      "album": {
+        "name": "Asar Tera",
+        "url": "https://open.spotify.com/album/0cfvoHBvN8e48AyQN4jylc"
+      },
+      "artists": [
+        {
+          "name": "Sonali Shukla",
+          "url": "https://open.spotify.com/artist/5QGPUJQXoWDOdHC33JEo4J"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214048,
+      "name": "Asar Tera",
+      "url": "https://open.spotify.com/track/5FVKS1ZA2qx5PSIVQEzLXB"
     },
     {
       "album": {
@@ -6522,7 +6562,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 235480,
       "name": "Dil",
       "url": "https://open.spotify.com/track/6e04t5OpdovWt98yAcVTS5"
@@ -14503,6 +14543,24 @@
     },
     {
       "album": {
+        "name": "Kagaz Ke Makaan",
+        "url": "https://open.spotify.com/album/6svxfUHzEyqJ0PDzD6ttCo"
+      },
+      "artists": [
+        {
+          "name": "Ruhfikra",
+          "url": "https://open.spotify.com/artist/0uMRWwTlxDDSK7MAQuKPvY"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277926,
+      "name": "Kagaz Ke Makaan",
+      "url": "https://open.spotify.com/track/5z31HkW3Ucf9LrlvXZeDxw"
+    },
+    {
+      "album": {
         "name": "Kahaan",
         "url": "https://open.spotify.com/album/4pNn7Goup0DZG9Cm34LgMb"
       },
@@ -15350,7 +15408,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 204240,
       "name": "Kashti",
       "url": "https://open.spotify.com/track/7fWRKH9M4LUAdNc7XttRge"
@@ -17135,6 +17193,28 @@
     },
     {
       "album": {
+        "name": "Kyon Baar Baar",
+        "url": "https://open.spotify.com/album/26icAttkaUtgtfKkupBphD"
+      },
+      "artists": [
+        {
+          "name": "Prabhjit",
+          "url": "https://open.spotify.com/artist/1aQe4OURqmmb4j6zuazcna"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307692,
+      "name": "Kyon Baar Baar",
+      "url": "https://open.spotify.com/track/6gffSXbAaRHPQlo3l21Eyh"
+    },
+    {
+      "album": {
         "name": "Kyu Hi Hum Mile",
         "url": "https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1"
       },
@@ -17248,7 +17328,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 147604,
       "name": "Kyun?",
       "url": "https://open.spotify.com/track/5GOeSNgwSD6DnmPRHnXwpg"
@@ -19332,7 +19412,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 260045,
       "name": "Mauka Miley",
       "url": "https://open.spotify.com/track/66vBneRs342K7iSsOHxsOa"

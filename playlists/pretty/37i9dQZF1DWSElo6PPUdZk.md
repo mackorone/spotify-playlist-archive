@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Miss Pooja
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,770 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,772 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 16 | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/track/1vuC6Y0R7WI9uOUm4h6zYJ) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/album/0fH91dN0Sr2Dwj382FM5DI) | 4:22 |
 | 17 | [Ishqe Di Maar](https://open.spotify.com/track/6UNjoKh29q5ovirHss4qb5) | [Rani Randeep](https://open.spotify.com/artist/6lfYp7aQFOnsSMPY0pE9oS) | [Ishqe Di Maar](https://open.spotify.com/album/6XUGr2nnRsVyVoRERZdNLu) | 5:58 |
 | 18 | [Gulabi Paani](https://open.spotify.com/track/6GANda34t7RcWY6j1WWOrQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Muklawa \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3RkmYz0TWTINSueISYjQ2a) | 2:39 |
-| 19 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 |
+| 19 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 |
 | 20 | [Sohnea](https://open.spotify.com/track/7xt1AuUbQBZC4yvxxm4nAI) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN) | [Sohnea](https://open.spotify.com/album/6P21Kvx0Wv34un0r1mSnxO) | 4:29 |
 | 21 | [Shak](https://open.spotify.com/track/2QxqjR9jxNFTAoz304jZfc) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Dhammi Gill](https://open.spotify.com/artist/7nznHLzR4wRBtXEJ4fxzkz) | [Still Shining](https://open.spotify.com/album/0u1xiXYdkR93Q4djzg5QO9) | 2:25 |
 | 22 | [Parande Aali](https://open.spotify.com/track/0TUMwPq3ILr1KKgS1LE4dy) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Parande Aali](https://open.spotify.com/album/0xRK2cPI31d3O0MTUSZcR3) | 2:38 |

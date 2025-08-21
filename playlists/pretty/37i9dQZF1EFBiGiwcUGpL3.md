@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 634 likes - 101 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 635 likes - 101 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 82 | [Desiree](https://open.spotify.com/track/0nUwGtFqcCIy451vhZzAQ3) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [The Sound Of A Million Dreams](https://open.spotify.com/album/2xrlbLf3n1i0VHR66acqty) | 4:52 |
 | 83 | [I Thought You Knew](https://open.spotify.com/track/5fpWN2wZCCa2oYNDQZOTpY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:51 |
 | 84 | [BREAK THE CHAIN](https://open.spotify.com/track/5OmhRJfDaCMBV01ohIVv7q) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 4:24 |
-| 85 | [If You Wanna Stay](https://open.spotify.com/track/1g0lBsLQnlJaW1HhrSfE9s) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:29 |
-| 86 | [LAUGHIN' ALL THE WAY TO THE DRANK](https://open.spotify.com/track/4d4rCke0LjteEALIx71XRp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 4:31 |
+| 85 | [LAUGHIN' ALL THE WAY TO THE DRANK](https://open.spotify.com/track/4d4rCke0LjteEALIx71XRp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 4:31 |
+| 86 | [If You Wanna Stay](https://open.spotify.com/track/1g0lBsLQnlJaW1HhrSfE9s) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 4:29 |
 | 87 | [Homespun Love](https://open.spotify.com/track/2e5OXt1xlzwdSV5PIZUlTi) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [The Ranch](https://open.spotify.com/artist/5lT648Ws2JWcET4ZBqytub) | [Keith Urban In The Ranch](https://open.spotify.com/album/4AMbRls0QKtVTtCP8rCQky) | 2:44 |
 | 88 | [Used To The Pain](https://open.spotify.com/track/0o7LYztO3clVrcUvHGaENR) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Love, Pain & The Whole Crazy Thing](https://open.spotify.com/album/4sTNnZi0xkMIaFs8tT96fl) | 4:41 |
 | 89 | [Don't Shut Me Out](https://open.spotify.com/track/01nszy9ovNvMr06hV084SD) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:54 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 100 | [Waar is de tijd?](https://open.spotify.com/track/3IJEooHq7SDbPgB728FSyz) | [Dana Winner](https://open.spotify.com/artist/6pmObcotPmooyBYA0PbxPW) | [Als je lacht](https://open.spotify.com/album/3ilpS9EFDCWz6Eqjeks3mS) | 3:46 |
 | 101 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `Ab58vgAAAABhaA0yD23JOhrsmnnLlitG`
+Snapshot ID: `Ab6CSgAAAAB078mNMZAER59AnMULpSct`

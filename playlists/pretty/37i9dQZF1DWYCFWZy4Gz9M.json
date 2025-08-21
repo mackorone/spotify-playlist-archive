@@ -1,6 +1,6 @@
 {
   "description": "Guembri, rhythmic krakebs and soulful chants.",
-  "num_followers": 70049,
+  "num_followers": 70068,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
+        "name": "Gnawa Home Songs",
+        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
+      },
+      "artists": [
+        {
+          "name": "Hassan Boussou",
+          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
+        }
+      ],
+      "duration_ms": 44986,
+      "name": "Katib Allah",
+      "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
+    },
+    {
+      "added_at": "2025-03-13 20:50:57",
+      "album": {
         "name": "Altaf Gnawa Group: Gnawa - Music From Morocco",
         "url": "https://open.spotify.com/album/5gHBwsQA4pekfm5k6VmpB7"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 375760,
       "name": "Baba Mimoun (Father Mimoun)",
       "url": "https://open.spotify.com/track/5M71QfNOpiXVn8oMRDoS0N"
-    },
-    {
-      "added_at": "2025-03-13 20:50:57",
-      "album": {
-        "name": "Gnawa Home Songs",
-        "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
-      },
-      "artists": [
-        {
-          "name": "Hassan Boussou",
-          "url": "https://open.spotify.com/artist/3FX6IGUTOn1zh4D8iMFpeI"
-        }
-      ],
-      "duration_ms": 44986,
-      "name": "Katib Allah",
-      "url": "https://open.spotify.com/track/2govhtf5ki65fhzPo54r8x"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -559,34 +559,26 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "African Gnaoua Blues",
-        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
+        "name": "Assala",
+        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
       "artists": [
         {
-          "name": "Majid Bekkas",
-          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+          "name": "Omri Mor",
+          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
         },
         {
-          "name": "Rachid Zeroual",
-          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
+          "name": "Mehdi Nassouli",
+          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
         },
         {
-          "name": "Khalid Kouhen",
-          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
-        },
-        {
-          "name": "Paolo Radoni",
-          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
-        },
-        {
-          "name": "Marc Lelangue",
-          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
+          "name": "Karim Ziad",
+          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
         }
       ],
-      "duration_ms": 362093,
-      "name": "Mrahba",
-      "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
+      "duration_ms": 473588,
+      "name": "44",
+      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -639,26 +631,34 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Assala",
-        "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
+        "name": "African Gnaoua Blues",
+        "url": "https://open.spotify.com/album/1re8yFWm97F3S2uD1ztase"
       },
       "artists": [
         {
-          "name": "Omri Mor",
-          "url": "https://open.spotify.com/artist/3Y0M0thRIXdQ9bbPKUuaA9"
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
         },
         {
-          "name": "Mehdi Nassouli",
-          "url": "https://open.spotify.com/artist/3oK06jAg9UUaNpQQHh1lJJ"
+          "name": "Rachid Zeroual",
+          "url": "https://open.spotify.com/artist/5SC5yIRmjZFE62gTfYkpPw"
         },
         {
-          "name": "Karim Ziad",
-          "url": "https://open.spotify.com/artist/6ja9bhaKf5yHBKQGGbLGi8"
+          "name": "Khalid Kouhen",
+          "url": "https://open.spotify.com/artist/793iN9XLyORCyaD3NW3isz"
+        },
+        {
+          "name": "Paolo Radoni",
+          "url": "https://open.spotify.com/artist/3huZDhwrKz3odYxyOzBhDa"
+        },
+        {
+          "name": "Marc Lelangue",
+          "url": "https://open.spotify.com/artist/00dper4Tuw2YtHISDEZEet"
         }
       ],
-      "duration_ms": 473588,
-      "name": "44",
-      "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
+      "duration_ms": 362093,
+      "name": "Mrahba",
+      "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
     },
     {
       "added_at": "2025-03-13 20:50:57",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-03-13 20:50:57",
       "album": {
-        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
-        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
-      },
-      "artists": [
-        {
-          "name": "Maalem Si Mohamed Chaouqi",
-          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Fangara Fangari\u00e9 - Ouled Bambara",
-      "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
-    },
-    {
-      "added_at": "2025-03-13 20:50:57",
-      "album": {
         "name": "The Fire Within: Gnawa Music of Morocco",
         "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
+    },
+    {
+      "added_at": "2025-03-13 20:50:57",
+      "album": {
+        "name": "Les Gnawa du Maroc (Ouled El' Abdi)",
+        "url": "https://open.spotify.com/album/0ZNSizWo8rOBfzyXEp4JKK"
+      },
+      "artists": [
+        {
+          "name": "Maalem Si Mohamed Chaouqi",
+          "url": "https://open.spotify.com/artist/0bBAwXTmf22PEhakYpllIr"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Fangara Fangari\u00e9 - Ouled Bambara",
+      "url": "https://open.spotify.com/track/7toYPMNjEZ1JmR5TKEfhG9"
     },
     {
       "added_at": "2025-03-13 20:50:57",

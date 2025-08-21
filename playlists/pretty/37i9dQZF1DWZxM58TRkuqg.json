@@ -1,12 +1,12 @@
 {
   "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Nadhif Basalamah,  Aziz Harun, Aisha Retno",
-  "num_followers": 787161,
+  "num_followers": 787209,
   "original_name": "Puncak Klasemen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANaia1OYfL5zIZBEcEkK5rm8Yo3v",
+  "snapshot_id": "AAAAADkRNDbX3mAb/PVPRvzytMvgmXnH",
   "tracks": [
     {
       "added_at": "2025-08-14 21:35:51",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm"
     },
     {
+      "added_at": "2025-08-20 09:00:36",
+      "album": {
+        "name": "Pedih (XX Version)",
+        "url": "https://open.spotify.com/album/5mpjdqOPsAqmNmKIkJ7QNT"
+      },
+      "artists": [
+        {
+          "name": "Last Child",
+          "url": "https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288"
+        }
+      ],
+      "duration_ms": 230574,
+      "name": "Pedih - XX Version",
+      "url": "https://open.spotify.com/track/75UZyhOOIfxRqQtBYofuev"
+    },
+    {
       "added_at": "2025-08-14 21:38:52",
       "album": {
         "name": "Menarilah dengan Jiwamu",
@@ -263,6 +279,22 @@
       "duration_ms": 231093,
       "name": "Bila Memang Kamu",
       "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "added_at": "2025-08-20 09:00:36",
+      "album": {
+        "name": "Itu Kamu",
+        "url": "https://open.spotify.com/album/70edAUYslKNTNQDwZw9nY7"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Itu Kamu",
+      "url": "https://open.spotify.com/track/3lOI3katUtaSPNzTib0kKf"
     },
     {
       "added_at": "2025-08-14 21:35:51",
@@ -539,22 +571,6 @@
       "duration_ms": 237798,
       "name": "Tak Kan Terganti",
       "url": "https://open.spotify.com/track/03JEmUuvNg6a3SHW8HNI98"
-    },
-    {
-      "added_at": "2025-08-14 21:35:51",
-      "album": {
-        "name": "Selalu Ada di Nadimu (Original Soundtrack From \u201cJUMBO\")",
-        "url": "https://open.spotify.com/album/6i5nZ5PvK5aqU27SaTsjad"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 281250,
-      "name": "Selalu Ada di Nadimu (Original Soundtrack From \u201cJUMBO\")",
-      "url": "https://open.spotify.com/track/4mLazr37b1WXxiV0BDvTpb"
     },
     {
       "added_at": "2025-08-14 21:35:51",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2025-08-14 21:35:51",
       "album": {
-        "name": "Tujuh Belas",
-        "url": "https://open.spotify.com/album/5LMiSpyLeOxZBpYZmu0Uiu"
-      },
-      "artists": [
-        {
-          "name": "Iwan Fals",
-          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
-        }
-      ],
-      "duration_ms": 260060,
-      "name": "Ego - Live Version",
-      "url": "https://open.spotify.com/track/25Lal5T01WHDBjW7WEbM8X"
-    },
-    {
-      "added_at": "2025-08-14 21:35:51",
-      "album": {
         "name": "Tegar",
         "url": "https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A"
       },
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2025-08-14 21:35:51",
       "album": {
+        "name": "uKYdS",
+        "url": "https://open.spotify.com/album/4rlVZuiLDtx4vSFvh9ciu8"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        },
+        {
+          "name": "Stand Here Alone",
+          "url": "https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2"
+        }
+      ],
+      "duration_ms": 210523,
+      "name": "uKYdS",
+      "url": "https://open.spotify.com/track/0hYZIjydHDd1Wl5bUtQQpD"
+    },
+    {
+      "added_at": "2025-08-14 21:35:51",
+      "album": {
         "name": "Apa Itu Konsep Bahagia?",
         "url": "https://open.spotify.com/album/7fZz26PcaW4LcELEPPnxpM"
       },
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2025-08-14 21:35:51",
       "album": {
-        "name": "uKYdS",
-        "url": "https://open.spotify.com/album/4rlVZuiLDtx4vSFvh9ciu8"
-      },
-      "artists": [
-        {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        },
-        {
-          "name": "Stand Here Alone",
-          "url": "https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2"
-        }
-      ],
-      "duration_ms": 210523,
-      "name": "uKYdS",
-      "url": "https://open.spotify.com/track/0hYZIjydHDd1Wl5bUtQQpD"
-    },
-    {
-      "added_at": "2025-08-14 21:35:51",
-      "album": {
         "name": "Dekat",
         "url": "https://open.spotify.com/album/15hJ6liZuJPpbWw3BrpqfC"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 267011,
       "name": "Dekat",
       "url": "https://open.spotify.com/track/3kRRSjfw1yiRvMIQ7ofGBg"
-    },
-    {
-      "added_at": "2025-08-14 21:35:51",
-      "album": {
-        "name": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
-        "url": "https://open.spotify.com/album/7DitYwaNCH5O4BeaqdtVvK"
-      },
-      "artists": [
-        {
-          "name": "Rossa",
-          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
-        }
-      ],
-      "duration_ms": 258900,
-      "name": "Aku Baik Saja (Original Soundtrack from Tak Ingin Usai Disini)",
-      "url": "https://open.spotify.com/track/2Jis7HJrGnlRdW1whjEZwv"
     },
     {
       "added_at": "2025-08-14 21:35:51",

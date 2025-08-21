@@ -4,7 +4,7 @@
 
 > 
 
-2,241 songs - 5 day 0 hr 23 min
+2,244 songs - 5 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -797,6 +797,7 @@
 | [God is a woman](https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:17 | 2021-08-05 |  |
 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 | 2021-08-05 |  |
 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 | 2025-01-08 |  |
+| [Gold](https://open.spotify.com/track/6ZSO7kPn8IMJFymyticbJO) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [low kii savage](https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh) | 3:45 | 2025-08-20 |  |
 | [Gold Dust](https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:05 | 2022-04-03 |  |
 | [Gold Guns Girls](https://open.spotify.com/track/5WH2HL7ZrVu9n51viwbdJw) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:05 | 2021-08-05 |  |
 | [Gold Medal](https://open.spotify.com/track/5FRf5P3N1UGySx78MAnpXD) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 3:32 | 2021-08-24 |  |
@@ -1458,6 +1459,7 @@
 | [OUTSIDE](https://open.spotify.com/track/193WM8SfGp3y5ZQjD0qSOD) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [BEST HOUSE ON A BAD BLOCK](https://open.spotify.com/album/20S2pxu7617ZzH7lJA4kKL) | 2:32 | 2021-08-05 |  |
 | [Outside](https://open.spotify.com/track/0wv8dVb5uaLUdVrTSMbEpw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Time 'n' Place](https://open.spotify.com/album/5Az98PddCKwVoorl9pK6U7) | 1:51 | 2022-04-05 |  |
 | [Outside \(feat\. Eladio Carrion\)](https://open.spotify.com/track/3Q8VqnLSMUU8nD0wZ1KQsT) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Outside \(feat\. Eladio Carrion\)](https://open.spotify.com/album/0ubXd0RwDuOGGvezK1izo5) | 3:40 | 2024-12-15 |  |
+| [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 | 2025-08-20 |  |
 | [Outside with the Cuties](https://open.spotify.com/track/6L5ks2ivQVCLnI4JmIr9NT) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/7mTf6AXzDt1q7Iy4Vig1U5) | 2:34 | 2021-08-29 |  |
 | [Over the Moon](https://open.spotify.com/track/02wNtFxlr9dLmZXKT5TIF5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:02 | 2021-08-05 |  |
 | [oxy](https://open.spotify.com/track/0MjAu1TnWJiKCQPI5d3x3S) | [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [dile no a las drogas](https://open.spotify.com/album/2kvzVR1bpkXKLmai4ZfMqS) | 2:42 | 2025-05-21 |  |
@@ -1663,6 +1665,7 @@
 | [Safeword](https://open.spotify.com/track/2c4Est3dxGfn834VReid5d) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh) | 3:36 | 2022-10-28 |  |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-02-18 |  |
 | [Sail](https://open.spotify.com/track/57Nez0yOaE9h7HuPObxDJP) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Decade](https://open.spotify.com/album/5nVWi9N2LrOLIZ1aKBmqwe) | 2:42 | 2021-12-30 |  |
+| [Sailin Da South \(Screwed\)](https://open.spotify.com/track/7cUoXJUcbba7lzQ937Mq7M) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [E.S.G.](https://open.spotify.com/artist/2HeV7SaeXiEdRp9mwu3D6e) | [3 N The Mornin’ Part Two \(Screwed\)](https://open.spotify.com/album/2F7xZ22zn1KZRlM4v6M9de) | 3:24 | 2025-08-20 |  |
 | [Sakura no eda](https://open.spotify.com/track/78DynEbRmPghcmQ4o1jOOv) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Sakura no eda](https://open.spotify.com/album/5gTpIw4eWWrxopwG0njMem) | 2:45 | 2022-02-04 |  |
 | [Sally Walker](https://open.spotify.com/track/7dsEsd0rlVs6PddRJj64ho) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Sally Walker](https://open.spotify.com/album/23aioVCY8KAQbx5ntk7rmV) | 2:58 | 2021-08-05 |  |
 | [Salvatore](https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:41 | 2022-11-10 |  |

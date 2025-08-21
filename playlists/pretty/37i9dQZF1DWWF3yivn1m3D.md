@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,522 likes - 84 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,716 likes - 84 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 79 | [Training Po](https://open.spotify.com/track/4yd7haPQaD6SMLlcJDVmnT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [John Powell](https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP) | [Kung Fu Panda](https://open.spotify.com/album/63E6uxCxvkMSDhLZ8IV4mH) | 1:28 |
 | 80 | [Davy Jones](https://open.spotify.com/track/6buHoQU9OTdbJrAuniVwGL) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Pirates of the Caribbean: Dead Man's Chest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5eQEdvd6pq0uo2pQa56aUH) | 3:15 |
 | 81 | [Suis\-moi \- French Version](https://open.spotify.com/track/1gfOkehOrC389YlyXc4j83) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX) | [The Little Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DNUNY6wAGp7h5UlsedMeq) | 3:26 |
-| 82 | [Oogway's Legacy](https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Kung Fu Panda 3 \(Music from the Motion Picture\)](https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a) | 2:00 |
+| 82 | [Oogway's Legacy](https://open.spotify.com/track/669yRYY5pluCp5dYOcDMDD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Gan Gou](https://open.spotify.com/artist/1Hvg7FHdAIFTFJsM4rGOtE), [Jian Wang](https://open.spotify.com/artist/4DcpgOrxEYPTulZEeJhAJ5) | [Kung Fu Panda 3 \(Music from the Motion Picture\)](https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a) | 2:00 |
 | 83 | [Run Free](https://open.spotify.com/track/75OrTolKEnimJj625JUIft) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 6:21 |
 | 84 | [Iris And Jasper](https://open.spotify.com/track/4JCi6FpV6DHi0OBFhmrKGy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:24 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Karley Scott Collins
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,971 likes - 200 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,006 likes - 200 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

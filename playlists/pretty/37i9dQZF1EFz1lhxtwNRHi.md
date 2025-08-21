@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 53 | [We Lied To Each Other](https://open.spotify.com/track/6QWDugB33Mqc4v0Q0IlCbF) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
 | 54 | [Vampire](https://open.spotify.com/track/4x6KNgwA99loNZcRYrFzod) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/3eKNnH66JwNGWV5F3ZGP55) | 3:34 |
 | 55 | [Feel Something](https://open.spotify.com/track/0tWIkkUNwzNBP0GhppjpPK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:04 |
-| 56 | [Machine](https://open.spotify.com/track/51Z8gYoIwH9mR1Rq04tQz4) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Modern British R&B and Pop](https://open.spotify.com/album/0D8mmVMvjEJDwjRF5ldtt5) | 4:07 |
+| 56 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
 | 57 | [Love and Run \(feat\. Teddy Geiger\)](https://open.spotify.com/track/4vRjuGwYH9xynPVGCIoFRI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mark Alston](https://open.spotify.com/artist/55LAgmu5JoT54oEhWAek3r), [BAGGI](https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom), [Jason Taylor](https://open.spotify.com/artist/0Po6fBwj4MdkVxXr2PeHN4), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:25 |
 | 58 | [Cinnamon Girl](https://open.spotify.com/track/7Ia7PoyYdRZtqjafqvzkaf) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:32 |
 | 59 | [SOMEONE ELSE](https://open.spotify.com/track/1CYdm33W4P71qdXWAZdrre) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:31 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Ab58tAAAAABkJUWkPVD2lxUgHnzsEgM5`
+Snapshot ID: `Ab6CSgAAAADlAVl19l25xGHRVc7jrz0D`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,208 likes - 572 songs - 1 day 15 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,209 likes - 572 songs - 1 day 15 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -294,8 +294,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 284 | [I'll Never Get Over You \- Getting Over Me](https://open.spotify.com/track/48Qec2XCaneiD1j4rGrtqz) | [Jasmine Trias](https://open.spotify.com/artist/0Av5wX4Zd3bam6RWExlocY) | [Jasmine Trias](https://open.spotify.com/album/5tJqBDYbTcZme9t4GfNV2W) | 3:41 |
 | 285 | [You Won't Have Me](https://open.spotify.com/track/4rEfopWAHBTR2zB4QmGMy0) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [An Attempt at Romantic](https://open.spotify.com/album/4jiNh3jO32yjdfiReQR1Uw) | 3:23 |
 | 286 | [Private Affair](https://open.spotify.com/track/2H1I3VDlPloYlci9Z5wQGP) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [Peculiar Situation](https://open.spotify.com/album/4N4cHRs7VQ0ugYGnzBv15s) | 4:30 |
-| 287 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
-| 288 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 287 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 288 | [Chasin' the Wind \- 2009 Remaster](https://open.spotify.com/track/1HkwWmPgucFhkf3znwiKHE) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:19 |
 | 289 | [Explain It to My Heart \- 2009 Remaster](https://open.spotify.com/track/6wpw0KbDjLRjAG0Gp0AGxX) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Twenty 1 \(Expanded Edition\)](https://open.spotify.com/album/73qc0AZ2o6EjPLL0c1pOFU) | 4:47 |
 | 290 | [Every Road Leads Back to You](https://open.spotify.com/track/2Rqjs2uSnjmbpAMG4T4G64) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [For the Boys \(Music from the Motion Picture\)](https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv) | 3:47 |
 | 291 | [Nothing Hurts Like Love](https://open.spotify.com/track/72HPQqLjTB273IrE7cnHNx) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/2IGzeXqhpPyj3hsblRnUA1) | 3:04 |
@@ -370,9 +370,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 360 | [Be A Little Easy On Me](https://open.spotify.com/track/07zlBVvt93kIiImzcaxju3) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Duophonic](https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA) | 5:09 |
 | 361 | [I Was Here](https://open.spotify.com/track/3FG4rxlmFJVzssS2NpQuZf) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [I Owe It All To You](https://open.spotify.com/album/6pwYoX2L9qT1YsiR08oeya) | 4:00 |
 | 362 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
-| 363 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
-| 364 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
-| 365 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 363 | [Weightless](https://open.spotify.com/track/14pn9XTHcNSOVhJ1XKUElj) | [Arilena Ara](https://open.spotify.com/artist/5RYe0PYK8hYEiGnasQoYdd) | [Weightless](https://open.spotify.com/album/3v1dMItuORQsWA03mVInU3) | 3:23 |
+| 364 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 365 | [I Couldn't Do That to Me](https://open.spotify.com/track/2nQqNWe3dNbKtLqWvuujh9) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Remnants \(Deluxe\)](https://open.spotify.com/album/1UGfwqUrXkfomZsxqfAjMY) | 4:27 |
 | 366 | [Shine](https://open.spotify.com/track/0v2Qw3hhGhpK07yHYtCaVf) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:40 |
 | 367 | [One Nation Under Love \(Ukrainian Version\)](https://open.spotify.com/track/3y72hO7OdY158BEWxbHGss) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2) | [One Nation Under Love](https://open.spotify.com/album/2nI4kkbra5DUDknZJAkVvS) | 3:59 |
 | 368 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
@@ -529,8 +529,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 519 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
 | 520 | [You Redeem Me](https://open.spotify.com/track/1mm1fuhhCOwm92R3VP0fF6) | [Ace Young](https://open.spotify.com/artist/1yb4zX0BZ7Ohe0lDcULddT) | [Ace Young](https://open.spotify.com/album/2apCW9jexUmIGSzWZbEV9J) | 3:54 |
 | 521 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 |
-| 522 | [Same Song](https://open.spotify.com/track/5STQsgq6o82sqKYfymtqe7) | [LaKisha Jones](https://open.spotify.com/artist/3lmeQnSYHi5KoLctIwMQXv) | [So Glad I'm Me \(Deluxe Version\)](https://open.spotify.com/album/2axCyrRo1yZC6fQDNmd8rG) | 4:09 |
-| 523 | [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \(Backing Versions\)](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 |
+| 522 | [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \(Backing Versions\)](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 |
+| 523 | [Same Song](https://open.spotify.com/track/5STQsgq6o82sqKYfymtqe7) | [LaKisha Jones](https://open.spotify.com/artist/3lmeQnSYHi5KoLctIwMQXv) | [So Glad I'm Me \(Deluxe Version\)](https://open.spotify.com/album/2axCyrRo1yZC6fQDNmd8rG) | 4:09 |
 | 524 | [I'm By Your Side](https://open.spotify.com/track/0gZPEf6zaswcXJP7uqC1BE) | [Samantha Cole](https://open.spotify.com/artist/4VnMJXQpix0onjop2VNFvX) | [Samantha Cole](https://open.spotify.com/album/1nLWlryXPg4E3Yqr89yW5V) | 4:57 |
 | 525 | [Let Me Make It Up To You Tonight](https://open.spotify.com/track/2SkNS9HIlmYCHaK2jkEzMm) | [Heather Bishop](https://open.spotify.com/artist/4013DHtdn44rEoLAKvfmy9) | [Daydream Me Home](https://open.spotify.com/album/5aRKJuZATDSW9GVxUlqqIU) | 4:35 |
 | 526 | [A Hundred Oceans](https://open.spotify.com/track/3xitSIBFxesl3u1dXxWRkw) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:08 |
@@ -581,4 +581,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 571 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 572 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab58oAAAAABHdpuxt/zg+TgMW0rWesmT`
+Snapshot ID: `Ab6CQAAAAAA5C0gLJOaUXF5hmuB87uTx`

@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "5 Goliya",
+        "url": "https://open.spotify.com/album/5UBGakWYeuKkA3YaPsn37p"
+      },
+      "artists": [
+        {
+          "name": "PATHAN",
+          "url": "https://open.spotify.com/artist/6ZovwTuFyxarrAz7BWaitv"
+        },
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141639,
+      "name": "5 Goliya",
+      "url": "https://open.spotify.com/track/1gYzYz5QwLSW29CEQo1jvy"
+    },
+    {
+      "album": {
         "name": "UNDISPUTED",
         "url": "https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34"
       },
@@ -4860,7 +4882,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-21",
       "duration_ms": 180344,
       "name": "Sifar Safar",
       "url": "https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx"
