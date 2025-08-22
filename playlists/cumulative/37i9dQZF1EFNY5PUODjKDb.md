@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-710 songs - 1 day 19 hr 16 min
+711 songs - 1 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | ["Please Miss Giry, I Want To Go Back..."](https://open.spotify.com/track/3xMuMLXbvbv6LSQaJlkyOh) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG) | [Love Never Dies](https://open.spotify.com/album/0rymLJxRADVhIDmjLtVvhF) | 14:21 | 2024-07-24 |  |
 | [1963](https://open.spotify.com/track/5H3Hrgz2pH8tL5oF7F3X8E) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Charlotte Blackledge](https://open.spotify.com/artist/67mf6clvdWqOHjH0tCIVZb), [Wayne Robinson](https://open.spotify.com/artist/5G9VuJOLYUL6C3j8tg5gtC), [Charlotte Spencer](https://open.spotify.com/artist/6K1NnhNQwqsbTb5I8tU1ko) | [Stephen Ward \(Original Cast Recording\)](https://open.spotify.com/album/4e1fhuTeqstzPfUd1psxc8) | 3:47 | 2024-09-12 |  |
 | [1969](https://open.spotify.com/track/6fodDyCka3MwqrGX7ie4i2) | [Ross Hannaman](https://open.spotify.com/artist/7EkOkoX6vLCcsdZEiKGBBP) | [Piccadilly Sunshine, Part 6: British Pop Psych & Other Flavours, 1967 \- 1970](https://open.spotify.com/album/3IQoJK5o9hHngg1lq5caYs) | 3:02 | 2025-08-13 |  |
+| [25 Variations & Fugue on a Theme by Handel, Op\. 24: Variation 12 \(Live\)](https://open.spotify.com/track/3am7pHU6QvX4G2CzJI6naG) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Peter Katin](https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8) | [Brahms: Piano works](https://open.spotify.com/album/0msNHbrbxOUfkflOhvtBdX) | 0:56 | 2025-08-21 |  |
 | [25 Variations & Fugue on a Theme by Handel, Op\. 24: Variation 13 \(Live\)](https://open.spotify.com/track/5wj5iKrrPlfAXdNO8N03e8) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Peter Katin](https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8) | [Brahms: Piano works](https://open.spotify.com/album/7nQNkknvujpqOgJ0oYIeVf) | 1:27 | 2024-09-12 | 2025-08-02 |
 | [25 Variations & Fugue on a Theme by Handel, Op\. 24: Variation 14 \(Live\)](https://open.spotify.com/track/03I9zW9ycTP0n9ubfLvUTG) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Peter Katin](https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8) | [Brahms: Piano works](https://open.spotify.com/album/7nQNkknvujpqOgJ0oYIeVf) | 0:39 | 2024-09-12 | 2025-08-02 |
 | [25 Variations & Fugue on a Theme by Handel, Op\. 24: Variation 14 \(Live\)](https://open.spotify.com/track/5CtS6cfKkEr2ZgNkT38fi1) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Peter Katin](https://open.spotify.com/artist/7jFPEqM05olJW7Qrq2qsX8) | [Brahms: Piano works](https://open.spotify.com/album/0msNHbrbxOUfkflOhvtBdX) | 0:39 | 2025-08-01 |  |

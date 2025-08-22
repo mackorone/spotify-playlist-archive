@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-397 songs - 1 day 2 hr 1 min
+398 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Money](https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Hnygrl](https://open.spotify.com/artist/62sLcRLz3ZDWMLJaZcsfE5) | [Money](https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK) | 3:34 | 2023-05-19 |  |
 | [Monkey](https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Monkey / Up + Down](https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX) | 2:44 | 2023-06-09 | 2023-06-29 |
 | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/track/1dpVevoWQT7syIxcWDywWm) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG), [Neyl](https://open.spotify.com/artist/6uFQgdqzvkfjP51vdwvCSD) | [Mood \(Feat\. Caroline Byrne & Neyl\)](https://open.spotify.com/album/19z4cBAVhTPI1TwFkDrTSU) | 2:24 | 2025-07-18 |  |
-| [More Than It Seems](https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Fawna](https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU) | [Bounce In Peace](https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI) | 3:38 | 2025-02-07 |  |
+| [More Than It Seems](https://open.spotify.com/track/4u0DoPznclokUxTm9s6VJs) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Fawna](https://open.spotify.com/artist/28lO3tIG3JGTXB4OkQSsxU) | [Bounce In Peace](https://open.spotify.com/album/4vEtb02bBlOpJhyu2PkoXI) | 3:38 | 2025-02-07 | 2025-08-22 |
 | [Motion](https://open.spotify.com/track/52OFxfCUBtf87mPjV8EPUC) | [Karl Seery](https://open.spotify.com/artist/6cm8lW0gC3KkXeJi7Q3mIX) | [Motion](https://open.spotify.com/album/33wjBCraAX8QGqV40iVWvI) | 4:34 | 2021-07-24 | 2022-07-29 |
 | [Motion](https://open.spotify.com/track/76bf56SGSSMrQAGc8VmLMl) | [Karl Seery](https://open.spotify.com/artist/6cm8lW0gC3KkXeJi7Q3mIX) | [Motion](https://open.spotify.com/album/4NjmtlCnqWj6ULCiDifEA5) | 4:34 | 2022-06-20 | 2023-05-20 |
 | [Move Me](https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Move Me](https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE) | 3:51 | 2023-05-19 | 2024-10-05 |
@@ -270,6 +270,7 @@
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-07-28 | 2023-09-26 |
 | [Ordinary Love \- Folamour Remix](https://open.spotify.com/track/7i0d5gmak7nHrBAZJG3eSW) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Ordinary Love \(Folamour Remix\)](https://open.spotify.com/album/1bZe6bclEpMPDiCWOgpxKk) | 5:25 | 2024-01-26 | 2025-05-07 |
 | [Our Way \- Edit](https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Cortados \(Edit\)](https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2) | 2:45 | 2024-03-29 |  |
+| [Out Of My Mind](https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [Out Of My Mind](https://open.spotify.com/album/20Aptp7qjkR10TZjVCx6B2) | 3:39 | 2025-08-15 |  |
 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 | 2021-07-24 |  |
 | [Paradise](https://open.spotify.com/track/7tVZViH1q2MRBwnGBPyq7w) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Paradise](https://open.spotify.com/album/0OHlajVQ2uVXWyLs8zzFHF) | 3:11 | 2024-07-12 |  |
 | [Past Life](https://open.spotify.com/track/2Bgg6GgU47i8PRRYg8YTj0) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Past Life](https://open.spotify.com/album/4u64WU25uYmjvdNGIJZjOr) | 3:57 | 2024-04-26 |  |

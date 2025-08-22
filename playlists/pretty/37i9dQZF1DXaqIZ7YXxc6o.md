@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Torren Foot, Airwolf Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,145 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,141 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [LIGHTS](https://open.spotify.com/track/1b0iXteaGMJnBVrB1qPoed) | [Matty The Friend](https://open.spotify.com/artist/7f6X7MiH2bwZ6fHz2hXuCu), [Jaime Turner](https://open.spotify.com/artist/6M3iV7ZMWHwMOKHaiMa5ND) | [LIGHTS](https://open.spotify.com/album/4dKmydBSmV0rxKjUAWLlyQ) | 3:55 |
 | 100 | [I Wanna Go](https://open.spotify.com/track/0HfylTo23WNyrsQ0sMJgxM) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [I Wanna Go](https://open.spotify.com/album/5e6d1Y9pYejh3y1cwBFNoI) | 2:06 |
 
-Snapshot ID: `AAAAAKBCKT8oAikR2EoBsWl5/01KiTmH`
+Snapshot ID: `AAAAACX34SY3thEPduXs5dNWPVaNwS+6`

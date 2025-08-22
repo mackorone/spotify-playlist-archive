@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Odetto
+> The best French indie tracks right now\. Cover : Oscar Anton
 
-678 songs - 1 day 12 hr 37 min
+680 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [C'est OK](https://open.spotify.com/track/1YRLb0tT7RyTkicGKsUnfY) | [Clea Vincent](https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu) | [C'est OK](https://open.spotify.com/album/5KknyKEbHqlAEfkB64HGHe) | 3:04 | 2023-11-02 | 2023-12-08 |
 | [C'est ton truc](https://open.spotify.com/track/21cdxCXMIgweW3yZuWNn5V) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [C'est ton truc](https://open.spotify.com/album/4Id8NPFlQigLDmpob64QPo) | 2:50 | 2024-05-02 | 2024-06-07 |
 | [California](https://open.spotify.com/track/1h7Re5gO1yifWWp1edXmIn) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [California](https://open.spotify.com/album/5pXtbSQZbOvH4B0Najx5a8) | 2:14 | 2024-12-05 | 2025-01-17 |
-| [Call Home](https://open.spotify.com/track/2HHjnH85IOAmmD6IhPiGuS) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Call Home](https://open.spotify.com/album/6tdbZk4ryyTyvLPNlq2zYX) | 2:10 | 2025-07-24 |  |
+| [Call Home](https://open.spotify.com/track/2HHjnH85IOAmmD6IhPiGuS) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Call Home](https://open.spotify.com/album/6tdbZk4ryyTyvLPNlq2zYX) | 2:10 | 2025-07-24 | 2025-08-22 |
 | [call it a night](https://open.spotify.com/track/2vgfNCFLKRfCsOuLzA1AaD) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [call it a night](https://open.spotify.com/album/5ghiXxNIxCM24yk7uAvWC6) | 2:56 | 2022-12-15 | 2023-01-06 |
 | [Call My Name](https://open.spotify.com/track/4fxgbRNGXQt2icHi18N3SK) | [Hyphen Hyphen](https://open.spotify.com/artist/5KQuLhckFhcox1K9UCgLuV) | [Call My Name](https://open.spotify.com/album/6TTgpPYJs0Z11waheHHA7K) | 3:40 | 2022-12-01 | 2023-01-06 |
 | [Calvin](https://open.spotify.com/track/4FZXNjy9tRM2qrwpEs46Wc) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Calvin](https://open.spotify.com/album/7lN3wA0cM16Sdg1qdF86Yn) | 3:03 | 2022-12-15 | 2023-04-07 |
@@ -293,7 +293,7 @@
 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 | 2024-11-14 |  |
 | [Jericho](https://open.spotify.com/track/0EReTW8JFj00nBZszTFivN) | [Flavien Berger](https://open.spotify.com/artist/5PyU5aVBI66v0pkCIvEJfu) | [Dans cent ans](https://open.spotify.com/album/5GbVEUDKSF372hQLZMcbUb) | 2:19 | 2023-03-16 | 2023-09-22 |
 | [Johnny](https://open.spotify.com/track/1bMt3LbZFKOu6yBYz26Qet) | [Nina Lili J](https://open.spotify.com/artist/4pFzPeaxtoh7hF3XOXKicA) | [Johnny](https://open.spotify.com/album/1qMUT2E2k5Ri7Haqrgq9IB) | 3:29 | 2023-03-02 | 2023-09-22 |
-| [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 | 2024-02-15 |  |
+| [Juste toi et moi](https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Juste toi et moi](https://open.spotify.com/album/4UzT23o7A0FSi1rwsplBkW) | 2:55 | 2024-02-15 | 2025-08-22 |
 | [Juste un beat, danse](https://open.spotify.com/track/3PnENN8tnr72OLwbReXuQO) | [Zéphir](https://open.spotify.com/artist/0YyorRag3eHwGIgly2AtIj) | [Juste un beat, danse](https://open.spotify.com/album/2Cirr5BY5vmQJpFt8ro7Bi) | 3:04 | 2023-04-06 | 2023-10-20 |
 | [JVP](https://open.spotify.com/track/4rg0hY2RIvnVcbQ4AoSH1T) | [Mr GISCARD](https://open.spotify.com/artist/4IEu5JcADp9QoG7qji7tZj) | [:\):](https://open.spotify.com/album/6yzdgvmCB1jnKqNZhnoJ1m) | 2:50 | 2022-03-24 | 2023-02-03 |
 | [J’aimerais tant \(que tu sois là\)](https://open.spotify.com/track/0qFplmpilzltTn3wR6SQSi) | [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [J’aimerais tant \(que tu sois là\)](https://open.spotify.com/album/13ib8S0IYmTKtrg8FF3Tvb) | 2:46 | 2024-12-12 | 2025-02-28 |
@@ -361,6 +361,7 @@
 | [Life Goes on When All Falls Down](https://open.spotify.com/track/2nEwgI2vuYe6gW0SF92EJr) | [Jil Is Lucky](https://open.spotify.com/artist/4O82966S46TGCDsAzRFlku) | [May the Robots Do It Better](https://open.spotify.com/album/6DRIzLicuX2GBIGooXAwOZ) | 2:54 | 2024-10-17 | 2025-05-02 |
 | [Light Stealer](https://open.spotify.com/track/06O29pT254YN6fsXPwuCmL) | [Paul Prier](https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX), [infinite bisous](https://open.spotify.com/artist/7w5cbnOLouZ5bGFvwIF5Ff) | [Light Stealer](https://open.spotify.com/album/2Ynf0t7gdy906KCrl4n3SK) | 3:28 | 2025-06-05 | 2025-06-13 |
 | [lighthouse](https://open.spotify.com/track/0v74b7nJnB4khRqiA8E3b9) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [postcard from NYC](https://open.spotify.com/album/0UjDR2kB0enEGBNDBGwQvR) | 2:18 | 2022-09-01 | 2022-10-14 |
+| [Lisbon](https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Lisbon](https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i) | 2:30 | 2025-08-21 |  |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 | 2022-04-08 |
 | [Lost](https://open.spotify.com/track/6dElM6tD7hW95f8hCzKSeJ) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Amouë](https://open.spotify.com/artist/5hxkInZtrkxDnUjsRqs5Ww) | [Lost](https://open.spotify.com/album/3aiDdnlHp7GrgKzHIgc3ES) | 3:20 | 2024-01-25 | 2024-03-29 |
 | [Lost and found](https://open.spotify.com/track/6MMEa398lg04laP9v8Q1YM) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Lost and found](https://open.spotify.com/album/4V5EXwlVZyDgqx5RHLik1z) | 4:02 | 2024-02-15 | 2024-04-19 |
@@ -376,6 +377,7 @@
 | [Macondo](https://open.spotify.com/track/1oOTr5BciioYUpnj2hCtDR) | [Evergreen](https://open.spotify.com/artist/2rdtngq3t4zQwluqyGfZuS) | [VEGETAL DIGITAL](https://open.spotify.com/album/3Krl6CyMlkfAVnVhSyCmiO) | 3:55 | 2025-02-27 | 2025-03-07 |
 | [Mademoiselle](https://open.spotify.com/track/07yFYf562vEHlWVBaGXhCz) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Charlotte Casiraghi](https://open.spotify.com/artist/5h8kHvSPcreeL9fErOCEUi) | [EXTATIC](https://open.spotify.com/album/68dFckjqN3mRFHZtU0UrkM) | 2:55 | 2022-07-14 | 2022-08-26 |
 | [Magique](https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Magique](https://open.spotify.com/album/1QovWMxy4xIatjjkvvqD1W) | 2:58 | 2023-01-12 | 2023-03-25 |
+| [Maison brûle](https://open.spotify.com/track/3kXEV4B6JZT1j0alpBtHRd) | [TheFrenchKris](https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs) | [Maison brûle](https://open.spotify.com/album/1FfF5Rnr9APJQEsgYztm9f) | 2:48 | 2025-08-21 |  |
 | [Make It Work](https://open.spotify.com/track/7AgPGHkeXpj8yETLvBn3Kb) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Make It Work](https://open.spotify.com/album/4VC97qyEvXilPylVXxhcCB) | 4:15 | 2025-03-06 | 2025-05-16 |
 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 | 2024-10-18 |
 | [Marathon](https://open.spotify.com/track/65Jfx0QMcK8YBSeILwgXZx) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [Marathon](https://open.spotify.com/album/5uiYpDm2jyWh7rrb3mFuMm) | 3:02 | 2023-09-28 | 2024-01-19 |

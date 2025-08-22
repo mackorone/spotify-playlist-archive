@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:DJ Tunez
+> The tracks heating up the continent right now!  Cover: Mr Eazi
 
 545 songs - 1 day 8 hr 23 min
 

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Frayle
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Sumo Cyco
 
 369 songs - 21 hr 47 min
 

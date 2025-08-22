@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 358335,
+  "num_followers": 358412,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,26 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
         "name": "UM - Origem",
         "url": "https://open.spotify.com/album/4eowyg64oQCHdhDM8GF5c0"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 294658,
       "name": "Ainda Bem",
       "url": "https://open.spotify.com/track/1wmJX9qbdcx6uzVn9YAlQ0"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
-        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
-      },
-      "artists": [
-        {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        }
-      ],
-      "duration_ms": 324268,
-      "name": "Levanta e Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
         "name": "Nada Temerei",
         "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
@@ -691,22 +675,6 @@
       "duration_ms": 286000,
       "name": "Nada Temerei",
       "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Todo Joelho Se Dobre",
-        "url": "https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 283444,
-      "name": "Todo Joelho Se Dobre",
-      "url": "https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -731,6 +699,38 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
+        "name": "Todo Joelho Se Dobre",
+        "url": "https://open.spotify.com/album/61KY5rzUEmwr38Wd9ty8kN"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "duration_ms": 283444,
+      "name": "Todo Joelho Se Dobre",
+      "url": "https://open.spotify.com/track/0FU75RxlZRgZBW76RjSBDZ"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "\u00c1gape Amor Divino (Ao Vivo) [Deluxe]",
+        "url": "https://open.spotify.com/album/57hepB3nk9cMT0FHeXtkYm"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        }
+      ],
+      "duration_ms": 324268,
+      "name": "Levanta e Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2jycVbKMZWU5raNSWkdxxe"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
         "name": "Eu Amo Teu Fogo (Ao Vivo)",
         "url": "https://open.spotify.com/album/50aDOBi3i8BJjtj7P083fe"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 645518,
       "name": "Eu Amo Teu Fogo - Ao Vivo",
       "url": "https://open.spotify.com/track/7eSOw1wfGCCIdDMSSYcnM3"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2023",
-        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 308875,
-      "name": "Louvor dos Pequenos",
-      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -783,22 +767,6 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
         "name": "Milagre de Amor",
         "url": "https://open.spotify.com/album/7GMUQjOfVNZW38ewetR7Ew"
       },
@@ -819,18 +787,34 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+        "name": "Cantai a Deus Com Alegria 2023",
+        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
       },
       "artists": [
         {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+      "duration_ms": 308875,
+      "name": "Louvor dos Pequenos",
+      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -847,6 +831,42 @@
       "duration_ms": 327961,
       "name": "Se Eu Tenho o Hoje",
       "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Gba Stage, Vol. 13",
+        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 294101,
+      "name": "Deixa Deus Sonhar em Ti",
+      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -883,26 +903,6 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Gba Stage, Vol. 13",
-        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 294101,
-      "name": "Deixa Deus Sonhar em Ti",
-      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2025-08-01 19:04:05",

@@ -2,9 +2,9 @@
 
 ### [Gospel Flow](https://open.spotify.com/playlist/37i9dQZF1DXc6PRIxq2w5v)
 
-> Entre os versos e beats, a palavra do Senhor\. Foto: Nesk Only
+> Entre os versos e beats, a palavra do Senhor\. Foto: AO Cubo
 
-494 songs - 1 day 1 hr 24 min
+495 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Eu Sou Iluminado](https://open.spotify.com/track/5ypnmxsJvnyiLtqDFv7nbO) | [Mc Miller](https://open.spotify.com/artist/3lPqoloT6yQMReUyZIkes6) | [Iluminado](https://open.spotify.com/album/6HQv3LN7oBn7irJL2GZ7kd) | 3:53 | 2022-08-19 | 2023-01-14 |
 | [Eu Te Amo](https://open.spotify.com/track/5Ck8Dr84bu5E4jCOUe9nGm) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [Eu Te Amo](https://open.spotify.com/album/5NNPPKsVgkPDKgpB1wWI3N) | 4:04 | 2022-04-29 | 2024-06-01 |
 | [eu vi](https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt) | [CAIQ](https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z) | [eu vi](https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI) | 2:59 | 2024-01-05 |  |
+| [Eu Vou Viver](https://open.spotify.com/track/5OQcyeaTcok7ROyAz0akq5) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV), [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eu Vou Viver](https://open.spotify.com/album/14U0AXMCTkBfRlT1uaD5X1) | 3:43 | 2025-08-22 |  |
 | [Face a Face](https://open.spotify.com/track/2gDCe8vY2387GkkGC3hL0q) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Face a Face](https://open.spotify.com/album/7ojG42bFYTRZD6elK8qnEw) | 3:34 | 2024-07-19 | 2024-08-17 |
 | [Fala Que É Crente](https://open.spotify.com/track/3LUTZRerd2vqpxZAeglR0W) | [Educky](https://open.spotify.com/artist/6M6Z0nqgNjESVSgs07odZy) | [Fala Que É Crente](https://open.spotify.com/album/5FhSuSU7Y9v29hzXvXWkXB) | 2:51 | 2024-10-07 | 2025-06-14 |
 | [Falando a Verdade](https://open.spotify.com/track/1jfHhVoo6TeLUINztgMt0R) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Falando a Verdade](https://open.spotify.com/album/6TlGC5bpUznneRJ0SPNgfv) | 2:22 | 2022-03-25 | 2023-09-02 |
@@ -466,7 +467,7 @@
 | [Um Dia De Cada Vez \(feat\. Vitória Affonso\)](https://open.spotify.com/track/5GyVZmndjaXQjdfwJ6ITzb) | [Emithir](https://open.spotify.com/artist/40TYtSTZBwMftZVA6OZCOb), [Vitória Affonso](https://open.spotify.com/artist/1qq4OAxJChyNYwBdqZcy6M) | [Um Dia De Cada Vez \(feat\. Vitória Affonso\)](https://open.spotify.com/album/2Wixm8NESfvYxP4eAVYIhT) | 3:40 | 2023-08-18 | 2023-10-23 |
 | [Uma Missão](https://open.spotify.com/track/2bxYiuNc2hYWkuzK5HrVcZ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Uma Missão](https://open.spotify.com/album/3v56SzOs0MHmJ8Vl273i41) | 2:48 | 2023-02-25 | 2023-09-02 |
 | [Uma Prece por Mim](https://open.spotify.com/track/6QXcr9AhGKtd2OtQh9VUEJ) | [Cela Éfeso](https://open.spotify.com/artist/7ueKl9kOlGIYEi6uVdlYVB), [Fred Vieira](https://open.spotify.com/artist/2MWJbnAhobxIEl25ntzAkP) | [Uma Prece por Mim](https://open.spotify.com/album/7qPA46YYUJWhwt9LHQo81u) | 5:44 | 2023-07-07 | 2023-07-22 |
-| [Umbral](https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea) | [Ian DaRua](https://open.spotify.com/artist/1L2z3Cdc2iZifngTEC1Gyz), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Fernandinho Beat Box](https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i) | [Umbral](https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP) | 2:49 | 2025-02-14 |  |
+| [Umbral](https://open.spotify.com/track/5knPi4JdOY8MOSAYEyR4Ea) | [Ian DaRua](https://open.spotify.com/artist/1L2z3Cdc2iZifngTEC1Gyz), [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Fernandinho Beat Box](https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i) | [Umbral](https://open.spotify.com/album/17iE4buduzX5NpvOqOb6gP) | 2:49 | 2025-02-14 | 2025-08-22 |
 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 | 2022-03-22 | 2023-09-02 |
 | [Vai Mudar](https://open.spotify.com/track/1q6OSrmIVmh5gOm7iGu2IJ) | [Fabão MC](https://open.spotify.com/artist/7brrQUJkLSTzfWltuszqDQ), [Isaque Music](https://open.spotify.com/artist/3GFM05r9qhxQZ4iYAS5MQe), [Felipin](https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP) | [Vai Mudar](https://open.spotify.com/album/78s4csR8NETKObiZTMkvXJ) | 3:47 | 2022-08-19 | 2023-01-14 |
 | [Vale da Sombra](https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ) | [shiso](https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8) | [Vale da Sombra](https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF) | 3:12 | 2022-11-25 | 2024-09-20 |

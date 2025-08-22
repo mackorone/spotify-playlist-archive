@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 633873,
+  "num_followers": 633863,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Catorce",
-        "url": "https://open.spotify.com/album/0DxFyFTHGHtQSuKXFhvOeN"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 224045,
-      "name": "Catorce",
-      "url": "https://open.spotify.com/track/1s3WD4gbNoEXHiuSTmAKaK"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Qui\u00e9n Dice",
         "url": "https://open.spotify.com/album/3tAKezwIGgXfXJZQtbF7eK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 225196,
       "name": "Qui\u00e9n Dice",
       "url": "https://open.spotify.com/track/567t9YdgQ12cPNJma02EPT"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Catorce",
+        "url": "https://open.spotify.com/album/0DxFyFTHGHtQSuKXFhvOeN"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 224045,
+      "name": "Catorce",
+      "url": "https://open.spotify.com/track/1s3WD4gbNoEXHiuSTmAKaK"
     },
     {
       "added_at": "2024-07-11 01:38:58",

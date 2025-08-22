@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kqLSAZSw7o.md) - [plain]
 
 > Lagu Raya yang kekal popular.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,414 likes - 74 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,409 likes - 74 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

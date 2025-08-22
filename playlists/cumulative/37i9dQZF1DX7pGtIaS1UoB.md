@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-420 songs - 1 day 0 hr 39 min
+422 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Luv U No Reason \(L.U.N.R\) \[feat\. J.Tim\]](https://open.spotify.com/track/2UldjvotRZWSttlMGss4fv) | [K!ddingboi](https://open.spotify.com/artist/0aMb32AbyiEHs6q7t5d1gC), [J.Tim](https://open.spotify.com/artist/35GRmLEv0RouFxQ6SahMCS) | [Luv U No Reason \(L.U.N.R\) \[feat\. J.Tim\]](https://open.spotify.com/album/1CIPn9IfUB8IGGFBc42cGk) | 3:14 | 2025-06-05 | 2025-06-15 |
 | [Make Sense](https://open.spotify.com/track/5fufhzT3tgaMEJTZel4cJT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX), [焦凡凡](https://open.spotify.com/artist/1vgep0h29N7GekPN4MTOW3) | [Make Sense](https://open.spotify.com/album/42M8HFYWPDvXyk9sXLYeQz) | 2:58 | 2025-07-10 |  |
 | [Make You Mine](https://open.spotify.com/track/7srrBO1i4TPAzL8ksts1lQ) | [Ben Wu](https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM) | [Make You Mine](https://open.spotify.com/album/55qaa3QlpERHC9ji8n93QV) | 3:28 | 2022-08-08 | 2022-08-30 |
+| [Maybe Someday \- Dave Version](https://open.spotify.com/track/40rVAk5Yi5t5LRzkJmCEUg) | [鐵夫 Dave](https://open.spotify.com/artist/4qGDbD5rMPAgX2JJlD87nR) | [Maybe Someday \(Dave Version\)](https://open.spotify.com/album/73sL9G9jGe9wUFrwPWaeMh) | 3:29 | 2025-08-21 |  |
 | [Meant To Be](https://open.spotify.com/track/2JMvrwCMRQyTAU0mcC1L4V) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Meant To Be](https://open.spotify.com/album/6ZrpBdx44f9CSSa5DTPh5W) | 4:03 | 2022-06-06 | 2022-07-16 |
 | [Melody](https://open.spotify.com/track/7LGg45oJbIiyt0zVwb5Ho0) | [Baozhai Mezhong](https://open.spotify.com/artist/1sNBvC3ul9Xy0beVtEDPqV) | [Melody](https://open.spotify.com/album/5DfouQvBikRahYnthwaKHw) | 3:57 | 2022-06-06 | 2022-07-29 |
 | [Melody](https://open.spotify.com/track/4zoAOEGIrfR43iDOtxQqgg) | [Kipes](https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf), [Ziv](https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO) | [Melody](https://open.spotify.com/album/1KGzv9nQNAJBEBmmljDIbC) | 3:57 | 2023-01-09 | 2023-05-09 |
@@ -143,6 +144,7 @@
 | [再一次](https://open.spotify.com/track/2nlf9fB6ENWqw6XGhi0E07) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [再一次](https://open.spotify.com/album/54AwsQS9rsCyaHIlf6qWuD) | 2:57 | 2025-04-24 | 2025-06-25 |
 | [再唱一遍\(不來梅樂隊\)](https://open.spotify.com/track/3iIIi2k5EanEnhsrc7VYu1) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO) | [再唱一遍\(不來梅樂隊\)](https://open.spotify.com/album/6XejP1e6swahNwyPT4Og4k) | 3:52 | 2022-06-06 | 2022-07-29 |
 | [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 | 2022-06-06 | 2024-06-21 |
+| [分你一半耳機（戲劇《校服的裙擺》片尾曲）](https://open.spotify.com/track/3biOb3HBy1E6Jc3AjLaAqK) | [洪暐哲WAJI](https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O) | [分你一半耳機（戲劇《校服的裙擺》片尾曲）](https://open.spotify.com/album/1PmBonUTzbdYSqFQ4iu17x) | 3:00 | 2025-08-21 |  |
 | [初恋的朦胧诗](https://open.spotify.com/track/4UazSuVGvyHnpgKD5VQAxW) | [房东的猫](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [初恋的朦胧诗](https://open.spotify.com/album/3DqiMmXJZ3Ctfu0P6rQmrT) | 3:11 | 2023-01-09 | 2023-01-17 |
 | [别再骗我](https://open.spotify.com/track/2qMF7BK8rgePrDtQdduqrq) | [斯外戈](https://open.spotify.com/artist/5yAKfTrz68bDKhcxdO3AUQ) | [别再骗我](https://open.spotify.com/album/4rqZvaY8AdXlz5EbhEMXiP) | 3:51 | 2022-07-18 | 2022-07-22 |
 | [十分鐘的戀愛](https://open.spotify.com/track/1Ey4U3iI0x1yPY70v1C7uu) | [呂婕菲 \(Shiny\)](https://open.spotify.com/artist/6HVuOJmwG6HevMxI7N9ArW), [夏沐](https://open.spotify.com/artist/6XXsgia5SC9tQN3ygXEVt6) | [十分鐘的戀愛](https://open.spotify.com/album/7130ZVtjSXO8rt0zbAvf6p) | 3:36 | 2022-07-04 | 2022-07-14 |
@@ -174,7 +176,7 @@
 | [壞的可愛 \(feat\. 言奕\)](https://open.spotify.com/track/3nWXCMtQOqQFR82CKgGMqZ) | [洗菜](https://open.spotify.com/artist/0pk1JDsCVVVXe5qtloVoCW), [言奕](https://open.spotify.com/artist/5XSlxl84NQKJWopXCFJv0f) | [壞的可愛 \(feat\. 言奕\)](https://open.spotify.com/album/12nZEMXBArLXhrwBSPCLHb) | 3:11 | 2023-03-20 | 2023-03-28 |
 | [夏色17号\-比尔的歌](https://open.spotify.com/track/5Dr6LweBUX9A0w4Fm0oaB0) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E), [不是花火呀](https://open.spotify.com/artist/5CxdR3VSEWjiAa5DabdLVd) | [夏色17号\-比尔的歌](https://open.spotify.com/album/0ZO8r4sN5eymZG4YMozKT1) | 3:13 | 2022-08-29 | 2022-10-17 |
 | [多想多想](https://open.spotify.com/track/1hHKchWlXB2opV42Ob2fNn) | [Evelyn Jiang](https://open.spotify.com/artist/6zb3HsIgT0wFAq1Puw89yI) | [多想多想](https://open.spotify.com/album/6euI87H9LIyHgttHS47G9g) | 3:45 | 2025-05-22 | 2025-07-16 |
-| [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 | 2024-11-14 |  |
+| [多想要給你我的愛](https://open.spotify.com/track/4nF5bO53yo6JWN0K9rrFZq) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [多想要給你我的愛](https://open.spotify.com/album/7sptJfmA71o8mztzZEz419) | 2:47 | 2024-11-14 | 2025-08-22 |
 | [天亮請睜眼 \- 《終極狼人殺》遊戲主題曲](https://open.spotify.com/track/6XTDYHfU1eRG1VrK7VHQnZ) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天亮請睜眼](https://open.spotify.com/album/2hQjMlItrDWJCmWj8zyJFu) | 3:12 | 2024-04-15 | 2024-07-23 |
 | [天使見證的愛情](https://open.spotify.com/track/46k8JnUuYVu8yWtC3VN8wo) | [蕭秉治](https://open.spotify.com/artist/0Ej4GfzIcW3dWP0rC5d4x1), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [凡人](https://open.spotify.com/album/1MZZXzwEPXBvwG29dpGCDZ) | 3:23 | 2022-06-27 | 2022-07-28 |
 | [天气预报](https://open.spotify.com/track/29PXFwJJJhbv3qSvW1GD0H) | [Cindy大蟠桃子](https://open.spotify.com/artist/3bdkqX2OKcnxvqnG5DmBSH) | [天气预报](https://open.spotify.com/album/5GJpp6vX5tAvJhzV0HWptC) | 2:51 | 2022-10-04 | 2023-02-02 |
@@ -381,7 +383,7 @@
 | [膽小鬼](https://open.spotify.com/track/5w4HRtuuF0pj70GGlePSET) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [梁詠琪gigi](https://open.spotify.com/album/3DJ9oBFFrxUiDgkgjSlpc7) | 4:18 | 2022-06-20 | 2022-07-22 |
 | [若你幸福](https://open.spotify.com/track/2v9CVwSRN0mOtIGVLBBE6a) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [若你幸福](https://open.spotify.com/album/3z1d8AuAoGXrqXqyrhvAOG) | 3:57 | 2022-06-13 | 2022-07-27 |
 | [莫名的想你](https://open.spotify.com/track/11nQNM8Dz2Hw6aD59Sn3SR) | [Shelby Wang](https://open.spotify.com/artist/2Ei4OyOgbi3w0smNgmBBv0) | [BLUE\-HOO! \(Deluxe\)](https://open.spotify.com/album/7IyzEmX7Wpibs1WrudybFJ) | 3:17 | 2024-01-15 | 2024-01-29 |
-| [蓝色恋人](https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike) | [陈默之](https://open.spotify.com/artist/64nI5pSqRJfBxDaJ5GRoy3) | [蓝色恋人](https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w) | 2:50 | 2025-02-13 |  |
+| [蓝色恋人](https://open.spotify.com/track/5zUlkfX7SP0kAm7z407ike) | [陈默之](https://open.spotify.com/artist/64nI5pSqRJfBxDaJ5GRoy3) | [蓝色恋人](https://open.spotify.com/album/01ganC9hjzAFwXxc7EcD0w) | 2:50 | 2025-02-13 | 2025-08-22 |
 | [藏不住的心跳\(《我只喜歡你》影視劇片頭曲\)](https://open.spotify.com/track/06lCOHWNcChv8OD1Eu3uu9) | [朱主愛](https://open.spotify.com/artist/2vL4i9Q9XBUFesjcAXKfKU) | [《我只喜歡你》影視原聲帶](https://open.spotify.com/album/3LDw6erSD3E4mzulS6wqWM) | 3:59 | 2022-06-06 | 2022-07-24 |
 | [蜂蜜月亮](https://open.spotify.com/track/4pEeMrkuigOI6ZRIpfL0v4) | [Valen Hsu](https://open.spotify.com/artist/0iW8EYj3iP2gpO5eU2Pvta) | [綻放的綻放的綻放](https://open.spotify.com/album/6LTJORKZE2w6k5b7mC5wbL) | 3:49 | 2022-07-04 | 2022-07-08 |
 | [行星戀](https://open.spotify.com/track/5FZj4n2DSe4GE3I2CZg2Qd) | [Goose 我鳥](https://open.spotify.com/artist/4h1sE1sVLVe4cRO4mn8mtN), [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [行星戀](https://open.spotify.com/album/49bwNau4JVyFHdPh4iEaaf) | 5:06 | 2022-06-06 | 2023-04-16 |

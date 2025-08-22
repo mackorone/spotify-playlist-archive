@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. Cover: Marlo Grosshardt
+> Indie, Pop und Rap mit deutschen Texten\. Cover: frytz
 
 1,355 songs - 2 day 15 hr 53 min
 

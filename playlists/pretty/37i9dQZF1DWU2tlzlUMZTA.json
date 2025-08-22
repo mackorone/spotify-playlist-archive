@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- 'Sahiba' by Jasleen Royal and Stebin Ben",
-  "num_followers": 129811,
+  "num_followers": 129834,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2025-08-12 08:13:46",
       "album": {
+        "name": "Zaroor",
+        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Zaroor",
+      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
+    },
+    {
+      "added_at": "2025-08-12 08:13:46",
+      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 196800,
       "name": "Water",
       "url": "https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4"
-    },
-    {
-      "added_at": "2025-08-12 08:13:46",
-      "album": {
-        "name": "Zaroor",
-        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
-      },
-      "artists": [
-        {
-          "name": "Aparshakti Khurana",
-          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
-        },
-        {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Zaroor",
-      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
     },
     {
       "added_at": "2025-08-12 08:13:46",
@@ -987,18 +987,22 @@
     {
       "added_at": "2025-08-12 08:13:46",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU"
+        "name": "Illegal Weapon",
+        "url": "https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P"
       },
       "artists": [
         {
-          "name": "Sumit Goswami",
-          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         }
       ],
-      "duration_ms": 224805,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S"
+      "duration_ms": 230000,
+      "name": "Illegal Weapon",
+      "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"
     }
   ],
   "unique_name": "I-Pop Superhits",

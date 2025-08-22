@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LINION ",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Yokkorio",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -798,7 +798,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 251000,
       "name": "Blue Lagoon",
       "url": "https://open.spotify.com/track/6yaiTEYSegDkxctBD6tBjO"
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 194250,
       "name": "Jurassic Ride",
       "url": "https://open.spotify.com/track/1VGYVyUsSHFDzaF8jgLwHR"
@@ -3486,7 +3486,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 186669,
       "name": "Litchi Red",
       "url": "https://open.spotify.com/track/0rCaItAeve5mL7mQzDqLD9"
@@ -5637,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "Solstice Full Moon",
+        "url": "https://open.spotify.com/album/4HC9YwokvUCZ8CTCuVLbiu"
+      },
+      "artists": [
+        {
+          "name": "Yokkorio",
+          "url": "https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Solstice Full Moon",
+      "url": "https://open.spotify.com/track/4V8ZQpvDhJUcvjrIQLWOYY"
+    },
+    {
+      "album": {
         "name": "Sparkling Wine",
         "url": "https://open.spotify.com/album/4gxuib7CxBL3SkMm6kdi3s"
       },
@@ -6440,6 +6458,28 @@
       "duration_ms": 139374,
       "name": "to the strangers",
       "url": "https://open.spotify.com/track/0byFCzJ9P20i8xJxL6fPQc"
+    },
+    {
+      "album": {
+        "name": "Tokyo\u2019s Last Night (feat. \u5b8b\u5bb6\u8018 - \u00dcne SONG)",
+        "url": "https://open.spotify.com/album/4WgQoOtcjvuI6fDhyt0Vec"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "\u5b8b\u5bb6\u8018",
+          "url": "https://open.spotify.com/artist/0YzU6iISSv55QXLZoMlGse"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216585,
+      "name": "Tokyo\u2019s Last Night (feat. \u5b8b\u5bb6\u8018 - \u00dcne SONG)",
+      "url": "https://open.spotify.com/track/3w36oxuTm0vT6eF1cFNPYG"
     },
     {
       "album": {

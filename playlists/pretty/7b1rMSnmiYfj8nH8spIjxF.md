@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/7b1rMSnmiYfj8nH8spIjxF.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ignorant Boy, Beatiful Girl](https://open.spotify.com/track/3tKZnG0UASS8zftOrFIH95) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/2NdsxJipz3wJv1nRcWrRNa) | 4:00 |
+| 1 | [Ignorant Boy, Beatiful Girl](https://open.spotify.com/track/3tKZnG0UASS8zftOrFIH95) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/2NdsxJipz3wJv1nRcWrRNa) | 4:00 |
 | 2 | [Acredite Ou Nao](https://open.spotify.com/track/7oR0W6OuHfDGvr8zjYKxy0) | [Badi Assad](https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs), [Carlos Malta](https://open.spotify.com/artist/5gxBb5QQrdwYzKMtP3KlyM), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF), [Marcos Suzano](https://open.spotify.com/artist/7eoxe0CyQFAF2xpYYvstkp) | [Badi Assad "Wonderland"](https://open.spotify.com/album/4q2wgF4AA9KTQgOZMLhceH) | 4:23 |
 | 3 | [Ya Nari Révolution](https://open.spotify.com/track/5T1jltYYjuGNbFGCVxmzjp) | [Amina Annabi](https://open.spotify.com/artist/0syaepUD5LLHaIp2Kx1jJI) | [Ya Nari Révolution](https://open.spotify.com/album/2JS2vzQQi1a2CZ6gtFXUnd) | 4:24 |
 | 4 | [Skräplandschottis](https://open.spotify.com/track/2QHHvb2VLMNGecrrtSOwUl) | [Väsen](https://open.spotify.com/artist/1Njrx1AMU4ymWHjfSlwLpE) | [Vasen Street](https://open.spotify.com/album/4CIrBUqy2nvaf8C3CBUGh3) | 2:40 |

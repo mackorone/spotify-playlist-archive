@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,096 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Празнуваш](https://open.spotify.com/track/48iEUmuI93bQAXZ3bSvojr) | [Desi Slava](https://open.spotify.com/artist/1FYHEsfPuSTAOV5oK1CNXG), [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g) | [Празнуваш](https://open.spotify.com/album/4INV34EnV9mpkKlPavZ2zv) | 3:22 |
 | 50 | [Caliente](https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends, Part 1 \(Deluxe Edition\)](https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf) | 3:21 |
 
-Snapshot ID: `MDk6IAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MDqLoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

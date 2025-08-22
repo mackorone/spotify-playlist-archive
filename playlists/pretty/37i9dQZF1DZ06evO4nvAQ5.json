@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 15755,
+  "num_followers": 15760,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAADzl4LfeNFFxs3UMt7C1VJI",
+  "snapshot_id": "aKO+gAAAAADNEQ4wQCX/N+5KeeXnuA2X",
   "tracks": [
     {
       "added_at": null,
@@ -143,26 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Every Little Thing (feat. Fiji)",
-      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Monterey or Bust, Vol. 2",
         "url": "https://open.spotify.com/album/2zLwFPoUPCopbjHzSjyEYM"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 193400,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/2fb8kXjXaT2hkK86VrmThw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Every Little Thing (feat. Fiji)",
+      "url": "https://open.spotify.com/track/0ipn6Skphpuas3OXN8zpzk"
     },
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Ever",
+        "url": "https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb"
+      },
+      "artists": [
+        {
+          "name": "Jah Maoli",
+          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 282052,
+      "name": "If I Ever",
+      "url": "https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liki Tiki (Reggae Remix)",
         "url": "https://open.spotify.com/album/5vRwOtrAawwlBjuq3a8fW6"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 250105,
       "name": "Liki Tiki - Reggae Remix",
       "url": "https://open.spotify.com/track/6QQK85nnBzFxRyW4qkMHHY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Ever",
-        "url": "https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb"
-      },
-      "artists": [
-        {
-          "name": "Jah Maoli",
-          "url": "https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 282052,
-      "name": "If I Ever",
-      "url": "https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No Love Like",
-        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Ain't No Love Like",
-      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hustlin' Riddim",
         "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 193093,
       "name": "Coldest Zone",
       "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't No Love Like",
+        "url": "https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 243800,
+      "name": "Ain't No Love Like",
+      "url": "https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA"
     },
     {
       "added_at": null,
@@ -763,6 +763,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELEBRATION",
+        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 205875,
+      "name": "Raggamuffin",
+      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J Boog",
+        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Police and Thieves",
+      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -794,51 +850,11 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog",
-        "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Police and Thieves",
-      "url": "https://open.spotify.com/track/66FPznmRngrO6yytsJyDs3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CELEBRATION",
-        "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
-      },
-      "artists": [
-        {
-          "name": "Common Kings",
-          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 205875,
-      "name": "Raggamuffin",
-      "url": "https://open.spotify.com/track/5fCAt9wpOMHR0NB2WjLjQ5"
+      "duration_ms": 276586,
+      "name": "Brighter Days",
+      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
     },
     {
       "added_at": null,
@@ -863,38 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 276586,
-      "name": "Brighter Days",
-      "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Always Been You",
-        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 203664,
-      "name": "Always Been You",
-      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Audio",
         "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
@@ -911,22 +895,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ"
       },
       "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+      "duration_ms": 203664,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
     },
     {
       "added_at": null,
@@ -963,6 +943,26 @@
       "duration_ms": 248000,
       "name": "She Give Me Lovin'",
       "url": "https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
     },
     {
       "added_at": null,

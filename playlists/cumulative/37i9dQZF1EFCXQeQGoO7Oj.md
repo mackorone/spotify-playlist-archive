@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-625 songs - 1 day 13 hr 28 min
+626 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [I Want You Back](https://open.spotify.com/track/6Qm13MOpWHu5uXYhgTM5QL) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [I Want You Back \(Official Video\)](https://open.spotify.com/album/2HQRKk2G6HGf9ldR2ioUEg) | 3:19 | 2024-01-30 | 2024-02-02 |
 | [I Want You Back \- Radio Edit](https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | ['N Sync UK Version](https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB) | 3:20 | 2024-01-29 |  |
 | [I Want You to Want Me](https://open.spotify.com/track/3WAOVos0X4s1uE6OZaKaZF) | [Solid HarmoniE](https://open.spotify.com/artist/4a7E7K63Sc944CmiOgcxd8) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:29 | 2024-01-29 |  |
-| [I Will Be](https://open.spotify.com/track/2rVnxIk0QkCpHNWXElXtVk) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:58 | 2024-01-29 |  |
+| [I Will Be](https://open.spotify.com/track/1ERza8JzFin9c3Keo8XQEX) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 | 2025-08-21 |  |
+| [I Will Be](https://open.spotify.com/track/2rVnxIk0QkCpHNWXElXtVk) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:58 | 2024-01-29 | 2025-08-22 |
 | [I Will Be There](https://open.spotify.com/track/2I320CTP7hYFTtiFo1H6CD) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:53 | 2024-01-29 |  |
 | [I'll Be There for You \- Single Edit](https://open.spotify.com/track/4cgeOQBQzS7x5Bvd8hFO95) | [Solid HarmoniE](https://open.spotify.com/artist/4a7E7K63Sc944CmiOgcxd8) | [Solid Harmonie](https://open.spotify.com/album/3AdywHtCpd76tYihaZzcUH) | 3:11 | 2024-01-29 |  |
 | [I'll Never Stop](https://open.spotify.com/track/4EAbAlO8QWzIpONNkUkOvC) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:26 | 2024-01-29 |  |

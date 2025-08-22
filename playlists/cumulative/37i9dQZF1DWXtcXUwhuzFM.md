@@ -4,7 +4,7 @@
 
 > Uutta musiikkia Vestalta, Sara Siipolalta, kialta, Zara Larssonilta ja monelta muulta!
 
-7,351 songs - 16 day 3 hr 51 min
+7,352 songs - 16 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1922,6 +1922,7 @@
 | [Fortunately](https://open.spotify.com/track/4OTD8iF9X2i16JWDSlw5Gr) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Fortunately](https://open.spotify.com/album/3QJSUqVg0WA4t8B2oqxlqc) | 3:44 | 2025-04-03 | 2025-04-11 |
 | [found it](https://open.spotify.com/track/6lchmOX0FsPGSjbvVf2oMA) | [Manda Malina](https://open.spotify.com/artist/4qjfNTFY3hqd68NDa5AGwx) | [found it](https://open.spotify.com/album/77CImaxPt7pIyiGMclE8Aw) | 2:48 | 2025-07-24 | 2025-08-01 |
 | [Found Somebody](https://open.spotify.com/track/7nCO9CGZ0Pf0DaKhg4wKNS) | [Birksie](https://open.spotify.com/artist/7DUFabyxhDm3mvjlWVMbg6) | [Found Somebody](https://open.spotify.com/album/1U0dtI74WIxuWZRLesfTvQ) | 3:01 | 2024-07-11 | 2024-07-19 |
+| [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-14 |  |
 | [Four Seasons](https://open.spotify.com/track/3iUCt4xatiVuBMOpkS5oR2) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [After Dark Hour](https://open.spotify.com/album/3no7lJncgCwPqPO4fdwUvb) | 3:54 | 2025-04-10 | 2025-04-18 |
 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 | 2025-08-07 | 2025-08-16 |
 | [Fragile Chapters](https://open.spotify.com/track/2NdqaD20oVijLNIqcnXSvN) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [0](https://open.spotify.com/album/36nq2kkO0XJrWppGX4N92S) | 4:48 | 2025-07-24 | 2025-08-01 |

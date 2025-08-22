@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Ochi Alvira
+> Dendang Dangdut teratas\. Cover: Mansyur S
 
-259 songs - 20 hr 33 min
+260 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Tak Halu Lagi](https://open.spotify.com/track/78u16742DkFCGnGjYXzgoH) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Tak Halu Lagi](https://open.spotify.com/album/1sknQvj8wY6k2dJJ0JIY3L) | 4:07 | 2025-07-31 |  |
 | [Tak Ikhlasno](https://open.spotify.com/track/4h8rT4tUL27KwIznPur58B) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Ikhlasno](https://open.spotify.com/album/2n0favF8lI3Tv4y8dIQBbY) | 4:31 | 2021-08-23 | 2023-02-17 |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5Qj0PtT0uCwEX3IuWiHLt9) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tak Lalekne Kowe](https://open.spotify.com/album/7Mrs9ngZquGRsZSkR1HIE7) | 5:41 | 2021-08-23 | 2023-09-15 |
+| [Tak Mungkin Air Matamu Jadi Air Susu](https://open.spotify.com/track/0MBr5As6Xf5fgkBuWM5QFM) | [Mansyur S](https://open.spotify.com/artist/4uq6QLz8nA9LAj01MDk58W) | [Tak Mungkin Air Matamu Jadi Air Susu](https://open.spotify.com/album/333nKK13Nz0N8cklmwJlLV) | 7:06 | 2025-08-21 |  |
 | [Tak Mungkin Kembali](https://open.spotify.com/track/3NCPT1Ll3BC2OiaCbYkwgz) | [Ikke Nurjanah](https://open.spotify.com/artist/14eVM8s1mDJhnC4etvhFNn) | [Tak Mungkin Kembali](https://open.spotify.com/album/0jO3LcdJTkucjLxGF3M0yx) | 5:20 | 2021-08-23 | 2024-02-16 |
 | [Tak Punya Hati](https://open.spotify.com/track/5GDPHPrTe5NwtQKKZASCT5) | [Cut Rani Auliza](https://open.spotify.com/artist/56MsGGbdOtGbcSoOKc5N7V) | [Tak Punya Hati](https://open.spotify.com/album/1s4YQT0dv9lhPJWjd3hA3s) | 5:46 | 2023-11-03 |  |
 | [Tanda Bahaya Cinta](https://open.spotify.com/track/6TfkcpYnZ8ZG8wMvW5rU4k) | [Jirayut](https://open.spotify.com/artist/1Iql7RUVcNTNZ1hlfhaKnd) | [Tanda Bahaya Cinta](https://open.spotify.com/album/44lB9hri6xlXug8Pt2TyW7) | 3:14 | 2024-10-31 |  |

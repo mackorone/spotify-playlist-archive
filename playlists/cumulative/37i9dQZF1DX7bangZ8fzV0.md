@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: Barto
+> Net die beste Afrikaanse musiek! Omslag: Bobby Van Jaarsveld
 
-322 songs - 17 hr 48 min
+323 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,8 +211,9 @@
 | [My Nannas](https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [My Nannas](https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc) | 3:17 | 2022-10-13 | 2024-07-19 |
 | [My Persoon](https://open.spotify.com/track/72X1334S3ENO1j1RnTvtzc) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H), [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [My Persoon](https://open.spotify.com/album/0x2D2KYd5jIzeffnnRgynF) | 3:32 | 2022-11-24 | 2022-12-24 |
 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 | 2021-11-08 | 2024-01-26 |
+| [Naam](https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr) | [ONS](https://open.spotify.com/artist/49NkWWXM4QGYMhiiZCCtNb) | [Naam](https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47) | 2:41 | 2025-08-21 |  |
 | [Naweek My Nou \(feat\. Loufi\)](https://open.spotify.com/track/3tu4zpsCPi3ME24Y1a3T2N) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Naweek My Nou \(feat\. Loufi\)](https://open.spotify.com/album/4D6oXces9lMf86k9ytJahz) | 2:53 | 2025-04-17 | 2025-07-04 |
-| [Nee Buffel](https://open.spotify.com/track/0ZPA1pwIkDnddmLsIERSum) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Nee Buffel](https://open.spotify.com/album/5uo9GCA8DZTZYSKDXiBY25) | 3:18 | 2025-07-03 |  |
+| [Nee Buffel](https://open.spotify.com/track/0ZPA1pwIkDnddmLsIERSum) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Nee Buffel](https://open.spotify.com/album/5uo9GCA8DZTZYSKDXiBY25) | 3:18 | 2025-07-03 | 2025-08-22 |
 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 | 2024-04-12 |
 | [Neem My Op Vlerke \- SENSASIE Remix](https://open.spotify.com/track/5d759QCP2C5N2jsFYb79HO) | [Anneli Van Rooyen](https://open.spotify.com/artist/6a7yFEdaUPfs8WpUQI4zfK), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Neem My Op Vlerke \(SENSASIE Remix\)](https://open.spotify.com/album/0FFaZbNOjCRU9oJLWfcAPW) | 3:22 | 2024-01-25 | 2024-10-11 |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |

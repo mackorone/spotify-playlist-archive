@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: MOIO",
+  "description": "Discover your new favourite artists from UK&IE. Cover: chi",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -2888,6 +2888,24 @@
       "duration_ms": 202000,
       "name": "Leave",
       "url": "https://open.spotify.com/track/1Kl3kOLzU3ONc5bTEuO7rj"
+    },
+    {
+      "album": {
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/2SOY7ASK4wU3ecJTPBTT44"
+      },
+      "artists": [
+        {
+          "name": "chi",
+          "url": "https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162370,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/3pWAykbBhuG4Qxp3aQiKpq"
     },
     {
       "album": {

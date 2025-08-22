@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSRhcVioua5c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSRhcVioua5c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSRhcVioua5c)
 
-### [Folclore Romántico ](https://open.spotify.com/playlist/37i9dQZF1DWSRhcVioua5c)
+### [Folklore Romántico ](https://open.spotify.com/playlist/37i9dQZF1DWSRhcVioua5c)
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 

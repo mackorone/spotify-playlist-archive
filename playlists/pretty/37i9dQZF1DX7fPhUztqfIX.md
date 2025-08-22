@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,033 likes - 74 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,093 likes - 74 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 73 | [King of Hope \- Live](https://open.spotify.com/track/2XM16UZkkpJXSdEyQr2vUC) | [Gas Street Music](https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG), [Michael Shannon](https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc) | [Adonai \(Live\)](https://open.spotify.com/album/5YXQ5nfIxN1jy7PDi9AGHk) | 5:04 |
 | 74 | [Glory Be \- Acoustic](https://open.spotify.com/track/4F0SDoKbTKQG446AWA6J8a) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [A New Reality \(Acoustic Sessions\)](https://open.spotify.com/album/2tdPcucc4eSnM7PbDcFEam) | 4:35 |
 
-Snapshot ID: `AAAAAAnaeuXvOAqnKmfv/e74W2eA5uu1`
+Snapshot ID: `AAAAAG+mKQ7sAuBnes9SnWwWBXyb3qZ+`

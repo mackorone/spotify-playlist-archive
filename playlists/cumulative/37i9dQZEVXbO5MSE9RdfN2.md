@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,942 songs - 4 day 7 hr 40 min
+1,944 songs - 4 day 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [A Complicated Truth](https://open.spotify.com/track/1Q6fTtA4xCAbqQr5U54bG2) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/5n1BwgJrmwAUKYNbg7RzFr) | 5:05 | 2024-09-08 | 2024-09-18 |
 | [A Complicated Truth](https://open.spotify.com/track/3geEHzsLiZmZov9CrCNaC9) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [A Complicated Truth](https://open.spotify.com/album/6gyGYKNbwVvvQR8catUo07) | 5:05 | 2024-09-07 | 2024-09-09 |
 | [A Complicated Truth](https://open.spotify.com/track/5aGDfRq5WecvusAoT9HY4G) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/1iHEMKyzqipuRw2BPuB2NH) | 5:05 | 2024-09-09 | 2024-09-19 |
-| [a good man with a broken heart](https://open.spotify.com/track/2JvU5ShUHIDgaRB2liXZfs) | [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [a good man with a broken heart](https://open.spotify.com/album/3kxkF527EE0sDV8ftKEibJ) | 1:58 | 2025-08-11 |  |
+| [a good man with a broken heart](https://open.spotify.com/track/2Is9PgrKMBJQscOjiAX1QB) | [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [a good man with a broken heart](https://open.spotify.com/album/4FmPiLYrJvNFbpSMpWA7Eg) | 1:58 | 2025-08-21 |  |
+| [a good man with a broken heart](https://open.spotify.com/track/2JvU5ShUHIDgaRB2liXZfs) | [LoVibe.](https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc) | [a good man with a broken heart](https://open.spotify.com/album/3kxkF527EE0sDV8ftKEibJ) | 1:58 | 2025-08-11 | 2025-08-22 |
 | [A Guy Called?](https://open.spotify.com/track/0d2Twch3UzAIY8yePbkAzz) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [A Guy Called?](https://open.spotify.com/album/4vofNXHWQG98auHmbZ4KSG) | 2:29 | 2025-02-11 | 2025-02-23 |
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-28 | 2024-08-28 |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-02-09 | 2024-02-22 |
@@ -1190,7 +1191,7 @@
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-09-30 | 2024-10-02 |
 | [New Jeans \- Jersey Club \- Slowed Down](https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5) | [Dxrkaii](https://open.spotify.com/artist/4iApnomXD1KyVGCc2eDmlX), [Jiandro](https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re) | [New Jeans \(Jersey Club \- Remixes\)](https://open.spotify.com/album/1syclG2meQ0loNB48TaQb3) | 1:49 | 2025-01-28 | 2025-02-11 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-09-03 | 2024-09-11 |
-| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-17 |  |
+| [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-06-17 | 2025-08-22 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-26 | 2024-12-03 |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2024-10-21 | 2024-10-27 |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-06-24 | 2024-07-17 |
@@ -1426,6 +1427,7 @@
 | [Sahiba](https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Sahiba](https://open.spotify.com/album/250nGZusEhq33ZIZYJ7eVb) | 3:10 | 2025-07-13 | 2025-07-26 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-13 | 2024-09-26 |
 | [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2024-09-25 | 2024-12-25 |
+| [Sailor Song](https://open.spotify.com/track/5gyCGvqqz7KUlDPzlSw7HX) | [Manil](https://open.spotify.com/artist/1ZattA8w6JrHloEUCU2oNl) | [Sailor Song](https://open.spotify.com/album/1ynNasvq11j2tk9hnVNJx6) | 3:36 | 2025-08-21 |  |
 | [Saiyaara \(From "Saiyaara"\)](https://open.spotify.com/track/1D35BJlymlh6OLD75WupSF) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Arslan Nizami](https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Saiyaara \(From "Saiyaara"\)](https://open.spotify.com/album/3ETAyPs1TjEcYIpCbYwEbk) | 6:10 | 2025-07-24 | 2025-08-20 |
 | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6) | 2:50 | 2024-05-20 | 2024-06-01 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-03-04 | 2025-04-20 |

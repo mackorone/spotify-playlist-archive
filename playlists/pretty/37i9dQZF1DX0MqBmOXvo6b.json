@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 427958,
+  "num_followers": 427983,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
+        "name": "Veloura",
+        "url": "https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG"
+      },
+      "artists": [
+        {
+          "name": "Waylen Orson",
+          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
+        }
+      ],
+      "duration_ms": 146718,
+      "name": "Veloura",
+      "url": "https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
         "name": "Alder",
         "url": "https://open.spotify.com/album/6uW1dHFYMcBynJexmoRdBl"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 135867,
       "name": "Across The Bridge",
       "url": "https://open.spotify.com/track/6YHLnbJJVoFbgHrkzlSI0d"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Veloura",
-        "url": "https://open.spotify.com/album/18pNyU9wkPCB0P4AuTmIvG"
-      },
-      "artists": [
-        {
-          "name": "Waylen Orson",
-          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
-        }
-      ],
-      "duration_ms": 146718,
-      "name": "Veloura",
-      "url": "https://open.spotify.com/track/3LkQZrx4ozjCE1RxHON6Bc"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Just Like the Movies",
-        "url": "https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl"
-      },
-      "artists": [
-        {
-          "name": "J. Alke",
-          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
-        }
-      ],
-      "duration_ms": 127497,
-      "name": "Just Like the Movies",
-      "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Still Learning",
         "url": "https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F"
       },
@@ -423,6 +407,38 @@
       "duration_ms": 142102,
       "name": "Still Learning",
       "url": "https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Even So",
+        "url": "https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU"
+      },
+      "artists": [
+        {
+          "name": "Naskal",
+          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
+        }
+      ],
+      "duration_ms": 150569,
+      "name": "Even So",
+      "url": "https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Just Like the Movies",
+        "url": "https://open.spotify.com/album/2wICyNzRtzx3QZg21JY4kl"
+      },
+      "artists": [
+        {
+          "name": "J. Alke",
+          "url": "https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC"
+        }
+      ],
+      "duration_ms": 127497,
+      "name": "Just Like the Movies",
+      "url": "https://open.spotify.com/track/3x1Eo1XG7K3OdIIVaB7lsS"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -455,22 +471,6 @@
       "duration_ms": 131349,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4EKiAvYFtffr5BaRk7Uf49"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Even So",
-        "url": "https://open.spotify.com/album/3yB40PziBfQh2P1XfpBkrU"
-      },
-      "artists": [
-        {
-          "name": "Naskal",
-          "url": "https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2"
-        }
-      ],
-      "duration_ms": 150569,
-      "name": "Even So",
-      "url": "https://open.spotify.com/track/6pZ2qQUbm6p8sBwx2gHKWk"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
+        "name": "Lost in your light",
+        "url": "https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa"
+      },
+      "artists": [
+        {
+          "name": "Anton Lindholm",
+          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
+        }
+      ],
+      "duration_ms": 150183,
+      "name": "Lost in your light",
+      "url": "https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
         "name": "somewhere else, together",
         "url": "https://open.spotify.com/album/1qLrUd6oXUZoNGZAVY8mDX"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 147639,
       "name": "Ing\u00e9nue",
       "url": "https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Lost in your light",
-        "url": "https://open.spotify.com/album/4OGR54PPjoNCX3HzqXfYNa"
-      },
-      "artists": [
-        {
-          "name": "Anton Lindholm",
-          "url": "https://open.spotify.com/artist/3ZuH0PIvMsQwFwr76OrdnP"
-        }
-      ],
-      "duration_ms": 150183,
-      "name": "Lost in your light",
-      "url": "https://open.spotify.com/track/03WCxjmI3kGMf4UPMVcFHp"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Campania",
-        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
-      },
-      "artists": [
-        {
-          "name": "Gilded Reverie",
-          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
-        }
-      ],
-      "duration_ms": 141014,
-      "name": "Campania",
-      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Find The Light Behind The Clouds",
         "url": "https://open.spotify.com/album/3nfBykXL4VSjn141KAOKQq"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 139884,
       "name": "Find The Light Behind The Clouds",
       "url": "https://open.spotify.com/track/6lO855y2athPU69GEgmFnV"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Campania",
+        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
+      },
+      "artists": [
+        {
+          "name": "Gilded Reverie",
+          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
+        }
+      ],
+      "duration_ms": 141014,
+      "name": "Campania",
+      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
+        "name": "From a Distance",
+        "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
+      },
+      "artists": [
+        {
+          "name": "Mindy Thurma",
+          "url": "https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui"
+        }
+      ],
+      "duration_ms": 147348,
+      "name": "From a Distance",
+      "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
         "name": "Making peace",
         "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "It Rained Last Night",
-        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "It Rained Last Night",
-      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Bird of Passage",
         "url": "https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 127313,
       "name": "Bird of Passage",
       "url": "https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "It Rained Last Night",
+        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "It Rained Last Night",
+      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1063,22 +1079,6 @@
       "duration_ms": 192000,
       "name": "Daffodils",
       "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "From a Distance",
-        "url": "https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa"
-      },
-      "artists": [
-        {
-          "name": "Mindy Thurma",
-          "url": "https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui"
-        }
-      ],
-      "duration_ms": 147348,
-      "name": "From a Distance",
-      "url": "https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Landet",
-        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 126760,
-      "name": "Landet",
-      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Little Boy",
         "url": "https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 122000,
       "name": "Little Boy",
       "url": "https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Landet",
+        "url": "https://open.spotify.com/album/0whaUwPWTCKgt5bAINrKK9"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 126760,
+      "name": "Landet",
+      "url": "https://open.spotify.com/track/7vgbGR4vZNm97c6VTaovkG"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "The Opening",
-        "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
-      },
-      "artists": [
-        {
-          "name": "M\u00f3ret Labino",
-          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
-        }
-      ],
-      "duration_ms": 140558,
-      "name": "The Opening",
-      "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Reiu",
         "url": "https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu"
       },
@@ -1291,18 +1275,50 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+        "name": "The Opening",
+        "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
       },
       "artists": [
         {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
         }
       ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
+      "duration_ms": 140558,
+      "name": "The Opening",
+      "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/49YyZgXdyepJ30xVYIqOiV"
+      },
+      "artists": [
+        {
+          "name": "Myles Dale",
+          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
+        }
+      ],
+      "duration_ms": 145602,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/1RYyyfkC5oiqpAubtkc6k2"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "duration_ms": 141045,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1319,6 +1335,22 @@
       "duration_ms": 174471,
       "name": "Amenable",
       "url": "https://open.spotify.com/track/45hCCandEc5IGL5p6rUy7g"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1415,38 +1447,6 @@
       "duration_ms": 157347,
       "name": "Deep Blue",
       "url": "https://open.spotify.com/track/2qmKMYVvHxOQqW0GbMr5VR"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/49YyZgXdyepJ30xVYIqOiV"
-      },
-      "artists": [
-        {
-          "name": "Myles Dale",
-          "url": "https://open.spotify.com/artist/3Q7czp0WDDlH4Z1Zt8yWKG"
-        }
-      ],
-      "duration_ms": 145602,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/1RYyyfkC5oiqpAubtkc6k2"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/4qtTth2FVrTn0vOxyMHd64"
-      },
-      "artists": [
-        {
-          "name": "Henry Flower",
-          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
-        }
-      ],
-      "duration_ms": 141045,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/1bVd2VtJpXWVOMDYnathl2"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Melancholy",
-        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
-      },
-      "artists": [
-        {
-          "name": "Les Moray",
-          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
-        }
-      ],
-      "duration_ms": 214630,
-      "name": "Melancholy",
-      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Apr\u00e8s Tout",
         "url": "https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3"
       },
@@ -1611,6 +1595,22 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "duration_ms": 214630,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
         "name": "Only Illusions",
         "url": "https://open.spotify.com/album/0UPSh5J1QGnWPWeB7WIh3B"
       },
@@ -1623,22 +1623,6 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Br\u00fblante",
-        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
-      },
-      "artists": [
-        {
-          "name": "Lucien Valli\u00e8re",
-          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
-        }
-      ],
-      "duration_ms": 144434,
-      "name": "Br\u00fblante",
-      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Fleur De Vie",
-        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
+        "name": "Br\u00fblante",
+        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
       },
       "artists": [
         {
-          "name": "Jonas Bergsson",
-          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
+          "name": "Lucien Valli\u00e8re",
+          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
         }
       ],
-      "duration_ms": 176717,
-      "name": "Fleur De Vie",
-      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
+      "duration_ms": 144434,
+      "name": "Br\u00fblante",
+      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Forever Yours",
-        "url": "https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN"
+        "name": "Fleur De Vie",
+        "url": "https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9"
       },
       "artists": [
         {
-          "name": "Lyvia Northman",
-          "url": "https://open.spotify.com/artist/5UlShaxI9lS8FdpD4esXvh"
+          "name": "Jonas Bergsson",
+          "url": "https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ"
         }
       ],
-      "duration_ms": 142105,
-      "name": "Forever Yours",
-      "url": "https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD"
+      "duration_ms": 176717,
+      "name": "Fleur De Vie",
+      "url": "https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1735,6 +1719,22 @@
       "duration_ms": 199522,
       "name": "Noapte",
       "url": "https://open.spotify.com/track/6vvJ1z8ddlyIUbULIR5hFq"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/373hZdOKeVNCwLsi7VZRJN"
+      },
+      "artists": [
+        {
+          "name": "Lyvia Northman",
+          "url": "https://open.spotify.com/artist/5UlShaxI9lS8FdpD4esXvh"
+        }
+      ],
+      "duration_ms": 142105,
+      "name": "Forever Yours",
+      "url": "https://open.spotify.com/track/2Fa4HWhnE7oiWdiHnjv3aD"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1783,6 +1783,22 @@
       "duration_ms": 187200,
       "name": "Tranquil Landscape",
       "url": "https://open.spotify.com/track/6oODbMYfHjqWHTZp3wMheG"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Lonely Lights",
+        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
+      },
+      "artists": [
+        {
+          "name": "Into the Harmonies",
+          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Lonely Lights",
+      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Interim",
-        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
-      },
-      "artists": [
-        {
-          "name": "Nino Carl",
-          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
-        }
-      ],
-      "duration_ms": 139124,
-      "name": "Interim",
-      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Southern Air",
         "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
       },
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
+        "name": "Interim",
+        "url": "https://open.spotify.com/album/1P6PbFhwgTaXXjsl9H6Nh0"
       },
       "artists": [
         {
-          "name": "Rory Lewis",
-          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+          "name": "Nino Carl",
+          "url": "https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2"
         }
       ],
-      "duration_ms": 140592,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
+      "duration_ms": 139124,
+      "name": "Interim",
+      "url": "https://open.spotify.com/track/60CfZTCT1iHQdnjNrnvpZP"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1927,6 +1927,22 @@
       "duration_ms": 144291,
       "name": "Fireside",
       "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
+      },
+      "artists": [
+        {
+          "name": "Rory Lewis",
+          "url": "https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA"
+        }
+      ],
+      "duration_ms": 140592,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -1963,22 +1979,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Stigen",
-        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
-      },
-      "artists": [
-        {
-          "name": "Carl Sture",
-          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
-        }
-      ],
-      "duration_ms": 174905,
-      "name": "Stigen",
-      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Rowan",
         "url": "https://open.spotify.com/album/2hhg6pdR80dNaSL421A7sw"
       },
@@ -1991,6 +1991,22 @@
       "duration_ms": 168333,
       "name": "Rowan",
       "url": "https://open.spotify.com/track/2Kc5LcEp1QG3tCTI4Bi21n"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Stigen",
+        "url": "https://open.spotify.com/album/5CnR7KZSqePtcSbHuAQkX0"
+      },
+      "artists": [
+        {
+          "name": "Carl Sture",
+          "url": "https://open.spotify.com/artist/71XFcbr4HdMBCGe6uTfsvQ"
+        }
+      ],
+      "duration_ms": 174905,
+      "name": "Stigen",
+      "url": "https://open.spotify.com/track/5XE7UW7R8zolee4CMLfIPr"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2059,22 +2075,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Red Ridge Road",
-        "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
-      },
-      "artists": [
-        {
-          "name": "Alfons Daiminger",
-          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
-        }
-      ],
-      "duration_ms": 163514,
-      "name": "Red Ridge Road",
-      "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Une rivi\u00e8re silencieuse",
         "url": "https://open.spotify.com/album/0pC9sTOjPYLUIJ2yGDpmU0"
       },
@@ -2087,6 +2087,22 @@
       "duration_ms": 145333,
       "name": "Une rivi\u00e8re silencieuse",
       "url": "https://open.spotify.com/track/2hw2nzCP6601cnB8VMgvkO"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Red Ridge Road",
+        "url": "https://open.spotify.com/album/3v0jNmPIt6mj7vRB2H1umM"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "duration_ms": 163514,
+      "name": "Red Ridge Road",
+      "url": "https://open.spotify.com/track/2BNF35bgujUs1KtGl5Xww0"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2151,6 +2167,22 @@
       "duration_ms": 207219,
       "name": "Affection",
       "url": "https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Motian",
+        "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "duration_ms": 164588,
+      "name": "Motian",
+      "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2251,22 +2283,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Motian",
-        "url": "https://open.spotify.com/album/3TYbUe8YQXclwpn5JZ4xIs"
-      },
-      "artists": [
-        {
-          "name": "Linior",
-          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
-        }
-      ],
-      "duration_ms": 164588,
-      "name": "Motian",
-      "url": "https://open.spotify.com/track/5lmgIDksEoi9vVf0jzcaTs"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Across the Currents",
         "url": "https://open.spotify.com/album/1UhCCqxjYG9UmeaQTFYQvz"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 123818,
       "name": "Across the Currents",
       "url": "https://open.spotify.com/track/3s3XZbyompgwb7NXKKKsH8"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Antique Clock",
-        "url": "https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB"
-      },
-      "artists": [
-        {
-          "name": "Vox Pacis",
-          "url": "https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Antique Clock",
-      "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2331,18 +2331,18 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Emanate",
-        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+        "name": "Antique Clock",
+        "url": "https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB"
       },
       "artists": [
         {
-          "name": "Aldo Talete",
-          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+          "name": "Vox Pacis",
+          "url": "https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z"
         }
       ],
-      "duration_ms": 179281,
-      "name": "Emanate",
-      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+      "duration_ms": 140190,
+      "name": "Antique Clock",
+      "url": "https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2359,6 +2359,22 @@
       "duration_ms": 148985,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Emanate",
+        "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
+      },
+      "artists": [
+        {
+          "name": "Aldo Talete",
+          "url": "https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W"
+        }
+      ],
+      "duration_ms": 179281,
+      "name": "Emanate",
+      "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2427,6 +2443,22 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
+        "name": "The Magic of a Piano",
+        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "duration_ms": 167844,
+      "name": "The Magic of a Piano",
+      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
         "name": "Troms\u00f8",
         "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
       },
@@ -2443,18 +2475,18 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "The Magic of a Piano",
-        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+        "name": "Fanciful",
+        "url": "https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV"
       },
       "artists": [
         {
-          "name": "Pederosa Calafiori",
-          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+          "name": "Oscar O'Keefe",
+          "url": "https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR"
         }
       ],
-      "duration_ms": 167844,
-      "name": "The Magic of a Piano",
-      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
+      "duration_ms": 139696,
+      "name": "Fanciful",
+      "url": "https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2487,22 +2519,6 @@
       "duration_ms": 131583,
       "name": "Ocean Breeze",
       "url": "https://open.spotify.com/track/5BcDE6YlRZ9k078nzlxRie"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
-        "name": "Fanciful",
-        "url": "https://open.spotify.com/album/4yF3b9tkhhDHLGkpfL6HXV"
-      },
-      "artists": [
-        {
-          "name": "Oscar O'Keefe",
-          "url": "https://open.spotify.com/artist/19nC7hEB44GQsl6TaE7fIR"
-        }
-      ],
-      "duration_ms": 139696,
-      "name": "Fanciful",
-      "url": "https://open.spotify.com/track/0I3Rxri1PbEnBZVol9NY1B"
     },
     {
       "added_at": "2025-08-19 08:58:01",
@@ -2619,22 +2635,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Lonely Lights",
-        "url": "https://open.spotify.com/album/7zERRdz6JnH1qndyc2KExU"
-      },
-      "artists": [
-        {
-          "name": "Into the Harmonies",
-          "url": "https://open.spotify.com/artist/0h9mxC7EOuxD8SzNMiqZ2h"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "Lonely Lights",
-      "url": "https://open.spotify.com/track/06W2idQQI9nToYkue7MSVw"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Valentina",
         "url": "https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW"
       },
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Minor Fable",
-        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
-      },
-      "artists": [
-        {
-          "name": "Luis Berra",
-          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
-        }
-      ],
-      "duration_ms": 121308,
-      "name": "Minor Fable",
-      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Ruby Clouds",
         "url": "https://open.spotify.com/album/7zXIOxPR42WvoEnVfnT4dM"
       },
@@ -2699,22 +2683,6 @@
     {
       "added_at": "2025-08-19 08:58:01",
       "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD"
-      },
-      "artists": [
-        {
-          "name": "Oscar Mallen",
-          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb"
-    },
-    {
-      "added_at": "2025-08-19 08:58:01",
-      "album": {
         "name": "Armonia",
         "url": "https://open.spotify.com/album/6AQymVdiw5JbFH9GU6P1oG"
       },
@@ -2727,6 +2695,38 @@
       "duration_ms": 180830,
       "name": "Armonia",
       "url": "https://open.spotify.com/track/7twgqnezfkPggDImVdAdfT"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Minor Fable",
+        "url": "https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC"
+      },
+      "artists": [
+        {
+          "name": "Luis Berra",
+          "url": "https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk"
+        }
+      ],
+      "duration_ms": 121308,
+      "name": "Minor Fable",
+      "url": "https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc"
+    },
+    {
+      "added_at": "2025-08-19 08:58:01",
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/4pKg8wGdu05SMyu7FpvNjD"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/3Ww0Guhe9loz9l2L1kZGWb"
     }
   ],
   "unique_name": "Concentraci\u00f3n Perfecta",

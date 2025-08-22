@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-206 songs - 10 hr 6 min
+207 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Black & Blue \- BLK RSE Remix](https://open.spotify.com/track/0kC1G3OmKcJ20D5F9H508Z) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Black & Blue \(BLK RSE Remix\)](https://open.spotify.com/album/2Nc36zhlxoObHqvzDStdMp) | 2:52 | 2025-07-04 |  |
 | [Blinded by Flashing Lights](https://open.spotify.com/track/5wtUh09o65cMwokEiIY1pb) | [YPhor.ia](https://open.spotify.com/artist/7MvldFUr8THcRr14t9belG), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Blinded by Flashing Lights](https://open.spotify.com/album/3bgrlM2n8hgr7PoxuVY29K) | 2:49 | 2025-07-04 |  |
 | [Blow The Speakers](https://open.spotify.com/track/3qbqvbfHDtu3nvRFBpnfZB) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Blow The Speakers](https://open.spotify.com/album/6gKOvFcZaVixudwxDSsfYb) | 2:43 | 2025-07-04 |  |
+| [BOOM WAVE](https://open.spotify.com/track/2J5oCtJWZ44br5u3uS657f) | [Kohey](https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx), [AVY](https://open.spotify.com/artist/2oGlEGX1R82pjwdo8ZXEts), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [BOOM WAVE](https://open.spotify.com/album/0QJsTXNrsZqrAtCEXkmNP5) | 2:30 | 2025-08-21 |  |
 | [Booty](https://open.spotify.com/track/0sStFnqXXLMfS1z8FaXyCz) | [Vaibhav Nagare](https://open.spotify.com/artist/0cH9NkVLSlkxmTB0Vw64pg), [STRBLAST](https://open.spotify.com/artist/7waCeZR7phX8e6XMbijhiT), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Booty](https://open.spotify.com/album/6O6bSwqlo49uyVJXUvmuTw) | 2:02 | 2025-07-04 |  |
 | [Booyah](https://open.spotify.com/track/55SPQmrp0XawJSbBtPelaA) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5ci6vrfvJcqiaMGtgatm4o) | 5:11 | 2025-07-04 |  |
 | [Break The Alarm](https://open.spotify.com/track/4CsBE8Y9unQJgoe6lEbFUc) | [Anton By](https://open.spotify.com/artist/0mJySQY1eyiUUWAObnlxyo), [AV](https://open.spotify.com/artist/3fnqw26wyOPyO9ov4gWaoa) | [Break The Alarm](https://open.spotify.com/album/1zUoqORy2ljxATOrhQJkTV) | 2:38 | 2025-07-04 |  |

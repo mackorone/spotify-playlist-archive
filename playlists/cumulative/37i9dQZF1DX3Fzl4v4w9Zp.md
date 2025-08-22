@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Charley Crockett
 
-839 songs - 2 day 3 hr 37 min
+840 songs - 2 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,6 +696,7 @@
 | [Talkin' to Myself](https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Talkin' to Myself](https://open.spotify.com/album/6kiT74gcWiUjW5VefQeknP) | 2:46 | 2021-12-17 | 2022-07-23 |
 | [Te Amo](https://open.spotify.com/track/20k4xjW04YB2MnvlPGgsya) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Something Is Working Up Above My Head](https://open.spotify.com/album/05eCc4XHbGhZ8jhVbQYnoX) | 3:09 | 2024-09-06 |  |
 | [Tehachapi](https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:07 | 2021-12-17 | 2023-04-01 |
+| [Tennessee](https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE) | [The Creekers](https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i) | [River Rat](https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z) | 3:51 | 2025-08-20 |  |
 | [Tennessee Quick Cash](https://open.spotify.com/track/7zx68cuwvzYVwUl7cyIAXD) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Dollar A Day](https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd) | 4:12 | 2025-08-08 |  |
 | [Tequila or Whiskey](https://open.spotify.com/track/6O2a8YfuHdfXrdGUvgzjJc) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Tequila or Whiskey](https://open.spotify.com/album/0XBrVw8ciKPQK2IIcLWexj) | 2:13 | 2024-06-28 |  |
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2021-12-17 | 2022-11-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Asco",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kairo Keyz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "NEW JAZZ",
+        "url": "https://open.spotify.com/album/4UMKEelam5Aya2uDs6CmAo"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114008,
+      "name": "3AM IN SOUTH",
+      "url": "https://open.spotify.com/track/4BSuRFnxC537ZEQICGhewt"
+    },
+    {
+      "album": {
         "name": "36 Hours",
         "url": "https://open.spotify.com/album/6SQj6gs15aBIcIYzTCQQVF"
       },
@@ -1950,6 +1968,24 @@
       "duration_ms": 196363,
       "name": "Ain't It Different (feat. AJ Tracey & Stormzy)",
       "url": "https://open.spotify.com/track/6NJfIydBMYrXvlaXsFxmc8"
+    },
+    {
+      "album": {
+        "name": "Ain't Just Rap",
+        "url": "https://open.spotify.com/album/6RPBFtxe77YPwCqncfJ2HX"
+      },
+      "artists": [
+        {
+          "name": "Kenzo Str8Drop",
+          "url": "https://open.spotify.com/artist/4VjhEOxeofC025Or5TsoHh"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "Ain't Just Rap",
+      "url": "https://open.spotify.com/track/01OTFzbaxLMV0WLLjiFC0c"
     },
     {
       "album": {
@@ -12024,7 +12060,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 174883,
       "name": "Dora",
       "url": "https://open.spotify.com/track/5J8qRGndsol8SHNKFTaAB7"
@@ -16235,6 +16271,24 @@
     },
     {
       "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/28jHjgKv4F7mhlGNlec7Is"
+      },
+      "artists": [
+        {
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173465,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/4HKk0rmGoDBKqCpvvqaFdK"
+    },
+    {
+      "album": {
         "name": "Glidin\u2019 (feat. slowthai)",
         "url": "https://open.spotify.com/album/0DwjDbtMXpRYzO3HXTuzmu"
       },
@@ -18400,7 +18454,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 248586,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/70bb572cerUzxcqoIBBC3O"
@@ -27356,6 +27410,24 @@
     {
       "album": {
         "name": "No Comment",
+        "url": "https://open.spotify.com/album/7lJucfUoSX4vCCDAa0Nyss"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "No Comment",
+      "url": "https://open.spotify.com/track/16YfvpZgzzdxzrulTpIwvB"
+    },
+    {
+      "album": {
+        "name": "No Comment",
         "url": "https://open.spotify.com/album/2cCNrif2FGWQWPSKnZ68gD"
       },
       "artists": [
@@ -29764,7 +29836,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 153157,
       "name": "Parallel Theory",
       "url": "https://open.spotify.com/track/7EbVljFfllSujOoGNA2Ayh"
@@ -29782,7 +29854,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 148363,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/5rebTnhmJdUofSxRhd32M0"

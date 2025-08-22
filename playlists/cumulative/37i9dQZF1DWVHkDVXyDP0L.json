@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: WAAX",
+  "description": "New and local indie noise. Cover: Le Shiv",
   "name": "Local Noise",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 202812,
       "name": "100% PURE POISON",
       "url": "https://open.spotify.com/track/0hm17IdBc4UM0pUuph3lmV"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 150577,
       "name": "149",
       "url": "https://open.spotify.com/track/2IuIgcXrJoxcJwgOIA57cY"
@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/5hn307vdC7XpvtTPuF0QJr"
+      },
+      "artists": [
+        {
+          "name": "Polly",
+          "url": "https://open.spotify.com/artist/35oynIp89cQF1qjOZTRWkq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236935,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4bsp96mZsE7nztuh2IATmt"
+    },
+    {
+      "album": {
         "name": "All the Noise",
         "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
       },
@@ -780,7 +798,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 176895,
       "name": "Bad Bets",
       "url": "https://open.spotify.com/track/55F9AaPqKYRW81eJp4ZKmh"
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 175529,
       "name": "Che Guevara T-Shirt",
       "url": "https://open.spotify.com/track/447CJp5XoK2xz8A21mu6Dt"
@@ -1850,6 +1868,24 @@
       "duration_ms": 200240,
       "name": "Chewing Gum",
       "url": "https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg"
+    },
+    {
+      "album": {
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/1K6ZzE8Vj6GS9a5X8DpNil"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214854,
+      "name": "Chinese Restaurant",
+      "url": "https://open.spotify.com/track/1NE4ZL6zTXtAD8Wr85MQJl"
     },
     {
       "album": {
@@ -1972,7 +2008,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 157086,
       "name": "Clover",
       "url": "https://open.spotify.com/track/3fjhggzP3OIeNN1G7ZRrBR"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 246442,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj"
@@ -2339,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Cycles",
+        "url": "https://open.spotify.com/album/0Nb3SSLSOtPZ0PkzDplkVQ"
+      },
+      "artists": [
+        {
+          "name": "Coast Arcade",
+          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201914,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/3KKHYpCHlAdupdeR9msk2w"
+    },
+    {
+      "album": {
         "name": "DASHCAM",
         "url": "https://open.spotify.com/album/5N5vD4TfyBR3H2BjlebNmH"
       },
@@ -2451,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "INFINITE HIGHS, END OF TIMES",
+        "url": "https://open.spotify.com/album/1rPssyCdLdC9UwGVLB5f6j"
+      },
+      "artists": [
+        {
+          "name": "RAGEFLOWER",
+          "url": "https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143497,
+      "name": "DESK JOB",
+      "url": "https://open.spotify.com/track/3fkO4mY8kjtfyTWvhTt7UJ"
+    },
+    {
+      "album": {
         "name": "Devil",
         "url": "https://open.spotify.com/album/4DQqDT5odtbtmoWkxzLy6L"
       },
@@ -2559,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Don't Break",
+        "url": "https://open.spotify.com/album/0unni3XCvwifZadaWbBoRt"
+      },
+      "artists": [
+        {
+          "name": "Le Shiv",
+          "url": "https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157966,
+      "name": "Don't Break",
+      "url": "https://open.spotify.com/track/2iQ5z7hip59FJsSuAL3P6p"
+    },
+    {
+      "album": {
         "name": "Don't Care",
         "url": "https://open.spotify.com/album/4EEUZ1QYyaF2pEx9wFb43V"
       },
@@ -2610,7 +2700,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 161511,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/73UXAcJFFg7njuZahPub9u"
@@ -2718,7 +2808,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 143553,
       "name": "Don't Wanna Know",
       "url": "https://open.spotify.com/track/5613sZfzzrgTfBhYAnkQUF"
@@ -2852,7 +2942,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 191586,
       "name": "Dust On My Brain",
       "url": "https://open.spotify.com/track/5E9l77EjYGfMEQvjCDc1qX"
@@ -2910,6 +3000,24 @@
       "duration_ms": 248061,
       "name": "eleveneleven - short",
       "url": "https://open.spotify.com/track/6ouZRw6LHIVWtxs44QNazP"
+    },
+    {
+      "album": {
+        "name": "Empires (Sometimes We Fall)",
+        "url": "https://open.spotify.com/album/7h3E85UBeQeR2idgd8MfYC"
+      },
+      "artists": [
+        {
+          "name": "The Saints",
+          "url": "https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355333,
+      "name": "Empires (Sometimes We Fall)",
+      "url": "https://open.spotify.com/track/0lF8sAqlDbWyhpkkkCplqj"
     },
     {
       "album": {
@@ -4069,6 +4177,28 @@
     },
     {
       "album": {
+        "name": "Harder Man",
+        "url": "https://open.spotify.com/album/7w2lC3Qv74FU3Jvk8IU3XX"
+      },
+      "artists": [
+        {
+          "name": "Full Flower Moon Band",
+          "url": "https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4"
+        },
+        {
+          "name": "Nicholas Allbrook",
+          "url": "https://open.spotify.com/artist/0fXNL948r9cbGsA6ZSwg6L"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162132,
+      "name": "Harder Man",
+      "url": "https://open.spotify.com/track/5SVYj74Qb91h8WHlgnpk24"
+    },
+    {
+      "album": {
         "name": "Stagger",
         "url": "https://open.spotify.com/album/3QkVC45XePZKagIs28ALE8"
       },
@@ -4196,6 +4326,24 @@
       "duration_ms": 164939,
       "name": "HEXXX",
       "url": "https://open.spotify.com/track/35mKxj7YpsYK4S2QZUKGP6"
+    },
+    {
+      "album": {
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/2Pc6Rp4Z3XZNBKehRu9ge2"
+      },
+      "artists": [
+        {
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211313,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
       "album": {
@@ -4754,7 +4902,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 229222,
       "name": "I Only Trust Rock n Roll",
       "url": "https://open.spotify.com/track/5VoHoMJWXHDEx4PRs8KMmf"
@@ -4830,6 +4978,24 @@
       "duration_ms": 204661,
       "name": "IDENTITY",
       "url": "https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV"
+    },
+    {
+      "album": {
+        "name": "Idiot",
+        "url": "https://open.spotify.com/album/7h25f5sdZnvWLs0DsdKV7O"
+      },
+      "artists": [
+        {
+          "name": "The Tullamarines",
+          "url": "https://open.spotify.com/artist/4XD21vbRKQgevcDpWaDRw5"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189190,
+      "name": "Idiot",
+      "url": "https://open.spotify.com/track/5VD7uUXARSfqRZ1mALZhum"
     },
     {
       "album": {
@@ -4996,6 +5162,24 @@
       "duration_ms": 161658,
       "name": "Inspired To Do Nothing",
       "url": "https://open.spotify.com/track/16Qz0r7dMIeUaehBX0NwH3"
+    },
+    {
+      "album": {
+        "name": "INSTINCT",
+        "url": "https://open.spotify.com/album/6r42u0EENAqaWFOtVe8m5a"
+      },
+      "artists": [
+        {
+          "name": "These New South Whales",
+          "url": "https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "INSTINCT",
+      "url": "https://open.spotify.com/track/02nkQTpqjT19DOjTCsNMAd"
     },
     {
       "album": {
@@ -5356,6 +5540,24 @@
       "duration_ms": 183057,
       "name": "l8tely",
       "url": "https://open.spotify.com/track/605xSDYczz0yXWHkuYlldD"
+    },
+    {
+      "album": {
+        "name": "Lady Beetle",
+        "url": "https://open.spotify.com/album/0uRXxggkDe5tIpGeMC8ixb"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/5TjbJmm1dc7PwF35V00Jtp"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212298,
+      "name": "Lady Beetle",
+      "url": "https://open.spotify.com/track/5qC7PMj4nHBNX7YxiArOGU"
     },
     {
       "album": {
@@ -5872,6 +6074,24 @@
       "duration_ms": 165196,
       "name": "Love The Bomb",
       "url": "https://open.spotify.com/track/1MScK6KZgMcPdS37aViQot"
+    },
+    {
+      "album": {
+        "name": "Lucky Dimes",
+        "url": "https://open.spotify.com/album/5WeCbcQ2IxU5IFVx5zlf9f"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208028,
+      "name": "Lucky Dimes",
+      "url": "https://open.spotify.com/track/5RBsjWGHFmZlVeA4QuP9WI"
     },
     {
       "album": {
@@ -7287,6 +7507,24 @@
     },
     {
       "album": {
+        "name": "Redemption Arc",
+        "url": "https://open.spotify.com/album/79PFthukRlj7I3fDLKq05J"
+      },
+      "artists": [
+        {
+          "name": "Siobhan Cotchin",
+          "url": "https://open.spotify.com/artist/4jq5AFfQNivtK0MQaPP7N3"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207505,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/1v9gPqNHAnZ3OTvvaAMLJi"
+    },
+    {
+      "album": {
         "name": "Oyster Cuts",
         "url": "https://open.spotify.com/album/53U20PunzeKXI8EmanVRE9"
       },
@@ -7316,7 +7554,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 153822,
       "name": "Pacific Ocean",
       "url": "https://open.spotify.com/track/49MVg5q2nvlPjnK93dqalV"
@@ -7943,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "SUPERLIMINAL",
+        "url": "https://open.spotify.com/album/7GiChrAQTf6K44BFsUkdpJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Mall",
+          "url": "https://open.spotify.com/artist/4gQc96YtGmZ6IQkdzmRzqV"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243597,
+      "name": "REAL WORLD",
+      "url": "https://open.spotify.com/track/33kQwC4teWE3WONTRQkxXX"
+    },
+    {
+      "album": {
         "name": "Really Means Forever",
         "url": "https://open.spotify.com/album/0Ss80P1lJHOcKH8brLrfNf"
       },
@@ -7958,6 +8214,24 @@
       "duration_ms": 161841,
       "name": "Really Means Forever",
       "url": "https://open.spotify.com/track/6Ir1utSTc2FZ5HDlq5ENcs"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1MFhkeAlGK5SdHtAq588rr"
+      },
+      "artists": [
+        {
+          "name": "Seaside",
+          "url": "https://open.spotify.com/artist/12A9HO7R8JCU46t4HiVQqH"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231225,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/43Na4cMyJiII16Se0Cl7uq"
     },
     {
       "album": {
@@ -8026,7 +8300,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 125500,
       "name": "REMEMBER YOU WILL DIE",
       "url": "https://open.spotify.com/track/5teqLvUFQuDlpWwAozzQkh"
@@ -9042,7 +9316,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 190070,
       "name": "Social Cue",
       "url": "https://open.spotify.com/track/42WuJ3ygCtGiHadgoWtY9N"
@@ -9211,6 +9485,24 @@
     },
     {
       "album": {
+        "name": "Spare Change",
+        "url": "https://open.spotify.com/album/1ogaljNcLrmIR02F21OysH"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137743,
+      "name": "Spare Change",
+      "url": "https://open.spotify.com/track/1RvJzPvxL5AquD5nqNuaq3"
+    },
+    {
+      "album": {
         "name": "The Terrys",
         "url": "https://open.spotify.com/album/68b5a3uX42PXw7Dpv5yGsl"
       },
@@ -9258,7 +9550,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 235236,
       "name": "Springboard",
       "url": "https://open.spotify.com/track/2gpZ0p7s4m5ECDrEwGQKH4"
@@ -9312,7 +9604,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 255883,
       "name": "State Of Hawaii",
       "url": "https://open.spotify.com/track/1HSDvM0DRdNOqtx0kOfa3M"
@@ -9454,7 +9746,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 296363,
       "name": "Strange Love",
       "url": "https://open.spotify.com/track/1ykGRL4ef1OPOl5VYQqF0p"
@@ -9911,6 +10203,24 @@
     },
     {
       "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/0qMGBferRT31xJBWq1IvOr"
+      },
+      "artists": [
+        {
+          "name": "The Cheaks",
+          "url": "https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227078,
+      "name": "Talk It Out",
+      "url": "https://open.spotify.com/track/5Ulb12TgJXUy4JvX6yRD7F"
+    },
+    {
+      "album": {
         "name": "TALK STRAIGHT",
         "url": "https://open.spotify.com/album/724TfpqHIOlt00PwQblBAF"
       },
@@ -10052,7 +10362,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 229073,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4NMcMaJ4BnALsGIiM3RHJn"
@@ -10160,7 +10470,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 178874,
       "name": "the comedown",
       "url": "https://open.spotify.com/track/43GRe4EHLVWSMmbNCq4qF7"
@@ -10348,6 +10658,24 @@
       "duration_ms": 181600,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/6ChEyRFhfN4EpSszR0LBRo"
+    },
+    {
+      "album": {
+        "name": "The Plan",
+        "url": "https://open.spotify.com/album/1JEv5xjBHEEP99wM7Wm692"
+      },
+      "artists": [
+        {
+          "name": "Will Baker",
+          "url": "https://open.spotify.com/artist/3TbzuYnLfzpxBRp8WRuFdY"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "The Plan",
+      "url": "https://open.spotify.com/track/4COT14vNBRARG7bDHGuy2R"
     },
     {
       "album": {
@@ -10585,6 +10913,24 @@
     },
     {
       "album": {
+        "name": "My Memento",
+        "url": "https://open.spotify.com/album/18NYW4gIADrSeUiHiIKLaO"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200792,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/1E6ok0oKBWRzYzzDkiTyCV"
+    },
+    {
+      "album": {
         "name": "Tied In A Knot",
         "url": "https://open.spotify.com/album/3dYLGpioAkLEMAjWIfjXZz"
       },
@@ -10686,7 +11032,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 234216,
       "name": "To All The Ones That I Love",
       "url": "https://open.spotify.com/track/6Z3Ank38DbdeCtlpcvZfQH"

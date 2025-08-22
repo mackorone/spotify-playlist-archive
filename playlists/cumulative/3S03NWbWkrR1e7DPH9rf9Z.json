@@ -565,6 +565,32 @@
     },
     {
       "album": {
+        "name": "BOOM WAVE",
+        "url": "https://open.spotify.com/album/0QJsTXNrsZqrAtCEXkmNP5"
+      },
+      "artists": [
+        {
+          "name": "Kohey",
+          "url": "https://open.spotify.com/artist/5700ea7BYSV4Uv5qEPQDnx"
+        },
+        {
+          "name": "AVY",
+          "url": "https://open.spotify.com/artist/2oGlEGX1R82pjwdo8ZXEts"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "BOOM WAVE",
+      "url": "https://open.spotify.com/track/2J5oCtJWZ44br5u3uS657f"
+    },
+    {
+      "album": {
         "name": "Booty",
         "url": "https://open.spotify.com/album/6O6bSwqlo49uyVJXUvmuTw"
       },

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: DizzyEight \| Artwork: Laina Deene
+> The best new music from independent faith\-based artists every Wednesday! Cover: DizzyEight \| Artwork: SSTEDI
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,266 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,275 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

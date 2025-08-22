@@ -4,7 +4,7 @@
 
 > Bouganville e Coca Puma contemplano le nuove uscite indie con la loro sfera 🔮
 
-738 songs - 1 day 13 hr 9 min
+744 songs - 1 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Disordine](https://open.spotify.com/track/1AUHhNM2E5or6DnZysnJVV) | [Visconti](https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P) | [Disordine](https://open.spotify.com/album/3FtOmPmrSvIH3oWbATUx4N) | 2:58 | 2024-07-18 | 2024-09-27 |
 | [disperata gioventù](https://open.spotify.com/track/3WGRsbvjeO27iqJPMGeuIq) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [disperata gioventù](https://open.spotify.com/album/01TWoRyZKm4cQxJ8g1RDmC) | 3:01 | 2025-05-01 | 2025-05-23 |
 | [Distante](https://open.spotify.com/track/5LqRFf2IYXlNh9WuhQYjdw) | [Tocka](https://open.spotify.com/artist/1XPiLkWgALxMZ3jC7ytz9w) | [Distante](https://open.spotify.com/album/0CiltorxAx8EMrhf3jnToZ) | 2:55 | 2025-07-10 |  |
+| [distruggermi piano](https://open.spotify.com/track/05v7b6JCUGTklbi4zityhu) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [distruggermi](https://open.spotify.com/album/2zoFlLikZhcq8ogpUQ4E1B) | 2:45 | 2025-08-21 |  |
 | [Diventa grande poi passa](https://open.spotify.com/track/0mqMH4rpS8mrBccm2X2MX8) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Diventa grande poi passa](https://open.spotify.com/album/0WWmXjkYkndFKjoUWXqo2y) | 2:36 | 2025-02-27 | 2025-04-25 |
 | [Diversi tipi di dolore](https://open.spotify.com/track/5EZXyoWrbg7JwpdQdjORtC) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Diversi tipi di dolore](https://open.spotify.com/album/1SeKS1lZBeqBhfB8LPKIyL) | 4:04 | 2024-12-19 | 2025-03-08 |
 | [Dormire in macchina](https://open.spotify.com/track/3fTRovjAPslcHFDeaHeNj2) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Dormire in macchina](https://open.spotify.com/album/45KdlOqYANym79L4OAKULF) | 2:29 | 2025-04-17 | 2025-06-20 |
@@ -219,6 +220,7 @@
 | [Eclisse Twist](https://open.spotify.com/track/2OTW6Cx1MmYPz10NITyrWR) | [Guidobaldi](https://open.spotify.com/artist/2zgFe8Mm2pUdykATzPcjva) | [Eclisse Twist](https://open.spotify.com/album/6tI34LgUfgViOz8V9Q7XLy) | 2:57 | 2024-06-27 | 2024-08-07 |
 | [Eco](https://open.spotify.com/track/23R4KWD5ZHKY9yBcwEAHHn) | [Stef 5k](https://open.spotify.com/artist/0KmrWcgpXXda7k3urHvzbh) | [Eco](https://open.spotify.com/album/2UniW9JgSHKCc0GpwbSgD9) | 2:04 | 2025-07-24 |  |
 | [eco // non esiste solo l'ansia](https://open.spotify.com/track/5IrkIC2WWMGCLdJDyRIiE8) | [Sedici](https://open.spotify.com/artist/1XSigaqCmQp77DUMbf8Fxs) | [eco // non esiste solo l'ansia](https://open.spotify.com/album/29UGc2Pz2enmur1aNZV8Of) | 2:53 | 2025-03-27 | 2025-06-06 |
+| [EDICOLA](https://open.spotify.com/track/0BHaqa6jXS1gFtLVSRIRCZ) | [Schianta](https://open.spotify.com/artist/5RuBmTwAQniQinysSScGmB), [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [EDICOLA](https://open.spotify.com/album/3XPtwyU11RxENQgYp8WGsb) | 2:52 | 2025-08-21 |  |
 | [EFFETTO](https://open.spotify.com/track/6XUFqNOdmdKsjU2z4jy94S) | [chenopsia](https://open.spotify.com/artist/0LD8RSks9BHCIxqeTOdnAh), [Scarico](https://open.spotify.com/artist/0liPKMwmHmA0LbtC6wLy47) | [EFFETTO](https://open.spotify.com/album/4Imt4cGkSFmo3p9AJsS6lB) | 2:43 | 2024-06-27 | 2024-07-19 |
 | [Einveceno](https://open.spotify.com/track/4fCxE5XuOZbexL8iKjzEbj) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Einveceno](https://open.spotify.com/album/6FyezqD5XixCa6pPw2c7WG) | 2:46 | 2025-01-30 | 2025-04-04 |
 | [Equilibrista](https://open.spotify.com/track/7ugXe2KFUEKrsqIHVhShCC) | [OMÄR](https://open.spotify.com/artist/3YJB9JpmNTmIcCd8RbLWuS) | [Equilibrista](https://open.spotify.com/album/424j0Ox8F3MDoOv9HYV9uF) | 2:42 | 2024-12-17 | 2025-01-10 |
@@ -284,7 +286,9 @@
 | [Godspeed / Fili d'Erba](https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ora](https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn) | 1:50 | 2024-11-21 | 2025-01-03 |
 | [Graffiti Tramonto](https://open.spotify.com/track/519vv9zoN4OgHaZ7UFK1Ew) | [Delvento](https://open.spotify.com/artist/5BNIR5z3P1pnEseyyhrLEc) | [Graffiti Tramonto](https://open.spotify.com/album/5PGHLb81LMLxhErszcaAbk) | 2:34 | 2025-06-12 | 2025-07-18 |
 | [Gran Casino](https://open.spotify.com/track/2V514Lt7OSD7cVNAAcSE6g) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU) | [Gran Casino](https://open.spotify.com/album/7wwIOZRg2fOIyBahgIAgD2) | 2:53 | 2025-06-19 | 2025-07-25 |
+| [grandestate](https://open.spotify.com/track/4qEEDneFq486WCkhei2Zgb) | [Jianguar](https://open.spotify.com/artist/4E09DNh6BhvlvyoOlXCHuF), [Liarr](https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY) | [grandestate](https://open.spotify.com/album/4thKxZa2cktp6WApfukpvp) | 2:17 | 2025-08-21 |  |
 | [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 | 2024-12-15 |
+| [GRANITA](https://open.spotify.com/track/6ZhGp7dHJihrfCACOWIvNM) | [PVTRA](https://open.spotify.com/artist/2nGnEStqjgEw2wGpVk7GMX) | [GRANITA](https://open.spotify.com/album/7lbxjhDvqEh5K1dd5gT0wx) | 2:50 | 2025-08-21 |  |
 | [Grazie](https://open.spotify.com/track/43nQ9dmbJzcIFgOcxTCbVJ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Grazie](https://open.spotify.com/album/6yaWr4a1XS8pKSqkOfszKC) | 2:54 | 2024-11-28 | 2025-02-21 |
 | [Grem](https://open.spotify.com/track/54Mg9GrwpfusMlq6MUZWgj) | [AGA](https://open.spotify.com/artist/6o1ZHc5cD5f0ob011mOkpj) | [Grem](https://open.spotify.com/album/5Qk9ojV0PjFNeyBVcMe4pP) | 2:34 | 2025-04-03 | 2025-06-06 |
 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 | 2024-09-05 | 2024-09-27 |
@@ -539,6 +543,7 @@
 | [Preda](https://open.spotify.com/track/44kebdQfiOBh5ID6u2Sxvc) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Preda](https://open.spotify.com/album/7la4ofRNquJmp6cqsdU3rj) | 2:36 | 2024-09-05 | 2024-11-22 |
 | [PRETE](https://open.spotify.com/track/4f7Z2KyCGbtd694MsZ8Prb) | [RIVERA](https://open.spotify.com/artist/5k49BRqiNw8x7q5N6Lgwkh) | [PRETE](https://open.spotify.com/album/6YuqVJKzCZNRqOYDVPxoo0) | 3:14 | 2025-01-30 | 2025-03-28 |
 | [PRIMA DI DORMIRE \(feat\. Mazzariello\)](https://open.spotify.com/track/2KWhHAGoABlD0gDhOCRAxs) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l), [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [RONDINE](https://open.spotify.com/album/5XPz7jpDxXyzMVuFUPFAGo) | 2:44 | 2025-04-03 | 2025-05-09 |
+| [Privo Di Senso](https://open.spotify.com/track/56UCskCNqjfxqdDp9B7Aie) | [mògano](https://open.spotify.com/artist/7icHjf67fU14grteWceaxQ) | [Privo Di Senso](https://open.spotify.com/album/1L5nEmg4k8fcK14PWQXZTK) | 3:22 | 2025-08-21 |  |
 | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/track/5alocERr1H4Qy6mwidyBmV) | [Leonardo Zaccaria](https://open.spotify.com/artist/6TcPvpaSG1G3UjyhqxPY1f), [EDONiCO](https://open.spotify.com/artist/3sNOdiUrgIw18hNYh5gyH7) | [Profumo di dolore \(feat\. EDONiCO\)](https://open.spotify.com/album/7tsEBf66mZeBamRgN7CNLK) | 2:39 | 2024-06-27 | 2024-07-12 |
 | [proiettare](https://open.spotify.com/track/2UYsgzMM3T5Ks8bZhHNIJJ) | [abe](https://open.spotify.com/artist/2Nx6E3HhgDLmXgm0hI2AWB) | [proiettare / memoria finestra](https://open.spotify.com/album/2N04PH8PP9VeBhYxiIuyYc) | 3:48 | 2025-03-20 | 2025-04-04 |
 | [Promessa sposa](https://open.spotify.com/track/1Ps2ajYyaukTQRbIRHleDB) | [Sulfurea](https://open.spotify.com/artist/78qRamVOyVSGg9uFJb3tmf) | [Promessa sposa](https://open.spotify.com/album/1NlaJ6a2cQPtYUD7lobbz7) | 3:51 | 2025-04-17 | 2025-05-16 |
@@ -600,6 +605,7 @@
 | [se io morissi per stanotte?](https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [se io morissi per stanotte?](https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf) | 2:41 | 2024-11-07 | 2025-01-03 |
 | [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 | 2025-02-21 |
 | [Se voglio salvarmi la vita](https://open.spotify.com/track/2EvzaukzjxXpAiQMN365Yq) | [Vienna](https://open.spotify.com/artist/2fNMHLg3XxoufUqKuYNNN2) | [Se voglio salvarmi la vita](https://open.spotify.com/album/47llmaF6VEih4r0rNE5Ynd) | 2:32 | 2024-09-05 | 2024-09-27 |
+| [Se vuoi](https://open.spotify.com/track/2uoS0WfK013Zk7GnfrTJwK) | [Volt Rar](https://open.spotify.com/artist/028IiWVShVPlw8jWRl5Tg5) | [Se vuoi](https://open.spotify.com/album/1aevtU850moAyCqw8b9KGS) | 3:00 | 2025-08-21 |  |
 | [Secondo Lampo](https://open.spotify.com/track/2eTsn8k3hwKrRj7ZoKzMYY) | [Jesse the Faccio](https://open.spotify.com/artist/0SbYhjfJTmuDE1ltoEUv67) | [Secondo Lampo](https://open.spotify.com/album/0FSDs1q5DwJM3peArLI7Hy) | 3:02 | 2025-06-05 | 2025-07-11 |
 | [SEH VABBÈ](https://open.spotify.com/track/4GCeIffYYrQA9k8mY51zE6) | [Ciliari](https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T) | [SEH VABBÈ](https://open.spotify.com/album/22VxR6Fxjpnu2SXDbSzgVk) | 3:46 | 2025-07-10 |  |
 | [Seia](https://open.spotify.com/track/6WAhQ3jjp09O82E9phHVwo) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Seia](https://open.spotify.com/album/3WAoNWDrL6pc5B9H7vAjOX) | 4:52 | 2025-02-20 | 2025-04-11 |

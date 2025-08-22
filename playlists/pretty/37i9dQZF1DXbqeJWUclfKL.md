@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqeJWUclfKL.md) - [plain]
 
 > Classic love story? Enemies to lovers? Or something more..\. complicated? Spend Cupid’s holiday with romance anime tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,097 likes - 36 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,092 likes - 36 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

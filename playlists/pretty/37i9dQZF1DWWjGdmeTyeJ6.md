@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,359 likes - 250 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,480 likes - 250 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,7 +148,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 138 | [Too Good to Be You](https://open.spotify.com/track/3iXm8vjvCZEtIu0LJOFl1A) | [Tatum Scott](https://open.spotify.com/artist/7qnInIoAbmwOwIVkOgQCwy) | [Too Good to Be You](https://open.spotify.com/album/3s3P1jxhZGX9x02hw6SCCA) | 3:12 |
 | 139 | [Oyster City Utah](https://open.spotify.com/track/4eYLGCMHpR3r8ZtNHjF9ZI) | [best dressed ghost](https://open.spotify.com/artist/3Rh1YnnvbwePqsU1NPZhPy) | [Dead Rock](https://open.spotify.com/album/0QEVxMlGr8BmO6gr3Xcd3d) | 2:17 |
 | 140 | [Therapy](https://open.spotify.com/track/1qtluMbiC5FjSVox4wGoBb) | [KAYAM](https://open.spotify.com/artist/58UJUfMaQRjFlDxawMuOru) | [Therapy](https://open.spotify.com/album/4wyPk9hcagJzIXX9Fe7Gc7) | 2:28 |
-| 141 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
+| 141 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
 | 142 | [Rivers](https://open.spotify.com/track/3lWnkwOsDoJqzjT3hjHkTx) | [Sophia Grover](https://open.spotify.com/artist/1NXqzuT9GyKPFAW9PPGMzR) | [Rivers](https://open.spotify.com/album/4ftnZsIKHNl3g8toERQmoe) | 4:15 |
 | 143 | [PuPusa LoKA](https://open.spotify.com/track/7iyTHK0InTYhVDxRxPzIGw) | [BEBEBOY](https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk), [Just Ideas](https://open.spotify.com/artist/0DcI0zKWPbHyodxYLS8VT4) | [PuPusa LoKA](https://open.spotify.com/album/340VnsFbJZgML29rCvUuAe) | 1:43 |
 | 144 | [Shapes](https://open.spotify.com/track/76ZbsiT5eXrGVMTpSJkIDL) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Shapes](https://open.spotify.com/album/2leZqHN3OIH8eC6dSDHZOk) | 2:59 |

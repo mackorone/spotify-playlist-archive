@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 정준일\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 남규리\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,532 songs - 4 day 3 hr 22 min
+1,533 songs - 4 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,7 +541,7 @@
 | [I Miss You](https://open.spotify.com/track/6AXqsbRU3snGXnibiW0WOw) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/2dlACO4DLIYaJJzCheVRq0) | 4:12 | 2022-03-29 | 2022-04-13 |
 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 | 2021-12-23 | 2022-06-12 |
 | [I miss you now](https://open.spotify.com/track/5TgCwXtQxDTDh9AVNLDEni) | [HAE YOON](https://open.spotify.com/artist/2hD3aiYb8kpzjuxoLvqckk) | [I miss you now](https://open.spotify.com/album/7Jg8bn3YwRRX1kfg2yzIbO) | 3:29 | 2024-07-31 | 2024-11-07 |
-| [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 | 2025-02-11 |  |
+| [I Miss You So Much](https://open.spotify.com/track/0wLizUzIFwrPbzohRmm8LU) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [I Miss You So Much](https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM) | 3:36 | 2025-02-11 | 2025-08-22 |
 | [I Miss You So Much](https://open.spotify.com/track/6JN2WrqaJaZkLnwh6r9ePU) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [I Miss You So Much](https://open.spotify.com/album/6NzFiw1xQd5DWm3cJGhqmU) | 3:38 | 2025-05-21 |  |
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-11 | 2022-12-27 |
 | [I need to hold you](https://open.spotify.com/track/5XbXOUPOklCEw9dJtgNwd4) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [I need to hold you](https://open.spotify.com/album/69OTLGnxUisR11BivkoUL3) | 3:47 | 2023-11-15 | 2024-05-01 |
@@ -590,6 +590,7 @@
 | [I'm in love with you](https://open.spotify.com/track/6BAZjhRiEbMj40qxX1r49d) | [Nam Gyu ri](https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU) | [I'm in love with you](https://open.spotify.com/album/4K379GrQ1F8ZHV3CbRGxoU) | 4:05 | 2024-04-15 | 2024-08-11 |
 | [I'm not even drunk](https://open.spotify.com/track/0uNTk70FsyFRhHg03O9sPr) | [Baby Blue](https://open.spotify.com/artist/4lPysgWv3ElxXrp6IKcJN1) | [I'm not even drunk](https://open.spotify.com/album/0134ShAd5n7nCkie4PYWGU) | 3:20 | 2023-10-20 | 2023-12-14 |
 | [I'm Not Okay](https://open.spotify.com/track/7j6sMbGh59tLxU5MhXbr7J) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [I'm Not Okay](https://open.spotify.com/album/6pfjN1lAUwifCYEWKV6pS2) | 3:43 | 2022-03-29 | 2022-04-11 |
+| [I'm Sorry](https://open.spotify.com/track/3QOxInGl8Qx8YJGVMzKKgv) | [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [I'm Sorry](https://open.spotify.com/album/1tfVvXMP5c0VLr6L5K4YMs) | 3:52 | 2025-08-21 |  |
 | [I'm Still Here](https://open.spotify.com/track/2lATsh8Vw1NzPkcJFYAjDL) | [LEO](https://open.spotify.com/artist/0KZZD2YdkvaIsGpMEVVKVD) | [I'm Still Here](https://open.spotify.com/album/6rK6woUcQOXxJQWBWhMlUt) | 3:17 | 2022-03-24 | 2022-04-12 |
 | [I'm trying to fix it](https://open.spotify.com/track/6HRtEBk2xmbH4ed2A14Ujf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [I'm trying to fix it](https://open.spotify.com/album/2uGscuF57AxYLVLqCwKWp8) | 3:23 | 2023-09-18 | 2023-11-14 |
 | [I'm well \(Feat\. Jung Seung Hwan\)](https://open.spotify.com/track/7b9kjOw0vf4Ta1i2zBUgsg) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [i'm fine.](https://open.spotify.com/album/6d7vhEWUXu4cpyzMqCqR5Y) | 4:27 | 2023-04-04 | 2023-08-25 |

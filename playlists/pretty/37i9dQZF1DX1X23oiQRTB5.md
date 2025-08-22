@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> R2 au top de la première playlist de rap français.
+> Tiakola x La Mano 1.9 au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,596,116 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,596,309 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Medusa](https://open.spotify.com/track/629EAj0z1wuAxWuPtiR6hy) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [L'hiver](https://open.spotify.com/album/0BQRHLTXTWHpjma9jZqc1M) | 2:01 |
 | 40 | [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 |
 
-Snapshot ID: `AAAAAIBkj+ghE1Cw7U2yaZHeJ1/lRUj8`
+Snapshot ID: `AAAAAEd+RC/LhSPeWFaXKqakVw/0MIxB`

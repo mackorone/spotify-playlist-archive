@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> HYPE MYKE e X\-Tense entram na zona.
+> Julinho Ksd entra na zona.
 
-851 songs - 1 day 20 hr 53 min
+852 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [DEMONS](https://open.spotify.com/track/0kDQEVHvQHCRabH817iOCg) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK) | [DEMONS](https://open.spotify.com/album/6X04ooHMiN96MSveBdWffK) | 4:24 | 2023-12-15 | 2024-01-19 |
 | [Dentu Di Espanha](https://open.spotify.com/track/7glOAznlQuVCZ3KcqkUqWL) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [Casp3r](https://open.spotify.com/artist/2dNyGUrMkoGzDHTMTukhf6) | [Dentu Di Espanha](https://open.spotify.com/album/3iC4A749XyBNEGTJUvGGGi) | 3:33 | 2022-07-21 | 2022-08-19 |
 | [DENTU DI MEXICO](https://open.spotify.com/track/1D4kI1sM2RVHKgcaWT6cVb) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu) | [DENTU DI MEXICO](https://open.spotify.com/album/5YbHZ6WNSJDsSAwRO52jLZ) | 3:16 | 2023-03-17 | 2023-04-21 |
-| [Depressão](https://open.spotify.com/track/6htR8JYZntW4FoA42b9GjE) | [Venus](https://open.spotify.com/artist/0JvMGnHp2N3pLEzsqpw7Hu), [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi) | [Depressão](https://open.spotify.com/album/6WRTx4vfjIulZUtGqGM64j) | 2:26 | 2025-07-24 |  |
+| [Depressão](https://open.spotify.com/track/6htR8JYZntW4FoA42b9GjE) | [Venus](https://open.spotify.com/artist/0JvMGnHp2N3pLEzsqpw7Hu), [Rafa G](https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi) | [Depressão](https://open.spotify.com/album/6WRTx4vfjIulZUtGqGM64j) | 2:26 | 2025-07-24 | 2025-08-22 |
 | [Desce Do Céu](https://open.spotify.com/track/0sL2N1y2f6tjETXH6CLeHY) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Desce Do Céu](https://open.spotify.com/album/29EhHjUiLnhkhpDJPcln7f) | 4:18 | 2022-10-20 | 2022-11-11 |
 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 | 2022-07-16 | 2022-10-28 |
 | [Desejos](https://open.spotify.com/track/2EDyvafmx73KbIKDtlrSLx) | [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Oestrela](https://open.spotify.com/artist/4OHp25KOzOBF38Uq4CNtNE) | [Desejos](https://open.spotify.com/album/1MIuWVILfqHrmw1tV3AAlm) | 3:33 | 2023-10-12 | 2023-12-14 |
@@ -539,6 +539,7 @@
 | [Nossa História](https://open.spotify.com/track/0FMhIO3swGDiXrxEwX7JFh) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [Nossa História](https://open.spotify.com/album/6C9301eC7ZSUcIGJMUyOfu) | 3:33 | 2022-09-15 | 2022-11-25 |
 | [Nosso Spot](https://open.spotify.com/track/4f69bb1IhaFjRgNulkpdyA) | [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7), [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [Amaro](https://open.spotify.com/artist/2PFhhQZgtdqOT8mXiAHJ0A) | [Nosso Spot](https://open.spotify.com/album/7FDiVH4jRpJ1vgJP5l0ZVw) | 2:36 | 2023-10-12 | 2023-12-14 |
 | [Notas de 100](https://open.spotify.com/track/2GGzUIG3rIQj4rveCtocrY) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Notas de 100](https://open.spotify.com/album/0anD4Bh3cH7VMb4UcrLAIJ) | 4:05 | 2024-04-05 | 2024-06-01 |
+| [Noutro Lugar](https://open.spotify.com/track/3vnKyAfnWMChNmpiQIWcca) | [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8) | [Noutro Lugar](https://open.spotify.com/album/44fVIGwJslbxyhRCaSpvpD) | 1:56 | 2025-08-21 |  |
 | [Nova Season](https://open.spotify.com/track/2d9t5MQGqwtGiaA5pSSBPp) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [Nova Season](https://open.spotify.com/album/3Yd5l2W83TGIUwuFNLrVuQ) | 2:14 | 2024-06-20 | 2024-07-19 |
 | [Novinha Grandona](https://open.spotify.com/track/5VhV7UaJv6HTt6lbr9oxPx) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Novinha Grandona](https://open.spotify.com/album/0S038UJN1XgC1Asdx97gLJ) | 3:00 | 2023-11-10 | 2024-04-26 |
 | [NR5](https://open.spotify.com/track/6IAVU9psKD2kJ2bGg4Vemp) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [NR5](https://open.spotify.com/album/1mJesBtaqgysGAlk9aFWuZ) | 3:46 | 2022-07-16 | 2023-01-06 |
@@ -594,7 +595,7 @@
 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 | 2022-07-16 | 2023-04-21 |
 | [Paper](https://open.spotify.com/track/2eSHRVgM4kA1KcEzfSQaeA) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Carlito Lagangzz](https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL) | [Paper](https://open.spotify.com/album/1idwx450GZN7DYPcB5KcQA) | 3:12 | 2023-06-22 | 2023-07-21 |
 | [Papo De Ninja](https://open.spotify.com/track/73OkPO9VFbtaHA6Fsu23ZS) | [WAY 45](https://open.spotify.com/artist/5HecInQ5WBDHP4mkrU9TXv), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE), [Eric Rodrigues](https://open.spotify.com/artist/28NuJ0rsVhiKovPID7OP1F), [LipeSky](https://open.spotify.com/artist/1xTBlYpqKiGEZfX1J32UPJ) | [My Life In Each Verse](https://open.spotify.com/album/4jWfvZcAhGOeVr0SV9JEzz) | 4:22 | 2023-07-06 | 2023-09-22 |
-| [PAQUETÁ \(feat\. Eraldina Santos\)](https://open.spotify.com/track/3sAbh4SuadCa2LOW8S4pSJ) | [Trinity 3nity](https://open.spotify.com/artist/5LUc7rWzcR4S9uKAqi0dsR), [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ), [Bill John](https://open.spotify.com/artist/2BGevNQpdhdGzE1R70I6SU), [Eraldina Santos](https://open.spotify.com/artist/3QTT5OcLepr3XakjC4SyeF) | [PAQUETÁ \(feat\. Eraldina Santos\)](https://open.spotify.com/album/5yvF6Mpv9N716IpkSEUdao) | 3:08 | 2025-08-14 |  |
+| [PAQUETÁ](https://open.spotify.com/track/3sAbh4SuadCa2LOW8S4pSJ) | [Trinity 3nity](https://open.spotify.com/artist/5LUc7rWzcR4S9uKAqi0dsR), [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ), [Bill John](https://open.spotify.com/artist/2BGevNQpdhdGzE1R70I6SU), [Eraldina Santos](https://open.spotify.com/artist/6FX9AaGv645B9Vp5d3JCBK) | [PAQUETÁ](https://open.spotify.com/album/5yvF6Mpv9N716IpkSEUdao) | 3:08 | 2025-08-14 |  |
 | [Para Casa](https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Para Casa](https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7) | 4:08 | 2023-06-29 | 2025-01-10 |
 | [PARA SEMPRE](https://open.spotify.com/track/7e0BMVyh5I0imv2MlAOo3d) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC), [SleepyThePrince](https://open.spotify.com/artist/3GWI6Dqtdwmy1KwK4hr7QE) | [PARA SEMPRE](https://open.spotify.com/album/7ja21jiOzYFy1r3K4EueHN) | 3:03 | 2025-06-19 | 2025-08-08 |
 | [PARA SEMPRE](https://open.spotify.com/track/1iGHa37wh2nlr4upmazMdS) | [Wayn Dior](https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n) | [PARA SEMPRE](https://open.spotify.com/album/7rsjtUS9ofrZ9VTeIzpbtm) | 2:32 | 2023-02-24 | 2023-03-25 |

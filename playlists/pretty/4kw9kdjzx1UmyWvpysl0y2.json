@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125059,
+  "num_followers": 125053,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUfkPv+MiZ4Qs8DqRQh+pqMtLPHut0",
+  "snapshot_id": "AAAUgE/GeO47v3nYrHu8PdBdu3obXYNL",
   "tracks": [
+    {
+      "added_at": "2025-08-21 13:50:45",
+      "album": {
+        "name": "alive",
+        "url": "https://open.spotify.com/album/4793thhWqAaumOMiplcu9y"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "alive",
+      "url": "https://open.spotify.com/track/43IicbdTFqQdd70qPUAFyi"
+    },
     {
       "added_at": "2025-08-20 14:17:43",
       "album": {
@@ -1127,42 +1147,6 @@
       "duration_ms": 179106,
       "name": "Street Level",
       "url": "https://open.spotify.com/track/38A8wAKWmyndvOHxdYh8lE"
-    },
-    {
-      "added_at": "2025-05-30 15:05:55",
-      "album": {
-        "name": "FACTORY RESET",
-        "url": "https://open.spotify.com/album/7dFJFqT1GREbgvxDt1kOqs"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "MVP",
-      "url": "https://open.spotify.com/track/2MElEaMO50OWgkRZx7pgwa"
-    },
-    {
-      "added_at": "2025-05-29 14:40:21",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/26zQ04wUXh78JLnR0xAI9t"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Dynamick",
-          "url": "https://open.spotify.com/artist/5a7fjnssojVKbMnLJ7VUsa"
-        }
-      ],
-      "duration_ms": 143636,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/1rgfcr124GjfgOVG6iL5vb"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

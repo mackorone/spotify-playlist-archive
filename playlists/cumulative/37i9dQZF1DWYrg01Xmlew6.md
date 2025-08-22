@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Kalionte in cover.
+> Rap napoletano e il meglio della scena campana\. Nicola Siciliano in cover.
 
 505 songs - 23 hr 8 min
 

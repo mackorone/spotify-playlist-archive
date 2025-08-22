@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,894 likes - 168 songs - 9 hr 57 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,890 likes - 173 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 45 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
 | 46 | [The Postcard](https://open.spotify.com/track/17xCCjsAJxRy6k3AXOHiys) | [The Ediacaran](https://open.spotify.com/artist/58LaHoIzAeY421BB6tg9cO), [Bastido](https://open.spotify.com/artist/6X57lq2YTwkIBThasY36AM), [Díbora Matos](https://open.spotify.com/artist/2D1QRIiceUZ6lQrtA9LLUL) | [Contemplations](https://open.spotify.com/album/4uw2r9WBBpTwqLEB3riKSq) | 3:48 |
 | 47 | [PATCHWORK \- Radio Edit](https://open.spotify.com/track/2ac8KmR69enHJubRQpp4aW) | [CĖLINE CADDEÖ](https://open.spotify.com/artist/3JREZW2Twp1ppvXlRjRnrn) | [PATCHWORK \(Radio Edit\)](https://open.spotify.com/album/4385VlJrWJcltNcEjz4TXJ) | 3:05 |
-| 48 | [all i need](https://open.spotify.com/track/1zvGo8mzI4M0eAvqJcxoTE) | [DvDx](https://open.spotify.com/artist/3I82hW38FyHDbJXOmdH1h0) | [said2u](https://open.spotify.com/album/467PFkk4iTZMkoH6jk1igd) | 2:09 |
+| 48 | [all i need](https://open.spotify.com/track/1zvGo8mzI4M0eAvqJcxoTE) | [DvDx](https://open.spotify.com/artist/3I82hW38FyHDbJXOmdH1h0) | [said2u](https://open.spotify.com/album/467PFkk4iTZMkoH6jk1igd) | 1:51 |
 | 49 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 50 | [Good Grief](https://open.spotify.com/track/0OFOf0vAz1EL18MtIPRoOo) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Good Grief](https://open.spotify.com/album/3XrXDoZw5v4MDI9vlqhWyc) | 3:49 |
 | 51 | [Sparrow in the Wind](https://open.spotify.com/track/3lWZQw0SKLiM70hezK6Wx7) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Sparrow in the Wind](https://open.spotify.com/album/50R0NMpzPMybfbcSUkhurX) | 4:10 |
@@ -170,11 +170,16 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 160 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 161 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 162 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 163 | [Metamorphosis](https://open.spotify.com/track/2wNj4k7HMjWNaLbKHWRpj7) | [Carson Ripley](https://open.spotify.com/artist/6fvQZyhW1A06kSd3VCBLrL) | [Metamorphosis](https://open.spotify.com/album/1GjzvvezRvhBvDdoNI46AV) | 3:59 |
-| 164 | [Cheers](https://open.spotify.com/track/6IgY9dCz4wEmPZ5jePaz6X) | [V.Kiing](https://open.spotify.com/artist/23iCIdLKo6AWMZIT7AFz7q) | [Cheers](https://open.spotify.com/album/1WyhPbHl3sTt7Cd7Y3FmhA) | 2:20 |
-| 165 | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/track/7uGIrSB669kY1q65R1vRTQ) | [Alfreda](https://open.spotify.com/artist/76h1KZm11oBfisNBwHuBzA) | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/album/2NBpuxM6dy7ejJEFYUkjmP) | 3:52 |
-| 166 | [flying by](https://open.spotify.com/track/5Tu4wE6GBuI4N777jTlZjT) | [elle j.](https://open.spotify.com/artist/2NT7hw8RUTe0WWE8iH4SFg) | [.27 CRISIS](https://open.spotify.com/album/228SxGKprFbFfya5x45xd7) | 3:10 |
-| 167 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 |
-| 168 | [Refresh](https://open.spotify.com/track/3r1uZnqfCwUFK1KV3bjH42) | [Jawson Dell](https://open.spotify.com/artist/6qjNqBZgGz4gXV8puoJbXl) | [Refresh](https://open.spotify.com/album/0f563gNCAM6pSgqc36aiHb) | 4:09 |
+| 163 | [Casino](https://open.spotify.com/track/03qcruZcC6LWHlCNgHrZeC) | [McKay](https://open.spotify.com/artist/1QgAt97uRD3XY9G0YaL5Dp) | [Casino](https://open.spotify.com/album/4SIDoWmpa9cCFTO0jCT91N) | 3:39 |
+| 164 | [Reminisce](https://open.spotify.com/track/2e0codZw2FSkPASVDNii4w) | [DONNIE](https://open.spotify.com/artist/3R8rQ1tByOHfnPPEUosAtD), [Maejor Jermaine](https://open.spotify.com/artist/1NaFJVnocbOtyPouGNVeT9) | [Reminisce](https://open.spotify.com/album/5X2y2KkEomIXr9tw47BrbR) | 3:13 |
+| 165 | [Deep As You](https://open.spotify.com/track/4TZQfo8otB5FD4B1Zo3Fk7) | [Tommy Lee James](https://open.spotify.com/artist/2K3oUlBUYEhyiQvTK8xddm) | [Deep As You](https://open.spotify.com/album/579ZUkQk1qVNtBejOUzrv0) | 3:41 |
+| 166 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 |
+| 167 | [I Tried](https://open.spotify.com/track/3NkGOMpRYm1dvZbP4Ox3Qj) | [Abel Skarz](https://open.spotify.com/artist/5ELxc8Gdyad067U7AQlBgf) | [I Tried](https://open.spotify.com/album/1nZD23gPirMXGGV1TUafA1) | 2:45 |
+| 168 | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/track/7uGIrSB669kY1q65R1vRTQ) | [Alfreda](https://open.spotify.com/artist/76h1KZm11oBfisNBwHuBzA) | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/album/2NBpuxM6dy7ejJEFYUkjmP) | 3:52 |
+| 169 | [flying by](https://open.spotify.com/track/5Tu4wE6GBuI4N777jTlZjT) | [elle j.](https://open.spotify.com/artist/2NT7hw8RUTe0WWE8iH4SFg) | [.27 CRISIS](https://open.spotify.com/album/228SxGKprFbFfya5x45xd7) | 3:10 |
+| 170 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 |
+| 171 | [Refresh](https://open.spotify.com/track/3r1uZnqfCwUFK1KV3bjH42) | [Jawson Dell](https://open.spotify.com/artist/6qjNqBZgGz4gXV8puoJbXl) | [Refresh](https://open.spotify.com/album/0f563gNCAM6pSgqc36aiHb) | 4:09 |
+| 172 | [Metamorphosis](https://open.spotify.com/track/2wNj4k7HMjWNaLbKHWRpj7) | [Carson Ripley](https://open.spotify.com/artist/6fvQZyhW1A06kSd3VCBLrL) | [Metamorphosis](https://open.spotify.com/album/1GjzvvezRvhBvDdoNI46AV) | 3:59 |
+| 173 | [Cheers](https://open.spotify.com/track/6IgY9dCz4wEmPZ5jePaz6X) | [V.Kiing](https://open.spotify.com/artist/23iCIdLKo6AWMZIT7AFz7q) | [Cheers](https://open.spotify.com/album/1WyhPbHl3sTt7Cd7Y3FmhA) | 2:20 |
 
-Snapshot ID: `AAAz8bWujz/hX/z/V0kS+YMA0Cf6/2rB`
+Snapshot ID: `AAAz+DGxnXiM+VAIYFWJ5fsE9b+mUxVP`

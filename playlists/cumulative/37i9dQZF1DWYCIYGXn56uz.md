@@ -4,7 +4,7 @@
 
 > 💫giovane💫pop💫z💫 Cover: Olly
 
-802 songs - 1 day 13 hr 10 min
+803 songs - 1 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Non x Soldi](https://open.spotify.com/track/12XKCbxfnM7jS0xNSgDJNz) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [NON X SOLDI](https://open.spotify.com/album/0lPLNy8qyFEA02EvH4Uodg) | 2:39 | 2025-05-01 | 2025-06-27 |
 | [Non è abbastanza](https://open.spotify.com/track/4pVl4rqimmJupO2B2aPfTb) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Non è abbastanza](https://open.spotify.com/album/78Hk7mg4eWrYauEPYI8yIn) | 2:59 | 2024-01-04 | 2024-01-19 |
 | [NON È DOMENICA](https://open.spotify.com/track/2OCnhdAKQOUKFcILscyAcU) | [CALI!](https://open.spotify.com/artist/0Z2oleyYfipmfCvGMtKhph) | [NON È DOMENICA](https://open.spotify.com/album/3uBR98hoGVgJNahHGWsfyT) | 2:33 | 2025-01-28 | 2025-03-14 |
+| [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 | 2025-08-21 |  |
 | [Nonostante te](https://open.spotify.com/track/38ZeOiXbQJsmuTBTLyOfH6) | [NIVEO](https://open.spotify.com/artist/1DbAJ7OMqizWZIRnccdmSS) | [Nonostante te](https://open.spotify.com/album/0kB7eqpyZ95HVDghwFIVcI) | 2:48 | 2024-09-05 | 2024-10-04 |
 | [nonèfunny :\(](https://open.spotify.com/track/4kk1oRW9H7xJO37Wm2PvXO) | [Ethos](https://open.spotify.com/artist/12UVpkOIcwo7yXfiHgPUj7) | [nonèfunny :\(](https://open.spotify.com/album/2jcDug6uGALt9aJBnSx5PY) | 2:29 | 2023-05-25 | 2023-06-09 |
 | [Nostalgia](https://open.spotify.com/track/22gH5Qg5j5ZzF7LaR7Nrkj) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Nostalgia](https://open.spotify.com/album/3WKUnE0tlqfep4jO5gyF3P) | 3:02 | 2023-03-23 | 2023-07-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Maciej Skiba",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Bletka",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "b.@.M.b.A",
+        "url": "https://open.spotify.com/album/5sIE0Nz8xFUeHZa2jDs84o"
+      },
+      "artists": [
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "b.@.M.b.A",
+      "url": "https://open.spotify.com/track/3B2oYkCbM7kUDnNOpjqRdY"
+    },
+    {
+      "album": {
         "name": "B012",
         "url": "https://open.spotify.com/album/6pN3zmswspYqyY1ztZHKsK"
       },
@@ -582,6 +600,24 @@
       "duration_ms": 270329,
       "name": "Bez kontaktu",
       "url": "https://open.spotify.com/track/0cXARNiffujbAjlJ6K2zER"
+    },
+    {
+      "album": {
+        "name": "Bez siebie",
+        "url": "https://open.spotify.com/album/6zVUF3gjJuooEjHEQZy76p"
+      },
+      "artists": [
+        {
+          "name": "Ola Olszewska",
+          "url": "https://open.spotify.com/artist/1YyVozTrSIYYqKGNFzBa4b"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178741,
+      "name": "Bez siebie",
+      "url": "https://open.spotify.com/track/7gHumEFAIMYc1VvkxfHLCW"
     },
     {
       "album": {
@@ -2015,6 +2051,66 @@
     },
     {
       "album": {
+        "name": "DO RANA",
+        "url": "https://open.spotify.com/album/2y1GM6pKsgHIeUSwabPZQF"
+      },
+      "artists": [
+        {
+          "name": "Kinny Zimmer",
+          "url": "https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC"
+        },
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        },
+        {
+          "name": "Eryk Moczko",
+          "url": "https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd"
+        },
+        {
+          "name": "Kostek",
+          "url": "https://open.spotify.com/artist/292ZtZEV38d87HRQwnqa1p"
+        },
+        {
+          "name": "BBS",
+          "url": "https://open.spotify.com/artist/41OlFo7wE2kRqAQqq9zUlI"
+        },
+        {
+          "name": "Koder",
+          "url": "https://open.spotify.com/artist/1qJPIWsxxzTulBOb5kFllO"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163525,
+      "name": "DO RANA",
+      "url": "https://open.spotify.com/track/0AlvZKVHjUjnpdudZHHPxJ"
+    },
+    {
+      "album": {
+        "name": "Do tego momentu",
+        "url": "https://open.spotify.com/album/3g1ILCbgfQU2WUymjfSGuW"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        },
+        {
+          "name": "Mela Koteluk",
+          "url": "https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236640,
+      "name": "Do tego momentu",
+      "url": "https://open.spotify.com/track/2odtcKKUuKyen1NiZBfXJn"
+    },
+    {
+      "album": {
         "name": "Dobrostan",
         "url": "https://open.spotify.com/album/3rCm8BDUHNuh1SxhWSuqQU"
       },
@@ -2982,7 +3078,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 128585,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/7csQOZo9mkIaMdqKEpubKg"
@@ -4871,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "mario",
+        "url": "https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165586,
+      "name": "mario",
+      "url": "https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9"
+    },
+    {
+      "album": {
         "name": "Marysia Kowalska",
         "url": "https://open.spotify.com/album/0VK4Qp3pQRy8hwnPpDN7gO"
       },
@@ -4980,7 +5094,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 202263,
       "name": "Ma\u0142go\u015bka",
       "url": "https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr"
@@ -5196,7 +5310,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 158148,
       "name": "Mimo wszystko - wersja radiowa",
       "url": "https://open.spotify.com/track/2QCozDgFWeIbi9yGbwm2qt"
@@ -5666,6 +5780,32 @@
       "duration_ms": 124422,
       "name": "na nowo",
       "url": "https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM"
+    },
+    {
+      "album": {
+        "name": "NA PARTY",
+        "url": "https://open.spotify.com/album/3hjgrpN3seieIO27YfRQuw"
+      },
+      "artists": [
+        {
+          "name": "Fausti",
+          "url": "https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx"
+        },
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "NA PARTY",
+      "url": "https://open.spotify.com/track/0Y5AtDt5XzNznVhnM8jtuL"
     },
     {
       "album": {
@@ -6886,7 +7026,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 163840,
       "name": "Od Nowa",
       "url": "https://open.spotify.com/track/17Xx2gsPpmBahhUfgCAGkZ"
@@ -8264,7 +8404,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 151200,
       "name": "P\u00d3KI JESTE\u015a",
       "url": "https://open.spotify.com/track/0VZ1TnSknvk6ZWvSVVzDNi"
@@ -8355,6 +8495,24 @@
     },
     {
       "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/04B6HH3j6KUv4UwXovR5Na"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/4Ujt2XNnfF7HEBxRqrVpH9"
+    },
+    {
+      "album": {
         "name": "Heca",
         "url": "https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90"
       },
@@ -8388,7 +8546,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 142448,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4HlzM85SSSWqVkaZVgH6vK"
@@ -8618,7 +8776,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 142000,
       "name": "SAMOTNI RAZEM",
       "url": "https://open.spotify.com/track/5nhVWRExWcSE7CIx8hx4YM"
@@ -9840,7 +9998,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 139903,
       "name": "Toskania",
       "url": "https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm"
@@ -11072,6 +11230,28 @@
       "duration_ms": 171235,
       "name": "zabierz mnie nad morze",
       "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
+    },
+    {
+      "album": {
+        "name": "Zabior\u0119 Ci\u0119 Tam",
+        "url": "https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B"
+      },
+      "artists": [
+        {
+          "name": "Fukaj",
+          "url": "https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213191,
+      "name": "Zabior\u0119 Ci\u0119 Tam",
+      "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 44154,
+  "num_followers": 44187,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAAALs/mv3teRUdWTVSzfJBya",
+  "snapshot_id": "aKO+gAAAAAD83Kf21oHcmjLJjLYGy3PI",
   "tracks": [
     {
       "added_at": null,
@@ -488,38 +488,6 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 246480,
-      "name": "Perennial",
-      "url": "https://open.spotify.com/track/606gzX3gtYCeMp0iyBEjhV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spiritbox",
-        "url": "https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 280556,
-      "name": "The Mara Effect, Pt. 1",
-      "url": "https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Singles Collection",
-        "url": "https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
       "duration_ms": 235906,
       "name": "Belcarra",
       "url": "https://open.spotify.com/track/2MvUfBlXqqdVdGwJKYxgFL"
@@ -539,6 +507,38 @@
       "duration_ms": 337212,
       "name": "The Beauty of Suffering",
       "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Collection",
+        "url": "https://open.spotify.com/album/2qyxvqq9X7ncfHNdZajbPC"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Perennial",
+      "url": "https://open.spotify.com/track/606gzX3gtYCeMp0iyBEjhV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spiritbox",
+        "url": "https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 280556,
+      "name": "The Mara Effect, Pt. 1",
+      "url": "https://open.spotify.com/track/0nSs7VI50BrQv7StFpHiIf"
     },
     {
       "added_at": null,

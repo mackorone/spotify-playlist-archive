@@ -2,9 +2,9 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: B Ray
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RHYDER
 
-306 songs - 17 hr 57 min
+307 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [A Veil of Mist](https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn) | [SPACESPEAKERS](https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 5:02 | 2023-10-19 | 2023-11-03 |
 | [A Ă Â](https://open.spotify.com/track/1aWErZ1ehRZYyNgOKJhP3r) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [Anh Phan](https://open.spotify.com/artist/6Zx90B1VRgR4TB01S87duQ), [Queen B](https://open.spotify.com/artist/5gfQbUvWUkA77GzQudtMpZ) | [WeChoice Awards 2024](https://open.spotify.com/album/34kM1CZ2wolcVmmHBiDuRO) | 3:31 | 2025-05-13 | 2025-05-16 |
 | [Ai Cho Anh Lương Thiện](https://open.spotify.com/track/0EZRO9aheeMjRXUZaOshre) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F) | [421](https://open.spotify.com/album/0i3IirLVHTlg7JqMvv45tE) | 2:51 | 2024-07-11 | 2024-07-17 |
-| [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 | 2024-06-25 |  |
+| [Ai Mà Biết Được \(feat\. tlinh\)](https://open.spotify.com/track/7yfcQynap4xcNqnydaFw83) | [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [BẬT NÓ LÊN](https://open.spotify.com/album/5tlCVkYaDAmAtJ5YxejpWi) | 4:00 | 2024-06-25 | 2025-08-22 |
 | [Allnight \- Live](https://open.spotify.com/track/3ioQ4K8xVn0nMkbDdeBOXj) | [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Trap House Live Session](https://open.spotify.com/album/7v3MTXj9UV8Qws6AQmYouN) | 3:25 | 2023-10-19 | 2023-10-31 |
 | [An](https://open.spotify.com/track/11E0Czz974QfKWqJ9Niv5A) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [Minstu](https://open.spotify.com/artist/56oxFM7GQ14Z02IwpAx1lw) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:11 | 2024-06-17 | 2024-08-11 |
 | [An Thần](https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [An Thần](https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC) | 2:54 | 2023-10-19 | 2025-08-17 |
@@ -193,6 +193,7 @@
 | [Nhạc Trap Căng Nhất 2023](https://open.spotify.com/track/2aRg0cOGQ5k0rs3AK5nJPD) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [RPT JasonDilla](https://open.spotify.com/artist/2UHHfc0InrWSmUkiuss6f4), [24k.Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0) | [420ent.](https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV) | 3:33 | 2023-11-23 | 2024-10-04 |
 | [Nhật Ký Vào Đời](https://open.spotify.com/track/1DkYLzjwHaesQYObT2c3X2) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Thai VG](https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE) | [Nhật Ký Vào Đời](https://open.spotify.com/album/08zanqu0d9rwAhGixhN1Y3) | 4:02 | 2024-06-30 | 2024-07-17 |
 | [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 | 2024-01-08 |  |
+| [những đốm sáng](https://open.spotify.com/track/222NYCZ0cVyVprZJqGp4rf) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/5zyztYlsHoAeQKCsu8rVbo) | 4:03 | 2025-08-21 |  |
 | [Nicolai](https://open.spotify.com/track/79ewVZYhYmjYDJNndUDQEd) | [Liu Grace](https://open.spotify.com/artist/5DTQVDm1qjLUoAGC8v85c3) | [BOBBY](https://open.spotify.com/album/5PdF6CBRe5iQ7NSFoug79g) | 3:00 | 2024-06-03 | 2024-06-07 |
 | [No Way Back](https://open.spotify.com/track/119ovwmwcP4SHmTs3wcYhi) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz), [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:29 | 2024-06-25 | 2024-07-01 |
 | [NOLOVENOLIFE](https://open.spotify.com/track/4X2vrRE8Pi5hBMbWRjofAU) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Ai Cũng Phải Bắt Đầu Từ Đâu Đó](https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u) | 2:50 | 2023-10-19 | 2024-03-09 |

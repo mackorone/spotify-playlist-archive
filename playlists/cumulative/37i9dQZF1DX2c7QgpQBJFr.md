@@ -2,7 +2,7 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> La nuova scena pop italiana 🇮🇹  ANNA in cover
+> La nuova scena pop italiana 🇮🇹  Mida e Villabanks in cover
 
 765 songs - 1 day 11 hr 55 min
 

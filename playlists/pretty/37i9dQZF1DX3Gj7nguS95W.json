@@ -1,6 +1,6 @@
 {
   "description": "The greatest New Wave songs through the decades. Cover: Blondie",
-  "num_followers": 944468,
+  "num_followers": 944643,
   "original_name": "Essential New Wave",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "The Age Of Plastic",
-        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
-      },
-      "artists": [
-        {
-          "name": "The Buggles",
-          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Video Killed The Radio Star",
-      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Brotherhood (Collector's Edition)",
         "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 263213,
       "name": "Bizarre Love Triangle",
       "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "The Age Of Plastic",
+        "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
+      },
+      "artists": [
+        {
+          "name": "The Buggles",
+          "url": "https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Video Killed The Radio Star",
+      "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Talk Talk Talk",
-        "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
-      },
-      "artists": [
-        {
-          "name": "The Psychedelic Furs",
-          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
-        }
-      ],
-      "duration_ms": 238106,
-      "name": "Pretty in Pink",
-      "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
-    },
-    {
-      "added_at": "2024-07-05 23:34:09",
-      "album": {
         "name": "Singles (2016 Remaster)",
         "url": "https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 450800,
       "name": "Blue Monday - 2016 Remaster",
       "url": "https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX"
+    },
+    {
+      "added_at": "2024-07-05 23:34:09",
+      "album": {
+        "name": "Talk Talk Talk",
+        "url": "https://open.spotify.com/album/2fwQTAo511xnTWUYJ1Gnrh"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "duration_ms": 238106,
+      "name": "Pretty in Pink",
+      "url": "https://open.spotify.com/track/1K1TFdBh7NrDyKiwiJEmsy"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT"
       },
       "artists": [
         {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+          "name": "Magazine",
+          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
         }
       ],
-      "duration_ms": 189173,
-      "name": "Good Girls Don't",
-      "url": "https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C"
+      "duration_ms": 244320,
+      "name": "Shot By Both Sides - Remastered 2007",
+      "url": "https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2"
     },
     {
       "added_at": "2024-07-05 23:34:09",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-07-05 23:34:09",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/5cy3t8bW0lNzw9hjCPkRUT"
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
       "artists": [
         {
-          "name": "Magazine",
-          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
         }
       ],
-      "duration_ms": 244320,
-      "name": "Shot By Both Sides - Remastered 2007",
-      "url": "https://open.spotify.com/track/3aInErz06eEAbRHMnsORR2"
+      "duration_ms": 189173,
+      "name": "Good Girls Don't",
+      "url": "https://open.spotify.com/track/426i8hiYTwwlImNaluBb9C"
     },
     {
       "added_at": "2024-07-05 23:34:09",

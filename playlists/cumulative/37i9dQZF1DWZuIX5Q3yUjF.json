@@ -2183,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "c'est tout moi",
+        "url": "https://open.spotify.com/album/2PMPuBvxFKncVy2AHp00qh"
+      },
+      "artists": [
+        {
+          "name": "Big Dave",
+          "url": "https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST"
+        },
+        {
+          "name": "Giordano Dan",
+          "url": "https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "c'est tout moi",
+      "url": "https://open.spotify.com/track/7MLoLdp9dBLCWbzfcx3QTY"
+    },
+    {
+      "album": {
         "name": "Resta",
         "url": "https://open.spotify.com/album/3mesPGOUO7DZfhpWeuadbD"
       },
@@ -9156,6 +9178,24 @@
       "duration_ms": 155360,
       "name": "Mercurio",
       "url": "https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac"
+    },
+    {
+      "album": {
+        "name": "Metal Baby",
+        "url": "https://open.spotify.com/album/5nbPTQ637U2b2G6c6jF2Tk"
+      },
+      "artists": [
+        {
+          "name": "Lisa Laner",
+          "url": "https://open.spotify.com/artist/2Modg36iLszUzX5r1DjMlz"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153830,
+      "name": "Metal Baby",
+      "url": "https://open.spotify.com/track/3GY3L48tzZBLriijHdsFKh"
     },
     {
       "album": {

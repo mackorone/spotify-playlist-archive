@@ -4,7 +4,7 @@
 
 > 
 
-154 songs - 12 hr 43 min
+155 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [What if midday was at midnite \- Kölsch Remix](https://open.spotify.com/track/6SeatlYdh1e1YHlWQZcrYZ) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [What if midday was at midnite \(Kölsch Remix\)](https://open.spotify.com/album/0RhoJ3l9G1JaMnDVdXa0vR) | 5:40 | 2022-09-11 |  |
 | [What You Need \- Kölsch Remix](https://open.spotify.com/track/5nO8fPVO3z3yip3JkePXIb) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [What You Need \(Kölsch Remix\)](https://open.spotify.com/album/4V0JTfi2B14c8E39u8cvIO) | 6:40 | 2023-03-30 |  |
 | [Where´re you going ?](https://open.spotify.com/track/57wjAIkbSdHUrZiUxjiuvx) | [Wanton](https://open.spotify.com/artist/2GuBiMEkNPxnVyuoIY5Ckm) | [Where´re you going ?](https://open.spotify.com/album/1F18VFnUPmTnupLZEqpAkI) | 5:26 | 2025-02-28 |  |
+| [Why Can’t We Live Forever?](https://open.spotify.com/track/6UVMbsN3o13f4LriXGsAmU) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:31 | 2025-08-21 |  |
 | [You and Me](https://open.spotify.com/track/4Elb9ia3RBhTDtJN8qe29k) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [You and Me](https://open.spotify.com/album/0IGpJTaj2t5dsb7OVeKFBt) | 3:11 | 2023-11-17 |  |
 | [You're Not Alone \- Solomun Remix](https://open.spotify.com/track/6YEQHjK7LlMFiUIUKEl3Ey) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [You're Not Alone \(Remixes\)](https://open.spotify.com/album/1ENugzdS2brZfuSebfxvGi) | 8:23 | 2019-02-16 |  |
 | [Your Mind](https://open.spotify.com/track/1WsHKAuN9vDthcmimdqqaY) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/07lumzt0xDO5eyuWwvevAJ) | 8:22 | 2019-05-18 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : J Balvin",
+  "description": "Tous les hits latino du moment sont ici. Photo : Sof\u00eda Reyes, Lu\u00edsa Sonza",
   "name": "Caliente",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 223855,
       "name": "bunda \ud83c\udf51",
       "url": "https://open.spotify.com/track/3UEIObvIQMJzF09RWRcqcP"
@@ -828,6 +828,50 @@
       "duration_ms": 220266,
       "name": "BYK",
       "url": "https://open.spotify.com/track/6roXwAFXzYm5pkr7z0ihVb"
+    },
+    {
+      "album": {
+        "name": "BYONCE",
+        "url": "https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "BYONCE",
+      "url": "https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ"
+    },
+    {
+      "album": {
+        "name": "B\u00c1JALE",
+        "url": "https://open.spotify.com/album/2pne8POraEJabZrYZtnXxT"
+      },
+      "artists": [
+        {
+          "name": "Alex Grox",
+          "url": "https://open.spotify.com/artist/4JVjViXsgKm7GFfPQsNKWO"
+        },
+        {
+          "name": "Shaz",
+          "url": "https://open.spotify.com/artist/4SINBSA4jou9ptE88AYQE9"
+        },
+        {
+          "name": "Milki",
+          "url": "https://open.spotify.com/artist/5L5WPw03S3X98Xb84hxZ0W"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "B\u00c1JALE",
+      "url": "https://open.spotify.com/track/72O8M5yxRY56IaKUrgbRgE"
     },
     {
       "album": {
@@ -1368,7 +1412,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 145506,
       "name": "Da Me",
       "url": "https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0"
@@ -2830,7 +2874,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -3610,7 +3654,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 257500,
       "name": "Mami T\u00fa (Remix)",
       "url": "https://open.spotify.com/track/3DtlIQT5OBoGa0D1xYT0Yx"
@@ -4937,6 +4981,24 @@
     },
     {
       "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -5184,6 +5246,24 @@
       "duration_ms": 145920,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/68bBkraktrqkPBChCR9O7j"
+    },
+    {
+      "album": {
+        "name": "SE LO JURO MOR",
+        "url": "https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170654,
+      "name": "SE LO JURO MOR",
+      "url": "https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM"
     },
     {
       "album": {
@@ -6176,6 +6256,28 @@
       "duration_ms": 156377,
       "name": "Universidad",
       "url": "https://open.spotify.com/track/2XbsqBrOdYjm0OLBEepID7"
+    },
+    {
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
     },
     {
       "album": {

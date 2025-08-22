@@ -1,6 +1,6 @@
 {
   "description": "Flow so good, it deserved a reload.  Cover: Kacie",
-  "num_followers": 732706,
+  "num_followers": 732674,
   "original_name": "Grime Shutdown",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
-      },
-      "artists": [
-        {
-          "name": "JAY10!",
-          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
-        }
-      ],
-      "duration_ms": 125142,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
         "name": "CALM",
         "url": "https://open.spotify.com/album/723ujhDCNK9Rw0n6GNQ09G"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/23Q1sb2XLPfMENMxoFQaZL"
+      },
+      "artists": [
+        {
+          "name": "JAY10!",
+          "url": "https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/3hdRDD1AEFO0077sxJKLwb"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
         "name": "Even inda Wok",
         "url": "https://open.spotify.com/album/22V1P5s3P0kq7AyCrWWcp0"
       },
@@ -355,50 +355,6 @@
       "duration_ms": 212244,
       "name": "Even inda Wok",
       "url": "https://open.spotify.com/track/4k54JpnWCozhGpwzGrsv0g"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
-        "name": "Practice Hours",
-        "url": "https://open.spotify.com/album/6y4xv9kI4o5bZOFLTWHTom"
-      },
-      "artists": [
-        {
-          "name": "Scorcher",
-          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
-        },
-        {
-          "name": "Slix",
-          "url": "https://open.spotify.com/artist/56fYK2oDhViQcuZ0AnCotQ"
-        },
-        {
-          "name": "RB",
-          "url": "https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Practice Hours",
-      "url": "https://open.spotify.com/track/36aNPoQVCaxZXhJRwIWAO5"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
-        "name": "Numbers Game",
-        "url": "https://open.spotify.com/album/62aq3R5eNgC9z2GEBbxvqa"
-      },
-      "artists": [
-        {
-          "name": "Kruz Leone",
-          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
-        },
-        {
-          "name": "Hayzee",
-          "url": "https://open.spotify.com/artist/5rNdhxHoMhz6vbSpHLDoFc"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Numbers Game",
-      "url": "https://open.spotify.com/track/3hQoUZ6VVKWnJiLkLq7k1i"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -423,6 +379,50 @@
       "duration_ms": 180375,
       "name": "ALIGATOR",
       "url": "https://open.spotify.com/track/1W0T2JAxvQv68tm30ZMEmB"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
+        "name": "Numbers Game",
+        "url": "https://open.spotify.com/album/62aq3R5eNgC9z2GEBbxvqa"
+      },
+      "artists": [
+        {
+          "name": "Kruz Leone",
+          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+        },
+        {
+          "name": "Hayzee",
+          "url": "https://open.spotify.com/artist/5rNdhxHoMhz6vbSpHLDoFc"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Numbers Game",
+      "url": "https://open.spotify.com/track/3hQoUZ6VVKWnJiLkLq7k1i"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
+        "name": "Practice Hours",
+        "url": "https://open.spotify.com/album/6y4xv9kI4o5bZOFLTWHTom"
+      },
+      "artists": [
+        {
+          "name": "Scorcher",
+          "url": "https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n"
+        },
+        {
+          "name": "Slix",
+          "url": "https://open.spotify.com/artist/56fYK2oDhViQcuZ0AnCotQ"
+        },
+        {
+          "name": "RB",
+          "url": "https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Practice Hours",
+      "url": "https://open.spotify.com/track/36aNPoQVCaxZXhJRwIWAO5"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -815,7 +815,7 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
-        "name": "Spirit, Pt. 1",
+        "name": "spirit, pt. 1",
         "url": "https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi"
       },
       "artists": [
@@ -825,8 +825,24 @@
         }
       ],
       "duration_ms": 109918,
-      "name": "Spirit, Pt. 1",
+      "name": "spirit, pt. 1",
       "url": "https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
+        "name": "3 3 3 3",
+        "url": "https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Hyperfocus",
+      "url": "https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -855,22 +871,6 @@
       "duration_ms": 174857,
       "name": "Back2Back",
       "url": "https://open.spotify.com/track/1JEpTpdCF5CuM9qhH7JAkr"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
-        "name": "3 3 3 3",
-        "url": "https://open.spotify.com/album/7JFR8bAEka2OjUGh5iPMZe"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Hyperfocus",
-      "url": "https://open.spotify.com/track/2MjwF2xVs5hMYv8tFTyqIe"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -995,30 +995,6 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
-        "name": "Level & Size",
-        "url": "https://open.spotify.com/album/1t1DvQXZQfiWChkSSZmOSi"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "MoreNight",
-          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
-        },
-        {
-          "name": "Queenie",
-          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Level & Size",
-      "url": "https://open.spotify.com/track/1VoxjPvbXaBmDbrA0C7sme"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
         "name": "Nature Of The Game",
         "url": "https://open.spotify.com/album/062l6P1PrvAIs3o774murf"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 207857,
       "name": "Nature Of the Game",
       "url": "https://open.spotify.com/track/1Z1MXTGoC7qDvCfvu5KFzQ"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
+        "name": "Level & Size",
+        "url": "https://open.spotify.com/album/1t1DvQXZQfiWChkSSZmOSi"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Queenie",
+          "url": "https://open.spotify.com/artist/24Tv4phxgSYyLeybMCvMmO"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Level & Size",
+      "url": "https://open.spotify.com/track/1VoxjPvbXaBmDbrA0C7sme"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
-        "name": "Sickest",
-        "url": "https://open.spotify.com/album/1rPnfCR9P8aKh17zkJxt64"
-      },
-      "artists": [
-        {
-          "name": "Skamma",
-          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
-        },
-        {
-          "name": "Skinzmann",
-          "url": "https://open.spotify.com/artist/4LYC87LRTZHzfcjE6369OM"
-        }
-      ],
-      "duration_ms": 236486,
-      "name": "Sickest",
-      "url": "https://open.spotify.com/track/2dPXzSEky54rtrszuVm32O"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
         "name": "NO SENSE",
         "url": "https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 195428,
       "name": "NO SENSE",
       "url": "https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
+        "name": "Sickest",
+        "url": "https://open.spotify.com/album/1rPnfCR9P8aKh17zkJxt64"
+      },
+      "artists": [
+        {
+          "name": "Skamma",
+          "url": "https://open.spotify.com/artist/4GmeRSlqrWn9Tg4pVq7XmU"
+        },
+        {
+          "name": "Skinzmann",
+          "url": "https://open.spotify.com/artist/4LYC87LRTZHzfcjE6369OM"
+        }
+      ],
+      "duration_ms": 236486,
+      "name": "Sickest",
+      "url": "https://open.spotify.com/track/2dPXzSEky54rtrszuVm32O"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
-        "name": "Grime Medley, Pt. 1",
-        "url": "https://open.spotify.com/album/51muc0fwirGorde0lY7Hga"
-      },
-      "artists": [
-        {
-          "name": "DYNO",
-          "url": "https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Grime Medley, Pt. 1",
-      "url": "https://open.spotify.com/track/0zVdq7RkOJV9qZKKilDgWD"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
         "name": "Back Alive",
         "url": "https://open.spotify.com/album/6gkjQkQDmW1YKjimEluNcm"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
+        "name": "Grime Medley, Pt. 1",
+        "url": "https://open.spotify.com/album/51muc0fwirGorde0lY7Hga"
+      },
+      "artists": [
+        {
+          "name": "DYNO",
+          "url": "https://open.spotify.com/artist/4LA8Md9s5vNRscOFOe7wzq"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Grime Medley, Pt. 1",
+      "url": "https://open.spotify.com/track/0zVdq7RkOJV9qZKKilDgWD"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
         "name": "ICE VS ICE",
         "url": "https://open.spotify.com/album/6XemLZ6kdvA4WY0DRc3QjM"
       },
@@ -1275,30 +1275,6 @@
       "duration_ms": 82500,
       "name": "ICE VS ICE",
       "url": "https://open.spotify.com/track/2Hcg8Jrx0EzUI80pxKnmZa"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
-        "name": "LORDSBACK",
-        "url": "https://open.spotify.com/album/5cMsjqmXAdnUCRSg9lmxRu"
-      },
-      "artists": [
-        {
-          "name": "Lord Biggz",
-          "url": "https://open.spotify.com/artist/71fUTviaur73SQsThAkJ0N"
-        },
-        {
-          "name": "Idris Miles",
-          "url": "https://open.spotify.com/artist/4YV89vslAioQjuWNZYezzj"
-        },
-        {
-          "name": "Megamikes",
-          "url": "https://open.spotify.com/artist/3tGMsKZaETe0hipKWZWchb"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "LORDSBACK",
-      "url": "https://open.spotify.com/track/6tz7H2LGak2ePMD9NPCNFz"
     },
     {
       "added_at": "2025-07-31 16:02:40",
@@ -1339,6 +1315,46 @@
     {
       "added_at": "2025-07-31 16:02:40",
       "album": {
+        "name": "LORDSBACK",
+        "url": "https://open.spotify.com/album/5cMsjqmXAdnUCRSg9lmxRu"
+      },
+      "artists": [
+        {
+          "name": "Lord Biggz",
+          "url": "https://open.spotify.com/artist/71fUTviaur73SQsThAkJ0N"
+        },
+        {
+          "name": "Idris Miles",
+          "url": "https://open.spotify.com/artist/4YV89vslAioQjuWNZYezzj"
+        },
+        {
+          "name": "Megamikes",
+          "url": "https://open.spotify.com/artist/3tGMsKZaETe0hipKWZWchb"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "LORDSBACK",
+      "url": "https://open.spotify.com/track/6tz7H2LGak2ePMD9NPCNFz"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
+        "name": "We're All On TV",
+        "url": "https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ"
+      },
+      "artists": [
+        {
+          "name": "Bruza",
+          "url": "https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx"
+        }
+      ],
+      "duration_ms": 222124,
+      "name": "In My Corner",
+      "url": "https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY"
+    },
+    {
+      "added_at": "2025-07-31 16:02:40",
+      "album": {
         "name": "Blas4Me",
         "url": "https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 173095,
       "name": "Big Shaq",
       "url": "https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb"
-    },
-    {
-      "added_at": "2025-07-31 16:02:40",
-      "album": {
-        "name": "We're All On TV",
-        "url": "https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ"
-      },
-      "artists": [
-        {
-          "name": "Bruza",
-          "url": "https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx"
-        }
-      ],
-      "duration_ms": 222124,
-      "name": "In My Corner",
-      "url": "https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY"
     },
     {
       "added_at": "2025-07-31 16:02:40",

@@ -2,9 +2,9 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> BLACKPINK au top des bangers dance/electro du moment !
+> TR3NACRIA au top des bangers dance/electro du moment !
 
-286 songs - 13 hr 11 min
+287 songs - 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Atmosphere](https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d) | 3:02 | 2023-09-28 | 2023-11-17 |
 | [Autour Du Monde](https://open.spotify.com/track/307o2oV0r5OPornAaBjAjz) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Ambre Vallet](https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF) | [Around The World](https://open.spotify.com/album/5EuYNs0Zp7AjldY7kfvH0g) | 2:22 | 2024-10-24 | 2025-04-11 |
 | [Axel F \(Take It To The Floor\) \(with Gabry Ponte\)](https://open.spotify.com/track/69akic9gR26niltxBY8pFm) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Axel F \(Take It To The Floor\) \(with Gabry Ponte\)](https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD) | 2:19 | 2024-08-01 | 2025-02-21 |
+| [Back To The Beach \(DJ Chappie Edit\)](https://open.spotify.com/track/2eVweHXq3I3UDr7HBswH1U) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB), [Kyle Deutsch](https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL), [DJ Chappie Official](https://open.spotify.com/artist/76yCgQu9uFZweUGILKeWkq) | [Back To The Beach \(DJ Chappie Edit\)](https://open.spotify.com/album/3wNYAXUQrPaAsRSN6vqhov) | 2:42 | 2025-08-21 |  |
 | [Back to the beach \- Dj CHAPPIE remix](https://open.spotify.com/track/42X2pnBfdFDrggaP50Rb4d) | [DJ Chappie Official](https://open.spotify.com/artist/1SAB8YqaPr6aAO2FEfgN25) | [Back to the beach \(Dj CHAPPIE remix\)](https://open.spotify.com/album/5llJ0uPLELMMHWvEGZ0QYd) | 3:34 | 2025-05-15 | 2025-06-06 |
 | [Bad Dreams \- HUGEL Remix](https://open.spotify.com/track/2s2NJlQfNF77nQcQvb4sBk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Bad Dreams \(HUGEL Remix\)](https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd) | 3:02 | 2025-04-10 | 2025-05-16 |
 | [Baila Morena \- R3HAB Remix](https://open.spotify.com/track/4nQt8jf7YtvFFNoTI2uE2Y) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Baila Morena \(R3HAB Remix\)](https://open.spotify.com/album/2OgaEdrn242dNwscn4cGzv) | 2:24 | 2025-05-01 |  |
@@ -184,7 +185,7 @@
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-05 | 2024-03-01 |
 | [Mr\. Lie to Me](https://open.spotify.com/track/4RvvNtKEOBbZpegZiCOFOD) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [Mr\. Lie to Me](https://open.spotify.com/album/2qPyJztYtdQNDxuN5ESdjv) | 2:49 | 2025-05-01 |  |
 | [Murder On The Dancefloor \- David Guetta Remix](https://open.spotify.com/track/3g5KZyz7LmG7xsAe6c4O5b) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Murder On The Dancefloor \(David Guetta Remix\)](https://open.spotify.com/album/3WqgCHY7LbKrnsM1PXm5Sk) | 2:54 | 2024-03-07 | 2024-04-26 |
-| [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-08-14 |  |
+| [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-08-14 | 2025-08-22 |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2024-01-18 | 2024-08-02 |
 | [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2024-01-11 | 2024-01-19 |
 | [Narina](https://open.spotify.com/track/0DQfBtvq7MSR9fg6MJOMRy) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Lura](https://open.spotify.com/artist/0zNTRuF4PDWOt7IGHpGyNc) | [Narina](https://open.spotify.com/album/0NgWiiQWD7d4uzbUx6xqWo) | 2:55 | 2025-04-03 |  |

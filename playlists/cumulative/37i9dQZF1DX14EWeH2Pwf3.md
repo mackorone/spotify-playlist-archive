@@ -2,7 +2,7 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> Sad, KIID, Ghali e Shiva in cover della playlist urban più grande in Italia 🔥
+> Le\-one in cover della playlist urban più grande in Italia 🔥
 
 849 songs - 1 day 17 hr 26 min
 

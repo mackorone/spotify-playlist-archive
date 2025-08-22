@@ -1,6 +1,6 @@
 {
   "description": "Dukh Dard Peeda!  \ud83e\udec2",
-  "num_followers": 202354,
+  "num_followers": 202459,
   "original_name": "I-Pop Sad Feels",
   "owner": {
     "name": "Spotify",
@@ -398,6 +398,10 @@
         {
           "name": "Afsana Khan",
           "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
         },
         {
           "name": "Harrdy Sandhu",
@@ -979,6 +983,22 @@
     {
       "added_at": "2025-08-13 06:11:01",
       "album": {
+        "name": "PYAAR HUMARA",
+        "url": "https://open.spotify.com/album/7syNlcl1mcB70xo3Y2sYyz"
+      },
+      "artists": [
+        {
+          "name": "KING",
+          "url": "https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI"
+        }
+      ],
+      "duration_ms": 167763,
+      "name": "PYAAR HUMARA",
+      "url": "https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q"
+    },
+    {
+      "added_at": "2025-08-13 06:11:01",
+      "album": {
         "name": "Main Royaan",
         "url": "https://open.spotify.com/album/0qh4TdcWuEEKsuGfJEHe8v"
       },
@@ -1003,22 +1023,6 @@
       "duration_ms": 249353,
       "name": "Main Royaan",
       "url": "https://open.spotify.com/track/3D6c6ALN1czsDf9wwZIGmh"
-    },
-    {
-      "added_at": "2025-08-13 06:11:01",
-      "album": {
-        "name": "PYAAR HUMARA",
-        "url": "https://open.spotify.com/album/7syNlcl1mcB70xo3Y2sYyz"
-      },
-      "artists": [
-        {
-          "name": "KING",
-          "url": "https://open.spotify.com/artist/2D6VatUrBCa9y4vmZNm3BI"
-        }
-      ],
-      "duration_ms": 167763,
-      "name": "PYAAR HUMARA",
-      "url": "https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q"
     },
     {
       "added_at": "2025-08-13 06:11:01",

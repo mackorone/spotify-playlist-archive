@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of future noise\. Cover: Wisp
+> The shape of future noise\. Cover: They Are Gutting a Body Of Water
 
-838 songs - 2 day 0 hr 7 min
+840 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,6 +409,7 @@
 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 | 2022-02-03 | 2022-04-29 |
 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 | 2023-05-19 | 2024-01-04 |
 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 | 2022-09-06 | 2023-02-22 |
+| [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-21 |  |
 | [Insultiment](https://open.spotify.com/track/1BWbOD4CoE451SffL8Kj3W) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:46 | 2024-01-26 | 2024-02-03 |
 | [Into Nothing](https://open.spotify.com/track/1qkZ5giwWuADyot5xA2TCv) | [Splitview](https://open.spotify.com/artist/3ZjcTj1vxM9i0f7QDfRPuZ) | [Into Nothing](https://open.spotify.com/album/5hjEAl4XlCvb5FKHZVmh1I) | 2:42 | 2024-07-26 | 2024-10-12 |
 | [Into the Trap](https://open.spotify.com/track/6wQenOUgfgP9ioeWc6vH0E) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Into the Trap](https://open.spotify.com/album/43ZIULcetVrO3ieqLnrjoE) | 3:52 | 2023-01-13 | 2023-03-11 |
@@ -736,6 +737,7 @@
 | [That Day](https://open.spotify.com/track/5jzBUYBQ32KhiNZwNIzfOh) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [That Day](https://open.spotify.com/album/0GaS3ctTC11J1Yq9YczkgC) | 2:04 | 2023-06-02 | 2023-07-29 |
 | [That Dress](https://open.spotify.com/track/2Ymkbl3dvodVlGeGOnCSYU) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [That Dress](https://open.spotify.com/album/5Fbw95kqHBu32sv9Y8ghWi) | 3:20 | 2021-12-16 | 2022-02-04 |
 | [The Apollo Programme Was A Hoax](https://open.spotify.com/track/0sXsOeBuEEPQPmJpPQhISe) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [The Apollo Programme Was A Hoax](https://open.spotify.com/album/2VfpzHUHKc4Ni26qeaD70D) | 3:11 | 2024-11-08 | 2025-03-01 |
+| [the chase](https://open.spotify.com/track/2qNww5D7A3E5Jo1wtVQKMD) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [the chase](https://open.spotify.com/album/2B6Zano0KSvh8J7fOPdOOH) | 3:25 | 2025-08-21 |  |
 | [The Dreamer](https://open.spotify.com/track/0llc2RbbO9ncQfhcQX5ydh) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [Horizons / East](https://open.spotify.com/album/6JLTZPPzQDKjv6zkenbZnc) | 3:56 | 2021-12-16 | 2022-02-25 |
 | [The Drugs](https://open.spotify.com/track/728FZzHPZ0vt6biYQYOOCz) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [The Drugs](https://open.spotify.com/album/2RsqX9br4REyvqsuFGDqRb) | 1:58 | 2022-10-21 | 2023-02-03 |
 | [The Gift](https://open.spotify.com/track/5FxKVfinImnMlhSBGnXuTc) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [The Gift](https://open.spotify.com/album/0e8GLQRItYsatUrr4BuB2H) | 3:27 | 2023-05-03 | 2023-06-24 |

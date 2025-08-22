@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Ticya",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Aziz Hedra, Sisca Saras",
   "name": "JIVVA",
   "tracks": [
     {
@@ -749,6 +749,50 @@
     },
     {
       "album": {
+        "name": "dusta",
+        "url": "https://open.spotify.com/album/5WJDpfRQJ3n7Q0LlaalF1d"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201191,
+      "name": "dusta",
+      "url": "https://open.spotify.com/track/5TigmnZ3JxlwNvlVe9EU5a"
+    },
+    {
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/4LVVokSMi6D8f5xX0JO9ev"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        },
+        {
+          "name": "Arif DG Rate",
+          "url": "https://open.spotify.com/artist/2chclvmh09mRLkSBiZCy4O"
+        },
+        {
+          "name": "Saleh Hariwibowo",
+          "url": "https://open.spotify.com/artist/3bk30OwAODCVXw5ST6pBi0"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233050,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk"
+    },
+    {
+      "album": {
         "name": "Esok kan Masih Ada",
         "url": "https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN"
       },
@@ -994,6 +1038,28 @@
       "duration_ms": 237546,
       "name": "Hanya Memuji",
       "url": "https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3V4lkg9bZdiD4W31Ec5DWc"
+      },
+      "artists": [
+        {
+          "name": "INDAHKUS",
+          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
+        },
+        {
+          "name": "EDUO",
+          "url": "https://open.spotify.com/artist/2o3ddTmWSrGSyVQc3Sgf6b"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214956,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
     },
     {
       "album": {
@@ -1768,6 +1834,28 @@
       "duration_ms": 340000,
       "name": "On It",
       "url": "https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj"
+    },
+    {
+      "album": {
+        "name": "Orang Biasa",
+        "url": "https://open.spotify.com/album/6iouAGOCicSo8yUPxzyUeR"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Sisca Saras",
+          "url": "https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214379,
+      "name": "Orang Biasa",
+      "url": "https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv"
     },
     {
       "album": {

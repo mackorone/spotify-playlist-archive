@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 
 ### [Modus Mio](https://open.spotify.com/playlist/37i9dQZF1DX36edUJpD76c)
 
-> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Loredana
+> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: RAF Camora
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,975,303 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,975,174 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36edUJpD76c.md) - [plain]
 | 49 | [Knoppers](https://open.spotify.com/track/42nG2hVZIVNfPBQ8RiOCAj) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W), [Traya](https://open.spotify.com/artist/0bo1LMgTEg5qpicrIee54M) | [Knoppers](https://open.spotify.com/album/0RzlcFXkk0MJmcQhYxwcwR) | 2:06 |
 | 50 | [ô dis où t'es](https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [ô dis où t'es](https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE) | 2:10 |
 
-Snapshot ID: `AAAAALKAAXXQoubeW1PvIp5ITYVSVY19`
+Snapshot ID: `AAAAAHhJbtVyWNNwMUvkKCOG/VcKnxdz`

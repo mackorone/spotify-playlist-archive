@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,874 likes - 150 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,875 likes - 150 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 41 | [Bee & Boo's Lullaby](https://open.spotify.com/track/50BHMMVvZaVCQVnZ3n6JxQ) | [Leanne Haughey](https://open.spotify.com/artist/1ohrmBFOBxEUhhC7URdjap) | [Bee & Boo's Lullaby](https://open.spotify.com/album/6CoKj62iTUoFAWWvY4fF16) | 1:43 |
 | 42 | [My Puppy](https://open.spotify.com/track/1ylOYsOWTCxozJJ4eOW1mY) | [John Felipe](https://open.spotify.com/artist/5ZrLtkcI48xbgH57MyAjEO) | [My Puppy](https://open.spotify.com/album/0H8uzKnCMYXFpvzmHNXSH4) | 1:21 |
 | 43 | [How Much Is That Doggie In The Window?](https://open.spotify.com/track/3r2L8VNe1f2zrob401d6K1) | [Tom Abott](https://open.spotify.com/artist/4Mxad1PBRHlkgCRhpKhTbf) | [How Much Is That Doggie In The Window?](https://open.spotify.com/album/5Lb6JFr7virY0Pp3nROzbo) | 2:08 |
-| 44 | [On the bridge of Avignon](https://open.spotify.com/track/1Er4WgzhppOWFlmflkbwUL) | [Pete Morton](https://open.spotify.com/artist/4ZPuSOZorbyFg7JrwV1rxz) | [On the bridge of Avignon](https://open.spotify.com/album/4pv6fAPFwe8rXR6zRYjQ1S) | 1:01 |
-| 45 | [All Of Your Friends](https://open.spotify.com/track/2pmYurg3NrwqdCBm4s33Gu) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [All Of Your Friends](https://open.spotify.com/album/1gKNUNR60Vhe7SQnYNC9EU) | 1:56 |
+| 44 | [All Of Your Friends](https://open.spotify.com/track/2pmYurg3NrwqdCBm4s33Gu) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [All Of Your Friends](https://open.spotify.com/album/1gKNUNR60Vhe7SQnYNC9EU) | 1:56 |
+| 45 | [On the bridge of Avignon](https://open.spotify.com/track/1Er4WgzhppOWFlmflkbwUL) | [Pete Morton](https://open.spotify.com/artist/4ZPuSOZorbyFg7JrwV1rxz) | [On the bridge of Avignon](https://open.spotify.com/album/4pv6fAPFwe8rXR6zRYjQ1S) | 1:01 |
 | 46 | [Nightingales](https://open.spotify.com/track/6XAaEIck50dvq916jorgDQ) | [Caprice Henry](https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G) | [Nightingales](https://open.spotify.com/album/7gOBRAV2KjPCDCz146QZBD) | 2:05 |
 | 47 | [Sleepy Teddy's Tale](https://open.spotify.com/track/45LzgmtpD3LqOfzi4bKBOr) | [Jordan Avery](https://open.spotify.com/artist/1LXnzItmTIO6wBobBHHj7a) | [Sleepy Teddy's Tale](https://open.spotify.com/album/5beaPgAqOLpHPnGfHuTQTK) | 1:22 |
 | 48 | [Soon You'll Be Sleeping](https://open.spotify.com/track/0i4sCtWsaH7j58bF7TzqXI) | [Mio Santos](https://open.spotify.com/artist/0KqbhLJxdv6cMJjAKzmZUs) | [Sleep My Little Baby](https://open.spotify.com/album/26N14Eo9l80J9L0SJKrVCX) | 1:05 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 59 | [Birds Come Morning](https://open.spotify.com/track/1EKfN9J9WgAKLUmXFtUzXu) | [Aryan Armstrong](https://open.spotify.com/artist/5PDN3kzgUe0ns31NnvSfCp) | [Birds Come Morning](https://open.spotify.com/album/5yoXBNJxPNTRIWyqYROgO2) | 2:21 |
 | 60 | [Free Like A Bird](https://open.spotify.com/track/5isCRIO6O1YwJ0tDg2RRxM) | [Gil Sunniver](https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM) | [Free Like A Bird](https://open.spotify.com/album/4gs7itVM92J52UHqILnbIJ) | 2:16 |
 | 61 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 |
-| 62 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 |
+| 62 | [Teddy’s Lullaby](https://open.spotify.com/track/3TuNQGJdrebvxgOWUQXLoU) | [Eli Amos](https://open.spotify.com/artist/7KgM7NKmnBOCTCjNGPdBEs) | [Teddy’s Lullaby](https://open.spotify.com/album/3ohlBKe89Dzx9jb6Jjk2ru) | 1:43 |
 | 63 | [Clouds In The Sky](https://open.spotify.com/track/2sQx2mxgTBjIthJ1ZTlJFX) | [Ebbe & Lilly](https://open.spotify.com/artist/26zaS9jwYG7PxrixBvYXGA) | [Clouds In The Sky](https://open.spotify.com/album/6JjW4ufwIc7DJjDKrPzvhs) | 1:52 |
-| 64 | [Teddy’s Lullaby](https://open.spotify.com/track/3TuNQGJdrebvxgOWUQXLoU) | [Eli Amos](https://open.spotify.com/artist/7KgM7NKmnBOCTCjNGPdBEs) | [Teddy’s Lullaby](https://open.spotify.com/album/3ohlBKe89Dzx9jb6Jjk2ru) | 1:43 |
+| 64 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 |
 | 65 | [Lullaby for Better Days](https://open.spotify.com/track/4H0tWV4I3OD2sPS8XLUClh) | [David Carrico](https://open.spotify.com/artist/1x8uPG69TarRCvAUD1N5Np) | [Lullaby for Better Days](https://open.spotify.com/album/2jvgRjutjBD4On4cGvsAoe) | 2:06 |
 | 66 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 |
 | 67 | [Sandman](https://open.spotify.com/track/3YwcohusRJnODwSxCSdLeg) | [Tiny Hush](https://open.spotify.com/artist/6BzXBD4mURyadXWHwhHWMF) | [Sandman](https://open.spotify.com/album/5PjDNLHyLtqJGmxhRsxgEP) | 1:45 |
@@ -151,12 +151,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 141 | [Good Night](https://open.spotify.com/track/1d6YLD4YvLH3o1FgRfZgfX) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Sleep Tight](https://open.spotify.com/album/0fADUXUvdagL05clhet7xW) | 2:27 |
 | 142 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
 | 143 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 |
-| 144 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 |
-| 145 | [Puppie Joe](https://open.spotify.com/track/5fwazm4P46cCDxqvipbJtB) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Naptime](https://open.spotify.com/album/3daO9Rb8211Lzf4HFrfaPS) | 1:28 |
-| 146 | [BINGO](https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [BINGO](https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI) | 2:10 |
-| 147 | [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 |
-| 148 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 |
+| 144 | [Puppie Joe](https://open.spotify.com/track/5fwazm4P46cCDxqvipbJtB) | [Ken Silverstar](https://open.spotify.com/artist/07QZAzZO63SuP912Ef5WPG) | [Naptime](https://open.spotify.com/album/3daO9Rb8211Lzf4HFrfaPS) | 1:28 |
+| 145 | [Hush Now Little Baby](https://open.spotify.com/track/4zP8XMQnw6QGJZKVS0Wes3) | [Rosalie Andersdotter](https://open.spotify.com/artist/4s5tfHvAPebz3Ue4DP6KTb) | [Hush Now Little Baby](https://open.spotify.com/album/3qp71hKEcuiDaiwVjtAICq) | 2:11 |
+| 146 | [Sandman](https://open.spotify.com/track/02FfqOI4EcQBHfDkECZW69) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Sandman](https://open.spotify.com/album/16DUnk7CYpdtLdGFLlDc2G) | 1:32 |
+| 147 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 |
+| 148 | [BINGO](https://open.spotify.com/track/3iDlyTLMgkz5ytngqkdj9C) | [Alexis Montague](https://open.spotify.com/artist/0vb87QbwjeqPLvDUahlZpa) | [BINGO](https://open.spotify.com/album/5K5boqEFKBxJDcHMNdjtNI) | 2:10 |
 | 149 | [Little Ballerina](https://open.spotify.com/track/0iVFnnn0nCjdv2XhlO7BA9) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Little Ballerina](https://open.spotify.com/album/7bLaVvG89oTvjZJcGWp8kO) | 1:34 |
-| 150 | [Puppy´s Dream](https://open.spotify.com/track/3xwmrjpBEDtM1nyFhJ7Y0h) | [Tiffany Royce](https://open.spotify.com/artist/0NHb5ZgkewGNZZZxgyn2Vo) | [Puppy´s Dream](https://open.spotify.com/album/7JuIYEqr5fn945ciHRAEtW) | 1:17 |
+| 150 | [Hubert, the magic dog](https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6) | [Tatton Sage](https://open.spotify.com/artist/7uFje8Q60Ydw3sjBkZsO3W) | [Hubert, the magic dog](https://open.spotify.com/album/3n9jKccSiibP9CQlUIWgPm) | 1:24 |
 
 Snapshot ID: `AAAAABaxPUtPWkIRH8mFRlpK1g/TbaPw`

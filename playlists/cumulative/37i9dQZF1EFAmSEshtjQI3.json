@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "El Pacto",
+        "url": "https://open.spotify.com/album/5Dt2lnQ9Q7sBV6AZzky5SY"
+      },
+      "artists": [
+        {
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165855,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/3YbvXAIFZTKKuX8FiRlru3"
+    },
+    {
+      "album": {
         "name": "cuando coincidimos",
         "url": "https://open.spotify.com/album/2Rys1A1mragEl9rHsYGmcp"
       },
@@ -462,6 +480,24 @@
       "duration_ms": 159835,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
+    },
+    {
+      "album": {
+        "name": "Florida Sunset",
+        "url": "https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189936,
+      "name": "Montego Bay",
+      "url": "https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME"
     },
     {
       "album": {

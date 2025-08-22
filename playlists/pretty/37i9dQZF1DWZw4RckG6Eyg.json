@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray",
-  "num_followers": 41039,
+  "num_followers": 41054,
   "original_name": "Indie songs from 2024 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Snoopy",
+      "url": "https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 162807,
       "name": "Eating Heartache (feat. spill tab)",
       "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Sd-2",
-        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Snoopy",
-      "url": "https://open.spotify.com/track/7IhiFqtPKncCJHF721tp8J"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Pivot & Scrape",
-        "url": "https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN"
-      },
-      "artists": [
-        {
-          "name": "Sophie Thatcher",
-          "url": "https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9"
-        }
-      ],
-      "duration_ms": 134388,
-      "name": "Rattle Trap",
-      "url": "https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Lagos Paris London",
         "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 240711,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Pivot & Scrape",
+        "url": "https://open.spotify.com/album/0DhEtSqVVWVZaGokygXGyN"
+      },
+      "artists": [
+        {
+          "name": "Sophie Thatcher",
+          "url": "https://open.spotify.com/artist/18QohLYZk5AKGLj4T4YqY9"
+        }
+      ],
+      "duration_ms": 134388,
+      "name": "Rattle Trap",
+      "url": "https://open.spotify.com/track/5pWMpD9PNgaE8zA2k33QwJ"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "SlowMo",
         "url": "https://open.spotify.com/album/0hH7tpKEXHmjSujH9S4HFT"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 222741,
       "name": "Soft Spoken",
       "url": "https://open.spotify.com/track/2OXhBICwcarUIxQecaxUZW"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "When a Thought Grows Wings",
-        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 201111,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "The Sweater Club",
         "url": "https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1w5m4J6icg6zmt0KuneqST"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 201111,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/7sxjOcfj6F1uaTL6rySXa5"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Devil Mode",
-        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
+        "name": "Susan",
+        "url": "https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0"
       },
       "artists": [
         {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
         }
       ],
-      "duration_ms": 184434,
-      "name": "Devil Mode",
-      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
+      "duration_ms": 198974,
+      "name": "Susan",
+      "url": "https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Susan",
-        "url": "https://open.spotify.com/album/5U1OdMZOnDeKJs7a3beIC0"
-      },
-      "artists": [
-        {
-          "name": "Anna Lille",
-          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
-        }
-      ],
-      "duration_ms": 198974,
-      "name": "Susan",
-      "url": "https://open.spotify.com/track/0WXK5gHuLdVDW4ZHvUS4TO"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Rose Main Reading Room",
         "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Triple Seven",
-        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+        "name": "Devil Mode",
+        "url": "https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf"
       },
       "artists": [
         {
-          "name": "Wishy",
-          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 168160,
-      "name": "Persuasion",
-      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
+      "duration_ms": 184434,
+      "name": "Devil Mode",
+      "url": "https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1211,6 +1195,22 @@
       "duration_ms": 192453,
       "name": "Kepko",
       "url": "https://open.spotify.com/track/2Ysvx9MvpgXpSxs57vW3Qg"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Triple Seven",
+        "url": "https://open.spotify.com/album/0xCWaLwotmO3NtVQsHrhNf"
+      },
+      "artists": [
+        {
+          "name": "Wishy",
+          "url": "https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Persuasion",
+      "url": "https://open.spotify.com/track/5rbh9uwfOz2vBramGDs5Lo"
     },
     {
       "added_at": "2024-12-04 12:15:00",

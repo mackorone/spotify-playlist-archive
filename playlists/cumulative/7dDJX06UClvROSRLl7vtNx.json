@@ -5367,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Falling In Love",
+        "url": "https://open.spotify.com/album/6vkuOUgB67FGlEm1aglgCa"
+      },
+      "artists": [
+        {
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Falling In Love",
+      "url": "https://open.spotify.com/track/0eSGt98YmHlgOm6LJuLZCi"
+    },
+    {
+      "album": {
         "name": "Faraway",
         "url": "https://open.spotify.com/album/7f27vQWTvfWzsUdyjUU4wm"
       },

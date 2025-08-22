@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 64DX
 
-1,068 songs - 2 day 1 hr 26 min
+1,069 songs - 2 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [No Love](https://open.spotify.com/track/4tvSyiit5A7QFxcHDqIbAS) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Cyprus](https://open.spotify.com/artist/6Q546HvRQnIB0qYe3SMdRv) | [No Love](https://open.spotify.com/album/5nXTiC49S54td9zS1mPcPm) | 3:17 | 2024-07-02 | 2024-08-07 |
 | [No Love \(feat\. M3R, ROBBIN & L.O.S.T\)](https://open.spotify.com/track/2l5DVAF1AOYIUzhA1LtVTK) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB), [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV) | [No Love \(feat\. M3R, ROBBIN & L.O.S.T\)](https://open.spotify.com/album/6gPrWCOq9V7x4Qs28sYj4x) | 2:33 | 2025-02-13 | 2025-06-18 |
 | [NO MARK](https://open.spotify.com/track/6qP3iZ1YXgThRvmFE7luyJ) | [STAR SEEED](https://open.spotify.com/artist/4RwnTKcN7LmBxcYTCjBH06), [CHILL GIRL RABBIT](https://open.spotify.com/artist/5QyQQmX4UyZkppQvRN2CT0) | [NO MARK](https://open.spotify.com/album/7kLCwtHpMk01UNvmMtFpyH) | 2:09 | 2025-01-14 | 2025-03-05 |
+| [No Money Summer Boy](https://open.spotify.com/track/4YwwQ2JMlw5ypSYZA4Jpaj) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [No Money Summer Boy / Natsuyasumi](https://open.spotify.com/album/1ofE1cybFlTm4S1RuvwA8H) | 2:54 | 2025-08-19 |  |
 | [NO RULES](https://open.spotify.com/track/5OEPtB1XLGQulfdirZVEKX) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [NO RULES](https://open.spotify.com/album/0NTjnb9gP7X9ighkElA32Z) | 2:48 | 2025-02-04 | 2025-02-12 |
 | [No suit](https://open.spotify.com/track/7KB3HPtFqiB5mp0LijKbZ6) | [Miyabi](https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H), [18stop](https://open.spotify.com/artist/7E8FyYmagU8PAzQU8dubMF) | [COOL DOWN 2](https://open.spotify.com/album/7DM9BveEYGyzWEsC3yiYeG) | 3:28 | 2024-02-15 | 2024-03-22 |
 | [No.1](https://open.spotify.com/track/14v0B5Mz2hIYRltiAFyHIq) | [琉](https://open.spotify.com/artist/7BxT3Bw182UA9mSUNxLee1) | [No.1](https://open.spotify.com/album/328jY42ixtJbFIU6wjHN6R) | 2:51 | 2025-02-04 | 2025-04-02 |

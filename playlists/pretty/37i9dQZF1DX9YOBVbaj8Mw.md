@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,265 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,267 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 22 | [Można](https://open.spotify.com/track/77hzpC7B8W8GqLmY6XI2fi) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul), [Błażej Król](https://open.spotify.com/artist/0gH4VBwt5MwWomiOXloDC4) | [Kasia i Błażej](https://open.spotify.com/album/6UH0UcgRruP71UGChmwNCi) | 4:00 |
 | 23 | [Kochaj](https://open.spotify.com/track/0BIinvAbW4ka0Hb9i8DBLT) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [ZGŁOWY](https://open.spotify.com/album/3XIDxziYfm9hhIUVQMbS4u) | 3:22 |
 | 24 | [Tango Porcjarza](https://open.spotify.com/track/6NkDVpzHieLBfdSa69uF8k) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:21 |
-| 25 | [Skacz ze mną na bombę](https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN) | [Małpa](https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:38 |
-| 26 | [Miłego lata](https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:42 |
+| 25 | [Miłego lata](https://open.spotify.com/track/2uN7ueBbQDExGTiJD5kchM) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny](https://open.spotify.com/album/5jGt4gP9qMEc0SALUvTIUk) | 2:42 |
+| 26 | [Skacz ze mną na bombę](https://open.spotify.com/track/5MvaJfO0ojGBdhHFnu11QN) | [Małpa](https://open.spotify.com/artist/4Oy0tTQfhCKKaBPkQJhZHK), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb), [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Na południu bez zmian](https://open.spotify.com/album/4kpClwjCLjrJik61hEUc0G) | 3:38 |
 | 27 | [Lusterka](https://open.spotify.com/track/1AikOHlzrelVDGPqyHG6FD) | [Sw@da](https://open.spotify.com/artist/5gRF8qKtqjvQJZ38pCsJfj), [Niczos](https://open.spotify.com/artist/4YZ4ez3imuoabYA9WyrRIk) | [\#INDAWOODS](https://open.spotify.com/album/7lLTJeL6O8SBUtOElJv48S) | 2:37 |
 | 28 | [Together \- Pejzaż Remix](https://open.spotify.com/track/6kVLk2VH5SxaOA3RRFrLt7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Pejzaż](https://open.spotify.com/artist/5PWnUGbA3SNGNE7U9YPnXH) | [Recut](https://open.spotify.com/album/5vJeXyvdrDhN91UZd1tmQ7) | 4:10 |
 | 29 | [TYLE MAM](https://open.spotify.com/track/4vpLSrS5KA9okRlGfgukIv) | [ĆPAJ STAJL](https://open.spotify.com/artist/1mAoRpDy7J3s5jX96Bm5jF), [Cool P](https://open.spotify.com/artist/5f0sTF0SaVN5hbNYAJFSPV), [Dj.Crack\-R](https://open.spotify.com/artist/1pzbygMlr2pl7rD7rEQk3P) | [BIAŁE SZALEŃSTWO](https://open.spotify.com/album/1lWO1MS6sDfQ8OcITjSCX9) | 2:34 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 32 | [Zagrajmy](https://open.spotify.com/track/4p9Z6HmEeO3ucTOmgpbgf9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:16 |
 | 33 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
 | 34 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
-| 35 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
-| 36 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
+| 35 | [Warszawa Wschodnia](https://open.spotify.com/track/6p5BVXBjh0JYPU955lWJX6) | [Tomasz Makowiecki](https://open.spotify.com/artist/5BndU3xioxu02gpARK3ssF) | [Bailando](https://open.spotify.com/album/3T2yJp99ZSAjzHZl4nxupe) | 4:43 |
+| 36 | [Himalaje](https://open.spotify.com/track/6XYglXD1932VGqiT9wduK7) | [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Himalaje](https://open.spotify.com/album/4WE6hJbRnm1QgSgIegKs2m) | 3:27 |
 | 37 | [Kercelak](https://open.spotify.com/track/1GY109fE6b5yk7sTJPkbsf) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [XX](https://open.spotify.com/album/2JNJIrNKcypEDAzoG2PkFL) | 3:12 |
 | 38 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
 | 39 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |

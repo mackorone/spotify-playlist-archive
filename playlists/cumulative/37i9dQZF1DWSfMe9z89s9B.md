@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Steve Lacy
 
-1,471 songs - 3 day 5 hr 33 min
+1,472 songs - 3 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,7 +726,7 @@
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-17 | 2022-10-08 |
 | [Let Go](https://open.spotify.com/track/0505eVcf7DTvaXVbTN0L5Y) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Ready Is Always Too Late \(Deluxe\)](https://open.spotify.com/album/7KaTBMubEkwwczNjyLyEB0) | 2:52 | 2022-01-28 | 2022-07-16 |
 | [LET IT GROW](https://open.spotify.com/track/1xvQkUmsKZPjOEcjLc58PP) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [STOUT](https://open.spotify.com/artist/7n7OpW30m3JZKuJFD3pAjJ) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:36 | 2023-06-09 | 2023-07-26 |
-| [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-01 |  |
+| [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-01 | 2025-08-22 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-10 | 2023-06-03 |
 | [LET U LEAD \(with Billy Lemos\)](https://open.spotify.com/track/5rp6f6CiXVjpZ09u0BHeeN) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [LET U LEAD \(with Billy Lemos\)](https://open.spotify.com/album/3qm24mQwYYo7GFGZanPgwc) | 2:30 | 2024-05-24 |  |
 | [Let's Get It On](https://open.spotify.com/track/77AvnzAZtM0nXY1kYhQmiu) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [Let's Get It On](https://open.spotify.com/album/0SIOOlb2yxgd3pQW1vYVhf) | 3:21 | 2023-10-20 | 2024-01-24 |
@@ -1292,6 +1292,7 @@
 | [Thot Thoughts](https://open.spotify.com/track/4Ry3HNrIC1C4TwYeeOkFD8) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Sukihana](https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7) | [Thot Thoughts](https://open.spotify.com/album/2ark7dhcGnOGPNL8ukR5dM) | 3:34 | 2022-04-01 | 2022-04-13 |
 | [Thrive](https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Remain Calm](https://open.spotify.com/album/0WWOl1EPBFsZq6HjQZmovl) | 2:10 | 2021-10-08 | 2022-01-27 |
 | [Through The Dark](https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:33 | 2022-07-15 | 2023-12-23 |
+| [THROUGH YOU? \(INTERLUDE\)](https://open.spotify.com/track/5cno0jlISKqEnkfqbcyCg4) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:46 | 2025-08-08 |  |
 | [Ticket Holder](https://open.spotify.com/track/3EkjU20E7YzOaoGGY0IQ9z) | [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s) | [Ticket Holder](https://open.spotify.com/album/4WYI3FFyC2U3EVdw6cXycw) | 2:35 | 2024-03-01 | 2024-05-06 |
 | [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 | 2024-12-07 |
 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 | 2022-04-01 | 2022-10-08 |

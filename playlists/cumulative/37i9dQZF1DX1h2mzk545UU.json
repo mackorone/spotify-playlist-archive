@@ -475,6 +475,28 @@
     },
     {
       "album": {
+        "name": "As\u00ed As\u00ed",
+        "url": "https://open.spotify.com/album/3EOCDX0SyIHjN9vaEgX8EI"
+      },
+      "artists": [
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "As\u00ed As\u00ed",
+      "url": "https://open.spotify.com/track/5yV2BEVcRibgXMxZuf9awh"
+    },
+    {
+      "album": {
         "name": "Asondeguerra",
         "url": "https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL"
       },

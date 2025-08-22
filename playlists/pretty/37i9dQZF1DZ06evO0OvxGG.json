@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8090,
+  "num_followers": 8103,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAABSc9cnzIFrUsA7j0ciK5cn",
+  "snapshot_id": "aKO+gAAAAADBk29ExpNVwtX7qwOORNkC",
   "tracks": [
     {
       "added_at": null,
@@ -650,35 +650,11 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Dr. Ace",
-          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
         }
       ],
-      "duration_ms": 140108,
-      "name": "Eu Gosto",
-      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+      "duration_ms": 137142,
+      "name": "Vai, Slip",
+      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
     },
     {
       "added_at": null,
@@ -699,6 +675,26 @@
       "duration_ms": 135445,
       "name": "Perten\u00e7o \u00c0s Ruas",
       "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,
@@ -730,35 +726,15 @@
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Vai, Slip",
-      "url": "https://open.spotify.com/track/2Orq5fw09wNJCtvNVqIfLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outro Som de Sacanagem",
-        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+          "name": "Dr. Ace",
+          "url": "https://open.spotify.com/artist/52dSNopLwNvZtlrQ0TUAh7"
         }
       ],
-      "duration_ms": 115275,
-      "name": "Outro Som de Sacanagem",
-      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
+      "duration_ms": 140108,
+      "name": "Eu Gosto",
+      "url": "https://open.spotify.com/track/7iCtr0g6SX8otCdG0GrTx2"
     },
     {
       "added_at": null,
@@ -783,6 +759,30 @@
       "duration_ms": 162909,
       "name": "Vem C\u00e1",
       "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outro Som de Sacanagem",
+        "url": "https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "duration_ms": 115275,
+      "name": "Outro Som de Sacanagem",
+      "url": "https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moranguinho",
-        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 114465,
-      "name": "Moranguinho",
-      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -867,6 +851,42 @@
       "duration_ms": 168000,
       "name": "Preso na Minha BCT",
       "url": "https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moranguinho",
+        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 114465,
+      "name": "Moranguinho",
+      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTE RUSH+",
+        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 135521,
+      "name": "O PAPO",
+      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
     },
     {
       "added_at": null,
@@ -895,22 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTE RUSH+",
-        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
+        "name": "Malvatrem (Deluxe)",
+        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
       "artists": [
         {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        },
-        {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 135521,
-      "name": "O PAPO",
-      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
+      "duration_ms": 148000,
+      "name": "A Jogada Que \u00c9 Foda",
+      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,
@@ -935,26 +955,6 @@
       "duration_ms": 228000,
       "name": "B\u00d4NUS TRACK",
       "url": "https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malvatrem (Deluxe)",
-        "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "A Jogada Que \u00c9 Foda",
-      "url": "https://open.spotify.com/track/4StZobTljFrwK85NRxkBHg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > new leith ross and it's basically autumn we're soooo back
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,313 likes - 128 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,353 likes - 128 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

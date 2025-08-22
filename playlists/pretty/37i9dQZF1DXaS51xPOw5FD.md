@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,586 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,622 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 93 | [Falling 4 U](https://open.spotify.com/track/7g041SdEW1CgvWxi5KT6rN) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Falling 4 U](https://open.spotify.com/album/6XW53yYoCcc8nZCWAKLMF2) | 3:17 |
 | 94 | [Elevate](https://open.spotify.com/track/40WOqqydIlVzhbCHYsXejk) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [FEMME](https://open.spotify.com/artist/2lcT6qkYGkmQQ3KCU5BW9K) | [Elevate](https://open.spotify.com/album/0NdWdBW0KWrKsqlEe5BQnO) | 3:24 |
 | 95 | [Settle](https://open.spotify.com/track/6pDeV5DiST952oRhDUQghN) | [GLXY](https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT), [Duskee](https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH), [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO) | [Settle](https://open.spotify.com/album/5jURie0Y721Kke4KXMw5pG) | 4:04 |
-| 96 | [Bounce On Da Riddim](https://open.spotify.com/track/5cHBouflUMRr6gISONA1WK) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v) | [Bounce On Da Riddim](https://open.spotify.com/album/0fuhcZE5IvWaSezPQU8pCw) | 2:39 |
-| 97 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
+| 96 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
+| 97 | [Bounce On Da Riddim](https://open.spotify.com/track/5cHBouflUMRr6gISONA1WK) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Emily J](https://open.spotify.com/artist/5ChprbFpHquoq5pkUUdY0v) | [Bounce On Da Riddim](https://open.spotify.com/album/0fuhcZE5IvWaSezPQU8pCw) | 2:39 |
 | 98 | [Fingerprints](https://open.spotify.com/track/15oT4PGAtcWflYCVUCtkug) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [homesick](https://open.spotify.com/artist/7aExhNtzjRq6lYj7eL8pb9) | [Fingerprints](https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb) | 3:48 |
 | 99 | [whenever you're ready](https://open.spotify.com/track/6b4f4npphxxMhUe0dMlTjZ) | [Maya Randle](https://open.spotify.com/artist/6AVe04cz8yEaSIVUbm2o02) | [whenever you're ready](https://open.spotify.com/album/4WLvV4gXgXpjCVguqpgA7h) | 3:27 |
 | 100 | [Sun Is Shining](https://open.spotify.com/track/0bhd0kIKArygQxBeH9a6NP) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2), [Fred V](https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4) | [Sun Is Shining](https://open.spotify.com/album/7yoYU6SkSZU5hymtbAoGa2) | 2:47 |

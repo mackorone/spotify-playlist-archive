@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-281 songs - 17 hr 47 min
+282 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Isto Aqui O Que É \(Silver Sandal\)](https://open.spotify.com/track/7d7wvCCBsrNPi2jLZ19EYZ) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Light My Fire](https://open.spotify.com/album/3SwM5nirzJ2Td2OqGQ5CJD) | 4:00 | 2023-09-22 | 2023-10-01 |
 | [Isto Aqui O Que É \(Silver Sandal\)](https://open.spotify.com/track/1bNi8WeHJM2qk4PolPHTVV) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Light My Fire](https://open.spotify.com/album/2x0rWBfqrEcmNhVKfAKMXG) | 4:00 | 2022-05-13 |  |
 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 | 2022-05-13 | 2025-08-20 |
-| [Joãozinho Boa Pinta](https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Rio Bahia](https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg) | 2:28 | 2022-05-13 |  |
+| [Joãozinho Boa Pinta](https://open.spotify.com/track/1cqaZpuQpbrPQGzcnPPHfB) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v), [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Rio Bahia](https://open.spotify.com/album/3cgIE2eEoFouC2oxYghfRg) | 2:28 | 2022-05-13 | 2025-08-22 |
 | [Just Chill and Breathe](https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN) | [Filip Benedetto](https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7) | [Just Chill and Breathe](https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA) | 3:11 | 2024-01-17 |  |
 | [Just Like Heaven](https://open.spotify.com/track/1cfxSquzIuVUXxG7yfUmwF) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds) | [Take To The Sky](https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2) | 4:12 | 2022-05-13 |  |
 | [Just My Type](https://open.spotify.com/track/6JMPmjsg9tWVKZ1KkEhwjo) | [Rosie Frater\-Taylor](https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL) | [Bloom](https://open.spotify.com/album/2BQJdNJq1qkbvcyMzl9xs4) | 3:38 | 2022-05-13 | 2024-05-25 |
@@ -251,6 +251,7 @@
 | [The Girl From Ipanema](https://open.spotify.com/track/772NvWLbR51JEbzQKRnXma) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 5:24 | 2022-05-13 | 2022-07-29 |
 | [The Look Of Love](https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 4:42 | 2022-05-13 | 2023-01-13 |
 | [The Look Of Love](https://open.spotify.com/track/1DGRTR2cE0Sr9eTCeCztZY) | [Midtown Players](https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO) | [The Look Of Love](https://open.spotify.com/album/3a7bqpNydrqKIXM9ViTxoH) | 2:13 | 2023-06-13 |  |
+| [The Milky Way](https://open.spotify.com/track/5VCbcyUzLIBvQqJPR1dTNs) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [The Milky Way](https://open.spotify.com/album/4eASKrdPU29nUHbgzLsphQ) | 3:31 | 2025-08-19 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/7CkCIrM9MwcHjlp7DgeS73) | [Moonlight Jazz Trio](https://open.spotify.com/artist/6PQAkc79UJ2ngAy9uX7wbD) | [The Shadow Of Your Smile](https://open.spotify.com/album/5zH20F8OMipTtIaGPZwExZ) | 3:52 | 2023-01-13 |  |
 | [The Theme from "Black Orpheus"](https://open.spotify.com/track/0XBDgnZFhL27Y46oVknBPE) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Ten](https://open.spotify.com/album/67OvvuGokycHO0Quc9HyKZ) | 4:13 | 2022-06-28 | 2024-04-19 |
 | [The Waters Of March](https://open.spotify.com/track/2HDdFE3LzgZ2ZWVXS0jEQF) | [Susannah McCorkle](https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu) | [From Bessie To Brazil](https://open.spotify.com/album/7qUvlbKeYnFEfQqlosrm7L) | 3:57 | 2022-05-13 | 2022-09-15 |

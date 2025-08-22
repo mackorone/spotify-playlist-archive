@@ -2,7 +2,7 @@
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Frenna & Hamza
+> De beste tracks in WS❗️Cover: Josylvio
 
 91 songs - 4 hr 9 min
 

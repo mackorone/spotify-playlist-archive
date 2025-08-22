@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 82591,
+  "num_followers": 82604,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAAADgCiypD4nCi6mvgvKkGNv",
+  "snapshot_id": "aKO+gAAAAADrKxzsSLOuDpbVr6RX9V6F",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Better Off Dead",
-      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
+      "duration_ms": 115826,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True North",
-        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 115826,
-      "name": "True North",
-      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+      "duration_ms": 158906,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 129026,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stranger Than Fiction",
         "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 106586,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gray Race",
-        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 129026,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95697,
+      "name": "1000 More Fools",
+      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Age Of Unreason",
         "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95697,
-      "name": "1000 More Fools",
-      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
@@ -599,6 +599,22 @@
       "duration_ms": 100693,
       "name": "Automatic Man",
       "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 123666,
+      "name": "Come Join Us",
+      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
     },
     {
       "added_at": null,
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Gray Race",
-        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
       },
       "artists": [
         {
@@ -644,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 123666,
-      "name": "Come Join Us",
-      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
       "duration_ms": 239813,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Empire Strikes First",
-        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 117652,
-      "name": "Atheist Peace",
-      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 164489,
       "name": "What Can You Do?",
       "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 117652,
+      "name": "Atheist Peace",
+      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
     },
     {
       "added_at": null,

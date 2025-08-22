@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: ",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Saske",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -108,6 +108,24 @@
       "duration_ms": 128571,
       "name": "1111",
       "url": "https://open.spotify.com/track/32IRJRxqNoIN7jN6jl7FgO"
+    },
+    {
+      "album": {
+        "name": "1994",
+        "url": "https://open.spotify.com/album/1Rcp47rLdJnDQpiJ5rvDyJ"
+      },
+      "artists": [
+        {
+          "name": "Sin Boy",
+          "url": "https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/4QcGiRAMY1fPrcNTwU7W1H"
     },
     {
       "album": {
@@ -3154,7 +3172,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 168000,
       "name": "Esena",
       "url": "https://open.spotify.com/track/7uBuKv7JXBT6p2eM4JvSLi"
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 161632,
       "name": "FHMES",
       "url": "https://open.spotify.com/track/56gbt6Uz4WCUVNwnhlHJSF"
@@ -9591,6 +9609,28 @@
     },
     {
       "album": {
+        "name": "SYNTAGH",
+        "url": "https://open.spotify.com/album/1RW7ZSxu05jD61IOeydBAi"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138543,
+      "name": "SYNTAGH",
+      "url": "https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum"
+    },
+    {
+      "album": {
         "name": "DIFFERENT STUFF",
         "url": "https://open.spotify.com/album/3KzN1Kj4vp0y027ub4CwQT"
       },
@@ -9942,6 +9982,28 @@
       "duration_ms": 205766,
       "name": "Ti Na Se Kanw",
       "url": "https://open.spotify.com/track/2vvaCwUTJ4m75KdpMweRJx"
+    },
+    {
+      "album": {
+        "name": "TI THELIS",
+        "url": "https://open.spotify.com/album/6aFDswnN1PbyJ9DRp7xldG"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Generale",
+          "url": "https://open.spotify.com/artist/3RRQPCaYJ8gHX5XIrmAIO5"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176528,
+      "name": "TI THELIS",
+      "url": "https://open.spotify.com/track/5MO7LUQJEpuBwakEuOn2BP"
     },
     {
       "album": {
@@ -10342,7 +10404,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 134178,
       "name": "TSOKELO",
       "url": "https://open.spotify.com/track/4MkmngplPtJnFncx0XeRBa"

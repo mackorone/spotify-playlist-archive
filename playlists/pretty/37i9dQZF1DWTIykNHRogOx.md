@@ -2,32 +2,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
+> Les  meilleures nouveautés de la chanson française avec disiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,873 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,877 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 |
-| 2 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
-| 3 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
-| 4 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 |
-| 5 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 |
-| 6 | [Des éclats dans les nuages](https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Des éclats dans les nuages](https://open.spotify.com/album/3kbx1aOylg4fwbdmCUFWqE) | 2:42 |
-| 7 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:32 |
-| 8 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
-| 9 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |
-| 10 | [D'autres vies que la tienne](https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/2k52LVvL6DAD2I10T4bWcK) | 3:19 |
-| 11 | [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 |
-| 12 | [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 |
-| 13 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 |
-| 14 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 |
-| 15 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 |
-| 16 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 |
-| 17 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
-| 18 | [L'inconnu en personne \- Radio Edit](https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [L'inconnu en personne](https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O) | 3:36 |
-| 19 | [pas assez de toi](https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [pas assez de toi](https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy) | 2:55 |
-| 20 | [Saisons](https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Saisons](https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB) | 3:26 |
+| 1 | [ton ventre](https://open.spotify.com/track/6UoqGObCa3H4KRSmLcqbcM) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [ton ventre](https://open.spotify.com/album/4h0LVUeJZt3PWAO9nFh6XV) | 2:55 |
+| 2 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
+| 3 | [Le lundi au soleil](https://open.spotify.com/track/4Q50Sr8134kzmb971o6GJv) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Parenthèses](https://open.spotify.com/album/7yxHHSSB4poItMD3ejJyjk) | 3:44 |
+| 4 | [dans la lucarne](https://open.spotify.com/track/1K6krYTfuMN4WpDUOxmDOs) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [dans la lucarne](https://open.spotify.com/album/6efJmiQI6o9Vv4rXAh7r11) | 2:23 |
+| 5 | [Saisons](https://open.spotify.com/track/2YJIsskQ7aoEBWTGhn38Gw) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Saisons](https://open.spotify.com/album/35KgRdnce5gzdP3yT3KZCB) | 3:26 |
+| 6 | [Juste avant de tomber](https://open.spotify.com/track/1ZXwbERsrEeKMrZVdOPRMQ) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Juste avant de tomber](https://open.spotify.com/album/6QqYvin3hXiGiIgpwKxdBQ) | 4:02 |
+| 7 | [J'ai grandi](https://open.spotify.com/track/1rXroIXLQcLA6dADmkJGgw) | [Tessa B\. ](https://open.spotify.com/artist/2zHuN04qyNnz890Y2R0Nkr) | [J'ai grandi](https://open.spotify.com/album/1nE1MnSNJN7K6HnoKodMJl) | 2:22 |
+| 8 | [Devant nous](https://open.spotify.com/track/7ubQv0YHkA16nAV71oYUs4) | [Constance Amiot](https://open.spotify.com/artist/57aTJRDQsVsP8fMuY7URiO) | [Devant nous](https://open.spotify.com/album/5dwOshnXhrbMlLaKkBwPCD) | 2:36 |
+| 9 | [Des éclats dans les nuages](https://open.spotify.com/track/4WLK66gk3Tg1HjN5wHTJIb) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Des éclats dans les nuages](https://open.spotify.com/album/3kbx1aOylg4fwbdmCUFWqE) | 2:42 |
+| 10 | [chez moi](https://open.spotify.com/track/2zUemNbVSNPExW2w7xOnTF) | [Alex Montembault](https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a) | [chez moi](https://open.spotify.com/album/4hUwnS6ng7YmYuJxOksp65) | 3:32 |
+| 11 | [Évidemment](https://open.spotify.com/track/62DJGlOgqUfGm1CiuREznh) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Est\-ce que quelqu'un m'entend ?](https://open.spotify.com/album/2yMg4BHzIx08hgwly5JsG5) | 3:27 |
+| 12 | [J'veux tout savoir](https://open.spotify.com/track/1lzRKxLpVfYG1w8ZCKaabi) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'veux tout savoir](https://open.spotify.com/album/3amQWaEVgIcfpWfTQcUrgT) | 3:19 |
+| 13 | [D'autres vies que la tienne](https://open.spotify.com/track/2GZRdXYNhK1SbqOVu9DdIn) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [La fresque](https://open.spotify.com/album/2k52LVvL6DAD2I10T4bWcK) | 3:19 |
+| 14 | [Grand\-mère](https://open.spotify.com/track/5t6WasNuGNuc7u4cqPcjCq) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Grand\-mère](https://open.spotify.com/album/5h32dU86HS9BxewTJGpULm) | 3:58 |
+| 15 | [J'ai tenté mais](https://open.spotify.com/track/3bF05KrShPH4BL3at4l9GB) | [Bonneville](https://open.spotify.com/artist/6Kni14rJV1e4vwD2D6rM6V) | [J'ai tenté mais](https://open.spotify.com/album/0X1VrZroA9FedsQOSgjKsL) | 3:04 |
+| 16 | [Rien du tout](https://open.spotify.com/track/3rdXzSYY67g5M8sf31dxW8) | [Leslie Medina](https://open.spotify.com/artist/6v4kwEeHOGcxcS9PtYAoYN) | [Rien du tout](https://open.spotify.com/album/0sjiM772ZsXVAF2apGzM2k) | 3:20 |
+| 17 | [Partir un jour](https://open.spotify.com/track/1QG5eDtayEWVHGOTBdupkU) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Partir un jour](https://open.spotify.com/album/7FMjqci1hqh973l85VoQYf) | 3:32 |
+| 18 | [mes nuits à toi](https://open.spotify.com/track/2yCPDgKuOtM0KQcktQocb5) | [Alma Rechtman](https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN) | [dans ma maison](https://open.spotify.com/album/5sa26UmvekC0g0AeJsxArm) | 2:52 |
+| 19 | [L'inconnu en personne \- Radio Edit](https://open.spotify.com/track/69IZjDKBWn809QMckwd4Tz) | [Bertrand Belin](https://open.spotify.com/artist/5yFrjxlSd8zPqzCCNrOI5h) | [L'inconnu en personne](https://open.spotify.com/album/2T5Id14bRWzmUDloWyi26O) | 3:36 |
+| 20 | [pas assez de toi](https://open.spotify.com/track/19Z9JUc7IvI5KmYSg6HXms) | [Lili Em](https://open.spotify.com/artist/4LjJmXmEJVACRkgQyMzPBk) | [pas assez de toi](https://open.spotify.com/album/6nv6PS50Hyh34ZIAzjuXUy) | 2:55 |
 | 21 | [Deux ailes à Ella](https://open.spotify.com/track/25o0EUIimN9sL43v63diz3) | [Xavier Polycarpe](https://open.spotify.com/artist/7lG3HWF81HrNSDVyK4zhuP) | [Instant](https://open.spotify.com/album/1zud2YbK4ULbu4HDmwmKY7) | 7:28 |
 | 22 | [On peut comme ça](https://open.spotify.com/track/7Fa90Xad7G9ayAYvZ9nwl6) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [On peut comme ça](https://open.spotify.com/album/3gXoxSvcNA04j16k0U8sZT) | 4:04 |
 | 23 | [La bohème](https://open.spotify.com/track/1Fv7n2VwpfN7dyhNTOYvFm) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [La bohème](https://open.spotify.com/album/2L6vtG68KIy1vLgCPGtPpB) | 2:40 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 41 | [Si beau](https://open.spotify.com/track/0CVnlbUnDN61gX1NkCxwtM) | [Vincent Delerm](https://open.spotify.com/artist/3Uo7E7lR9Li0qXzxU8VmnF) | [Si beau](https://open.spotify.com/album/0BODdkgwRorbheFUCiFJSz) | 3:44 |
 | 42 | [L'homme idéal](https://open.spotify.com/track/0soh7xZDQFQHOjXmBNWhUJ) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Regarde](https://open.spotify.com/album/1cDrecRdnUbpWtH8Bbqr9J) | 2:35 |
 | 43 | [Je sais pas être seule](https://open.spotify.com/track/3FcFUaNTx17En4eVR7ygvB) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [Le Cabaret des Pleurs](https://open.spotify.com/album/0k6GwHDCtvQwqWucVnBwiZ) | 2:42 |
-| 44 | [Le spleen d’une vie sublime](https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Le spleen d'une vie sublime](https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I) | 2:29 |
-| 45 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 |
-| 46 | [Solo dans mon lit double](https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe) | 3:39 |
-| 47 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 |
+| 44 | [La musique à fond](https://open.spotify.com/track/7jVGaMb1XA9u88tWlouB4t) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La musique à fond](https://open.spotify.com/album/1GmHIr4LHAwuloVe5FuiVo) | 3:26 |
+| 45 | [Solo dans mon lit double](https://open.spotify.com/track/4GwzkAblYm57j4MWg5bn6d) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/3KikqyS2U3WnDrVHTVemWe) | 3:39 |
+| 46 | [La rivière](https://open.spotify.com/track/0MMXPraylvfvemFGDINgag) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [SOMA](https://open.spotify.com/album/6fCbeaZSXlVDgHTiaMR9C9) | 2:45 |
+| 47 | [Le spleen d’une vie sublime](https://open.spotify.com/track/0Uos7u61KEFO8ljMQeETKE) | [Ours](https://open.spotify.com/artist/4ejFPEH0usmNOKnk6l2l3H) | [Le spleen d'une vie sublime](https://open.spotify.com/album/5ElJYM0FACdaEq4r2cxm6I) | 2:29 |
 | 48 | [30 ans](https://open.spotify.com/track/3YuYQyd1oc8WEXYB0wfuv8) | [SAVANAH](https://open.spotify.com/artist/6aUqiHjCzli8kjq6vb2VdD) | [30 ans](https://open.spotify.com/album/5WmLXhrqUxqE66lP65lUgh) | 4:03 |
-| 49 | [un coeur jamais venu](https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [l'art de n'être pas](https://open.spotify.com/album/2OT9zY5adHDyXCBfY0XOjp) | 2:46 |
-| 50 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 |
+| 49 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 |
+| 50 | [un coeur jamais venu](https://open.spotify.com/track/4eMiQDySyaA2VgVLKPvXkE) | [jenna](https://open.spotify.com/artist/50KuFTdbf6PbVjpvNuJALs) | [l'art de n'être pas](https://open.spotify.com/album/2OT9zY5adHDyXCBfY0XOjp) | 2:46 |
 
-Snapshot ID: `AAAAAPpSrzjPyWjCqtw78WM4RB+ypfBg`
+Snapshot ID: `AAAAAI5mJTvb7UpO7M3aU2GiqdIegrmA`

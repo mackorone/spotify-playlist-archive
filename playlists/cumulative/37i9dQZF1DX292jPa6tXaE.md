@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX292jPa6tXaE)
 
-> Discover the future of Punjabi Pop!  Cover:  Inder Bhajwa
+> Discover the future of Punjabi Pop!  Cover:  Inder Bajwa
 
-398 songs - 18 hr 37 min
+399 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Good Guy](https://open.spotify.com/track/131hyXwXTeqrt3eyJ7ZKxE) | [Sidhu Jatt](https://open.spotify.com/artist/1rxvqsVmIK5Icuqz7sY0fB) | [Good Guy](https://open.spotify.com/album/2SOZcAjuUgq3JmxzquOgqn) | 2:18 | 2025-03-19 | 2025-05-15 |
 | [Graari](https://open.spotify.com/track/15NORwSOutfCGk8rcxeeoP) | [Dreamboydb](https://open.spotify.com/artist/6IpzfSDLqXLQeAofLCI16u), [Anurag Sidhu](https://open.spotify.com/artist/1CehOMpAqBS1GbDVh7NiNl) | [SUPREME](https://open.spotify.com/album/016Qy5jvhGW66GBqd0Sv0Q) | 2:42 | 2025-05-28 | 2025-06-05 |
 | [Gratitude](https://open.spotify.com/track/3aiatiIMA6zj6Gt02TwumA) | [Rihaan](https://open.spotify.com/artist/6hHdhPGGmjdgoAUk4LQ0e4), [WakeUpParth](https://open.spotify.com/artist/43n4ElrWXCATSSoACychZE), [Shayar Sadeek](https://open.spotify.com/artist/5PXWL5af5akPTliQapoiz3) | [Gratitude](https://open.spotify.com/album/7BgP01Qy2KMbJcAOnwswPg) | 2:02 | 2025-04-23 |  |
+| [GT ROAD](https://open.spotify.com/track/66rtVasm5Z4zVt52aqheyL) | [Sheroz](https://open.spotify.com/artist/3GVjGMgX0SKJG6A3GwrDnD) | [GT ROAD](https://open.spotify.com/album/4TtuOJG7OaJ0EZ4fJonkfU) | 3:06 | 2025-08-20 |  |
 | [GTR](https://open.spotify.com/track/5cFCuBlZVusuNtbo5Yxxkd) | [Nimaan Sidhu](https://open.spotify.com/artist/7DVxAhVVgwu4KC5kNl3nEV), [Divya Bhatt](https://open.spotify.com/artist/2dwNUvIo6j1fBisV0WNSWt), [Anjali Arora](https://open.spotify.com/artist/0wv9F6o1Ou6r2Cbl4DZp9D) | [GTR](https://open.spotify.com/album/06wcJlGxcqr4FviCkVtjlP) | 2:58 | 2025-04-09 | 2025-05-01 |
 | [Guns N Roses](https://open.spotify.com/track/3xZpBmMeUNDpxAxlSHZSp5) | [Gursach](https://open.spotify.com/artist/1RMUDKh1hHFPaQ6pR0m4FJ) | [Guns N Roses](https://open.spotify.com/album/7rpxHO2AErFYjYD0cxLNvs) | 3:00 | 2025-02-25 | 2025-04-03 |
 | [Gym](https://open.spotify.com/track/0ymXuNYPbXMaL4d6VytNEi) | [Sarba Maan](https://open.spotify.com/artist/1XXOjhwvCOtj5IeYwbOb6J) | [Gym](https://open.spotify.com/album/2d77Q3SZRxyJ8CmXrBzif2) | 3:19 | 2024-11-06 | 2025-01-30 |

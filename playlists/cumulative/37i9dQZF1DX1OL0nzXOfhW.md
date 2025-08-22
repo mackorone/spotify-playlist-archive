@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  Michael C
+> 2025 RADAR登場！持續發掘香港未來新聲！Cover:  宇宙幽靈 Uchu Yurei
 
-268 songs - 15 hr 34 min
+269 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [physicaltouch](https://open.spotify.com/track/0gyABf30UplLQPRFCiPj6j) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [stupidlittlegirl](https://open.spotify.com/album/1I8xMmaGJ6f17RDdN0ZhGN) | 0:32 | 2024-03-28 | 2024-04-05 |
 | [Pretending](https://open.spotify.com/track/5Dqg1AVbpxtKLhaAOzs6XR) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r) | [Pretending](https://open.spotify.com/album/2pBDFxIlrAhxhPqTpwinOj) | 3:45 | 2025-05-29 |  |
 | [RIDE](https://open.spotify.com/track/0fUFyXhlo9VOXAky3rFWhu) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [RIDE](https://open.spotify.com/album/5OHjroUvvNuhV8cwxHK6UV) | 3:11 | 2024-10-17 | 2025-03-28 |
+| [S13](https://open.spotify.com/track/0wglIXDfqS6TOZZLxKDgpp) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [S13](https://open.spotify.com/album/6raLwY2BhDXSwNksc5KVRr) | 6:55 | 2025-08-21 |  |
 | [saturday night](https://open.spotify.com/track/6jl35iYUR4IMQ96o8aWSy2) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [saturday night](https://open.spotify.com/album/3skcQqVKnlKiG4TGqrQVin) | 2:55 | 2022-08-18 | 2023-04-14 |
 | [Say No 2024](https://open.spotify.com/track/24hIgVRp6AVfknZnF3aAXm) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn), [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Fylo](https://open.spotify.com/artist/4nmGhKCt70kDNlgUhNHkCx) | [Say No 2024](https://open.spotify.com/album/7qdC7yJrGml0MOpmU7cTuZ) | 3:40 | 2024-10-31 | 2025-03-28 |
 | [Sick](https://open.spotify.com/track/4nctLtLZhJA3hoQPvHAqcq) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Sick](https://open.spotify.com/album/4BwPOa14byzLRhi2YAC9w9) | 2:30 | 2023-04-13 | 2024-03-29 |

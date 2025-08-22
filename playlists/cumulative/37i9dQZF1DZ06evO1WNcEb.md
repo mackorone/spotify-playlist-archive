@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-81 songs - 7 hr 9 min
+82 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 | 2023-07-09 | 2024-11-17 |
 | [Minha Bênção \(feat\. Cassiane\)](https://open.spotify.com/track/0MhgSLsOhrK2heqVbm1BJs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 4:35 | 2023-07-19 | 2023-12-20 |
 | [Mulher Vitoriosa](https://open.spotify.com/track/3O7Wxr2aFGOXC0zhlORDkT) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:41 | 2023-07-09 |  |
-| [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 | 2023-07-09 |  |
+| [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 | 2023-07-09 | 2025-08-22 |
+| [Na Casa de Deus \(Ao Vivo\)](https://open.spotify.com/track/405pnewk2TN2WxsUKyvbS4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Thiago da Silva Gomes](https://open.spotify.com/artist/1PWHCfsbS5LchLv7mMunJA) | [Na Casa de Deus \(Ao Vivo\)](https://open.spotify.com/album/7yentyJ51KwfcdZUGD1wXm) | 4:02 | 2025-08-22 |  |
 | [Nada Pode Calar um Adorador](https://open.spotify.com/track/1yGsdYR6HBxRTMVJzD5FED) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 5:22 | 2025-05-30 |  |
 | [Nada Pode Calar Um Adorador](https://open.spotify.com/track/6oKhFyUz7kapALHaK0oPfR) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4q13cIdJiccllKtmogMEkT) | 4:52 | 2023-07-09 | 2025-05-30 |
 | [Nenhuma Condenação Há](https://open.spotify.com/track/24IEINiIOIkN4qGOvrxVUy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 3](https://open.spotify.com/album/3y6ualnXSZFNulRKap3vZr) | 4:27 | 2023-07-09 | 2023-11-11 |

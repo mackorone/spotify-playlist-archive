@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-422 songs - 21 hr 16 min
+423 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alarm](https://open.spotify.com/track/33J9duYFGuYDolFULpYgi8) | [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [RALYFF](https://open.spotify.com/artist/2O5kshWyTHGk7xv2FCxEbh), [Tweellve](https://open.spotify.com/artist/0DejclZvFobqZbbfiVZAsF) | [Alarm](https://open.spotify.com/album/09vMh7mmRqPCewaBjBnJeC) | 3:22 | 2024-03-14 | 2025-03-13 |
 | [Alive \- Edit](https://open.spotify.com/track/0GtkzHw73XXHn4rZJFqcxh) | [JAT](https://open.spotify.com/artist/1XJPIFp92YDeTJW1SEbvg6) | [Alive \(Edit\)](https://open.spotify.com/album/2UaVJ8I7jP3j5F69gby1bt) | 3:13 | 2022-09-02 | 2022-09-24 |
 | [All Around Me \- Majed Remix](https://open.spotify.com/track/5UI846kakgl3TCjjnS2kdg) | [Majed](https://open.spotify.com/artist/1qUxaI5qlJjHsBBCohdkMh), [Luna Orbit](https://open.spotify.com/artist/78VO39HCLuuqEBGzPO6xts) | [All Around Me \(Majed Remix\)](https://open.spotify.com/album/1K4bnbCGdls1tHDR4oLWSC) | 2:59 | 2025-06-06 |  |
+| [All I Need](https://open.spotify.com/track/6LcObOqDJdQxkP1qrBk3R0) | [Edo](https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz), [THŪR](https://open.spotify.com/artist/6D0RHeCz6cDV1dE2fSyPQp) | [All I Need](https://open.spotify.com/album/2xgobypOX2225BbBNRphTQ) | 3:23 | 2025-08-21 |  |
 | [All Mine](https://open.spotify.com/track/7I4KVxwDeZhlnCh15ckCWY) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc) | [All Mine](https://open.spotify.com/album/2RitojyB3zQdkYEodRA7Fw) | 2:46 | 2024-09-27 | 2024-10-31 |
 | [All My Life](https://open.spotify.com/track/7pSIzHh4E7v5TBa6DHEPba) | [Somero](https://open.spotify.com/artist/25QwEFukGdirO64kwGIwTR), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [All My Life](https://open.spotify.com/album/63wRjrPw2IHWN53aeFLhQM) | 2:24 | 2022-07-29 | 2022-11-05 |
 | [All My Life \- Airscape Remix](https://open.spotify.com/track/0VAVj1GEv2oVcz6Vkgf1WN) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP), [Airscape](https://open.spotify.com/artist/2tTZL2CE2Z190UPlHsjzym) | [All My Life \(Airscape Remix\)](https://open.spotify.com/album/7oikZCI1DlS43oNBYXxHc2) | 3:15 | 2024-02-22 |  |

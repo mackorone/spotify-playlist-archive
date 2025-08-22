@@ -1,95 +1,15 @@
 {
   "description": "Photo : GIMS",
-  "num_followers": 1156003,
+  "num_followers": 1156244,
   "original_name": "Best Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPzw2WBxKbZznPLMyt9VV5gRL64F",
+  "snapshot_id": "AAAAACyWzz4TMDjxbSrOGxl0yyG+Bi1C",
   "tracks": [
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "TU ME RENDS B\u00caTE",
-        "url": "https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "TU ME RENDS B\u00caTE",
-      "url": "https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Tour du monde",
-        "url": "https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO"
-      },
-      "artists": [
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        },
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
-        }
-      ],
-      "duration_ms": 171489,
-      "name": "Tour du monde",
-      "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Encore / Viano",
-        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
-      },
-      "artists": [
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 111764,
-      "name": "Viano",
-      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
-        "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        },
-        {
-          "name": "Killa Predator",
-          "url": "https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww"
-        }
-      ],
-      "duration_ms": 139022,
-      "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
-      "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "PARISIENNE",
         "url": "https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b"
@@ -109,43 +29,47 @@
       "url": "https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
-        "name": "Congolaise",
-        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
+        "name": "Encore / Viano",
+        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
       },
       "artists": [
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 111764,
+      "name": "Viano",
+      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Tour du monde",
+        "url": "https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
         },
         {
           "name": "L2B",
           "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
         }
       ],
-      "duration_ms": 174920,
-      "name": "Congolaise",
-      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
+      "duration_ms": 171489,
+      "name": "Tour du monde",
+      "url": "https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Lunettes quartier",
-        "url": "https://open.spotify.com/album/6aFrQTyPm0s1MK6cQzh4b8"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Lunettes quartier",
-      "url": "https://open.spotify.com/track/1i8ikCzFVWgYQHoaYmDuBU"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
@@ -165,23 +89,7 @@
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Terrain",
-        "url": "https://open.spotify.com/album/1wtuEji0aUk9FjSPFytFEo"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Terrain",
-      "url": "https://open.spotify.com/track/3yLPYSbBd4aFGFYcazyzJZ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Catalina",
         "url": "https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN"
@@ -205,83 +113,99 @@
       "url": "https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
-        "name": "BTRD (feat. R2) \u2013 Remix",
-        "url": "https://open.spotify.com/album/0Hz86YfqGq7SCMsfWTFNQR"
+        "name": "TU ME RENDS B\u00caTE",
+        "url": "https://open.spotify.com/album/73CuswFpjJR0oISufRQZL2"
       },
       "artists": [
         {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "TU ME RENDS B\u00caTE",
+      "url": "https://open.spotify.com/track/6LChsTTDPShYFbzngKMSWK"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "MONEY (feat. Boumidjal X)",
+        "url": "https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X"
+      },
+      "artists": [
         {
           "name": "R2",
           "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "BTRD (feat. R2) \u2013 Remix",
-      "url": "https://open.spotify.com/track/2VMDCUgQjwMTckhAm9SvTP"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "TERMINAL 7",
-        "url": "https://open.spotify.com/album/2dJISKenO7S2ag1xBte2S9"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 158964,
-      "name": "Gucci Gucci",
-      "url": "https://open.spotify.com/track/5tXQXZVafCWb6ZoUtdnMdg"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Coachella",
-        "url": "https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
         },
         {
-          "name": "MC Menor JP",
-          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+          "name": "Boumidjal X",
+          "url": "https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK"
         }
       ],
-      "duration_ms": 133533,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11"
+      "duration_ms": 126035,
+      "name": "MONEY (feat. Boumidjal X)",
+      "url": "https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
-        "name": "SHATTA CRIMINEL",
-        "url": "https://open.spotify.com/album/5pGAZuxkyjTa78ZRJBkkLT"
+        "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
+        "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
       },
       "artists": [
         {
-          "name": "Iss",
-          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         },
         {
-          "name": "Kima",
-          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+          "name": "Killa Predator",
+          "url": "https://open.spotify.com/artist/2jxihp917o7WCCEN3xZXww"
         }
       ],
-      "duration_ms": 149077,
-      "name": "SHATTA CRIMINEL",
-      "url": "https://open.spotify.com/track/5dQZMgCDgq0CeQ76s8vPPS"
+      "duration_ms": 139022,
+      "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
+      "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Terrain",
+        "url": "https://open.spotify.com/album/1wtuEji0aUk9FjSPFytFEo"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Terrain",
+      "url": "https://open.spotify.com/track/3yLPYSbBd4aFGFYcazyzJZ"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "N\u00e9s Pour Briller",
+        "url": "https://open.spotify.com/album/12Krn9B4yJD9QXS8XbMTPo"
+      },
+      "artists": [
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/11qJsp80m355SdbMcIEKFB"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "AIR FORCE BLANCHE",
         "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
@@ -301,7 +225,91 @@
       "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "BTRD (feat. R2) \u2013 Remix",
+        "url": "https://open.spotify.com/album/0Hz86YfqGq7SCMsfWTFNQR"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "R2",
+          "url": "https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "BTRD (feat. R2) \u2013 Remix",
+      "url": "https://open.spotify.com/track/2VMDCUgQjwMTckhAm9SvTP"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Congolaise",
+        "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "L2B",
+          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Congolaise",
+      "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Meraki",
+        "url": "https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6"
+      },
+      "artists": [
+        {
+          "name": "1D1R",
+          "url": "https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 193401,
+      "name": "Balade",
+      "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Dame Un Grrr",
+        "url": "https://open.spotify.com/album/7lI67g4PfO5pZ43qKxHEOW"
+      },
+      "artists": [
+        {
+          "name": "Fantomel",
+          "url": "https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald"
+        },
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        },
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "Dame Un Grrr",
+      "url": "https://open.spotify.com/track/5PBuwFeYlopeLT5PXXaZLB"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Bottega",
         "url": "https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt"
@@ -317,7 +325,23 @@
       "url": "https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "APPELLE TA COPINE",
+        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "MANIA",
         "url": "https://open.spotify.com/album/219t6e1VadecyjyLckRYxF"
@@ -337,27 +361,7 @@
       "url": "https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Va Bene",
-        "url": "https://open.spotify.com/album/5qSqjtD5SEEEujzYVtaad6"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "Stony Stone",
-          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
-        }
-      ],
-      "duration_ms": 155968,
-      "name": "Va Bene",
-      "url": "https://open.spotify.com/track/7fscpa2PI3fZuAomhPKylp"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Corazon",
         "url": "https://open.spotify.com/album/5kC8331Mp6YWnB7oHQWtXL"
@@ -377,63 +381,27 @@
       "url": "https://open.spotify.com/track/5GU81R3iKvSHkBVQj1KzaV"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
-        "name": "Arr\u00eat de bus",
-        "url": "https://open.spotify.com/album/6j6AvDHkAZEZSaUMuaemtC"
+        "name": "Coachella",
+        "url": "https://open.spotify.com/album/3UorNadgwi7FVLSmvd33Yf"
       },
       "artists": [
         {
-          "name": "Zkr",
-          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
         },
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
         }
       ],
-      "duration_ms": 174137,
-      "name": "Arr\u00eat de bus",
-      "url": "https://open.spotify.com/track/02JNE5wHq5i3SxunmG8o2W"
+      "duration_ms": 133533,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/6ldD5Cg0Zv7s7bLLlzqD11"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "MA\u00d1ANA",
-        "url": "https://open.spotify.com/album/0iFRPwv9nJhWNAVvcWtVRy"
-      },
-      "artists": [
-        {
-          "name": "Mougli",
-          "url": "https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "MA\u00d1ANA",
-      "url": "https://open.spotify.com/track/4DUWkGJrfXx0DHPAKlrE9p"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "B\u0112Y\u0100H",
-        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        },
-        {
-          "name": "SARAH SEY",
-          "url": "https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Pa Pa Paw",
-      "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "C'est Fort",
         "url": "https://open.spotify.com/album/7n64v5dvmdTNLTvM1NzUdS"
@@ -453,87 +421,43 @@
       "url": "https://open.spotify.com/track/4VSR4ZWtfYgJwldRcNNFC3"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
-        "name": "Quand elle danse",
-        "url": "https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K"
+        "name": "TERMINAL 7",
+        "url": "https://open.spotify.com/album/2dJISKenO7S2ag1xBte2S9"
       },
       "artists": [
         {
-          "name": "Benny Adam",
-          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
-        },
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 191723,
-      "name": "Quand elle danse",
-      "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
+      "duration_ms": 158964,
+      "name": "Gucci Gucci",
+      "url": "https://open.spotify.com/track/5tXQXZVafCWb6ZoUtdnMdg"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
-        "name": "APPELLE TA COPINE",
-        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+        "name": "B\u0112Y\u0100H",
+        "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "APPELLE TA COPINE",
-      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "D&P \u00e0 vie",
-        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Mimi",
-      "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "N\u00e9s Pour Briller : Book II",
-        "url": "https://open.spotify.com/album/6wOtWRGN4pYSsLbVbLTWwh"
-      },
-      "artists": [
-        {
-          "name": "L2B",
-          "url": "https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM"
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         },
         {
-          "name": "D2",
-          "url": "https://open.spotify.com/artist/0aQ1OtlRCKfVQuMczDIcgS"
-        },
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "SARAH SEY",
+          "url": "https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs"
         }
       ],
-      "duration_ms": 174653,
-      "name": "C'est Quoi Ton D\u00e9lire",
-      "url": "https://open.spotify.com/track/6JqtSOUhtLysi29twfAigk"
+      "duration_ms": 215813,
+      "name": "Pa Pa Paw",
+      "url": "https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Margiela",
         "url": "https://open.spotify.com/album/7yWRuAb4BfIk1I9N1WUbQI"
@@ -557,7 +481,23 @@
       "url": "https://open.spotify.com/track/4i7Ck0jXJc0az9i8yOI9FJ"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Lunettes quartier",
+        "url": "https://open.spotify.com/album/6aFrQTyPm0s1MK6cQzh4b8"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Lunettes quartier",
+      "url": "https://open.spotify.com/track/1i8ikCzFVWgYQHoaYmDuBU"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "DD",
         "url": "https://open.spotify.com/album/1gAnfqSKoaIxcoZZ72ISSh"
@@ -577,67 +517,7 @@
       "url": "https://open.spotify.com/track/6tnyd1pEIaWc3cDGZqA64R"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "MEGA BBL",
-        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 162041,
-      "name": "ZOU BISOU",
-      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Saint Laurent",
-        "url": "https://open.spotify.com/album/6AXIqaOESCwHv35kM67Q5s"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        },
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Saint Laurent",
-      "url": "https://open.spotify.com/track/5xjZayFgMiq4WYSfAp7LKy"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Meraki",
-        "url": "https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6"
-      },
-      "artists": [
-        {
-          "name": "1D1R",
-          "url": "https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 193401,
-      "name": "Balade",
-      "url": "https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "\u00c9TAT DES LIEUX",
         "url": "https://open.spotify.com/album/14kmgUtxkJEi78a7F7TzxW"
@@ -657,103 +537,7 @@
       "url": "https://open.spotify.com/track/60oUKjWNuBEl0X0IaLuVHL"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "PRINCESSA",
-        "url": "https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 170895,
-      "name": "PRINCESSA",
-      "url": "https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Comment T'aimer Sans Diamants ?",
-        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
-      },
-      "artists": [
-        {
-          "name": "Karmen",
-          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
-        },
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 178533,
-      "name": "ALICANTE",
-      "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Focus Mentalit\u00e9",
-        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        },
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 156676,
-      "name": "Melrose Place",
-      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "A TI",
-        "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
-      },
-      "artists": [
-        {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "A TI",
-      "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Sapapaya",
-        "url": "https://open.spotify.com/album/6j9Nj8PcvkV4PtgOGVZmC0"
-      },
-      "artists": [
-        {
-          "name": "Gambino",
-          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
-        },
-        {
-          "name": "Mister You",
-          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
-        }
-      ],
-      "duration_ms": 191239,
-      "name": "Sapapaya",
-      "url": "https://open.spotify.com/track/51ILULzn5k0tvqECAUuGbI"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Piano",
         "url": "https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ"
@@ -773,7 +557,367 @@
       "url": "https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Arr\u00eat de bus",
+        "url": "https://open.spotify.com/album/6j6AvDHkAZEZSaUMuaemtC"
+      },
+      "artists": [
+        {
+          "name": "Zkr",
+          "url": "https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "duration_ms": 174137,
+      "name": "Arr\u00eat de bus",
+      "url": "https://open.spotify.com/track/02JNE5wHq5i3SxunmG8o2W"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "D&P \u00e0 vie",
+        "url": "https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 219293,
+      "name": "Mimi",
+      "url": "https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Focus Mentalit\u00e9",
+        "url": "https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 156676,
+      "name": "Melrose Place",
+      "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Saint Laurent",
+        "url": "https://open.spotify.com/album/6AXIqaOESCwHv35kM67Q5s"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        },
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 165671,
+      "name": "Saint Laurent",
+      "url": "https://open.spotify.com/track/5xjZayFgMiq4WYSfAp7LKy"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Comment T'aimer Sans Diamants ?",
+        "url": "https://open.spotify.com/album/29XRiLlkr4iLRbDz319jM7"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        },
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 178533,
+      "name": "ALICANTE",
+      "url": "https://open.spotify.com/track/5BII2RgPk98nXOajxZrODH"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "PRINCESSA",
+        "url": "https://open.spotify.com/album/2YyJQqp4BTvo1108LLHGDp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 170895,
+      "name": "PRINCESSA",
+      "url": "https://open.spotify.com/track/5bslggBfmWaSyxIiVTgQjd"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "A TI",
+        "url": "https://open.spotify.com/album/1ag9N6fc6EmxG7EPlasQl2"
+      },
+      "artists": [
+        {
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "A TI",
+      "url": "https://open.spotify.com/track/3GYowZ5IL7gnri8Zejti3t"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "SHATTA CRIMINEL",
+        "url": "https://open.spotify.com/album/5pGAZuxkyjTa78ZRJBkkLT"
+      },
+      "artists": [
+        {
+          "name": "Iss",
+          "url": "https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd"
+        },
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        }
+      ],
+      "duration_ms": 149077,
+      "name": "SHATTA CRIMINEL",
+      "url": "https://open.spotify.com/track/5dQZMgCDgq0CeQ76s8vPPS"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "MEGA BBL",
+        "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 162041,
+      "name": "ZOU BISOU",
+      "url": "https://open.spotify.com/track/1LmeIVvg4CVTu6kicEVoAr"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Beluga",
+        "url": "https://open.spotify.com/album/6pynvrRBHonKOcySil3MOL"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 158398,
+      "name": "Beluga",
+      "url": "https://open.spotify.com/track/4Ni26iRBfj5ATXjY3ICTcv"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Au soleil",
+        "url": "https://open.spotify.com/album/4jddVwMMZONHYaFprJZnPS"
+      },
+      "artists": [
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "Au soleil",
+      "url": "https://open.spotify.com/track/6DPYjtaohmAGKLxVqXQ4DW"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
+      },
+      "artists": [
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 156274,
+      "name": "Tana",
+      "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "D SUR D",
+        "url": "https://open.spotify.com/album/6oRIQMob01wYzbtcRb9rL3"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "TRIANGLE DES BERMUDES",
+          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "D SUR D",
+      "url": "https://open.spotify.com/track/6ZJnD4IUv451SldoI2Czy1"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Choisi (feat. Alonzo)",
+        "url": "https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 170774,
+      "name": "Choisi (feat. Alonzo)",
+      "url": "https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "BANGER",
+        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 178786,
+      "name": "BANGER",
+      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Va Bene",
+        "url": "https://open.spotify.com/album/5qSqjtD5SEEEujzYVtaad6"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "Stony Stone",
+          "url": "https://open.spotify.com/artist/39eNWcMW3ts3zXEQQ34jgR"
+        }
+      ],
+      "duration_ms": 155968,
+      "name": "Va Bene",
+      "url": "https://open.spotify.com/track/7fscpa2PI3fZuAomhPKylp"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "MA\u00d1ANA",
+        "url": "https://open.spotify.com/album/0iFRPwv9nJhWNAVvcWtVRy"
+      },
+      "artists": [
+        {
+          "name": "Mougli",
+          "url": "https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl"
+        }
+      ],
+      "duration_ms": 176326,
+      "name": "MA\u00d1ANA",
+      "url": "https://open.spotify.com/track/4DUWkGJrfXx0DHPAKlrE9p"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Quand elle danse",
+        "url": "https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K"
+      },
+      "artists": [
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        },
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "duration_ms": 191723,
+      "name": "Quand elle danse",
+      "url": "https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Sapapaya",
+        "url": "https://open.spotify.com/album/6j9Nj8PcvkV4PtgOGVZmC0"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        },
+        {
+          "name": "Mister You",
+          "url": "https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7"
+        }
+      ],
+      "duration_ms": 191239,
+      "name": "Sapapaya",
+      "url": "https://open.spotify.com/track/51ILULzn5k0tvqECAUuGbI"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Si tu pars",
         "url": "https://open.spotify.com/album/5HLHz0tEmaLkXA9SyyQDPT"
@@ -797,171 +941,7 @@
       "url": "https://open.spotify.com/track/1Pl9PEY8RqWA5pOy3mGRIJ"
     },
     {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "D SUR D",
-        "url": "https://open.spotify.com/album/6oRIQMob01wYzbtcRb9rL3"
-      },
-      "artists": [
-        {
-          "name": "Kaaris",
-          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
-        },
-        {
-          "name": "TRIANGLE DES BERMUDES",
-          "url": "https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "D SUR D",
-      "url": "https://open.spotify.com/track/6ZJnD4IUv451SldoI2Czy1"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
-      },
-      "artists": [
-        {
-          "name": "Houari",
-          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 156274,
-      "name": "Tana",
-      "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Beluga",
-        "url": "https://open.spotify.com/album/6pynvrRBHonKOcySil3MOL"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 158398,
-      "name": "Beluga",
-      "url": "https://open.spotify.com/track/4Ni26iRBfj5ATXjY3ICTcv"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Vous me plaisez",
-        "url": "https://open.spotify.com/album/3x2pplJOrnz0YRJO0y2q2T"
-      },
-      "artists": [
-        {
-          "name": "Gambi",
-          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Vous me plaisez",
-      "url": "https://open.spotify.com/track/2sBiZfbYpyunkDAzAUbKwj"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Au soleil",
-        "url": "https://open.spotify.com/album/4jddVwMMZONHYaFprJZnPS"
-      },
-      "artists": [
-        {
-          "name": "L'Alg\u00e9rino",
-          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
-        },
-        {
-          "name": "Josas",
-          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
-        }
-      ],
-      "duration_ms": 169093,
-      "name": "Au soleil",
-      "url": "https://open.spotify.com/track/6DPYjtaohmAGKLxVqXQ4DW"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Choisi (feat. Alonzo)",
-        "url": "https://open.spotify.com/album/1naaJZp4etAdNUufFG0etc"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 170774,
-      "name": "Choisi (feat. Alonzo)",
-      "url": "https://open.spotify.com/track/6yVnTSBQjTuoVN9Jl2VOFX"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "Bora",
-        "url": "https://open.spotify.com/album/47SP5GlzOBGG0JJNMMHycz"
-      },
-      "artists": [
-        {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bora",
-      "url": "https://open.spotify.com/track/4ImIVsQQOIbMFI1d6ZGD6q"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "BANGER",
-        "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 178786,
-      "name": "BANGER",
-      "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
-      "album": {
-        "name": "En Attendant Paphos",
-        "url": "https://open.spotify.com/album/5rNckryyF0a7a4aItirV1G"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "Nahir",
-          "url": "https://open.spotify.com/artist/3x3gsBtmPOSQVqdBzO7N5E"
-        }
-      ],
-      "duration_ms": 160891,
-      "name": "Kappa",
-      "url": "https://open.spotify.com/track/4E0XID4RfGU5MpqwRXIizr"
-    },
-    {
-      "added_at": "2025-08-14 22:00:20",
+      "added_at": "2025-08-21 22:00:23",
       "album": {
         "name": "Brouillon",
         "url": "https://open.spotify.com/album/2OjA1yRXhycemPWXstBWQs"
@@ -975,6 +955,22 @@
       "duration_ms": 134642,
       "name": "Brouillon",
       "url": "https://open.spotify.com/track/1lVzaJNhWQMBnXAUrTvT9C"
+    },
+    {
+      "added_at": "2025-08-21 22:00:23",
+      "album": {
+        "name": "Bora",
+        "url": "https://open.spotify.com/album/47SP5GlzOBGG0JJNMMHycz"
+      },
+      "artists": [
+        {
+          "name": "Klem Schen",
+          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/4ImIVsQQOIbMFI1d6ZGD6q"
     }
   ],
   "unique_name": "Best Life",

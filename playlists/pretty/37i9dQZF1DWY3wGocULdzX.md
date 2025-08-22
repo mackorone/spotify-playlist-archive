@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,611 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,631 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 23 | [Por Que Me Enganas](https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 4:14 |
 | 24 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
 | 25 | [Kenya](https://open.spotify.com/track/48MxmM42utTBnvedomKp3C) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mucho Machito](https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ) | 3:04 |
-| 26 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 5:34 |
-| 27 | [Cogele el Golpe](https://open.spotify.com/track/4nEfMp8OHz46yLs6fCYcfG) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Descargas](https://open.spotify.com/album/32N16d2Ze1n3Mtt6f1kn1O) | 2:45 |
+| 26 | [Cogele el Golpe](https://open.spotify.com/track/4nEfMp8OHz46yLs6fCYcfG) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Descargas](https://open.spotify.com/album/32N16d2Ze1n3Mtt6f1kn1O) | 2:45 |
+| 27 | [El Pito \(I'll Never Go Back to Georgia\)](https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ) | [Joe Cuba](https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh) | [Anthology](https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA) | 5:34 |
 | 28 | [Cao Cao Mani Picao](https://open.spotify.com/track/16cVmcgx4ENIHLUPDh1et9) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia Cruz \- Greatest Hits](https://open.spotify.com/album/634V0km4mTClHkrGiEKw9B) | 3:47 |
 | 29 | [Mambo Is Here to Stay](https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Perlas Cubanas: Machito](https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA) | 2:59 |
 | 30 | [Ran Kan Kan](https://open.spotify.com/track/0q5ARDwy987big1XTriY21) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Tito Puente \- El Rey](https://open.spotify.com/album/793VeJh8Eze4VdHJ388u7V) | 3:08 |

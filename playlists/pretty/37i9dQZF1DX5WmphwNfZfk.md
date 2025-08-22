@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 40 emerging Canadian artists to keep on your radar, according to our editors\. Cover: Billianne
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,841 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,892 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 31 | [I Quit Constructive Dismissal](https://open.spotify.com/track/25eHMPPXdUe1M6uhGtIR0b) | [Exmiranda](https://open.spotify.com/artist/0lfVICBd5hDKhuTZJwj6br) | [I Quit Constructive Dismissal](https://open.spotify.com/album/51oLFLPymyckLL6IQBmBrV) | 2:16 |
 | 32 | [Avenue](https://open.spotify.com/track/2j6Pf8iWCWADGyjyGS0Tn3) | [Polami Roko](https://open.spotify.com/artist/0wBE7qOeJzcyqHaOgMdzhr) | [By Clairvoyance](https://open.spotify.com/album/3lalFrJg1073NbOJ8aJimn) | 2:41 |
 | 33 | [Sweet Talker](https://open.spotify.com/track/7iIqUhYCwzIiQkrMvJg6vz) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Sweet Talker](https://open.spotify.com/album/6NZ7HWOINcxKVJgGANnQzM) | 3:23 |
-| 34 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
+| 34 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
 | 35 | [Je ne sais quoi](https://open.spotify.com/track/2BmIEbaOEJv3YiZADXxNZT) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj) | [Je ne sais quoi](https://open.spotify.com/album/2S19RAxuXJnV3eXfR8Fuoq) | 2:24 |
 | 36 | [RUT](https://open.spotify.com/track/3WOj5K3NGSJc7UUTR0ohDh) | [Adam Klobi](https://open.spotify.com/artist/1qxyhXlGfhiCzhNitLgSbI) | [RUT](https://open.spotify.com/album/5LiTATZE86gpS9OmO7mCL1) | 3:27 |
 | 37 | [Last Time](https://open.spotify.com/track/2QcmaHxFFZ1zkPwbpb7dVX) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Last Time](https://open.spotify.com/album/5HWwHXM4DNEvB1vkOxXUSb) | 3:26 |

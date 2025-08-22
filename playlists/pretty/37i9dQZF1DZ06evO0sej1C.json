@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 44524,
+  "num_followers": 44528,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAACudz+lB08a3P2h8bryNWBW",
+  "snapshot_id": "aKO+gAAAAAAB5RueVvZIsASxf6d6+guF",
   "tracks": [
     {
       "added_at": null,
@@ -203,34 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Sur de la Noche",
-        "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Jose Macario",
-          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
-        }
-      ],
-      "duration_ms": 163100,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Fiest\u00f3n",
         "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
       },
@@ -263,6 +235,34 @@
       "duration_ms": 202500,
       "name": "El Fiest\u00f3n",
       "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Sur de la Noche",
+        "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        }
+      ],
+      "duration_ms": 163100,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Roll",
-        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "De Roll",
-      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tequila y Miel",
         "url": "https://open.spotify.com/album/3qIzssaVo8bUhfHxwbeDua"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 211408,
       "name": "Tequila y Miel",
       "url": "https://open.spotify.com/track/0tSB1fuRtQbdQbE5h1fW6M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Roll",
+        "url": "https://open.spotify.com/album/6a8vWL0w3KFrSw7DqpPxSa"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "De Roll",
+      "url": "https://open.spotify.com/track/2sdKmNpQJmgVSPoiyXcq0t"
     },
     {
       "added_at": null,
@@ -1083,38 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cheque En Blanco",
-        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 167471,
-      "name": "Cheque En Blanco",
-      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Ti Me Olvid\u00e9",
         "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
       },
@@ -1151,6 +1119,38 @@
       "duration_ms": 231111,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/0BXk6oUSkehJkZOv2TBzgG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/29zNxf58MwcAz9lY7LaIUA"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0DN0nP4u5jjfgbSUp6hf3O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cheque En Blanco",
+        "url": "https://open.spotify.com/album/4aEXhOW3BoReEifboscpf8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/1zgA5AWWPAGjJgroKzBAfS"
     },
     {
       "added_at": null,

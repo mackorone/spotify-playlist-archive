@@ -8,11 +8,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/0kEBeGMX8HgjATVTHFh9Kh) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/7jGvR8HjLR59JfuapPJDud) | 5:18 | 2021-11-30 | 2024-12-11 |
+| [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/0kEBeGMX8HgjATVTHFh9Kh) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/7jGvR8HjLR59JfuapPJDud) | 5:18 | 2021-11-30 |  |
 | [\(If You Want the Smoke\) Be the Fire](https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN) | [MaidaVale](https://open.spotify.com/artist/7rsoTsWjPBw9tyPbLXJko2) | [Tales of the Wicked West](https://open.spotify.com/album/3lr8yUfXY966rmIRIIawzz) | 5:18 | 2022-04-28 | 2024-04-19 |
 | [12 Years in the Tomb](https://open.spotify.com/track/0rRIVceDUSlJW00h3IT7x1) | [Saint Vitus](https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn) | [12 Years in the Tomb](https://open.spotify.com/album/1sVawfDBLJPGgAtsmxy99h) | 5:23 | 2022-01-14 | 2022-01-28 |
 | [2 Wheel Nation](https://open.spotify.com/track/3MY1UKqJnow2BDZmfnhe8S) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [III](https://open.spotify.com/album/0AY1owklM5PB1t2lwuBjel) | 5:23 | 2021-11-30 | 2022-02-11 |
-| [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 | 2021-11-30 |  |
+| [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 | 2021-11-30 | 2025-08-22 |
 | [Absolutego](https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/49CV8xfmsdSltz74sCTLms) | 4:55 | 2023-03-10 | 2023-05-10 |
 | [Absolutego](https://open.spotify.com/track/48S5tpRQgMxkqngge9Xz8X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/3DCuSislw0Fstw3mb6VvbD) | 4:55 | 2021-11-30 | 2024-09-27 |
 | [Acid Roulette](https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn) | 5:49 | 2022-04-28 | 2024-04-19 |

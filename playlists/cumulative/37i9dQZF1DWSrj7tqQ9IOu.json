@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Odetto",
+  "description": "The best French indie tracks right now. Cover : Oscar Anton",
   "name": "Made in France",
   "tracks": [
     {
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 130819,
       "name": "Call Home",
       "url": "https://open.spotify.com/track/2HHjnH85IOAmmD6IhPiGuS"
@@ -5446,7 +5446,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 175013,
       "name": "Juste toi et moi",
       "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
@@ -6731,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "Lisbon",
+        "url": "https://open.spotify.com/album/61aSnHkcMWrnFRHMzOzk9i"
+      },
+      "artists": [
+        {
+          "name": "Oscar Anton",
+          "url": "https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150656,
+      "name": "Lisbon",
+      "url": "https://open.spotify.com/track/75hA98CNQJqzpn3lNvvnc8"
+    },
+    {
+      "album": {
         "name": "Looking Backward",
         "url": "https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx"
       },
@@ -7022,6 +7040,24 @@
       "duration_ms": 178253,
       "name": "Magique",
       "url": "https://open.spotify.com/track/27VZiMwOY5RrMT22shw1XY"
+    },
+    {
+      "album": {
+        "name": "Maison br\u00fble",
+        "url": "https://open.spotify.com/album/1FfF5Rnr9APJQEsgYztm9f"
+      },
+      "artists": [
+        {
+          "name": "TheFrenchKris",
+          "url": "https://open.spotify.com/artist/3mMx6lCCOvQZheRBZ3CTQs"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168257,
+      "name": "Maison br\u00fble",
+      "url": "https://open.spotify.com/track/3kXEV4B6JZT1j0alpBtHRd"
     },
     {
       "album": {

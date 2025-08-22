@@ -1,13 +1,109 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Kratex",
-  "num_followers": 119757,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Billy Gillies, Nu-La",
+  "num_followers": 119744,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAf+KqtsK7ZeXM1wASqX6EhnR8Nok/f",
+  "snapshot_id": "AAAf/o1+cTECzeWUfB8MiBlBgo/A7t1c",
   "tracks": [
+    {
+      "added_at": "2025-08-21 15:09:25",
+      "album": {
+        "name": "Crystallize (feat. Nu-La)",
+        "url": "https://open.spotify.com/album/6eiNWAqnBCvy6DguvD3q9r"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 194583,
+      "name": "Crystallize (feat. Nu-La)",
+      "url": "https://open.spotify.com/track/2xrrsL3J9uvCjwxtw4EQcG"
+    },
+    {
+      "added_at": "2025-08-21 15:12:11",
+      "album": {
+        "name": "Follow Me (feat. SACHA)",
+        "url": "https://open.spotify.com/album/4wNTgfzwbiFDh9i6RWv1ER"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Follow Me (feat. SACHA)",
+      "url": "https://open.spotify.com/track/5xct8L2ov4IwB5J8LEx91z"
+    },
+    {
+      "added_at": "2025-08-21 15:14:16",
+      "album": {
+        "name": "Push The Feeling On",
+        "url": "https://open.spotify.com/album/6LXVOle0tNclBMZ4LWW5ki"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 137812,
+      "name": "Push The Feeling On",
+      "url": "https://open.spotify.com/track/71DWKk9tztZ26PXw8vLx9K"
+    },
+    {
+      "added_at": "2025-08-21 15:16:13",
+      "album": {
+        "name": "Maseeha",
+        "url": "https://open.spotify.com/album/5qhNvot0YCBKEI54SCsFQ0"
+      },
+      "artists": [
+        {
+          "name": "WAYANAKA",
+          "url": "https://open.spotify.com/artist/4b0VUqtzVnX7JYf5D6Aklw"
+        },
+        {
+          "name": "Drish Vee",
+          "url": "https://open.spotify.com/artist/206so0ysnvIFSYhoY4pbii"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Maseeha",
+      "url": "https://open.spotify.com/track/2gO6kTa7ExnxmZPY4g2sa8"
+    },
+    {
+      "added_at": "2025-08-21 15:16:32",
+      "album": {
+        "name": "Joyenergizer (Sander van Doorn 2025 Remix)",
+        "url": "https://open.spotify.com/album/6gUghn3PvhlLfGxLiRuRCd"
+      },
+      "artists": [
+        {
+          "name": "Sander van Doorn",
+          "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
+        }
+      ],
+      "duration_ms": 199565,
+      "name": "Joyenergizer (Sander van Doorn 2025 Remix)",
+      "url": "https://open.spotify.com/track/4boz4oEimOWDtIbGs4FBDr"
+    },
     {
       "added_at": "2025-08-14 13:36:36",
       "album": {

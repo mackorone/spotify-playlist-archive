@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-196 songs - 11 hr 12 min
+197 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Legion of Dawn](https://open.spotify.com/track/4fFXTt4Lb1SVVQucRgA2Pg) | [Sarah Schachner](https://open.spotify.com/artist/692KvxElsJHIJQCS6Eoc32) | [Anthem \(Original Soundtrack\)](https://open.spotify.com/album/6Dh6CBAsa6sDFKAeFfbGlU) | 3:46 | 2021-12-15 |  |
 | [Light of Nibel \(feat\. Aeralie Brighton\)](https://open.spotify.com/track/79aotvPXTlHbZ8MvoxhqAE) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM) | [Ori and the Blind Forest \(Original Soundtrack\)](https://open.spotify.com/album/7xPc1OsC2R0siZKMlzRBIo) | 4:19 | 2021-12-15 |  |
 | [Live Gloriously \- \(Main Theme\)](https://open.spotify.com/track/1UKBBP1dKjZHYMKVREIrC5) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sid Meier's Civilization VII \(Original Game Soundtrack\)](https://open.spotify.com/album/17m1NgqYE9s4b2MYAdu0hA) | 4:50 | 2025-05-14 |  |
+| [Lumière](https://open.spotify.com/track/1A1XuDIYZxSKrQ6mzkWwAT) | [Lorien Testard](https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8), [Alice Duport\-Percier](https://open.spotify.com/artist/738VbZ4yn3Kg6aR1m2GXtF) | [Clair Obscur: Expedition 33 \(Original Soundtrack\)](https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc) | 3:42 | 2025-08-21 |  |
 | [Mad Dog](https://open.spotify.com/track/1uBehRVViZXmLC64n6KP8k) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [花田啓太朗](https://open.spotify.com/artist/3g6E2gCAVXJfGU5vG51WXO) | [龍が如く8外伝 Pirates in Hawaii \(Original Soundtrack\)](https://open.spotify.com/album/0kNNuuPwoT8RxIal5gogOe) | 3:20 | 2025-07-29 |  |
 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/3VomNp1WeieuPtn5GgvozR) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/1bk8xnCCB0qZ4LRzUaHJPi) | 4:31 | 2025-05-14 |  |
 | [Main Theme of Final Fantasy VII \(Final Fantasy VII\)](https://open.spotify.com/track/1Op47dMLD73On4rNNNU3AW) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [Distant Worlds II: More Music from Final Fantasy](https://open.spotify.com/album/1WUnKluVNj06DrGDAlsQyr) | 6:43 | 2021-12-15 |  |

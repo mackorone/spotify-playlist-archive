@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: Samant, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,778 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,823 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 16 | [Blind](https://open.spotify.com/track/5dzz1rUl4TL7INXHoORH2f) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [LATE NIGHT THOUGHTS 2](https://open.spotify.com/album/692KxXllC4pCqZk0nvYX80) | 3:03 |
 | 17 | [Foot In The Door](https://open.spotify.com/track/1oJUyNLxQwu2ShvRx8VhdE) | [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Foot In The Door](https://open.spotify.com/album/22j2Rv0XcsGUnQOlBsNg3a) | 2:24 |
 | 18 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 |
-| 19 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
+| 19 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
 | 20 | [Somewhere in a Small Town](https://open.spotify.com/track/0v8Xje4ZqPnYpECOzeMvjJ) | [Sully Burrows](https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT) | [Somewhere in a Small Town](https://open.spotify.com/album/31PomNawADmQlyqqAGQhKM) | 3:06 |
 | 21 | [PISTACHIOS](https://open.spotify.com/track/3puEmXOl4zgWFMeUU0d1ru) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [PISTACHIOS](https://open.spotify.com/album/2JfEatY44KaKsL5uIKHX14) | 3:23 |
 | 22 | [Vamos Pa' Lante](https://open.spotify.com/track/0CGvDj6EA51zxxiP9IRhec) | [Mas Aya](https://open.spotify.com/artist/3PQ5l1cwp95tCwIgynN7VW), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Vamos Pa' Lante](https://open.spotify.com/album/37iFgfjuAgE2wRLQLs3UAX) | 4:46 |

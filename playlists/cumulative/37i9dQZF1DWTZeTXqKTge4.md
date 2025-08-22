@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: DawaMafia
+> Le meilleur du hip\-hop québécois\. Photo: MB, Souldia, White\-B, Lost
 
-834 songs - 1 day 18 hr 16 min
+835 songs - 1 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,6 +726,7 @@
 | [St\-Roch Nord](https://open.spotify.com/track/2odNlNYHcuPFtKYvOYK8tQ) | [Eman](https://open.spotify.com/artist/0577M91sH51YDk2o3cGko9), [GENERICTM](https://open.spotify.com/artist/0POpNftZKkGyrS79WSFeKG) | [JEFFERSON CHIEF \(Un cheval québécois\)](https://open.spotify.com/album/6wyQNeLfMaDruTj9WTdjH5) | 3:39 | 2023-11-03 | 2023-11-13 |
 | [Stack](https://open.spotify.com/track/6qWTWoKhEURkA1WD9Z8vYQ) | [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [Stack](https://open.spotify.com/album/5q3bd7z8kuSWUDJOtgrAmP) | 5:07 | 2023-08-25 | 2023-09-02 |
 | [Start Over](https://open.spotify.com/track/2gj299FKyob27uEQzZo5CO) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:38 | 2023-11-03 | 2023-11-13 |
+| [Suis mes pas](https://open.spotify.com/track/0fREnZJi7nuyRaFEtK9aTw) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Suis mes pas](https://open.spotify.com/album/6mFhy2gP9jazJNyAX0vW0a) | 4:03 | 2025-08-22 |  |
 | [Sunny Delight](https://open.spotify.com/track/31jvT9OExPCzwIb58lTvcU) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Colin\-Maillard](https://open.spotify.com/album/3ndgfqyim4BNv0ATiLLQ7b) | 3:53 | 2023-11-03 | 2023-11-13 |
 | [Sur la lune](https://open.spotify.com/track/0z33yZbU2DpKRGSoPl4lQO) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [Sur la lune](https://open.spotify.com/album/6nW9vAQcbtXmaSHh5lbH3X) | 2:13 | 2023-05-12 | 2023-06-17 |
 | [Sur ma tête](https://open.spotify.com/track/44Oh92jkTz1Wwjvn3ljR69) | [Dirty S](https://open.spotify.com/artist/3uCVM65wRFP6MB5i44HybA) | [Sur ma tête](https://open.spotify.com/album/24oeB4y5KtvehmuKPFLGQh) | 2:18 | 2022-07-25 | 2023-01-06 |

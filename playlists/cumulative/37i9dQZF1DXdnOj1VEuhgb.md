@@ -2,7 +2,7 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ati242
+> Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Waxy x Organize
 
 698 songs - 1 day 7 hr 37 min
 
@@ -540,7 +540,7 @@
 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 | 2024-05-23 | 2025-02-07 |
 | [Sahibinden](https://open.spotify.com/track/5QxAs0FmiSlowEteP3hkXn) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Sahibinden](https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z) | 2:03 | 2023-03-23 | 2023-04-28 |
 | [SALINA SALINA](https://open.spotify.com/track/68eQ091oDd54tyb1Z181r1) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [SALINA SALINA](https://open.spotify.com/album/28JgyTxvy7bO1u14ArYhGk) | 2:17 | 2025-04-24 | 2025-05-16 |
-| [SALLA BANA](https://open.spotify.com/track/4s9R47fdYtIVVHxe3uWUlQ) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [SALLA BANA](https://open.spotify.com/album/6vuvmEGMGBUIqO5ohvNXaA) | 2:06 | 2025-08-07 |  |
+| [SALLA BANA](https://open.spotify.com/track/4s9R47fdYtIVVHxe3uWUlQ) | [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [SALLA BANA](https://open.spotify.com/album/6vuvmEGMGBUIqO5ohvNXaA) | 2:06 | 2025-08-07 | 2025-08-22 |
 | [Salla Salla](https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Salla Salla](https://open.spotify.com/album/3vSlUhmre7ioPlQn424IYD) | 2:26 | 2023-12-12 | 2024-09-27 |
 | [Sana Anlatmak İsterdim](https://open.spotify.com/track/4WZkERYSp4qMG17hyPwe51) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Sana Anlatmak İsterdim](https://open.spotify.com/album/2nNtkZTqA9kbcQp12WQF0T) | 2:18 | 2025-08-07 |  |
 | [Sana Dair](https://open.spotify.com/track/6Bm8h6mriSBj26TGTFdKbW) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Sana Dair](https://open.spotify.com/album/4trc0RuyJmjfsTXJQ7wZX6) | 2:24 | 2025-07-31 | 2025-08-16 |

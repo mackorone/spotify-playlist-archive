@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Tobias Sten & Synne Vo, Segertåget, Zara Larsson og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,535 likes - 107 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,534 likes - 107 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 106 | [Woodstock](https://open.spotify.com/track/5H9t67ui38cdTPo5ZURc1w) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Woodstock](https://open.spotify.com/album/7ykBwGuz9mSCR2BNRao9xl) | 2:55 |
 | 107 | [pool house](https://open.spotify.com/track/7jQlgVyx7x2zUxWHegqKGt) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [pool house](https://open.spotify.com/album/0OzhXqnN3ycNAzPGJTK7uk) | 3:32 |
 
-Snapshot ID: `AAAAABKJ4VTlY0zC3EvkvglD69vcMp7A`
+Snapshot ID: `AAAAAD54i7FDRPNL0M/wDpQyrqrib5sp`

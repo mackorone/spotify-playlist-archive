@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 41322,
+  "num_followers": 41336,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "I Like To Move It (feat. The Mad Stuntman)",
         "url": "https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 352545,
       "name": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Club Mix",
       "url": "https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Follow Me - Club Mix",
-      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -155,6 +155,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Spark Da Meth",
+        "url": "https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME"
+      },
+      "artists": [
+        {
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+        }
+      ],
+      "duration_ms": 393200,
+      "name": "Spark da Meth - Bangin Like a Benzi Mix",
+      "url": "https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -187,26 +203,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
-      },
-      "artists": [
-        {
-          "name": "Code 718",
-          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
-        },
-        {
-          "name": "Henrik Schwarz",
-          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
-        }
-      ],
-      "duration_ms": 368466,
-      "name": "Equinox - Henrik Schwarz Remix",
-      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
         "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
       },
@@ -223,6 +219,26 @@
       "duration_ms": 566026,
       "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
       "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb"
+      },
+      "artists": [
+        {
+          "name": "Code 718",
+          "url": "https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW"
+        },
+        {
+          "name": "Henrik Schwarz",
+          "url": "https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R"
+        }
+      ],
+      "duration_ms": 368466,
+      "name": "Equinox - Henrik Schwarz Remix",
+      "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -539,22 +555,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
-          "name": "Androgeny",
-          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
-        }
-      ],
-      "duration_ms": 494374,
-      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
-      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/76ddqk4TKmBZa7PgHLo4p6"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 605306,
       "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
       "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
+      },
+      "artists": [
+        {
+          "name": "Androgeny",
+          "url": "https://open.spotify.com/artist/7xspivzK6Gu6XyRExmL0UZ"
+        }
+      ],
+      "duration_ms": 494374,
+      "name": "I Could Be This\u00a6 (The Remix) - Morel's That Mix",
+      "url": "https://open.spotify.com/track/5dAvqHRyT21IYqZxy7tx2m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -751,22 +767,6 @@
       "duration_ms": 334220,
       "name": "We Can Make It - The 'I Believe' Dub",
       "url": "https://open.spotify.com/track/01kNH1gcD00UXdzroGFOxg"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Spark Da Meth",
-        "url": "https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME"
-      },
-      "artists": [
-        {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
-        }
-      ],
-      "duration_ms": 393200,
-      "name": "Spark da Meth - Bangin Like a Benzi Mix",
-      "url": "https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X"
     },
     {
       "added_at": "2022-03-03 13:59:16",

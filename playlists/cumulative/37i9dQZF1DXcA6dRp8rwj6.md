@@ -2,7 +2,7 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/37i9dQZF1DXcA6dRp8rwj6)
 
-> The hottest Hip\-Hop of today all over the world\. \(Cover: Rich Brian\)
+> The hottest Hip\-Hop of today all over the world\. \(Cover: Doja Cat\)
 
 2,995 songs - 6 day 7 hr 10 min
 

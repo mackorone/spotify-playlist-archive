@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯  Kannessa Sexmane.
+> 100 Suomi 💯  Kannessa Senya.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,119 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,124 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 48 | [KUKA MUU](https://open.spotify.com/track/33k914iNfzz0cG6BZxCtkp) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [KUKA MUU](https://open.spotify.com/album/55EWiiBFLQ7Y68CFE4pLfr) | 1:53 |
 | 49 | [Ainiin Kulta](https://open.spotify.com/track/2mYsizhqWXBDtP8MqZBPue) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Ainiin Kulta](https://open.spotify.com/album/23dWMG3GBZiNzDQnS94Z1I) | 2:34 |
 
-Snapshot ID: `AAAAADq7dQR09GNLwwDZ9WN5PMz9hK9T`
+Snapshot ID: `AAAAAPMUx8ik65miXxrcv32/Us/FgXP1`

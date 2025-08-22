@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 188021,
+  "num_followers": 188056,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
+      },
+      "artists": [
+        {
+          "name": "Whiskerman",
+          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
+        }
+      ],
+      "duration_ms": 318826,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Do What Feeds Your Soul",
         "url": "https://open.spotify.com/album/1MCMIRmD3RAj9zbMLfdADw"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 155213,
       "name": "Do What Feeds Your Soul",
       "url": "https://open.spotify.com/track/3vgVc48A4Zx2GvBblEMxce"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Champions",
-        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
-      },
-      "artists": [
-        {
-          "name": "Whiskerman",
-          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
-        }
-      ],
-      "duration_ms": 318826,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
     },
     {
       "added_at": "2024-07-05 19:49:15",

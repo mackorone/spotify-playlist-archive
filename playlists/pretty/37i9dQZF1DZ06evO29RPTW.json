@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 131231,
+  "num_followers": 131270,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAAAGUhFJd5VmUVtWWyvN9uU8",
+  "snapshot_id": "aKO+gAAAAACz8fzywJFI3690TQ4wAA2S",
   "tracks": [
     {
       "added_at": null,
@@ -578,11 +578,15 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Howard Stern",
+          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
+      "duration_ms": 234106,
+      "name": "The Great American Nightmare",
+      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
     },
     {
       "added_at": null,
@@ -646,15 +650,11 @@
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Howard Stern",
-          "url": "https://open.spotify.com/artist/7zlb9GG5MVmFkAVptGaGpE"
         }
       ],
-      "duration_ms": 234106,
-      "name": "The Great American Nightmare",
-      "url": "https://open.spotify.com/track/1FuSOxJNvBoJbYjHWNbbJB"
+      "duration_ms": 163333,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/3AG08FLEXqn8Wm32mJj5vc"
     },
     {
       "added_at": null,

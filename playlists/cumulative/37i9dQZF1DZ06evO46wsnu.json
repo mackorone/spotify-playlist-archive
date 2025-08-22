@@ -680,6 +680,24 @@
     {
       "album": {
         "name": "Rpm10",
+        "url": "https://open.spotify.com/album/7jZsALpP2VGqgwUadT8mIj"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166880,
+      "name": "Like the Angel",
+      "url": "https://open.spotify.com/track/3c5UAJcthT8XGntybmty8Z"
+    },
+    {
+      "album": {
+        "name": "Rpm10",
         "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
       },
       "artists": [
@@ -690,7 +708,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 166880,
       "name": "Like the Angel",
       "url": "https://open.spotify.com/track/4t2rjxCXIJnBmRBkXJOYa5"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 299946,
       "name": "The Numbers",
       "url": "https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0"

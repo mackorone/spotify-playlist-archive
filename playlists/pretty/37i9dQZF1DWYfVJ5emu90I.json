@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 23614,
+  "num_followers": 23617,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,38 @@
     {
       "added_at": "2025-08-20 00:54:16",
       "album": {
+        "name": "MORIAGE",
+        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Young Vision",
+          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+        }
+      ],
+      "duration_ms": 250588,
+      "name": "MORIAGE",
+      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
+    },
+    {
+      "added_at": "2025-08-20 00:54:16",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+    },
+    {
+      "added_at": "2025-08-20 00:54:16",
+      "album": {
         "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
         "url": "https://open.spotify.com/album/2fPFTelUOr9Nw72DW55aHU"
       },
@@ -427,38 +459,6 @@
       "duration_ms": 186835,
       "name": "\u30d0\u30b0\u308a (feat. kZm, Awich, PETZ, MonyHorse & JNKMN)",
       "url": "https://open.spotify.com/track/3FdZ6MCqA9y0Hhlc8U9uSw"
-    },
-    {
-      "added_at": "2025-08-20 00:54:16",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
-      },
-      "artists": [
-        {
-          "name": "ziproom",
-          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
-    },
-    {
-      "added_at": "2025-08-20 00:54:16",
-      "album": {
-        "name": "MORIAGE",
-        "url": "https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Young Vision",
-          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
-        }
-      ],
-      "duration_ms": 250588,
-      "name": "MORIAGE",
-      "url": "https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1"
     },
     {
       "added_at": "2025-08-20 00:54:16",
@@ -935,30 +935,6 @@
     {
       "added_at": "2025-08-20 00:54:16",
       "album": {
-        "name": "Type 1 Diabetes",
-        "url": "https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8"
-      },
-      "artists": [
-        {
-          "name": "T-STONE",
-          "url": "https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D"
-        },
-        {
-          "name": "Fuji Taito",
-          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
-        },
-        {
-          "name": "SIMON",
-          "url": "https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx"
-        }
-      ],
-      "duration_ms": 197088,
-      "name": "For Real (feat. Fuji Taito & SIMON)",
-      "url": "https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE"
-    },
-    {
-      "added_at": "2025-08-20 00:54:16",
-      "album": {
         "name": "\u30e4\u30d0\u3044\u306a",
         "url": "https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8"
       },
@@ -995,6 +971,30 @@
     {
       "added_at": "2025-08-20 00:54:16",
       "album": {
+        "name": "Type 1 Diabetes",
+        "url": "https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8"
+      },
+      "artists": [
+        {
+          "name": "T-STONE",
+          "url": "https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D"
+        },
+        {
+          "name": "Fuji Taito",
+          "url": "https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx"
+        }
+      ],
+      "duration_ms": 197088,
+      "name": "For Real (feat. Fuji Taito & SIMON)",
+      "url": "https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE"
+    },
+    {
+      "added_at": "2025-08-20 00:54:16",
+      "album": {
         "name": "BRAIN RUSH",
         "url": "https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW"
       },
@@ -1015,18 +1015,26 @@
     {
       "added_at": "2025-08-20 00:54:16",
       "album": {
-        "name": "Do this shit 4 me",
-        "url": "https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE"
+        "name": "Villains feat. edhiii boi, Novel Core",
+        "url": "https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m"
       },
       "artists": [
         {
-          "name": "CFN MALIK",
-          "url": "https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX"
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        },
+        {
+          "name": "edhiii boi",
+          "url": "https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf"
+        },
+        {
+          "name": "Novel Core",
+          "url": "https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD"
         }
       ],
-      "duration_ms": 151232,
-      "name": "Do this shit 4 me",
-      "url": "https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ"
+      "duration_ms": 197746,
+      "name": "Villains feat. edhiii boi, Novel Core",
+      "url": "https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

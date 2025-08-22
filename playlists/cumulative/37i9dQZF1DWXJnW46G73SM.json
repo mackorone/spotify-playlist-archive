@@ -994,7 +994,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 175132,
       "name": "ADUMDUM",
       "url": "https://open.spotify.com/track/4MZ6Qho1C9m7HyDbeR0emt"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2025-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 134921,
       "name": "Ahmed W Ahmed",
       "url": "https://open.spotify.com/track/1k4XaknYzUVuRiJnVAKRnE"
@@ -4707,6 +4707,28 @@
     },
     {
       "album": {
+        "name": "Love Letters / \u0631\u0633\u0627\u0626\u0644 \u062d\u0628 Deluxe",
+        "url": "https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z"
+      },
+      "artists": [
+        {
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+        },
+        {
+          "name": "Fares Sokar",
+          "url": "https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "DO YOU LOVE ME? / \u0633\u0646\u064a\u0648\u0631\u0629",
+      "url": "https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5"
+    },
+    {
+      "album": {
         "name": "Dom Dom",
         "url": "https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak"
       },
@@ -5092,6 +5114,24 @@
       "duration_ms": 184634,
       "name": "El Ashkhas El Ghalat",
       "url": "https://open.spotify.com/track/1cVZZhxBVFBjkDOwuNdxro"
+    },
+    {
+      "album": {
+        "name": "El Ayam",
+        "url": "https://open.spotify.com/album/4HOCPn72fyE24btiYrQjQw"
+      },
+      "artists": [
+        {
+          "name": "Wegz",
+          "url": "https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "El Ayam",
+      "url": "https://open.spotify.com/track/51kGELPBM8tjGrNyiINolN"
     },
     {
       "album": {
@@ -27794,7 +27834,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 208875,
       "name": "\u0646\u0627\u0642\u0635\u0647 \u0633\u0643\u0631",
       "url": "https://open.spotify.com/track/0brGoiAPI73bEco7qwbhsZ"

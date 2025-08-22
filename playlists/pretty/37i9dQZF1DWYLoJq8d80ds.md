@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain](/playlists/plain/37i9dQZF1DWYLoJq8d80ds) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYLoJq8d80ds)
 
-### [FOLCLORE CARNAVALERO](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
+### [FOLKLORE CARNAVALERO](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
 
 > Para bailar hasta el amanecer\. Foto: Campedrinos
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,235 likes - 105 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,255 likes - 105 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 104 | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/track/2AuJnv5bb33UTKDD2FSyqD) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Ahora \(feat\. Los Tekis\)](https://open.spotify.com/album/4ovvjgPLDp5pRu2bjCSCXw) | 3:27 |
 | 105 | [Ven](https://open.spotify.com/track/5yE5IV949jrNBOGPg4saN3) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Es con mi voz](https://open.spotify.com/album/0rHKr5S8LVHeSkO531KDeS) | 3:44 |
 
-Snapshot ID: `AAAAAOpMnlBI3Rp+e4RYil2+GG2krnIf`
+Snapshot ID: `AAAAALCPMftJiGNazDQZSq2NjP9kh884`

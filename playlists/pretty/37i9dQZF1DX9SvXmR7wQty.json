@@ -875,30 +875,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Comme Avant",
-        "url": "https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi"
-      },
-      "artists": [
-        {
-          "name": "David Carreira",
-          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "Comme Avant",
-      "url": "https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Extraordinaire",
         "url": "https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 303106,
       "name": "Mille vagues",
       "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Comme Avant",
+        "url": "https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi"
+      },
+      "artists": [
+        {
+          "name": "David Carreira",
+          "url": "https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "Comme Avant",
+      "url": "https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh"
     },
     {
       "added_at": "2025-08-01 04:00:28",

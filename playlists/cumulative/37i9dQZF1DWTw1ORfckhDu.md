@@ -2,7 +2,7 @@
 
 ### [100 Suomi](https://open.spotify.com/playlist/37i9dQZF1DWTw1ORfckhDu)
 
-> 100 Suomi 💯  Kannessa Sexmane.
+> 100 Suomi 💯  Kannessa Senya.
 
 963 songs - 1 day 21 hr 44 min
 

@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Aussi simple que toi",
+        "url": "https://open.spotify.com/album/02jmgGQEDT0qHOV9oRMxbr"
+      },
+      "artists": [
+        {
+          "name": "Lena\u00efg",
+          "url": "https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158613,
+      "name": "Aussi simple que toi",
+      "url": "https://open.spotify.com/track/1i4vvuR8zdHunRRPpv06sR"
+    },
+    {
+      "album": {
         "name": "Autrement",
         "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
       },
@@ -468,6 +486,24 @@
       "duration_ms": 180000,
       "name": "C'est \u00e7a la vie",
       "url": "https://open.spotify.com/track/4uw9QI12tDmEvlgiH4tFm9"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 froid",
+        "url": "https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G"
+      },
+      "artists": [
+        {
+          "name": "Chiloo",
+          "url": "https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Caf\u00e9 froid",
+      "url": "https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6"
     },
     {
       "album": {
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 161461,
       "name": "Jamais deux sans trois",
       "url": "https://open.spotify.com/track/3Gl9006GKKQs0To5Xe940u"
@@ -3401,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Mille fois",
+        "url": "https://open.spotify.com/album/4KaoGdfF2k4RUhErCHDzUU"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Mille fois",
+      "url": "https://open.spotify.com/track/3uTr4TDHAfkpO2uR1HjtsN"
+    },
+    {
+      "album": {
         "name": "Million de Mois",
         "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
       },
@@ -3596,7 +3650,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 194560,
       "name": "N'importe quoi",
       "url": "https://open.spotify.com/track/79bwfSoWwwKWjYpsP9nhC4"
@@ -4358,7 +4412,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 198133,
       "name": "Quoi qu'il arrive \u00e7a va aller",
       "url": "https://open.spotify.com/track/1QtzVGTyzvH521grsSwODc"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 155 songs - 12 hr 47 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 156 songs - 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,6 @@ pretty - [cumulative](/playlists/cumulative/68B6aM85uUEBvFTTbHjDX4.md) - [plain]
 | 153 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 154 | [Toter Schmetterling](https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2) | 3:53 |
 | 155 | [Tell Me Why \- Maddix Remix](https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Tell Me Why \(Maddix Remix\)](https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe) | 3:11 |
+| 156 | [Why Can’t We Live Forever?](https://open.spotify.com/track/6UVMbsN3o13f4LriXGsAmU) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Why Can't We Live Forever?](https://open.spotify.com/album/4I1DFWjeY89TY50WWWZlRK) | 2:31 |
 
-Snapshot ID: `AAABWSnyOvNzhgn3vGj0CCJRhmW0rlon`
+Snapshot ID: `AAABWv+0CjWgfXl0eIo7NaO2voMbPZiI`

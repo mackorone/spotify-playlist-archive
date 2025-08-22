@@ -1,6 +1,6 @@
 {
   "description": "S\u0142o\u0144ce, le\u017cak i letnia b\u0142ogo\u015b\u0107 w d\u017awi\u0119kach \u2600\ufe0f",
-  "num_followers": 339033,
+  "num_followers": 339048,
   "original_name": "Letni chill",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-08-15 07:43:49",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
-    },
-    {
-      "added_at": "2025-08-15 07:43:49",
-      "album": {
         "name": "Heavens Sirens",
         "url": "https://open.spotify.com/album/4uztehBHP9cgAMZTbApWUn"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 176974,
       "name": "Heavens Sirens",
       "url": "https://open.spotify.com/track/0vk7mlt1Bnhw5P2pS3yitn"
+    },
+    {
+      "added_at": "2025-08-15 07:43:49",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2025-08-15 07:43:49",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-08-15 07:43:49",
       "album": {
-        "name": "Man Of The Year",
-        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 180433,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
-    },
-    {
-      "added_at": "2025-08-15 07:43:49",
-      "album": {
         "name": "NAPISZ JAK B\u0118DZIESZ",
         "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
       },
@@ -1039,22 +1023,6 @@
     {
       "added_at": "2025-08-15 07:43:49",
       "album": {
-        "name": "s\u0142owa na K",
-        "url": "https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D"
-      },
-      "artists": [
-        {
-          "name": "Sylwia Grzeszczak",
-          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
-        }
-      ],
-      "duration_ms": 157528,
-      "name": "s\u0142owa na K",
-      "url": "https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K"
-    },
-    {
-      "added_at": "2025-08-15 07:43:49",
-      "album": {
         "name": "Times Square Jesus",
         "url": "https://open.spotify.com/album/5UqS4pYqBUNpzjiOLWyhhX"
       },
@@ -1075,6 +1043,38 @@
       "duration_ms": 255195,
       "name": "Times Square Jesus",
       "url": "https://open.spotify.com/track/7j34jXXTTV5oCnlbqs7PQc"
+    },
+    {
+      "added_at": "2025-08-15 07:43:49",
+      "album": {
+        "name": "Man Of The Year",
+        "url": "https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 180433,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT"
+    },
+    {
+      "added_at": "2025-08-15 07:43:49",
+      "album": {
+        "name": "s\u0142owa na K",
+        "url": "https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D"
+      },
+      "artists": [
+        {
+          "name": "Sylwia Grzeszczak",
+          "url": "https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS"
+        }
+      ],
+      "duration_ms": 157528,
+      "name": "s\u0142owa na K",
+      "url": "https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K"
     }
   ],
   "unique_name": "Letni chill",

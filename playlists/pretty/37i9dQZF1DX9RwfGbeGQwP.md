@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,021 likes - 300 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,583 likes - 300 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 299 | [damn this car](https://open.spotify.com/track/1ucLWRB9ioHsj5wErSj9pQ) | [Attic Dizzt](https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI) | [damn this car](https://open.spotify.com/album/4cRZdI8E9i9EVywnR5te67) | 1:55 |
 | 300 | [Basement Bar](https://open.spotify.com/track/5Oox1aQKORIPYKGlmACoec) | [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I), [Anatolian Lover](https://open.spotify.com/artist/623ScUknqQMeadlTsPsw0k) | [Basement Bar](https://open.spotify.com/album/7JGsts4xL7NWKG4nfTGZ01) | 1:18 |
 
-Snapshot ID: `AAAAADrrqXHu0E784jfBfon3LDehGe97`
+Snapshot ID: `AAAAAAltWNaJyxocNeCtEwKSXiqTPWX1`

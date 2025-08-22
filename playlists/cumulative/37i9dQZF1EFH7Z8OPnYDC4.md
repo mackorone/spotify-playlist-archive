@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-365 songs - 21 hr 41 min
+366 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [No More Waiting](https://open.spotify.com/track/1pUgkSBwZTRMIOLe6RqK0U) | [Inga Swenson](https://open.spotify.com/artist/7EqGzM2cJA1e2tZhH7lsY5), [John Cullum](https://open.spotify.com/artist/1odplm0E6R5DQDgfdPqfL5) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 4:51 | 2024-07-26 |  |
 | [No Place but Home](https://open.spotify.com/track/0LoFIYFIUq1O69LF12YJPQ) | [Bobby Short](https://open.spotify.com/artist/3EmBIe1qOt8cX3h3Oe91mk) | [Bobby Short Celebrates Rodgers & Hart](https://open.spotify.com/album/08pUGyS4rVWwbskaXdANx8) | 3:29 | 2024-07-26 |  |
 | [No Song More Pleasing](https://open.spotify.com/track/6xNDaL7NdI23uTxtBkHqEs) | [Ed Evanko](https://open.spotify.com/artist/09DMGd39KE9MtB6oovugmo), [Nicol Williamson](https://open.spotify.com/artist/40RoUcmgirwMpNr79bUwU8) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 2:29 | 2024-07-26 |  |
-| [No Strings](https://open.spotify.com/track/41ITZfX9ne38xC22IWowHv) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:33 | 2024-07-26 |  |
+| [No Strings](https://open.spotify.com/track/0qJUPkzN7UYbQBYltuzVlF) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR) | 2:33 | 2025-08-21 |  |
+| [No Strings](https://open.spotify.com/track/41ITZfX9ne38xC22IWowHv) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:33 | 2024-07-26 | 2025-08-22 |
 | [Nobody Told Me](https://open.spotify.com/track/6BmSCO5TU6vbN2hLog5F5c) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [The Complete Jazz Sessions, 1962](https://open.spotify.com/album/3KVknAQw9Pcjgpk8dL9imC) | 3:22 | 2024-07-26 |  |
 | [Nobody's Heart \(Belongs To Me\)](https://open.spotify.com/track/0keDfklsl9ztvumND3AlC2) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [In Love Again](https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl) | 3:48 | 2024-07-26 |  |
 | [Nothing But You](https://open.spotify.com/track/0xUs23Mi82LctvF6CG4KCs) | [Judy Garland](https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf), [Griffith & Godwin](https://open.spotify.com/artist/4ZDLkmZM3ikuz4rty2rhAY) | [The Complete Decca Masters \(Plus\)](https://open.spotify.com/album/1FB5UJKvWTEVyFBAbHwIP0) | 2:50 | 2024-07-26 |  |

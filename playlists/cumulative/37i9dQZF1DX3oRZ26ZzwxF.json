@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Black K x Fior 2 Bior",
+  "description": "Le meilleur du rap africain francophone. Photo : Himra ",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 233000,
       "name": "B\u00e9ni",
       "url": "https://open.spotify.com/track/6jSuFCEBmPaw57N4Me4bya"
@@ -573,6 +573,24 @@
     },
     {
       "album": {
+        "name": "Coup d\u2019\u00e9tat",
+        "url": "https://open.spotify.com/album/3wsvBj7ffVDFIuKEgfP9wF"
+      },
+      "artists": [
+        {
+          "name": "Lamine l\u00f8ssa",
+          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121078,
+      "name": "Coup d\u2019\u00e9tat",
+      "url": "https://open.spotify.com/track/2VsgyigZAuSNNeDjhKW88d"
+    },
+    {
+      "album": {
         "name": "Dans le gba",
         "url": "https://open.spotify.com/album/7MBV70ajswiAJDV8Clcber"
       },
@@ -620,7 +638,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 160500,
       "name": "De m\u00eame",
       "url": "https://open.spotify.com/track/3XO0tNE3uSwcBCYUNbdCzP"
@@ -682,6 +700,32 @@
       "duration_ms": 179591,
       "name": "Djan a mis dans",
       "url": "https://open.spotify.com/track/7gaYjKCbwWzEnvcsIsC2Wj"
+    },
+    {
+      "album": {
+        "name": "DMV DE NOJ",
+        "url": "https://open.spotify.com/album/74eLnfrb5hjHgzNWhp5AI8"
+      },
+      "artists": [
+        {
+          "name": "N\u00d4J",
+          "url": "https://open.spotify.com/artist/2rCPBjAnHwMR274CLbtl5O"
+        },
+        {
+          "name": "Jeune Bendjoul",
+          "url": "https://open.spotify.com/artist/1cI9d67CmJ8GZmLeyY3U9u"
+        },
+        {
+          "name": "M-A.V",
+          "url": "https://open.spotify.com/artist/79NDIskFlVST3aywfoEMRw"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108169,
+      "name": "DMV DE NOJ",
+      "url": "https://open.spotify.com/track/3t8AnEEZ37xccA506xAllf"
     },
     {
       "album": {
@@ -814,7 +858,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 173653,
       "name": "Dur oh",
       "url": "https://open.spotify.com/track/0O83QsqoybKWA4Iz3BN0oG"
@@ -930,7 +974,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 109714,
       "name": "Fav\u00e9la Ghetto",
       "url": "https://open.spotify.com/track/0MAUFFPj1wK2trsXUkj9gT"
@@ -955,6 +999,28 @@
     },
     {
       "album": {
+        "name": "LIBANDA",
+        "url": "https://open.spotify.com/album/5Ozrs01s4MBs5AyLhOfzi1"
+      },
+      "artists": [
+        {
+          "name": "FETTY ND0SS",
+          "url": "https://open.spotify.com/artist/3qnEYx6CH97HzOhFZPWasv"
+        },
+        {
+          "name": "Waza no limite",
+          "url": "https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178534,
+      "name": "FRAIS D'ABORD",
+      "url": "https://open.spotify.com/track/5MsOWuwjLiOPLaQ40G5mvz"
+    },
+    {
+      "album": {
         "name": "Freestyle Drill Ivoire 5",
         "url": "https://open.spotify.com/album/2mwgUrBvH7hEWlQkTxX9i2"
       },
@@ -966,7 +1032,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 178285,
       "name": "Freestyle Drill Ivoire 5",
       "url": "https://open.spotify.com/track/7s4CozYm2NWqEq9EctW7wR"
@@ -1191,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Kira 5",
+        "url": "https://open.spotify.com/album/5JbJGSXKZ2e8nQlf6TqoEb"
+      },
+      "artists": [
+        {
+          "name": "Paki Chenzu",
+          "url": "https://open.spotify.com/artist/7CaZ0PyALKhFyvSLhnkpvB"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263160,
+      "name": "Kira 5",
+      "url": "https://open.spotify.com/track/5kjNtDSk3kBFIQU4ZasFm1"
+    },
+    {
+      "album": {
         "name": "La vie des gens",
         "url": "https://open.spotify.com/album/2Pvtyteh6Phny6SIRJrwoa"
       },
@@ -1322,6 +1406,24 @@
       "duration_ms": 98417,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/5J8w2UbHMo8cEyCReFxTUA"
+    },
+    {
+      "album": {
+        "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
+        "url": "https://open.spotify.com/album/1QIVRYD3CeGRN3OLJe8UzA"
+      },
+      "artists": [
+        {
+          "name": "MC One",
+          "url": "https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "Mc One -C' \u00e7a Q\u00e8 l\u00e0",
+      "url": "https://open.spotify.com/track/7kb8tHoZyA9YkZxPmKP91p"
     },
     {
       "album": {
@@ -1488,7 +1590,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 127430,
       "name": "Nie Les Faits",
       "url": "https://open.spotify.com/track/2Nb97LbrINavdRIXnPTuX2"
@@ -1506,7 +1608,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 202572,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/7w3vnFg4BKY2esvcILF1Mi"
@@ -1648,10 +1750,32 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 145250,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/0dFr0hDLBsFYBYZ7uqwelG"
+    },
+    {
+      "album": {
+        "name": "Oulala (II)",
+        "url": "https://open.spotify.com/album/2QN5pmtN6C2psqCjpU0Evi"
+      },
+      "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
+        {
+          "name": "Fior 2 Bior",
+          "url": "https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Oulala - II",
+      "url": "https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5"
     },
     {
       "album": {
@@ -1891,6 +2015,28 @@
     },
     {
       "album": {
+        "name": "DACHIBA KOUMGBA TCHAIBA",
+        "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160615,
+      "name": "TAPER CREER (feat. Gazo)",
+      "url": "https://open.spotify.com/track/3YKg1eTKqjwFI8pPjZ75xP"
+    },
+    {
+      "album": {
         "name": "Tous les jours",
         "url": "https://open.spotify.com/album/33ldjb3AqSv3FP6ZHBBtey"
       },
@@ -2092,6 +2238,46 @@
       "duration_ms": 201977,
       "name": "Voil\u00e0 moi, Afro Beats Ivoire 3",
       "url": "https://open.spotify.com/track/3R39pWOhoMLNY77jxRcSt6"
+    },
+    {
+      "album": {
+        "name": "Waka waka",
+        "url": "https://open.spotify.com/album/7jtTudk8BcffL31aWK1qrW"
+      },
+      "artists": [
+        {
+          "name": "Fanicko",
+          "url": "https://open.spotify.com/artist/5w4rQV4ajaclFQUATqeo4p"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169854,
+      "name": "Waka waka",
+      "url": "https://open.spotify.com/track/5i8uwUbiAKBJ7kfhgXpVzf"
+    },
+    {
+      "album": {
+        "name": "WOLOLO",
+        "url": "https://open.spotify.com/album/7LxeU9fU0qWqksCwJokyNI"
+      },
+      "artists": [
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "WOLOLO",
+      "url": "https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br"
     },
     {
       "album": {

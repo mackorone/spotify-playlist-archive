@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "90 Cent",
+        "url": "https://open.spotify.com/album/6fJR80HOK80mvljPwXjGgW"
+      },
+      "artists": [
+        {
+          "name": "MAALI",
+          "url": "https://open.spotify.com/artist/1tWEsCzc6lDTYH6oaTAHh0"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "90 Cent",
+      "url": "https://open.spotify.com/track/3rnNHMpqStQ9YBYyaYS0uQ"
+    },
+    {
+      "album": {
         "name": "A Little Thing Called Love",
         "url": "https://open.spotify.com/album/3epe5QY6Cc1Id3iK6U1S3Q"
       },
@@ -260,7 +278,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 202597,
       "name": "Buy Me Love",
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
@@ -362,6 +380,28 @@
       "duration_ms": 208049,
       "name": "ControlS!",
       "url": "https://open.spotify.com/track/43ckrM6WEcb8dRYgzD54VE"
+    },
+    {
+      "album": {
+        "name": "Crocodile",
+        "url": "https://open.spotify.com/album/1VKBWhjqEIzcbGy1U1NS5a"
+      },
+      "artists": [
+        {
+          "name": "Cindy Saray",
+          "url": "https://open.spotify.com/artist/0tnlDKnp21gh74TmQnpmrk"
+        },
+        {
+          "name": "Coster Ojwang",
+          "url": "https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227735,
+      "name": "Crocodile",
+      "url": "https://open.spotify.com/track/0G0P8mRIdJ0QvoT9g8YANi"
     },
     {
       "album": {
@@ -482,6 +522,24 @@
       "duration_ms": 183433,
       "name": "Divine Intervention - Acoustic",
       "url": "https://open.spotify.com/track/0ROiUmUgUIuTRjS6VBdwHU"
+    },
+    {
+      "album": {
+        "name": "Don't Blame Me",
+        "url": "https://open.spotify.com/album/2GuT8ltdbBWGx4UpS14L8M"
+      },
+      "artists": [
+        {
+          "name": "Chwezimadeit",
+          "url": "https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Don't Blame Me",
+      "url": "https://open.spotify.com/track/7DNoFGocfaQKO54zkhIUXf"
     },
     {
       "album": {
@@ -1353,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Nakungoja",
+        "url": "https://open.spotify.com/album/5B3APlvJ1MTbaLrNFFsdqE"
+      },
+      "artists": [
+        {
+          "name": "Iminza",
+          "url": "https://open.spotify.com/artist/6zjQD2awFMEfRnNakBu9Br"
+        },
+        {
+          "name": "Kayrop",
+          "url": "https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Nakungoja",
+      "url": "https://open.spotify.com/track/2eXcfadwFQqOuxsBV3YIvQ"
+    },
+    {
+      "album": {
         "name": "Narcissus",
         "url": "https://open.spotify.com/album/5rmgacCroc3SaJKLI6Gvbc"
       },
@@ -1852,7 +1932,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 114315,
       "name": "SAYSHEDO",
       "url": "https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq"
@@ -1906,7 +1986,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 186504,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/4dLW9YgtBGCquFb0gs6HdR"
@@ -2596,7 +2676,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 210326,
       "name": "What They Heard",
       "url": "https://open.spotify.com/track/5p0kXDP56ztkjc0AtaWLSI"

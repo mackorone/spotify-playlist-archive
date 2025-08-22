@@ -2,9 +2,9 @@
 
 ### [+233 Bars ](https://open.spotify.com/playlist/37i9dQZF1DX7qRTMD2EbNu)
 
-> Hottest bars coming live from the 233\.  Cover: Beeztrap KOTM
+> Hottest bars coming live from the 233\.  Cover: Kiddblack
 
-793 songs - 1 day 16 hr 12 min
+794 songs - 1 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Alhaji Popping](https://open.spotify.com/track/6678acn5h2wP7INBQ2WLH7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Alhaji Popping](https://open.spotify.com/album/5fqnuvFLEnDRaxnEKY13QQ) | 2:36 | 2025-06-20 |  |
 | [All Black](https://open.spotify.com/track/6k0JvWV5AzGlnoWe0IQxNq) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Bar 2 Mixtape](https://open.spotify.com/album/4TjcXQcmjVk3Fta78FewRe) | 5:13 | 2025-03-06 | 2025-03-14 |
 | [All Gas No Breaks](https://open.spotify.com/track/5kVP6wqCnZIvSkAExR0qdX) | [Kev the Topic](https://open.spotify.com/artist/4MahedKXMQXH2Dt0nKyN8s), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [All Gas No Breaks](https://open.spotify.com/album/563vOOWujyM8dwQKzYhGMP) | 2:54 | 2023-07-20 | 2023-09-22 |
-| [All Night](https://open.spotify.com/track/6CNXAilaYIPE8lDTX6GMLu) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Midnight Sounds](https://open.spotify.com/album/4fE4QvVGJNWEl0Uihl9ej8) | 2:28 | 2025-07-11 |  |
+| [All Night](https://open.spotify.com/track/6CNXAilaYIPE8lDTX6GMLu) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG) | [Midnight Sounds](https://open.spotify.com/album/4fE4QvVGJNWEl0Uihl9ej8) | 2:28 | 2025-07-11 | 2025-08-22 |
 | [All the Way](https://open.spotify.com/track/3H85mB1a9OFV7DyVdbMklg) | [Safo Newman](https://open.spotify.com/artist/1XygOZOkRxWKr0vEKgZxFl) | [All the Way](https://open.spotify.com/album/3lkY9AIk80VSuSruRvGkdG) | 4:00 | 2024-07-26 | 2024-08-30 |
 | [Alright](https://open.spotify.com/track/1G7J3XxQpLqc3Ji93sVXSN) | [Sahene](https://open.spotify.com/artist/7KAeQIss0qfW6zEqcKA0EG) | [Alright](https://open.spotify.com/album/0kwBzEnGAwXO2cOFBD1ksy) | 2:47 | 2025-06-13 |  |
 | [Always \(feat\. Black Sherif\)](https://open.spotify.com/track/2koM4vqlpUzeRbNkjsDBwF) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Always \(feat\. Black Sherif\)](https://open.spotify.com/album/0ZYjSOqqH5cw3rxkIjIeKH) | 2:34 | 2022-06-24 | 2024-02-16 |
@@ -424,6 +424,7 @@
 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 | 2025-01-17 |  |
 | [Lost n found](https://open.spotify.com/track/6bZwlXO5h0FZXui1d76tHg) | [Qaido](https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz) | [Lost n found](https://open.spotify.com/album/2ha5ESH35aTlUTJineYYGH) | 2:56 | 2023-09-21 | 2023-09-29 |
 | [Love Or Money](https://open.spotify.com/track/4trjuu29tp3KzJg8M5YYp5) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb), [Ablekuma Nana Lace](https://open.spotify.com/artist/1q0Ivytvk3QtPjXBDOMNRw) | [Love Or Money](https://open.spotify.com/album/2ImyuAvmH5SUCyHnaDxl1Y) | 2:03 | 2024-09-13 | 2024-09-20 |
+| [Luck Of The Draw](https://open.spotify.com/track/50rzpPGv1RfnlhKOoggI8S) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [Luck Of The Draw](https://open.spotify.com/album/3mKy039M0qt7Vt89jtdzo1) | 2:07 | 2025-08-21 |  |
 | [Lungu Lungu](https://open.spotify.com/track/44hRfuNAIpfY06DQ3y64H1) | [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw) | [Lungu Lungu](https://open.spotify.com/album/6PweoAxDObyATvUSpiz37i) | 2:53 | 2025-04-18 |  |
 | [Lupita Flow](https://open.spotify.com/track/2uQyq8wdd2FuoWQVPTWRW7) | [Ayesem](https://open.spotify.com/artist/57qCTSQMNSJSI2bQjaM2q9), [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [Lupita Flow](https://open.spotify.com/album/0NczRK7Xs2bsT978F7aRkw) | 3:02 | 2024-11-22 | 2025-01-18 |
 | [LUV THY BROTHER AS THY SELF](https://open.spotify.com/track/42HJiaqkS0jPlljIEcmWWK) | [Kwelit](https://open.spotify.com/artist/3H0hY5Y8gwHixRK5QoQ0wZ) | [PA!N](https://open.spotify.com/album/3YDUPN44CCjxug4rNQop9b) | 1:58 | 2023-12-01 | 2023-12-08 |

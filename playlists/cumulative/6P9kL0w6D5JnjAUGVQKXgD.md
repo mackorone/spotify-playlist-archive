@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,599 songs - 3 day 11 hr 55 min
+1,600 songs - 3 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [Falling](https://open.spotify.com/track/5CvHxE2M0FBa3HxXPJ11oy) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Falling](https://open.spotify.com/album/0drNcVui4k5Dj6VBEKY8oB) | 2:12 | 2020-05-27 | 2021-04-02 |
 | [Falling](https://open.spotify.com/track/2IX9rTOZFc4OgPph0LuubR) | [Koosen](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Strange Fruits Music](https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC) | [Falling](https://open.spotify.com/album/3M5FawBZnrEVdpTqkp5wc3) | 2:47 | 2020-06-01 | 2020-07-27 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-08-10 | 2023-06-11 |
+| [Falling Slow](https://open.spotify.com/track/4UOHF8lYzxip4o14O3SPFc) | [MNT](https://open.spotify.com/artist/6bMj5nDzBr0mlQtM1U9A98) | [Falling Slow](https://open.spotify.com/album/03b2XFZkvWrr4QHzqhTBAl) | 2:15 | 2025-08-22 |  |
 | [Far Away](https://open.spotify.com/track/41gc70HOn9O0C5LMW825Qq) | [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Far Away](https://open.spotify.com/album/2hoXIQS4eYCUsaYvyJiEyU) | 3:30 | 2019-09-29\* | 2020-05-27 |
 | [Far Away From You](https://open.spotify.com/track/6iCANgGBQ4lfW9JgFhRh4x) | [Sanzach](https://open.spotify.com/artist/62GsFBdGVenYYlclZgtXDD), [Jetason](https://open.spotify.com/artist/26XBgogPEkkbkDLQLocwGe) | [Far Away From You](https://open.spotify.com/album/5gmAddMUvCpmbSKzzI5l2E) | 3:40 | 2023-07-07 | 2023-12-23 |
 | [Faultline](https://open.spotify.com/track/7FDRUu9bh7I9QT2Fbwb03I) | [Pink Miller](https://open.spotify.com/artist/3vpYqMdQOj4tqQkPdb7cbo) | [Faultline](https://open.spotify.com/album/5bvLqbOs0CC1Yf7GswiIXK) | 2:37 | 2023-02-16 | 2023-12-14 |
@@ -563,7 +564,7 @@
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2021-09-15 | 2023-06-09 |
 | [Hands](https://open.spotify.com/track/5enElsJ9GpqasefsrSukbu) | [Price & Takis](https://open.spotify.com/artist/7bCWp0OGCR9OOHedxrIMox), [Zac Poor](https://open.spotify.com/artist/4uEwIvgCgdLzJfPR0FCpmg) | [Hands](https://open.spotify.com/album/1VfdXqPllcaadfA3DM1pMY) | 3:29 | 2020-05-26 | 2023-06-14 |
 | [Hands in the Fire](https://open.spotify.com/track/400HuEeBDaTZSotSb1WJeI) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Hands in the Fire](https://open.spotify.com/album/6YdKQ0eOvhYNHZElEnxSjy) | 2:56 | 2020-05-26 | 2022-12-10 |
-| [Hands Up](https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Hands Up](https://open.spotify.com/album/70wX919JuPiZprpB6qZYOs) | 2:50 | 2021-11-14 |  |
+| [Hands Up](https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Hands Up](https://open.spotify.com/album/70wX919JuPiZprpB6qZYOs) | 2:50 | 2021-11-14 | 2025-08-22 |
 | [Happiest Year \- Sam Feldt Remix](https://open.spotify.com/track/5gQlZDf1okAKlIeRLSlVr1) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Happiest Year \(Sam Feldt Remix\)](https://open.spotify.com/album/2h6hN8T9iNGlKatyCU21Oh) | 3:16 | 2020-06-15 | 2020-06-22 |
 | [Happy Alone \(feat\. V\. Bozeman\) \- Joe Stone Remix](https://open.spotify.com/track/1u1RnsX85bIHpp3vxfQOQB) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [V\. Bozeman](https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI), [Joe Stone](https://open.spotify.com/artist/7ueAtuWRhbblhShETe3DjW) | [Happy Alone \(feat\. V\. Bozeman\) EP \[Remixes\]](https://open.spotify.com/album/3uZ9p3G4GSAMy5QtGzLbd2) | 4:43 | 2020-10-19 | 2020-11-03 |
 | [Happy Together](https://open.spotify.com/track/7EEJU3Qme2yzu8Q0OTtct6) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Happy Together](https://open.spotify.com/album/2LK7YxcYpFW25L6ALMXhPY) | 2:41 | 2020-07-20 | 2020-07-28 |

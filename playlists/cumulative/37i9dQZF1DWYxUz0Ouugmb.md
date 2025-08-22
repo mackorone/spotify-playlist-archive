@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\.  Cover: The Lantis
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Difki Khalif
 
-282 songs - 18 hr 20 min
+285 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2021-11-25 | 2022-03-25 |
 | [Fragile](https://open.spotify.com/track/2aQ5TojQsR4rTe1zyiJamc) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Fragile](https://open.spotify.com/album/0Mhyp9JonvP6cHv2HWQChq) | 3:38 | 2024-08-02 | 2025-04-16 |
 | [Gantung](https://open.spotify.com/track/2R1Eks7GwZb8F8JIfyZEBo) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c) | [Gantung](https://open.spotify.com/album/45xtIbXUuprdcTEUqvRpCB) | 3:37 | 2025-04-18 |  |
+| [Gelora Asmara](https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:09 | 2025-08-21 |  |
 | [Gem In I](https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Gem In I](https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3) | 3:08 | 2021-11-25 | 2022-03-25 |
 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 | 2023-07-13 | 2024-03-29 |
 | [girl of the earth](https://open.spotify.com/track/4yLWk1DIcgBihCDFD7MshU) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [innerchild](https://open.spotify.com/album/72jZtqNaiAbUmcU5OqVgp9) | 3:50 | 2022-04-07 | 2023-04-14 |
@@ -103,6 +104,7 @@
 | [In Situ \(Remix Version\)](https://open.spotify.com/track/2BzHGy5g8keLdzk18JWd1n) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [In Situ \(Remix Version\)](https://open.spotify.com/album/33Wa80qjHTh7UnaxyT0i7N) | 3:00 | 2023-01-26 | 2023-04-14 |
 | [Indah Pada Waktunya](https://open.spotify.com/track/2UAgx5YTxZpUcb5AuPkcdZ) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Indah Pada Waktunya](https://open.spotify.com/album/0tpiMc5UyAepTh01ut8lkA) | 4:00 | 2025-04-15 |  |
 | [Ingatkah?](https://open.spotify.com/track/0WtLOUvSWCb6F63ojSr2xH) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Ingatkah?](https://open.spotify.com/album/4RXz1bccwbZLdHaK0krhLb) | 4:23 | 2025-04-15 |  |
+| [Ingatlah Aku Disini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Disini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 | 2025-08-21 |  |
 | [Issa Goodbye](https://open.spotify.com/track/3YaA4d6ukGO85nWrukkFae) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Issa Goodbye](https://open.spotify.com/album/1nJyDbakUhIJnOfhbcg0jx) | 3:36 | 2023-11-16 | 2024-03-29 |
 | [Itu Kamu](https://open.spotify.com/track/3qGkwkxr7N2VfFf3fImq0x) | [Reybong](https://open.spotify.com/artist/6kthu3bnrZuU7G1VLmRWF5) | [Itu Kamu](https://open.spotify.com/album/6Xl8CANrPQXIALJB1W2aNG) | 4:07 | 2022-03-24 | 2023-04-14 |
 | [Jaga Hati Ini](https://open.spotify.com/track/1RV4ibzfQKOYisbT5GY3Mg) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm), [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:17 | 2023-04-13 | 2024-03-29 |
@@ -172,6 +174,7 @@
 | [Nirwana](https://open.spotify.com/track/20LfDnXnQRhSS5pMndgAhs) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Nirwana](https://open.spotify.com/album/1llIHceabDiod8engkABuL) | 3:35 | 2025-04-15 |  |
 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 | 2023-06-16 | 2024-03-29 |
 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-06-22 | 2024-03-29 |
+| [Nostalgila](https://open.spotify.com/track/4ZiIiMCWRE9XXZtzvuqL6k) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Nostalgila](https://open.spotify.com/album/6bAENKavySVT6IMovd9dv9) | 2:58 | 2025-08-21 |  |
 | [Nyaman Terbuka](https://open.spotify.com/track/7tXTwcHhAmo76d6F7upe1A) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Krisna Trias](https://open.spotify.com/artist/14uIEY2id29DkY0FzZWuM0) | [Panggil Saja Hanna](https://open.spotify.com/album/6PmNwvDjjpY5QCOFdtaOYO) | 3:28 | 2025-07-31 |  |
 | [Obat Rindu](https://open.spotify.com/track/688SOzohXB8IEWPLlMoHsR) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Kucaimars](https://open.spotify.com/artist/2qf0FNIDmfNQ3bTi9Gyj90) | [Obat Rindu](https://open.spotify.com/album/61QED0aYIkhiHdt0GC7GK4) | 3:47 | 2022-03-03 | 2022-03-25 |
 | [Orang Ketiga \- Live](https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Orang Ketiga \(Live\)](https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU) | 4:39 | 2023-05-04 | 2024-03-29 |

@@ -2,9 +2,9 @@
 
 ### [HOTPOP](https://open.spotify.com/playlist/37i9dQZF1DXcklpCH5705e)
 
-> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Firdhaus, Jeryl Lee
+> Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: 盧廣仲 Crowd Lu
 
-231 songs - 15 hr 5 min
+233 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Yours](https://open.spotify.com/track/66sBTYlkaiyBwf4fhbIHlZ) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/145FYiluHlYCPGO2MOLhU4) | 4:24 | 2022-03-10 | 2023-02-03 |
 | [คั่นกู \- เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/track/2ZGgIXaoierTsnkrDzuBzY) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [เพลงประกอบซีรีส์ เพราะเราคู่กัน](https://open.spotify.com/album/2KhI6iPy0XxzzRvXQnmwsb) | 4:03 | 2022-03-10 | 2023-02-03 |
 | [一口一](https://open.spotify.com/track/1h6tZ0VO1KvyldahaKgYUD) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [一口一](https://open.spotify.com/album/3iv495ecbGF4eSA8CAjNPU) | 3:13 | 2025-07-24 |  |
+| [一夜一夜一夜](https://open.spotify.com/track/3djgonrherZ9t3Wwih6n0Q) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一夜一夜一夜](https://open.spotify.com/album/509hTNcF5mythficxIwadm) | 4:01 | 2025-08-21 |  |
 | [一路順風 \(blessed in the wind\)](https://open.spotify.com/track/0gqwYp4fqGVhj2t0GHaD88) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [一路順風 \(blessed in the wind\)](https://open.spotify.com/album/3sf1Ve1jgc61kFDFDPG0Ki) | 2:52 | 2025-08-14 |  |
 | [下一世遇見](https://open.spotify.com/track/0BvSDFthkPOVWfNdIs2BGM) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [下一世遇見](https://open.spotify.com/album/2JDuShaImrZIYITFQJ2Lba) | 4:25 | 2025-05-01 |  |
 | [两难](https://open.spotify.com/track/7oQku6a7j4laDq3zTI6CRf) | [加木](https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl) | [两难](https://open.spotify.com/album/6HQyq2KNTILRZzwrzKVKsK) | 2:50 | 2025-06-12 |  |
@@ -169,6 +170,7 @@
 | [每天愛你多一些](https://open.spotify.com/track/6netQHYLJxJfWXHYnvOEJA) | [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [4 In Love](https://open.spotify.com/album/1LQlxBcbxarDHZfS04TrxR) | 4:18 | 2023-02-02 | 2024-04-19 |
 | [比生命更大](https://open.spotify.com/track/2jMhZFeEDB85LwYeo9omz1) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [比生命更大](https://open.spotify.com/album/58QiM4it2CLAwlqVnQVECQ) | 4:31 | 2024-04-04 | 2025-04-04 |
 | [沒有人會為了我改變 \(電影《夜校女生》主題曲\)](https://open.spotify.com/track/4MF3LAE3RNK19S9w5Y8M6a) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [沒有人會為了我改變](https://open.spotify.com/album/0pMtn6FSzOhvPaIrFFhWL4) | 5:11 | 2025-04-03 | 2025-07-04 |
+| [沒有如果](https://open.spotify.com/track/2fugXPHScj3rflFJoIVi0T) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [沒有如果](https://open.spotify.com/album/2eh90cMF3Vr2yMhJ9X9MEU) | 2:32 | 2025-08-21 |  |
 | [沒有我的以後](https://open.spotify.com/track/4qeJCSBH6FA2tAUcPEDoEl) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [沒有我的以後](https://open.spotify.com/album/2O28M6R3nbe65ej3BzIx0q) | 3:31 | 2025-04-03 | 2025-08-15 |
 | [活得比你好](https://open.spotify.com/track/3H0sbSeSHB7lbvknxiHhL4) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [Dahlia II](https://open.spotify.com/album/4oyUjiSeeBwEfKvsASvMwy) | 4:23 | 2024-04-04 | 2025-04-04 |
 | [活著](https://open.spotify.com/track/711bVTOFjmjte4eNXzcbc7) | [Charlene Choi](https://open.spotify.com/artist/6wBoKKHhGDrxVtp6XMFpIP) | [Blooming](https://open.spotify.com/album/3Qxf3z5G8hMBacGhEzeMjL) | 3:32 | 2023-02-02 | 2025-04-04 |

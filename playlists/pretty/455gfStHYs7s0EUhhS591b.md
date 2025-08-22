@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,431 likes - 207 songs - 12 hr 22 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,422 likes - 207 songs - 12 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 206 | [Rosaires \- Chill Out Mix](https://open.spotify.com/track/5cRRdBYpzTx5BsIioqi62c) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h) | [The Chill Out](https://open.spotify.com/album/7iuN6L1BhulqayAqKmDT22) | 3:54 |
 | 207 | [Kora](https://open.spotify.com/track/7jHFgSqTGmp8znQ7JOPvzM) | [Anthelix](https://open.spotify.com/artist/47hKZZ8qty3gj4uxTCzgS9) | [Kora](https://open.spotify.com/album/3mXqrjDGNvZd1dnVKNsGhY) | 3:25 |
 
-Snapshot ID: `AAByFfAe96rK3pJoq9cpSAQQQeAzkBYp`
+Snapshot ID: `AAByGRBgRauzlsxaS4lhBEJ60MI3D821`

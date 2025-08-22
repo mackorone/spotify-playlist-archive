@@ -1,6 +1,6 @@
 {
   "description": "For lazy days and cosy nights",
-  "num_followers": 1346592,
+  "num_followers": 1346479,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Solar Power (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 171594,
-      "name": "Helen of Troy - Bonus Track",
-      "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "I Can\u2019t Believe We Never Went Out Dancing",
         "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224093,
       "name": "I Can\u2019t Believe We Never Went Out Dancing",
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Solar Power (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3lK2JRwfIOn2NaYtgEGTmZ"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 171594,
+      "name": "Helen of Troy - Bonus Track",
+      "url": "https://open.spotify.com/track/5luI0qmsWNYRRTJCWn8rcb"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
+      },
+      "artists": [
+        {
+          "name": "Jol\u00e9",
+          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "Begin Again",
+      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "cut! (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/0KSSQzsK85HCBGwj23Zluj"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 128164,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/5W2w9i6UslmWj3QUPdzYXO"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/5kCV7lHlpgAYi3KJdL0ydU"
-      },
-      "artists": [
-        {
-          "name": "Jol\u00e9",
-          "url": "https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu"
-        }
-      ],
-      "duration_ms": 185826,
-      "name": "Begin Again",
-      "url": "https://open.spotify.com/track/2bJmEp5pi0XnQDeEiikmhz"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Someone That's Better",
-        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 133059,
-      "name": "Someone That's Better",
-      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
         "name": "Save My Heart",
         "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 181260,
       "name": "Save My Heart",
       "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
-        "name": "Sweet Nothings",
-        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+        "name": "swimming in pity",
+        "url": "https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6"
       },
       "artists": [
         {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
+      "duration_ms": 176973,
+      "name": "swimming in pity",
+      "url": "https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli"
     },
     {
       "added_at": "2025-08-06 11:57:20",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-08-06 11:57:20",
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
+    },
+    {
+      "added_at": "2025-08-06 11:57:20",
+      "album": {
         "name": "Miles",
         "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
-    },
-    {
-      "added_at": "2025-08-06 11:57:20",
-      "album": {
-        "name": "swimming in pity",
-        "url": "https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "swimming in pity",
-      "url": "https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli"
     },
     {
       "added_at": "2025-08-06 11:57:20",

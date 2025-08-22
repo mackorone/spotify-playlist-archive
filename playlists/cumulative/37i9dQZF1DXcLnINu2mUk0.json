@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Arag\u00e3o, Mariana Pereira ",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Pta, Myles 6ix",
   "name": "Seda",
   "tracks": [
     {
@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 182876,
       "name": "23:40",
       "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 153191,
       "name": "At\u00e9 de Manh\u00e3",
       "url": "https://open.spotify.com/track/2LTNedkU0DACaiWSxX0LIO"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 177637,
       "name": "Ber\u00e7o de Ouro",
       "url": "https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD"
@@ -1972,7 +1972,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 163371,
       "name": "Boleia",
       "url": "https://open.spotify.com/track/0wWEB45IdTC3g5q8vyfndR"
@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 174315,
       "name": "Crescer",
       "url": "https://open.spotify.com/track/3x8FZY9ujqOSMes0RAojdM"
@@ -9182,7 +9182,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 166861,
       "name": "Nha Kubiku",
       "url": "https://open.spotify.com/track/2gXm9oFXfwhvCdo2ccSRvf"
@@ -10354,7 +10354,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 176293,
       "name": "Outra Realidade (feat. Mari Segura)",
       "url": "https://open.spotify.com/track/15NL0TUwW7w2b28MR5D6Jv"
@@ -10780,7 +10780,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 174428,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
@@ -12342,7 +12342,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 155000,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs"
@@ -12712,7 +12712,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-27",
+      "date_removed": null,
       "duration_ms": 155050,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
@@ -14146,7 +14146,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 224410,
       "name": "Tive Que Ligar 2 Vezes",
       "url": "https://open.spotify.com/track/0kT16DRaoufA65DdhHJdtk"
@@ -15678,6 +15678,28 @@
       "duration_ms": 207593,
       "name": "\u00c1gua",
       "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
+    },
+    {
+      "album": {
+        "name": "\u00c1gua e Fogo",
+        "url": "https://open.spotify.com/album/3hQ4d7339YrkYsMHr3baAk"
+      },
+      "artists": [
+        {
+          "name": "Pta",
+          "url": "https://open.spotify.com/artist/3VIQzyoHE4thDQjYkR0AEA"
+        },
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "\u00c1gua e Fogo",
+      "url": "https://open.spotify.com/track/6Jnjlgsxir0pyWrgjVQ6NK"
     },
     {
       "album": {

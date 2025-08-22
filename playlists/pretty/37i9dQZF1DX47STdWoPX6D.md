@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Futuristic
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,997 likes - 117 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,018 likes - 117 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 3 | [Never Look Back](https://open.spotify.com/track/5J4B12yqhbRCTbQTdZYw73) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Never Look Back](https://open.spotify.com/album/0KLNtn469NfqtzbLYVJM4y) | 3:05 |
 | 4 | [SAY IT AINT SO](https://open.spotify.com/track/4KCLZuOJP5dXGa8hhkReVW) | [Futuristic](https://open.spotify.com/artist/5Z5jUyiNvFaqp0EVyLNf0p), [HunnaV](https://open.spotify.com/artist/0l0gRnqPszmcf6NQKcyuWH), [Deyton Jackson](https://open.spotify.com/artist/1cqKEaqWQwnt77IPWpErw3) | [INDEPENDENTS DAY](https://open.spotify.com/album/4etzj5sm36FF4dECn9gsb4) | 2:54 |
 | 5 | [All God](https://open.spotify.com/track/6o8g89TMvkhZaBSrBitqpG) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [All God](https://open.spotify.com/album/6aHAqYn261IAENMtvS6oGm) | 3:07 |
-| 6 | [Spiritual Sense](https://open.spotify.com/track/3A2w1oyhnna2esspZRs0QX) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Spiritual Sense](https://open.spotify.com/album/0LQ1n2uqAK6aIm4pPTrBGG) | 3:02 |
+| 6 | [Spiritual Sense](https://open.spotify.com/track/3A2w1oyhnna2esspZRs0QX) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Spiritual Sense](https://open.spotify.com/album/0LQ1n2uqAK6aIm4pPTrBGG) | 3:03 |
 | 7 | [Ticket](https://open.spotify.com/track/5SI12ohIg1AGcGsytRORqj) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Ticket](https://open.spotify.com/album/5uWuhcfBh8BTX6qQvyOc0w) | 2:23 |
 | 8 | [High Yield](https://open.spotify.com/track/2FSRTscKp0iW4C63QaP7oQ) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [High Yield](https://open.spotify.com/album/3jwcB9Vtr6FwlmcvDBgjey) | 3:36 |
 | 9 | [Heaven Knows](https://open.spotify.com/track/3Arw6TjEUipJLCdiRw6Box) | [De'Aris](https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz), [Fern](https://open.spotify.com/artist/0aDl6JJeQf1eZ35ymzirwp) | [Heaven Knows](https://open.spotify.com/album/5SPfoiP8Cyigwxi3MmvUha) | 2:53 |

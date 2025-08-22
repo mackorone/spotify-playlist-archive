@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: BOWKYLION, Jeff Satur
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: NONT TANONT, PiXXiE
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,203 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,276 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/5G0tELpYH9o07zcZfMv1fR) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [ที่รักครับ \(Only One\) \(From"กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83) | 3:02 |
 | 50 | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/track/6NDNXuo2bGX7aFGA0jndEn) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ซึมซับ \(DOUBTLESS\)](https://open.spotify.com/album/4nXAcObYOJHopK1CpkE5OI) | 3:33 |
 
-Snapshot ID: `AAAAAB9vZk+bmbFiQRh6LZcSAnogxHgZ`
+Snapshot ID: `AAAAAKpdJZCuawiI38sLdCh0JUKsxjeP`

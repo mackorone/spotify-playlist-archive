@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 175798,
       "name": "Amor Borrachito",
       "url": "https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m"
@@ -1416,10 +1416,28 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 229400,
       "name": "Hubi\u00e9ramos",
       "url": "https://open.spotify.com/track/0sbinHSb4nznpK1uTB9bgb"
+    },
+    {
+      "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Hubi\u00e9ramos",
+      "url": "https://open.spotify.com/track/7Lncm89dgNpqoLMCtY86Y8"
     },
     {
       "album": {
@@ -2312,7 +2330,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 151500,
       "name": "Seg\u00fan Mi Reloj",
       "url": "https://open.spotify.com/track/5qN3kW0IR3CatHePsr4MVV"

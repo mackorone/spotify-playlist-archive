@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-303 songs - 20 hr 13 min
+304 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Closer to Heaven](https://open.spotify.com/track/7ygoUlBTpmN7TAnHT4g90U) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Closer to Heaven](https://open.spotify.com/album/3t6aAyFnQDL57BHpCOKKbN) | 3:16 | 2025-04-05 | 2025-07-17 |
 | [Clouds](https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [Clouds](https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii) | 3:39 | 2021-10-31 | 2025-08-09 |
 | [Come Back \(Psalm 80\)](https://open.spotify.com/track/0pHk1i5G3ubku2jBQ1dr0z) | [Melanie Waldman](https://open.spotify.com/artist/4v8E8IXJ7pnmbQvMhQxjjd) | [Come Back \(Psalm 80\)](https://open.spotify.com/album/0yRVfrV533vgv49LSdJjJK) | 3:42 | 2024-07-26 | 2025-04-05 |
+| [Come Thou Fount](https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4) | [In the Wild](https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi) | [Come Thou Fount](https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU) | 4:44 | 2025-08-08 |  |
 | [Come Thou Fount](https://open.spotify.com/track/2USk0mSPJMZjdPQFCtU0o5) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Come Thou Fount](https://open.spotify.com/album/5J65uMoIxeivCC9bQG6oLu) | 3:43 | 2025-08-08 |  |
 | [Constellations](https://open.spotify.com/track/4ggf5GOKRt0BuvErp8P87t) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:40 | 2021-10-31 | 2024-04-19 |
 | [Creio Que Tu És a Cura](https://open.spotify.com/track/5jx2LwFHh9zj1iqxh6BtLe) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Creio Que Tu És a Cura](https://open.spotify.com/album/1C6VxwtIawHZhDybYTXol6) | 5:51 | 2021-10-31 | 2024-06-23 |
@@ -98,7 +99,7 @@
 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 | 2024-06-23 | 2025-04-05 |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2021-10-31 | 2023-12-11 |
 | [Holy](https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA) | [Jonty Lees](https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr) | [Dawn Til Dusk](https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N) | 3:32 | 2024-07-26 | 2025-08-09 |
-| [Holy Forever \- Acapella](https://open.spotify.com/track/0MKlcoQ8MF508sEMkHFnS2) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Holy Forever \(Acapella\)](https://open.spotify.com/album/5sZXvcTKMh9sNcRYaQlYGo) | 2:27 | 2025-08-08 |  |
+| [Holy Forever \- Acapella](https://open.spotify.com/track/0MKlcoQ8MF508sEMkHFnS2) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Holy Forever \(Acapella\)](https://open.spotify.com/album/5sZXvcTKMh9sNcRYaQlYGo) | 2:27 | 2025-08-08 | 2025-08-22 |
 | [Holy Forever \- Instrumental](https://open.spotify.com/track/0sTfcojHpTGr5y3GAaVmft) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Forever \(Instrumental\)](https://open.spotify.com/album/5ldWFChwbA9CB4j0tcTgWO) | 8:00 | 2024-07-26 | 2025-04-05 |
 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 | 2023-02-07 | 2024-07-27 |
 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 | 2023-02-07 | 2025-08-09 |

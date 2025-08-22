@@ -1,6 +1,6 @@
 {
   "description": "Underground dance and alternative that went on to define a new millennium.",
-  "num_followers": 153594,
+  "num_followers": 153640,
   "original_name": "Generation Electronica",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Flat Beat",
-        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Oizo",
-          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
-        }
-      ],
-      "duration_ms": 325173,
-      "name": "Flat Beat",
-      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
         "name": "Metropol",
         "url": "https://open.spotify.com/album/1XOuXmeh4RlQLTzfA18T6n"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 192640,
       "name": "Leave You Far Behind",
       "url": "https://open.spotify.com/track/1Abqb6agIOK1XLPaJhWm3G"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
+        "name": "Flat Beat",
+        "url": "https://open.spotify.com/album/4rUN2CpOOBouCSnbi3MfYQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Oizo",
+          "url": "https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz"
+        }
+      ],
+      "duration_ms": 325173,
+      "name": "Flat Beat",
+      "url": "https://open.spotify.com/track/7GP1ZmPGH1puBliT9S6Fi5"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -987,26 +987,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
+        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+          "name": "Junkie XL",
+          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
         },
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+          "name": "Saffron",
+          "url": "https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe"
         }
       ],
-      "duration_ms": 338279,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
+      "duration_ms": 228146,
+      "name": "Beauty Never Fades (feat. Saffron)",
+      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1027,22 +1023,26 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
-        "name": "Radio JXL - A Broadcast From The Computerhell Cabin",
-        "url": "https://open.spotify.com/album/6qFCDBS4VDM3ofUbQFNAXy"
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
       },
       "artists": [
         {
-          "name": "Junkie XL",
-          "url": "https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN"
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
         },
         {
-          "name": "Saffron",
-          "url": "https://open.spotify.com/artist/49AIUyCbLAInckRxOIxRXe"
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
         }
       ],
-      "duration_ms": 228146,
-      "name": "Beauty Never Fades (feat. Saffron)",
-      "url": "https://open.spotify.com/track/0uqcvSDWHRekIdZK4SqGsL"
+      "duration_ms": 338279,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp"
     },
     {
       "added_at": "2021-07-14 17:36:34",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2021-07-14 17:36:34",
       "album": {
+        "name": "The Best Of Deconstruction",
+        "url": "https://open.spotify.com/album/2mgIQO8vKm9KHtJNzC21xE"
+      },
+      "artists": [
+        {
+          "name": "The Grid",
+          "url": "https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo"
+        }
+      ],
+      "duration_ms": 238840,
+      "name": "Swamp Thing",
+      "url": "https://open.spotify.com/track/2XrWVgmfhkPXfsUyzMrJQY"
+    },
+    {
+      "added_at": "2021-07-14 17:36:34",
+      "album": {
         "name": "When It Falls",
         "url": "https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 416933,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2"
-    },
-    {
-      "added_at": "2021-07-14 17:36:34",
-      "album": {
-        "name": "The Best Of Deconstruction",
-        "url": "https://open.spotify.com/album/2mgIQO8vKm9KHtJNzC21xE"
-      },
-      "artists": [
-        {
-          "name": "The Grid",
-          "url": "https://open.spotify.com/artist/1fN3lF5RILxJeG9H8EhEDo"
-        }
-      ],
-      "duration_ms": 238840,
-      "name": "Swamp Thing",
-      "url": "https://open.spotify.com/track/2XrWVgmfhkPXfsUyzMrJQY"
     },
     {
       "added_at": "2021-07-14 17:36:34",

@@ -2,7 +2,7 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Thelma & James
+> The home of Canadian country music\. Cover: Josh Ross
 
 348 songs - 18 hr 44 min
 

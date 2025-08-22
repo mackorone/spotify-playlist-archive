@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-232 songs - 17 hr 56 min
+233 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 | 2024-07-24 |  |
 | [RING THE ALARM pt.1 pt.2 pt.3](https://open.spotify.com/track/1ssT0otwEbYRU2D0paC5gY) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 5:58 | 2024-07-24 |  |
 | [Shall We Dance?](https://open.spotify.com/track/50DCnk4jRHhysh4RBJFmnj) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:15 | 2024-07-24 |  |
-| [Slap That Bass](https://open.spotify.com/track/09yXz4KyyB3jhGZKPIK6lv) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:54 | 2024-07-24 |  |
+| [Slap That Bass](https://open.spotify.com/track/09yXz4KyyB3jhGZKPIK6lv) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/3BRsqvWiZJlE1og7MdwFEh) | 2:54 | 2024-07-24 | 2025-08-22 |
+| [Slap That Bass](https://open.spotify.com/track/1oYbqlkhiGnDUKmxtybAHX) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Early Years at RKO](https://open.spotify.com/album/6c9s5OiVL6l0aM1z67K3uR) | 2:54 | 2025-08-21 |  |
 | [Somebody Stole My Heart Away](https://open.spotify.com/track/2L6XkLZ8e6WzFBV5KlpCgb) | [Michael Feinstein](https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7) | [Nice Work If You Can Get It](https://open.spotify.com/album/2WQiJXX9HQWgAfQaEqKLwW) | 4:51 | 2024-07-24 |  |
 | [Stand Up And Fight](https://open.spotify.com/track/1C3X9PRRCYDu8P9Ys5ZDsm) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin on Screen III: "Strike Up The Band", "Broadway Rhythm", "Ziegfeld Follies" and "The Shocking Miss Pilgrim"](https://open.spotify.com/album/0rM6Pjficon2DjTIqrajTx) | 1:49 | 2024-07-24 |  |
 | [Stiff Upper Lip](https://open.spotify.com/track/1JoKwbSqevXtrTlLaSqjIC) | [Kirby Ward](https://open.spotify.com/artist/3CP3fz5qpw93t4feU2qLoP), [Ruthie Henshall](https://open.spotify.com/artist/1X4vfxU2mYZ7ERr9LnJVpg), [Robert Austin](https://open.spotify.com/artist/77f5GAkrYfYoJ0tXi7n5Nw), [Pauls Tinker](https://open.spotify.com/artist/22doTZUc6nfFfH2ARmI1MH), [The "Crazy for You" Ensemble](https://open.spotify.com/artist/5rbdlumCELxmFfNwlTP1tO) | [Crazy For You \(Original London Cast Recording\)](https://open.spotify.com/album/2VSXE30vimrdGB8ELKfWLZ) | 2:44 | 2024-07-24 |  |

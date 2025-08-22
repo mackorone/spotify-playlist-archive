@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-977 songs - 1 day 18 hr 25 min
+978 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Falling For You](https://open.spotify.com/track/2ftHuVrHLl4HkBQfdBmj59) | [Gobi](https://open.spotify.com/artist/7HVeJy9nWQU8jtIxV7poaF) | [Falling For You](https://open.spotify.com/album/14panjJnZTXVIxMwxQ8eHX) | 2:30 | 2024-08-18 | 2024-09-09 |
 | [Falling In Love](https://open.spotify.com/track/2a8Pzj0iurArPqFrig3op9) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Matthew Abapo](https://open.spotify.com/artist/3x9F6VXefKXbu0iNEChJvb) | [Falling In Love](https://open.spotify.com/album/74Azuc2PrBMthPSWUtQN7c) | 3:08 | 2023-12-04 | 2025-06-30 |
 | [Falling In Love](https://open.spotify.com/track/1XHVcapurdhEB39TaktK8I) | [Nostalgic Feeling](https://open.spotify.com/artist/7ugUmmaKYg6071bjHsRx2Y), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM) | [Falling In Love](https://open.spotify.com/album/21epMUHqRrpJpyZybGJIe3) | 2:42 | 2024-04-14 | 2024-07-05 |
+| [Falling In Love](https://open.spotify.com/track/0eSGt98YmHlgOm6LJuLZCi) | [VLX](https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA) | [Falling In Love](https://open.spotify.com/album/6vkuOUgB67FGlEm1aglgCa) | 2:22 | 2025-08-21 |  |
 | [Faraway](https://open.spotify.com/track/58pi82abqVUY3jRNDvZJWC) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Faraway](https://open.spotify.com/album/7f27vQWTvfWzsUdyjUU4wm) | 2:58 | 2024-09-01 | 2024-09-30 |
 | [Fast Car](https://open.spotify.com/track/5iWfvvDDdwmjmuQuquEwgg) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu), [Dani Vidi](https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc) | [Fast Car](https://open.spotify.com/album/5GjEy1Gaki9Q3zAa6fnznm) | 2:48 | 2023-09-22 |  |
 | [Feel](https://open.spotify.com/track/35w3yvIS9rMvhUg9oEcYcH) | [SUGAR RUSH](https://open.spotify.com/artist/3mkErTLZLhkuDpNSLiN9Z1), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Feel](https://open.spotify.com/album/0yrJOqsM4UtGS1OOYh4Tu5) | 2:02 | 2024-12-05 | 2025-06-16 |

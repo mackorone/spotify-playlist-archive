@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,377 likes - 125 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,426 likes - 125 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 97 | [Fourth Wave](https://open.spotify.com/track/5Ab90ajArXsyoBYSCVx0Jl) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Ambrosial Waves / Tidal Pools](https://open.spotify.com/album/2S9PrrpRshDRs9mcrdFTpb) | 8:05 |
 | 98 | [Shape of a Dream \- Sound Bath](https://open.spotify.com/track/3h58Vv1UpPgP88s0zh4OTs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Shape of a Dream](https://open.spotify.com/album/4wJXcvFwAEyMVWIW08znpO) | 4:04 |
 | 99 | [Imaginary Soundscape I, Postcard Six](https://open.spotify.com/track/6fYIZYxVMbmmkwbT1Yc19y) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB) | [Six Postcards & Other Stories](https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3) | 2:50 |
-| 100 | [Night Shineth As the Day](https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [Z.D\. Frizzell](https://open.spotify.com/artist/3R53DcUlebQyORIV3hGTFJ) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:28 |
+| 100 | [Night Shineth As the Day](https://open.spotify.com/track/48RJ1YNLNeqMlPtFkHcHRm) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [zakè](https://open.spotify.com/album/3r6FE0ZrYm1jOEEpd7GJLF) | 5:28 |
 | 101 | [Saguaro](https://open.spotify.com/track/6k9epHaioQVz1PHdgCu3Oj) | [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 5:23 |
 | 102 | [Zen Garden](https://open.spotify.com/track/4rn2BnxLvxIobCLUE96y1R) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Chuck Plaisance](https://open.spotify.com/artist/4wfZxczwjNep3PNGUWMwkZ) | [Tranquility](https://open.spotify.com/album/26vcQV2TjPDV3BdZGABenp) | 3:12 |
 | 103 | [Crystal Cathedral \- \(Bonus Version\) \(Remastered\)](https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Spectrum Suite \(Bonus Version\) \[Remastered\]](https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R) | 3:26 |

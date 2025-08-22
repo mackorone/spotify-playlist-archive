@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Blood Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,352 likes - 58 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,379 likes - 58 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

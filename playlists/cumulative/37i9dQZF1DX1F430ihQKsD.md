@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Ariane Roy
 
-612 songs - 1 day 10 hr 58 min
+613 songs - 1 day 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Wear You Out](https://open.spotify.com/track/0tGi0kOdc5GlsKBg4b0tkQ) | [Jane Penny](https://open.spotify.com/artist/3LgeMxdrjCnZIHB8VoFhcd) | [Wear You Out](https://open.spotify.com/album/2hbpz06Bgw4SONqk2MSqJ6) | 3:31 | 2024-03-01 | 2024-04-06 |
 | [What It Is](https://open.spotify.com/track/5j8qS9IDLegyFRSziYAinL) | [Saint Zenon](https://open.spotify.com/artist/7zqRekdxVg93PQcJuIazlf), [Half White Full Black](https://open.spotify.com/artist/2c8ObefSxH6n2N8n2gNUKG), [Flara K](https://open.spotify.com/artist/6QX83NubxIwxQzoNzSATMu), [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [What It Is](https://open.spotify.com/album/56Dpa4dNBz06Qjnj8K0Eym) | 1:58 | 2023-03-17 | 2023-08-26 |
 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 | 2023-01-27 | 2023-11-18 |
+| [Wheels at Night](https://open.spotify.com/track/4GRmluN7jCIhcqTXD3FzkL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Bury the Key](https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK) | 2:34 | 2025-08-21 |  |
 | [why do we keep running away?](https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3) | [kkanji](https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs) | [why do we keep running away?](https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX) | 2:31 | 2024-01-05 | 2025-06-14 |
 | [Wild World](https://open.spotify.com/track/3L7pNo1cJAZ4xJ2lHBocvi) | [Fine Food Market](https://open.spotify.com/artist/5yLNDnaFmGzAQBjnWzdDET) | [I’m afraid to be in love with someone who crashes their car that much](https://open.spotify.com/album/7x55HpFEMlUn7tN4YJJyTA) | 4:01 | 2025-05-16 |  |
 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 | 2022-03-25 | 2023-02-18 |

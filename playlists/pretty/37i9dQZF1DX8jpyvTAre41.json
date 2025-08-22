@@ -1,92 +1,256 @@
 {
-  "description": "The best rock songs of the moment. Cover: grandson",
-  "num_followers": 194633,
+  "description": "The best rock songs of the moment. Cover: Three Days Grace",
+  "num_followers": 194620,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFOFZH03z+youjoJXcSYo41R0bcT",
+  "snapshot_id": "AAAAAIaHRZ4eCm+7yEcAvaEm3v/lG1Ub",
   "tracks": [
     {
-      "added_at": "2025-08-15 00:01:35",
+      "added_at": "2025-08-22 00:01:31",
       "album": {
-        "name": "GOD IS AN ANIMAL",
-        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
+        "name": "Alienation",
+        "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
       "artists": [
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 235745,
-      "name": "GOD IS AN ANIMAL",
-      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
+      "duration_ms": 211253,
+      "name": "Don't Wanna Go Home Tonight",
+      "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 165022,
+      "name": "Spit XXV",
+      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Where The Flowers Never Grow",
+        "url": "https://open.spotify.com/album/44cgztHaaoJh5taG0n0PG0"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 264216,
+      "name": "Where the Flowers Never Grow",
+      "url": "https://open.spotify.com/track/4cFI7k2rfpnxNKxUhHmANB"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Songs in the Key of Yikes",
+        "url": "https://open.spotify.com/album/7fbUyRpnszNh7F5jhwIIlR"
+      },
+      "artists": [
+        {
+          "name": "Superchunk",
+          "url": "https://open.spotify.com/artist/7lmde7T1WJPFwv1eR6melP"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Care Less",
+      "url": "https://open.spotify.com/track/5Cr2ZPSUA9FhXn7EBIHXNc"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Something In The Way",
+        "url": "https://open.spotify.com/album/2IFb4HOE1xWIe7J7dkBQKy"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 302592,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/6mVU0hyCZt8pL1qqPAf32l"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "I Put My Makeup On",
+        "url": "https://open.spotify.com/album/2IIIYFAjws6ohSyjTykxzt"
+      },
+      "artists": [
+        {
+          "name": "Fionn",
+          "url": "https://open.spotify.com/artist/4bfOiCE7XrhrTa94KTwXxt"
+        }
+      ],
+      "duration_ms": 186040,
+      "name": "I Put My Make Up On",
+      "url": "https://open.spotify.com/track/0kVGvCOBgPthnWD670nruh"
     },
     {
       "added_at": "2025-08-15 00:01:35",
       "album": {
-        "name": "Nod",
-        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/0mNhfzisYzt1RmsrlgzWsj"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Gavin McLeod",
+          "url": "https://open.spotify.com/artist/47Rseum4nfiLQZ5apWpxoF"
         }
       ],
-      "duration_ms": 182494,
-      "name": "Nod",
-      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+      "duration_ms": 212896,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/7gRZUVbOS100ltiJlq7axB"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "CITY OF GHOSTS",
+        "url": "https://open.spotify.com/album/7plkbBDYsjXcGuJF1wt7XF"
+      },
+      "artists": [
+        {
+          "name": "Headstones",
+          "url": "https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00"
+        }
+      ],
+      "duration_ms": 263790,
+      "name": "CITY OF GHOSTS",
+      "url": "https://open.spotify.com/track/3DEC7gXUckxTQluqTjMG77"
+    },
+    {
+      "added_at": "2025-08-22 00:01:31",
+      "album": {
+        "name": "Lions",
+        "url": "https://open.spotify.com/album/2Ainv5Ws97y4YTUC29EsDa"
+      },
+      "artists": [
+        {
+          "name": "The Penske File",
+          "url": "https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Lions",
+      "url": "https://open.spotify.com/track/2UmPr4aXRMBAIFlphNqUxc"
     },
     {
       "added_at": "2025-08-15 00:01:35",
       "album": {
-        "name": "B A D I D E A",
-        "url": "https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr"
+        "name": "Outcast",
+        "url": "https://open.spotify.com/album/1yrvfMs5sJOdR6uty4FcBF"
       },
       "artists": [
         {
-          "name": "Militarie Gun",
-          "url": "https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q"
+          "name": "Art d'Ecco",
+          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
         }
       ],
-      "duration_ms": 109634,
-      "name": "B A D I D E A",
-      "url": "https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07"
+      "duration_ms": 197945,
+      "name": "Outcast",
+      "url": "https://open.spotify.com/track/5Scg9DoX2EDQrPe1YxwKvG"
     },
     {
       "added_at": "2025-08-15 00:01:35",
       "album": {
-        "name": "Annihilate Me",
-        "url": "https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc"
+        "name": "Keep On Breaking My Heart",
+        "url": "https://open.spotify.com/album/2MEkJW4X9GJVirLPYsq8eQ"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "Yukon Blonde",
+          "url": "https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN"
         }
       ],
-      "duration_ms": 202073,
-      "name": "Annihilate Me",
-      "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "bad seed/without you",
-        "url": "https://open.spotify.com/album/4LguoCqrw6whQUnyG57Zxn"
-      },
-      "artists": [
-        {
-          "name": "wilt",
-          "url": "https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy"
-        }
-      ],
-      "duration_ms": 156132,
-      "name": "bad seed",
-      "url": "https://open.spotify.com/track/4pyiLilJ8RzW62u3CY3dqx"
+      "duration_ms": 233689,
+      "name": "Keep On Breaking My Heart",
+      "url": "https://open.spotify.com/track/4e3JiIBS5WngRiEnjUcxWh"
     },
     {
       "added_at": "2025-08-15 00:01:35",
@@ -109,132 +273,52 @@
       "url": "https://open.spotify.com/track/26EzIUtcJYnbKg3JqevAmd"
     },
     {
-      "added_at": "2025-08-15 00:01:35",
+      "added_at": "2025-08-22 00:01:31",
       "album": {
-        "name": "Big Bad Bubble Boy",
-        "url": "https://open.spotify.com/album/4qde5lDT5SiCEiOxMiOdzk"
+        "name": "the middle",
+        "url": "https://open.spotify.com/album/2WlczGZGOWDR3igZva0zKs"
       },
       "artists": [
         {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
         }
       ],
-      "duration_ms": 174785,
-      "name": "Big Bad Bubble Boy",
-      "url": "https://open.spotify.com/track/6mp2XssdIXxPOxoiC1aUQz"
+      "duration_ms": 194516,
+      "name": "the middle",
+      "url": "https://open.spotify.com/track/6B78WUX5itO7nSEx4ZjUp8"
     },
     {
       "added_at": "2025-08-15 00:01:35",
       "album": {
-        "name": "kiss me",
-        "url": "https://open.spotify.com/album/69AyYhZE7SiptJQXeL2NDk"
+        "name": "GOD IS AN ANIMAL",
+        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
       },
       "artists": [
         {
-          "name": "never easy",
-          "url": "https://open.spotify.com/artist/3Qr5Z948M0BpkrKDFTRwv1"
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
         }
       ],
-      "duration_ms": 184470,
-      "name": "kiss me",
-      "url": "https://open.spotify.com/track/5RudWYUNhhOGEvy1D5TA6j"
+      "duration_ms": 235745,
+      "name": "GOD IS AN ANIMAL",
+      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
     },
     {
       "added_at": "2025-08-15 00:01:35",
       "album": {
-        "name": "Outcast",
-        "url": "https://open.spotify.com/album/1yrvfMs5sJOdR6uty4FcBF"
+        "name": "So Far So Fake",
+        "url": "https://open.spotify.com/album/048drp9uOPCFxbzioHNDiZ"
       },
       "artists": [
         {
-          "name": "Art d'Ecco",
-          "url": "https://open.spotify.com/artist/3P3quzbMWdn5kalJUa6W5J"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 197945,
-      "name": "Outcast",
-      "url": "https://open.spotify.com/track/5Scg9DoX2EDQrPe1YxwKvG"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/6cYU1n2LShBOR22pfxDqbF"
-      },
-      "artists": [
-        {
-          "name": "Huddy",
-          "url": "https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f"
-        }
-      ],
-      "duration_ms": 201085,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/5CScrQFOzzcBDC9TZtFdqw"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Bright as Blasphemy",
-        "url": "https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 277400,
-      "name": "Pale Horse",
-      "url": "https://open.spotify.com/track/1dk1uBTlxYMQ6PSj5zskZg"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "MY BRAIN DON'T GET HER",
-        "url": "https://open.spotify.com/album/0bKLNXcF2t4AEM0HeqVIiV"
-      },
-      "artists": [
-        {
-          "name": "SUCKERPUNCH!",
-          "url": "https://open.spotify.com/artist/02tk2pnlF7dDfwMVhth4pp"
-        }
-      ],
-      "duration_ms": 165228,
-      "name": "MY BRAIN DON\u2019T GET HER",
-      "url": "https://open.spotify.com/track/1vrumUaI8Uygzdz1R8Rs51"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/0mNhfzisYzt1RmsrlgzWsj"
-      },
-      "artists": [
-        {
-          "name": "Gavin McLeod",
-          "url": "https://open.spotify.com/artist/47Rseum4nfiLQZ5apWpxoF"
-        }
-      ],
-      "duration_ms": 212896,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/7gRZUVbOS100ltiJlq7axB"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "Keep On Breaking My Heart",
-        "url": "https://open.spotify.com/album/2MEkJW4X9GJVirLPYsq8eQ"
-      },
-      "artists": [
-        {
-          "name": "Yukon Blonde",
-          "url": "https://open.spotify.com/artist/3CdvcTOH01EXzXu96afkSN"
-        }
-      ],
-      "duration_ms": 233689,
-      "name": "Keep On Breaking My Heart",
-      "url": "https://open.spotify.com/track/4e3JiIBS5WngRiEnjUcxWh"
+      "duration_ms": 236166,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3vVbd8T9rNTpM5uawlM1zG"
     },
     {
       "added_at": "2025-08-08 04:00:56",
@@ -267,22 +351,6 @@
       "duration_ms": 302897,
       "name": "outlaw overture",
       "url": "https://open.spotify.com/track/3EuCkgHpzLixcDH2OtNFA3"
-    },
-    {
-      "added_at": "2025-08-15 00:01:35",
-      "album": {
-        "name": "So Far So Fake",
-        "url": "https://open.spotify.com/album/048drp9uOPCFxbzioHNDiZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 236166,
-      "name": "So Far So Fake",
-      "url": "https://open.spotify.com/track/3vVbd8T9rNTpM5uawlM1zG"
     },
     {
       "added_at": "2025-08-08 04:00:56",
@@ -1595,54 +1663,6 @@
       "duration_ms": 217000,
       "name": "Don't Get Lost In The Dark",
       "url": "https://open.spotify.com/track/6xcAAJkDNzrAUwqxE99zSq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Mendicant",
-        "url": "https://open.spotify.com/album/7Mkr80TWFi666YuUFqJpOz"
-      },
-      "artists": [
-        {
-          "name": "Cola",
-          "url": "https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8"
-        }
-      ],
-      "duration_ms": 232480,
-      "name": "Mendicant",
-      "url": "https://open.spotify.com/track/5thfeBE37EjNJaVO58s4pr"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Better Than You",
-        "url": "https://open.spotify.com/album/10GfV0oGYFqys7uuvAhoEA"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "Better Than You",
-      "url": "https://open.spotify.com/track/4sMCKzFh4IWLiYiSLiR9lq"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "GET A LIFE",
-        "url": "https://open.spotify.com/album/7AxTDnMD16zPE8WG0i9DNZ"
-      },
-      "artists": [
-        {
-          "name": "Goodnight Sunrise",
-          "url": "https://open.spotify.com/artist/4CzSDigTxbLBQU4DdvhkxY"
-        }
-      ],
-      "duration_ms": 173763,
-      "name": "Get A Life",
-      "url": "https://open.spotify.com/track/0JGffCCylmaxRWjTNc0hfZ"
     }
   ],
   "unique_name": "Rock Now",

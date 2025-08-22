@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Magixx",
+  "description": "The future hits of today. \nCover: Taves",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 150857,
       "name": "Agility",
       "url": "https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 142001,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/3se8r711I0D2zoOIi2LH7E"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 179917,
       "name": "Chikodi",
       "url": "https://open.spotify.com/track/2COXefGU8iHfRH8eIam3P6"
@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 179005,
       "name": "EMIKO",
       "url": "https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2"
@@ -3060,7 +3060,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 186220,
       "name": "First Sight",
       "url": "https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 144657,
       "name": "Forget",
       "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
@@ -4116,7 +4116,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 200526,
       "name": "I miss you die",
       "url": "https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw"
@@ -4970,7 +4970,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 131307,
       "name": "Ladida",
       "url": "https://open.spotify.com/track/0UewHkoEkSW2cbpNbLPI4F"
@@ -7012,7 +7012,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 136800,
       "name": "Oroma",
       "url": "https://open.spotify.com/track/3o24yEM5aaiJIkJvdVmOH8"
@@ -8066,7 +8066,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 144707,
       "name": "Social Misconduct",
       "url": "https://open.spotify.com/track/1HrhNxJSs2z6nIjApDPw6L"
@@ -8466,7 +8466,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 139800,
       "name": "TIME",
       "url": "https://open.spotify.com/track/4ilVnBX3jLEEdkRwRWEA4A"
@@ -9274,6 +9274,24 @@
       "duration_ms": 135652,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
+    },
+    {
+      "album": {
+        "name": "W2Y",
+        "url": "https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Way2Yung",
+      "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"
     },
     {
       "album": {

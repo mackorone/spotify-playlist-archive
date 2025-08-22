@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 乃紫 noa
 
-2,471 songs - 6 day 10 hr 32 min
+2,472 songs - 6 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [Laundry](https://open.spotify.com/track/4hEiFAgW0WEltQQGlUwk7x) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Tenshi datta janaika](https://open.spotify.com/album/1yfUWDOMlD25JUeE6I1e0x) | 3:26 | 2024-02-28 | 2024-03-20 |
 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 | 2023-04-05 |
+| [Let It Burn](https://open.spotify.com/track/0GAUTkC5RbnqoJ3HJ7IoRD) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [Let It Burn](https://open.spotify.com/album/3WJehw5mVS7ZNU688Q7eeZ) | 3:29 | 2025-08-21 |  |
 | [Letter to Myself](https://open.spotify.com/track/1hmKmlMoMctWxj8g8gja9O) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Goodbye2.0](https://open.spotify.com/album/4iXfOwdVBcRG2Qw0F4KpPi) | 3:48 | 2025-02-11 | 2025-03-05 |
 | [Level up](https://open.spotify.com/track/76hK1up4IZX5jru3LMArLz) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Level up](https://open.spotify.com/album/6fEJgo9dzJ4rZOy0FIziq8) | 2:48 | 2025-08-12 |  |
 | [Leyline](https://open.spotify.com/track/28fFumhaGHoQFKXhznE2w6) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [Lab.](https://open.spotify.com/album/12fqQow5Nd46RVlITg0cFx) | 4:49 | 2024-11-05 | 2024-11-13 |
@@ -2212,7 +2213,7 @@
 | [未来地図2025](https://open.spotify.com/track/3b4t0gSknI05MnoGeQHzU8) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [未来地図2025](https://open.spotify.com/album/1kb9dvEh3vhgIrx42sRrGQ) | 6:00 | 2025-03-27 | 2025-05-14 |
 | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/track/7wHtfzKFqvr6fUkKzhMr1c) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [本当なんてぶっ飛ばしてよ](https://open.spotify.com/album/7wORMIt9AD7HhN5FJTV9tG) | 3:16 | 2023-01-13 | 2023-02-15 |
 | [本日のおすすめ](https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [本日のおすすめ](https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa) | 2:49 | 2024-07-09 | 2024-09-04 |
-| [来世は叶姉妹](https://open.spotify.com/track/3YnX6wERdBQVnyBxq1EuCP) | [Group Tamashii](https://open.spotify.com/artist/6wXb4P6aFkIAwVdQtfojUl) | [来世は叶姉妹](https://open.spotify.com/album/4gaCl4LvjKvNQP6ZH6kUxq) | 4:17 | 2025-08-12 |  |
+| [来世は叶姉妹](https://open.spotify.com/track/3YnX6wERdBQVnyBxq1EuCP) | [Group Tamashii](https://open.spotify.com/artist/6wXb4P6aFkIAwVdQtfojUl) | [来世は叶姉妹](https://open.spotify.com/album/4gaCl4LvjKvNQP6ZH6kUxq) | 4:17 | 2025-08-12 | 2025-08-22 |
 | [来来来](https://open.spotify.com/track/1M1ylKN0TLr9SdBvmBSdFp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [来来来](https://open.spotify.com/album/4sReGNXcaGwZHUUwTnxDRh) | 3:31 | 2024-08-06 | 2024-10-09 |
 | [杮落し](https://open.spotify.com/track/6TfvXkqYzW4Sh71VAmTCjt) | [小林私](https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y) | [杮落し](https://open.spotify.com/album/4SYZA6rg46LUroc62f3NIq) | 2:35 | 2023-04-27 | 2023-06-14 |
 | [東へ西へ](https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil) | [Leo Imai](https://open.spotify.com/artist/052wDw54ZAwrWQraLblXZb) | [Eastward Westward](https://open.spotify.com/album/04gsYjYupPQFCTpiSQcMhp) | 4:34 | 2023-04-20 | 2023-05-31 |

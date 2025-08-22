@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Festizie
 
-561 songs - 1 day 4 hr 32 min
+562 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Mine](https://open.spotify.com/track/3znHcrdGmL86dOMKTRtN6x) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Mine](https://open.spotify.com/album/3R65fgHQQPVvyaB8MbA9Ss) | 3:19 | 2025-02-14 | 2025-04-19 |
 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 | 2023-02-10 | 2024-02-24 |
 | [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 | 2025-07-11 |  |
+| [Miracles Like Lies](https://open.spotify.com/track/1xHczeiVLFFYxrdAQLVteY) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Miracles Like Lies](https://open.spotify.com/album/53r1RXoTN1VStVSsoNWoBo) | 4:12 | 2025-08-08 |  |
 | [Mon Dieu](https://open.spotify.com/track/7JPGrPIF6uDuyiWlTzfUYk) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Mon Dieu](https://open.spotify.com/album/3j4XcPPW0QPOXfzt2ygnNd) | 2:46 | 2023-10-24 | 2024-07-27 |
 | [MOST HIGH \- Remix](https://open.spotify.com/track/5NKU7nB9Jtav3OflHPzEuD) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [MOST HIGH \(Remix\)](https://open.spotify.com/album/38UvNlpaWQ5g9waGHUMIKF) | 2:50 | 2024-07-26 | 2025-02-15 |
 | [Motion](https://open.spotify.com/track/7z6wIHHx2OTpiOwoy56PFK) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Motion](https://open.spotify.com/album/3dFQXxmAFkW6kjAeKecMJC) | 2:59 | 2025-03-11 | 2025-04-19 |

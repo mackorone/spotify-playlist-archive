@@ -2,9 +2,9 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> Thomas Rhett and the biggest hits in country music.
+> Luke Combs and the biggest hits in country music.
 
-943 songs - 2 day 3 hr 11 min
+944 songs - 2 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [August](https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [August](https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ) | 3:47 | 2024-09-06 | 2025-05-10 |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-29 | 2024-04-19 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-03-01 | 2024-09-21 |
+| [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-08-22 |  |
 | [Back Then Right Now](https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Back Then Right Now](https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9) | 3:21 | 2023-11-10 | 2024-06-29 |
 | [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 | 2021-12-31 | 2022-09-17 |
 | [Back To Drinkin' Whiskey](https://open.spotify.com/track/1yxMabdQhQppaBocsV3oOF) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Back To Drinkin' Whiskey](https://open.spotify.com/album/4RrepOayEyZyXjaoqcTEeV) | 2:54 | 2023-03-31 | 2023-08-29 |
@@ -653,7 +654,7 @@
 | [Repo Man](https://open.spotify.com/track/7vI08htFEStbX7PkVhZC7a) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Repo Man](https://open.spotify.com/album/2dlVw20ada4YRodv07jKQL) | 2:55 | 2025-05-16 | 2025-05-24 |
 | [Restless Mind \(feat\. Avery Anna\)](https://open.spotify.com/track/3HxEGE7XpzqTVHEui3IMyb) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:40 | 2024-11-01 | 2024-12-14 |
 | [Rich](https://open.spotify.com/track/6MwfLRJcaqNQo8C215lT6k) | [Brian John Harwood](https://open.spotify.com/artist/1G1bUq811pgPU3TAlPavy4), [Alli Walker](https://open.spotify.com/artist/0Nxzbyp5zDObdMurJZ7g5C), [Chris Labelle](https://open.spotify.com/artist/2gODSRZYGlEFhWNTfG5KJL) | [Rich](https://open.spotify.com/album/5Di3FdznilS153snIRehXk) | 3:14 | 2022-04-29 | 2022-05-11 |
-| [Ride It Out](https://open.spotify.com/track/4AMxHYgTe8Bul2J0VyHhdR) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Ride It Out](https://open.spotify.com/album/0spG2WeYDG5WVPHhs8DF0K) | 3:32 | 2025-04-11 |  |
+| [Ride It Out](https://open.spotify.com/track/4AMxHYgTe8Bul2J0VyHhdR) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Ride It Out](https://open.spotify.com/album/0spG2WeYDG5WVPHhs8DF0K) | 3:32 | 2025-04-11 | 2025-08-22 |
 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 | 2021-12-31 | 2022-03-05 |
 | [Right On Time](https://open.spotify.com/track/3JF3flDpns4Djyjw7qkLlX) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Right On Time](https://open.spotify.com/album/5LjViqd1cA5hzu9qXaxSGh) | 3:06 | 2022-04-29 | 2023-03-25 |
 | [RIGHT ON TRACK](https://open.spotify.com/track/2stzMSLIhrWoCOwzSBkxag) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [RIGHT ON TRACK](https://open.spotify.com/album/58m21NWAdq1miS65qwCBUc) | 3:48 | 2025-04-18 | 2025-05-17 |

@@ -4,7 +4,7 @@
 
 > All the tracks covered by artists in the new Netflix series Building the Band
 
-84 songs - 4 hr 50 min
+88 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Breakeven](https://open.spotify.com/track/38xWaVFKaxZlMFvzNff2aW) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/51Hn2Wiq1jmUfI0BLaUhuF) | 4:21 | 2025-07-10 | 2025-07-24 |
 | [Bust Your Windows](https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:26 | 2025-07-24 |  |
 | [Bust Your Windows \(from the Netflix Series "Building The Band"\) \- Live](https://open.spotify.com/track/56XvRBEGm7eA9wKoursJ0M) | [SZN4](https://open.spotify.com/artist/3aVcen0IJtz6svz8DVlpfc) | [Building The Band: Part Two \(Soundtrack from the Netflix Series\) \[Live\]](https://open.spotify.com/album/1kqMwdpH7MEJkqBluaY4Ob) | 2:19 | 2025-07-24 |  |
+| [Bye](https://open.spotify.com/track/2OLChTG4uarZlP8GxxRZNc) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Bye](https://open.spotify.com/album/0rzQDM1XEkyeDOzvgM1E43) | 2:17 | 2025-08-21 |  |
 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2025-07-24 |  |
 | [Can We Talk](https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [The Best of Tevin Campbell](https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN) | 4:44 | 2025-07-24 |  |
 | [Can We Talk \(from the Netflix Series "Building The Band"\) \- Live](https://open.spotify.com/track/5bjTTtrJMa98EWjNNCZ8tm) | [Soulidified](https://open.spotify.com/artist/3nE9FhhwfDdyuObjky2v55), [Iconyx](https://open.spotify.com/artist/2Ra6pmyysn7GY0jdn3abqw) | [Building The Band: Part Two \(Soundtrack from the Netflix Series\) \[Live\]](https://open.spotify.com/album/1kqMwdpH7MEJkqBluaY4Ob) | 2:11 | 2025-07-24 |  |
@@ -37,6 +38,7 @@
 | [Finesse](https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:11 | 2025-07-24 |  |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2025-07-10 | 2025-07-24 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2025-07-24 |  |
+| [Ghost of Us](https://open.spotify.com/track/3Rdevmau28ONFaKQI0yzGF) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Bye](https://open.spotify.com/album/0rzQDM1XEkyeDOzvgM1E43) | 3:15 | 2025-08-21 |  |
 | [Glimpse of Us](https://open.spotify.com/track/2mlNgAeIBnL78ZriXgrRHz) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/39VuC5rYQHAnR6xQwm1WDk) | 3:53 | 2025-07-24 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2025-07-10 | 2025-07-24 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2025-07-24 |  |
@@ -47,6 +49,7 @@
 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 | 2025-07-24 |  |
 | [I Can't Make You Love Me](https://open.spotify.com/track/69uJi5QsBtqlYkGURTBli8) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 5:32 | 2025-07-10 | 2025-07-24 |
 | [I Want It That Way](https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Millennium](https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ) | 3:33 | 2025-07-24 |  |
+| [If It Was Me](https://open.spotify.com/track/1IG5aO4iCvi78K0lGfMfW2) | [Siren Society](https://open.spotify.com/artist/2RT5vVHqNHzAHrmZRya8id) | [If It Was Me](https://open.spotify.com/album/0pB8YCTeJcZgwN2gsktkPC) | 2:35 | 2025-08-21 |  |
 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 | 2025-07-24 |  |
 | [Iris](https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Dizzy up the Girl](https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T) | 4:49 | 2025-07-24 |  |
 | [Jealous](https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous \- EP](https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv) | 4:47 | 2025-07-10 | 2025-07-24 |
@@ -64,6 +67,7 @@
 | [Motivation](https://open.spotify.com/track/0rIAC4PXANcKmitJfoqmVm) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Motivation](https://open.spotify.com/album/2r6BEK0wzXbL8JHyCkeJkG) | 3:13 | 2025-07-10 | 2025-07-24 |
 | [ocean eyes](https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Ocean Eyes](https://open.spotify.com/album/2msN7XBgV3JCjQ7Tq3t7i9) | 3:20 | 2025-07-24 |  |
 | [Ocean Eyes \(from the Netflix Series "Building The Band"\) \- Live](https://open.spotify.com/track/11mtyLGGeXPnaF5AH3PIpf) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Building The Band: Part One \(Soundtrack from the Netflix Series\) \[Live\]](https://open.spotify.com/album/1I6ySRrq7OLTp2Gy6D6MVS) | 2:06 | 2025-07-17 |  |
+| [One & Only](https://open.spotify.com/track/4VSw3bxyVItz06gcotH1Nh) | [Soulidified](https://open.spotify.com/artist/3nE9FhhwfDdyuObjky2v55) | [One & Only](https://open.spotify.com/album/2SYv9aCwkqaELhrt7iKKjW) | 3:33 | 2025-08-21 |  |
 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 | 2025-07-10 | 2025-07-24 |
 | [River](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:36 | 2025-07-10 | 2025-07-24 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2025-07-24 |  |

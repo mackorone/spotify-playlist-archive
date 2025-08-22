@@ -4,7 +4,7 @@
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 6 min
+112 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 | 2024-02-24 |  |
 | [Richtivities \- Sped Up](https://open.spotify.com/track/5kcc4yvAbPihMKmZODTade) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Richtivities \(Sped Up/Slowed Down\)](https://open.spotify.com/album/57wS2WvGKqbyTXDV5zEWHH) | 2:46 | 2024-03-30 | 2024-04-28 |
 | [Risky \(feat\. Drakeo the Ruler\)](https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [Pretty Summer Playlist: Season 1](https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth) | 2:39 | 2022-10-28 | 2025-07-11 |
-| [rock your hips \(with Saweetie\)](https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [rock your hips \(with Saweetie\)](https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i) | 2:12 | 2024-08-18 |  |
+| [rock your hips \(feat\. Saweetie\)](https://open.spotify.com/track/3iF9v3VZwkkpyz1JpW8klK) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:12 | 2025-08-22 |  |
+| [rock your hips \(with Saweetie\)](https://open.spotify.com/track/4bqA1tazvCKspZmLRvaSyo) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [rock your hips \(with Saweetie\)](https://open.spotify.com/album/7uVBdFdbVktWF8ULRD5k8i) | 2:12 | 2024-08-18 | 2025-08-22 |
 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 | 2022-10-28 | 2024-08-11 |
 | [Shake It Fast \(Prod\. THE HUB\)](https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Shake It Fast \(WSWF Original Vol.3\)](https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh) | 2:11 | 2025-07-11 |  |
 | [SHE PRETTY \- WITH SAWEETIE](https://open.spotify.com/track/2F6VX9GusVq0sAI03qq29S) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 2:36 | 2024-08-18 | 2025-02-16 |

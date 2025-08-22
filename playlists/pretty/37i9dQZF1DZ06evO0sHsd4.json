@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 16497,
+  "num_followers": 16530,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAAB8Ty3MK/UZUtALqPMlJeX7",
+  "snapshot_id": "aKO+gAAAAAA2PXk38zfZ4a4CVuzMVctG",
   "tracks": [
     {
       "added_at": null,
@@ -402,15 +402,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 183133,
-      "name": "CALIFORNIA SUNSET",
-      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
+      "duration_ms": 195334,
+      "name": "0 SENTIMIENTOS",
+      "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
     },
     {
       "added_at": null,
@@ -474,11 +470,15 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 195334,
-      "name": "0 SENTIMIENTOS",
-      "url": "https://open.spotify.com/track/1aBgobDtEToIQvHmjaMD1x"
+      "duration_ms": 183133,
+      "name": "CALIFORNIA SUNSET",
+      "url": "https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD"
     },
     {
       "added_at": null,
@@ -499,6 +499,30 @@
       "duration_ms": 202666,
       "name": "Que Loco Es",
       "url": "https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De M\u00fasica Ligera",
+        "url": "https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "De M\u00fasica Ligera",
+      "url": "https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG"
     },
     {
       "added_at": null,
@@ -555,30 +579,6 @@
       "duration_ms": 192098,
       "name": "Traigo Una 40",
       "url": "https://open.spotify.com/track/7hDeIf4zAccZaGEaAALBDh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De M\u00fasica Ligera",
-        "url": "https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Estevan Plazola",
-          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "De M\u00fasica Ligera",
-      "url": "https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG"
     },
     {
       "added_at": null,

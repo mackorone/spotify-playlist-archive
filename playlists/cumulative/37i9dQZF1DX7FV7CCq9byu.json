@@ -763,6 +763,24 @@
     },
     {
       "album": {
+        "name": "Sommarland",
+        "url": "https://open.spotify.com/album/3Fs1NyFLebhVWHyYTW4cSz"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172596,
+      "name": "Allt jag har",
+      "url": "https://open.spotify.com/track/0grHyIry2NnHHfH7oPQi7G"
+    },
+    {
+      "album": {
         "name": "Almost, So Close, Maybe",
         "url": "https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n"
       },
@@ -1422,6 +1440,24 @@
       "duration_ms": 150247,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/7cmQtbfWsvsWBEdethfYz6"
+    },
+    {
+      "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226745,
+      "name": "Backspegeln",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
     },
     {
       "album": {
@@ -5378,10 +5414,28 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "album": {
+        "name": "Fort Knox",
+        "url": "https://open.spotify.com/album/7op3Rc35czE3iEzLB03wTl"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198757,
+      "name": "Fort Knox",
+      "url": "https://open.spotify.com/track/1dbuAitJsBnF1Y5l78Jpn7"
     },
     {
       "album": {
@@ -7244,7 +7298,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 149370,
       "name": "High Time",
       "url": "https://open.spotify.com/track/2RAaI9h95On0Z1h4wq0Qbj"
@@ -8211,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "album": {
         "name": "I'M HIS, HE'S MINE (feat. Doechii)",
         "url": "https://open.spotify.com/album/56ZRSnpSNktoMERdzBjdS3"
       },
@@ -8487,6 +8559,24 @@
     },
     {
       "album": {
+        "name": "Ingen vet",
+        "url": "https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160975,
+      "name": "Ingen vet",
+      "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
+    },
+    {
+      "album": {
         "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
         "url": "https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat"
       },
@@ -8592,7 +8682,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 164213,
       "name": "IRL (FEAT. SZA)",
       "url": "https://open.spotify.com/track/0XAMdlsVEvX1LodVCeStt2"
@@ -8668,7 +8758,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 131100,
       "name": "ISLAND",
       "url": "https://open.spotify.com/track/6HIyVsMgerWNe8aqJKeivg"
@@ -8694,7 +8784,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 176000,
       "name": "Ist\u00e4llet",
       "url": "https://open.spotify.com/track/6owXSHo7XvqG97VZ6A22B3"
@@ -9319,6 +9409,24 @@
     },
     {
       "album": {
+        "name": "Klara",
+        "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229994,
+      "name": "Klara",
+      "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
+    },
+    {
+      "album": {
         "name": "Klyschor",
         "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
       },
@@ -9348,7 +9456,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 168825,
       "name": "KNIFE",
       "url": "https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT"
@@ -9851,6 +9959,24 @@
     },
     {
       "album": {
+        "name": "Lilla F\u00e5gel Bl\u00e5",
+        "url": "https://open.spotify.com/album/4ouppQ8BxOMAOcs1jjgBKZ"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133617,
+      "name": "Lilla F\u00e5gel Bl\u00e5",
+      "url": "https://open.spotify.com/track/6dOz6Z3vJXx2T2338poGwK"
+    },
+    {
+      "album": {
         "name": "Lips",
         "url": "https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9"
       },
@@ -10146,6 +10272,28 @@
       "duration_ms": 161600,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4Nv7Bc4ynm4BtGmgK9EQiP"
+    },
+    {
+      "album": {
+        "name": "Lova & Skriv",
+        "url": "https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T"
+      },
+      "artists": [
+        {
+          "name": "Isak Friberg",
+          "url": "https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx"
+        },
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179145,
+      "name": "Lova & Skriv",
+      "url": "https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH"
     },
     {
       "album": {
@@ -10677,6 +10825,24 @@
     },
     {
       "album": {
+        "name": "Sverige",
+        "url": "https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "L\u00e5ng v\u00e4g till toppen",
+      "url": "https://open.spotify.com/track/0UXEJOh803cNoAuRw6oBBP"
+    },
+    {
+      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
       },
@@ -10742,7 +10908,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 183160,
       "name": "Magk\u00e4nsla",
       "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
@@ -12792,7 +12958,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 189557,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1tMRh8jiYlmatpVeWWesCe"
@@ -13328,7 +13494,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 218193,
       "name": "Playing House",
       "url": "https://open.spotify.com/track/3kE87cljGo6RY5hbjFmkRK"
@@ -14962,7 +15128,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 158625,
       "name": "sju sorters blommor",
       "url": "https://open.spotify.com/track/63GQIIUToDU9IMu11CZGFR"
@@ -15052,7 +15218,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 161447,
       "name": "Slott av luft",
       "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
@@ -15305,6 +15471,48 @@
     },
     {
       "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "Saja Boys",
+          "url": "https://open.spotify.com/artist/0BJ2EjOqcfgFvlZXNKrNbE"
+        },
+        {
+          "name": "Andrew Choi",
+          "url": "https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4"
+        },
+        {
+          "name": "Neckwav",
+          "url": "https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH"
+        },
+        {
+          "name": "Danny Chung",
+          "url": "https://open.spotify.com/artist/11pXvO7wYuzRWYONDOBd33"
+        },
+        {
+          "name": "KEVIN WOO",
+          "url": "https://open.spotify.com/artist/2RYonYiVhhzBz82UFXOvEN"
+        },
+        {
+          "name": "samUIL Lee",
+          "url": "https://open.spotify.com/artist/1eDupbD9kIx8UaZlzcBG5r"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150686,
+      "name": "Soda Pop",
+      "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
         "name": "Kostym & Sneakers",
         "url": "https://open.spotify.com/album/1kL3rrZC6Yc0ZNWZLMq1eQ"
       },
@@ -15518,7 +15726,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 163064,
       "name": "Sommarland",
       "url": "https://open.spotify.com/track/3pOjWUQShXxf03rfThapNZ"
@@ -15742,6 +15950,24 @@
       "duration_ms": 214033,
       "name": "Springer ikapp",
       "url": "https://open.spotify.com/track/5DF56PEsdLEHpqoCpzLg6I"
+    },
+    {
+      "album": {
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/10m9GVB1D3nQxNAmUrr7tH"
+      },
+      "artists": [
+        {
+          "name": "Von Disco",
+          "url": "https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143236,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/3NU6g9s3vo643YWSHfn5PF"
     },
     {
       "album": {
@@ -16694,7 +16920,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 187842,
       "name": "Ta Mig Aldrig H\u00e4rifr\u00e5n",
       "url": "https://open.spotify.com/track/63FjDlco0BQXJuPZeQ70CZ"
@@ -16828,7 +17054,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 171199,
       "name": "Take My Mind",
       "url": "https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS"

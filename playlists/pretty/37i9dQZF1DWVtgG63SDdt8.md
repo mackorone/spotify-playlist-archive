@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: ANTHNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,414 likes - 98 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,444 likes - 98 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 46 | [Never Look Back](https://open.spotify.com/track/5J4B12yqhbRCTbQTdZYw73) | [Red Tips](https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7) | [Never Look Back](https://open.spotify.com/album/0KLNtn469NfqtzbLYVJM4y) | 3:05 |
 | 47 | [DO IT AGAIN](https://open.spotify.com/track/731WQZy3MxJJipde2VkH2q) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [DO IT AGAIN](https://open.spotify.com/album/3PI1YdwODGFwQ8UJjHZ7A2) | 2:24 |
 | 48 | [Ticket](https://open.spotify.com/track/5SI12ohIg1AGcGsytRORqj) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl) | [Ticket](https://open.spotify.com/album/5uWuhcfBh8BTX6qQvyOc0w) | 2:23 |
-| 49 | [Spiritual Sense](https://open.spotify.com/track/3A2w1oyhnna2esspZRs0QX) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Spiritual Sense](https://open.spotify.com/album/0LQ1n2uqAK6aIm4pPTrBGG) | 3:02 |
+| 49 | [Spiritual Sense](https://open.spotify.com/track/3A2w1oyhnna2esspZRs0QX) | [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV), [DC3](https://open.spotify.com/artist/2lrBGpN0NUi6w739TX7YZf) | [Spiritual Sense](https://open.spotify.com/album/0LQ1n2uqAK6aIm4pPTrBGG) | 3:03 |
 | 50 | [All God](https://open.spotify.com/track/6o8g89TMvkhZaBSrBitqpG) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8) | [All God](https://open.spotify.com/album/6aHAqYn261IAENMtvS6oGm) | 3:07 |
 | 51 | [Talk Crazy](https://open.spotify.com/track/3NXIKoEUtqxNaP7JtNCPkE) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [bloody Candy](https://open.spotify.com/artist/5IQaOyIzubjmSh7jiynBMx) | [Talk Crazy](https://open.spotify.com/album/1kRqcTLr0RD6iNunj8JT2E) | 2:39 |
 | 52 | [Mr Definitely](https://open.spotify.com/track/5sNsRS2s2g7b0NW2cJf0wr) | [Definitely D](https://open.spotify.com/artist/4Gh8C9Bc8G9r3ntg0XFKIx) | [Dirt & Deliverance](https://open.spotify.com/album/5tJcAs3xFml7IkRjd9F4kd) | 2:09 |

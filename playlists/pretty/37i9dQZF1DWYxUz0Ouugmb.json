@@ -1,13 +1,61 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi.  Cover: The Lantis ",
-  "num_followers": 41173,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Difki Khalif ",
+  "num_followers": 41220,
   "original_name": "RADAR Indonesia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDk000NFDN9uDLKjpMRdMIq+/I+",
+  "snapshot_id": "AAAAAAEIax6U85osT2trImGCr3ZoiIdb",
   "tracks": [
+    {
+      "added_at": "2025-08-21 17:00:32",
+      "album": {
+        "name": "Apakah Kita?",
+        "url": "https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof"
+      },
+      "artists": [
+        {
+          "name": "Tissa Biani",
+          "url": "https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Gelora Asmara",
+      "url": "https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu"
+    },
+    {
+      "added_at": "2025-08-21 17:00:32",
+      "album": {
+        "name": "Nostalgila",
+        "url": "https://open.spotify.com/album/6bAENKavySVT6IMovd9dv9"
+      },
+      "artists": [
+        {
+          "name": "Difki Khalif",
+          "url": "https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV"
+        }
+      ],
+      "duration_ms": 178892,
+      "name": "Nostalgila",
+      "url": "https://open.spotify.com/track/4ZiIiMCWRE9XXZtzvuqL6k"
+    },
+    {
+      "added_at": "2025-08-21 17:00:32",
+      "album": {
+        "name": "Ingatlah Aku Disini",
+        "url": "https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L"
+      },
+      "artists": [
+        {
+          "name": "White Chorus",
+          "url": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ingatlah Aku Disini",
+      "url": "https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K"
+    },
     {
       "added_at": "2025-08-14 17:00:03",
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Modus Mio](https://open.spotify.com/playlist/37i9dQZF1DX36edUJpD76c)
 
-> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: Loredana
+> Die wichtigste Hip\-Hop Playlist Deutschlands\. Cover: RAF Camora
 
 81 songs - 3 hr 31 min
 

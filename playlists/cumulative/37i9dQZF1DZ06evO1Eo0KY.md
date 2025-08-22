@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-126 songs - 5 hr 50 min
+127 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,9 +74,10 @@
 | [Manchurian Candidate](https://open.spotify.com/track/4OBm2wJ1DNBkVldLxV99Ak) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Directors Cut 4](https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv) | 2:37 | 2024-09-06 | 2025-04-28 |
 | [Mandatory](https://open.spotify.com/track/0kKcUVTLDIqrspywngKVr9) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:02 | 2023-12-13 | 2025-05-07 |
 | [Marrero](https://open.spotify.com/track/3jU8dhdHTirApWRJbQRw7M) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 3:22 | 2025-07-13 | 2025-07-24 |
-| [Meal Prepping](https://open.spotify.com/track/1miszn27p0hfXYkwVRWj5v) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 2:46 | 2025-07-13 |  |
+| [Meal Prepping](https://open.spotify.com/track/1miszn27p0hfXYkwVRWj5v) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 2:46 | 2025-07-13 | 2025-08-22 |
 | [Midsommar](https://open.spotify.com/track/6n4hU8yiTKd9vdusec8auo) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Deleted Scenes](https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5) | 1:09 | 2023-12-13 |  |
 | [Murderous Tendencies](https://open.spotify.com/track/7e2dyHP03pkwPpHF9EEaTJ) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:29 | 2024-01-13 |  |
+| [Nice Try Wrong Guy](https://open.spotify.com/track/3m7eR0cEDZnrKuGJ6uTPhI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Late to My Own Funeral](https://open.spotify.com/album/2oDcX1gb5edT6qXISrRw8W) | 3:06 | 2025-08-22 |  |
 | [Nice Try Wrong Guy](https://open.spotify.com/track/7wcLBb0HGtz40QuApXpEh8) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Nice Try Wrong Guy](https://open.spotify.com/album/11WKI3s5WpRkf5YzmNFKfv) | 3:06 | 2025-06-22 | 2025-08-10 |
 | [No Pun Intended](https://open.spotify.com/track/0G7ckZvVPFF8HSsz99i5Zv) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [No Pun Intended](https://open.spotify.com/album/67srMHhR6TEjUbmIafKooL) | 3:14 | 2023-12-13 | 2024-01-21 |
 | [No Pun Intended](https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:14 | 2024-01-20 |  |

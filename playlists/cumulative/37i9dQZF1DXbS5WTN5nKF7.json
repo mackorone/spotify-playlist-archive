@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Marine !",
+  "description": "Le meilleur des hits avec Ed Sheeran !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 180000,
       "name": "Courage - Edit",
       "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
@@ -1778,7 +1778,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 176453,
       "name": "DAISIES",
       "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
@@ -2925,6 +2925,28 @@
     },
     {
       "album": {
+        "name": "Hot summer night (Oh La La La)",
+        "url": "https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG"
+      },
+      "artists": [
+        {
+          "name": "Smil",
+          "url": "https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI"
+        },
+        {
+          "name": "Just Ben",
+          "url": "https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Hot summer night - Oh La La La",
+      "url": "https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN"
+    },
+    {
+      "album": {
         "name": "Hotstepper",
         "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
       },
@@ -3136,7 +3158,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 145600,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/0bpV9MqymT1j2vBgfs234Y"
@@ -4790,7 +4812,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 212560,
       "name": "M\u00e9latonine",
       "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
@@ -4968,7 +4990,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 155290,
       "name": "Nous",
       "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
@@ -6350,6 +6372,24 @@
       "duration_ms": 181875,
       "name": "Summer Jam",
       "url": "https://open.spotify.com/track/7wLTLminmuEDTdLbCapAMV"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225211,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
     },
     {
       "album": {

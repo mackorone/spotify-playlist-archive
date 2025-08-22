@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Olivia Dean, Steve Lacy, Dijon and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,971 likes - 121 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 923,080 likes - 121 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 39 | [bite](https://open.spotify.com/track/4g9hEHTokakISehyqnTs17) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [bite](https://open.spotify.com/album/4DUt5gKjHdswBatfpuLhyz) | 3:42 |
 | 40 | [Catherine Wheels](https://open.spotify.com/track/5IZ7XbCi7PGhSAZ8KLe3Yz) | [CQ Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Catherine Wheels](https://open.spotify.com/album/3l2QKnr6Pc2Ggfjr5QRfsP) | 3:43 |
 | 41 | [Pain](https://open.spotify.com/track/18JvmiOefHtdJFq7fP1FgG) | [Asco](https://open.spotify.com/artist/78tb5IXVdgoNDphZXWMN0r) | [Perfect Timing](https://open.spotify.com/album/45ZE2WOzDZEpVxaha9y5by) | 3:36 |
-| 42 | [sweet little light.](https://open.spotify.com/track/66dj13J7F8aSN9KJGwiIdJ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Jazza's dance party](https://open.spotify.com/artist/0EvjBVJFq1Pz9GAnEJZZO7) | [sweet little light.](https://open.spotify.com/album/6p1lBdGh0C5Md1hd4sc892) | 3:32 |
+| 42 | [sweet little light.](https://open.spotify.com/track/66dj13J7F8aSN9KJGwiIdJ) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [jazza's dance party](https://open.spotify.com/artist/0EvjBVJFq1Pz9GAnEJZZO7) | [sweet little light.](https://open.spotify.com/album/6p1lBdGh0C5Md1hd4sc892) | 3:32 |
 | 43 | [The Avant Garde](https://open.spotify.com/track/6vYbXVWGQzdPCL9rwb6APG) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [The Avant Garde](https://open.spotify.com/album/4NyDMwiqlYmygI31lb7fL0) | 3:41 |
 | 44 | [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 |
 | 45 | [Init Gyal](https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Init Gyal](https://open.spotify.com/album/2qpKN28C1BfvGeHVULQ0mI) | 1:05 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 120 | [Nobody Wants To Die](https://open.spotify.com/track/4mWyyZAQBuAA0bg4vmhCIZ) | [Green Gardens](https://open.spotify.com/artist/5EwUOG0SThYLLXclwy1PiO) | [Nobody Wants To Die](https://open.spotify.com/album/6QG44HTaDrv6NIde4O1DLv) | 3:13 |
 | 121 | [Prada Boo](https://open.spotify.com/track/493StZUc3moeLSbY60CLZl) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Prada Boo](https://open.spotify.com/album/4P68ccoHnsZNH1paDPjIcp) | 2:33 |
 
-Snapshot ID: `AAAAABGTO3NOEjcLfr8/NA/WV9SIEZDm`
+Snapshot ID: `AAAAALSGp7EbtPw0LFCPtQokF0WX//sX`

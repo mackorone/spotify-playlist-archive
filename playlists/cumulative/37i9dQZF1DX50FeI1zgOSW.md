@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Keethan
 
-586 songs - 1 day 9 hr 21 min
+587 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,6 +418,7 @@
 | [Potta Potti](https://open.spotify.com/track/3JGCxsWooDbgOTpIzfJW3q) | [Adithya sm](https://open.spotify.com/artist/0aaBheMyBtjK4HCrjSrI5X) | [Potta Potti](https://open.spotify.com/album/7cXKMZRjHZtQDMxJlVcbzK) | 2:52 | 2024-06-19 | 2024-11-26 |
 | [Pozhudhugal](https://open.spotify.com/track/5AzjLBpTMQAVolbzZ5dzJH) | [Kiran Surath N](https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I) | [Pozhudhugal](https://open.spotify.com/album/3y77bo40iqv3V5cvGrQRAH) | 2:26 | 2023-08-31 | 2024-01-30 |
 | [Pulikal Arambam](https://open.spotify.com/track/3ybMzrE3I9vSFdYPHFgAPb) | [B&K Vibrant Vibes](https://open.spotify.com/artist/0JDNwkCqILNOuohFogImCR) | [Roar of the Veeran: The Tiger Chronicles](https://open.spotify.com/album/2aJK22DHqp7xtPIxioPZV2) | 2:49 | 2025-05-30 |  |
+| [Puluvaandi](https://open.spotify.com/track/5w9CvE8N9nnFuogvFt03tR) | [Aru](https://open.spotify.com/artist/5ycfMLA4GJhf0qjdXoLSJb) | [Puluvaandi](https://open.spotify.com/album/0jew9CAyMFa19yLOq56MNW) | 3:15 | 2025-08-21 |  |
 | [Puppy Shame](https://open.spotify.com/track/2vDNF1Zqka9bCL9doi0oOs) | [Niranjan Babu](https://open.spotify.com/artist/0hiOFbSIkPddlp9Tm8WDtZ) | [Puppy Shame](https://open.spotify.com/album/61TbT5yHdtEWfOXlFyxA7u) | 2:26 | 2023-06-30 | 2023-12-12 |
 | [Puriya Vei \- Deaffrogs Records](https://open.spotify.com/track/3FB7rvufG8aW4bDkEUMbx3) | [Killa K](https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf) | [Puriya Vei \(Deaffrogs Records\)](https://open.spotify.com/album/2uyiv7xioQOp84vEqlJNqs) | 2:06 | 2024-01-31 | 2024-05-21 |
 | [Puzhudhi \| Coke Studio Tamil](https://open.spotify.com/track/4ZoDl4LLSQfAnXkdO6OlXC) | [JHANU](https://open.spotify.com/artist/0L1IXK07lAo0FQ2wfij2k7), [Muthu](https://open.spotify.com/artist/4qDuBS2e3XRO3LOFm8niSY), [Mutthammaal](https://open.spotify.com/artist/2k5kyg530rSRhTd0EbyJl7), [JK & Crew](https://open.spotify.com/artist/59ehEIM4v5mpHMy9so6vRW) | [Puzhudhi \| Coke Studio Tamil](https://open.spotify.com/album/54gCOKcdYFvl0sRhHUj87u) | 4:14 | 2023-07-28 | 2023-10-07 |

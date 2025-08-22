@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAAD+fuVkCI8Q1pPIMhahHIGH",
+  "snapshot_id": "aKO+gAAAAAB6kOLpldYOESOPrRoI2xKa",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spontaneous Endless Worship",
+        "url": "https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 335266,
+      "name": "Spontaneous Endless Worship",
+      "url": "https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take It All (Live in Abuja)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 520293,
       "name": "Jesus, Lamb Of God - Live",
       "url": "https://open.spotify.com/track/0rxeyFj2CWqOmR5BE09Ihv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spontaneous Endless Worship",
-        "url": "https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 335266,
-      "name": "Spontaneous Endless Worship",
-      "url": "https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 247719,
+      "name": "Yahweh Will Manifest Himself",
+      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take It All (Live in Abuja)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 247719,
-      "name": "Yahweh Will Manifest Himself",
-      "url": "https://open.spotify.com/track/6bM1l2umRdewjcskt8HnE8"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+      "duration_ms": 234586,
+      "name": "Absolutely Nothing",
+      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
     },
     {
       "added_at": null,
@@ -487,42 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 318727,
-      "name": "Dependable God",
-      "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 234586,
-      "name": "Absolutely Nothing",
-      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TOTORI(The Name of Jesus)",
         "url": "https://open.spotify.com/album/4fgCwBz0cI8SPriORcrESn"
       },
@@ -539,6 +503,42 @@
       "duration_ms": 204600,
       "name": "TOTORI(The Name of Jesus)",
       "url": "https://open.spotify.com/track/7I8dVspaQwx5PU7vavhccm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 318727,
+      "name": "Dependable God",
+      "url": "https://open.spotify.com/track/2YuL1yKBLeduuGOTZQvANU"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Your Name be Glorified Worship Medley",
         "url": "https://open.spotify.com/album/316D2SEI6KqaqTmSqBqkxV"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 1046673,
       "name": "Let Your Name be Glorified Worship Medley",
       "url": "https://open.spotify.com/track/6FN9Hp7KjPoks4FrORV86c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Back",
-        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 203860,
-      "name": "My Back",
-      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": null,

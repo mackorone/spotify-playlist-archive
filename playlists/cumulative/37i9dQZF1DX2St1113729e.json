@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": " sOniiDos En conStaNte mutAci\u00f3Nn \u2729\u00b0\uff61\u22c6\u2e1c \ud83c\udfa7\u272e feat. Orslok.",
+  "description": " sOniiDos En conStaNte mutAci\u00f3Nn \u2729\u00b0\uff61\u22c6\u2e1c \ud83c\udfa7\u272e feat. Saramalacara.",
   "name": "helium",
   "tracks": [
     {
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 159732,
       "name": "brujita",
       "url": "https://open.spotify.com/track/6kYLN1jiNx0e7cdj6QsHrM"
@@ -1876,7 +1876,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 110480,
       "name": "cara de malo",
       "url": "https://open.spotify.com/track/71Tsxr3RIJESbtABSm8GUg"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 195000,
       "name": "Cocaconron",
       "url": "https://open.spotify.com/track/6vcn0i4hOMYu0Q5AOrb5CU"
@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 188830,
       "name": "Crush",
       "url": "https://open.spotify.com/track/3ot5ivKSuKIc5xSabLyHIl"
@@ -2866,7 +2866,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 215433,
       "name": "C\u00f3mprame una camiseta",
       "url": "https://open.spotify.com/track/5mNseKjHOCFYSWPhHE2qpz"
@@ -3030,7 +3030,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 149557,
       "name": "DeLorean",
       "url": "https://open.spotify.com/track/6ZZu8PmxZbA7FE6rJ0gFfk"
@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 122503,
       "name": "DON - Bill$",
       "url": "https://open.spotify.com/track/7LSVnbAzYATVF3gy5nw2fk"
@@ -3790,6 +3790,24 @@
       "duration_ms": 160075,
       "name": "Es Un Placer Conocerte",
       "url": "https://open.spotify.com/track/2M1bRGK3o1VKEFXqQLHceM"
+    },
+    {
+      "album": {
+        "name": "Esa Hoe / Hasta el cielo",
+        "url": "https://open.spotify.com/album/1SXj2cEe9aM0KZ0ak56aBZ"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77961,
+      "name": "Esa Hoe",
+      "url": "https://open.spotify.com/track/2FbGP1s4pfFdrfZK4qHTPm"
     },
     {
       "album": {
@@ -6134,7 +6152,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 189002,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/1f2Xk8oCGOWFIU1haKlKnA"
@@ -7726,6 +7744,32 @@
       "duration_ms": 232450,
       "name": "Momiji",
       "url": "https://open.spotify.com/track/2gHLmrko7fP0UZG22RWTrW"
+    },
+    {
+      "album": {
+        "name": "Morocco",
+        "url": "https://open.spotify.com/album/2kBH1VJHkislm5UbGhUbHI"
+      },
+      "artists": [
+        {
+          "name": "Barbi Rucci",
+          "url": "https://open.spotify.com/artist/22yuIPaTSGRoTUVhPKToN9"
+        },
+        {
+          "name": "vilss",
+          "url": "https://open.spotify.com/artist/3y7tx44il01aE81CydncTU"
+        },
+        {
+          "name": "Assimm",
+          "url": "https://open.spotify.com/artist/6wGNgTOy9283xQagwr1kdq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Morocco",
+      "url": "https://open.spotify.com/track/4u6edP3a8XvQeTKK5602Rl"
     },
     {
       "album": {
@@ -10433,6 +10477,24 @@
     },
     {
       "album": {
+        "name": "escribo sobre todo lo que me recuerda a ti",
+        "url": "https://open.spotify.com/album/6NjLeaoDkpOxhp7gVgDqVX"
+      },
+      "artists": [
+        {
+          "name": "flares",
+          "url": "https://open.spotify.com/artist/18UiAgqQCSgBR66bmMIu4i"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98354,
+      "name": "rosas para disimular",
+      "url": "https://open.spotify.com/track/0ZKymkhUM0BMlJUcAr0jSQ"
+    },
+    {
+      "album": {
         "name": "RUIDO",
         "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
       },
@@ -11231,6 +11293,28 @@
     },
     {
       "album": {
+        "name": "Sola Perdida",
+        "url": "https://open.spotify.com/album/1dhbMbbqAsRAGIW6tqQw3d"
+      },
+      "artists": [
+        {
+          "name": "fuchi",
+          "url": "https://open.spotify.com/artist/2RoM55NaaJktLPzgcPNGHE"
+        },
+        {
+          "name": "fuchito",
+          "url": "https://open.spotify.com/artist/0J5ZZjyVgdd8zLtbc1jEoR"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125305,
+      "name": "Sola Perdida",
+      "url": "https://open.spotify.com/track/2kId9NwyIaQb7u1QK6ZgVm"
+    },
+    {
+      "album": {
         "name": "SOLO PIENSO EN TI",
         "url": "https://open.spotify.com/album/1rOpIJuHiW72vtZSWOFv5g"
       },
@@ -11715,6 +11799,32 @@
     },
     {
       "album": {
+        "name": "TALK 2 ME",
+        "url": "https://open.spotify.com/album/0dW25dFVRHBVUH4y2C1Bpe"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        },
+        {
+          "name": "Joel Mannucci",
+          "url": "https://open.spotify.com/artist/0OjILpAOOz1CJHl7AejD26"
+        },
+        {
+          "name": "damnpablo",
+          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131463,
+      "name": "TALK 2 ME",
+      "url": "https://open.spotify.com/track/7DZlLYICF5WzmbaOqccMzM"
+    },
+    {
+      "album": {
         "name": "tamagotchi",
         "url": "https://open.spotify.com/album/5tBPoDajcUY3wf4pnBJfMV"
       },
@@ -12158,6 +12268,28 @@
       "duration_ms": 223777,
       "name": "Torero (feat. alequi, BLNCO, Cma, Delgao, Fran Laoren, Mar\u00eda Escarmiento, Shy Kolbe & SUOB)",
       "url": "https://open.spotify.com/track/7s4EGtj1mpWN3no66tSAEw"
+    },
+    {
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/1DM7LBagD8nfswBKm4vGup"
+      },
+      "artists": [
+        {
+          "name": "6scars",
+          "url": "https://open.spotify.com/artist/3wB8jFZvblRalDyVV56hsp"
+        },
+        {
+          "name": "Autotune Angel",
+          "url": "https://open.spotify.com/artist/51QnHDUuSZ6xZWeCIxtoyT"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142407,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/1OOVAraZZw0ZGXKTbawtr0"
     },
     {
       "album": {
@@ -13342,7 +13474,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 180596,
       "name": "YaseK",
       "url": "https://open.spotify.com/track/5MqolhGdUF1cbJcRuljBP3"

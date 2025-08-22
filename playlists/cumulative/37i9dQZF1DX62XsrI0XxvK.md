@@ -2,9 +2,9 @@
 
 ### [JIVVA](https://open.spotify.com/playlist/37i9dQZF1DX62XsrI0XxvK)
 
-> Irama R&B tanah air yang merasuk jiwa\. Cover: Ticya
+> Irama R&B tanah air yang merasuk jiwa\. Cover: Aziz Hedra, Sisca Saras
 
-146 songs - 8 hr 48 min
+150 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,8 @@
 | [Djakarta](https://open.spotify.com/track/4rfdBCU8fRgmtwpuR0rCOQ) | [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [Djakarta](https://open.spotify.com/album/0M8VdQEeFGKbuJ1LutcvmX) | 3:56 | 2024-10-03 |  |
 | [Do Right Baby!](https://open.spotify.com/track/7iR9lD79PCHKBdliUNNLSY) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Do Right Baby!](https://open.spotify.com/album/0lOMc60o5tKvGONQttYUNi) | 4:53 | 2024-10-03 | 2025-07-18 |
 | [Do What We Do](https://open.spotify.com/track/1h426ghuQ1iAgHIaHsWmEM) | [Salon RnB](https://open.spotify.com/artist/43jFm6YUMgKCgAH8tKwZvM), [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J), [RL KLAV](https://open.spotify.com/artist/7vuMMDEiKVDBEth289auSc), [Karina Christy](https://open.spotify.com/artist/3VrdcyFAoiGD2yBZgb4nH7), [Madukina](https://open.spotify.com/artist/5fxYAxne91gzia4QqfLVXJ), [Sade Susanto](https://open.spotify.com/artist/1yYhzl7KYtjfeMFqmocPt3), [Noni](https://open.spotify.com/artist/5qKvIYld9MeIwjut9otxti) | [Do What We Do](https://open.spotify.com/album/3aeTXYLhgW3SMTYMTYLenE) | 4:34 | 2025-05-22 |  |
+| [dusta](https://open.spotify.com/track/5TigmnZ3JxlwNvlVe9EU5a) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [dusta](https://open.spotify.com/album/5WJDpfRQJ3n7Q0LlaalF1d) | 3:21 | 2025-08-22 |  |
+| [Ecstasy](https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Arif DG Rate](https://open.spotify.com/artist/2chclvmh09mRLkSBiZCy4O), [Saleh Hariwibowo](https://open.spotify.com/artist/3bk30OwAODCVXw5ST6pBi0) | [Ecstasy](https://open.spotify.com/album/4LVVokSMi6D8f5xX0JO9ev) | 3:53 | 2025-08-21 |  |
 | [Esok kan Masih Ada](https://open.spotify.com/track/1LVWMYXct2PoMvnn2I4ViD) | [Opie Batfeny](https://open.spotify.com/artist/275CbE2Fh9fcErSLQrhHVF), [Utha Likumahuwa](https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9) | [Esok kan Masih Ada](https://open.spotify.com/album/3410T0CgNw9YeIB7Y7fvmN) | 3:52 | 2024-10-03 | 2025-05-02 |
 | [Falling in Love in Jakarta](https://open.spotify.com/track/0QteQ3SwYCkPGAoQ6YfQKZ) | [Alvin Jo](https://open.spotify.com/artist/3MnsmeScJneDmgu8u3OeNL) | [Falling in Love in Jakarta](https://open.spotify.com/album/5dAAPRXAiD8bKPeKa3Yo5X) | 4:17 | 2024-10-03 | 2025-05-02 |
 | [Figaro](https://open.spotify.com/track/13BOpGnIOTDvQPNtOuX4K6) | [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Figaro](https://open.spotify.com/album/3YqvLwy54tEMwiGwfTUFNh) | 2:48 | 2025-07-17 |  |
@@ -58,6 +60,7 @@
 | [Hanya Harapku](https://open.spotify.com/track/4CXS1Bnuk0xzPd3zP7Jmsb) | [Fourtune](https://open.spotify.com/artist/0MLJ6wDKP8xAPYeXjisC7k) | [Hanya Harapku](https://open.spotify.com/album/6pLzF6GCDzqmFIpi4GZuGw) | 3:30 | 2024-11-15 | 2025-07-18 |
 | [Hanya Ingin](https://open.spotify.com/track/1UykQjY4mcTp66AqJ2kLvt) | [R2 Rhythm](https://open.spotify.com/artist/1NMndAY1nq64GSsGuccTrM) | [Hanya Ingin](https://open.spotify.com/album/2cEMBuXaGurxFImXVwOFWC) | 3:09 | 2024-11-21 | 2025-05-09 |
 | [Hanya Memuji](https://open.spotify.com/track/0zlRT6UF5JZpkM4xL6BUbb) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O), [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Hanya Memuji](https://open.spotify.com/album/5WRLsSxz99UFtkLishLcB1) | 3:57 | 2025-05-01 |  |
+| [Heaven](https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [EDUO](https://open.spotify.com/artist/2o3ddTmWSrGSyVQc3Sgf6b) | [Heaven](https://open.spotify.com/album/3V4lkg9bZdiD4W31Ec5DWc) | 3:34 | 2025-08-21 |  |
 | [Here, I Said 'Thank You'](https://open.spotify.com/track/5Cgy50FxnAM37H2PPrVfSi) | [Cosmoplaza](https://open.spotify.com/artist/4dMVkCAtoW19LfuCvgQWpC) | [Here, I Said 'Thank You'](https://open.spotify.com/album/0hQtQdnbzwAbgCWEKWxRRq) | 2:16 | 2025-06-13 |  |
 | [Hey Tunggu Dulu](https://open.spotify.com/track/4cWvKdsd9egRGO4CnwFqEg) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:13 | 2024-10-24 |  |
 | [hush](https://open.spotify.com/track/6Dv7W37km5fOeuHdAUdJJD) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [hush](https://open.spotify.com/album/25udfmqeT2f2ZrTSt2H9Sa) | 4:34 | 2025-05-15 |  |
@@ -99,6 +102,7 @@
 | [Nuansa Romansa](https://open.spotify.com/track/5IlUsmKzmLDcjfC64huD43) | [Haira](https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db) | [Nuansa Romansa](https://open.spotify.com/album/0FbED58kWNrEd41ZGh4X9T) | 4:38 | 2025-05-08 |  |
 | [Obsesi](https://open.spotify.com/track/5O3mCKnCxlqrb5yDjZigxK) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Obsesi](https://open.spotify.com/album/7vx3ePtu8rpg2XfJvVnYXq) | 2:44 | 2024-11-28 |  |
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-10-03 | 2025-05-02 |
+| [Orang Biasa](https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD), [Sisca Saras](https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p) | [Orang Biasa](https://open.spotify.com/album/6iouAGOCicSo8yUPxzyUeR) | 3:34 | 2025-08-21 |  |
 | [Pain in the City](https://open.spotify.com/track/0828RNklDZxYG9Rv4zOiFq) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Pain in the City](https://open.spotify.com/album/6MwywWhOkrBMCz6LIGFdJO) | 3:59 | 2024-11-14 | 2025-05-09 |
 | [Pelita](https://open.spotify.com/track/11hmwvnvArUrTTkoClKwuw) | [Adityaa Bagus](https://open.spotify.com/artist/3zbVjekhcWIMb4lgWywjWL) | [Pelita](https://open.spotify.com/album/2XfMU1K2vxSDZFl8VmSXl0) | 4:41 | 2025-05-01 |  |
 | [Pelupa](https://open.spotify.com/track/1TaC3GhBKRo8wUHQ4jpCaM) | [TERUNA](https://open.spotify.com/artist/0YTMep6ABS7gI4txhB1DFL) | [Pelupa](https://open.spotify.com/album/49VsFd3bLsFnppQt4bQPIH) | 4:02 | 2025-06-12 |  |

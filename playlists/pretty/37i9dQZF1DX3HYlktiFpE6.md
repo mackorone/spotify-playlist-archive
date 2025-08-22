@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,676 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,678 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 43 | [All About That Bass \(No Tenors\)](https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:54 |
 | 44 | [Jealous](https://open.spotify.com/track/7lawnWP2oHSP7vC3Io4unA) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Jealous](https://open.spotify.com/album/7oCU6KkQCOyVoOc3aR3TXe) | 5:29 |
 | 45 | [Bad Romance](https://open.spotify.com/track/1Gdq70zftwyR7AicLQ4lBY) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [A Fifth](https://open.spotify.com/album/4UGVns5c7hntEX7kO72sUy) | 4:37 |
-| 46 | [Teenage Dream \(feat\. Darren Criss\) \- Cover of Katy Perry](https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:40 |
+| 46 | [Teenage Dream \(feat\. Darren Criss\)](https://open.spotify.com/track/0nzvwCXs0X3SGPhyGdb7Cp) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm), [Darren Criss](https://open.spotify.com/artist/3nQ59hkeciYoR6RreQL4Rv) | [Glee: The Music, Volume 4](https://open.spotify.com/album/6al4VUZHO90Zmw0fm4vVeI) | 3:40 |
 | 47 | [Despacito x Shape Of You](https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX Presents: Top Pop, Vol\. I](https://open.spotify.com/album/2viOlnLfhPLDgx7hvBqLwW) | 3:18 |
 | 48 | [Good Thing](https://open.spotify.com/track/1Uc8sX7Kb2FzREsu0EmZ8z) | [The Clef Hangers](https://open.spotify.com/artist/5wUTXZIMX0mn6MzFA13qfO) | [Lost Files](https://open.spotify.com/album/6yteFlMQqBuauZU1UrRaNm) | 3:31 |
 | 49 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |

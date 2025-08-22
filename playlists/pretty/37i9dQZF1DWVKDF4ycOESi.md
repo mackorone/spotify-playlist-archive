@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > La playlist è in pausa, ci rivediamo venerdì 22 per le migliori nuove uscite delle due settimane precedenti!
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,898 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,912 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 54 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 |
 | 55 | [I Knew We'd Talk About It One Day](https://open.spotify.com/track/1p5YXN5n2wDDun03QhSjjL) | [Humour](https://open.spotify.com/artist/5ErUNpyxSBAdjZaKlefsUr) | [I Knew We'd Talk About It One Day](https://open.spotify.com/album/0NP0x5cKqz1XytxGNiiZ0y) | 3:27 |
 
-Snapshot ID: `AAAAAJZ0z/8sJg15B4EjYM4Ip9AwzeZx`
+Snapshot ID: `AAAAABojBiS/snUbFIRhT9Zz7g5pulkK`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 ### [Woordenschat](https://open.spotify.com/playlist/37i9dQZF1DX19xRtMyA5LM)
 
-> De beste tracks in WS❗️Cover: Frenna & Hamza
+> De beste tracks in WS❗️Cover: Josylvio
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,836 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,839 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [BEN JE DOM?!](https://open.spotify.com/track/4RCInrdDyCR7uLDMw9yOAY) | [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Drechter](https://open.spotify.com/artist/0yZtrEIjvzoZSNoSNrY5Gj) | [BEN JE DOM?!](https://open.spotify.com/album/0ZDbBUhewSBhxO7ekYoG94) | 2:16 |
 | 60 | [100 Gedachtes](https://open.spotify.com/track/22nHlVHnWJ4LYcM2f2rEB4) | [Zarfani](https://open.spotify.com/artist/3jU0uVi2Njx9HZ59lSk3H1) | [100 Gedachtes](https://open.spotify.com/album/5J8oaMK1f14ZgZIgGDaRxl) | 2:28 |
 
-Snapshot ID: `AAAAAOjlw6tnsvEGPPBCIcS9D04vzl+D`
+Snapshot ID: `AAAAALhhRsyIoiVLfU2JgeUOmYvZib9C`

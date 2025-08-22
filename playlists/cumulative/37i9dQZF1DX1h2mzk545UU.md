@@ -4,7 +4,7 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-284 songs - 16 hr 6 min
+285 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Anti Amor](https://open.spotify.com/track/3XnGmGMsZKUUslNt2Nr0V4) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Anti Amor](https://open.spotify.com/album/4Ak5qyIHTsPMDAgNeWIA5C) | 3:00 | 2024-01-04 | 2024-04-17 |
 | [Arremángala Arrempújala](https://open.spotify.com/track/1eiEHx5HeyTB3cjVxvFwUO) | [Los Karkik's](https://open.spotify.com/artist/2kRcNmtZoQUI7F0hoYCnCg) | [Los Reyes de la Cumbia Playera \(Versión 2015\)](https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS) | 5:02 | 2023-01-30 | 2023-08-12 |
 | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1) | 3:14 | 2023-01-30 |  |
+| [Así Así](https://open.spotify.com/track/5yV2BEVcRibgXMxZuf9awh) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Así Así](https://open.spotify.com/album/3EOCDX0SyIHjN9vaEgX8EI) | 3:13 | 2025-08-21 |  |
 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 | 2023-02-02 | 2024-01-05 |
 | [Bailando Bachata](https://open.spotify.com/track/0nKu6ysQjldXxABnxMu7kL) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Bailando Bachata](https://open.spotify.com/album/6NthM7pMQaf9oO8KO4zrNe) | 2:50 | 2023-06-02 |  |
 | [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-05 |  |

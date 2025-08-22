@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:6ic6GUo8AVIRLHee4iEOLg">Tira essa brisa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,815 likes - 8 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,816 likes - 8 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,4 +17,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 7 | [\#153\. Premonição](https://open.spotify.com/episode/3zaOL0HzSplNdzx9uLt4hR) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 31:58 |
 | 8 | [\#47 Documenturno \| O Fator do Terceiro Homem](https://open.spotify.com/episode/1HoHamoS7jRGUIVYDr70ii) | [O Turno da Noite](https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5) | [O Turno da Noite](https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5) | 26:58 |
 
-Snapshot ID: `AAAAANQ5wFr2XvoHlLZPIXtgR0gVd3M3`
+Snapshot ID: `AAAAAKYo8mS9j0jmiarfkPTvRvo68f5Q`

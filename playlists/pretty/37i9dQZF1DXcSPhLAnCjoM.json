@@ -1,151 +1,15 @@
 {
-  "description": "\"Me Enamore\" de RIDSA est le Grand Hit de la semaine.",
-  "num_followers": 1025738,
+  "description": "\"Viens on essaie\" de Vitaa & Julien Dor\u00e9 est le Grand Hit de la semaine.",
+  "num_followers": 1025724,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKfEPAV3PfOlHuYnWCPrZxK00TYu",
+  "snapshot_id": "AAAAACZxTY3bZgI6CREDB1LT7EneI45J",
   "tracks": [
     {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Me Enamore",
-        "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 189725,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Soleil Bleu",
-        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Soleil",
-          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
-        },
-        {
-          "name": "LUIZA",
-          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Soleil Bleu",
-      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Coeur maladroit",
-        "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 160573,
-      "name": "Coeur maladroit",
-      "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY"
-      },
-      "artists": [
-        {
-          "name": "Superbus",
-          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
-        },
-        {
-          "name": "RORI",
-          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "99 Nights (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 163472,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "L'amour fou",
-        "url": "https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "L'amour fou",
-      "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Bouquet final",
-        "url": "https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 193106,
-      "name": "Bouquet final",
-      "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Mauvais Gar\u00e7on",
-        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 162706,
-      "name": "Mauvais Gar\u00e7on",
-      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Viens on essaie",
         "url": "https://open.spotify.com/album/7LLA3dF1F3G4oj1XLBSGjY"
@@ -165,123 +29,95 @@
       "url": "https://open.spotify.com/track/0ZaqWNMYcXW8ycRfVkgawy"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
-        "name": "Un, Dos, Tres",
-        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+        "name": "Soleil Bleu",
+        "url": "https://open.spotify.com/album/2WxTQ8aChxbPZB6RphhXtA"
       },
       "artists": [
         {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Un, Dos, Tres",
-      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "APPELLE TA COPINE",
-        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "APPELLE TA COPINE",
-      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Charlotte",
-        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Un dimanche avec toi",
-      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "les filles, les meufs",
-        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
-      },
-      "artists": [
-        {
-          "name": "marguerite",
-          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "les filles, les meufs",
-      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "J'avoue",
-        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 189241,
-      "name": "J'avoue",
-      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "\u00c0 tes c\u00f4t\u00e9s",
-        "url": "https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Bleu Soleil",
+          "url": "https://open.spotify.com/artist/2HSmynRDUgRfom3fditkjf"
         },
         {
-          "name": "Lenie",
-          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+          "name": "LUIZA",
+          "url": "https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D"
         }
       ],
-      "duration_ms": 157894,
-      "name": "\u00c0 tes c\u00f4t\u00e9s",
-      "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
+      "duration_ms": 246000,
+      "name": "Soleil Bleu",
+      "url": "https://open.spotify.com/track/7xWvRVssTTECvWCDNgCzSH"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
-        "name": "Reflet",
-        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY"
       },
       "artists": [
         {
-          "name": "M. Pokora",
-          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        },
+        {
+          "name": "RORI",
+          "url": "https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I"
         }
       ],
-      "duration_ms": 168394,
-      "name": "Reflet",
-      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+      "duration_ms": 223493,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Me Enamore",
+        "url": "https://open.spotify.com/album/7EltiVo6H28swJEH6lZ3Uv"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/0fltq9Zz9JUWU3NMqRXFY0"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Coeur maladroit",
+        "url": "https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt"
+      },
+      "artists": [
+        {
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
+        }
+      ],
+      "duration_ms": 160573,
+      "name": "Coeur maladroit",
+      "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Chaque seconde (Edition deluxe)",
         "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
@@ -297,7 +133,23 @@
       "url": "https://open.spotify.com/track/19yWp5qVVueGhXJ3NUtbWP"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Mauvais Gar\u00e7on",
+        "url": "https://open.spotify.com/album/3aiDyiXZZhGEnzC18ZI30q"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 162706,
+      "name": "Mauvais Gar\u00e7on",
+      "url": "https://open.spotify.com/track/32cwemsMJdzzsOYjVzfYMS"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Les \u00e9toiles",
         "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
@@ -313,7 +165,151 @@
       "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "L'amour fou",
+        "url": "https://open.spotify.com/album/4n9IHK1xBKKLtaeT9uLhPV"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "L'amour fou",
+      "url": "https://open.spotify.com/track/6IcAoHgXFkaBvY47cv6Osq"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "les filles, les meufs",
+        "url": "https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY"
+      },
+      "artists": [
+        {
+          "name": "marguerite",
+          "url": "https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "les filles, les meufs",
+      "url": "https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "APPELLE TA COPINE",
+        "url": "https://open.spotify.com/album/09WsOdrH7Hzl6ZLg9Er6bq"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "APPELLE TA COPINE",
+      "url": "https://open.spotify.com/track/1i3eRYUhy28Nl0zwcQNOdZ"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "J'avoue",
+        "url": "https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 189241,
+      "name": "J'avoue",
+      "url": "https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Falbala",
+        "url": "https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL"
+      },
+      "artists": [
+        {
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+        }
+      ],
+      "duration_ms": 148363,
+      "name": "Falbala",
+      "url": "https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Charlotte",
+        "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Un dimanche avec toi",
+      "url": "https://open.spotify.com/track/1UQtL1gwHWntLwWowiXB4C"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Autrement",
+        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
+      },
+      "artists": [
+        {
+          "name": "Julien Lieb",
+          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+        }
+      ],
+      "duration_ms": 164578,
+      "name": "Autrement",
+      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Un, Dos, Tres",
+        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Un, Dos, Tres",
+      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Bouquet final",
+        "url": "https://open.spotify.com/album/4zUl5CXivJ1XMd3qAafDKA"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Bouquet final",
+      "url": "https://open.spotify.com/track/17VfUy9CJiUZ9uighESFoM"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "M'envoler",
         "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
@@ -333,7 +329,43 @@
       "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Reflet",
+        "url": "https://open.spotify.com/album/5fntmqoGRA3LPBGFzYy7wp"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "duration_ms": 168394,
+      "name": "Reflet",
+      "url": "https://open.spotify.com/track/5JeDH8xInnb7tAXBJgIfla"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/6xi7XWHQdck25dVdc5MRY1"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Lenie",
+          "url": "https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/0wz1wXKDBtlGhfRNpnLtc1"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Gamin des sables",
         "url": "https://open.spotify.com/album/3PxgtcdYshpXCtNAfBQHdW"
@@ -349,7 +381,23 @@
       "url": "https://open.spotify.com/track/2WZci6zfzEeVg7kjeRT1RH"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "H\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
+      },
+      "artists": [
+        {
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
+        }
+      ],
+      "duration_ms": 166146,
+      "name": "Tout a chang\u00e9 (Rien n'a chang\u00e9)",
+      "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Hors du temps",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
@@ -365,71 +413,39 @@
       "url": "https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
-        "name": "Autrement",
-        "url": "https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE"
+        "name": "Nous",
+        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
       },
       "artists": [
         {
-          "name": "Julien Lieb",
-          "url": "https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i"
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
         }
       ],
-      "duration_ms": 164578,
-      "name": "Autrement",
-      "url": "https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7"
+      "duration_ms": 155290,
+      "name": "Nous",
+      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
-        "name": "maman",
-        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
+        "name": "Ma faute",
+        "url": "https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Marine",
+          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
         }
       ],
-      "duration_ms": 180195,
-      "name": "maman",
-      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
+      "duration_ms": 199376,
+      "name": "Ma faute",
+      "url": "https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Je pars mais je reste",
-        "url": "https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu"
-      },
-      "artists": [
-        {
-          "name": "Charles Dor\u00e9",
-          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Je pars mais je reste",
-      "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Courage (Edit)",
-        "url": "https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Courage - Edit",
-      "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Lola (feat. Nicola Sirkis)",
         "url": "https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ"
@@ -453,23 +469,55 @@
       "url": "https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
-        "name": "Allons Voir",
-        "url": "https://open.spotify.com/album/14J8yvy5eUlDnxN266550W"
+        "name": "Courage (Edit)",
+        "url": "https://open.spotify.com/album/5nHYNiYmmOsghJAYdlhf7n"
       },
       "artists": [
         {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 229668,
-      "name": "Allons Voir",
-      "url": "https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW"
+      "duration_ms": 180000,
+      "name": "Courage - Edit",
+      "url": "https://open.spotify.com/track/20nZW7TeASjjbpJWqcj1H1"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Je pars mais je reste",
+        "url": "https://open.spotify.com/album/0kDJiwDaDXUhhmXAFL06qu"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Je pars mais je reste",
+      "url": "https://open.spotify.com/track/6XZpJESt5Hb0GM6BpAJGN4"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "maman",
+        "url": "https://open.spotify.com/album/2pguB7D2A9A8oHS76j9Egx"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 180195,
+      "name": "maman",
+      "url": "https://open.spotify.com/track/1iJ9cSEWYQsd2M7ROFyIZx"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "L'amour",
         "url": "https://open.spotify.com/album/7pgHenqjmqkUCWkvH7t5TZ"
@@ -485,39 +533,7 @@
       "url": "https://open.spotify.com/track/299EYCmARmvgjzcyP0AW5O"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Ma faute",
-        "url": "https://open.spotify.com/album/3PBzXcnYwVuxFq6QGpXUYT"
-      },
-      "artists": [
-        {
-          "name": "Marine",
-          "url": "https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1"
-        }
-      ],
-      "duration_ms": 199376,
-      "name": "Ma faute",
-      "url": "https://open.spotify.com/track/3bTdmYAMKIvDLhxYDy9xHU"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Sains et saufs",
-        "url": "https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ"
-      },
-      "artists": [
-        {
-          "name": "Zaz",
-          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Sains et saufs",
-      "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/4LSuwbFznF7oBfnSyyu2GX"
@@ -533,71 +549,7 @@
       "url": "https://open.spotify.com/track/5NsBf8z5M6YLphAMrDYc0O"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Nous",
-        "url": "https://open.spotify.com/album/1is67cSsBtCg203117l5QH"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 155290,
-      "name": "Nous",
-      "url": "https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "H\u00e9l\u00e9",
-        "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
-      },
-      "artists": [
-        {
-          "name": "Helena",
-          "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "M\u00e9latonine",
-      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "ONZE",
-        "url": "https://open.spotify.com/album/3L28ldah7yyqnF8H69Pf0K"
-      },
-      "artists": [
-        {
-          "name": "Enchant\u00e9e Julia",
-          "url": "https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E"
-        }
-      ],
-      "duration_ms": 177307,
-      "name": "Ballade",
-      "url": "https://open.spotify.com/track/4nPgOP4KAKil4N5zaww2kY"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Chez moi",
-        "url": "https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR"
-      },
-      "artists": [
-        {
-          "name": "Alien",
-          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
-        }
-      ],
-      "duration_ms": 161016,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "\u00c0 qui le tour",
         "url": "https://open.spotify.com/album/7vgUh9mWDMtSboczXCDYxG"
@@ -617,7 +569,7 @@
       "url": "https://open.spotify.com/track/4kdkyOmEnSHMdWO242OPiU"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "H\u00e9l\u00e9",
         "url": "https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017"
@@ -628,28 +580,12 @@
           "url": "https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC"
         }
       ],
-      "duration_ms": 166146,
-      "name": "Tout a chang\u00e9 (Rien n'a chang\u00e9)",
-      "url": "https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ"
+      "duration_ms": 212560,
+      "name": "M\u00e9latonine",
+      "url": "https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
-      "album": {
-        "name": "Fille lacrymale",
-        "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
-      },
-      "artists": [
-        {
-          "name": "Styleto",
-          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Amour cyclone",
-      "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
-    },
-    {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Le jeu",
         "url": "https://open.spotify.com/album/2v6gZqCcuHtBtk9FTx9adP"
@@ -665,7 +601,23 @@
       "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
     },
     {
-      "added_at": "2025-08-14 22:00:26",
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Fille lacrymale",
+        "url": "https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Amour cyclone",
+      "url": "https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
       "album": {
         "name": "Hallelujah (Live \u00e0 Notre-Dame)",
         "url": "https://open.spotify.com/album/447QjRNZM6f0UzC0DfY2Mk"
@@ -687,6 +639,54 @@
       "duration_ms": 242026,
       "name": "Hallelujah - Live \u00e0 Notre-Dame",
       "url": "https://open.spotify.com/track/7s3KNhg90zZhRewUTie2AS"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Allons Voir",
+        "url": "https://open.spotify.com/album/14J8yvy5eUlDnxN266550W"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Allons Voir",
+      "url": "https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Sains et saufs",
+        "url": "https://open.spotify.com/album/6KHXtoIhJns1xTGYg6EwRZ"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Sains et saufs",
+      "url": "https://open.spotify.com/track/0c5qGXsXbPjQtbhyLsfUWi"
+    },
+    {
+      "added_at": "2025-08-21 22:00:24",
+      "album": {
+        "name": "Chez moi",
+        "url": "https://open.spotify.com/album/6sclH7FYoU0OW02DRKmQbR"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        }
+      ],
+      "duration_ms": 161016,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/09WGJARXs73XVQVWPGf5G1"
     }
   ],
   "unique_name": "Grand Hit",

@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 955174,
+  "num_followers": 955181,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Um Novo Sonho (Deluxe)",
-        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 197969,
-      "name": "Amigo Taxista - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
         "name": "Realidade (Ao Vivo Em Manaus)",
         "url": "https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 202066,
       "name": "De Quem \u00c9 a Culpa? - Ao Vivo",
       "url": "https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
+        "name": "Um Novo Sonho (Deluxe)",
+        "url": "https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 197969,
+      "name": "Amigo Taxista - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Facas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 196379,
-      "name": "Facas - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
         "name": "Graveto (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V"
       },
@@ -339,18 +319,22 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Ferida Curada",
-        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
+        "name": "Facas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0t4odyaTT5r6RJ7L2CjR8q"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
         }
       ],
-      "duration_ms": 159164,
-      "name": "Ferida Curada",
-      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
+      "duration_ms": 196379,
+      "name": "Facas - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ere9b9vDw2N3m9d4uiXxa"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -375,6 +359,22 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
+        "name": "Ferida Curada",
+        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159164,
+      "name": "Ferida Curada",
+      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
         "name": "Terra Sem Cep (Ao Vivo)",
         "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 141934,
       "name": "Propaganda - Ao Vivo",
       "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
-        "name": "Querosene e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 161403,
-      "name": "Infarto",
-      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -423,18 +407,18 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Magia das Estrelas, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ"
+        "name": "Querosene e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 183288,
-      "name": "Dubai - Ao Vivo",
-      "url": "https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP"
+      "duration_ms": 161403,
+      "name": "Infarto",
+      "url": "https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -455,6 +439,22 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
+        "name": "Magia das Estrelas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 183288,
+      "name": "Dubai - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
         "name": "Live In London - At The Royal Albert Hall (Ao Vivo)",
         "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 215213,
       "name": "O Que \u00c9 Que Tem - Ao Vivo",
       "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 192410,
-      "name": "Exclusividade - Ao Vivo",
-      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -503,6 +487,22 @@
       "duration_ms": 181512,
       "name": "Vingan\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 192410,
+      "name": "Exclusividade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
+        "name": "Simone & Simaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "duration_ms": 232485,
+      "name": "Regime Fechado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
         "name": "Tem Moda Pra Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 232485,
-      "name": "Regime Fechado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
         "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
         "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 156371,
       "name": "Serenata - Ao Vivo",
       "url": "https://open.spotify.com/track/5fY9bVl1Wj4PIM3wnduWop"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
-        "name": "Falando de Amor, Vol. 1",
-        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 192725,
-      "name": "Ficha Limpa",
-      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -643,6 +627,22 @@
       "duration_ms": 163402,
       "name": "Tchau Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
+        "name": "Falando de Amor, Vol. 1",
+        "url": "https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 192725,
+      "name": "Ficha Limpa",
+      "url": "https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -695,26 +695,6 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "S de Saudade",
-        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edza & Maur\u00edlio",
-          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "S de Saudade",
-      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
         "name": "N\u00e3o Fala N\u00e3o pra Mim",
         "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
       },
@@ -735,22 +715,22 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Pra Sempre (Falei)",
-        "url": "https://open.spotify.com/album/3HnG7j6zIIBxeiNYMYr2yL"
+        "name": "S de Saudade",
+        "url": "https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Lu\u00edza & Maur\u00edlio",
+          "url": "https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3"
         },
         {
-          "name": "NASRI",
-          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Pra Sempre - Falei",
-      "url": "https://open.spotify.com/track/11yWg9bGV0B5qTkPSaOeXj"
+      "duration_ms": 174863,
+      "name": "S de Saudade",
+      "url": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -767,6 +747,26 @@
       "duration_ms": 243813,
       "name": "Escreve A\u00ed - Ao Vivo",
       "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
+        "name": "Pra Sempre (Falei)",
+        "url": "https://open.spotify.com/album/3HnG7j6zIIBxeiNYMYr2yL"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        },
+        {
+          "name": "NASRI",
+          "url": "https://open.spotify.com/artist/7uQh7z7DSuo5DSDLenv1hz"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Pra Sempre - Falei",
+      "url": "https://open.spotify.com/track/11yWg9bGV0B5qTkPSaOeXj"
     },
     {
       "added_at": "2025-08-15 12:57:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-08-15 12:57:38",
       "album": {
-        "name": "Identidade, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
-    },
-    {
-      "added_at": "2025-08-15 12:57:38",
-      "album": {
         "name": "Com ou Sem Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 201856,
       "name": "Com ou Sem Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+    },
+    {
+      "added_at": "2025-08-15 12:57:38",
+      "album": {
+        "name": "Identidade, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
     },
     {
       "added_at": "2025-08-15 12:57:38",

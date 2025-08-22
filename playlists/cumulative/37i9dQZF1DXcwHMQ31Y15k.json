@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Woro Widowati",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Safira Inema",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -479,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Anak Lanang",
+        "url": "https://open.spotify.com/album/4J8XI8nbtRqxOHeR7R3m1E"
+      },
+      "artists": [
+        {
+          "name": "Ndarboy Genk",
+          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
+        }
+      ],
+      "date_added": "2024-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269339,
+      "name": "Anak Lanang",
+      "url": "https://open.spotify.com/track/4BpYgcqRrKBkb1bOHjAokU"
+    },
+    {
+      "album": {
         "name": "Anak Lanang (Live)",
         "url": "https://open.spotify.com/album/37UR4PopF3odzG2214LRW2"
       },
@@ -494,24 +512,6 @@
       "duration_ms": 396500,
       "name": "Anak Lanang - Live",
       "url": "https://open.spotify.com/track/3WV04K6iHFtoDy5NJ3eYQ9"
-    },
-    {
-      "album": {
-        "name": "Anak Lanang (Original)",
-        "url": "https://open.spotify.com/album/4J8XI8nbtRqxOHeR7R3m1E"
-      },
-      "artists": [
-        {
-          "name": "Ndarboy Genk",
-          "url": "https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ"
-        }
-      ],
-      "date_added": "2024-02-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 269339,
-      "name": "Anak Lanang - Original",
-      "url": "https://open.spotify.com/track/4BpYgcqRrKBkb1bOHjAokU"
     },
     {
       "album": {
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 390000,
       "name": "GADHUNGMLATHI - Live",
       "url": "https://open.spotify.com/track/02zbuASKp6u90zzhpQeN9v"
@@ -5284,7 +5284,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 260799,
       "name": "NGANGGUR 2",
       "url": "https://open.spotify.com/track/5h5R8ad8Sopl96XEXUITSW"
@@ -5378,6 +5378,24 @@
       "duration_ms": 294199,
       "name": "Ngemong Ati",
       "url": "https://open.spotify.com/track/2QnOedQK855tVUnNEhrb1n"
+    },
+    {
+      "album": {
+        "name": "NGENTENI",
+        "url": "https://open.spotify.com/album/5Q7v7zWbzlUGogvZfgeVeC"
+      },
+      "artists": [
+        {
+          "name": "Hanaya",
+          "url": "https://open.spotify.com/artist/2NQDemih2wIWvsrZsn4xAW"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "NGENTENI",
+      "url": "https://open.spotify.com/track/2E7GrU5WTdKfqH1QsbggCs"
     },
     {
       "album": {
@@ -5508,6 +5526,24 @@
       "duration_ms": 458879,
       "name": "Njarem",
       "url": "https://open.spotify.com/track/4blk67iSazQOqxcT9VaxMP"
+    },
+    {
+      "album": {
+        "name": "Nompo",
+        "url": "https://open.spotify.com/album/5aHfVq09tjsD6viagtM8tv"
+      },
+      "artists": [
+        {
+          "name": "Safira Inema",
+          "url": "https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343384,
+      "name": "Nompo",
+      "url": "https://open.spotify.com/track/3ujZxKmfJ28ZGxzv0heYJ0"
     },
     {
       "album": {
@@ -7470,7 +7506,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 363000,
       "name": "Saktenane 2",
       "url": "https://open.spotify.com/track/4eotObB3STP9JwjGW6QbWW"
@@ -7926,6 +7962,24 @@
       "duration_ms": 281583,
       "name": "Segara Madu",
       "url": "https://open.spotify.com/track/4kMtihSvVqRhr45eK5uz39"
+    },
+    {
+      "album": {
+        "name": "Segara Madu (Live)",
+        "url": "https://open.spotify.com/album/6l7CzsJBYEFlf8SbPOdY6K"
+      },
+      "artists": [
+        {
+          "name": "Esa Risty",
+          "url": "https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355989,
+      "name": "Segara Madu - Live",
+      "url": "https://open.spotify.com/track/7Id7tgYD70axlBdCtDTzk3"
     },
     {
       "album": {
@@ -9128,7 +9182,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 328000,
       "name": "Tresno Liyane - Pop Version",
       "url": "https://open.spotify.com/track/6uioIuaj8ijLpfAHdRgiXJ"
@@ -9492,7 +9546,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 240000,
       "name": "Wegah Tukaran",
       "url": "https://open.spotify.com/track/7fGSaDkMeRiVNb392rfKJf"

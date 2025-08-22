@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 7568,
+  "num_followers": 7585,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAABvc38ZtROY3DeH5HwBso2+",
+  "snapshot_id": "aKO+gAAAAABcOjlrzG6VQ1hk+Dg2usmw",
   "tracks": [
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Good Life (Deluxe)",
-        "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
-      },
-      "artists": [
-        {
-          "name": "Marie Dahlstrom",
-          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Nothing On You",
-      "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fall In Love [Remix] (feat. JayO & Odeal)",
         "url": "https://open.spotify.com/album/244Z5c1N9pxNszkKkNWcyQ"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 186000,
       "name": "Fall In Love [Remix] (feat. JayO & Odeal)",
       "url": "https://open.spotify.com/track/4TesJtMLVtyHb9Xk0km8bG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Good Life (Deluxe)",
+        "url": "https://open.spotify.com/album/38pvSPxx9hkoOX2syGwHHy"
+      },
+      "artists": [
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Nothing On You",
+      "url": "https://open.spotify.com/track/78D6dcrsTqWMzD1hfeunkc"
     },
     {
       "added_at": null,

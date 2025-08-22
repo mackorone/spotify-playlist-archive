@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "DeathByDevotion",
+        "url": "https://open.spotify.com/album/3GukAKxHvoWMo1lbM9csAs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196646,
+      "name": "DeathByDevotion",
+      "url": "https://open.spotify.com/track/79oIHHPKpgAWMSxGZU0lQa"
+    },
+    {
+      "album": {
         "name": "Love, Victor: Season 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/19xxnBkkYArMHavIT1c2Hr"
       },

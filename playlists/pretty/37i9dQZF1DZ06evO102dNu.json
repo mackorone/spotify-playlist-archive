@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1215683,
+  "num_followers": 1215739,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKEbgAAAAABirrZ5LUyO5g/1Yt4vfOEd",
+  "snapshot_id": "aKO+gAAAAADVG+mK1or3HDrPPe8FQRRG",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 170346,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Seventeen Number Ones",
         "url": "https://open.spotify.com/album/1HgqHVY48hdhuiacZky4nV"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 170346,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/4AdqsEH40jfERiDkzyY0Ur"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -655,6 +655,26 @@
       "duration_ms": 155440,
       "name": "Drinking Water (Aqua de Beber)",
       "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highlights From Duets",
+        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
       "duration_ms": 201866,
       "name": "Rain In My Heart",
       "url": "https://open.spotify.com/track/2JzTfNN8k3O6l42DZMj80Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highlights From Duets",
-        "url": "https://open.spotify.com/album/28DupF2KXWachQjIKZOuu9"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/6jd8s6YNkkQfVflmh4CLzx"
     },
     {
       "added_at": null,

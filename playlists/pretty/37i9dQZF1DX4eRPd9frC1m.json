@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2586437,
+  "num_followers": 2586370,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
         "name": "What U Got",
         "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 168053,
       "name": "What U Got",
       "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        }
+      ],
+      "duration_ms": 207964,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
         "name": "Gyrate (ft. Wreckno)",
         "url": "https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 176000,
       "name": "Gyrate (ft. Wreckno)",
       "url": "https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
-        "name": "LIKE ME",
-        "url": "https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        }
-      ],
-      "duration_ms": 207964,
-      "name": "LIKE ME",
-      "url": "https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
         "name": "Ground Shake",
         "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 185379,
       "name": "Ground Shake",
       "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -1239,6 +1239,30 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
         "name": "dashstar* (Yellow Claw Trap Edit)",
         "url": "https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62"
       },
@@ -1255,34 +1279,6 @@
       "duration_ms": 152776,
       "name": "dashstar* - Yellow Claw Trap Edit",
       "url": "https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
-        "name": "M.D.E",
-        "url": "https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9"
-      },
-      "artists": [
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -1311,26 +1307,30 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX"
+        "name": "M.D.E",
+        "url": "https://open.spotify.com/album/6FpaiHvj1oJNGrjNxCgFY9"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+          "name": "DJ DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
         },
         {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
         },
         {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
         }
       ],
-      "duration_ms": 181069,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
+      "duration_ms": 233142,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0hnCtTIkfYPoiTZTLqa1kf"
     },
     {
       "added_at": "2025-08-15 04:00:25",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-08-15 04:00:25",
       "album": {
-        "name": "nolimit",
-        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 164139,
-      "name": "select@",
-      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
-    },
-    {
-      "added_at": "2025-08-15 04:00:25",
-      "album": {
         "name": "Reaper (feat. JID)",
         "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
+    },
+    {
+      "added_at": "2025-08-15 04:00:25",
+      "album": {
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 164139,
+      "name": "select@",
+      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
     },
     {
       "added_at": "2025-08-15 04:00:25",

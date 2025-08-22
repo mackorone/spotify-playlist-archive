@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUP9ynkqecOL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUP9ynkqecOL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUP9ynkqecOL)
 
-### [Electro Folclore](https://open.spotify.com/playlist/37i9dQZF1DWUP9ynkqecOL)
+### [Electro Folklore](https://open.spotify.com/playlist/37i9dQZF1DWUP9ynkqecOL)
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 

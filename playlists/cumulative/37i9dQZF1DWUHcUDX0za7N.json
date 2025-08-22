@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Ice Prince, Jesse Jagz, Blaqbonez",
+  "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -454,7 +454,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Alade Ade",
       "url": "https://open.spotify.com/track/5bh0oljgOyl3rN8ErhqKvx"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 114825,
       "name": "Automoto (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/2y9fqvlVSHGAMbCEizSKaZ"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Daily 2k",
       "url": "https://open.spotify.com/track/7pXAlZ3Mxyd5V9pbfSlnxj"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 149760,
       "name": "Gentle Baby",
       "url": "https://open.spotify.com/track/2WsP9OSJYPttgj0Zptt0rk"
@@ -5698,7 +5698,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 114834,
       "name": "Ibadan",
       "url": "https://open.spotify.com/track/4DjaSwVoNBqwWMgjP9cxhY"
@@ -9447,6 +9447,32 @@
     },
     {
       "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "album": {
         "name": "Introduction",
         "url": "https://open.spotify.com/album/4qxDgfQJbQrVNLAyTNJ2ym"
       },
@@ -10112,7 +10138,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 159242,
       "name": "Reaching For My Soul",
       "url": "https://open.spotify.com/track/33A63DvS0Es8XmDv9sIMlS"
@@ -13358,7 +13384,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 116869,
       "name": "Yokozuna",
       "url": "https://open.spotify.com/track/1FK5NKZHwh7BQ5BG6IMKdA"

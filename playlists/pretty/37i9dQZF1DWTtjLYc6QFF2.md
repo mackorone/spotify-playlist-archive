@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірку створено разом із Мариною Круть.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,181 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,183 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/3KIgHHWzJMC0pc3OvQ4k5I) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
+| 1 | [Пісне моя](https://open.spotify.com/track/3zglADNq7MNEUAlJfUr710) | [Maryna Krut](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Пісне моя](https://open.spotify.com/album/0M7fq94bIIlSpyZLN8R4Os) | 3:15 |
 | 2 | [Ой, чия то рута\-м'ята](https://open.spotify.com/track/0tq6NmMDKcYPlHdCQHILjq) | [Марія Бурмака](https://open.spotify.com/artist/2UMSihTH3Z8XpCGKjjceIs) | [Марія](https://open.spotify.com/album/1YAxVHAN7k6VYjdZqp9ckb) | 1:27 |
 | 3 | [Chy Liubov](https://open.spotify.com/track/2f3XflIIHxGmm8r4MKVQzw) | [Ragapop](https://open.spotify.com/artist/37fFjb8JBrNaFa52IeY3XR) | [Do you listen to Ragapop?](https://open.spotify.com/album/6dmVIl9SzPeZy0ckMQNyf4) | 3:49 |
 | 4 | [Усі курі](https://open.spotify.com/track/1vWovVjBuWe07g6hP8hAlT) | [ЩукаРиба](https://open.spotify.com/artist/4jP7pgVdiQW9gC7JaIIuwo), [Bunht](https://open.spotify.com/artist/6mGhu53Sct3hWiKQEq8iSE), [Yevhen Puhachov](https://open.spotify.com/artist/6nbU2lRf5Rwe57FuqjbGuS), [Helldrummy](https://open.spotify.com/artist/3p3pTaOxyhvGzIC9EQ6P37) | [Веснянки](https://open.spotify.com/album/3ef4Fvv8pnjs0JKkifuwV2) | 3:59 |

@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/5fGJsFx72nAQNMHwDSzjVi"
+      },
+      "artists": [
+        {
+          "name": "Izza Gara",
+          "url": "https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234810,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/3SRWDnD7xu87pIacbfbR6K"
+    },
+    {
+      "album": {
         "name": "Feel Free",
         "url": "https://open.spotify.com/album/6xwNQOnPKZfUVeSV9A8vVf"
       },
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 182372,
       "name": "Feel Free",
       "url": "https://open.spotify.com/track/3pcnWOEq5ma8C1L3vR19Lt"
@@ -3711,6 +3729,24 @@
     },
     {
       "album": {
+        "name": "Klara",
+        "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229994,
+      "name": "Klara",
+      "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
+    },
+    {
+      "album": {
         "name": "Klyschor",
         "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
       },
@@ -4069,6 +4105,28 @@
     },
     {
       "album": {
+        "name": "Lova & Skriv",
+        "url": "https://open.spotify.com/album/70xlDLyBwwyMtKJoRe8I7T"
+      },
+      "artists": [
+        {
+          "name": "Isak Friberg",
+          "url": "https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx"
+        },
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179145,
+      "name": "Lova & Skriv",
+      "url": "https://open.spotify.com/track/5QYWte5cz4G3YZWuKYcGWH"
+    },
+    {
+      "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/4r7m1oNgT25nPU1v0GTbAP"
       },
@@ -4214,7 +4272,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 191999,
       "name": "L\u00e4ngesen",
       "url": "https://open.spotify.com/track/7BkMhRsjtKNl1O38dFz9de"
@@ -4290,6 +4348,24 @@
       "duration_ms": 159530,
       "name": "Mayflowers",
       "url": "https://open.spotify.com/track/5RaVwbwzUBO09MkQV8tcMr"
+    },
+    {
+      "album": {
+        "name": "Mellan Stockholm & Lund",
+        "url": "https://open.spotify.com/album/04iAIpyezWd5lNmP5XcuWb"
+      },
+      "artists": [
+        {
+          "name": "Vilhelm Nordvall",
+          "url": "https://open.spotify.com/artist/2RIlribpXetnuu5hrOnHwA"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146842,
+      "name": "Mellan Stockholm & Lund",
+      "url": "https://open.spotify.com/track/1RjL6HmLPSzqp70Xg4Ivpg"
     },
     {
       "album": {
@@ -6820,7 +6896,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 161780,
       "name": "Watershed",
       "url": "https://open.spotify.com/track/01Ft203H8gj8FW1ziTK0QI"
@@ -6982,7 +7058,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 139444,
       "name": "Your Fantasy",
       "url": "https://open.spotify.com/track/2ShL2rVF4EPkcIVF03JFgM"

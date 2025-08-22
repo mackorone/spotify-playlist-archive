@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: TEED",
+  "description": "New music off the beaten track. Cover: Perel",
   "name": "OFF POP",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 218000,
       "name": "A World Away",
       "url": "https://open.spotify.com/track/2cxUrTL4IMCyNzXYACq7np"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 224930,
       "name": "Acacia",
       "url": "https://open.spotify.com/track/4E6Huz0MjXJHKFE0SFPDaq"
@@ -5974,7 +5974,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 221750,
       "name": "Eisb\u00e4r",
       "url": "https://open.spotify.com/track/0bDW4VlxgJDYFrF4LAaKp2"
@@ -6571,6 +6571,24 @@
     },
     {
       "album": {
+        "name": "Freakquencies: Volume 1",
+        "url": "https://open.spotify.com/album/4gaNqy701TUFmsUtIFLfeD"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207960,
+      "name": "Exhilaration",
+      "url": "https://open.spotify.com/track/7B8MbvpzBhbhYf3xvzHbba"
+    },
+    {
+      "album": {
         "name": "Expander",
         "url": "https://open.spotify.com/album/4MaNMdGcSvFRxTp0JixzYJ"
       },
@@ -6586,6 +6604,24 @@
       "duration_ms": 251428,
       "name": "Expander",
       "url": "https://open.spotify.com/track/046ebSoM0LeJEIlXTujdDB"
+    },
+    {
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/2VsZoGmFEOd2NRPfltmrN6"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185852,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/20IpNzbtULCapFWVX2Shhb"
     },
     {
       "album": {
@@ -8480,7 +8516,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 184975,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/31VAqdyv8ihkVTpDqWM5y7"
@@ -9640,6 +9676,24 @@
       "duration_ms": 201230,
       "name": "How Music Makes You Feel Better - Edit",
       "url": "https://open.spotify.com/track/2bBuxaPbzrUGK9rnLJ5fFN"
+    },
+    {
+      "album": {
+        "name": "An Echo Of Love",
+        "url": "https://open.spotify.com/album/5PifSL06UWSULJgvI6oJNH"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256656,
+      "name": "How The Light Gets In",
+      "url": "https://open.spotify.com/track/38ggnZHcWLdzPXAFOv3wOZ"
     },
     {
       "album": {
@@ -11480,7 +11534,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 287304,
       "name": "Justify",
       "url": "https://open.spotify.com/track/0RGyUAFsnfTaiuHk8OW6eD"
@@ -14343,6 +14397,28 @@
     },
     {
       "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
+      },
+      "artists": [
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
+    },
+    {
+      "album": {
         "name": "Monsoon / Just a Feeling",
         "url": "https://open.spotify.com/album/6fP7ehQYOXlGjbuLoHTl1c"
       },
@@ -15116,6 +15192,24 @@
       "duration_ms": 271373,
       "name": "New Brain",
       "url": "https://open.spotify.com/track/3HyPErtctPXrjWMh1SuET5"
+    },
+    {
+      "album": {
+        "name": "New Earth Time",
+        "url": "https://open.spotify.com/album/7q9XglyVKCywFzOcnd1aZz"
+      },
+      "artists": [
+        {
+          "name": "Soulwax",
+          "url": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245586,
+      "name": "New Earth Time",
+      "url": "https://open.spotify.com/track/6B9FH9oGQkjAlmaBkYfVr5"
     },
     {
       "album": {
@@ -23033,6 +23127,24 @@
     },
     {
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4e1mGV35guXUGYlOYhAAzJ"
+      },
+      "artists": [
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/30swnXxdVtDdwgZBUtwvcm"
+    },
+    {
+      "album": {
         "name": "Volume",
         "url": "https://open.spotify.com/album/1XTC9tnCxGb2iMX2rdr1Pc"
       },
@@ -24026,7 +24138,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 183130,
       "name": "Who Loves You",
       "url": "https://open.spotify.com/track/0c57OvZwYt8JpvlGYVfJu6"

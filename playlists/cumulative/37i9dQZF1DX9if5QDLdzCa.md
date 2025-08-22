@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-253 songs - 12 hr 11 min
+254 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,7 +208,7 @@
 | [Surf Waves](https://open.spotify.com/track/4I0v3ymjB0p6WZ4ucIBJhN) | [Sleep Surfers](https://open.spotify.com/artist/6dGYdorCYElzdhKtFXjIDi) | [Surf Waves](https://open.spotify.com/album/7lzxfCQaK7CeYT0iVYVRsc) | 5:19 | 2021-11-10 |  |
 | [Surf's Up](https://open.spotify.com/track/3AOB0WngRiLACLYjhyyRkM) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Mystical Oceanic Voyage](https://open.spotify.com/album/4b62ECFggvhJFLiVvcOzDm) | 2:04 | 2023-06-19 |  |
 | [Talking Ocean](https://open.spotify.com/track/6zYUEZSdMQwKXXdQyXaPz4) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:30 | 2021-11-10 |  |
-| [Tenerife Sea](https://open.spotify.com/track/2DK2SiIDvOsT7T8QHAxdeo) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Tenerife Sea](https://open.spotify.com/album/1sX3CqdKWQdPWCIe2McYW7) | 3:05 | 2024-03-25 |  |
+| [Tenerife Sea](https://open.spotify.com/track/2DK2SiIDvOsT7T8QHAxdeo) | [Drakir Nature](https://open.spotify.com/artist/3bbyEDM22FIFzuaCTYFonZ) | [Tenerife Sea](https://open.spotify.com/album/1sX3CqdKWQdPWCIe2McYW7) | 3:05 | 2024-03-25 | 2025-08-22 |
 | [The Gentle Lull of Waves](https://open.spotify.com/track/32vMQwSiak8JqZunIth8gp) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [The Gentle Lull of Waves](https://open.spotify.com/album/2My0h44Y8OLx8hhN1CPqeg) | 2:09 | 2023-06-19 |  |
 | [The Ocean Is Talking](https://open.spotify.com/track/6s4SKfHInCaacxaJU4FHAk) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 2:41 | 2021-11-10 | 2025-08-01 |
 | [The Oceanic Beach Sound](https://open.spotify.com/track/5mvw769FihTs6dokvzhosR) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:53 | 2021-11-10 | 2024-03-26 |
@@ -228,6 +228,7 @@
 | [Waves After Midnight](https://open.spotify.com/track/1mDBfN62kGsLNa6qZcsFsK) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 2:40 | 2021-11-10 |  |
 | [Waves And Ocean](https://open.spotify.com/track/0704kRxzpTBD6cyw06aVxy) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:09 | 2021-11-10 |  |
 | [Waves and Sand Sizzle](https://open.spotify.com/track/5IYby2NCqCoc8hGUosxTjY) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Gentle Majestic Ocean Waves](https://open.spotify.com/album/5gffSIi6opT8ifjzrmsQZq) | 3:15 | 2025-07-21 |  |
+| [Waves and Seagulls \(at the Beach in Point Pleasant, New Jersey\)](https://open.spotify.com/track/1DaU7Tzyc1v06k0eIoGCV5) | [National Geographic](https://open.spotify.com/artist/53Kxo25r8wb7rV99m76udz) | [National Geographic: Water Sounds](https://open.spotify.com/album/5FvTpUy4QVxNs1dmTNyu6P) | 4:51 | 2025-07-21 |  |
 | [Waves Before Dawn](https://open.spotify.com/track/6GttsqaEPKPJ0JWk75Ssdy) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:30 | 2021-11-10 |  |
 | [Waves Crashing](https://open.spotify.com/track/0YuKG1kFgb6vLDiQqmBaM3) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:27 | 2021-11-10 |  |
 | [Waves Crashing At The Morning](https://open.spotify.com/track/3VKlyYs7Kn8TxuExd2mRqW) | [Mega Exotic Wave Sounds](https://open.spotify.com/artist/2tyKKR4JcKONjx7FwVvUF2) | [Waves From Around The World](https://open.spotify.com/album/2Z05lMBeRFW6YsoRsXSbbW) | 2:20 | 2022-08-03 |  |

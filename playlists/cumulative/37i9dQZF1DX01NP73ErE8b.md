@@ -2,7 +2,7 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Coez in cover
+> I brani italiani che abbiamo on repeat  🔁  Giorgia in cover
 
 346 songs - 17 hr 37 min
 

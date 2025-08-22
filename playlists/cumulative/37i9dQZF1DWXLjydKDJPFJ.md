@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLjydKDJPFJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLjydKDJPFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLjydKDJPFJ)
 
-### [Carnita Asada Estilo Norteño](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
+### [payasitx](https://open.spotify.com/playlist/37i9dQZF1DWXLjydKDJPFJ)
 
-> Compare, prenda el carbón y saque la bocina que ya se armó la carnita.
+> y mi sentimiento no lo cambiaré jamás, aunque sufra este tormento 🥺😭
 
 437 songs - 23 hr 42 min
 
@@ -144,7 +144,7 @@
 | [EN ALTAVOZ](https://open.spotify.com/track/6L2wWlVVD6R2bczNdnSqKr) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Comienzo](https://open.spotify.com/album/44ugNcdxZyGhNiW2WWil0b) | 2:46 | 2023-08-08 | 2023-09-02 |
 | [En Blindadas](https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [En Blindadas](https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY) | 3:10 | 2023-04-14 | 2023-10-14 |
 | [En Cambio No](https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [En Cambio No](https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l) | 4:04 | 2023-11-08 | 2024-10-05 |
-| [En Efecto](https://open.spotify.com/track/5P0Xi9ZFJwJEWQ1mKw7Ren) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [En Efecto](https://open.spotify.com/album/2Uc44YK6diInkr4ro3gpnX) | 3:43 | 2024-10-23 | 2024-11-15 |
+| [En Efecto](https://open.spotify.com/track/5P0Xi9ZFJwJEWQ1mKw7Ren) | [Don Zares](https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf) | [En Efecto](https://open.spotify.com/album/2Uc44YK6diInkr4ro3gpnX) | 3:43 | 2024-10-23 |  |
 | [En La Belikiada \(En Vivo\)](https://open.spotify.com/track/49ZJg5uAe3XQ8blCCl9R0z) | [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [En La Belikiada \(En Vivo\)](https://open.spotify.com/album/6Sr0CFUojCZPC5x5jyHylq) | 2:47 | 2024-07-15 | 2024-11-08 |
 | [En MI Pancita](https://open.spotify.com/track/1Ya1UL2b1s4GOHzzfyE5fv) | [Lagrimita Y Costel](https://open.spotify.com/artist/1C90Wuaxx8BGEZ6y6TySD7) | [Juntos Por Siempre](https://open.spotify.com/album/6tuXx4Fz56zPmi4GDSNNh0) | 3:25 | 2022-07-18 | 2022-11-13 |
 | [En Realidad](https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Antología, Vol\. 1](https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2) | 3:41 | 2021-12-08 | 2023-08-27 |
@@ -314,7 +314,7 @@
 | [Par De Anillos](https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei) | 3:14 | 2021-12-08 | 2023-08-09 |
 | [Para Qué Me Engaño](https://open.spotify.com/track/21iasXJSZKXlpxPJLaIdep) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [Con Ganas De Tí](https://open.spotify.com/album/5A7OXdZt9pNJbhjdelWlpr) | 3:50 | 2021-12-08 |  |
 | [Para Ti Con Amor](https://open.spotify.com/track/44m0B9VClgSwYUuxrqUwq4) | [El Plan](https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy) | [Todo Es Posible](https://open.spotify.com/album/1JvaJKr1gKMEKm9HWEsM7B) | 3:31 | 2022-07-18 | 2023-02-01 |
-| [Paz en Este Amor](https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Paz en Este Amor](https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT) | 3:22 | 2024-10-04 |  |
+| [Paz en Este Amor](https://open.spotify.com/track/6pfWjpZdU7qG2oI4Iz69jd) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Paz en Este Amor](https://open.spotify.com/album/6FNmzUbHMNXVMgMOUh5kjT) | 3:22 | 2024-10-04 | 2025-08-22 |
 | [PERLA](https://open.spotify.com/track/43KSN4b74MOJEGyp0Tf0CD) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE) | [PERLA](https://open.spotify.com/album/3IDUICe2L61aOFidmYYm3i) | 2:22 | 2024-10-04 | 2024-10-31 |
 | [Pero Esta Vez Llore](https://open.spotify.com/track/1HLVA86qyMw9DMUFc8IW1k) | [Torrente](https://open.spotify.com/artist/5ZVx6Kk09abRMkgfzh650x) | [Pero Esta Vez Llore](https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u) | 3:18 | 2024-11-15 |  |
 | [Pero Esta Vez Lloré](https://open.spotify.com/track/4heDDOn4tW5NuPqb2EMdPC) | [Grupo Roble](https://open.spotify.com/artist/2geZEw80wwqGr0T8GKJHri) | [Bailando Vaquero](https://open.spotify.com/album/2FuBSbOE48UGSd3jreVATl) | 2:34 | 2022-07-18 | 2023-02-01 |

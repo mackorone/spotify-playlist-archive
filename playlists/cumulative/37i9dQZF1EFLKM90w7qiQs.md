@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/52cKwQBHdpKHYYbrnqKJtX">GRACEY</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-62 songs - 3 hr 8 min
+65 songs - 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alone In My Room \(Gone\)](https://open.spotify.com/track/1Hoa0Hp9tTnSGaqo0r3rXh) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:35 | 2024-05-01 |  |
 | [Back to Basics \- feat\. GRACEY](https://open.spotify.com/track/43Rr38uDHvtmtvfAwGwHjj) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:32 | 2024-05-01 |  |
 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-12-21 |  |
+| [Backwards](https://open.spotify.com/track/4sUreUOAY8aJEGxqPwIWI9) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:00 | 2025-08-21 |  |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2025-01-09 | 2025-04-12 |
 | [BED HEAD](https://open.spotify.com/track/09xdIdn86V2ajBH8qrqkxw) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [LOZEAK](https://open.spotify.com/album/7EW8GOijpfI5nohP8w7dzC) | 2:12 | 2025-03-30 |  |
 | [BED HEAD](https://open.spotify.com/track/6PRahCQJDYsU4SKWiWvXQh) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [BED HEAD](https://open.spotify.com/album/2UJLclWoaA3eoYrXO7v1cp) | 2:12 | 2025-03-07 | 2025-03-31 |
@@ -22,6 +23,7 @@
 | [Care Less](https://open.spotify.com/track/2Rs0Sd7bdJaTd9QYfA11Jf) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [The Art Of Closure](https://open.spotify.com/album/1uVSiPRSZMowsV2ZbbX4NW) | 3:46 | 2024-05-01 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:35 | 2024-05-01 |  |
 | [Clouds](https://open.spotify.com/track/2S30osPVXM82F0Trgd4zbc) | [Steps](https://open.spotify.com/artist/17UkABEasVRlCcIFZ3wHb7) | [What the Future Holds](https://open.spotify.com/album/7MfKuIWBxHdGuyt8HJbdPz) | 3:55 | 2024-05-01 |  |
+| [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2025-08-21 |  |
 | [Different Things](https://open.spotify.com/track/7hwdaCeGVkqDS5eHaSh00d) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Different Things](https://open.spotify.com/album/6WZgELDxZX8dw81mijWBbs) | 3:27 | 2024-05-01 |  |
 | [Do It To Myself](https://open.spotify.com/track/2Lut3LTFWQK3SXj6BpCrgd) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [The Passion](https://open.spotify.com/album/111TDrB2azfWpNCHohiP7z) | 3:13 | 2024-05-01 |  |
 | [DO WHAT WE LIKE](https://open.spotify.com/track/4lqT9X8AYH3svpFQlEPicl) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 2:59 | 2024-05-01 |  |
@@ -62,6 +64,7 @@
 | [Romeo](https://open.spotify.com/track/3YvFXuk2IuWW32zeOTV3Q9) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Romeo](https://open.spotify.com/album/257PqwE2yKKYxbLvqIkT3Y) | 3:04 | 2025-06-29 |  |
 | [Sad Song](https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Fragile](https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG) | 3:34 | 2024-05-01 |  |
 | [SLEEP TONIGHT \(THIS IS THE LIFE\) \- with R3HAB and Sam Feldt](https://open.spotify.com/track/3pt8FTbqdnMyh3r9noAYsQ) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [SLEEP TONIGHT \(THIS IS THE LIFE\) \[with R3HAB and Sam Feldt\]](https://open.spotify.com/album/7CsXgmeC033GlMrmETGDru) | 2:16 | 2024-05-01 |  |
+| [Steep](https://open.spotify.com/track/5hgLQwotAYS52Pq9cR6rqq) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Ladybug](https://open.spotify.com/album/43ysMhPPbGWW5eXS0risKq) | 2:57 | 2025-08-21 |  |
 | [Stupid Dog](https://open.spotify.com/track/3R9xeYBlGNDYFmaNHgGamd) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 3: The Burning](https://open.spotify.com/album/4mqEv4XT01WQm45HTqgOEK) | 2:10 | 2024-05-01 |  |
 | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/track/5tVRWM3CiMhy7CY0Aohyuh) | [Mullally](https://open.spotify.com/artist/4oc6eCUAzc3EcutZmmAg5y), [Bassette](https://open.spotify.com/artist/3Ky2r5H6y4cP5o00HcCE5R) | [Sweet Coffee \(feat\. Bassette\)](https://open.spotify.com/album/6y0l9GV5EM5afqnCX5fWgq) | 3:22 | 2024-05-01 |  |
 | [Tattoo \(selective memory\)](https://open.spotify.com/track/31xaMSuU899eoPsNtaspXT) | [Ally Salort](https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw) | [Tattoo \(selective memory\)](https://open.spotify.com/album/5EulwFhILJKn6ft5jY3IYQ) | 3:20 | 2025-07-09 |  |

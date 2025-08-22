@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,204 likes - 59 songs - 4 hr 4 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,205 likes - 60 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 57 | [Taxi Driver](https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU) | [Bobby Benson & His Orchestra](https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 3:22 |
 | 58 | [Bastan Toure](https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377) | [Bajourou](https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS) | [Big String Theory](https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ) | 5:48 |
 | 59 | [Money! Money!](https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ) | [The Three Night Wizards](https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 2:46 |
+| 60 | [Porto](https://open.spotify.com/track/6mttPfa53PF6MC5Oq4GW3k) | [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Dori Caymmi \(1980\)](https://open.spotify.com/album/67U5cjkiVh0I0bTsWgPbCD) | 3:49 |
 
-Snapshot ID: `AAAM9yw8aDeAvRBg3hCktvk/o20gb5fI`
+Snapshot ID: `AAAM+KmbZtU/mlGqEbdvg46RLsGD3m63`

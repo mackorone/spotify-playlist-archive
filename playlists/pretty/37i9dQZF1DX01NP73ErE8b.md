@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Coez in cover
+> I brani italiani che abbiamo on repeat  🔁  Giorgia in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,006 likes - 65 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,041 likes - 65 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 64 | [Sesso debole](https://open.spotify.com/track/1CBFC74w4ePcv2qFQuHbea) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Sesso debole](https://open.spotify.com/album/4BYcXoyTgkXKkB9ihVznMF) | 3:15 |
 | 65 | [TORRE DI BABELE](https://open.spotify.com/track/77E6NrYw1wBVmHBiNQyoR0) | [PAOLO SANTO](https://open.spotify.com/artist/1LctKa4WaoAOdFWu19LCnT) | [TORRE DI BABELE](https://open.spotify.com/album/1du37TKZC30wcFBJ1SQYwP) | 3:02 |
 
-Snapshot ID: `AAAAAEAL1Na8nP91h4avfG6k/mFnwLAO`
+Snapshot ID: `AAAAAEFKMYMu+DK1dY68OWTrj4yde2sy`

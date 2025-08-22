@@ -670,6 +670,24 @@
     {
       "album": {
         "name": "Come Thou Fount",
+        "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
+      },
+      "artists": [
+        {
+          "name": "In the Wild",
+          "url": "https://open.spotify.com/artist/7EkC95lGft8CHbl4zk2hEi"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284545,
+      "name": "Come Thou Fount",
+      "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+    },
+    {
+      "album": {
+        "name": "Come Thou Fount",
         "url": "https://open.spotify.com/album/5J65uMoIxeivCC9bQG6oLu"
       },
       "artists": [
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 147500,
       "name": "Holy Forever - Acapella",
       "url": "https://open.spotify.com/track/0MKlcoQ8MF508sEMkHFnS2"

@@ -2,9 +2,9 @@
 
 ### [Sizzlers ](https://open.spotify.com/playlist/37i9dQZF1DWUUBD5WCN49h)
 
-> New and emerging R&B, afropop and Alternative tracks\. Cover: Nezsa
+> New and emerging R&B, afropop and Alternative tracks\. Cover: Esoterica
 
-1,356 songs - 2 day 17 hr 7 min
+1,357 songs - 2 day 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [Dance \(Tonight\)](https://open.spotify.com/track/5yWo1UbuSmOhN3kTiF3FKA) | [Teoh](https://open.spotify.com/artist/1iehM4gIdElkTDwF6auJpB) | [Seaside Sensation](https://open.spotify.com/album/3FXg6hJ2aEqW5St9gfxDxZ) | 1:53 | 2023-04-20 | 2023-05-12 |
 | [Dangerous](https://open.spotify.com/track/36jjIr25aETA1xOJ8k5yRo) | [UC Dray](https://open.spotify.com/artist/3bPlJjaqKSgvpka6JbumuP), [Lupo](https://open.spotify.com/artist/22HWq5tUvVLTUORQLxlXMf) | [Dangerous](https://open.spotify.com/album/05Xif9lULeETzUkd2cgKmW) | 2:55 | 2023-01-27 | 2023-02-04 |
 | [Day One](https://open.spotify.com/track/3YzUIlfLuv53ssSn8YCtyQ) | [F3line](https://open.spotify.com/artist/0dO41kWVCHHDVfbQTaidMQ) | [Day One](https://open.spotify.com/album/3H51Qj4Aty2rnlM7hHS0vY) | 3:11 | 2024-01-19 | 2024-03-22 |
+| [Decisions](https://open.spotify.com/track/1ILXD41qbDGbjhINQtf7CG) | [Esoterica](https://open.spotify.com/artist/4D0epRNi8OyA8rR7dEoB3y), [SGaWD](https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l) | [Decisions](https://open.spotify.com/album/0iNbsrtEsl8K0w3VwhLevu) | 2:18 | 2025-08-22 |  |
 | [Deja Vu](https://open.spotify.com/track/79df3H3WrJheCyH6b6ofYJ) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Deja Vu](https://open.spotify.com/album/2ouodKGDJpiydGV62UyCEc) | 2:49 | 2022-09-23 | 2022-10-29 |
 | [Delusion](https://open.spotify.com/track/7atJqz72vCyJyNIiRo33XO) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [Delusion](https://open.spotify.com/album/02Sbm2LatYl69bi0sWv4zc) | 2:50 | 2024-02-23 | 2024-04-12 |
 | [Delusional](https://open.spotify.com/track/3hb68nzi6kPkbRq6C8jJVU) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Delusional](https://open.spotify.com/album/4z0NrNf9fQNWmvAsXlxKYs) | 3:33 | 2025-07-11 |  |
@@ -1181,7 +1182,7 @@
 | [Temptation](https://open.spotify.com/track/3fQNGqh3o9uPfzHyJmFaSs) | [Nnashe](https://open.spotify.com/artist/5o0lTomGzanpzoNLZg7mDu) | [Temptation](https://open.spotify.com/album/23cOEXHFZ7zDqZBd9fRSyY) | 2:22 | 2024-05-24 | 2024-06-15 |
 | [Temptation \(Crazy\)](https://open.spotify.com/track/17dakSfRLaNL4T8GbqakLi) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd), [Lyandra](https://open.spotify.com/artist/5QD1WYJJuEmR4i1zjYeEq2) | [Aphropop Vol.2](https://open.spotify.com/album/6B62GpntVq9fI3EXBd9byX) | 2:36 | 2023-12-01 | 2024-02-23 |
 | [Tension](https://open.spotify.com/track/3tZsUsu3PZ1V48hpApVOFF) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Fed Up / Tension](https://open.spotify.com/album/12l63NT7yZ7bFf0mRJ9Y0l) | 2:36 | 2024-01-26 | 2024-04-26 |
-| [Tentación](https://open.spotify.com/track/7r4ZEPFSqTLHYR8u2Pt4jp) | [Khoblac](https://open.spotify.com/artist/46hqy6JQsfGyXwkosm96BB) | [Tentación](https://open.spotify.com/album/41DUSb3wPJvXFuZA6eJCAc) | 2:32 | 2025-07-18 |  |
+| [Tentación](https://open.spotify.com/track/7r4ZEPFSqTLHYR8u2Pt4jp) | [Khoblac](https://open.spotify.com/artist/46hqy6JQsfGyXwkosm96BB) | [Tentación](https://open.spotify.com/album/41DUSb3wPJvXFuZA6eJCAc) | 2:32 | 2025-07-18 | 2025-08-22 |
 | [tethered](https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [tethered](https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA) | 3:45 | 2024-10-18 | 2024-12-06 |
 | [Than All \[2\]](https://open.spotify.com/track/1IGOYnjQk8I8QRTCKLB93v) | [wordsofAzia](https://open.spotify.com/artist/663EtY2EOQrh6XYQGYIdK7), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5) | [Than All \[2\]](https://open.spotify.com/album/3aLRoGblO2UEE6P3GsTHGj) | 2:21 | 2025-05-30 |  |
 | [That way](https://open.spotify.com/track/0weB2KJ3GZV1hCdbwwf8pG) | [Garey Godson](https://open.spotify.com/artist/1aUSlNPvVz5IYg9sSsEDPK) | [Better Late Than Never](https://open.spotify.com/album/2kFLcTWysSGUh0U6swlVov) | 2:12 | 2024-10-25 | 2024-11-22 |

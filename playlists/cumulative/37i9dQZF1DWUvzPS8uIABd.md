@@ -2,9 +2,9 @@
 
 ### [\#vainsuomihitit](https://open.spotify.com/playlist/37i9dQZF1DWUvzPS8uIABd)
 
-> Tämän hetken kovimmat suomihitit\. Kannessa Sara Siipola.
+> Tämän hetken kovimmat suomihitit\. Kannessa Pihlaja.
 
-667 songs - 1 day 9 hr 14 min
+671 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Banksy](https://open.spotify.com/track/18fmER5eYZc0onTxcI9tnJ) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Banksy](https://open.spotify.com/album/6uzeJCuFMAL2Wi27yaPaMx) | 2:37 | 2024-09-12 | 2024-10-18 |
 | [Bara Bada Bastu](https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Bara Bada Bastu](https://open.spotify.com/album/2zjk45mVWiAZILHTUmR0ON) | 2:46 | 2025-02-25 | 2025-06-06 |
 | [BIG BIG ENERGY](https://open.spotify.com/track/4EPLZzsYQkBV9pGjnLDZRH) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [BIG BIG ENERGY](https://open.spotify.com/album/4pYBA67frO616S6DunBlRu) | 2:59 | 2024-11-14 | 2024-11-29 |
+| [BMW](https://open.spotify.com/track/0Oqr9x0w5JSx74G307XWFV) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [BMW](https://open.spotify.com/album/2LhZbv4JOmaFrVKyf7nXh3) | 2:58 | 2025-08-21 |  |
 | [bändipaita](https://open.spotify.com/track/6OKQ4Zca1qPutoAP70WDJY) | [kia](https://open.spotify.com/artist/5QZXagvKfzU8FznFvIQEOW) | [bändipaita](https://open.spotify.com/album/59qcRtqY5mkcUdlPqqGBAC) | 2:46 | 2025-01-26 | 2025-04-04 |
 | [Caliente](https://open.spotify.com/track/2FgI1KMgGEpuZlqVLQSWfk) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Caliente](https://open.spotify.com/album/1z209B6YRUcVRRz94ogicP) | 2:31 | 2024-08-09 | 2024-10-11 |
 | [Casablanca](https://open.spotify.com/track/0qMV9XmjaGbS9Zt7s7gSrF) | [Adi L Hasla](https://open.spotify.com/artist/2Hnqmn6bAxVSYf70M2aSkk) | [Casablanca](https://open.spotify.com/album/5Jwoq0Q7YUStEiFlHZhtrA) | 2:57 | 2024-09-19 | 2024-10-18 |
@@ -321,6 +322,7 @@
 | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/track/6jL8913OKAhtrefgueIRHR) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Me Vs\. Maailma \(feat\. Sexmane\)](https://open.spotify.com/album/09A9MT3hwFHGjoWrG3efxa) | 2:28 | 2024-07-25 | 2024-10-18 |
 | [Mee jo](https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Mee jo](https://open.spotify.com/album/4hxJUh15L25r80zETNkFdZ) | 3:22 | 2024-11-28 | 2025-01-03 |
 | [Mee nyt vaan pois \(Vain elämää kausi 15\)](https://open.spotify.com/track/0pYouFfXYP1lnpSbfiyL2I) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Mee nyt vaan pois \(Vain elämää kausi 15\)](https://open.spotify.com/album/49II5LkqHydwHwVPTxZ97T) | 3:30 | 2024-11-07 | 2024-11-15 |
+| [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR) | 3:08 | 2025-08-21 |  |
 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 | 2025-01-02 | 2025-01-31 |
 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/728CCaVme0Ppv8zrG9caYE) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:45 | 2025-01-30 | 2025-04-25 |
 | [Menneisyys](https://open.spotify.com/track/1bsOGitVlRlz2T1deVPXcY) | [El Migu](https://open.spotify.com/artist/52e3RF8S2V0QuVf3X1MNGq) | [Menneisyys](https://open.spotify.com/album/29IATF11KR4niQR5ceedGg) | 2:31 | 2024-11-14 | 2025-01-03 |
@@ -493,6 +495,7 @@
 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 | 2024-10-17 | 2025-04-25 |
 | [Satama](https://open.spotify.com/track/1osPz2rgtdywUR6ut6eIMU) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Satama](https://open.spotify.com/album/1w9whtxDsbfopzVe6hlWjS) | 2:40 | 2024-07-25 | 2024-11-29 |
 | [Satamiljoonaa puutarhaa](https://open.spotify.com/track/39x6zXiaXKfwJSJpR4FbL8) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H) | [Satamiljoonaa puutarhaa](https://open.spotify.com/album/4tylfswbdsNVbacXVqy7md) | 3:10 | 2024-09-12 | 2024-10-04 |
+| [Satasen laina 2025](https://open.spotify.com/track/0xk8CcVPsvMhzNps6ZI9LP) | [Victor Nordis](https://open.spotify.com/artist/1DAgitxRlJMroOghdSraJp), [Nylon Beat](https://open.spotify.com/artist/3NI6ZOWTladyQrPqx5I02g) | [Satasen laina 2025](https://open.spotify.com/album/17Y44gf7X0JT6TJwE3FcP0) | 2:16 | 2025-08-21 |  |
 | [Sateenkaaret on pyöreitä](https://open.spotify.com/track/3muAyFD0nIA5Y3APoSzfCB) | [Pikku G](https://open.spotify.com/artist/52k2KcEXIZTnYD2EpOoJiZ) | [Sateenkaaret on pyöreitä](https://open.spotify.com/album/2DyBHjFwYR2vkUsLltXZpA) | 2:57 | 2025-02-27 | 2025-05-02 |
 | [Sattuu jos sattuu](https://open.spotify.com/track/7HmxW2TPFTLQGG0dUyVOGQ) | [emma](https://open.spotify.com/artist/7GQQEma0Ay9omE9JJr87KQ) | [Sattuu jos sattuu](https://open.spotify.com/album/1yOxVBtoABmOIuGDQ0uUlr) | 2:25 | 2024-10-10 | 2025-01-03 |
 | [SATUMAA](https://open.spotify.com/track/7mE8yO4bUH2IEs4ouymhJo) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [SATUMAA](https://open.spotify.com/album/1gT3QlpGc5WGm9DyshekAS) | 2:52 | 2025-06-05 | 2025-06-27 |
@@ -590,6 +593,7 @@
 | [Tytöt](https://open.spotify.com/track/16kh2kaN94cbWKVfAsUb6o) | [Tuure Boelius](https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To) | [Tytöt](https://open.spotify.com/album/6jq1P6ywJ0zrLpOCsYE2Nk) | 2:16 | 2024-09-12 | 2024-10-11 |
 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 | 2025-05-08 | 2025-07-04 |
 | [Työmyyrä](https://open.spotify.com/track/00uAMYwz6MZ0g2o4AeFTgw) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Työmyyrä](https://open.spotify.com/album/5keKt31j7rsVu02oLSbTrS) | 2:53 | 2024-07-04 | 2024-07-19 |
+| [Tähdet](https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tähdet](https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q) | 3:15 | 2025-08-21 |  |
 | [Tämän kesän viheltelen](https://open.spotify.com/track/4pPImvY6UT7E0R1kozRkM7) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Tämän kesän viheltelen](https://open.spotify.com/album/1upsapQ1u3t0K2VVhpjb4l) | 3:08 | 2025-06-12 |  |
 | [Tän Kesän Biisi](https://open.spotify.com/track/5TCsaqk5srX3X3nNRn8WLV) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Tän Kesän Biisi](https://open.spotify.com/album/0xIccCHDqC26jmvqvO1zTv) | 3:44 | 2025-05-08 | 2025-05-23 |
 | [Tänä yön](https://open.spotify.com/track/2XxF52QQrTVBj7WI92mPrc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Tänä yön](https://open.spotify.com/album/4buYgQelnBcFrmkar87mt7) | 2:51 | 2024-07-02 | 2024-08-16 |

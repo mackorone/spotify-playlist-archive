@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Michael C
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  宇宙幽靈 Uchu Yurei
 
-1,497 songs - 3 day 12 hr 24 min
+1,500 songs - 3 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,6 +602,7 @@
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2023-02-09 | 2023-07-14 |
 | [new year old me](https://open.spotify.com/track/0Tx5fu5HMlym62wuhO2y5b) | [risy](https://open.spotify.com/artist/4MA9eWK70D4JdQmLpRDw2r), [Owl Nest](https://open.spotify.com/artist/0hJnE5xLIGnHQRqIoVqYrN) | [new year old me](https://open.spotify.com/album/5YTzaSyxDTJOmS1HFqVMiw) | 3:02 | 2024-01-18 | 2024-05-10 |
 | [New York Nothings](https://open.spotify.com/track/6jwgTMRtWJ7j11PZmRLtNT) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [New York Nothings](https://open.spotify.com/album/3hEB4clPNDGrEtGDQ72zL6) | 2:50 | 2023-09-21 | 2023-12-01 |
+| [Night Shift](https://open.spotify.com/track/5LlHHz3ppApsZxLsBfROts) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [Night Shift](https://open.spotify.com/album/3Kqz6ttEeu6UIf9DpKTvWz) | 3:19 | 2025-08-21 |  |
 | [no expectation](https://open.spotify.com/track/6lm8oHO5OST27oU1UDBSMk) | [Dizparity](https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce), [SOPHY](https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq) | [no expectation](https://open.spotify.com/album/00HmmKxUfcIIk6aQL5i07S) | 4:06 | 2025-04-24 |  |
 | [NO LOVE](https://open.spotify.com/track/3ykUZHaEBW9MlzxxyBaRr6) | [Kowkaine](https://open.spotify.com/artist/4cn7Gg5A2nDjuViTBNN8Nf) | [NO LOVE](https://open.spotify.com/album/5PcQDtpyXqDt36iY2i6QBN) | 3:01 | 2023-10-19 | 2024-01-05 |
 | [no matter](https://open.spotify.com/track/65BXpzBSDW8I028QOZApew) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [no matter](https://open.spotify.com/album/4LTyKPEQ1jWzWlAI4KQU4O) | 2:41 | 2023-11-02 | 2024-01-05 |
@@ -732,6 +733,7 @@
 | [Rules](https://open.spotify.com/track/2emPIwDnKVX0WSKfwacbnM) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Gemini Moon](https://open.spotify.com/album/4MmfPccObteJ4bAhnMtcA6) | 2:46 | 2023-05-25 | 2023-09-01 |
 | [RUN](https://open.spotify.com/track/4fIOOhK1Nu2VsltjMef1U4) | [Lok Chow](https://open.spotify.com/artist/4QQ4Au2vMm6e0QxoPhjhHg), [Jacky Fcy](https://open.spotify.com/artist/2Zfhyxqj6j0MYbX8Tmjelw) | [RUN](https://open.spotify.com/album/41V3xE0TjvtWBAMfW1VLoP) | 2:56 | 2023-04-13 | 2023-07-14 |
 | [S.H.I.T](https://open.spotify.com/track/0CtiGcW3OyABsFA7jmryFM) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [S.H.I.T](https://open.spotify.com/album/27pguvAfmV3j5kDAc07XqU) | 2:22 | 2022-05-26 | 2022-07-29 |
+| [S13](https://open.spotify.com/track/0wglIXDfqS6TOZZLxKDgpp) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [S13](https://open.spotify.com/album/6raLwY2BhDXSwNksc5KVRr) | 6:55 | 2025-08-21 |  |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-05-26 | 2022-07-29 |
 | [Sailor Boy](https://open.spotify.com/track/7ewmQnGCpYG6VvDMzVxmLk) | [Orange Leung](https://open.spotify.com/artist/072b9AYGZXFRwlwHUmXYrl), [YK](https://open.spotify.com/artist/23ysObqvDVv5XOqHBPnNwk) | [Sailor Boy](https://open.spotify.com/album/1FlhR8ta0DUoBTiXLRyhrn) | 4:44 | 2022-10-06 | 2023-02-03 |
 | [Samba Love](https://open.spotify.com/track/1hcEue7ZkwNYa7FohZQ8uC) | [Science Noodles](https://open.spotify.com/artist/4cqVlLy4QV2KwAojyE7KHR) | [Pacific](https://open.spotify.com/album/0aXxE3f2pCjvN1A6vEXMqT) | 3:44 | 2025-03-20 | 2025-07-11 |
@@ -1328,6 +1330,7 @@
 | [沒遺憾放任](https://open.spotify.com/track/2SWcfQhQjXiOBOjMvtvI4x) | [Cozy Syndrome](https://open.spotify.com/artist/5374pc3pYAYSRIjbO5rubV) | [沒遺憾放任](https://open.spotify.com/album/0kJMO4VITpQiRg1pSzXX6h) | 4:11 | 2022-08-11 | 2022-11-04 |
 | [沒關係 it’s okay!!](https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [沒關係 it’s okay!!](https://open.spotify.com/album/5w3yXSuQASET0SIpfmH43X) | 3:11 | 2022-09-08 | 2022-11-04 |
 | [泡影](https://open.spotify.com/track/1874TiUZ9SPZui9IjDHVaw) | [夢遊人](https://open.spotify.com/artist/12MTanUoQz92jARYxLoMNj) | [泡影](https://open.spotify.com/album/0Fgnq7J3go6U9eKOF46WG1) | 4:12 | 2022-09-22 | 2023-01-06 |
+| [泡泡](https://open.spotify.com/track/62jKOVsfvmwVrUyjOSMG2a) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [泡泡](https://open.spotify.com/album/5P3f57OO6GGxs4U5j5O2fP) | 4:04 | 2025-08-21 |  |
 | [波爾多的單行詩](https://open.spotify.com/track/5PAM64YTBsTdDchKxo5yck) | [iii](https://open.spotify.com/artist/3pQeUO1dZJCsibkawRfUYT) | [自然 i\-ness](https://open.spotify.com/album/3BYVpPH8dcsULPbVGuuTK9) | 3:01 | 2024-11-14 | 2025-03-14 |
 | [洪流蝴蝶](https://open.spotify.com/track/6bqXklAxAEl0Q5zMxaPDy1) | [FIESTER](https://open.spotify.com/artist/2XFADx63n5mL7ZNnUwX8Aj) | [洪流蝴蝶](https://open.spotify.com/album/1toBD8ZvYyMiJcrSUiNeT7) | 3:54 | 2022-12-29 | 2023-03-18 |
 | [派對以後](https://open.spotify.com/track/6XoGlZs2PxGOJz6FY7c3ec) | [Turbulent](https://open.spotify.com/artist/4NUrtCsICKhqsqJxNKGaCK) | [派對以後](https://open.spotify.com/album/1UtUCaK8N8iTX4koVLSlDv) | 3:49 | 2025-02-14 | 2025-05-30 |

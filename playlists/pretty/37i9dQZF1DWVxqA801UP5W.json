@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 469447,
+  "num_followers": 469472,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,26 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
+        "name": "I'm Not Alone (MPH Remix)",
+        "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "I'm Not Alone - MPH Remix",
+      "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
         "name": "Bad Dreams (HUGEL Remix)",
         "url": "https://open.spotify.com/album/0ssTX65vCg6WGt6NsGHzZd"
       },
@@ -339,22 +359,22 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "I'm Not Alone (MPH Remix)",
-        "url": "https://open.spotify.com/album/17Ig8wh18XZqSjxfzyXCW5"
+        "name": "Walking On A Dream (BLOND:ISH Remix)",
+        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         },
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 213333,
-      "name": "I'm Not Alone - MPH Remix",
-      "url": "https://open.spotify.com/track/1z6pTKnrEpokcfwked9cNx"
+      "duration_ms": 191849,
+      "name": "Walking On A Dream - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -379,26 +399,6 @@
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
-        "name": "Walking On A Dream (BLOND:ISH Remix)",
-        "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 191849,
-      "name": "Walking On A Dream - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Wait So Long (RE\\MIND Remix)",
-        "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "RE\\MIND",
-          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
-        }
-      ],
-      "duration_ms": 289959,
-      "name": "Wait So Long - RE\\MIND Remix",
-      "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "Sports car (remixes)",
         "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 150000,
       "name": "Sports car - TELYKAST Remix",
       "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Wait So Long (RE\\MIND Remix)",
+        "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "RE\\MIND",
+          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
+        }
+      ],
+      "duration_ms": 289959,
+      "name": "Wait So Long - RE\\MIND Remix",
+      "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -843,6 +843,26 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
+        "name": "Revolving door (remixes)",
+        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 171304,
+      "name": "Revolving door - Lavern remix",
+      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello & Cardi B) [Cheat Codes Remix]",
         "url": "https://open.spotify.com/album/3BjxjIkTZKUpeZ6n5MYMNx"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 195924,
       "name": "South of the Border (feat. Camila Cabello & Cardi B) - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/19TOAlTFq0NDHvUPQR0tkr"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
-        "name": "Revolving door (remixes)",
-        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 171304,
-      "name": "Revolving door - Lavern remix",
-      "url": "https://open.spotify.com/track/6AiZxO930ZHxwyYjigyCgc"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -951,26 +951,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Lavender Haze (Remixes)",
-        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        }
-      ],
-      "duration_ms": 187510,
-      "name": "Lavender Haze - Snakehips Remix",
-      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "It's ok I'm ok (remixes)",
         "url": "https://open.spotify.com/album/3XaVpz5yxOIkha03FETXPQ"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 166125,
       "name": "It's ok I'm ok - Ian Asher remix",
       "url": "https://open.spotify.com/track/6GAvlyyIZM9uvNa5VPSFMK"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Lavender Haze (Remixes)",
+        "url": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 187510,
+      "name": "Lavender Haze - Snakehips Remix",
+      "url": "https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL"
     },
     {
       "added_at": "2025-08-11 13:08:34",
@@ -1047,22 +1047,22 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Too Much (Ely Oaks Remix)",
-        "url": "https://open.spotify.com/album/6r4SN9q8F3E2dLP3UUsHaq"
+        "name": "exes (Regard Remix)",
+        "url": "https://open.spotify.com/album/1U663EH8lg9Z0Jxk1hSWh9"
       },
       "artists": [
         {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
         }
       ],
-      "duration_ms": 141323,
-      "name": "Too Much - Ely Oaks Remix",
-      "url": "https://open.spotify.com/track/09FAqeIjjeAWqo3nuazGZu"
+      "duration_ms": 182508,
+      "name": "exes - Regard Remix",
+      "url": "https://open.spotify.com/track/4NXziaKXuKQAuuJ1Sjk5yA"
     }
   ],
   "unique_name": "Massive Pop Remixes",

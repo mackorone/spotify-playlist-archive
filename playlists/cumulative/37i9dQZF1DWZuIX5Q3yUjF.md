@@ -4,7 +4,7 @@
 
 > Shablo in cover della playlist dell'R&B italiano 🫀
 
-867 songs - 1 day 18 hr 50 min
+869 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [bye](https://open.spotify.com/track/73vaEVHisIS9lPpMWRH5HF) | [The 24 Project](https://open.spotify.com/artist/6ASG7r5gSsBTNJcXtsUOft), [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C) | [bye](https://open.spotify.com/album/3daw0XQDmosXPgbeUIQMh2) | 2:47 | 2023-01-19 | 2023-03-10 |
 | [C'AMMISCAMM ANCORA](https://open.spotify.com/track/4li77JVuCpb2Ggp2m6GBKK) | [VISCARDI](https://open.spotify.com/artist/22dHXO4PwHpTyzfsVCWKlX), [Giada De Prisco](https://open.spotify.com/artist/4FnGClu85ET5xFRwfvePxI) | [C'AMMISCAMM ANCORA](https://open.spotify.com/album/2LjYdhVS7Ho0e2kxb3hQmW) | 2:22 | 2024-09-12 | 2025-01-10 |
 | [C'est La Vie](https://open.spotify.com/track/1Unwmq4hYPKCgoOSHSmc8S) | [KIM](https://open.spotify.com/artist/3AMuZJ85HywqN42C3Mc2LL) | [C'est La Vie](https://open.spotify.com/album/76wXnnoIAnR40YQH88e3rR) | 1:30 | 2022-08-05 | 2022-10-14 |
+| [c'est tout moi](https://open.spotify.com/track/7MLoLdp9dBLCWbzfcx3QTY) | [Big Dave](https://open.spotify.com/artist/7mJ5wRuabjjgBefTAQ1mST), [Giordano Dan](https://open.spotify.com/artist/63Gyhf9hKGOAp5HhEqhyqk) | [c'est tout moi](https://open.spotify.com/album/2PMPuBvxFKncVy2AHp00qh) | 3:01 | 2025-08-21 |  |
 | [C'è Silenzio](https://open.spotify.com/track/599dEwtqHsZEQX8uSjbjJR) | [Benedetta Scandale](https://open.spotify.com/artist/4vsyJNcjfl5HPKbQziOBTh), [Maenellavita](https://open.spotify.com/artist/3hsH2bGuVxFwFwHRm2EtjH) | [Resta](https://open.spotify.com/album/3mesPGOUO7DZfhpWeuadbD) | 3:10 | 2025-01-23 | 2025-05-23 |
 | [Caffè](https://open.spotify.com/track/5uxfD54NLzsy1AP4ulHEzJ) | [gheb.](https://open.spotify.com/artist/3wv8iLsyRJdqSHBuEURVg6) | [Coffee Break](https://open.spotify.com/album/4BiH3apnfeox0bwYYSSwNA) | 3:25 | 2022-05-05 | 2022-05-27 |
 | [caffè](https://open.spotify.com/track/6iInfKrLxmpg9t801MuBA0) | [Ilaria Kappler](https://open.spotify.com/artist/03s1E1AnbOI5jsZ8CywUBh) | [caffè](https://open.spotify.com/album/0v1CiCpL59gIHeWo1148TH) | 2:32 | 2025-05-29 | 2025-07-04 |
@@ -473,6 +474,7 @@
 | [Mentre Tutto Fa Casino](https://open.spotify.com/track/2sJ2MDcWWRd4EMBlzxJ6d7) | [SÒL](https://open.spotify.com/artist/5AXAT5nSUpOhJpqrTuyg6O), [Controsenso](https://open.spotify.com/artist/64to9UcF0Zup754WTlevHt) | [Mentre Tutto Fa Casino](https://open.spotify.com/album/2P359QH2aIxOytt0FsRPSS) | 1:37 | 2025-07-10 |  |
 | [Meraviglioso](https://open.spotify.com/track/1jkRoA2wGzgOlzjAaGpXV6) | [MOLTObELLO](https://open.spotify.com/artist/0y6ssu4rdIqbyP0ipQq40Q) | [Meraviglioso](https://open.spotify.com/album/705PmwstoLNz8Euf23n7wo) | 2:37 | 2023-09-22 | 2024-01-19 |
 | [Mercurio](https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Mercurio](https://open.spotify.com/album/5GeDTicAnATrr6MpgBRwCI) | 2:35 | 2022-09-29 | 2022-12-02 |
+| [Metal Baby](https://open.spotify.com/track/3GY3L48tzZBLriijHdsFKh) | [Lisa Laner](https://open.spotify.com/artist/2Modg36iLszUzX5r1DjMlz) | [Metal Baby](https://open.spotify.com/album/5nbPTQ637U2b2G6c6jF2Tk) | 2:33 | 2025-08-21 |  |
 | [METEORE Ⳣ \(con Gemitaiz, Izi, centomilacarie\)](https://open.spotify.com/track/6gkj8ArfOiHKNHhQkzYv0Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:19 | 2024-04-04 | 2024-04-16 |
 | [mezzanotte A24](https://open.spotify.com/track/2wuvprsp3TSM3XE7r4R4Hk) | [Francesco Kairos](https://open.spotify.com/artist/3QBDBs8DuZaSAt9qj3b53M) | [mezzanotte A24](https://open.spotify.com/album/15KU98GmjEJqzaMkuCqxsd) | 3:02 | 2024-04-15 | 2024-09-27 |
 | [Mezzo Amore](https://open.spotify.com/track/12IBHgQmBdIv0fXREEeURt) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Mezzo Amore](https://open.spotify.com/album/0rGuKHjubf9cso6vJTOzc5) | 2:26 | 2024-04-04 | 2024-12-13 |

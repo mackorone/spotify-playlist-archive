@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-356 songs - 17 hr 47 min
+357 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 | 2024-10-22 |  |
 | [Ador, Ador](https://open.spotify.com/track/78uLUCLW30aWAgfjKx5XXF) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Ador, Ador](https://open.spotify.com/album/2bFTwcjDC2cSAhgfkUV45K) | 2:30 | 2024-07-01 | 2025-06-04 |
 | [Aer](https://open.spotify.com/track/2A9p4yIFJ3jHmqNZ0GSPh6) | [ADI](https://open.spotify.com/artist/5oB7CsrcdCnwwcHcMHlTjo), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Aer](https://open.spotify.com/album/3uMCrLbQ09OfbwQReNItOU) | 2:58 | 2025-05-12 | 2025-06-10 |
-| [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 | 2025-03-03 |  |
+| [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 | 2025-03-03 | 2025-08-22 |
 | [Africa](https://open.spotify.com/track/0MrBR6EVORoHjexRl6OJRP) | [Gya](https://open.spotify.com/artist/17JCMZusNXS0iOLaForWrm) | [Africa](https://open.spotify.com/album/0bkQHkezQPiBWDJRdB7Tys) | 2:25 | 2024-10-22 | 2025-07-20 |
 | [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 | 2025-02-03 |  |
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2024-07-01 | 2024-07-30 |
@@ -73,6 +73,7 @@
 | [Ce mi\-ai facut](https://open.spotify.com/track/48hftUWs29fjHgnM37Eg7F) | [Phelipe](https://open.spotify.com/artist/73ro3WhWIoLBffzK6m7KqY) | [Ce mi\-ai facut](https://open.spotify.com/album/1IB7NtKdLSp4tVdLMAggmt) | 3:12 | 2025-01-27 | 2025-02-18 |
 | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/track/7cq7xzEWmWWXy2okyYcZmX) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Cel mai fericit de pe pǎmânt](https://open.spotify.com/album/43nr0Uq55xpAKnKceuwocs) | 3:10 | 2025-04-14 |  |
 | [Centura Roșie](https://open.spotify.com/track/4OgdylluWaWNDvrxqHykkB) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Centura Roșie](https://open.spotify.com/album/395C3jKyfACtCrna9l87uN) | 2:00 | 2024-08-05 | 2024-08-21 |
+| [Ciao Bambolina](https://open.spotify.com/track/67EGqwz0zHHbMRvRWAUctt) | [Dragos Andrew](https://open.spotify.com/artist/63Okb1szUCYxv5IY7T3re4) | [Ciao Bambolina](https://open.spotify.com/album/3rU8AnqW3sF3mRc3QIALAU) | 2:54 | 2025-08-21 |  |
 | [Cine N\-a Gresit Vreodata](https://open.spotify.com/track/7Lt9GmQADKBkE5ch07n8fY) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Cine N\-a Gresit Vreodata](https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh) | 3:18 | 2024-11-11 | 2025-06-10 |
 | [Cine, cine](https://open.spotify.com/track/6paw0zreuIzEn8CmhPGwct) | [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Cine, cine](https://open.spotify.com/album/5xTwLaYlDYZFxqWTFeOLV9) | 2:53 | 2025-03-10 | 2025-04-08 |
 | [Ciocolata](https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66) | [Ciocolata](https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4) | 2:49 | 2024-07-01 | 2024-07-15 |

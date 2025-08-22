@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-253 songs - 16 hr 32 min
+254 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 | 2021-10-13 |  |
 | [Indigo](https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [The Eternal Rocks Beneath](https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS) | 4:14 | 2022-02-25 | 2024-04-19 |
 | [Indigo](https://open.spotify.com/track/5lrhQBbSjwKolAVGvl2MQS) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [Indigo](https://open.spotify.com/album/4gjnVj1b9IpYMayBwuYxZE) | 4:14 | 2021-10-13 | 2022-07-29 |
-| [IOU](https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [IOU](https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF) | 4:03 | 2021-10-13 |  |
+| [IOU](https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [IOU](https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF) | 4:03 | 2021-10-13 | 2025-08-22 |
 | [Juvenescence](https://open.spotify.com/track/3AKAFRzGRwrMMZ8g9VEcAJ) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/0Qz0FCP2OvKtx4WG21PVrJ) | 3:50 | 2022-02-25 | 2023-04-30 |
 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 | 2022-02-25 | 2024-04-19 |
 | [Juvenescence](https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w) | 3:50 | 2022-02-25 | 2022-07-29 |
@@ -245,6 +245,7 @@
 | [Walk Through Fire](https://open.spotify.com/track/3IvY3M6RYfVWTquUxrBudU) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire \(Deluxe Edition\)](https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL) | 3:47 | 2021-10-13 |  |
 | [Warped Window](https://open.spotify.com/track/19cLwp9WS5E4CTYxcM7Wi1) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/74nVJp60GIsz0j7QTQymWB) | 4:55 | 2021-10-13 | 2022-07-29 |
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2022-02-25 | 2024-04-19 |
+| [Wasting Time](https://open.spotify.com/track/6CH6svDcGetJRvWvwtFSSY) | [The Wealthy West](https://open.spotify.com/artist/6N3gzUvk7cqgIKFbmEFTgH) | [The Right Regrets](https://open.spotify.com/album/4wLiwMjI5cFYLDSLJkG1Hv) | 4:26 | 2024-11-15 |  |
 | [Watch Fire \(feat\. Sufjan Stevens\)](https://open.spotify.com/track/3zpF0SCzigrNp1Dv4lxYqC) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [The Lookout](https://open.spotify.com/album/1smxZw0GMboL6blOJcleGW) | 2:36 | 2021-10-13 | 2022-07-26 |
 | [Watch Fire \(feat\. Sufjan Stevens\)](https://open.spotify.com/track/5qBIE0fTOJshddCJfLzzYh) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [The Lookout](https://open.spotify.com/album/6zxxQJ1GyzHqosrD6HsqwG) | 2:36 | 2022-02-25 | 2023-04-29 |
 | [What Then Cried Jo Soap](https://open.spotify.com/track/2mJmHq00bqo5hpsF5sEB4K) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | ["WHAT THEN?"](https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu) | 4:05 | 2021-10-15 | 2022-07-25 |

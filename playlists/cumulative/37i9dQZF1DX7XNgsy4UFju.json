@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: The Beaches",
+  "description": "The best indie tracks of the moment. Cover: Mac Demarco",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 169533,
       "name": "(I Can See) The Future",
       "url": "https://open.spotify.com/track/6UtFvxMcluX6vG4q35JwmV"
@@ -2841,6 +2841,24 @@
     },
     {
       "album": {
+        "name": "The Passionate Ones",
+        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "Automatic Love",
+      "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
+    },
+    {
+      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/2w3rgPGdANyLaRSbGIZD13"
       },
@@ -3133,6 +3151,24 @@
     },
     {
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
+    },
+    {
+      "album": {
         "name": "Backup Plan",
         "url": "https://open.spotify.com/album/6T5Jk1r8taeRILPDDoIqFz"
       },
@@ -3400,7 +3436,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 180241,
       "name": "Bannatyne",
       "url": "https://open.spotify.com/track/0wvMI6uOWds4seTBd0G7rt"
@@ -3656,6 +3692,28 @@
       "duration_ms": 222413,
       "name": "Beetlebugs",
       "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
+    },
+    {
+      "album": {
+        "name": "Behave !",
+        "url": "https://open.spotify.com/album/5Dv5eZIrl68gk1fzozZDds"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163221,
+      "name": "Behave !",
+      "url": "https://open.spotify.com/track/0V5JH4ELW3bvWnpmbwZ0Zs"
     },
     {
       "album": {
@@ -4204,6 +4262,24 @@
       "duration_ms": 202546,
       "name": "Birthmark",
       "url": "https://open.spotify.com/track/0WBkEWQ7evLCkPRLehTJeY"
+    },
+    {
+      "album": {
+        "name": "Bitter Everyday",
+        "url": "https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Bitter Everyday",
+      "url": "https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg"
     },
     {
       "album": {
@@ -4756,7 +4832,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 153945,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW"
@@ -6280,7 +6356,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 201335,
       "name": "Carve Me Out",
       "url": "https://open.spotify.com/track/6WJsMNtoeyWQohYnCCMdcq"
@@ -6464,6 +6540,24 @@
       "duration_ms": 191164,
       "name": "CD Wallet",
       "url": "https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH"
+    },
+    {
+      "album": {
+        "name": "CD-R (unerthed)",
+        "url": "https://open.spotify.com/album/6LNZOeVIL4P3wPrXrZdrHm"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "CD-R (unerthed)",
+      "url": "https://open.spotify.com/track/198XF5XB1Jd8fEUDkmlOI6"
     },
     {
       "album": {
@@ -8038,7 +8132,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 263537,
       "name": "Cowbella",
       "url": "https://open.spotify.com/track/4yiQrkO2yqBhjJbBkxexpu"
@@ -8442,7 +8536,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 195394,
       "name": "Crying Over Nothing",
       "url": "https://open.spotify.com/track/4t3L9tL0PQi2Tbs0EHaCMx"
@@ -9274,7 +9368,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 148525,
       "name": "DEATH COMES FROM THE SKY",
       "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
@@ -9292,7 +9386,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 202093,
       "name": "Deep Diving",
       "url": "https://open.spotify.com/track/2cymECfb8aQNVEb2u7QSon"
@@ -12818,6 +12912,24 @@
       "duration_ms": 131215,
       "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
       "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
+    },
+    {
+      "album": {
+        "name": "Feel Free",
+        "url": "https://open.spotify.com/album/6X9IEDdGvvwfXLTJVfRG0m"
+      },
+      "artists": [
+        {
+          "name": "Jeff Tweedy",
+          "url": "https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427160,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/6zZdi6KymzSZDKpN7gX35N"
     },
     {
       "album": {
@@ -17292,7 +17404,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 149624,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0TNwifdG6mUwAWK1psAMlG"
@@ -18584,7 +18696,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 143121,
       "name": "I Imagine (with Hope Tala)",
       "url": "https://open.spotify.com/track/430rbHunIAZUcA9Cy2ymU5"
@@ -19659,6 +19771,24 @@
     },
     {
       "album": {
+        "name": "imanocean",
+        "url": "https://open.spotify.com/album/1chNBll5m8Uaux8hGtLZJ4"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217207,
+      "name": "imanocean",
+      "url": "https://open.spotify.com/track/0bpW15sRuLdzvEYFB6MLOZ"
+    },
+    {
+      "album": {
         "name": "Dreaming Eyes",
         "url": "https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV"
       },
@@ -19732,6 +19862,24 @@
       "duration_ms": 162405,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
+    },
+    {
+      "album": {
+        "name": "In My Pocket",
+        "url": "https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238223,
+      "name": "In My Pocket",
+      "url": "https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb"
     },
     {
       "album": {
@@ -19844,7 +19992,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 179900,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF"
@@ -19866,6 +20014,24 @@
       "duration_ms": 266884,
       "name": "In The Modern World",
       "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
+    },
+    {
+      "album": {
+        "name": "In Your Head",
+        "url": "https://open.spotify.com/album/03o8zTYnuEgkvZaWQvUlMC"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296879,
+      "name": "In Your Head",
+      "url": "https://open.spotify.com/track/6NiY0H0vJ02M15deAmtiu8"
     },
     {
       "album": {
@@ -21937,6 +22103,24 @@
     },
     {
       "album": {
+        "name": "Last Looks",
+        "url": "https://open.spotify.com/album/6nNRjOlwN5C7mAk34SfE2v"
+      },
+      "artists": [
+        {
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Last Looks",
+      "url": "https://open.spotify.com/track/37iHx55LhBTLpLY2SWL25Q"
+    },
+    {
+      "album": {
         "name": "Cacophony",
         "url": "https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH"
       },
@@ -23882,7 +24066,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 164480,
       "name": "Lover's Spit",
       "url": "https://open.spotify.com/track/0H4lTSvGqOj2xTWe43Awhx"
@@ -25213,6 +25397,24 @@
     },
     {
       "album": {
+        "name": "Miss Universe",
+        "url": "https://open.spotify.com/album/63Hgw6A96PUr2wNKJf4jJu"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "Miss Universe",
+      "url": "https://open.spotify.com/track/2hJRE1IfIxrRL9ro6WPW52"
+    },
+    {
+      "album": {
         "name": "Missed It By A Second",
         "url": "https://open.spotify.com/album/35eyUI1dKUR3CWKj0cD7pX"
       },
@@ -25470,6 +25672,28 @@
       "duration_ms": 217402,
       "name": "Mon Argent",
       "url": "https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK"
+    },
+    {
+      "album": {
+        "name": "DUMB",
+        "url": "https://open.spotify.com/album/7e7r5fXrnD2eRJEZ6DVnKs"
+      },
+      "artists": [
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/1JUzQ21p11mRdSkNVibKtx"
     },
     {
       "album": {
@@ -28090,7 +28314,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 179147,
       "name": "Oh Mama",
       "url": "https://open.spotify.com/track/5mYIWVAYJWa8kCNKjIVVAN"
@@ -29674,6 +29898,24 @@
       "duration_ms": 215653,
       "name": "Peter and the Wolf",
       "url": "https://open.spotify.com/track/5BSHoU2Co1LvT5VmMbTimI"
+    },
+    {
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110143,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
     },
     {
       "album": {
@@ -39997,6 +40239,28 @@
     },
     {
       "album": {
+        "name": "Too Loud (feat. Phantogram)",
+        "url": "https://open.spotify.com/album/3nvBtn93xogbmzrl72QUOE"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170764,
+      "name": "Too Loud (feat. Phantogram)",
+      "url": "https://open.spotify.com/track/1KyLeMC2u5BboI2Il5B59a"
+    },
+    {
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -40242,7 +40506,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 256156,
       "name": "Transmuted Matter",
       "url": "https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf"
@@ -42020,7 +42284,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 244123,
       "name": "Waverley",
       "url": "https://open.spotify.com/track/2ZZfC988Z08RWUOKZSLh0x"
@@ -42666,6 +42930,24 @@
       "duration_ms": 147920,
       "name": "Wheel",
       "url": "https://open.spotify.com/track/1PhPDcq9AYC1Oq2lo2jmIJ"
+    },
+    {
+      "album": {
+        "name": "Bury the Key",
+        "url": "https://open.spotify.com/album/3vjna8pM3TKAsi0LsQzBiK"
+      },
+      "artists": [
+        {
+          "name": "TOPS",
+          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154453,
+      "name": "Wheels at Night",
+      "url": "https://open.spotify.com/track/4GRmluN7jCIhcqTXD3FzkL"
     },
     {
       "album": {

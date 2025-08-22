@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Shekhinah
+> The best in South African and international R&B\. Cover: Lia Butler
 
-593 songs - 1 day 7 hr 49 min
+594 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [Typo](https://open.spotify.com/track/1ex4Ztuu1KvGxECb1dRgOy) | [Senté](https://open.spotify.com/artist/32m0wHk6SnWDu626fxJnO8), [Azooora](https://open.spotify.com/artist/1IJuNfymJZjx10miPVRsHs) | [Typo](https://open.spotify.com/album/0vfwJuOzPzheNM3SPaBVqg) | 2:50 | 2025-06-20 | 2025-06-28 |
 | [Ubuhle Obungaka](https://open.spotify.com/track/1suLe6X8s2fxJ777GvJT8S) | [Ovuyonke](https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Jaedon Daniels](https://open.spotify.com/artist/5EaNhWHyEwa0nHjsJqdniH) | [Ubuhle Obungaka](https://open.spotify.com/album/26NtnzpB9akhyOHypfPzLq) | 3:15 | 2025-06-13 | 2025-06-20 |
 | [Ulife](https://open.spotify.com/track/2BG93DJ21VqXPuWckCV5pY) | [Darkie Fiction](https://open.spotify.com/artist/4cdFNn4RtIOX2pIS3Ye3Vg) | [Endaweni](https://open.spotify.com/album/610IUSPra80gou4rNlncW7) | 3:41 | 2025-06-13 | 2025-06-20 |
+| [Umabukisa](https://open.spotify.com/track/3xEuiBIudjo3LLGxJIfsLR) | [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Umabukisa](https://open.spotify.com/album/7H7oYFyIvKpP3lO1pyBtR4) | 3:30 | 2025-08-21 |  |
 | [Umhlaba](https://open.spotify.com/track/6l212VLnvhEJl2o7BCRBcG) | [katli g](https://open.spotify.com/artist/2IGyvttuJUWbmXxSrfSNu7), [mordy](https://open.spotify.com/artist/3xzIIBU6Sag14Yle4zgoty), [tabiska](https://open.spotify.com/artist/7KEUzqWJJvLJM8SNRXettE) | [Umhlaba](https://open.spotify.com/album/2iniomh8ICLoBfhW6RKAZs) | 3:35 | 2024-01-29 | 2024-05-10 |
 | [Umzi Watsha](https://open.spotify.com/track/6iUZG8WJaXN9LCOkEQVOFX) | [Wav Gardn](https://open.spotify.com/artist/5ICrK2OM6TBc2tgc3uK9rY) | [Umzi Watsha](https://open.spotify.com/album/37R8tcF6B9sMTOH4NOloah) | 3:32 | 2025-06-13 | 2025-06-20 |
 | [unavailable](https://open.spotify.com/track/0vZftmvBo1YcSkqocT3BUk) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [unavailable](https://open.spotify.com/album/2oFq1QGFW93X67u7ULSGiS) | 2:53 | 2023-11-03 | 2024-02-09 |
@@ -583,7 +584,7 @@
 | [Whatchu Say ?](https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [Whatchu Say ?](https://open.spotify.com/album/4emUcj6mqDLRpNUMLVTpfY) | 2:38 | 2024-03-14 | 2024-04-05 |
 | [Whatever She Wants](https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Whatever She Wants](https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf) | 2:41 | 2024-02-22 | 2024-05-10 |
 | [When He's Not There \(feat\. Lucky Daye\)](https://open.spotify.com/track/0uYBQGchK3LIkNpxnrA6k7) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 4:28 | 2024-09-11 | 2024-12-02 |
-| [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-11 |  |
+| [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 | 2024-09-11 | 2025-08-22 |
 | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/track/6am2YNS3MTz3SbWkBUY234) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Where Ya Been? \- A COLORS SHOW](https://open.spotify.com/album/0oqzFS1ec6worWKBAzgolc) | 2:57 | 2023-11-16 | 2024-11-08 |
 | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/track/4Ypa7u8GYWX0u0wP5wntsU) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Wild Ride \- A COLORS SHOW](https://open.spotify.com/album/4amcd3oEcwScFQDtGjSaQR) | 2:42 | 2023-10-26 | 2024-03-22 |
 | [Winter & Summer](https://open.spotify.com/track/3a7rELDtWE9gb6DBwxsNPt) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Winter & Summer](https://open.spotify.com/album/73Z3iEJZUJxplEjmD5UZkw) | 3:14 | 2025-01-24 | 2025-07-02 |

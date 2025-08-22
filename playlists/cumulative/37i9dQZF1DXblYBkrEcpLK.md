@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-782 songs - 2 day 3 hr 42 min
+784 songs - 2 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-07-03 |  |
 | [Canary Yellow](https://open.spotify.com/track/7KDZ7v5hHAAEHNvwT6Dhhg) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Canary Yellow](https://open.spotify.com/album/3Ee1rvSUA8iX5QhqiclAix) | 3:38 | 2022-06-24 | 2022-07-28 |
 | [Chain](https://open.spotify.com/track/0CwTBiqEhkwkBSW6lPOzij) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Chain](https://open.spotify.com/album/1JhsPt7D3qFum6vTWL5LWB) | 4:05 | 2024-02-13 | 2024-04-17 |
-| [Chasing destiny](https://open.spotify.com/track/2jePpIWARbuy860PvrJxui) | [涼宮ハルヒ\(CV.平野綾\)](https://open.spotify.com/artist/7fRpvlBaMGN1iShO2s46P8) | [Chasing destiny](https://open.spotify.com/album/4yvxPHi1sWYrgUzWnm6aEJ) | 4:10 | 2025-08-05 |  |
+| [Chasing destiny](https://open.spotify.com/track/2jePpIWARbuy860PvrJxui) | [涼宮ハルヒ\(CV.平野綾\)](https://open.spotify.com/artist/7fRpvlBaMGN1iShO2s46P8) | [Chasing destiny](https://open.spotify.com/album/4yvxPHi1sWYrgUzWnm6aEJ) | 4:10 | 2025-08-05 | 2025-08-22 |
 | [CHE.R.RY](https://open.spotify.com/track/3a0OFi0j1DNKwwmbj1a9Jd) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [CHE.R.RY（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/7q7rAh1DQg7LlLUGs1w9Uq) | 3:29 | 2024-08-29 | 2024-09-13 |
 | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/track/2VqXiJCKjkEKbI1SChyG4m) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E), [KUROMI](https://open.spotify.com/artist/1nah1bp3mzMd4FhMUxhU4d) | [Cheeky But Charming \(feat\. KUROMI\)](https://open.spotify.com/album/3By2H5WNB4ZpLN5Llmwrr8) | 2:08 | 2023-10-24 | 2024-01-19 |
 | [Cheers!デリシャスパーティ♡プリキュア](https://open.spotify.com/track/2fogdJN46llUQtV4lZ5410) | [Machico](https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9) | [デリシャスパーティ♡プリキュア 主題歌シングル 【通常盤】](https://open.spotify.com/album/15JIJms7qoGCJA9iF0jtKY) | 3:48 | 2023-02-07 | 2023-03-08 |
@@ -98,6 +98,7 @@
 | [Destiny Sky](https://open.spotify.com/track/6ZrUo8yKzHwTxFnL1ujuEr) | [若井 友希](https://open.spotify.com/artist/73JD6yDn5gO4yjoeAOmbwV) | [Destiny Sky](https://open.spotify.com/album/5n5KwJPFtcQVdzErwkuiMZ) | 5:13 | 2022-06-12 | 2022-06-15 |
 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 | 2023-06-13 | 2023-07-05 |
 | [DIVINE](https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [DIVINE](https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG) | 4:17 | 2025-08-05 |  |
+| [Divine](https://open.spotify.com/track/0s8CYpuo2FueLQoUAnbZtG) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [SWEEP](https://open.spotify.com/artist/53Ts15qc5hNl9kvxvfmrir), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Divine](https://open.spotify.com/album/6RsmJNSYE7r6RIzDZOTDMq) | 3:16 | 2025-08-21 |  |
 | [Don't Know Why](https://open.spotify.com/track/77IWDKuXUNjFyj0MuVQqT5) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [blossom](https://open.spotify.com/album/57CWfsD6tG1RFbYPIslgxT) | 3:36 | 2022-06-09 | 2022-07-29 |
 | [DONUT](https://open.spotify.com/track/3wW8vRIGlHd8AEWFGI62bT) | [EXiNA](https://open.spotify.com/artist/67jsnKQxgDih5HvR68qXWd) | [SHiENA](https://open.spotify.com/album/1Y1WeX2E8wOiCtMidUcFzx) | 4:52 | 2022-06-14 | 2022-07-23 |
 | [Dream hopper](https://open.spotify.com/track/3pQZD8Wry7hk60Z5fiXTFi) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Dream hopper](https://open.spotify.com/album/55dB5EJl6C5S6Ls1K8RmsI) | 4:18 | 2022-06-14 | 2022-07-24 |
@@ -228,7 +229,7 @@
 | [Magnet](https://open.spotify.com/track/7sH4gaA8hxCghtgNMeNLzK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/6NNP3pfDlJvZQSjBlAgYEW) | 3:18 | 2024-03-26 | 2024-04-17 |
 | [Maihime](https://open.spotify.com/track/54Z5e3S47pWQeqe8IhKcqc) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime / Around and Around](https://open.spotify.com/album/50w6AeGNRJxIeq9pouT0oY) | 3:30 | 2023-02-14 | 2023-02-16 |
 | [Maihime](https://open.spotify.com/track/7ahO8v4N7OQsnnNd2p8Fab) | [Lyrical Lily](https://open.spotify.com/artist/5REb2r1aINeEXDGYlkazXf) | [Maihime](https://open.spotify.com/album/6VZQnpPyngzoTH4H3f5LOO) | 3:30 | 2023-02-14 | 2023-03-08 |
-| [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 | 2025-04-15 |  |
+| [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 | 2025-04-15 | 2025-08-22 |
 | [Maybeヒロイン](https://open.spotify.com/track/6JALjkUbQZuNvJZqDGjIoH) | [Miho Okasaki](https://open.spotify.com/artist/0GORgBglHGw3bMnj3wYpRm) | [Maybeヒロイン](https://open.spotify.com/album/53ryySnyfGj7pMl5mKRTeF) | 4:11 | 2023-06-29 | 2023-07-05 |
 | [melt](https://open.spotify.com/track/0LaHn8f2BDJtQ3O3hrYrmC) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [melt](https://open.spotify.com/album/2hwDhUqpdpOgeF6peGy3O8) | 4:50 | 2022-06-14 | 2022-07-29 |
 | [Memento](https://open.spotify.com/track/5OJ0kXGbl2ZMmjbVZVhmrI) | [nonoc](https://open.spotify.com/artist/1QduecpnkRXRXtbFdEYZRC) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonエンディングテーマ「Memento」](https://open.spotify.com/album/2zSO9g5QFpENCG5u11WaOF) | 5:04 | 2022-06-24 | 2022-07-03 |
@@ -330,6 +331,7 @@
 | [Silent Beat](https://open.spotify.com/track/25SDuaJ7J9PQTADpzVrldA) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Silent Beat](https://open.spotify.com/album/3u9o7xUkhhyZi997LubFTy) | 3:12 | 2023-11-16 | 2024-01-19 |
 | [Silky Heart](https://open.spotify.com/track/3qwaCcjR2r977dmeNHsyWt) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Best Album](https://open.spotify.com/album/0Dn3MxWI1u4fzRtXX955MD) | 3:58 | 2022-06-14 | 2022-06-19 |
 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 | 2022-06-09 | 2024-02-14 |
+| [sincerity flower](https://open.spotify.com/track/3gNaMAaSG6Sy51JnLZ02UM) | [Aira Yuuki](https://open.spotify.com/artist/3uJrNlI42F9UmgTPMYJF3A) | [sincerity flower](https://open.spotify.com/album/5QCCPglj001UsLKe3dgunJ) | 4:18 | 2025-08-21 |  |
 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 | 2022-08-02 | 2023-01-06 |
 | [Snow halation \- From CrosSing](https://open.spotify.com/track/4SIzU7Ve2yie7PMzIfL0WL) | [新田恵海](https://open.spotify.com/artist/379SB9OTZ8TnUfCYsTxF9y) | [Snow halation \- From CrosSing](https://open.spotify.com/album/3N1C10GQCPbCH3v84R52iC) | 4:18 | 2025-02-11 | 2025-03-19 |
 | [Snow Tears](https://open.spotify.com/track/01zfaWg8i0Xpg0oCnU6bvU) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [Day of Bright Sunshine](https://open.spotify.com/album/4XapCPKTWCYcIEXoWsfguK) | 4:30 | 2022-07-07 | 2022-07-24 |

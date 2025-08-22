@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,804 likes - 167 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,838 likes - 167 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,7 +144,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 134 | [Beat Up Bible](https://open.spotify.com/track/5R7TAOPx2H0ImjCkdb4PXR) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 3:35 |
 | 135 | [You and Jesus](https://open.spotify.com/track/1ld8koVn05PexXTMlV6Vym) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg), [Greylan James](https://open.spotify.com/artist/0obiwW8UEpyliJ4xhXqrra) | [You and Jesus](https://open.spotify.com/album/1gnkc8qoKjF3fMmJHq8EdT) | 2:50 |
 | 136 | [God Made Fridays](https://open.spotify.com/track/6ksQ2gxEZGqQdygMex4PGs) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [God Made Fridays](https://open.spotify.com/album/4W5ldcMXbVXsBkeKX1uCSJ) | 2:43 |
-| 137 | [Won't Let Me Go \- Acoustic](https://open.spotify.com/track/2RcEwMtSmmhNIjNCDr5aT7) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Won't Let Me Go \(Acoustic\)](https://open.spotify.com/album/5Mz35pU0IaPfSqqzIYJFRJ) | 3:53 |
+| 137 | [Won't Let Me Go \- Acoustic](https://open.spotify.com/track/2RcEwMtSmmhNIjNCDr5aT7) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Won't Let Me Go](https://open.spotify.com/album/5Mz35pU0IaPfSqqzIYJFRJ) | 3:53 |
 | 138 | [Thought About You](https://open.spotify.com/track/7kCXmYJeltdnCMMsfwaCsf) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Thought About You](https://open.spotify.com/album/0LPzkET4jAcOUbkrGagdI4) | 3:45 |
 | 139 | [Cowboy Amen](https://open.spotify.com/track/59jOEV2zHNXIIDWxoJ20Bh) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Cowboy Amen](https://open.spotify.com/album/3UzARTHtTqFD3ffs4X2ToZ) | 2:44 |
 | 140 | [Sunday Sermons](https://open.spotify.com/track/34AMpAXtxVGN6uSpwYN6Hs) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Sunday Sermons](https://open.spotify.com/album/6COpz7BOFtDc13O5JcGzNQ) | 3:20 |

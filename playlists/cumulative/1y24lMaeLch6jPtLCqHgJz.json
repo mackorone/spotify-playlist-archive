@@ -301,6 +301,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/2xgobypOX2225BbBNRphTQ"
+      },
+      "artists": [
+        {
+          "name": "Edo",
+          "url": "https://open.spotify.com/artist/6PMcOgk2GpLla0j5ySyakz"
+        },
+        {
+          "name": "TH\u016aR",
+          "url": "https://open.spotify.com/artist/6D0RHeCz6cDV1dE2fSyPQp"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/6LcObOqDJdQxkP1qrBk3R0"
+    },
+    {
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/2RitojyB3zQdkYEodRA7Fw"
       },

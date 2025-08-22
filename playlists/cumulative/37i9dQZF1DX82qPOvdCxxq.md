@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Faith](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
 
-> The best new music from independent faith\-based artists every Wednesday! Cover: DizzyEight \| Artwork: Laina Deene
+> The best new music from independent faith\-based artists every Wednesday! Cover: DizzyEight \| Artwork: SSTEDI
 
 758 songs - 1 day 18 hr 30 min
 

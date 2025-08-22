@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,098,350 likes - 290 songs - 14 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,098,377 likes - 290 songs - 14 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

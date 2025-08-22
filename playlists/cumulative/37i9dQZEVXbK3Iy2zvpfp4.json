@@ -1706,6 +1706,24 @@
     {
       "album": {
         "name": "a good man with a broken heart",
+        "url": "https://open.spotify.com/album/4FmPiLYrJvNFbpSMpWA7Eg"
+      },
+      "artists": [
+        {
+          "name": "LoVibe.",
+          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118726,
+      "name": "a good man with a broken heart",
+      "url": "https://open.spotify.com/track/2Is9PgrKMBJQscOjiAX1QB"
+    },
+    {
+      "album": {
+        "name": "a good man with a broken heart",
         "url": "https://open.spotify.com/album/3kxkF527EE0sDV8ftKEibJ"
       },
       "artists": [
@@ -1716,7 +1734,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 118752,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/2JvU5ShUHIDgaRB2liXZfs"
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 134000,
       "name": "Addicted (feat. TIMID.)",
       "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
@@ -11696,7 +11714,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 81995,
       "name": "CLIMA LINDO - SLOWED",
       "url": "https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp"
@@ -12414,7 +12432,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 162888,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"
@@ -15732,6 +15750,28 @@
           "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
         }
       ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "DOORS LIGHT FUNK",
+      "url": "https://open.spotify.com/track/3jauxgH08JQsagBfDQ8Kwz"
+    },
+    {
+      "album": {
+        "name": "DOORS LIGHT FUNK",
+        "url": "https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV"
+      },
+      "artists": [
+        {
+          "name": "DJ VTTT77",
+          "url": "https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X"
+        },
+        {
+          "name": "DJ VYZ",
+          "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
+        }
+      ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -18002,6 +18042,24 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "EVA (HARDTEKK)",
+        "url": "https://open.spotify.com/album/1HLZV1P5ZLO2ji3CaSRMxe"
+      },
+      "artists": [
+        {
+          "name": "DJ HARDWICK",
+          "url": "https://open.spotify.com/artist/5LUWRPPWSSuoscgqvF2j7p"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76504,
+      "name": "EVA (HARDTEKK) - SLOWED",
+      "url": "https://open.spotify.com/track/0szQw1ZVoiAI9IvrJqys9K"
     },
     {
       "album": {
@@ -33817,6 +33875,24 @@
     },
     {
       "album": {
+        "name": "DANGEROUS SUMMER",
+        "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/7tuTUJmXroFsjZv4U3bmBf"
+    },
+    {
+      "album": {
         "name": "Lonely Boy",
         "url": "https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk"
       },
@@ -38918,7 +38994,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 73480,
       "name": "MONTAGEM COMA",
       "url": "https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC"
@@ -39144,7 +39220,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 87816,
       "name": "Montagem Supersonic",
       "url": "https://open.spotify.com/track/2r2vr5ujMEZN9hJzwwc6Jk"
@@ -70766,6 +70842,28 @@
       "duration_ms": 129836,
       "name": "\u041a\u0410\u041a MOMMY",
       "url": "https://open.spotify.com/track/0R848ny5sEpVuR1tMXZNFr"
+    },
+    {
+      "album": {
+        "name": "44",
+        "url": "https://open.spotify.com/album/1FIp5aFdDk9BSdAZxQwwIE"
+      },
+      "artists": [
+        {
+          "name": "EMIN",
+          "url": "https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX"
+        },
+        {
+          "name": "JONY",
+          "url": "https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187619,
+      "name": "\u041a\u0430\u043c\u0438\u043d",
+      "url": "https://open.spotify.com/track/5KMQGErDASymjKq0LDa0MN"
     },
     {
       "album": {

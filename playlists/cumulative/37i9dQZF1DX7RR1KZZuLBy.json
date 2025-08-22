@@ -3529,6 +3529,32 @@
     },
     {
       "album": {
+        "name": "Live at Kalahari",
+        "url": "https://open.spotify.com/album/5e29gpFU8qp5oRj0r3DuF6"
+      },
+      "artists": [
+        {
+          "name": "Takie & Rofhiwa",
+          "url": "https://open.spotify.com/artist/4Lucgup4VnHrtYPfAvBIRS"
+        },
+        {
+          "name": "Takie Ndou",
+          "url": "https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu"
+        },
+        {
+          "name": "ROFHIWA MANYAGA",
+          "url": "https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308929,
+      "name": "Lufuno Lwau",
+      "url": "https://open.spotify.com/track/1UYX1SPwh56nkZd2D85KWX"
+    },
+    {
+      "album": {
         "name": "7Summers",
         "url": "https://open.spotify.com/album/5tAx5V2rIEbqBAF40tNNeg"
       },
@@ -4056,7 +4082,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 388866,
       "name": "Ndenzel' Uncedo Hymn 377 - Live",
       "url": "https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc"

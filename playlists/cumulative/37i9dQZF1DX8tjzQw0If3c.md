@@ -4,7 +4,7 @@
 
 > Listen to the future.
 
-204 songs - 11 hr 6 min
+206 songs - 11 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Not Afraid](https://open.spotify.com/track/5v6ScxMNSZ1KcnMiWjCmPb) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [Not Afraid](https://open.spotify.com/album/5gWXGGJNkUgshcOfbJ0CzZ) | 3:06 | 2025-06-04 |  |
 | [NOVEMBER](https://open.spotify.com/track/5QAgbUZoUvLethzw2bTRGt) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [NOVEMBER](https://open.spotify.com/album/1CZh3LscwOdGeBTB1FqyWg) | 3:28 | 2025-04-15 |  |
 | [oasis](https://open.spotify.com/track/7dxsN7YD2zfUMPqDCFvUvD) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [Road to the Hills](https://open.spotify.com/album/6Up4Igg6cDQkb1MyUzFsy1) | 2:30 | 2025-05-29 |  |
+| [OTHERNIGHT](https://open.spotify.com/track/0xHXphVyY7SwNp4aeQdO7p) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [OTHERNIGHT](https://open.spotify.com/album/2R0stQU71C8iijxgMo6Fec) | 3:04 | 2025-08-21 |  |
 | [Overdue](https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Overdue](https://open.spotify.com/album/1m3iY0bFkRFGnXoUDJDLGJ) | 3:00 | 2025-04-15 |  |
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 | 2025-04-16 |
 | [Panah](https://open.spotify.com/track/1dlgXkjadrhWxlZkrZbO2p) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Panah](https://open.spotify.com/album/2xnDi9OOjyXYXMlQXT1VcG) | 3:33 | 2025-04-15 |  |
@@ -188,6 +189,7 @@
 | [Test](https://open.spotify.com/track/6AfRavwy4mVaixO29wfyco) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Test](https://open.spotify.com/album/4cFcmuZqpUYkroiPVQtSfa) | 2:28 | 2024-09-26 | 2024-12-05 |
 | [Test Drive](https://open.spotify.com/track/6eqRalEQh4aR9KaKCnxSZu) | [Firdaus Rahmat](https://open.spotify.com/artist/1DuEl1a7U6Um8hYvNW1OiY) | [Test Drive](https://open.spotify.com/album/7KeMDStkuEMZfLyEiHJRxS) | 3:43 | 2025-04-15 |  |
 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 | 2024-06-27 | 2025-04-16 |
+| [Then There's You](https://open.spotify.com/track/3l5447HIPhfaDfH1g6yEJV) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Then There's You](https://open.spotify.com/album/6CEIbrfrBtblERDfN4H1Ky) | 3:54 | 2025-08-21 |  |
 | [THRU THE ROOF](https://open.spotify.com/track/5N1SgEuIi1rC22q58Yj3IO) | [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8), [Aditya Ojha](https://open.spotify.com/artist/1As4gXpkB3Vkwox0WRlbzT) | [THRU THE ROOF](https://open.spotify.com/album/1cuyM7IwnEw6VV63RjZ98k) | 3:54 | 2025-06-19 |  |
 | [Tiap Kali Bertemu](https://open.spotify.com/track/6mmLZi96biKSGiIfXOATwm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:14 | 2024-08-08 | 2024-12-05 |
 | [Time](https://open.spotify.com/track/6XxN0arhVahVrq0JLX4K43) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Time](https://open.spotify.com/album/4kgKn7ydkHXSHQoqIStObO) | 2:43 | 2024-06-27 | 2025-04-16 |

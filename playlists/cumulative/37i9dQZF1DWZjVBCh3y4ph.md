@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Maurane Voyer
+> Les hits zouk du moment\. Photo : Mik L x Nesly
 
 295 songs - 15 hr 44 min
 

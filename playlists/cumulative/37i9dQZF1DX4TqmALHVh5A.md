@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Miki
+> La scène française branchée sur courant alternatif\. Photo : Flora Fishbach
 
-321 songs - 17 hr 7 min
+322 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Johnny Cash](https://open.spotify.com/track/5Dpm1jgO5VobfRs8Ub13Uf) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId) | [Johnny Cash](https://open.spotify.com/album/7MuRvKMSoV3vvVUtz2XT9r) | 2:47 | 2024-04-19 | 2024-06-14 |
 | [Jour vert](https://open.spotify.com/track/5nacc9dNvHHUCzYZJxQnME) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E), [Cesar](https://open.spotify.com/artist/20m6HbvQBjsXKPC0S5WVKS) | [Sous l'orage](https://open.spotify.com/album/6p52nGu2VCACb7n45Ry0Y0) | 3:24 | 2025-06-05 |  |
 | [Joy](https://open.spotify.com/track/349nICB9NxNabg6WI27ZV5) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Porte 11](https://open.spotify.com/album/6MH3JAwwP85b1XQN1bOyF4) | 2:22 | 2023-09-28 | 2023-11-10 |
-| [Jurassique Parc](https://open.spotify.com/track/4ou6wh6gVdvZxdV5zixaMO) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Jurassique Parc](https://open.spotify.com/album/2KdabhvdyfpvMXPLAAM7p3) | 3:57 | 2025-04-17 |  |
+| [Jurassique Parc](https://open.spotify.com/track/4ou6wh6gVdvZxdV5zixaMO) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Jurassique Parc](https://open.spotify.com/album/2KdabhvdyfpvMXPLAAM7p3) | 3:57 | 2025-04-17 | 2025-08-22 |
 | [just a noise](https://open.spotify.com/track/2mgDRx52b1GhnikAJqRFvP) | [Kevin Heartbeats](https://open.spotify.com/artist/3hnYXtcKvZcua5mprGrsTG) | [just a noise](https://open.spotify.com/album/1dfM8mdmfobemurtB4f6qi) | 2:52 | 2024-05-30 | 2024-08-16 |
 | [JUSTE AMIS](https://open.spotify.com/track/1L9xCQ6PYyAgHqGfFPXC9N) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [PANAME ŒSTROS POUBELLE](https://open.spotify.com/album/53JDJmBpfYZuJb2nz0v5SE) | 3:21 | 2023-11-16 | 2024-09-13 |
 | [kama sutra](https://open.spotify.com/track/0C7Rq97VfN1hXQy5BACuLU) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [kama sutra](https://open.spotify.com/album/0qtNff3t9A07yORGZIYpLH) | 2:08 | 2025-03-06 | 2025-05-16 |
@@ -157,6 +157,7 @@
 | [L'Usine](https://open.spotify.com/track/6gPrgMobziEaMU1E8w8K5T) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [L'Usine](https://open.spotify.com/album/7qNgn6vkw8jKWrWhhaK7ZB) | 2:21 | 2023-09-28 | 2023-10-06 |
 | [La femme papillon](https://open.spotify.com/track/1XUvMhuTikRvtRoFoctOFP) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Halo Maud](https://open.spotify.com/artist/6PXvOmtayxXQNE9stTpRMs) | [La femme papillon](https://open.spotify.com/album/1pSTe83lTsL10kYJT5baRk) | 3:31 | 2024-01-11 | 2024-01-27 |
 | [La lune sera bleue](https://open.spotify.com/track/3FDriNpkSIjeNRDUafED2b) | [Aline](https://open.spotify.com/artist/07FdDpjaazFWWzqcFUPegG) | [La lune sera bleue](https://open.spotify.com/album/2hjBazpNzqAdxPJxM7DiKv) | 3:14 | 2024-01-18 | 2024-03-01 |
+| [La Machiavela](https://open.spotify.com/track/6qi96oQ0Ee3CiMM4W4CKMy) | [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [La Machiavela](https://open.spotify.com/album/5LjuR5W3AdxM88evum7gkx) | 2:00 | 2025-08-21 |  |
 | [La marée](https://open.spotify.com/track/1w4Ny0UnhzNd6ZBwGjb5jk) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [La marée](https://open.spotify.com/album/3AOvO6Vmjl1Q5gGZ9ht9ze) | 3:18 | 2023-09-28 | 2023-10-06 |
 | [La pression](https://open.spotify.com/track/2g15XcaATGqNrytkREVaKE) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [La pression](https://open.spotify.com/album/3LXVkNOAUYMfNDNap1xUNk) | 4:09 | 2024-05-16 | 2024-10-25 |
 | [Labrador](https://open.spotify.com/track/37RU5uDagBkmkcf61HGHTZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Labrador](https://open.spotify.com/album/464DpW9aRGNKJIHCud8jRl) | 2:39 | 2023-09-28 | 2023-11-17 |

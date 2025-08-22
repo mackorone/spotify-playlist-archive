@@ -13001,6 +13001,24 @@
     },
     {
       "album": {
+        "name": "River Rat",
+        "url": "https://open.spotify.com/album/1B1uV1TfiwBFxKSJBakP8Z"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2025-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/7l9mIuhLAQJzvpoibPU2bE"
+    },
+    {
+      "album": {
         "name": "Dollar A Day",
         "url": "https://open.spotify.com/album/6PmqJIFZZseXq1a2XXgYPd"
       },

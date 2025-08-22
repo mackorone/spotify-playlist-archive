@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-537 songs - 1 day 7 hr 57 min
+538 songs - 1 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [Love Love Love \- Live / Acoustic](https://open.spotify.com/track/0s9M6IFp5dd1PiXAY9frqn) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [Live From RCA Studio A \(Acoustic\)](https://open.spotify.com/album/3ApfWxAA7u8odkkO26k104) | 3:40 | 2022-10-20 | 2022-10-26 |
 | [Love Me More \- Acoustic](https://open.spotify.com/track/3l3edfGTK3Q0XMienGn4IT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More \(Acoustic\)](https://open.spotify.com/album/54hbTBFAvJmCFtsradjeny) | 3:22 | 2022-10-20 | 2022-12-14 |
 | [Love Story \- Acoustic](https://open.spotify.com/track/1aRsNJOATnTyhGmtXWqLSG) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Acoustic Diamonds Music](https://open.spotify.com/artist/43dhUNVIze4QCzk77OSzrg) | [Love Story \- Acoustic](https://open.spotify.com/album/5HvPcV6acct7uCSj1WvsrH) | 3:21 | 2023-04-06 | 2023-09-08 |
-| [Lovely Day, Lovely Place.](https://open.spotify.com/track/53PNdyacMlicwrlb3JCcJd) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [SURF & TURF](https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ) | 3:53 | 2023-06-27 |  |
+| [Lovely Day, Lovely Place.](https://open.spotify.com/track/53PNdyacMlicwrlb3JCcJd) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [SURF & TURF](https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ) | 3:53 | 2023-06-27 | 2025-08-22 |
 | [Loving You Will Be The Death Of Me](https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0OTRd577BEHU8WNfrJ24aB) | 2:11 | 2024-01-25 | 2025-07-11 |
 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 | 2022-10-20 | 2024-11-08 |
 | [Lucky \(Jason's First Draft\)](https://open.spotify.com/track/2zhuP2JZpqyTEwzTERNdHc) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Lucky \(Jason's First Draft\)](https://open.spotify.com/album/5jZJPl8660caI1l3w2NaQD) | 2:50 | 2023-08-10 | 2024-01-12 |
@@ -324,6 +324,7 @@
 | [Overpass Graffiti](https://open.spotify.com/track/3tob5ofeuvFKKSbOTldenC) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Overpass Graffiti](https://open.spotify.com/album/3df7YWbL6GcTWdqht33UVC) | 3:46 | 2024-11-07 |  |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2022-12-14 | 2023-02-01 |
 | [Perfect](https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:50 | 2022-10-20 | 2024-04-19 |
+| [Phantom](https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh) | 1:50 | 2025-08-21 |  |
 | [Phlegm](https://open.spotify.com/track/2iuvXuZBXHjonFFqMWMb0m) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Spiritual Puberty](https://open.spotify.com/album/3mkibgkzkk6ewJaVSjpPTx) | 2:44 | 2023-09-28 | 2024-01-19 |
 | [Photographs](https://open.spotify.com/track/7KgqQSXtlh5WIAx1I1ojYG) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Photographs](https://open.spotify.com/album/6rs2QN468iECIWJ7tTJ6Ka) | 2:52 | 2024-01-11 | 2024-11-29 |
 | [Place Your Hands](https://open.spotify.com/track/3acARy7b8j8rJVpit7le4i) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Place Your Hands](https://open.spotify.com/album/30sRu1LqGjOL28ocUx6TPh) | 3:15 | 2024-02-15 | 2024-11-08 |

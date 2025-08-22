@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Harmonize & Abigail Chams",
+  "description": "What is your love language? Say it in Swahili.  Cover: Yammi",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 211208,
       "name": "Goli",
       "url": "https://open.spotify.com/track/6n3ZfpBRbKFDbJcJDNdEUe"
@@ -4228,7 +4228,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 156595,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/1qwAufkn1HNoDTLNAxItdv"
@@ -4402,7 +4402,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 177977,
       "name": "Pamela",
       "url": "https://open.spotify.com/track/7jSPRtC4yAPeuV9DBQjqCk"
@@ -4504,6 +4504,24 @@
       "duration_ms": 167234,
       "name": "Pillow Talk",
       "url": "https://open.spotify.com/track/0Cd9nATh0j7UMsDpIYmLxD"
+    },
+    {
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196475,
+      "name": "Pole",
+      "url": "https://open.spotify.com/track/5QcJEd09y1NUi2QxNw7MIz"
     },
     {
       "album": {
@@ -5918,6 +5936,28 @@
       "duration_ms": 236277,
       "name": "Wewe hapoo",
       "url": "https://open.spotify.com/track/0w5jaSkHZgBkYfK9A1f46k"
+    },
+    {
+      "album": {
+        "name": "Wewe na mimi (bongo Flava)",
+        "url": "https://open.spotify.com/album/33bzWGYexe9TTWm0abEKu1"
+      },
+      "artists": [
+        {
+          "name": "Frida Amani",
+          "url": "https://open.spotify.com/artist/1yXUnk7QLJfBTnLIgkwimU"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195801,
+      "name": "Wewe na mimi - bongo Flava",
+      "url": "https://open.spotify.com/track/6oOfoL9E1iztf2anyIakKo"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Estopa.",
+  "description": "Lo mejor del rock de aqu\u00ed, como La Fuga.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 293601,
       "name": "A quemarropa",
       "url": "https://open.spotify.com/track/4h9mtgPAhoROcGA0OR1tay"
+    },
+    {
+      "album": {
+        "name": "A Ratos",
+        "url": "https://open.spotify.com/album/3OdchJWXYqNycwgAa6sxZY"
+      },
+      "artists": [
+        {
+          "name": "La Fuga",
+          "url": "https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "A Ratos",
+      "url": "https://open.spotify.com/track/3rWww1QHFAcHvbeUqW8JbS"
     },
     {
       "album": {
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 226539,
       "name": "Cada vez duele menos",
       "url": "https://open.spotify.com/track/5lSYmIvz1g7hUtEqLdnQrK"
@@ -3066,6 +3084,28 @@
       "duration_ms": 180000,
       "name": "D\u00edas Fugaces",
       "url": "https://open.spotify.com/track/2GEpNkKjpgu5cdByPKSfYU"
+    },
+    {
+      "album": {
+        "name": "D\u00edas Grises",
+        "url": "https://open.spotify.com/album/2i8Eh2jBKs8v5IVnFZ67Tw"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "El Drogas",
+          "url": "https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171779,
+      "name": "D\u00edas Grises",
+      "url": "https://open.spotify.com/track/2OKvkRxoFLdjdENk3qp93N"
     },
     {
       "album": {
@@ -10290,7 +10330,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 272021,
       "name": "Siete",
       "url": "https://open.spotify.com/track/1InIxWLNN8pyTTLKPRuuDr"

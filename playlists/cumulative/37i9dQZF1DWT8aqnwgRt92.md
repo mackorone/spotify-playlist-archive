@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,140 songs - 5 day 12 hr 36 min
+2,141 songs - 5 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [DING DONG](https://open.spotify.com/track/1ZhF6KKByVAwx5oratB8M9) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [DING DONG](https://open.spotify.com/album/6B00Xs16IeBA6PYMUoo5aC) | 3:54 | 2022-07-28 | 2022-08-03 |
 | [DISCOTHEQUE \- from CrosSing](https://open.spotify.com/track/540Tpu2fgkS5FXuColwqiT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [DISCOTHEQUE \- from CrosSing](https://open.spotify.com/album/5mBBlBfeXjKV0psB1jx0vA) | 3:57 | 2024-05-28 | 2024-06-13 |
 | [DIVINE](https://open.spotify.com/track/2EXMoOCIHbhnLzDg5gZZ4U) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [DIVINE](https://open.spotify.com/album/64dVZBmIgZ4sZ5iOZ2ueVG) | 4:17 | 2025-08-05 |  |
+| [Divine](https://open.spotify.com/track/0s8CYpuo2FueLQoUAnbZtG) | [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P), [☆Taku Takahashi](https://open.spotify.com/artist/13FGWDOwAoQyIBuZLtCjN9), [SWEEP](https://open.spotify.com/artist/53Ts15qc5hNl9kvxvfmrir), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [New PANTY & STOCKING with GARTERBELT](https://open.spotify.com/artist/3HfZJhPmI6APJD2PQFl9ci) | [Divine](https://open.spotify.com/album/6RsmJNSYE7r6RIzDZOTDMq) | 3:16 | 2025-08-21 |  |
 | [DiZZY](https://open.spotify.com/track/0gw7bQqOKmTTaS61OMr7p0) | [鷲尾伶菜](https://open.spotify.com/artist/5tPnjobKr6FSEmuXRrrWyf) | [DiZZY](https://open.spotify.com/album/1jRY8xgz0ZnlvkxzbBcs1g) | 2:52 | 2025-07-10 | 2025-07-25 |
 | [DOGLAND](https://open.spotify.com/track/6CMjaUiyl7WLPop2AoLbn6) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [DOGLAND](https://open.spotify.com/album/0yx19Klp8J1JyYES4KB426) | 2:55 | 2022-12-13 | 2023-01-11 |
 | [Don't Stay](https://open.spotify.com/track/0Pd3YHxIEoXN5qUQKHoLJ7) | [Lead](https://open.spotify.com/artist/1xveO47dkKDIE1288sCLOE) | [Don't Stay](https://open.spotify.com/album/1NZlE04MB8dA8ufiAg3aiW) | 3:54 | 2024-06-07 | 2024-07-06 |
@@ -1464,7 +1465,7 @@
 | [シャドウボクサー](https://open.spotify.com/track/6xUK2D8MbFsMCmwtWAQ4HN) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [シャドウボクサー](https://open.spotify.com/album/1TnGuOJjTwoqDqDcAAdc7c) | 4:13 | 2024-03-19 | 2024-04-19 |
 | [シャボン・テンション！](https://open.spotify.com/track/4P6eX4ACXzaDc00stg7dRX) | [前橋ウィッチーズ](https://open.spotify.com/artist/5tQLD8Ak85HJXxXy6Pp5D9) | [シャボン・テンション！](https://open.spotify.com/album/2NPOxXkOOCS0REasJBqV7e) | 3:32 | 2025-04-22 | 2025-04-30 |
 | [シャル・ウィ・ダンス?](https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?](https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ) | 4:26 | 2022-07-12 | 2022-10-14 |
-| [シャングリラ](https://open.spotify.com/track/67CFpEEWGFHGGN5QNnDfOU) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [シャングリラ](https://open.spotify.com/album/0uXsNd7F9LeqlgRvnRr3zH) | 4:24 | 2025-08-12 |  |
+| [シャングリラ](https://open.spotify.com/track/67CFpEEWGFHGGN5QNnDfOU) | [幸祜](https://open.spotify.com/artist/1oM8EdalXNF4uSK5k2dzLh) | [シャングリラ](https://open.spotify.com/album/0uXsNd7F9LeqlgRvnRr3zH) | 4:24 | 2025-08-12 | 2025-08-22 |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 | 2023-12-27 |
 | [シュガー・シュガー・スパイス](https://open.spotify.com/track/5EtOLv7nGSg2ENdoGIawwp) | [栗林みな実](https://open.spotify.com/artist/4HqHuqNCbQAqxAzzDZwpvz) | [シュガー・シュガー・スパイス](https://open.spotify.com/album/5bMZUNtbIraIVGF7FH9WYO) | 3:56 | 2022-10-27 | 2022-11-25 |
 | [シュワワ！](https://open.spotify.com/track/6i14Dt4OAf81mL91d6gei1) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [シュワワ！](https://open.spotify.com/album/6zKwI9Fs0yI6x1HIc5rRS8) | 3:42 | 2023-08-08 | 2023-09-25 |

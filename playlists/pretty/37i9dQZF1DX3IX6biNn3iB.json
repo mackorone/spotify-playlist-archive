@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. ERRE en portada. ",
-  "num_followers": 1239,
+  "num_followers": 1240,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-01-24 13:50:50",
       "album": {
-        "name": "Abajo Del Sol",
-        "url": "https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Yalleg\u00f3",
-      "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
-    },
-    {
-      "added_at": "2025-01-24 13:50:50",
-      "album": {
         "name": "Low Sun (Spotify OUTSIDE Version) - Live from Ghost Ranch",
         "url": "https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 177026,
       "name": "Low Sun - (Spotify OUTSIDE Version) - Live from Ghost Ranch",
       "url": "https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF"
+    },
+    {
+      "added_at": "2025-01-24 13:50:50",
+      "album": {
+        "name": "Abajo Del Sol",
+        "url": "https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Yalleg\u00f3",
+      "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
     },
     {
       "added_at": "2025-01-24 13:50:50",

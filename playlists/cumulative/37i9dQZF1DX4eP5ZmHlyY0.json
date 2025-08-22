@@ -2803,6 +2803,24 @@
     },
     {
       "album": {
+        "name": "Electric Heart : Born to Glow",
+        "url": "https://open.spotify.com/album/4N5R5cNDClPItdzoOjSVDe"
+      },
+      "artists": [
+        {
+          "name": "8TURN",
+          "url": "https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM"
+        }
+      ],
+      "date_added": "2025-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Electric Heart",
+      "url": "https://open.spotify.com/track/1raMkA3XySjfh18K7COTNV"
+    },
+    {
+      "album": {
         "name": "Essence of Reverie",
         "url": "https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB"
       },

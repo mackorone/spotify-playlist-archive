@@ -2,9 +2,9 @@
 
 ### [Melodys Marcantes](https://open.spotify.com/playlist/37i9dQZF1DX9zF9ZmsyHKt)
 
-> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
+> O melhor do Tecnobrega, Melody e Brega do norte! Foto: Joelma
 
-305 songs - 17 hr 53 min
+307 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Esquema](https://open.spotify.com/track/3ys5QgBxPRSIthnJOVw05m) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Esquema](https://open.spotify.com/album/1lTTqZStAPfvDGL09RdPtQ) | 2:41 | 2021-10-15 | 2022-07-29 |
 | [Essa Vista](https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Não é Só Isso](https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt) | 3:52 | 2021-10-15 | 2023-06-24 |
 | [Essa É a Ultima Vez](https://open.spotify.com/track/5MmDczW2YblO394A3dMG8I) | [Banda Batidão do Melody](https://open.spotify.com/artist/0UwSlqhvDCl7xANP1ANswD) | [Essa É a Ultima Vez](https://open.spotify.com/album/1s0VJLoLdhsMw4vlkmlLe7) | 3:31 | 2024-10-22 |  |
-| [Está no Ar](https://open.spotify.com/track/4HvbIF4n0nW3f0t2K1r6la) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [DJ Neco Patifão](https://open.spotify.com/artist/5qKMhT0vNRheWDWYDTjV1V) | [Elétrico](https://open.spotify.com/album/2sQuHDWwnn10g440LIlm03) | 3:35 | 2024-10-22 |  |
+| [Está no Ar](https://open.spotify.com/track/4HvbIF4n0nW3f0t2K1r6la) | [Fruto Sensual](https://open.spotify.com/artist/6syywN4FcSZEBwaEV7EsNq), [DJ Neco Patifão](https://open.spotify.com/artist/5qKMhT0vNRheWDWYDTjV1V) | [Elétrico](https://open.spotify.com/album/2sQuHDWwnn10g440LIlm03) | 3:35 | 2024-10-22 | 2025-08-22 |
 | [Eu](https://open.spotify.com/track/5SChoGCJUCjTdIi8JM28zf) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Eu](https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH) | 5:01 | 2021-10-15 | 2024-10-23 |
 | [Eu Amo Você](https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5) | [Ana Cañas](https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz) | [TODXS](https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b) | 4:29 | 2021-10-15 | 2024-10-23 |
 | [Eu Fiz Tudo Errado](https://open.spotify.com/track/2CYsMFirzEqCcWVuKIhppp) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Manu](https://open.spotify.com/album/3nWSN49yT6w8aoVSoacZZS) | 3:39 | 2024-10-22 |  |
@@ -161,7 +161,7 @@
 | [Mansa Fúria](https://open.spotify.com/track/1VFJEWFWqEXxScCboBMpBu) | [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Mansa Fúria](https://open.spotify.com/album/4XHQHm6GlK5oZMTQtcWKo8) | 4:02 | 2021-10-15 | 2022-07-29 |
 | [Maria, Maria](https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis Por Ela](https://open.spotify.com/album/4VEVVGC2MYMrK63drpR2hE) | 2:44 | 2021-10-15 | 2024-10-23 |
 | [Marias](https://open.spotify.com/track/4jaiXJPx1kFVJLl2pz1b9k) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Coisas Do Meu Pessoal](https://open.spotify.com/album/45ezXhsXFqhqVYRLcxFlWB) | 3:03 | 2021-10-15 | 2024-10-23 |
-| [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 | 2024-12-09 |  |
+| [Marmita](https://open.spotify.com/track/751q23G1cXJTihDzwWvHBN) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:26 | 2024-12-09 | 2025-08-22 |
 | [Me Telefona](https://open.spotify.com/track/5ixmhCly6NQggkyFsDpJ0E) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em São Paulo](https://open.spotify.com/album/6gUwNIHmAKlH5suKBnNpLD) | 3:09 | 2024-10-22 |  |
 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 | 2021-10-15 | 2024-10-23 |
 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 | 2021-10-15 | 2024-10-23 |
@@ -256,6 +256,7 @@
 | [Saudade](https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv) | 3:40 | 2022-10-07 | 2024-04-19 |
 | [Saudade](https://open.spotify.com/track/3AzSGIT3SYFXl1o9c6zdQC) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Boss in Drama](https://open.spotify.com/artist/3vayFOuOTSUgqcrdoyjZWB) | [Ambulante](https://open.spotify.com/album/6uZweI7OXLIS8WwYb0eVCV) | 2:31 | 2021-10-15 | 2024-10-23 |
 | [Se Eu Pudesse Escolher](https://open.spotify.com/track/7fQvuW1oK3yVrcms3N6Jgf) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Se Eu Pudesse Escolher](https://open.spotify.com/album/1kR4zp6NxLS5LqIS3frcdg) | 3:01 | 2021-10-15 | 2022-07-29 |
+| [Se Quebrou \- Ao Vivo em Portugal](https://open.spotify.com/track/4jLBnsN4lIFmSJG4Yoj0lu) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:32 | 2025-08-22 |  |
 | [Seja Gentil](https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [O Velho E Bom Novo \(Lado A\)](https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV) | 3:50 | 2021-10-15 | 2024-10-23 |
 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 | 2021-10-15 | 2024-10-23 |
 | [Sem Mentir](https://open.spotify.com/track/29o3BuxMMGbAxDJ9xsFOoF) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Sem Mentir](https://open.spotify.com/album/3LqLsWygNDbXqk6o3Exnva) | 3:32 | 2021-10-15 | 2022-07-26 |
@@ -279,6 +280,7 @@
 | [Só Você e Eu](https://open.spotify.com/track/6c5ELUV0eE4OFupCMUmAin) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Só Você e Eu](https://open.spotify.com/album/2kw0urBWdwuLc6cbcVFXLX) | 3:22 | 2021-10-15 | 2022-07-29 |
 | [Tanto Que Te Amei](https://open.spotify.com/track/6oRMp2LVqvdK3trhVpFJvA) | [Banda Os Brothers](https://open.spotify.com/artist/2lsOz5tVIFOnXiHk3Bd5UE) | [Tanto Que Te Amei](https://open.spotify.com/album/0n9NOZUnO5SpVgonEB4TCW) | 3:04 | 2025-04-11 | 2025-06-28 |
 | [Tara](https://open.spotify.com/track/3L2jWpewWy9hikCHeawbJW) | [Nêssa](https://open.spotify.com/artist/2nBhcSkmkP34W4oWJc9pcr), [A Dama](https://open.spotify.com/artist/6r2Jxpiepf5Yc7SdvK4w0K) | [Tara](https://open.spotify.com/album/0DAGqHAwH3kIZgmL6Gr9KU) | 2:20 | 2021-10-15 | 2022-07-08 |
+| [Tchau Pra Você \- Ao Vivo em Portugal](https://open.spotify.com/track/3vtTlxjcAKKjPs3E6V9QCL) | [Joelma](https://open.spotify.com/artist/1zBQcVejUqu9ujTXTgMQyM) | [Uma noite Amazônica \(Ao Vivo em Portugal\)](https://open.spotify.com/album/1UATryKcX3smDVVk4XWJ8R) | 3:50 | 2025-08-22 |  |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2IRTK6heTT9WEVr6uWwutT) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné \- Single](https://open.spotify.com/album/1Zy3Hu3zZIr88xqOsaB0lk) | 3:47 | 2021-10-15 | 2022-07-29 |
 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 | 2021-10-15 | 2024-04-19 |
 | [Terra de Buda](https://open.spotify.com/track/54Yx62stIuYNrkavyM1KPl) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Velho Beats](https://open.spotify.com/artist/5wPxfqO5bzh5yjXWEHAtYr) | [Terra de Buda](https://open.spotify.com/album/0wkwNS0PZJ3bBWq9LgnDWj) | 3:25 | 2021-10-15 | 2024-10-23 |

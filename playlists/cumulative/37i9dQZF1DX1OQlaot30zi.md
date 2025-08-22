@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata\. Con nuovi brani di Don Joe con Low Red e RRARI DAL TACCO,  LILCR e Rhove, JELECROIS e Sau27, Don Said e tanti altri.
+> Sempre aggiornata\. Con nuovi brani di Big Fish, Mecna e Guè e tanti altri.
 
-5,976 songs - 11 day 1 hr 43 min
+5,978 songs - 11 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2875,6 +2875,7 @@
 | [Lasciami Solo](https://open.spotify.com/track/5PIwqQifRrIK3ICjIMC252) | [Alert](https://open.spotify.com/artist/1PnEw4LWPugQEGLQu0xcjh) | [Lasciami Solo](https://open.spotify.com/album/7DHXpkbEga1QlSXH9YJfT3) | 2:27 | 2025-06-26 | 2025-07-15 |
 | [Last Night](https://open.spotify.com/track/1daenAwiS4hRaY5dvLYdmn) | [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [Last Night](https://open.spotify.com/album/1SYlvXfEqgf2rgvOQMYufO) | 3:28 | 2022-09-01 | 2022-09-20 |
 | [Latitanza \(feat\. Izi\)](https://open.spotify.com/track/5Ck1c9wpvyFv03QcmJhdk9) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Latitanza \(feat\. Izi\)](https://open.spotify.com/album/1ZwH6KjOpnhP5w0NbGHY1m) | 3:06 | 2022-11-24 | 2022-12-24 |
+| [Lato B \(feat\. Mecna, Guè\)](https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK) | [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Lato B \(feat\. Mecna, Guè\)](https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0) | 2:56 | 2025-08-21 |  |
 | [LAUNISCH INTRO](https://open.spotify.com/track/66NqAat2R91a0iYJIsnucz) | [Giovane Feddini](https://open.spotify.com/artist/2Q9Z5LbKXiImqMdnZiLT3u), [Big Swords](https://open.spotify.com/artist/1KirHVZN99OA7acYpT42Kx) | [SIRENE](https://open.spotify.com/album/5LS1xlsBTgjAe7bdDHLvwg) | 1:14 | 2025-07-24 |  |
 | [Lauryn \(feat\. Im Envy\)](https://open.spotify.com/track/32TLeomM3Dmauqi06pzHyK) | [BigMadWolf](https://open.spotify.com/artist/0SpnEvoZverwQVYtU9RrkE), [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7) | [Lauryn \(feat\. Im Envy\)](https://open.spotify.com/album/3Tgg5AfK9iNBS98nZX33EB) | 2:34 | 2025-04-03 | 2025-04-25 |
 | [LAURYN HILL \(feat\. Nicola Siciliano, Guè & Joan Thiele\)](https://open.spotify.com/track/0HA5tqAz8YkAGtYuNMISCG) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 3:04 | 2023-04-13 | 2023-05-05 |
@@ -4796,6 +4797,7 @@
 | [se ti amo in teoria](https://open.spotify.com/track/7ah7BZBvBrX0JkWzdbyaaa) | [GEREMIA](https://open.spotify.com/artist/0V23jpgaF7Ce7OPGXNQuMu), [MVRZA](https://open.spotify.com/artist/6AwKE4jzOL5dhuJIB5W1eV) | [se ti amo in teoria](https://open.spotify.com/album/2LSUToMiSvYhdKfZPEzhsQ) | 2:10 | 2024-09-26 | 2024-10-11 |
 | [SE TU NON FOSSI MIA](https://open.spotify.com/track/5Xr448kk14xHhIx1HEDFiI) | [ThvgLeone](https://open.spotify.com/artist/5MCcLU6FIiX1xS7Hd9VEYI), [Grein](https://open.spotify.com/artist/4uLshhVpsKhrFEuMRVwx2N), [Pretty Solero](https://open.spotify.com/artist/3kgjDFMkBBMlr7DXoBYDA0), [G Ferrari](https://open.spotify.com/artist/02i5S2ZvFZTFVSlhO7umae) | [SE TU NON FOSSI MIA](https://open.spotify.com/album/70rUwY8tBi7nNfTAl9Tvj9) | 2:58 | 2024-05-16 | 2024-06-01 |
 | [Se vuoi](https://open.spotify.com/track/0C5z0xEtoqDbvIlcAxiAy4) | [Defa](https://open.spotify.com/artist/5qS6Eo8idiQCyMIk0JahRW), [Yele](https://open.spotify.com/artist/1u1kZu6YBFpronOR6sOg2z) | [Onde](https://open.spotify.com/album/0ySDxP4yZEcwv1zawBxWit) | 2:27 | 2025-06-06 | 2025-06-27 |
+| [Se vuoi](https://open.spotify.com/track/2uoS0WfK013Zk7GnfrTJwK) | [Volt Rar](https://open.spotify.com/artist/028IiWVShVPlw8jWRl5Tg5) | [Se vuoi](https://open.spotify.com/album/1aevtU850moAyCqw8b9KGS) | 3:00 | 2025-08-21 |  |
 | [Se vuoi farmi un regalo](https://open.spotify.com/track/7acZeUzaJrPN58xpWkss1z) | [Beba](https://open.spotify.com/artist/6ZpOQK1OKdCybuOgMkdbUh) | [Se vuoi farmi un regalo](https://open.spotify.com/album/51860firsv3eXEmOEl279n) | 2:56 | 2025-06-26 | 2025-07-25 |
 | [Seconda Generazione](https://open.spotify.com/track/5JynzqA5qFHXs28M078yl6) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Seconda Generazione](https://open.spotify.com/album/24IVSn11Caw7nz7bbIAkFa) | 2:17 | 2023-10-05 | 2023-11-03 |
 | [SECONDA GENERAZIONE](https://open.spotify.com/track/4IaeetR0nHfiXj6YKRXO7U) | [Vlad](https://open.spotify.com/artist/0EioziECmDvxu1JB2ouajB), [Rough](https://open.spotify.com/artist/1dOu1a2ZHjX3QoynWAqq4W) | [Est Tape Vol\. 1](https://open.spotify.com/album/5irsF1bIbQoCcg0kiI3w8n) | 2:55 | 2025-05-29 | 2025-06-20 |

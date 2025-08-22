@@ -1,13 +1,69 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Ticya",
-  "num_followers": 13271,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Aziz Hedra, Sisca Saras",
+  "num_followers": 13273,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFR1H/2ZT2ygfCrrdQM0EDvMmZ93",
+  "snapshot_id": "AAAAAMF94/KO8Ltg4O8pBBVkXoxU443j",
   "tracks": [
+    {
+      "added_at": "2025-08-21 19:00:33",
+      "album": {
+        "name": "Orang Biasa",
+        "url": "https://open.spotify.com/album/6iouAGOCicSo8yUPxzyUeR"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        },
+        {
+          "name": "Sisca Saras",
+          "url": "https://open.spotify.com/artist/2EB26dHYlQMV3VhPWQEJ7p"
+        }
+      ],
+      "duration_ms": 214379,
+      "name": "Orang Biasa",
+      "url": "https://open.spotify.com/track/6YF5BNUUZLFMs2Z96jvovv"
+    },
+    {
+      "added_at": "2025-08-22 02:32:31",
+      "album": {
+        "name": "dusta",
+        "url": "https://open.spotify.com/album/5WJDpfRQJ3n7Q0LlaalF1d"
+      },
+      "artists": [
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "duration_ms": 201191,
+      "name": "dusta",
+      "url": "https://open.spotify.com/track/5TigmnZ3JxlwNvlVe9EU5a"
+    },
+    {
+      "added_at": "2025-08-21 19:00:33",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3V4lkg9bZdiD4W31Ec5DWc"
+      },
+      "artists": [
+        {
+          "name": "INDAHKUS",
+          "url": "https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB"
+        },
+        {
+          "name": "EDUO",
+          "url": "https://open.spotify.com/artist/2o3ddTmWSrGSyVQc3Sgf6b"
+        }
+      ],
+      "duration_ms": 214956,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1IHGk33iYHS1m5yX6ucRyl"
+    },
     {
       "added_at": "2025-08-14 19:00:04",
       "album": {
@@ -23,6 +79,30 @@
       "duration_ms": 249000,
       "name": "Lupa Daratan",
       "url": "https://open.spotify.com/track/0ze5tL5lom0zD3MFrH0Gz3"
+    },
+    {
+      "added_at": "2025-08-21 19:00:33",
+      "album": {
+        "name": "Ecstasy",
+        "url": "https://open.spotify.com/album/4LVVokSMi6D8f5xX0JO9ev"
+      },
+      "artists": [
+        {
+          "name": "Azimah Fada",
+          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
+        },
+        {
+          "name": "Arif DG Rate",
+          "url": "https://open.spotify.com/artist/2chclvmh09mRLkSBiZCy4O"
+        },
+        {
+          "name": "Saleh Hariwibowo",
+          "url": "https://open.spotify.com/artist/3bk30OwAODCVXw5ST6pBi0"
+        }
+      ],
+      "duration_ms": 233050,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/4IzW5CfN3o1jzugrtwiIrk"
     },
     {
       "added_at": "2025-08-07 19:00:29",

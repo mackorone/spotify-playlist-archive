@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > All new Gospel songs on the rise! Cover: Tasha Cobbs Leonard
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,054 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,095 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 | 49 | [Power In The Blood](https://open.spotify.com/track/3sFAyRkCgGFSGUYyTMIgtH) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Power In The Blood](https://open.spotify.com/album/4rmnC25owAvgwPlNc4UV6y) | 2:48 |
 | 50 | [I Rely \- Live](https://open.spotify.com/track/6hVJICZ2mpcR9D2fFaO0yJ) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely \(Live\)](https://open.spotify.com/album/78SzWZgMmh51cf14XMcHj6) | 5:53 |
 
-Snapshot ID: `AAAAADB11sfVQF0/j3LuRaG8yDnuGFcj`
+Snapshot ID: `AAAAAEcsd+gmHT3fwcA80TZargGwQCj+`

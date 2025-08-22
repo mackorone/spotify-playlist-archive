@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf1e",
-  "num_followers": 140228,
+  "num_followers": 140234,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO22ncgIyeM1OZVxXuF0G+STh4zq",
+  "snapshot_id": "AAAAADgxKfQnxK8Drhd7tsZeIqnxBIHD",
   "tracks": [
     {
       "added_at": "2025-07-18 04:00:28",
@@ -240,7 +240,7 @@
       },
       "artists": [
         {
-          "name": "Alex Nicol",
+          "name": "Al Nicol",
           "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
         }
       ],
@@ -397,20 +397,24 @@
       "url": "https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL"
     },
     {
-      "added_at": "2025-07-18 04:00:28",
+      "added_at": "2025-08-14 14:22:07",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+        "name": "River Run (with Lila Dupont)",
+        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
       },
       "artists": [
         {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        },
+        {
+          "name": "Lila Dupont",
+          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
         }
       ],
-      "duration_ms": 233133,
-      "name": "Nous apr\u00e8s nous",
-      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
+      "duration_ms": 205959,
+      "name": "River Run (with Lila Dupont)",
+      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -435,18 +439,18 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+      "duration_ms": 233133,
+      "name": "Nous apr\u00e8s nous",
+      "url": "https://open.spotify.com/track/5gKETtS1wc1OGaucMkGQLg"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -465,24 +469,20 @@
       "url": "https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce"
     },
     {
-      "added_at": "2025-08-14 14:22:07",
+      "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "River Run (with Lila Dupont)",
-        "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        },
-        {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 205959,
-      "name": "River Run (with Lila Dupont)",
-      "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Parmi les autres",
         "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 219000,
       "name": "Parmi les autres",
       "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "La mort des \u00e9toiles",
-        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "La mort des \u00e9toiles",
-      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Live Slow Die Wise",
         "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 263720,
       "name": "As My Old Man Always Said",
       "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "La mort des \u00e9toiles",
+        "url": "https://open.spotify.com/album/6JMHCAOiIQoJG7Yp8s40m5"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "La mort des \u00e9toiles",
+      "url": "https://open.spotify.com/track/5iDhyg8xIAkK1EJtZdL4Vr"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Oh Brother",
-        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 275506,
-      "name": "Its A Winding Road",
-      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "AVALANCHE (n.f.)",
         "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
       },
@@ -1027,18 +1011,38 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Heavy Stone",
-        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+        "name": "Oh Brother",
+        "url": "https://open.spotify.com/album/3CGoYwEwSQwmL5INCrH6e4"
       },
       "artists": [
         {
-          "name": "Matt Holubowski",
-          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 188027,
-      "name": "Heavy Stone",
-      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+      "duration_ms": 275506,
+      "name": "Its A Winding Road",
+      "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Tant \u00e9trange",
+        "url": "https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2"
+      },
+      "artists": [
+        {
+          "name": "Feathership",
+          "url": "https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm"
+        },
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 209903,
+      "name": "Tant \u00e9trange",
+      "url": "https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1064,7 +1068,7 @@
       },
       "artists": [
         {
-          "name": "Alex Nicol",
+          "name": "Al Nicol",
           "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
         },
         {
@@ -1075,6 +1079,22 @@
       "duration_ms": 237088,
       "name": "Four Strong Winds",
       "url": "https://open.spotify.com/track/1OfBdmEGmQsM1HNhJtCrPP"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Heavy Stone",
+        "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
+      },
+      "artists": [
+        {
+          "name": "Matt Holubowski",
+          "url": "https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO"
+        }
+      ],
+      "duration_ms": 188027,
+      "name": "Heavy Stone",
+      "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1093,24 +1113,20 @@
       "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
     },
     {
-      "added_at": "2025-07-18 04:00:28",
+      "added_at": "2025-08-14 14:22:07",
       "album": {
-        "name": "Tant \u00e9trange",
-        "url": "https://open.spotify.com/album/0m1tCymjc64dSbhZysiRp2"
+        "name": "L\u00e0-bas",
+        "url": "https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb"
       },
       "artists": [
         {
-          "name": "Feathership",
-          "url": "https://open.spotify.com/artist/7jyB6xDRAHOnJseX86s7lm"
-        },
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+          "name": "San James",
+          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
         }
       ],
-      "duration_ms": 209903,
-      "name": "Tant \u00e9trange",
-      "url": "https://open.spotify.com/track/74Wo6oZdOV3pKsDWkNZEnm"
+      "duration_ms": 246613,
+      "name": "L\u00e0-bas",
+      "url": "https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1167,26 +1183,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Tu ne seras jamais l\u00e0",
-        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Tu ne seras jamais l\u00e0",
-      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "Montr\u00e9al (Avec Louis-Jean Cormier)",
         "url": "https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM"
       },
@@ -1207,18 +1203,42 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "UFO RELIGION",
-        "url": "https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI"
+        "name": "Tu ne seras jamais l\u00e0",
+        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
       },
       "artists": [
         {
-          "name": "Safia Nolin",
-          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
         }
       ],
-      "duration_ms": 225227,
-      "name": "pizzaghetti",
-      "url": "https://open.spotify.com/track/1IbPjdgJafRbFF0JuO1O0Q"
+      "duration_ms": 187800,
+      "name": "Tu ne seras jamais l\u00e0",
+      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "it takes 2",
+        "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        },
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "duration_ms": 220677,
+      "name": "it takes 2",
+      "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1243,22 +1263,18 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "it takes 2",
-        "url": "https://open.spotify.com/album/2I2JlWbhLZkkJszoaXEhgn"
+        "name": "UFO RELIGION",
+        "url": "https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI"
       },
       "artists": [
         {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        },
-        {
-          "name": "Le Ren",
-          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+          "name": "Safia Nolin",
+          "url": "https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ"
         }
       ],
-      "duration_ms": 220677,
-      "name": "it takes 2",
-      "url": "https://open.spotify.com/track/3g7id7Tc2ZENnRSd7g1UoM"
+      "duration_ms": 225227,
+      "name": "pizzaghetti",
+      "url": "https://open.spotify.com/track/1IbPjdgJafRbFF0JuO1O0Q"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1295,8 +1311,8 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
@@ -1304,25 +1320,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
-      },
-      "artists": [
-        {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1343,6 +1343,22 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
+      },
+      "artists": [
+        {
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
+        }
+      ],
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1383,8 +1399,8 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
       },
       "artists": [
         {
@@ -1392,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1413,20 +1429,20 @@
       "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
     },
     {
-      "added_at": "2025-08-14 14:22:07",
+      "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "L\u00e0-bas",
-        "url": "https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
       },
       "artists": [
         {
-          "name": "San James",
-          "url": "https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH"
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
         }
       ],
-      "duration_ms": 246613,
-      "name": "L\u00e0-bas",
-      "url": "https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z"
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1447,22 +1463,6 @@
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
-      },
-      "artists": [
-        {
-          "name": "Fernie",
-          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "1969",
-        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
-      },
-      "artists": [
-        {
-          "name": "1969 Collective",
-          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
-        },
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 195360,
-      "name": "Grande ivresse",
-      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
-    },
-    {
-      "added_at": "2025-07-18 04:00:28",
-      "album": {
         "name": "El Cosechero",
         "url": "https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv"
       },
@@ -1555,18 +1535,22 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Tatouage",
-        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
+        "name": "1969",
+        "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+          "name": "1969 Collective",
+          "url": "https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL"
+        },
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
         }
       ],
-      "duration_ms": 179950,
-      "name": "Tatouage",
-      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+      "duration_ms": 195360,
+      "name": "Grande ivresse",
+      "url": "https://open.spotify.com/track/5nPYNl5IlVU2qHnmNZX7yf"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1599,6 +1583,22 @@
       "duration_ms": 245250,
       "name": "Trait d'union",
       "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
+    },
+    {
+      "added_at": "2025-07-18 04:00:28",
+      "album": {
+        "name": "Tatouage",
+        "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Tatouage",
+      "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
     },
     {
       "added_at": "2025-07-18 04:00:28",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-07-18 04:00:28",
       "album": {
-        "name": "Kil",
-        "url": "https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K"
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
       },
       "artists": [
         {
-          "name": "Kahtolin",
-          "url": "https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd"
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
         }
       ],
-      "duration_ms": 244893,
-      "name": "Kil",
-      "url": "https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD"
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

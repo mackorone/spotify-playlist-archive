@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197276,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/6cWhEExHUKZR3boz4yC2Mf"
+    },
+    {
+      "album": {
         "name": "Cuando Amanezca (feat. Danny Ocean, Justin Quiles, Feid)",
         "url": "https://open.spotify.com/album/6WjiLNVEpAtgN4XTwxRvnA"
       },
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 141414,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2uSNmomB97wZrIO7rGXteO"

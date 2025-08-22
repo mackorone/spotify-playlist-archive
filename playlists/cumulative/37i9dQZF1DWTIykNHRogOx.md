@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française\. Photo: Tessa B.
+> Les  meilleures nouveautés de la chanson française avec disiz
 
 204 songs - 11 hr 16 min
 

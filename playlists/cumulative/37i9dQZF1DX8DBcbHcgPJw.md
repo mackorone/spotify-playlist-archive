@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Bauti Mascia & Amigo de Artistas.
 
-661 songs - 1 day 8 hr 43 min
+662 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Pasemos La Noche](https://open.spotify.com/track/0bUVn2PxF5NSKyPEyCDA6U) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Pasemos La Noche](https://open.spotify.com/album/7BFVbGEHuH5FtVYJAxFWjp) | 2:08 | 2021-12-23 | 2022-07-06 |
 | [Pastillitas Pal Olvido](https://open.spotify.com/track/1tj0RZaEzgvV6ZqAeOE18H) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Pastillitas Pal Olvido](https://open.spotify.com/album/4asUUGlYirr2pu5KjjDxFf) | 2:45 | 2023-10-20 | 2024-03-09 |
 | [Pa´Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Pa´ Que Te Acuerdes \| CROSSOVER \#8](https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC) | 2:52 | 2024-10-04 |  |
-| [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 | 2022-08-26 |  |
+| [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 | 2022-08-26 | 2025-08-22 |
 | [Pedacitos](https://open.spotify.com/track/3oE3m87poec2KAZyTV6JOA) | [Lionel Ferro](https://open.spotify.com/artist/7eCV5haSJZFNswFd6asIZp), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pedacitos](https://open.spotify.com/album/2E4VapcOiqFynmYEqWDRpD) | 2:15 | 2023-02-24 | 2023-03-11 |
 | [Pegadito](https://open.spotify.com/track/76tBmmrihJREiTQgFkoHhd) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Pegadito](https://open.spotify.com/album/4SF40PoTpA9CemPk8GgACt) | 2:45 | 2022-11-04 | 2023-01-14 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-01 | 2025-07-25 |
@@ -551,6 +551,7 @@
 | [Te conocí / Niña / No hablen mal de ella \- En Vivo](https://open.spotify.com/track/62pDGH8V2kqqQCQ1W6q5un) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Te conocí / Niña / No hablen mal de ella \(En Vivo\)](https://open.spotify.com/album/1FIic3ytw1Pq5pv2szi802) | 9:52 | 2024-08-02 | 2024-08-13 |
 | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/track/5LtwSwkkWZ3QGdrpcf6gHh) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Locho](https://open.spotify.com/artist/187Mm9XkT2XrJNPzRN5akm) | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/album/4rPgckceMkw5f90Dk6055G) | 6:07 | 2022-07-29 | 2022-08-07 |
 | [Te Digo Adios](https://open.spotify.com/track/3Q3QScOdp6oBTqCN4PkDOp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Te Digo Adios](https://open.spotify.com/album/4r580obRkuoYxHNi9np9XD) | 3:19 | 2022-10-27 | 2022-10-29 |
+| [Te Encontré](https://open.spotify.com/track/2N7NLReRT3PVBxWrPZobsj) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Te Encontré](https://open.spotify.com/album/2zHkbUPb6SChDYFsbKV9uY) | 2:17 | 2025-08-22 |  |
 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/5RAIRR63s7Xz23k2JyMd49) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/5g9KwuwR7JYhTHbjEBZGhn) | 2:41 | 2023-03-10 | 2023-04-06 |
 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 | 2023-04-10 | 2024-04-16 |
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2021-12-23 | 2022-07-25 |

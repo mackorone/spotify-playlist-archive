@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is the range of R&B in Canada\. Elevate your aura with Osé from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,721 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,753 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 26 | [Nirvana](https://open.spotify.com/track/7BvpjeJ4kStmCme5UojR8T) | [Maria\-Therese](https://open.spotify.com/artist/5G7CkGWwTk7l36L6vw0ftK) | [Nirvana](https://open.spotify.com/album/0xC1xwxlmM0UppFISMYP6M) | 3:38 |
 | 27 | [colourNo9](https://open.spotify.com/track/6aZ4cO0fMiVBcA7zauLe8w) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [colourNo9](https://open.spotify.com/album/2CAPzrTpXMPUUJRW7rIGVL) | 2:33 |
 | 28 | [You Do You](https://open.spotify.com/track/0pQFEpe9ey17dMPEvAlVDR) | [Gordon](https://open.spotify.com/artist/67YpieTZ3kCV2MjVCYGE6g) | [It Was Fun While It Lasted](https://open.spotify.com/album/2LHPKf1JxTI2lDa7vrNyIU) | 1:36 |
-| 29 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
+| 29 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
 | 30 | [Go' Head](https://open.spotify.com/track/4xlJlOrT1vgRrL2xxGHcRG) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Formed](https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc) | 2:50 |
 | 31 | [Nostalgia](https://open.spotify.com/track/1IOOLV6bwrN4uH4KWHei0R) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Nostalgia](https://open.spotify.com/album/3RA0A7RkflJudveefNw8H7) | 3:36 |
 | 32 | [I'M THE 1](https://open.spotify.com/track/6rw4atg9TgOwRNOlkhRvNC) | [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [I'M THE 1](https://open.spotify.com/album/4mJEz2f6kT4oM5wfrySNdf) | 2:55 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:DJ Tunez
+> The tracks heating up the continent right now!  Cover: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,695,296 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,695,430 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Coco Money](https://open.spotify.com/track/3ykQCT0ia1RGKbTyfrIQ4Z) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Coco Money](https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i) | 2:16 |
 | 50 | [Nairobi](https://open.spotify.com/track/5XSuj4xrbakbDeSQom3oAr) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 3:23 |
 
-Snapshot ID: `AAAAALCLHFrnHJ0VVuEoljMYGs8O2q2P`
+Snapshot ID: `AAAAAI4LtZ01zKkDjOzG0+BNozk9nmmF`

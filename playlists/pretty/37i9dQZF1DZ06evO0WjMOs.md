@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 
 > This is Lizzy McAlpine\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,564 likes - 42 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,601 likes - 42 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WjMOs.md) - [plain]
 | 41 | [The Ballad of Floyd Collins](https://open.spotify.com/track/7EbjWtxRnufeqy0mSH8MAF) | [Cole Vaughan](https://open.spotify.com/artist/6d0p3m0WnAwoEl1EPt2cs2), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Jessica Molaskey](https://open.spotify.com/artist/5QNZRrmYSHM0rjRjcm5B4V), [Jason Gotay](https://open.spotify.com/artist/18QGDMb7iwtEcsz3n5myg3), [Taylor Trensch](https://open.spotify.com/artist/7etvz6a5jRyLOit19OF5lf), [Original Broadway Cast of Floyd Collins](https://open.spotify.com/artist/5u2KMJw0usjlitlLdsP0A1) | [Floyd Collins \(Original Broadway Cast Recording\)](https://open.spotify.com/album/32F9ayzTrUtPVXcRCLoj8w) | 1:42 |
 | 42 | [When The World Stopped Moving](https://open.spotify.com/track/7JgDvGmgeKcdM633G1XAo9) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG) | 3:14 |
 
-Snapshot ID: `aKEbgAAAAADBpu02yKmztViE5KNDVn4o`
+Snapshot ID: `aKO+gAAAAABrIt+brZM50Twcwhub2KkN`

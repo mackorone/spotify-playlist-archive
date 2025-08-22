@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Juana Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,140 likes - 105 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,151 likes - 105 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 44 | [Traigo un canto guardado](https://open.spotify.com/track/457g7xulyeT3NWNbXQ0eQm) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Traigo un canto guardado](https://open.spotify.com/album/79SImwqTgpYWmA2IZYR32F) | 3:48 |
 | 45 | [Tan delicada](https://open.spotify.com/track/1nJTpla3GEF0z0F7T0QMzU) | [Nadia Alvarez](https://open.spotify.com/artist/0MG7du0o7X8TMdyWm0wAku), [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Tan delicada](https://open.spotify.com/album/3UICv1p8S7af4rylMAqBbu) | 3:19 |
 | 46 | [Como Un Pájaro](https://open.spotify.com/track/4zVznkVDNdQNnXsj058THT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Como Un Pájaro](https://open.spotify.com/album/1X8lMZJ1mkuU6C9cx8oEn8) | 3:28 |
-| 47 | [Hambre pa’ mañana \(feat\. Alex Ferreira\)](https://open.spotify.com/track/4tQonpIXaqmukiUcuAUTpl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Hambre pa’ mañana \(feat\. Alex Ferreira\)](https://open.spotify.com/album/7umpLqi5gRIDPh0MpVyGfn) | 3:27 |
+| 47 | [Hambre pa’ mañana](https://open.spotify.com/track/4tQonpIXaqmukiUcuAUTpl) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Hambre pa’ mañana](https://open.spotify.com/album/7umpLqi5gRIDPh0MpVyGfn) | 3:27 |
 | 48 | [Hoy no tengo nada que hacer](https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [La Pena](https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM) | [Hoy no tengo nada que hacer](https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ) | 4:11 |
 | 49 | [Tus Tetas](https://open.spotify.com/track/2Ux7Ps15O6DvXTlYBS2Nr4) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ) | [Tus Tetas](https://open.spotify.com/album/6JgFYhuu3unjkrFHnVuyN6) | 3:27 |
 | 50 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |

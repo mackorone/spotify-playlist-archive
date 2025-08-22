@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "a good man with a broken heart",
+        "url": "https://open.spotify.com/album/4FmPiLYrJvNFbpSMpWA7Eg"
+      },
+      "artists": [
+        {
+          "name": "LoVibe.",
+          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118726,
+      "name": "a good man with a broken heart",
+      "url": "https://open.spotify.com/track/2Is9PgrKMBJQscOjiAX1QB"
+    },
+    {
+      "album": {
+        "name": "a good man with a broken heart",
         "url": "https://open.spotify.com/album/3kxkF527EE0sDV8ftKEibJ"
       },
       "artists": [
@@ -34,7 +52,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 118752,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/2JvU5ShUHIDgaRB2liXZfs"
@@ -116,7 +134,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Addicted (feat. TIMID.)",
       "url": "https://open.spotify.com/track/3VXJln5ZvlvzbsjJFhRhZE"
@@ -678,6 +696,28 @@
       "duration_ms": 206829,
       "name": "Contesto",
       "url": "https://open.spotify.com/track/4PjAtEHN8MXgXFQwTxIWva"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4Xqf8b22c4vUcl9PFEmy50"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162888,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/7Dh4j5JltkdH159xm77JiF"
     },
     {
       "album": {
@@ -3106,7 +3146,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 135131,
       "name": "Vaitimbora",
       "url": "https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm"
@@ -3176,7 +3216,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 194198,
       "name": "Versatile",
       "url": "https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0"

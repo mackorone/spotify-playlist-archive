@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists and labels every Wednesday\. Cover: Frayle
+> New music by the heaviest independent artists and labels every Wednesday\. Cover: Sumo Cyco
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,960 likes - 99 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,002 likes - 99 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 98 | [bloom](https://open.spotify.com/track/45BDRlc6wxYRKkmVWEPKlr) | [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [bloom](https://open.spotify.com/album/4qvVYqVmJE1f0UcSD3xwIj) | 2:33 |
 | 99 | [Out of Time](https://open.spotify.com/track/4Fml0YNyT7BCVYLzHrkGii) | [Neroargento](https://open.spotify.com/artist/1SOuNgUgA2KQ5vzae2EHbL) | [Out of Time](https://open.spotify.com/album/6A3F4CEWGx3lUqmMFS3geS) | 4:10 |
 
-Snapshot ID: `AAAAAKwMrUK5P+0HydRV/IphI/wI6Yte`
+Snapshot ID: `AAAAAK2xA6bfyD/cBNBr0bQGWBc5ROZP`

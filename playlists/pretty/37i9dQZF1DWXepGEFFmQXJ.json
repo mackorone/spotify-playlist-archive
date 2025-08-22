@@ -1,15 +1,15 @@
 {
-  "description": "The cream of today's country crop. Cover: Jordan Davis",
-  "num_followers": 428619,
+  "description": "The cream of today's country crop. Cover: Casey Barnes",
+  "num_followers": 428674,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKJaiKbMqsmEdFAbqa2kFBN7lLbg",
+  "snapshot_id": "AAAAAFeW7olq+Eb4wG/KDGv7K9UI7Xoe",
   "tracks": [
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Learn The Hard Way",
         "url": "https://open.spotify.com/album/134A79bb9B0FH4ZYxyQ3Sp"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/0froGQFzaDPiXzxxk0LuOi"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Bottomland",
+        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 184942,
+      "name": "Bottomland",
+      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Bottomland",
-        "url": "https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 184942,
-      "name": "Bottomland",
-      "url": "https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Back in the Saddle",
         "url": "https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ"
@@ -77,23 +77,55 @@
       "url": "https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
-        "name": "GOOD FOR ME",
-        "url": "https://open.spotify.com/album/1u0fLfQZxIzn7aUHCEzQVD"
+        "name": "ROUGH AROUND THE EDGES",
+        "url": "https://open.spotify.com/album/4P7BBGtLQ74qTE4fefr7b6"
       },
       "artists": [
         {
-          "name": "James Johnston",
-          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+          "name": "Casey Barnes",
+          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
         }
       ],
-      "duration_ms": 161716,
-      "name": "GOOD FOR ME",
-      "url": "https://open.spotify.com/track/0DPM9a6Jo4FaI4kuqLJTgi"
+      "duration_ms": 181134,
+      "name": "ROUGH AROUND THE EDGES",
+      "url": "https://open.spotify.com/track/40f663y3mSalcn86L0MT3x"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Peace, Love, and Cowboys",
+      "url": "https://open.spotify.com/track/0vQVAtvDlmUHzZAegghKfH"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "My Side Of Town",
+        "url": "https://open.spotify.com/album/3kjLeioihBaAQdGQePALiw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 162060,
+      "name": "My Side Of Town",
+      "url": "https://open.spotify.com/track/5u4otkyiGjEPj90cNtX8gd"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Better than the Floor",
         "url": "https://open.spotify.com/album/5zprpbKkTiYN1NO8DHfdB7"
@@ -113,7 +145,55 @@
       "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "GOOD FOR ME",
+        "url": "https://open.spotify.com/album/1u0fLfQZxIzn7aUHCEzQVD"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "duration_ms": 161716,
+      "name": "GOOD FOR ME",
+      "url": "https://open.spotify.com/track/0DPM9a6Jo4FaI4kuqLJTgi"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Like It Like That",
+        "url": "https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 167527,
+      "name": "Like It Like That",
+      "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Famous Back Home",
+        "url": "https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 163207,
+      "name": "Love That I Love You",
+      "url": "https://open.spotify.com/track/5vmUocjY3qCtBZo13xpczD"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU"
@@ -133,23 +213,27 @@
       "url": "https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
-        "name": "Turn This Truck Around",
-        "url": "https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg"
+        "name": "Turned Into Missing You (feat. Avery Anna)",
+        "url": "https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 204013,
-      "name": "Turn This Truck Around",
-      "url": "https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l"
+      "duration_ms": 219741,
+      "name": "Turned Into Missing You (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Devil Ain't Done",
         "url": "https://open.spotify.com/album/58yUzbtEVHfWdxdn6uvbwM"
@@ -165,7 +249,23 @@
       "url": "https://open.spotify.com/track/5mv5HTiMbXN9TJFN79W9UH"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Turn This Truck Around",
+        "url": "https://open.spotify.com/album/1vvuNH6s9nkkUIZKf1itJg"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Turn This Truck Around",
+      "url": "https://open.spotify.com/track/6Yvrv046xNsQXX3MirnO8l"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Streets of London",
         "url": "https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF"
@@ -181,7 +281,23 @@
       "url": "https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/4Ja7hIWc5OM23OygWQ7zLA"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "duration_ms": 282461,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1NFoiN49PDuBXtUHdNbbDs"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Chevy Silverado",
         "url": "https://open.spotify.com/album/4XbzaCm1Eg2kKza2rkTKIP"
@@ -197,23 +313,7 @@
       "url": "https://open.spotify.com/track/4d7xkIulyiI53l1n4K2Nor"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Night Diving (The Cost of Growing Up)",
-        "url": "https://open.spotify.com/album/0iK9uLukiE9sSqJ7P58C4c"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 193707,
-      "name": "Forever Ain't Long Enough",
-      "url": "https://open.spotify.com/track/5bKXRRnFPZfKWP1iIzq0FV"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE"
@@ -229,7 +329,7 @@
       "url": "https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Snipe Hunter",
         "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
@@ -245,7 +345,7 @@
       "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "The Thing About Us",
         "url": "https://open.spotify.com/album/6jeWOR4WLDY93oZ39yFAbd"
@@ -261,7 +361,7 @@
       "url": "https://open.spotify.com/track/6iv02GFYLyihjmLKnDgtWM"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Music for the Soul",
         "url": "https://open.spotify.com/album/6ycV8cYSdhSZwKKyh7Ngal"
@@ -277,7 +377,7 @@
       "url": "https://open.spotify.com/track/2CkZIsVGVK7vOpWlPjJ2SE"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "About A Woman (& A Good Ol' Boy)",
         "url": "https://open.spotify.com/album/7vWt3Oe027TmVOxBBVKrIC"
@@ -297,7 +397,7 @@
       "url": "https://open.spotify.com/track/0tKsXVJc0aqLQ2NYOIOTPt"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Never Met Anyone Like You (feat. HARDY)",
         "url": "https://open.spotify.com/album/07v7okIuI77b0Y2twqEGDS"
@@ -317,7 +417,7 @@
       "url": "https://open.spotify.com/track/4LXL1lRpybr8s4x0vkPQm5"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Madeline (feat. Gabriella Rose)",
         "url": "https://open.spotify.com/album/6GtkOiEX7Hp8N21AFhmafQ"
@@ -337,7 +437,7 @@
       "url": "https://open.spotify.com/track/2DDo2QqElDO9PgOHeGtQiy"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Texas Forever",
         "url": "https://open.spotify.com/album/2Ob2sg38jCEu6s25riXlPe"
@@ -353,43 +453,7 @@
       "url": "https://open.spotify.com/track/69nGnXCmSpxnlY2L0RJ5id"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Oh, Anna!",
-        "url": "https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Oh, Anna!",
-      "url": "https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Drunk Right Now (Na Na Na) with Akon",
-        "url": "https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 198660,
-      "name": "Drunk Right Now (Na Na Na) with Akon",
-      "url": "https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "2 Pair",
         "url": "https://open.spotify.com/album/3VHEASoFkUyUTGWMJo38Hi"
@@ -405,7 +469,7 @@
       "url": "https://open.spotify.com/track/7fzIuU0L6c6s56cGnbik3N"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Songs From Faded Polaroids",
         "url": "https://open.spotify.com/album/6O0f2paua2FCyIBb7Yejci"
@@ -421,23 +485,7 @@
       "url": "https://open.spotify.com/track/6QReiqzyZkC0sgjiqTV5xk"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "ROUGH AROUND THE EDGES",
-        "url": "https://open.spotify.com/album/4P7BBGtLQ74qTE4fefr7b6"
-      },
-      "artists": [
-        {
-          "name": "Casey Barnes",
-          "url": "https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60"
-        }
-      ],
-      "duration_ms": 181134,
-      "name": "ROUGH AROUND THE EDGES",
-      "url": "https://open.spotify.com/track/40f663y3mSalcn86L0MT3x"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/5xGzRgDJ8Vxwpp6GqDTGGg"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Westward",
         "url": "https://open.spotify.com/album/22iWmNK24h2hurzUzXnY1V"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/4H1lx071cGLnZ3Ct8q2mmd"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Can't See The Sky",
         "url": "https://open.spotify.com/album/00IP1eiD3oFWl36Jj8lkP7"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/7kGzAyUWmnLFg4szDxdX6x"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "The Easy Part",
         "url": "https://open.spotify.com/album/6igHTjBIaZOADFFNEsRMh3"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/4jXhn6VdZJ9Em2oQoBCRdL"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Midtown Sessions",
         "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
@@ -521,7 +569,7 @@
       "url": "https://open.spotify.com/track/4kXx6CEEqO47DWccKO4KBQ"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Country Soul",
         "url": "https://open.spotify.com/album/29TskgPY5eNAWmxgErcsZ1"
@@ -537,7 +585,7 @@
       "url": "https://open.spotify.com/track/4R0JAILCOF8xbEkMo70gTR"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Spanish Moss",
         "url": "https://open.spotify.com/album/7k56MAd5kMXPEGLlH8s13V"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/5KUD7qUTDNyyweV4zpjxsF"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Oneida",
         "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
@@ -569,7 +617,7 @@
       "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "6 Months Later",
         "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
@@ -585,7 +633,7 @@
       "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Last Sip of Summer",
         "url": "https://open.spotify.com/album/0XiXSefXS6syX87Z6UQ5vo"
@@ -601,7 +649,7 @@
       "url": "https://open.spotify.com/track/4ZOoHIATFCuBrvQnsGbFbm"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Damn Good Taste in Whiskey",
         "url": "https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz"
@@ -617,7 +665,7 @@
       "url": "https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Easy Does It",
         "url": "https://open.spotify.com/album/328tuPAI8AlyW6AC51ud4R"
@@ -633,7 +681,7 @@
       "url": "https://open.spotify.com/track/3GLjg6Zmjw3gPrKUheQZfR"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Neon Cowgirl",
         "url": "https://open.spotify.com/album/5qYyebQuexbCTZWHwD0B5O"
@@ -653,7 +701,7 @@
       "url": "https://open.spotify.com/track/6O7gEqBqKp2vUGJaqZnLQb"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Parker McCollum",
         "url": "https://open.spotify.com/album/0yqDWZNB69J3FYyQPgF4xA"
@@ -669,7 +717,23 @@
       "url": "https://open.spotify.com/track/7f0FidagqvvapT7TeaWfuP"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
+      "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 167508,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO"
+    },
+    {
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "In The Neon",
         "url": "https://open.spotify.com/album/0XTtbQ1QO5vymEZRhxAXn7"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/51UjPpj7YIeJ8xMYjmrLtR"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
@@ -705,7 +769,7 @@
       "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "New Country (feat. Blake Shelton)",
         "url": "https://open.spotify.com/album/71i26TrPiwqS2VQ0gTxbX8"
@@ -725,23 +789,7 @@
       "url": "https://open.spotify.com/track/3zgZgaTkhrEhP8isvTw4Fr"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
@@ -781,39 +829,7 @@
       "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Glass Half Empty",
-        "url": "https://open.spotify.com/album/7uwwX1yRH3vlKorIlq5Fpf"
-      },
-      "artists": [
-        {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
-        }
-      ],
-      "duration_ms": 147123,
-      "name": "Glass Half Empty",
-      "url": "https://open.spotify.com/track/0cwo2CCBN8M8HuFm2pVvL0"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Cowboy Sh!t",
-        "url": "https://open.spotify.com/album/2OLie3YvtvLUleahxOyruz"
-      },
-      "artists": [
-        {
-          "name": "Karley Scott Collins",
-          "url": "https://open.spotify.com/artist/3bJlfqqO9pIrMvDuvvnGaF"
-        }
-      ],
-      "duration_ms": 154438,
-      "name": "Cowboy Sh!t",
-      "url": "https://open.spotify.com/track/6JtXOrme67AbN3NAPNXpBs"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC"
@@ -829,23 +845,7 @@
       "url": "https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5"
     },
     {
-      "added_at": "2025-08-14 14:00:43",
-      "album": {
-        "name": "Me & You",
-        "url": "https://open.spotify.com/album/4wTcGH918lQogI7Tyz7hEx"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 167508,
-      "name": "Me & You",
-      "url": "https://open.spotify.com/track/4mSfyqUcjl0Zwb2YWYohyO"
-    },
-    {
-      "added_at": "2025-08-14 14:00:43",
+      "added_at": "2025-08-21 14:00:09",
       "album": {
         "name": "What Not To",
         "url": "https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl"

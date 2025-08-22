@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=OYztKxMcTRakkpkNEB9tjw"> Kenji</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,512 likes - 457 songs - 22 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,546 likes - 457 songs - 22 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 109 | [Grateful](https://open.spotify.com/track/4vMjkeZmTDBAdWFWIR2MGl) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [CARROT](https://open.spotify.com/album/60hvg9iSDNXEJ5SBpnTYrn) | 3:20 |
 | 110 | [In The Morning](https://open.spotify.com/track/0fb2AcWxKON1nf7MFs8cfN) | [Mönt Lee](https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH) | [In The Morning](https://open.spotify.com/album/6xzSYJoTfeW7dkZZ9DVI3O) | 2:20 |
 | 111 | [SKIN](https://open.spotify.com/track/1TWKX0unrp8DGCxqhYOjBZ) | [Twellly](https://open.spotify.com/artist/1isLpCDTiMLbyn5PMKU9Jo) | [SKIN](https://open.spotify.com/album/08yLZDI8zSOVldudjZKAgg) | 2:44 |
-| 112 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
+| 112 | [WALLS](https://open.spotify.com/track/3XAmB89gjjJn66OuY3ZwqC) | [Ashton Mills](https://open.spotify.com/artist/2CEZHYuMxZymBWHPFzL0nZ), [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [WALLS](https://open.spotify.com/album/4pK1DG5LV1eyNF1omVyJYu) | 2:50 |
 | 113 | [Severed](https://open.spotify.com/track/6HjceSo92em0QBGdF69ZZt) | [Maxx Moor](https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt) | [Severed](https://open.spotify.com/album/7GjZayofncKicRO8zTDHUb) | 1:54 |
 | 114 | [2:35 AM](https://open.spotify.com/track/3b3MgbQskkpBb6rSkoIAoh) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [2:35 AM](https://open.spotify.com/album/0GNrin1X4arFTobCUHBOyq) | 4:23 |
 | 115 | [say swear](https://open.spotify.com/track/6Hzi9t6gc3JeSVmYbAx9vm) | [Isaiah Kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [say swear](https://open.spotify.com/album/2QcPPDHyYRFsBctu3Sa3ha) | 3:48 |

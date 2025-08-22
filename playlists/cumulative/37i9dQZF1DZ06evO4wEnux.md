@@ -4,7 +4,7 @@
 
 > This is Fatherson\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 19 min
+39 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Do It for Yourself](https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 | 2022-09-16 |  |
 | [Dust](https://open.spotify.com/track/1GJOD1hL174nX6mdaLXeSs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 2:38 | 2022-09-16 | 2025-07-31 |
 | [End Of The World](https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:18 | 2022-09-18 | 2025-08-03 |
+| [Everything](https://open.spotify.com/track/0vAIEEH2tkYgmotVvEb84d) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 2:50 | 2025-08-22 |  |
 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 | 2022-09-16 |  |
 | [Ghost](https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:02 | 2022-09-16 |  |
 | [Gratitude](https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:37 | 2022-09-25 | 2022-10-13 |
@@ -42,7 +43,7 @@
 | [Piece Of Mind](https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Piece Of Mind](https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08) | 3:21 | 2023-07-28 |  |
 | [Reflection](https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 5:14 | 2022-09-16 |  |
 | [Sleeping Over](https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:13 | 2022-09-16 |  |
-| [The Feeling And The Sound](https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:11 | 2023-06-13 |  |
+| [The Feeling And The Sound](https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal Fears](https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB) | 3:11 | 2023-06-13 | 2025-08-22 |
 | [The Landscape](https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:25 | 2022-10-12 | 2024-03-23 |
 | [The Rain](https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 3:58 | 2022-09-16 |  |
 | [Wondrous Heart](https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 4:11 | 2022-11-04 |  |

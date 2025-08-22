@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Big Up
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,675 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,674 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 29 | [Amor Bandido](https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Arcano 19](https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP) | 4:04 |
 | 30 | [Pode Sair / Pode Ficar](https://open.spotify.com/track/7aDbe2Ga5ptrXhJ5oRReaR) | [Math Basso](https://open.spotify.com/artist/39vofNTfJCZegFfSljqxhZ), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Pode Sair / Pode Ficar](https://open.spotify.com/album/3DGdy9CvatHGlNjFSlsFiS) | 2:53 |
 | 31 | [Trama](https://open.spotify.com/track/3aJ2s11rSi5r13qiegTs1o) | [Reis do Nada](https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3), [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [NUNES](https://open.spotify.com/artist/4FRO1O8sl4JqvXrJSNGqPr), [Aksel](https://open.spotify.com/artist/1sUETKU4N8F8kABpmDiOZW) | [Trama](https://open.spotify.com/album/0cjiJLtUVvsUtxuDfWn2a7) | 4:19 |
-| 32 | [Tangará](https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF) | [Ninjahmen](https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D), [Jambu Estúdio](https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW) | [2Hard2Love2](https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF) | 2:18 |
-| 33 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
+| 32 | [Tudo É Pra Sempre Agora](https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB) | [Don L](https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu), [Luiza De Alexandre](https://open.spotify.com/artist/1LIAMLWV3frQDDLETfApOS) | [Tudo É Pra Sempre Agora](https://open.spotify.com/album/7rKUa1ln9WBcyjY0N7v7m1) | 3:05 |
+| 33 | [Tangará](https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF) | [Ninjahmen](https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D), [Jambu Estúdio](https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW) | [2Hard2Love2](https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF) | 2:18 |
 | 34 | [assim](https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [assim](https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3) | 2:51 |
 | 35 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 |
 | 36 | [Raio de Sol](https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Josyara](https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC) | [Raio de Sol](https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp) | 3:26 |

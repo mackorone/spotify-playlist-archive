@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Travis Scott
 
-821 songs - 1 day 18 hr 25 min
+822 songs - 1 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 | 2025-05-15 | 2025-06-26 |
 | [Blueberry Faygo](https://open.spotify.com/track/6wJYhPfqk3KGhHRG76WzOh) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Blueberry Faygo](https://open.spotify.com/album/6rBennOYWR1OZQnsU39PKL) | 2:42 | 2022-01-07 | 2023-04-21 |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-07-02 | 2024-09-17 |
+| [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 | 2025-08-21 |  |
 | [Boujee](https://open.spotify.com/track/5vk6nP3fXbz9FoFmsu5coD) | [Tizzy Stackz](https://open.spotify.com/artist/3oBYsMKXO4E5j6j3hzFygR) | [Boujee](https://open.spotify.com/album/2gS4vzLZn2Hx01uLVCiYSt) | 2:16 | 2022-04-01 | 2022-04-11 |
 | [Bounce Freestyle](https://open.spotify.com/track/3NKQ5RU0qRtbwPXe1p8tVW) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Bounce Freestyle](https://open.spotify.com/album/5JThnqxCheeZzTAudhWQyM) | 1:29 | 2022-02-18 | 2022-02-20 |
 | [Bound 2](https://open.spotify.com/track/3sNVsP50132BTNlImLx70i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 3:49 | 2022-09-02 | 2022-12-03 |
@@ -370,7 +371,7 @@
 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 | 2023-09-15 | 2023-12-09 |
 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 | 2022-07-21 | 2022-07-24 |
 | [JUST LIKE YOU](https://open.spotify.com/track/7tTRFVlFzk6yTnoMcParmi) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [CLOUDS \(THE MIXTAPE\)](https://open.spotify.com/album/7eQGtkzCgrIWDOe76E9F8t) | 4:11 | 2022-04-01 | 2023-04-21 |
-| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-06-11 |  |
+| [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Just Us \(feat\. Doja Cat\)](https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy) | 2:52 | 2025-06-11 | 2025-08-22 |
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2023-04-27 |  |
 | [Keanu Reeves](https://open.spotify.com/track/25F6MWrnFBCXVnpN4n76EK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Keanu Reeves](https://open.spotify.com/album/0Tirid9OpXh04sbjrNq57w) | 3:45 | 2022-04-01 | 2022-04-12 |
 | [Keep Runnin'](https://open.spotify.com/track/0VXleiGtaAwqjf9dqflq1r) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [Keep Runnin'](https://open.spotify.com/album/7hxKQmVA0wX1KGqWtJ1Wqz) | 2:21 | 2022-01-07 | 2022-04-24 |

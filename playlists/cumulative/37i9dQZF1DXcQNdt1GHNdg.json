@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 148800,
       "name": "JUST DANCE",
       "url": "https://open.spotify.com/track/5IRU4LPylqFkkCFHkGr9FE"
@@ -3833,6 +3833,28 @@
     },
     {
       "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/30zVXH1VErRNFK8g6PdyKX"
+      },
+      "artists": [
+        {
+          "name": "WARAS",
+          "url": "https://open.spotify.com/artist/2CbmLxUseLRT1t12lZe4Wo"
+        },
+        {
+          "name": "Prodbyastxr",
+          "url": "https://open.spotify.com/artist/2bFsfFrihUTO1ypyCnOluc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/1GJGtsMN2KNtNhPnLHT7jp"
+    },
+    {
+      "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY"
       },
@@ -4242,7 +4264,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-22",
       "duration_ms": 218666,
       "name": "PPL",
       "url": "https://open.spotify.com/track/0FjTHHJL0ouvjgXskvxwyK"
@@ -5352,6 +5374,36 @@
       "duration_ms": 181340,
       "name": "Thaa",
       "url": "https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb"
+    },
+    {
+      "album": {
+        "name": "Thaapi",
+        "url": "https://open.spotify.com/album/5OKBJ2waZdITplxdgSuyh9"
+      },
+      "artists": [
+        {
+          "name": "Deep Kalsi",
+          "url": "https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        },
+        {
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+        },
+        {
+          "name": "Pranjal Dahiya",
+          "url": "https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Thaapi",
+      "url": "https://open.spotify.com/track/6CYUm0BYIkhY1KO1d0JuFw"
     },
     {
       "album": {

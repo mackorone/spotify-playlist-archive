@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Thelma & James
+> The home of Canadian country music\. Cover: Josh Ross
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,077 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,113 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 74 | [Stray Bullet](https://open.spotify.com/track/5e6nn5XHkxlE03vG6Hp8XH) | [Mitch Zorn](https://open.spotify.com/artist/0oIZCkRWLup8z9nLIEteQ7) | [Mitch Zorn](https://open.spotify.com/album/2WYoAwG03kFOyL8oIqOnfP) | 2:23 |
 | 75 | [You Problem](https://open.spotify.com/track/4EZvWqWbZtOdCPa8P5jzET) | [Tony Stevens](https://open.spotify.com/artist/0YwklV2iGY9kq03JYJMtKN) | [Days Like This](https://open.spotify.com/album/0HFWQXxhxtlJ4ztZUIkjpW) | 3:04 |
 
-Snapshot ID: `AAAAALgxxKKxzXKb2MG4HCHnNKFs3umc`
+Snapshot ID: `AAAAAFTvmCqUCUTbZ8Xcp9ITGxrIvf/2`

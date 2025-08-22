@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-349 songs - 1 day 8 hr 9 min
+350 songs - 1 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-12-15 | 2024-06-01 |
 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 | 2019-08-15 | 2023-11-03 |
 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 | 2019-02-12 | 2023-04-21 |
+| [Lufuno Lwau](https://open.spotify.com/track/1UYX1SPwh56nkZd2D85KWX) | [Takie & Rofhiwa](https://open.spotify.com/artist/4Lucgup4VnHrtYPfAvBIRS), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Live at Kalahari](https://open.spotify.com/album/5e29gpFU8qp5oRj0r3DuF6) | 5:08 | 2025-08-22 |  |
 | [Madiba](https://open.spotify.com/track/72mzHasEwIXJplSrYh2Ylm) | [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [7Summers](https://open.spotify.com/album/5tAx5V2rIEbqBAF40tNNeg) | 5:29 | 2024-08-08 | 2024-08-16 |
 | [Makabongwe uJesu](https://open.spotify.com/track/1llOv5AOOgpT1Glx5lXhRg) | [Jumbo](https://open.spotify.com/artist/23GUiGOEzwVMvXhjpO3xYH) | [Siyabonga](https://open.spotify.com/album/58RCw7SK4RdMbATnm0yzdq) | 4:33 | 2023-05-12 | 2023-11-03 |
 | [Make a Way \- Live](https://open.spotify.com/track/6pyXckwhvsn3o8ITLymLDU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mmatema](https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 4:38 | 2023-06-23 | 2023-11-03 |
@@ -200,7 +201,7 @@
 | [My Testimony](https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [I Win](https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu) | 10:25 | 2018-09-23 | 2023-11-03 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2023-06-23 | 2023-11-10 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-08-08 | 2025-07-11 |
-| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-08-16 |  |
+| [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2024-08-16 | 2025-08-22 |
 | [Nearer My God to Thee](https://open.spotify.com/track/7klN6mE79nMKS3sP3RWcf3) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Gospel](https://open.spotify.com/album/6q5STzEtZOcixjE2lCthgv) | 4:10 | 2021-07-23 | 2023-06-23 |
 | [Net Een Naam](https://open.spotify.com/track/578ejxjcublbBj2IJ9bKly) | [Retief Burger](https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl) | [Net Een Naam](https://open.spotify.com/album/2FMPMpKV6UBsKvalipOWtJ) | 3:41 | 2023-06-02 | 2023-06-23 |
 | [Never Would Have Made It](https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Thirsty](https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy) | 6:55 | 2018-09-23 |  |

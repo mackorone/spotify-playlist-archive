@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best new AUS & NZ Rap\. Cover: The 046
+> The best new AUS & NZ Rap\. Cover: Lisi
 
-1,281 songs - 2 day 11 hr 43 min
+1,283 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Angel](https://open.spotify.com/track/622de8teHH3niOkTxInOzR) | [FERBY](https://open.spotify.com/artist/2Xt8TZslgGFHAoVBeTgJim) | [Angel](https://open.spotify.com/album/6G74ts9KsuaW073koTQmWm) | 2:20 | 2023-03-09 | 2023-04-28 |
 | [ANGEL EYES](https://open.spotify.com/track/3US0FSC1DGuYLuRGAK95z7) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [ANGEL EYES](https://open.spotify.com/album/7tf6sADlCZxD5z1AbrgrHu) | 2:30 | 2022-06-16 | 2022-07-29 |
 | [ANIMAL](https://open.spotify.com/track/1yEizpMEyINt6TaV58ONBi) | [Kowa Mirai](https://open.spotify.com/artist/3YGBevTng3pYSHe79QJ7xu) | [ANIMAL](https://open.spotify.com/album/1E7dyUXcdGmB8L0QgJS3B8) | 1:33 | 2025-02-06 | 2025-04-25 |
-| [anxiety](https://open.spotify.com/track/3gLHFLsPB4NqYP0pKUx9cv) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [anxiety](https://open.spotify.com/album/0YWniT77lMqhxzqtiZUGRT) | 1:34 | 2025-06-19 |  |
+| [anxiety](https://open.spotify.com/track/3gLHFLsPB4NqYP0pKUx9cv) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [anxiety](https://open.spotify.com/album/0YWniT77lMqhxzqtiZUGRT) | 1:34 | 2025-06-19 | 2025-08-22 |
 | [Anything Goes](https://open.spotify.com/track/0FU8AIBNGxSZ8IdXsSUjWF) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Anything Goes](https://open.spotify.com/album/78o0jD0mpRLazYdUfYiK04) | 2:06 | 2024-08-23 | 2024-12-20 |
 | [Anything I Want](https://open.spotify.com/track/4B9hLmAE1ln9HFWeyd5R3L) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Anything I Want](https://open.spotify.com/album/4oM14dSjci8M4412lOqNQN) | 2:12 | 2023-09-21 | 2024-01-26 |
 | [Arabian Nights](https://open.spotify.com/track/5Pg5qp7OcAxSeIDTp6smYZ) | [SheWantSev](https://open.spotify.com/artist/6ZtJ96ByRPhrhusA2SInLB) | [Arabian Nights](https://open.spotify.com/album/0JPS47gplkJvwHWL8yBYH2) | 3:08 | 2023-01-05 | 2023-06-23 |
@@ -222,6 +222,7 @@
 | [CITY 2 WEST](https://open.spotify.com/track/5j1HnLFIQB4BWMS2HOk1fg) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [JAYVY](https://open.spotify.com/artist/5nzxFTaL8FDA5lLlm5PbKj) | [CITY 2 WEST](https://open.spotify.com/album/78gTk5y1cRqMf2JnONzFtK) | 2:53 | 2022-05-18 | 2022-10-07 |
 | [CITY LIGHTS \(Rollin' Rollin'\)](https://open.spotify.com/track/39629LdQiVd8l2lVsdOySd) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee), [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [CITY LIGHTS \(Rollin' Rollin'\)](https://open.spotify.com/album/3WOSGINjLHdP067ZToQ6Zf) | 2:34 | 2022-09-29 | 2022-12-16 |
 | [City Of Gods](https://open.spotify.com/track/4BQgU3gXCoyr78Ti7yPQXq) | [Saintninety9](https://open.spotify.com/artist/5mJsiJOqUtHf4LGTkkVQbd) | [City Of Gods](https://open.spotify.com/album/717ychVjVw6BLEDAlDFClE) | 3:27 | 2023-04-27 | 2023-08-25 |
+| [City People](https://open.spotify.com/track/0o7TvT7147Zcbl6AkYqYyz) | [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [City People](https://open.spotify.com/album/6JEtpAPRUbi0ZqaAjU3EwR) | 2:27 | 2025-08-21 |  |
 | [City Wok](https://open.spotify.com/track/04FkJjeESzC1zdtJIQfC4Y) | [JEREMIAH THE NINE](https://open.spotify.com/artist/6U0qdlItFAqA3pkl0aA7WJ), [Dozey](https://open.spotify.com/artist/2gxgPXr4MrLnzojrrDKXBX) | [City Wok](https://open.spotify.com/album/7mpyQLAj5djk7GTmd36AYx) | 3:22 | 2024-04-11 | 2024-06-14 |
 | [Clacka Walk](https://open.spotify.com/track/08Yfg1bHBMleQKRsLjPTPU) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Nyxladd](https://open.spotify.com/artist/59et7vDFXkN7N6mXSrNTY5) | [Clacka Walk](https://open.spotify.com/album/6Geu6ItsFOji7XvaofMmaQ) | 2:38 | 2025-02-27 | 2025-06-20 |
 | [Cleopatra](https://open.spotify.com/track/3Y11Cdb3yQqTlz6FyVmxQN) | [SHYY](https://open.spotify.com/artist/1YwahHQ8EJW7tM6z9hQci3), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Cleopatra](https://open.spotify.com/album/0DJs9ZbmZfELKebEReq8Du) | 2:15 | 2023-11-23 | 2024-04-26 |
@@ -366,6 +367,7 @@
 | [Fear No Man](https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Fear No Man](https://open.spotify.com/album/0BF5rWuYZpmdYubp9BczGI) | 3:28 | 2024-04-19 | 2024-09-06 |
 | [Feel](https://open.spotify.com/track/5ssTxffu9Q0Uu0iroAFKry) | [Vida Sunshyne](https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ) | [Feel](https://open.spotify.com/album/4FwKSh8ITgVCqDyp8ch9Vr) | 2:56 | 2023-11-16 | 2024-03-15 |
 | [Feeling Fly](https://open.spotify.com/track/1SYUlzEQZTQ1wwQM7WsmQZ) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI) | [Feeling Fly](https://open.spotify.com/album/3JJsbuMxBQ5JX1TE8IkwF3) | 2:25 | 2024-11-08 | 2025-03-21 |
+| [Feeling Rich](https://open.spotify.com/track/5U10tIWZLkiKqtqrPaWAyA) | [Kash](https://open.spotify.com/artist/783o8iFjWYhKqGj88z6WY3) | [Feeling Rich](https://open.spotify.com/album/4rkMaMYf89eYEwRQEb7fHl) | 1:57 | 2025-08-21 |  |
 | [Feeling You \(feat\. James Abberley, Jaden Wakefield, Kryple, Tonite\)](https://open.spotify.com/track/61OGGTDhUp3hqsreChY23x) | [Drapht](https://open.spotify.com/artist/4Q6bcEc5YCypvMZ5kjaTMp), [James Abberley](https://open.spotify.com/artist/5qsYRirGEYMmAT2Z9Ft5N6), [Jaden Wakefield](https://open.spotify.com/artist/5qYON9aycMnuJ8FabAgoyf), [Kryple](https://open.spotify.com/artist/02VsM8leqEgg5jrfvUgTIv), [Tonite](https://open.spotify.com/artist/7cPrhjMrWjChg6vIisUCxI) | [Feeling You \(feat\. James Abberley, Jaden Wakefield, Kryple, Tonite\)](https://open.spotify.com/album/0y1LVLbCU7CS2RYcwazRmB) | 4:28 | 2024-05-03 | 2024-06-28 |
 | [Fiesta](https://open.spotify.com/track/12ytgH5JAiEJBbm4se4uSc) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [Fiesta](https://open.spotify.com/album/0CWirio5TvUHfTl9TF1rFY) | 3:00 | 2023-11-16 | 2024-02-16 |
 | [FIGHTBACK](https://open.spotify.com/track/1X2aoNty2dgNh2ACnD1pkr) | [Zion Garcia](https://open.spotify.com/artist/3CAMrIAp5DB3k5HS8lXowX) | [FIGHTBACK](https://open.spotify.com/album/2OmZI1BEgfXjZpcN8UXDTZ) | 2:29 | 2025-05-08 | 2025-08-08 |
@@ -793,7 +795,7 @@
 | [NOKIA 6OY](https://open.spotify.com/track/3x4GBlCBALBmOU3oOdejFR) | [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [NOKIA 6OY](https://open.spotify.com/album/79SUwO4Kw6JCXMItpqxI27) | 3:30 | 2022-12-04 | 2022-12-22 |
 | [Northside](https://open.spotify.com/track/69ajBgmgWTlbKmVqJD4TzL) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [KVNLOVERBOY](https://open.spotify.com/artist/2rlYr1sTRq3Ey2ktT2XPIG) | [Northside](https://open.spotify.com/album/7H0V17nIruoQ8As5A4sxCH) | 3:42 | 2023-03-16 | 2023-05-12 |
 | [Northside Stepper](https://open.spotify.com/track/2ONo43uD9sG5Bhth17nTA7) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Northside Stepper](https://open.spotify.com/album/6gPlt7EUFhnEQ16DRn4AUU) | 2:23 | 2022-06-23 | 2022-12-09 |
-| [Not DnD](https://open.spotify.com/track/3nYxjneoVeJSeibS7QILSu) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Not DnD](https://open.spotify.com/album/5nXALqgifsW7RIwETUl9Ns) | 1:42 | 2025-03-28 |  |
+| [Not DnD](https://open.spotify.com/track/3nYxjneoVeJSeibS7QILSu) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Not DnD](https://open.spotify.com/album/5nXALqgifsW7RIwETUl9Ns) | 1:42 | 2025-03-28 | 2025-08-22 |
 | [Nothing To Something](https://open.spotify.com/track/3TMnFIjrBUMDcclBmG8gIt) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC) | [Nothing To Something](https://open.spotify.com/album/3dqBhhf7Gj8fjLdtGrOJi2) | 3:15 | 2023-05-25 | 2023-09-15 |
 | [NUMB](https://open.spotify.com/track/3hCr2zWQWAt3tv6xIGyepr) | [RØNIN](https://open.spotify.com/artist/5AueQd01cgyqBRQ82ns5cd) | [NUMB](https://open.spotify.com/album/1APmwMIfD7BxwXRxffPYw0) | 3:23 | 2025-02-06 | 2025-02-28 |
 | [NYASH](https://open.spotify.com/track/0vf5Fs3wArIdzWCZ4RlLIw) | [KILY SAFARI](https://open.spotify.com/artist/67iwxQsW9XSe5FPSq5VJra), [MEZMURE](https://open.spotify.com/artist/661IDpZbes60JtwHMGOOju) | [NYASH](https://open.spotify.com/album/4GQqQ1ERrCZrH2SgpwIobc) | 2:22 | 2023-11-23 | 2024-04-26 |
