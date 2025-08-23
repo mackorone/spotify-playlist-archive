@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: <a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=fCPfMM0RQayIrooGg2pkQg">Cairo CPT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,706 likes - 59 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,751 likes - 59 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

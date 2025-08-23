@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,290 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,216 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [23](https://open.spotify.com/track/5ctdVr5OyY7dZZhcsFeK9W) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [23](https://open.spotify.com/album/2MqqJKk8mBYUBtYLZr9B0g) | 3:09 |
 | 75 | [Holding on to Us](https://open.spotify.com/track/7pgjXQqGqzUi0Wp3ySvhTc) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Holding on to Us](https://open.spotify.com/album/5SwqkXIOm7AbNgMxnB1FSh) | 3:24 |
 
-Snapshot ID: `AAAAAM52MyHGlW4KQlwChUNTO7vYcghL`
+Snapshot ID: `AAAAAOUyIu6ch7ys396GWv4VqiwwA0fy`

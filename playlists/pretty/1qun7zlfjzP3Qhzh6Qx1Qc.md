@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,523 likes - 60 songs - 3 hr 21 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 34,522 likes - 68 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,13 @@ pretty - [cumulative](/playlists/cumulative/1qun7zlfjzP3Qhzh6Qx1Qc.md) - [plain]
 | 58 | [Dads Don't Die](https://open.spotify.com/track/0GSGiPdXx7y29uMYjW17Xw) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Dads Don't Die](https://open.spotify.com/album/3o92h5pPmdj8EaCBkORE3C) | 3:29 |
 | 59 | [5 on 8](https://open.spotify.com/track/5sosWkRvWpR4NCbXKuuEPm) | [Dylan Ault](https://open.spotify.com/artist/11cNMNyPrGHQ1dlE7Bk4vR) | [5 on 8](https://open.spotify.com/album/2WpaMix0EzNmrVzkrwgCFQ) | 3:10 |
 | 60 | [Two Roads](https://open.spotify.com/track/2LqxUcXsr4c0oc9N47lExD) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Two Roads](https://open.spotify.com/album/5N1HWPxpCPkYSxt5eBwsdi) | 3:34 |
+| 61 | [Forget It](https://open.spotify.com/track/4s0rDCi3tZzRSTMIJyHgD7) | [Katie Neal](https://open.spotify.com/artist/4W1Vh3BULoQQDPjFah7whS) | [Good Before You](https://open.spotify.com/album/1eVFwYEpXm60KRsMlR1Fy5) | 3:21 |
+| 62 | [U.L.B](https://open.spotify.com/track/37JhtV29ZrfPwJBPoFscKG) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [U.L.B](https://open.spotify.com/album/6GIPBCNhjVkEbVclWhe3DN) | 2:27 |
+| 63 | [Goodnight Music City](https://open.spotify.com/track/1alyHUtas5GkJOACZCZOda) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Barbara](https://open.spotify.com/album/4f7dteqTiXSjQR3t0YFrDN) | 3:34 |
+| 64 | [Song For My Son \(feat\. Kane Brown\)](https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [17 Problems](https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h) | 2:53 |
+| 65 | [Good Run](https://open.spotify.com/track/4iwY4G8PmGnqL228wcT1o2) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Good Run](https://open.spotify.com/album/02qxb3gX5mrdM9nTptXqTB) | 3:36 |
+| 66 | [Love That I Love You](https://open.spotify.com/track/5vmUocjY3qCtBZo13xpczD) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Famous Back Home](https://open.spotify.com/album/4ALnU1TkEJ01SfM3yblwy5) | 2:43 |
+| 67 | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Turned Into Missing You \(feat\. Avery Anna\)](https://open.spotify.com/album/18oAslPfCIwuEWqY4qpu7a) | 3:39 |
+| 68 | [she broke up with the boy](https://open.spotify.com/track/3LutNfuBjGJXLHHCem7JjB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [MaRynn](https://open.spotify.com/album/6hzqUtFEkgtH3f7L7vudUc) | 2:50 |
 
-Snapshot ID: `AAANDd7YO5uXhsq6omF9J2mhxpym3zga`
+Snapshot ID: `AAANFZuztM5/FFW9eW3z9MSjMaHZ/pO/`

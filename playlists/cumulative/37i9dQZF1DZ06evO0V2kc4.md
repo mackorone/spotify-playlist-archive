@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-116 songs - 7 hr 1 min
+117 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,13 @@
 | [Battle Hymn Of The Republic](https://open.spotify.com/track/3CKmoKljSdJShwwgveWLTa) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [In Concert \(Live\)](https://open.spotify.com/album/1JnZvQiB4y9W4uzJgxLerQ) | 3:24 | 2022-10-11 | 2022-10-13 |
 | [Be Of Good Heart](https://open.spotify.com/track/1hqjun0JLCQRYv9pNVYXFv) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [If I Wrote You: Favorite Songs By Some Of My Favorite Songwriters](https://open.spotify.com/album/5pyD4MonVyt9h9tcgoYpBM) | 4:02 | 2025-07-02 | 2025-07-07 |
 | [Blackbird](https://open.spotify.com/track/7KMwYTrekbo33VOKcXvx7y) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [David Crosby](https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:24 | 2023-01-21 | 2025-01-01 |
-| [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 | 2022-09-24 |  |
+| [Blessed Are](https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:06 | 2022-09-24 | 2025-08-23 |
 | [Blowin' In The Wind \- Live](https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 2:35 | 2022-09-22 |  |
 | [Boots Of Spanish Leather](https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:33 | 2022-09-22 |  |
 | [Brothers In Arms](https://open.spotify.com/track/1ByLEl7kTAAmBo68GH6A7I) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv) | 5:06 | 2022-09-22 | 2022-10-13 |
 | [Brothers in Arms](https://open.spotify.com/track/4xFsqBho4pb6caTAredS1r) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 5:06 | 2023-03-12 |  |
 | [Catch The Wind](https://open.spotify.com/track/4tZICB8neer87JfvyEMl5d) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 3:59 | 2022-10-12 | 2025-01-31 |
+| [Catch The Wind](https://open.spotify.com/track/6wUQBwTSgT181NsIgS98v5) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Mimi Fariña](https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop) | [Rare, Live And Classic](https://open.spotify.com/album/470ovWr16r2piNgoJ2HIdL) | 2:38 | 2025-08-23 |  |
 | [Colours](https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:05 | 2022-09-22 |  |
 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 | 2022-09-25 |  |
 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 | 2022-09-22 |  |

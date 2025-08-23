@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 
 > Craving that crisp country air? These low\-key Country songs will take you there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,248 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,278 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXamBAn43YNB9.md) - [plain]
 | 99 | [I Wouldn't Change A Thing](https://open.spotify.com/track/4svdi2dnyZ8TacniNoEmkO) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [I Wouldn't Change A Thing](https://open.spotify.com/album/6vc3PfcZNXzD8zuPop0O8N) | 3:51 |
 | 100 | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/track/7dVg7MMdfkAI0CpDlpOcEL) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Texas Ain't That Far, Is It Dear?](https://open.spotify.com/album/0prqg8lKNhYst58DsrEfII) | 3:36 |
 
-Snapshot ID: `AAAAAGckPAdMRSeF0phAr3I0kcbk/Kmn`
+Snapshot ID: `AAAAAHYNTJ+MI8JCagu5rQFpwHhkHYKf`

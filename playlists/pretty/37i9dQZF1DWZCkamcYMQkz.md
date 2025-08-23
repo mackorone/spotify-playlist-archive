@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,483 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,611 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Cookin’ In The Couve](https://open.spotify.com/track/5dddRMF9qbdzxj1ROnhIaa) | [Ben Paterson](https://open.spotify.com/artist/0MHewfujqaxL7anJWkbnJG) | [Cookin' In The Couve](https://open.spotify.com/album/4UGLeoR6vG9Z70LRaSzgxH) | 4:12 |
 | 100 | [Ca\-Lee\-So \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/5GmGwX7LtHc1eQEpwdzsxU) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Delightfulee](https://open.spotify.com/album/0B2DsJvIiZ9khche2rE4rI) | 5:34 |
 
-Snapshot ID: `AAAAACRN2SddQimIVFDVwH4GfZGYQ1JL`
+Snapshot ID: `AAAAACFkKe+fgWf7uxtmwNUNOjOeCFn2`

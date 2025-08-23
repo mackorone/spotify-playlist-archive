@@ -7510,7 +7510,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -7540,7 +7540,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 155248,
       "name": "Charger",
       "url": "https://open.spotify.com/track/3yXwdtQVgBMLFG24Ez63LZ"
@@ -8537,6 +8537,28 @@
     },
     {
       "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
+    },
+    {
+      "album": {
         "name": "Premiers pas",
         "url": "https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4"
       },
@@ -9254,7 +9276,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 154532,
       "name": "Darlin' (feat. Sean Paul & Brodie)",
       "url": "https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT"
@@ -13920,7 +13942,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 165466,
       "name": "frieden",
       "url": "https://open.spotify.com/track/4xOTz6yh8r0mXZwzhvWuna"
@@ -17822,7 +17844,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -19528,7 +19550,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 225116,
       "name": "Innerbloom x Never Be Like You",
       "url": "https://open.spotify.com/track/1Ud7wVwgl75n1s0Uj7kk32"
@@ -36234,7 +36256,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 153332,
       "name": "Sugar On My Tongue",
       "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"

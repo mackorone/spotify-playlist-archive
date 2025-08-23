@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 19266,
+  "num_followers": 19271,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-08-14 06:58:37",
       "album": {
+        "name": "Right Through Me",
+        "url": "https://open.spotify.com/album/5iolZ8XVFQP8lxZVBMXESZ"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 202606,
+      "name": "\ub098 \ud640\ub85c \uc9d1\uc5d0 Home Alone",
+      "url": "https://open.spotify.com/track/1Hp7T2xCx2AAfWejmJEdsP"
+    },
+    {
+      "added_at": "2025-08-14 06:58:37",
+      "album": {
         "name": "She's Fine",
         "url": "https://open.spotify.com/album/51k1opN4HpJph3cxAbuSah"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
-    },
-    {
-      "added_at": "2025-08-14 06:58:37",
-      "album": {
-        "name": "Right Through Me",
-        "url": "https://open.spotify.com/album/5iolZ8XVFQP8lxZVBMXESZ"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 202606,
-      "name": "\ub098 \ud640\ub85c \uc9d1\uc5d0 Home Alone",
-      "url": "https://open.spotify.com/track/1Hp7T2xCx2AAfWejmJEdsP"
     },
     {
       "added_at": "2025-08-14 06:58:37",

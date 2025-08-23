@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\uddd8\ud83c\udffc\u200d\u2640\ufe0f\ud83c\udf3b\ud83c\udfd5\ufe0f\ud83c\udfde\ufe0f\ud83c\udfca\ud83c\udffb\u200d\u2640\ufe0f\ud83c\udf05\ud83c\udf37\u26f0\ufe0f\ud83d\udeb4\ud83c\udffc\u200d\u2642\ufe0f\ud83c\udf7a\ud83c\udf33",
-  "num_followers": 37406,
+  "num_followers": 37416,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,18 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
-        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
+        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
       },
       "artists": [
         {
-          "name": "Sasha Norova",
-          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
-        },
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
+          "name": "OKS",
+          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
         }
       ],
-      "duration_ms": 132626,
-      "name": "\u0410\u0443 \u0430\u0443",
-      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
+      "duration_ms": 189000,
+      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
+      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
     },
     {
       "added_at": "2025-08-04 08:37:10",
@@ -335,18 +331,22 @@
     {
       "added_at": "2025-08-04 08:37:10",
       "album": {
-        "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-        "url": "https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT"
+        "name": "\u041a\u0443\u043b\u044c\u0442\u0443\u0440\u043d\u0435 \u0434\u0438\u0441\u043a\u043e",
+        "url": "https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l"
       },
       "artists": [
         {
-          "name": "OKS",
-          "url": "https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4"
+          "name": "Sasha Norova",
+          "url": "https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb"
         }
       ],
-      "duration_ms": 189000,
-      "name": "\u041d\u0456\u0447\u0435\u043d\u044c\u043a\u0430",
-      "url": "https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9"
+      "duration_ms": 132626,
+      "name": "\u0410\u0443 \u0430\u0443",
+      "url": "https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX"
     },
     {
       "added_at": "2025-08-04 08:37:10",

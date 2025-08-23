@@ -1,12 +1,12 @@
 {
   "description": "The Finest In Jazz Since 1939",
-  "num_followers": 46731,
+  "num_followers": 46735,
   "original_name": "Blue Note: The Finest In Jazz Since 1939",
   "owner": {
     "name": "Blue Note Records",
     "url": "https://open.spotify.com/user/bluenoterecords"
   },
-  "snapshot_id": "AAAByjWqHW7ZfRRFyVxrU+VRqHPS2/zc",
+  "snapshot_id": "AAABzW3yFmJCy7dVfbfh4tukcaArQGeR",
   "tracks": [
     {
       "added_at": "2025-01-06 14:17:58",
@@ -1647,6 +1647,26 @@
       "duration_ms": 377236,
       "name": "Sway",
       "url": "https://open.spotify.com/track/0sFGeDQs250HkU7D23uFqr"
+    },
+    {
+      "added_at": "2025-08-22 17:49:57",
+      "album": {
+        "name": "You\u2019re Exaggerating!",
+        "url": "https://open.spotify.com/album/17poWlH7a2OcIv1bTwq0xU"
+      },
+      "artists": [
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "duration_ms": 322720,
+      "name": "Palindrome (feat. Jeff Parker)",
+      "url": "https://open.spotify.com/track/61Iql0ceRGvgkV82ejHjO6"
     },
     {
       "added_at": "2025-01-06 14:17:58",

@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 86550,
+  "num_followers": 86559,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -36,8 +36,8 @@
           "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 276440,
+      "name": "Messiah",
       "url": "https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM"
     },
     {
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/128pqckLyL3mr3SJwpUZun"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 221831,
       "name": "Old Phone",
       "url": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 174911,
+      "name": "Love Is Like (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
         "name": "eternal sunshine deluxe: brighter days ahead",
         "url": "https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn"
       },
@@ -791,22 +811,6 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "Not At This Party",
-        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 212437,
-      "name": "Not At This Party",
-      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -827,6 +831,22 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
+        "name": "Not At This Party",
+        "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 212437,
+      "name": "Not At This Party",
+      "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
         "name": "I Ain't Comin' Back",
         "url": "https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
-        "name": "Love Is Like",
-        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 174911,
-      "name": "Love Is Like (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -919,18 +919,22 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "Mad",
-        "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
+        "name": "Love Hangover (feat. Dominic Fike)",
+        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
       },
       "artists": [
         {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 174969,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
+      "duration_ms": 180129,
+      "name": "Love Hangover (feat. Dominic Fike)",
+      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -955,38 +959,34 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "Love Hangover (feat. Dominic Fike)",
-        "url": "https://open.spotify.com/album/3awd1TKrdd3emCecvza61j"
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/1jqgdLTganjzL121lxeusU"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
         }
       ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
+      "duration_ms": 174969,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1uq1pf0UdjGmfbPqIpPg5K"
     },
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "To Be Free",
-        "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 255155,
-      "name": "To Be Free",
-      "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -1007,18 +1007,38 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+        "name": "To Be Free",
+        "url": "https://open.spotify.com/album/4CbMJCzMlzyEByCi84kllb"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+      "duration_ms": 255155,
+      "name": "To Be Free",
+      "url": "https://open.spotify.com/track/47mNWUCgJoXqVWb3UZytVa"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 151986,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -1055,42 +1075,6 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
-        "name": "Why Is She Still Here?",
-        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 150255,
-      "name": "Why Is She Still Here?",
-      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
         "name": "God Went Crazy",
         "url": "https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls"
       },
@@ -1103,38 +1087,6 @@
       "duration_ms": 183034,
       "name": "God Went Crazy",
       "url": "https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 224127,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
-    },
-    {
-      "added_at": "2025-08-21 22:00:21",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -1155,6 +1107,38 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 224127,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
+        "name": "Why Is She Still Here?",
+        "url": "https://open.spotify.com/album/6CjxfwBk8BkGbYHUdvI1Uq"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 150255,
+      "name": "Why Is She Still Here?",
+      "url": "https://open.spotify.com/track/6ndIUORCz2Skax5iPl11P8"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/66uFqZHRtk56y6wyj0EFst"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 177118,
       "name": "Crush",
       "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
+    },
+    {
+      "added_at": "2025-08-21 22:00:21",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI"
     },
     {
       "added_at": "2025-08-21 22:00:21",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2025-08-21 22:00:21",
       "album": {
-        "name": "ALL I WANT IS YOU",
-        "url": "https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl"
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 135570,
-      "name": "ALL I WANT IS YOU",
-      "url": "https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z"
+      "duration_ms": 268410,
+      "name": "Yamaha",
+      "url": "https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V"
     }
   ],
   "unique_name": "Ny Pop (3)",

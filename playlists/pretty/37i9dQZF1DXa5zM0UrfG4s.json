@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 115756,
+  "num_followers": 115774,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 138454,
       "name": "Hytta Mi",
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Heidi",
-        "url": "https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Sander Elstad",
-          "url": "https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Heidi",
-      "url": "https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
         "name": "Viddas Himmelbl\u00e5",
         "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 192282,
       "name": "Viddas Himmelbl\u00e5",
       "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
+        "name": "Heidi",
+        "url": "https://open.spotify.com/album/7pJVp0QuZv8My8iuH0Ue0g"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Sander Elstad",
+          "url": "https://open.spotify.com/artist/0Xmh6K692gGNuG7eGV3rIX"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "Heidi",
+      "url": "https://open.spotify.com/track/6Hf47LgK7rD8sjNxPohuCe"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
+      },
+      "artists": [
+        {
+          "name": "Rune Rudberg",
+          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "N\u00e5 er det freda'n igjen",
+      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
         "name": "F\u00f8dt i nord",
         "url": "https://open.spotify.com/album/2dDMye7V9k7u1gOgJlhG1K"
       },
@@ -695,38 +711,6 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/688QJHvwDmWMfILIRPq4rY"
-      },
-      "artists": [
-        {
-          "name": "Rune Rudberg",
-          "url": "https://open.spotify.com/artist/5vViCpDnSSDRHtSmFhrKfY"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "N\u00e5 er det freda'n igjen",
-      "url": "https://open.spotify.com/track/096d1z40MQXAEZALorCnC4"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
         "name": "Hopp inn i kjerra",
         "url": "https://open.spotify.com/album/59YVxgU733VrTRqO1BdDtH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 140940,
       "name": "Hopp inn i kjerra",
       "url": "https://open.spotify.com/track/5uiNyDWemQiCYynsfqKWlO"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
+        "name": "N\u00e5 er det helg",
+        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "N\u00e5 er det helg",
+      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
         "name": "GUT OG KAR",
         "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 187206,
       "name": "GUT OG KAR",
       "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
-        "name": "N\u00e5 er det helg",
-        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "N\u00e5 er det helg",
-      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
       "added_at": "2025-08-14 22:00:32",
@@ -871,6 +871,22 @@
     {
       "added_at": "2025-08-14 22:00:32",
       "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+    },
+    {
+      "added_at": "2025-08-14 22:00:32",
+      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 124661,
       "name": "Svensk i kv\u00e4ll",
       "url": "https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu"
-    },
-    {
-      "added_at": "2025-08-14 22:00:32",
-      "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2025-08-14 22:00:32",

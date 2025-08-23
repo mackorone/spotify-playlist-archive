@@ -11831,6 +11831,24 @@
     },
     {
       "album": {
+        "name": "Dalam Dinamika",
+        "url": "https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv"
+      },
+      "artists": [
+        {
+          "name": "Perunggu",
+          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300583,
+      "name": "Gemilang",
+      "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
+    },
+    {
+      "album": {
         "name": "The Great Bremen Show",
         "url": "https://open.spotify.com/album/18GGV74KlTQ1WOOUaTeqP2"
       },
@@ -16105,7 +16123,7 @@
     },
     {
       "album": {
-        "name": "Ingatlah Aku Disini",
+        "name": "Ingatlah Aku Di Sini",
         "url": "https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L"
       },
       "artists": [
@@ -16118,7 +16136,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186000,
-      "name": "Ingatlah Aku Disini",
+      "name": "Ingatlah Aku Di Sini",
       "url": "https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K"
     },
     {
@@ -23390,6 +23408,24 @@
       "duration_ms": 279183,
       "name": "Once Upon The End",
       "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
+    },
+    {
+      "album": {
+        "name": "Closer To Closure",
+        "url": "https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189941,
+      "name": "One",
+      "url": "https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft"
     },
     {
       "album": {
@@ -32926,42 +32962,6 @@
       "duration_ms": 157000,
       "name": "Toxicated",
       "url": "https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE"
-    },
-    {
-      "album": {
-        "name": "Closer To Closure",
-        "url": "https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft"
-    },
-    {
-      "album": {
-        "name": "Dalam Dinamika",
-        "url": "https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv"
-      },
-      "artists": [
-        {
-          "name": "Perunggu",
-          "url": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT"
     },
     {
       "album": {

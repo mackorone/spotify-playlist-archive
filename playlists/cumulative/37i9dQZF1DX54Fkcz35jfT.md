@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: The Cards I Play
 
-421 songs - 1 day 0 hr 14 min
+422 songs - 1 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [MILK \- feat.ありぼぼ fromヤバイTシャツ屋さん](https://open.spotify.com/track/2EXX1tPpk4NsC3h6EYHsGH) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU), [ありぼぼ fromヤバイTシャツ屋さん](https://open.spotify.com/artist/5LopKBWrGCwv4GRMVMpJm0) | [MILK](https://open.spotify.com/album/6YjbGZTc9M1QiK8RnDrlkn) | 2:48 | 2025-04-03 | 2025-04-16 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-07-20 | 2024-03-20 |
 | [Misfortune](https://open.spotify.com/track/1cBYQGzX0JKMS4KhbM10s4) | [Sable Hills](https://open.spotify.com/artist/5mm28xbkq6ve1l63dXo7Cn) | [Odyssey](https://open.spotify.com/album/2CpgOP94gBLcx93uqJnJGU) | 2:39 | 2024-07-30 | 2024-08-31 |
+| [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 | 2025-08-19 |  |
 | [Missing You](https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 4:20 | 2023-07-20 |  |
 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 | 2023-07-20 |  |
 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 | 2023-07-20 |  |
@@ -398,7 +399,7 @@
 | [仮面舞踏](https://open.spotify.com/track/7EkGKms2llXnCrrOYH5P6B) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [仮面舞踏](https://open.spotify.com/album/4oUtcD69j94SCf98v529vR) | 3:33 | 2024-06-23 | 2024-07-10 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2023-07-20 |  |
 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 | 2023-11-16 |  |
-| [君が望む永遠](https://open.spotify.com/track/0NEUmA4lPoX2JRdqT8g1dE) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [PK shampoo.log](https://open.spotify.com/album/1skkl0CvKuBJnvuTO2s10a) | 2:29 | 2025-06-24 |  |
+| [君が望む永遠](https://open.spotify.com/track/0NEUmA4lPoX2JRdqT8g1dE) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [PK shampoo.log](https://open.spotify.com/album/1skkl0CvKuBJnvuTO2s10a) | 2:29 | 2025-06-24 | 2025-08-23 |
 | [夏ノ大蜥蜴](https://open.spotify.com/track/63fwRBRpMejI4jBL2DIB0V) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE), [玉屋2060%](https://open.spotify.com/artist/6xKVoR6tKgatCC2ddMnjDa) | [夏ノ大蜥蜴](https://open.spotify.com/album/6U6tzbiFlpJLAa18AMVUFH) | 2:54 | 2025-07-01 | 2025-07-30 |
 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 | 2024-05-14 |  |
 | [完全感覚Dreamer](https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Nicheシンドローム](https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa) | 4:12 | 2024-04-18 |  |

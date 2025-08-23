@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,331 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,340 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 43 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
 | 44 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 |
 | 45 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
-| 46 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
-| 47 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
+| 46 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
+| 47 | [Han River 220625](https://open.spotify.com/track/32Tc8Crfd5v39uR7MKupq4) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Han River 220625](https://open.spotify.com/album/0f7xCKNQAbQKVilN4C95pQ) | 2:24 |
 | 48 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
-| 49 | [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 |
-| 50 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
+| 49 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
+| 50 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
 
 Snapshot ID: `AAAAANngNfkccawptYToYxODvGY2527M`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,032 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,165 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 | 72 | [Miniminiyae Rasaathi](https://open.spotify.com/track/2mWke5B0XbAppNHzgMpfjn) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Good Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gawnMvnzsvqFbJxepCmNQ) | 4:18 |
 | 73 | [Muzhumathiyae \- From "Oho Enthan Baby"](https://open.spotify.com/track/68lCUcwumQzfvc6zqjrzbu) | [Jen Martin](https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ashique AR](https://open.spotify.com/artist/7a2hwgmPEziltEjQBW9kNI) | [Muzhumathiyae](https://open.spotify.com/album/2smTBtDlB116fqG5SbkNQl) | 3:45 |
 | 74 | [Idi Mazhai \- From "3Bhk"](https://open.spotify.com/track/22g5xsc44U0GJLNcHdTvMs) | [Amrit Ramnath](https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Idi Mazhai \(From "3Bhk"\)](https://open.spotify.com/album/18aRSoFx52O7OWD3ULCwq8) | 3:31 |
-| 75 | [VETRIVEL](https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [keli.thee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [VETRIVEL](https://open.spotify.com/album/6ZKcXGg8qUdA8oT9WaFixs) | 2:27 |
+| 75 | [VETRIVEL](https://open.spotify.com/track/4LF2sbuK7vDvNj8QiMcBmM) | [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts), [Kelithee](https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [VETRIVEL](https://open.spotify.com/album/6ZKcXGg8qUdA8oT9WaFixs) | 2:27 |
 
 Snapshot ID: `AAAAAKz6fLvvr8ypvzOsoYMhnRioCfDL`

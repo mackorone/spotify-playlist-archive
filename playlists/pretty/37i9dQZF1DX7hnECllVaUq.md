@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Lewis Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,088 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,208 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 20 | [Her and My Hometown](https://open.spotify.com/track/7ceqEoMEkQ5XNM548hpCNP) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Her and My Hometown](https://open.spotify.com/album/2XktaeaNi0XmVyViRd5N2O) | 3:13 |
 | 21 | [Back Then, Right Now](https://open.spotify.com/track/3wAKfgic0OANcWf2QBxT8t) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:02 |
 | 22 | [Carry You Home](https://open.spotify.com/track/3EgFnoV31O3UwSnmQXA6U8) | [Ward Thomas](https://open.spotify.com/artist/0xBhUB0EfzvchYnaIWkdBw) | [Cartwheels](https://open.spotify.com/album/13Qj9WO3Udtb1cHO0C55gE) | 3:35 |
-| 23 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
-| 24 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
+| 23 | [Indigo \(feat\. Avery Anna\)](https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 4:46 |
+| 24 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 | 25 | [Over For You](https://open.spotify.com/track/3RF00zOzrrWKKoU7aIBaTS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Over For You](https://open.spotify.com/album/1Q4VPZwThIxpobj0bck5g2) | 3:05 |
 | 26 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 |
 | 27 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 30 | [Better Me For You \(Brown Eyes\)](https://open.spotify.com/track/4Iu73sdCNxZXZUIyClMoPZ) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Night Diving](https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY) | 3:14 |
 | 31 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 |
 | 32 | [Didn't I](https://open.spotify.com/track/3pKrznV5COeDouofUDzq6F) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Didn't I](https://open.spotify.com/album/5owWR8QqLFMGRnNIK0pftp) | 3:25 |
-| 33 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
-| 34 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 33 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
+| 34 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
 | 35 | [The Older I Get](https://open.spotify.com/track/1xxSs49l1I9jgRtvQ58Dk0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [The Older I Get](https://open.spotify.com/album/4OSdpAcESH8L6kPlvDvXvB) | 3:49 |
 | 36 | [Tougher Than The Rest](https://open.spotify.com/track/1fWkIurJrJiKif41u0oyxR) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Kleindorp \- Dromer](https://open.spotify.com/album/5ZTYJZu8aeOgZ6NAevn9BF) | 4:01 |
 | 37 | [Holy Ground](https://open.spotify.com/track/6eVnBlQiQXms6bxnt0V8g4) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Holy Ground](https://open.spotify.com/album/2SPGc1itWblXqk3WDa7hJU) | 3:16 |

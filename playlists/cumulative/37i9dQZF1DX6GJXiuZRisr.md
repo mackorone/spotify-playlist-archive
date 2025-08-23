@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-611 songs - 1 day 18 hr 22 min
+612 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 | 2022-07-01 | 2023-04-06 |
 | [For Life \(feat\. Zak Abel & Nile Rodgers\) \- Nicky Romero Remix](https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [KYGO \(The Remixes\)](https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu) | 3:51 | 2024-08-30 | 2024-10-26 |
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 |  |
-| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 |  |
+| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 | 2025-08-23 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 | 2025-02-01 |
@@ -274,6 +274,7 @@
 | [ION](https://open.spotify.com/track/4i8L5asDJ4XZEYjhW1hFge) | [Brian Cid](https://open.spotify.com/artist/2n6DGYH09XJFq4TqfeQ2G3) | [Bluiris EP](https://open.spotify.com/album/4iWushCeAfIQqG2odHCUQS) | 8:11 | 2021-05-07 | 2022-07-03 |
 | [Is This Trance?](https://open.spotify.com/track/3xml45o5PxJw6Xlp8sfPIC) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Is This Trance?](https://open.spotify.com/album/0YcN5yn9v3g0SDoGQj9jkr) | 4:49 | 2021-05-07 | 2022-05-17 |
 | [IT MIGHT BE THE DRUGS](https://open.spotify.com/track/6gnWzz8OrdSVC7r0yhqJs4) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [IT MIGHT BE THE DRUGS](https://open.spotify.com/album/7oxDOgfgFrCFHxPzPFrl3V) | 3:39 | 2024-05-31 |  |
+| [It's Okay](https://open.spotify.com/track/5i9vIka2dUar0CsRmANKeA) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [It's Okay](https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u) | 2:45 | 2025-08-22 |  |
 | [It's Ours](https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 8:03 | 2022-10-14 | 2023-07-22 |
 | [It’s All On You](https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's All On You](https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe) | 3:43 | 2025-03-21 | 2025-07-26 |
 | [I’ll Be There](https://open.spotify.com/track/21w8Ns4eTUnr3j2f4t6ICL) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [I’ll Be There](https://open.spotify.com/album/23Dz0Ch87tRnPu8VCe8O3W) | 3:11 | 2024-10-25 | 2025-05-31 |

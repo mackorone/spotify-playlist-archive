@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Disco Lines & Tinashe
 
-1,349 songs - 2 day 21 hr 46 min
+1,350 songs - 2 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Bad Bitch](https://open.spotify.com/track/2gAN1sgzzeyAbeYIqEdGYF) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Bad Bitch](https://open.spotify.com/album/1Jm6Xw539ecZdASK3StQAJ) | 2:57 | 2023-09-15 | 2023-10-24 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-05 | 2022-12-17 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2025-01-24 |  |
-| [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-21 |  |
+| [bad emotions](https://open.spotify.com/track/2nbEuZBC0LzeRpU6b3P05m) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [bad emotions](https://open.spotify.com/album/6SXKpBlu64BQ9lC88r2ywc) | 3:05 | 2024-06-21 | 2025-08-23 |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2020-10-13\* | 2020-12-11 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-09-16 | 2022-11-12 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-06-26 | 2022-03-18 |
@@ -635,8 +635,9 @@
 | [I’m Here for You](https://open.spotify.com/track/6qyPimk15pulIffKWUmEf7) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [I’m Here for You](https://open.spotify.com/album/54MmocNCchoMEor4lVo9ld) | 3:18 | 2020-10-13\* | 2020-10-23 |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-05-24 | 2023-09-09 |
 | [Jalebi Baby \(Tesher x Jason Derulo\)](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jalebi Baby \(Tesher x Jason Derulo\)](https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd) | 2:49 | 2021-05-29 | 2021-12-04 |
+| [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-22 |  |
 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 | 2020-10-13\* | 2020-11-20 |
-| [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-19 |  |
+| [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-19 | 2025-08-23 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-08-01 |  |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-04-05 | 2024-11-16 |
 | [JUMPSTART](https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [JUMPSTART](https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR) | 2:37 | 2022-11-04 | 2022-12-17 |

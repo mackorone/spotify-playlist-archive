@@ -2,7 +2,7 @@
 
 ### [Latin Folk](https://open.spotify.com/playlist/37i9dQZF1DX18t8d8JUxUC)
 
-> This is what folk sounds like en español\. Cover: Silvana Estrada
+> This is what folk sounds like en español\. Cover: Andrea Bejar
 
 171 songs - 10 hr 10 min
 
@@ -48,7 +48,7 @@
 | [Duele](https://open.spotify.com/track/1jdRfL23ge6oJHnEtcvr8n) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Duele](https://open.spotify.com/album/79b5yLLMqlbw9uEhWRCks3) | 3:58 | 2025-07-18 |  |
 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 | 2023-02-24 |  |
 | [El Conticinio](https://open.spotify.com/track/6dDhaHqJ3wUD3jbjGUBwzh) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [El Conticinio](https://open.spotify.com/album/1NcBeKgj4oQaecQiTr7F39) | 3:33 | 2023-04-10 | 2023-04-29 |
-| [El Faro](https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [El Faro](https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p) | 3:08 | 2023-07-28 | 2023-08-13 |
+| [El Faro](https://open.spotify.com/track/4noxNHGDOSLnKVxhMoM3Od) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [El Faro](https://open.spotify.com/album/1jQbBLUiMBXbySrYiBPF5p) | 3:08 | 2023-07-28 |  |
 | [El Hombre Que Casi Conoció a Michi Panero](https://open.spotify.com/track/4DLQ9mWBFWj7XjpQk1FtmP) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Desaparezca Aquí](https://open.spotify.com/album/2L8X2C1ySndk4McTP6lfpf) | 5:45 | 2023-02-24 | 2025-01-18 |
 | [El Invento](https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [El Invento](https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa) | 2:33 | 2023-02-24 |  |
 | [El Río](https://open.spotify.com/track/5IulrtbklYxOCrDEtJPtNz) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [El Río](https://open.spotify.com/album/1CIxFgXEjuJB6NQz2OvsF9) | 3:37 | 2024-07-05 | 2025-06-28 |
@@ -98,7 +98,7 @@
 | [Luchín](https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Luchín](https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB) | 4:04 | 2024-04-24 | 2024-07-21 |
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 |  |
 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 | 2023-03-31 |  |
-| [Marigolds](https://open.spotify.com/track/3dEdX1g7zycepndaSgVocd) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Marigolds](https://open.spotify.com/album/4UaYSCoV7Vici62QSi4xmC) | 3:48 | 2025-01-17 |  |
+| [Marigolds](https://open.spotify.com/track/3dEdX1g7zycepndaSgVocd) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Marigolds](https://open.spotify.com/album/4UaYSCoV7Vici62QSi4xmC) | 3:48 | 2025-01-17 | 2025-08-23 |
 | [Me Empiezo a Enamorar](https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Me Empiezo a Enamorar](https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI) | 3:22 | 2023-07-28 |  |
 | [Me Gustas](https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Me Gustas](https://open.spotify.com/album/0NWOe4cctQ2NxLbXkMiO91) | 2:52 | 2023-02-24 | 2025-05-22 |
 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 | 2023-12-01 |  |

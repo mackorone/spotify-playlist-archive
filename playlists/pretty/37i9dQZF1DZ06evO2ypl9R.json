@@ -1,12 +1,12 @@
 {
   "description": "This is Osunlade. The essential tracks, all in one playlist.",
-  "num_followers": 3542,
+  "num_followers": 3541,
   "original_name": "This Is Osunlade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADGgBhO0QuBmW4SCizzmtir",
+  "snapshot_id": "aKZhgAAAAABAc3ChC68G8quHV3rQalu5",
   "tracks": [
     {
       "added_at": null,
@@ -163,26 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Feel For You (Yoruba Soul Remixes)",
-        "url": "https://open.spotify.com/album/1cCnQtwVprQDiKoAX9Nwqp"
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
       "artists": [
-        {
-          "name": "Dave Anthony",
-          "url": "https://open.spotify.com/artist/4w8KQ1tXeXrOqBfjMCvIhj"
-        },
-        {
-          "name": "Aleysha Lei",
-          "url": "https://open.spotify.com/artist/5HAdMrrO5kd8GWzhaMUfwW"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 378929,
-      "name": "I Feel For You - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/5LtfuQrurh67IqeQbuLfYZ"
+      "duration_ms": 232055,
+      "name": "Give Thanks",
+      "url": "https://open.spotify.com/track/1BIp43EWLRLfxydsnjeMrL"
     },
     {
       "added_at": null,
@@ -219,18 +211,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
+        "name": "I Feel For You (Yoruba Soul Remixes)",
+        "url": "https://open.spotify.com/album/1cCnQtwVprQDiKoAX9Nwqp"
       },
       "artists": [
+        {
+          "name": "Dave Anthony",
+          "url": "https://open.spotify.com/artist/4w8KQ1tXeXrOqBfjMCvIhj"
+        },
+        {
+          "name": "Aleysha Lei",
+          "url": "https://open.spotify.com/artist/5HAdMrrO5kd8GWzhaMUfwW"
+        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 232055,
-      "name": "Give Thanks",
-      "url": "https://open.spotify.com/track/1BIp43EWLRLfxydsnjeMrL"
+      "duration_ms": 378929,
+      "name": "I Feel For You - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/5LtfuQrurh67IqeQbuLfYZ"
     },
     {
       "added_at": null,
@@ -367,6 +367,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chocolate Puddin'",
+        "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "James Curd",
+          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
+        },
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        }
+      ],
+      "duration_ms": 388272,
+      "name": "Chocolate Puddin' - FNX Omar Remix",
+      "url": "https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "INvite ONly",
         "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
@@ -383,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 200647,
-      "name": "FLWN",
-      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dedication EP",
         "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
@@ -411,6 +419,22 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 200647,
+      "name": "FLWN",
+      "url": "https://open.spotify.com/track/2THRRSfffrl3W0PPz6nTol"
     },
     {
       "added_at": null,
@@ -435,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chocolate Puddin'",
-        "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
+        "name": "Same Thing",
+        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
       },
       "artists": [
         {
@@ -444,17 +468,13 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         },
         {
-          "name": "James Curd",
-          "url": "https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL"
-        },
-        {
-          "name": "FNX OMAR",
-          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+          "name": "Maiya James",
+          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
         }
       ],
-      "duration_ms": 388272,
-      "name": "Chocolate Puddin' - FNX Omar Remix",
-      "url": "https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH"
+      "duration_ms": 379160,
+      "name": "Same Thing - Vocal Mix",
+      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
     },
     {
       "added_at": null,
@@ -503,90 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Thing",
-        "url": "https://open.spotify.com/album/4XzyfgNQMIFnjvYOi8d6XP"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Maiya James",
-          "url": "https://open.spotify.com/artist/1pvzvfbBLOoiNCjVmwkvH6"
-        }
-      ],
-      "duration_ms": 379160,
-      "name": "Same Thing - Vocal Mix",
-      "url": "https://open.spotify.com/track/5R7W5rZeoH8vvbXngVGpP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cucumber Sweat",
-        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Cucumber Sweat",
-      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
-        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
-      },
-      "artists": [
-        {
-          "name": "Casbah 73",
-          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 382274,
-      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
-      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unity In Diversity (Yoruba Soul remix)",
-        "url": "https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v"
-      },
-      "artists": [
-        {
-          "name": "Han Litz Group",
-          "url": "https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX"
-        },
-        {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "Yoruba Soul",
-          "url": "https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC"
-        }
-      ],
-      "duration_ms": 303902,
-      "name": "Unity In Diversity - Yoruba Soul remix",
-      "url": "https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Note Revisited",
         "url": "https://open.spotify.com/album/7DNMdBpvFLtwdu9FCUBQ1h"
       },
@@ -619,6 +555,70 @@
       "duration_ms": 414247,
       "name": "Human Beings - Atjazz Remix",
       "url": "https://open.spotify.com/track/3QvAiFAzy4TwUGyMtqblIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Invade the Amazon (Yoruba Soul Mix)",
+        "url": "https://open.spotify.com/album/2zFcTO9Yd78diFJHqXE9DL"
+      },
+      "artists": [
+        {
+          "name": "Casbah 73",
+          "url": "https://open.spotify.com/artist/29lFQpdKkzFsFqdl3XRQ56"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 382274,
+      "name": "Let's Invade the Amazon - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/6hROPCDD7DlEZxkbNgwAvc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cucumber Sweat",
+        "url": "https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Cucumber Sweat",
+      "url": "https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unity In Diversity (Yoruba Soul remix)",
+        "url": "https://open.spotify.com/album/0nqcNC7FT5QR7eNXgbu09v"
+      },
+      "artists": [
+        {
+          "name": "Han Litz Group",
+          "url": "https://open.spotify.com/artist/6MSkUkujTUMZW8MhL4kcIX"
+        },
+        {
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "Yoruba Soul",
+          "url": "https://open.spotify.com/artist/1KoS8cnCKnhjqR4Smd2ZJC"
+        }
+      ],
+      "duration_ms": 303902,
+      "name": "Unity In Diversity - Yoruba Soul remix",
+      "url": "https://open.spotify.com/track/57P7hxlQURGja8UM0Ev7zh"
     },
     {
       "added_at": null,
@@ -775,54 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INvite ONly",
-        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 346296,
-      "name": "Bag Of Filters",
-      "url": "https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inner Garden",
-        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 429496,
-      "name": "Luv",
-      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Natives Tongue",
-        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 236303,
-      "name": "Natives Tongue",
-      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -855,22 +807,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Osunlade vs Papa",
-        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+        "name": "INvite ONly",
+        "url": "https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa"
       },
       "artists": [
-        {
-          "name": "Reel People",
-          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
-        },
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 420018,
-      "name": "Joyous - Yoruba Soul Instrumental Remix",
-      "url": "https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv"
+      "duration_ms": 346296,
+      "name": "Bag Of Filters",
+      "url": "https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Natives Tongue",
+        "url": "https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 236303,
+      "name": "Natives Tongue",
+      "url": "https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inner Garden",
+        "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 429496,
+      "name": "Luv",
+      "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
     },
     {
       "added_at": null,
@@ -911,8 +891,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iamone",
-        "url": "https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1"
+        "name": "Osunlade vs Papa",
+        "url": "https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv"
+      },
+      "artists": [
+        {
+          "name": "Reel People",
+          "url": "https://open.spotify.com/artist/7JCiEoZpn0yghisiVNvl4X"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 420018,
+      "name": "Joyous - Yoruba Soul Instrumental Remix",
+      "url": "https://open.spotify.com/track/5tDwtcf571yb7LAVVih9Jv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pyrography",
+        "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
         }
       ],
-      "duration_ms": 109979,
-      "name": "Build a Fire",
-      "url": "https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8"
+      "duration_ms": 361000,
+      "name": "No Way",
+      "url": "https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U"
     }
   ],
   "unique_name": "This Is Osunlade",

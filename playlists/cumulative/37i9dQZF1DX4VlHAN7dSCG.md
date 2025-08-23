@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 倒車入庫 \(Reversing into Garage\)
 
-655 songs - 1 day 18 hr 49 min
+656 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [人去樓空](https://open.spotify.com/track/0im069CBRQOVVkelqRY9lv) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [人去樓空](https://open.spotify.com/album/0lWarxfdGvlxkw7XHg9vdk) | 4:34 | 2025-07-03 | 2025-07-18 |
 | [人青（劇集《拜六禮拜》插曲）](https://open.spotify.com/track/4PWtvbrqC60b3w3D2liYWF) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [人青（劇集《拜六禮拜》插曲）](https://open.spotify.com/album/5OhcBZpw5kEEap0E93jUGS) | 3:58 | 2025-07-10 | 2025-08-01 |
 | [人魚](https://open.spotify.com/track/26FLc13ZEHmojKQdzhDKPn) | [烏流](https://open.spotify.com/artist/2jyPtGFcFyVwoWcNmZaBia) | [烏流](https://open.spotify.com/album/4WsX1xCBUhUHC4o2W67rIa) | 3:14 | 2025-05-01 | 2025-05-30 |
+| [亻厓 行个路](https://open.spotify.com/track/0xGvR7ayNnMeouh7y8uwcF) | [RIBINGU](https://open.spotify.com/artist/4Ea8yy2Fu3LpKeI865UWPI) | [亻厓 行个路](https://open.spotify.com/album/2o60evFPWahnnZo4I3PuyR) | 3:09 | 2025-08-22 |  |
 | [今天不太想出門](https://open.spotify.com/track/2CENvC8h8mLmGu6F4A4XJA) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [今天不太想出門](https://open.spotify.com/album/2GCABgoBqwMeYCWaCQ3DEY) | 3:19 | 2024-08-29 | 2024-09-27 |
 | [他是你的你是我的一場惡夢](https://open.spotify.com/track/4s2zPHCjiDnzM0Dg4KYSVM) | [晚餐思路](https://open.spotify.com/artist/5yDEms9eAoq8TyNxMG5JuM) | [私心思](https://open.spotify.com/album/4FyloTXbXZewzcTincL1ZP) | 3:37 | 2024-07-11 | 2024-08-16 |
 | [任性 \(電視劇《難哄》主題曲\)](https://open.spotify.com/track/0kFTS4OH2t44gsLN0a8Khr) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [任性](https://open.spotify.com/album/09rCpK2WyMHP7ymESozHgI) | 4:25 | 2025-01-02 |  |

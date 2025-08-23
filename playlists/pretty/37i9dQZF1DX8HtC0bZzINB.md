@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 
 > Yerli Afro, Latin ve trap ritimleri ile yazın en hareketli hali.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,293 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,296 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HtC0bZzINB.md) - [plain]
 | 37 | [O'NU](https://open.spotify.com/track/1RQ0NC3xcdSPP7ekw9uma4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ROMANTİK](https://open.spotify.com/album/5xrtVOLOp6Yh3hmw8SuJVB) | 3:17 |
 | 38 | [Kimse bilmiyor](https://open.spotify.com/track/3Hkia1c1vf930mO4SZ3ZnA) | [Melez](https://open.spotify.com/artist/13oZdV67vVMAaL2TU20Xqz), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz) | [Kimse bilmiyor](https://open.spotify.com/album/36w2dxLUwvWx0XwnHVePyK) | 2:54 |
 | 39 | [FİLM ŞERİDİ](https://open.spotify.com/track/3OYDt4fhreJ5JITOciY4Ch) | [Baneva](https://open.spotify.com/artist/19YsBPYDyAmKbcFoor4W4e), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [FİLM ŞERİDİ](https://open.spotify.com/album/2VPfh6D7kpnM3KsHYt0Ej8) | 2:16 |
-| 40 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
-| 41 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
+| 40 | [BABY BİRTANEM](https://open.spotify.com/track/1aPqj5kIol0lpGiBpWOflL) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [BABY BİRTANEM](https://open.spotify.com/album/6fyc11DLRRgRZOMVm7PKNL) | 2:47 |
+| 41 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
 | 42 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 |
 | 43 | [Seviyo Sevmiyo](https://open.spotify.com/track/6vK6gdUdjOZEziksqwyUf2) | [Umut Timur](https://open.spotify.com/artist/650blPhpj24aloFTk941L3), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Seviyo Sevmiyo](https://open.spotify.com/album/22cG8bAE9Yip1R4xsmHgCi) | 2:52 |
 | 44 | [Ücra](https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg) | [Emrah Karakuyu](https://open.spotify.com/artist/1Kb8Eb6SbHbzUYSqhhDtx5), [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj) | [Ücra](https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr) | 3:19 |

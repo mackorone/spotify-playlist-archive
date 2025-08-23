@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Sam Austins
 
-1,844 songs - 3 day 16 hr 41 min
+1,845 songs - 3 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,6 +1056,7 @@
 | [Motel](https://open.spotify.com/track/55X3Lhv9agCd5BtYUFR7vi) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Hi\-Fidelity](https://open.spotify.com/album/2SmiEsb9wHeMYWAtqfvl7q) | 3:29 | 2022-07-29 | 2022-11-09 |
 | [Mountain Jack](https://open.spotify.com/track/3iAaXv2FlwqSUOZ81T3rgA) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Mountain Jack](https://open.spotify.com/album/1WfIF6ociqZI3NVR2jtAwo) | 4:23 | 2020-10-30 | 2020-12-22 |
 | [Moving Forward](https://open.spotify.com/track/4kO9Q1jUCLhuuWOQs3hBa3) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [January Never Dies](https://open.spotify.com/album/3KfVspuHZTMj8eg5wAH5t1) | 3:25 | 2023-10-20 | 2024-01-10 |
+| [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 | 2025-08-22 |  |
 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 | 2022-01-21 | 2022-11-10 |
 | [mr\. rager](https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [mr\. rager](https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP) | 3:40 | 2023-04-28 | 2023-07-22 |
 | [Muay Thai](https://open.spotify.com/track/31Z7QbuOg3Ljv0vZI6f0eR) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Muay Thai](https://open.spotify.com/album/4NqPAgBIKynVJII8IhBFfO) | 3:00 | 2023-03-24 | 2023-05-27 |

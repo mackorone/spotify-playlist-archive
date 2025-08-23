@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAD6oTc1BmDVOfJmRAQw3qQ9",
+  "snapshot_id": "aKZhgAAAAADLXCp/uUvVArkaPBFJjjWh",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contando os Dias (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 403272,
-      "name": "Contando os Dias - Ao Vivo",
-      "url": "https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 448926,
       "name": "Plano do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7oe0KG1ZEDkoM9gKD05HxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contando os Dias (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3rq11lZvriTpqaXq7deK4X"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 403272,
+      "name": "Contando os Dias - Ao Vivo",
+      "url": "https://open.spotify.com/track/3nEw3prYLtFzNsnrsoxrTm"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far\u00e1s Outra Vez",
-        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 246998,
-      "name": "Far\u00e1s Outra Vez",
-      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quem \u00e9 Voc\u00ea",
         "url": "https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 240829,
       "name": "Quem \u00e9 Voc\u00ea",
       "url": "https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Far\u00e1s Outra Vez",
+        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 246998,
+      "name": "Far\u00e1s Outra Vez",
+      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sempre Foi Deus",
+        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 284583,
+      "name": "Sempre Foi Deus",
+      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fica Tranquilo",
         "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 278613,
       "name": "Limite (Ao Vivo)",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sempre Foi Deus",
-        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 284583,
-      "name": "Sempre Foi Deus",
-      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 237187,
-      "name": "Vai Acontecer",
-      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilo",
         "url": "https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 237187,
+      "name": "Vai Acontecer",
+      "url": "https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 220733,
-      "name": "Vai Valer a Pena",
-      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,
@@ -687,26 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
+        "name": "Grito Aflito",
+        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
       },
       "artists": [
         {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        },
+        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 393986,
-      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
-      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
+      "duration_ms": 280117,
+      "name": "Grito Aflito",
+      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
     },
     {
       "added_at": null,
@@ -720,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 301280,
-      "name": "360 Graus",
-      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
+      "duration_ms": 220733,
+      "name": "Vai Valer a Pena",
+      "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
     },
     {
       "added_at": null,
@@ -743,22 +739,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grito Aflito",
-        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
+        "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+        "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
       },
       "artists": [
         {
-          "name": "Rayssa Peres",
-          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
-        },
-        {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
         }
       ],
-      "duration_ms": 280117,
-      "name": "Grito Aflito",
-      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
+      "duration_ms": 393986,
+      "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
+      "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
     },
     {
       "added_at": null,

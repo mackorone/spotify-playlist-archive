@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39692,
+  "num_followers": 39693,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABWUC5fBI5LFfMl8mWHpNDp",
+  "snapshot_id": "aKZhgAAAAAC12rHMHGYsMvJNTFzpZNMV",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brand New Machine (Deluxe Version)",
         "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 206427,
       "name": "Alive",
       "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 195752,
-      "name": "Found",
-      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 199442,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ"
+      "duration_ms": 204778,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204778,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/0T2Echuro2d0KUJdbkRNFa"
+      "duration_ms": 199442,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -823,22 +807,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm A Dream",
-        "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
       "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 259986,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ"
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": null,
@@ -855,6 +835,26 @@
       "duration_ms": 276605,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm A Dream",
+        "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 259986,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ"
     },
     {
       "added_at": null,

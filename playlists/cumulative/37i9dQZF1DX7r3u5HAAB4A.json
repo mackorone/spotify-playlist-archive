@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-30",
-  "description": "A melting pot of Caribbean culture.  Cover: YG Marley",
+  "description": "A melting pot of Caribbean culture.  Cover: Klassik Frescobar",
   "name": "Fever",
   "tracks": [
     {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 171685,
       "name": "All Over the World (with Protoje)",
       "url": "https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw"
@@ -3783,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Treasure Self Love",
+        "url": "https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234087,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/3qORtOCSInAMHTFR3GGLd2"
+    },
+    {
+      "album": {
         "name": "SEE IT YAH",
         "url": "https://open.spotify.com/album/3bskhfYIw17ltWH5BkXvmm"
       },
@@ -4504,6 +4522,32 @@
       "duration_ms": 219622,
       "name": "Too Late to Lie",
       "url": "https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6"
+    },
+    {
+      "album": {
+        "name": "Top Gyal",
+        "url": "https://open.spotify.com/album/0AquTZ7zO9Bq5W1TSQeaEH"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "EL RM",
+          "url": "https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126323,
+      "name": "Top Gyal",
+      "url": "https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F"
     },
     {
       "album": {

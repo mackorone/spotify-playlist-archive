@@ -1,6 +1,6 @@
 {
   "description": "Get your kids singing along with this fun playlist! They're sure to know these kid-friendly classics.",
-  "num_followers": 400713,
+  "num_followers": 400727,
   "original_name": "Sing Along",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,26 @@
     {
       "added_at": "2022-07-25 13:31:43",
       "album": {
+        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
+      },
+      "artists": [
+        {
+          "name": "Keala Settle",
+          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
+        },
+        {
+          "name": "The Greatest Showman Ensemble",
+          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "This Is Me",
+      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
+    },
+    {
+      "added_at": "2022-07-25 13:31:43",
+      "album": {
         "name": "The Lion King",
         "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 213600,
       "name": "Hakuna Matata",
       "url": "https://open.spotify.com/track/5k3U0OGYBccHdKJJu3HrUN"
-    },
-    {
-      "added_at": "2022-07-25 13:31:43",
-      "album": {
-        "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
-      },
-      "artists": [
-        {
-          "name": "Keala Settle",
-          "url": "https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS"
-        },
-        {
-          "name": "The Greatest Showman Ensemble",
-          "url": "https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "This Is Me",
-      "url": "https://open.spotify.com/track/45aBsnKRWUzhwbcqOJLwfe"
     },
     {
       "added_at": "2023-11-08 20:23:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,154 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,177 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 13 | [Besos y Pendientes](https://open.spotify.com/track/2Gdy6E2u62bWSyGyTh4qxg) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DARA](https://open.spotify.com/album/5VGyOaFFu2uXZJybipzjft) | 2:51 |
 | 14 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 15 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:57 |
-| 16 | [Bailando](https://open.spotify.com/track/3LPyNYWlHZgIVx2wh6ME8t) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Ruzzicovers](https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2) | 3:07 |
-| 17 | [Hasta Morir](https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 2:48 |
+| 16 | [Hasta Morir](https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 2:48 |
+| 17 | [Bailando](https://open.spotify.com/track/3LPyNYWlHZgIVx2wh6ME8t) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Ruzzicovers](https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2) | 3:07 |
 | 18 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
 | 19 | [Extraños](https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:52 |
 | 20 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 44 | [Frenesí](https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:32 |
 | 45 | [El Noa Noa \- Remix](https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [El Noa Noa \(Remix\)](https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q) | 3:24 |
 | 46 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
-| 47 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
-| 48 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
+| 47 | [ANSIEDÁ](https://open.spotify.com/track/1U9EdGWeTlw1qoaJ0GoMxH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [ANSIEDÁ](https://open.spotify.com/album/5RugI8qVcl0Fu1Xr2A2fWv) | 2:36 |
+| 48 | [Solo \- Remix](https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo \(Remix\)](https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg) | 2:40 |
 | 49 | [De Otro Planeta](https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:10 |
 | 50 | [7 Días](https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:19 |
 
-Snapshot ID: `aKO+gAAAAACSwoH2vv46pOSd9qzZVTtq`
+Snapshot ID: `aKZhgAAAAABG0+yz995XhK7NFvYD3ZWT`

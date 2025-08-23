@@ -2,7 +2,7 @@
 
 ### [The Blaze](https://open.spotify.com/playlist/37i9dQZF1DX47STdWoPX6D)
 
-> The latest and the greatest of CHH!  Cover: Futuristic
+> The latest and the greatest of CHH!  Cover: Aaron Cole
 
 770 songs - 1 day 11 hr 21 min
 

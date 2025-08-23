@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 38793,
+  "num_followers": 38791,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Grieg: Complete Solo Piano Music",
+        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 287666,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
+      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -443,8 +463,8 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Grieg: Complete Solo Piano Music",
-        "url": "https://open.spotify.com/album/0Dm2WvAosDc72UCCNI3wgs"
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
       "artists": [
         {
@@ -452,13 +472,17 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 287666,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Tak/Dank/Gratitude",
-      "url": "https://open.spotify.com/track/1PcO4HCgTut0V6ak4Fk7xB"
+      "duration_ms": 604400,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
+      "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -508,6 +532,30 @@
           "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
+      "duration_ms": 324026,
+      "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
+      "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
+        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
+        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Sakari Oramo",
+          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
       "duration_ms": 429933,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
       "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
@@ -535,54 +583,6 @@
       "duration_ms": 381466,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: No. 2, Allegretto grazioso",
       "url": "https://open.spotify.com/track/1PoCyU52VuLjnBiUCkWljx"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 324026,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: III. Allegro giocoso",
-      "url": "https://open.spotify.com/track/4Fn04fcS5Xrkg5AGaEYA0B"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
-        "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Sakari Oramo",
-          "url": "https://open.spotify.com/artist/71dLaXD8sd1tV1LzFqUj3q"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 604400,
-      "name": "Grieg: 4 Symphonic Dances, Op. 64: IV. Andante - Allegro molto e risoluto",
-      "url": "https://open.spotify.com/track/721hCedr4F2gAuaV3Okfzn"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -747,6 +747,26 @@
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
+        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
+        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
+      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
+    },
+    {
+      "added_at": "2025-07-04 11:59:56",
+      "album": {
         "name": "Grieg/Sibelius: Cello Sonatas",
         "url": "https://open.spotify.com/album/6FI3OssQVr9jVTzAjWSxE3"
       },
@@ -784,15 +804,15 @@
           "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Lyric Pieces IV, Op. 47: No. 3 Melodie",
-      "url": "https://open.spotify.com/track/5iEnou51q2TGpOcT7nqVZm"
+      "duration_ms": 188000,
+      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
+      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
     },
     {
       "added_at": "2025-07-04 11:59:56",
       "album": {
-        "name": "Grieg: Lyric Pieces; Sonata; Fugues",
-        "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
+        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
+        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
       },
       "artists": [
         {
@@ -800,13 +820,13 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Mikhail Pletnev",
-          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+          "name": "Yuri Temirkanov",
+          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
-      "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
+      "duration_ms": 211400,
+      "name": "Bridal Procession, Op. 19 No. 2",
+      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
     },
     {
       "added_at": "2025-07-04 11:59:56",
@@ -831,26 +851,6 @@
       "duration_ms": 403320,
       "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
       "url": "https://open.spotify.com/track/0ON2ePlfJSQ9qxmT7EiIAe"
-    },
-    {
-      "added_at": "2025-07-04 11:59:56",
-      "album": {
-        "name": "Grieg: Peer Gynt - Incidental Music & Norwegian Dances & Bridal Procession",
-        "url": "https://open.spotify.com/album/0u3QOU6FAWAzk4aQmRCukW"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Yuri Temirkanov",
-          "url": "https://open.spotify.com/artist/7E4yppLZhjBxHC1pH5JGbu"
-        }
-      ],
-      "duration_ms": 211400,
-      "name": "Bridal Procession, Op. 19 No. 2",
-      "url": "https://open.spotify.com/track/7AVgubLuUooJKWGJR9JuZW"
     },
     {
       "added_at": "2025-07-04 11:59:56",

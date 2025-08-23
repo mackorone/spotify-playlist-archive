@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Dance to your favorite electronic hits \ud83e\udea9 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: The Chainsmokers &amp; Anna Sofia",
+  "description": "Dance to your favorite electronic hits \ud83e\udea9 2025 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave \ud83d\udd7a Cover: Rudimental",
   "name": "Dance For Days \ud83e\udea9\ud83d\udd7a 2025 EDM",
   "tracks": [
     {
@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 209920,
       "name": "Groove On",
       "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
@@ -5370,6 +5370,24 @@
       "duration_ms": 170466,
       "name": "Hard Dreams",
       "url": "https://open.spotify.com/track/1sJAQWkZdaJDsPifl1fvOd"
+    },
+    {
+      "album": {
+        "name": "Hard Time",
+        "url": "https://open.spotify.com/album/1usAjpD0O29LxMwnn2BKqI"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132437,
+      "name": "Hard Time",
+      "url": "https://open.spotify.com/track/4vRKstGXIjxlSDgSAbMP9C"
     },
     {
       "album": {
@@ -6744,7 +6762,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 189223,
       "name": "It's A Feeling",
       "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
@@ -9427,6 +9445,28 @@
     },
     {
       "album": {
+        "name": "RUDIM3NTAL",
+        "url": "https://open.spotify.com/album/4jcfyx9nXciFXqyh5zHQ20"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207129,
+      "name": "Nights Like These (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/4UQRLiHGpLcQt5O1TyBCie"
+    },
+    {
+      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1sdW3TsYbEtjdhnZHQhNpV"
       },
@@ -9526,7 +9566,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 151242,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/5UGWtEHRbi3Y44RcSJER3B"
@@ -10446,6 +10486,24 @@
       "duration_ms": 203411,
       "name": "Payback (feat. Icona Pop)",
       "url": "https://open.spotify.com/track/7KoFHvEScguiEnD06xYtSt"
+    },
+    {
+      "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/21h5jDKVblHSo06Uu5PzkB"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/4qdVJJKxVVMRGXxMor9Gem"
     },
     {
       "album": {
@@ -12053,6 +12111,28 @@
     },
     {
       "album": {
+        "name": "Sleep Alone (feat. Justin Jesso)",
+        "url": "https://open.spotify.com/album/0rnLyJZ02HUznw0NJmVF7y"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203258,
+      "name": "Sleep Alone (feat. Justin Jesso)",
+      "url": "https://open.spotify.com/track/1BERBcU107hAf2keGtZDCr"
+    },
+    {
+      "album": {
         "name": "Sleep Walk (feat. Liz Cass)",
         "url": "https://open.spotify.com/album/09crQU0aP4oOt8R5l0FUwv"
       },
@@ -12894,7 +12974,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 170416,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/6PM6pYoesUlOQqO3R6AkPK"

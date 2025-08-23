@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,346 likes - 40 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,512 likes - 40 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 25 | [Block me out](https://open.spotify.com/track/1w0o2PLYzpFnnyEnOoD7qX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:09 |
 | 26 | [Felt Good About You](https://open.spotify.com/track/5bjB0xPlN7fR1roEedzQvg) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:44 |
 | 27 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
-| 28 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 |
+| 28 | [Long Sleeves](https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:38 |
 | 29 | [Difficult](https://open.spotify.com/track/7llBR7Fy7Fw9zgEQuZp6K7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
-| 30 | [Long Sleeves](https://open.spotify.com/track/3wIRxCIGmdxld4ZC6yShZ9) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:38 |
+| 30 | [Death Wish \- Live from The O2 Arena](https://open.spotify.com/track/6WuOYKZbV7CvtaCA7ohYmn) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Death Wish \(Live from The O2 Arena\)](https://open.spotify.com/album/44uIJOur5ep2lIaNmbAHfO) | 3:47 |
 | 31 | [I Knew It, I Know You \- Live From Vevo](https://open.spotify.com/track/76qpEmu2bVlYCCz5IUcZw1) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 4:16 |
 | 32 | [Cedar](https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Buccaneers: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ) | 4:12 |
 | 33 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 39 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 40 | [Under / Over](https://open.spotify.com/track/6e5UOAU8hWJq7FKbHGPp2y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:21 |
 
-Snapshot ID: `aKO+gAAAAACjs9OshemLAWFSeCFdr4ks`
+Snapshot ID: `aKZhgAAAAABxTY4cgJ6ZtVWE5G2LQ2eS`

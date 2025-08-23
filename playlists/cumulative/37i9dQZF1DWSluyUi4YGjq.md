@@ -2,9 +2,9 @@
 
 ### [Shoegaze Now](https://open.spotify.com/playlist/37i9dQZF1DWSluyUi4YGjq)
 
-> Gazing at pedals, soaring celestially high\. cover: They Are Gutting a Body Of Water
+> Gazing at pedals, soaring celestially high\. cover: she's green
 
-760 songs - 2 day 1 hr 3 min
+761 songs - 2 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [2g ether](https://open.spotify.com/track/2IVBzvAP4xcMJk7pGnNjxo) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [demo 02](https://open.spotify.com/album/5WFz5GnwnfjtdSx1StnGAG) | 3:42 | 2023-02-17 | 2023-08-12 |
 | [31](https://open.spotify.com/track/6e9FG8qGTou5WZnExDRj9q) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [31](https://open.spotify.com/album/2fzX5NsXDEoN65sF7KCsP6) | 3:35 | 2025-03-14 |  |
-| [4 Shadow](https://open.spotify.com/track/73jKNhEz9SAPSvqRKSdvTh) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Trilogy](https://open.spotify.com/album/2Mi2BnkrQARwVktJpjqPfZ) | 2:58 | 2024-11-22 |  |
+| [4 Shadow](https://open.spotify.com/track/73jKNhEz9SAPSvqRKSdvTh) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Trilogy](https://open.spotify.com/album/2Mi2BnkrQARwVktJpjqPfZ) | 2:58 | 2024-11-22 | 2025-08-23 |
 | [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 | 2023-11-28 |
 | [A Heavy Abacus](https://open.spotify.com/track/18bMfoScYmenFKMristSDI) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [The Big Roar](https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet) | 3:40 | 2021-10-19 | 2022-12-16 |
 | [A Lot Can Happen](https://open.spotify.com/track/4VILGtiBLGG0SQeiWLW3pW) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 4:36 | 2024-08-20 |  |
@@ -46,7 +46,7 @@
 | [Amnesia](https://open.spotify.com/track/3kUAdSRSrERn2yDfm8J9kU) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy \- Chapter 1](https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz) | 4:03 | 2023-02-27 | 2023-04-01 |
 | [Amnesia](https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:03 | 2023-02-27 | 2023-09-30 |
 | [An Impossibly Long Hallway...](https://open.spotify.com/track/1HeAW9fVMfuN0T5LKb8q6g) | [Strawberry Milk Cult](https://open.spotify.com/artist/3r5D13Q9I4sLrC1bsJK0gR) | [An Impossibly Long Hallway...](https://open.spotify.com/album/5joC1BFoMHQXxAxI5eHIrI) | 2:29 | 2024-03-18 | 2025-08-12 |
-| [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 3:08 | 2024-08-23 |  |
+| [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 3:08 | 2024-08-23 | 2025-08-23 |
 | [Angels All Around](https://open.spotify.com/track/6LisCobTwCliy75U5ssys6) | [Cashier](https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf) | [Angels All Around](https://open.spotify.com/album/59HZEoGPw3LGlQ5iLkWys5) | 3:33 | 2024-08-20 |  |
 | [Anhedonia II](https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh), [Dirty Art Club](https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL) | [Anhedonia II b/w Ecstasy Cowgirl](https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg) | 2:39 | 2024-08-20 |  |
 | [April Ha Ha](https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:20 | 2021-10-19 | 2025-07-19 |
@@ -669,6 +669,7 @@
 | [Tears](https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Pearlty](https://open.spotify.com/album/0UYM7HfTpbX0uG9sDVdeS3) | 4:02 | 2023-02-09 | 2023-07-01 |
 | [Tell Me About It](https://open.spotify.com/track/2NwTjLimau0whgmUC18wSU) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro), [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Tell Me About It](https://open.spotify.com/album/6VSG0hjL7YhTSPcCmtuZR8) | 3:24 | 2024-01-12 | 2024-12-10 |
 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 | 2023-06-30 | 2024-02-24 |
+| [the chase](https://open.spotify.com/track/2bAK4hQgcz2CsQDqV9uEQE) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [the chase](https://open.spotify.com/album/0c4G5LLVXZcrGMO6LGZ1gQ) | 3:25 | 2025-08-22 |  |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 | 2023-06-17 |
 | [The Fall](https://open.spotify.com/track/1otGsnttRUt1mZhBf3f9MZ) | [Blue Foundation](https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr) | [Close To The Knife](https://open.spotify.com/album/2xgOw1wS8dNQX5CvKIfbxO) | 3:54 | 2025-05-15 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 | 2023-06-08 |

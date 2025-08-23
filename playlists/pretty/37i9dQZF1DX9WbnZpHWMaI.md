@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring J\. Worra.
+> Celebrating women at the center of innovation in electronic music\. Featuring ZULAN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,748 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,745 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 |
 | 100 | [Crowded Roomz](https://open.spotify.com/track/2bnatDQSIhiZBVfVUT0PUe) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Crowded Roomz](https://open.spotify.com/album/6noU224rd5kmYt0KPBhtgG) | 2:52 |
 
-Snapshot ID: `AAAAAEZO48yagPs/qSQeQswxflDfRxeT`
+Snapshot ID: `AAAAAIQn81GtU95W7BNvMyxw0Xt0xymj`

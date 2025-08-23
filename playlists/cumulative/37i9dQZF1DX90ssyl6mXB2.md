@@ -2,9 +2,9 @@
 
 ### [DND.](https://open.spotify.com/playlist/37i9dQZF1DX90ssyl6mXB2)
 
-> late night vibes – notifications off\. cover: Avenoir
+> late night vibes – notifications off\. cover: Tyde
 
-247 songs - 11 hr 24 min
+251 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Feel Good](https://open.spotify.com/track/4E2j6b0NrYXnlypn9sMiOu) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Good Mourning](https://open.spotify.com/album/04lPG1CAJHz9itLjPkiyuU) | 3:32 | 2025-07-25 |  |
 | [FLORIDA BABY](https://open.spotify.com/track/722k2gLamerL9i7bTlGJrm) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [FLORIDA BABY](https://open.spotify.com/album/4LTy8CCkKN3YCB6zQ4OJou) | 2:20 | 2024-02-09 | 2025-07-26 |
 | [FMU!](https://open.spotify.com/track/3Izei1L5dRVIS7tgpEMG7x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:21 | 2025-04-25 |  |
+| [fmyx](https://open.spotify.com/track/4KnN83cdoND7BKDqSglgXd) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [fmyx/dirty diana](https://open.spotify.com/album/3sT4pMsWtvnQsCe6e9Z7Ha) | 1:58 | 2025-08-22 |  |
 | [FOCUS ON ME](https://open.spotify.com/track/0L5LVmGVowzOHxXg3mm238) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 2:34 | 2025-02-07 |  |
 | [FOCUS ON ME](https://open.spotify.com/track/3ipBB5Zh0RtZx4E0lmiZU3) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [FOCUS ON ME](https://open.spotify.com/album/18NCcw91BDPSX5lGYsDBL6) | 2:34 | 2024-12-20 | 2025-02-08 |
 | [Forget U](https://open.spotify.com/track/7FgjoiSwkVAHHUAzubUTc5) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Forget U](https://open.spotify.com/album/6B6rKxe9yVNtMGrQztaTLO) | 2:33 | 2025-03-07 |  |
@@ -103,6 +104,7 @@
 | [GIVE IN](https://open.spotify.com/track/77ZLQIBY47Zo3RME1WJVud) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [GIVE IN](https://open.spotify.com/album/01aVCkXyMXelikQQBPAjZq) | 2:47 | 2024-03-15 | 2024-10-19 |
 | [Give It Up 2 Me](https://open.spotify.com/track/4BfFxN1BAS47r9OhNyWiEE) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Give It Up 2 Me](https://open.spotify.com/album/3a9bUK2pj3dgUENncg1i3o) | 2:58 | 2024-02-02 | 2024-07-06 |
 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 | 2024-02-02 |  |
+| [Handstand](https://open.spotify.com/track/7d8JbC6QfJouRyVUXzt5mg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [Handstand](https://open.spotify.com/album/2Fz1ONkQVqZg081Xk9ORwK) | 0:57 | 2025-08-22 |  |
 | [hard feelings](https://open.spotify.com/track/37cYXXzlmUXnjuSZ2DqhPY) | [Essiyas](https://open.spotify.com/artist/09QOTdywNrZkFw4SYXf71t) | [hard feelings](https://open.spotify.com/album/4PaQ1RBPRa40qqV5FVmJsD) | 2:23 | 2024-10-18 |  |
 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 | 2024-02-02 |  |
 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 | 2024-04-26 |  |
@@ -146,6 +148,7 @@
 | [Modern Day Suicide](https://open.spotify.com/track/6WxI6JUpelxYijiEh6O9Ra) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:31 | 2024-11-15 |  |
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2024-03-29 |  |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-02-02 | 2024-08-03 |
+| [my lil shootah](https://open.spotify.com/track/5nO7XCMHWigOoo9WAfIu5J) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [my lil shootah](https://open.spotify.com/album/2yYp17iNQ08pkLRU31P32C) | 2:00 | 2025-08-22 |  |
 | [n da morning](https://open.spotify.com/track/2BcLIOfKXWk7mz5HSyhAKO) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [n da morning](https://open.spotify.com/album/3dPpOhzZ93SSz2E5qD47HR) | 2:11 | 2025-04-11 |  |
 | [N o C h i l l](https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 4:25 | 2024-06-07 |  |
 | [NATURAL](https://open.spotify.com/track/1G6SUhnXRyuS3DuLNzXkfW) | [Aidan Vaughn](https://open.spotify.com/artist/7LdzjdaC5nwZdmP4INCdIE) | [NATURAL](https://open.spotify.com/album/1hwcCHfAuDkEERhthIjgSC) | 2:21 | 2025-04-11 |  |
@@ -169,6 +172,7 @@
 | [OPTIONS](https://open.spotify.com/track/0LU2BLCYWYZX0Syij9SM15) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [THE STUNT\-MAN PACK](https://open.spotify.com/album/0aKetEKkhljx0ddNLwVq0B) | 3:11 | 2024-03-08 | 2024-10-19 |
 | [Outside Freestyle](https://open.spotify.com/track/6TKOariWgppe0f6JcXMMCo) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [BUT IF iiM HONEST](https://open.spotify.com/album/4z8EfEYVvJwlSb0wcPBHjl) | 2:50 | 2024-02-02 |  |
 | [Outta Bounds](https://open.spotify.com/track/4j5hvjaPGOPie1Avm97mOO) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Outta Bounds](https://open.spotify.com/album/5qtRqFutcrkuU8pUdJ3G7V) | 2:25 | 2024-05-17 |  |
+| [passion](https://open.spotify.com/track/2aersOe3Pcs4OIZQyziEIM) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [passion](https://open.spotify.com/album/1S9iWjgq8VvkX3XC2F70iN) | 3:03 | 2025-08-22 |  |
 | [pendulum](https://open.spotify.com/track/5nElZ3cKIdVolDx0YoHJUl) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [memento](https://open.spotify.com/album/54LzVgzLACc6oe6Uv6lbV2) | 3:57 | 2024-02-02 |  |
 | [Peppermint](https://open.spotify.com/track/5bUx64o8X8FB15A7gk9x0G) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [I CANT FOCUS](https://open.spotify.com/album/0oZVxKfC4LSENpYNbOZbYQ) | 2:53 | 2024-02-02 |  |
 | [perfect timing](https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 3:12 | 2024-06-21 |  |

@@ -1737,6 +1737,28 @@
     },
     {
       "album": {
+        "name": "Chained (The Remixes) [Soundwars Remix]",
+        "url": "https://open.spotify.com/album/2k2CKRwmV2CKLtx4HUsloJ"
+      },
+      "artists": [
+        {
+          "name": "Odssey",
+          "url": "https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS"
+        },
+        {
+          "name": "Soundwars",
+          "url": "https://open.spotify.com/artist/1UJ8zippTrIdAmN3yyaEHw"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Chained",
+      "url": "https://open.spotify.com/track/4ceruJjAtVIvS2JVaimAta"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb"
       },

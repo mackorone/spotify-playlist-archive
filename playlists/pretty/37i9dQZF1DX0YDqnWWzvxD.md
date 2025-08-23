@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,902 likes - 100 songs - 8 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,083 likes - 100 songs - 8 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 38 | [Mindful and Free](https://open.spotify.com/track/5A86ZAFtWgp06gYtlQPN5v) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Sacred Woods](https://open.spotify.com/album/0RkS12vW4jGmSlfVhYMWpm) | 4:07 |
 | 39 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
 | 40 | [Spiritual Touch](https://open.spotify.com/track/448vZRidoOl0wUKibsp0vI) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Re\-Creating](https://open.spotify.com/album/48mGrMc1HmBJ1DnFaiA3Ky) | 4:17 |
-| 41 | [Savasana](https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50) | [Kai Franz](https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE) | [Surya Namaskar](https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj) | 15:18 |
+| 41 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
 | 42 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
-| 43 | [Insitarament](https://open.spotify.com/track/26iz7w8tBeVwRsl6diypqN) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Sleeping Traveller](https://open.spotify.com/album/4b6wVl1CwuxytrRZ9gOLlT) | 4:00 |
+| 43 | [Savasana](https://open.spotify.com/track/3pAPQELNaNKGXRJZD7HZ50) | [Kai Franz](https://open.spotify.com/artist/19EL2uHYTPD43sPYRrIZcE) | [Surya Namaskar](https://open.spotify.com/album/5q2XF0v9j2MZ7vrZSKodoj) | 15:18 |
 | 44 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 45 | [Honesty & Truth \- 10\-Minute Mix For Meditation & Massage](https://open.spotify.com/track/0AzBtsy4sR7lTY6WydHDBN) | [Massage Tribe](https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C) | [Spa Music: Tibet \(80 Minutes of Tibetan Bowls & Flutes for Massage, New Age, Yoga & Relaxation\)](https://open.spotify.com/album/32R6Vzvn7LlSklrHO0SCr3) | 10:59 |
 | 46 | [In A River](https://open.spotify.com/track/0vrnDo7jKOp6TjTyDNKcWp) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [David Peter Vestin](https://open.spotify.com/artist/0088INLrI8Cc537xq1N3p3) | [In A River](https://open.spotify.com/album/0tlVbRpHRsfiIKwLUHnt8a) | 2:01 |

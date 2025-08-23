@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 ### [New Ambient](https://open.spotify.com/playlist/37i9dQZF1DX9c7yCloFHHL)
 
-> The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Jefre Cantu\-Ledesma
+> The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Malibu
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,435 likes - 101 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,907 likes - 101 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 100 | [Moving Wings](https://open.spotify.com/track/3h7ysiDxmwACj7zxRO63EH) | [Hollie Kenniff](https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS), [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw), [Harbors](https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R) | [Moving Wings](https://open.spotify.com/album/4JONgO3H6LxpRJNzMTPsVr) | 3:09 |
 | 101 | [Green Lane](https://open.spotify.com/track/2IuF5WeOCUy4iTkxjsZHwW) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Green Lane](https://open.spotify.com/album/54GK11ZT8B08WR9FSHSsBD) | 2:28 |
 
-Snapshot ID: `AAAAAPRk6QcxDvvLW4nfXAX+oWbXjQEU`
+Snapshot ID: `AAAAAHnfc0NmwnHBVsrgxYdp3N8P1Db0`

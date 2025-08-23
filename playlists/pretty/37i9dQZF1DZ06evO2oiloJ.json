@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 239553,
+  "num_followers": 239609,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACQhLSDDzVBSpUhG4ZacgQ+",
+  "snapshot_id": "aKZhgAAAAAB7IU7kpR9TPYKEH2G72o36",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 147749,
-      "name": "Passport Junkie",
-      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 111751,
       "name": "Chip On My Shoulder",
       "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 147749,
+      "name": "Passport Junkie",
+      "url": "https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Sinners Movie",
-          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Slimeto",
         "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 141166,
       "name": "Home Ain't Home (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Sinners Movie",
+          "url": "https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The newest and best Hip-Hop tracks, updated weekly! Cover: Drake",
-  "num_followers": 23173,
+  "num_followers": 23172,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAjnM+4iVpeNlHHZWDICDGAA2R5becX",
+  "snapshot_id": "AAAjnQbB6VdZuF3hmO18klO6rAyqGAKL",
   "tracks": [
     {
       "added_at": "2025-08-08 11:21:23",
@@ -1359,6 +1359,26 @@
       "duration_ms": 187692,
       "name": "Runnin",
       "url": "https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9"
+    },
+    {
+      "added_at": "2025-08-22 11:36:28",
+      "album": {
+        "name": "KIARI",
+        "url": "https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Different Species (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

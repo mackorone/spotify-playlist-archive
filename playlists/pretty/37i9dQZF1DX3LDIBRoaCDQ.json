@@ -1,6 +1,6 @@
 {
   "description": "Classic songs that built the foundations of punk. Cover: The Damned from DB Burkeman's <a href=\"https://www.blurringbooks.com/book/crash\"> Crash Bang</a>, a book filled with photos & culture from the late \u201970s/early \u201980s New York, LA & London punk scenes.",
-  "num_followers": 1603748,
+  "num_followers": 1603690,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Dance With Me",
-        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
-      },
-      "artists": [
-        {
-          "name": "T.S.O.L.",
-          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Code Blue",
-      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "New York Dolls",
-        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+        "name": "Dance With Me",
+        "url": "https://open.spotify.com/album/2mxQVQWGyfh0OhVHJVY23t"
       },
       "artists": [
         {
-          "name": "New York Dolls",
-          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+          "name": "T.S.O.L.",
+          "url": "https://open.spotify.com/artist/4oPMm2idleIKLdBWgZilSi"
         }
       ],
-      "duration_ms": 188306,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
+      "duration_ms": 128906,
+      "name": "Code Blue",
+      "url": "https://open.spotify.com/track/2OEaDUMy7y35mk78ZWcwTC"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -799,6 +783,22 @@
       "duration_ms": 164200,
       "name": "Mickey Mouse Is Dead",
       "url": "https://open.spotify.com/track/7hVubnmukfvV2dUXoxybpJ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "New York Dolls",
+        "url": "https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr"
+      },
+      "artists": [
+        {
+          "name": "New York Dolls",
+          "url": "https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Add It Up - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Rhino Hi-Five: Ramones",
         "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 150333,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Add It Up - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Love Bites (Special Edition)",
+        "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 155626,
       "name": "Bad Mouth",
       "url": "https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Love Bites (Special Edition)",
-        "url": "https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "Salad Days",
-      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6fChptnZEkS7QK1u1xQGpB"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 166560,
       "name": "Circles",
       "url": "https://open.spotify.com/track/7EuYt3nnLOLKprkHdsOOX2"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/4XWwIu1eCmIQKGfep49T1y"
+      },
+      "artists": [
+        {
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "Salad Days",
+      "url": "https://open.spotify.com/track/0VWhKY45C8eM1zfaJUlqsj"
     },
     {
       "added_at": "2024-11-29 00:00:00",

@@ -4,7 +4,7 @@
 
 > This is Talking Heads\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 47 min
+69 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Clean Break \(Let's Work\) \- Live at WCOZ, Massachusetts; 2004 Remaster](https://open.spotify.com/track/2q6YXRcGHRM25TPrNfhRfH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Name of This Band Is Talking Heads \(Expanded 2004 Remaster\)](https://open.spotify.com/album/2WTDHjiVNCHY3ju9kmGNOY) | 5:05 | 2024-05-18 |  |
 | [Air](https://open.spotify.com/track/5oTq6IxaYmUF6TIVc6f7BL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:34 | 2024-05-18 |  |
 | [And She Was](https://open.spotify.com/track/5JwK7v6XhG0YgqDuCgzOy8) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/7IMqoztesjFDgyeibke8Jz) | 3:39 | 2024-05-18 |  |
-| [Animals](https://open.spotify.com/track/1HgzFXodDkTxATcCu6ZxDq) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:30 | 2025-01-18 | 2025-03-18 |
+| [Animals](https://open.spotify.com/track/1HgzFXodDkTxATcCu6ZxDq) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music](https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC) | 3:30 | 2025-01-18 |  |
 | [Artists Only \- 2005 Remaster](https://open.spotify.com/track/18VUNjOq2uRYxZP6nQGJva) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 3:34 | 2024-05-18 | 2024-06-21 |
 | [Big Business / I Zimbra \(Live\) \- 2023 Remaster](https://open.spotify.com/track/0RKQbaU8oYf7XK4nfYxMNU) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Deluxe Edition\) \[Live\]](https://open.spotify.com/album/0ydE6hjtxC05pkX164DnuK) | 7:23 | 2024-05-18 |  |
 | [Blind \- 2003 Remaster](https://open.spotify.com/track/7p2AcgfakS47Augp9NDdaS) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [The Best of Talking Heads](https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU) | 4:58 | 2024-07-06 |  |
@@ -64,8 +64,9 @@
 | [Thank You for Sending Me an Angel \- 2005 Remaster](https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 2:11 | 2024-05-18 | 2025-02-11 |
 | [Thank You for Sending Me an Angel \- Live](https://open.spotify.com/track/0E3gdEF4z9cBFfFqA7i72k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Stop Making Sense \(Live\)](https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE) | 2:09 | 2024-12-01 |  |
 | [The Big Country \- 2005 Remaster](https://open.spotify.com/track/6jvNnYLscndCf0fPJB1pms) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 5:33 | 2024-05-18 |  |
-| [The Girl Wants to Be with the Girls \- 2005 Remaster](https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 2:38 | 2024-05-18 |  |
-| [The Good Thing \- 2005 Remaster](https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 3:03 | 2024-05-18 |  |
+| [The Girl Wants to Be with the Girls \- 2005 Remaster](https://open.spotify.com/track/3tAFhUlDu5rRmpKDsw0oCn) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 2:38 | 2024-05-18 | 2025-08-23 |
+| [The Good Thing](https://open.spotify.com/track/0DO7AUeYAx9oUG7gyrbdTD) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food](https://open.spotify.com/album/39jsLMRmrTpfdq2vE4TCUe) | 3:03 | 2025-08-23 |  |
+| [The Good Thing \- 2005 Remaster](https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [More Songs About Buildings and Food \(Deluxe Version\)](https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ) | 3:03 | 2024-05-18 | 2025-08-23 |
 | [The Great Curve \- 2005 Remaster](https://open.spotify.com/track/35ljOibZSLEjOEPGrbaJsH) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 6:27 | 2024-05-18 |  |
 | [The Lady Don't Mind \- 2005 Remaster](https://open.spotify.com/track/6xaYStR8hIimvEmKLwv4Gh) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Little Creatures](https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA) | 3:58 | 2024-05-18 |  |
 | [This Must Be the Place \(Naive Melody\) \- 2005 Remaster](https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Speaking in Tongues \(Deluxe Version\)](https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH) | 4:56 | 2024-05-18 |  |

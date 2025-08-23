@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54695,
+  "num_followers": 54694,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADV9GnbvyF3ldiRVyOfqJ7w",
+  "snapshot_id": "aKZhgAAAAAAHkYBfT8G2YNjcpoLGan1u",
   "tracks": [
     {
       "added_at": null,
@@ -160,9 +160,25 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 183186,
-      "name": "Fly High",
-      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
+      "duration_ms": 191186,
+      "name": "Tokyo Calling",
+      "url": "https://open.spotify.com/track/7Gke62gU7kbBjQ7ucS4bLF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICHIJIKIKOKU",
+        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Suki Lie",
+      "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
     },
     {
       "added_at": null,
@@ -183,22 +199,6 @@
       "duration_ms": 183000,
       "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
       "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ICHIJIKIKOKU",
-        "url": "https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Suki Lie",
-      "url": "https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh"
     },
     {
       "added_at": null,
@@ -228,25 +228,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 191186,
-      "name": "Tokyo Calling",
-      "url": "https://open.spotify.com/track/7Gke62gU7kbBjQ7ucS4bLF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOO! GO!",
-        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "WOO! GO!",
-      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
+      "duration_ms": 183186,
+      "name": "Fly High",
+      "url": "https://open.spotify.com/track/7BFgL3I4BB3gYrxfQsBF5t"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 213773,
       "name": "SEISHUN WO KIRISAKU HADO",
       "url": "https://open.spotify.com/track/1dsB6klI4iqwcDcWzaI8zI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WOO! GO!",
+        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "WOO! GO!",
+      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quesera sera",
-        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Quesera sera",
-      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wakage ga itaru",
         "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 251866,
       "name": "amayo no seppun",
       "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quesera sera",
+        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Quesera sera",
+      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 163790,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
+      "duration_ms": 248666,
+      "name": "kimiwaina'17",
+      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/6oDoxmNcFcGiO79PF5vwNx"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 163790,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/0EAmmfAwFxNGnAKAd3red6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "maenarawanai",
         "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 248666,
-      "name": "kimiwaina'17",
-      "url": "https://open.spotify.com/track/28VG246EG1xZaKB8iQ0tXX"
+      "duration_ms": 259333,
+      "name": "saisyu jinrui",
+      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
     },
     {
       "added_at": null,
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 259333,
-      "name": "saisyu jinrui",
-      "url": "https://open.spotify.com/track/1kKh9DQIjd0ncdP6S2VJXI"
+      "duration_ms": 253866,
+      "name": "zzz",
+      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 278266,
       "name": "rakuen nite watashi jigoku",
       "url": "https://open.spotify.com/track/25NLUXr2EgWnyWckSfMUzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "zzz",
-      "url": "https://open.spotify.com/track/6AFyBKENjWJBxwjcFTtEpo"
     },
     {
       "added_at": null,

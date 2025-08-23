@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Young Cister
+> Today's top Latin hits, elevando nuestra música\. Cover: Feid
 
 897 songs - 1 day 23 hr 37 min
 

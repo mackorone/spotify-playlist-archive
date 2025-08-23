@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-595 songs - 1 day 14 hr 58 min
+597 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Ese Baba](https://open.spotify.com/track/3wDrQbkIAp1sL0mn1l9EjC) | [Younggod](https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW), [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K) | [Ese Baba](https://open.spotify.com/album/10vkoqbcRLX1X9mOosDHxM) | 3:57 | 2024-11-01 | 2025-03-14 |
 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 | 2023-04-06 |  |
 | [Eternal](https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Eternal](https://open.spotify.com/album/64yotkQgRqiboT1Sc9uRUQ) | 3:45 | 2025-05-23 | 2025-06-27 |
+| [Everlasting King](https://open.spotify.com/track/1bASwAjcGQEm7IEEJZXTlW) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Everlasting King](https://open.spotify.com/album/6C7VHTRmoznhJbOWkxUhIZ) | 9:19 | 2025-08-22 |  |
 | [Everyday](https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Everyday](https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE) | 3:31 | 2025-07-18 | 2025-08-22 |
 | [Everyday](https://open.spotify.com/track/1t3XeFBLr8zbx3rArQobfi) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Everyday](https://open.spotify.com/album/3IxSBGvSLluNNMDyf2UOP3) | 3:20 | 2025-06-27 |  |
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 |  |
@@ -205,6 +206,7 @@
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-20 | 2025-02-28 |
 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 | 2023-04-06 | 2025-02-28 |
 | [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 | 2025-05-09 |
+| [Gusa](https://open.spotify.com/track/07WihVXFDlPnDqsF9LnuSU) | [Rose Kumenya](https://open.spotify.com/artist/5epA6i4sh4yGgf8E0Jk8pQ) | [Gusa](https://open.spotify.com/album/4QlzmI3pPgrvF0cQfxA1ok) | 7:44 | 2025-08-22 |  |
 | [Haleluya](https://open.spotify.com/track/4keGyyibbTgybXTv3TLo4J) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Haleluya](https://open.spotify.com/album/49q620ivmhLVgPbnoosDUI) | 3:11 | 2024-06-14 | 2025-02-28 |
 | [Halle](https://open.spotify.com/track/1HsDWJSDV3hc0573qofg1i) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Halle](https://open.spotify.com/album/62njw55XuD1H395a27sMtJ) | 2:14 | 2025-06-20 |  |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 | 2024-04-07 |

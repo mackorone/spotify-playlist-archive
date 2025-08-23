@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Alulu Paranhos, Bruno Berle",
-  "num_followers": 351842,
+  "num_followers": 351829,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
+        "name": "Tanto Pra Dizer",
+        "url": "https://open.spotify.com/album/0g4HVjJ3ExcS3Hcwds5Ryv"
+      },
+      "artists": [
+        {
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+        }
+      ],
+      "duration_ms": 163473,
+      "name": "Tanto Pra Dizer",
+      "url": "https://open.spotify.com/track/4B2LyOxrCYgfQIytHwcHH7"
+    },
+    {
+      "added_at": "2025-08-15 13:26:34",
+      "album": {
         "name": "Voando (Nel Blu Dipinto Di Blu)",
         "url": "https://open.spotify.com/album/1QQkssDjcaEVl6pJhSOWIQ"
       },
@@ -623,26 +639,6 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Volta Por Cima",
-        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 139907,
-      "name": "Volta Por Cima",
-      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
-    },
-    {
-      "added_at": "2025-08-15 13:26:34",
-      "album": {
         "name": "Praia do Futuro",
         "url": "https://open.spotify.com/album/24izpsE4XkFEwNRoauYBPg"
       },
@@ -667,18 +663,22 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Tanto Pra Dizer",
-        "url": "https://open.spotify.com/album/0g4HVjJ3ExcS3Hcwds5Ryv"
+        "name": "Volta Por Cima",
+        "url": "https://open.spotify.com/album/43jVk8st8EuevYTvhf1tAI"
       },
       "artists": [
         {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 163473,
-      "name": "Tanto Pra Dizer",
-      "url": "https://open.spotify.com/track/4B2LyOxrCYgfQIytHwcHH7"
+      "duration_ms": 139907,
+      "name": "Volta Por Cima",
+      "url": "https://open.spotify.com/track/0hXCcivWPOFFAvYEJdbPVj"
     },
     {
       "added_at": "2025-08-15 13:26:34",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Samba e Amor",
-        "url": "https://open.spotify.com/album/094jwaXbLmTxQREPKoUdZq"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Suplicy",
-          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Samba e Amor",
-      "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
-    },
-    {
-      "added_at": "2025-08-15 13:26:34",
-      "album": {
         "name": "Pagode da Mart'n\u00e1lia",
         "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 180982,
       "name": "Cheia de Manias",
       "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
+    },
+    {
+      "added_at": "2025-08-15 13:26:34",
+      "album": {
+        "name": "Samba e Amor",
+        "url": "https://open.spotify.com/album/094jwaXbLmTxQREPKoUdZq"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Suplicy",
+          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Samba e Amor",
+      "url": "https://open.spotify.com/track/3PyuQLIu4gJab3PEgCKauq"
     },
     {
       "added_at": "2025-08-15 13:26:34",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
+        "name": "Fullg\u00e1s",
+        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "Fullg\u00e1s",
+      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+    },
+    {
+      "added_at": "2025-08-15 13:26:34",
+      "album": {
         "name": "Estrela",
         "url": "https://open.spotify.com/album/3t9mP6TVjZsG6UmvsFQpTI"
       },
@@ -1067,18 +1083,18 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Fullg\u00e1s",
-        "url": "https://open.spotify.com/album/5PaaYWMN2SXYc4kygrfWCQ"
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
       },
       "artists": [
         {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 172258,
-      "name": "Fullg\u00e1s",
-      "url": "https://open.spotify.com/track/1vFwHGzBsCwlpQe2mU0f91"
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2025-08-15 13:26:34",
@@ -1099,22 +1115,6 @@
       "duration_ms": 194494,
       "name": "Eu Vivendo Nossa Vida",
       "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
-    },
-    {
-      "added_at": "2025-08-15 13:26:34",
-      "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2025-08-15 13:26:34",
@@ -1391,8 +1391,8 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/5QpuwSU3qtOvEdxcSVsllt"
+        "name": "Alvorada",
+        "url": "https://open.spotify.com/album/1XuKaAutEn9ijlgpYU9reO"
       },
       "artists": [
         {
@@ -1400,9 +1400,25 @@
           "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/1rEi13xiygTnnysYpVmOGR"
+      "duration_ms": 295833,
+      "name": "Ainda \u00c9 Cedo",
+      "url": "https://open.spotify.com/track/0212BigSLn69oslGnUuqu0"
+    },
+    {
+      "added_at": "2025-08-15 13:26:34",
+      "album": {
+        "name": "Gabriela",
+        "url": "https://open.spotify.com/album/3viTLxUciUBLEe5rkYxo05"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a"
+        }
+      ],
+      "duration_ms": 206758,
+      "name": "Gabriela",
+      "url": "https://open.spotify.com/track/3PLybhXVhV4QB6QWGtorHP"
     },
     {
       "added_at": "2025-08-15 13:26:34",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Gabriela",
-        "url": "https://open.spotify.com/album/3viTLxUciUBLEe5rkYxo05"
-      },
-      "artists": [
-        {
-          "name": "Chella",
-          "url": "https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a"
-        }
-      ],
-      "duration_ms": 206758,
-      "name": "Gabriela",
-      "url": "https://open.spotify.com/track/3PLybhXVhV4QB6QWGtorHP"
-    },
-    {
-      "added_at": "2025-08-15 13:26:34",
-      "album": {
         "name": "Amor a tr\u00eas (Ou de Como Flertei com Lobo Antunes)",
         "url": "https://open.spotify.com/album/2CDEJdMlTcIvMTS5hSekfd"
       },
@@ -1483,8 +1483,8 @@
     {
       "added_at": "2025-08-15 13:26:34",
       "album": {
-        "name": "Alvorada",
-        "url": "https://open.spotify.com/album/1XuKaAutEn9ijlgpYU9reO"
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/5QpuwSU3qtOvEdxcSVsllt"
       },
       "artists": [
         {
@@ -1492,9 +1492,9 @@
           "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
         }
       ],
-      "duration_ms": 295833,
-      "name": "Ainda \u00c9 Cedo",
-      "url": "https://open.spotify.com/track/0212BigSLn69oslGnUuqu0"
+      "duration_ms": 240000,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/1rEi13xiygTnnysYpVmOGR"
     },
     {
       "added_at": "2025-08-15 13:26:34",

@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1371860,
+  "num_followers": 1371760,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "Hawk",
         "url": "https://open.spotify.com/album/4vPZUSwLbvknOOo9UJZQVs"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/75bNIPy58AL7MYYp8cnj4A"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",

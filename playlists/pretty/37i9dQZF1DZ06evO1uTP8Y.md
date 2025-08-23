@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 
 > This is Odeal\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,585 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,602 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 35 | [Sondela](https://open.spotify.com/track/3NRPgXmxfX6kThyVArjn5c) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/6cvutR6muDLzZRbFdYlgOK) | 1:47 |
 | 36 | [HBTS \(Haven't Been The Same\)](https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 3:03 |
 | 37 | [24/48](https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 2:41 |
-| 38 | [Azure](https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Out the Blue](https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE) | 3:29 |
-| 39 | [Kainji Dam](https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Kainji Dam](https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF) | 2:54 |
+| 38 | [Kainji Dam](https://open.spotify.com/track/2np8ayJn9afyhbQMOA0lz3) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Kainji Dam](https://open.spotify.com/album/5gpeAlOIVUoIIuK6BErUUF) | 2:54 |
+| 39 | [Azure](https://open.spotify.com/track/4M2LTxfMSZnyT51TsuTTF9) | [Sainté](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Out the Blue](https://open.spotify.com/album/5sTHywyZLnzU34tjOfdviE) | 3:29 |
 | 40 | [On & On](https://open.spotify.com/track/3eiHK0kBfAB8ldBTHgPtVx) | [Abra Cadabra](https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [On & On](https://open.spotify.com/album/4m8ae2qbI8mjUAWdRaeeCi) | 3:17 |
 | 41 | [Composure 2](https://open.spotify.com/track/4y3bKF7WJdpJc5Xp1dsYDB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 3:04 |
 | 42 | [BE FREE](https://open.spotify.com/track/4exp12So2KjvsPwmN2L7r8) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [PDF/BE FREE](https://open.spotify.com/album/3JXY3hqrj0r0dOTJjem5p1) | 3:23 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uTP8Y.md) - [plain]
 | 48 | [Ringaling \(feat\. Headie One and Odeal\)](https://open.spotify.com/track/3clsaaFmHO6N6rvr77h68f) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Crabs In A Bucket](https://open.spotify.com/album/6nGxZjUBZK40BydnxQkc15) | 2:50 |
 | 49 | [What You Need](https://open.spotify.com/track/5cQmw2ggmqGN7IERoGJdZe) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [OVMBR: Roses](https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q) | 4:10 |
 
-Snapshot ID: `aKO+gAAAAABcOjlrzG6VQ1hk+Dg2usmw`
+Snapshot ID: `aKZhgAAAAADqKjj5OYtrrrNWrLKLxkuu`

@@ -4,7 +4,7 @@
 
 > 1 eh pouco 2 eh bom 3 eh demais🫦  / Foto: Jonas Brothers
 
-489 songs - 1 day 2 hr 3 min
+490 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Me rendi ao love song](https://open.spotify.com/track/7CRsO8aLopgWGHjEygr6dF) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Me rendi ao love song](https://open.spotify.com/album/7bjW8HtQhukkVCX2DBJ98k) | 3:45 | 2022-05-06 | 2022-08-13 |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-12-27 |  |
 | [meu romance](https://open.spotify.com/track/4r9uSrToSVxAgs9ElYwfeP) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [meu romance](https://open.spotify.com/album/5oQlhlDuDbXlp0go3eut4F) | 3:22 | 2022-06-10 | 2022-07-02 |
+| [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-08-22 |  |
 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-06-13 | 2025-08-08 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-02 | 2023-01-17 |
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-05-06 | 2022-12-09 |
@@ -327,7 +328,7 @@
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-10 | 2023-03-25 |
 | [One Of The Girls](https://open.spotify.com/track/54XqJ3fP3GxmUejMsKwCaK) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Lily\-Rose Depp](https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ) | [One of the Girls](https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR) | 4:04 | 2023-12-15 |  |
 | [ONE SPARK](https://open.spotify.com/track/7cIn67LEvk16v6komC8znS) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [With YOU\-th](https://open.spotify.com/album/575TQDOQqc0MAheeEeKWUR) | 3:03 | 2024-02-23 | 2024-03-23 |
-| [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-16 |  |
+| [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-16 | 2025-08-23 |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-08-19 | 2024-04-20 |
 | [Ordinary](https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:06 | 2025-04-04 |  |
 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-14 | 2025-04-19 |

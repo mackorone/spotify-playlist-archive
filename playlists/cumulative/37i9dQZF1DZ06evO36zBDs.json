@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Umitsuki",
+        "url": "https://open.spotify.com/album/2hziPKjGL5A5KEti1z7QxQ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "One more voice",
+      "url": "https://open.spotify.com/track/0HC2vmYBlt4qZMCFeOLDbL"
+    },
+    {
+      "album": {
         "name": "WINTER TRACKS -\u51ac\u306e\u3046\u305f-",
         "url": "https://open.spotify.com/album/7FZFPL1Z8sgWAlX30Sxr6n"
       },
@@ -1032,7 +1050,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 217960,
       "name": "\u30a2\u30b5\u30ac\u30aa",
       "url": "https://open.spotify.com/track/4yHYiD5mBQ98LuAnHEO8sJ"
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 159520,
       "name": "\u604b\u306e\u30d0\u30ab\u30f3\u30b9",
       "url": "https://open.spotify.com/track/5AoEKI3ai8YPdhnBYqloud"
@@ -2012,6 +2030,24 @@
       "duration_ms": 239560,
       "name": "\u79cb\u306e\u30b0\u30e9\u30c7\u30a3\u30a8\u30f3\u30c8",
       "url": "https://open.spotify.com/track/456cTdcgwfzcrK17CfLkai"
+    },
+    {
+      "album": {
+        "name": "Umitsuki",
+        "url": "https://open.spotify.com/album/2hziPKjGL5A5KEti1z7QxQ"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235680,
+      "name": "\u904b\u547d",
+      "url": "https://open.spotify.com/track/0gJjTxeKA5856MhOUfqZBU"
     },
     {
       "album": {

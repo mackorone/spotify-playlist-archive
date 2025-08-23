@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 167665,
+  "num_followers": 167774,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAjl01euUYBzESPPJrOg6IF",
+  "snapshot_id": "aKZhgAAAAAA1W1pCiXiJzpesuftw7M7Q",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 256673,
-      "name": "Mario Portillo",
-      "url": "https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Posada Especial",
         "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 338511,
       "name": "Promesa Cumplida",
       "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 256673,
+      "name": "Mario Portillo",
+      "url": "https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 259531,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Del Ice (Live)",
         "url": "https://open.spotify.com/album/3LlXNXKkBrt0S43Jvwx5b8"
       },
@@ -567,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 214738,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pareja Ideal (Live)",
         "url": "https://open.spotify.com/album/7tf6GpdBaocZXuE1NlOR9F"
       },
@@ -595,6 +599,22 @@
       "duration_ms": 249088,
       "name": "La Pareja Ideal - Live",
       "url": "https://open.spotify.com/track/0nwTI8VwuCvNIR2mhq0rnr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 214738,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX"
     },
     {
       "added_at": null,
@@ -631,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Proveedor",
+        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 231402,
+      "name": "El Proveedor",
+      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -663,22 +699,6 @@
       "duration_ms": 218750,
       "name": "Nunca Se Imagin\u00f3",
       "url": "https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Proveedor",
-        "url": "https://open.spotify.com/album/6vzWByBth3V5C0TBjhA8fg"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "El Proveedor",
-      "url": "https://open.spotify.com/track/1Qi72Kxk7tQ08RKEQTIRca"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        },
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 259531,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playball",
-        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos",
         "url": "https://open.spotify.com/album/5GPEbz6FdTlZ5C3PGdyxE6"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 219147,
       "name": "El 3",
       "url": "https://open.spotify.com/track/2ZsmtpzGfitVdZPAUjC8Mg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playball",
+        "url": "https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC"
     },
     {
       "added_at": null,

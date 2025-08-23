@@ -1,29 +1,13 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 945251,
+  "num_followers": 945408,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABl2FejylYmXAEY0dApc+IQ",
+  "snapshot_id": "aKZhgAAAAAAUxI5OfYAYF/0xURo9yoga",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "All We Know Is Falling (Deluxe)",
-        "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 246025,
-      "name": "This Circle",
-      "url": "https://open.spotify.com/track/5ygLBPgT9EFcgphNOubEqk"
-    },
     {
       "added_at": null,
       "album": {
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Know Is Falling",
-        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
+        "name": "I Caught Myself",
+        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
+      "duration_ms": 235440,
+      "name": "I Caught Myself",
+      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
     },
     {
       "added_at": null,
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Caught Myself",
-        "url": "https://open.spotify.com/album/4DkinXgFtxBHXsgZw3iP1k"
+        "name": "All We Know Is Falling",
+        "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 235440,
-      "name": "I Caught Myself",
-      "url": "https://open.spotify.com/track/0NDKrxRuw0H3tZxbpYIhze"
+      "duration_ms": 240040,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/3i4xZSH1kTLE22TUvUFMYo"
     },
     {
       "added_at": null,
@@ -411,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 309973,
-      "name": "Last Hope",
-      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All We Know Is Falling",
         "url": "https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC"
       },
@@ -439,6 +407,22 @@
       "duration_ms": 222013,
       "name": "Conspiracy",
       "url": "https://open.spotify.com/track/21aVkXDch0A1nXo9he3j8L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 309973,
+      "name": "Last Hope",
+      "url": "https://open.spotify.com/track/2VBluJiNj9bKohWX0dY1Lh"
     },
     {
       "added_at": null,
@@ -651,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paramore (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+        "name": "All We Know Is Falling (Deluxe)",
+        "url": "https://open.spotify.com/album/4v7K8sgLM1fx69WSrQRKYo"
       },
       "artists": [
         {
@@ -660,9 +644,9 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 163517,
-      "name": "Tell Me It's Okay - Demo",
-      "url": "https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z"
+      "duration_ms": 246025,
+      "name": "This Circle",
+      "url": "https://open.spotify.com/track/5ygLBPgT9EFcgphNOubEqk"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 226293,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/5Pp1H1mFlL6o63omITUvfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paramore (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 163517,
+      "name": "Tell Me It's Okay - Demo",
+      "url": "https://open.spotify.com/track/1b0sV4coLmS3ri2kZjr98z"
     },
     {
       "added_at": null,

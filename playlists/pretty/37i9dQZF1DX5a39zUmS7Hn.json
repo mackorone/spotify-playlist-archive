@@ -1,6 +1,6 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: Buckingham Nicks",
-  "num_followers": 569453,
+  "num_followers": 569693,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Songs From The Big Chair",
-        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 393666,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Evil Empire",
         "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
     },
     {
       "added_at": "2025-07-24 23:00:27",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2025-07-24 23:00:27",
       "album": {
-        "name": "Patient Number 9 (feat. Jeff Beck)",
-        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 441402,
-      "name": "Patient Number 9 (feat. Jeff Beck)",
-      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
-    },
-    {
-      "added_at": "2025-07-24 23:00:27",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 394173,
       "name": "One Day Like This",
       "url": "https://open.spotify.com/track/1OZSVl0JJ1MBzibpuhmmXb"
+    },
+    {
+      "added_at": "2025-07-24 23:00:27",
+      "album": {
+        "name": "Patient Number 9 (feat. Jeff Beck)",
+        "url": "https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 441402,
+      "name": "Patient Number 9 (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ"
     },
     {
       "added_at": "2025-07-24 23:00:27",

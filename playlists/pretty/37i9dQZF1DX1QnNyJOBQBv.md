@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> Pop on the rise you should know, featuring Danny Ocean.
+> Pop on the rise you should know, featuring ELENA ROSE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,902 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962,834 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QnNyJOBQBv.md) - [plain]
 | 49 | [sobelove](https://open.spotify.com/track/4GZOxR1IuvoRiUz0gpmASl) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [sobelove](https://open.spotify.com/album/3RkTny4UF5dEHzCsExXeOO) | 2:11 |
 | 50 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 
-Snapshot ID: `AAAAAJZxjj3RgsgrxAqgKD7HNZxYK4gQ`
+Snapshot ID: `AAAAACzNypUOWtp2EmDC/OzJIm5lTlQo`

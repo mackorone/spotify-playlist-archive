@@ -2,7 +2,7 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Jordan Davis
+> Today's top country hits\. Cover: BigXthaPlug and Ella Langley
 
 916 songs - 2 day 1 hr 31 min
 

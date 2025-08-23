@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,513 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,539 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 15 | [The way to lose you \(Inst.\)](https://open.spotify.com/track/3M67uOxfgPzOcpBVj92gSn) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [10CM X MY DEMON](https://open.spotify.com/album/75T4CuttGSiyjXZyKHvh3d) | 4:21 |
 | 16 | [Nevertheless \- Instrumental](https://open.spotify.com/track/6R48opWMUfBcb1TNuN21wR) | [Night Off](https://open.spotify.com/artist/0MrJIVLnVbubveFG4zSy88) | [Nevertheless, \(Original Television Sound Track, Pt\. 2\)](https://open.spotify.com/album/5TQex521jmVvoNG9FHi0Zo) | 3:32 |
 | 17 | [Give You My Heart \(Inst.\)](https://open.spotify.com/track/5TDu5bIw976Qhkp5tWhpbH) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Crash Landing on You OST Part 11](https://open.spotify.com/album/29KU88wZtAigritdYGvgPk) | 4:40 |
-| 18 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
-| 19 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
+| 18 | [Butterfly \- Instrumental](https://open.spotify.com/track/3J4AXtGxqaVg9A9RihPdbd) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [Nevertheless, \(Original Drama Soundtrack, Pt\. 4\)](https://open.spotify.com/album/4HevCYW0zYM4luVtmXWFNy) | 3:14 |
+| 19 | [Wishes \- Instrumental](https://open.spotify.com/track/4juTgLIgRUGofcqA5JgKJi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 |
 | 20 | [Stardust love song \(Inst.\)](https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
 | 21 | [Good Person \(2022\) \- Instrumental](https://open.spotify.com/track/4eVLchM4qaokQ4adLgVK3R) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
 | 22 | [Wish \- Instrumental](https://open.spotify.com/track/3jxYOo3LSBsJjv1GYvNJpi) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Guardian \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/2taCIMO9i00u0euzw9av9h) | 3:56 |

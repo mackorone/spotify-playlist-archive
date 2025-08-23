@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-233 songs - 17 hr 59 min
+234 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Aren't You Kind of Glad We Did](https://open.spotify.com/track/3od44H39oaZ8vtjZ1rdvRM) | [Betty Grable](https://open.spotify.com/artist/7n9rBNFFYHydQrzPXyCySC), [Dick Haymes](https://open.spotify.com/artist/3BiJGZsyX9sJchTqcSA7Su) | [This Is the Moment](https://open.spotify.com/album/02Fye2FALIxAjtRvIJ7fbD) | 3:32 | 2025-06-17 | 2025-06-21 |
 | [Aren't You Kind of Glad We Did](https://open.spotify.com/track/7G3OEFOgsCevAjDorVnYpT) | [Lena Ericsson](https://open.spotify.com/artist/17c0OGP8YT9ZormpeE6Fo8), [Ove Lind and his Swedish All Stars](https://open.spotify.com/artist/0BnkAMkLUOozeHLvY0vYK8), [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J), [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Gershwin \- Evergreen Vol.1 \(Remastered\)](https://open.spotify.com/album/3yWqqjAgERF5jlB0XjDZO5) | 4:05 | 2025-06-20 | 2025-06-22 |
 | [Aren't You Kind Of Glad We Did?](https://open.spotify.com/track/7DBDV2YRRotPuaBFwPM6ds) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 3:30 | 2025-06-21 |  |
-| [Ask Me Again](https://open.spotify.com/track/5pkTiJbBrOadaj6TEh5FyZ) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 3:10 | 2024-07-24 |  |
+| [Ask Me Again](https://open.spotify.com/track/1Up7pdThtA1QQuAOyjDxJm) | [Nancy LaMott](https://open.spotify.com/artist/14py4lZp4X3cYUSlXym7Du) | [Ask Me Again](https://open.spotify.com/album/6PhICOUGGEzqAtMCfKQlyc) | 3:18 | 2025-08-22 |  |
+| [Ask Me Again](https://open.spotify.com/track/5pkTiJbBrOadaj6TEh5FyZ) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 3:10 | 2024-07-24 | 2025-08-23 |
 | [b.e.a.t.](https://open.spotify.com/track/1F1TNP4Tv9MouWC2tp8AjW) | [Five Deez](https://open.spotify.com/artist/2fxf19eScHHFOfmTwxWcGz) | [Koolmotor](https://open.spotify.com/album/5KHBIZ0WMy6Z1xUHwxshJV) | 5:00 | 2025-06-27 | 2025-07-10 |
 | [Ballad Medley](https://open.spotify.com/track/4wpISKwRdLsRrP8dxJlf12) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 8:08 | 2025-06-27 |  |
 | [Ballad Medley: Bewitched / Bothered and Bewildered / I Don't Know Why \(I Just Do\) / How Long Has This Been Going On? / I Can't Get Started / Polka Dots and Moonbeams](https://open.spotify.com/track/38fSpNxZvwViS3sZMQrhbl) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Jazz Portraits: Stan Getz \(Remastered\)](https://open.spotify.com/album/6gway2tYnsBSUHGoFRLrMl) | 10:11 | 2024-07-24 | 2025-06-28 |

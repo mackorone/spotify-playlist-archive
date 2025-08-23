@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Lexxx Torres
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,236 likes - 60 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,246 likes - 60 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 38 | [Enredao](https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Enredao](https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7) | 2:52 |
 | 39 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
 | 40 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
-| 41 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
-| 42 | [Algarete](https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Algarete](https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE) | 2:11 |
+| 41 | [Algarete](https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Algarete](https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE) | 2:11 |
+| 42 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 |
 | 43 | [Bendición](https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bendición](https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N) | 3:05 |
 | 44 | [Mi Primer Amor](https://open.spotify.com/track/4ieuiKKyyuEHcEjxjSH3hz) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt) | [Mi Primer Amor](https://open.spotify.com/album/53YxUPkUs8V8w9DQcC8GMF) | 3:01 |
 | 45 | [Uy k raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy k raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 53 | [Limbo](https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Limbo](https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J) | 2:58 |
 | 54 | [Pal' Otro Año](https://open.spotify.com/track/68IONBceV20r5OOr6961PQ) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pal' Otro Año](https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9) | 2:30 |
 | 55 | [Codigo Secreto](https://open.spotify.com/track/6ZUGi3v66aBs8kLxJ8DsO1) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Núcleo](https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW) | 3:17 |
-| 56 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
-| 57 | [Tanto Fronteo](https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk) | [King Goyi](https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Team Mati](https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2) | [Tanto Fronteo](https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp) | 4:57 |
+| 56 | [Tanto Fronteo](https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk) | [King Goyi](https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs), [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Team Mati](https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2) | [Tanto Fronteo](https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp) | 4:57 |
+| 57 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 58 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
 | 59 | [X Ti Lo Digo](https://open.spotify.com/track/1nT6epkjhga9uBDKrHIWVe) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [X Ti Lo Digo](https://open.spotify.com/album/4ifI86bX1iJP68q2AogGBM) | 3:11 |
 | 60 | [POPPER!](https://open.spotify.com/track/3dffM1ONyWwC9153O47a2O) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [POPPER!](https://open.spotify.com/album/4v0x0syzsxORqMTW3c88Zp) | 1:50 |

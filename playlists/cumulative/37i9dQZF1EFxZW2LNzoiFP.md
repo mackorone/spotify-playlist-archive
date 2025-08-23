@@ -4,14 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-286 songs - 16 hr 19 min
+293 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['small miracles'](https://open.spotify.com/track/0XhGZDlgA4S0XMvfiDtWIZ) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 1:24 | 2024-05-01 |  |
 | [2DK](https://open.spotify.com/track/6K5oRgYM2QVagCiHFnSDu4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 3:16 | 2025-03-30 |  |
 | [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-12-17 | 2025-03-31 |
-| [</shine>](https://open.spotify.com/track/2bDhSTvWdrdly3soXgfo9M) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:36 | 2024-05-01 |  |
+| [</shine>](https://open.spotify.com/track/2bDhSTvWdrdly3soXgfo9M) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:36 | 2024-05-01 | 2025-08-23 |
 | [<shine>](https://open.spotify.com/track/5CwjYBkkOkhxGIrA6KrTpS) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:33 | 2024-05-01 |  |
 | [A Wish](https://open.spotify.com/track/03xEUiZCkvWTnDTn737HQ8) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:27 | 2024-05-01 |  |
 | [About You](https://open.spotify.com/track/1eYgb5jt3qBEICuwHDyjW9) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Symmetry](https://open.spotify.com/album/7wUP1iUObau6jXYCX0KGOo) | 3:08 | 2024-05-01 |  |
@@ -22,6 +22,7 @@
 | [Ambroxyde](https://open.spotify.com/track/20L8K1fFqdqn088ZX66pHW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde / Black Shoes](https://open.spotify.com/album/5vyikpdMXfWM595yFD7IYX) | 2:57 | 2025-04-18 | 2025-06-30 |
 | [Ambroxyde](https://open.spotify.com/track/5Jj9nsX0EuynTtg7100XOB) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:57 | 2025-06-29 |  |
 | [Amnesia](https://open.spotify.com/track/1QLsB1p8qoqLho63QdhLYU) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Amnesia](https://open.spotify.com/album/7nKdgCnwH657TEKLNPoVW9) | 2:29 | 2024-05-01 |  |
+| [Apeshit \(Interlude\)](https://open.spotify.com/track/13AWCMQDdpXPAysb5ZuHkS) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 1:28 | 2025-08-22 |  |
 | [Appetite](https://open.spotify.com/track/22eLgmSM6M98y3Iq3bnfy0) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 1:48 | 2024-05-01 |  |
 | [At Sunset Sunrise Blooms](https://open.spotify.com/track/1eY1Atu5l6JAH9ezCOY6ty) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 5:53 | 2024-05-01 | 2024-12-12 |
 | [At Sunset Sunrise Blooms](https://open.spotify.com/track/2MgE9yGRVvHbH7RXAqfPI7) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 5:53 | 2024-12-11 |  |
@@ -49,6 +50,7 @@
 | [Blue](https://open.spotify.com/track/7IZCKhsBUkQ4lmBJzQOJSa) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 4:01 | 2024-05-01 |  |
 | [Blunder](https://open.spotify.com/track/5jM41owzkVBcCnDKAn9vc8) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:35 | 2024-05-01 |  |
 | [Bounty](https://open.spotify.com/track/2LtHvG5lx91a1b5Aoo57LB) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 1:52 | 2024-05-01 |  |
+| [BUGGIN’](https://open.spotify.com/track/3r35TgApxSdiRv1DLkraeQ) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [MAYBE IN ANOTHER LIFE...](https://open.spotify.com/album/5vvbek95UXDUAbdeDArk7m) | 2:08 | 2025-08-22 |  |
 | [BULLET MAN](https://open.spotify.com/track/31b2vyO3VXHwfGWZIr3JDw) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:58 | 2024-05-01 |  |
 | [Burning the Sky](https://open.spotify.com/track/1bT1s2SmQccmWXPsaXDIpC) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:36 | 2024-05-01 |  |
 | [Busy With It](https://open.spotify.com/track/7kigNPNPm9KfwHfGt3LNNR) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:56 | 2024-05-01 |  |
@@ -58,6 +60,7 @@
 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 | 2024-05-01 |  |
 | [Change Your Mind](https://open.spotify.com/track/5kytpT5jLg0DNCmYKrtcuA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 5:31 | 2024-05-01 |  |
 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 | 2024-05-01 |  |
+| [Chocolate Pretzels](https://open.spotify.com/track/3k542OKfoZalubk2HiTVnp) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 2:53 | 2025-08-22 |  |
 | [Closer Still](https://open.spotify.com/track/4TGJZtEGW7hIhwILbEDaku) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 4:10 | 2024-05-01 |  |
 | [Coda](https://open.spotify.com/track/1Nk4O287pOo9TUYQicHw0v) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:22 | 2024-05-01 |  |
 | [Cola](https://open.spotify.com/track/0i6c86ntKJoZpKk8aCHL3c) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Cola](https://open.spotify.com/album/292dfJsxChA6s32kXGrrd4) | 3:49 | 2024-05-01 |  |
@@ -206,8 +209,10 @@
 | [Rose Colored](https://open.spotify.com/track/7GygXkOwsYrl3IeQxMhwRO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 5:01 | 2024-05-01 |  |
 | [Route 44](https://open.spotify.com/track/0W10s9dFD9kQF6FpuCkVuv) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:34 | 2025-06-29 |  |
 | [Route 44](https://open.spotify.com/track/0udgP7co0NJeyUzr3F4har) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Route 44](https://open.spotify.com/album/3wjVnK6g4fFvxNUP4j4MmG) | 3:34 | 2025-06-14 | 2025-06-30 |
-| [Run](https://open.spotify.com/track/6myniiyBGUHWAOaX5EZsMv) | [EPONINE](https://open.spotify.com/artist/7tk9eplTvEzG2Dsg0MUq8I) | [Run](https://open.spotify.com/album/5wovmSS3zYbMi1MgnXqHbq) | 3:26 | 2024-10-28 |  |
+| [Run](https://open.spotify.com/track/6myniiyBGUHWAOaX5EZsMv) | [EPONINE](https://open.spotify.com/artist/7tk9eplTvEzG2Dsg0MUq8I) | [Run](https://open.spotify.com/album/5wovmSS3zYbMi1MgnXqHbq) | 3:26 | 2024-10-28 | 2025-08-23 |
+| [Run \- 10th Anniversary](https://open.spotify.com/track/4r0Dgn3r9FtNnciEwEOdxm) | [Theodore](https://open.spotify.com/artist/6h2gJ4ySc3k099VZDpCIIg) | [Run \(10th Anniversary\)](https://open.spotify.com/album/58omDMRDrDa73RB9dk9lKn) | 3:39 | 2025-08-22 |  |
 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 | 2024-05-01 |  |
+| [Same God](https://open.spotify.com/track/6PESnSfYX2RyK3pnCTevb0) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Same God](https://open.spotify.com/album/12FwGjEpIHteKWG3V5Kv6a) | 3:37 | 2025-08-22 |  |
 | [Say It's Fine](https://open.spotify.com/track/4jpd7IRKPndo9CqV2WTkdi) | [Kyle Lux](https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR) | [No Roof Access](https://open.spotify.com/album/1GJTZ0fSwgf4ZKXdhhCpkS) | 3:25 | 2024-05-01 |  |
 | [Say You Do](https://open.spotify.com/track/7yIyCGOAXt3NXNc5pSuP8X) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:53 | 2024-05-01 |  |
 | [See Me](https://open.spotify.com/track/2Tv7pZ9R4gJH0yW1VztyTB) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:32 | 2024-05-01 |  |
@@ -251,9 +256,11 @@
 | [That's Being You](https://open.spotify.com/track/5hKkEEiLxz5kJSMZblMOep) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [That's Being You](https://open.spotify.com/album/2XUDKyZObzSKbR0TmBtBlC) | 3:50 | 2025-08-07 |  |
 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 | 2024-05-01 |  |
 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 | 2024-05-01 |  |
+| [The Party And The Mess](https://open.spotify.com/track/6c9IJprTmafdnhgmgEJBKq) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:57 | 2025-08-22 |  |
 | [The Wave](https://open.spotify.com/track/2IbQBVzWkT4CF9aEUWek2o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Heathen](https://open.spotify.com/album/273GjRsq1JgB5lu7ptz6HQ) | 4:18 | 2024-05-01 |  |
 | [Thief](https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:34 | 2024-12-11 |  |
 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 | 2024-05-01 |  |
+| [Time](https://open.spotify.com/track/0Epdxan5kbUuZdK8Hwpr1e) | [Ren G](https://open.spotify.com/artist/38cFq6Isp5nxgA7z341LF0) | [Miss 24/7](https://open.spotify.com/album/5y0p0MAKI4QvHL6dcUnB4o) | 2:29 | 2025-08-22 |  |
 | [Time Glows](https://open.spotify.com/track/2uZ2Od68eVgL0FnuHgXyyD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:59 | 2024-05-01 |  |
 | [Tokyo](https://open.spotify.com/track/0sKPeFueWGKbLDxd6DkTzu) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Tokyo](https://open.spotify.com/album/53HIhnB6r9p1JUh6fTY4J5) | 4:13 | 2024-05-01 |  |
 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 | 2024-05-01 |  |

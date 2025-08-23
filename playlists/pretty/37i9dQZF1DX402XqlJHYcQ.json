@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos del rock en ingl\u00e9s y en espa\u00f1ol. Foto: Radiohead",
-  "num_followers": 162364,
+  "num_followers": 162410,
   "original_name": "rock X rock",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2024-07-13 01:38:49",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "added_at": "2024-07-13 01:38:49",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2024-07-13 01:38:49",
-      "album": {
         "name": "Only By The Night",
         "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 230760,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2"
+    },
+    {
+      "added_at": "2024-07-13 01:38:49",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
-    },
-    {
-      "added_at": "2024-07-13 01:38:49",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2024-07-13 01:38:49",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
-    },
-    {
-      "added_at": "2024-07-13 01:38:49",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2024-07-13 01:38:49",
+      "album": {
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
       "artists": [
         {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
         }
       ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
+      "duration_ms": 312626,
+      "name": "One Headlight",
+      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -1311,34 +1311,18 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
       "artists": [
         {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
         }
       ],
-      "duration_ms": 312626,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2024-07-13 01:38:49",
-      "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -1355,6 +1339,22 @@
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2024-07-13 01:38:49",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "Billy Idol",
-        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
         }
       ],
-      "duration_ms": 252200,
-      "name": "White Wedding - Pt. 1",
-      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
+      "duration_ms": 268506,
+      "name": "Owner of a Lonely Heart",
+      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
     },
     {
       "added_at": "2024-07-13 01:38:49",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-07-13 01:38:49",
       "album": {
-        "name": "90125 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+        "name": "Billy Idol",
+        "url": "https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k"
       },
       "artists": [
         {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
         }
       ],
-      "duration_ms": 268506,
-      "name": "Owner of a Lonely Heart",
-      "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
+      "duration_ms": 252200,
+      "name": "White Wedding - Pt. 1",
+      "url": "https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX"
     },
     {
       "added_at": "2024-07-13 01:38:49",

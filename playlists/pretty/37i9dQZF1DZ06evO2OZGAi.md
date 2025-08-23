@@ -42,20 +42,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2OZGAi.md) - [plain]
 | 32 | [Love N' Shit](https://open.spotify.com/track/0kZKUPXsNPNIBd7LtVGif5) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 3:36 |
 | 33 | [Despierten](https://open.spotify.com/track/6P4H2ugc3v2fYV8bds4bkc) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 6:14 |
 | 34 | [Rutas](https://open.spotify.com/track/5DOYgPZq11EUB4T4DxNWvK) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Rutas](https://open.spotify.com/album/2R1OQoBjl5F50MGEEXqWDd) | 4:16 |
-| 35 | [2020](https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA) | 4:43 |
+| 35 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
 | 36 | [El Tunel del Amor](https://open.spotify.com/track/0n5FF2PC3STxUgPFtCHrsN) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 2:10 |
-| 37 | [Échale la Culpa al Rock N' Roll](https://open.spotify.com/track/6DAVWzv0jbqZy7M2LypsqJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:12 |
+| 37 | [2020](https://open.spotify.com/track/3SJaiCgPfI6L9WymQkjivV) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/25wwomOyVO7rJvF28zwrpA) | 4:43 |
 | 38 | [María](https://open.spotify.com/track/0TELUUtorjfY4gvlaVuiTu) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 4:04 |
-| 39 | [Ella Es](https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Ella Es](https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF) | 3:15 |
+| 39 | [Jam Session](https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 0:57 |
 | 40 | [La Ultima Canción\. Ámame \- Bonus Track](https://open.spotify.com/track/0uGerlDGcEVGRvFLtFJsmf) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Tiempos de Resurrección](https://open.spotify.com/album/0eDQe2HtPCCNwJ6DjxnDVN) | 2:37 |
-| 41 | [Jam Session](https://open.spotify.com/track/6qmz2Q6Nvg2Q7e2VlphVEM) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 0:57 |
+| 41 | [Ella Es](https://open.spotify.com/track/7bpOAW9LnQAsAbFbyImhwS) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Ella Es](https://open.spotify.com/album/6P0eRSeMkYkulYGS2zzdFF) | 3:15 |
 | 42 | [Dilo por Mí](https://open.spotify.com/track/4T0jO89hVCnA2TNNnBUTUY) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:10 |
-| 43 | [La Vida](https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [La Vida](https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h) | 2:18 |
-| 44 | [A Nadie Le Importa](https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 3:13 |
-| 45 | [Haz el Amor](https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:32 |
+| 43 | [Haz el Amor](https://open.spotify.com/track/30GrX78jqjyJVQI6WMmUb9) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 3:32 |
+| 44 | [La Vida](https://open.spotify.com/track/1Q69O1mL0bDyC2aA4OPDsh) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [La Vida](https://open.spotify.com/album/79hgjBwG8Vh3r7x8FGdA9h) | 2:18 |
+| 45 | [A Nadie Le Importa](https://open.spotify.com/track/3AgEcKmM0cBb2T7NYciSB4) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [2020](https://open.spotify.com/album/2XXSSuTZwjCGyI0yshXmJv) | 3:13 |
 | 46 | [Salva Mi Mente](https://open.spotify.com/track/1rEk0rWsAGF8gJqIMMAj8w) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Somos la Gente \(Somos Uno\)](https://open.spotify.com/album/165JYqcw1Eu4iCMddeGzrv) | 4:21 |
-| 47 | [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 |
-| 48 | [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 |
-| 49 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 |
+| 47 | [No Me Estoy Quemando](https://open.spotify.com/track/3z7Rh2GBx6ktNjh0GrumNJ) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Libre](https://open.spotify.com/album/257eRjejmoHnl7OBFw4IsH) | 4:13 |
+| 48 | [Feliz](https://open.spotify.com/track/0K4sJ6POIZPwbTkYqF4rA8) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Feliz](https://open.spotify.com/album/2RygylLconytLpI3VPQ1VX) | 3:07 |
+| 49 | [Magia](https://open.spotify.com/track/2dRiSTQQFw2mvXMJMRsMNi) | [Amén](https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp) | [Magia](https://open.spotify.com/album/6Siy5RIoHnsou0AfiglNwi) | 3:16 |
 
-Snapshot ID: `aKO+gAAAAADzdhFOeiG433774I5wc6J/`
+Snapshot ID: `aKZhgAAAAACsGcb7l9IeG2JaYAjz4Ttv`

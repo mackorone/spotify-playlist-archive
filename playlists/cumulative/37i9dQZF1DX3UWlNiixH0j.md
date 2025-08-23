@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 家主 Yanushi
 
-2,626 songs - 6 day 19 hr 55 min
+2,627 songs - 6 day 19 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,7 +800,7 @@
 | [Live On \- Minami\-Aoyama Samba MIX](https://open.spotify.com/track/7psPyOry3ZqLnFzdkUo1Ck) | [End Must Be](https://open.spotify.com/artist/4CxLpjaaR43KdGIS7nEeI8) | [Live On \(Minami\-Aoyama Samba MIX\)](https://open.spotify.com/album/7gZysicndCOUnzJOmxyRTt) | 3:17 | 2025-05-27 | 2025-06-04 |
 | [Living](https://open.spotify.com/track/2EUYGxVru6mS6LU1m0WDJL) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [Living](https://open.spotify.com/album/1WyapMq4J43VfuR5Mh7X4J) | 3:51 | 2025-01-23 | 2025-01-29 |
 | [Living Fool](https://open.spotify.com/track/0e1kW8RRrYyhyBmAaLzNaG) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Living Fool](https://open.spotify.com/album/0Vaq53yG0l4tjNP2AmIj7v) | 3:01 | 2024-06-25 | 2024-08-19 |
-| [Lone Star](https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Lone Star](https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi) | 4:22 | 2025-06-03 |  |
+| [Lone Star](https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq), [佐瀬悠輔](https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A) | [Lone Star](https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi) | 4:22 | 2025-06-03 | 2025-08-23 |
 | [LONELINESS WILL SHINE](https://open.spotify.com/track/4Ieq7cQhnpdvxkRIALTT1D) | [toe](https://open.spotify.com/artist/0rpKM0MniNkXM1SLSglYUZ) | [NOW I SEE THE LIGHT](https://open.spotify.com/album/1AgU32hdZ8BOx6cWVB7Ucv) | 5:56 | 2024-07-09 | 2024-09-18 |
 | [lonely & lonely](https://open.spotify.com/track/4GGmUBA5w9sABmbnnBLee9) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [lonely & lonely](https://open.spotify.com/album/6EemxOgxgfGbYPlSEvpkFR) | 3:57 | 2023-08-15 | 2023-08-23 |
 | [Lonely star](https://open.spotify.com/track/0Cwn9uG2MvqkZ7tQ9uk4yd) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Lonely star](https://open.spotify.com/album/5pE7WbMog2Ask6PG54qvAc) | 3:47 | 2024-01-30 | 2024-02-23 |
@@ -2067,6 +2067,7 @@
 | [マイ・ロスト・シティー \- Recorded at LIQUIDROOM 2023.12.3](https://open.spotify.com/track/7td4nCFdsA3ylPAF0vMMPX) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [Live O Rec](https://open.spotify.com/album/4bSPM5YprzQ2oEVwN3tGoL) | 4:56 | 2024-09-10 | 2024-10-30 |
 | [マクドナルドのコーヒー](https://open.spotify.com/track/4lDhiYQwDNQgDQh1Ua0uG1) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [マクドナルドのコーヒー](https://open.spotify.com/album/1z4Ne7xYUj6dRjHyysBXNj) | 3:14 | 2023-09-21 | 2023-09-23 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-06-14 |
+| [ミーンストリート](https://open.spotify.com/track/6Ecc1MqVM3N88cDw2xzulw) | [People In The Box](https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 3:41 | 2025-08-19 |  |
 | [メガフォン](https://open.spotify.com/track/0Q4sqHF7uMbOZjwkbrfrw4) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 2:38 | 2023-03-14 | 2023-05-09 |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-02-28 | 2023-03-16 |
 | [メビウス](https://open.spotify.com/track/7rJQvRGGsBODeowCZyjJiZ) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [メビウス](https://open.spotify.com/album/2zzlc0vkD1o1V5iJH3fdAB) | 5:07 | 2024-01-16 | 2024-04-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Wizkid and Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,305 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,378 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [tey tey](https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:52 |
 | 100 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
 
-Snapshot ID: `AAAAALV43tXL3rpNrcQW4sxjwNiXeiF6`
+Snapshot ID: `AAAAACXfGknkoYQ4PvpbozQoXFgGXODf`

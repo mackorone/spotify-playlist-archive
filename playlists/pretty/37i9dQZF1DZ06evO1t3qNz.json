@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 46660,
+  "num_followers": 46731,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABQgOCcrC3vJ16nRQBvsMvb",
+  "snapshot_id": "aKZhgAAAAABk0x2kekpTCXx4yiqM3h0N",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "1965",
+      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 177013,
       "name": "Holy Ground (feat. Jessie Murph)",
       "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "1965",
-      "url": "https://open.spotify.com/track/1CnEPh46C45T7xv3ZEBb9h"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 241291,
+      "name": "The Man That Came Back",
+      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 204325,
       "name": "Heartbroken (feat. Jessie Murph & Polo G)",
       "url": "https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 241291,
-      "name": "The Man That Came Back",
-      "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 178472,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 166955,
       "name": "Gucci Mane",
       "url": "https://open.spotify.com/track/09VVtxc7My0NTuo7mf90gU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 178472,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 155983,
-      "name": "Son of a Bitch",
-      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 136187,
       "name": "I Like How I Look",
       "url": "https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 155983,
+      "name": "Son of a Bitch",
+      "url": "https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 125975,
-      "name": "Love Lies",
-      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 178731,
       "name": "Sex Hysteria",
       "url": "https://open.spotify.com/track/5bYlb2eYDVTuuWZm4jNO3a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 125975,
+      "name": "Love Lies",
+      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
     },
     {
       "added_at": null,
@@ -423,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sex Hysteria",
+        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 142970,
+      "name": "Couldn't Be Worse",
+      "url": "https://open.spotify.com/track/3u1E2H69WN9FDjIaaqCN2n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 200966,
       "name": "Someone In This Room (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sex Hysteria",
-        "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 142970,
-      "name": "Couldn't Be Worse",
-      "url": "https://open.spotify.com/track/3u1E2H69WN9FDjIaaqCN2n"
     },
     {
       "added_at": null,

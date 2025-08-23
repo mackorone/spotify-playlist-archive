@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,632 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,650 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 36 | [Aftermath \- Edit](https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Here are the first 3 songs from my mixtape, Rocket](https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4) | 1:42 |
 | 37 | [Timebomb](https://open.spotify.com/track/1beGOYpnv25VhysbtvNOLN) | [Dappled Cities](https://open.spotify.com/artist/7HQ1JiXyQVMLInXD17xtrG) | [Timebomb](https://open.spotify.com/album/3tcMaZpdXH1TH7x4t0JVvD) | 4:43 |
 | 38 | [Better Believe It](https://open.spotify.com/track/1HVKhb3gOi1QB60iRQ0oYH) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Better Believe It](https://open.spotify.com/album/11yd4Tq10XnALX5PNyMnVh) | 2:22 |
-| 39 | [Track 5](https://open.spotify.com/track/7vrClE4g89H9OwRtuzW8Ud) | [Freddy Crabs](https://open.spotify.com/artist/5KoEtVSR2tzPzXz5Nun6OV) | [Good To Waste](https://open.spotify.com/album/1ZXlBSRAMpwm6fhOIMXtZ7) | 0:00 |
+| 39 | [My Love Dont Treat Me Right](https://open.spotify.com/track/7vrClE4g89H9OwRtuzW8Ud) | [Freddy Crabs](https://open.spotify.com/artist/5KoEtVSR2tzPzXz5Nun6OV) | [Good To Waste](https://open.spotify.com/album/1ZXlBSRAMpwm6fhOIMXtZ7) | 3:19 |
 | 40 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 |
 | 41 | [Dandelion](https://open.spotify.com/track/7FlItTigF11asc9sTJA73X) | [Sunbeam Sound Machine](https://open.spotify.com/artist/5rGnc6zmQSjWGJ8KEAvGFq) | [Double Magic](https://open.spotify.com/album/6OVaItJwnVzWHYLCJ0yNzm) | 5:04 |
 | 42 | [Real Life](https://open.spotify.com/track/2R1GNetV5KogQx7h1b8tgg) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Real Life](https://open.spotify.com/album/1h0kymvYAK3TSZyFHztqtX) | 3:30 |

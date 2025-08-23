@@ -1545,6 +1545,24 @@
     },
     {
       "album": {
+        "name": "mostly poetry",
+        "url": "https://open.spotify.com/album/0XS5hDo5UG41upARzFPgCC"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "mostly poetry",
+      "url": "https://open.spotify.com/track/6o4UiH0LuFQIvLklnHSj1W"
+    },
+    {
+      "album": {
         "name": "Mr. Particular",
         "url": "https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC"
       },
@@ -2081,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Side Pocket",
+        "url": "https://open.spotify.com/album/5b1Td8anOjaeXBdJkHq57a"
+      },
+      "artists": [
+        {
+          "name": "Aguava",
+          "url": "https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197355,
+      "name": "Side Pocket",
+      "url": "https://open.spotify.com/track/5cxhLPv1j4xE3xlbsDgGYG"
+    },
+    {
+      "album": {
         "name": "Simulacra",
         "url": "https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL"
       },
@@ -2092,7 +2128,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 203000,
       "name": "Simulacra",
       "url": "https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC"
@@ -2222,7 +2258,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 369809,
       "name": "Takes Time",
       "url": "https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA"

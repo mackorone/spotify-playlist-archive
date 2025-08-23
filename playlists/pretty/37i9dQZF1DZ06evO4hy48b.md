@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,345 likes - 39 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,371 likes - 39 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 13 | [Akureyri](https://open.spotify.com/track/5ELjObPQmX3gG06NukBFzr) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Akureyri](https://open.spotify.com/album/4y9gHmuFooWHYOnDmSXcjN) | 3:14 |
 | 14 | [mariposas](https://open.spotify.com/track/5R2hNuiiwnKVAUNktF9j2Y) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [mariposas](https://open.spotify.com/album/5oSxZwLHXX8NOpayMUC9VH) | 2:34 |
 | 15 | [CONEXIÓN PSÍQUICA](https://open.spotify.com/track/6rWIHEedAYET828v7QY22S) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:40 |
-| 16 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
+| 16 | [miamor](https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:39 |
 | 17 | [Con La Miel En Los Labios](https://open.spotify.com/track/2QJcrJNa4KGxQ6bw0MH3Zx) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:22 |
 | 18 | [SI NO VAS A VOLVER](https://open.spotify.com/track/7es67JIZ333OB30dYfjfal) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:35 |
 | 19 | [DUELE UN MONTÓN DESPEDIRME DE TI](https://open.spotify.com/track/0WLpPLoGEfUe2UBtvqWb9D) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:00 |
-| 20 | [miamor](https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:39 |
+| 20 | [AQYNE](https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 3:01 |
 | 21 | [4TO 23](https://open.spotify.com/track/6zB8TVWUZpQ2UWRxFT1BrI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [4TO 23](https://open.spotify.com/album/7HQRMSvgVrlVCxM4k0XdXg) | 2:48 |
 | 22 | [CORAZÓN SIN VIDA](https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:01 |
 | 23 | [SEGUNDO INTENTO](https://open.spotify.com/track/473FchgGiaKD5CsL7SOhJJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:11 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 26 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
 | 27 | [11 RAZONES](https://open.spotify.com/track/4qEHMJyER7OntYTtPsIT1W) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:33 |
 | 28 | [Los Ángeles](https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:38 |
-| 29 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 |
-| 30 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
+| 29 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
+| 30 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 |
 | 31 | [NO TE HAS IDO Y YA TE EXTRAÑO](https://open.spotify.com/track/5XJIXRAM4ivaOitRM4NuE4) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:30 |
 | 32 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 |
 | 33 | [Las Dudas](https://open.spotify.com/track/4IIFgOUMSAQFSuwaTgKqu8) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Dharma](https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8) | 2:40 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 38 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 |
 | 39 | [Lo Malo](https://open.spotify.com/track/5bhDL4GgUvr5LBrpjqyrte) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO) | [Lo Malo](https://open.spotify.com/album/0BtpL9HEIaBg95FefsA3Hn) | 3:00 |
 
-Snapshot ID: `aKO+gAAAAAAt1IYrQ9Ol2usWqBNW2AeU`
+Snapshot ID: `aKZhgAAAAAAGEnCVovHu+SWMeHbApWjU`

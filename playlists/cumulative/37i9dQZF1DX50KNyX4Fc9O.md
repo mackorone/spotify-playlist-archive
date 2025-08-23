@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Ruel
 
-2,122 songs - 4 day 13 hr 26 min
+2,123 songs - 4 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [Caught Up On You](https://open.spotify.com/track/3QjAG3LVB0P5x251vwinVm) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Caught Up On You](https://open.spotify.com/album/6ICcS5WGbZr33DESzK9Xiq) | 3:26 | 2023-08-10 | 2023-08-25 |
 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-16 | 2025-02-28 |
 | [Celestial](https://open.spotify.com/track/1fKJPWv79EJs5FwxKvDS5p) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Celestial](https://open.spotify.com/album/6zeCVUFvp5RkP8ivDFDuG6) | 2:27 | 2024-11-07 | 2024-11-29 |
+| [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-08-21 |  |
 | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/track/0Byefko3vpr0FV8BIQmOsH) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Chance On You \(feat\. KUČKA\)](https://open.spotify.com/album/6rSHU53ifkacE59zpNUBxv) | 3:14 | 2024-03-28 | 2024-04-26 |
 | [Changes](https://open.spotify.com/track/13CoTwU7uuvbnCfejIhH7n) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Changes](https://open.spotify.com/album/29MhV870Wmh41zik9fFSZK) | 3:07 | 2023-06-27 | 2023-08-18 |
 | [Changes](https://open.spotify.com/track/1eWpwmgJO9ZUINjCttvK4L) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Changes](https://open.spotify.com/album/0JVIuhIeX5ixqtVSgTBYMk) | 3:38 | 2024-04-04 | 2024-05-10 |

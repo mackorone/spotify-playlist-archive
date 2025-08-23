@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,533 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,612 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 25 | [We Have Love](https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh) | [Amnesty](https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o) | [Free Your Mind](https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj) | 4:32 |
 | 26 | [All or Nothing](https://open.spotify.com/track/6jWFsJT5IYVKCJEQ55L29W) | [Guts](https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS), [Tanya Morgan](https://open.spotify.com/artist/1s8WiPtSSuQmJPGBwFTwFG), [Lorine Chia](https://open.spotify.com/artist/6NnWCx7mer62qXytwEKZm9) | [Eternal](https://open.spotify.com/album/59JNcEwaQUyC2xQzBJTHF9) | 3:46 |
 | 27 | [Friends And Strangers](https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 4:49 |
-| 28 | [Apparently Nothin' \- Soul River](https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg) | 5:21 |
-| 29 | [Dear Limmertz](https://open.spotify.com/track/2CYiQ3q2G4HftvucNszh7R) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Outubro](https://open.spotify.com/album/0IorUdxKqanPxpAzzavG5n) | 4:31 |
+| 28 | [Dear Limmertz](https://open.spotify.com/track/2CYiQ3q2G4HftvucNszh7R) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx) | [Outubro](https://open.spotify.com/album/0IorUdxKqanPxpAzzavG5n) | 4:31 |
+| 29 | [Apparently Nothin' \- Soul River](https://open.spotify.com/track/5tjFtfGhmq1emybxdG6gIl) | [Young Disciples](https://open.spotify.com/artist/3kJihkcV0ZHZCoKngxp5c4) | [Road To Freedom](https://open.spotify.com/album/5NZjo5bmc4kVlVp0sIfqMg) | 5:21 |
 | 30 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
-| 31 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
-| 32 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
+| 31 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
+| 32 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 33 | [Bridge Through Time](https://open.spotify.com/track/3WmH2tJbogJcrVSrtdlMPO) | [Lonnie Liston Smith](https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK) | [Love Is The Answer \(Expanded\)](https://open.spotify.com/album/5tfEMJRMXkGeDAkg8tE6h8) | 4:01 |
 | 34 | [Jazzie's Groove](https://open.spotify.com/track/0HGxuuv3WdVpIFZeIepoUq) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 2:37 |
 | 35 | [Whatchugot](https://open.spotify.com/track/5kMnWSBKSLnN7Su1XDTttO) | [Groove Collective](https://open.spotify.com/artist/4jtNe96TPlvnre0tgcL5pg) | [Groove Collective](https://open.spotify.com/album/3yhvrkLMZjGzb0uBQq5y2N) | 6:34 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 50 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
 | 51 | [Be Thankful](https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [William DeVaughan](https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4) | [Best by Far](https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk) | 4:12 |
 | 52 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
-| 53 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
-| 54 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
+| 53 | [Changin'](https://open.spotify.com/track/1YJHxl53keKuB8QywSlFhb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Brass Construction](https://open.spotify.com/album/4tBHzXGoN740Spk0oxUapV) | 8:14 |
+| 54 | [Stomp And Buck Dance](https://open.spotify.com/track/3yGxCCz7pMaZtSALVNcvtp) | [The Crusaders](https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b) | [Southern Comfort](https://open.spotify.com/album/25x6id3ewH7i0pJDbDcdcD) | 5:48 |
 | 55 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 56 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
 | 57 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |

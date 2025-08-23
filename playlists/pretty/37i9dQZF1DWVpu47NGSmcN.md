@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 
 > Lagu\-lagu dari artis perempuan inspiratif Indonesia\. Dikurasi bersama dengan Tissa Biani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,298 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,295 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpu47NGSmcN.md) - [plain]
 | 49 | [Sudah Benar](https://open.spotify.com/track/0dW9CGzp0oAZZ4hMPWDlI6) | [Kamasean](https://open.spotify.com/artist/2CnDUzCYPBjERuVMFQm8zX) | [Sudah Benar](https://open.spotify.com/album/4AJH0UrCzR7gwekwPs6Cil) | 3:39 |
 | 50 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
 
-Snapshot ID: `AAAAANDGKBjf+cZ68pgD/vfUi2GKjyTv`
+Snapshot ID: `AAAAAMHAQ62ZfnkYlyC90k8O4kp2puo/`

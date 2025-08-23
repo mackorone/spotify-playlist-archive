@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,581 songs - 19 day 14 hr 14 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,584 songs - 19 day 14 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2765,7 +2765,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 2755 | [Last Call](https://open.spotify.com/track/7iOhWWYjhhQiXzF4o4HhXN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 12:40 |
 | 2756 | [Jail](https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:57 |
 | 2757 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 |
-| 2758 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
+| 2758 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
 | 2759 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 |
 | 2760 | [Believe What I Say](https://open.spotify.com/track/0JuSGEldfovcc8IS9va1wa) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:02 |
 | 2761 | [Moon](https://open.spotify.com/track/7CC6UbCs4iGsePSzFxYxNn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:36 |
@@ -7589,5 +7589,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7579 | [Star Signs](https://open.spotify.com/track/21ZvC8aUTJIe5IBT34sLbG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Star Signs](https://open.spotify.com/album/3V9OWu0finGlIhiPkf2XUv) | 2:40 |
 | 7580 | [Youth Promise \(청춘서약\)](https://open.spotify.com/track/6S9gXG6Qi9KJkQEdAtcXd6) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Youth Promise \(청춘서약\)](https://open.spotify.com/album/1PZCGYkcJDwUN3WjseqKN1) | 3:13 |
 | 7581 | [Gloaming](https://open.spotify.com/track/6IpA6AJYxYi2rViFWWidXw) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Gloaming](https://open.spotify.com/album/3fVy6rwQWdrbOcUCKOkZit) | 2:24 |
+| 7582 | [Gamma \(need the <3\)](https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:00 |
+| 7583 | [Static](https://open.spotify.com/track/2zksWgfSYzhTq9YGOBS2HP) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 1:22 |
+| 7584 | [Heavy Metal aka ejecto seato!](https://open.spotify.com/track/6mxO6T82rU5bfVA6inlfDq) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 3:06 |
 
-Snapshot ID: `AAAIZwdg8dEGLvewQ3dLte8DzXUlUATn`
+Snapshot ID: `AAAIaqrHQXI1gMJTmLR7j8OPZ5hgkryn`

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,159 songs - 2 day 23 hr 11 min
+1,161 songs - 2 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 | 2021-11-12 |  |
 | [LOOOVE \(feat\. Kid Cudi\)](https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:46 | 2023-07-28 |  |
 | [loop it and leave it](https://open.spotify.com/track/7tt1X4Tam0dfIgoyympk00) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [I LAY DOWN MY LIFE FOR YOU](https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2) | 2:00 | 2024-08-03 |  |
+| [Loopholes](https://open.spotify.com/track/1e9pLNa0QLKB2yyVr4dDVo) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [A Repeat Wouldn't Go A Miss](https://open.spotify.com/album/6XlZwlX5aehMBVfutAKxJY) | 2:34 | 2025-08-22 |  |
 | [Lost For Words](https://open.spotify.com/track/1bAjrBfU21dxXiwxCXNF5C) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:22 | 2024-09-13 |  |
 | [Lost In The World](https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:16 | 2021-08-31 |  |
 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 | 2020-02-13 |  |
@@ -906,6 +907,7 @@
 | [Standing Next To Me](https://open.spotify.com/track/03F0Hspx6mEkiiYqEzVu5u) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:22 | 2020-08-10 |  |
 | [Star Treatment](https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 5:54 | 2020-02-24 |  |
 | [Star Treatment \- Live](https://open.spotify.com/track/24RoLuJnqJiqzlSIbqVCoG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Live at the Royal Albert Hall](https://open.spotify.com/album/7Heaa0B4KOxdWhSICTR2wE) | 5:35 | 2021-10-28 |  |
+| [Stargazing](https://open.spotify.com/track/5hSKm3XMa07Gi6mCOLktxU) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:55 | 2025-08-22 |  |
 | [STARS](https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:55 | 2024-02-10 | 2024-06-01 |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-09-11 |  |
 | [Stealth Mode \(feat\. Bas\)](https://open.spotify.com/track/3zyjnHtoi8AtiGgZFnJP7O) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:15 | 2024-04-05 |  |

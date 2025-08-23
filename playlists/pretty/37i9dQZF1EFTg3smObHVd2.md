@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 48 | [Why Do the Bad Things Feel Good](https://open.spotify.com/track/6OHkEMiSDoJ8PWaD5uzA3p) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Heavenbound](https://open.spotify.com/album/5vNJ0VAIYS5Na10nzHkbaY) | 3:21 |
 | 49 | [Save Some](https://open.spotify.com/track/78zn53pukXBwKHxvDMB59P) | [D'Sound](https://open.spotify.com/artist/2EyVzQKEoNoGCAWJYfoJRg), [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [25](https://open.spotify.com/album/359sbIX1FqGQ08ohs2z3on) | 3:17 |
 | 50 | [Pretty little secret](https://open.spotify.com/track/2m1gC6k79JDXgySEQzyDOi) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Emma Steinbakken](https://open.spotify.com/album/3wOKUF7vMPvTC7YmIxo0zq) | 3:21 |
-| 51 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 |
-| 52 | [Easy](https://open.spotify.com/track/2VNki6YNkni3iYUdEKw2vU) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Easy](https://open.spotify.com/album/6O6ky1wloijv3LEz5bEzno) | 2:27 |
+| 51 | [Easy](https://open.spotify.com/track/2VNki6YNkni3iYUdEKw2vU) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Easy](https://open.spotify.com/album/6O6ky1wloijv3LEz5bEzno) | 2:27 |
+| 52 | [Too Good for a Bad Thing](https://open.spotify.com/track/4OvDV0juxyQnrgoiIPffCx) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:11 |
 | 53 | [Say You're Wrong](https://open.spotify.com/track/0WbSs6CUc3UQxy4VjkaKIu) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Like A Woman](https://open.spotify.com/album/7sTP5Nk2rQJpXpPrJFRdyN) | 2:50 |
 | 54 | [Icon \(feat\. Bebe Black\)](https://open.spotify.com/track/7CIfvriftvuj0R6RZTiyqc) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p), [Bebe Black](https://open.spotify.com/artist/5Hq1Wd8EWM4xqTriypkCsD) | [Icon \(feat\. Bebe Black\)](https://open.spotify.com/album/1tXaJhJ6M4Cxb9mEHVXrIx) | 4:03 |
 | 55 | [Strong Enough](https://open.spotify.com/track/14ZqDpSueF7QLPCXGdHoUC) | [J'Khai](https://open.spotify.com/artist/6fdldodPKWrfJs3H6uoDnd), [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Strong Enough \- Single](https://open.spotify.com/album/5byNQKNzQav1HCur1QfP46) | 2:59 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 81 | [Like The First Time](https://open.spotify.com/track/3ILRrgErUM2ffPmT6cJiQW) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Emotional \(Bonus Track Version\)](https://open.spotify.com/album/6OtZ98sd2pn9qaFr5NLUdG) | 3:08 |
 | 82 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 
-Snapshot ID: `Ab6H6gAAAAAs8IYyElz1DlDFDgqVkUs+`
+Snapshot ID: `Ab6NigAAAABbWnMksCAeqpxcSaUV4FNA`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Ανακάλυψε κομμάτια Ελληνίδων ερμηνευτριών όπως τα επέλεξαν οι editors μας\. Εξώφυλλο: Aspa
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,406 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,404 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [H Fotia Mesa Sou](https://open.spotify.com/track/7hshoaHgSnYi3rr1xKyxgs) | [Kitrina Podilata](https://open.spotify.com/artist/5DqzPfumjWC7Q4nI3dNjl9) | [ANAλOG](https://open.spotify.com/album/6d4KG7eYbwlrffYelvGcVI) | 4:38 |
 | 50 | [DOMINO](https://open.spotify.com/track/3zUMsRcLeCalOaEBVkdwg6) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ) | [THE VILLAIN HEROINE](https://open.spotify.com/album/28JL3mgiF606cEw7jVB6kS) | 2:50 |
 
-Snapshot ID: `AAAAAPnPq3YhGq5nwkit1arzsslVHcXM`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

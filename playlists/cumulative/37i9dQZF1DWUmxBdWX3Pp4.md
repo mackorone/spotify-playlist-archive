@@ -4,7 +4,7 @@
 
 > Éxitos de Trap Latino 📸 Eladio Carrion.
 
-554 songs - 1 day 6 hr 45 min
+555 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 | 2022-06-03 | 2022-07-29 |
 | [Como Soy](https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/79AMceYOPnEZcHifQd5hRM) | 5:12 | 2022-07-22 | 2023-07-29 |
 | [Como Yo Puedo Olvidar](https://open.spotify.com/track/2dovaZsPSEQCRYuUCBtBLF) | [Ventura El Favorito](https://open.spotify.com/artist/3ydKvxN2Cngfl8gaA9Ld9H), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Como Yo Puedo Olvidar](https://open.spotify.com/album/34gYq2MZR2pAhlprxpWSyx) | 3:31 | 2023-03-17 | 2023-04-01 |
+| [Con Otra](https://open.spotify.com/track/1NhvH0qdOuuFncWGAIXxTg) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [TAROT: Del cielo al infierno](https://open.spotify.com/album/0mxQjzU4dTtAc6YeEK7ax0) | 3:41 | 2025-08-22 |  |
 | [Coroné](https://open.spotify.com/track/0BcheiZV7WuB5M9yGAFtwB) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/16NCoucptRbqb2VoMbmt3V) | 2:50 | 2023-06-09 | 2023-06-14 |
 | [Coroné](https://open.spotify.com/track/386NSsUV8EaZe1xFea64cw) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/0qR3J5yY7BMDQOlgFyVgQ0) | 2:50 | 2023-06-09 | 2023-09-11 |
 | [Coroné](https://open.spotify.com/track/6h22JGTLtV29j7sXmtB2ii) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Mafia Lirical](https://open.spotify.com/album/3LvQoppyYo1QSEISDUsg8T) | 2:50 | 2023-09-08 | 2023-10-04 |

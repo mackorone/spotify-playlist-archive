@@ -576,7 +576,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 162118,
       "name": "415 ft. Robin Zoot",
       "url": "https://open.spotify.com/track/4OTbv2KXIhQzXRUERoQaVq"
@@ -20292,7 +20292,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 203567,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
@@ -22668,7 +22668,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
@@ -30916,7 +30916,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
@@ -33060,7 +33060,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 121846,
       "name": "Suave",
       "url": "https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf"
@@ -33392,7 +33392,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 165618,
       "name": "Svoboda",
       "url": "https://open.spotify.com/track/6QMXFOrO3SLcemX2lGRVP1"
@@ -33754,7 +33754,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
@@ -34210,7 +34210,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-25",
+      "date_removed": null,
       "duration_ms": 187653,
       "name": "Tempo za 2",
       "url": "https://open.spotify.com/track/2C7sayl5uG8XAuTfA05WYU"
@@ -34740,6 +34740,24 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
+    },
+    {
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208226,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
     },
     {
       "album": {
@@ -37040,7 +37058,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "V Hlav\u011b",
       "url": "https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o"

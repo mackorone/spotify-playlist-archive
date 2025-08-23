@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Felipe e Rodrigo",
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto",
   "name": "Esquenta Sertanejo",
   "tracks": [
     {
@@ -1987,6 +1987,24 @@
     },
     {
       "album": {
+        "name": "Magia das Estrelas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183288,
+      "name": "Dubai - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP"
+    },
+    {
+      "album": {
         "name": "Israel & Rodolffo: Ao Vivo Em Bras\u00edlia, Vol. 2",
         "url": "https://open.spotify.com/album/0nSCmDQ8GRpsu4sAKKhaBM"
       },
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 181756,
       "name": "Me Ama Mesmo - Ao Vivo",
       "url": "https://open.spotify.com/track/3EcLx5fFRgDIVAzfYwopuR"
@@ -5143,6 +5161,24 @@
     },
     {
       "album": {
+        "name": "Feito \u00c0 M\u00e3o Vol. 01",
+        "url": "https://open.spotify.com/album/40jGnqAXzR8Bta84lEI5mc"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185984,
+      "name": "Retrovisor",
+      "url": "https://open.spotify.com/track/4QZqSqxdcgAbtZle4MS4ph"
+    },
+    {
+      "album": {
         "name": "Let's Go Rodeo",
         "url": "https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh"
       },
@@ -6210,7 +6246,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 140438,
       "name": "Vai L\u00e1 - Ao Vivo em Goi\u00e2nia",
       "url": "https://open.spotify.com/track/3EJfFRgtbIYzBQdlc6PO9V"

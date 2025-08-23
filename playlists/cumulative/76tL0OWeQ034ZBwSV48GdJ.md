@@ -4,7 +4,7 @@
 
 > 
 
-225 songs - 21 hr 35 min
+226 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Universal Nation \- Original Mix](https://open.spotify.com/track/34PgbZHudjUapNEqsb1WcW) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [A State Of Trance Classics, Vol.4](https://open.spotify.com/album/1xQo1sPHxgStoMUvRGVC6t) | 7:57 | 2022-12-22 |  |
 | [Universe](https://open.spotify.com/track/0JqYNwjdSbFzL9Byr5GI8R) | [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Schneeweiß 8: Presented by Oliver Koletzki](https://open.spotify.com/album/0ZzkOqemwSDhv6c8HQdcPh) | 6:20 | 2022-07-13 |  |
 | [Venere \- Fideles Remix \- Edit](https://open.spotify.com/track/4vlZW4p9TF0xDIMGo5LQlE) | [BOg](https://open.spotify.com/artist/7FldCwBXVtA0TFbqxvaKZY), [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Venere](https://open.spotify.com/album/7LzrIgEiPN4JgGrpqfHV2S) | 4:03 | 2021-10-24 |  |
+| [Waited All Night \- Solomun Remix v11](https://open.spotify.com/track/4L1aEaKu4CBMFjiXsWn8Hw) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Waited All Night \(Solomun Remixes\)](https://open.spotify.com/album/5QJY0JMXrzkYm3lBpzgSNx) | 4:54 | 2025-08-22 |  |
 | [Wake Me Up \- Tale Of Us Remix](https://open.spotify.com/track/4vb1eb9zYkCqSRirs3ExBQ) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU), [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Wake Me Up \(Tale Of Us Remix\)](https://open.spotify.com/album/7aeL8XFsUp7BF7Jps0DoRi) | 6:21 | 2022-02-21 |  |
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2021-02-19 |  |
 | [Walls](https://open.spotify.com/track/2Qr2rffbdKrZbJhuO7sdZm) | [Tone Depth](https://open.spotify.com/artist/356puk5By7WbXAFFZ8Uelf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Walls](https://open.spotify.com/album/5XJaQkrPV7wcfsaRFTTE0w) | 4:12 | 2021-03-03 |  |

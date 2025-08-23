@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udc85 amo, troppo noi \ud83e\udec2",
-  "num_followers": 2892,
+  "num_followers": 2904,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258004,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
       },
       "artists": [
         {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
+      "duration_ms": 253520,
+      "name": "Love Me Like You Do",
+      "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -751,18 +751,18 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
         }
       ],
-      "duration_ms": 253520,
-      "name": "Love Me Like You Do",
-      "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2025-05-28 13:33:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-05-28 13:33:55",
       "album": {
-        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
-        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 207904,
-      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
-      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
-    },
-    {
-      "added_at": "2025-05-28 13:33:55",
-      "album": {
         "name": "No.6 Collaborations Project",
         "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/0hVXuCcriWRGvwMV1r5Yn9"
+    },
+    {
+      "added_at": "2025-05-28 13:33:55",
+      "album": {
+        "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 207904,
+      "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
+      "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
     },
     {
       "added_at": "2025-05-28 13:33:55",

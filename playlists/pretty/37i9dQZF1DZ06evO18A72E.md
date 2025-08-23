@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 
 > This is Panic! At The Disco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,516 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,524 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,17 +39,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18A72E.md) - [plain]
 | 29 | [Far Too Young to Die](https://open.spotify.com/track/4NTL7fT4eqfPao94lmqth2) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:17 |
 | 30 | [King of the Clouds](https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:40 |
 | 31 | [Sarah Smiles](https://open.spotify.com/track/00h6syYCxPKVsInPHXhdZ1) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 |
-| 32 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 |
+| 32 | [That Green Gentleman \(Things Have Changed\)](https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:15 |
 | 33 | [Collar Full](https://open.spotify.com/track/1zN3CZlafjfEiMR9uXQGrW) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Too Weird to Live, Too Rare to Die!](https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge) | 3:18 |
-| 34 | [That Green Gentleman \(Things Have Changed\)](https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:15 |
+| 34 | [Don't Let The Light Go Out](https://open.spotify.com/track/2Tg7Tc4H50u11aDpmSRQTB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:49 |
 | 35 | [Nearly Witches \(Ever Since We Met...\)](https://open.spotify.com/track/2KA3lvDwQQiyvuJJvzifGL) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:16 |
 | 36 | [C'mon \- Single Version](https://open.spotify.com/track/53c9tTEHXWL5GkYNalbXZ3) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK), [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [C'mon](https://open.spotify.com/album/0A5iPbGFWxVSN9m7EjlKl1) | 3:34 |
-| 37 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 |
-| 38 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
+| 37 | [One of the Drunks](https://open.spotify.com/track/5trCWbYtza0QUxdmF9HAPX) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:18 |
+| 38 | [Viva Las Vengeance](https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:27 |
 | 39 | [Ready to Go \(Get Me Out of My Mind\)](https://open.spotify.com/track/7m4HUtdXRUHEitLIqbVWxf) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:37 |
 | 40 | [She Had the World](https://open.spotify.com/track/673WCjn0SxKJD4qRKczaCk) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 3:47 |
 | 41 | [Hurricane](https://open.spotify.com/track/7l9uOhfVJC8Y0c6PXHrgbs) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 4:25 |
 | 42 | [When the Day Met the Night](https://open.spotify.com/track/7v1b3qExlTFrpFWrtcnUpE) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:53 |
 | 43 | [Do You Know What I'm Seeing?](https://open.spotify.com/track/1ac22sFSlj3iaQV2qAsFkK) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pretty\. Odd.](https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw) | 4:14 |
 
-Snapshot ID: `aKO+gAAAAAD3jqz1OUktEZO6B4LPV7P+`
+Snapshot ID: `aKZhgAAAAAD0n9QQFOTLXEtEAqMtLi8N`

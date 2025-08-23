@@ -4,7 +4,7 @@
 
 > Sixto Yegros en la casa del Trap Argentino.
 
-538 songs - 1 day 2 hr 16 min
+539 songs - 1 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [MOLY](https://open.spotify.com/track/5y6Og9OS4zZv8G6a57zfcO) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [kerse](https://open.spotify.com/artist/6iz6r1o9PKEXp845ZQ1Tgx) | [MOLY](https://open.spotify.com/album/5pHPBVeDljoGm8bInIBa67) | 2:30 | 2025-06-20 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2025-04-11 | 2025-04-22 |
 | [MONEY](https://open.spotify.com/track/0ENZzBNONAQ9DtIe0h3hAR) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [MONEY](https://open.spotify.com/album/2JuxX3PB1AwHkBjWWAj4eU) | 2:47 | 2025-03-21 | 2025-03-29 |
+| [MONTÓN](https://open.spotify.com/track/12q3AXhAtx2lOroeYWjgcm) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [MONTÓN](https://open.spotify.com/album/5wAIIXtHxQAGPaOntCTzXU) | 2:24 | 2025-08-22 |  |
 | [MORDIENDO EL BOZAL](https://open.spotify.com/track/6NnqP2DazV1Q1mqmV1JNYC) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [Yesan 雪山](https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J) | [MORDIENDO EL BOZAL](https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w) | 2:27 | 2022-01-21 | 2022-01-29 |
 | [Mormón](https://open.spotify.com/track/2jj7yjwj3fAHfErv5CCshj) | [KAKTOV](https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94), [XLAB](https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6), [TAILS](https://open.spotify.com/artist/0LCbbe7pXn19Ecz0jLJkl2) | [MTPMJ](https://open.spotify.com/album/0H52PXoDvuOz8EbI88hTXE) | 1:48 | 2022-03-11 | 2022-07-30 |
 | [Motoquera](https://open.spotify.com/track/36shWdXMTiPo8HD1J1w84S) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Reicing](https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl) | 3:01 | 2022-01-21 | 2022-06-18 |

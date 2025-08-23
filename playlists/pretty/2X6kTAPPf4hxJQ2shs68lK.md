@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 
 > 25 songs updated every Tuesday ⏳ \(Email: jahtalksmusic@gmail.com\)
 
-[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 38,397 likes - 25 songs - 1 hr 35 min
+[Jah Talks Music](https://open.spotify.com/user/fgy1vuygflfwapaeaba6wbxtf) - 38,409 likes - 25 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/2X6kTAPPf4hxJQ2shs68lK.md) - [plain]
 | 11 | [HOP OUT CHO FEELINS](https://open.spotify.com/track/1Cm65uSMLvlvSKupG9w2Kz) | [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [RHODA](https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O) | 3:48 |
 | 12 | [THAT'S THAT](https://open.spotify.com/track/2Vy16OMt19FH30uQNTFdLk) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 2:15 |
 | 13 | [No More Old Men \(feat\. Jamila Woods\)](https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:53 |
-| 14 | [Doves](https://open.spotify.com/track/7lusrgZAgl54xwzRl2g9yR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG), [Hikari](https://open.spotify.com/artist/3Y7OaAKzh0nrozREQPnUkQ) | [Doves](https://open.spotify.com/album/4UbGlmB2tTrkqNZoWwRjRK) | 7:00 |
+| 14 | [Doves](https://open.spotify.com/track/7lusrgZAgl54xwzRl2g9yR) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Doves](https://open.spotify.com/album/4UbGlmB2tTrkqNZoWwRjRK) | 7:00 |
 | 15 | [Father Time \(feat\. Sampha\)](https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:42 |
 | 16 | [C U Girl](https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [C U Girl](https://open.spotify.com/album/33jE0rzk63VdTJcDukmjRa) | 2:09 |
 | 17 | [DON'T WORRY BABE / I GOT U BABE](https://open.spotify.com/track/1MvNOZHoT08BFRlDyMiM4k) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [AIN'T NO DAMN WAY!](https://open.spotify.com/album/1GVQPCNOTppRtpLTBL8Qot) | 3:12 |

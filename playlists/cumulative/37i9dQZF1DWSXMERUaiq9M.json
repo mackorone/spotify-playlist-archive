@@ -297,6 +297,28 @@
     },
     {
       "album": {
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/45eDwIUGCbJKLNGwXj00Jh"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/1hGFbfiUfo4xVIR0R706rR"
+    },
+    {
+      "album": {
         "name": "Alchemy",
         "url": "https://open.spotify.com/album/6jzc1zZLAC0viqCOMQmvm8"
       },
@@ -392,7 +414,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 130063,
       "name": "All I Wanna",
       "url": "https://open.spotify.com/track/7BenhguFkOw1irlhoOkvoq"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 185021,
       "name": "Bby",
       "url": "https://open.spotify.com/track/59kJK9zso5CWEUOxGaGgLg"
@@ -1148,7 +1170,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 206416,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/4vQFoLRc4QfK7v3YRQucLg"
@@ -1654,7 +1676,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 151939,
       "name": "Chiggy Chiggy",
       "url": "https://open.spotify.com/track/7vbb2B8iAtsbKShPYotwT5"
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 172302,
       "name": "Discotheque",
       "url": "https://open.spotify.com/track/52QTHhxqFtON5jEaPj0AsJ"
@@ -5244,7 +5266,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 190400,
       "name": "Kids",
       "url": "https://open.spotify.com/track/5Uvb17GHpeXhaSxed6oBaq"
@@ -6451,6 +6473,28 @@
     },
     {
       "album": {
+        "name": "Milky Way",
+        "url": "https://open.spotify.com/album/4UagjNEJgp7hg9O46irhE0"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        },
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171870,
+      "name": "Milky Way",
+      "url": "https://open.spotify.com/track/7yZ21ZsAUHsoKQozwfrLo1"
+    },
+    {
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/0Lww6EN9xtbrMbpAc3ulQL"
       },
@@ -7468,7 +7512,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 195100,
       "name": "Party People",
       "url": "https://open.spotify.com/track/2ABnWO87LfxTHsj2dewC7X"
@@ -10676,7 +10720,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 198648,
       "name": "Wanna Feel",
       "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"

@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: Destin Laurel
+> Inspirational hip\-hop\. Cover: Lecrae
 
-523 songs - 1 day 2 hr 11 min
+526 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Hard Times \(Smile\) \[feat\. Teyana Taylor\]](https://open.spotify.com/track/1dg2Fieia98ysgTLRueLiY) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Based on a True Story](https://open.spotify.com/album/4iLHF8zxDXeBowudrI2KtT) | 3:31 | 2025-03-28 | 2025-05-31 |
 | [Have Me](https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Have Me](https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k) | 2:48 | 2022-11-18 | 2024-06-26 |
 | [HEAD TO HADES](https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 2:55 | 2023-02-18 | 2024-08-27 |
+| [Headphones](https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:41 | 2025-08-22 |  |
 | [Heart Of Stone](https://open.spotify.com/track/6lvpoTzcmKZ1j0GceiPvdz) | [Jordan May](https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v) | [Heart Of Stone](https://open.spotify.com/album/2Byl93qpgHvXUwDOjWQ6sf) | 4:15 | 2024-06-25 |  |
 | [Heartless](https://open.spotify.com/track/4dHge2R22MUTLHFTfI4pir) | [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [Patrick McMillan](https://open.spotify.com/artist/4NrPW4DGb9D94qqZFam4NC) | [Heartless](https://open.spotify.com/album/54nYt8pZTaotIlAmtFEQAF) | 2:42 | 2022-05-28 | 2022-11-19 |
 | [Heaven](https://open.spotify.com/track/5Ie2QBQyUYCcJvQxvsXvBz) | [Austin Lanier](https://open.spotify.com/artist/3nMPiejA7rKdH64ubrRT9q), [King Koro](https://open.spotify.com/artist/4R1pqL0Q87tj2KZO1Fu3mG) | [Heaven](https://open.spotify.com/album/2MuSjMBXRimvn45wHLiG0f) | 3:43 | 2022-03-19 | 2022-07-29 |
@@ -368,6 +369,7 @@
 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 | 2022-11-18 | 2024-08-27 |
 | [Pray 2 God](https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Pray 2 God](https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec) | 2:36 | 2022-11-18 | 2024-08-27 |
 | [Pray for Me](https://open.spotify.com/track/2QDr4AmiV5sg9zc4NP7c5g) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pray for Me](https://open.spotify.com/album/2UPEMruUkMQxTwKsPOOZ0H) | 2:45 | 2022-11-18 | 2024-06-26 |
+| [Pray For Me](https://open.spotify.com/track/302z6SpriKe4XrIN5zZjbg) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:19 | 2025-08-22 |  |
 | [Pray For Real](https://open.spotify.com/track/62HxRvtceWrQ1HUEey0e7s) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Pray For Real](https://open.spotify.com/album/3kTB0zNezDpCRZUXGPp5zN) | 3:13 | 2023-02-18 | 2024-04-19 |
 | [Pray For Real](https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [CATCH](https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ) | 3:13 | 2021-12-11 | 2024-06-26 |
 | [PRESS](https://open.spotify.com/track/4IbeLxSiXnD79Ozl6FvGxu) | [J\. Crum](https://open.spotify.com/artist/6ZvBaBl5ozrLIBxBAKpGDt), [Ayo Shamir](https://open.spotify.com/artist/3Xy4ZQ2ZZxGL3W8SBGHOo7) | [PRESS](https://open.spotify.com/album/1oqbZovUcI56wT3h7O9IAk) | 2:27 | 2022-03-25 | 2022-07-25 |
@@ -402,6 +404,7 @@
 | [ROUND HERE \(PART ONE\)](https://open.spotify.com/track/1f67iBDSGFMepBM9jFJ2Dw) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 1:42 | 2022-11-18 | 2024-04-19 |
 | [Run](https://open.spotify.com/track/4qzirIMTlJblsRSkVByPHX) | [Lyne Nsongo](https://open.spotify.com/artist/5jSmCziGF235deMJthrIMA), [David Okit](https://open.spotify.com/artist/2TNEke8iPCbFBj8Tp9KlnJ) | [Run](https://open.spotify.com/album/2gsAFy50lZsU5vrzFin6sd) | 2:54 | 2022-11-18 | 2023-02-08 |
 | [Safe N Sound](https://open.spotify.com/track/0wLcHCDYmsKURWg1dGZUie) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Safe N Sound](https://open.spotify.com/album/4KkSe9skfC5aFwD2J3WzFN) | 3:06 | 2022-03-25 | 2022-04-21 |
+| [Save The Hero](https://open.spotify.com/track/3swS83NB42wHWMLg78XvM7) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq), [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z) | [Save The Hero](https://open.spotify.com/album/1HtLjUfm2eLtEw23Xm11Yv) | 2:47 | 2025-08-22 |  |
 | [Saved You Too](https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ) | [Y Shadey](https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t) | [Saved You Too](https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9) | 1:58 | 2024-06-25 |  |
 | [SBTN \(feat\. Kirk Franklin\)](https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [SORRY, I CHANGED](https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv) | 3:14 | 2024-10-04 |  |
 | [Scam Likely](https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Scam Likely](https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG) | 2:35 | 2021-12-11 | 2022-11-19 |

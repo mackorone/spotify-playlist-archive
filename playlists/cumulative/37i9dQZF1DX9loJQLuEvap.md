@@ -2,9 +2,9 @@
 
 ### [Great Female Voices](https://open.spotify.com/playlist/37i9dQZF1DX9loJQLuEvap)
 
-> Celebrating some of the most iconic female voices of all time\. Cover: Kehlani
+> Celebrating some of the most greatest female voices of all time\. Cover: Laufey
 
-136 songs - 9 hr 1 min
+137 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-07-30 | 2023-09-28 |
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-07-30 | 2024-04-19 |
 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 | 2025-06-27 |  |
+| [Forget\-Me\-Not](https://open.spotify.com/track/3cm2v6gfWuixcHL2A6wvGl) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 4:06 | 2025-08-22 |  |
 | [Free Me](https://open.spotify.com/track/2osA5KIMQLLaNLHiuusgGy) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 3:53 | 2021-01-08 | 2022-04-23 |
 | [Get Here](https://open.spotify.com/track/5pDRIxiUZ9Sz9XKKFfKSsJ) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Music For Lovers](https://open.spotify.com/album/7i9Ifsw1L8PsGAmX6t3xOk) | 4:32 | 2021-01-08 | 2022-07-29 |
 | [Give Me Love](https://open.spotify.com/track/3kTKU3tMAm411E7Jo4uTBw) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:51 | 2025-05-30 | 2025-07-12 |
@@ -128,7 +129,7 @@
 | [Twist in My Sobriety](https://open.spotify.com/track/6wWlaSxOrBizAcpqkuv1FJ) | [Tanita Tikaram](https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8) | [Ancient Heart](https://open.spotify.com/album/3SuC7635bYkUsS5iHTSnSf) | 4:52 | 2021-01-08 | 2025-06-28 |
 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 | 2022-04-22 |  |
 | [Walk on By](https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Make Way for Dionne Warwick](https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr) | 2:58 | 2022-04-22 |  |
-| [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 | 2021-05-31 |  |
+| [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 | 2021-05-31 | 2025-08-23 |
 | [What A Man](https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [The Complete Stax / Volt Soul Singles, Vol\. 2: 1968\-1971](https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH) | 2:40 | 2022-10-28 | 2022-11-12 |
 | [What A Man](https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD) | [Linda Lyndell](https://open.spotify.com/artist/5zU5MAgXh6Lcs3FY2KSFNQ) | [Stax 50th Anniversary](https://open.spotify.com/album/0inBSwF5qDv8OUM6BHq396) | 2:40 | 2021-05-31 | 2022-07-13 |
 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 | 2023-07-30 | 2023-09-30 |

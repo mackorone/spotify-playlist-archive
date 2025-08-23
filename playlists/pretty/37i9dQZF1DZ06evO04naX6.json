@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 173038,
+  "num_followers": 173046,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAKqpAJA9CBJrs+bUykYCF8",
+  "snapshot_id": "aKZhgAAAAAAuXI/c1bHImCvaGOwVAVur",
   "tracks": [
     {
       "added_at": null,
@@ -855,46 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
-        "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Don Chezina",
-          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 366613,
-      "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
-      "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sr. Santos II Sue\u00f1os de Grandeza",
         "url": "https://open.spotify.com/album/0MgU9DihKxDmLXxlbTtxu9"
       },
@@ -943,18 +903,10 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+        "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
+        "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
       "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
         {
           "name": "Wisin",
           "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
@@ -962,11 +914,31 @@
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Unica - Remix",
-      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+      "duration_ms": 366613,
+      "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) - Remix",
+      "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
     },
     {
       "added_at": null,
@@ -991,6 +963,34 @@
       "duration_ms": 319586,
       "name": "Desperte Sin Ti - Remix",
       "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Unica - Remix",
+      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Se Vino A Perrear",
-        "url": "https://open.spotify.com/album/6jsgg7vxTJXwOTipq5aoot"
-      },
-      "artists": [
-        {
-          "name": "Maldy",
-          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 196811,
-      "name": "Mini Falda (feat. Yandel)",
-      "url": "https://open.spotify.com/track/1zIkMVCO14PnzGm4LEeDOx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bonita (Remix)",
         "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aqui Se Vino A Perrear",
+        "url": "https://open.spotify.com/album/6jsgg7vxTJXwOTipq5aoot"
+      },
+      "artists": [
+        {
+          "name": "Maldy",
+          "url": "https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 196811,
+      "name": "Mini Falda (feat. Yandel)",
+      "url": "https://open.spotify.com/track/1zIkMVCO14PnzGm4LEeDOx"
     },
     {
       "added_at": null,
@@ -1159,22 +1159,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "ELYTE",
-        "url": "https://open.spotify.com/album/6TJh9B7dVXOoGjnDRUY7Ea"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
       "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 175523,
-      "name": "REGGAETON MALANDRO",
-      "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
+      "duration_ms": 414819,
+      "name": "Antes y Despu\u00e9s",
+      "url": "https://open.spotify.com/track/0YbXuCsQwrsh5x0hgnED6z"
     }
   ],
   "unique_name": "This Is Yandel",

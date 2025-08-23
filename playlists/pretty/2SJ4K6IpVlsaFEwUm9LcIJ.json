@@ -1,12 +1,12 @@
 {
   "description": "she\u2019s back (what i&#x27;m listening to july-aug 2025)",
-  "num_followers": 23205,
+  "num_followers": 23208,
   "original_name": "the return of cookie",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAM+KmbZtU/mlGqEbdvg46RLsGD3m63",
+  "snapshot_id": "AAAM/YSumzwB6BoUU1mbfrxyQ8fJsXgn",
   "tracks": [
     {
       "added_at": "2025-07-03 23:45:51",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/2dX9cTn90GmGsGodXEi3l3"
     },
     {
-      "added_at": "2025-08-17 22:05:49",
-      "album": {
-        "name": "Sunmachine",
-        "url": "https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp"
-      },
-      "artists": [
-        {
-          "name": "Dario G",
-          "url": "https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A"
-        }
-      ],
-      "duration_ms": 319280,
-      "name": "Voices (From \"The Beach\")",
-      "url": "https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf"
-    },
-    {
       "added_at": "2025-08-18 01:08:07",
       "album": {
         "name": "Rustic Houses, Forlorn Valleys",
@@ -987,6 +971,38 @@
       "duration_ms": 229106,
       "name": "Porto",
       "url": "https://open.spotify.com/track/6mttPfa53PF6MC5Oq4GW3k"
+    },
+    {
+      "added_at": "2025-08-22 16:03:07",
+      "album": {
+        "name": "\u85e4\u5b50",
+        "url": "https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u53e3\u6587",
+          "url": "https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha"
+        }
+      ],
+      "duration_ms": 262482,
+      "name": "Plateau",
+      "url": "https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH"
+    },
+    {
+      "added_at": "2025-08-23 00:00:27",
+      "album": {
+        "name": "Katy Lied",
+        "url": "https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Bad Sneakers",
+      "url": "https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ"
     }
   ],
   "unique_name": "the return of cookie",

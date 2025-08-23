@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,534 likes - 36 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,538 likes - 36 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,6 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 33 | [No Nicky No](https://open.spotify.com/track/1dRcNdzwEsHmAqYTiSedpl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 2:17 |
 | 34 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
 | 35 | [Taken](https://open.spotify.com/track/7y9WJn0mVfvxo16tZNFmoJ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Born Annoying](https://open.spotify.com/album/2RRCXyVc668SLUzXLhRG8X) | 1:53 |
-| 36 | [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 |
+| 36 | [Distracted](https://open.spotify.com/track/1TtWONvwcQEkoxwL4ougx2) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:11 |
 
-Snapshot ID: `aKO+gAAAAAC330zZToTii57gSS0XM/BP`
+Snapshot ID: `aKZhgAAAAAAmoCr7lbJZ3t5Gpe5oEanG`

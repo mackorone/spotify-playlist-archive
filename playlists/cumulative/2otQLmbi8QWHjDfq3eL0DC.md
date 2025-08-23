@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025!
 
-345 songs - 16 hr 47 min
+346 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Lean On My Love](https://open.spotify.com/track/64RBKNQIs11WMBhOQitymV) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Lean On My Love](https://open.spotify.com/album/6AlshOHvjNa2ReELDqAqlj) | 2:26 | 2024-12-06 | 2025-03-08 |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2023-12-11 | 2024-04-10 |
 | [Left Or Right](https://open.spotify.com/track/5UGOIEo6EyUm9WFfFfU9NN) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Matthew Nolan](https://open.spotify.com/artist/00eBZtIQVnVtZHOW1qDDDn) | [Left Or Right](https://open.spotify.com/album/7ugGaIBq4zFiaIiKDDWRlZ) | 3:13 | 2024-06-17 |  |
+| [Let Him Go](https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk) | [Denon Reed](https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE), [Cru2](https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1) | [Let Him Go](https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg) | 2:24 | 2025-08-22 |  |
 | [Lies \(feat\. Mila Falls\)](https://open.spotify.com/track/0nZtIF76gwedFKYur7Wwxd) | [Fubu](https://open.spotify.com/artist/5U99N4P6k5PDjiOJz8qE96), [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lies \(feat\. Mila Falls\)](https://open.spotify.com/album/3aDUGFHbqWla3M3xJ9mTZG) | 2:46 | 2023-11-03 |  |
 | [Life](https://open.spotify.com/track/33jZTXHw1CvUqai4Jum4Nc) | [Bottom Lip](https://open.spotify.com/artist/1kGshKeUGUyFii95MRyIiJ), [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Life](https://open.spotify.com/album/3bNsBu66DMg1VGL5O547Zj) | 4:38 | 2025-02-04 | 2025-05-03 |
 | [Life's Gonna Change](https://open.spotify.com/track/4U4UGlmJGQqXMkzKq2dum3) | [THAT KIND](https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ) | [Life's Gonna Change](https://open.spotify.com/album/3LYeXzEsOlwUmitzzjGNU0) | 2:30 | 2024-06-28 |  |

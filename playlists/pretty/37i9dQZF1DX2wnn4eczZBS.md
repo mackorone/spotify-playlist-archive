@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > indie & indiepop in het Nederlands\. Cover: LE MOTAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,733 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,742 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 33 | [Disco Dip](https://open.spotify.com/track/3ozI7vH6AYsSeiGYB53iwr) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Partijtje \(Deluxe\)](https://open.spotify.com/album/5CdmWnzhXsmDOcmEfbXCY0) | 3:05 |
 | 34 | [Vlinder](https://open.spotify.com/track/1ylgbB1PBVQPtE9TQvRNH8) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Vlinder](https://open.spotify.com/album/1HdguDX5OZ7JylppPeSQ8f) | 2:49 |
 | 35 | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/track/5RydxLGNvlzrHfhxUQUoI9) | [WIES](https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n) | [Ik Geloof Dat Wij Iets Delen](https://open.spotify.com/album/2li4Roi5D0L2W5AhADHfwR) | 2:45 |
-| 36 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
+| 36 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
 | 37 | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/track/65vKBzAGrgUEaKNaWvl3qY) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [LEKKER MET DE MEIDEN v2.025](https://open.spotify.com/album/3AQSe8C18CAPmlY1gCVFeV) | 4:11 |
-| 38 | [De Grens Tussen Ons](https://open.spotify.com/track/5jWLxOSU7WWpcNnPNbhCwz) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Het Hart Bestaat Niet En De Rest Ook Niet](https://open.spotify.com/album/5TaJOGhCQhrg8AMf5WSwZW) | 3:29 |
+| 38 | [Doe Het Voor Het Geld](https://open.spotify.com/track/7FchMtnIrs3dlWK33Gr16P) | [NONCHELANGE](https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n) | [Doe Het Voor Het Geld](https://open.spotify.com/album/5dYDg2qWd1pwd8NAqTkQq5) | 3:10 |
 | 39 | [WJNMK](https://open.spotify.com/track/7zPY8eLsVIJCE8OK4OGxhg) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS) | [WJNMK](https://open.spotify.com/album/6Z2PlWQWGLk4QsIQQIjcnE) | 2:40 |
 | 40 | [Drijfzand](https://open.spotify.com/track/7xIUJS8zUUfkXvxXrdOgmo) | [stay away from dante!](https://open.spotify.com/artist/5y47Otq6VIrBjaLR7Zl8nd) | [Drijfzand](https://open.spotify.com/album/33HwgqAUk5su4mUxTsKtoc) | 3:39 |
 | 41 | [Waarom Ik Zo Ben](https://open.spotify.com/track/1fmX3SAnzqe1UqUbnwn3SR) | [Merle](https://open.spotify.com/artist/6y2VqVMyiZAAQpA4lSCBu0) | [Waarom Ik Zo Ben](https://open.spotify.com/album/1z55auGHkjSdETH4YJKdud) | 2:00 |

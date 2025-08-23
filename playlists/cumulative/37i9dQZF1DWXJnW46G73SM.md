@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
 
-1,564 songs - 3 day 15 hr 16 min
+1,565 songs - 3 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [3ALA BALI](https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [3ALA BALI](https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON) | 2:42 | 2023-03-07 | 2023-05-06 |
 | [3ala el e3ana](https://open.spotify.com/track/2MD1pRCriQPN6w7FyMcTYY) | [Kassar](https://open.spotify.com/artist/7gTOyOn5JD1cty9eWZvRjP) | [Msh Fahem Haga](https://open.spotify.com/album/7CPW65OAotETJipoKYrN6w) | 3:46 | 2023-03-16 | 2023-05-11 |
 | [3ala kol 7al](https://open.spotify.com/track/4NYBQPtfAWWS0AKvrpTs3X) | [Ameen](https://open.spotify.com/artist/4nDzLqw4W7n1RwX2jD4y55) | [3ala kol 7al](https://open.spotify.com/album/5pDlOavvYmqo9V3T2YhJqG) | 2:59 | 2024-09-12 | 2024-11-15 |
+| [3alam Kadaba \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/2aLNH70Up5k1lnQXwkqzaW) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [3alam Kadaba \(From The TV Series Ma Trah Lays Kama Ybdo\)](https://open.spotify.com/album/6yvANh5NaOqE3H6HsTQJD0) | 3:00 | 2025-08-22 |  |
 | [3alam Kaddaba](https://open.spotify.com/track/6CxJSgUtAxa4JfpVe9kVkM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [3alam Kaddaba](https://open.spotify.com/album/2kGGB4ZgQcQeMkrxlRiB53) | 3:50 | 2023-08-24 | 2023-12-09 |
 | [3amal A7kylek](https://open.spotify.com/track/3BqJ8kw4ggWcEGZg4AmtIm) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [3amal A7kylek](https://open.spotify.com/album/5IZIDjzoQDsJTQmTLsPRlB) | 3:09 | 2024-09-06 | 2024-10-25 |
 | [3amalna Ema](https://open.spotify.com/track/17JMZQiLWe3NxHGBv80ll3) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [3amalna Ema](https://open.spotify.com/album/3Udz2hgIlmKqxSW8c0mYJm) | 4:17 | 2023-08-28 | 2023-12-14 |
@@ -257,7 +258,7 @@
 | [Di Halawa](https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9) | [Ahmed Bahaa](https://open.spotify.com/artist/0YYLDpbsExW7PI14mRJPfx), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Sary Hany](https://open.spotify.com/artist/1eTh9xZZfmBuobcE0oQFEK) | [Di Halawa](https://open.spotify.com/album/7hy7jpcDzPXmIde1fICTvT) | 3:16 | 2022-10-06 | 2022-12-30 |
 | [Diva](https://open.spotify.com/track/0ECT1q8mtxBE7cCRIeCXO2) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Diva](https://open.spotify.com/album/0WRvr1ZggOBKzYMSpCUZ1r) | 2:52 | 2023-02-16 | 2023-04-21 |
 | [DO RE MI](https://open.spotify.com/track/2vNPtRU2u4fl8MIuXsZnPD) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [DO RE MI](https://open.spotify.com/album/2cB3vbiAFJfiNNNSKebUE1) | 2:48 | 2025-06-26 |  |
-| [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب Deluxe](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 | 2025-08-22 |  |
+| [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 | 2025-08-22 |  |
 | [Dom Dom](https://open.spotify.com/track/09qJciYwmS2hlWlpjaIKZm) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Dom Dom](https://open.spotify.com/album/0b5kI7IIsYfVsAXawB2dak) | 3:02 | 2022-07-20 | 2022-10-11 |
 | [DOPAMINE](https://open.spotify.com/track/6Q3KOmzeEhkGcRxQpccaVO) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [DOPAMINE](https://open.spotify.com/album/2xuSq58iRiMwy96wN9rV4C) | 3:19 | 2023-05-12 | 2023-06-30 |
 | [Dorouf](https://open.spotify.com/track/4SboVJybgfRxp2Z6M1zUxr) | [Barri](https://open.spotify.com/artist/3UfDCiyE0dCUBe1iBBC8bl), [Tflow](https://open.spotify.com/artist/1gEQbGxdBq1vvCskS9qQBI), [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Dorouf](https://open.spotify.com/album/4lWsp6iC5Dd9pCR81VLpAp) | 3:01 | 2024-07-04 | 2024-08-16 |

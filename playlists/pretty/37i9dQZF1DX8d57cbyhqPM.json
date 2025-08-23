@@ -1,15 +1,31 @@
 {
-  "description": "Du Congo, au monde \ud83c\udf0d avec Tontons Gradur et L2B.",
-  "num_followers": 60955,
+  "description": "Du Congo, au monde \ud83c\udf0d avec Tonton Fally Ipupa.",
+  "num_followers": 61000,
   "original_name": "Biso Na Biso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFn+ppNDE/JMFYMpUpW0YmYHRrrm",
+  "snapshot_id": "AAAAACHL8sOfqWDwnyZ94C1T0FjrLKK8",
   "tracks": [
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
+      "album": {
+        "name": "Plus de larmes",
+        "url": "https://open.spotify.com/album/4fkOgzUqgMZuP6VEGGu29o"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Plus de larmes",
+      "url": "https://open.spotify.com/track/7IM9TpFsMTVsxbzVpb6P02"
+    },
+    {
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Congolaise",
         "url": "https://open.spotify.com/album/55Dt41YpOW2lzPUpSl4lFk"
@@ -29,7 +45,7 @@
       "url": "https://open.spotify.com/track/6s6IbrE8NjqobUDIwSvuF5"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "D\u00e9g\u00e2t",
         "url": "https://open.spotify.com/album/3fshOF9fI7Z5P1GSPKvcZ4"
@@ -49,7 +65,7 @@
       "url": "https://open.spotify.com/track/3ToDaiD5To8CkHN75sn9GQ"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "LE NORD SE SOUVIENT : L'ODYSS\u00c9E",
         "url": "https://open.spotify.com/album/1Pbn4jIeuwCSbcXiaVyoPf"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/5gvvdf0mk5nL5Gu9h5cUTX"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Ola Oli (feat. Brigade Sarbaty)",
         "url": "https://open.spotify.com/album/6PMRcHUAengltUKAlmAbwB"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/2FZ6CpoBnaS5EsYigbYenG"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "PAY!",
         "url": "https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "BADMAN GANGSTA",
         "url": "https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "9PM IN PARIS",
         "url": "https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9"
@@ -149,7 +165,39 @@
       "url": "https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
+      "album": {
+        "name": "Classik (Gold R\u00e9edition)",
+        "url": "https://open.spotify.com/album/0qZhYg7UIUqNk2W65pcEhV"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        }
+      ],
+      "duration_ms": 160879,
+      "name": "Body Count",
+      "url": "https://open.spotify.com/track/7fzclQRVoYohfPDMOx9Py8"
+    },
+    {
+      "added_at": "2025-08-22 04:00:17",
+      "album": {
+        "name": "SANGOTE",
+        "url": "https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 133358,
+      "name": "SANGOTE",
+      "url": "https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU"
+    },
+    {
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "FARA FARA GANG - BDLM EXTENSION",
         "url": "https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Dans la vie",
         "url": "https://open.spotify.com/album/5kM8325p1LlgJw25RxzFDl"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/0qIXtDE3VllX2AAIt8rnw5"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "FARA FARA GANG - BDLM EXTENSION",
         "url": "https://open.spotify.com/album/08Dg7XUvVPa8a2FA6lGcY7"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/5tyuajS5DiBO3G22APUPFC"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "C'est incroyable",
         "url": "https://open.spotify.com/album/2Szye4IrWrvlQXDfdKy4Xh"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/4DWzd96wVSDnV0OShkB7Y6"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "D\u00e9sormais",
         "url": "https://open.spotify.com/album/3t5M2CYxg1jS1IVVyBxpss"
@@ -245,23 +293,7 @@
       "url": "https://open.spotify.com/track/3uB9sT2loCpq8jOlIbND6D"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
-      "album": {
-        "name": "Sukali",
-        "url": "https://open.spotify.com/album/55f1LMkbYo2E0XmgZQxTfG"
-      },
-      "artists": [
-        {
-          "name": "Pson",
-          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
-        }
-      ],
-      "duration_ms": 151181,
-      "name": "Sukali",
-      "url": "https://open.spotify.com/track/4eL1qLWMEb0DB0kc8wbtaV"
-    },
-    {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "False Prophets",
         "url": "https://open.spotify.com/album/5vFPQlcPZT8jDLSRXMrIxY"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/7KK7kjtuN4pHuQCntYK2tM"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "TOUS LES JOURS",
         "url": "https://open.spotify.com/album/6rsalUpzdAwBaUleENE3Yb"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/06n6bxwFUx6seLfrqDW18z"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Kuna",
         "url": "https://open.spotify.com/album/3PtmwjH3LINQhlNemqXoE2"
@@ -325,7 +357,27 @@
       "url": "https://open.spotify.com/track/1rZvgUd0SAysaUbld4YmmL"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
+      "album": {
+        "name": "Malkia ya Molili",
+        "url": "https://open.spotify.com/album/2MSpTC5UKO8OGjsXsc7A8u"
+      },
+      "artists": [
+        {
+          "name": "Zeyna Umoja",
+          "url": "https://open.spotify.com/artist/5cDfk6dxOxLd3VLIIXi7l3"
+        },
+        {
+          "name": "Dj G\u00e1lio",
+          "url": "https://open.spotify.com/artist/5kEAI09rkVpxUw2epuXRwP"
+        }
+      ],
+      "duration_ms": 265573,
+      "name": "Malkia ya Molili",
+      "url": "https://open.spotify.com/track/6OWWr68l8tMmWLDErn1zcR"
+    },
+    {
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "99 PBLM",
         "url": "https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU"
@@ -341,23 +393,7 @@
       "url": "https://open.spotify.com/track/12ETuEC0kPFjRuQokNZRjr"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
-      "album": {
-        "name": "SANGOTE",
-        "url": "https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 133358,
-      "name": "SANGOTE",
-      "url": "https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Chemise italienne",
         "url": "https://open.spotify.com/album/5hGkmuTtT032070zhHmiGq"
@@ -381,7 +417,7 @@
       "url": "https://open.spotify.com/track/2FpuSJ0F3hBhKGTjCNQgbb"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "ENCORE",
         "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
@@ -397,7 +433,7 @@
       "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Assez",
         "url": "https://open.spotify.com/album/2HQPK4vEjaIGw0ljaPUooi"
@@ -413,7 +449,7 @@
       "url": "https://open.spotify.com/track/5khLB5FEPptQb1PirpzYyg"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "207",
         "url": "https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "B\u0112Y\u0100H",
         "url": "https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/26AJYfDkqXUTOXLW7fYOZO"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Le monde est m\u00e9chant",
         "url": "https://open.spotify.com/album/3KwYUFLFlrRahedORZQNFv"
@@ -469,7 +505,7 @@
       "url": "https://open.spotify.com/track/3ETrzTJqBCpkdgm6cyXnH4"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/2kh5UeWxDu3J7RZSAN4g8J"
@@ -485,7 +521,7 @@
       "url": "https://open.spotify.com/track/7zedihOx02Y9HHvF663JnJ"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Bord Ezanga Kombo",
         "url": "https://open.spotify.com/album/6PB2j3oHN6jJxY8UI5iuvB"
@@ -501,7 +537,7 @@
       "url": "https://open.spotify.com/track/0unm6Qi6wkEG58Jrtt0usQ"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Angelina",
         "url": "https://open.spotify.com/album/1ha61ztjmbs79MW2N3SL9N"
@@ -521,7 +557,7 @@
       "url": "https://open.spotify.com/track/1a7M8ofa0HFVycZDH8j1sJ"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "La jeunesse dor\u00e9e (feat. Killa Predator)",
         "url": "https://open.spotify.com/album/6LIQ4eZMzaRcMTCBoLYPXy"
@@ -541,7 +577,7 @@
       "url": "https://open.spotify.com/track/4XjlNoFMggD2LK9WkCjkII"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "BANGER",
         "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/2Xb0MkOd0NIRfSZSXaHcJ3"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "I Feel So Bad",
         "url": "https://open.spotify.com/album/1lWVSmqMzZ7ADV8vMfVDXK"
@@ -573,7 +609,7 @@
       "url": "https://open.spotify.com/track/0qNgxeW3EHbX5XjkBS4Dlh"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "JUSQU'AU SOLEIL",
         "url": "https://open.spotify.com/album/5iOp3IasPOsLN3vEpS5B0r"
@@ -589,7 +625,7 @@
       "url": "https://open.spotify.com/track/7Jz4zmNy2RNBjK0JNndSlU"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Oko Boma Nga",
         "url": "https://open.spotify.com/album/5z3GoDjxQ2UgubeHUh5Otp"
@@ -613,7 +649,7 @@
       "url": "https://open.spotify.com/track/3gzcjxH87nTFtSCR9IC1Pj"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "MEGA BBL",
         "url": "https://open.spotify.com/album/5kULRFcbbkP6NHNBpi6T6p"
@@ -633,7 +669,7 @@
       "url": "https://open.spotify.com/track/1qPSdLoRRMkOTRSJEHHnZX"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Gaz Mawete",
         "url": "https://open.spotify.com/album/5nNbW8miUHzxli3fbPvNdG"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/2vDNbRJHDh3eALR8yml1WC"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Lisolo ya la Sape",
         "url": "https://open.spotify.com/album/3FdvHbHq8QWL2iP5pOEFZ2"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/0RU18aHyfMdeiteVExF2EW"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "MASTERCLASS",
         "url": "https://open.spotify.com/album/30a1XGrL7yszb4sGs7jFQF"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/3WTapDvfbfqiYoTFD4AEnE"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Animation FR",
         "url": "https://open.spotify.com/album/6jgXMoDr51yRbmfZJWKKHa"
@@ -709,7 +745,7 @@
       "url": "https://open.spotify.com/track/5e7VKePa6T6zsBLmW5gtb3"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Num\u00e9ro",
         "url": "https://open.spotify.com/album/7D9kfm5IdIkcs0Jp0J4hXi"
@@ -725,7 +761,7 @@
       "url": "https://open.spotify.com/track/4Cjw87Y6SgBy1avnn1ahAa"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "A Domicile",
         "url": "https://open.spotify.com/album/7qteUCNiigNZ6U7ltVRZrN"
@@ -741,7 +777,7 @@
       "url": "https://open.spotify.com/track/47kofTL3vRWKY6PSGzlNEY"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "La vie des gens",
         "url": "https://open.spotify.com/album/2Pvtyteh6Phny6SIRJrwoa"
@@ -757,7 +793,7 @@
       "url": "https://open.spotify.com/track/3EcrfT5XuWsmoVMPXJZmhQ"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Petit \u00e0 Petit",
         "url": "https://open.spotify.com/album/21nt18qQXRiQpezjjXPAba"
@@ -773,7 +809,7 @@
       "url": "https://open.spotify.com/track/24Eg4AIHzKntUr89tXWNw5"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Ola Femi",
         "url": "https://open.spotify.com/album/2ClBArAskCzlFvENSjPW8Z"
@@ -793,7 +829,7 @@
       "url": "https://open.spotify.com/track/31owCklGu7rGqesrePbNpY"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Oblig\u00e9e",
         "url": "https://open.spotify.com/album/760U6s9PCeFAa4YYPcoze9"
@@ -813,7 +849,7 @@
       "url": "https://open.spotify.com/track/5MP8EHj9F0kXOToFnrZNqu"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "GUITAR",
         "url": "https://open.spotify.com/album/7HbZtnf9Ldb8j5haNiB2CL"
@@ -829,7 +865,7 @@
       "url": "https://open.spotify.com/track/2LHZVmVg43DuSfhAgxBeYr"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "COMME DES GENTLEMAN",
         "url": "https://open.spotify.com/album/3d6COhOE6v0JcwnXQpn4gB"
@@ -845,7 +881,7 @@
       "url": "https://open.spotify.com/track/3zBxXLwS4RhjpZUOmKsca5"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Mood",
         "url": "https://open.spotify.com/album/2RWZ0btto5OuTlS1NCAdbc"
@@ -861,7 +897,7 @@
       "url": "https://open.spotify.com/track/6JFw2mbcNfoFXnrk6AxGK6"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Fond de teint",
         "url": "https://open.spotify.com/album/4Fa5dCNaN1Pq9JDOLh0FYe"
@@ -877,7 +913,7 @@
       "url": "https://open.spotify.com/track/0UStwBgbdH9uPBQu5jZ2S8"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Walou",
         "url": "https://open.spotify.com/album/5m0J6I9LHquC6zJJ4hxOBf"
@@ -893,7 +929,7 @@
       "url": "https://open.spotify.com/track/6UdrVmF6zi8Vw342UWAypc"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
@@ -913,7 +949,7 @@
       "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Fav\u00e9la (#STATION 3)",
         "url": "https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3"
@@ -933,7 +969,7 @@
       "url": "https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "H\u00c9RITAGE : DERNI\u00c8RE EMPREINTE",
         "url": "https://open.spotify.com/album/1XockxgYy7jeOeYQ63qpHs"
@@ -957,7 +993,7 @@
       "url": "https://open.spotify.com/track/28FI1dvb3o2Ns58jyZ00BO"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0GQMw7o7HQXdDhteOWC4bc"
@@ -977,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3ymAkyG6LfREJmfEXEaSbk"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Tchoutchou (feat. Naza)",
         "url": "https://open.spotify.com/album/4Ok4R1NSMZ2KvomrwjDGd0"
@@ -997,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2rU1FOnkqEGgYzEJs7H7q3"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Boma Love",
         "url": "https://open.spotify.com/album/5BDEuKkCEs4GfW5RA6SQkW"
@@ -1017,7 +1053,7 @@
       "url": "https://open.spotify.com/track/456s41homGkd5KpzBMSM6I"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "M\u00e8re de Famille",
         "url": "https://open.spotify.com/album/0zp9dQRsAsIBabUHvuxWOe"
@@ -1037,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3vu0eFlm6gUCOqeWJ2zDek"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Makila : Wabl\u00e9",
         "url": "https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap"
@@ -1057,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "MAUVAIS BOUYON",
         "url": "https://open.spotify.com/album/4sXnszlVLWCu2amQWtKt3M"
@@ -1073,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4brAeraNVqIWOFDjwdXzv8"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Capitaine fait de l'art",
         "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
@@ -1089,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "ROH MUBAYA",
         "url": "https://open.spotify.com/album/4e3VdCdY3JMwPNFvVKzSH9"
@@ -1113,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1BJ43ygIzGfCTAcfZ4tLoV"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
@@ -1133,7 +1169,7 @@
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "M\u00e9dusa",
         "url": "https://open.spotify.com/album/7JGiaywe8xuqIObJ44hETc"
@@ -1153,7 +1189,7 @@
       "url": "https://open.spotify.com/track/5YPGjTepDKtCVdEk1wyVvR"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Sensibility",
         "url": "https://open.spotify.com/album/0h054hjogUcaFP6wjmQD04"
@@ -1173,7 +1209,7 @@
       "url": "https://open.spotify.com/track/6My28KyHTNjHws88zpYZbx"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Hybride",
         "url": "https://open.spotify.com/album/0Y1jicwKfOIp4q88Y5n0YK"
@@ -1193,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5BBb70qCE08OkPvRlhz89a"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Technique (feat. Gaz Mawete)",
         "url": "https://open.spotify.com/album/2wHhwKN1nWM0gT0BnDAukv"
@@ -1213,7 +1249,7 @@
       "url": "https://open.spotify.com/track/0HBGEZBlXljDGIvV36jC16"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Ton c\u0153ur mon c\u0153ur",
         "url": "https://open.spotify.com/album/5ZoQWxNQWctAWDMDSpwiul"
@@ -1229,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0wZhGOsCvvrJCzF6Gbmgpq"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -1253,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2VSwZ3x3IOEs2lK5IXo8Yx"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Afro Mbokalisation",
         "url": "https://open.spotify.com/album/5lv3btQPZawglTewcn1Y1h"
@@ -1269,27 +1305,7 @@
       "url": "https://open.spotify.com/track/3P5wVufq5aP1hDMl1W1qvO"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
-      "album": {
-        "name": "Biso Mibale (feat. Jungeli)",
-        "url": "https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU"
-      },
-      "artists": [
-        {
-          "name": "Emma'a",
-          "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
-        },
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Biso Mibale (feat. Jungeli)",
-      "url": "https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN"
-    },
-    {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Lelo",
         "url": "https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX"
@@ -1309,7 +1325,7 @@
       "url": "https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -1329,7 +1345,7 @@
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "MRTHN",
         "url": "https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g"
@@ -1353,7 +1369,7 @@
       "url": "https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "BRUT4L",
         "url": "https://open.spotify.com/album/7FOTaCV4JRGvOazWA0dcfC"
@@ -1373,7 +1389,7 @@
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "Meridian",
         "url": "https://open.spotify.com/album/7Fp5mM8sFPyd5KYzBIzXwU"
@@ -1393,7 +1409,7 @@
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
     },
     {
-      "added_at": "2025-08-15 04:00:08",
+      "added_at": "2025-08-22 04:00:17",
       "album": {
         "name": "So\u2019oo",
         "url": "https://open.spotify.com/album/6ymWudiASfHTvE942UX68H"
@@ -1407,26 +1423,6 @@
       "duration_ms": 173217,
       "name": "So\u2019oo",
       "url": "https://open.spotify.com/track/6WhL911Vn01ZIt8JcqtRwu"
-    },
-    {
-      "added_at": "2025-08-15 04:00:08",
-      "album": {
-        "name": "Tout nouveau tout beau",
-        "url": "https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv"
-      },
-      "artists": [
-        {
-          "name": "Morijah",
-          "url": "https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh"
-        },
-        {
-          "name": "Dena Mwana",
-          "url": "https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "Tout nouveau tout beau",
-      "url": "https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO"
     }
   ],
   "unique_name": "Biso Na Biso",

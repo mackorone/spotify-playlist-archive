@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Uchu Yurei \(Hong Kong\)
 
-2,137 songs - 5 day 9 hr 11 min
+2,137 songs - 5 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -635,6 +635,7 @@
 | [Gachapon \(feat\. GALCHANIE\)](https://open.spotify.com/track/2DiNpDo0VZ6AEhvxQh9Crk) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Is there anything on the Moon?](https://open.spotify.com/album/1xYl1AYBf7ivH0z37MhhUg) | 3:49 | 2024-09-19 | 2024-10-11 |
 | [GAME](https://open.spotify.com/track/2aZ6Du5TkxZUjvHW9uH8Qj) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [CHAI](https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds) | 2:45 | 2023-09-21 | 2023-10-06 |
 | [GAME](https://open.spotify.com/track/4hEiY5q0DxSCLjGP9xGMdX) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [GAME](https://open.spotify.com/album/645s2yWzejpnI65xOQlLzS) | 2:45 | 2023-09-21 | 2023-09-25 |
+| [Gemilang](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 5:00 | 2025-08-21 |  |
 | [General Suspicious](https://open.spotify.com/track/2vMUUnkFMShULt9nFneoqV) | [Bremen Entertainment Inc.](https://open.spotify.com/artist/7BmltYn52V9S204x88m0MA) | [The Great Bremen Show](https://open.spotify.com/album/18GGV74KlTQ1WOOUaTeqP2) | 2:55 | 2023-11-09 | 2023-12-09 |
 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 | 2024-11-21 | 2024-12-21 |
 | [Genius Made by Publishers](https://open.spotify.com/track/41aT4rpRoWE5iZ2CmbW3qe) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l), [Zen\(ego apartment\)](https://open.spotify.com/artist/4AySGpV1qQ9Ut7fAaHAYAu) | [Fight for Innocence](https://open.spotify.com/album/05M5e1ncRv4shELlWt1W0u) | 4:19 | 2023-02-23 | 2023-03-18 |
@@ -856,7 +857,7 @@
 | [Inertia](https://open.spotify.com/track/5i2ebk1q837ky2fawuM5Ce) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [AFTERGLOW](https://open.spotify.com/album/1AyGNMtcZOJEnTdmkgsOV3) | 1:10 | 2025-03-06 | 2025-03-14 |
 | [Infection](https://open.spotify.com/track/5xJWfdm0Hqz09SFGy5NdDQ) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [呂薔Amuyi](https://open.spotify.com/artist/2HYZy1ndUbE1sJw9zfOaEB) | [Parallel Hearts](https://open.spotify.com/album/6gWoMWLu5KMJzmr952Pfvo) | 3:38 | 2025-06-19 | 2025-06-27 |
 | [inferno \- Edit](https://open.spotify.com/track/2ACM0DK5xXBJlHZ8JQc9M5) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [inferno](https://open.spotify.com/album/5nEnJBGqhO81HTESoWTnq7) | 2:19 | 2023-08-31 | 2023-10-13 |
-| [Ingatlah Aku Disini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Disini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 | 2025-08-21 |  |
+| [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 | 2025-08-21 |  |
 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 | 2023-01-13 | 2023-03-18 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2022-10-07 |
 | [Inside My Head](https://open.spotify.com/track/2gqK1yJ6FBSPhJdmLf0I9W) | [Bedroom Party](https://open.spotify.com/artist/2aSJ9BDyUpJgndRanmLCdr) | [Inside My Head](https://open.spotify.com/album/49hKtHlS7FU9tAuDkxHMlS) | 4:14 | 2023-04-07 | 2023-04-21 |
@@ -1240,6 +1241,7 @@
 | [On My Way](https://open.spotify.com/track/61GbM6MHAXxM0q59ZkQguY) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [On My Way](https://open.spotify.com/album/3xuFX5Ckge9b2voKWQw1yv) | 2:46 | 2022-04-14 | 2022-06-17 |
 | [ONCE UPON ANOTHER TIME](https://open.spotify.com/track/09tosvSuf6ekm2NtMFD2cU) | [Su San](https://open.spotify.com/artist/141YMyiz2ugK1AxTXDkUdx) | [UNDER MILK WOOD](https://open.spotify.com/album/5VCjXoEbPsxBCy3j1ipUBq) | 3:08 | 2023-12-08 | 2023-12-15 |
 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 | 2023-04-27 | 2023-06-09 |
+| [One](https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Closer To Closure](https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD) | 3:09 | 2025-08-21 |  |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-30 | 2024-08-02 |
 | [One Day](https://open.spotify.com/track/3QtOxdT6TkCOtgW7LWN3ES) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [One Day](https://open.spotify.com/album/5USrjEUj41FZx9GVXzDMjY) | 2:21 | 2023-06-22 | 2023-09-01 |
 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 | 2023-04-27 | 2023-06-16 |
@@ -1742,8 +1744,6 @@
 | [touch/feelings](https://open.spotify.com/track/2RpyjZCrhMb9rdpOE1lXlk) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [touch/feelings](https://open.spotify.com/album/2SZLgFJyoHaExsSJEsfOXU) | 2:59 | 2022-11-24 | 2023-02-17 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-08-02 |
 | [Toxicated](https://open.spotify.com/track/0qB6ZydAb7ibLHNAf6mlRE) | [Bunkface](https://open.spotify.com/artist/70B8WzgEFajrIE820yi08H) | [Toxicated](https://open.spotify.com/album/2SFr2FJjkU6sbkKUFtfBmr) | 2:37 | 2023-02-16 | 2023-04-14 |
-| [Track 1](https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Closer To Closure](https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD) | 0:00 | 2025-08-21 |  |
-| [Track 3](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 0:00 | 2025-08-21 |  |
 | [trippin](https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [trippin](https://open.spotify.com/album/0wFS8hm2vYqo2LeUGpZV1j) | 2:58 | 2023-09-01 | 2024-07-27 |
 | [Trouble Is An Enemy](https://open.spotify.com/track/2YrahDW9h5H2KfCj6foQKG) | [Alec Orachi](https://open.spotify.com/artist/7gUg2Mhy06dtJ8sFqtHKCK) | [Trouble Is An Enemy](https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9) | 2:50 | 2022-09-09 | 2022-10-29 |
 | [Trust Me](https://open.spotify.com/track/6N9yWlPP4Ha96AfkXHgaqk) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [Trust Me](https://open.spotify.com/album/0cCvsiXoR8TDNDdO38w05C) | 3:49 | 2024-07-25 | 2024-09-06 |

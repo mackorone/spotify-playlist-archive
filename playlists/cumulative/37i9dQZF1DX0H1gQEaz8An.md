@@ -2,9 +2,9 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Julio Caesar
+> Lo que diga el corazón ❤️💔 Cover: Daniel Garcia
 
-184 songs - 9 hr 30 min
+187 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [CUANTAS VECES](https://open.spotify.com/track/7yJSRJv6x0T9NiXg9XHPwb) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [PORTATE BIEN](https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt) | 3:29 | 2025-08-08 |  |
 | [Dice Que Quiere Verme](https://open.spotify.com/track/2t9VTwfAESJiDsvgNEqyP2) | [Benji V](https://open.spotify.com/artist/6fkUHseNm5m0sScnOOJxWA), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dice Que Quiere Verme](https://open.spotify.com/album/3Ds5tclOhyUktySgeAd8eG) | 2:20 | 2025-02-26 | 2025-07-05 |
 | [Dile](https://open.spotify.com/track/4lYju18PBVedudk8rKKmG7) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Dile](https://open.spotify.com/album/5yd2sHYLoNmwbItKGBoMjl) | 3:18 | 2024-10-20 | 2024-10-26 |
+| [DIOS TESTIGO](https://open.spotify.com/track/1TsCrwD4t8rrrGeE1pH4dz) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [DIOS TESTIGO](https://open.spotify.com/album/7Gbu1Y6tV3EcBmR9RF4b6H) | 2:42 | 2025-08-22 |  |
 | [Dormir No He Podido](https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Dormir No He Podido](https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M) | 2:57 | 2024-03-15 | 2025-07-26 |
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2024-03-15 | 2025-07-26 |
 | [DOS JOVENES](https://open.spotify.com/track/7lNvXFcxTeLalvSIdZac0J) | [Pandemia 702](https://open.spotify.com/artist/7mBia2BQu7KJR4tIOnJeQM) | [PANDEMIA](https://open.spotify.com/album/63T0LpVVcekwfnRrryviWx) | 3:09 | 2024-03-15 | 2024-12-14 |
@@ -168,6 +169,7 @@
 | [Tal Vez](https://open.spotify.com/track/3WaSfL4uKTmbLE2ll6qa1q) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tal Vez](https://open.spotify.com/album/6jm6xoq0cOwygfA9JI5C4W) | 3:29 | 2025-03-28 |  |
 | [TATTOO](https://open.spotify.com/track/3KgHiAVuP88QoQs9CO4z1P) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [TATTOO](https://open.spotify.com/album/5EHzsQEXpu7Q5UbBeFATnE) | 2:47 | 2025-02-28 |  |
 | [Ta’Cabrón](https://open.spotify.com/track/7DmiGQO54rLxsJhvkjCQWG) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Los Bandidos También Lloran](https://open.spotify.com/album/4E0o1wYAgrpOUek84SemVQ) | 3:10 | 2025-08-08 |  |
+| [Te Compre Unas Flores](https://open.spotify.com/track/5uBydlXbPK3ieL6lNrjTvt) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Te Compre Unas Flores](https://open.spotify.com/album/1oqsJRayPCwGMsVvvxOASt) | 4:03 | 2025-08-22 |  |
 | [Te Quiero](https://open.spotify.com/track/3CLx7KyeDo3OLGKk87Pikp) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Te Quiero](https://open.spotify.com/album/0dWXN6tsNvIKTDVfhN3tkg) | 3:09 | 2025-01-17 |  |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2024-03-15 | 2025-04-26 |
 | [TRES BOTELLAS](https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:42 | 2024-03-15 |  |
@@ -191,6 +193,7 @@
 | [Ya Estando Bien Loco](https://open.spotify.com/track/6d4CZTrDAdaPZOHdZBCOl0) | [Mauricio Flores](https://open.spotify.com/artist/1TrsOYuLoKesPD9T231y35), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [Palm Street Music, Vol\. 1](https://open.spotify.com/album/7fwncJsgC0MNq75dIOb6Yg) | 2:56 | 2024-03-15 | 2025-07-26 |
 | [Ya No Estoy Dolido](https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac), [Joaquin Medina](https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw) | [Ya No Estoy Dolido](https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g) | 2:59 | 2024-03-15 |  |
 | [Ya No Saben Igual](https://open.spotify.com/track/04So7ztX0zmpojweaXY0ss) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Ya No Saben Igual](https://open.spotify.com/album/3os6HHMq9Nple7tvhWDFAn) | 2:52 | 2024-12-06 | 2025-02-27 |
+| [YO NO TE OLVIDO](https://open.spotify.com/track/641M1deHD4Y0X74pt8csik) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [YO NO TE OLVIDO](https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP) | 3:20 | 2025-08-22 |  |
 | [¿Qué Fue de Nosotros?](https://open.spotify.com/track/7LsEJ5mDNuiqMhtPQX71Qs) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Mariana Millan](https://open.spotify.com/artist/3Ow6OTEKHqwNT0FwzgBlxf) | [¿Qué Fue de Nosotros?](https://open.spotify.com/album/68MBaeT89lI5ioc83G9XXr) | 3:13 | 2025-02-26 | 2025-04-26 |
 
 \*This playlist was first scraped on 2024-03-21. Prior content cannot be recovered.

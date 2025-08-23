@@ -1,6 +1,6 @@
 {
   "description": "Canciones para subirse al auto y cantar sin parar.",
-  "num_followers": 914146,
+  "num_followers": 914321,
   "original_name": "Canta en el auto",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
-        "name": "Pepas",
-        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -631,22 +615,6 @@
       "duration_ms": 217946,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -667,6 +635,38 @@
       "duration_ms": 217706,
       "name": "We Don't Talk Anymore (feat. Selena Gomez)",
       "url": "https://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
+        "name": "Pepas",
+        "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
+      },
+      "artists": [
+        {
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
+        }
+      ],
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -955,6 +955,22 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
+        "name": "mix pa llorar en tu cuarto",
+        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
-        "name": "mix pa llorar en tu cuarto",
-        "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Fuentes de Ortiz",
-      "url": "https://open.spotify.com/track/0akyEssGRVHstqCSWXusJL"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Estoy Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
         "name": "x (Wembley Edition)",
         "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 258986,
       "name": "Photograph",
       "url": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2025-05-16 12:52:45",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2025-05-16 12:52:45",
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Pies Descalzos, Sue\u00f1os Blancos",
+      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
+    },
+    {
+      "added_at": "2025-05-16 12:52:45",
+      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
-    },
-    {
-      "added_at": "2025-05-16 12:52:45",
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 205800,
-      "name": "Pies Descalzos, Sue\u00f1os Blancos",
-      "url": "https://open.spotify.com/track/5yKQTwznar5I75UyYJ9CnR"
     }
   ],
   "unique_name": "Canta en el auto",

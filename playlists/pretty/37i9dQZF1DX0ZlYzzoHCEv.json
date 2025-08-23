@@ -1,6 +1,6 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 70904,
+  "num_followers": 70901,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 246652,
       "name": "I Really Want to Stay at Your House",
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
-      },
-      "artists": [
-        {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
-        }
-      ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "Montagem Mysterious Game",
         "url": "https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 103495,
       "name": "Montagem Mysterious Game",
       "url": "https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+        }
+      ],
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -763,6 +743,26 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
         "name": "DISORDER",
         "url": "https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 120428,
       "name": "WASTE",
       "url": "https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "Drugs From Amsterdam",
+        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "Drugs From Amsterdam",
+      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -795,22 +811,6 @@
       "duration_ms": 116104,
       "name": "LOVELY BASTARDS",
       "url": "https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
-        "name": "Drugs From Amsterdam",
-        "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 235785,
-      "name": "Drugs From Amsterdam",
-      "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/4GRFzKI7jTZ3kbMfouc7bn"
     },
     {
       "added_at": "2024-08-06 14:12:36",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-06 14:12:36",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2024-08-06 14:12:36",
-      "album": {
         "name": "Queen of Kings",
         "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2024-08-06 14:12:36",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2024-08-06 14:12:36",

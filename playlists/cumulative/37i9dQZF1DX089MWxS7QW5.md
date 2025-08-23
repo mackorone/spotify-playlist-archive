@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Yoon Da Hye\(윤다혜\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Min Jiwoon\(민지운\)\)
 
-561 songs - 1 day 6 hr 16 min
+562 songs - 1 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Say My Name](https://open.spotify.com/track/2Sicd3C7DWxRN9KXpDJVFc) | [MORE](https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C) | [Say My Name](https://open.spotify.com/album/0FtfIPuIazFRQGTgl6vG4c) | 2:32 | 2024-06-17 | 2024-08-22 |
 | [say something](https://open.spotify.com/track/4zcfiaCA41v516QsUKMx6U) | [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [say something](https://open.spotify.com/album/0Po32qw0xVXnQJpRCTwOj3) | 3:35 | 2025-04-18 | 2025-08-06 |
 | [Say you will…](https://open.spotify.com/track/0bAFlQQC0XzaVhb0CFjj76) | [itssiu](https://open.spotify.com/artist/5OTdFjqPLybgNhwcErzl8s) | [Say you will…](https://open.spotify.com/album/0VxD2Z1DiObY79zeK6uZXx) | 2:29 | 2025-06-02 |  |
+| [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 |  |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-08-18 |
 | [Scream TT](https://open.spotify.com/track/1Rbbsova3KJ0dwqF79rtbZ) | [SUZU](https://open.spotify.com/artist/0zlvwCaqdYsdSrr5ZD22d5) | [B2B](https://open.spotify.com/album/581IpgL4QvytkHGGNCUjxo) | 2:01 | 2025-08-05 |  |
 | [Secret of Ours](https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH) | [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Ours](https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO) | 3:26 | 2024-10-23 | 2025-03-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > 🧘🏼‍♀️🌻🏕️🏞️🏊🏻‍♀️🌅🌷⛰️🚴🏼‍♂️🍺🌳
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,406 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,416 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 15 | [Мрію](https://open.spotify.com/track/5z8UhrDbS53B49qlkJJxgy) | [SHY](https://open.spotify.com/artist/3fF2BjyWjC59uxRfpuqXMt) | [Мрію](https://open.spotify.com/album/5DdLG6obvBdNAge8dV9siI) | 2:18 |
 | 16 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
 | 17 | [Улюблені речі](https://open.spotify.com/track/3xNsgwr07mXVhIW0meF84g) | [Sonhe](https://open.spotify.com/artist/0Zc4Oitt1HFLiF78sSw9H8) | [Улюблені речі](https://open.spotify.com/album/2yLB5xxHwr2sfcFgcFUK8O) | 2:53 |
-| 18 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
+| 18 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
 | 19 | [Green Love](https://open.spotify.com/track/6tqKDaysOGsxyHALlKnoNp) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Green Love](https://open.spotify.com/album/4Sf5v9UdN3tT6gVksg9KCB) | 2:24 |
-| 20 | [Ніченька](https://open.spotify.com/track/1GpsHzQa7FEHInzmtALUk9) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [Ніченька](https://open.spotify.com/album/1AgFkAlDnn0SyUWFbjILrT) | 3:09 |
+| 20 | [Ау ау](https://open.spotify.com/track/6LNfmj0I41Q9b1ePvZldeX) | [Sasha Norova](https://open.spotify.com/artist/5r3KBbCjpkNxIQ37XnzThR), [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Культурне диско](https://open.spotify.com/album/6LPyqyRY4IdJOMm3aVUo0l) | 2:12 |
 | 21 | [Без Тебе](https://open.spotify.com/track/3ATuol8XaNxcFAUdCwEsxo) | [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Nova Era](https://open.spotify.com/album/733WEbkU1APj1Y2KlR51W8) | 4:01 |
 | 22 | [Як ніколи](https://open.spotify.com/track/7Bz3CO5CyU4GAPke4UNPhc) | [Okean Elzy](https://open.spotify.com/artist/6NTzEgUmN1PIBIYEHhf1kS) | [Той день](https://open.spotify.com/album/2oGVobQJgAXMDJ5pl79iuo) | 4:30 |
 | 23 | [Повільно](https://open.spotify.com/track/0NYvacFqoJdJggiOynzbur) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb) | [Повільно](https://open.spotify.com/album/6vfaWDp5UB2a6zxs7ZwBDv) | 2:46 |

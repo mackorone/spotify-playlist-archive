@@ -4,7 +4,7 @@
 
 > This is Stan Getz\. The essential tracks, all in one playlist.
 
-52 songs - 4 hr 8 min
+53 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Recorded Fall '61](https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h) | 6:59 | 2025-07-20 |  |
 | [Aguas de Marco](https://open.spotify.com/track/4xroH3U7ukASe2U5xiJPvI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Jazz Moods \- Cool](https://open.spotify.com/album/4lORlHfONAF7M3pVUZMpLk) | 4:42 | 2025-07-20 |  |
 | [Anything Goes](https://open.spotify.com/track/1VGjnaotsGHOoYBgPkfskN) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 3:39 | 2025-07-20 |  |
-| [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 | 2025-07-20 |  |
+| [Autumn Leaves \- Instrumental Version](https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Complete Roost Recordings](https://open.spotify.com/album/52zwSjXRQJor9U8Ti84m64) | 3:01 | 2025-07-20 | 2025-08-23 |
 | [Bahia](https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:38 | 2025-07-20 |  |
 | [Ballad](https://open.spotify.com/track/4CAbhcY8lUNbzYCWufMn7s) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 5:46 | 2025-07-20 |  |
 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 | 2025-07-20 |  |
@@ -33,6 +33,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Cool Velvet: Stan Getz And Strings](https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I) | 4:06 | 2025-07-20 |  |
 | [Let's Fall In Love](https://open.spotify.com/track/0qZItwF1HNXBno45TrdBSS) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/5Ft7Bg8tagTE77q6yOeQUX) | 6:29 | 2025-07-20 |  |
 | [Little Girl Blue](https://open.spotify.com/track/7l1z1abVjOLrhxo1FpfgDI) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Nobody Else But Me](https://open.spotify.com/album/4InQkjgxCqUbFmPeQjCKIC) | 3:38 | 2025-07-20 |  |
+| [Manha De Carnaval](https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Big Band Bossa Nova](https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY) | 5:49 | 2025-08-23 |  |
 | [Melinda](https://open.spotify.com/track/3sXEl50soxZQDJD4LCX6Xq) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Stan Getz & Bill Evans](https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ) | 5:04 | 2025-07-20 |  |
 | [Menina Flor](https://open.spotify.com/track/5cD4lbcDJ5jEkar2sW2roc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb), [Maria Toledo](https://open.spotify.com/artist/6snRLiVZyEVuH73LLGamvi) | [Jazz Samba Encore!](https://open.spotify.com/album/1JDkIxq4xRW7ySH89sGflc) | 4:08 | 2025-07-20 | 2025-08-05 |
 | [Misty](https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [This Is Jazz \#14](https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz) | 5:23 | 2025-07-20 |  |

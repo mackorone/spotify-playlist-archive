@@ -4,7 +4,7 @@
 
 > I brani italiani che abbiamo on repeat  🔁  Giorgia in cover
 
-346 songs - 17 hr 37 min
+348 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [100 anni \(piangi\) \(feat\. gIANMARIA & Mostro\)](https://open.spotify.com/track/4HCC59hmk0rQIyz7t1O0nz) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN), [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [Mi hai visto piangere in un club](https://open.spotify.com/album/0nPLLvU545f2M3AT8XzPNN) | 3:54 | 2024-07-11 | 2024-07-27 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-07-01 | 2024-08-20 |
 | [160BPM](https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [160BPM](https://open.spotify.com/album/5sR7r3HcQrVlcCbQvN3yrf) | 2:40 | 2025-01-09 | 2025-01-24 |
-| [2000 Pensieri](https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:43 | 2025-07-01 |  |
+| [2000 Pensieri](https://open.spotify.com/track/6D6tK55Dywt5qtJeUvQtVO) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [UFORIA](https://open.spotify.com/album/4NJAg5EXV7Vyze7yWz34zB) | 2:43 | 2025-07-01 | 2025-08-23 |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-07-01 | 2024-11-15 |
 | [404 \(una canzone de I Cani\)](https://open.spotify.com/track/2H1aptUgSbdwO6GqjQNX8E) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [404 \(una canzone de I Cani\)](https://open.spotify.com/album/09q0QkrQv4UloCkBPCSb2D) | 2:58 | 2025-04-24 | 2025-05-27 |
 | [5cm](https://open.spotify.com/track/09zTRP1jupO6evQj54cqoO) | [Zero Assoluto](https://open.spotify.com/artist/3bf7Y2it29DeOjXpIibCOe) | [5cm](https://open.spotify.com/album/4nU1cJTiDUmTp5bcNOIdAU) | 2:52 | 2025-02-27 | 2025-03-21 |
@@ -145,6 +145,7 @@
 | [Iconica](https://open.spotify.com/track/4aexKxJ2PjkmYW9sq0xgva) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [JARO](https://open.spotify.com/artist/0LotWLxGlnhsrHsnzzFRw3) | [Iconica](https://open.spotify.com/album/7BWU1JvhZUtGvXxwA0jzl5) | 2:25 | 2025-06-19 | 2025-07-11 |
 | [il filo rosso](https://open.spotify.com/track/2403gCM2RluhMgBc9TSwp7) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [il filo rosso](https://open.spotify.com/album/745x0ghuwicXeSTvOM4RX2) | 3:07 | 2024-10-17 | 2025-05-02 |
 | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/track/57bACDRjkVmyFVjYPGRkY3) | [Paola & Chiara](https://open.spotify.com/artist/6sXWE3eSY59H6zy1tiRPue), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Il Linguaggio Del Corpo \(feat\. BigMama\)](https://open.spotify.com/album/6sJp75vw3Cp5p2GX5t6VQr) | 2:32 | 2024-09-19 | 2025-01-17 |
+| [Il mio giorno preferito](https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Il mio giorno preferito/Mi día preferido](https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x) | 3:26 | 2025-08-21 |  |
 | [Il morso di Tyson](https://open.spotify.com/track/2UTQn14EQXOmzuTGerjSZ5) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Il morso di Tyson](https://open.spotify.com/album/4SxlTcymVxxvlAXBWZQIzJ) | 4:00 | 2024-11-14 | 2025-01-10 |
 | [Il Natale degli Angeli](https://open.spotify.com/track/0GGf58HtRHeIFn5qs3F2Jn) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Il Natale degli Angeli](https://open.spotify.com/album/2MlY8hFaEHIJ2gFGzxWkrI) | 3:09 | 2024-11-28 | 2024-12-13 |
 | [IL PASSO](https://open.spotify.com/track/5X9hnSATguhXalzjtQ4x5m) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [DIY](https://open.spotify.com/album/5oPWrMQXu1ixNSdsChS3aq) | 2:35 | 2024-11-28 | 2025-02-18 |
@@ -169,8 +170,9 @@
 | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/track/51miOIJTThgonu4p9QcSVJ) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [LA PARTE MIGLIORE DI ME](https://open.spotify.com/album/3KFHE2HOL9PNuEAP9VcFOl) | 3:19 | 2024-11-26 | 2025-01-17 |
 | [La tana del granchio](https://open.spotify.com/track/4RTMLSmkfK9kqKlmTPGRzo) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [La tana del granchio](https://open.spotify.com/album/4DcdZiHkRo5zy6gzHyeHk0) | 3:29 | 2025-02-12 | 2025-06-13 |
 | [Lacrema](https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [Lacrema](https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj) | 2:49 | 2025-01-16 | 2025-02-18 |
-| [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 | 2025-06-19 |  |
+| [Lampo](https://open.spotify.com/track/5jLjGPzQ1ws4EanEjy6j8Y) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lampo](https://open.spotify.com/album/33465r4j9CJtOkzdVYfbSv) | 3:27 | 2025-06-19 | 2025-08-23 |
 | [Latitante](https://open.spotify.com/track/2qCxXKYrLwi77HGLOm6pUv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Latitante](https://open.spotify.com/album/0th9XXNZc92LIWSPwLovAv) | 2:55 | 2024-07-04 | 2024-08-02 |
+| [Lato B \(feat\. Mecna, Guè\)](https://open.spotify.com/track/0AsFfEWaMpWFZR1EQsa7OK) | [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Lato B \(feat\. Mecna, Guè\)](https://open.spotify.com/album/4Fqa6E3erUdjiFj1VgJNR0) | 2:56 | 2025-08-21 |  |
 | [Le Cose](https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Le Cose](https://open.spotify.com/album/4wimb8jyQFyFETvLlffqmZ) | 2:36 | 2024-07-18 | 2024-08-02 |
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2025-01-02 |  |
 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-12 | 2025-05-16 |

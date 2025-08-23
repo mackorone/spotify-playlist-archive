@@ -1,6 +1,6 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 150344,
+  "num_followers": 150380,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,18 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+        "name": "January",
+        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
       },
       "artists": [
         {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
         }
       ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
+      "duration_ms": 345706,
+      "name": "Diamonds And Pearls",
+      "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -407,18 +403,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "January",
-        "url": "https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY"
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
       },
       "artists": [
         {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
         }
       ],
-      "duration_ms": 345706,
-      "name": "Diamonds And Pearls",
-      "url": "https://open.spotify.com/track/3yArsNjOHHr7FF0pxDFhwo"
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Joshua Redman",
-        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "I Got You - I Feel Good",
-      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -683,18 +667,18 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Technically Acceptable",
-        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+        "name": "Joshua Redman",
+        "url": "https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1"
       },
       "artists": [
         {
-          "name": "Ethan Iverson",
-          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 230389,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
+      "duration_ms": 279573,
+      "name": "I Got You - I Feel Good",
+      "url": "https://open.spotify.com/track/0Snag7BFP5fx7SonfLcSsh"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -711,6 +695,22 @@
       "duration_ms": 309810,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Technically Acceptable",
+        "url": "https://open.spotify.com/album/1ogZptaphgAJyfiG9eBkRL"
+      },
+      "artists": [
+        {
+          "name": "Ethan Iverson",
+          "url": "https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH"
+        }
+      ],
+      "duration_ms": 230389,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/5RreK0YFWB9nR4SJVHOCwR"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "Love Hurts",
         "url": "https://open.spotify.com/album/72SR28cHjGmcS8xaJJ0fve"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 285719,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/2YUiLLOngrxtH9dhN9ZEtn"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/3xq9FRFvT2KITtYjI5luP8"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
-        "name": "Life's Love Songs",
-        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 328192,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
         "name": "What Took You so Long",
         "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 271922,
       "name": "We Don\u00b4t Need Another Hero",
       "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 328192,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
     },
     {
       "added_at": "2025-03-13 14:12:56",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2025-03-13 14:12:56",
       "album": {
+        "name": "Elles",
+        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "duration_ms": 262053,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
+    },
+    {
+      "added_at": "2025-03-13 14:12:56",
+      "album": {
         "name": "Only Love Can Break Your Heart",
         "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/60LJcZ4RS3IDkp8KB3z6p9"
-    },
-    {
-      "added_at": "2025-03-13 14:12:56",
-      "album": {
-        "name": "Elles",
-        "url": "https://open.spotify.com/album/053PhX5KlVX5SJTueWiuyc"
-      },
-      "artists": [
-        {
-          "name": "Youn Sun Nah",
-          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
-        }
-      ],
-      "duration_ms": 262053,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/4QyNMirtHB7dwDkXW73hX3"
     },
     {
       "added_at": "2025-03-13 14:12:56",

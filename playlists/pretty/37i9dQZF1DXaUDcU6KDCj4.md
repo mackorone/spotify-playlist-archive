@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Andrea Bejar
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Kingfishr
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,105 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,461 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 62 | [When The Truth Comes Out](https://open.spotify.com/track/4g0TfaBIbVymM94f0I4DYo) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [When The Truth Comes Out / Little Red Ranger](https://open.spotify.com/album/2sF7YHihTIBUjEaHv7zTSb) | 3:30 |
 | 63 | [HEARTLAND](https://open.spotify.com/track/1BL3cUI09um7QN2cHUy0Cq) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HEARTLAND](https://open.spotify.com/album/4ZqsKJr5JxuQR30RfMUZGh) | 4:04 |
 | 64 | [ruin me](https://open.spotify.com/track/7vW7XiQtFlEL6UHnGPbj6G) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [ruin me](https://open.spotify.com/album/2rfQNVaUq97UY8smTmJBKv) | 3:13 |
-| 65 | [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 |
+| 65 | [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 |
 | 66 | [Paradise](https://open.spotify.com/track/4MKNdW2bfkEGwpXqHYjzjA) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Paradise](https://open.spotify.com/album/5UbzUiIAy3EiLzurOlGkcE) | 2:37 |
 | 67 | [Somebody Nobody Gets Over](https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Somebody Nobody Gets Over](https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf) | 2:47 |
 | 68 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 |
 | 150 | [Sabino](https://open.spotify.com/track/7tAwTZKnOEihan9q6rhuzR) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Sabino](https://open.spotify.com/album/6GIofJVOnkodSIjAofbYbe) | 3:33 |
 
-Snapshot ID: `AAAAAPyPv5jyvpcEuQRVYxnATkDy0SrM`
+Snapshot ID: `AAAAAPk5iLE+pJq4rfXyztcrHj59qhzL`

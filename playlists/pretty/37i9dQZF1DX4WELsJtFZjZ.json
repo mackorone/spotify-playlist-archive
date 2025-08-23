@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1980s. Cover: Luther Vandross",
-  "num_followers": 1548285,
+  "num_followers": 1548873,
   "original_name": "Soft 80s",
   "owner": {
     "name": "Spotify",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
-      "added_at": "2023-11-10 14:51:19",
-      "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
-    },
-    {
       "added_at": "2023-01-24 23:00:00",
       "album": {
         "name": "Lost in Love",
@@ -487,6 +471,22 @@
       "duration_ms": 243000,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/7dQC53NiYOY9gKg3Qsu2Bs"
+    },
+    {
+      "added_at": "2023-11-10 14:51:19",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "From Time To Time - The Singles Collection",
+        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
+      },
+      "artists": [
+        {
+          "name": "Paul Young",
+          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Every Time You Go Away - Radio Edit",
+      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "From Time To Time - The Singles Collection",
-        "url": "https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y"
-      },
-      "artists": [
-        {
-          "name": "Paul Young",
-          "url": "https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Every Time You Go Away - Radio Edit",
-      "url": "https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Alannah Myles",
         "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Arthur - The Album [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Arthur's Theme (Best That You Can Do)",
-      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 241066,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Arthur - The Album [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Making Movies",
-        "url": "https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Romeo And Juliet",
-      "url": "https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 246040,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Making Movies",
+        "url": "https://open.spotify.com/album/3wvclpO3LJmpSQGQ9gBa2a"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Romeo And Juliet",
+      "url": "https://open.spotify.com/track/0PNt5WTw092eED0ru9SuIp"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -895,38 +895,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Double Fantasy: Stripped Down",
-        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "The Anthology",
         "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
       },
@@ -947,6 +915,38 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Double Fantasy: Stripped Down",
+        "url": "https://open.spotify.com/album/15q7N7Wo307mfjqR29NpjF"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/0GGxVTb0UwDwdaKNjBdCn3"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Boys And Girls",
         "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
       },
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "If That's What It Takes",
-        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "I Keep Forgettin' (Every Time You're Near)",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Whitney Houston",
         "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 297877,
       "name": "Greatest Love of All",
       "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "If That's What It Takes",
+        "url": "https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 318680,
-      "name": "Man in the Mirror - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Electric Youth",
         "url": "https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 215146,
       "name": "Lost in Your Eyes",
       "url": "https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 318680,
+      "name": "Man in the Mirror - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1kiNatIrwDusOZfR29W0LJ"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "...Nothing Like The Sun",
         "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 236306,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
         "name": "Temple Of Low Men",
         "url": "https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 239160,
       "name": "Mr. Telephone Man",
       "url": "https://open.spotify.com/track/4DiNls6kFmF1ZittKsPsTc"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "All That Jazz",
-        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
-      },
-      "artists": [
-        {
-          "name": "Breathe",
-          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
-        }
-      ],
-      "duration_ms": 284360,
-      "name": "How Can I Fall ?",
-      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Introducing The Hardline According To Sananda Maitreya",
         "url": "https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 276533,
       "name": "Sign Your Name",
       "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 284360,
+      "name": "How Can I Fall ?",
+      "url": "https://open.spotify.com/track/62oGUBJQGPa3emMGMejBhm"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "I've Never Been To Me",
         "url": "https://open.spotify.com/album/7rXwVP5P5mfUQUTYYD6Jza"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 234773,
       "name": "I've Never Been To Me",
       "url": "https://open.spotify.com/track/6DMOzL2zPZBAW0LDYCYLWm"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2023-01-24 23:00:00",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-01-24 23:00:00",
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 308133,
-      "name": "I've Been In Love Before",
-      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
-    },
-    {
-      "added_at": "2023-01-24 23:00:00",
-      "album": {
         "name": "Black & White (Expanded Edition)",
         "url": "https://open.spotify.com/album/4ZjbAxpWpR9qhY7253jNrX"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 231960,
       "name": "Slow Hand",
       "url": "https://open.spotify.com/track/3fvDLsiTHPQNgzuMd3Mpb5"
+    },
+    {
+      "added_at": "2023-01-24 23:00:00",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 308133,
+      "name": "I've Been In Love Before",
+      "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
     },
     {
       "added_at": "2023-01-24 23:00:00",

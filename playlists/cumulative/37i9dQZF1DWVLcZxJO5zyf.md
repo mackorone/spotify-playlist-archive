@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Vitão
 
-414 songs - 19 hr 43 min
+415 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Bom Partido](https://open.spotify.com/track/1e0LqNTaqZvubsEJVNtsa8) | [MC Du Black](https://open.spotify.com/artist/6v4PBIzRAGaLp43LVureQc), [Guêrin](https://open.spotify.com/artist/61K0zrlTUrH4rSPDfImph8) | [Bom Partido](https://open.spotify.com/album/7DhFFsKXAReF0OEZ1KcEDc) | 2:34 | 2022-06-13 | 2022-07-02 |
 | [BONEKINHA](https://open.spotify.com/track/79Djb1E319BwnYZ8cEA1mQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [BONEKINHA](https://open.spotify.com/album/21YCUy1thmnxAbcIOsJy8y) | 2:48 | 2022-01-14 | 2023-02-04 |
 | [bonita e miserável](https://open.spotify.com/track/1ePCG4jmr5NWT84Pw678kZ) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bonita e miserável](https://open.spotify.com/album/2uF3enSQoCCusAYTAiIWhK) | 2:51 | 2022-04-06 | 2022-07-02 |
-| [Boogie Brasil](https://open.spotify.com/track/2Kt6AV8QR7dsn9fdZukoxr) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Boogie Brasil](https://open.spotify.com/album/4pluecQjfURMeDXDgi3xjT) | 2:57 | 2025-07-11 |  |
+| [Boogie Brasil](https://open.spotify.com/track/2Kt6AV8QR7dsn9fdZukoxr) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Boogie Brasil](https://open.spotify.com/album/4pluecQjfURMeDXDgi3xjT) | 2:57 | 2025-07-11 | 2025-08-23 |
 | [Bossa Nossa](https://open.spotify.com/track/1ZnnHI1HpCLhuYapDCnZUv) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [GRACINHA](https://open.spotify.com/album/0Nf3vjP7Uxtnyxt3GTibrS) | 3:42 | 2022-01-14 | 2022-01-27 |
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-01-29 | 2022-11-12 |
 | [BRASIL TÁ EM FESTA!](https://open.spotify.com/track/4DyzY40NHkyQMzlFL682P4) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DISCO VOADOR](https://open.spotify.com/album/6E7umGd3vPXjMnqZVSjKRd) | 2:23 | 2022-11-23 | 2023-03-14 |
@@ -333,6 +333,7 @@
 | [recadin no espelho](https://open.spotify.com/track/1snE820RBNNYwpqZO8ItYf) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [recadin no espelho](https://open.spotify.com/album/6KKAWpqYTZ9ptx7Eq4VpmT) | 2:04 | 2024-03-01 |  |
 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 | 2025-07-11 | 2025-08-02 |
 | [Recomeço](https://open.spotify.com/track/4n0Gle6yQqSdDZPeJZzef7) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Recomeço](https://open.spotify.com/album/09S98ejRLHvK2M3RaPULUw) | 2:41 | 2024-05-31 | 2024-08-10 |
+| [relações superficiais](https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [GÊMEOS EM GÊMEOS](https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB) | 3:09 | 2025-08-22 |  |
 | [Ritmo Agressivo](https://open.spotify.com/track/7ph7fCkl87MkX4i5vxIU9H) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Ritmo Agressivo](https://open.spotify.com/album/2JMewLH8ROoQkn2wZBpaX0) | 2:31 | 2022-02-04 | 2022-07-19 |
 | [Romance Em Cena](https://open.spotify.com/track/2HCwONIrygjv9WilseHpfM) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:08 | 2024-09-20 |  |
 | [roubando a cena](https://open.spotify.com/track/1jdWoanP3m1glSvH7qN2aE) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [2003](https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw) | 2:17 | 2022-05-13 | 2022-07-23 |

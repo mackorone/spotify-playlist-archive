@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 141467,
+  "num_followers": 141548,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 339533,
+      "name": "In The Wee Small Hours Of The Morning",
+      "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "'Round About Midnight",
         "url": "https://open.spotify.com/album/4VUawqEDCHHfrUe77ScQ2K"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 339533,
-      "name": "In The Wee Small Hours Of The Morning",
-      "url": "https://open.spotify.com/track/4c9u4ruTL1xWv2YcnS8AjN"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 308160,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "King Of The Tenors",
         "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 185800,
       "name": "Don't Get Around Much Any More",
       "url": "https://open.spotify.com/track/0U9GZufDpyO2YQRLHmcMa6"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 308160,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 399000,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "A Garland Of Red",
         "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 287400,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/7pFxr8Y8sqlALBW2mg1AUr"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 399000,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/6i5EWjhdORPYWGyYVHfhxE"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 198223,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
         "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 410666,
       "name": "Love Me Or Leave Me",
       "url": "https://open.spotify.com/track/03zs6lKk7xwsdIusCnwXL9"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 198223,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/687ORY7Mxi44UdgBm3Vfbz"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "The President Plays With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 300077,
       "name": "Exactly Like You",
       "url": "https://open.spotify.com/track/73vKtIcAbIIgagWluGAWDf"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "The President Plays With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/2Bu0UMTRHqwEQlXzHl6wQr"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Young Chet",
-        "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "Time After Time - Instrumental",
-      "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Young Chet",
+        "url": "https://open.spotify.com/album/2DYP3Cpj7U88CgUqdZubky"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Time After Time - Instrumental",
+      "url": "https://open.spotify.com/track/0AtkWTAdzyuXO5AFdMd2nH"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Small Groups: 1941-1945",
+        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman Quintet",
+          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "After You've Gone",
+      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "The Real... Toots Thielemans",
         "url": "https://open.spotify.com/album/45kY69KnMtysdft3o07LiZ"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 235560,
       "name": "Stella By Starlight - Remaster/2004",
       "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Small Groups: 1941-1945",
-        "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Quintet",
-          "url": "https://open.spotify.com/artist/1IIqlqFBKcgfsY0KOfe3vq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "After You've Gone",
-      "url": "https://open.spotify.com/track/4leHEk0wS3rLsdfHz3ZItX"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Hollywood Stampede",
-        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "See You At The Fair",
         "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 266360,
       "name": "In A Mellow Tone",
       "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Hollywood Stampede",
+        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Eddie Higgins",
-        "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
-      },
-      "artists": [
-        {
-          "name": "Eddie Higgins",
-          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Benny Golson And The Philadelphians",
         "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 413826,
       "name": "Afternoon In Paris",
       "url": "https://open.spotify.com/track/2C3HvdJUwK6ItoWb0F5GgP"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Eddie Higgins",
+        "url": "https://open.spotify.com/album/1HT2Mu1wi8V28XDnth70LL"
+      },
+      "artists": [
+        {
+          "name": "Eddie Higgins",
+          "url": "https://open.spotify.com/artist/0W5dlTiXGpQqs0OhqCRE92"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/2AXpGYWWR7ebNYEGX7pBSg"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "The Jazz Messengers",
-        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 333493,
-      "name": "It's You or No One",
-      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 386773,
       "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "The Jazz Messengers",
+        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 333493,
+      "name": "It's You or No One",
+      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
     },
     {
       "added_at": "2024-07-08 06:51:47",

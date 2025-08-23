@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,543 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,542 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 44 | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2) | [Abu Obaida Hassan](https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj) | [Qamar Al Massa \(Moon of the Night\)](https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh) | 8:15 |
 | 45 | [Matalib](https://open.spotify.com/track/0chh0JBXHHvrOymWelevQM) | [Sammany](https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7) | [Matalib](https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx) | 4:48 |
 | 46 | [DUM TIK TIK](https://open.spotify.com/track/4rXMDVHEmlCywEJD2AHgk3) | [Taha Suliman](https://open.spotify.com/artist/0f8AQFo3xYsmSvDIrLG94a) | [DUM TIK TIK](https://open.spotify.com/album/2ZZidnczOk5PdAkGbef9Ec) | 3:25 |
-| 47 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
-| 48 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 |
+| 47 | [Zaman Maf](https://open.spotify.com/track/3RHQmKlOaVqew8UZ5AbmOP) | [O'd](https://open.spotify.com/artist/0LwmaxKGW5M2qF7Mas5ejk), [A7MD](https://open.spotify.com/artist/4lG8ClDdSczGV2g7b2G7Qx) | [Zaman Maf](https://open.spotify.com/album/5m1ZHWPTBZq9V7xeV27IO3) | 3:38 |
+| 48 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
 | 49 | [23](https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF) | [Shmakh](https://open.spotify.com/artist/53pO4D72QLnq1hKfR90iX5) | [23](https://open.spotify.com/album/6sNXpHky9jR10fStq9E6vP) | 2:27 |
 | 50 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 |
-| 51 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
-| 52 | [Tuna](https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Tuna](https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs) | 2:45 |
+| 51 | [Tuna](https://open.spotify.com/track/6zX6YvuzrPl0jzZ6EmBtaQ) | [MaMan](https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30) | [Tuna](https://open.spotify.com/album/0HZVyBD9JHeViJEPJ5tWbs) | 2:45 |
+| 52 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 53 | [Ya Dunya](https://open.spotify.com/track/6zbd0o0ESiB9VDJrdDOFKm) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [Ya Dunya](https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR) | 7:11 |
 | 54 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
 | 55 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |

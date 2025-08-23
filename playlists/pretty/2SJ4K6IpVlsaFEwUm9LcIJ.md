@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,205 likes - 60 songs - 4 hr 8 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,208 likes - 61 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,14 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 50 | [Believe Me](https://open.spotify.com/track/3Gh6jgFviAJ4rgjZM69ME2) | [Requisit](https://open.spotify.com/artist/0wCfpSR2D4QXDgJJIxuglM) | [Also With Each Other / Believe Me \(Single\)](https://open.spotify.com/album/2LP2y7kgoD7ei3V7w5AlFH) | 3:36 |
 | 51 | [Follow That Dream](https://open.spotify.com/track/05bNV0j3tWX008cxkJA8YT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tracks II: The Lost Albums](https://open.spotify.com/album/4MWHAwGK4x0tMyghx1sB37) | 3:53 |
 | 52 | [Heaven Can Wait \- 2006 Remaster](https://open.spotify.com/track/2dX9cTn90GmGsGodXEi3l3) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 4:34 |
-| 53 | [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 |
-| 54 | [The Light Reveals The Place](https://open.spotify.com/track/0GWF2ruSPrqtQgW96w4Hyy) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 6:59 |
-| 55 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 |
-| 56 | [Our Love Will Never Go](https://open.spotify.com/track/15wbuzzUSRwr3Vne6X4TK7) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [I'm A Man: The Chess Masters, 1955\-1958](https://open.spotify.com/album/3elQneouDEy4phwU24ysGK) | 2:40 |
-| 57 | [Taxi Driver](https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU) | [Bobby Benson & His Orchestra](https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 3:22 |
-| 58 | [Bastan Toure](https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377) | [Bajourou](https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS) | [Big String Theory](https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ) | 5:48 |
-| 59 | [Money! Money!](https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ) | [The Three Night Wizards](https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 2:46 |
-| 60 | [Porto](https://open.spotify.com/track/6mttPfa53PF6MC5Oq4GW3k) | [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Dori Caymmi \(1980\)](https://open.spotify.com/album/67U5cjkiVh0I0bTsWgPbCD) | 3:49 |
+| 53 | [The Light Reveals The Place](https://open.spotify.com/track/0GWF2ruSPrqtQgW96w4Hyy) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 6:59 |
+| 54 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 |
+| 55 | [Our Love Will Never Go](https://open.spotify.com/track/15wbuzzUSRwr3Vne6X4TK7) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [I'm A Man: The Chess Masters, 1955\-1958](https://open.spotify.com/album/3elQneouDEy4phwU24ysGK) | 2:40 |
+| 56 | [Taxi Driver](https://open.spotify.com/track/2w3FqBFFuNQFdVzHPhhshU) | [Bobby Benson & His Orchestra](https://open.spotify.com/artist/0LROQS2JlO765rVOu31YkD) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 3:22 |
+| 57 | [Bastan Toure](https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377) | [Bajourou](https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS) | [Big String Theory](https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ) | 5:48 |
+| 58 | [Money! Money!](https://open.spotify.com/track/4J85oOrxdn1JTmISai7PRQ) | [The Three Night Wizards](https://open.spotify.com/artist/5F8XCFUGMif7gqT2OEkKXT) | [Nigerian Popular Music from the 50's](https://open.spotify.com/album/3mZJgMqDFkoEsYnyP0xUIA) | 2:46 |
+| 59 | [Porto](https://open.spotify.com/track/6mttPfa53PF6MC5Oq4GW3k) | [Dori Caymmi](https://open.spotify.com/artist/6fV3ZNUY8BCP45yuCWWDez) | [Dori Caymmi \(1980\)](https://open.spotify.com/album/67U5cjkiVh0I0bTsWgPbCD) | 3:49 |
+| 60 | [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 |
+| 61 | [Bad Sneakers](https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:19 |
 
-Snapshot ID: `AAAM+KmbZtU/mlGqEbdvg46RLsGD3m63`
+Snapshot ID: `AAAM/YSumzwB6BoUU1mbfrxyQ8fJsXgn`

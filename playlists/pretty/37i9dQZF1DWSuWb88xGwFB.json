@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 41336,
+  "num_followers": 41352,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
-      },
-      "artists": [
-        {
-          "name": "Aly-Us",
-          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Follow Me - Club Mix",
-      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "I Like To Move It (feat. The Mad Stuntman)",
         "url": "https://open.spotify.com/album/2e0wWL0G1nwwS16yNekdVP"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 352545,
       "name": "I Like to Move It (feat. The Mad Stuntman) - Erick \"More\" Club Mix",
       "url": "https://open.spotify.com/track/1r4ZkSJevA68TQzLzJeXeb"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
+      },
+      "artists": [
+        {
+          "name": "Aly-Us",
+          "url": "https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Follow Me - Club Mix",
+      "url": "https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Feel It / Waterfalls",
         "url": "https://open.spotify.com/album/1wVS8Gdyzyzb233I6pdmIl"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 358680,
       "name": "Waterfalls - 3 A.M. Mix",
       "url": "https://open.spotify.com/track/3Lv3bT31Sali9Zk7sFgy5r"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
     },
     {
       "added_at": "2022-03-03 13:59:16",

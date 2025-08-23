@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,474 likes - 100 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,477 likes - 100 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 13 | [The Feather Song](https://open.spotify.com/track/72jYBCcJMpYBnmBdGA6ske) | [Suno Weber](https://open.spotify.com/artist/4Xu7p8fneyGQ6G4IUYeS9L) | [The Feather Song](https://open.spotify.com/album/6RvTaodJm1tQL4CHKKHrF8) | 2:55 |
 | 14 | [Tender](https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Tender](https://open.spotify.com/album/4dN7XzCVKgS9BrQ7KbIJKy) | 2:55 |
 | 15 | [I Wish Tonight](https://open.spotify.com/track/2vHUbaMy2n8XgPIYzrsaeK) | [Brie Michelle](https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz) | [I Wish Tonight](https://open.spotify.com/album/7jalRpXTMCrJWixGjq13I4) | 1:05 |
-| 16 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
+| 16 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
 | 17 | [Mellow Teddy](https://open.spotify.com/track/0qhK6FG7OtkDyXM0WemioK) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Mellow Teddy](https://open.spotify.com/album/7kIUHlnEiTvWjBFgzYb6Qu) | 2:25 |
 | 18 | [Sleepy times](https://open.spotify.com/track/4e1OHtiK4WiYF3P4yIqWye) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Sleepy times](https://open.spotify.com/album/3mk8LC5Nh8TicpfM5N69K0) | 1:13 |
 | 19 | [Little Teddy](https://open.spotify.com/track/4H9TgNSRWpS3wL0AGPrtCq) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Little Teddy](https://open.spotify.com/album/6gDjrt6l6tM1Og630RCDfL) | 1:07 |

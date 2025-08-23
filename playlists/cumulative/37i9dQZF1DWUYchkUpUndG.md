@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Folabi Nuel
 
-6,048 songs - 18 day 8 hr 50 min
+6,049 songs - 18 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1923,6 +1923,7 @@
 | [Groter As Die Berge](https://open.spotify.com/track/0KmGtqzCBuOtOTROhS5y3U) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [Dis Tyd](https://open.spotify.com/album/3tvP8cHiZYfmM9qroubQ1S) | 2:48 | 2024-05-03 | 2024-05-10 |
 | [GUIDE ME](https://open.spotify.com/track/0qjGtJ9p7T3YITq7U9Mhvc) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4) | [GUIDE ME](https://open.spotify.com/album/06ry03hWs8NLvZKUZ2WBq2) | 2:40 | 2025-03-14 | 2025-03-28 |
 | [Guide Your Way](https://open.spotify.com/track/4jku393QzOX63vjChnYcnP) | [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [JT Bulinda](https://open.spotify.com/artist/7hOUX5uA9IBzeVFiBNIsFM) | [Guide Your Way](https://open.spotify.com/album/0iceg2XyY5ydkaxLyQqFYC) | 5:09 | 2024-12-20 | 2025-01-10 |
+| [Gusa](https://open.spotify.com/track/07WihVXFDlPnDqsF9LnuSU) | [Rose Kumenya](https://open.spotify.com/artist/5epA6i4sh4yGgf8E0Jk8pQ) | [Gusa](https://open.spotify.com/album/4QlzmI3pPgrvF0cQfxA1ok) | 7:44 | 2025-08-22 |  |
 | [Gye Wo Nkoaa](https://open.spotify.com/track/569HzTSs0toPBtmrcC4VyD) | [Lordina The Soprano](https://open.spotify.com/artist/3y9dp9aHQ2LBUbuepkiddU), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Gye Wo Nkoaa](https://open.spotify.com/album/11X1SIyHGMDcVooFlbqIkv) | 5:00 | 2023-06-30 | 2023-07-14 |
 | [Gyration Praise](https://open.spotify.com/track/0YiAJV5eaDu3NlZhaZFHhX) | [Cheemah](https://open.spotify.com/artist/6vHRbHLaqOoAfLHEB7yF0r) | [Gyration Praise](https://open.spotify.com/album/3vHbQjjmTh5PjqaUOGZdPV) | 4:31 | 2025-05-23 | 2025-05-30 |
 | [Ha Le Mpotsa \- Holly Venom](https://open.spotify.com/track/6AZLRh3kMebkJt0hOhz8qq) | [Dafro](https://open.spotify.com/artist/6gNmmm0Dyt4geB8W2Z4VXL) | [Ha Le Mpotsa](https://open.spotify.com/album/6dqDhIprUTTdHTwHReMBT0) | 4:26 | 2023-10-27 | 2023-11-10 |
@@ -3167,7 +3168,7 @@
 | [LOWKEY](https://open.spotify.com/track/54hrmRT9vulv7CMjSgjgwi) | [SovT Music](https://open.spotify.com/artist/29eB4DKTb6yyUJ0G6vZC6e) | [LOWKEY](https://open.spotify.com/album/1Cn2peeuFGQh6BDXkD5u3f) | 3:11 | 2024-10-18 | 2024-10-25 |
 | [Loyalty](https://open.spotify.com/track/54l8wPVliLM6N8lPQ5lANI) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Loyalty](https://open.spotify.com/album/2SuLvABhoxZX0AHPCUCXaY) | 3:04 | 2024-08-30 | 2024-09-14 |
 | [Loyalty](https://open.spotify.com/track/0xSpwjKjzT2RccxUmZBfrw) | [Feiboky](https://open.spotify.com/artist/54C7KuGlyN5e8WPyWUJYMw), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Loyalty](https://open.spotify.com/album/7FNNWx0xxMIbwqtgQUqtPv) | 4:03 | 2024-07-05 | 2024-07-19 |
-| [Lufuno Lwau](https://open.spotify.com/track/1UYX1SPwh56nkZd2D85KWX) | [Takie & Rofhiwa](https://open.spotify.com/artist/4Lucgup4VnHrtYPfAvBIRS), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Live at Kalahari](https://open.spotify.com/album/5e29gpFU8qp5oRj0r3DuF6) | 5:08 | 2025-08-22 |  |
+| [Lufuno Lwau](https://open.spotify.com/track/1UYX1SPwh56nkZd2D85KWX) | [Takie & Rofhiwa](https://open.spotify.com/artist/4Lucgup4VnHrtYPfAvBIRS), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Live At Kalahari Waterfront](https://open.spotify.com/album/5e29gpFU8qp5oRj0r3DuF6) | 5:08 | 2025-08-22 |  |
 | [Luke 15:4](https://open.spotify.com/track/0px1Jwd0rLBsCZUQQZ0ijc) | [Daniella Paul\-Enenche](https://open.spotify.com/artist/5cdE8RbLbG6QiQUzYZegRV), [Paul\-Daniel Paul\-Enenche](https://open.spotify.com/artist/37IbjRwNWMpYXHlPquCcWG) | [Luke 15:4](https://open.spotify.com/album/5CT7DQ8yCNkFALaHah78zN) | 3:31 | 2023-08-18 | 2023-09-01 |
 | [Luwe](https://open.spotify.com/track/4KnDGChvZD7uzqmpJSq7jo) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5) | [Luwe](https://open.spotify.com/album/2QpOT1j1su7qOTHZpvH7Q6) | 2:47 | 2025-03-14 | 2025-03-28 |
 | [LWYD \- Moses Bliss Remix](https://open.spotify.com/track/7hH8kin5Fd6mpuRbpkL0pJ) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [LWYD \(Moses Bliss Remix\)](https://open.spotify.com/album/6m3txAUmtaywM6Ui9ohghG) | 10:55 | 2023-09-15 | 2023-09-29 |

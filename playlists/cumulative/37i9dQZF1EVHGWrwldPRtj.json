@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWqSrfwW8NAh>Bad Bunny</a>, <a href=spotify:playlist:37i9dQZF1EIZiyqzJ3oHFz>harf.</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYJBeBra9GOw>Tom Rosenthal</a>, <a href=spotify:playlist:37i9dQZF1EIUvj8QDdnFfK>Myke Towers</a>, <a href=spotify:playlist:37i9dQZF1EIYGDERd5KGDX>Lil Tecca</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -684,7 +684,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
@@ -2742,10 +2742,28 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa"
+    },
+    {
+      "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "Dark Thoughts",
+      "url": "https://open.spotify.com/track/7lv4SU2ATVjQJp6Jia0x7N"
     },
     {
       "album": {
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 235797,
       "name": "For You I'll Wait",
       "url": "https://open.spotify.com/track/6fI60QGVxY7TDVOv47vYO7"
@@ -6789,6 +6807,24 @@
     },
     {
       "album": {
+        "name": "Z-Sides",
+        "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
+      },
+      "artists": [
+        {
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193749,
+      "name": "Lights Are On",
+      "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
+    },
+    {
+      "album": {
         "name": "Like a Dream",
         "url": "https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL"
       },
@@ -7800,7 +7836,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 200482,
       "name": "Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/4SrRrB27n7fiRkQcPoKfpk"
@@ -8662,6 +8698,24 @@
       "duration_ms": 312320,
       "name": "Paraluman",
       "url": "https://open.spotify.com/track/2jbf9EytR7fzpSrPWAYCf9"
+    },
+    {
+      "album": {
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/2oZBb87Jgwrg3qYhwsy3BN"
     },
     {
       "album": {
@@ -9804,7 +9858,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
@@ -9952,6 +10006,24 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
     },
     {
       "album": {
@@ -10468,7 +10540,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -10810,6 +10882,24 @@
       "duration_ms": 205458,
       "name": "Stolen Dance",
       "url": "https://open.spotify.com/track/6yc6GZm46yU5lYd9mfKTkw"
+    },
+    {
+      "album": {
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213791,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w"
     },
     {
       "album": {
@@ -11554,7 +11644,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 139576,
       "name": "TE DESEO LO MEJOR",
       "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"

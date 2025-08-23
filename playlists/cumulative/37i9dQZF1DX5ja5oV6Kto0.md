@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Amaarae
 
-903 songs - 1 day 19 hr 54 min
+905 songs - 1 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [7 DAYS](https://open.spotify.com/track/6ZVhEsRHDUpA8AzNmTBeJu) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:11 | 2023-01-06 | 2023-05-20 |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-04-28 | 2022-08-13 |
 | [911](https://open.spotify.com/track/4VlioYoSh1fT16hnERNsfF) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [911](https://open.spotify.com/album/0prR2MAykHTFdV5rBP6uBV) | 2:48 | 2024-04-26 | 2024-06-07 |
-| [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 | 2024-11-22 |  |
+| [\[escapism\]](https://open.spotify.com/track/0IFHQSZA6F5dC9fpxFey6k) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu) | [\[escapism\]](https://open.spotify.com/album/3phC7vteZSF7zdLi1AzNvl) | 2:34 | 2024-11-22 | 2025-08-23 |
 | [Abansi](https://open.spotify.com/track/4cpgs6woge57Zlh89Z7UFm) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Abansi](https://open.spotify.com/album/79kWLNGCwbaMgi879WXuwA) | 1:05 | 2023-07-20 | 2023-07-28 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-24 | 2022-12-09 |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-02 | 2022-12-02 |
@@ -285,7 +285,7 @@
 | [Fluid](https://open.spotify.com/track/6ujGeCDFqxkzyxLWlKFeGa) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Fluid](https://open.spotify.com/album/2Gl9K6erA2hugDhU1qqbUC) | 3:19 | 2022-05-05 | 2022-07-08 |
 | [Fly](https://open.spotify.com/track/06NYbaBObkkEbPvPYCo6i0) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf), [hihi](https://open.spotify.com/artist/2OXj55sxdZ4Lw0kSpRD9me) | [SOFT STEPS](https://open.spotify.com/album/1Z4RWl181lTgYrOKfDWM4o) | 2:56 | 2024-09-27 | 2024-10-19 |
 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 | 2024-03-08 | 2024-09-07 |
-| [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 |  |
+| [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 | 2025-08-23 |
 | [Follow Through](https://open.spotify.com/track/6nY8vUsaVRwToBzRhPh2Fh) | [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Lex Ash](https://open.spotify.com/artist/5kOSDiIYPtPIZqDwBa0XKw) | [Follow Through](https://open.spotify.com/album/4ZiEbVOlKfjzCNjaK7cN9t) | 2:16 | 2022-11-18 | 2022-12-09 |
 | [Fool Me Once](https://open.spotify.com/track/2MGB1GwWIX0MZMvy5eGFOi) | [Joyce Olong](https://open.spotify.com/artist/60SeWhyUgLfPOiRnZwrzVj) | [Fool Me Once](https://open.spotify.com/album/2KEKoEZzlzfhlkS4SkM3NX) | 3:53 | 2025-04-18 |  |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-01 |  |
@@ -659,6 +659,7 @@
 | [Real](https://open.spotify.com/track/0cgIQxMjFoxP2lpV21f4RO) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Real](https://open.spotify.com/album/1gyzgy5h5zBL4KlcKDTyX2) | 4:07 | 2021-07-30 | 2022-06-24 |
 | [Realign](https://open.spotify.com/track/0W7c81V1fyE3dXySeuKZIM) | [King Kerby](https://open.spotify.com/artist/7G7OkIfv61UXFzxzdyVA4Z) | [Realign](https://open.spotify.com/album/5XrqZDhOi4gx0L0mzeKwWi) | 2:45 | 2023-12-08 | 2024-06-21 |
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 | 2023-06-17 |
+| [REASON](https://open.spotify.com/track/5uGanq602pxkENYsxMoHTT) | [IRIE SESSIONS](https://open.spotify.com/artist/2GGYWtloD2KYh0Ha6cAjsJ), [Omagz](https://open.spotify.com/artist/7DoWojRpLBfJq6J6bsin3b) | [REASON \(CHANGED SEASONS\)](https://open.spotify.com/album/77NjU12hOROVbL6YlK82At) | 1:36 | 2025-08-22 |  |
 | [Reason You](https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:26 | 2023-04-28 | 2023-12-15 |
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-02-16 | 2023-05-01 |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 | 2023-06-17 |
@@ -730,6 +731,7 @@
 | [SKI](https://open.spotify.com/track/4wfonbgh4rNBq10322vx27) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SKI](https://open.spotify.com/album/6EAj8OOM4FDunQrETdECiv) | 3:12 | 2025-05-09 | 2025-05-30 |
 | [Skooby Snack](https://open.spotify.com/track/28MeLMeCVHpOyaiWWAdsax) | [Chilleaux](https://open.spotify.com/artist/1qtIAJW16IZzYa9qZKlBCw) | [Skooby Snack](https://open.spotify.com/album/7AG6Mxy9qY4OMYCPMabYJd) | 2:33 | 2025-05-09 | 2025-05-23 |
 | [Slave Mill](https://open.spotify.com/track/4hvhYBWFbNfBHk5OGAFqmw) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Stony Hill](https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4) | 4:48 | 2024-03-21 | 2024-03-25 |
+| [Slide](https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Slide](https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM) | 2:06 | 2025-08-22 |  |
 | [SLIDE](https://open.spotify.com/track/2weIRaWE3Wvi5Z21yw6CnW) | [DOZ](https://open.spotify.com/artist/6Fkfi6lZmhzNzeT19O9hiV), [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [SLIDE](https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL) | 3:00 | 2021-12-17 | 2023-06-17 |
 | [Slow](https://open.spotify.com/track/529UbUitoTJqEO5do3znnW) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [Slow](https://open.spotify.com/album/6ou78tufapX7uj4wawzjJy) | 2:49 | 2022-09-09 | 2022-11-04 |
 | [Slow Down \(with Teezo Touchdown\)](https://open.spotify.com/track/4Gl5BCT19GpVKh7nNdleZf) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 2:50 | 2024-06-21 | 2024-07-19 |

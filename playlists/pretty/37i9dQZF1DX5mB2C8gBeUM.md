@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Graham Barham
 
-[Spotify](https://open.spotify.com/user/spotify) - 895,834 likes - 101 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 895,593 likes - 101 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Jonas Brothers
 
-822 songs - 1 day 20 hr 46 min
+823 songs - 1 day 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,7 @@
 | [Mercy](https://open.spotify.com/track/4MB87UHsD18uievFjjo737) | [Will Troy](https://open.spotify.com/artist/2D9TZalGr1SmjkGguD6Jy1) | [Mercy](https://open.spotify.com/album/6tc5626s6b7NI34UlJKH0X) | 3:54 | 2022-11-04 | 2022-11-26 |
 | [Message in a Bottle](https://open.spotify.com/track/20umbRtGLy493kML1VedCq) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Message in a Bottle](https://open.spotify.com/album/01H7dJjwrFUd0Q5Q0wxRVG) | 2:54 | 2022-02-04 | 2022-03-30 |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2022-02-04 | 2022-04-02 |
-| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 |  |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-05-31 | 2025-08-23 |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-06-30 | 2023-08-12 |
 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 | 2023-05-19 | 2023-07-01 |
 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 | 2022-09-27 | 2023-06-10 |
@@ -739,6 +739,7 @@
 | [The Plan](https://open.spotify.com/track/2ZifRK22Toszq5qHW2s864) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/3ak5dFCP9hgqrHttkH4d7o) | 2:47 | 2022-11-04 | 2022-12-03 |
 | [The Pretender](https://open.spotify.com/track/1z7PADWKXVsbEitOVLlC69) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:40 | 2023-05-26 | 2023-10-21 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-07-07 | 2023-11-11 |
+| [The Suburbs](https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg) | 3:08 | 2025-08-22 |  |
 | [The Way I Love You](https://open.spotify.com/track/1lzvc17qKf2CyIOSWUEH4p) | [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [The Way I Love You](https://open.spotify.com/album/5NW9Naf2BWbZFNVMY4mz3B) | 2:32 | 2022-10-28 | 2023-05-06 |
 | [There Goes My Baby](https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [There Goes My Baby](https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN) | 3:30 | 2024-07-12 |  |
 | [There Isn't Much](https://open.spotify.com/track/1ZEXbPAZfODwpQVLkT94Nj) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [There Isn't Much](https://open.spotify.com/album/1D1fCvWxqYGuiriKDwprJf) | 3:47 | 2022-04-01 | 2022-05-20 |

@@ -1339,6 +1339,28 @@
     },
     {
       "album": {
+        "name": "DEFAULT",
+        "url": "https://open.spotify.com/album/3i83xKoFsymSxIkxoKm9pB"
+      },
+      "artists": [
+        {
+          "name": "chiamamifaro",
+          "url": "https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe"
+        },
+        {
+          "name": "YTAM",
+          "url": "https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154859,
+      "name": "Labbra blu (feat. YTAM)",
+      "url": "https://open.spotify.com/track/19IZq1j2WflYlidjB26DpU"
+    },
+    {
+      "album": {
         "name": "Labirinto",
         "url": "https://open.spotify.com/album/5tOUjr8okysSFcpySHZU6L"
       },
@@ -1487,6 +1509,42 @@
     },
     {
       "album": {
+        "name": "dalla terra a marte",
+        "url": "https://open.spotify.com/album/6z2qRqLEQN4vz1scFkRiyr"
+      },
+      "artists": [
+        {
+          "name": "rovere",
+          "url": "https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222533,
+      "name": "marted\u00ec",
+      "url": "https://open.spotify.com/track/2f1LyxVZISl8aXB6qUuhHb"
+    },
+    {
+      "album": {
+        "name": "Meme",
+        "url": "https://open.spotify.com/album/3rMPypJTVchGYNBUdu7kJM"
+      },
+      "artists": [
+        {
+          "name": "Pit",
+          "url": "https://open.spotify.com/artist/1XYLhPfCgCrK5pwlWw0yv5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147043,
+      "name": "Meme",
+      "url": "https://open.spotify.com/track/0HDd2Dr0EgG4OTscPj0j8b"
+    },
+    {
+      "album": {
         "name": "ROCKABILLY CARTER",
         "url": "https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar"
       },
@@ -1624,7 +1682,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 191287,
       "name": "MOSTRO v1",
       "url": "https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q"
@@ -1757,6 +1815,24 @@
     },
     {
       "album": {
+        "name": "ok?",
+        "url": "https://open.spotify.com/album/2hIMtXJKOEv8HrRIOXsEFU"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162433,
+      "name": "ok *_*",
+      "url": "https://open.spotify.com/track/34Cy5XsCmZCRY1kV1muEPu"
+    },
+    {
+      "album": {
         "name": "ok :)",
         "url": "https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR"
       },
@@ -1808,6 +1884,24 @@
       "duration_ms": 190684,
       "name": "ok :0",
       "url": "https://open.spotify.com/track/2geeYyWexPGJQaClRbQqwl"
+    },
+    {
+      "album": {
+        "name": "ok </3",
+        "url": "https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "ok </3",
+      "url": "https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4"
     },
     {
       "album": {
@@ -2042,6 +2136,24 @@
       "duration_ms": 171031,
       "name": "PAZZIA v1",
       "url": "https://open.spotify.com/track/2Frf3hOEjo3PpbKtH5ige5"
+    },
+    {
+      "album": {
+        "name": "INTERNET",
+        "url": "https://open.spotify.com/album/5KsrpADyPgZQA4f67KmuGz"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273673,
+      "name": "Persi da un po\u2019",
+      "url": "https://open.spotify.com/track/4Gzp0NEQyFu41MmC2ig7EG"
     },
     {
       "album": {
@@ -2389,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "SAMSARA",
+        "url": "https://open.spotify.com/album/3TWGCXKoSVP8MO8KkwCBd2"
+      },
+      "artists": [
+        {
+          "name": "Enula",
+          "url": "https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148827,
+      "name": "SAMSARA",
+      "url": "https://open.spotify.com/track/60BZStD07ZEa4vLNKtRJIW"
+    },
+    {
+      "album": {
         "name": "In Memoria",
         "url": "https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht"
       },
@@ -2516,6 +2646,28 @@
       "duration_ms": 172840,
       "name": "SCS",
       "url": "https://open.spotify.com/track/5XX8i1pvt6kbekzJ0an7id"
+    },
+    {
+      "album": {
+        "name": "Se fosse vero (feat. Giorgia)",
+        "url": "https://open.spotify.com/album/3IiWqNaFFP6TbTiOTFHuPs"
+      },
+      "artists": [
+        {
+          "name": "CanovA",
+          "url": "https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA"
+        },
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124895,
+      "name": "Se fosse vero (feat. Giorgia)",
+      "url": "https://open.spotify.com/track/2kLHaxWVINdMQpwNReE82z"
     },
     {
       "album": {
@@ -2722,6 +2874,24 @@
       "duration_ms": 159262,
       "name": "una bella canzone",
       "url": "https://open.spotify.com/track/5OuXhUBx0w4ruJymbEFgYJ"
+    },
+    {
+      "album": {
+        "name": "Una come te",
+        "url": "https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK"
+      },
+      "artists": [
+        {
+          "name": "Teseghella",
+          "url": "https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162539,
+      "name": "Una come te",
+      "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 
 > The hottest alternative music from Nairobi to Dar! Cover: Mau from nowhere & hihi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,616 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,324 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVkyW4DM7wMY.md) - [plain]
 | 59 | [Kilimanjaro](https://open.spotify.com/track/72Y9SizWSPb9Xnn9SEmRgH) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Diamond in the Trenches](https://open.spotify.com/album/0KzqafoJtX1JeWzQwS2K47) | 5:08 |
 | 60 | [Minutes](https://open.spotify.com/track/6f7KmU1InKkiW3UegkWj09) | [Shully](https://open.spotify.com/artist/4os0GkCkfwC8HUjKn7wULI), [Yuzko](https://open.spotify.com/artist/2WkJBd6ga7SI7QTcQVydEG) | [Minutes](https://open.spotify.com/album/6etqTIrfFLoRxslu3kbwZC) | 3:32 |
 
-Snapshot ID: `AAAAAPYkk23/UaINynIO8WMts4vw/DO1`
+Snapshot ID: `AAAAAPj2KPZ48dWEMo4xCHhku/VGxYdP`

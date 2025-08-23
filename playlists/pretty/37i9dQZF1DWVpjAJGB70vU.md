@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 30 years of Shania Twain's timeless album "The Woman In Me" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,068,054 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068,605 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 49 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
 | 50 | [If I Could Make a Living](https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [If I Could Make a Living](https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF) | 2:13 |
 | 51 | [I Told You So](https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:39 |
-| 52 | [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 |
-| 53 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
-| 54 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
+| 52 | [She's Got It All](https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [I Will Stand](https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO) | 3:25 |
+| 53 | [Fast as You](https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 4:45 |
+| 54 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
 | 55 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 |
 | 56 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
 | 57 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 63 | [I'm From The Country \- Single Version](https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [I'm From The Country](https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS) | 3:33 |
 | 64 | [I'm Alright](https://open.spotify.com/track/0MjT9xQqJrQlNrkWKZgFbQ) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [I'm Alright](https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL) | 3:15 |
 | 65 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
-| 66 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
-| 67 | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D) | 3:00 |
+| 66 | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [T\-R\-O\-U\-B\-L\-E](https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D) | 3:00 |
+| 67 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
 | 68 | [Ready to Run](https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 3:51 |
 | 69 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 70 | [Independence Day](https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [The Way That I Am](https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d) | 3:24 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 88 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
 | 89 | [I'm in a Hurry \(And Don't Know Why\)](https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [American Pride](https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce) | 2:48 |
 | 90 | [Six Days On The Road](https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO) | [Sawyer Brown](https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97) | [Six Days On The Road](https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX) | 2:52 |
-| 91 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
-| 92 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
+| 91 | [Sticks and Stones](https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Sticks and Stones](https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq) | 3:38 |
+| 92 | [What's It to You](https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Clay Walker](https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt) | 2:46 |
 | 93 | [How Do I Get There](https://open.spotify.com/track/34VnYs7xwpscz3DkbTMoHb) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:09 |
 | 94 | [The Keeper Of The Stars](https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 4:07 |
 | 95 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 |
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 134 | [Love Can Build A Bridge](https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Love Can Build A Bridge](https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO) | 5:22 |
 | 135 | [How Your Love Makes Me Feel](https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Greatest Hits](https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX) | 4:05 |
 | 136 | [What Mattered Most](https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr) | [Ty Herndon](https://open.spotify.com/artist/1Fj0R2t4HaJa3oUe8azB8R) | [What Mattered Most](https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6) | 3:41 |
-| 137 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
-| 138 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
+| 137 | [No Place That Far](https://open.spotify.com/track/0Rg5tIACULED7Jv2sEzWSd) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [No Place That Far](https://open.spotify.com/album/5lxFK2ZEsfmdS2Yevlj2mU) | 3:37 |
+| 138 | [Nobody Wins](https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS) | [Radney Foster](https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW) | [Del Rio, Tx 1959](https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe) | 3:30 |
 | 139 | [What Part of No](https://open.spotify.com/track/074RB4dBpZ4ySuQRyG8SMk) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Watch Me](https://open.spotify.com/album/6o4D7rnYiEamaKelYwsw87) | 2:44 |
 | 140 | [Hillbilly Shoes](https://open.spotify.com/track/0kJeo33oWW6Nx4tkUNPshJ) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Tattoos & Scars](https://open.spotify.com/album/3mn4zmXpOqjClIslp0P4O5) | 3:12 |
 | 141 | [Bigger Than the Beatles](https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Life's So Funny](https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA) | 3:57 |

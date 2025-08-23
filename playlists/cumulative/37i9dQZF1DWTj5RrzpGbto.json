@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: JVKE",
+  "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: sombr",
   "name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 192197,
       "name": "AA Battery",
       "url": "https://open.spotify.com/track/0zFNnT3k747ZExqAB3XhkS"
@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169294,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
+    },
+    {
+      "album": {
         "name": "Wishbone",
         "url": "https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN"
       },
@@ -1548,6 +1566,24 @@
       "duration_ms": 159192,
       "name": "Chill",
       "url": "https://open.spotify.com/track/1QIUF20HdqMA0CJvkBOHNb"
+    },
+    {
+      "album": {
+        "name": "Love Is Like (Deluxe)",
+        "url": "https://open.spotify.com/album/4hnzOo44FfNzkAjtywCvBL"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143966,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/512cDJ621OgORGlwXLKFZL"
     },
     {
       "album": {
@@ -1726,7 +1762,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 177118,
       "name": "Crush",
       "url": "https://open.spotify.com/track/79bteG47Ms3rUa9TTxhTzF"
@@ -2208,6 +2244,24 @@
       "duration_ms": 187396,
       "name": "Drive (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
+    },
+    {
+      "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
     },
     {
       "album": {
@@ -2710,7 +2764,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 148495,
       "name": "flower",
       "url": "https://open.spotify.com/track/7aCwy7gBrR3dOeBv0zGKlF"
@@ -4125,6 +4179,24 @@
     },
     {
       "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "i don\u2019t know you",
+      "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
+    },
+    {
+      "album": {
         "name": "Motel Du Cap",
         "url": "https://open.spotify.com/album/5IbeeWff9kyS6ZU67NdyQD"
       },
@@ -4136,7 +4208,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 221037,
       "name": "I Don\u2019t Work Here Anymore",
       "url": "https://open.spotify.com/track/0VmGgo6i8HOmrp5y8qqBxQ"
@@ -4176,6 +4248,24 @@
       "duration_ms": 193573,
       "name": "I Think They Call This Love",
       "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
+    },
+    {
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
     },
     {
       "album": {
@@ -4266,7 +4356,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
@@ -4563,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "album": {
         "name": "Just Keep Watching (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
@@ -4582,6 +4690,24 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
+    },
+    {
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "album": {
@@ -5154,7 +5280,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
@@ -5398,7 +5524,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -5676,6 +5802,24 @@
       "duration_ms": 190320,
       "name": "Mr Electric Blue",
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
     },
     {
       "album": {
@@ -6120,6 +6264,24 @@
       "duration_ms": 161119,
       "name": "Oh Shhh...(with Travis Scott)",
       "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
+    },
+    {
+      "album": {
+        "name": "oh to be loved",
+        "url": "https://open.spotify.com/album/5cF4Ayv8e7RDvHQXZVUmhj"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "oh to be loved",
+      "url": "https://open.spotify.com/track/7wR4drNkIHfT3JkDbL5jIg"
     },
     {
       "album": {
@@ -7384,7 +7546,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"
@@ -8551,6 +8713,24 @@
     },
     {
       "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188712,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX"
+    },
+    {
+      "album": {
         "name": "The Subway",
         "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
@@ -9258,7 +9438,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 196931,
       "name": "we never dated",
       "url": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
@@ -9978,7 +10158,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 131240,
       "name": "Zip Up My Fly",
       "url": "https://open.spotify.com/track/37nwfPGR24VGbOUWvzbZs1"

@@ -4,7 +4,7 @@
 
 > Tremendo vacilón\. Los éxitos del merengue de todos los tiempos.
 
-94 songs - 6 hr 43 min
+95 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,10 +29,11 @@
 | [El Caballito](https://open.spotify.com/track/4VnxD9V3h0R6aCYjSrDYqJ) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Caballito](https://open.spotify.com/album/02Lqkj1doHSYSol3v5RH9R) | 3:01 | 2024-06-07 | 2025-05-01 |
 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 | 2023-09-22 |  |
 | [El Jardinero](https://open.spotify.com/track/5O4a5RCYTJ452nsCuiPwtD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:26 | 2023-09-22 | 2024-04-19 |
-| [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 | 2025-07-11 |  |
+| [El la Engañó](https://open.spotify.com/track/5jr886Foyigc6j1qtJtvsX) | [Natusha & Kondor Band](https://open.spotify.com/artist/7sGxXAdEUg5uZ9xsZxE3Sj) | [Natusha & Kondor Band](https://open.spotify.com/album/6IuWxlioIdpZ4jCLbGZlg3) | 3:47 | 2025-07-11 | 2025-08-23 |
 | [El Niágra En Bicicleta \- Live \- Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 4:31 | 2023-09-22 |  |
 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 | 2023-09-22 |  |
 | [Ella es Tan Bella](https://open.spotify.com/track/2dg5usl6OJasRbjvUHOlcF) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:22 | 2023-09-22 |  |
+| [Enamorarte Mil Veces](https://open.spotify.com/track/1XmJsXTKeaw51buHrbaqDM) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Enamorarte Mil Veces](https://open.spotify.com/album/6dV0Zc2j7ZcxP4vukqmvxj) | 2:51 | 2025-08-22 |  |
 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 | 2024-09-06 |  |
 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 | 2023-09-22 |  |
 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 | 2023-09-22 |  |

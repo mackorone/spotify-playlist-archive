@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "1001 Noites",
+        "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156428,
+      "name": "1001 Noites",
+      "url": "https://open.spotify.com/track/4OLaTkv5l7lIVksgS3bZ5p"
+    },
+    {
+      "album": {
         "name": "12 de Junho",
         "url": "https://open.spotify.com/album/5bHkLSLhWDFZq9OsMwjgs4"
       },
@@ -514,6 +536,32 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
+    },
+    {
+      "album": {
+        "name": "Baile Em Chamas",
+        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "DJ 2L da Rocinha",
+          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Baile Em Chamas",
+      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
     },
     {
       "album": {
@@ -1176,7 +1224,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 187722,
       "name": "Cria das ruas",
       "url": "https://open.spotify.com/track/02LSyOIhNOV9NZkuvBlxg9"
@@ -3232,7 +3280,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 245052,
       "name": "N\u00f3s 2 no Erro Dnv",
       "url": "https://open.spotify.com/track/4NMRGlWYJTaEp6pttEuQDc"
@@ -3454,6 +3502,32 @@
       "duration_ms": 193188,
       "name": "pausa da sua tristeza",
       "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
+    },
+    {
+      "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "album": {
@@ -4902,7 +4976,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 162333,
       "name": "Toda Experiente",
       "url": "https://open.spotify.com/track/3R3kxryQs7QABbhT89oiPd"

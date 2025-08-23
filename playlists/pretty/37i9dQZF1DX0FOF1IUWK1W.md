@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Guilherme & Benuto, Grupo Menos É Mais, Matheus Fernandes e os maiores hits do país\. O que tá bombando tá aqui.
+> Rafa e Junior, Hugo & Guilherme, DJ Ari SL e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,627,160 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,628,072 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [MTG NA IMAGINAÇÃO \- TOPO SESSIONS VOL\. 1](https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [MTG NA IMAGINAÇÃO \(TOPO SESSIONS VOL\. 1\)](https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk) | 2:24 |
 | 50 | [Ta Rico Os Menino Do Gueto 🍀](https://open.spotify.com/track/7GNbFvEP3uKNASe3oaLl8U) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Mc guizinho niazi](https://open.spotify.com/artist/6iUG0pMyifNBudO9B1s7cD), [Nickz Beatz](https://open.spotify.com/artist/3EwCyH36uCmBdntay44KAT), [SiarBeats](https://open.spotify.com/artist/5d2p2DbKrt26bBVeLcpTnr) | [Feliz no Simples 🍀](https://open.spotify.com/album/5ANUMlfnRL0wLnb0WWb6TC) | 7:39 |
 
-Snapshot ID: `AAAAADSHF6pN5LxEUA2WDKdsK1tfB8sp`
+Snapshot ID: `AAAAAJBbM5VDVoftrnz9hPUkh5PJhfkv`

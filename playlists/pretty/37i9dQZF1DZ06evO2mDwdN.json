@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13713,
+  "num_followers": 13715,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAbZLk4JazM2ECeld5qGmhn",
+  "snapshot_id": "aKZhgAAAAAC18Rx8g0UufOYIHjLhdbEy",
   "tracks": [
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "Keep On Loving You",
+      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 191320,
       "name": "Concentrate On Me (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2lu7G8oIwTUSVQHqV2TqKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 221506,
-      "name": "Keep On Loving You",
-      "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harold Melvin & The Blue Notes",
+        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -615,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Melvin & The Blue Notes",
-        "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
       "artists": [
         {
@@ -624,9 +640,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 249760,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5"
+      "duration_ms": 352786,
+      "name": "Your Love Is Taking Me On A Journey",
+      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
     },
     {
       "added_at": null,
@@ -671,38 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 352786,
-      "name": "Your Love Is Taking Me On A Journey",
-      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
-        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 326333,
-      "name": "Introduction / The Love I Lost - Live",
-      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
@@ -727,28 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 361093,
-      "name": "Prayin'",
-      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+        "name": "T.S.O.P. The Sound of Philadelphia (Live in Concert)",
+        "url": "https://open.spotify.com/album/53dg6uhcVd1YFB5LPUh8mr"
       },
       "artists": [
         {
@@ -756,9 +720,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 230493,
-      "name": "Baby I'm Back",
-      "url": "https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1"
+      "duration_ms": 326333,
+      "name": "Introduction / The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/4Jw0lgi3utk0YvQiQu6H7s"
     },
     {
       "added_at": null,
@@ -819,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
-        "url": "https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15"
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 178218,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr"
+      "duration_ms": 361093,
+      "name": "Prayin'",
+      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
     },
     {
       "added_at": null,
@@ -844,9 +812,25 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 356360,
-      "name": "All Night Love",
-      "url": "https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5"
+      "duration_ms": 230493,
+      "name": "Baby I'm Back",
+      "url": "https://open.spotify.com/track/2sNdjfbx8icAt0iVfN7JZ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Love: 25 Gorgeous Tracks for Lovers, Vol. 3",
+        "url": "https://open.spotify.com/album/6V1C9NKUW3891yDZeG2U15"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 178218,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/79yCbrAYEfr5cWtxl1iBTr"
     },
     {
       "added_at": null,
@@ -891,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 356360,
+      "name": "All Night Love",
+      "url": "https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Today's Your Lucky Day",
         "url": "https://open.spotify.com/album/6SjGljHh3CyDsl7q9TR1K1"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "If You're Looking For Somebody To Love",
-      "url": "https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cooler Than Ice: Arctic Records and the Rise of Philly Soul",
         "url": "https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv"
       },
@@ -943,8 +927,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol. 2",
-        "url": "https://open.spotify.com/album/4vkZVNXRRoJeOtpePA1Bep"
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 224118,
+      "name": "If You Don't Know Me By Now - Live",
+      "url": "https://open.spotify.com/track/2sWyHjB0BFSCxoVYuSyarY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
       "artists": [
         {
@@ -952,9 +960,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 225666,
-      "name": "Ain't No Stoppin' Us Now - Rerecorded",
-      "url": "https://open.spotify.com/track/4bPsYicJ4OoYjPGvuvfyLW"
+      "duration_ms": 286093,
+      "name": "If You're Looking For Somebody To Love",
+      "url": "https://open.spotify.com/track/1FgKj0vqkBPNn51KkGjbHc"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Bouganville e Coca Puma contemplano le nuove uscite indie con la loro sfera 🔮
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,052 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,069 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

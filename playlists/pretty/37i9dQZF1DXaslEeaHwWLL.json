@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 76994,
+  "num_followers": 77051,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "Victory",
         "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 232786,
       "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "added_at": "2024-07-13 01:15:47",

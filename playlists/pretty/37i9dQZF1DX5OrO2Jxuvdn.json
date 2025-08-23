@@ -1,6 +1,6 @@
 {
   "description": "Sweat it out with your favorite country workout songs. Cover: Carrie Underwood",
-  "num_followers": 119571,
+  "num_followers": 119591,
   "original_name": "Country Workout",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+        "name": "Broadway Girls (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+      "duration_ms": 185600,
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -479,22 +483,18 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Broadway Girls (feat. Morgan Wallen)",
-        "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 185600,
-      "name": "Broadway Girls (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Tornado",
-        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Pontoon",
-      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Whiskey On You",
         "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
@@ -711,22 +695,34 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Based on a True Story... (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
+        "name": "Tornado",
+        "url": "https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
         }
       ],
-      "duration_ms": 288760,
-      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
-      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
+      "duration_ms": 212320,
+      "name": "Pontoon",
+      "url": "https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -747,18 +743,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Ain't Doin' Jack",
-        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+        "name": "Based on a True Story... (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
         }
       ],
-      "duration_ms": 160680,
-      "name": "Ain't Doin' Jack",
-      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
+      "duration_ms": 288760,
+      "name": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "url": "https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
+        "name": "A.M.",
+        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Aw Naw",
+      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -971,26 +987,6 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
-        "name": "Cold Beer Calling My Name",
-        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
-      },
-      "artists": [
-        {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210480,
-      "name": "Cold Beer Calling My Name",
-      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1019,18 +1015,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "A.M.",
-        "url": "https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3"
+        "name": "Cold Beer Calling My Name",
+        "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
       },
       "artists": [
         {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 188706,
-      "name": "Aw Naw",
-      "url": "https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs"
+      "duration_ms": 210480,
+      "name": "Cold Beer Calling My Name",
+      "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1151,18 +1151,22 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+        "name": "Ripcord",
+        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 178866,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
+      "duration_ms": 184040,
+      "name": "The Fighter",
+      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Ripcord",
-        "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 184040,
-      "name": "The Fighter",
-      "url": "https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim"
+      "duration_ms": 178866,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Last Night Lonely",
-        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 181990,
-      "name": "Last Night Lonely",
-      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Love and Theft",
         "url": "https://open.spotify.com/album/6mdbwD2OEFexB0lPXoRofQ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 186626,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/63w0QA1wiV7QhF9jeiHETF"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Last Night Lonely",
+        "url": "https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 181990,
+      "name": "Last Night Lonely",
+      "url": "https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 147893,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2NLp3E2m7Z9JnoLR6eOJYI"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 167760,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4iy69rTUn8cAY8Q8q9vfOw"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 147893,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/1MX19fnaW1OUQoglWTYaOo"
     },
     {
       "added_at": "2024-07-15 15:07:12",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-15 15:07:12",
       "album": {
-        "name": "You Proof",
-        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "You Proof",
-      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
-    },
-    {
-      "added_at": "2024-07-15 15:07:12",
-      "album": {
         "name": "Next Girl",
         "url": "https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 164677,
       "name": "Next Girl",
       "url": "https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa"
+    },
+    {
+      "added_at": "2024-07-15 15:07:12",
+      "album": {
+        "name": "You Proof",
+        "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "You Proof",
+      "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
       "added_at": "2024-07-15 15:07:12",

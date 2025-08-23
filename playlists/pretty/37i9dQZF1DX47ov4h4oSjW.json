@@ -1,6 +1,6 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 100455,
+  "num_followers": 100451,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Center of Gravity",
+        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
+      },
+      "artists": [
+        {
+          "name": "Carl Bonet",
+          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Mantra for Piano",
+      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Mozart: 6 Sonatas for Piano Duet & Sonata for 2 Pianos, K. 488",
         "url": "https://open.spotify.com/album/7EMQ9izwD1Fnf48NdAxerw"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Center of Gravity",
-        "url": "https://open.spotify.com/album/53A24jAS0pIuBHGINApD71"
-      },
-      "artists": [
-        {
-          "name": "Carl Bonet",
-          "url": "https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x"
-        }
-      ],
-      "duration_ms": 198739,
-      "name": "Mantra for Piano",
-      "url": "https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "In a Bar in Buenos Aires",
         "url": "https://open.spotify.com/album/7rZrLAyFPTSBVLUNkeyOvQ"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Whirling sky",
-        "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
-      },
-      "artists": [
-        {
-          "name": "Tamara Blake",
-          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
-        }
-      ],
-      "duration_ms": 169874,
-      "name": "Whirling sky",
-      "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Airbourne",
         "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 238588,
       "name": "Airbourne",
       "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Whirling sky",
+        "url": "https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU"
+      },
+      "artists": [
+        {
+          "name": "Tamara Blake",
+          "url": "https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw"
+        }
+      ],
+      "duration_ms": 169874,
+      "name": "Whirling sky",
+      "url": "https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Isonzo",
-        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
-      },
-      "artists": [
-        {
-          "name": "Davorka Poljak",
-          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
-        }
-      ],
-      "duration_ms": 107500,
-      "name": "Isonzo",
-      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 146000,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/43z2LSP0180NFwr720P3xk"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Isonzo",
+        "url": "https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq"
+      },
+      "artists": [
+        {
+          "name": "Davorka Poljak",
+          "url": "https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg"
+        }
+      ],
+      "duration_ms": 107500,
+      "name": "Isonzo",
+      "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Unrequited",
-        "url": "https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb"
-      },
-      "artists": [
-        {
-          "name": "Josef Passagio",
-          "url": "https://open.spotify.com/artist/0TQaVw4oiRmOcP5MIIZ9wF"
-        }
-      ],
-      "duration_ms": 126229,
-      "name": "Unrequited",
-      "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Under Cold Water",
         "url": "https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 126124,
       "name": "Under Cold Water",
       "url": "https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Unrequited",
+        "url": "https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb"
+      },
+      "artists": [
+        {
+          "name": "Josef Passagio",
+          "url": "https://open.spotify.com/artist/0TQaVw4oiRmOcP5MIIZ9wF"
+        }
+      ],
+      "duration_ms": 126229,
+      "name": "Unrequited",
+      "url": "https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
-      },
-      "artists": [
-        {
-          "name": "Andrea Monet",
-          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Reverence",
-      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Adesso",
         "url": "https://open.spotify.com/album/33kzMmushokneJ49TH7O7K"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 147000,
       "name": "Adesso",
       "url": "https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/6qC9QuQTLqaRGlOv9DDNEI"
+      },
+      "artists": [
+        {
+          "name": "Andrea Monet",
+          "url": "https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/058YoEqihKwmd8ipTOEWse"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Relaxing Piano (Neoclassical Sessions)",
-        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
-      },
-      "artists": [
-        {
-          "name": "Kalen Elmsley",
-          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
-        }
-      ],
-      "duration_ms": 184220,
-      "name": "Spheroidal",
-      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Way Back Home",
         "url": "https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 170000,
       "name": "Winter Birds",
       "url": "https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Relaxing Piano (Neoclassical Sessions)",
+        "url": "https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj"
+      },
+      "artists": [
+        {
+          "name": "Kalen Elmsley",
+          "url": "https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom"
+        }
+      ],
+      "duration_ms": 184220,
+      "name": "Spheroidal",
+      "url": "https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Farvel til sommeren",
-        "url": "https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H"
-      },
-      "artists": [
-        {
-          "name": "Nansen Christoffersen",
-          "url": "https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B"
-        }
-      ],
-      "duration_ms": 123500,
-      "name": "Farvel til sommeren",
-      "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Donde Nadas",
         "url": "https://open.spotify.com/album/6Yg0OOMxh7bywdOeUVzwXK"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Farvel til sommeren",
+        "url": "https://open.spotify.com/album/4ykDSRfJ83p4U2QJPIqq0H"
+      },
+      "artists": [
+        {
+          "name": "Nansen Christoffersen",
+          "url": "https://open.spotify.com/artist/4EG2PN3O2mm649IWzUex7B"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Farvel til sommeren",
+      "url": "https://open.spotify.com/track/2xgBsQS1gpI57AJB5aQg2y"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Amuse Bouche",
         "url": "https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q"
       },
@@ -1371,26 +1371,6 @@
       "duration_ms": 197750,
       "name": "Is it Over",
       "url": "https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Night Stories",
-        "url": "https://open.spotify.com/album/5VceAbw8LKXRl7SOzQBj72"
-      },
-      "artists": [
-        {
-          "name": "Ignacy Jan Paderewski",
-          "url": "https://open.spotify.com/artist/7Im00DCJCJrFrC1Ho6vjD6"
-        },
-        {
-          "name": "Jenny Lin",
-          "url": "https://open.spotify.com/artist/5ltTFQjDQXwqvBo5kmhGOM"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
-      "url": "https://open.spotify.com/track/1EjJMQDn4nAscPOZGTzhlI"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1415,18 +1395,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Omoidasu",
-        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+        "name": "Night Stories",
+        "url": "https://open.spotify.com/album/5VceAbw8LKXRl7SOzQBj72"
       },
       "artists": [
         {
-          "name": "Crimson Memoirs",
-          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+          "name": "Ignacy Jan Paderewski",
+          "url": "https://open.spotify.com/artist/7Im00DCJCJrFrC1Ho6vjD6"
+        },
+        {
+          "name": "Jenny Lin",
+          "url": "https://open.spotify.com/artist/5ltTFQjDQXwqvBo5kmhGOM"
         }
       ],
-      "duration_ms": 117892,
-      "name": "Omoidasu",
-      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
+      "duration_ms": 235906,
+      "name": "Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
+      "url": "https://open.spotify.com/track/1EjJMQDn4nAscPOZGTzhlI"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
+        "name": "Seven Days Walking (Day 7)",
+        "url": "https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 324620,
+      "name": "Seven Days Walking / Day 7: Ascent",
+      "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
         "name": "Sintra",
         "url": "https://open.spotify.com/album/1HsKGoWJ7EJ6M8JvGnat04"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 204090,
       "name": "Sintra",
       "url": "https://open.spotify.com/track/5JlzdloHUjgYWByeCgtFSx"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Omoidasu",
+        "url": "https://open.spotify.com/album/5KtFsugTZqWZswMzl70YfD"
+      },
+      "artists": [
+        {
+          "name": "Crimson Memoirs",
+          "url": "https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF"
+        }
+      ],
+      "duration_ms": 117892,
+      "name": "Omoidasu",
+      "url": "https://open.spotify.com/track/6t2Gwyci8Q6WPQMtzTMNh6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
+        "name": "Synchronicity",
+        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
       },
       "artists": [
         {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+          "name": "Allysium",
+          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
         }
       ],
-      "duration_ms": 167333,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
+      "duration_ms": 189250,
+      "name": "Synchronicity",
+      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1511,50 +1527,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Seven Days Walking (Day 7)",
-        "url": "https://open.spotify.com/album/4GEcFHTB7y9N8ciFFDIikp"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5wXRhc0L07nItoMPgEAso3"
       },
       "artists": [
         {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
         }
       ],
-      "duration_ms": 324620,
-      "name": "Seven Days Walking / Day 7: Ascent",
-      "url": "https://open.spotify.com/track/5iZJK7w5mgHwOC8Sjs3eaT"
+      "duration_ms": 167333,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4PzCduZiQfY4E4661r2V3u"
     },
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Synchronicity",
-        "url": "https://open.spotify.com/album/5W3dGpqFKJCRZxH0uCaXck"
+        "name": "Midnight Musette",
+        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
       },
       "artists": [
         {
-          "name": "Allysium",
-          "url": "https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin"
+          "name": "De Maynes",
+          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
         }
       ],
-      "duration_ms": 189250,
-      "name": "Synchronicity",
-      "url": "https://open.spotify.com/track/5wFGu1dl3Lw08doFu0gVmA"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Flirting at the Masquerade",
-        "url": "https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB"
-      },
-      "artists": [
-        {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
-        }
-      ],
-      "duration_ms": 194465,
-      "name": "Flirting at the Masquerade",
-      "url": "https://open.spotify.com/track/0fKzvRqaS34EtPeDBS6rwQ"
+      "duration_ms": 197084,
+      "name": "Midnight Musette",
+      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1579,18 +1579,34 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Midnight Musette",
-        "url": "https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb"
+        "name": "Flirting at the Masquerade",
+        "url": "https://open.spotify.com/album/3ZswBFfSj9IiHpwqPFwyaB"
       },
       "artists": [
         {
-          "name": "De Maynes",
-          "url": "https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn"
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
         }
       ],
-      "duration_ms": 197084,
-      "name": "Midnight Musette",
-      "url": "https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c"
+      "duration_ms": 194465,
+      "name": "Flirting at the Masquerade",
+      "url": "https://open.spotify.com/track/0fKzvRqaS34EtPeDBS6rwQ"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Secrets of the Earth",
+        "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
+      },
+      "artists": [
+        {
+          "name": "Lama House",
+          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
+        }
+      ],
+      "duration_ms": 149156,
+      "name": "Wish of the Progeny",
+      "url": "https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1623,22 +1639,6 @@
       "duration_ms": 113000,
       "name": "Fin de l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/6jm8T38DHANT7c2xvIZpx6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Secrets of the Earth",
-        "url": "https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK"
-      },
-      "artists": [
-        {
-          "name": "Lama House",
-          "url": "https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ"
-        }
-      ],
-      "duration_ms": 149156,
-      "name": "Wish of the Progeny",
-      "url": "https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit"
     },
     {
       "added_at": "2023-03-12 10:18:38",

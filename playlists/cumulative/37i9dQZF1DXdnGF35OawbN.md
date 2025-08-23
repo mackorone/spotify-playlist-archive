@@ -2,7 +2,7 @@
 
 ### [Verano Forever](https://open.spotify.com/playlist/37i9dQZF1DXdnGF35OawbN)
 
-> El soundtrack del verano 2025 🏝️ Cover: Beéle
+> El soundtrack del verano 2025 🏝️ Cover: Myke Towers
 
 407 songs - 22 hr 4 min
 

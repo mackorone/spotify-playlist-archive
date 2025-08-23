@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,553 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,955,718 likes - 150 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 44 | [Y yo que te amo](https://open.spotify.com/track/5an6zLElxCiCAEbeInEqRY) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:16 |
 | 45 | [Compárame](https://open.spotify.com/track/3LV4lHJfAiQeprF21jDJec) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 3:45 |
 | 46 | [Te Presumo](https://open.spotify.com/track/3EjuEvxoNgHV6urIdPA4cl) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:12 |
-| 47 | [Para Impresionarte](https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido](https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT) | 3:41 |
-| 48 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 |
-| 49 | [Para Que Regreses](https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:14 |
-| 50 | [Un loco solitario](https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:12 |
+| 47 | [El Antes Y El Después](https://open.spotify.com/track/6P89ndGzxFpxtdbzhRoVdn) | [La Poderosa Banda San Juan](https://open.spotify.com/artist/3U1u6ytK0DaM89dqiVxB0u) | [El Antes Y El Después](https://open.spotify.com/album/4JPGULe879NrRFAQi1YSJ0) | 3:03 |
+| 48 | [Para Impresionarte](https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [Prohibido](https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT) | 3:41 |
+| 49 | [Un loco solitario](https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:12 |
+| 50 | [Para Que Regreses](https://open.spotify.com/track/0EZ5c3oWdpWIaYHvifMqI2) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:14 |
 | 51 | [Deja](https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Lo Mejor De Mi Vida](https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe) | 2:36 |
 | 52 | [Ya No Me Mires Así](https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuérdate de Mi](https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY) | 3:04 |
 | 53 | [Ebrio De Amor](https://open.spotify.com/track/4yDTg9PkshhDpmUIVFoYI5) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [15 Exitos](https://open.spotify.com/album/6xLX5b3LhCdmqiu78iHfQd) | 2:45 |
@@ -122,13 +122,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 112 | [Torera](https://open.spotify.com/track/2285jfU1YCDJKNeoaDWanQ) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:02 |
 | 113 | [La Luna](https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Sólo Contigo](https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St) | 3:48 |
 | 114 | [Solo Tú](https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:41 |
-| 115 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
-| 116 | [No Podras](https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:25 |
+| 115 | [No Podras](https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:25 |
+| 116 | [Adiós Mi Amor](https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:21 |
 | 117 | [Me Pego La Gana](https://open.spotify.com/track/7KHnN8FA0KBbeZXS2iJfMN) | [Toño Lizarraga](https://open.spotify.com/artist/58kEJAbZ1Knbo4UI2phUQv) | [Vuelvo A Nacer](https://open.spotify.com/album/0NiJIxwdkuvfE3YmqZyYpw) | 2:42 |
 | 118 | [Brebaje](https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Esperando Tu Llamada](https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj) | 2:54 |
 | 119 | [El Amor En Carro](https://open.spotify.com/track/4c5ikbelwcfSrtfLVhhxsF) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | [Usted Dirá](https://open.spotify.com/album/4NfRvu5neenFsWyxpG7iuM) | 3:31 |
-| 120 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 |
-| 121 | [La Carta](https://open.spotify.com/track/1ZnzxW8jLzd180IE5Zq6xy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 1:54 |
+| 120 | [La Carta](https://open.spotify.com/track/1ZnzxW8jLzd180IE5Zq6xy) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 1:54 |
+| 121 | [Que Te Entregues Hoy](https://open.spotify.com/track/731TCVcfTO7hbtlx2lJbJo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 3:09 |
 | 122 | [El Son De La Rabia \- En Vivo](https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Puras De Viento En Vivo, Vol\. 2](https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz) | 2:59 |
 | 123 | [Se Va Muriendo Mi Alma](https://open.spotify.com/track/089JwgBFzPhW92N7RmUdNq) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Tirando Party](https://open.spotify.com/album/4Abo4Oityt7ycbQwoRmXvC) | 3:56 |
 | 124 | [El Que Se Enamora Pierde](https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [La Historia De Mis Manos](https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z) | 2:20 |

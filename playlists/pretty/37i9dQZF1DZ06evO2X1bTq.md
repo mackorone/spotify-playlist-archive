@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,339 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,405 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 15 | [Every Breaking Wave](https://open.spotify.com/track/4z5eLUR8oCbRywMw1ytNol) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence \(Deluxe\)](https://open.spotify.com/album/6wQXpkptAIZPzNf5H0SA10) | 4:12 |
 | 16 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 |
 | 17 | [XXX\. FEAT\. U2.](https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:14 |
-| 18 | [Walk On](https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:56 |
-| 19 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 |
+| 18 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 |
+| 19 | [Walk On](https://open.spotify.com/track/3pUWV5hvXsI9diJ9TeNeCh) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:56 |
 | 20 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 |
 | 21 | [I Will Follow \- Remastered 2008](https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 3:37 |
-| 22 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
-| 23 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
+| 22 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 |
+| 23 | [Elevation](https://open.spotify.com/track/4BC2WQKrZdqMX6rHsvVbUy) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 3:46 |
 | 24 | [When Love Comes To Town](https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 4:14 |
 | 25 | [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 |
 | 26 | [Take Me To The Clouds Above \- LMC Vs\. U2 / Radio Edit](https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM) | [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Take Me To The Clouds Above \(LMC Vs\. U2 / Remixes\)](https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Sunday Bloody Sunday \- Stories Of Surrender Version](https://open.spotify.com/track/3galkS27ZZpCSG4TvVYotg) | [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Stories Of Surrender EP](https://open.spotify.com/album/5WSdpMxWXt6B0yoExeXSba) | 3:52 |
 | 50 | [The Saints Are Coming](https://open.spotify.com/track/2OqCyO684ShnEOqFQieN3Z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [The Saints Are Coming](https://open.spotify.com/album/3s9hW1Wjsxf2LDyIa9J0il) | 3:22 |
 
-Snapshot ID: `aKO+gAAAAABXq+cQG6XGmhH1upqRqdZm`
+Snapshot ID: `aKZhgAAAAABX2MS+hMBgrUi9E23lO9rx`

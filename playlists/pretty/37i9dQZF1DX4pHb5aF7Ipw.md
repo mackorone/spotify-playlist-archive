@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Deep Kalsi, Parmish Verma and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,785 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,790 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Thaapi](https://open.spotify.com/track/6CYUm0BYIkhY1KO1d0JuFw) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Thaapi](https://open.spotify.com/album/5OKBJ2waZdITplxdgSuyh9) | 2:48 |
 | 2 | [P\-POP CULTURE](https://open.spotify.com/track/5uXge1cK24monr2woxAZ7F) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:31 |
 | 3 | [When And Where \(From "ikk kudi"\)](https://open.spotify.com/track/6aqg2YdstKE7eNFWJnC1Za) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV) | [When And Where \(From "ikk kudi"\)](https://open.spotify.com/album/1nThMzqcSbKTnOehiPy0WC) | 2:55 |
-| 4 | [PROVE THEM WRONG](https://open.spotify.com/track/3AZ1KFmeXcH5Gi94rxLsqf) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [PROVE THEM WRONG](https://open.spotify.com/album/1DBJ1HhAnkuwmLhDiqIbnv) | 3:03 |
+| 4 | [PROVE THEM WRONG](https://open.spotify.com/track/3AZ1KFmeXcH5Gi94rxLsqf) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [PROVE THEM WRONG](https://open.spotify.com/album/1DBJ1HhAnkuwmLhDiqIbnv) | 3:03 |
 | 5 | [Bigshots](https://open.spotify.com/track/76in3GYb0JA5ix0h8DfuP6) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Amit Bhadana](https://open.spotify.com/artist/7xyFz6QIHP6Sq0YbT2GZoO) | [Bigshots](https://open.spotify.com/album/3RFwbOZwpFWicFjsJiImUj) | 3:15 |
 | 6 | [Boss Lady](https://open.spotify.com/track/7j2mNHjqELEcXz5HhQVda0) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Trippy](https://open.spotify.com/artist/3USDtKWXYH4qfpydzl6hTu) | [Boss Lady](https://open.spotify.com/album/03deoc0DEBXCBNbeeiZX33) | 2:35 |
 | 7 | [Listen Up](https://open.spotify.com/track/6FqVmKC2YSYDrB9fjXPSTt) | [RonakGabbi](https://open.spotify.com/artist/7MNjVIX9xevDEWLvFPABQD), [SNXZZI](https://open.spotify.com/artist/1TQy4uxRgiinxebqYP67oI), [Karan gabbi](https://open.spotify.com/artist/6KWAjthn80YsAlmNVhOvrK) | [Listen Up](https://open.spotify.com/album/0xvwis8Dii94U7rm4i61U0) | 2:48 |

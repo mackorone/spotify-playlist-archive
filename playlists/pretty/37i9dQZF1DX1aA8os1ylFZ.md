@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > feel the magic with the gems in r&b right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,115 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,105 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 88 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
 | 89 | [Drive It](https://open.spotify.com/track/49U5mUkOEepn9yLtKJfYVb) | [Sky Feliz](https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Drive It](https://open.spotify.com/album/2nZHtpjbbwA5D8WkyB5Rvy) | 2:21 |
 | 90 | [On My Way](https://open.spotify.com/track/2Mt0oXSaPRQLjiSKYVzBsT) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [On My Way](https://open.spotify.com/album/6hBKOBKupHmwdwcQQG4Iuc) | 3:31 |
-| 91 | [Can't Talk](https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Can't Talk](https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7) | 2:53 |
-| 92 | [Misbehave](https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:15 |
-| 93 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
+| 91 | [yk, i'm good](https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [yk, i'm good](https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt) | 2:49 |
+| 92 | [Can't Talk](https://open.spotify.com/track/0DkYfF7kgFmwMA3G56W1js) | [Ebony Winter](https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk) | [Can't Talk](https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7) | 2:53 |
+| 93 | [Misbehave](https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt) | [Lavils](https://open.spotify.com/artist/21IzgxyClVgsRUoFtE13mX) | [Summer Pack](https://open.spotify.com/album/7l9IesoxC8UFxeXWuf2k63) | 2:15 |
 | 94 | [Spend some time](https://open.spotify.com/track/21RBeGlVeQ06UYqE5ZVKKz) | [ROMAN S](https://open.spotify.com/artist/6tuerTyQCwlUIhVdfmQGKE), [Zachery V](https://open.spotify.com/artist/4aYcKpn8h3uilaFJ9Lbnqd) | [Spend some time](https://open.spotify.com/album/5yaGvNLiXWKVkkwlsSe5eR) | 2:56 |
 | 95 | [Sonho \(Summer\)](https://open.spotify.com/track/6yjfTTqYwypuxqICDMsm7Y) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH) | [Words From Venus](https://open.spotify.com/album/35gXzZCAYihydBIiivsmGr) | 1:54 |
 | 96 | [Tell Me](https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ) | [Eloy](https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV) | [Tell Me](https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3) | 2:49 |

@@ -4,7 +4,7 @@
 
 > new leith ross and it's basically autumn we're soooo back
 
-591 songs - 1 day 11 hr 27 min
+594 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Call It A Draw](https://open.spotify.com/track/7d0KMWY4UmWM3k4owiFPcJ) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Call It A Draw](https://open.spotify.com/album/73WJqjpUrtXfw9L7MC14F1) | 3:23 | 2025-02-21 | 2025-07-19 |
 | [Call It Easy \- Edit](https://open.spotify.com/track/53u5fmf8yjjbXBn1O6y9a5) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Call It Easy](https://open.spotify.com/album/2o5XLVAEwwjXIJ5ptSgaT1) | 4:24 | 2025-04-10 |  |
 | [call my name](https://open.spotify.com/track/6rfXIASvO0iwomFkJ6grW6) | [phin](https://open.spotify.com/artist/1LiAFR5jEJrfQK8vVavciN) | [call my name](https://open.spotify.com/album/3J97lJZpNCtLWzUResJmTH) | 3:24 | 2024-07-08 | 2025-05-10 |
+| [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 |  |
 | [Can’t Catch Me Now \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [Can’t Catch Me Now \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s) | 3:25 | 2023-11-03 | 2024-10-19 |
 | [Cardinal](https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:11 | 2024-03-15 | 2024-09-07 |
 | [carnival sounds](https://open.spotify.com/track/2cgWY4Vw6udOpM384eZYvS) | [Jahnah Camille](https://open.spotify.com/artist/5GDXbZvMrkJk33BqFmeXqS) | [carnival sounds](https://open.spotify.com/album/6k1w7HAK3B09JHglsLd9J0) | 4:20 | 2024-06-28 | 2025-02-08 |
@@ -159,6 +160,7 @@
 | [Expiration Date \(feat\. Jack Van Cleaf\)](https://open.spotify.com/track/4x4aiawArElpgBhp0j7JxF) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc), [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk) | [Expiration Date \(feat\. Jack Van Cleaf\)](https://open.spotify.com/album/2tJ2B0hAlus0cisYlBEX9U) | 3:28 | 2025-07-11 |  |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-05-31 |
 | [Falling in Love at a Coffee Shop](https://open.spotify.com/track/1KHdq8NK9QxnGjdXb55NiG) | [Landon Pigg](https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS) | [The Boy Who Never](https://open.spotify.com/album/1fFFfcxhKi0kSPhm8kdOuf) | 4:04 | 2024-08-20 | 2024-09-28 |
+| [Family Reunion](https://open.spotify.com/track/1BbDMor5o95N3npqzaEblz) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Family Reunion](https://open.spotify.com/album/3APIv2taBmq1S1ynbLEvZV) | 2:54 | 2025-08-22 |  |
 | [Fault Line](https://open.spotify.com/track/3883bcJDGj5DHEahNyaZqh) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [The Garden](https://open.spotify.com/album/2hPowa1qEPeArnDMJkqLSz) | 4:34 | 2025-03-14 |  |
 | [Feeling](https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeling](https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq) | 3:20 | 2025-03-21 | 2025-08-09 |
 | [feels like i'm changing](https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [juliet](https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh) | 2:49 | 2024-09-06 | 2025-04-05 |
@@ -279,6 +281,7 @@
 | [jesus song \(county line\)](https://open.spotify.com/track/0sfqrYeRPs5tJISfVGQscT) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [jesus song \(county line\)](https://open.spotify.com/album/39a2hRQJCgzJdZFVRQJIR5) | 3:08 | 2024-01-26 | 2024-02-17 |
 | [Joel Roberts](https://open.spotify.com/track/4af6mAA3OSyIQy3XUq6nwa) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Joel Roberts](https://open.spotify.com/album/5TXRKDKP9MG4gSUBRxcxwh) | 4:11 | 2024-11-15 | 2025-07-12 |
 | [Just Because](https://open.spotify.com/track/2p26J9tpJ8kmbBd8AX7WnF) | [Cape Francis](https://open.spotify.com/artist/6tnCYugShRsCcfHNGIUSq3) | [Plateaus](https://open.spotify.com/album/15XVmpLlyeWXv5QINxWcwo) | 3:46 | 2024-10-09 | 2025-03-13 |
+| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 |  |
 | [kid](https://open.spotify.com/track/4F0jYIYcVtiH5OM6fpN7Gb) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [kid](https://open.spotify.com/album/6WSJyY3FStkw7JXZaU5VHa) | 3:11 | 2023-12-08 | 2024-10-19 |
 | [Kitchen Flowers](https://open.spotify.com/track/3AnnOEoPNIX18poepK9kcw) | [Them & I](https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT) | [Kitchen Flowers](https://open.spotify.com/album/40nWV4tr80TjQsWE0AaeQU) | 2:23 | 2025-03-28 |  |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-10-06 | 2024-05-11 |
@@ -516,7 +519,7 @@
 | [The Prodigal](https://open.spotify.com/track/3ui3UHjpXpWiQjoLwuENB8) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [The Prodigal](https://open.spotify.com/album/6hHKMT1KggeWWTr6N2JQPr) | 3:13 | 2024-01-16 | 2024-07-09 |
 | [The Roads](https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k) | 4:10 | 2023-10-06 | 2024-06-01 |
 | [The Smallest Man Who Ever Lived](https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:05 | 2024-04-19 | 2024-04-27 |
-| [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-11 |  |
+| [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-11 | 2025-08-23 |
 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 | 2024-02-23 | 2024-04-06 |
 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 | 2024-07-19 | 2025-03-13 |
 | [the way that i am](https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [the way that i am](https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y) | 2:57 | 2024-10-16 | 2025-02-01 |

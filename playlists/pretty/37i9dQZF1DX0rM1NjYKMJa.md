@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Get ready for Notting Hill Carnival 2025\. The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,941 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,236 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 22 | [Romping Shop \(feat\. Spice\)](https://open.spotify.com/track/6D7jtD4GbpX1ujF1KqPr7Y) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Pon Di Gaza 2.0](https://open.spotify.com/album/5xkTjyLPKbSeNuY7QLgnqT) | 3:33 |
 | 23 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
 | 24 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
-| 25 | [Good Spirits](https://open.spotify.com/track/1rRL1mufcX09teyeTfnARC) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg) | 3:20 |
-| 26 | [Wah Yo Deh Pan](https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [Wah Yo Deh Pan](https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75) | 2:22 |
+| 25 | [Wah Yo Deh Pan](https://open.spotify.com/track/4vLRSAGR6yNXVLaFmTS8jI) | [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Nvtzz](https://open.spotify.com/artist/05o8XSOOdWrBMeOKefCTrf) | [Wah Yo Deh Pan](https://open.spotify.com/album/2hJ0zvvkrvINhecK5uRW75) | 2:22 |
+| 26 | [Good Spirits](https://open.spotify.com/track/1rRL1mufcX09teyeTfnARC) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg) | 3:20 |
 | 27 | [It Bend Like Banana](https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [It Bend Like Banana](https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu) | 2:54 |
 | 28 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 29 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 45 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 |
 | 46 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
 | 47 | [GANGSTA](https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [MUSE](https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D) | 2:36 |
-| 48 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 |
-| 49 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
+| 48 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
+| 49 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 |
 | 50 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 
 Snapshot ID: `AAAAAFQdJOtW6328uuAosj6k7SrgnCwo`

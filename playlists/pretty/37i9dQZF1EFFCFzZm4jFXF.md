@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92 likes - 114 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 93 likes - 114 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 45 | [Funeral](https://open.spotify.com/track/7tkzxMzgewgVqGahS69F1X) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [How To Be Human](https://open.spotify.com/album/1HS3YNocpXpYUwcaqTcaht) | 3:37 |
 | 46 | [The First Time](https://open.spotify.com/track/2I52iM20qEsd8Mupt25m1D) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Run to You](https://open.spotify.com/album/3EGJG8H67Ud2gvXVXjZkVt) | 3:47 |
 | 47 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 |
-| 48 | [Saint of the Sinners](https://open.spotify.com/track/15ZpJOwfqGx6jbL4ruBeKp) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Confessional](https://open.spotify.com/album/4woFkP5VY3AY27DgZHBlgt) | 3:53 |
-| 49 | [Outta My Head](https://open.spotify.com/track/6whv4cMPhgbBCVhhffQP4u) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Outta My Head](https://open.spotify.com/album/67B5QeRHE7eRtXauSbl1mU) | 2:22 |
+| 48 | [Outta My Head](https://open.spotify.com/track/6whv4cMPhgbBCVhhffQP4u) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Outta My Head](https://open.spotify.com/album/67B5QeRHE7eRtXauSbl1mU) | 2:22 |
+| 49 | [Saint of the Sinners](https://open.spotify.com/track/15ZpJOwfqGx6jbL4ruBeKp) | [Janet Devlin](https://open.spotify.com/artist/2GDNbg4B7fHn1PqHlEdtd1) | [Confessional](https://open.spotify.com/album/4woFkP5VY3AY27DgZHBlgt) | 3:53 |
 | 50 | [Golden](https://open.spotify.com/track/0gA1D52otr2u5Hd88sOWJW) | [MEDUN](https://open.spotify.com/artist/31iEFric0QtZxWkPMWCIqM), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Golden](https://open.spotify.com/album/47or3xJvbmeAke8qPSlejF) | 2:43 |
 | 51 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 |
 | 52 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 113 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 114 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `Ab6H9AAAAAATZPi+8LwHr+pXck4fb3AY`
+Snapshot ID: `Ab6NigAAAAATy/ySrIkcvJkM8/iMie3m`

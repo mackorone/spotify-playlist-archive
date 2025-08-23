@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 
 > 
 
-[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 877 songs - 1 day 20 hr 53 min
+[wyattzaboschuk](https://open.spotify.com/user/skillstreet) - 3 likes - 882 songs - 1 day 21 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -885,5 +885,10 @@ pretty - [cumulative](/playlists/cumulative/0dJLnpGlTxXGH8LyGjriJP.md) - [plain]
 | 875 | [Fell In Luv \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1s9DTymg5UQrdorZf43JQm) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:26 |
 | 876 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 |
 | 877 | [Jump Out the Face \(feat\. Future\)](https://open.spotify.com/track/17AS0y6FnHdYImAPUydAJg) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dreams Worth More Than Money](https://open.spotify.com/album/2O3OKOYCub892PUGprsaQo) | 2:41 |
+| 878 | [Back In That Mode \(feat\. YFN Lucci\)](https://open.spotify.com/track/2cN9S9gCFKicJUVoEwHGgi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:36 |
+| 879 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 |
+| 880 | [Bodies \(feat\. JID\)](https://open.spotify.com/track/7jXHMDFD5IP6pOUtC1p3iz) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 2:58 |
+| 881 | [Run It Up \(feat\. Key Glock\)](https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:14 |
+| 882 | [Set It Off](https://open.spotify.com/track/5cmtJa1p1s64KW6ULRT477) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 1:40 |
 
-Snapshot ID: `AAAEMQSEBhQxf72CPUyGKzsNP5iii8ll`
+Snapshot ID: `AAAENgn+Qwq4bZwZHrnATWd6DSWzXCpp`

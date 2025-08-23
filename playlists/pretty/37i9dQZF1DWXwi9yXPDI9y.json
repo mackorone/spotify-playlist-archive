@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 166392,
+  "num_followers": 166449,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 222880,
+      "name": "Something To Remember You By",
+      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
         "name": "The Wonderful World Of Jazz",
         "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
@@ -515,18 +531,22 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 222880,
-      "name": "Something To Remember You By",
-      "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
+      "duration_ms": 246506,
+      "name": "I Was Doing All Right",
+      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -567,26 +587,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 246506,
-      "name": "I Was Doing All Right",
-      "url": "https://open.spotify.com/track/2pday5uCrVYBdUgvldUJWm"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Once Upon A Time",
         "url": "https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Candy (Remastered)",
-        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 447173,
-      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
-      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "After Midnight: The Complete Session",
         "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 252000,
       "name": "Blame It On My Youth - Remastered 1999",
       "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Candy (Remastered)",
+        "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 447173,
+      "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
+      "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
-        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
-      },
-      "artists": [
-        {
-          "name": "Carmen McRae",
-          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
-        }
-      ],
-      "duration_ms": 165400,
-      "name": "Them There Eyes",
-      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 237800,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
+        "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "duration_ms": 165400,
+      "name": "Them There Eyes",
+      "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Comin' On",
-        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Reece",
-          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
-        }
-      ],
-      "duration_ms": 377933,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "We Get Requests",
         "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 310973,
       "name": "D & E",
       "url": "https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Comin' On",
+        "url": "https://open.spotify.com/album/3wY41DkrRiCgdK3VqIyBmr"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Reece",
+          "url": "https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR"
+        }
+      ],
+      "duration_ms": 377933,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/0ijX6kf5z4BDTEZCVKUKr2"
     },
     {
       "added_at": "2025-01-20 15:39:56",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2025-01-20 15:39:56",
       "album": {
-        "name": "Social Call",
-        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        },
-        {
-          "name": "Ray Bryant",
-          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
-        }
-      ],
-      "duration_ms": 251680,
-      "name": "Gone With the Wind",
-      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
-    },
-    {
-      "added_at": "2025-01-20 15:39:56",
-      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2025-01-20 15:39:56",
+      "album": {
+        "name": "Social Call",
+        "url": "https://open.spotify.com/album/7MGttcftncXXItvutjK9dM"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        },
+        {
+          "name": "Ray Bryant",
+          "url": "https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR"
+        }
+      ],
+      "duration_ms": 251680,
+      "name": "Gone With the Wind",
+      "url": "https://open.spotify.com/track/6LK7pPcnOyFrgnisXJ84gn"
     },
     {
       "added_at": "2025-01-20 15:39:56",

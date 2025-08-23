@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 35746,
+  "num_followers": 35754,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADoCarhH8PrfwZoAr+DDTTD",
+  "snapshot_id": "aKZhgAAAAAB4TivzYYCpou9Wkydkg9KH",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Losing My Religion",
-        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Wanna Be Happy?",
-      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 244360,
       "name": "Bleed The Same",
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Wanna Be Happy?",
+      "url": "https://open.spotify.com/track/7f3mNFQ9ue2uCWA8qmgEJo"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 271131,
-      "name": "F.A.V.O.R",
-      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -683,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
       "artists": [
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 388586,
-      "name": "Give Me (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
+      "duration_ms": 271131,
+      "name": "F.A.V.O.R",
+      "url": "https://open.spotify.com/track/7mkUBGYLWcCDO6ypX4ojpj"
     },
     {
       "added_at": null,
@@ -723,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
       "artists": [
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 245901,
-      "name": "Strong God",
-      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
+      "duration_ms": 388586,
+      "name": "Give Me (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/5vY1TilwK6G4k5j5gejOV1"
     },
     {
       "added_at": null,
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 263973,
-      "name": "Before I Die",
-      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
+      "duration_ms": 245901,
+      "name": "Strong God",
+      "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
     },
     {
       "added_at": null,
@@ -803,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 391695,
-      "name": "Father Knows Best",
-      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
+      "duration_ms": 263973,
+      "name": "Before I Die",
+      "url": "https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF"
     },
     {
       "added_at": null,
@@ -835,34 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
       },
       "artists": [
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "Rance Allen",
-          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
-        },
-        {
-          "name": "Isaac Carree",
-          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
         }
       ],
-      "duration_ms": 336773,
-      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
-      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
+      "duration_ms": 391695,
+      "name": "Father Knows Best",
+      "url": "https://open.spotify.com/track/5PWXxYsrzyQQNeNwrRmmu2"
     },
     {
       "added_at": null,
@@ -899,6 +867,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Rance Allen",
+          "url": "https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Isaac Carree",
+          "url": "https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH"
+        }
+      ],
+      "duration_ms": 336773,
+      "name": "Something About The Name Jesus Pt. 2 (feat. Rance Allen, Marvin Winans, John P. Kee & Isaac Carree)",
+      "url": "https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boycott",
         "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
       },
@@ -911,6 +911,26 @@
       "duration_ms": 339733,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Taylor Mosby",
+          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 265693,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
     },
     {
       "added_at": null,
@@ -939,26 +959,6 @@
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
-      },
-      "artists": [
-        {
-          "name": "Taylor Mosby",
-          "url": "https://open.spotify.com/artist/3pk4AaSmKojd4CmEosErcg"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 265693,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/7t6JZ71UsOkMLfxCw3kGrK"
     },
     {
       "added_at": null,

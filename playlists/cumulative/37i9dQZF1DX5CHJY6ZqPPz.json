@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Special Message from aespa",
+        "url": "https://open.spotify.com/album/0beeyk44bFLKvCXyZC6OQ1"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41074,
+      "name": "Special Message from aespa",
+      "url": "https://open.spotify.com/track/1vMo3Ib7AF3CLDIqoM5gzC"
+    },
+    {
+      "album": {
         "name": "MY WORLD - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
       },

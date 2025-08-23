@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Sharktank
 
-1,832 songs - 4 day 9 hr 18 min
+1,832 songs - 4 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1421,6 +1421,7 @@
 | [Somersault](https://open.spotify.com/track/5LZOyQjZVu2plMsisIBchg) | [Hearts Hearts](https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH) | [Somersault](https://open.spotify.com/album/4Z5bQImtsduSX7ZKpTEbTD) | 4:18 | 2025-06-05 | 2025-07-04 |
 | [Something In The Air](https://open.spotify.com/track/7rvhBrHKRK7G4SJFgclkr7) | [Lauren Mayberry](https://open.spotify.com/artist/5PAOxo6t7il1UN7HFurcph) | [Something In The Air](https://open.spotify.com/album/2RoSPQyzfjJl6ADhGFUnhr) | 3:47 | 2024-10-03 | 2024-11-01 |
 | [Something in the way you move](https://open.spotify.com/track/6i4QWDj0FaZq0DNlzDOEBc) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Something in the way you move](https://open.spotify.com/album/4KiagNACvTlWB1tu0sONBK) | 4:59 | 2025-05-01 | 2025-05-16 |
+| [Sometimes I Dream Up Places](https://open.spotify.com/track/3RAc6WEloFUawo9I5wpIx0) | [Elio Ricca](https://open.spotify.com/artist/78ayznpvXNYPFmJ6BoNMLH) | [Emotional Hardcore](https://open.spotify.com/album/5AjxejcfxIbUEdVrLoJPfh) | 2:33 | 2025-08-21 |  |
 | [Sometimes It Hurts, But That's Okay](https://open.spotify.com/track/7nQnLpjWQUGG2jm2YuIyyY) | [Bonheur](https://open.spotify.com/artist/7sotWiVs7bcM5YHhlvulNL) | [Sometimes It Hurts, But That's Okay](https://open.spotify.com/album/3dM4PUeRZnZmnkJIAuVVom) | 3:35 | 2024-09-05 | 2024-09-20 |
 | [Somewhere](https://open.spotify.com/track/2ECNSB7Fd6cE8LcKiRSO3s) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Expectations EP](https://open.spotify.com/album/64W25Fz86zVz7pGEUHepV7) | 2:44 | 2024-11-28 | 2025-01-10 |
 | [Somewhere To Go](https://open.spotify.com/track/6ZbRBKZPenOwL5yaBAmQXU) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Athens On Repeat](https://open.spotify.com/album/45qRfACSiLG33Ctsef3zgd) | 2:56 | 2024-12-05 | 2025-01-17 |
@@ -1650,7 +1651,6 @@
 | [Touch Myself](https://open.spotify.com/track/79Ore5BQ07MSJHRjUs1K3x) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Touch Myself](https://open.spotify.com/album/1XoJB2QVjjCKRVtPNu4cnb) | 3:09 | 2025-06-27 | 2025-07-25 |
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
-| [Track 8](https://open.spotify.com/track/3RAc6WEloFUawo9I5wpIx0) | [Elio Ricca](https://open.spotify.com/artist/78ayznpvXNYPFmJ6BoNMLH) | [Emotional Hardcore](https://open.spotify.com/album/5AjxejcfxIbUEdVrLoJPfh) | 0:00 | 2025-08-21 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-06-06 |
 | [Trapped In Space](https://open.spotify.com/track/253DwAS9XdniKPRjhYH79n) | [Andreya Casablanca](https://open.spotify.com/artist/7Kvs0jEg9fdQfAnM8ITyUa) | [Trapped In Space](https://open.spotify.com/album/6hsMKslvgR4IfQ3LJThbA3) | 2:24 | 2024-07-25 | 2024-08-09 |

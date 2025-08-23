@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "7 VIDAS",
+        "url": "https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144238,
+      "name": "7 VIDAS",
+      "url": "https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw"
+    },
+    {
+      "album": {
         "name": "A Chillar a Otra Parte (Remix)",
         "url": "https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50"
       },
@@ -306,7 +328,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 312442,
       "name": "Amor (Ft. Mon Laferte) - Mtv Unplugged",
       "url": "https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP"
@@ -2656,7 +2678,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 195872,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/5T7LGMZ9rRxBhLc0tetf9A"
@@ -5461,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Porque Yo Te Amo",
+        "url": "https://open.spotify.com/album/5hUbjfEdPPj6r647nn3v2h"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234752,
+      "name": "Porque Yo Te Amo",
+      "url": "https://open.spotify.com/track/5e1ENrdH24ZUirxpYJtph5"
+    },
+    {
+      "album": {
         "name": "P\u00e1jaro y Demonio",
         "url": "https://open.spotify.com/album/00qCqI06k51qcsVRVMXLIQ"
       },
@@ -6604,6 +6644,28 @@
       "duration_ms": 143813,
       "name": "Te Perdon\u00e9 Tantas Veces",
       "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"
+    },
+    {
+      "album": {
+        "name": "Te sigo amando",
+        "url": "https://open.spotify.com/album/41ZuRJWoC3cNVkwEcrF1Ht"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        },
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207470,
+      "name": "Te sigo amando",
+      "url": "https://open.spotify.com/track/6HkNsuQygqug6v3WpoWd9R"
     },
     {
       "album": {
@@ -7902,7 +7964,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"

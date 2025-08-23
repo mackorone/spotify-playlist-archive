@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7qoxrjdVUs.md) - [plain]
 
 > Spotify editors kiezen het beste van 2024 uit Nederland\. Cover: FLEMMING, Zoë Tauran & Ronnie Flex
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,897 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,896 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

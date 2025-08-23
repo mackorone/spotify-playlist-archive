@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 6351,
+  "num_followers": 6362,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABRigur/xISvXkKzWkcnoM4",
+  "snapshot_id": "aKZhgAAAAABZUdnmSAqkVBSRTnw8nbFe",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trenches Luv",
-        "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Trenches Luv",
-      "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shakur (Deluxe)",
         "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 145248,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trenches Luv",
+        "url": "https://open.spotify.com/album/3hKsMcp9TrNHrg6qzoUHpB"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Trenches Luv",
+      "url": "https://open.spotify.com/track/2v7r3nItoWRbCQBS1qFQnD"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 131364,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Brother 2.0",
         "url": "https://open.spotify.com/album/2kGE9LC3H7HE1yszEBPMDI"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 173793,
       "name": "My Brother 2.0",
       "url": "https://open.spotify.com/track/7t1bcvtAYRt6izlGCqnyml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 131364,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/5pmuDpn0aIzw8mjJBUWUsv"
     },
     {
       "added_at": null,

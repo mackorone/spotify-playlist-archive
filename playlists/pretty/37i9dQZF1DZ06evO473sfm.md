@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,595 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,905 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 28 | [AURORA \(feat\. Armenta\)](https://open.spotify.com/track/3s0rq0VmyDLZKjAnEjrQIZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 3:39 |
 | 29 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 |
 | 30 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:43 |
-| 31 | [Ya Pedo Quién Sabe](https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Pedo Quién Sabe](https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA) | 3:11 |
+| 31 | [DE LUNES A LUNES](https://open.spotify.com/track/4IIdIBVQEXwpE6MlLkHeBm) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [201](https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9) | 3:08 |
 | 32 | [SOS](https://open.spotify.com/track/0Jps9bc30C1BCr0UUAXUlc) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 2:49 |
-| 33 | [DE LUNES A LUNES](https://open.spotify.com/track/4IIdIBVQEXwpE6MlLkHeBm) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [201](https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9) | 3:08 |
-| 34 | [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 |
-| 35 | [QUÉDATE BEBÉ](https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:13 |
+| 33 | [Ya Pedo Quién Sabe](https://open.spotify.com/track/3dNLpNsPJ3zvlVu8s5vll0) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya Pedo Quién Sabe](https://open.spotify.com/album/2OQrWPMbjS3axrXCWZLLdA) | 3:11 |
+| 34 | [QUÉDATE BEBÉ](https://open.spotify.com/track/4U0NzCC9oiVDEDfgDKIiTo) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:13 |
+| 35 | [Me Retiro](https://open.spotify.com/track/0iWO3A7RCIFZvLvVfIOW4h) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Me Retiro](https://open.spotify.com/album/4e54zPQ8pqXkFHTKL7xLVj) | 4:08 |
 | 36 | [Pienso En Ella](https://open.spotify.com/track/2A7bKx16cVAOkLla98qzMx) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Pienso En Ella](https://open.spotify.com/album/1xucgHdQuYiGBrvrmoLnaC) | 2:39 |
 | 37 | [No Se Parece A Ti](https://open.spotify.com/track/0DTLiF8akMbTZfGMPslmQ5) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Y Lo Que Viene](https://open.spotify.com/album/5Rghy8jEh35uc0gDRcoydO) | 3:20 |
 | 38 | [Quedate Conmigo](https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO473sfm.md) - [plain]
 | 49 | [NO SÉ QUÉ PASÓ](https://open.spotify.com/track/1IFjnYZxC9JlXekzoCzGkK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 2:29 |
 | 50 | [No Te Arrepentiras](https://open.spotify.com/track/0R3MdJp3YRyR3qraSC8Jt9) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Te Arrepentiras](https://open.spotify.com/album/0bpKm54QKivDK520VlRjpl) | 2:47 |
 
-Snapshot ID: `aKO+gAAAAACQUO6yKQ/T8cVFvPYA5x+/`
+Snapshot ID: `aKZhgAAAAADCTVsDyB///ggmOJL/BjJq`

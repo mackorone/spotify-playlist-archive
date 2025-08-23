@@ -4,7 +4,7 @@
 
 > Estas son las indomables de la Música Mexicana\. Alicia Villarreal y Lila Downs en portada 🌹
 
-472 songs - 1 day 1 hr 10 min
+474 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Cicatrices](https://open.spotify.com/track/7LvUCgGPYADdVng9zLINs3) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cicatrices](https://open.spotify.com/album/3b83xibQ71125dvAZE2xcH) | 3:06 | 2021-12-17 | 2022-04-29 |
 | [Cielo Rojo](https://open.spotify.com/track/480hoG0YscIIOf6L2s8Zqd) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Cielo Rojo](https://open.spotify.com/album/0X5hybr5BL2rzWitJ5FpMh) | 3:55 | 2022-04-08 | 2022-04-25 |
 | [Cielo Rojo \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/4oEEJNX2pRZGS9AYhHPATV) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 4:18 | 2022-07-01 | 2022-09-03 |
-| [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-08-30 |  |
+| [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-08-30 | 2025-08-23 |
 | [Como Te Quiero Yo A Ti \- Regional Mexican Version](https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Como Te Quiero Yo A Ti \(Regional Mexican Version\)](https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H) | 3:09 | 2022-09-23 | 2022-12-10 |
 | [Como Tu Mujer](https://open.spotify.com/track/46eGIBluKigQSjAiUhSxK2) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Como Tu Mujer](https://open.spotify.com/album/061yihcD0WUCeOB1VmgdkW) | 3:03 | 2022-01-28 | 2022-03-09 |
 | [Compañera Presidenta](https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Compañera Presidenta](https://open.spotify.com/album/5F0eh6cLSaGpGvOznO3m3J) | 3:24 | 2024-07-26 | 2024-10-05 |
@@ -101,7 +101,7 @@
 | [Cúbreme](https://open.spotify.com/track/6YCsNv4f9cHSuWRKWZ2Car) | [Gabriella](https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM) | [Siempre Gabriella](https://open.spotify.com/album/5dNYwOCnXWUW3G241sdEwt) | 3:21 | 2023-10-27 | 2024-01-13 |
 | [Dama Divina](https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:36 | 2023-01-20 | 2023-07-29 |
 | [Dame Chance](https://open.spotify.com/track/1I6iS0hQ2tsdcG7PTKTPHW) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Dame Chance](https://open.spotify.com/album/3hqAgKenfEtAvxK4ZnLo3h) | 2:41 | 2024-03-22 | 2024-04-19 |
-| [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 | 2024-03-22 |  |
+| [DDC](https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [DDC](https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61) | 3:06 | 2024-03-22 | 2025-08-23 |
 | [DE CONTRABANDO](https://open.spotify.com/track/6Ufzpazi62Qa1wJYfic4x2) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo) | [DE CONTRABANDO](https://open.spotify.com/album/2BA85cEaRUB4V2AsoX6qTE) | 2:27 | 2025-07-04 |  |
 | [De Lo Que Me Salvé](https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [De Lo Que Me Salvé](https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0) | 3:31 | 2024-04-19 |  |
 | [De Mí Enamórate](https://open.spotify.com/track/1tUTHWfPkAVCutSC4wj1Q4) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [De Mí Enamórate](https://open.spotify.com/album/0JbMzMkypKDPI2Bz8AUehH) | 3:35 | 2021-12-17 | 2022-01-28 |
@@ -154,6 +154,7 @@
 | [Flor de Capomo](https://open.spotify.com/track/64ANfvQAYZQAetW4RObvXm) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Flor de Capomo](https://open.spotify.com/album/7LygGdl5rqFFnxBMgAwyKn) | 3:16 | 2021-12-17 | 2022-04-09 |
 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 | 2021-12-17 | 2024-06-22 |
 | [Fotos Y Recuerdos](https://open.spotify.com/track/10dVXtTtcZGkslowGjI18r) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:37 | 2024-02-09 | 2024-04-19 |
+| [Frijolero](https://open.spotify.com/track/3VBmKu4v2vNRM4bnFK6yBh) | [Somos Frijoleros](https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Frijolero](https://open.spotify.com/album/32ZCsGPjMlkJ6zVGdlP1dF) | 3:33 | 2025-08-22 |  |
 | [Fruta Prohibida](https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida](https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts) | 2:45 | 2021-12-17 | 2022-06-09 |
 | [Fruta Prohibida \- Versión Acústica](https://open.spotify.com/track/65Qln5PKRZhA5FIXUyMU3q) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Fruta Prohibida \(Versión Acústica\)](https://open.spotify.com/album/4tzLKAiSk7qgEsQVOoQC6Z) | 3:11 | 2021-12-17 | 2022-03-18 |
 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Fue Tan Poco Tu Cariño](https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU) | 3:15 | 2023-07-28 | 2025-07-05 |
@@ -303,6 +304,7 @@
 | [No Me Queda Más](https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 3:20 | 2021-12-17 | 2024-09-21 |
 | [No Me Queda Más](https://open.spotify.com/track/2stxwFkmW2kZ6SuyJGO5q8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 3:20 | 2024-02-23 | 2024-04-19 |
 | [No Me Rebajo](https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi) | [La Morra De La Vihuela](https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi) | [No Me Rebajo](https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU) | 3:23 | 2023-07-28 |  |
+| [No Más Canciones De Amor](https://open.spotify.com/track/5KUXDV43C0Id3obmoiMVTz) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Más Canciones De Amor](https://open.spotify.com/album/06OW44HrziPwbrneC0HrIQ) | 2:31 | 2025-08-22 |  |
 | [No Pasa Nada](https://open.spotify.com/track/7dz7NLIMO7es3GfCpf6Mdt) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [No Pasa Nada](https://open.spotify.com/album/3SLyTJrmcrrhj2qqLx2sW3) | 3:51 | 2022-07-29 | 2022-12-10 |
 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 | 2023-06-30 |  |
 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 | 2021-12-17 |  |

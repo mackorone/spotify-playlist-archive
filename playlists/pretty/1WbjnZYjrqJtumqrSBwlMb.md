@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,116 songs - 2 day 20 hr 39 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,118 songs - 2 day 20 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1124,5 +1124,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1114 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
 | 1115 | [Mr\. Miracle](https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Mr\. Miracle](https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q) | 3:12 |
 | 1116 | [Sunflower \- Live at Radio City Music Hall](https://open.spotify.com/track/3xz5n1xyi3DOMIb8vodsZm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Live at Radio City Music Hall](https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz) | 6:24 |
+| 1117 | [Loopholes](https://open.spotify.com/track/1e9pLNa0QLKB2yyVr4dDVo) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [A Repeat Wouldn't Go A Miss](https://open.spotify.com/album/6XlZwlX5aehMBVfutAKxJY) | 2:34 |
+| 1118 | [Stargazing](https://open.spotify.com/track/5hSKm3XMa07Gi6mCOLktxU) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:55 |
 
-Snapshot ID: `AAAJRprzeB5BJqzN00buMAcGsMDYLwaj`
+Snapshot ID: `AAAJSNpKVSdYhov0mfmDlERYU77HZ/wM`

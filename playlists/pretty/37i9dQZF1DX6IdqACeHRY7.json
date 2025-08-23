@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 156785,
+  "num_followers": 156796,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 260532,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -367,26 +367,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "July (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 152280,
-      "name": "July (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -399,26 +379,6 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
-        "name": "AW",
-        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
-      },
-      "artists": [
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 212472,
-      "name": "Stolt (feat. Lamin)",
-      "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -439,6 +399,46 @@
       "duration_ms": 259550,
       "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "July (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 152280,
+      "name": "July (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "AW",
+        "url": "https://open.spotify.com/album/5AF4ifwUSoMVqR8so0hEuU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 212472,
+      "name": "Stolt (feat. Lamin)",
+      "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "\u00c5boulevarden",
-        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
-      },
-      "artists": [
-        {
-          "name": "Skinz",
-          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
-        }
-      ],
-      "duration_ms": 162585,
-      "name": "\u00c5boulevarden",
-      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 277000,
       "name": "Collide - Acoustic Version",
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "\u00c5boulevarden",
+        "url": "https://open.spotify.com/album/5mJP3xBZvvTXSxnukizPf4"
+      },
+      "artists": [
+        {
+          "name": "Skinz",
+          "url": "https://open.spotify.com/artist/323gjVOWgnKGW3VuT8VKTx"
+        }
+      ],
+      "duration_ms": 162585,
+      "name": "\u00c5boulevarden",
+      "url": "https://open.spotify.com/track/0tuxMYBCRX9hbWU4oezfHK"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
-      },
-      "artists": [
-        {
-          "name": "The Vamps",
-          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Would You",
-      "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "Over Broen",
         "url": "https://open.spotify.com/album/4yepsianA44yEssCzMhOW1"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 185197,
       "name": "Over Broen",
       "url": "https://open.spotify.com/track/2uYgJzIZbBTCsbXb9laFzh"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d"
+      },
+      "artists": [
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Would You",
+      "url": "https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "P\u00e6n",
         "url": "https://open.spotify.com/album/2A2O9G1GCevpWdLPUjVaKY"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 190300,
       "name": "P\u00e6n",
       "url": "https://open.spotify.com/track/2hhJ58m1JDiXHJ4CGj89U3"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
+        "name": "[\u03b2]",
+        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
+      },
+      "artists": [
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "duration_ms": 253011,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
         "name": "Lifetimes Away (feat. Medina)",
         "url": "https://open.spotify.com/album/3scIOLSRCADZSH2hNPNVkL"
       },
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "[\u03b2]",
-        "url": "https://open.spotify.com/album/6z0zPy2FVo3zhpcFoVwuWF"
-      },
-      "artists": [
-        {
-          "name": "Hans Philip",
-          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
-        }
-      ],
-      "duration_ms": 253011,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "It's Gotta Be You",
         "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 198897,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "In Between Minds",
-        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "Things You Can't Change",
-      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
-    },
-    {
-      "added_at": "2025-08-14 22:00:36",
-      "album": {
         "name": "Frihed",
         "url": "https://open.spotify.com/album/5ClTuqAp8Vt8RY6rydROD0"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 163560,
       "name": "Frihed",
       "url": "https://open.spotify.com/track/0lAUEdKbTXmqYDyzAhgS9X"
+    },
+    {
+      "added_at": "2025-08-14 22:00:36",
+      "album": {
+        "name": "In Between Minds",
+        "url": "https://open.spotify.com/album/5tsh7OJm1nTJeWpkbTA0sC"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "Things You Can't Change",
+      "url": "https://open.spotify.com/track/4PBz2XQqKs9KICMO69iaiH"
     },
     {
       "added_at": "2025-08-14 22:00:36",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2025-08-14 22:00:36",
       "album": {
-        "name": "No Fixed Abode",
-        "url": "https://open.spotify.com/album/75L4noRttyCn9pLojFp2IF"
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
       },
       "artists": [
         {
-          "name": "Mitch James",
-          "url": "https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 204081,
-      "name": "No Fixed Abode",
-      "url": "https://open.spotify.com/track/2kzWnWUUsn3o44PbOzFSjc"
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
     }
   ],
   "unique_name": "ren hygge",

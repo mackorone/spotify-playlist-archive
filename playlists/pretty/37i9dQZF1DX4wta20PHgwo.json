@@ -1,12 +1,12 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2174721,
+  "num_followers": 2174759,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABbqOQH3Hu0pbq563sCVZAy9mDem",
+  "snapshot_id": "AAAAAAesD4UYMt1v0Q9BCQdf6uWxabOw",
   "tracks": [
     {
       "added_at": "2025-07-11 13:52:42",
@@ -3771,6 +3771,34 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
+        "name": "Wall",
+        "url": "https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9"
+      },
+      "artists": [
+        {
+          "name": "Richard Andersson",
+          "url": "https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        },
+        {
+          "name": "Hilmar Jensson",
+          "url": "https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy"
+        },
+        {
+          "name": "Matthias Hemstock",
+          "url": "https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU"
+        }
+      ],
+      "duration_ms": 299090,
+      "name": "Wall",
+      "url": "https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
         "name": "In A Sentimental Mood",
         "url": "https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s"
       },
@@ -3803,54 +3831,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "On and On",
-        "url": "https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        },
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
-        "name": "Wall",
-        "url": "https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9"
-      },
-      "artists": [
-        {
-          "name": "Richard Andersson",
-          "url": "https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
-        },
-        {
-          "name": "Hilmar Jensson",
-          "url": "https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy"
-        },
-        {
-          "name": "Matthias Hemstock",
-          "url": "https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU"
-        }
-      ],
-      "duration_ms": 299090,
-      "name": "Wall",
-      "url": "https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/5VrAw3xklXBNIGVelKK2pG"
       },
@@ -3871,6 +3851,26 @@
       "duration_ms": 323184,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6VC6di6QOdHb4D9nxrufra"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "On and On",
+        "url": "https://open.spotify.com/album/0clgQ9lkv6pCitc1bzWstz"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/6kWTNMxiPjj7Ph7wEEk2gS"
     },
     {
       "added_at": "2025-07-11 13:52:42",
@@ -3939,30 +3939,6 @@
     {
       "added_at": "2025-07-11 13:52:42",
       "album": {
-        "name": "Blame It on My Youth",
-        "url": "https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl"
-      },
-      "artists": [
-        {
-          "name": "Jesper Bodilsen",
-          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
-        },
-        {
-          "name": "Henrik Gunde",
-          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
-        },
-        {
-          "name": "Morten Lund",
-          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
-        }
-      ],
-      "duration_ms": 486314,
-      "name": "Blame It on My Youth",
-      "url": "https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z"
-    },
-    {
-      "added_at": "2025-07-11 13:52:42",
-      "album": {
         "name": "We'll Be Together Again",
         "url": "https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7"
       },
@@ -3983,6 +3959,30 @@
       "duration_ms": 308193,
       "name": "We'll Be Together Again",
       "url": "https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8"
+    },
+    {
+      "added_at": "2025-07-11 13:52:42",
+      "album": {
+        "name": "Blame It on My Youth",
+        "url": "https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl"
+      },
+      "artists": [
+        {
+          "name": "Jesper Bodilsen",
+          "url": "https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2"
+        },
+        {
+          "name": "Henrik Gunde",
+          "url": "https://open.spotify.com/artist/5wV54RYtj1H3Jt5OVgjRHu"
+        },
+        {
+          "name": "Morten Lund",
+          "url": "https://open.spotify.com/artist/44ioweuAw5P80TwfcibcpP"
+        }
+      ],
+      "duration_ms": 486314,
+      "name": "Blame It on My Youth",
+      "url": "https://open.spotify.com/track/7BHsJx0UWpiVZ9d4Cy4B6z"
     },
     {
       "added_at": "2025-07-11 13:52:42",

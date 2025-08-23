@@ -4,7 +4,7 @@
 
 > Celebrate Ramadan with these songs.
 
-58 songs - 3 hr 27 min
+59 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Ahlan Ramadan](https://open.spotify.com/track/5UEvq6ETaJR5wj37ilX1XI) | [Retal Ahmed](https://open.spotify.com/artist/4ekd61wSfTTuqb6qW9SI4A), [Ahmed Hasan Eluxory](https://open.spotify.com/artist/5ho0oRcst7QbETqcmz0meF), [Ahmed Hassan Eluxory](https://open.spotify.com/artist/6GUQY8rQYyjtx96urPgkRu) | [Ahlan Ramadan](https://open.spotify.com/album/5kbUXHN5AuYp5Yww0QgiNE) | 3:05 | 2024-03-14 |  |
 | [Ahlan Rmdan](https://open.spotify.com/track/7H3Ji1vmOo5htleCTu7i3I) | [Mohamed Fawzi](https://open.spotify.com/artist/35SDB2XBVuqWpURR3S53Ip) | [Ahlan Rmdan](https://open.spotify.com/album/0zVcG2aXfYMK1ByQp5XvjK) | 5:48 | 2024-03-12 |  |
 | [Ahlan Ya Ramadan](https://open.spotify.com/track/7zjP56QAqew2Vq1KUlGKiN) | [Mukhlish Latasi](https://open.spotify.com/artist/5grH33zcwCaBwl08deU8tQ) | [Ahlan Ya Ramadan](https://open.spotify.com/album/3MQd4hzxBDcLgTb8ZlRKa4) | 3:31 | 2024-03-14 | 2025-01-29 |
-| [Ahlan Ya Ramadhan](https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v) | [Rayhaan Carrim](https://open.spotify.com/artist/5DVVzZtDQfbNSY4NWT2Kp6) | [Ahlan Ya Ramadhan](https://open.spotify.com/album/7CKD4o6QQljTmUeed7H1F9) | 3:29 | 2024-03-25 |  |
+| [Ahlan Ya Ramadhan](https://open.spotify.com/track/2yBtd8LXwYGYgiaURXCV2v) | [Rayhaan Carrim](https://open.spotify.com/artist/5DVVzZtDQfbNSY4NWT2Kp6) | [Ahlan Ya Ramadhan](https://open.spotify.com/album/7CKD4o6QQljTmUeed7H1F9) | 3:29 | 2024-03-25 | 2025-08-23 |
 | [Aho Geh Ya Welad](https://open.spotify.com/track/5mXC7ZInp9tPJrPue3GbUx) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 5:38 | 2024-03-12 |  |
 | [Alaao El Zeina](https://open.spotify.com/track/3x343iZggmgFa5RwuVyHAe) | [Mostafa Abo Rawash](https://open.spotify.com/artist/6KGdrIAxpV6UZ4Vp4yIVRl) | [Alaao El Zeina](https://open.spotify.com/album/0y3BAQ4UEf2xaOXYXKlSP9) | 4:22 | 2024-03-12 |  |
 | [Bab Rizk](https://open.spotify.com/track/3ZrRdDPgevGRUgERi0OucI) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bab Rizk](https://open.spotify.com/album/2pV6SNCzHgvQzQGHMxscm9) | 2:42 | 2024-03-12 |  |
@@ -54,6 +54,7 @@
 | [Ya Nabi Salam Alayka \- Arabic Version \- Bonus Track](https://open.spotify.com/track/1UNOACS4O1ROKbDsLfMjOd) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(French Version\)](https://open.spotify.com/album/13jtfxj1q4UrhsAOQQjr68) | 4:58 | 2025-02-28 |  |
 | [Ya Ramadan](https://open.spotify.com/track/4qQH8be2uy8HCBFZSbJSVZ) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Ya Ramadan](https://open.spotify.com/album/7nLNRcWc7bhoeAb3iWXXdz) | 3:09 | 2024-03-12 |  |
 | [Ya Ramdan](https://open.spotify.com/track/4XM3uxOhlGCFrhbow0yNNu) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Ramdan](https://open.spotify.com/album/6dbCPasbAqf5RPHABG76XD) | 4:16 | 2024-03-12 |  |
+| [أهلا رمضان](https://open.spotify.com/track/6wJjIW14ul8rdLZwoOpr2z) | [Badr Soultan](https://open.spotify.com/artist/01haa57xRGVU3u7Nly8OD4) | [أهلا رمضان](https://open.spotify.com/album/2H75vEJHwOaSWnlM3Y4ZgG) | 4:03 | 2025-02-28 |  |
 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 | 2025-01-28 |  |
 | [اهلا رمضان](https://open.spotify.com/track/43Zt5DfrGBYtBBknYPh6WW) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اهلا رمضان](https://open.spotify.com/album/6umXFIQM8J0bTOqTlgPFUI) | 2:34 | 2024-03-12 |  |
 | [رمضان](https://open.spotify.com/track/7txV2KJuaV24jQDWDiWdBs) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [عناقيد 2](https://open.spotify.com/album/59NEa9mrUEzas2a54jsgyT) | 3:42 | 2024-03-12 | 2024-04-19 |

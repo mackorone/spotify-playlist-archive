@@ -1,6 +1,6 @@
 {
   "description": "Lovely, acoustic pop. Cover: Ariana Grande",
-  "num_followers": 165430,
+  "num_followers": 165471,
   "original_name": "Acoustic Pop",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone) - Acoustic Version",
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
+    },
+    {
+      "added_at": "2025-08-21 15:12:40",
+      "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx"
+      },
+      "artists": [
+        {
+          "name": "Madeline The Person",
+          "url": "https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY"
+        }
+      ],
+      "duration_ms": 200198,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1627,26 +1643,6 @@
       "duration_ms": 218915,
       "name": "Trampoline - Stripped",
       "url": "https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Be Kind (with Halsey) [Stripped]",
-        "url": "https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 173682,
-      "name": "Be Kind (with Halsey) [Stripped]",
-      "url": "https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere"
     },
     {
       "added_at": "2024-08-09 04:00:00",

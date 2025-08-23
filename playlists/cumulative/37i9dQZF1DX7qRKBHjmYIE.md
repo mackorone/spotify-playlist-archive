@@ -2,9 +2,9 @@
 
 ### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
 
-> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Sofish.
+> De aquí y de allá \~ un poquito de todo ✨ en un vibe con Motherflowers.
 
-912 songs - 2 day 1 hr 6 min
+914 songs - 2 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,6 +517,7 @@
 | [Metamorphosis \(with Ambar Lucid\)](https://open.spotify.com/track/0Ija1eSGhKSBx3KJkpLtms) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Observation I: Metamorphosis](https://open.spotify.com/album/5OsXENqSCulBZguBp1AyGr) | 3:08 | 2024-02-23 | 2024-05-25 |
 | [Meu Amore](https://open.spotify.com/track/5RZz3IdS4R1nZBMTWcIm5c) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Meu Amore](https://open.spotify.com/album/6MpJ6xMwnyu88DHKxgwAwQ) | 3:09 | 2023-11-17 | 2024-04-13 |
 | [MI AMOR](https://open.spotify.com/track/0pRRA68mFH6sIhLsenSit9) | [Call Me Ace](https://open.spotify.com/artist/4FKGHM8GGbuP6XIAUoNShM), [CHANNA](https://open.spotify.com/artist/0eWYvUXSchDSbrUvvNcPvp), [J\-Dot Music](https://open.spotify.com/artist/5zNLBBmJp8f1OWisLEIqXw) | [RETURN TO OFFICE](https://open.spotify.com/album/0CxeKUMjFYN38iZRDQbsSO) | 3:31 | 2023-02-17 | 2023-03-29 |
+| [Mi Casita](https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [Mi Casita](https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr) | 4:09 | 2025-08-22 |  |
 | [Mi Culpa](https://open.spotify.com/track/2xGH2s7preCrwHyQJw6tJV) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Mi Culpa](https://open.spotify.com/album/0OTeEgEpZBZ0b1wKpMhQ7C) | 3:27 | 2024-05-31 | 2025-02-15 |
 | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [MI NIÑA \(RubyRose\_Am\_98BPM\)](https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL) | 2:01 | 2023-08-25 | 2024-01-27 |
 | [Mi Onda](https://open.spotify.com/track/3Y6yikGRZOjA2SeDccoe6Z) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Mi Onda/Elen](https://open.spotify.com/album/3arQJO6lDTHZgKox9ToHen) | 2:30 | 2024-01-26 | 2024-07-13 |
@@ -653,6 +654,7 @@
 | [PIDE](https://open.spotify.com/track/2tAwNLAIBtgXdzQOtVq6mL) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:27 | 2023-10-13 | 2024-02-03 |
 | [Pienso En Vos](https://open.spotify.com/track/16oWKtRubxV7MFaSCG5zgQ) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Pienso En Vos](https://open.spotify.com/album/0KanSt4pJ5LqTVjBHpsTSX) | 2:26 | 2024-10-11 | 2025-03-01 |
 | [pijama.](https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [Au](https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt) | 2:38 | 2025-08-08 |  |
+| [PIKI](https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [PIKI](https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ) | 4:19 | 2025-08-22 |  |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-12-02 | 2022-01-29 |
 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 | 2023-02-02 | 2023-02-17 |
 | [PLAYA PRIVADA](https://open.spotify.com/track/2OF2V1JvNjOCOjhnIdfh3L) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:37 | 2022-04-08 | 2023-02-17 |
@@ -665,7 +667,7 @@
 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 | 2024-06-07 | 2025-05-10 |
 | [Prada](https://open.spotify.com/track/6miahXSZE01l2lNDqNCfxQ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Prada / Rakata](https://open.spotify.com/album/77PE5FgPHyF4uUyaZMszch) | 2:43 | 2021-12-17 | 2022-01-29 |
 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 | 2022-03-28 | 2022-04-21 |
-| [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 | 2024-12-06 |  |
+| [PRISIONERO PERFECTO](https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [PRISIONERO PERFECTO](https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf) | 3:24 | 2024-12-06 | 2025-08-23 |
 | [PRIVILEGIOS](https://open.spotify.com/track/2HFJ2nXf7Komq9a4Z0Bbrm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:05 | 2023-10-13 | 2024-02-03 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-25 | 2022-09-07 |
 | [Provide](https://open.spotify.com/track/258xXs5rtmrfy0rh1MqvUB) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Provide](https://open.spotify.com/album/67svyHyh6bOVPtKrB0Uzxa) | 4:00 | 2021-12-02 | 2022-01-25 |
@@ -675,7 +677,7 @@
 | [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2023-12-29 | 2024-04-13 |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-01-24 | 2022-10-28 |
 | [q nos paso?](https://open.spotify.com/track/3ocvBeWQTOL25yURvY8jlz) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [MAYDAY](https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1) | 2:09 | 2025-08-08 |  |
-| [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 | 2025-02-14 |  |
+| [Q.I.S \- feat\. maye](https://open.spotify.com/track/5HRtkyn2GNDz5DD4BfEjnt) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Q.I.S](https://open.spotify.com/album/6bTKewCMHer6xH1SGu1CzH) | 3:43 | 2025-02-14 | 2025-08-23 |
 | [Que Nadie Nos Entienda](https://open.spotify.com/track/5nqT4RWkMngPPWUSnaqTnb) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Silencio Del Ruido](https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT) | 3:06 | 2024-12-06 |  |
 | [Queen Of Colombia](https://open.spotify.com/track/6nhyIjR1CkE1nmZqfvEpl3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Queen Of Colombia](https://open.spotify.com/album/2oBTmcMFzlhTHcw7TqB3cK) | 2:55 | 2023-10-13 | 2023-12-30 |
 | [Quien Tengo Que Ser](https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn) | 4:27 | 2023-08-11 | 2023-08-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,136 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,169 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 19 | [Chalkidiki](https://open.spotify.com/track/3EmR858O6GqY9QCPOowflb) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN) | [Chalkidiki](https://open.spotify.com/album/1gHrBl094x0wH6UbVPjgUK) | 1:53 |
 | 20 | [Kilo Flex](https://open.spotify.com/track/3kIRBFtnyPaS7EZtjrFsja) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Gaglia](https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN) | [Kilo Flex](https://open.spotify.com/album/2QFxDS8OG6G0RjK6a6X6BO) | 2:10 |
 | 21 | [FTAIW EGW](https://open.spotify.com/track/0R1t9FcBUuoew8ndJ8ubut) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc) | [BAD BOY 3](https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31) | 3:11 |
-| 22 | [1994](https://open.spotify.com/track/4QcGiRAMY1fPrcNTwU7W1H) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [1994](https://open.spotify.com/album/1Rcp47rLdJnDQpiJ5rvDyJ) | 2:51 |
+| 22 | [1994](https://open.spotify.com/track/4QcGiRAMY1fPrcNTwU7W1H) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [1994](https://open.spotify.com/album/1Rcp47rLdJnDQpiJ5rvDyJ) | 2:50 |
 | 23 | [TA EXW PANW MOU](https://open.spotify.com/track/6c0Mv6NHqLAJQ2mZxiVjGB) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [DIFFERENT STUFF](https://open.spotify.com/album/3KzN1Kj4vp0y027ub4CwQT) | 2:08 |
 | 24 | [Jet Ski](https://open.spotify.com/track/2YdTzMRtxg6ACr8CdhhHk1) | [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr) | [Jet Ski](https://open.spotify.com/album/5k8NMTnkqtihygTdNOS8ec) | 2:06 |
 | 25 | [SPORT](https://open.spotify.com/track/4lTMynhF1mg19edWiSiHcw) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [701](https://open.spotify.com/album/1Dj73xfi0uyUA6dPolWkvt) | 2:21 |

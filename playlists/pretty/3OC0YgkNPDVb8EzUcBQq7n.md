@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3OC0YgkNPDVb8EzUcBQq7n.md) - [plain]
 
 > Best of  the female era! The biggest hits wrapped in one playlist, with Sabrina Carpenter, Gracie Abrams, Billie Eilish, Chappell Roan and more
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 44,113 likes - 82 songs - 4 hr 26 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 44,101 likes - 82 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Selin
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,460 likes - 76 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,450 likes - 76 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 75 | [Sus](https://open.spotify.com/track/56ydG5nQoL2hh7SbYMfi4i) | [Mavinin Ezgisi](https://open.spotify.com/artist/0VbqaeTioWqP749huiccYr) | [Sus](https://open.spotify.com/album/0zimKk6GXgQJYlV7a62a1Y) | 4:21 |
 | 76 | [Kal ya da Yan](https://open.spotify.com/track/3db5BReH45cE9yQIp51dL6) | [Eda Suluki](https://open.spotify.com/artist/1yAMATU04rAd820To5cmrb) | [Kal ya da Yan](https://open.spotify.com/album/2y58hd5l66ZcdTm5BeqUTs) | 3:20 |
 
-Snapshot ID: `AAAAAOfboKCm59kOaOK8JOrvmG+oZIz/`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

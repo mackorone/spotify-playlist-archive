@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 158313,
+  "num_followers": 158346,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACJt9vMs9zMTLZ4LAot2mlu",
+  "snapshot_id": "aKZhgAAAAACpi8PFTpxvCr6CzP2qRwHV",
   "tracks": [
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Sweet One",
+      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Sweet One",
-      "url": "https://open.spotify.com/track/7BxWEstQxXtjczBE7ErYrE"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joro",
-        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 262736,
-      "name": "Joro",
-      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 185123,
       "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
       "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
     },
     {
       "added_at": null,
@@ -843,26 +843,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoundMan Vol. 1",
-        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
-        {
-          "name": "StarBoy",
-          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
-        },
-        {
-          "name": "Chronixx",
-          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
-        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 198678,
-      "name": "Jam (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": null,
@@ -891,18 +883,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
       "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
+        },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+      "duration_ms": 198678,
+      "name": "Jam (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoundMan Vol. 1",
-        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
-      },
-      "artists": [
-        {
-          "name": "StarBoy",
-          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "London",
-          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Electric (feat. Wizkid & London)",
-      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+      },
+      "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "London",
+          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Electric (feat. Wizkid & London)",
+      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
     },
     {
       "added_at": null,

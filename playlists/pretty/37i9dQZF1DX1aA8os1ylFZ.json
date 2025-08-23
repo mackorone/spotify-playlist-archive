@@ -1,6 +1,6 @@
 {
   "description": "feel the magic with the gems in r&b right now",
-  "num_followers": 297115,
+  "num_followers": 297105,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-08-14 22:00:34",
       "album": {
+        "name": "yk, i'm good",
+        "url": "https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "yk, i'm good",
+      "url": "https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY"
+    },
+    {
+      "added_at": "2025-08-14 22:00:34",
+      "album": {
         "name": "Can't Talk",
         "url": "https://open.spotify.com/album/44vqxQ37wQGEKdVuzIpim7"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 135802,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/4rbcWJPHQXdn4gNAlwWeEt"
-    },
-    {
-      "added_at": "2025-08-14 22:00:34",
-      "album": {
-        "name": "yk, i'm good",
-        "url": "https://open.spotify.com/album/3zRyy8Y3Dp2HSVpxm4Xklt"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "yk, i'm good",
-      "url": "https://open.spotify.com/track/7dR6jPtEZHqmDGa8jqznUY"
     },
     {
       "added_at": "2025-08-14 22:00:34",

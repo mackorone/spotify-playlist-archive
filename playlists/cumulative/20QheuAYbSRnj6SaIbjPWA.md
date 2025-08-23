@@ -4,7 +4,7 @@
 
 > 2021
 
-140 songs - 9 hr 19 min
+142 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Comforting Memories](https://open.spotify.com/track/7n2hj4qowCNxp8h0pRWNvf) | [Kumi Tanioka](https://open.spotify.com/artist/5HL9S0Mswux7fri8YVxz3B), [Minecraft](https://open.spotify.com/artist/7i68fmsIERvgavI8Q1H09h) | [Minecraft: Caves & Cliffs \(Original Game Soundtrack\)](https://open.spotify.com/album/7yQIrNTf3pBu0FdyAJqTqb) | 4:35 | 2023-04-11 |  |
 | [Concerning the UFO sighting near Highland, Illinois](https://open.spotify.com/track/2BjRhZ2IJmsO1GRquNldsP) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Illinois](https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To) | 2:08 | 2024-01-22 |  |
 | [Cornerstone](https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:17 | 2023-02-27 |  |
+| [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/26THbowkRatoePMTtjxEcR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/2yba0GswIkgkrVEykCFajL) | 2:23 | 2025-08-23 |  |
 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 | 2023-11-29 |  |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-20 |  |
 | [Dear Jean](https://open.spotify.com/track/4mkIH8ixbQ7cpOvhzEL7jc) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Not Waving, But Drowning](https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV) | 1:43 | 2023-10-28 |  |
@@ -107,6 +108,7 @@
 | [Running Up That Hill \- triple j Like A Version](https://open.spotify.com/track/61p3K3niYEzmiX96aC9U8R) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Running Up That Hill \(triple j Like A Version\)](https://open.spotify.com/album/5PHg3laVWVohsOVpiehZQl) | 3:15 | 2022-12-13 |  |
 | [SCREAM MY NAME](https://open.spotify.com/track/1EKhSE9DUYRPvcXLK0k5iw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/7BjL0ThFxMTESHJ0xxsg3v) | 2:40 | 2025-01-22 |  |
 | [Seize The Day](https://open.spotify.com/track/7GceECVybAMFcn9C7H0Za9) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:20 | 2025-03-26 |  |
+| [Seventeen](https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Seventeen](https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz) | 3:22 | 2025-08-23 |  |
 | [Sh\-Boom](https://open.spotify.com/track/1jeQT4ymqWO7TJr4Ei8NLz) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Cars \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Xiz5kq12VOzTw9Kun7m0f) | 2:25 | 2023-03-30 | 2024-12-30 |
 | [Slide Away \- Live For Teenage Cancer Trust](https://open.spotify.com/track/2vNwVso4GsvITfeKHdhCcv) | [Noel Gallagher](https://open.spotify.com/artist/6IRQd80VHepXiTXdmBzk6l) | [The Dreams We Have As Children \(Live For Teenage Cancer Trust\)](https://open.spotify.com/album/15MpS74sqhUZtvtXmoST5y) | 6:15 | 2024-09-26 |  |
 | [Something in the Water](https://open.spotify.com/track/3fAPSHaCcVLsAUIvrawN4y) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lighting Matches \(Deluxe\)](https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI) | 3:27 | 2024-02-27 |  |

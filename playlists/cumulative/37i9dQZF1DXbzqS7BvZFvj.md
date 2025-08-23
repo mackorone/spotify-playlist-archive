@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Cardi B
 
-1,291 songs - 2 day 16 hr 50 min
+1,291 songs - 2 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,7 +522,7 @@
 | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/track/7uKj06uEtQNK2znEv27u0V) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [I LOVE YOU HOE \(w/ Trippie Redd & 9lives\)](https://open.spotify.com/album/35WsRcsKXK9VkwgWrLs2Is) | 2:25 | 2023-10-05 | 2023-10-23 |
 | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/album/1VKYrgULdVHSutxuU2SXgJ) | 2:27 | 2023-11-09 | 2023-11-18 |
 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-08-17 | 2023-09-15 |
-| [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 | 2025-07-10 |  |
+| [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 3:22 | 2025-07-10 |  |
 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 | 2024-02-22 | 2024-06-07 |
 | [I'm Geekin \(feat\. NLE Choppa & BIA\) \- Remix](https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [I'm Geekin \(feat\. NLE Choppa & BIA\) \[Remix\]](https://open.spotify.com/album/00Lj9HDscsRLpbBG3stE2g) | 3:09 | 2023-06-15 | 2023-07-21 |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-03-23 | 2023-05-26 |

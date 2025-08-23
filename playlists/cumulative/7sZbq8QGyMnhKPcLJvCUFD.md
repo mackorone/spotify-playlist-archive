@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-749 songs - 1 day 13 hr 40 min
+751 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,11 +427,13 @@
 | [misunderstood](https://open.spotify.com/track/1E0IXWXtlqRjO46cfMXIRJ) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl) | [misunderstood](https://open.spotify.com/album/0NUdAPurIahjbvjmlAdk6K) | 2:09 | 2024-01-18 | 2024-08-28 |
 | [Models](https://open.spotify.com/track/7xUNCA7dezcwtlo7IOYgdC) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Models](https://open.spotify.com/album/3UW07KJKOcewzC2V6XIjfM) | 2:32 | 2024-09-05 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 | 2023-04-28 |
+| [MONTAGEM FAVELA](https://open.spotify.com/track/0hMmei0Cpl0nT46rxdBb46) | [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [MONTAGEM FAVELA](https://open.spotify.com/album/06cAtsno0kOvTwmxTUofyD) | 1:33 | 2025-08-22 |  |
 | [Montagem Toma](https://open.spotify.com/track/1ukD6B5zhWdi7KM8ECFspS) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [SK3TCH01](https://open.spotify.com/artist/0NakXcxWSSLTMHvJsDWPVC), [X972](https://open.spotify.com/artist/0ShRIzN5hJDUBGPmn1rt50) | [Montagem Toma](https://open.spotify.com/album/2hYJXuu5zfVZqBmzwLBaJs) | 2:02 | 2025-05-09 |  |
 | [Moon Farewell](https://open.spotify.com/track/26RqDVvcnpBLGeSkfwc6DW) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E) | [The Noise Will Get Us Home](https://open.spotify.com/album/0fVlmoZwqMCT3HKkqVJv9V) | 2:49 | 2024-01-18 | 2024-08-28 |
 | [More](https://open.spotify.com/track/01eUcUUfmt69IpEGGVZCAH) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [More](https://open.spotify.com/album/3N3hF12L5Jo51eZulkniES) | 2:29 | 2023-08-25 | 2023-12-14 |
 | [Morning Drift](https://open.spotify.com/track/7ysODkt3SLz9zLfo9yy2LJ) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Morning Drift](https://open.spotify.com/album/42XNg9HHKO2XlsJ503JELj) | 3:55 | 2023-12-26 | 2024-07-19 |
 | [Mortals](https://open.spotify.com/track/11uvudmvZBzG2ztQsOB5sF) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals](https://open.spotify.com/album/0JhCeDwLctpO8clf63QtZs) | 3:48 | 2023-08-08 |  |
+| [Mortals \(Hindi\)](https://open.spotify.com/track/1kywuh5xcfX0RqKvArEbuv) | [Zeus X Crona](https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Mortals \(Hindi\)](https://open.spotify.com/album/7htRAfBX39TrrpnS1w7cg8) | 2:26 | 2025-08-22 |  |
 | [Mortals \- Slowed](https://open.spotify.com/track/6ZFsKNX6OhlVEBWQww7Phk) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Slowed Sounds](https://open.spotify.com/artist/1t8rqyTMu1FA6zaRCASTcF) | [Mortals \(Sped Up/Slowed\)](https://open.spotify.com/album/0dJP9B11EhiFsB2taGAPUL) | 4:34 | 2024-08-12 |  |
 | [Mortals \- TOKYO MACHINE & Boom Kitty Remix](https://open.spotify.com/track/03K9YeLWE900kmpSesDBWe) | [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Boom Kitty](https://open.spotify.com/artist/3h4xRI8zK3aZygXhxNFjoR) | [Mortals \(TOKYO MACHINE & Boom Kitty Remix\)](https://open.spotify.com/album/2PzBtE2GgtPzBEQxuxVQ1m) | 2:48 | 2025-02-14 |  |
 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 | 2025-01-18 |  |

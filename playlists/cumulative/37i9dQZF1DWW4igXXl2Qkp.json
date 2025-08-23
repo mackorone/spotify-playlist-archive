@@ -3838,7 +3838,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-03",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "BBC",
       "url": "https://open.spotify.com/track/4PT50aQpCi7G7hkEOeLNON"
@@ -7292,7 +7292,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 184320,
       "name": "Closure",
       "url": "https://open.spotify.com/track/7oTN46geF3abGBOwQvnMLg"
@@ -18809,6 +18809,24 @@
     },
     {
       "album": {
+        "name": "Legendary Run",
+        "url": "https://open.spotify.com/album/1NtdIMOJEkQEIlfuJlgdjx"
+      },
+      "artists": [
+        {
+          "name": "A2P Fred",
+          "url": "https://open.spotify.com/artist/1NCYuwDTI9FZWIEtbDX1Jc"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183952,
+      "name": "Legendary Run",
+      "url": "https://open.spotify.com/track/6XPKLttBarFY0JfpyILdrv"
+    },
+    {
+      "album": {
         "name": "Lemon Pepper",
         "url": "https://open.spotify.com/album/7ie2lDrf9c54apB7CELMbn"
       },
@@ -20284,6 +20302,24 @@
       "duration_ms": 136800,
       "name": "M's",
       "url": "https://open.spotify.com/track/3TZKsnokreDE2XnZL3Lprh"
+    },
+    {
+      "album": {
+        "name": "M.I.A.",
+        "url": "https://open.spotify.com/album/33ryYYz72mudAanaNMe9ZF"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9",
+          "url": "https://open.spotify.com/artist/5pDY9dgZO8O1yNZDARb62q"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "M.I.A.",
+      "url": "https://open.spotify.com/track/0T0Esky64OORLfjs2UN6Cx"
     },
     {
       "album": {
@@ -24179,6 +24215,24 @@
     },
     {
       "album": {
+        "name": "No More Favors",
+        "url": "https://open.spotify.com/album/2RX13sEOl5v5XrfXfYdw3V"
+      },
+      "artists": [
+        {
+          "name": "ffawty",
+          "url": "https://open.spotify.com/artist/6rYO569C4mZHQUP7Q2oiDN"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "No More Favors",
+      "url": "https://open.spotify.com/track/1y9oZOwSGhz4QFelamp1R7"
+    },
+    {
+      "album": {
         "name": "Pain or Problems",
         "url": "https://open.spotify.com/album/0X8GwwH60Ifgm9q9IXOIks"
       },
@@ -25174,7 +25228,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 84000,
       "name": "On Stream",
       "url": "https://open.spotify.com/track/1TTEzu7mpa9WvrKelj5Wiy"
@@ -25920,6 +25974,24 @@
       "duration_ms": 195180,
       "name": "paralyzed",
       "url": "https://open.spotify.com/track/7ALAN1JLs1BvstZ90CcikU"
+    },
+    {
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/5fLAJ9Bdjz06mMACAsnris"
+      },
+      "artists": [
+        {
+          "name": "Sharc",
+          "url": "https://open.spotify.com/artist/7Kt7O3A8zdjcCYPFopGTiY"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125734,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7bOk4nzWUpWM85ixWdmTig"
     },
     {
       "album": {
@@ -26726,7 +26798,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 210697,
       "name": "Pom Poms",
       "url": "https://open.spotify.com/track/6Wt9dKJWtBuD8909x4JNvW"

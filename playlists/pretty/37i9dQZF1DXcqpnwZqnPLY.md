@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqpnwZqnPLY.md) - [plain]
 
 > Get ready for the upcoming concert by listening to the artist's best songs! \(아티스트의 베스트곡을 들으며 다가오는 콘서트를 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147 likes - 21 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200 likes - 21 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqpnwZqnPLY.md) - [plain]
 | 20 | [RIZZ \- Japanese Ver.](https://open.spotify.com/track/0QE867nutX19MiSysnJJLV) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [かくれんぼ \(Hide and Seek\)](https://open.spotify.com/album/4Dyq3HQipa3esnCH9cqugx) | 2:44 |
 | 21 | [Chroma Drift \- Japanese Ver.](https://open.spotify.com/track/0zkxmw4z4tErNV5dpYusU3) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [かくれんぼ \(Hide and Seek\)](https://open.spotify.com/album/4Dyq3HQipa3esnCH9cqugx) | 3:30 |
 
-Snapshot ID: `AAAAAJd6L+DE8j9WJ4tHL2yX8Ep5clfq`
+Snapshot ID: `AAAAAAcpI9KSox8tf5PTd7VdnotggjAD`

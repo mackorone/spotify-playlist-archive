@@ -4,7 +4,7 @@
 
 > Det beste av ny pop akkurat nå! 🍭
 
-341 songs - 17 hr 32 min
+342 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-06 | 2025-08-12 |
 | [Adrian](https://open.spotify.com/track/2Ln8xLOCZhoVnPOeS8L1XY) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [Adrian](https://open.spotify.com/album/2elgEJLcjWjFTRObJuxmDS) | 3:37 | 2024-09-26 | 2024-10-22 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-06-27 | 2025-02-21 |
-| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 |  |
+| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 | 2025-08-23 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-01-31 |
 | [All Night](https://open.spotify.com/track/6Qs5f4GnWPnKM0vTK8LdUI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [All Night](https://open.spotify.com/album/1xQ8Rh75TdIzj9sIK4mzGD) | 2:45 | 2025-06-26 |  |
 | [Alle vil til himmelen](https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Alle vil til himmelen](https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z) | 2:25 | 2025-08-11 | 2025-08-17 |
@@ -213,6 +213,7 @@
 | [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-05-29 | 2025-08-01 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-06 |  |
 | [Maniac](https://open.spotify.com/track/6CWRYS1AaB6SGRGR8BsAMs) | [Lila](https://open.spotify.com/artist/7fMaGYPt2Za9wzgOWhWYG4) | [Maniac](https://open.spotify.com/album/6U9qXDKONFYij1UFxllzYE) | 3:17 | 2025-05-08 | 2025-07-25 |
+| [Messiah](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 4:36 | 2025-08-21 |  |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-01-09 |  |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2025-03-28 |
 | [Milk and honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 | 2024-11-01 | 2024-11-15 |
@@ -317,7 +318,6 @@
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-20 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-11-02 |
 | [Toscana](https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Toscana](https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q) | 2:46 | 2025-06-12 | 2025-06-27 |
-| [Track 1](https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Testament](https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG) | 0:00 | 2025-08-21 |  |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-27 | 2024-11-02 |
 | [Tur i oturen](https://open.spotify.com/track/3StEuRZxRwnI715XuNyk2K) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tur i oturen](https://open.spotify.com/album/1vwBrTS2u2X0FPRQcjinhe) | 2:57 | 2025-01-23 | 2025-02-07 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2025-03-27 |  |
@@ -344,6 +344,7 @@
 | [WOMAN’S WORLD](https://open.spotify.com/track/7hDvcL88hXoofWcxPGmBpW) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [WOMAN’S WORLD](https://open.spotify.com/album/0aFSLGHaCuEfBPyF6AFofM) | 2:43 | 2024-07-11 | 2024-12-09 |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-20 | 2025-07-05 |
 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 | 2024-07-18 | 2024-08-02 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-21 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-06-27 | 2024-11-02 |
 | [You Found Me](https://open.spotify.com/track/0xr8Vdy7svQMJXicR1XWEt) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [You Found Me](https://open.spotify.com/album/0A4r9XhPvTM5Axc2ctn3Kv) | 3:27 | 2024-06-27 | 2024-07-19 |
 | [You Killed The Music](https://open.spotify.com/track/2Km8hIwZJWq7migmM1dZzy) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [You Killed The Music](https://open.spotify.com/album/4ygQDkkZoggfIDXxOb1VJW) | 3:06 | 2025-02-20 | 2025-04-23 |

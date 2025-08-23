@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: HoneyLuv, Aluna
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,272 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,292 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,16 +17,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 7 | [Come Get Dis](https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ) | [Girls Don't Sync](https://open.spotify.com/artist/4SluGaQhJuMDsRRMf1PWKT) | [Come Get Dis](https://open.spotify.com/album/3HZwaISTcIUB8WFaRVZSfG) | 2:25 |
 | 8 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 |
 | 9 | [Club Hoppin'](https://open.spotify.com/track/1gZRX2PCBlqS5LqyZtbuDB) | [Smokey Bubblin' B](https://open.spotify.com/artist/1iXq8vdKgJp43m1vhiAmUM) | [Club Hoppin'](https://open.spotify.com/album/4z6TvKTIQFxsBE19Ey2OJQ) | 2:25 |
-| 10 | [Love Stance](https://open.spotify.com/track/4tzPJX7BGhCPuAV2zjJ7fU) | [Elliot Schooling](https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu) | [Love On](https://open.spotify.com/album/76m8G5GNFwilDWPvfk7gNJ) | 3:04 |
-| 11 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
-| 12 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
-| 13 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 |
-| 14 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 |
-| 15 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 |
-| 16 | [Super Freak](https://open.spotify.com/track/41AT0C3NBQmqR89feSXiB8) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Super Freak](https://open.spotify.com/album/3DIWhjoomwuLF2qYv9HlQx) | 3:16 |
-| 17 | [Let's Dance](https://open.spotify.com/track/2jNEy7Cd0gapx39YgdzhKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Let's Dance](https://open.spotify.com/album/3JWGEbw29Trh5MxFMjYEXv) | 4:08 |
-| 18 | [Time Away](https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [ENDZ061](https://open.spotify.com/album/66l4BIequxiDPjxXoH900j) | 2:57 |
-| 19 | [Our Revival](https://open.spotify.com/track/7Aad3Z9z0urIfYbgz35EqD) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Our Revival](https://open.spotify.com/album/4z5q3WAhcHRbX2DAr8I9np) | 3:24 |
+| 10 | [Our Revival](https://open.spotify.com/track/7Aad3Z9z0urIfYbgz35EqD) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Our Revival](https://open.spotify.com/album/4z5q3WAhcHRbX2DAr8I9np) | 3:24 |
+| 11 | [Love Stance](https://open.spotify.com/track/4tzPJX7BGhCPuAV2zjJ7fU) | [Elliot Schooling](https://open.spotify.com/artist/6kxjV47PkAw81io31d6OWu) | [Love On](https://open.spotify.com/album/76m8G5GNFwilDWPvfk7gNJ) | 3:04 |
+| 12 | [Tension](https://open.spotify.com/track/4PJYVBDYTKwK1hODEfytY7) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Tension](https://open.spotify.com/album/0mNkjg8bqk5QdiIiDcHXcC) | 2:28 |
+| 13 | [Marvellous](https://open.spotify.com/track/5B1BpFH1FPUZpPC4B9s56e) | [Mason Collective](https://open.spotify.com/artist/5v1K4IgzvVs7rFzessYPhS), [YLAM](https://open.spotify.com/artist/2kixbJX46KWU5bGstDytVy) | [Marvellous](https://open.spotify.com/album/0Qal5nMPeJbTEnWDKFApfs) | 3:30 |
+| 14 | [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 |
+| 15 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 |
+| 16 | [Are U Still Smiling?](https://open.spotify.com/track/7bPo4vIzlcxpWadcsj7MHR) | [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G) | [That's a Vibe](https://open.spotify.com/album/3nCJ7MLW17oUep7ZvW3ugz) | 4:32 |
+| 17 | [Super Freak](https://open.spotify.com/track/41AT0C3NBQmqR89feSXiB8) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Simon Doty](https://open.spotify.com/artist/0NznnEmGCRqungT5a57GG3) | [Super Freak](https://open.spotify.com/album/3DIWhjoomwuLF2qYv9HlQx) | 3:16 |
+| 18 | [Let's Dance](https://open.spotify.com/track/2jNEy7Cd0gapx39YgdzhKD) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Let's Dance](https://open.spotify.com/album/3JWGEbw29Trh5MxFMjYEXv) | 4:08 |
+| 19 | [Time Away](https://open.spotify.com/track/1iiXVOS9qPOusYnUFKhCAr) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [ENDZ061](https://open.spotify.com/album/66l4BIequxiDPjxXoH900j) | 2:57 |
 | 20 | [Don't Cha \(with BLOND:ISH\)](https://open.spotify.com/track/4J3qGm51suBgqxJS59L6j4) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Don't Cha \(with BLOND:ISH\)](https://open.spotify.com/album/20H5mNlmlG9sn4QyVpLtIA) | 2:54 |
 | 21 | [Hotter](https://open.spotify.com/track/5e64BJMiH8fGZZCqBzy0Fg) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Hotter](https://open.spotify.com/album/4xVtfO8YPc2cvXwe8Yl7xQ) | 3:10 |
 | 22 | [Want U](https://open.spotify.com/track/0hW6yD1MgFpwonGgFf617D) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Want U](https://open.spotify.com/album/4KImdEXoK1S2Id8E53qTgW) | 3:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 99 | [Bad Girl Ri Ri \- Radio Edit](https://open.spotify.com/track/1Vo20HpiRIbqNQ30Y9ic3N) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Bad Girl Ri Ri](https://open.spotify.com/album/69hROMpJPLarGywv8uorVb) | 3:48 |
 | 100 | [Underground Ways](https://open.spotify.com/track/3gdGg8aoZ0rVStKAOSCPff) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Underground Ways](https://open.spotify.com/album/2Ygx3tuwzLxSL5nWFZoIeI) | 3:17 |
 
-Snapshot ID: `AAAAAGmMHBDvoxKPQYtrzqnphYS6z/Cu`
+Snapshot ID: `AAAAALczZ7EzBLHC7WJBcO7R2ngjoOPm`

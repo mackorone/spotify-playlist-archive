@@ -4,7 +4,7 @@
 
 > New music from Doja Cat, sombr, Florence + The Machine, Netsky & Bebe Rexha and more...
 
-5,995 songs - 13 day 4 hr 49 min
+5,997 songs - 13 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-16 | 2025-01-24 |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-07 | 2024-11-15 |
 | [Cellophane](https://open.spotify.com/track/5kJeqDKycQxfKK4DsyOvGo) | [Udeyfa](https://open.spotify.com/artist/42QbF5PHeJjfobVba55yco), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Authentique](https://open.spotify.com/album/7yltMnLaGbWRxgtguklRuS) | 2:53 | 2025-04-10 | 2025-04-18 |
+| [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-08-22 |  |
 | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/track/54Ti1KKYAVG2PdDdNx5cqH) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Namayana Women's Choir](https://open.spotify.com/artist/5VaB3puDBDbNGldxINR9rJ) | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/album/4XOUS79S6VwUizow9b4ePm) | 3:02 | 2024-09-26 | 2024-10-04 |
 | [Cervôlan](https://open.spotify.com/track/6Nqwg5kJ6s0w3zCw5Rdkbw) | [Le Dé](https://open.spotify.com/artist/2UZBLsGKZZnYDb37cDM13m), [Rhum One](https://open.spotify.com/artist/3jJBcXK79N392qKNropVMZ) | [Cervôlan](https://open.spotify.com/album/4CcQO8hqxlzDfuTRbnjniD) | 3:17 | 2024-07-04 | 2024-07-12 |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-15 | 2024-11-22 |
@@ -1827,6 +1828,7 @@
 | [Freaky](https://open.spotify.com/track/3Xxj5bYcJhw88wW8t5lcuG) | [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN) | [Freaky](https://open.spotify.com/album/3eKf6nZJ5IrFABt6fohShg) | 2:38 | 2024-12-05 | 2024-12-13 |
 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-03-27 | 2025-04-04 |
 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 | 2024-07-11 | 2024-07-19 |
+| [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 | 2025-08-22 |  |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-26 | 2024-08-02 |
 | [FREE CONGO](https://open.spotify.com/track/6RAYjbw8M4gZ5lkZKipWFC) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [FREE CONGO](https://open.spotify.com/album/1hLPzmMntzpYy2Ajp9Ba5s) | 3:34 | 2025-02-21 | 2025-02-28 |
 | [Free For Another Day](https://open.spotify.com/track/3ouNQOmQUd1swZpXWFlMPe) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Free For Another Day](https://open.spotify.com/album/3aER22kJjTQAiiLNGfnuRr) | 2:42 | 2024-09-05 | 2024-09-13 |

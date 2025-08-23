@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16317,
+  "num_followers": 16324,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABTNVjXogJ0qB+qtO8vYFwv",
+  "snapshot_id": "aKZhgAAAAAAi33bD8g0HI2yMqxiHDM4T",
   "tracks": [
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Black Country: The Songs of Alice Randall",
-        "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Big Dream",
-      "url": "https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JPEG RAW",
         "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 183634,
       "name": "Don't Start (feat. Valerie June)",
       "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Black Country: The Songs of Alice Randall",
+        "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Big Dream",
+      "url": "https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg"
     },
     {
       "added_at": null,
@@ -619,42 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
-        }
-      ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up and Rolling (feat. Son Little and Valerie June)",
         "url": "https://open.spotify.com/album/7lhmScuKFqX2uzvuBkXYOk"
       },
@@ -675,6 +639,42 @@
       "duration_ms": 201921,
       "name": "Up and Rolling (feat. Son Little and Valerie June)",
       "url": "https://open.spotify.com/track/2Z76Gvp5iZcEkszy10LNQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,

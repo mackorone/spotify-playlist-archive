@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,763 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,773 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 49 | [Se Eu Te Procurar](https://open.spotify.com/track/7dYm9m4c51h4IeICvu6b1O) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Do Jeito que Nóis Gosta 2](https://open.spotify.com/album/3i7XBb2cgTp2QCCv3xcQwM) | 2:41 |
 | 50 | [Pegada Que Desgrama](https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Pegada Que Desgrama](https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An) | 3:02 |
 | 51 | [Quem Me Dera](https://open.spotify.com/track/2lAyctg5FocS67eksHoyIg) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Made In Studio](https://open.spotify.com/album/0hhxRGCkTsDfYiameCrdqV) | 2:27 |
-| 52 | [Desbotequei \(Ai Bebê\) \- Acústico / Ao Vivo](https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Acústico Show PPA \(Acústico / Ao Vivo\)](https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww) | 2:27 |
-| 53 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
+| 52 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
+| 53 | [Desbotequei \(Ai Bebê\) \- Acústico / Ao Vivo](https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Acústico Show PPA \(Acústico / Ao Vivo\)](https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww) | 2:27 |
 | 54 | [MC Lençol e DJ Travesseiro](https://open.spotify.com/track/2ozsutWRgcaZKJsQ6DvFFv) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Mc Lençol e Dj Travesseiro](https://open.spotify.com/album/6eBS5yuROQbX05f81qtbru) | 2:58 |
 | 55 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
 | 56 | [Cuidado Que Eu Te Supero](https://open.spotify.com/track/5J4tK2FbXQEeC0AsfFgwpz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Cuidado Que Eu Te Supero](https://open.spotify.com/album/5cy77CZQvesZwpCbgZzHfz) | 2:54 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 79 | [Terapinga \- Ao Vivo](https://open.spotify.com/track/2YCTACQ3QfMr9QtlGI2tQE) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8) | [Sou do Interior \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/7wo5bswQTsr4Nmk97UNG3V) | 2:56 |
 | 80 | [Mundo de Ilusões \- Ao Vivo](https://open.spotify.com/track/3UxbT06Mz8aTJbHYYIxwkI) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Mundo de Ilusões \(Ao Vivo\)](https://open.spotify.com/album/15Mfvr76GKsxj0Bw4FEwFi) | 3:05 |
 | 81 | [Amor De Cana \- Ao Vivo](https://open.spotify.com/track/0fZfE8LEbsQT8eLMxqJBRF) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 2:43 |
-| 82 | [Aperte O Play \- Ao Vivo](https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Aperte O Play! \(Ao Vivo\)](https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI) | 3:21 |
-| 83 | [Frieza \- Ao Vivo](https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Frieza \(Ao Vivo\)](https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt) | 3:05 |
+| 82 | [Frieza \- Ao Vivo](https://open.spotify.com/track/5rM3D9t7d7DlcsDe9RIB3b) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Frieza \(Ao Vivo\)](https://open.spotify.com/album/168758Ys5Cjmyg5PdpQLOt) | 3:05 |
+| 83 | [Aperte O Play \- Ao Vivo](https://open.spotify.com/track/5M8qHiAV6b0jo3phlyhxcR) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Aperte O Play! \(Ao Vivo\)](https://open.spotify.com/album/7aTa9z5YclUkR84FcTjsGI) | 3:21 |
 | 84 | [Pronta pra Trair](https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Pronta pra Trair](https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ) | 2:57 |
 | 85 | [Jenifer](https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Jenifer](https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH) | 2:40 |
 | 86 | [Coração de Quatro](https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Coração de Quatro](https://open.spotify.com/album/6Q2cBAHXCOtQakQTO5Y3vb) | 2:35 |

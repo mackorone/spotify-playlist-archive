@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 146040,
+  "num_followers": 146041,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -63,6 +63,22 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
+        "name": "\u592a\u5e73\u76db\u4e16",
+        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+      },
+      "artists": [
+        {
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "\u611b\u6211\u9084\u662f\u4ed6",
+      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
         "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
       },
@@ -79,18 +95,18 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u592a\u5e73\u76db\u4e16",
-        "url": "https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU"
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr"
       },
       "artists": [
         {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
         }
       ],
-      "duration_ms": 292666,
-      "name": "\u611b\u6211\u9084\u662f\u4ed6",
-      "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
+      "duration_ms": 209760,
+      "name": "\u9047\u898b",
+      "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -127,22 +143,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "\u9047\u898b",
-      "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u98db\u5152\u6a02\u5718",
         "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 313313,
       "name": "\u646f\u53cb",
       "url": "https://open.spotify.com/track/5evE7bweEhX83fd1ZmwPjP"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u6211\u8981\u7684\u5e78\u798f",
+        "url": "https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 271493,
+      "name": "\u958b\u59cb\u61c2\u4e86",
+      "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -207,22 +223,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u6211\u8981\u7684\u5e78\u798f",
-        "url": "https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 271493,
-      "name": "\u958b\u59cb\u61c2\u4e86",
-      "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u8033\u6735",
         "url": "https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy"
       },
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
+        "name": "\u672a\u5b8c\u6210",
+        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "\u6211\u4e0d\u96e3\u904e",
+      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
         "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
         "url": "https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 289400,
       "name": "\u5929\u540e",
       "url": "https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
-        "name": "\u672a\u5b8c\u6210",
-        "url": "https://open.spotify.com/album/1kOV94kOm4oCBzloDcW9ry"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "\u6211\u4e0d\u96e3\u904e",
-      "url": "https://open.spotify.com/track/4XrWar13kLO1jr535AzKrQ"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u5e7e\u5206\u4e4b\u5e7e",
-        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 228570,
-      "name": "\u5e7e\u5206\u4e4b\u5e7e - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u9ed1\u00b7\u767d\u00b7\u7070",
         "url": "https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 205423,
       "name": "\u5341\u5e74",
       "url": "https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u5e7e\u5206\u4e4b\u5e7e",
+        "url": "https://open.spotify.com/album/2yBLZVs24cFju6t8Jrnpbx"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 228570,
+      "name": "\u5e7e\u5206\u4e4b\u5e7e - \u96fb\u5f71<\u82b1\u7532\u5927\u4eba\u8f49\u7537\u5b69>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/4F7ZAsndEIJXyFzJUHNlRu"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -431,22 +431,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
-        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 320165,
-      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60 (\u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 239794,
       "name": "\u60f3\u898b\u4f60\u60f3\u898b\u4f60\u60f3\u898b\u4f60 - \u96fb\u8996\u5287\u300a\u60f3\u898b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
+        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 320165,
+      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u9676\u5586\u540c\u540d\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q"
-      },
-      "artists": [
-        {
-          "name": "David Tao",
-          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "\u6d41\u6c99",
-      "url": "https://open.spotify.com/track/5ZZwQy1wofQhj7LJDNLflT"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u6211\u8981\u5feb\u6a02 (Deluxe Version)",
         "url": "https://open.spotify.com/album/1fsechrfx3xbd80bQcXzyM"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u8a8d\u4e86\u5427",
-        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
+        "name": "\u9676\u5586\u540c\u540d\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/433Xh8UtsKASBYCt0QNk4Q"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "David Tao",
+          "url": "https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB"
         }
       ],
-      "duration_ms": 250493,
-      "name": "\u597d\u4e45\u4e0d\u898b",
-      "url": "https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR"
+      "duration_ms": 242560,
+      "name": "\u6d41\u6c99",
+      "url": "https://open.spotify.com/track/5ZZwQy1wofQhj7LJDNLflT"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -571,6 +555,22 @@
       "duration_ms": 206053,
       "name": "\u518d\u898b",
       "url": "https://open.spotify.com/track/5UAGQJmL7Rn4gn7wlkMyqS"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/2CKvwKuHcZvnt4mC9DB6Fk"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "\u597d\u4e45\u4e0d\u898b",
+      "url": "https://open.spotify.com/track/7LHaRfgjJzOEzvnAZVxxtR"
     },
     {
       "added_at": "2025-06-25 03:20:27",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-06-25 03:20:27",
       "album": {
-        "name": "\u83ef\u8207\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
-      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
-    },
-    {
-      "added_at": "2025-06-25 03:20:27",
-      "album": {
         "name": "\u9084\u662f\u60f3\u5ff5",
         "url": "https://open.spotify.com/album/4Bay19OUdTjD1eB7NOF4dP"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 273405,
       "name": "\u5bb6\u5bb6\u9152",
       "url": "https://open.spotify.com/track/6mO5fCJKvB9tr5RAFvBO7z"
+    },
+    {
+      "added_at": "2025-06-25 03:20:27",
+      "album": {
+        "name": "\u83ef\u8207\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
+      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
     },
     {
       "added_at": "2025-06-25 03:20:27",

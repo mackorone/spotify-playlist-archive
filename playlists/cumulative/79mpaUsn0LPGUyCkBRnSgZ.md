@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-878 songs - 2 day 10 hr 17 min
+883 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [100,000 Voices](https://open.spotify.com/track/4RenR9s7VhyzHVHMdTmjx2) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 4:44 | 2024-03-01 | 2024-03-09 |
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 | 2023-07-29 |
 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2023-01-19 | 2024-01-18 |
+| [1995](https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 4:49 | 2025-08-22 |  |
 | [2122](https://open.spotify.com/track/1VViOwNoUfimwsy3wlk7d8) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [3D Country](https://open.spotify.com/album/475CtqaU2OY24xBvIekWV6) | 3:52 | 2023-09-08 | 2024-01-22 |
 | [3 Sisters](https://open.spotify.com/track/0AO3ejChi1gRBWvUDMH2kg) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:10 | 2024-03-22 | 2025-06-21 |
 | [3CAG](https://open.spotify.com/track/4XrpaCHWJUeOmhX9TjWyEq) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Fine Art](https://open.spotify.com/album/6Wt3uI8G0yhXSvC0jAl9Cg) | 3:08 | 2024-06-28 |  |
@@ -239,6 +240,7 @@
 | [Earthquake](https://open.spotify.com/track/1X9468G9BtZSdjYGV3QBWm) | [Tenci](https://open.spotify.com/artist/5ptfrHC6idq4KnsXBk5tup) | [My Heart Is An Open Field](https://open.spotify.com/album/6Ks507WDVnwn2p9VANI2No) | 4:14 | 2024-02-07 |  |
 | [Easier](https://open.spotify.com/track/416e0SQe40tOyhQt9krWNz) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Yellow House](https://open.spotify.com/album/6t0H9hI4985J8y6HbWu6ta) | 3:43 | 2023-06-19 | 2024-04-03 |
 | [easy](https://open.spotify.com/track/0wJvASZtBXXxNAfnmHd0Tr) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [i don’t know who needs to hear this...](https://open.spotify.com/album/5orWhhMYUzPXsKx4pDZWak) | 5:41 | 2024-01-03 | 2024-07-09 |
+| [Echo Of My Shadow](https://open.spotify.com/track/71C3wpAeAjNfK8hwacQW5U) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV) | 4:04 | 2025-08-22 |  |
 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 | 2023-06-24 |  |
 | [endless](https://open.spotify.com/track/0WxgcCdTvtOrAqfSDzBcDB) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:35 | 2025-02-10 | 2025-08-04 |
 | [Enter Sandman \(Remastered\)](https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:31 | 2024-01-08 |  |
@@ -252,6 +254,7 @@
 | [Everyday](https://open.spotify.com/track/0ameyezi8mF5HdFqBp7DLF) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 6:31 | 2023-05-06 |  |
 | [Everyone I Went to High School with Is Dead](https://open.spotify.com/track/2apsFfsxR5nkYkHaDMOs74) | [Mr\. Bungle](https://open.spotify.com/artist/2zq0uqN9Wq12tqrQQt1ozw) | [Disco Volante](https://open.spotify.com/album/0DK10k39r9LAZ7HgP1EPuB) | 2:45 | 2023-06-06 |  |
 | [EVERYTHANG WORKIN ON A NATURAL TIME](https://open.spotify.com/track/59f5ksvfMxfNvG3liKsujB) | [Cities Aviv](https://open.spotify.com/artist/4m0HRALRlPxbZp5SwvktFX) | [MAN PLAYS THE HORN](https://open.spotify.com/album/1OmF3bAtGjsC8TH7ebyE0f) | 4:03 | 2024-01-09 |  |
+| [Everything's Fine](https://open.spotify.com/track/61yVt2xUIrwYI53xY3jSFE) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Everything's Fine](https://open.spotify.com/album/51WZxnoOPfdGY2yUwfCLhf) | 1:07 | 2025-08-22 |  |
 | [Example](https://open.spotify.com/track/3O12z8A2IYJFJg2dON3Zeg) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:00 | 2022-07-14 |  |
 | [Faith In Nothing Except In Salvation](https://open.spotify.com/track/3nJANUU8P91F8ti4Oz1WML) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Safe In The Hands of Love](https://open.spotify.com/album/01HArmgfXe7xDaYXWKfhuf) | 1:33 | 2024-01-12 | 2024-05-20 |
 | [Fake Empire](https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX) | 3:25 | 2023-01-17 |  |
@@ -339,6 +342,7 @@
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 | 2024-01-02 |
 | [Hot Tent Blues](https://open.spotify.com/track/71Vlx8pCp21bmgNx9PZsx5) | [Late of the Pier](https://open.spotify.com/artist/5ZBQea34QfBgEDkcGEKK2b) | [Fantasy Black Channel](https://open.spotify.com/album/08MTKoAy7sggTqeQNcvDdi) | 1:15 | 2024-06-08 | 2024-06-12 |
 | [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 | 2024-10-14 | 2024-12-03 |
+| [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 | 2025-08-23 |  |
 | [Howling At The Moon](https://open.spotify.com/track/4dXNZHMLQSg1slX92JGjA1) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Love Gun 2](https://open.spotify.com/album/2jHaYTt9piEHSwhqA3ZJlB) | 4:36 | 2024-07-19 |  |
 | [Huh? \(Intro\)](https://open.spotify.com/track/2KlgoBhIRYyGt0BbOeyjlN) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Sweet Heart Sweet Light](https://open.spotify.com/album/4hrpqNai22Fpg51cmHmUCm) | 1:01 | 2024-03-11 | 2025-07-25 |
 | [Hunchback](https://open.spotify.com/track/0VHwZQkuVS8JFKMGL3HURj) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3TmWAswHIm0Vb08qymeagU) | 4:49 | 2025-02-24 |  |
@@ -660,6 +664,7 @@
 | [She Looked Like Me!](https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:13 | 2024-09-09 |  |
 | [Shepherd’s Welcome](https://open.spotify.com/track/5imF1gGEUJ4Ub8FrDKDW3Y) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Shepherd in a Sheepskin Vest](https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp) | 2:22 | 2024-01-19 |  |
 | [She’s Expecting You \(feat\. Phylicia Rashad\)](https://open.spotify.com/track/7Epbvcmjoh3CCOP5RtSVI3) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Phylicia Rashad](https://open.spotify.com/artist/4b6gmSpQTEPc1UZY8oaPVM) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 1:08 | 2024-06-06 |  |
+| [Shining](https://open.spotify.com/track/66ALMWldXUZziIOSDv9jYB) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 3:08 | 2025-08-22 |  |
 | [Showrooms](https://open.spotify.com/track/0k2y3MveQl3daR9d21R3qO) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Sam Prekop](https://open.spotify.com/album/5clbSCoEBQwvwnByDJ2Z8D) | 4:21 | 2022-07-31 |  |
 | [Side A \[Old\]](https://open.spotify.com/track/4YN0Su0hKKxxfzzv431n4Y) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Old](https://open.spotify.com/album/5SC0415RIGVX9ZfL0tfbAl) | 2:23 | 2023-11-17 | 2024-03-16 |
 | [Sign O' The Times \- 2020 Remaster](https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign O' The Times](https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe) | 4:56 | 2021-12-30 | 2024-11-06 |

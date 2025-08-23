@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510 likes - 336 songs - 19 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 511 likes - 335 songs - 19 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,8 +186,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 176 | [Shut Me Up](https://open.spotify.com/track/0wX4YMWniDeyuZg65aVcV1) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Shut Me Up](https://open.spotify.com/album/4uTnjLNnItKKJfGX54hRxU) | 3:09 |
 | 177 | [On A Night Like This](https://open.spotify.com/track/2JDn5eXcun0P7Cbl3BpU5v) | [Sanne Salomonsen](https://open.spotify.com/artist/2tNnhfyBpjjEQEZywjlsCb) | [The Album](https://open.spotify.com/album/5fgADiYWrrEGTuG2o0k4PV) | 4:06 |
 | 178 | [Lonely Alone](https://open.spotify.com/track/1tDJdQc60knIRGXwOlfSIN) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 4:37 |
-| 179 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 |
-| 180 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
+| 179 | [She Gets To Drinking](https://open.spotify.com/track/6zLAkT80MxW8ek36okIyQE) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 4:15 |
+| 180 | [Looking For A Lighter](https://open.spotify.com/track/4AzJiwev9fmVbw0X8mWb1P) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [If It Wasn't For You](https://open.spotify.com/album/7ge2IbF35OIlj7Yimy14H7) | 3:03 |
 | 181 | [The Faker](https://open.spotify.com/track/4puoCLTBJlX4007xQLf1Am) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Dream](https://open.spotify.com/album/0uJHZD1qFZwvO1GyMzDA1G) | 3:49 |
 | 182 | [Dig A Hole](https://open.spotify.com/track/5hBTLtFdMIEcv0MB5fOPPY) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Dig A Hole](https://open.spotify.com/album/6VobrGcLu5Sz4RfMKaiqHR) | 2:51 |
 | 183 | [Getaway Car](https://open.spotify.com/track/15cLsxeItpUKOIXXJVjYaW) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Welcome To Diverse City](https://open.spotify.com/album/08J3ZjZXN1J5qNbla71PYI) | 4:26 |
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 203 | [It Ain't Easy](https://open.spotify.com/track/0zpVeUdz3eO7iJiOEdl2Up) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:05 |
 | 204 | [Sweet Louisiana](https://open.spotify.com/track/5pMNVwBmwQ7GfaVKfzuPzo) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 3:02 |
 | 205 | [Wounded](https://open.spotify.com/track/56SFMatA6nKIg2pROl35Fz) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 3:39 |
-| 206 | [Time on My Hands](https://open.spotify.com/track/4rFP0zt2o5K3W6Aq6rbOk8) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 2:56 |
-| 207 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
+| 206 | [Outrun Me](https://open.spotify.com/track/5I5rqEeq4vBj7gbJOgYDUR) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/2BXF8oLlDBkgTRAHyeZvuO) | 3:47 |
+| 207 | [Time on My Hands](https://open.spotify.com/track/4rFP0zt2o5K3W6Aq6rbOk8) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Any Night in Texas](https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY) | 2:56 |
 | 208 | [Loser](https://open.spotify.com/track/587HQbopl8sKlTxkUs4xoR) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Longcut](https://open.spotify.com/album/3CD0S22d8MEpuG34AmINSC) | 3:20 |
 | 209 | [Three Mississippi](https://open.spotify.com/track/4TgXc5k4jAEgtvczElBqqv) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Pain To Kill](https://open.spotify.com/album/49axBJyEks5UCGHHTwDwp3) | 3:59 |
 | 210 | [I'm Not Sad Anymore](https://open.spotify.com/track/0Jb6tCbyYQl3WF4wBcfafj) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
@@ -339,10 +339,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 329 | [No Worries](https://open.spotify.com/track/1Hz5RFB6MvqlU7O9lN6CZG) | [Fevah Dream](https://open.spotify.com/artist/21XsJP9KGd249Y8ElQjMnP) | [Roasted Coast](https://open.spotify.com/album/2FW9ezV35rUaToMsixDVme) | 3:31 |
 | 330 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
 | 331 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
-| 332 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 333 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
-| 334 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
-| 335 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
-| 336 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
+| 332 | [Make It Out](https://open.spotify.com/track/7lQnAxzNfWpHpL1VsA3gzy) | [Zaya Tha Flysta](https://open.spotify.com/artist/1CtP580MCBT8LGke5Riu35), [Mackie Fresh](https://open.spotify.com/artist/3ARzxhq2yh9R0eVClho12c) | [Welcome To The Underground](https://open.spotify.com/album/0jHN4uEq9DXiSYPUTVuxVU) | 3:14 |
+| 333 | [Summer Girl \(Karaoke Version\) \- Originally Performed By Jessica Andrews](https://open.spotify.com/track/2BnTOkStvLMRucaCxvukZb) | [Pro Choice Karaoke](https://open.spotify.com/artist/39SxEZ3tqMcObAi3T9QJzB) | [Karaoke Quick Tracks \- Sing the Hits of Jessica Andrews \(Karaoke Version\) \(Originally Performed By Jessica Andrews\)](https://open.spotify.com/album/4xlhT7jOQJT71ZcJXVtT4O) | 3:15 |
+| 334 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 335 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `Ab6H9AAAAAAXlDyVQC7xqb5iUp4/AH4w`
+Snapshot ID: `Ab6NigAAAAAMRRbIW3QQr144d3XleaHH`

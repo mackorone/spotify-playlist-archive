@@ -2,9 +2,9 @@
 
 ### [Hot Hits Thailand](https://open.spotify.com/playlist/37i9dQZF1DXc51TI5dx7RC)
 
-> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: Jaonaay
+> ฟังที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: เล็ก รัชเมศฐ์
 
-193 songs - 11 hr 32 min
+194 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [บทสรุปสุดท้าย](https://open.spotify.com/track/0gpFtSxhDc1gC7kYJ927fJ) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [บทสรุปสุดท้าย](https://open.spotify.com/album/0ClbWhARkNjt7ILo81OJ4K) | 4:24 | 2025-03-23 |  |
 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 | 2024-06-20 | 2024-12-06 |
 | [ผูกพันต้องลา](https://open.spotify.com/track/2HC3jRQilGWyFlvICAqCaP) | [GAVIN:D](https://open.spotify.com/artist/6gYafDbRgLFc6zFKxKCP22), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg), [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ผูกพันต้องลา](https://open.spotify.com/album/0cwGiZR0Gm9vIlbLORcjyk) | 3:20 | 2024-06-20 | 2024-08-24 |
-| [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-08-07 |  |
+| [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 | 2024-08-07 | 2025-08-23 |
 | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/track/3t1Ex6dp0O7tUP3NLyjAY8) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่คงไม่ชอบผมหรอก](https://open.spotify.com/album/6dOWpIUDYJSmJJia9G8nfB) | 3:14 | 2024-06-20 | 2024-08-08 |
 | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/track/7mVobUmGP12Y5SQJgBice3) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr), [VARINZ](https://open.spotify.com/artist/6HBK5QQwMGT6CduG11q9QZ) | [พี่ชอบหนูที่สุดเลย](https://open.spotify.com/album/69ybwJj0gIujut2fiIMQLY) | 3:06 | 2024-06-20 | 2024-07-12 |
 | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/track/1scf7fXKBaF1PPM3ej4sxK) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2) | [พูดเหมือนจำ ทำเหมือนเดิม \(SAME AGAIN\)](https://open.spotify.com/album/3GNuDVcOBOMm4L6TcfaFsJ) | 3:41 | 2025-05-23 |  |
@@ -188,6 +188,7 @@
 | [เจิดจรัส](https://open.spotify.com/track/3xyNRloMm2i6sNAlnnxLFA) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [เจิดจรัส](https://open.spotify.com/album/3N9qCU7JxkpNW6n5QCakNJ) | 4:21 | 2025-06-13 |  |
 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 | 2024-06-20 | 2025-02-22 |
 | [เพลงรัก](https://open.spotify.com/track/1THWgXia63L6sds6dIMlI9) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เพลงรัก \- Single](https://open.spotify.com/album/1COyEuHbhIOqwDlOybk74Z) | 4:29 | 2024-11-22 |  |
+| [เมื่อไหร่จะบอก](https://open.spotify.com/track/2ATz55UP6o2ZANEa84dx1H) | [ETC.](https://open.spotify.com/artist/1qz5HLBHOge1yHlMVAZ9hO), [The Parkinson](https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR) | [เมื่อไหร่จะบอก](https://open.spotify.com/album/6MbFdp0fjE8BDufYY38FOv) | 4:30 | 2025-08-22 |  |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-11 | 2024-09-14 |
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-23 | 2024-09-14 |
 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 | 2024-08-25 | 2025-02-13 |

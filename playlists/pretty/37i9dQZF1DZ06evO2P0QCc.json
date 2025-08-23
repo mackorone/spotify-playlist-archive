@@ -1,29 +1,13 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 119650,
+  "num_followers": 119670,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABD1Xl+jDD/dXzFDgPAKSx/",
+  "snapshot_id": "aKZhgAAAAACcZbaE56ayGAcmOOZr4/Qu",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brindo por ti (Sonando desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/6jhwA4nrC2k3K4CzFwQPW9"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Brindo por ti - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/3W8oqGTpqbVhDoikGdOkln"
-    },
     {
       "added_at": null,
       "album": {
@@ -343,6 +327,22 @@
       "duration_ms": 251680,
       "name": "Aunque No Sea Conmigo",
       "url": "https://open.spotify.com/track/6PpQWsbpTgmI7sk2iivhrK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brindo por ti (Sonando desde el Auditorio Nacional)",
+        "url": "https://open.spotify.com/album/6jhwA4nrC2k3K4CzFwQPW9"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Brindo por ti - Sonando desde el Auditorio Nacional",
+      "url": "https://open.spotify.com/track/3W8oqGTpqbVhDoikGdOkln"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 186693,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
+      "duration_ms": 186693,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2QQcCcfKvOazgWbDpVIvql"
     },
     {
       "added_at": null,

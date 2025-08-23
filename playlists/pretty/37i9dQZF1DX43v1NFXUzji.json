@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! Natanael Cano on cover",
-  "num_followers": 612256,
+  "num_followers": 612283,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "RZR",
-        "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "RZR",
-      "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "PARA\u00cdSO",
         "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 161666,
       "name": "Come Play (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "RZR",
+        "url": "https://open.spotify.com/album/7lWOTbEaKWftGJPYLjAgzg"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "RZR",
+      "url": "https://open.spotify.com/track/4qzgdMbUnkXaPTfstaGWcA"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Golfista",
-        "url": "https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 158927,
-      "name": "Golfista",
-      "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 198569,
       "name": "Madrid (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "Golfista",
+        "url": "https://open.spotify.com/album/0lTUD8YJxWaETCcV5sLPJH"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 158927,
+      "name": "Golfista",
+      "url": "https://open.spotify.com/track/0mmWol32PnowJQf0rZx5ab"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1803,8 +1803,8 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
       "artists": [
         {
@@ -1812,9 +1812,9 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 156400,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1911,8 +1911,8 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
       },
       "artists": [
         {
@@ -1920,9 +1920,9 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+      "duration_ms": 156400,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "X SI VOLVEMOS",
-        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "X SI VOLVEMOS",
-      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "Entre Nosotros",
         "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "X SI VOLVEMOS",
+        "url": "https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "X SI VOLVEMOS",
+      "url": "https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -2211,38 +2211,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Marisola (Remix)",
-        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "Marisola - Remix",
-      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -2279,6 +2247,38 @@
       "duration_ms": 186722,
       "name": "RON COLA",
       "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "Marisola (Remix)",
+        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "Marisola - Remix",
+      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -2423,26 +2423,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "PANTIES Y BRASIERES",
-        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 197383,
-      "name": "PANTIES Y BRASIERES",
-      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -2459,6 +2439,26 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "PANTIES Y BRASIERES",
+        "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 197383,
+      "name": "PANTIES Y BRASIERES",
+      "url": "https://open.spotify.com/track/0fADaWdT3obxk7zvHS18VY"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -2711,22 +2711,6 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "PARANOIA.",
-        "url": "https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 186248,
-      "name": "PARANOIA.",
-      "url": "https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -2743,22 +2727,18 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Mi Nena Remix",
-        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+        "name": "PARANOIA.",
+        "url": "https://open.spotify.com/album/4S65UMxUGogJERqXWAdEXU"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Mi Nena Remix",
-      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+      "duration_ms": 186248,
+      "name": "PARANOIA.",
+      "url": "https://open.spotify.com/track/4fbNiLNjjCTHZAIkcG5aIh"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -2783,22 +2763,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
-        "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5QhpI19RX6S2azhCwFqt3h"
+        "name": "Mi Nena Remix",
+        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 153362,
-      "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P"
+      "duration_ms": 220000,
+      "name": "Mi Nena Remix",
+      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -2823,6 +2803,26 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
+        "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5QhpI19RX6S2azhCwFqt3h"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 153362,
+      "name": "Siento que merezco m\u00e1s - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1o2D4uroeEIb4xLVcBHT6P"
     },
     {
       "added_at": "2025-07-25 06:00:35",
@@ -3103,6 +3103,22 @@
     {
       "added_at": "2025-07-25 06:00:35",
       "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 145970,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
+    },
+    {
+      "added_at": "2025-07-25 06:00:35",
+      "album": {
         "name": "Chulx",
         "url": "https://open.spotify.com/album/62TePDiuNi6IiWRcRqkawu"
       },
@@ -3123,22 +3139,6 @@
       "duration_ms": 183829,
       "name": "Chulx",
       "url": "https://open.spotify.com/track/3qEwSVYzhsynzgwjq4YXEa"
-    },
-    {
-      "added_at": "2025-07-25 06:00:35",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 145970,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
     },
     {
       "added_at": "2025-07-25 06:00:35",

@@ -2,9 +2,9 @@
 
 ### [Country Gold](https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU)
 
-> Spotify country fan favorites\. Cover: Dierks Bentley
+> Spotify country fan favorites\. Cover: Walker Hayes
 
-241 songs - 13 hr 50 min
+242 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Eyes On You](https://open.spotify.com/track/4w95iGC6NrxZJ5o3D7bWyV) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/2jynxUXDGPBkMgbXhL3KGQ) | 3:02 | 2023-11-13 | 2024-04-19 |
 | [Eyes On You](https://open.spotify.com/track/5AnSllIrgGsCZzZJkVnApx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Lambs & Lions](https://open.spotify.com/album/32XQ51OITWIlkwB0esqbwd) | 3:02 | 2021-12-03 | 2023-11-04 |
 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 | 2021-12-03 |  |
+| [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2025-08-22 |  |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-11-17 |  |
 | [First Light](https://open.spotify.com/track/6zuVzhogxotQnXIxr2wLE5) | [BROWN & GRAY](https://open.spotify.com/artist/5uVK02OMlf0TvVe7iNHaGN) | [First Light](https://open.spotify.com/album/0voFHUrIEBk7lmD24SY9kp) | 3:00 | 2022-03-01 | 2022-10-02 |
 | [Follow Your Arrow](https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:19 | 2022-10-01 |  |
@@ -248,6 +249,6 @@
 | [You Make It Easy](https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [You Make It Easy](https://open.spotify.com/album/0EVP8vXYQaq3kr0kWv8rNG) | 3:16 | 2021-12-03 | 2023-11-18 |
 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 | 2022-01-01 | 2022-10-02 |
 | [You Time](https://open.spotify.com/track/3yFsyy1hw7v31NBrRJX2QM) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 3:12 | 2021-12-03 | 2022-04-02 |
-| [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 | 2024-04-01 |  |
+| [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 | 2024-04-01 | 2025-08-23 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

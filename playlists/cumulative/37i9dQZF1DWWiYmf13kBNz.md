@@ -4,7 +4,7 @@
 
 > Feels like falling in love in the 50s
 
-123 songs - 6 hr 20 min
+125 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2022-05-03 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/33jt3kYWjQzqn3xyYQ5ZEh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 5:54 | 2024-02-13 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/5qWXXF3On2xUfVu1ND1NLN) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [The Essential Fred Astaire](https://open.spotify.com/album/6orVWVR9Uc0hTylcLi5JTP) | 3:18 | 2022-05-03 | 2023-09-14 |
+| [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 | 2025-08-22 |  |
 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 | 2022-05-03 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/4mQz22nF9cyWqwuErTqc6V) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH) | 3:05 | 2024-07-09 |  |
 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 | 2022-05-03 |  |
@@ -84,6 +85,7 @@
 | [Oh My Angel](https://open.spotify.com/track/6WGFdJ3lRB7e0VDNEzpiAh) | [Bertha Tillman](https://open.spotify.com/artist/4aBSbKk01HYWR964gGyLg9) | [Goodies Old Is New: Come Dance With Me](https://open.spotify.com/album/7bYagScdp86OZmxJZOxIXy) | 2:22 | 2025-03-08 |  |
 | [Old Cape Cod](https://open.spotify.com/track/2ZD42YPLXtzoGlRH51zViF) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Golden Hits](https://open.spotify.com/album/2N4F5xwzFeVoJ5fF10Pv0P) | 2:38 | 2022-05-03 |  |
 | [Portrait of My Love](https://open.spotify.com/track/3cnvfpvQBfo8bkpwcpW7wj) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [From Matt Monro, With Love](https://open.spotify.com/album/3gxKROu0yoagFBCOpAwE22) | 2:45 | 2024-07-09 |  |
+| [Pretty Little Baby](https://open.spotify.com/track/5GQPBzoRBDxcAjwSSluQXD) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Connie Francis Sings Second Hand Love & Other Hits](https://open.spotify.com/album/6CTiCTGft53NcVMsAxxgCQ) | 2:22 | 2025-08-22 |  |
 | [Put Your Head on My Shoulder](https://open.spotify.com/track/7eqNATKM78MkWP6aHGXHEV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Sings His Favorites](https://open.spotify.com/album/68NffwvgGGTB3aDqkbvztJ) | 2:35 | 2022-05-03 |  |
 | [Rue Saint\-Vincent \(Rose blanche\)](https://open.spotify.com/track/3ZAJAL00SgMUH95CG80OXR) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Le gamin de Paris \(1945\-1953\)](https://open.spotify.com/album/3Scv5fX8X2UQ6gUGSxSczn) | 3:25 | 2022-05-03 | 2022-07-29 |
 | [Sea of Love](https://open.spotify.com/track/0Jbcki0GtjK4CdPlmZO8XR) | [Phil Phillips](https://open.spotify.com/artist/4RoSFlSfHkTux15j7kUIAc) | [Presenting Phil Phillips](https://open.spotify.com/album/4tqGJjcTcgGfQ7MrhMlczm) | 2:22 | 2022-08-11 | 2022-08-28 |
@@ -117,7 +119,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-01-25 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 | 2022-09-30 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2023-01-25 | 2024-04-19 |
-| [Valentine](https://open.spotify.com/track/7FtKQ7luheI1MPqrceP7Eb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:48 | 2024-07-09 |  |
+| [Valentine](https://open.spotify.com/track/7FtKQ7luheI1MPqrceP7Eb) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 2:48 | 2024-07-09 | 2025-08-23 |
 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 | 2022-05-03 |  |
 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 | 2022-05-03 |  |
 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 | 2023-09-13 | 2024-01-23 |

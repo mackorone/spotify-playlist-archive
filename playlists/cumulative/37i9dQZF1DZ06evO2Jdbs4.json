@@ -1453,6 +1453,28 @@
     },
     {
       "album": {
+        "name": "Para Ti Con Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6wBCTfT7Xdr0iZRj1cG1hl"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223332,
+      "name": "Para Ti Con Amor - En Vivo",
+      "url": "https://open.spotify.com/track/2uC2awJr7GbT0pEheuxjEU"
+    },
+    {
+      "album": {
         "name": "Montame",
         "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
@@ -2166,7 +2188,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 217199,
       "name": "Vuelta En U (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"

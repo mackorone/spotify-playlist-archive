@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Ashnikko",
-  "num_followers": 426123,
+  "num_followers": 426126,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXgrUKxTaRudXyvI2NXMINxlhjl",
+  "snapshot_id": "AAAAAFbaqsWinhojLPg7G4VvuB7/BfWr",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:23",
@@ -41,6 +41,54 @@
       "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
     },
     {
+      "added_at": "2025-08-22 04:05:01",
+      "album": {
+        "name": "spine",
+        "url": "https://open.spotify.com/album/3yyz6xJJuuB24PfoMKDbAZ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 146623,
+      "name": "spine",
+      "url": "https://open.spotify.com/track/110UHz4b6xuwsAigLAg1DL"
+    },
+    {
+      "added_at": "2025-08-22 04:05:01",
+      "album": {
+        "name": "Crucify Me",
+        "url": "https://open.spotify.com/album/0xklVGzqJfLr2w2IJeLyEB"
+      },
+      "artists": [
+        {
+          "name": "ILUKA",
+          "url": "https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO"
+        }
+      ],
+      "duration_ms": 140152,
+      "name": "Crucify Me",
+      "url": "https://open.spotify.com/track/6CRtl0zQVr5LxmFCVIqnjZ"
+    },
+    {
+      "added_at": "2025-08-22 04:05:01",
+      "album": {
+        "name": "Ball and Chain",
+        "url": "https://open.spotify.com/album/0io1hogLO3AoXK6iKBCts7"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 172684,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/73vFCo68Jr8W0XpbNKY1oM"
+    },
+    {
       "added_at": "2025-08-15 04:00:23",
       "album": {
         "name": "No Fair",
@@ -59,6 +107,22 @@
       "duration_ms": 200074,
       "name": "No Fair",
       "url": "https://open.spotify.com/track/38oTngdlSyvTSOSuBxMo7y"
+    },
+    {
+      "added_at": "2025-08-22 04:05:01",
+      "album": {
+        "name": "Happy as Hell",
+        "url": "https://open.spotify.com/album/62DWhM478uiSSlDk6WQRpe"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "duration_ms": 189528,
+      "name": "Happy as Hell",
+      "url": "https://open.spotify.com/track/29z3ucWB5DV4EjS1jQ7e39"
     },
     {
       "added_at": "2025-08-01 04:00:33",
@@ -93,6 +157,22 @@
       "url": "https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4"
     },
     {
+      "added_at": "2025-08-22 04:05:01",
+      "album": {
+        "name": "How Did We End Up Here?",
+        "url": "https://open.spotify.com/album/3kB2r0HHTfrDKykTH0Q9WH"
+      },
+      "artists": [
+        {
+          "name": "Nat Slater",
+          "url": "https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "How Did We End Up Here?",
+      "url": "https://open.spotify.com/track/6n9Z22fHyOjXttaZsb4jga"
+    },
+    {
       "added_at": "2025-08-15 04:00:23",
       "album": {
         "name": "Till Death",
@@ -123,6 +203,22 @@
       "duration_ms": 156988,
       "name": "TOUCH SOMEBODY",
       "url": "https://open.spotify.com/track/7tbPQ931BWN2j6861w1XKe"
+    },
+    {
+      "added_at": "2025-08-22 04:05:01",
+      "album": {
+        "name": "empty room",
+        "url": "https://open.spotify.com/album/39cMECZ4POl2B8b6inBnLL"
+      },
+      "artists": [
+        {
+          "name": "ETHAN",
+          "url": "https://open.spotify.com/artist/5oqtu58F4NZtVlCamsdmdq"
+        }
+      ],
+      "duration_ms": 180183,
+      "name": "empty room",
+      "url": "https://open.spotify.com/track/6TxCqjdGbTCNFgReTltmCx"
     },
     {
       "added_at": "2025-08-15 04:00:23",
@@ -753,38 +849,6 @@
       "url": "https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw"
     },
     {
-      "added_at": "2025-05-30 04:00:35",
-      "album": {
-        "name": "in my head",
-        "url": "https://open.spotify.com/album/7xVHnGKfYZNGwng4S59neP"
-      },
-      "artists": [
-        {
-          "name": "Ally Bakst",
-          "url": "https://open.spotify.com/artist/2KvrULKGb5VQs6eZysNU11"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "trying to forget",
-      "url": "https://open.spotify.com/track/1GHdmBcOxQSIVDJkqRuZIy"
-    },
-    {
-      "added_at": "2025-06-13 04:00:58",
-      "album": {
-        "name": "SOFT SCOOP TALKING DOG",
-        "url": "https://open.spotify.com/album/3nrLoVydKklCtyxQXskO5V"
-      },
-      "artists": [
-        {
-          "name": "Greta Isaac",
-          "url": "https://open.spotify.com/artist/7BsLsPnH5swTyhGZq2qNbN"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "SOFT SCOOP TALKING DOG",
-      "url": "https://open.spotify.com/track/3g0PEy13O7biKs5QbO6JuI"
-    },
-    {
       "added_at": "2025-05-23 04:00:41",
       "album": {
         "name": "Leave Me Alone",
@@ -911,70 +975,6 @@
       "duration_ms": 193235,
       "name": "addicted",
       "url": "https://open.spotify.com/track/3UKFn5oN9irp3q27BwnfCK"
-    },
-    {
-      "added_at": "2025-05-16 04:00:11",
-      "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/7sb7JwqC9frJEdDinAVU0P"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 124577,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/1iBYMUTBFJDkAW8zQQWGNl"
-    },
-    {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "I'm Not Your Punchbag",
-        "url": "https://open.spotify.com/album/1npzO7WsfJ3MHwFNic1RCV"
-      },
-      "artists": [
-        {
-          "name": "PUNCHBAG",
-          "url": "https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "You Used To Be So Sexy",
-      "url": "https://open.spotify.com/track/39cjW8n16TyVDb7KFCIxcV"
-    },
-    {
-      "added_at": "2025-05-02 04:00:38",
-      "album": {
-        "name": "It Wasn't Me",
-        "url": "https://open.spotify.com/album/66MJakKrxiqewpKIu7O1h6"
-      },
-      "artists": [
-        {
-          "name": "Caleigh",
-          "url": "https://open.spotify.com/artist/3aJyXhAdbU62nZ63hnJiE1"
-        }
-      ],
-      "duration_ms": 137960,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/2Y8aKLQSTd5BCIMMmPzdPG"
-    },
-    {
-      "added_at": "2025-04-18 04:00:43",
-      "album": {
-        "name": "I'M NOT SCARED",
-        "url": "https://open.spotify.com/album/0iZzILBoUvNzTDoT5VGyMG"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 152249,
-      "name": "I'M NOT SCARED",
-      "url": "https://open.spotify.com/track/44aXDy69XdxDgOxULxKIl3"
     }
   ],
   "unique_name": "SALT",

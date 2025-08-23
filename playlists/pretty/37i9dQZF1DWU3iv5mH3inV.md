@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > Dembow pa to el mundo\. Foto: Tokischa
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,608 likes - 110 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,640 likes - 110 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 31 | [Etel](https://open.spotify.com/track/7eu7zC7BQd6kOq3qgOTmf4) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH), [Puyalo Pantera](https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz) | [Etel](https://open.spotify.com/album/23DjBf4OM8IdpwEU0tHyTM) | 2:19 |
 | 32 | [Yo Te Busco](https://open.spotify.com/track/0VAg0T3d84VXauvjAAgeRW) | [Chaki Bley](https://open.spotify.com/artist/6XDTsLXTuyq3VqLKpW67To), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Yo Te Busco](https://open.spotify.com/album/29HfUmZcWhAU7CJ3BFKM6B) | 2:00 |
 | 33 | [Lo Que Te Killa](https://open.spotify.com/track/1kbstdL5s52CsT0iSREnMU) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Breyco En Producidera](https://open.spotify.com/artist/0paMWojkT2IhPuJOCLMiCp) | [Lo Que Te Killa](https://open.spotify.com/album/7prP8vNLlq29kd1RhBYCAF) | 2:20 |
-| 34 | [Que Te De](https://open.spotify.com/track/1uQtIxlkBQ9HVsdVGcA0Io) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Que Te De](https://open.spotify.com/album/6RHMUbHdqgO0i2ORPu8UN4) | 2:06 |
+| 34 | [Que Te De](https://open.spotify.com/track/1uQtIxlkBQ9HVsdVGcA0Io) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [Recio DC](https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd) | [Que Te De](https://open.spotify.com/album/6RHMUbHdqgO0i2ORPu8UN4) | 2:05 |
 | 35 | [Si, Es Así](https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [SI, ES ASÍ](https://open.spotify.com/album/3DZASLonCv5I6Kld58eq51) | 3:08 |
 | 36 | [Se Te Nota](https://open.spotify.com/track/1rYqj3W0vxt0GiVoH3mbSF) | [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli) | [Se Te Nota](https://open.spotify.com/album/4yDCd5kl3eK6Jtaz5MKFpY) | 1:46 |
 | 37 | [De Tiguere](https://open.spotify.com/track/1LMHMi3Ko0LpOvjDiGFRLp) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo), [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [De Tiguere](https://open.spotify.com/album/6UhIGabbTyqs82s34KwrjS) | 3:32 |

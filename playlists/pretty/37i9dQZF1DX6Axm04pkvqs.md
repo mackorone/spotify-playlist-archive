@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,971 likes - 80 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,078 likes - 80 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 66 | [Revival Revival](https://open.spotify.com/track/7eUF82gjc4HpJM80aI6Rp8) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:38 |
 | 67 | [At All Cost](https://open.spotify.com/track/6GwE4OioGK8oOaC8nKJffy) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 8:56 |
 | 68 | [Holyghost](https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Holyghost](https://open.spotify.com/album/0auDRLR3Nv8Mv3E953UYZQ) | 5:42 |
-| 69 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
-| 70 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
+| 69 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
+| 70 | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/track/70ULbNpGcjEJRjeqJZAiEm) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa) | [There Is Prophecy over Me \(Prayer Instrumental Music\)](https://open.spotify.com/album/3P98nKARTr1d2OA5QxEv97) | 14:59 |
 | 71 | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [The Conqueror’s Chant \(Agalliao\)](https://open.spotify.com/album/35thPiCxJtZayMsEV1Resj) | 8:44 |
 | 72 | [Awake](https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [We Are Fire](https://open.spotify.com/album/1MBjBNMOTSu2ikfJlt3SIY) | 6:20 |
 | 73 | [I'm Available \(Prayer Chant\)](https://open.spotify.com/track/0ANipW0kAZ1RIocfpL1u4u) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Strings of Glory \(Prayer Chant\)](https://open.spotify.com/album/1PkBEhb3H8N3P8a9WPrRWb) | 5:20 |
 | 74 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
-| 75 | [Father](https://open.spotify.com/track/1Y0hXpUG2enh3D9CwlD55R) | [Gloreysings](https://open.spotify.com/artist/76D34AFU39hprElLWR448w) | [Aura](https://open.spotify.com/album/0m5A4ycu3O37KJZBenFlcb) | 6:57 |
-| 76 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
+| 75 | [In This Place \- Live At Carnival City, 2024](https://open.spotify.com/track/7iADbXsEzDnryIZ4p6CtON) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [In This Place/Liyabasebenzela \(Live At Carnival City, 2024\)](https://open.spotify.com/album/7xA0yLisbbeUWFklpr0GmD) | 6:33 |
+| 76 | [Father](https://open.spotify.com/track/1Y0hXpUG2enh3D9CwlD55R) | [Gloreysings](https://open.spotify.com/artist/76D34AFU39hprElLWR448w) | [Aura](https://open.spotify.com/album/0m5A4ycu3O37KJZBenFlcb) | 6:57 |
 | 77 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 | 78 | [Iwo Loba\(Chant\)](https://open.spotify.com/track/7DWMCsJ0Vb7Dx3Q1Zr2y7I) | [Hugo David](https://open.spotify.com/artist/5msx4pkfuvJyauwGcRWQeo) | [Tongues and Melodies](https://open.spotify.com/album/4KKbio6RtPiANVNYFAQwnK) | 2:14 |
 | 79 | [Intercession](https://open.spotify.com/track/2RXbpRdcxIq513gWw7tgn7) | [Caleb Music](https://open.spotify.com/artist/3tkHMoB4rBAXLjg0iq2jz0) | [Intercession](https://open.spotify.com/album/668d4mhaCYauZOunBEq7Vb) | 5:26 |
-| 80 | [Hallelujah Chant \(Ruach Hakodesh\)](https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha) | [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Hallelujah Chant](https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv) | 4:55 |
+| 80 | [Song of Angels](https://open.spotify.com/track/3JMh7EqWmxzguJaSCqQuwc) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Kingdom Now](https://open.spotify.com/album/2M2BBowaeYPd211IYmKNqn) | 12:11 |
 
 Snapshot ID: `AAAAABIs+zbYiQt/ikkdWIzdjXUZMJjD`

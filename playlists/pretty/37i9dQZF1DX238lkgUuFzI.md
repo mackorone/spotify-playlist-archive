@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > Our editor’s picks for best songs from the misfits 2.0 universe in 2024\. Cover: Bambie Thug
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,995 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,008 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 5 | [new way out](https://open.spotify.com/track/78GAQZUGa11v6f8ozhGqbM) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Negative Spaces](https://open.spotify.com/album/0YIOpXQvcbiDNPusSqi5Ew) | 3:22 |
 | 6 | [Straight To Heart](https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Straight To Heart](https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe) | 2:54 |
 | 7 | [HOUSE FULL OF FAKES](https://open.spotify.com/track/1V1tp81yMCdtsRpDQkCeY9) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [THIS IS DOOM TRAP](https://open.spotify.com/album/79x1f4d4wjnrUdiamMInqq) | 3:05 |
-| 8 | [XXXhibitionist](https://open.spotify.com/track/2vhy1fNnnsiojFTMI4cJkU) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [XXXhibitionist](https://open.spotify.com/album/4WMnUqAd5PpUthrhnBr3qB) | 3:55 |
+| 8 | [XXXHIBITIONIST](https://open.spotify.com/track/2vhy1fNnnsiojFTMI4cJkU) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [XXXHIBITIONIST](https://open.spotify.com/album/4WMnUqAd5PpUthrhnBr3qB) | 3:55 |
 | 9 | [70% Dead \(with Corey Taylor\)](https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [70% Dead](https://open.spotify.com/album/1wmcwUhzuxcM56xaBqd0dC) | 3:42 |
 | 10 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 |
 | 11 | [BURN THE WITCH](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [BURN THE WITCH](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |

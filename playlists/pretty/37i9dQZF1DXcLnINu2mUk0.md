@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Pta, Myles 6ix
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,796 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,801 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 62 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
 | 63 | [Não dá pa parar](https://open.spotify.com/track/5xIjSTfo5vK70n17mD0BNG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Não dá pa parar](https://open.spotify.com/album/4Y3s0dztnVJB2l05OclX2H) | 3:13 |
 | 64 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
-| 65 | [TUDO O QUE ELE QUERIA](https://open.spotify.com/track/4QYRTk2InaSrEF79L1n1Qg) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [TUDO O QUE ELE QUERIA](https://open.spotify.com/album/1uV9A2v6Hj5ZlZZZtvKHiY) | 3:08 |
-| 66 | [Não Te Devo Nada](https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Não Te Devo Nada](https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC) | 4:09 |
+| 65 | [Não Te Devo Nada](https://open.spotify.com/track/0tmjXLdKG29vRtUOxTr2Su) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Não Te Devo Nada](https://open.spotify.com/album/1o0o6urQAdFwtmz2DVLXjC) | 4:09 |
+| 66 | [TUDO O QUE ELE QUERIA](https://open.spotify.com/track/4QYRTk2InaSrEF79L1n1Qg) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [TUDO O QUE ELE QUERIA](https://open.spotify.com/album/1uV9A2v6Hj5ZlZZZtvKHiY) | 3:08 |
 | 67 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 68 | [Menino da Mamã](https://open.spotify.com/track/12giMqnkKs2qruB6IVqshu) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino da Mamã](https://open.spotify.com/album/5lOZhbXTGbap6fbeqJhpDz) | 2:40 |
 | 69 | [Primeira Vez?](https://open.spotify.com/track/31nCt5XxQnwBLlmlkf0tfc) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P), [Deejay Nuno Mix](https://open.spotify.com/artist/3f3wYETusFD20clopuU9th) | [Primeira Vez?](https://open.spotify.com/album/5u9gubaYmThvKItThoriOc) | 2:34 |
 | 70 | [Ficar Por Cima](https://open.spotify.com/track/4FbFdhugp8J1gEAKoyNVgC) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Ficar Por Cima](https://open.spotify.com/album/5lKdTetLS6JNpekrmmMLMT) | 2:51 |
-| 71 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
+| 71 | [Saudade](https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D), [kaako](https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx) | [Saudade](https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr) | 2:35 |
 | 72 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
-| 73 | [Saudade](https://open.spotify.com/track/7oEJbRgRbjx55mojjcNmRs) | [PARDØ](https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D), [kaako](https://open.spotify.com/artist/5Vd82QHqLhP9NG2wDIIWpx) | [Saudade](https://open.spotify.com/album/1mtgjUorJd70MSgv6wbeMr) | 2:35 |
-| 74 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
-| 75 | [Sem Ti](https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Sem Ti](https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X) | 2:35 |
+| 73 | [Buquê](https://open.spotify.com/track/2A6bDFeIrQovC2fHPa5ws7) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Buquê](https://open.spotify.com/album/39kMDoYl921jg7b6rtnHtX) | 3:31 |
+| 74 | [festa bem louca](https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS) | [pikika](https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN) | [festa bem louca](https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l) | 3:08 |
+| 75 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
 
 Snapshot ID: `AAAAAGq4FBEzAaDB/35+l2K+R8L0itTr`

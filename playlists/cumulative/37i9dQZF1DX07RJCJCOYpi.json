@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The wave of Latin Electronic music. Cover: R\u00d8Z",
+  "description": "The wave of Latin Electronic music. Cover: Neton Vega, Peso Pluma & Tiesto",
   "name": "mint Latin",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 259777,
       "name": "Bagatelle",
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 154710,
       "name": "Cafecito",
       "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 178100,
       "name": "El 100",
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
@@ -2374,6 +2374,36 @@
       "duration_ms": 212000,
       "name": "El Vento",
       "url": "https://open.spotify.com/track/7HOpwF0tnh3jL1twtDw5JY"
+    },
+    {
+      "album": {
+        "name": "Ella (Ela)",
+        "url": "https://open.spotify.com/album/5PeUi8CDv2VCiUJ5BRg94p"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Sof\u00eda Carmona",
+          "url": "https://open.spotify.com/artist/0A8EVlCdERoogCYcfTWsuc"
+        },
+        {
+          "name": "Juanpii",
+          "url": "https://open.spotify.com/artist/03osPpbKv7NfvV712lscoV"
+        },
+        {
+          "name": "Gandara",
+          "url": "https://open.spotify.com/artist/3jZ2d8GQprxyJtA0FYoK6q"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222295,
+      "name": "Ella (Ela)",
+      "url": "https://open.spotify.com/track/3TSgyBvpEfCxO7DJZqul8s"
     },
     {
       "album": {
@@ -3370,7 +3400,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
@@ -5307,6 +5337,32 @@
     },
     {
       "album": {
+        "name": "Morena (Remix)",
+        "url": "https://open.spotify.com/album/5uxV8NLI5gjSAD1mwW9k3m"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161520,
+      "name": "Morena (Remix)",
+      "url": "https://open.spotify.com/track/6q4sbXxKDwNiKCZHoonE99"
+    },
+    {
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -6558,7 +6614,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 167812,
       "name": "Pega",
       "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
@@ -8246,7 +8302,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 152222,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
@@ -8330,7 +8386,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 155076,
       "name": "Torai",
       "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
@@ -8356,6 +8412,32 @@
       "duration_ms": 137829,
       "name": "Trago a Trago",
       "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
+    },
+    {
+      "album": {
+        "name": "Tranki",
+        "url": "https://open.spotify.com/album/1IVAwFejxBcIERkI9sxrdh"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Alexia Mariel",
+          "url": "https://open.spotify.com/artist/6SDSKrIIGibHeQGx8s9Yyn"
+        },
+        {
+          "name": "RAYBEN",
+          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Tranki",
+      "url": "https://open.spotify.com/track/3LiLeyIAbMNndaRvki0Ley"
     },
     {
       "album": {
@@ -8392,6 +8474,24 @@
       "duration_ms": 152640,
       "name": "TRES SHOT",
       "url": "https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k"
+    },
+    {
+      "album": {
+        "name": "Prendido",
+        "url": "https://open.spotify.com/album/303SkBT6SDVxvQjOLntGz4"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Triki Taka",
+      "url": "https://open.spotify.com/track/0DLrV34kYAvm3S7w1Mko0i"
     },
     {
       "album": {

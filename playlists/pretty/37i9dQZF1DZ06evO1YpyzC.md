@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 
 > This is Kane Brown\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,264 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,270 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 30 | [For My Daughter](https://open.spotify.com/track/2moC0T4mGwmP8dUDostr2g) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:43 |
 | 31 | [Fiddle in the Band](https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 2:52 |
 | 32 | [On Me \(feat\. Ava Max\)](https://open.spotify.com/track/7k6tAZp4m93oswrPqSfBbc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [SCOOB! The Album](https://open.spotify.com/album/2Zg5xZo3WwIoAZys8OcUpG) | 2:44 |
-| 33 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 |
-| 34 | [Saturday Nights REMIX](https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Saturday Nights REMIX](https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb) | 3:31 |
+| 33 | [Saturday Nights REMIX](https://open.spotify.com/track/0W5oXFrxZNBTIS1eMW9Ofz) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Saturday Nights REMIX](https://open.spotify.com/album/5lvoXvi6z9JX8blblImfsb) | 3:31 |
+| 34 | [Cool Again](https://open.spotify.com/track/5P3oaNpPDVLRJsL3152SEs) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Cool Again](https://open.spotify.com/album/2uqdv3ixmTDSnH1sZFk3y9) | 2:44 |
 | 35 | [I Am](https://open.spotify.com/track/5OYu7glZ8Ks8N1fPEmrtOX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The High Road](https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY) | 4:09 |
 | 36 | [Like a Rodeo](https://open.spotify.com/track/7z3dPHwGxeK4fD6fYFDwiS) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment Extended](https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF) | 3:21 |
 | 37 | [Different Man](https://open.spotify.com/track/2n99h7z08LvHr7Cjcnm1Ub) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Different Man](https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YpyzC.md) - [plain]
 | 49 | [Hometown](https://open.spotify.com/track/2NqHZYzBWUHbbpDDgdGWJL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Kane Brown](https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T) | 3:24 |
 | 50 | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/track/0xk4woi8ENN8VWFDZTcF8h) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Never Be the Same \(feat\. Kane Brown\)](https://open.spotify.com/album/2BAqpci48cWxxLwIDqjPRU) | 3:45 |
 
-Snapshot ID: `aKO+gAAAAADRvftg0edlp8SAl3n0Prb1`
+Snapshot ID: `aKZhgAAAAABfmBR5yQ0qxJcl1hCeO6Ef`

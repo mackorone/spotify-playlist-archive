@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Bruna Karla, Julliany Souza
 
-296 songs - 1 day 3 hr 1 min
+297 songs - 1 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abra os Meus Olhos \(Ao Vivo\)](https://open.spotify.com/track/3q7jxvZC9t2FZfOSh1Tvv1) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Abra os Meus Olhos \(Ao Vivo\)](https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT) | 5:45 | 2022-09-09 | 2024-04-20 |
 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 | 2024-10-11 |  |
 | [Acalma](https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Acalma](https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts) | 4:56 | 2022-09-09 | 2025-04-18 |
+| [Acalma o Meu Coração](https://open.spotify.com/track/0G3egcGAAVtb5KxPLWBrny) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração](https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl) | 3:56 | 2025-08-22 |  |
 | [Acalma o Meu Coração](https://open.spotify.com/track/2PFA4UqjvZSowY1LrcxfIg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Sessão Livre \(Vol.3\)](https://open.spotify.com/album/1V3TKVDKXKcVLrOwHwUfHx) | 7:33 | 2024-11-22 |  |
 | [Acalmarei](https://open.spotify.com/track/6ddcJb42CdRBDRiSqED9xM) | [Mariana Aguiar](https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw) | [Acalmarei](https://open.spotify.com/album/0dNxHMdvrMgox8nfNuJFjM) | 5:11 | 2023-09-25 | 2023-11-04 |
 | [Acende o Fogo / Eu Me Prostro \- Ao Vivo](https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Acende o Fogo / Eu Me Prostro \(Ao Vivo\)](https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw) | 8:28 | 2023-07-07 | 2023-08-05 |
@@ -113,7 +114,7 @@
 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 | 2023-07-14 | 2023-08-05 |
 | [Eu Quem Merecia](https://open.spotify.com/track/1BjZte7CvFn5GH1326EZ2D) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Eu Quem Merecia](https://open.spotify.com/album/0lRfctxyzSvhNXF9z8WSib) | 5:50 | 2025-08-11 |  |
 | [Eu Quero Ver Sua Face \- Ao Vivo](https://open.spotify.com/track/7cQpuMnZPyIlgCrLV4LCJl) | [Amanda Loyola](https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al) | [Canções Para o Meu Amado \(Ao Vivo\)](https://open.spotify.com/album/0lIpLdE40y1HAGGYhF5LTi) | 8:57 | 2024-12-13 | 2025-02-15 |
-| [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 | 2023-06-23 |  |
+| [Eu Sou Teu Pai \- Ao Vivo](https://open.spotify.com/track/6VpGzXV2kAxB59UOGGl4yP) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eu Sou Teu Pai \(Ao Vivo\)](https://open.spotify.com/album/2jAWSHULqC5TTIiPgf0QYV) | 6:16 | 2023-06-23 | 2025-08-23 |
 | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/track/04j8b2mVmbwomOrMmOWOt7) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Sou Uma Pérola \(Ao Vivo\)](https://open.spotify.com/album/3i87r0dIqP3MDmDuVyRWnf) | 5:24 | 2023-02-03 | 2023-03-04 |
 | [Eu Te Adorarei](https://open.spotify.com/track/1Mlg6pel2dGEIvTrsBdv7T) | [Claudia Canção](https://open.spotify.com/artist/3O350ne9bIdzLcYNncdCBo) | [Eu Te Adorarei](https://open.spotify.com/album/2cXH4ilW893UBVq33nh4lw) | 3:55 | 2023-02-03 | 2023-04-29 |
 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 | 2022-12-05 |  |

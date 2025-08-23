@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\.  Cover: YG Marley
+> A melting pot of Caribbean culture\.  Cover: Klassik Frescobar
 
-252 songs - 12 hr 28 min
+254 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All Dem Try](https://open.spotify.com/track/7zoSUomkN4Xqgs4XP8JqZD) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [All Dem Try](https://open.spotify.com/album/0II4oqp5kJKf7Cs9UjR7DZ) | 3:32 | 2024-11-08 | 2025-01-17 |
 | [ALL IN](https://open.spotify.com/track/24d3EjDNeSCapxj4b7KS3P) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [ALL IN](https://open.spotify.com/album/193wg0lwoipCYBEneekEkv) | 2:16 | 2025-06-06 | 2025-07-05 |
 | [All Ova](https://open.spotify.com/track/2bWbdWDaMidmc5HH1CVK26) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [All Ova](https://open.spotify.com/album/7xI7n70CruBpMwrekWFHhG) | 2:43 | 2025-07-18 | 2025-07-26 |
-| [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 | 2025-08-01 |  |
+| [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 | 2025-08-01 | 2025-08-23 |
 | [Anyting](https://open.spotify.com/track/2pVZlbHWvJHjqLxSUM40Au) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Anyting](https://open.spotify.com/album/0iYSMTpsRLaFztVnVhkxHo) | 2:02 | 2025-06-20 |  |
 | [Anywhere \(feat\. Ty Dolla $ign & Major Lazer\)](https://open.spotify.com/track/0aP5QW8XQk0Vd3H02ApHhQ) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:24 | 2025-08-08 | 2025-08-17 |
 | [ARCH](https://open.spotify.com/track/3bEhYkwhzikzwnTKLqOudB) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [ARCH](https://open.spotify.com/album/0i2e6LS9xQwQ2oSvQfOHUl) | 2:34 | 2024-08-29 |  |
@@ -191,6 +191,7 @@
 | [Romantic \(with Masicka\)](https://open.spotify.com/track/2pMUyYmRRwom1SdYzBtE17) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Romantic \(with Masicka\)](https://open.spotify.com/album/6YjD4IDZsKPxWx7iFlV8L7) | 2:38 | 2025-07-04 | 2025-08-02 |
 | [Rose Petal](https://open.spotify.com/track/1mtNAKbARp4CXxmrqvg2DU) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Love Island Riddim](https://open.spotify.com/album/58IbHZt2rtKDyrV9uHkFCq) | 3:29 | 2024-09-17 |  |
 | [Rum Behavior](https://open.spotify.com/track/6kOCPyMbcQ5Xp3jSWUvTCP) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Rum Behavior](https://open.spotify.com/album/4w52ebC95RpUq7dy9zgRgI) | 2:35 | 2024-12-06 | 2025-06-14 |
+| [Scatter](https://open.spotify.com/track/3qORtOCSInAMHTFR3GGLd2) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Treasure Self Love](https://open.spotify.com/album/2xD9ACxjRvtjAPOpR2mFBf) | 3:54 | 2025-08-22 |  |
 | [SEE IT YAH](https://open.spotify.com/track/0VakktQEioPjhfIlOIDRQi) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [SEE IT YAH](https://open.spotify.com/album/3bskhfYIw17ltWH5BkXvmm) | 3:32 | 2024-08-29 | 2024-09-14 |
 | [Set up Di Mic](https://open.spotify.com/track/1lOqdQcr3IvllmQO0PZ5Zd) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Hapilos Collections: Buju Banton](https://open.spotify.com/album/5a01ultA9fPp4EDWirrz9F) | 2:41 | 2025-07-11 |  |
 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 | 2024-12-06 | 2025-02-22 |
@@ -225,6 +226,7 @@
 | [Tomorrow Promised Us](https://open.spotify.com/track/7m5c8nJDfChDtqZQCaIFy1) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Lovers Till I'm Gone](https://open.spotify.com/album/4WAgGUPLsCdOqGpiJcbN52) | 3:18 | 2025-01-17 | 2025-03-08 |
 | [Too Hot \(feat\. Moliy\)](https://open.spotify.com/track/5yApOjKdnQZZb1yXtl4Owh) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [International](https://open.spotify.com/album/1WvTvj9a1elVPeUgKlzNmF) | 2:14 | 2025-08-08 |  |
 | [Too Late to Lie](https://open.spotify.com/track/6ln6oIclsUHWYH25qC99r6) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Too Late to Lie](https://open.spotify.com/album/29FhDNnlqjXpqi3PTZOrYj) | 3:39 | 2025-02-28 | 2025-03-15 |
+| [Top Gyal](https://open.spotify.com/track/1IGIvzj5aeWUJn8C8Ran9F) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P) | [Top Gyal](https://open.spotify.com/album/0AquTZ7zO9Bq5W1TSQeaEH) | 2:06 | 2025-08-22 |  |
 | [Touchdown \(with J Balvin, Beenie Man, Bounty Killer & Tasan\)](https://open.spotify.com/track/5YQoiJnRRrsctf33UG9JYv) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Tasan](https://open.spotify.com/artist/0wSadxUa6BtCDbCMjWwuG5) | [Touchdown \(with J Balvin, Beenie Man, Bounty Killer & Tasan\)](https://open.spotify.com/album/09NhKmRugCWSvRKh1jK46Z) | 3:18 | 2025-01-31 | 2025-03-01 |
 | [TOXIC](https://open.spotify.com/track/32OJwqSyxds8PLefK8VLAp) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [MANIA](https://open.spotify.com/album/219t6e1VadecyjyLckRYxF) | 2:40 | 2025-06-20 | 2025-07-05 |
 | [Toxic](https://open.spotify.com/track/1GK8FnBpH7Qcto93kw1bYQ) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Extol](https://open.spotify.com/artist/3ReabnaThIxgrhVNwiGIQj) | [Toxic](https://open.spotify.com/album/4GqrCFlZXJahZeZVDbbIDV) | 2:31 | 2025-02-28 | 2025-04-05 |

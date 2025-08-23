@@ -1,13 +1,45 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Molly Tuttle",
-  "num_followers": 1761071,
+  "description": "The best in folk & acoustic today featuring music from Jesse Welles",
+  "num_followers": 1760619,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB5kIcmtKBErBsZYS6HVAJTaoHsf",
+  "snapshot_id": "AAAAAJ/XOdLr9n980SzrA1Sjt2i8ybKH",
   "tracks": [
+    {
+      "added_at": "2025-08-15 04:00:24",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "SONS",
+        "url": "https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 186020,
+      "name": "Hard To Tell",
+      "url": "https://open.spotify.com/track/3SDWFdgZBLdy38zru1pueE"
+    },
     {
       "added_at": "2025-08-15 04:00:24",
       "album": {
@@ -27,22 +59,6 @@
     {
       "added_at": "2025-08-15 04:00:24",
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/1xvvHmHr9wlYHfWWChn5hX"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/3EcCMhVhlej7SiLGgKwTub"
-    },
-    {
-      "added_at": "2025-08-15 04:00:24",
-      "album": {
         "name": "Oneida",
         "url": "https://open.spotify.com/album/1lDmuIBAi5R8NLdO2fc1XF"
       },
@@ -55,38 +71,6 @@
       "duration_ms": 278213,
       "name": "Oneida",
       "url": "https://open.spotify.com/track/6ErexmQQfnMtIbFoejTK1x"
-    },
-    {
-      "added_at": "2025-08-15 04:00:24",
-      "album": {
-        "name": "You Again",
-        "url": "https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "You Again",
-      "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"
-    },
-    {
-      "added_at": "2025-08-15 04:00:24",
-      "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-08-15 04:00:24",
@@ -121,6 +105,86 @@
       "url": "https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv"
     },
     {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 187403,
+      "name": "Like The Rain",
+      "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "My Full Name",
+        "url": "https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "My Full Name",
+      "url": "https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS"
+    },
+    {
+      "added_at": "2025-08-15 04:00:24",
+      "album": {
+        "name": "You Again",
+        "url": "https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"
+    },
+    {
+      "added_at": "2025-08-15 04:00:24",
+      "album": {
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Devil\u2019s Den",
+        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 230112,
+      "name": "The Great Caucasian God",
+      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
+    },
+    {
       "added_at": "2025-08-15 04:00:24",
       "album": {
         "name": "Better than the Floor",
@@ -139,6 +203,26 @@
       "duration_ms": 189502,
       "name": "Better than the Floor",
       "url": "https://open.spotify.com/track/3mSmfRatQFPfg6UERTRkHd"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Anyways, I Love You (Better with Allen)",
+        "url": "https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Anyways, I Love You - Better with Allen",
+      "url": "https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t"
     },
     {
       "added_at": "2025-08-15 04:00:24",

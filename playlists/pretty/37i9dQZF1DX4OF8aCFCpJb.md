@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,916 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,917 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 21 | [Dimman](https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Dimman](https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r) | 3:37 |
 | 22 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
 | 23 | [Såna ögon](https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Såna ögon](https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj) | 2:52 |
-| 24 | [Du som snodde min cykel](https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF) | [Kronofogden](https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ) | [Du som snodde min cykel](https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA) | 3:43 |
+| 24 | [Ego](https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy) | [Pusher](https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38) | 3:29 |
 | 25 | [Små svarta änglar](https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Blacka Rasta](https://open.spotify.com/album/6a8pZmRJxeCPG7XUFGiCYG) | 3:31 |
 | 26 | [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 |
-| 27 | [Ego](https://open.spotify.com/track/3KBdJQEv9ktMkWyjKsAWdT) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Prodotto di Superti](https://open.spotify.com/artist/4NZcuPexOELumOX08RWXcy) | [Pusher](https://open.spotify.com/album/1GbeTUO3MXvLLDUCTjqS38) | 3:29 |
+| 27 | [Du som snodde min cykel](https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF) | [Kronofogden](https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ) | [Du som snodde min cykel](https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA) | 3:43 |
 | 28 | [Pirret](https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Pirret](https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM) | 4:20 |
 | 29 | [Allting ordnar sig](https://open.spotify.com/track/7J9TJR2ZJ5oIqj0T9mMGiR) | [Achee Flips](https://open.spotify.com/artist/1RPkmmQvK1fU7Mm5EnF3tT), [Rob Bourne](https://open.spotify.com/artist/0BxbGJtwQaMOuQpui3WUnC) | [Allting ordnar sig](https://open.spotify.com/album/7yzPNzLoG1ZaJFu6Lk2jBf) | 3:17 |
 | 30 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 45 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 | 46 | [Från och med Du](https://open.spotify.com/track/2wStsM878RWyPXv0yMfpca) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Från och med Du](https://open.spotify.com/album/4roiBkmOkDwfZHpI6spw6G) | 4:20 |
 | 47 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 |
-| 48 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
-| 49 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
+| 48 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
+| 49 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
 | 50 | [Följ din dröm](https://open.spotify.com/track/1jnKEFnz2Bc0IBjnOJDB8f) | [Tommy Tee](https://open.spotify.com/artist/4ihTfE4MtCrKerRYHU7e4p), [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [På tur i Stockholm](https://open.spotify.com/album/0ZAWiVWlkwEU0WL4iAyrHL) | 3:29 |
 
 Snapshot ID: `AAAAAIG/BnjsF39YYER6V33mdFD2x8US`

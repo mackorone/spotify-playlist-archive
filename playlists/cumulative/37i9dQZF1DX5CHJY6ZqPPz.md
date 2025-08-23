@@ -4,7 +4,7 @@
 
 > All about aespa: meeting another self and experiencing the new world
 
-86 songs - 4 hr 41 min
+87 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 | 2022-07-08 |  |
 | [Set The Tone](https://open.spotify.com/track/1qVOxNk88HMDXteLce4fyD) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 3:22 | 2024-05-27 |  |
 | [Spark \- WINTER Solo](https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 3:21 | 2024-10-15 |  |
+| [Special Message from aespa](https://open.spotify.com/track/1vMo3Ib7AF3CLDIqoM5gzC) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Special Message from aespa](https://open.spotify.com/album/0beeyk44bFLKvCXyZC6OQ1) | 0:41 | 2025-08-23 |  |
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-08 |  |
 | [Spicy \- Nitepunk Remix](https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [iScreaM Vol.26 : Spicy Remix](https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9) | 3:10 | 2023-09-15 |  |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-07-08 |  |

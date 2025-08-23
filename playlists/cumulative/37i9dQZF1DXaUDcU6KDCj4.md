@@ -2,7 +2,7 @@
 
 ### [Fresh Folk](https://open.spotify.com/playlist/37i9dQZF1DXaUDcU6KDCj4)
 
-> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Andrea Bejar
+> Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Kingfishr
 
 3,313 songs - 8 day 7 hr 40 min
 
@@ -1789,7 +1789,7 @@
 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/1QvlEyfVC3QB5tnbTuDdV2) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Inflorescence](https://open.spotify.com/album/7wcqwO6mYfEcQVJt2CAUu3) | 3:04 | 2023-08-11 | 2023-08-19 |
 | [Marvel Room \(feat\. Bon Iver\)](https://open.spotify.com/track/4AIcVoMMyutcuiSPVvSS5n) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Extract](https://open.spotify.com/album/4UgWkdVxX9m5DtdELwJUbI) | 3:04 | 2023-07-14 | 2023-08-13 |
 | [Mary's At The Carnival](https://open.spotify.com/track/7eVhWuxvQMs15mud3s3PKY) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB) | [Mary's At The Carnival](https://open.spotify.com/album/6IgGmHEqQyCfi4J8vVfR1U) | 3:36 | 2025-04-25 | 2025-06-14 |
-| [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 | 2025-08-01 |  |
+| [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 | 2025-08-01 |  |
 | [Massachusetts](https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Massachusetts](https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb) | 3:38 | 2024-06-14 | 2024-08-17 |
 | [Masterpiece](https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Wide Open Light](https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7) | 2:44 | 2023-06-02 | 2023-08-12 |
 | [Matches](https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Matches](https://open.spotify.com/album/4yeVLevHA6aGtIifw9T1WI) | 2:17 | 2024-07-26 | 2024-09-28 |

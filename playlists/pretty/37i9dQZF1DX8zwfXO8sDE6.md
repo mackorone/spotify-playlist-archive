@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,431 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,452 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 28 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
 | 29 | [しらけちまうぜ](https://open.spotify.com/track/06tqfYgK8tvnEZYGuXegbi) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [ほうろう](https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R) | 3:08 |
 | 30 | [こぬか雨](https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 5:54 |
-| 31 | [てぃーんず　ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 ～Debut 30th Anniversary～](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
-| 32 | [砂の女](https://open.spotify.com/track/3KauV05L57307GtIr7qDzn) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(リマスター2017\)](https://open.spotify.com/album/2MipJf5PtOFcUeIdPYVmtO) | 3:55 |
+| 31 | [砂の女](https://open.spotify.com/track/3KauV05L57307GtIr7qDzn) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(リマスター2017\)](https://open.spotify.com/album/2MipJf5PtOFcUeIdPYVmtO) | 3:55 |
+| 32 | [てぃーんず　ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 ～Debut 30th Anniversary～](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 33 | [ゴロワーズを吸ったことがあるかい](https://open.spotify.com/track/1UOeZZUegiI3Lf0OOa5Unv) | [Hiroshi Kamayatsu](https://open.spotify.com/artist/6Dzf0hRDXsjgxvmeh0dXO7) | [あゝ、わが良き友よ](https://open.spotify.com/album/0Cm3cc9blGGjNw1P4QDA4X) | 4:20 |
 | 34 | [流星都市](https://open.spotify.com/track/5dcuJcdVq216AlN83S2c2b) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [ほうろう](https://open.spotify.com/album/569VdQ5J9BOq1tv5ahzf7R) | 3:56 |
 | 35 | [プールサイド](https://open.spotify.com/track/5U0zDcUHmA86AFDP8hc1pX) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p) | [SOUTH OF THE BORDER](https://open.spotify.com/album/7c23gn3fBcWYojzvB5wBp1) | 3:54 |

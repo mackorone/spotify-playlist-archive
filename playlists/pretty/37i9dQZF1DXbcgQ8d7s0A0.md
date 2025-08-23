@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 
 > Chill out to the sweetest soul songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,368,419 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,548 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcgQ8d7s0A0.md) - [plain]
 | 43 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 44 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Very Best of Otis Redding](https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA) | 2:46 |
 | 45 | [No Ordinary Love \- Remastered](https://open.spotify.com/track/1tV7RXsTGdwxAvEo8Rv9pp) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 7:18 |
-| 46 | [Baby Come Back](https://open.spotify.com/track/3adQpYatYOsgAKr853t4mZ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | ['70s Pop \#1's](https://open.spotify.com/album/0EGFovrr9MRmTAqnTAaYMU) | 3:34 |
-| 47 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |
+| 46 | [A Warm Summer Night](https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué](https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU) | 6:04 |
+| 47 | [Baby Come Back](https://open.spotify.com/track/3adQpYatYOsgAKr853t4mZ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | ['70s Pop \#1's](https://open.spotify.com/album/0EGFovrr9MRmTAqnTAaYMU) | 3:34 |
 | 48 | [You Can't Change That](https://open.spotify.com/track/5vIvHVCP0n6EXTMH0fOpAp) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Rock On](https://open.spotify.com/album/5ORcHUdS6M1dH8s6IIfHtO) | 3:23 |
 | 49 | [A Woman Needs Love \(Just Like You Do\)](https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK), [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [A Woman Needs Love \(Expanded Edition\)](https://open.spotify.com/album/38993ejU6at3J4b0fxIien) | 4:09 |
 | 50 | [Time](https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Time](https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG) | 3:30 |
 | 51 | [Through the Fire](https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:48 |
 | 52 | [We're in This Love Together](https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Love Songs](https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy) | 3:46 |
-| 53 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
-| 54 | [The Weight](https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Soul Folk In Action](https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL) | 4:35 |
+| 53 | [The Weight](https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Soul Folk In Action](https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL) | 4:35 |
+| 54 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 55 | [On My Own](https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [The Collection](https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs) | 4:49 |
 | 56 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
 | 57 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |

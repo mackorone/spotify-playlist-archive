@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,167 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,157 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 14 | [Sailor Mars](https://open.spotify.com/track/38n8scVMRubWOn1rIN2hfr) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sailor Mars](https://open.spotify.com/album/4Ql6PbVf1kgd4g22lWdgf7) | 2:32 |
 | 15 | [Dulce](https://open.spotify.com/track/6pROMUI7CBvoe6zhP85OjV) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Dulce](https://open.spotify.com/album/01f58ABTNjb0quUNprou4v) | 3:13 |
 | 16 | [Fidaa](https://open.spotify.com/track/6AyqrV9DSKFmEqZxjjnh7E) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:03 |
-| 17 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
-| 18 | [Khalīfah خليفة](https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Khalīfah خليفة](https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV) | 3:52 |
+| 17 | [Khalīfah خليفة](https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Khalīfah خليفة](https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV) | 3:52 |
+| 18 | [Oriental](https://open.spotify.com/track/1C3PeqYtCFVFxUBdFZoxeT) | [OSAK](https://open.spotify.com/artist/7E52EFOelXp541PpFcbtrf) | [Oriental](https://open.spotify.com/album/3L45kcBwrsdrjQDiNdHEqk) | 4:28 |
 | 19 | [Sargon](https://open.spotify.com/track/4BLFw6EbBWHvKe7uTokPe5) | [AxLi](https://open.spotify.com/artist/2C0w7wd8qZseBpEtfYPL56) | [Sargon](https://open.spotify.com/album/1UmnrooK6HERWjfZsPbSDl) | 3:04 |
 | 20 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 |
 | 21 | [Maqlooba](https://open.spotify.com/track/2APpdfoLJELmv3sh8T4Ve8) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:20 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 40 | [Morocco](https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ) | 2:43 |
 | 41 | [Fury](https://open.spotify.com/track/7M5p4AmILcIdq6oGJuQd4f) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Fury](https://open.spotify.com/album/2yi1kgX5WPvyb6S37ujxDW) | 2:50 |
 | 42 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 |
-| 43 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
-| 44 | [Menak](https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/3OAa3rZQFhA37EPn9mGMic) | 2:24 |
+| 43 | [Menak](https://open.spotify.com/track/2Mma8mPkMGvFljxKORvySU) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/3OAa3rZQFhA37EPn9mGMic) | 2:24 |
+| 44 | [Duhan](https://open.spotify.com/track/1gAYsbY37gNkUVWKyHd7sb) | [Mazlum Uruc](https://open.spotify.com/artist/6SyaPdwoTrMGsWOsqeb5Av), [Serhat Durmus](https://open.spotify.com/artist/1R2iRWvuwwokMKGHirNGTD) | [Duhan](https://open.spotify.com/album/0iV9y3FuVHgqU6XH4PgGzc) | 2:56 |
 | 45 | [Odyssey](https://open.spotify.com/track/2R2H8r2X1MCJFvvLx6DYZy) | [Żwirek](https://open.spotify.com/artist/4PCOizPKIqh6TnlGcx3mDb) | [Odyssey](https://open.spotify.com/album/4z1b97XrbtSt3iz5qgwBfJ) | 4:05 |
 | 46 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 |
 | 47 | [Kyojin](https://open.spotify.com/track/3G6fFwzSObu9BS5XhkJzWA) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Kyojin](https://open.spotify.com/album/4YQ0JrLRfkX96ssIe2mylq) | 2:30 |

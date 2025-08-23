@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,994 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,998 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 27 | [HAT TRICK](https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:18 |
 | 28 | [Xapralá](https://open.spotify.com/track/6l9UA6IlEGFl1RVAncqvwo) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [NU](https://open.spotify.com/album/1BGWFAkM0Oz88Dq7v369eP) | 3:48 |
 | 29 | [A Pior Música do Ano](https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [A Pior Música do Ano](https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV) | 3:39 |
-| 30 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
-| 31 | [Olho de Tigre](https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olho de Tigre](https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq) | 3:58 |
+| 30 | [Olho de Tigre](https://open.spotify.com/track/5QoA1Ttcfi1OVCgRLxsVZN) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Olho de Tigre](https://open.spotify.com/album/1J5MVubFR95AEBMekVp5Dq) | 3:58 |
+| 31 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 32 | [do menor](https://open.spotify.com/track/3TpjXJJj6Lz25plCU6iWK2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 4:28 |
 | 33 | [Hoje Não](https://open.spotify.com/track/2g4O6uYBRn8c6HbXc2yEd6) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Histórias da Minha Área](https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k) | 3:40 |
 | 34 | [UFA](https://open.spotify.com/track/78j1GSIty1L44MSHPZPTFr) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 5:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Santa Ceia](https://open.spotify.com/track/1NFfZNNGAl0pbjiK9NuHsW) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Yodabren](https://open.spotify.com/artist/2m8hZOT5QUrECPyIHd1ZrQ) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 4:39 |
 | 50 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 |
 
-Snapshot ID: `aKO+gAAAAAASkopsYUx/qzbOtEFwOOLL`
+Snapshot ID: `aKZhgAAAAAAdfFL0Aks3FMNdlIXuZbr+`

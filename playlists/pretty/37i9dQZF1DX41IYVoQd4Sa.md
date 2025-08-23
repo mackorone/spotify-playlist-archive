@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : רועי ריק
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,418 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,427 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 44 | [ביקור מולדת](https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [ביקור מולדת](https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4) | 4:05 |
 | 45 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 46 | [3 משאלות](https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [3 משאלות](https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9) | 3:17 |
-| 47 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
-| 48 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 47 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 |
+| 48 | [Only Love is Real](https://open.spotify.com/track/5EOljQqnGwDurlmVPlo66m) | [Yael Deckelbaum](https://open.spotify.com/artist/1mDm3a7s9MFggKUShPdKpj) | [Surrender](https://open.spotify.com/album/3vjxWvzUgeawH7mg2EtWyg) | 2:47 |
 | 49 | [DUMB \(AATM\) \- Live](https://open.spotify.com/track/26EJ2XMpTC5RINUQOO50Cw) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [DUMB \(AATM\) \[Live\]](https://open.spotify.com/album/30i3NFMUCoBA42VYKT0woM) | 2:29 |
 | 50 | [לפני שהכל נרדם](https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [לפני שהכל נרדם](https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P) | 3:16 |
 

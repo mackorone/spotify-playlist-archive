@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 
 > No quieren compromiso, solo quieren bellaquera\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,273 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,328 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY93sU2NKZCn.md) - [plain]
 | 47 | [CÓMO CHILLA ELLA](https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:14 |
 | 48 | [Krippy Kush](https://open.spotify.com/track/7FfpP3YZ6fOWMdxkIAtud9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [TrapXficante](https://open.spotify.com/album/0v94MG5nbp4w6xdeFkfQrA) | 3:50 |
 | 49 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 |
-| 50 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 |
+| 50 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
 
 Snapshot ID: `AAAAALzpIfrWc+ncuBzIIjC1VAxfvBix`

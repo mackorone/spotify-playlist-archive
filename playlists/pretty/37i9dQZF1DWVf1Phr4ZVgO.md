@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,123 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,271 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 23 | [Chances Are \(with Ray Conniff & His Orchestra\)](https://open.spotify.com/track/6sAcECONsANle5n0rnP2at) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Johnny's Greatest Hits](https://open.spotify.com/album/5yIWAY0IA6ZTEGL3R6tPH1) | 3:02 |
 | 24 | [I've Got a Crush On You](https://open.spotify.com/track/0Kp6wskdOWA5U74pbtZ3qQ) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 2:32 |
 | 25 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 |
-| 26 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
-| 27 | [For Once in My Life](https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 2:33 |
+| 26 | [For Once in My Life](https://open.spotify.com/track/0aei3EH5p7mzipPPAXxpzq) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 2:33 |
+| 27 | [When I Fall in Love \(feat\. Chris Botti\)](https://open.spotify.com/track/7wwDhqPS3gxRDenfX2GtiT) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB), [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Skylark \(Std\. Version\)](https://open.spotify.com/album/46FYQKraT48SZMaZRg7IOP) | 4:43 |
 | 28 | [Have You Met Miss Jones?](https://open.spotify.com/track/6wcWYONsa1wGcmhu3WX7SK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:34 |
 | 29 | ['S Wonderful](https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 2:50 |
 | 30 | [Moonglow](https://open.spotify.com/track/5OxesorQA2Gu1r0bGRTkX0) | [Artie Shaw](https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF) | [Begin The Beguine](https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h) | 3:33 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 33 | [This Guy's In Love With You](https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [This Guy's In Love](https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy) | 3:43 |
 | 34 | [Stardust](https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:14 |
 | 35 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 |
-| 36 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
-| 37 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
+| 36 | [Putting on the Ritz](https://open.spotify.com/track/3XeLKdhrqMhozx8EDmyA0Y) | [Mel Tormé](https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC) | [Comin' Home Baby](https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22) | 2:24 |
+| 37 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 |
 | 38 | [She](https://open.spotify.com/track/64TGtWC8WLzVt7PamUo9EO) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Notting Hill](https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505) | 3:06 |
 | 39 | [We Are In Love](https://open.spotify.com/track/0cPa96zXRs2LVuNIqu06oj) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [We Are In Love](https://open.spotify.com/album/6Q2COpAGHfW1BeZrMIIY82) | 2:40 |
 | 40 | [Time After Time](https://open.spotify.com/track/1ia5QkdJp7qGwpoaX9Hgmj) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 2:59 |

@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 289829,
+  "num_followers": 289936,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACWKGwq6dCIPQSBUnTAXJCA",
+  "snapshot_id": "aKZhgAAAAAB+IhrXKdF889u5L6q1h4Cf",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRISTIAN",
+        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 227911,
+      "name": "LLEVARTE",
+      "url": "https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRISTIAN",
-        "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 227911,
-      "name": "LLEVARTE",
-      "url": "https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 320551,
-      "name": "Biscochologo",
-      "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No S\u00e9 Que Pas\u00f3",
         "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 216058,
       "name": "No S\u00e9 Que Pas\u00f3",
       "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 320551,
+      "name": "Biscochologo",
+      "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 338400,
-      "name": "Hasta Donde Se Pueda",
-      "url": "https://open.spotify.com/track/6dDx3ww7VVr4jqOYrmuAyl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santos Grifos, Vol. 1",
         "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 275500,
       "name": "Compatible Contigo",
       "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 338400,
+      "name": "Hasta Donde Se Pueda",
+      "url": "https://open.spotify.com/track/6dDx3ww7VVr4jqOYrmuAyl"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "GH",
+          "url": "https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M"
+        }
+      ],
+      "duration_ms": 293900,
+      "name": "Cagapalos",
+      "url": "https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Danzando Con Demonios",
         "url": "https://open.spotify.com/album/1lzcVgLEWrgsle0QwmGCRa"
       },
@@ -771,22 +791,6 @@
       "duration_ms": 223454,
       "name": "Danzando Con Demonios",
       "url": "https://open.spotify.com/track/3MLzrmul0cYgGk9infPMRl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Como la Espuma",
-      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
     },
     {
       "added_at": null,
@@ -823,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "GH",
-          "url": "https://open.spotify.com/artist/6Jd5jcAPjhgYNQFCcZmK5M"
         }
       ],
-      "duration_ms": 293900,
-      "name": "Cagapalos",
-      "url": "https://open.spotify.com/track/45baYHBlvniOn4TTm9tIkZ"
+      "duration_ms": 139075,
+      "name": "Como la Espuma",
+      "url": "https://open.spotify.com/track/3xRrjypq1Av1Frb6Edw1SD"
     },
     {
       "added_at": null,

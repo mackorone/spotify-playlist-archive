@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Mac DeMarco
 
-276 songs - 16 hr 42 min
+277 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Paper Lanterns](https://open.spotify.com/track/78SRRNYZ3USyd7Uwp38QOf) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Time Will Wait For No One](https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y) | 3:51 | 2023-11-03 | 2024-02-17 |
 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 | 2023-11-03 | 2025-02-22 |
 | [Petite Mort \- 2024 Remastered](https://open.spotify.com/track/4OhIwb0IsxsxnmGPk3GylY) | [Stars](https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL) | [Set Yourself On Fire \- 20th Anniversary Edition](https://open.spotify.com/album/0V27xaU4i03XcbtW574KvQ) | 2:50 | 2024-09-20 | 2024-09-28 |
+| [Phantom](https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh) | 1:50 | 2025-08-22 |  |
 | [Pink Elephant](https://open.spotify.com/track/6ujSWkV1lM2YEgJkBIb4VB) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ) | 4:44 | 2025-04-25 |  |
 | [Practice](https://open.spotify.com/track/34GzR0SBIwmqjgaGPdBWVv) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Practice](https://open.spotify.com/album/4wWEslwP97WLcGQqbSk4Wh) | 3:17 | 2024-11-08 |  |
 | [Prescription](https://open.spotify.com/track/3sLodWUyZavcKmkWLs1NVY) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Prescription](https://open.spotify.com/album/2wIRcj57SrX5Xz7CsJxnsp) | 3:33 | 2023-11-03 | 2024-05-11 |

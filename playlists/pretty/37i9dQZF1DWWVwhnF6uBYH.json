@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 649401,
+  "num_followers": 649996,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
@@ -239,42 +239,6 @@
     {
       "added_at": "2025-07-30 19:13:21",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
-    },
-    {
-      "added_at": "2025-07-30 19:13:21",
-      "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
-    },
-    {
-      "added_at": "2025-07-30 19:13:21",
-      "album": {
         "name": "PRESIDENTE",
         "url": "https://open.spotify.com/album/0xyBpeAAr8E86J7GH1SNUR"
       },
@@ -299,6 +263,42 @@
       "duration_ms": 181064,
       "name": "PRESIDENTE",
       "url": "https://open.spotify.com/track/4OLT65TRsOx3Iv1TlCcQVb"
+    },
+    {
+      "added_at": "2025-07-30 19:13:21",
+      "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2025-07-30 19:13:21",
+      "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2025-07-30 19:13:21",
@@ -371,26 +371,6 @@
     {
       "added_at": "2025-07-30 19:13:21",
       "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 195314,
-      "name": "Asquerosamente Rico",
-      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
-    },
-    {
-      "added_at": "2025-07-30 19:13:21",
-      "album": {
         "name": "Tutankamon",
         "url": "https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 170571,
       "name": "PLAK",
       "url": "https://open.spotify.com/track/1lqSiPVISxVO0MC3b4l9ce"
+    },
+    {
+      "added_at": "2025-07-30 19:13:21",
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 195314,
+      "name": "Asquerosamente Rico",
+      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
     },
     {
       "added_at": "2025-07-30 19:13:21",
@@ -667,18 +667,18 @@
     {
       "added_at": "2025-07-30 19:13:21",
       "album": {
-        "name": "As\u00ed Es Esto",
-        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
+        "name": "111XPANTIA (Deluxe)",
+        "url": "https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 186360,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+      "duration_ms": 177994,
+      "name": "TU SANCHO",
+      "url": "https://open.spotify.com/track/1PPnOTtaxRaY3LWao2HPRU"
     },
     {
       "added_at": "2025-07-30 19:13:21",
@@ -703,18 +703,18 @@
     {
       "added_at": "2025-07-30 19:13:21",
       "album": {
-        "name": "111XPANTIA (Deluxe)",
-        "url": "https://open.spotify.com/album/5h9OPxhByc4FaeqeNM6rCT"
+        "name": "As\u00ed Es Esto",
+        "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 177994,
-      "name": "TU SANCHO",
-      "url": "https://open.spotify.com/track/1PPnOTtaxRaY3LWao2HPRU"
+      "duration_ms": 186360,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
     },
     {
       "added_at": "2025-07-30 19:13:21",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-07-30 19:13:21",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "Backpack",
-      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
-    },
-    {
-      "added_at": "2025-07-30 19:13:21",
-      "album": {
         "name": "Haganse A Un Lado",
         "url": "https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 156223,
       "name": "Haganse A Un Lado",
       "url": "https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX"
+    },
+    {
+      "added_at": "2025-07-30 19:13:21",
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Backpack",
+      "url": "https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF"
     },
     {
       "added_at": "2025-07-30 19:13:21",

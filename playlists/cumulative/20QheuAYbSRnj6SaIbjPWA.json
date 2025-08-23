@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2yba0GswIkgkrVEykCFajL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143966,
+      "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/26THbowkRatoePMTtjxEcR"
+    },
+    {
+      "album": {
         "name": "JAMIE",
         "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
       },
@@ -1864,6 +1882,24 @@
       "duration_ms": 200503,
       "name": "Seize The Day",
       "url": "https://open.spotify.com/track/7GceECVybAMFcn9C7H0Za9"
+    },
+    {
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/2veKfKqnyMmbREK1N4GvTz"
+      },
+      "artists": [
+        {
+          "name": "mark william lewis",
+          "url": "https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2XZDtVBGje3OFEeuUBBAFG"
     },
     {
       "album": {

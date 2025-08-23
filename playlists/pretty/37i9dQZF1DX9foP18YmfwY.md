@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Herrison Pontes, Jessica Dias
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,412 likes - 70 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,482 likes - 70 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 20 | [Voz de Trovão](https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Voz de Trovão](https://open.spotify.com/album/2N551Plznn22YszuHisFmW) | 6:19 |
 | 21 | [You Raise Me Up](https://open.spotify.com/track/4xBOvhQnJXr9pLmkX9Otp5) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [You Raise Me Up](https://open.spotify.com/album/1RgF5MTXDQaKDLkfJHiMfZ) | 4:48 |
 | 22 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 |
-| 23 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
-| 24 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
+| 23 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 |
+| 24 | [Eu Descansarei](https://open.spotify.com/track/6vdp0WC4KPTSYMAg6bcBi0) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Eu Descansarei](https://open.spotify.com/album/1IAT7y3IzCd9qLl8xHILuZ) | 6:18 |
 | 25 | [Aparecida](https://open.spotify.com/track/7vOHQz29ONEhBzd4bid09H) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Aparecida](https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8) | 4:53 |
 | 26 | [Erguei as Mãos](https://open.spotify.com/track/1V7DNnVaW7qgSwUFJDEzSR) | [Padre Marcelo Rossi](https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Erguei as Mãos](https://open.spotify.com/album/48je1xG8rIdqQQ0nxFPVNI) | 4:32 |
 | 27 | [Acalma o Meu Coração](https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Acalma o Meu Coração](https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9) | 4:22 |

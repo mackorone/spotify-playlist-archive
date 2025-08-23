@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. bambie thug
+> welcome to our universe ft\. teethin
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,000 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,978 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 79 | [idgaf](https://open.spotify.com/track/1c17WXb6bzMrrvaN7O1c2Y) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [idgaf](https://open.spotify.com/album/78Vni3er0eUxLVI52aDCgg) | 2:13 |
 | 80 | [ACT ALIVE](https://open.spotify.com/track/2z08ys8zu7XBd6WxM5QcC4) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [ACT ALIVE](https://open.spotify.com/album/13ayQoD69KCSMRFSqo9u0a) | 4:12 |
 
-Snapshot ID: `AAAAABxN7NMDowApOib2zo/VgNyHGADi`
+Snapshot ID: `AAAAAH4e1fMZxFALrXzg3yiKykQn72zJ`

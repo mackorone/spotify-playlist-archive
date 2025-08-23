@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,554 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,677 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 18 | [vida leve](https://open.spotify.com/track/0ZAdvDuLbhoEHvqSlRyLUK) | [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH), [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0) | [vida leve](https://open.spotify.com/album/3yBDMLDoYrgXZbeXbAGbev) | 2:36 |
 | 19 | [O Mundo Diz Que Não](https://open.spotify.com/track/4fGBndf26VOuEwcrQ7Cd7u) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [O Mundo Diz Que Não](https://open.spotify.com/album/7kZ5JyVWYTLnCt0nwvs3Gi) | 3:13 |
 | 20 | [Meu Jeito de Ser](https://open.spotify.com/track/6g29kMXoD1vkx7HE8B6kuK) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Planta E Raiz](https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO) | [Meu Jeito de Ser](https://open.spotify.com/album/3ZaDi5SgfZY6tJcQQVI61N) | 2:56 |
-| 21 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
-| 22 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
+| 21 | [Agarradinho \- Spotify Singles](https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [Agarradinho \- Spotify Singles](https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi) | 2:44 |
+| 22 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
 | 23 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
 | 24 | [Tô Em Casa](https://open.spotify.com/track/71GwNOolQgbTqG4YQM8TNO) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Tô Em Casa](https://open.spotify.com/album/1tHXr2JpbZAyn4cS6eObs7) | 2:46 |
 | 25 | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/track/4lRx7aoTCEcDB9WNc5NtjO) | [Maipê](https://open.spotify.com/artist/29TGZb5S8iVFN9HzowvnPV), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Pedro Schin](https://open.spotify.com/artist/02nGZOh81jqa9Oh4VfMn9P), [Dias Bruno](https://open.spotify.com/artist/6o3M6GcnvbFlrZaEEmUOGk) | [O CÉU TÁ ROSA \(Mr\. Pampers\)](https://open.spotify.com/album/3yFvbMB8FgPDyHAFYngN2u) | 2:38 |

@@ -4,7 +4,7 @@
 
 > C'est parti pour une bonne journée.
 
-261 songs - 16 hr 17 min
+262 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [In Good Time](https://open.spotify.com/track/1L0mzC9gGFjYhnW5fuWaCX) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [In Good Time](https://open.spotify.com/album/6FRmvzpIcJ03AgAf4BV665) | 3:46 | 2023-07-27 | 2023-08-23 |
 | [In Too Deep \- 2007 Remaster](https://open.spotify.com/track/4P0uyibZjcXZLVeNOHBd8Q) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 5:02 | 2025-01-09 | 2025-04-16 |
 | [Inside My Chest](https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Part I – When Everything Was Lost](https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2) | 3:11 | 2023-07-27 | 2023-09-20 |
-| [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 | 2025-05-16 |  |
+| [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 | 2025-05-16 | 2025-08-23 |
 | [It Isn’t Perfect But It Might Be \- from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack](https://open.spotify.com/track/1wsLt0uxVHxUMXfwfI6Gsn) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [It Isn’t Perfect But It Might Be \(from “Bridget Jones: Mad About the Boy” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4laFrVqnELYYbbhwnSObNg) | 3:36 | 2025-04-15 |  |
 | [It's Down to You](https://open.spotify.com/track/6w1CUujrUaiPHZUJfqZN8R) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Run Deep](https://open.spotify.com/album/24uAA2v6yqB1gN6YCUL9ed) | 5:01 | 2022-12-06 | 2023-02-22 |
 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 | 2025-04-15 |  |
@@ -174,6 +174,7 @@
 | [Parallel Lives \- Acoustic](https://open.spotify.com/track/2Cq7TjQSRjRkxpgPXVaQUW) | [Revolver](https://open.spotify.com/artist/2ERWfqqrtdXicQJ9wcOONf) | [Parallel Lives](https://open.spotify.com/album/1FBzhOIzvStn8WRPUWqNyn) | 4:02 | 2024-03-27 | 2025-04-16 |
 | [Peace and Tranquility to Earth](https://open.spotify.com/track/7jKp4Yl1p89ByCMOjh2fHR) | [Roudoudou](https://open.spotify.com/artist/6YTtkGLYyAHNUGD8PVL6SL) | [Listener's Digest](https://open.spotify.com/album/6VsiGQn3S3dgape5u4dZhB) | 4:13 | 2024-09-17 | 2025-04-16 |
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2025-05-22 |  |
+| [Phantom](https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh) | 1:50 | 2025-08-21 |  |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-12-06 | 2024-04-19 |
 | [Pretender](https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Pretender](https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC) | 2:26 | 2025-07-24 |  |
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-05-31 | 2025-05-17 |

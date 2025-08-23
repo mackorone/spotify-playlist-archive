@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Summer Anthem",
+        "url": "https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl"
+    },
+    {
+      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },

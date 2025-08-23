@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 
 ### [Indiespensável](https://open.spotify.com/playlist/37i9dQZF1DWXx6OpWBkqVv)
 
-> Você já dançou muito essas músicas num inferninho insalubre\. Foto: Tame Impala
+> Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,157 likes - 65 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,139 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx6OpWBkqVv.md) - [plain]
 | 64 | [Fuck Forever](https://open.spotify.com/track/40VBtCOWsb3CadLYsATgxP) | [Babyshambles](https://open.spotify.com/artist/0IBAqjHG8DSaD7PPCGnGiZ) | [Down In Albion \(International Edition\)](https://open.spotify.com/album/5jE23bPNCDzMrpmavUaphx) | 4:37 |
 | 65 | [Son Of Sam](https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 3:04 |
 
-Snapshot ID: `AAAAAM09l/4XkROkkUWnhnIhUJkF7eAJ`
+Snapshot ID: `AAAAAElJv6Iwmrqp7gNfzdl1r4pi0RqZ`

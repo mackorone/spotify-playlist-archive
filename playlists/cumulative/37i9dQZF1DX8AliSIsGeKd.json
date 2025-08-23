@@ -5943,6 +5943,24 @@
     },
     {
       "album": {
+        "name": "Good Trip",
+        "url": "https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC"
+      },
+      "artists": [
+        {
+          "name": "Matara",
+          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304791,
+      "name": "Ant Club",
+      "url": "https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z"
+    },
+    {
+      "album": {
         "name": "Antagonistic Radiance",
         "url": "https://open.spotify.com/album/1DFBrY5DFg8mW2GFTuiK8g"
       },
@@ -104266,24 +104284,6 @@
       "duration_ms": 415037,
       "name": "Tracid",
       "url": "https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp"
-    },
-    {
-      "album": {
-        "name": "Good Trip",
-        "url": "https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC"
-      },
-      "artists": [
-        {
-          "name": "Matara",
-          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z"
     },
     {
       "album": {

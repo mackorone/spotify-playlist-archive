@@ -5188,7 +5188,7 @@
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 180373,
       "name": "Driving with My Darling",
       "url": "https://open.spotify.com/track/5HlRJ3ZIO1fOPXqKNAWrmT"
@@ -14194,7 +14194,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -15760,7 +15760,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 246786,
       "name": "Punkrocker (feat. Iggy Pop) - As featured in Superman",
       "url": "https://open.spotify.com/track/7yHRmaBkHKXKJmS1xMzicZ"
@@ -17530,7 +17530,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 320004,
       "name": "Sir This Is A Cutthroat Fashion",
       "url": "https://open.spotify.com/track/2jnyri2VkjwjuPy1tH6xwM"
@@ -25543,6 +25543,24 @@
     },
     {
       "album": {
+        "name": "\u0414\u0443\u0448\u0435\u0447\u043a\u0430",
+        "url": "https://open.spotify.com/album/1aEY02CU6dbqKdQaAisbDi"
+      },
+      "artists": [
+        {
+          "name": "\u0420\u0443\u0431\u0435\u0436 \u0412\u0435\u043a\u043e\u0432",
+          "url": "https://open.spotify.com/artist/3RoUB7fCNqfjJcXI9Erdu5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336266,
+      "name": "\u0414\u0443\u0448\u0435\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/0Plujl1yVablp9nZKCRtho"
+    },
+    {
+      "album": {
         "name": "\u0414\u044b\u043c",
         "url": "https://open.spotify.com/album/5KQKyNHSwed28OUBOj8T9q"
       },
@@ -29198,7 +29216,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 131657,
       "name": "\u041d\u0438\u043a\u043e\u043c\u0443 \u043d\u0435 \u0432\u0435\u0440\u0438\u0442\u044c",
       "url": "https://open.spotify.com/track/3yEXRe4siLLNZGOYQnbwWg"
@@ -30304,7 +30322,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 122292,
       "name": "\u041f \u041e \u0420 \u0428 \u0415",
       "url": "https://open.spotify.com/track/2ECFm3wpCV2ferG86uyhu5"
@@ -35566,7 +35584,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 166069,
       "name": "\u042f \u0437\u043d\u0430\u044e, \u0447\u0442\u043e \u0434\u0435\u043b\u0430\u043b \u043f\u0440\u043e\u0448\u043b\u044b\u043c \u043b\u0435\u0442\u043e\u043c",
       "url": "https://open.spotify.com/track/5b2pja3BhedtMrL9xLk6CQ"

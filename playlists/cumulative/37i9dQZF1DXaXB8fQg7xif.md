@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,254 songs - 2 day 19 hr 8 min
+1,255 songs - 2 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,7 @@
 | [Mr\. Vain](https://open.spotify.com/track/0SuiADCApYO9kRKQllv0Bi) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6) | [Mr\. Vain](https://open.spotify.com/album/1lpymUklJi4kZ07tLe5gF2) | 2:54 | 2020-05-22\* | 2020-09-20 |
 | [Murder On The Dancefloor \- PNAU Remix](https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Murder On The Dancefloor \(PNAU Remix\)](https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ) | 4:20 | 2024-02-26 |  |
 | [Music In You \(feat\. Lorenz Rhode\) \- David Penn Remix](https://open.spotify.com/track/5PouNtWvK2jJkwhsUGQjm7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Defected Presents House Masters \- David Penn](https://open.spotify.com/album/53Isf4F1aPdsyfP5MAjTXm) | 4:30 | 2020-07-01 | 2021-12-20 |
-| [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 | 2024-07-16 |  |
+| [Music is Better](https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Music is Better](https://open.spotify.com/album/3VsijDC7ltGS5pdgv08Ehu) | 3:56 | 2024-07-16 | 2025-08-23 |
 | [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2023-12-29 | 2024-05-18 |
 | [My Addiction](https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL) | [Alex Guesta](https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3) | [My Addiction](https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l) | 2:37 | 2024-06-07 | 2024-10-26 |
 | [My Bad](https://open.spotify.com/track/0YQ0N57Whq3vgF7bqUNDHs) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [My Bad](https://open.spotify.com/album/2BItDGmGYu0oPsb7akRz1b) | 2:27 | 2023-07-28 | 2023-12-13 |
@@ -1176,6 +1176,7 @@
 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 | 2024-09-20 |  |
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-07-16 | 2022-08-23 |
 | [Vibe \(If I Back It Up\)](https://open.spotify.com/track/4ZAQiu61otvHVveuTsPAUr) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda, Vol\. 2](https://open.spotify.com/album/5uYz79dshnrizAGPcM7bKz) | 1:24 | 2020-12-27 | 2021-05-25 |
+| [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-08-22 |  |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-15 |  |
 | [VOLVER](https://open.spotify.com/track/1ncGbGufa7aUaJ5zC4YP3y) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:05 | 2023-07-07 | 2023-07-21 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-05-26 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Your shortcut to the best new Hip Hop\. Cover: Offset
 
-644 songs - 1 day 7 hr 29 min
+645 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [For You \(feat\. TaTa\)](https://open.spotify.com/track/3rFNqqOjPeAcTn1P2i0FiV) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [For You \(feat\. TaTa\)](https://open.spotify.com/album/3xqrmsG6yWQ05ITnRvqBv6) | 1:59 | 2023-09-22 | 2023-09-29 |
 | [Forever G's](https://open.spotify.com/track/2ljjHs5pt6XVzhHaFoBAPH) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Forever G's](https://open.spotify.com/album/4hJr5d86Uqdg6MgAIettq5) | 3:19 | 2025-05-22 |  |
 | [FRANCE](https://open.spotify.com/track/4rqOmzys0vD2To6XSz2I22) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [FRANCE](https://open.spotify.com/album/0SixzSORHukZctQXQ3QfHl) | 2:00 | 2024-10-17 | 2024-12-13 |
+| [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 | 2025-08-21 |  |
 | [Freedom Of Speech](https://open.spotify.com/track/3WZefKhtpq0ZZABbBLYA4n) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Freedom Of Speech](https://open.spotify.com/album/2wmsAKoZTwxdjzJgLNKji8) | 2:49 | 2023-12-19 | 2024-06-01 |
 | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/track/69I5rRxwBNBODyFbTZJBqX) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Friday Prayer \(feat\. Headie One & Aitch\)](https://open.spotify.com/album/0S4Q6d6NRA6RubFH05Nz0R) | 3:15 | 2025-04-10 | 2025-05-16 |
 | [FTCU](https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:52 | 2024-01-24 | 2024-06-07 |

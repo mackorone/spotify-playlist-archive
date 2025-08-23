@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française\. Photo: Julien Lieb
+> Les meilleures nouveautés de la variété française avec M\. Pokora
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,183 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,277 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

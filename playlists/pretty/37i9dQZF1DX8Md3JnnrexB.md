@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,752 likes - 87 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,743 likes - 87 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 17 | [Rainy Night in Georgia](https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz) | [Secret Combination](https://open.spotify.com/album/4BEentLcVNeqzfyRN6TGDI) | 4:14 |
 | 18 | [Ever Changing Times \(feat\. Michael McDonald\)](https://open.spotify.com/track/6hAbyCJyTae5mEKWmAAFkm) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Jewels In The Crown](https://open.spotify.com/album/6D7Bj3IduG7Ikaf5XjOKWi) | 5:10 |
 | 19 | [When She Was My Girl](https://open.spotify.com/track/3FPaQv0qldYuF0XD0ziwT8) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Tonight](https://open.spotify.com/album/3xkgwc7evgKlM2euJZQo6i) | 3:26 |
-| 20 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
-| 21 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
+| 20 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
+| 21 | [Until You Come Back To Me \- Acoustic Version](https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb) | [Hil St\. Soul](https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J) | [Soul Organic \(20th Anniversary Edition\)](https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI) | 3:08 |
 | 22 | [Rhythm Of Life](https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Circle Of One](https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO) | 4:19 |
 | 23 | [Love, Need and Want You](https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Beautiful Ballads](https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8) | 5:00 |
 | 24 | [Golden Time Of Day \- Remastered](https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT) | [Maze](https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt), [Frankie Beverly](https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n) | [Golden Time Of Day \(Remastered\)](https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS) | 5:33 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 45 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
 | 46 | [Between the Sheets \[Edit\] \(feat\. Chaka Khan and Nathan East\)](https://open.spotify.com/track/614J8PKHtZ6JwFW0nF4rNP) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [The Best Of Fourplay](https://open.spotify.com/album/2ZBdDCPiM6tGFIZftRF5AG) | 3:55 |
 | 47 | [New York State Of Mind](https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:33 |
-| 48 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
-| 49 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
-| 50 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 |
+| 48 | [This Could Be Real](https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:55 |
+| 49 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 |
+| 50 | [Lunch Money](https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm) | [Stefan Sands](https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv) | [Lunch Money](https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH) | 2:52 |
 | 51 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 |
 | 52 | [Too Much, Too Little, Too Late \(with Deniece Williams\)](https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf), [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [The Essential Johnny Mathis 3.0](https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv) | 2:58 |
 | 53 | [Every Generation \- Remastered](https://open.spotify.com/track/2bWAUmHpvGMkMkHYjrCEhe) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Every Generation \(Remastered\)](https://open.spotify.com/album/55KJaaqlGFmdHysAekitOY) | 5:49 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 86 | [Close the Door](https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing](https://open.spotify.com/album/0x8q0crYQI3FagJi0UG5nY) | 5:25 |
 | 87 | [Still Here](https://open.spotify.com/track/1hIoyKIpoHYHdF30hheNN2) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Still Here](https://open.spotify.com/album/6YODvhTyUWPOQDeDbHdXm0) | 2:46 |
 
-Snapshot ID: `AAAAAEwf0K1qLZWS+6HBvu6v8fC9y4KT`
+Snapshot ID: `AAAAACt+Jshg0YMyGB+ByG+IT9fFX5qE`

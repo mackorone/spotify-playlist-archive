@@ -4,7 +4,7 @@
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-811 songs - 2 day 21 hr 34 min
+813 songs - 2 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2022-07-13 | 2023-12-24 |
 | [Devils and Angels](https://open.spotify.com/track/43ioujgfr3uASYa0v1xmdp) | [Psychotic Waltz](https://open.spotify.com/artist/2dOv4EhVP0W9QU8irQJEld) | [Devils and Angels](https://open.spotify.com/album/36jqRyLbU0wixx7RU2HgEQ) | 6:29 | 2021-12-17 | 2022-07-29 |
 | [Devonian: Nascent](https://open.spotify.com/track/3aKfvwFdNWXPDQuW5XOJ6k) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq), [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Devonian: Nascent](https://open.spotify.com/album/6q1qy7xbrjPnzGMW0vp4SF) | 11:05 | 2021-12-17 | 2022-05-14 |
-| [Devourer \- featuring Kristin Starkey](https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY), [Kristin Starkey](https://open.spotify.com/artist/4rtF23eX80Lfnp6Ws0a27d) | [Devourer \(featuring Kristin Starkey\)](https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH) | 3:20 | 2025-07-04 |  |
+| [Devourer \- featuring Kristin Starkey](https://open.spotify.com/track/0hqaVzo7IKd9WDAdUGyrsv) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY), [Kristin Starkey](https://open.spotify.com/artist/4rtF23eX80Lfnp6Ws0a27d) | [Devourer \(featuring Kristin Starkey\)](https://open.spotify.com/album/5CTdEgdfZqdDHeW9xrJZDH) | 3:20 | 2025-07-04 | 2025-08-23 |
 | [Diabolical Majesty](https://open.spotify.com/track/7LpG7xh1lmyS2hfE10JlKN) | [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3) | [Diabolical Majesty](https://open.spotify.com/album/2lmJTrhnj2OKxp8c9zJE59) | 4:56 | 2022-07-08 | 2024-05-18 |
 | [Die On The Cross Of The Martyr](https://open.spotify.com/track/2MuPNWG7PIUQccZljWGx6W) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Scott LePage](https://open.spotify.com/artist/2jBipF7DotEupjgfBqSdO0) | [...And Everything In Between](https://open.spotify.com/album/3LDYeoNeId8Eb6ssztA8B8) | 4:30 | 2023-12-06 |  |
 | [Differentiate](https://open.spotify.com/track/1HyowzIQaOllPWHFlqj2U8) | [Torrential Rain](https://open.spotify.com/artist/76QqWxJTkOJLTe99MkSEom) | [Differentiate](https://open.spotify.com/album/7sKa8eHU6SWfJpmk7JnLmm) | 5:15 | 2021-12-17 | 2023-01-21 |
@@ -324,7 +324,7 @@
 | [Hotel Sphinx](https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Hotel Sphinx](https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu) | 4:49 | 2024-11-22 | 2025-05-02 |
 | [House of Glass](https://open.spotify.com/track/66aHsvy60nqm36rpVf5Nd3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [House of Glass](https://open.spotify.com/album/5TrLKsPJImV04vaVsHy8rD) | 4:20 | 2022-07-13 | 2024-09-28 |
 | [How To Swim Down](https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [How To Swim Down](https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE) | 4:05 | 2023-08-18 | 2025-02-08 |
-| [How We Used To Say Goodbye](https://open.spotify.com/track/3UQ50Qs4qt4dZD978hpLbY) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [How We Used To Say Goodbye](https://open.spotify.com/album/3NIYRV0lXBW1Gn0TuM8AXk) | 3:53 | 2024-07-23 |  |
+| [How We Used To Say Goodbye](https://open.spotify.com/track/3UQ50Qs4qt4dZD978hpLbY) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [How We Used To Say Goodbye](https://open.spotify.com/album/3NIYRV0lXBW1Gn0TuM8AXk) | 3:53 | 2024-07-23 | 2025-08-23 |
 | [Hug My Death](https://open.spotify.com/track/5farC9XCNm6mDJ341fgoFu) | [Hand of Juno](https://open.spotify.com/artist/2g8hgaQzyK2a6ZD5AOKArj) | [Psychotic Banana](https://open.spotify.com/album/1qDg0ds6zDDmYT7nCv9ccw) | 3:49 | 2024-11-22 |  |
 | [Human](https://open.spotify.com/track/1Oketc8Fgr7OZD8fvOigxC) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Radiant Bloom](https://open.spotify.com/album/5ByR2W7N4vZlpsdkZOahIS) | 5:24 | 2023-01-20 | 2023-07-05 |
 | [Human](https://open.spotify.com/track/1se5sCo2wWKuXwaLXN5KfF) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Human](https://open.spotify.com/album/4fTOR8l715RIfSawEooQK2) | 5:24 | 2022-05-20 | 2022-07-29 |
@@ -481,6 +481,7 @@
 | [One](https://open.spotify.com/track/1SXaNlT88KkWotaPlJwosb) | [Fates Warning](https://open.spotify.com/artist/4S6URhg3PMKnCv9clR4ejE) | [Disconnected](https://open.spotify.com/album/6lNHGyqPf6b8qQxamd3uFw) | 4:26 | 2021-12-17 | 2022-01-28 |
 | [Only When I'm Breathing](https://open.spotify.com/track/7yGR564nb0jMzLHQbC1ZwB) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [How's The Heart? \(Bonus Version\)](https://open.spotify.com/album/56LhvuOSc78r0wPojHtfwo) | 3:49 | 2024-01-30 |  |
 | [Onsra](https://open.spotify.com/track/2hs76oH0fJ5Hbqc2LhoRFY) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Onsra](https://open.spotify.com/album/10U8LiPvSiWJJSh0wbAUAv) | 2:53 | 2024-11-22 |  |
+| [Ophelia \- feat\. SHAOLIN G](https://open.spotify.com/track/2JuOxFCEkOmq4QfzwaUauH) | [Tulip](https://open.spotify.com/artist/520HRtk3c4y8WTKKywE4PY) | [Ophelia \(feat\. SHAOLIN G\)](https://open.spotify.com/album/083FnaHDQgQbQ7VVwnH5nc) | 4:48 | 2025-08-22 |  |
 | [Opiate²](https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate²](https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi) | 9:54 | 2022-03-01 |  |
 | [Our Time is Now \(feat\. The Anix\) \- Extended](https://open.spotify.com/track/6wph3xiQIXwpcVRhhXzsik) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [humAnIty](https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j) | 5:22 | 2023-03-31 | 2025-02-08 |
 | [Outliers](https://open.spotify.com/track/2sRmAZqE51Mpi0V8R3uQBP) | [Aviations](https://open.spotify.com/artist/6dW9mkTQTr10cm2Lv4pPuY) | [Retrospect](https://open.spotify.com/album/7BDdYqybjtzbEpIDj9tM9p) | 11:36 | 2021-12-17 | 2022-09-03 |
@@ -631,6 +632,7 @@
 | [Switchblade OST](https://open.spotify.com/track/5rijDYworEBAKucaHTiD46) | [Diamond Construct](https://open.spotify.com/artist/3ZM354nvaghR5dGCXiFgGG) | [Switchblade OST](https://open.spotify.com/album/4RxZkLHfIEmiau3dhReGqM) | 3:24 | 2024-03-29 | 2024-11-23 |
 | [Sylphs](https://open.spotify.com/track/4mrKtDOcSuAdxk0eBPhbWq) | [22](https://open.spotify.com/artist/0Op82sqzI45fNMecmDiJDx) | [You Are Creating: Limb2](https://open.spotify.com/album/08jFW7mypcOkvvRgdnjRKj) | 3:52 | 2021-12-17 | 2022-05-13 |
 | [Synaesthesia](https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Synaesthesia](https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU) | 9:11 | 2024-11-22 |  |
+| [Take on Me \- Musora Session](https://open.spotify.com/track/4kXXgjWfmCgK0uR1kSqvFb) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5), [Musora](https://open.spotify.com/artist/60Qtnm46ynKnGaaMjOjogW) | [Take on Me \(Musora Session\)](https://open.spotify.com/album/1Y7yz5tBAwDJIpkEnGCbuS) | 4:48 | 2025-08-22 |  |
 | [Taurus](https://open.spotify.com/track/5hTRa6cl2MlpkrYyHO5zbR) | [Haken](https://open.spotify.com/artist/2SRIVGDkdqQnrQdaXxDkJt) | [Taurus](https://open.spotify.com/album/2ze4aFb1a3SMNIQ5qL1aEj) | 4:48 | 2023-01-20 | 2024-11-23 |
 | [Temple Of Circadia](https://open.spotify.com/track/4DkdmrJ1P8v1PFZrBZIuoV) | [John Petrucci](https://open.spotify.com/artist/4zvIE8a1h7L0IED4r4qKk1) | [Terminal Velocity](https://open.spotify.com/album/0ThCSFfHT7zTobzMoDH4vu) | 7:10 | 2021-12-17 | 2022-09-03 |
 | [Temporal](https://open.spotify.com/track/3k38K0CjsmtnlAR5fyHmdc) | [Katatonia](https://open.spotify.com/artist/2CWWgbxApjbyByxBBCvGTm) | [Temporal](https://open.spotify.com/album/1YRi4LhxjvvaWaq6CKg8KM) | 4:10 | 2025-05-09 |  |

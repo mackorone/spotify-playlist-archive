@@ -2,9 +2,9 @@
 
 ### [RADAR Africa ](https://open.spotify.com/playlist/37i9dQZF1DWYc8Z858eGwP)
 
-> Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp\_Sw">FOLA</a>
+> Discover your new favourite artists from Africa\. Cover:  Thakzin and FOLA
 
-477 songs - 1 day 1 hr 16 min
+479 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Abazali](https://open.spotify.com/track/6J0jX6MuObIpZkP1Ob9V3C) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [Abazali](https://open.spotify.com/album/2JBdrMf9aP33faZjfBMkzG) | 2:55 | 2025-08-15 |  |
 | [Abo Mvelo \(feat\. Mellow & Sleazy & M.J\)](https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Abo Mvelo \(feat\. Mellow & Sleazy & M.J\)](https://open.spotify.com/album/437dkJZjTY2KPRtZAVleKs) | 8:00 | 2022-05-05 | 2023-05-05 |
 | [Abotr3 \(Patience\)](https://open.spotify.com/track/6N9GrK3OSdZPgiFnXEnucr) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Patience](https://open.spotify.com/album/2PzZi8aAV2myyFYZp6Udna) | 2:58 | 2022-05-05 | 2022-06-17 |
-| [Agility](https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF) | [sabrina](https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC) | [Freely](https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp) | 2:30 | 2025-08-15 |  |
+| [Agility](https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF) | [sabrina](https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC) | [Freely](https://open.spotify.com/album/0i6vKjiwKhg63HBWJvnKCp) | 2:30 | 2025-08-15 | 2025-08-23 |
 | [Agyekum](https://open.spotify.com/track/4OE0KrJtQYCMV5f5ddmW5g) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 2:58 | 2025-07-23 |  |
 | [Ah Well](https://open.spotify.com/track/5HWaatDzTxcpOMDVYpvZwj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [In Pursuit Of Happiness](https://open.spotify.com/album/7cR90I8NPn64HTVjcDHQpb) | 3:12 | 2024-12-04 | 2025-04-15 |
 | [Akanchawa](https://open.spotify.com/track/2oUzn0DajLLHPgJHWL5QiE) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [I am the Blueprint](https://open.spotify.com/album/6NgdgRdxc6spifVLe8KXRM) | 2:15 | 2025-04-14 | 2025-07-24 |
@@ -90,6 +90,7 @@
 | [Burning Bush](https://open.spotify.com/track/6T8RXlW01s055nR9CMIlxj) | [MÖRDA](https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Ihhashi Elimhlophe](https://open.spotify.com/artist/4eSUGwpQXyQh2Qb09oCs21) | [Burning Bush](https://open.spotify.com/album/4hgjNSdnl4L2bTQXU1LUiV) | 6:08 | 2025-07-23 |  |
 | [bye bye](https://open.spotify.com/track/6tngr9d0NvgO8lERHM2wUu) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:41 | 2025-07-23 |  |
 | [C'est Du Mélange](https://open.spotify.com/track/10XVh3wR0cBqPBiTCgIuDw) | [Sethlo](https://open.spotify.com/artist/2PTCG1mxDKcnGzHIiCuVON) | [C'est Du Mélange](https://open.spotify.com/album/2yAG0Lm31GGQVRcLQozCid) | 2:58 | 2025-08-01 | 2025-08-15 |
+| [C'EST PAS DE MA FAUTE](https://open.spotify.com/track/44uGTxfrWTbnJZrT5O1kVO) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [DACHIBA KOUMGBA TCHAIBA](https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo) | 2:55 | 2025-08-22 |  |
 | [CALL ME](https://open.spotify.com/track/6wbiT7ohab2npxpH0Qjfq4) | [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [ON AIR](https://open.spotify.com/album/0ARXZhTXu81dsgWcTrlGUn) | 3:31 | 2024-05-09 | 2024-12-05 |
 | [Call Me](https://open.spotify.com/track/2ts36DolBb0XxuteHwbKz4) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [In the beginning was the end](https://open.spotify.com/album/2BGE8IaqHURKrGb14FHygQ) | 3:16 | 2024-12-04 | 2025-04-18 |
 | [Calm Down](https://open.spotify.com/track/1fDC4IXBlkHuAPugpCDqOo) | [Roiii](https://open.spotify.com/artist/0DdgjYMzRw7t9TVwFuBI0V) | [Calm Down](https://open.spotify.com/album/1a1UUMwJ6IafQNQo9I7qDB) | 2:42 | 2024-05-09 | 2024-06-28 |
@@ -233,7 +234,7 @@
 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 | 2024-05-09 | 2024-12-05 |
 | [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2024-05-09 | 2024-10-25 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-23 | 2023-05-05 |
-| [Johnny](https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Johnny](https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR) | 1:58 | 2025-08-15 |  |
+| [Johnny](https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Johnny](https://open.spotify.com/album/5prR8SvevjhGMlFlKliVlR) | 1:58 | 2025-08-15 | 2025-08-23 |
 | [Jolie](https://open.spotify.com/track/7wMYtt3SEquaep8sWCdQqp) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jolie](https://open.spotify.com/album/1KyvLDpjRbcHFKXFEvq0bZ) | 3:29 | 2023-05-04 | 2024-05-09 |
 | [Jonny Dang](https://open.spotify.com/track/5KtLrhWflTtmahBdirg2V8) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [031 To The World](https://open.spotify.com/album/42B0ywOKjPe803XKxQFgQt) | 1:49 | 2021-10-14 | 2022-05-06 |
 | [Jonzing Boy](https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Jonzing Boy](https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP) | 3:05 | 2023-05-11 | 2024-05-09 |
@@ -459,6 +460,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2024-05-09 |
 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 | 2023-11-17 | 2023-12-02 |
 | [Way Back](https://open.spotify.com/track/5rOGgvxkgMOn5ZhyLHLDFz) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [444](https://open.spotify.com/album/1W1wfMUuSh97ji84BqRu7A) | 3:10 | 2024-09-18 | 2024-10-05 |
+| [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 | 2025-08-22 |  |
 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 | 2023-05-04 | 2024-05-09 |
 | [When It's Over](https://open.spotify.com/track/1zRmXlJ5fV2vZJHt04tTJc) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Fallin' Apart](https://open.spotify.com/album/7sTMUZfjsk7CjmCybDP1nX) | 1:47 | 2023-05-04 | 2023-05-20 |
 | [Who Am I](https://open.spotify.com/track/1orWwb6zIlNsRmpzbfkLeh) | [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD) | [The Young Prince of Gqom](https://open.spotify.com/album/028rkg04iaHiF9q7q34ZzM) | 5:13 | 2024-06-27 | 2024-12-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,433 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,444 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 42 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
 | 43 | [No Stoppin' Us](https://open.spotify.com/track/4THDqloteA7XDcUicyhcvm) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Johnny Gill](https://open.spotify.com/artist/7oHzn7edwmrYClrPRINkbn), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [K\-Ci Hailey](https://open.spotify.com/artist/53M8YqZnU51ZjTFiXAFpIo) | [No Stoppin' Us](https://open.spotify.com/album/5jB7iZh1HNrQzgWajInSJm) | 2:59 |
 | 44 | [Sunshine](https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:11 |
-| 45 | [The Loneliness](https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:36 |
-| 46 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
+| 45 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
+| 46 | [The Loneliness](https://open.spotify.com/track/19i9vT76D5UCM5GyHe7FcW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:36 |
 | 47 | [As a matter of fact](https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [As a matter of fact](https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh) | 2:24 |
 | 48 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
-| 49 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 |
-| 50 | [Standing Ovation](https://open.spotify.com/track/2s8808a3WKmshVjkhtiL7c) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:45 |
+| 49 | [I Want You](https://open.spotify.com/track/1G4BiWFYJINM6NXJ43sWka) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:19 |
+| 50 | [I Love You Babe](https://open.spotify.com/track/64hQ8WQCdVuilwwIbyPuPn) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Lovers](https://open.spotify.com/album/74OF6f8hif6ZNLAh1JxRvF) | 4:09 |
 
-Snapshot ID: `aKO+gAAAAAANYOonZIIjKQslh+bqxUB4`
+Snapshot ID: `aKZhgAAAAAA10/KXjExJxmH+IdQBN7AU`

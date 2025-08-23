@@ -2,7 +2,7 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Mahalia
+> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Teyana Taylor
 
 1,111 songs - 2 day 9 hr 30 min
 

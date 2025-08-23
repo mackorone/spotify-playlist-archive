@@ -52,26 +52,6 @@
         {
           "name": "The Piano Guys",
           "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
-        },
-        {
-          "name": "Tim Bergling",
-          "url": "https://open.spotify.com/artist/5baGk14NDI3ZDPbr6wJilc"
-        },
-        {
-          "name": "Guy Berryman",
-          "url": "https://open.spotify.com/artist/2R0YxXQyGLURmOrY26P1kZ"
-        },
-        {
-          "name": "Jonathan Buckland",
-          "url": "https://open.spotify.com/artist/6ZK1R7WvOURjOviPQkVJEm"
-        },
-        {
-          "name": "William Champion",
-          "url": "https://open.spotify.com/artist/2DXdrllW1KAUjT9KJsB9NH"
-        },
-        {
-          "name": "Christopher Martin",
-          "url": "https://open.spotify.com/artist/3mrikwg27Va5uscwnBicq0"
         }
       ],
       "date_added": "2021-11-19",
@@ -836,6 +816,44 @@
       "duration_ms": 192576,
       "name": "Bloodstream - Acoustic Version",
       "url": "https://open.spotify.com/track/6RvQoBITPQHjx7MKCG3ya3"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody",
+        "url": "https://open.spotify.com/album/6YlJxrYIOHIiUGFBw75hpv"
+      },
+      "artists": [
+        {
+          "name": "Frederick Mercury",
+          "url": "https://open.spotify.com/artist/73VHeGZlvgnEHuKAVwFUlp"
+        },
+        {
+          "name": "Feuerbach Quartett",
+          "url": "https://open.spotify.com/artist/0rBWYuwl3ryJvUH1I7xWd3"
+        },
+        {
+          "name": "Jamila Musayeva",
+          "url": "https://open.spotify.com/artist/2Q87kdEwl3udwCko7mofFc"
+        },
+        {
+          "name": "Max Eisinger",
+          "url": "https://open.spotify.com/artist/72k8leLxlE003vd4reyLrh"
+        },
+        {
+          "name": "Eugen Hubert",
+          "url": "https://open.spotify.com/artist/0Prut0eFEFUXnWWucbsWu1"
+        },
+        {
+          "name": "Lukas Kroczek-Wagner",
+          "url": "https://open.spotify.com/artist/6tBlmbOWXpTIm8KATJx4Px"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405707,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2eURCNUMGKmFSijJPRUa8i"
     },
     {
       "album": {

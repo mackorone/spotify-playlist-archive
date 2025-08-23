@@ -1259,6 +1259,44 @@
     },
     {
       "album": {
+        "name": "Electric Django: Radio Recordings 1947",
+        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Maurice Meunier",
+          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
+        },
+        {
+          "name": "Eddie Bernard",
+          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
+        },
+        {
+          "name": "Eug\u00e8ne V\u00e9es",
+          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
+        },
+        {
+          "name": "Emmanuel Soudieux",
+          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
+        },
+        {
+          "name": "Jacques Martinon",
+          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181009,
+      "name": "Viper's Dream",
+      "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
+    },
+    {
+      "album": {
         "name": "All Star Sessions",
         "url": "https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3"
       },

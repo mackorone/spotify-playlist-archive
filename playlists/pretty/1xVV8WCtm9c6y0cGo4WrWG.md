@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,173 likes - 74 songs - 3 hr 38 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 23,172 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,6 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 72 | [So Not Sorry](https://open.spotify.com/track/29wQKVGS415sTQmoeJ4gFg) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [So Not Sorry](https://open.spotify.com/album/0xEPwqGRs2PIxnyVuqgZqQ) | 2:18 |
 | 73 | [Imma Shoot](https://open.spotify.com/track/7AsZ1KI3AHWjP1liPpOykV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Imma Shoot](https://open.spotify.com/album/1XAvyrDwCMoctHaogYEQDP) | 3:26 |
 | 74 | [Runnin](https://open.spotify.com/track/19g5N41kZEdlfTmNSif6D9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 3:07 |
+| 75 | [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 |
 
-Snapshot ID: `AAAjnM+4iVpeNlHHZWDICDGAA2R5becX`
+Snapshot ID: `AAAjnQbB6VdZuF3hmO18klO6rAyqGAKL`

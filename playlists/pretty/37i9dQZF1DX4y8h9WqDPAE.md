@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Mahalia
+> Where R&B meets Hip\-Hop, Pop, Afrobeats and everything in between !  Cover: Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,739,341 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,739,244 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [Instructions](https://open.spotify.com/track/1zRvqTBUJBRAIs8s6mIV5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Instructions](https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz) | 2:16 |
 | 150 | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/track/6pMHL7A5CEPzHHKDRAAMEM) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Wake Up \(feat\. Chris Brown\)](https://open.spotify.com/album/6GxAhYaeBYubxjZn0KkpZY) | 2:53 |
 
-Snapshot ID: `AAAAABIEnChJoRGiQlNaPg2Z5tq+mmIe`
+Snapshot ID: `AAAAABoq6OzaiHUlmnHiFWddtP6oBGw3`

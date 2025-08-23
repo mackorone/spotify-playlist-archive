@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,869 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,832 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [¿PARA QUÉ VOLVER?](https://open.spotify.com/track/6JmbsVrw0u2Q4Qf4XLnD93) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 2:21 |
-| 2 | [Templo de Piceas](https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:27 |
+| 2 | [Abrázame Fuerte](https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 3:28 |
 | 3 | [BABIECA!](https://open.spotify.com/track/61pHHYNCngD1S2t0k7ew3e) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [BABIECA!](https://open.spotify.com/album/6U1EaFgDcc3qNjCDsVcH7e) | 2:46 |
 | 4 | [MACARRONES CON QUESO](https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [MACARRONES CON QUESO](https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7) | 2:27 |
 | 5 | [Vida Nueva](https://open.spotify.com/track/7K1E430DTy3l3LYSl3lsbr) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Vida Nueva](https://open.spotify.com/album/2ODtACIfIbFmkddgm7kxYz) | 2:49 |
-| 6 | [Abrázame Fuerte](https://open.spotify.com/track/4QLSlcu2gXe6ABcXDs6xl2) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [GIRASOLES](https://open.spotify.com/album/2mk78J70fArsjx0EG7Xi6R) | 3:28 |
+| 6 | [Templo de Piceas](https://open.spotify.com/track/4gjJVP5n0F3EFL2G5hgOAM) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Milagro](https://open.spotify.com/album/5yMYOAgxWplaESIY4hZdsR) | 3:27 |
 | 7 | [I know](https://open.spotify.com/track/5xCUOxO46AyKy4x0W7dxeM) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq), [henry semler](https://open.spotify.com/artist/1wBVtrDrvjQ5LKctUm01pS) | [I know](https://open.spotify.com/album/6GRPgTY3rk3dgxsG9ZOkCu) | 2:57 |
 | 8 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/1HnI5cfbWXkyYxfRhCZPFv) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/4yxdgyxOzVIagRRZ5PT0XP) | 3:23 |
 | 9 | [Brindo](https://open.spotify.com/track/1RbwjbhpV4YA49mBCOJ8cR) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [FOK YO](https://open.spotify.com/track/4hNpdruOso7xbR804AqwbX) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [NICA](https://open.spotify.com/album/7too2QxN1q5XHa9gogI3N3) | 3:06 |
 | 100 | [MENTE TREN](https://open.spotify.com/track/6KvP0vPANDvKf9ukERgJI0) | [FE7O](https://open.spotify.com/artist/4mEBEtZA2zrvg4JOcpCLxL), [ONTiNO!](https://open.spotify.com/artist/1JOzYwryx8bkT2o4RukRJ8) | [OCIO](https://open.spotify.com/album/3v5Dgv8zeXXIX5fRUnC7qV) | 3:25 |
 
-Snapshot ID: `AAAAAD6gc8zOKZ+CffBMJ7oK1KEUHn6t`
+Snapshot ID: `AAAAABSGlCGdSc0bClgsi5m6nGbsTm0A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2x9Uy8yoJIWxOslfC3vYCq">Wondagurl</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,238 likes - 67 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,239 likes - 67 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE9SVAmapeMs.md) - [plain]
 | 66 | [• VVS](https://open.spotify.com/track/0M5ycnOCm3yZMPGwb9y68t) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:52 |
 | 67 | [Young Love Games](https://open.spotify.com/track/5Z0qaipNiBmMTTFohE9ek3) | [Grace Weber](https://open.spotify.com/artist/3hJNrfFurTlGFglmBwyFFM) | [Young Love Games](https://open.spotify.com/album/0edwyKGofva4cAqAuTWmJd) | 2:45 |
 
-Snapshot ID: `Ab6H9AAAAAAOlAhoWJ71HcKBsdOqvLXa`
+Snapshot ID: `Ab6NigAAAAAcGxdlTsQYHXivAM1rLPT0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Aswell
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,829 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,867 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 44 | [Dans 10 ans](https://open.spotify.com/track/0FbNxtUbetsjF7s42pkOIS) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ÉBĒM](https://open.spotify.com/album/4UPHNEDkuwpqz1GlcFOm2s) | 3:31 |
 | 45 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 |
 | 46 | [Tout gâcher](https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Tout gâcher](https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv) | 2:06 |
-| 47 | [Extraordinaire](https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Extraordinaire](https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H) | 2:45 |
-| 48 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
+| 47 | [Mille vagues](https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Mille vagues](https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf) | 5:03 |
+| 48 | [Extraordinaire](https://open.spotify.com/track/5EAX0NgJp50yTrI1WtqUFt) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Extraordinaire](https://open.spotify.com/album/3HUtRAjScaxmTU6X820v3H) | 2:45 |
 | 49 | [Comme Avant](https://open.spotify.com/track/00qSqRqxO8ht5KAfylLqMh) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Comme Avant](https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi) | 3:39 |
 | 50 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 |
 

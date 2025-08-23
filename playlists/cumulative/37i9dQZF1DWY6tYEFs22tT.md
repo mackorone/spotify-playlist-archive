@@ -2,9 +2,9 @@
 
 ### [Hip\-Hop Central](https://open.spotify.com/playlist/37i9dQZF1DWY6tYEFs22tT)
 
-> Today's Hip\-Hop with Cardi B, Gunna, Bryson Tiller, JID, Offset and Travis Scott.
+> Today's Hip\-Hop with Offset, Cardi B, Gunna, Bryson Tiller, JID and Travis Scott.
 
-1,386 songs - 2 day 20 hr 48 min
+1,387 songs - 2 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Blues \(feat\. Future\)](https://open.spotify.com/track/7s4tr5ezJRu83UqgqvEtNP) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:25 | 2022-10-14 | 2022-11-19 |
 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 | 2023-08-19 |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 | 2024-06-29 |
-| [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 | 2025-06-20 |  |
+| [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 | 2025-06-20 | 2025-08-23 |
 | [Bon Appétit](https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Bon Appétit](https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk) | 3:17 | 2023-11-24 | 2023-12-16 |
 | [Bonecrusher \(feat\. Key Glock\)](https://open.spotify.com/track/3DmurtaoUILQC8e4XMPW4K) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Bonecrusher \(feat\. Key Glock\)](https://open.spotify.com/album/3tb85w0VG9SO5mTZR3Gxmd) | 3:25 | 2023-09-01 | 2024-01-20 |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 | 2023-10-21 |
@@ -329,6 +329,7 @@
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-05-27 | 2022-09-10 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-04-16 |
 | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Different Breed \(feat\. Swae Lee & Latto\)](https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT) | 2:55 | 2023-10-20 | 2024-01-27 |
+| [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 | 2025-08-22 |  |
 | [DILEMMA \(feat\. Central Cee\)](https://open.spotify.com/track/1OrR5tTnYaryjbfZ8Jl2wT) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [RENT'S DUE](https://open.spotify.com/album/3uKar0bX3b6g6YcLrGDDuD) | 2:40 | 2025-03-28 | 2025-06-14 |
 | [DIRTY NACHOS](https://open.spotify.com/track/5CU0ZVQKGyOeOIbuXDo6gr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [DIRTY NACHOS](https://open.spotify.com/album/0kim8RqcfUvU9CodYZLp9d) | 1:59 | 2024-02-09 | 2024-04-27 |
 | [Dirty Revolver](https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:03 | 2024-11-29 | 2025-01-18 |

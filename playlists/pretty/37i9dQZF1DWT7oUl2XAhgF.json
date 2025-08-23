@@ -1,13 +1,69 @@
 {
   "description": "A new take on a classic sound. Cover: Hermanos Guti\u00e9rrez x Leon Bridges",
-  "num_followers": 370684,
+  "num_followers": 370775,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACVKDUwNEDns81A9hTsJMcCFxluT",
+  "snapshot_id": "AAAAAPNtCoUBeONlAmVTW3FUZxu6I6Gu",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "I'll Never Say No",
+        "url": "https://open.spotify.com/album/4v62Z1xy3JgUDdkSX1o5uR"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "I'll Never Say No",
+      "url": "https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "Please Don't Talk To Me",
+        "url": "https://open.spotify.com/album/0Yi9RyDt6GQYM5xFOG4Rxs"
+      },
+      "artists": [
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Please Don't Talk To Me",
+      "url": "https://open.spotify.com/track/0uU9rnZxlXWi8chK2buYTe"
+    },
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "Flowers In The Garden",
+        "url": "https://open.spotify.com/album/4QrIeBxfRo93FeLaDy6N7C"
+      },
+      "artists": [
+        {
+          "name": "Wanda Felicia",
+          "url": "https://open.spotify.com/artist/1d4bky74FjfJpMmFyl0NQm"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 327851,
+      "name": "Flowers In The Garden",
+      "url": "https://open.spotify.com/track/4glpi4JsC3FekGa9TRHWQ4"
+    },
     {
       "added_at": "2025-08-15 04:00:05",
       "album": {
@@ -1457,22 +1513,6 @@
       "url": "https://open.spotify.com/track/2Wr8VlaALAoCINplD16qwh"
     },
     {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Hello, I'm Britti.",
-        "url": "https://open.spotify.com/album/09WQABIo1U9D8H8SO7WK0a"
-      },
-      "artists": [
-        {
-          "name": "Britti",
-          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/302hBUpoWoYQyBgujHfuTy"
-    },
-    {
       "added_at": "2024-02-23 05:01:00",
       "album": {
         "name": "Beautiful Mess",
@@ -1605,22 +1645,6 @@
       "url": "https://open.spotify.com/track/20801Wp091hByDAPyq6pAZ"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/5heDsRjgWf63G0F3dzGEji"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2mAMcZ18iCU39tTF0PHvVx"
-    },
-    {
       "added_at": "2024-01-12 05:01:00",
       "album": {
         "name": "Be With Me",
@@ -1659,22 +1683,6 @@
       "duration_ms": 228540,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/3D5Lrb3hzIs5ueUvuGpWWG"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "The Melody Within",
-        "url": "https://open.spotify.com/album/0lNVrrcLt81D6u8G6Jn3EV"
-      },
-      "artists": [
-        {
-          "name": "Gary Beals",
-          "url": "https://open.spotify.com/artist/5PXsenJUe92Lu12xrQfPes"
-        }
-      ],
-      "duration_ms": 194832,
-      "name": "Self Revolution",
-      "url": "https://open.spotify.com/track/6xq246xhPP6sxsXrMyB8en"
     },
     {
       "added_at": "2023-11-10 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQ8RL8n6RxT.md) - [plain]
 
 > All the tracks covered by artists in the new Netflix series Building the Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,340 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,619 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

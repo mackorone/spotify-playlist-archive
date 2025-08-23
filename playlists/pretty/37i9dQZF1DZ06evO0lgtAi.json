@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 29984,
+  "num_followers": 30003,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAO+dkTML/MJKyncM3FFjPO",
+  "snapshot_id": "aKZhgAAAAAAkOeAmm091dD1lfT3Q8QeP",
   "tracks": [
     {
       "added_at": null,
@@ -279,30 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
-        "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
         },
         {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 158027,
-      "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
-      "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
+      "duration_ms": 148960,
+      "name": "FATAL FANTASSY",
+      "url": "https://open.spotify.com/track/2OG4ot6I8MyN1YLAUXdmBo"
     },
     {
       "added_at": null,
@@ -335,22 +327,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+        "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+        "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 148960,
-      "name": "FATAL FANTASSY",
-      "url": "https://open.spotify.com/track/2OG4ot6I8MyN1YLAUXdmBo"
+      "duration_ms": 158027,
+      "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+      "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
     },
     {
       "added_at": null,

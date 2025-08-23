@@ -1,13 +1,77 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43996,
+  "num_followers": 43994,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAaW8YittLz6bVaOSSvOBTjU3hSCB6E",
+  "snapshot_id": "AAAaYMfQ4Ncl3+swLCzzck0L+24ILpIe",
   "tracks": [
+    {
+      "added_at": "2025-08-22 16:32:19",
+      "album": {
+        "name": "Proxima Nova",
+        "url": "https://open.spotify.com/album/1USScuJT7Fbq5vyXyn5yx4"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 219602,
+      "name": "All I Ever Wanted",
+      "url": "https://open.spotify.com/track/0MeIcbdo8BVB1mMuOC0ZmM"
+    },
+    {
+      "added_at": "2025-08-22 16:32:56",
+      "album": {
+        "name": "Hot In This",
+        "url": "https://open.spotify.com/album/4824pzDFUulf6WpYaRw3la"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Hot In This",
+      "url": "https://open.spotify.com/track/03MlbQtvE4QD9gdjFAhZqg"
+    },
+    {
+      "added_at": "2025-08-22 16:32:19",
+      "album": {
+        "name": "Proxima Nova",
+        "url": "https://open.spotify.com/album/1USScuJT7Fbq5vyXyn5yx4"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/60q8mNyzHfyzWZ77Wg904D"
+    },
+    {
+      "added_at": "2025-08-22 16:32:19",
+      "album": {
+        "name": "Proxima Nova",
+        "url": "https://open.spotify.com/album/1USScuJT7Fbq5vyXyn5yx4"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/0jiQuVunCu6aawlcIyxTn6"
+    },
     {
       "added_at": "2025-08-15 11:54:37",
       "album": {

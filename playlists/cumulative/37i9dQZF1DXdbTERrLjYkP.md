@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Sabrina Sterling
+> Discover the next wave of talent writing their own songs\. Cover: Elle Coves
 
-920 songs - 2 day 1 hr 19 min
+922 songs - 2 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [bad friend](https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [bad friend](https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu) | 3:13 | 2022-01-14 | 2022-04-02 |
 | [Bad Guy](https://open.spotify.com/track/5zdhNz9bknV6Qr9KkdU7Zi) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Bad Guy](https://open.spotify.com/album/5N6bzgngivNabZO2U3UU8b) | 3:40 | 2023-07-28 | 2023-08-12 |
 | [Bad Timing](https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Bad Timing](https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo) | 3:28 | 2024-03-15 | 2024-04-19 |
+| [Barking Dogs](https://open.spotify.com/track/074ptgez3Foa94ZlXCaEbn) | [Tele](https://open.spotify.com/artist/09mubTbWhCfwxtVDtlRFDa) | [Barking Dogs](https://open.spotify.com/album/1lUS8JfHuyOdIXhbh60S0J) | 3:08 | 2025-08-22 |  |
 | [BDSM](https://open.spotify.com/track/73WojSE8AHCQvfAcNaDjR8) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [BDSM](https://open.spotify.com/album/4tJMW1h9dl8cTRBdWJoDAf) | 3:29 | 2022-07-08 | 2022-09-10 |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-14 | 2022-03-12 |
 | [Beach Zombies](https://open.spotify.com/track/5h1cU6XlKTEoiyCIAh2nbF) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Beach Zombies](https://open.spotify.com/album/4OI0wbuC4u0WhjpKttX4ym) | 2:37 | 2023-03-03 | 2023-07-01 |
@@ -286,7 +287,7 @@
 | [FOMO](https://open.spotify.com/track/0q2GmsoQ9mZf1PkQqnuoEZ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [FOMO](https://open.spotify.com/album/2v9iswJpEYA2vPdaeLFbb9) | 3:19 | 2024-12-13 | 2025-05-10 |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
 | [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 | 2023-07-22 |
-| [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-15 |  |
+| [Friend Of Mine](https://open.spotify.com/track/3a1lLFOwCFU3XjIH0iwFrD) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Friend Of Mine](https://open.spotify.com/album/7h0ZdjeQOxEDYYc0Mr5YhE) | 2:50 | 2025-08-15 | 2025-08-23 |
 | [Friends](https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Friends](https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F) | 3:17 | 2024-08-30 | 2025-01-18 |
 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 | 2023-04-07 | 2023-08-19 |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
@@ -354,6 +355,7 @@
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-14 | 2022-12-24 |
 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-14 | 2022-10-16 |
 | [His LA Girl](https://open.spotify.com/track/5wA2hUAniDVKkcyhnY1IKs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [His LA Girl](https://open.spotify.com/album/5ZmQqhcyWuVecfOSqpf5rY) | 4:46 | 2025-06-13 |  |
+| [Hit Me Where It Hurts](https://open.spotify.com/track/2kEkIOoKTB6I9wkMnyH11K) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [No Good At Hanging Up](https://open.spotify.com/album/0FqRkiRcQtME8oqX8A5MGe) | 3:25 | 2025-08-22 |  |
 | [Holding You](https://open.spotify.com/track/4usJx7T935Bw61ALK915Xe) | [David McCredie](https://open.spotify.com/artist/6xjud8c4TNMuSPwjXvBrfY) | [Holding You](https://open.spotify.com/album/7u0hcPOpSjU77LF7xDC3pH) | 2:51 | 2023-02-24 | 2023-08-12 |
 | [Holy Place](https://open.spotify.com/track/4hXkYDNE8j7JCJG3gzZD4C) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [Holy Place](https://open.spotify.com/album/0CkxO3XjDHito2dkzS6kxn) | 3:02 | 2023-04-28 | 2023-08-19 |
 | [Home](https://open.spotify.com/track/3TvT76690Fsqbdnx2uzOB3) | [Ellis King](https://open.spotify.com/artist/4KJ4qp4XqEXmILu2ZX9hAu) | [Home](https://open.spotify.com/album/1rBYvlZe1eyLbpJLYnRcCO) | 3:27 | 2024-12-13 | 2025-04-19 |
@@ -590,7 +592,7 @@
 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 | 2023-12-15 | 2024-02-03 |
 | [No Fun](https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [No Fun](https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb) | 3:19 | 2024-07-01 | 2024-08-10 |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 | 2023-02-04 |
-| [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 | 2025-03-21 |  |
+| [Northern Star](https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz) | 2:41 | 2025-03-21 | 2025-08-23 |
 | [Northstar](https://open.spotify.com/track/7FZF2PoHMYFlbIdpQzUUR5) | [Nami](https://open.spotify.com/artist/5wIkfOCGLMGSeYTC0F9gdq) | [Northstar](https://open.spotify.com/album/0xIrvfaiqBfNA8cSbrHYhr) | 2:13 | 2025-02-07 | 2025-06-07 |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not Everything Ends](https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Not Everything Ends](https://open.spotify.com/album/3RUxz2erYYect3c0ogPRxC) | 3:39 | 2025-02-07 | 2025-06-07 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADE1ERoemopLJam71ylCa6k",
+  "snapshot_id": "aKZhgAAAAAAXp0Gnn60aqOS0BRKjl6tF",
   "tracks": [
     {
       "added_at": null,
@@ -70,11 +70,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 194010,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
+      "duration_ms": 224453,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
     },
     {
       "added_at": null,
@@ -134,21 +138,17 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 224453,
-      "name": "Still Love",
-      "url": "https://open.spotify.com/track/5bUNcdF18WBwCdkRNO4y5C"
+      "duration_ms": 194010,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Still Love (Deluxe)",
-        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 225012,
-      "name": "Cold Case - Kurt Ballou Mix",
-      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
+      "duration_ms": 226088,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
     },
     {
       "added_at": null,
@@ -204,15 +204,15 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Still Love (Deluxe)",
+        "url": "https://open.spotify.com/album/7bjoRFAziiXoBlPbLtUlV7"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226088,
-      "name": "Mary",
-      "url": "https://open.spotify.com/track/1NsZudLIW1RwsQCytCQoGt"
+      "duration_ms": 225012,
+      "name": "Cold Case - Kurt Ballou Mix",
+      "url": "https://open.spotify.com/track/51DetOrim3PuO2qc8datc2"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,

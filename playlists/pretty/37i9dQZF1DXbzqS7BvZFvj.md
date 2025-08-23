@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Cardi B
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,227 likes - 81 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,242 likes - 81 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 63 | [OWA OWA](https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [OWA OWA](https://open.spotify.com/album/4Yhp37rgKSp0FZwEdwW0S7) | 2:12 |
 | 64 | [ART \(feat\. Latto\)](https://open.spotify.com/track/24fWOmkqeWMdAxiOiuXt0k) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [ART \(feat\. Latto\)](https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc) | 1:48 |
 | 65 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 |
-| 66 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 |
+| 66 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 3:22 |
 | 67 | [Where To Start](https://open.spotify.com/track/260EW8FU6e45oZ6sylXrfS) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Where To Start](https://open.spotify.com/album/55wb82Be19wprPto18OIX6) | 3:34 |
 | 68 | [Bear Hill](https://open.spotify.com/track/5CKlHD7oT40Z793Ykppbfn) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [The Emperor's New Clothes](https://open.spotify.com/album/1hI8tHkf2aBl1zgjMblfck) | 2:24 |
 | 69 | [Feels So Good](https://open.spotify.com/track/3HA9JaK01wlePDQLnEVqTf) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:11 |

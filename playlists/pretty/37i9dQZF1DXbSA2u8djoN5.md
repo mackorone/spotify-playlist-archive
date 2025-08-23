@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover:NANE
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,734 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,744 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 50 | [Trebuie să vorbim](https://open.spotify.com/track/2umq0CclvwPu9IgfKFYGqf) | [Cojo](https://open.spotify.com/artist/4Rl9vpUbiQ7h02NfIaAma2), [Yasmin Petroșanu](https://open.spotify.com/artist/0JAK73jXbu6yF0BMfLZ7xB) | [Erupt](https://open.spotify.com/album/6Hl9jUlqriBim7hHWr09nf) | 3:36 |
 
-Snapshot ID: `AAAAABeecyloDd2fuhbYsDCVpClJcQgp`
+Snapshot ID: `AAAAABgZpfBDQvL4+FzXv9FMVqaqqejE`

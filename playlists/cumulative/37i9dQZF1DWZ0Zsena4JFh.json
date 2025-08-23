@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Glass Animals en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Mac DeMarco en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 203989,
       "name": "A Tear in Space (Airlock)",
       "url": "https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 182158,
       "name": "Buddies On the Blackboard",
       "url": "https://open.spotify.com/track/7mcsqurrPcn2qMjIHRB9d7"
@@ -3265,6 +3265,24 @@
     },
     {
       "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
+    },
+    {
+      "album": {
         "name": "Everybody's trying to figure me out",
         "url": "https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF"
       },
@@ -4152,6 +4170,24 @@
       "duration_ms": 233320,
       "name": "Grace",
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
+    },
+    {
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171741,
+      "name": "Great Pretender",
+      "url": "https://open.spotify.com/track/1pNEdS8LS4TKZgTSvfvl5C"
     },
     {
       "album": {
@@ -5325,6 +5361,24 @@
     },
     {
       "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+    },
+    {
+      "album": {
         "name": "Kamikaze Comic",
         "url": "https://open.spotify.com/album/1IyAn07bOZdtlXqy1HzPSb"
       },
@@ -5520,6 +5574,24 @@
       "duration_ms": 259273,
       "name": "last woman on earth",
       "url": "https://open.spotify.com/track/79UlPlMXGqCHfxDUJ4dPB2"
+    },
+    {
+      "album": {
+        "name": "Late For School",
+        "url": "https://open.spotify.com/album/73B0eIh8uxXZd7RveMkAax"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131993,
+      "name": "Late For School",
+      "url": "https://open.spotify.com/track/3bhlZfIGlk3vV98ITMh8MT"
     },
     {
       "album": {
@@ -5766,7 +5838,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 237134,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/0Pe21Qy1cnwZmapx9rzLmN"
@@ -6070,7 +6142,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 198160,
       "name": "Luther",
       "url": "https://open.spotify.com/track/6zv0lTlnSWeYdjCDIYPAeL"
@@ -6447,6 +6519,28 @@
     },
     {
       "album": {
+        "name": "Like A Ribbon",
+        "url": "https://open.spotify.com/album/7C0m3PiCmlHtpCVG0cwzwC"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131008,
+      "name": "Money Shows",
+      "url": "https://open.spotify.com/track/7neEyx45EStmfWefGkJwQR"
+    },
+    {
+      "album": {
         "name": "moody",
         "url": "https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro"
       },
@@ -6780,6 +6874,24 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
+        "name": "Nights in Armor",
+        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189650,
+      "name": "Nights in Armor",
+      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
     },
     {
       "album": {
@@ -7488,6 +7600,24 @@
       "duration_ms": 275493,
       "name": "Petite Etoile",
       "url": "https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP"
+    },
+    {
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110143,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
     },
     {
       "album": {
@@ -9042,7 +9172,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 234369,
       "name": "Still See Love",
       "url": "https://open.spotify.com/track/17mBSbqnsXQRYQff2tt6Gt"
@@ -9418,7 +9548,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 197661,
       "name": "Taxes",
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
@@ -10616,7 +10746,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 170541,
       "name": "WE DONT COUNT",
       "url": "https://open.spotify.com/track/62j2njaZrT6D7hJQPw9HGW"
@@ -10793,6 +10923,24 @@
     },
     {
       "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "who\u2019s your boyfriend",
+      "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
+    },
+    {
+      "album": {
         "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
         "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
       },
@@ -10898,7 +11046,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 158613,
       "name": "Ya No Te Hago Falta (Con Ed Maverick)",
       "url": "https://open.spotify.com/track/6UaIXNg4TUkpI9QGQYlFYi"

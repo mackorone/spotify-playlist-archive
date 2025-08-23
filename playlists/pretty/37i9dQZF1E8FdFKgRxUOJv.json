@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKfjowAAAAClC7hN6riImTyBx2/Tumoe",
+  "snapshot_id": "aKk2swAAAAA4eVYoBexBiy6Ga032tn7z",
   "tracks": [
     {
       "added_at": null,
@@ -67,26 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time To Move",
-        "url": "https://open.spotify.com/album/1KIy9xQnAbhH7wygj6XUMx"
-      },
-      "artists": [
-        {
-          "name": "Crosby Loggins",
-          "url": "https://open.spotify.com/artist/1XMyelskjrdVKYhWrPfD1X"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Time To Move (feat. John Mayer)",
-      "url": "https://open.spotify.com/track/5MNrNji198JkIQK2GBbUcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Part Of The Light",
         "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
       },
@@ -99,22 +79,6 @@
       "duration_ms": 296386,
       "name": "Such A Simple Thing",
       "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
     },
     {
       "added_at": null,
@@ -143,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+        "name": "The Search for Everything",
+        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
       },
       "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
         {
           "name": "John Mayer",
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU"
+      "duration_ms": 212320,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0oiCeOPwm4zhwfyIpAE37y"
     },
     {
       "added_at": null,
@@ -179,6 +139,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 186826,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d"
       },
@@ -191,22 +171,6 @@
       "duration_ms": 222400,
       "name": "This Too Shall Last",
       "url": "https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Carry Me Away",
-      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": null,
@@ -227,134 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Rivers",
-        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 260368,
-      "name": "Heart Attack",
-      "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hard Settle, Ain't Troubled",
-        "url": "https://open.spotify.com/album/5skD4KvE9DW8TRLKhh2Ibm"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 203869,
-      "name": "Portland, Maine",
-      "url": "https://open.spotify.com/track/2o3DsyDE0NJfsMGOj4ARBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Battle Studies",
-        "url": "https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 250373,
-      "name": "Half of My Heart",
-      "url": "https://open.spotify.com/track/7hR5toSPEgwFZ78jfHdANM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Light Above It Too",
-        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Sunsets For Somebody Else",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wilder Woods",
-        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Supply & Demand",
-      "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
-      },
-      "artists": [
-        {
-          "name": "Anderson East",
-          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
-        }
-      ],
-      "duration_ms": 254834,
-      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
-      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Undergrad Romance and the Moses in Me",
-        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 230103,
-      "name": "Hey Lady",
-      "url": "https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -364,93 +200,9 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 219226,
-      "name": "Til the Right One Comes",
-      "url": "https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Both Ways",
-        "url": "https://open.spotify.com/album/7N2zsLq0Nd5FQQEEZYzoq2"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 251324,
-      "name": "Another Way",
-      "url": "https://open.spotify.com/track/4aG6rfex37SDyRwBEi9hqM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe"
-      },
-      "artists": [
-        {
-          "name": "Ed Patrick",
-          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
-        }
-      ],
-      "duration_ms": 256040,
-      "name": "Addicted To You",
-      "url": "https://open.spotify.com/track/1UNoqAFBHyhZcJyzVW2l0i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "Outta My Head (with John Mayer)",
-      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mission Bell",
-        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Flower",
-      "url": "https://open.spotify.com/track/3UdNzOWeC0wOnDpfbCwU7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+      "duration_ms": 159133,
+      "name": "Carry Me Away",
+      "url": "https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ"
     },
     {
       "added_at": null,
@@ -464,181 +216,9 @@
           "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 173604,
-      "name": "Speak Too Soon",
-      "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djesse Vol. 4",
-        "url": "https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
-      "url": "https://open.spotify.com/track/275XKjLmQFuZnxTvvtJ6VZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before & After Life",
-        "url": "https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE"
-      },
-      "artists": [
-        {
-          "name": "Eric Hutchinson",
-          "url": "https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4"
-        }
-      ],
-      "duration_ms": 293500,
-      "name": "The Best Part",
-      "url": "https://open.spotify.com/track/00tGCgulE0lQHeJugDDNtl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Last Train Home",
-      "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/3ukgoRejo9Q8pYkjID1M6b"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Shoulda Known Better",
-      "url": "https://open.spotify.com/track/6FzkKxsU3BMNDVhWpSmQnt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guess I'm Grown Now",
-        "url": "https://open.spotify.com/album/7JpX4gmNn0zAtEgWGERWwH"
-      },
-      "artists": [
-        {
-          "name": "Stephen Day",
-          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
-        }
-      ],
-      "duration_ms": 163146,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/71fcNlXfJu1aWQmABFyZ2j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Face Like Mine",
-        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Golf On TV feat. JP Saxe",
-        "url": "https://open.spotify.com/album/675YaDMIisMe9ptwytmYJx"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Golf On TV feat. JP Saxe",
-      "url": "https://open.spotify.com/track/5xROgo35i9a9IbQgN56Clz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "The Heart of Life",
-      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/44WXUHQlOOzHsPz5BTuCsy"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 199391,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/7rMvxY857vXy8ztbmXYTXz"
+      "duration_ms": 260368,
+      "name": "Heart Attack",
+      "url": "https://open.spotify.com/track/1rxB5KwQlyjYqmJU2ahy6V"
     },
     {
       "added_at": null,
@@ -659,114 +239,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+        "name": "Wilder Woods",
+        "url": "https://open.spotify.com/album/35rWm0QieUmTizxsC7dXnG"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
         }
       ],
-      "duration_ms": 244213,
-      "name": "Beyond - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+      "duration_ms": 196451,
+      "name": "Supply & Demand",
+      "url": "https://open.spotify.com/track/0tsUIJakq2RksuC1YixAHX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft"
+        "name": "Undergrad Romance and the Moses in Me",
+        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
         }
       ],
-      "duration_ms": 201391,
-      "name": "In a Stranger's Arms",
-      "url": "https://open.spotify.com/track/00K0B8nvfmTif7poYsk378"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Wild Blue",
-      "url": "https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
-      },
-      "artists": [
-        {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
-        }
-      ],
-      "duration_ms": 232175,
-      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
-      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 160453,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0YWVOgUZl59PurjohaioRw"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 306200,
-      "name": "Hold You in My Arms",
-      "url": "https://open.spotify.com/track/0OiCqRaoKK6nuSIty8zHjl"
+      "duration_ms": 230103,
+      "name": "Hey Lady",
+      "url": "https://open.spotify.com/track/005GaX6hvgeTFnR9FvejTE"
     },
     {
       "added_at": null,
@@ -780,41 +280,105 @@
           "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 269720,
-      "name": "Heartbreak Warfare",
-      "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
+      "duration_ms": 250373,
+      "name": "Half of My Heart",
+      "url": "https://open.spotify.com/track/7hR5toSPEgwFZ78jfHdANM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/0uYH4juLgPxVWyk6GEoo0G"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6KjX30XbUmMpQoek2DEHie"
       },
       "artists": [
         {
-          "name": "Skyline Motel",
-          "url": "https://open.spotify.com/artist/7fJlbNL7NIvdAqmouRF5ot"
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
         }
       ],
-      "duration_ms": 241191,
-      "name": "Fields of Knowing",
-      "url": "https://open.spotify.com/track/0Sw4fZS8utOQGwKzoRbE0R"
+      "duration_ms": 254834,
+      "name": "Always Be My Baby - Recorded at Sound Stage Nashville",
+      "url": "https://open.spotify.com/track/3QSnkhUvoPS5QogonimPfk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+        "name": "Wild Rivers",
+        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
         }
       ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+      "duration_ms": 173604,
+      "name": "Speak Too Soon",
+      "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mission Bell",
+        "url": "https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 221706,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/3UdNzOWeC0wOnDpfbCwU7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/0WzGrncoxuIaszd8cQ0afe"
+      },
+      "artists": [
+        {
+          "name": "Ed Patrick",
+          "url": "https://open.spotify.com/artist/3LE4OOntA2Yq3x1TTuQURx"
+        }
+      ],
+      "duration_ms": 256040,
+      "name": "Addicted To You",
+      "url": "https://open.spotify.com/track/1UNoqAFBHyhZcJyzVW2l0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "Til the Right One Comes",
+      "url": "https://open.spotify.com/track/4f0xBbWvKWmuB17yebh24a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All The Light Above It Too",
+        "url": "https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Sunsets For Somebody Else",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y"
     },
     {
       "added_at": null,
@@ -839,6 +403,350 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/3ukgoRejo9Q8pYkjID1M6b"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Shoulda Known Better",
+      "url": "https://open.spotify.com/track/6FzkKxsU3BMNDVhWpSmQnt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before & After Life",
+        "url": "https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE"
+      },
+      "artists": [
+        {
+          "name": "Eric Hutchinson",
+          "url": "https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4"
+        }
+      ],
+      "duration_ms": 293500,
+      "name": "The Best Part",
+      "url": "https://open.spotify.com/track/00tGCgulE0lQHeJugDDNtl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "Outta My Head (with John Mayer)",
+      "url": "https://open.spotify.com/track/09oZ9eXQ2fo6YDrPzJqAoP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/44WXUHQlOOzHsPz5BTuCsy"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/7rMvxY857vXy8ztbmXYTXz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My New Moon",
+        "url": "https://open.spotify.com/album/0rumYdkJoMBHw3qeywKbDx"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 250173,
+      "name": "Hang On, Hang On",
+      "url": "https://open.spotify.com/track/1UWPBDNFyWsQ9s5nSf7p1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Beyond - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Face Like Mine",
+        "url": "https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "The Heart of Life",
+      "url": "https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Undergrad Romance and the Moses in Me",
+        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "If You Were the Rain",
+      "url": "https://open.spotify.com/track/5EXD5rXJ4IVb8g4xSwT0fc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great American Bar Scene",
+        "url": "https://open.spotify.com/album/3w7pEn5Ai1DCRG2FqFNIbB"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Better Days (feat. John Mayer)",
+      "url": "https://open.spotify.com/track/61GJoJVPyP7YPBIsGd3ZKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "Forgive You",
+      "url": "https://open.spotify.com/track/1sfTdlWfcFdI7NfmcfZPii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 232175,
+      "name": "Circles - Recorded at Electric Lady Studios NYC, 2020",
+      "url": "https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Wild Blue",
+      "url": "https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Undergrad Romance and the Moses in Me",
+        "url": "https://open.spotify.com/album/3BKFrChX5Exd28VX3Yq4Kb"
+      },
+      "artists": [
+        {
+          "name": "Stephen Day",
+          "url": "https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5"
+        }
+      ],
+      "duration_ms": 231639,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2NfLgvpXpGKAcOAQwMPzez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eighty-Eight",
         "url": "https://open.spotify.com/album/0fHfPNtkPrHH0OQhKc9zW6"
       },
@@ -851,6 +759,94 @@
       "duration_ms": 247793,
       "name": "Call It a Night",
       "url": "https://open.spotify.com/track/6Y5chnfpGt3f6HM5xA8Pd1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Who You Love (feat. Katy Perry)",
+      "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Golf On TV feat. JP Saxe",
+        "url": "https://open.spotify.com/album/675YaDMIisMe9ptwytmYJx"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Golf On TV feat. JP Saxe",
+      "url": "https://open.spotify.com/track/5xROgo35i9a9IbQgN56Clz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0YWVOgUZl59PurjohaioRw"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/0OiCqRaoKK6nuSIty8zHjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Yourself Up",
+        "url": "https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "I Can Change",
+      "url": "https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slow March Of Time Flies By",
+        "url": "https://open.spotify.com/album/6k3icCYd8Ee0eAyQytdCGg"
+      },
+      "artists": [
+        {
+          "name": "The Shadowboxers",
+          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
+        }
+      ],
+      "duration_ms": 282913,
+      "name": "I Can't Stop Thinking About You",
+      "url": "https://open.spotify.com/track/5XVuDMbvw4PN5vvb7jPl6A"
     }
   ],
   "unique_name": "Carry Me Away Radio",

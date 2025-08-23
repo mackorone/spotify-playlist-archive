@@ -1,31 +1,15 @@
 {
-  "description": "Spotify country fan favorites. Cover: Dierks Bentley",
-  "num_followers": 2219358,
+  "description": "Spotify country fan favorites. Cover: Walker Hayes",
+  "num_followers": 2219365,
   "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALl9hGK4rengr0RRoY7QuAT23RWk",
+  "snapshot_id": "AAAAAC6qS2RvDQZ4fqjmXkOpxxEVBGgg",
   "tracks": [
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "RISER",
-        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Drunk On A Plane",
-      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
@@ -41,7 +25,7 @@
       "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Gettin' Old",
         "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Country Stuff The Album",
+        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "duration_ms": 161853,
+      "name": "Fancy Like",
+      "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "I Hope You\u2019re Happy Now",
         "url": "https://open.spotify.com/album/5zMUrHGRi7LpqRW1mxM2wu"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/1iiehnBysGi59zXYXIuKQD"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "You Get What You Give (Deluxe)",
         "url": "https://open.spotify.com/album/62XZju4HxxXF6CBIqqG2ei"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/23hDnIFoFlVTDA6y8YrJoR"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Storyteller",
         "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "True Believers",
         "url": "https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Heart Like A Truck",
         "url": "https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Old Dominion",
         "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Buy Dirt",
         "url": "https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "This One's for You Too (Deluxe Edition)",
         "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5jROdl6MhcmP3O7h2sVgtw"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Some Hearts",
         "url": "https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Lee Brice",
         "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Sayin' What I'm Thinkin'",
         "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Need You Now",
         "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Tangled Up",
         "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/1LM5zQv5pBKPyO7rm7Uz6U"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Doin' Somethin' Right",
         "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/6leiB1fEsTnVCuPiielde5"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Down The Road I Go",
         "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Kane Brown",
         "url": "https://open.spotify.com/album/4hhvgHjPqUOAYkclDkhL2T"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Every Little Thing (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/39oSpHIfcM8sHBWh9340Aj"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/1Dm4iAvqwYrZjgSFJNW5TG"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Goldmine",
         "url": "https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/3hLuHKzG1cmlRpq53ZVWd8"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Learn To Live",
         "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
@@ -613,7 +613,23 @@
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "RISER",
+        "url": "https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Drunk On A Plane",
+      "url": "https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/1nrgBXtczBXNSlqIezjwbR"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
@@ -645,23 +661,7 @@
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Dierks Bentley",
-        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "What Was I Thinkin'",
-      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "I'm Comin' Over",
         "url": "https://open.spotify.com/album/7IOSachS7KZNuqRZrPcdD0"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/0H04yVa3DJxoXbLBpAb7iV"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "The First Time",
         "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
@@ -709,7 +709,23 @@
       "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Dierks Bentley",
+        "url": "https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "What Was I Thinkin'",
+      "url": "https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "That Lonesome Song",
         "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Songs for the Saints",
         "url": "https://open.spotify.com/album/77spqXa3VNN0mw13PgWWyY"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Your Man",
         "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Ripcord",
         "url": "https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/6wycnu8FWXsj68ig7BEot9"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Cocky",
         "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
@@ -825,7 +841,7 @@
       "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Mud On The Tires",
         "url": "https://open.spotify.com/album/7jdM09zOoPpNn59UzAeryS"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/4AQWKGBWTR7fVuUKxi5sKE"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "God's Country",
         "url": "https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Mr. Misunderstood",
         "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
@@ -889,7 +905,7 @@
       "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
@@ -905,7 +921,7 @@
       "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Damn Country Music",
         "url": "https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4"
@@ -921,7 +937,7 @@
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Summer Forever",
         "url": "https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW"
@@ -937,23 +953,7 @@
       "url": "https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "Hotel Key",
-      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Road Less Traveled",
         "url": "https://open.spotify.com/album/296hswDnxvymjboFBxvmI5"
@@ -969,23 +969,7 @@
       "url": "https://open.spotify.com/track/4nxgA1nvXvTkmsBY0vJV57"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "The Road To Here",
-        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Boondocks",
-      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
@@ -1001,7 +985,39 @@
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "The Road To Here",
+        "url": "https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Boondocks",
+      "url": "https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Hotel Key",
+      "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Four The Record",
         "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
@@ -1017,7 +1033,7 @@
       "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV"
@@ -1033,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
@@ -1049,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5CG9Ps5ynNjpKJHmwc95pa"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
@@ -1065,23 +1081,7 @@
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Pawn Shop",
-        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 335480,
-      "name": "Stay A Little Longer",
-      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
@@ -1097,7 +1097,23 @@
       "url": "https://open.spotify.com/track/02eD9ymfJOJOhM97HYp5R9"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Pawn Shop",
+        "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 335480,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "What My World Spins Around",
         "url": "https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS"
@@ -1113,7 +1129,7 @@
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
@@ -1137,7 +1153,7 @@
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
@@ -1153,23 +1169,7 @@
       "url": "https://open.spotify.com/track/7vSn3VNbzOtPebdj6ZSebj"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Here For The Party",
-        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Redneck Woman",
-      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
@@ -1185,7 +1185,7 @@
       "url": "https://open.spotify.com/track/0kPeZAyIhIfeZNrtfjJGDB"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "HERO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
@@ -1201,7 +1201,23 @@
       "url": "https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Here For The Party",
+        "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Redneck Woman",
+      "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "The Breaker",
         "url": "https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh"
@@ -1217,7 +1233,7 @@
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
@@ -1233,23 +1249,7 @@
       "url": "https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
@@ -1269,7 +1269,23 @@
       "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Lady Like",
         "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
@@ -1285,23 +1301,7 @@
       "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Wine, Beer, Whiskey",
-      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Never Will",
         "url": "https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP"
@@ -1317,7 +1317,23 @@
       "url": "https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Wine, Beer, Whiskey",
+      "url": "https://open.spotify.com/track/5avVDmK9FVJpd3MDO8I3Zl"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO"
@@ -1337,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4a1oIihVt6xSnDRpgX387M"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
@@ -1353,7 +1369,7 @@
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
@@ -1369,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio"
@@ -1385,7 +1401,7 @@
       "url": "https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
@@ -1401,7 +1417,7 @@
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Cold Beer Calling My Name",
         "url": "https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx"
@@ -1421,7 +1437,7 @@
       "url": "https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
@@ -1437,7 +1453,7 @@
       "url": "https://open.spotify.com/track/0vFMQi8ZnOM2y8cuReZTZ2"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
@@ -1457,7 +1473,7 @@
       "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "kelsea",
         "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
@@ -1477,7 +1493,7 @@
       "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
@@ -1497,7 +1513,7 @@
       "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Experiment Extended",
         "url": "https://open.spotify.com/album/4yf4bD1iM96hBH6aIc6SaF"
@@ -1513,7 +1529,7 @@
       "url": "https://open.spotify.com/track/30RZAuEkYeDXvy46Iv6l7E"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
@@ -1529,7 +1545,7 @@
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Pain Killer",
         "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
@@ -1545,7 +1561,7 @@
       "url": "https://open.spotify.com/track/1pxXqJZBrCREdC0s4Xs6Xz"
     },
     {
-      "added_at": "2025-06-29 20:07:20",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
         "name": "Lady Antebellum",
         "url": "https://open.spotify.com/album/3MHTGwjWJhfcc3yBnvo6yh"
@@ -1559,22 +1575,6 @@
       "duration_ms": 256013,
       "name": "I Run To You",
       "url": "https://open.spotify.com/track/2YVCkTYJpv5jelYrHYoEG8"
-    },
-    {
-      "added_at": "2025-06-29 20:07:20",
-      "album": {
-        "name": "Golden Road",
-        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 293600,
-      "name": "You\u2019ll Think Of Me",
-      "url": "https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF"
     }
   ],
   "unique_name": "Country Gold",

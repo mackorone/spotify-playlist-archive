@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82036,
+  "num_followers": 82037,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAA3YLssOewl0hrCytDcyWlK",
+  "snapshot_id": "aKZhgAAAAAASB/ZWuCOZNGM8meBCidx9",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexta-Feira",
-        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239118,
-      "name": "Sexta-Feira",
-      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 Quero Viajar",
         "url": "https://open.spotify.com/album/3JJYMENYkiMZ7fVMKucvEb"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 213997,
       "name": "S\u00f3 Quero Viajar",
       "url": "https://open.spotify.com/track/1isFUjTray08USSUwd5pTh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexta-Feira",
+        "url": "https://open.spotify.com/album/6i3rMCP4RC6T1kDIjJhFNj"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 239118,
+      "name": "Sexta-Feira",
+      "url": "https://open.spotify.com/track/2opfAkFHhQCmSZA8bsLy5f"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "viciado em mim",
-        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 194760,
-      "name": "viciado em mim",
-      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o \u00e9 S\u00f3 Isso (Ao Vivo)",
         "url": "https://open.spotify.com/album/7lrkQh5Pu4778kx6sx6Yll"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 279452,
       "name": "Sorria (Faixa B\u00f4nus) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gf10dQJDlAwOcezGQkLMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "viciado em mim",
+        "url": "https://open.spotify.com/album/4qwKGWfcXm2kZDygtI8YOg"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 194760,
+      "name": "viciado em mim",
+      "url": "https://open.spotify.com/track/7wEtrxQRf2BAWCCOuAPHVj"
     },
     {
       "added_at": null,
@@ -675,34 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "Sos",
-      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ela T\u00e1 Que T\u00e1",
         "url": "https://open.spotify.com/album/26WTFLXc2Y8ps9P4QuLr27"
       },
@@ -731,6 +703,34 @@
       "duration_ms": 206829,
       "name": "Ela T\u00e1 Que T\u00e1",
       "url": "https://open.spotify.com/track/3G79AJm9H5lKnngSgBT21L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "Sos",
+      "url": "https://open.spotify.com/track/0D0GflJErwCQiH3P3kQ8I5"
     },
     {
       "added_at": null,
@@ -1079,6 +1079,70 @@
     {
       "added_at": null,
       "album": {
+        "name": "Efeito Violeta",
+        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 177800,
+      "name": "Vai Partir",
+      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "No Cais",
+      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Cais, Pt. 2",
         "url": "https://open.spotify.com/album/4v6epim36lXU2WcKIESFYg"
       },
@@ -1106,39 +1170,11 @@
         {
           "name": "Cynthia Luz",
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Vai Partir",
-      "url": "https://open.spotify.com/track/0TU4A9f61vxswsSgxAwnIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+      "duration_ms": 239166,
+      "name": "Efeito Violeta",
+      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
     },
     {
       "added_at": null,
@@ -1187,22 +1223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Violeta",
-        "url": "https://open.spotify.com/album/2HYc22a4IFiRLDfPos47Yx"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Efeito Violeta",
-      "url": "https://open.spotify.com/track/2bSyfmK45fx7zNbVLR5Wpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teoria do Ciclo da \u00c1gua",
         "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 232560,
       "name": "Alaska, Pt. 2",
       "url": "https://open.spotify.com/track/4GX3rgGpnofCyMdLzILs09"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Caos ao Nirvana",
-        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "No Cais",
-      "url": "https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3"
     },
     {
       "added_at": null,

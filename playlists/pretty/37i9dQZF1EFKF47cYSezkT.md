@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 32 | [Talk to Me](https://open.spotify.com/track/7IWE8DBJVrIas5nODDWK4h) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/1trxnFmxnQgpGBQRupbTjZ) | 2:53 |
 | 33 | [To The Girl That Gets Him Next](https://open.spotify.com/track/5tfY4sv86EelJYS14Qm8Lj) | [SKYLAR](https://open.spotify.com/artist/3JFpiBTgX5C0aIzePDlgXA) | [I'd Step On Lego For You.](https://open.spotify.com/album/2AdpJvtbF0pGyrincYRjWG) | 2:33 |
 | 34 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 |
-| 35 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 |
-| 36 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
+| 35 | [Sacrifice](https://open.spotify.com/track/7ohIVwjfkygpO1Nr3L2Utl) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Sacrifice](https://open.spotify.com/album/0CvatjEeK2b1YHWWxfJC9U) | 3:17 |
+| 36 | [Coming Back For More](https://open.spotify.com/track/73xrd1Gv43Ddar11zLDtP1) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [PALPITATIONS](https://open.spotify.com/album/7fxhGVYVaAnGw6ZQ50DkJC) | 2:33 |
 | 37 | [Drip](https://open.spotify.com/track/6x8WE23eSl8mLFiI0JqYWZ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TIPI\-TAP](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:28 |
 | 38 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 |
 | 39 | [Better Off](https://open.spotify.com/track/3M2mwvKYNF5yglT3Ob9eYg) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP) | [Better Off](https://open.spotify.com/album/3M6Bh0RUOgRy6YtD7abWSV) | 2:38 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 60 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 61 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Ab6H4AAAAAALsTecJp+S9LkmWcEy5Pmi`
+Snapshot ID: `Ab6NigAAAACRKqEbrnd7+Lcsu3rRYNwH`

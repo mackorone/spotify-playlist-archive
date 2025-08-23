@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to this Summer 2025\. Updated weekly!
 
-493 songs - 1 day 3 hr 37 min
+494 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [Last](https://open.spotify.com/track/4cdbulDhvuAond5ZTNeJGC) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Begin](https://open.spotify.com/album/35AlpLlW4vKJ4nRGpGZcJt) | 5:17 | 2020-09-13\* | 2021-03-06 |
 | [Last Time](https://open.spotify.com/track/3r2FSdNto1jIArfK6WeiIb) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Amadea](https://open.spotify.com/artist/6b6O55rHSZAXU9Ro4KKGxy) | [Last Time](https://open.spotify.com/album/7GRomEijtussuPxGNsXEAo) | 2:25 | 2022-05-05 |  |
 | [Latch](https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Special Edition\)](https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E) | 4:15 | 2022-09-16 | 2024-02-24 |
+| [Leave Behind](https://open.spotify.com/track/0hXpNsYnw831qvqCDOCbz5) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf), [Andro](https://open.spotify.com/artist/6oADXrB2o6vqetv9UYNzMj) | [Leave Behind](https://open.spotify.com/album/56D8yl4PKwMa6ntKdI8M7W) | 3:26 | 2025-08-22 |  |
 | [Leave Me Low](https://open.spotify.com/track/1fhFDn9W8ehz6rqomxDUW4) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Leave Me Low](https://open.spotify.com/album/7mXiSzZCJglvzRwmGlG59f) | 2:58 | 2021-03-06 | 2024-12-07 |
 | [Let Go \(El Día\)](https://open.spotify.com/track/571295eoFtv5NcQRUXbt4k) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Gazelle](https://open.spotify.com/artist/4avg26YpNfxui1Jl40RdFU) | [Let Go](https://open.spotify.com/album/31TBi8zTRhWs1tQqOs6WDK) | 2:47 | 2021-06-05 | 2021-11-11 |
 | [Let You Know](https://open.spotify.com/track/0ZKvsGwD3D8Y4orIQGyyBW) | [Carter.](https://open.spotify.com/artist/4FNkz4oChr6RwFLZqHQiX0), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [Let You Know](https://open.spotify.com/album/3j0SwqbhvA8Aw0pmET5Wh9) | 2:43 | 2020-09-13\* |  |
@@ -338,7 +339,7 @@
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-03-31 | 2024-02-24 |
 | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\) \- Edit](https://open.spotify.com/track/5hladndw7yw0iSImREt8bq) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Radical \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1qovNEQPQNxlOd7w2udLaX) | 3:57 | 2020-09-13\* | 2021-03-06 |
 | [Rain](https://open.spotify.com/track/49frwp277WHBgpwBHeyOSO) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [MNRT](https://open.spotify.com/artist/2Cuq3uAaodW1nrYWK1sc99), [S:NE](https://open.spotify.com/artist/35tPnsdQwL9lJYNdfDdIy3) | [Rain](https://open.spotify.com/album/0iFKjKFTY1kD7SSVmNZDin) | 2:32 | 2023-08-18 |  |
-| [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 | 2023-05-05 |  |
+| [Rain](https://open.spotify.com/track/6sFGBvo8qD2SVNPIuS0xSn) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 3:42 | 2023-05-05 | 2025-08-23 |
 | [Ready For You \(feat\. Celeste\)](https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Celeste](https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 4:28 | 2024-02-23 | 2024-10-19 |
 | [Real for Me](https://open.spotify.com/track/2Me8g0TZBRiOOYvjexvYwe) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Real for Me](https://open.spotify.com/album/7iT1pcVw9WcqF6QWwXAU7M) | 3:00 | 2021-03-06 | 2021-07-17 |
 | [Reasons](https://open.spotify.com/track/5OSy4sK60q4uXmOO95LVI6) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Clearest](https://open.spotify.com/artist/19XcMf5sc9TjHPbRRwW0o9) | [Reasons](https://open.spotify.com/album/6euPkxUUnW2DJAHTclsdet) | 3:37 | 2025-08-01 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=OYztKxMcTRakkpkNEB9tjw"> Kenji</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=2DiYZCTNTL62Z9jXR0epyg"> Nali</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,546 likes - 457 songs - 22 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,611 likes - 457 songs - 22 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 4 | [Easier Said than Done](https://open.spotify.com/track/2Y8RNzHNNTFvfUawOrfVUQ) | [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Easier Said than Done](https://open.spotify.com/album/3Zwt3fB1ZWf7rYyPH1FJLv) | 2:27 |
 | 5 | [Deserve](https://open.spotify.com/track/3U0d3bzQ5LMt51QzrI3BQK) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx) | [Are You Still Listening?](https://open.spotify.com/album/2oSCVAgYxOv9OA0MTHJV3E) | 3:43 |
 | 6 | [Pull Up \(Drop\)](https://open.spotify.com/track/59cGnThfcTHmqHRBJKCrjA) | [ROE](https://open.spotify.com/artist/07JjZMOwidxS5bcgvilg2y) | [Oakwood](https://open.spotify.com/album/6Ohkfur8ad6slWRL7vqHIW) | 2:46 |
-| 7 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:08 |
+| 7 | [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 |
 | 8 | [rd no mas](https://open.spotify.com/track/10bEyta8Z0cXbRTXhZHsVS) | [spaceluvrrr](https://open.spotify.com/artist/15b0BXl4cHzRDfGhupATdb), [MKE](https://open.spotify.com/artist/4p0j2PYnc6LxlJPEPLzluR) | [rd no mas](https://open.spotify.com/album/0JxuB453oZd2JoBn3krHtS) | 3:17 |
 | 9 | [be careful](https://open.spotify.com/track/2fqJrp3PktgwVUzRnTBc2Z) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [be careful](https://open.spotify.com/album/3PxqagBffynXxUsGlEcgNr) | 3:23 |
 | 10 | [Why Why](https://open.spotify.com/track/4zgUOjpuMgolNDRxwQDaKY) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Why Why](https://open.spotify.com/album/0Fh7cxMOkonvxdPJzxMBkp) | 3:25 |
@@ -466,4 +466,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 456 | [Let Me Grow](https://open.spotify.com/track/6mK6k4NlOD6res9zS4u0cp) | [threetwenty](https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK) | [Let Me Grow](https://open.spotify.com/album/14O5OciGC6vcuE6h17l3aC) | 3:35 |
 | 457 | [September](https://open.spotify.com/track/1OC7RsmwnawzA8tZpL5kFQ) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [September](https://open.spotify.com/album/3eFOUZZGqMdcVX4sPEFAih) | 4:04 |
 
-Snapshot ID: `AAAAAOGdNx1UwS2UYT35erZnuwJzepbH`
+Snapshot ID: `AAAAANSJ/Zo6qKXogbvfT+nIOghoUltD`

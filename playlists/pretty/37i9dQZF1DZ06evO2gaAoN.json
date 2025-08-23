@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 59759,
+  "num_followers": 59856,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACLjCtKY9dqGTAyBune+5B5",
+  "snapshot_id": "aKZhgAAAAABYp2ZWhtuMx7liE7Q3ETqE",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
       "duration_ms": 147071,
       "name": "Jump",
       "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WWP",
-        "url": "https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 177011,
-      "name": "DYNAMITE",
-      "url": "https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX"
     },
     {
       "added_at": null,
@@ -127,6 +107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DYNAMITE",
+        "url": "https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 177011,
+      "name": "DYNAMITE",
+      "url": "https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
       },
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLISS",
-        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 160111,
-      "name": "BLISS",
-      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 190392,
       "name": "Truth or Dare",
       "url": "https://open.spotify.com/track/7axl6v0Yv4ksLVMt6XItpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 160111,
+      "name": "BLISS",
+      "url": "https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONE CALL",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 158712,
       "name": "ONE CALL",
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 148517,
-      "name": "ART",
-      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
     },
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Need Love (Girls Mix)",
-        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
-      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 147046,
       "name": "No.1 (feat. Tems)",
       "url": "https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Need Love (Girls Mix)",
+        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
+      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
     },
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYLA +",
+        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 155220,
+      "name": "BACK to YOU",
+      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 199679,
       "name": "Ke Shy",
       "url": "https://open.spotify.com/track/46JbnUilMIKcoeXYpZyB53"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 155220,
-      "name": "BACK to YOU",
-      "url": "https://open.spotify.com/track/4Oh1zkPShpImBJOBOKMMAq"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "Safer",
+      "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amukelani",
         "url": "https://open.spotify.com/album/7LZDrSxVlyIXv2tVKmB5Nf"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 431086,
       "name": "Ngowam (feat. Makhanj & Nvcho & Tyla & 2woshort)",
       "url": "https://open.spotify.com/track/1gndZIkGbPO28wfhE2qSgg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 159173,
-      "name": "Safer",
-      "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
     },
     {
       "added_at": null,

@@ -11233,24 +11233,6 @@
     },
     {
       "album": {
-        "name": "Nuvens",
-        "url": "https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6"
-      },
-      "artists": [
-        {
-          "name": "$heka",
-          "url": "https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2"
-        }
-      ],
-      "date_added": "2025-02-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 139556,
-      "name": "Nuvens",
-      "url": "https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1"
-    },
-    {
-      "album": {
         "name": "NUVENS",
         "url": "https://open.spotify.com/album/1e01W4bZ9pbHawTp1XZkBb"
       },
@@ -11266,6 +11248,24 @@
       "duration_ms": 157664,
       "name": "NUVENS",
       "url": "https://open.spotify.com/track/3H2mIbO0hTjEwZsTbeUj4G"
+    },
+    {
+      "album": {
+        "name": "Nuvens",
+        "url": "https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6"
+      },
+      "artists": [
+        {
+          "name": "Sheka",
+          "url": "https://open.spotify.com/artist/0mLviys2d4z2ZzkX1fwD1J"
+        }
+      ],
+      "date_added": "2025-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139556,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1"
     },
     {
       "album": {

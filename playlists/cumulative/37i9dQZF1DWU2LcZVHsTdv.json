@@ -4081,6 +4081,28 @@
     },
     {
       "album": {
+        "name": "17 Problems",
+        "url": "https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173215,
+      "name": "Song For My Son (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly"
+    },
+    {
+      "album": {
         "name": "Songs About Jesus",
         "url": "https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR"
       },

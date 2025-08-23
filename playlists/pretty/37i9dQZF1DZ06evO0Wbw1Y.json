@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACtfgguTLPSRlB5YuN8OGcM",
+  "snapshot_id": "aKZhgAAAAACu6LGxDI3v40jbeQNzjm1D",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 208468,
-      "name": "Apaga Y V\u00e1monos",
-      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
+      "duration_ms": 222480,
+      "name": "Volverte a O\u00edr",
+      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
     },
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 222480,
-      "name": "Volverte a O\u00edr",
-      "url": "https://open.spotify.com/track/5B1FPJUxjv4e8Juik5ELCd"
+      "duration_ms": 208468,
+      "name": "Apaga Y V\u00e1monos",
+      "url": "https://open.spotify.com/track/0sZmIHELeJT1lp6Hli4C3P"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Se Me Ve Tan Mal (NSMVTM)",
-        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 165473,
-      "name": "No Se Me Ve Tan Mal (NSMVTM)",
-      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
+      "duration_ms": 181253,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
+        "name": "No Se Me Ve Tan Mal (NSMVTM)",
+        "url": "https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+      "duration_ms": 165473,
+      "name": "No Se Me Ve Tan Mal (NSMVTM)",
+      "url": "https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5"
     },
     {
       "added_at": null,
@@ -699,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+        "name": "Popurr\u00ed de Juan Gabriel",
+        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
       },
       "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+      "duration_ms": 294653,
+      "name": "Popurr\u00ed de Juan Gabriel",
+      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
     },
     {
       "added_at": null,
@@ -731,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed de Juan Gabriel",
-        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
       },
       "artists": [
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 294653,
-      "name": "Popurr\u00ed de Juan Gabriel",
-      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,553 likes - 43 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,555 likes - 43 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 14 | [Once In A While](https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:37 |
 | 15 | [Better Be Home Soon](https://open.spotify.com/track/2frGQKAKHIgBdcT8ZvRsgh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Surrender](https://open.spotify.com/album/3WUaZDzyCXwhsprJkuaaF4) | 3:19 |
 | 16 | [True Colours](https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:44 |
-| 17 | [On A Bad Day](https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:51 |
-| 18 | [Cry Like A Baby](https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:00 |
+| 17 | [Cry Like A Baby](https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:00 |
+| 18 | [On A Bad Day](https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:51 |
 | 19 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 |
 | 20 | [When We’re Both Old & Mad](https://open.spotify.com/track/4dx684GtAUi86s1bzstO65) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Songs From The South: Paul Kelly's Greatest Hits 1985\-2019](https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a) | 2:22 |
 | 21 | [Backbone \(The Desert Child\)](https://open.spotify.com/track/2rLL8muKBG5dbBK4YYzMpo) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 3:32 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 42 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
 | 43 | [A New Day Has Come](https://open.spotify.com/track/5OKOAdVF5dI77baGK4U4H6) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Backbone](https://open.spotify.com/album/02ZOJK7R6cfdXHJV3aRqRU) | 5:22 |
 
-Snapshot ID: `aKO+gAAAAAA1SgBB7mrFbe2O1N38pH0T`
+Snapshot ID: `aKZhgAAAAABIAynlM7GzNqF/+9Hp+LZZ`

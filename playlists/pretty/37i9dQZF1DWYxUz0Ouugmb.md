@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Difki Khalif
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,220 likes - 45 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,228 likes - 45 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gelora Asmara](https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:09 |
 | 2 | [Nostalgila](https://open.spotify.com/track/4ZiIiMCWRE9XXZtzvuqL6k) | [Difki Khalif](https://open.spotify.com/artist/3HEVwMM5Qabf9L0D2E2cTV) | [Nostalgila](https://open.spotify.com/album/6bAENKavySVT6IMovd9dv9) | 2:58 |
-| 3 | [Ingatlah Aku Disini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Disini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
+| 3 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
 | 4 | [Teruntuk Dirimu](https://open.spotify.com/track/7bI01b0ysHcQOeMZ3u6cl4) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Teruntuk Dirimu](https://open.spotify.com/album/0OYS4La7wPJayqBmrZfSLr) | 4:09 |
 | 5 | [Nyaman Terbuka](https://open.spotify.com/track/7tXTwcHhAmo76d6F7upe1A) | [Deborah Hanna](https://open.spotify.com/artist/0FfSzdaR7cyBeFlKDd0P0c), [Krisna Trias](https://open.spotify.com/artist/14uIEY2id29DkY0FzZWuM0) | [Panggil Saja Hanna](https://open.spotify.com/album/6PmNwvDjjpY5QCOFdtaOYO) | 3:28 |
 | 6 | [Tegar](https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM), [Sita Nursanti](https://open.spotify.com/artist/0pafVQFBPn1LXwdpTMSqJM) | [Tegar](https://open.spotify.com/album/14h1mJ5zYP7AuzXxRAs16A) | 3:18 |

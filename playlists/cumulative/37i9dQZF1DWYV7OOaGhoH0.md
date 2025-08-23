@@ -2,9 +2,9 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Molly Tuttle
+> The best in folk & acoustic today featuring music from Jesse Welles
 
-749 songs - 1 day 22 hr 2 min
+754 songs - 1 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 | 2022-12-16 | 2023-09-16 |
 | [Anytime, Anyplace, Anyhow](https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Anytime, Anyplace, Anyhow](https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ) | 3:47 | 2025-01-31 |  |
 | [Anyways, I Love You](https://open.spotify.com/track/7lJr8BW2zK9hQph3e0TJ9s) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Anyways, I Love You](https://open.spotify.com/album/5w70Zf3CLvt9irzZl000s8) | 3:46 | 2024-05-03 | 2025-04-26 |
+| [Anyways, I Love You \- Better with Allen](https://open.spotify.com/track/1aIjJsxn7Ctb1sRIdTvJ3t) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Anyways, I Love You \(Better with Allen\)](https://open.spotify.com/album/0UbEkpU5BHk6ylZxp5Ttt4) | 3:46 | 2025-08-22 |  |
 | [Anywhere](https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:48 | 2022-08-19 | 2023-05-27 |
 | [Anywhere](https://open.spotify.com/track/5ZxFg3dgrAYd5G6NMKGU1l) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Hospital](https://open.spotify.com/album/1ENe8pdOhj33eDRWNv6Nd2) | 3:48 | 2022-07-22 | 2022-11-13 |
 | [Anywhere](https://open.spotify.com/track/6TL8Mz1a5fYrY2eHpqa3jB) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Anywhere](https://open.spotify.com/album/0oHHPD6cPoNI8OKH5GQRqG) | 3:48 | 2022-04-22 | 2022-07-29 |
@@ -279,6 +280,7 @@
 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 | 2025-04-18 |  |
 | [Happy Ever After You](https://open.spotify.com/track/3M5QdKS15Sa3qqwxzfzGzU) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Happy Ever After You](https://open.spotify.com/album/4kp2WLBDp9D8JGXUBsa8C6) | 3:17 | 2025-01-13 |  |
 | [Hard To Tell](https://open.spotify.com/track/0bmnFx4iOmUVt4ghPSm3cc) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Hard To Tell](https://open.spotify.com/album/1b9EDZKgqNvvWuqOJCwPnE) | 3:06 | 2023-07-21 | 2024-06-29 |
+| [Hard To Tell](https://open.spotify.com/track/3SDWFdgZBLdy38zru1pueE) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 3:06 | 2025-08-22 |  |
 | [Haunted Mountain](https://open.spotify.com/track/55PRwOkrZ5oQW9Qmi7Q2yo) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 5:11 | 2023-08-25 | 2024-06-29 |
 | [Haunted Mountain](https://open.spotify.com/track/2mw3Lp2sOvvTfZR6EqHuMk) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ) | [Haunted Mountain](https://open.spotify.com/album/1y3VrSoxUmqiiqqzJ9MuFY) | 4:19 | 2023-08-25 | 2023-09-02 |
 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 | 2021-12-10 | 2022-02-19 |
@@ -387,6 +389,7 @@
 | [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2023-07-21 | 2024-06-29 |
 | [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 | 2024-05-14 | 2025-04-12 |
 | [Life Is Suffering](https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 3:04 | 2021-12-10 | 2022-03-26 |
+| [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 | 2025-08-22 |  |
 | [Little bit](https://open.spotify.com/track/4BhKnMFUOT1lQHdjTXs3pj) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Little bit](https://open.spotify.com/album/384EOP7ZXUc7WuawttnJ4v) | 2:18 | 2024-09-13 | 2025-03-22 |
 | [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 | 2023-12-11 | 2024-08-03 |
 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 | 2023-12-15 | 2024-01-30 |
@@ -450,6 +453,7 @@
 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 | 2021-12-10 | 2022-04-29 |
 | [my friend's toyota](https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg) | 3:14 | 2023-10-27 | 2024-10-26 |
 | [my friend's toyota](https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [my friend's toyota](https://open.spotify.com/album/3zK1OHn3TpS2NV5mPVvJah) | 3:14 | 2024-03-01 | 2024-04-19 |
+| [My Full Name](https://open.spotify.com/track/3E0J3bhXAc5J7UCplVLcyS) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [My Full Name](https://open.spotify.com/album/6eyXLuSwlVNIOG8JxPVEpH) | 3:19 | 2025-08-22 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-22 | 2024-07-19 |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 | 2023-01-28 |
 | [Need You](https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Need You](https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ) | 3:09 | 2021-12-10 | 2022-01-22 |
@@ -631,6 +635,7 @@
 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-19 | 2024-12-14 |
 | [The Garden](https://open.spotify.com/track/77HnJ7WqBRx6N9P6F3yv1r) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Garden](https://open.spotify.com/album/3w6GdKSGz9S6JXPOfs1I6T) | 3:45 | 2025-01-10 |  |
 | [The Good Old Days](https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O), [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [The Good Old Days](https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF) | 3:38 | 2022-01-21 | 2022-05-28 |
+| [The Great Caucasian God](https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Devil’s Den](https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q) | 3:50 | 2025-08-22 |  |
 | [The Hanging Tree \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/12xA59A83Ir77gcYs0w4TA) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Hanging Tree \(from The Hunger Games: The Ballad of Songbirds & Snakes\)](https://open.spotify.com/album/0tkdGuAFwXKyGsNmsEbaCn) | 2:23 | 2023-11-24 | 2024-04-27 |
 | [The Hills of Aberfeldy](https://open.spotify.com/track/1eYafSv4c2aFNf98hSFHX0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:15 | 2023-05-12 | 2024-01-06 |
 | [The Less I Knew](https://open.spotify.com/track/7yc1Jj1GGNAiG9FT58KalR) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Less I Knew](https://open.spotify.com/album/1KRR7OrY7bBmwEKpcJMT7o) | 4:34 | 2022-04-29 | 2022-05-20 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1431466,
+  "num_followers": 1431505,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAnK44eE8oCaJLOxYQSyDDK",
+  "snapshot_id": "aKZhgAAAAACLfy1I0xxW720XFaxFV1Tc",
   "tracks": [
     {
       "added_at": null,
@@ -515,30 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/291IqGpnrkekWf8hn0xB3x"
-      },
-      "artists": [
-        {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
-        }
-      ],
-      "duration_ms": 337800,
-      "name": "Destiny - Extended Mix",
-      "url": "https://open.spotify.com/track/4ECvY5smtvyK1HkipYICAI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 202390,
       "name": "That's Life (feat. Mac Miller & Sia)",
       "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/291IqGpnrkekWf8hn0xB3x"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+        }
+      ],
+      "duration_ms": 337800,
+      "name": "Destiny - Extended Mix",
+      "url": "https://open.spotify.com/track/4ECvY5smtvyK1HkipYICAI"
     },
     {
       "added_at": null,
@@ -643,6 +643,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon coeur avait raison",
+        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
+      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STREET X STREET (LAFC)",
         "url": "https://open.spotify.com/album/0JRb0dJsfPJtDJ5MIIpGZF"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 204093,
       "name": "Audio (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon coeur avait raison",
-        "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Je te pardonne (feat. Sia) - Pilule bleue",
-      "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
     },
     {
       "added_at": null,

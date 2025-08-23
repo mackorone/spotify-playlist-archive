@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAHeybuV8cTW3za/94+PRs8",
+  "snapshot_id": "aKZhgAAAAAC0a/ID/Mxymf6OoIQemmRn",
   "tracks": [
     {
       "added_at": null,
@@ -24,9 +24,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 198368,
-      "name": "The Whole Shabang",
-      "url": "https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ"
+      "duration_ms": 165925,
+      "name": "Trapezoid",
+      "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"
     },
     {
       "added_at": null,
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 165925,
-      "name": "Trapezoid",
-      "url": "https://open.spotify.com/track/3kop1l9o0Yik1Aw4ELJ1rS"
+      "duration_ms": 198368,
+      "name": "The Whole Shabang",
+      "url": "https://open.spotify.com/track/5HrnHNSNjxXpU6j6B75PxZ"
     },
     {
       "added_at": null,
@@ -182,15 +182,11 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "David Wesson",
-          "url": "https://open.spotify.com/artist/2iRPUBbN9GyoKwI7CW94Mu"
         }
       ],
-      "duration_ms": 171210,
-      "name": "Cordon Bleu",
-      "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
+      "duration_ms": 175609,
+      "name": "Spider Webbing Windshields",
+      "url": "https://open.spotify.com/track/4Us1jcrGCWrtCMijotNPCx"
     },
     {
       "added_at": null,
@@ -270,11 +266,15 @@
         {
           "name": "Boldy James",
           "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "David Wesson",
+          "url": "https://open.spotify.com/artist/2iRPUBbN9GyoKwI7CW94Mu"
         }
       ],
-      "duration_ms": 175609,
-      "name": "Spider Webbing Windshields",
-      "url": "https://open.spotify.com/track/4Us1jcrGCWrtCMijotNPCx"
+      "duration_ms": 171210,
+      "name": "Cordon Bleu",
+      "url": "https://open.spotify.com/track/4gsjB5FGbSk8DVErMQEM0a"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POTLUCK",
         "url": "https://open.spotify.com/album/1WwIvrNfaFQdAu82XAs7Fh"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 181894,
       "name": "Guns & Squares (feat. Sir Michael Rocks)",
       "url": "https://open.spotify.com/track/7FYMev0zBA1tPFU1LXhobe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deleted Scenes 2",
+        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "American Made",
+      "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
     },
     {
       "added_at": null,
@@ -964,29 +964,9 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deleted Scenes 2",
-        "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "American Made",
-      "url": "https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp"
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
     },
     {
       "added_at": null,
@@ -1048,9 +1028,29 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 120187,
-      "name": "Big George Bombs",
-      "url": "https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6"
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Music Hypnotizes",
+        "url": "https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ"
+      },
+      "artists": [
+        {
+          "name": "Jimmie D",
+          "url": "https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 96634,
+      "name": "Laser Focused",
+      "url": "https://open.spotify.com/track/4S0LNpvBL53M9lqQ6AVekp"
     }
   ],
   "unique_name": "This Is Nicholas Craven",

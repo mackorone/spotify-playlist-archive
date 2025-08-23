@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> Ya es Viernes y el cuerpo lo sabeeeee y Zoé esta de regreso!!
+> Descubre lo más nuevo y lo más cool de la semana en compañía de La Maestra Pecas, LOOJANCITO y Yeri Mua
 
 9,422 songs - 21 day 4 hr 11 min
 

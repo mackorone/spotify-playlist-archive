@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-311 songs - 20 hr 5 min
+312 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 | 2022-11-16 |  |
 | [California Dreamin'](https://open.spotify.com/track/6G7MHIvSDR3ehXPkuDFAlM) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Fly Me To The Moon](https://open.spotify.com/album/1Kw0H84LL5YuP37Kh8lbzY) | 3:20 | 2023-09-29 |  |
 | [Calm Waters](https://open.spotify.com/track/21uOAMAEIEYGrChO46yKPY) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 4:55 | 2024-10-25 | 2024-11-21 |
-| [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 | 2022-05-20 |  |
+| [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 | 2022-05-20 | 2025-08-23 |
 | [Can't Wait](https://open.spotify.com/track/6P8PBbcXeIBxoThtF8yq38) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [Can't Wait](https://open.spotify.com/album/29UTEWJkBTdpIMCrXH8x4N) | 3:27 | 2022-11-04 | 2023-01-14 |
 | [CARE4ME](https://open.spotify.com/track/0LwecaHvWZJ6ZXKxKKydoh) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LSTN!](https://open.spotify.com/album/0aKJSf1a160L3KRDnLqu70) | 1:54 | 2024-03-29 | 2024-04-06 |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-12 | 2025-07-29 |
@@ -126,7 +126,8 @@
 | [Hands](https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Hands](https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R) | 2:52 | 2025-02-28 | 2025-06-28 |
 | [Happy Survival \(feat\. Khruangbin\)](https://open.spotify.com/track/0Ck3kW2KiRLjMOGiKzW3la) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:23 | 2024-07-26 | 2025-03-04 |
 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 | 2023-06-09 | 2023-07-07 |
-| [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 | 2022-05-06 | 2025-07-26 |
+| [HDYK](https://open.spotify.com/track/2Qzu2Ox4Zxtgv8GTlkcI6s) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [HDYK](https://open.spotify.com/album/5lAWjLJ5Lp1jNc3UXWKFPD) | 4:05 | 2025-08-22 |  |
+| [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 | 2022-05-06 |  |
 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 | 2021-08-18 | 2023-05-04 |
 | [He's Mine](https://open.spotify.com/track/47t8t4OPGwiIC9JHLbFZ7c) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/0wEvHIziY96Zo6hJKltqs9) | 4:14 | 2023-06-09 | 2024-04-19 |
 | [He's Mine](https://open.spotify.com/track/1ExtJxCq3aGNe0pOMapIDr) | [MoKenStef](https://open.spotify.com/artist/4R4Y06WNH0YEMcugwoGPPj) | [azz izz](https://open.spotify.com/album/1d26vGpJ6aO9LX8VaOjM39) | 4:14 | 2023-05-04 | 2023-06-10 |
@@ -150,7 +151,7 @@
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-17 | 2025-01-28 |
 | [Insecurities \(feat\. Moses Sumney\)](https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Perceive Its Beauty, Acknowledge Its Grace](https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7) | 4:39 | 2024-04-17 | 2024-06-01 |
 | [Inside My Love](https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:48 | 2023-03-01 |  |
-| [Insomnia](https://open.spotify.com/track/7b5zrhSZ2UNKVza8Fnfv6N) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Insomnia](https://open.spotify.com/album/1I8HPrHRyiVzrySgQTOY9A) | 2:59 | 2025-08-15 |  |
+| [Insomnia](https://open.spotify.com/track/7b5zrhSZ2UNKVza8Fnfv6N) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08) | [Insomnia](https://open.spotify.com/album/1I8HPrHRyiVzrySgQTOY9A) | 2:59 | 2025-08-15 | 2025-08-23 |
 | [I’D MISS THE BIRDS](https://open.spotify.com/track/2uIsTZsypUTHzRunshIcNd) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I’D MISS THE BIRDS](https://open.spotify.com/album/4HzZEBP0zL6DKUg85QtfkW) | 3:09 | 2024-09-16 | 2024-10-24 |
 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 | 2024-10-04 | 2025-03-30 |
 | [J'adore](https://open.spotify.com/track/2WMuRiY7bRE6jHErx5vT6L) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [J'adore](https://open.spotify.com/album/3FlEgJw00sq1LuZjWgAJYu) | 3:26 | 2024-08-16 | 2024-10-05 |

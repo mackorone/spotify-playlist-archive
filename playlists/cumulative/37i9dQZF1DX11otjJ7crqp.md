@@ -2,7 +2,7 @@
 
 ### [All New Pop](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
-> All this week's best new pop releases\. Cover: Claire Rosinkranz
+> All this week's best new pop releases\. Cover: Mikayla Geier
 
 9,155 songs - 19 day 1 hr 11 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: PYRAMID",
-  "num_followers": 31912,
+  "num_followers": 31923,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2025-08-19 15:00:24",
       "album": {
+        "name": "Ovall",
+        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
+      },
+      "artists": [
+        {
+          "name": "Ovall",
+          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Slow Motion Town",
+      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
+    },
+    {
+      "added_at": "2025-08-19 15:00:24",
+      "album": {
         "name": "Horns Riot",
         "url": "https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 247509,
       "name": "Horns Riot",
       "url": "https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg"
-    },
-    {
-      "added_at": "2025-08-19 15:00:24",
-      "album": {
-        "name": "Ovall",
-        "url": "https://open.spotify.com/album/39LUARqc9kTewrotoWGHId"
-      },
-      "artists": [
-        {
-          "name": "Ovall",
-          "url": "https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Slow Motion Town",
-      "url": "https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0"
     },
     {
       "added_at": "2025-08-19 15:00:24",
@@ -211,18 +211,18 @@
     {
       "added_at": "2025-08-19 15:00:24",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 236785,
+      "name": "\u591c\u9593\u822a\u8def - Album Mix",
+      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
     },
     {
       "added_at": "2025-08-19 15:00:24",
@@ -243,34 +243,18 @@
     {
       "added_at": "2025-08-19 15:00:24",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/67ygKtkMebXurAs2ihwzAg"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 236785,
-      "name": "\u591c\u9593\u822a\u8def - Album Mix",
-      "url": "https://open.spotify.com/track/4KvnG2uCuv6vkirDtt3mA5"
-    },
-    {
-      "added_at": "2025-08-19 15:00:24",
-      "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 231722,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2025-08-19 15:00:24",
@@ -291,22 +275,18 @@
     {
       "added_at": "2025-08-19 15:00:24",
       "album": {
-        "name": "OUT THERE [Feat. Sonicwonder]",
-        "url": "https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl"
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/3etinD27F1y6Oxb0NLcqav"
       },
       "artists": [
         {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        },
-        {
-          "name": "Sonicwonder",
-          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 494000,
-      "name": "Yes! Ramen!! [Feat. Sonicwonder]",
-      "url": "https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s"
+      "duration_ms": 231722,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5TFymZXyf1nub50VQ1Hdlr"
     },
     {
       "added_at": "2025-08-19 15:00:24",
@@ -323,6 +303,26 @@
       "duration_ms": 185000,
       "name": "\u67af\u8449 \uff5eAutumn Leaves\uff5e (jazz standard)",
       "url": "https://open.spotify.com/track/6qeCyQdxowFD746sApGBYx"
+    },
+    {
+      "added_at": "2025-08-19 15:00:24",
+      "album": {
+        "name": "OUT THERE [Feat. Sonicwonder]",
+        "url": "https://open.spotify.com/album/5Z1XM55fh24JfLyDWWzRRl"
+      },
+      "artists": [
+        {
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
+        },
+        {
+          "name": "Sonicwonder",
+          "url": "https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w"
+        }
+      ],
+      "duration_ms": 494000,
+      "name": "Yes! Ramen!! [Feat. Sonicwonder]",
+      "url": "https://open.spotify.com/track/1KbsFchJaw3BU5iwnTrd8s"
     },
     {
       "added_at": "2025-08-19 15:00:24",
@@ -431,8 +431,8 @@
     {
       "added_at": "2025-08-19 15:00:24",
       "album": {
-        "name": "Fleeting",
-        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-08-19 15:00:24",
@@ -511,8 +511,8 @@
     {
       "added_at": "2025-08-19 15:00:24",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/7gX18yup62JNjr4M0rC4eP"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
         }
       ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
+      "duration_ms": 236866,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/5g9CvT45CSD10sEm5aUwoN"
     },
     {
       "added_at": "2025-08-19 15:00:24",

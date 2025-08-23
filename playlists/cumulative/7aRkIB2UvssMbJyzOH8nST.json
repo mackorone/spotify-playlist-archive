@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205978,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
+    },
+    {
+      "album": {
         "name": "Only Ticket Home",
         "url": "https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 232280,
       "name": "Blowing Smoke",
       "url": "https://open.spotify.com/track/0MIJFuEJpmgSjNjkbq29TQ"
@@ -512,7 +530,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 126831,
       "name": "Call Me When You Break Up (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/1OdvKyTexzm8ZEmdCxhGsX"
@@ -1618,6 +1636,24 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
     },
     {
       "album": {

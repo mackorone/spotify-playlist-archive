@@ -4,7 +4,7 @@
 
 > el nombre lo dice todo.
 
-240 songs - 14 hr 2 min
+241 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,8 @@
 | [Quizas \- Remix](https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu) | 4:00 | 2022-03-22 |  |
 | [Qué Más Pues](https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:23 | 2022-03-22 |  |
 | [Qué Te Está Pasando](https://open.spotify.com/track/1R4GtCpgZ9T0GQyHPsJVEW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Qué Te Está Pasando](https://open.spotify.com/album/6CA7uNSTzKFzzmwyqvBdW5) | 3:40 | 2022-03-22 | 2023-05-13 |
-| [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-05-12 |  |
+| [REMIX EXCLUSIVO](https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [REMIX EXCLUSIVO](https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS) | 3:26 | 2023-05-12 | 2025-08-23 |
+| [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-22 |  |
 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 | 2025-01-28 |  |
 | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SHORTY QUE TE VAYA BN <3](https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs) | 3:39 | 2022-03-22 |  |
 | [Si Estuviésemos Juntos](https://open.spotify.com/track/35wvL50xvKpCHEJPxLOLPI) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 2:49 | 2022-03-22 |  |

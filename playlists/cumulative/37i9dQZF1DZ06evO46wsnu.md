@@ -4,7 +4,7 @@
 
 > This is Rise Against\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 10 min
+87 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Black Crown](https://open.spotify.com/track/4ohfZza9elH8aGdqRPbFoy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:20 | 2025-08-17 |  |
 | [Black Masks & Gasoline](https://open.spotify.com/track/5LYYi2xeLbrnvD9UQ1AE3U) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Rpm10](https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E) | 2:59 | 2022-09-16 | 2025-08-17 |
 | [Blind](https://open.spotify.com/track/0hpo6LuKFOGzXYald8qr9m) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 2:34 | 2022-09-16 |  |
-| [Blood To Bleed](https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:48 | 2023-02-25 | 2025-08-17 |
+| [Blood To Bleed](https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 3:48 | 2023-02-25 |  |
 | [Blood To Bleed](https://open.spotify.com/track/7kUKF6jER5BPGIRAgRxXnd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/2oMdBbMYtKysZ9dvFAVzzz) | 3:48 | 2024-02-24 | 2025-03-30 |
 | [Bridges](https://open.spotify.com/track/4NY0rkhWqRGCEnnJdYvZO1) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 4:06 | 2022-09-16 | 2022-10-12 |
 | [Broken Dreams, Inc.](https://open.spotify.com/track/3t6D8D5grBCBpuPiRt2GCj) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:53 | 2022-09-16 |  |
@@ -28,7 +28,7 @@
 | [Dirt And Roses](https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Long Forgotten Songs: B\-Sides & Covers 2000\-2013](https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP) | 3:13 | 2022-09-16 |  |
 | [Endgame](https://open.spotify.com/track/2xbPgQOfICgLYs8P4lkEtx) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:24 | 2024-01-10 | 2024-07-20 |
 | [Faint Resemblance \- Ghost Note Symphonies](https://open.spotify.com/track/6RTDyHa1vdrRLUNvFOH4Ry) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 2:22 | 2022-10-12 |  |
-| [Far From Perfect \- Ghost Note Symphonies](https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:53 | 2022-09-16 | 2025-08-17 |
+| [Far From Perfect \- Ghost Note Symphonies](https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Ghost Note Symphonies, Vol.1](https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl) | 3:53 | 2022-09-16 |  |
 | [Forfeit](https://open.spotify.com/track/2DFmAghYvS0NuF9dpQWQaV) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:44 | 2022-09-16 |  |
 | [Forty Days](https://open.spotify.com/track/1AEYdmsmgrCUvgr0tngnXW) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:23 | 2025-08-17 |  |
 | [From Heads Unworthy](https://open.spotify.com/track/1GWqIqTchxGaectAU24poN) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 | 2022-09-16 |  |
@@ -39,7 +39,8 @@
 | [Holding Patterns](https://open.spotify.com/track/4tbMuNMqsH536ovfXw5bOd) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 3:29 | 2022-09-16 | 2024-11-19 |
 | [House On Fire](https://open.spotify.com/track/4c75xeSteTcgSSxRtsKqOJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:14 | 2022-09-16 |  |
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2022-09-16 |  |
-| [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 | 2025-05-30 |  |
+| [I Want It All](https://open.spotify.com/track/1TBOPJx69RayvK6CJOK0uy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:06 | 2025-08-23 |  |
+| [I Want It All](https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [I Want It All](https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw) | 3:06 | 2025-05-30 | 2025-08-23 |
 | [Injection](https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:19 | 2022-09-16 |  |
 | [Last Man Standing](https://open.spotify.com/track/2wf0dt4xapeHtfUyizyQqQ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation II](https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0) | 4:27 | 2022-09-16 | 2023-02-26 |
 | [Last Man Standing](https://open.spotify.com/track/30X8uXiLDYneS0MuQY2H6n) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Last Man Standing](https://open.spotify.com/album/0GIQrSfhrtTD8sR7nXhoRB) | 4:27 | 2023-02-27 | 2024-07-01 |
@@ -61,7 +62,7 @@
 | [Politics Of Love](https://open.spotify.com/track/64aO8TbjJew43QHwgHJ2Jy) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 4:09 | 2022-09-16 | 2022-10-25 |
 | [Prayer Of The Refugee](https://open.spotify.com/track/2VGQ342iuqj6aSaYbyBQVJ) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:19 | 2024-01-18 |  |
 | [Prayer Of The Refugee](https://open.spotify.com/track/4OSbctVD37ycS0H3rwRm72) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:19 | 2022-09-16 | 2025-07-30 |
-| [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-05 |  |
+| [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-05 | 2025-08-23 |
 | [Re\-Education \(Through Labor\)](https://open.spotify.com/track/6c1Bdvp208X0jbLmFnWbkC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 3:42 | 2022-09-16 |  |
 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 | 2024-05-13 | 2024-07-11 |
 | [Ricochet](https://open.spotify.com/track/06daWaRQMjUCGUUWggs5Cs) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/12u4H6lUktpqPGSamFd8tk) | 3:41 | 2025-08-14 |  |
@@ -69,7 +70,7 @@
 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 | 2022-09-16 |  |
 | [Sink Like A Stone](https://open.spotify.com/track/5WCyQhPtNi3DhyRiL5HLIc) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 4:07 | 2025-08-17 |  |
 | [Sooner Or later](https://open.spotify.com/track/34XNNFplrGgjlVUS97EMeI) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:34 | 2022-10-06 | 2024-07-23 |
-| [State Of Emergency](https://open.spotify.com/track/5YCfHKx46HsZ1hSa7EkMI9) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:30 | 2025-08-17 |  |
+| [State Of Emergency](https://open.spotify.com/track/5YCfHKx46HsZ1hSa7EkMI9) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Ricochet](https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc) | 3:30 | 2025-08-17 | 2025-08-23 |
 | [State Of The Union](https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:19 | 2022-10-05 | 2025-02-08 |
 | [Sudden Urge](https://open.spotify.com/track/6oAinv8aWXiS5AUzV6Tdlf) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/4t8eylrNR3Z5kYc7VEENLW) | 3:46 | 2022-09-16 |  |
 | [Survivor Guilt](https://open.spotify.com/track/6z38xRV0gxWMyjtuz5T2Ea) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Endgame](https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD) | 3:59 | 2022-09-16 |  |

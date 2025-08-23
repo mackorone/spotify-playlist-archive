@@ -2,7 +2,7 @@
 
 ### [Girl On Fire](https://open.spotify.com/playlist/37i9dQZF1DX4F2k37fMTyn)
 
-> 女性ポップアイコンを一つのプレイリストに。cover: Rita Ora
+> 女性ポップアイコンを一つのプレイリストに。cover: Doja Cat
 
 662 songs - 1 day 10 hr 6 min
 

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 2 min
+118 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Paradise](https://open.spotify.com/track/5wip4kUG4ZNaiuQNMA7Bi1) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Paradise](https://open.spotify.com/album/7hwYfu5C47eUo94ybeuxVc) | 2:51 | 2025-07-03 |  |
 | [Paradise \(with will hyde\)](https://open.spotify.com/track/02GWxnELAR1fX56wUhDXgY) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl), [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [Paradise \(with will hyde\)](https://open.spotify.com/album/70vurhysvs82MKdtczzUBX) | 3:08 | 2025-07-03 |  |
 | [Pasadena](https://open.spotify.com/track/6XQhzIxsqi6ay9HjsMpJwV) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Quinn XCII Presents: Mustard Mike's Breakfast, Lunch, and Dinner](https://open.spotify.com/album/2rS2er7DfZlkvCEOvcJies) | 3:08 | 2025-07-03 |  |
-| [Pink Cadillac](https://open.spotify.com/track/5VPLhwxEQ2p6phOQLlUWO9) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/4ZnEbHYgAYhq2yyZbyRuH3) | 3:28 | 2025-07-03 |  |
+| [Pink Cadillac](https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu) | 3:28 | 2025-08-22 |  |
+| [Pink Cadillac](https://open.spotify.com/track/5VPLhwxEQ2p6phOQLlUWO9) | [Mags Duval](https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0) | [Pink Cadillac](https://open.spotify.com/album/4ZnEbHYgAYhq2yyZbyRuH3) | 3:28 | 2025-07-03 | 2025-08-23 |
 | [Play Dumb](https://open.spotify.com/track/4inINyEpZqgKGDYqf5Knb1) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb \(New Jersey Version\)](https://open.spotify.com/album/6wvUSE3RrPncqFLJSDXikw) | 2:53 | 2025-07-03 |  |
 | [Pleasure & Pain](https://open.spotify.com/track/4Dj7XEvak7XhSNGR6S0xSC) | [Lil GG](https://open.spotify.com/artist/5YMfJ4p18IrOPxh8ER1cnY) | [old shit](https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO) | 3:01 | 2025-07-03 |  |
 | [Postcards to Heaven](https://open.spotify.com/track/6zv9yLZ7GFhBgsHR2Wn1k6) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Postcards to Heaven](https://open.spotify.com/album/2nx7dD2ms6PUL6KAIwqVdW) | 2:55 | 2025-07-03 |  |

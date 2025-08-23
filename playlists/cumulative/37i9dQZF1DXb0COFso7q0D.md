@@ -2,9 +2,9 @@
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Grupo Frontera
+> The playlist sin fronteras elevando a la Música Mexicana\. Cover: Armenta, Tito Double P
 
-941 songs - 2 day 0 hr 39 min
+944 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [2pa2 \(Remix\)](https://open.spotify.com/track/0pgOUN91P21GM313kz1QGj) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [2pa2 \(Remix\)](https://open.spotify.com/album/3eSxismvYDBEIhGdDH4BXD) | 3:34 | 2024-07-19 | 2024-09-21 |
 | [3 de la Mañana](https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [3 de la Mañana](https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm) | 3:02 | 2023-12-01 | 2024-01-13 |
 | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/track/07aKw7LfC27IGSb5ppldIQ) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [3 Doritos Despues \(En Vivo\)](https://open.spotify.com/album/4PJXpxazXhN6AOC0xUagQF) | 3:38 | 2023-06-09 | 2023-12-02 |
+| [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 | 2025-08-22 |  |
 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 | 2024-04-26 | 2024-05-18 |
 | [40 Y 20](https://open.spotify.com/track/20ygCbbuOBZAfi9zcckFOj) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ONDEADO$](https://open.spotify.com/album/44U3Xm9U4Krj0Iv5w7kuTK) | 2:49 | 2024-12-13 | 2025-01-25 |
 | [5\-7](https://open.spotify.com/track/3IEvQ1CzszUJtTRLmmMJ2X) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 2:54 | 2024-11-08 | 2025-03-01 |
@@ -398,6 +399,7 @@
 | [Igualito a Mi Apá](https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:46 | 2023-03-03 | 2023-06-10 |
 | [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 | 2023-01-27 | 2023-02-11 |
 | [Infeliz](https://open.spotify.com/track/1HfkiyazS6licNey0lz01N) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:19 | 2022-01-28 | 2022-02-24 |
+| [Infiltrados](https://open.spotify.com/track/3XOETycmR1qWPgChIki7zx) | [Efecto SR](https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS), [Marcos Villalobos](https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [Infiltrados](https://open.spotify.com/album/4WGY1APmL23wMRMXQlK9Wq) | 3:18 | 2025-08-22 |  |
 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 | 2022-10-07 | 2023-02-11 |
 | [J.](https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:54 | 2022-08-26 | 2023-02-25 |
 | [Jacobo Grinberg](https://open.spotify.com/track/3Iy1j4bzpaFhAb4Jh63R7q) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [Jacobo Grinberg](https://open.spotify.com/album/3mOUbKSVDw0RBD8zx9cF5t) | 4:41 | 2025-04-18 | 2025-05-31 |
@@ -937,6 +939,7 @@
 | [Ya Valiste Madre \- En Vivo](https://open.spotify.com/track/3f615FYAufUocTYlEMh3Fv) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Ya Valiste Madre \(En Vivo\)](https://open.spotify.com/album/6paAsiZAEqWpTR1EujPATt) | 3:07 | 2022-05-06 | 2022-12-10 |
 | [YCQVM](https://open.spotify.com/track/0DhXBCJuq3cImBDmGNgT7A) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S) | [YCQVM](https://open.spotify.com/album/7lurBuFjNftY7NNRV1WWRr) | 3:05 | 2024-03-08 | 2024-03-16 |
 | [YCQVM](https://open.spotify.com/track/71bGl0FoaBGHNT0CGhVOs1) | [Nueva H](https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [YCQVM](https://open.spotify.com/album/7KNj5SaBNlQUBX2D1gyaiz) | 3:03 | 2024-06-14 | 2024-11-23 |
+| [YO NO TE OLVIDO](https://open.spotify.com/track/641M1deHD4Y0X74pt8csik) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [YO NO TE OLVIDO](https://open.spotify.com/album/0KQ0bzSutmIK3yaVnGKsdP) | 3:20 | 2025-08-22 |  |
 | [Yo Preferí Chambear](https://open.spotify.com/track/2WtrZ4LQ2DV07LFyuYCZUN) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Yo Preferí Chambear](https://open.spotify.com/album/7bfhhIUTZM28cU5yDbHkeb) | 2:35 | 2023-06-09 | 2023-09-09 |
 | [Yo Soy Rico](https://open.spotify.com/track/6ueysvoc0nj7piSJXEJGJx) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Corridos Pa' la Historia](https://open.spotify.com/album/325vQ2EMFZ2pHMMq96xHqh) | 2:35 | 2021-12-21 | 2022-05-14 |
 | [Yo Vengo De La Nada](https://open.spotify.com/track/2JJdNXpiCQoAeLQvVMpIEh) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl), [miguel cornejo](https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS) | [Yo Vengo De La Nada](https://open.spotify.com/album/39jS5Ka1i5dykkd5bm06Iq) | 2:36 | 2025-01-15 |  |

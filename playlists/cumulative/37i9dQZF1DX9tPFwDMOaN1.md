@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: HUNTR/X\(K\-Pop Demon Hunters\)\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: Stray Kids\)
 
-708 songs - 1 day 12 hr 47 min
+709 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-07 | 2023-06-17 |
 | [Catch \(Feat\. Hwa Sa\)](https://open.spotify.com/track/6Uvj0I6nDoxTmIZQwOZqvQ) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Strawberry](https://open.spotify.com/album/0aLrrsoWsk0NtEb2se2Ugd) | 3:44 | 2023-02-02 | 2023-04-22 |
 | [CBZ \(Prime time\)](https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t) | [BSS 2nd Single Album ‘TELEPARTY’](https://open.spotify.com/album/4aVPbSv7GmCaa1qRxjpLSq) | 2:33 | 2025-01-08 | 2025-04-22 |
+| [CEREMONY](https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-22 |  |
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-08 | 2023-02-07 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-13 | 2024-02-24 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-01 | 2024-08-31 |
@@ -308,7 +309,7 @@
 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 | 2023-09-06 | 2024-02-17 |
 | [I LOVE U](https://open.spotify.com/track/02Vb9vfZUmqAKNhQwFjPSZ) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [HOLIDAY](https://open.spotify.com/album/6DuGgrykXd5DVx3aznyYqH) | 2:56 | 2022-07-05 | 2022-09-13 |
 | [I NEED U \- Spotify Singles](https://open.spotify.com/track/3MOa6IKagO2lT9n0sI8fZQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [I NEED U \- Spotify Singles](https://open.spotify.com/album/2eUqvZveGueUYsQBRd4NVi) | 3:01 | 2024-02-16 | 2024-05-25 |
-| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-23 |  |
+| [I WANT IT](https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:04 | 2025-07-23 | 2025-08-23 |
 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 | 2023-10-06 | 2023-12-30 |
 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-04-01 | 2024-06-25 |
 | [I'll Be There](https://open.spotify.com/track/2Qcbspnftnon37jibwyvMU) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [I'll Be There](https://open.spotify.com/album/6OdmwetSmFXZhBrNJFKvay) | 3:01 | 2024-10-25 | 2025-01-14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 179544,
+  "num_followers": 179609,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAC+QyQXHtesUiaVNkmVs2fD",
+  "snapshot_id": "aKZhgAAAAADxncOpsWNExmHCJVzNnxlc",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sold Out Dates (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 166368,
+      "name": "Sold Out Dates (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 215693,
       "name": "Solid (feat. Drake)",
       "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sold Out Dates (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 166368,
-      "name": "Sold Out Dates (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
       "duration_ms": 156800,
       "name": "GOT DAMN",
       "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "back to the moon",
-      "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
     }
   ],
   "unique_name": "This Is Gunna",

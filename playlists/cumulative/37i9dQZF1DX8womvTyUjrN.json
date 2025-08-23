@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Ela Taubert",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Joaquina",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -994,6 +994,24 @@
       "duration_ms": 191601,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
+    },
+    {
+      "album": {
+        "name": "amarillo",
+        "url": "https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210769,
+      "name": "amarillo",
+      "url": "https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD"
     },
     {
       "album": {
@@ -8044,6 +8062,24 @@
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "album": {
+        "name": "Igual que yo",
+        "url": "https://open.spotify.com/album/4ErW4eTL9tL7Gmhczo9F9T"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246613,
+      "name": "Igual que yo",
+      "url": "https://open.spotify.com/track/7ymzpxwJtVeC9vt7Uu890D"
     },
     {
       "album": {

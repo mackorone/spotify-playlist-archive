@@ -1,13 +1,49 @@
 {
   "description": "Jazz voices of today. Cover: Rachael & Vilray",
-  "num_followers": 159661,
+  "num_followers": 159698,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPwFaP8qTqYi0Sy1GGvqKGRi6ixi",
+  "snapshot_id": "AAAAAIi0om9+BUKITgd1yREW+1nKlv5v",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:09",
+      "album": {
+        "name": "Caity Gyorgy with Strings",
+        "url": "https://open.spotify.com/album/6PKpGrf9KnW8VlfTvFrg6A"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Pour for the Hour",
+      "url": "https://open.spotify.com/track/4IM8Agsa5fDz7b2NqkQUkB"
+    },
+    {
+      "added_at": "2025-08-22 04:00:09",
+      "album": {
+        "name": "It's Magic",
+        "url": "https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 219207,
+      "name": "It's Magic",
+      "url": "https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT"
+    },
     {
       "added_at": "2025-08-15 04:00:05",
       "album": {
@@ -167,22 +203,6 @@
       "duration_ms": 198053,
       "name": "Candy",
       "url": "https://open.spotify.com/track/4wFNhhPsDLz702JJravbsi"
-    },
-    {
-      "added_at": "2025-06-27 16:33:33",
-      "album": {
-        "name": "Till There Was You",
-        "url": "https://open.spotify.com/album/1ktcqUmXkPDHw8jzRJElAR"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 233990,
-      "name": "Till There Was You",
-      "url": "https://open.spotify.com/track/2BlGZP9Ovr6hju08EAl61C"
     },
     {
       "added_at": "2025-06-27 04:00:22",
@@ -499,26 +519,6 @@
       "duration_ms": 249663,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/3QYaum9dm4oiri5zD1LNle"
-    },
-    {
-      "added_at": "2025-04-11 04:00:16",
-      "album": {
-        "name": "Asking for Trouble",
-        "url": "https://open.spotify.com/album/0BFH1oeVEEbdcloPUoSGXs"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Love Me As I Am",
-      "url": "https://open.spotify.com/track/7mQPml8oyhivfvnMigbgeL"
     },
     {
       "added_at": "2025-04-25 04:00:40",

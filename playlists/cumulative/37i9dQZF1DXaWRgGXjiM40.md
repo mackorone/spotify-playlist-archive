@@ -4,14 +4,14 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-119 songs - 6 hr 3 min
+120 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/1uryupl9hqVZYurJwH4G9k) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [3 Batidas \(Ao Vivo\)](https://open.spotify.com/album/2s2XNO2C38JP3NVOp8zkm4) | 2:37 | 2023-02-10 | 2023-12-24 |
 | [3 Batidas \- Ao Vivo](https://open.spotify.com/track/6FEYal9Y24izCC1UMHiYSa) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Amando, Bebendo e Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH) | 2:37 | 2023-12-22 | 2024-04-19 |
 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 | 2023-02-10 |  |
-| [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 | 2023-02-10 |  |
+| [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 | 2023-02-10 | 2025-08-23 |
 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 | 2024-03-14 | 2025-08-12 |
 | [Amigo Apaixonado \- Ao Vivo](https://open.spotify.com/track/7KsPoQeQrwJUo9UdLrtpeR) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:26 | 2024-03-14 | 2025-03-20 |
 | [Amigo Taxista \- Ao Vivo](https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \(Deluxe\)](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:17 | 2024-03-14 |  |
@@ -115,6 +115,7 @@
 | [Status Que Eu Não Queria \- Ao Vivo](https://open.spotify.com/track/43tDjfz9Inw7Soy0jzxowN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:33 | 2023-02-10 | 2024-04-19 |
 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 | 2023-02-10 |  |
 | [Surto De Amor \- Ao Vivo Em Uberlândia / 2018](https://open.spotify.com/track/4N0I8lmbLPmH8qdlFIjuOU) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Surto De Amor \(Ao Vivo\)](https://open.spotify.com/album/6ylhMJnWhwgus36dtMEGWi) | 2:37 | 2024-03-14 |  |
+| [Tailândia \- Ao Vivo](https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Nostalgia Pura, Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l) | 3:12 | 2025-08-23 |  |
 | [Tchau Brigado \- Ao Vivo](https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Tchau Brigado \(Ao Vivo\)](https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy) | 2:43 | 2024-07-09 |  |
 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 | 2024-01-05 | 2024-11-01 |
 | [Todo Mundo Vai Sofrer \- Ao Vivo](https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk) | 2:34 | 2023-02-17 |  |

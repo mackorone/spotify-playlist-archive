@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Jordan Davis
+> Today's top country hits\. Cover: BigXthaPlug and Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,669,983 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,669,382 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [The Fall](https://open.spotify.com/track/4QpuZ1Qbcd11aOtY1kGMRg) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:17 |
 | 50 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 
-Snapshot ID: `AAAAADlwa4yy7SDevNzvmA4wE9a2GeN0`
+Snapshot ID: `AAAAAFd5Xh5t1fhrFGxWic65l+EawE5d`

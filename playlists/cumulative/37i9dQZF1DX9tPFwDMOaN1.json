@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: HUNTR/X(K-Pop Demon Hunters))",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! (Cover: Stray Kids)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -1854,6 +1854,24 @@
       "duration_ms": 153013,
       "name": "CBZ (Prime time)",
       "url": "https://open.spotify.com/track/0ofqcEBPdlyczRjUhjCiIS"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
     },
     {
       "album": {
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 184984,
       "name": "I WANT IT",
       "url": "https://open.spotify.com/track/07aEbvZALVz1nczN2GO77T"

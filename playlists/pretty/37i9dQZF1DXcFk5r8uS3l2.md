@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: KebMo & Taj Mahal
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,645 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,681 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 71 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX) | 3:14 |
 | 72 | [You Can't Love Me](https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [You Can't Love Me](https://open.spotify.com/album/7tijSpRn4KSVy4w7foF55l) | 4:11 |
 | 73 | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi) | 3:39 |
-| 74 | [Jumpin'](https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Jonny Morgan](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD), [The Biscuit Dispute](https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck) | [Jumpin'](https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY) | 2:42 |
+| 74 | [Jumpin'](https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Jonny Morgan & The Moral Support](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD), [The Biscuit Dispute](https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck) | [Jumpin'](https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY) | 2:42 |
 | 75 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
 | 76 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 |
 | 77 | [Rail Train Blues](https://open.spotify.com/track/4uGmIxAHzQ7eFUTUTrgcx9) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Ghosts & Whispers](https://open.spotify.com/album/7fyaXL87ACKqpQjqXTTbtt) | 3:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,446 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,491 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 33 | [Express Yourself](https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:59 |
 | 34 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
 | 35 | [This Used to Be My Playground](https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 5:10 |
-| 36 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 |
-| 37 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
+| 36 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
+| 37 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 |
 | 38 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 |
-| 39 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
-| 40 | [Vogue \- Edit](https://open.spotify.com/track/5npMYgysWSKOIVXj2szeLn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [I'm Breathless](https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED) | 4:49 |
-| 41 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 |
-| 42 | [Drowned World / Substitute for Love \- BT & Sasha's Bucklodge Ashram New Edit](https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:21 |
+| 39 | [Cherish](https://open.spotify.com/track/7BLKBIoijWCkDyOATEr5vW) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
+| 40 | [Get Together](https://open.spotify.com/track/1AQQ9DdpEemMVTHNz4eG9a) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:15 |
+| 41 | [Drowned World / Substitute for Love \- BT & Sasha's Bucklodge Ashram New Edit](https://open.spotify.com/track/41PppPBzCNWSFNDIeEgATy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [BT](https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:21 |
+| 42 | [Lucky Star](https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Madonna](https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW) | 5:37 |
 | 43 | [Don't Cry for Me Argentina](https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 5:35 |
 | 44 | [You'll See](https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Something to Remember](https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5) | 4:38 |
-| 45 | [Dress You Up](https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 4:01 |
-| 46 | [Sky Fits Heaven \- Victor Calderone New Edit](https://open.spotify.com/track/6tiOODXMVOZ4pDtvhnaTEn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Victor Calderone](https://open.spotify.com/artist/2vSlQJ6UWFVWZQPzUaaMGI) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:20 |
-| 47 | [A Cinema in Buenos Aires, 26 July 1952](https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 1:18 |
-| 48 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
-| 49 | [Gone Gone Gone \- Original Demo Version](https://open.spotify.com/track/1LbwREbw5dfkeEj9zKC5hi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Gone Gone Gone \(Original Demo Version\)](https://open.spotify.com/album/5HeJkWdWkPMdAR5ysM5NxA) | 4:39 |
-| 50 | [Skin \- Peter & Victor's Collaboration Remix Edit](https://open.spotify.com/track/1rLfUhhY1wc3PtlwGjcwQo) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:18 |
+| 45 | [Sky Fits Heaven \- Victor Calderone New Edit](https://open.spotify.com/track/6tiOODXMVOZ4pDtvhnaTEn) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Victor Calderone](https://open.spotify.com/artist/2vSlQJ6UWFVWZQPzUaaMGI) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:20 |
+| 46 | [Dress You Up](https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 4:01 |
+| 47 | [Forbidden Love](https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 4:22 |
+| 48 | [A Cinema in Buenos Aires, 26 July 1952](https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Evita: The Complete Motion Picture Music Soundtrack](https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286) | 1:18 |
+| 49 | [Skin \- Peter & Victor's Collaboration Remix Edit](https://open.spotify.com/track/1rLfUhhY1wc3PtlwGjcwQo) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Veronica Electronica](https://open.spotify.com/album/2JgIGypHO489ni7EtpMmdz) | 5:18 |
+| 50 | [Gone Gone Gone \- Original Demo Version](https://open.spotify.com/track/1LbwREbw5dfkeEj9zKC5hi) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Gone Gone Gone \(Original Demo Version\)](https://open.spotify.com/album/5HeJkWdWkPMdAR5ysM5NxA) | 4:39 |
 
-Snapshot ID: `aKO+gAAAAABNZXl7huFTu7VPkXYG4ZV9`
+Snapshot ID: `aKZhgAAAAADVe8iSQdxdes8mYd324q2p`

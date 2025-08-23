@@ -4,7 +4,7 @@
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-111 songs - 7 hr 26 min
+112 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Não Abandone A Sua Cruz](https://open.spotify.com/track/7pIT9PFk9D5cxhQY0Oyst3) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Não Abandone A Sua Cruz](https://open.spotify.com/album/4YZoJui558VjalC4qj8URZ) | 4:05 | 2025-02-28 |  |
 | [Não e Fake News \- Ao Vivo](https://open.spotify.com/track/7ppdjcT5GGPSRKBdMR1BSN) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Não é Fake News \(Ao Vivo\)](https://open.spotify.com/album/6mN4EHMitusrKyEkK0qMP9) | 3:26 | 2023-10-06 | 2025-03-08 |
 | [Não Saia do Meu Lado](https://open.spotify.com/track/5mi0KvTGzuMvPbm16vY9su) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Matriz Music](https://open.spotify.com/artist/1azfN2nSiqI1Puhf4wA1Eu) | [Não Saia do Meu Lado](https://open.spotify.com/album/0pnp12WSBG4PP1DhFWVoQq) | 3:36 | 2024-06-14 |  |
-| [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 | 2023-06-23 |  |
+| [Nós \- Acústico](https://open.spotify.com/track/5g2nq2Zpuh1OdzA3j7F8yj) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Nós \(Acústico\)](https://open.spotify.com/album/44Pczp8PwqBf1otbGddOiI) | 4:15 | 2023-06-23 | 2025-08-23 |
 | [O Barco](https://open.spotify.com/track/3H5tR9rP70xNthQlVxbMgW) | [Junior e Mateus](https://open.spotify.com/artist/7AdOPAnF5BAROmS3QmXY4I) | [No Barco](https://open.spotify.com/album/3BI1BaAzWaw29XCxyDQVJB) | 3:33 | 2023-06-23 |  |
 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 | 2023-06-23 |  |
 | [O Melhor de Deus](https://open.spotify.com/track/1plQG6oEC5ms13F0q7f3Qi) | [Adriana Aguiar](https://open.spotify.com/artist/7tWTmA4Jd9L4JKLSebzvv6) | [O Melhor de Deus](https://open.spotify.com/album/23PXhFtedksJjfqR2zKDf5) | 2:36 | 2023-06-23 | 2024-06-15 |
@@ -110,6 +110,7 @@
 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 | 2023-06-23 |  |
 | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/track/5CeWqSYsDIFj56f45yBU33) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Vai Dar Tempo, Vai Dar Certo e Vai Ter Festa](https://open.spotify.com/album/50E3HpxrrCnKufDBgwkWgM) | 3:37 | 2024-07-05 | 2025-02-15 |
 | [Vai Passar](https://open.spotify.com/track/5wZVgm6hcDTGMD9K5EOO5r) | [Luciano Camargo](https://open.spotify.com/artist/1tOFgcNGgl6DvHFsF5yst3) | [Vai Passar](https://open.spotify.com/album/13rAeWiERICVJ5H4s0NJvp) | 5:19 | 2024-12-13 | 2025-01-08 |
+| [Vai Ter Recompensa \(Ao Vivo\)](https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ) | [Vai Ter Recompensa \(Ao Vivo\)](https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE) | 5:07 | 2025-08-22 |  |
 | [Valeu a Pena](https://open.spotify.com/track/53AUE4ItLqPr9lczn2inZT) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [É Gospel](https://open.spotify.com/artist/036Kr0P8jlYtMtUAxc1vVZ) | [Valeu a Pena](https://open.spotify.com/album/6UeGX9eccZu92SKSodWivD) | 3:04 | 2025-02-14 |  |
 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 | 2023-06-23 | 2025-02-15 |
 | [Vencer É Preciso \- Voz e Violão](https://open.spotify.com/track/5xGiqpFqj8iM9d7rEEAWHE) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 1](https://open.spotify.com/album/6pwnl7jg7ZAnXF1PuD8I2c) | 4:55 | 2025-04-14 |  |

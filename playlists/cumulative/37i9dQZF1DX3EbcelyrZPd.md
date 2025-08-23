@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-587 songs - 1 day 9 hr 30 min
+588 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 | 2024-06-20 | 2024-10-25 |
 | [Unanimaliza](https://open.spotify.com/track/67F4XuZS8JXs8t5UZBjEFg) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 2:55 | 2022-08-04 | 2023-02-24 |
 | [Understand \(feat\. Mac Voice\)](https://open.spotify.com/track/6MyvdhuOqOJUQHeYouJF2K) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [Mac Voice](https://open.spotify.com/artist/0gqdLMf9kqVNiUXaM5Dg1s) | [Understand \(feat\. Mac Voice\)](https://open.spotify.com/album/67KiGdStO7M5oL2xiTuxkV) | 2:52 | 2023-09-07 | 2023-12-08 |
+| [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 | 2025-08-21 |  |
 | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Upendo \(feat\. Zuchu\)](https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra) | 2:28 | 2021-10-21 | 2022-05-06 |
 | [Upo Nyonyo](https://open.spotify.com/track/2WNRS21MvaSOX9PBTIRn8Y) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Upo Nyonyo](https://open.spotify.com/album/4JILnHDsmvGkrgyJaH8rIv) | 3:50 | 2022-11-10 | 2023-09-01 |
 | [Uridhike](https://open.spotify.com/track/7cc2RrsWpynqV1fYTZw02F) | [Ruby Africa](https://open.spotify.com/artist/2HkiAy2nG0XolOJNl8ha5d), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Uridhike](https://open.spotify.com/album/2k0aOwE2xBrg8vBz9McS1t) | 3:03 | 2023-09-21 | 2024-05-03 |

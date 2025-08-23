@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,863 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,845 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 69 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 |
 | 70 | [Mapas](https://open.spotify.com/track/5ArTOxzJNOk9ysWwbhAuro) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga) | [La Próxima Tormenta](https://open.spotify.com/album/1EfzoqrguBOQMd0hBjHghg) | 4:20 |
 | 71 | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Uno Que Tropieza Y Cae Al Mar](https://open.spotify.com/album/2tdaciK2jsRem4pSzjb53Z) | 3:29 |
-| 72 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |
-| 73 | [por qué está tan cabrón crecer?](https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [por qué está tan cabrón crecer?](https://open.spotify.com/album/05HxRACqWlAbJAS531E0s7) | 3:46 |
+| 72 | [por qué está tan cabrón crecer?](https://open.spotify.com/track/5ikrdrobOr9caHurkH1Gap) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [por qué está tan cabrón crecer?](https://open.spotify.com/album/05HxRACqWlAbJAS531E0s7) | 3:46 |
+| 73 | [Nunca Sabrás](https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Nunca Sabrás](https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX) | 3:36 |
 | 74 | [Nunca me encontré ;\(](https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:22 |
 | 75 | [Ni Modo](https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Ni Modo](https://open.spotify.com/album/5YZRghq9Z477w06ZTlxCeX) | 3:05 |
 | 76 | [Olvidarme](https://open.spotify.com/track/52XioIzucenybSvvimJ1hk) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Olvidarme](https://open.spotify.com/album/6T1ZAoP7VkeDbdKwlwI1q1) | 2:51 |
-| 77 | [Te Lo Debo Contar](https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Te Lo Debo Contar](https://open.spotify.com/album/7M0XwGUaqijknK9V82ci5Q) | 3:56 |
-| 78 | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 |
+| 77 | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/track/48ynQ6ebXb7KC6TuQmVfdb) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Qué más da \(feat\. Charlie Rodd\)](https://open.spotify.com/album/4J9rqXc6sk1UmjOPFvhuL9) | 3:05 |
+| 78 | [Te Lo Debo Contar](https://open.spotify.com/track/6kyqvHEWqcSlWObg2bQj6M) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Te Lo Debo Contar](https://open.spotify.com/album/7M0XwGUaqijknK9V82ci5Q) | 3:56 |
 | 79 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 |
 | 80 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
 

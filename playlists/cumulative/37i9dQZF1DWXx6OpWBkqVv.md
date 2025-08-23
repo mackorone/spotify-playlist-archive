@@ -2,7 +2,7 @@
 
 ### [Indiespensável](https://open.spotify.com/playlist/37i9dQZF1DWXx6OpWBkqVv)
 
-> Você já dançou muito essas músicas num inferninho insalubre\. Foto: Tame Impala
+> Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Go Go Dolls
 
 147 songs - 9 hr 28 min
 

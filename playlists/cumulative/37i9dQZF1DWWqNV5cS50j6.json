@@ -20065,6 +20065,24 @@
     },
     {
       "album": {
+        "name": "Mr. Miracle",
+        "url": "https://open.spotify.com/album/33PM56Ebm1noVM1px0GL9Q"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192492,
+      "name": "Mr. Miracle",
+      "url": "https://open.spotify.com/track/0c3l6nw0FC2UfhzJPpEOMK"
+    },
+    {
+      "album": {
         "name": "Mr. Put It On",
         "url": "https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg"
       },

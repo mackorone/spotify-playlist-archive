@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 438579,
+  "num_followers": 438646,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADSrIYvn3QicZWTWZll7JTY",
+  "snapshot_id": "aKZhgAAAAACagv19wIzD/+8hFcMtuzRw",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 136366,
+      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex Hysteria",
         "url": "https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq"
       },
@@ -323,30 +347,6 @@
       "duration_ms": 177000,
       "name": "Outfit (with 21 Savage)",
       "url": "https://open.spotify.com/track/6B2FtBtIds4rqeLPTW0D76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 136366,
-      "name": "TOES (feat. Lil Baby & Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/2FvD20Z8aoWIePi7PoN8sG"
     },
     {
       "added_at": null,
@@ -635,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legends (with Lil Baby)",
-        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 181448,
-      "name": "Legends (with Lil Baby)",
-      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
+      "duration_ms": 167977,
+      "name": "Forever (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
     },
     {
       "added_at": null,
@@ -695,22 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+        "name": "Legends (with Lil Baby)",
+        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 167977,
-      "name": "Forever (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct"
+      "duration_ms": 181448,
+      "name": "Legends (with Lil Baby)",
+      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
     },
     {
       "added_at": null,
@@ -983,26 +983,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Choppa (with Lil Baby & Rvssian)",
-        "url": "https://open.spotify.com/album/5yYpXnvCCF9l1z5HP1vNgx"
+        "name": "Realer",
+        "url": "https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ"
       },
       "artists": [
         {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         },
         {
           "name": "Lil Baby",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
         }
       ],
-      "duration_ms": 169195,
-      "name": "Choppa (with Lil Baby & Rvssian)",
-      "url": "https://open.spotify.com/track/2PY7w56NZdvh7YhBxfT4pE"
+      "duration_ms": 233684,
+      "name": "Cross Me (feat. Lil Baby and Plies)",
+      "url": "https://open.spotify.com/track/3V3JxDpiUg0RAt1Mfbn6Ht"
     }
   ],
   "unique_name": "This Is Lil Baby",

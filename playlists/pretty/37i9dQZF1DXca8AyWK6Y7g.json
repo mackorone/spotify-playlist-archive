@@ -1,12 +1,12 @@
 {
   "description": "WHO'S MY SALLY TONIGHT? ",
-  "num_followers": 1581371,
+  "num_followers": 1581271,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABz/knArWTMQKOXG00GG7+D6vkDd",
+  "snapshot_id": "AAAAAMeF9ffOCxRPdJousWLZEEQ6gfG8",
   "tracks": [
     {
       "added_at": "2025-02-14 05:00:41",
@@ -25,6 +25,86 @@
       "url": "https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ"
     },
     {
+      "added_at": "2025-08-22 04:32:11",
+      "album": {
+        "name": "dirty shirley / no thoughts",
+        "url": "https://open.spotify.com/album/5gDIcJCHbtgTgPR30MsfDk"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 136119,
+      "name": "dirty shirley",
+      "url": "https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn"
+    },
+    {
+      "added_at": "2025-07-25 04:01:01",
+      "album": {
+        "name": "12 to 12",
+        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
+    },
+    {
+      "added_at": "2025-08-22 04:32:33",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 256466,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/00k7tsWaAJXGJ4rZZxd6bM"
+    },
+    {
+      "added_at": "2025-08-22 04:32:11",
+      "album": {
+        "name": "Like It Like That",
+        "url": "https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 167527,
+      "name": "Like It Like That",
+      "url": "https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0"
+    },
+    {
+      "added_at": "2025-08-22 04:32:11",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX"
+    },
+    {
       "added_at": "2025-08-15 04:00:30",
       "album": {
         "name": "Dancer",
@@ -39,6 +119,38 @@
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "added_at": "2025-08-22 04:32:11",
+      "album": {
+        "name": "University",
+        "url": "https://open.spotify.com/album/5Z3ju7RTU1fUz9BuCIOFCJ"
+      },
+      "artists": [
+        {
+          "name": "colby!",
+          "url": "https://open.spotify.com/artist/7hIwzGVyJCBJqYust8VyDl"
+        }
+      ],
+      "duration_ms": 225766,
+      "name": "University",
+      "url": "https://open.spotify.com/track/5CYb5EE7t8b4di9YX1Mkv9"
+    },
+    {
+      "added_at": "2025-08-22 04:32:11",
+      "album": {
+        "name": "Blushing",
+        "url": "https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus"
+      },
+      "artists": [
+        {
+          "name": "Luvcat",
+          "url": "https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Blushing",
+      "url": "https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6"
     },
     {
       "added_at": "2025-05-30 04:00:37",
@@ -71,22 +183,6 @@
       "duration_ms": 142730,
       "name": "The Bomb",
       "url": "https://open.spotify.com/track/6FqQpftrbKOFvhQJ6f4Iyh"
-    },
-    {
-      "added_at": "2025-07-25 04:01:01",
-      "album": {
-        "name": "12 to 12",
-        "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
     },
     {
       "added_at": "2025-08-08 04:35:43",
@@ -1211,22 +1307,6 @@
       "duration_ms": 188664,
       "name": "Moviestar",
       "url": "https://open.spotify.com/track/0ItVps4GAVBmOg8o9ZHEip"
-    },
-    {
-      "added_at": "2024-08-26 15:21:13",
-      "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM"
-      },
-      "artists": [
-        {
-          "name": "Michele Lu",
-          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
-        }
-      ],
-      "duration_ms": 235725,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i"
     }
   ],
   "unique_name": "young & free",

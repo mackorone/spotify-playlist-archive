@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Chase Atlantic
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: sombr
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,170 likes - 124 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,268 likes - 124 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 123 | [Say That You Love Me](https://open.spotify.com/track/5kcAl2B3o7oM26BCQVggKl) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Say That You Love Me](https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX) | 2:32 |
 | 124 | [Mine](https://open.spotify.com/track/1Gjv4SfzLSRidC7dT76jnU) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Flowers](https://open.spotify.com/album/19GjD1CuUyQ2kdhhYXzS8C) | 2:19 |
 
-Snapshot ID: `AAAAAILHZ3vDc2rs0XTw682cWjq2ZMBe`
+Snapshot ID: `AAAAAG3zOygUS91I8+V7yEOwDB2J/iFi`

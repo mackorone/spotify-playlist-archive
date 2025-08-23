@@ -4,7 +4,7 @@
 
 > Bien Argento 📸 Klan.
 
-395 songs - 19 hr 42 min
+397 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Mamichula \- con Nicki Nicole](https://open.spotify.com/track/4pXW6ZAHBz7ODXTRKklWrM) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB) | 3:39 | 2021-11-26 | 2025-07-25 |
 | [mamá reza por mi](https://open.spotify.com/track/6Ycb0Yb6BjBIdHh8LpkJUY) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO!](https://open.spotify.com/album/3CqJ9pw9gAGhHi1DHjtD1f) | 1:30 | 2025-04-25 | 2025-05-07 |
 | [MANIFIESTO FREESTYLE](https://open.spotify.com/track/3TaK5hftxlrp38Gt0wAPq4) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [MANIFIESTO FREESTYLE](https://open.spotify.com/album/2xiR9BHSrYTogEJvEo4nVY) | 2:42 | 2022-05-05 | 2022-08-06 |
+| [Mates con Miel](https://open.spotify.com/track/5MR3jTQGzoOg7cFk1DY1ET) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf) | [Mates con Miel](https://open.spotify.com/album/19KTI599ScGGGk29iq4zgi) | 3:09 | 2025-08-22 |  |
 | [MDB \- LA FIESTA ES DE NOSOTROS](https://open.spotify.com/track/3bkCnmdg6gyFYYfOU7Agq2) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [La Fiesta es de Nosotros](https://open.spotify.com/album/51Fs2RsHY7Yh8u1WrpKyDr) | 3:15 | 2022-04-11 | 2022-07-29 |
 | [Mdb \- la Fiesta Es de Nosotros](https://open.spotify.com/track/50WsYaCHkz2XlACA2CEg6o) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Chulu](https://open.spotify.com/artist/1VAc90Avnm4J5j2cYu5RVB) | [La Fiesta Es de Nosotros](https://open.spotify.com/album/1qGuVgopycXkOtejQyueW2) | 3:15 | 2022-06-10 | 2023-05-13 |
 | [Me Fascina](https://open.spotify.com/track/01sNSCB2YkncNVss6Ob9Pt) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Me Fascina](https://open.spotify.com/album/0pXK80ZNgKd57X5KWK29eg) | 2:56 | 2021-11-26 | 2022-04-12 |
@@ -309,6 +310,7 @@
 | [PUAJ \(sesión\)](https://open.spotify.com/track/6fTxvdEyWl3zZg2XTWO4s8) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PUAJ \(sesión\)](https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww) | 2:36 | 2022-09-22 | 2024-02-17 |
 | [PULL UP!](https://open.spotify.com/track/6FFuIWkavxpcwxeyZRgXuJ) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:23 | 2024-05-24 | 2024-11-09 |
 | [Que Diran los Neighbors](https://open.spotify.com/track/0YqLx0Cs3d7gZe0bf5GCZp) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Knno](https://open.spotify.com/artist/4aLLA7KPs9GYejRA9gbGZO) | [Que Diran los Neighbors](https://open.spotify.com/album/2r5WdrVkvFzch8JcDz3jkO) | 2:41 | 2021-11-26 | 2023-02-04 |
+| [quitate los Jeans](https://open.spotify.com/track/3x6gtoIxAcKd8HNYxxN85n) | [Frozouda](https://open.spotify.com/artist/6pCBRiHhyUMQBqs0WUSxEL) | [FRO! 2](https://open.spotify.com/album/370xkuwfRmcqz1FAx81oJu) | 1:43 | 2025-08-22 |  |
 | [R.A.P](https://open.spotify.com/track/33oWGa3IoFRsfrhfTC4Npe) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/0ay6u6EQbReMMEpHdyvR1M) | 2:27 | 2022-04-11 |  |
 | [R.A.P](https://open.spotify.com/track/62KKmZ6QKLHuXhunvEdBEC) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/4EEFZ6ZDLp5pQKSNagC7yo) | 2:27 | 2022-11-18 | 2023-10-08 |
 | [R.A.P](https://open.spotify.com/track/5ueFyFfJ6mDmN9LfWMONn2) | [T&K](https://open.spotify.com/artist/62zZb3lpCFBqLDjMccQgND) | [El Libro Negro](https://open.spotify.com/album/3OXVCPPJKjQVsFqoY8Zamc) | 2:27 | 2023-10-06 | 2024-04-19 |

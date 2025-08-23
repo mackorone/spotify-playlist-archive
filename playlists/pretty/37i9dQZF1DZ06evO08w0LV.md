@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 15 | [Somebody Told Me](https://open.spotify.com/track/4AIatGjGyVipeEAzCMTqOg) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:41 |
 | 16 | [THE LONELIEST](https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 4:07 |
 | 17 | [FOR YOUR LOVE](https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:50 |
-| 18 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 |
-| 19 | [TRASTEVERE](https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:02 |
+| 18 | [TRASTEVERE](https://open.spotify.com/track/3wy4se12ucUNAfRwZpmDuz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH! \(ARE U COMING?\)](https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8) | 3:02 |
+| 19 | [Fear for Nobody](https://open.spotify.com/track/7t3fuKd5h73oppjIgkxZ25) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Il ballo della vita](https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj) | 2:30 |
 | 20 | [SUPERMODEL](https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:28 |
 | 21 | [LA PAURA DEL BUIO](https://open.spotify.com/track/2l7V3AuTxGuswKjGovaSEv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:29 |
 | 22 | [Chosen](https://open.spotify.com/track/2lDgdWIGLYuk74pDeRPgPF) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:42 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO08w0LV.md) - [plain]
 | 31 | [Jolene](https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Rockstar \(Deluxe\)](https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN) | 3:12 |
 | 32 | [Recovery](https://open.spotify.com/track/01GZjSSjSSpvTnDNdR8r3Y) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 2:55 |
 
-Snapshot ID: `aKO+gAAAAACwAgQB7RzTuDygCNQI0RqC`
+Snapshot ID: `aKZhgAAAAAAnYagOzL4K0V71zqYlBhwv`

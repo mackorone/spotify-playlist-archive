@@ -4,7 +4,7 @@
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-93 songs - 5 hr 13 min
+94 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Disagreeable](https://open.spotify.com/track/3kfYNMUlAhfrpOv2BexhB5) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 3:44 | 2022-11-17 | 2023-04-29 |
 | [Dislocated](https://open.spotify.com/track/2rPj6HNnYlc8FTHxAn6Qcd) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 3:19 | 2024-04-09 | 2024-05-11 |
 | [Dislocated](https://open.spotify.com/track/6NoPsV2kLjSrEM24YO7xtA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 3:19 | 2023-12-29 | 2024-12-30 |
+| [Distracted](https://open.spotify.com/track/1TtWONvwcQEkoxwL4ougx2) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:11 | 2025-08-23 |  |
 | [Driving Nowhere](https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 4:19 | 2022-11-17 |  |
 | [Drug Lord](https://open.spotify.com/track/3uy3fz4iQq7DpMjhUZhOnG) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Size Matters](https://open.spotify.com/album/5SNYP4jdPEGAc7rs5uS9Er) | 3:23 | 2022-11-17 |  |
 | [E.T.I.](https://open.spotify.com/track/2rzAcvDOuqbVXgfVSuApUA) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/5l1YqRO0Fq2WxIpX0G0lgh) | 3:41 | 2025-02-16 | 2025-02-25 |
@@ -58,7 +59,7 @@
 | [Just Another Victim](https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0), [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Unsung: The Best Of Helmet 1991\-1997](https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO) | 4:22 | 2022-11-17 |  |
 | [Life or Death](https://open.spotify.com/track/01x7Rmr1ZivytaToNGRhuF) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Dead to the World](https://open.spotify.com/album/0ntWTKVclNImxOTIOaDPx2) | 3:02 | 2023-04-13 | 2023-07-23 |
 | [Like I Care](https://open.spotify.com/track/1UOkTycAtWGz5rgQxo1E9M) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Aftertaste](https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ) | 3:19 | 2022-11-17 |  |
-| [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 | 2022-11-17 |  |
+| [Make Room](https://open.spotify.com/track/047rc63FPRYjXWq7iLhrzg) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 3:26 | 2022-11-17 | 2025-08-23 |
 | [Make\-Up](https://open.spotify.com/track/09U3w7A1bWNtQ86p5opFcK) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [LEFT](https://open.spotify.com/album/5pHjmGCNpDjFcpGFXSTngH) | 2:48 | 2024-02-25 | 2024-06-16 |
 | [Make\-Up](https://open.spotify.com/track/3kdvSS7r98Ysi4OLX8buSD) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Left](https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL) | 2:48 | 2023-12-13 | 2024-12-22 |
 | [Mercy](https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Move On](https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY) | 5:49 | 2024-12-22 | 2025-02-15 |

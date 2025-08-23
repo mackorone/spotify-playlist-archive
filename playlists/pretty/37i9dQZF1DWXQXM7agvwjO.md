@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Uchu Yurei \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,965 likes - 113 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,995 likes - 113 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ingatlah Aku Disini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Disini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
+| 1 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
 | 2 | [Make Me Sway](https://open.spotify.com/track/3HeRaGuDEzSsl6ryKCY56z) | [JYLPO](https://open.spotify.com/artist/1KeT36km8BYQZD79atBWCe) | [Make Me Sway](https://open.spotify.com/album/3mtTdMgyg6ZUQQmTI11EUZ) | 2:19 |
 | 3 | [S13](https://open.spotify.com/track/0wglIXDfqS6TOZZLxKDgpp) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [S13](https://open.spotify.com/album/6raLwY2BhDXSwNksc5KVRr) | 6:55 |
 | 4 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 |
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 10 | [Things We Used To Say](https://open.spotify.com/track/5nCw0Rodpjie6O01znhlEO) | [Cheats](https://open.spotify.com/artist/4XUJ1FQti6aKrUrZTCBFKz) | [Things We Used To Say](https://open.spotify.com/album/7EjxzoPYjoERMRnI4oFVC2) | 4:32 |
 | 11 | [Man on the Run](https://open.spotify.com/track/6C1ejrxo19nyEtVbn86egr) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Who's in the House?](https://open.spotify.com/album/04cL4l3zjxF2iwKC9yziNm) | 2:33 |
 | 12 | [S.A.L.T.](https://open.spotify.com/track/13Onr1Cy2jq40MBhR0Nr5B) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [S.A.L.T.](https://open.spotify.com/album/4Zxymi4ja9GBCIsio13Crx) | 2:51 |
-| 13 | [Track 3](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 0:00 |
+| 13 | [Gemilang](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 5:00 |
 | 14 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 |
 | 15 | [Portion Control](https://open.spotify.com/track/0pfjJYEeWxhUdHmwWf0yIa) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [rOe](https://open.spotify.com/album/5sbEVYSjPK4a0lXNA4WsPO) | 4:43 |
 | 16 | [Magic](https://open.spotify.com/track/7LhFZAamVSW35NGGSMxwoZ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Naked 4 Satan](https://open.spotify.com/album/2CzjVt14KokXk1Q6vGp925) | 4:41 |
-| 17 | [Track 1](https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Closer To Closure](https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD) | 0:00 |
+| 17 | [One](https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Closer To Closure](https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD) | 3:09 |
 | 18 | [擁抱着你我](https://open.spotify.com/track/0guaz0DOMaP7liIhPdWD71) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9), [Manson 張進翹](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [擁抱着你我](https://open.spotify.com/album/1VlZ2S8jnSHqhByQa5TX9X) | 4:15 |
 | 19 | [Just Like Sunny](https://open.spotify.com/track/4mHqYUBsqpv479cEsJelzp) | [GYMV](https://open.spotify.com/artist/5xOJz1R1Gcm16mg0V8iukc) | [Just Like Sunny](https://open.spotify.com/album/3cFGleWdQHuzReXLuzAxdm) | 2:56 |
 | 20 | [Minggu](https://open.spotify.com/track/29oaLVw5BEusRDauIyCfwK) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc), [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio) | [Minggu](https://open.spotify.com/album/20BlkwZZJfzNj6xTxPrehi) | 3:38 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 112 | [Spoil Me](https://open.spotify.com/track/2ninTCV3Q0b8yyMo9BVxMV) | [ASA Wu](https://open.spotify.com/artist/67BCocc3uSkXQlr5vm8cC1) | [Spoil Me](https://open.spotify.com/album/3xsnrT2hcsHmslvYUEHATF) | 3:13 |
 | 113 | [上溫柔的所在](https://open.spotify.com/track/5anyAL7W4RnP2gSzG4iV3J) | [Sorry Youth](https://open.spotify.com/artist/6c4IBMTcnFDhsKHXNSBBvp) | [上溫柔的所在](https://open.spotify.com/album/22I5StrrqzSEpktjLHAZjd) | 3:15 |
 
-Snapshot ID: `AAAAAMD6y8w+0+hbrqcOHb+XwIg1hW87`
+Snapshot ID: `AAAAAAQZLpi59UAH4Ynxh7E7hcPUxeDF`

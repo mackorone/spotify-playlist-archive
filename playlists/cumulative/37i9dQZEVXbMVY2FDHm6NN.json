@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 192043,
       "name": "A Little More",
       "url": "https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 147807,
       "name": "HOT SAUCE",
       "url": "https://open.spotify.com/track/3AjfuVk6olyesS7cVfofBE"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -7538,7 +7538,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 164040,
       "name": "THUNDER",
       "url": "https://open.spotify.com/track/0qkYuCno3SoU8vxkCdx0iJ"
@@ -8220,7 +8220,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 157191,
       "name": "WICKED",
       "url": "https://open.spotify.com/track/2NOMOpss7BmEXTL9f1koqn"
@@ -10724,7 +10724,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 292666,
       "name": "\u611b\u6211\u9084\u662f\u4ed6",
       "url": "https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i"
@@ -12796,7 +12796,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
@@ -12923,6 +12923,24 @@
     },
     {
       "album": {
+        "name": "\u6211\u8981\u7684\u5e78\u798f",
+        "url": "https://open.spotify.com/album/78cBYsAtN8VqvWmyW4Uu4m"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "\u958b\u59cb\u61c2\u4e86",
+      "url": "https://open.spotify.com/track/68tZwwRuo9ip5gRQFG1XWF"
+    },
+    {
+      "album": {
         "name": "\u95a3\u611b\u59b3\u4e00\u64fa",
         "url": "https://open.spotify.com/album/3qpPxu0v6G5fNYe8OfslFt"
       },
@@ -12952,7 +12970,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 278010,
       "name": "\u95a3\u611b\u59b3\u4e00\u64fa",
       "url": "https://open.spotify.com/track/4Zwn8WxD61diTwqv9hyTQA"
@@ -13064,6 +13082,24 @@
       "duration_ms": 242789,
       "name": "\u96e2\u5225\u7e3d\u662f\u90a3\u9ebc\u7a81\u7136",
       "url": "https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg"
+    },
+    {
+      "album": {
+        "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
+        "url": "https://open.spotify.com/album/4SvBcrlinZopwRdfZsAEFz"
+      },
+      "artists": [
+        {
+          "name": "Evangeline Wong",
+          "url": "https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233882,
+      "name": "\u96e2\u958b\u6211\u7684\u4f9d\u8cf4",
+      "url": "https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby"
     },
     {
       "album": {

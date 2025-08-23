@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-120 songs - 7 hr 19 min
+122 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Blame](https://open.spotify.com/track/27dM3Oji0ytPXDYGVwDoJj) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 2:50 | 2025-07-18 |  |
 | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/track/5p3ckKoVpUi51ByUmA1vfT) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Bleed \(feat\. Omar Apollo\)](https://open.spotify.com/album/7E93xjRYu5jTayc9x9wQKk) | 2:59 | 2025-07-18 |  |
 | [BLOOM](https://open.spotify.com/track/7FR31W0Gpfs7s4fLoBV2Go) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [BLOOM](https://open.spotify.com/album/0AduTuWnko3IDC0Oua18qQ) | 2:47 | 2025-07-25 | 2025-08-13 |
+| [Blushing](https://open.spotify.com/track/33djYn9meJOgHBFWHa75M6) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Blushing](https://open.spotify.com/album/50AvsVRJ1md7XzO8rLVPus) | 4:07 | 2025-08-21 |  |
 | [Boa Sorte / Good Luck \(feat\. Ben Harper\)](https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Sim](https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC) | 3:55 | 2025-07-18 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 | 2025-07-18 |  |
@@ -70,15 +71,16 @@
 | [Lucy](https://open.spotify.com/track/6O1vElqf77upV8az275UZs) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Lucy](https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa) | 3:38 | 2025-07-18 |  |
 | [Man On My Mind](https://open.spotify.com/track/2NRapgmqFRRnflBV7p9ZzT) | [Cornelia Murr](https://open.spotify.com/artist/1FdUgjmEeGCpmAxXatjiEG) | [Lake Tear of the Clouds](https://open.spotify.com/album/5MAwGM6wOVrzJtl17kRpnW) | 3:42 | 2025-08-21 |  |
 | [Manga](https://open.spotify.com/track/1Iod4fjYd6TTXw9DI6nHpB) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Manga](https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9) | 2:50 | 2025-07-18 |  |
-| [Masterpiece](https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [All Back To: Jungle](https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1) | 5:44 | 2025-07-18 |  |
+| [Masterpiece](https://open.spotify.com/track/51AbK2bzLTy7ekHeoSujA1) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [All Back To: Jungle](https://open.spotify.com/album/5x8fi3qqHSWacxluhUNqW1) | 5:44 | 2025-07-18 | 2025-08-23 |
 | [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:39 | 2025-07-18 |  |
 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 | 2025-07-18 |  |
 | [Mi Negrita](https://open.spotify.com/track/4r7iDEGdW2Gw9hJlCbi5qL) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Mala](https://open.spotify.com/album/1Z69PSnbIBojgF9NBJbKca) | 3:24 | 2025-07-18 |  |
 | [Montego Bay Spleen](https://open.spotify.com/track/38LpbjQx5XAA95pb7AGRnE) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [Tourist \(Remastered\)](https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj) | 6:25 | 2025-07-18 |  |
 | [moody](https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [moody](https://open.spotify.com/album/7eZ8bFDtTIymJEdRCEIyro) | 2:55 | 2025-07-18 | 2025-08-08 |
 | [Moonlit](https://open.spotify.com/track/7bYCJEl4oPXccNUPxNPk1y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Moonlit](https://open.spotify.com/album/1sbBM687gBFOF1ZVWz8vRC) | 3:41 | 2025-07-25 |  |
-| [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 | 2025-08-21 |  |
+| [Mountain Top](https://open.spotify.com/track/26vyvsOehrRVdXCWmEdLLi) | [RIO KOSTA](https://open.spotify.com/artist/4xU7M9wEvpnvkNOyPdVi5y) | [Mountain Top](https://open.spotify.com/album/4UANTMEu5UccPUnJbbkkD5) | 4:03 | 2025-08-21 | 2025-08-23 |
 | [Move on Up](https://open.spotify.com/track/2WaesAINqa4dKnLVu8JQKS) | [The Dynamics](https://open.spotify.com/artist/1mYvu9huHeR7ho3iGAgCsn) | [Disco Reggae](https://open.spotify.com/album/5Wiqlnm1WL65Oae5PWNBcx) | 4:52 | 2025-07-18 |  |
+| [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 | 2025-08-21 |  |
 | [My Mind Is For Sale](https://open.spotify.com/track/4zohK59ouRruiqESaTcOZW) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:59 | 2025-07-18 | 2025-07-26 |
 | [Need You Around](https://open.spotify.com/track/1q0InfGwHKTEYIHrYxh95Z) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Backflips in a Restaurant](https://open.spotify.com/album/3IKIobUDlcwhEs0tGJaLc7) | 2:45 | 2025-07-18 | 2025-07-26 |
 | [Only You](https://open.spotify.com/track/2rDwETmcGw4ZqbuXvLQmDL) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 3:35 | 2025-07-18 |  |

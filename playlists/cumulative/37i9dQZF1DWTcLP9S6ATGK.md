@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Difki Khalif
 
-599 songs - 1 day 15 hr 14 min
+600 songs - 1 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3jki54XTyng7uExnmnniCW) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/5CNvbiMvaOaHmaQf2mNvOi) | 3:58 | 2024-09-12 | 2024-11-22 |
 | [Ruang Luka](https://open.spotify.com/track/4f1mDUpM4c62Nhf0yW9HXV) | [Ekhsan](https://open.spotify.com/artist/6nfhbYSRrnkFkdVRZ080Lx) | [Ruang Luka](https://open.spotify.com/album/1pB0U49YDHggstJn0FhWpl) | 4:07 | 2024-06-27 | 2024-08-02 |
 | [Rumah?](https://open.spotify.com/track/4xKtLnVdJllsiycdN6iuzw) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Rumah?](https://open.spotify.com/album/7fTPdwFhGE7DTx17GsOBWn) | 4:47 | 2025-08-21 |  |
+| [Rumit \- Cover](https://open.spotify.com/track/551Q8EM6W0WR8PL9yxcTFB) | [Rocket Rockers](https://open.spotify.com/artist/3k7qB8d47YeYcHlrqaLM4U), [Rizky Irmansyah](https://open.spotify.com/artist/0vX4JybTXjd3oy4Dn3tqBI) | [Rumit](https://open.spotify.com/album/2UQp2nZtjBRhA9U8Zy5LOd) | 3:21 | 2025-08-22 |  |
 | [Saat Bersamanya](https://open.spotify.com/track/5HTUL2CcEddX6VUkCBOgxQ) | [Nabila Maharani](https://open.spotify.com/artist/0LrRU8pQ9MjBzuFBViE0vW) | [Saat Bersamanya](https://open.spotify.com/album/4nhDqXNo8V8MBrEb148zTq) | 3:37 | 2024-06-27 | 2024-07-05 |
 | [Sabtu](https://open.spotify.com/track/6PLMWqOc8AItKQTGfnhj2t) | [Aurla](https://open.spotify.com/artist/5aqBDf8HH7H0fduSKocH4Y) | [Sabtu](https://open.spotify.com/album/2qkUukh0IhdFXcoFdfTJtm) | 4:00 | 2025-07-24 |  |
 | [Sadrah \- Acoustic](https://open.spotify.com/track/4IhQA4O98ulPLhsdW2GPPO) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Sadrah \- Acoustic](https://open.spotify.com/album/5oGmWdzAvYfy1osN4PspuR) | 4:06 | 2024-11-28 | 2025-08-09 |

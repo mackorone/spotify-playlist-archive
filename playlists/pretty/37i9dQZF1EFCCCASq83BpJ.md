@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,857 likes - 122 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,860 likes - 122 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 43 | [Quit \(feat\. Ariana Grande\)](https://open.spotify.com/track/4rwqrKdwlFWJ6LvPYaOtgn) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 4:18 |
 | 44 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 |
 | 45 | [Best Mistake](https://open.spotify.com/track/70yhaHLp9STtzI2Kzba6Tr) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:53 |
-| 46 | [Moonlight](https://open.spotify.com/track/5A7CwBNDUhvLWuSU5oJEh3) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:22 |
-| 47 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 |
+| 46 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 |
+| 47 | [Moonlight](https://open.spotify.com/track/5A7CwBNDUhvLWuSU5oJEh3) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:22 |
 | 48 | [just like magic](https://open.spotify.com/track/7Dx9Z6Aon1qPS2N0rHSWTe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:29 |
 | 49 | [fake smile](https://open.spotify.com/track/3wFLWP0FcIqHK1wb1CPthQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:28 |
 | 50 | [safety net \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/14gkWVFMwdxBMyqBw1wmIg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:28 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 108 | [How I Look On You](https://open.spotify.com/track/4mDLApzbhjNSutiW2EOakg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Charlie's Angels \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f) | 2:54 |
 | 109 | [Research](https://open.spotify.com/track/0nfkzX4y8O7Jxotd7bCu2C) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dark Sky Paradise \(Deluxe\)](https://open.spotify.com/album/4Nlbt2EuXedr6UqaeXEI4c) | 3:50 |
 | 110 | [Jason's Song \(Gave It Away\)](https://open.spotify.com/track/0kngSEayfCOjR8w83R7vAT) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/5X7x18kW3mVIvnuNeedM6b) | 4:24 |
-| 111 | [Not Just On Christmas](https://open.spotify.com/track/09VVVW2VxsmXE5Pyo3T0ah) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:03 |
-| 112 | [Better Left Unsaid](https://open.spotify.com/track/0vyQdRbRJRRY8GGuM8eVVI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:31 |
+| 111 | [Better Left Unsaid](https://open.spotify.com/track/0vyQdRbRJRRY8GGuM8eVVI) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:31 |
+| 112 | [Not Just On Christmas](https://open.spotify.com/track/09VVVW2VxsmXE5Pyo3T0ah) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:03 |
 | 113 | [yes, and? \(with Mariah Carey\) \- Remix](https://open.spotify.com/track/1UjPANunXLp0G9hbQNyPh9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:34 |
 | 114 | [the boy is mine \(with Brandy, Monica\) \- Remix](https://open.spotify.com/track/4TkvdQwcxXxusi8JG6mMj7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [eternal sunshine \(slightly deluxe and also live\)](https://open.spotify.com/album/3L2iweH45rVdTBPldbY6dp) | 3:33 |
 | 115 | [someone like u \- interlude](https://open.spotify.com/track/3Os1431WclqyKxWqMzRESE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 1:16 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCCCASq83BpJ.md) - [plain]
 | 121 | [Ain't About What You Got \- From “Star \(Season 1\)" Soundtrack](https://open.spotify.com/track/3guGgIgmswywnQgOwt5j4E) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [Ain't About What You Got \[From “Star \(Season 1\)" Soundtrack\]](https://open.spotify.com/album/4NENv55iKx77NG6u2WRVKF) | 3:31 |
 | 122 | [Not Afraid Of Love](https://open.spotify.com/track/5FTRGobKylgI3Kf2DNSH2l) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 
-Snapshot ID: `Ab6H6gAAAADwvpWDxqP1eQmxrSU6tgvc`
+Snapshot ID: `Ab6NlAAAAADSh5ilJRyneOjr0MSkE97C`

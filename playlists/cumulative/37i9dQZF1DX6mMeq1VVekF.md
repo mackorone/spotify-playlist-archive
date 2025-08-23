@@ -2,9 +2,9 @@
 
 ### [Free Form](https://open.spotify.com/playlist/37i9dQZF1DX6mMeq1VVekF)
 
-> No tags, no labels \- just free form\. Cover: MOIO
+> No tags, no labels \- just free form\. Cover: Dijon
 
-515 songs - 1 day 2 hr 31 min
+516 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -402,7 +402,7 @@
 | [Salt In The Wound](https://open.spotify.com/track/09IgqPIUJ4ZXimGri7Lfss) | [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6) | [Salt In The Wound](https://open.spotify.com/album/3sTmry7ULDk1vk4OPq9CqG) | 3:44 | 2025-01-24 | 2025-03-14 |
 | [Salute](https://open.spotify.com/track/5DYHrzFAkN2oEm3F4zMyGL) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct), [Ashbeck](https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9), [Lowfades](https://open.spotify.com/artist/5tQDf3f7QrnrP3bv8rI77A) | [Salute](https://open.spotify.com/album/5O0HtpMI4ME919zkRqwRQ1) | 3:34 | 2023-05-19 | 2023-06-17 |
 | [Same Old](https://open.spotify.com/track/3YWZPpLVGeEq8VvNLaB55f) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Same Old](https://open.spotify.com/album/5qZq3wkonGD3hVtmoxm2NB) | 2:53 | 2022-06-24 | 2022-07-28 |
-| [Same Place](https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [BEAST LIVING](https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J) | 2:32 | 2024-10-25 |  |
+| [Same Place](https://open.spotify.com/track/6yYkaXcKKlBZqftX5zstbw) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [BEAST LIVING](https://open.spotify.com/album/1Wiu5l7uF3O9kemS30SD8J) | 2:32 | 2024-10-25 | 2025-08-23 |
 | [Same Sh\*t](https://open.spotify.com/track/6JLhAcblWoXi3Yxnm2rQOy) | [Booter Bee](https://open.spotify.com/artist/4UqCESpZKvidid87gOWQyU) | [Same Sh\*t](https://open.spotify.com/album/5ilEtloP5mNtfR6vbcdS9r) | 2:28 | 2025-01-17 |  |
 | [Same Size Shoe](https://open.spotify.com/track/0dedT0AfVJO8ebgLee0prY) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Same Size Shoe](https://open.spotify.com/album/6DxjcIJ9NR4LPZpyDqGVvw) | 3:30 | 2022-06-24 | 2022-07-29 |
 | [SAME WAYZ](https://open.spotify.com/track/3qiyi5s7saiQLQwL17LWPs) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [SONIC INCENSE](https://open.spotify.com/album/4gJgwFk9dnQkrVKJ034eLk) | 3:25 | 2025-01-17 | 2025-01-25 |
@@ -517,6 +517,7 @@
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2022-10-23 | 2024-04-19 |
 | [Won!](https://open.spotify.com/track/1gggt00FCBuc45Sm2hf2Yt) | [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [We Got Food At Home](https://open.spotify.com/album/5M6siTaJPrhAEVKeOUx70M) | 2:00 | 2024-10-10 | 2025-02-24 |
 | [Wyoming](https://open.spotify.com/track/4Iaac6Kgm98iHq75YogSk2) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ), [venny](https://open.spotify.com/artist/3BfUEQE3t4l3FXUXV77Ca3) | [Wyoming](https://open.spotify.com/album/7oxTSclrHt2L9WIIjAxQHM) | 1:43 | 2024-10-10 | 2024-10-28 |
+| [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-22 |  |
 | [You & I](https://open.spotify.com/track/4cpQrTmSubTzMzFgquNpsa) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [You & I](https://open.spotify.com/album/7cX35zQ6fvQgO5JjSNWmbA) | 3:14 | 2025-03-21 | 2025-04-25 |
 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 | 2022-08-22 | 2023-04-14 |
 | [You Know](https://open.spotify.com/track/2juQKYR7TFwBbRlFbEke7z) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [You Know](https://open.spotify.com/album/5Ojgg4O0Hdley9R3Pvr12P) | 2:22 | 2022-07-17 | 2022-07-22 |

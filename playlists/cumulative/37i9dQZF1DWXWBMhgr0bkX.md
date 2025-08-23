@@ -4,7 +4,7 @@
 
 > Homegrown talent feat\. samxemma 🪟
 
-700 songs - 1 day 11 hr 46 min
+701 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Bad Guy](https://open.spotify.com/track/4MNtdN4HlTVQlBBM5fLIQP) | [Sweet Love](https://open.spotify.com/artist/7d9dknRT5j9nng6ACdLCfq) | [Bad Guy](https://open.spotify.com/album/57boUEqytRwqeqtZwBux7r) | 3:00 | 2025-04-10 | 2025-04-25 |
 | [beast](https://open.spotify.com/track/1OSeiaTnrxOyb5zFsCiEIw) | [LALA HAYDEN](https://open.spotify.com/artist/54K6X7R6KvbCryoGE5Dufn) | [viva venus](https://open.spotify.com/album/1iJlcjIoqL9GFY5Gmsf1TE) | 4:07 | 2025-04-10 | 2025-05-02 |
 | [beautiful chaos](https://open.spotify.com/track/3rIHz1wTpUNfpF5VaDsaAz) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [beautiful chaos](https://open.spotify.com/album/7pTdim3GDqoir1ifWjMbzH) | 3:36 | 2025-04-10 | 2025-05-02 |
+| [Beautiful Girl](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 3:21 | 2025-08-21 |  |
 | [BED HEAD](https://open.spotify.com/track/6PRahCQJDYsU4SKWiWvXQh) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [BED HEAD](https://open.spotify.com/album/2UJLclWoaA3eoYrXO7v1cp) | 2:12 | 2025-02-28 | 2025-03-21 |
 | [Bed of Lies](https://open.spotify.com/track/3glCRKuy0fdQGqXbUj0tdp) | [Alice Chater](https://open.spotify.com/artist/6MwwUAN4kN0umzSH7w6y93) | [Bed of Lies](https://open.spotify.com/album/4AyOQC6AMF6er13nsi3Zb4) | 3:19 | 2025-02-07 | 2025-02-28 |
 | [Been A Minute](https://open.spotify.com/track/492y99GG1u1giNjvFC3WiR) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Been A Minute](https://open.spotify.com/album/3thXFp5MbhUtv0C5eCJSHG) | 3:20 | 2025-07-17 | 2025-08-22 |
@@ -343,6 +344,7 @@
 | [If I Die Tomorrow](https://open.spotify.com/track/0ybFLlfjdXg0ZYGceAJEwJ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [If I Die Tomorrow](https://open.spotify.com/album/1gi1gEiZJKXErFBTJ87kqY) | 2:58 | 2025-01-10 | 2025-02-14 |
 | [if i had a wish...](https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS) | [Sloane Monroe](https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ) | [if i had a wish...](https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw) | 2:47 | 2025-06-04 | 2025-07-11 |
 | [If U Leave Me](https://open.spotify.com/track/0bHmHNgoovJqwIeEQDQHr0) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [If U Leave Me](https://open.spotify.com/album/64cNAPlLpI5W4YWv3J2aKh) | 2:27 | 2024-11-22 | 2025-02-07 |
+| [If You Don't Love Me](https://open.spotify.com/track/4bHqv1Jx79ANeHpvLV2HMf) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Middle Child](https://open.spotify.com/album/5KfhyZmRRUfQuiJB1aZVlV) | 2:57 | 2025-08-21 |  |
 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 | 2025-01-17 | 2025-02-28 |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 | 2025-06-06 |
 | [imsochillandcool](https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [imsochillandcool](https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu) | 3:26 | 2024-10-24 | 2025-01-24 |
@@ -656,7 +658,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 8](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 0:00 | 2025-08-21 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [Trust Issues](https://open.spotify.com/track/5TIilhHzXMxkFTfZQk94Mz) | [Rachel Newnham](https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP) | [Trust Issues](https://open.spotify.com/album/4lfCxwDlQ4ZdpDwQyNxbC9) | 2:43 | 2025-05-22 | 2025-06-20 |
 | [Trust U](https://open.spotify.com/track/7JqopONmTj2Wdd4hlCT5a9) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Trust U](https://open.spotify.com/album/78U64z2IRUy1cPv1VAhEfa) | 2:30 | 2024-06-04 | 2024-09-28 |

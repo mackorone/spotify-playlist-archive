@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 
 > ¡Las canciones que ponían a bailar a todo México! Alberto Vázquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,903 likes - 50 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,974 likes - 50 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xLGqpmU1Uv.md) - [plain]
 | 19 | [La Novia de Mi Mejor Amigo \(The Girl of My Best Friend\)](https://open.spotify.com/track/4dXvc8kyze9DQpnV5veD54) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [Antes del Fin del Mundo \- 60's en Español](https://open.spotify.com/album/25t6ChUwqdLVFgvkgmG1jw) | 2:23 |
 | 20 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
 | 21 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:12 |
-| 22 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
-| 23 | [El Mandarín](https://open.spotify.com/track/7hhwuXn2BWOE3hIrfjlVNh) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 3:16 |
+| 22 | [El Mandarín](https://open.spotify.com/track/7hhwuXn2BWOE3hIrfjlVNh) | [Ramon Marquez](https://open.spotify.com/artist/7MBfHtO5xhuBx6qK0mWb4m) | [100% Mexican Groovy: Batalla Estelar](https://open.spotify.com/album/6hdSAnqtrTwNd8yzvlVmRr) | 3:16 |
+| 23 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
 | 24 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |
 | 25 | [Hey Paula \- Dueto con Arturo](https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Peerless 80 Aniversario \- 24 Éxitos](https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q) | 2:35 |
 | 26 | [Popotitos \(Bonie Moroni\)](https://open.spotify.com/track/70dBmROatI6VWV7HoWayte) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Teen Tops](https://open.spotify.com/album/6ZjLs6NxToImf577o8RL8q) | 2:51 |

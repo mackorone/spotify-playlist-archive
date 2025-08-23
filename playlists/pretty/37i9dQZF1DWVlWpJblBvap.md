@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > All of your recent Worship hits in one place!  Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,441 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,062 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 49 | [Your Great Name](https://open.spotify.com/track/5pdYFUzu94cFVCqOFCd3lk) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 6:01 |
 | 50 | [Hallelujah For The Cross \- Live](https://open.spotify.com/track/5F8BAvMlGfsmSEIHEJb5BT) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Hallelujah For The Cross \(Live\)](https://open.spotify.com/album/7gl4xo51W88Hp6PaYuEVOL) | 5:31 |
 
-Snapshot ID: `AAAAAK9ibWPGnvYjMz3AKyhkDep6tiEy`
+Snapshot ID: `AAAAAAvwqflC2c+j2zy2Ghp2/RDpq820`

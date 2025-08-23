@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-692 songs - 1 day 16 hr 42 min
+694 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bachelor Kisses](https://open.spotify.com/track/3RnE0PPErzblWEXZND1NEG) | [The Go\-Betweens](https://open.spotify.com/artist/4HCubdy7diarb4KZo8etrq) | [Spring Hill Fair](https://open.spotify.com/album/4LoBNOutats9DaceI3Brtn) | 3:31 | 2025-04-29 | 2025-05-09 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-22 | 2025-05-09 |
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
+| [Bad Sneakers](https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Katy Lied](https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b) | 3:19 | 2025-08-23 |  |
 | [Bastan Toure](https://open.spotify.com/track/3oapIuKY7pQxuVTFQrb377) | [Bajourou](https://open.spotify.com/artist/3Vwz1qREFaL16HBaiGFNsS) | [Big String Theory](https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ) | 5:48 | 2025-08-20 |  |
 | [Be Good To Them Always](https://open.spotify.com/track/6ZjuwJor7BsyPUUXilxGQE) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 4:51 | 2025-06-22 | 2025-07-04 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 | 2024-07-12 |
@@ -473,6 +474,7 @@
 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 | 2025-02-21 | 2025-03-02 |
 | [Pesce Rosso](https://open.spotify.com/track/6QmQiw7NQG4KPaSYjvgsdJ) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Hamra / Red \(Habibi Funk Limited 002\)](https://open.spotify.com/album/3DGLQlAxBPDtsFfb1112NI) | 2:39 | 2024-07-26 | 2024-09-08 |
 | [Plans Get Complex](https://open.spotify.com/track/5FEzARoBNBiXHMc0zIwVGY) | [All\-Time Quarterback](https://open.spotify.com/artist/6ET8MURTVBf6SYHnBYmtoG) | [All\-Time Quarterback](https://open.spotify.com/album/7sYACgELhBbaWmOihhIBWp) | 2:41 | 2024-05-30 | 2024-07-12 |
+| [Plateau](https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH) | [野口文](https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha) | [藤子](https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp) | 4:22 | 2025-08-22 |  |
 | [Please Stand By](https://open.spotify.com/track/4fD3AMQTVRLuil3SKDKaVv) | [The Shivvers](https://open.spotify.com/artist/2s3zHhJ18IqSPNfOKb5Ip6) | [Lost Hits From Milwaukee's First Family Of Powerpop 1979\-82](https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI) | 3:14 | 2025-02-22 | 2025-03-02 |
 | [POKKA POKKA](https://open.spotify.com/track/2diC2THH55uAw4GGpZQjwn) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [宇宙 日本 世田谷](https://open.spotify.com/album/0hUfv1cSXNaBZ6dHKGluEy) | 4:04 | 2024-01-24 | 2024-03-10 |
 | [Polynesia](https://open.spotify.com/track/1kRSfl02tYqUkyNuAuStDC) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [Long Journey](https://open.spotify.com/album/3jqLDxYTcxRXOWIL6UcquW) | 2:23 | 2025-04-04 | 2025-05-09 |
@@ -655,7 +657,7 @@
 | [Vanity Shapes](https://open.spotify.com/track/79CpR9McKQMbGJvcoKGHtv) | [The Convenience](https://open.spotify.com/artist/2PKfkrNktahdkVFB47NjGv) | [Like Cartoon Vampires](https://open.spotify.com/album/2A2py4eAMFQCUdvuY22Bum) | 1:58 | 2025-05-08 | 2025-07-04 |
 | [Vincent](https://open.spotify.com/track/0VNzEY1G4GLqcNx5qaaTl6) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [American Pie](https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS) | 4:03 | 2024-12-28 | 2025-01-12 |
 | [Virtual You](https://open.spotify.com/track/5TAlGe3sXWSYHuVEbrwN2W) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Virtual You](https://open.spotify.com/album/4qgvcFgjKdcLQRcgd12DNo) | 2:08 | 2024-09-07 | 2024-11-14 |
-| [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 | 2025-08-17 |  |
+| [Voices \(From "The Beach"\)](https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunmachine](https://open.spotify.com/album/6uJ1r53qcGH1oEWrHKf7dp) | 5:19 | 2025-08-17 | 2025-08-23 |
 | [Walkin'](https://open.spotify.com/track/2Ll9VtmKPqyA09NnNEO6r7) | [Patti Whipp](https://open.spotify.com/artist/5eZRV1fHID81uBDkgQbofh) | [Walkin' b/w It's Gone](https://open.spotify.com/album/0zrnvbumoAzMEUHRbfNBwN) | 2:34 | 2024-03-09 | 2024-05-16 |
 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 | 2025-04-20 | 2025-05-09 |
 | [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 | 2025-06-14 | 2025-07-04 |

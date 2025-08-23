@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: KI/KI & Marlon Hoffstadt
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,575 likes - 42 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,629 likes - 42 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

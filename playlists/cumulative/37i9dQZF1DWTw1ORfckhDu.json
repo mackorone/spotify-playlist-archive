@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-04",
+      "date_removed": null,
       "duration_ms": 178339,
       "name": "Diana",
       "url": "https://open.spotify.com/track/19LWPpXTX49k1KANJ46ydb"
@@ -7600,7 +7600,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 113273,
       "name": "KUKA MUU",
       "url": "https://open.spotify.com/track/33k914iNfzz0cG6BZxCtkp"
@@ -7724,10 +7724,28 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 166211,
       "name": "Kukkulan kunkku (feat. Turisti)",
       "url": "https://open.spotify.com/track/2kvDmllGIEDtWdNx6QucGx"
+    },
+    {
+      "album": {
+        "name": "Kummitusjuna",
+        "url": "https://open.spotify.com/album/7Ksj2Y1jfGypo7fzHWG3IX"
+      },
+      "artists": [
+        {
+          "name": "Nikke Ankara",
+          "url": "https://open.spotify.com/artist/2E5rkwWAKphgpurncaoAyn"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176759,
+      "name": "Kummitusjuna",
+      "url": "https://open.spotify.com/track/1XtpCzueUZM4hDd5gpi0nB"
     },
     {
       "album": {
@@ -10820,6 +10838,24 @@
       "duration_ms": 136800,
       "name": "Mowgli",
       "url": "https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC"
+    },
+    {
+      "album": {
+        "name": "MRR",
+        "url": "https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9"
+      },
+      "artists": [
+        {
+          "name": "M//O",
+          "url": "https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111593,
+      "name": "MRR",
+      "url": "https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ"
     },
     {
       "album": {
@@ -14532,7 +14568,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 174667,
       "name": "Sata Enkelii",
       "url": "https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq"
@@ -17526,6 +17562,28 @@
       "duration_ms": 173878,
       "name": "Ty\u00f6myyr\u00e4",
       "url": "https://open.spotify.com/track/00uAMYwz6MZ0g2o4AeFTgw"
+    },
+    {
+      "album": {
+        "name": "T\u00e4hdet",
+        "url": "https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        },
+        {
+          "name": "Behm",
+          "url": "https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195194,
+      "name": "T\u00e4hdet",
+      "url": "https://open.spotify.com/track/3ARgFb4seYmgDDPQjokiaQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 
 > quando a quest'ora dovevi essere già in spiaggia con un drink in mano \(ง •̀\_•́\)ง
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,831 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,800 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gGGog0N2Tu.md) - [plain]
 | 82 | [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 |
 | 83 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 |
 | 84 | [Only Girl \(In The World\)](https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 3:55 |
-| 85 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
-| 86 | [En nuit](https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:41 |
+| 85 | [En nuit](https://open.spotify.com/track/2TnfUjv4rwqskSHCj4NY7b) | [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Euphories](https://open.spotify.com/album/1WfIjwnJ0aHiWCSkeSSeuV) | 3:41 |
+| 86 | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/track/6LAE0cwzbk9Gr1uexKnA2B) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [PA QUE LO BAILES \(BAILALO ROCKY\)](https://open.spotify.com/album/7tVOXoCZ8ijQRRE4FsSRoS) | 2:05 |
 | 87 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 |
 | 88 | [No lo sé](https://open.spotify.com/track/7CVQNimiTPLHTu4ZM7pv7s) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/6peJVbUHOoIA7mAzUmQypA) | 2:45 |
 | 89 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 |

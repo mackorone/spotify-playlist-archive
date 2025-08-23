@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Yana
 
-530 songs - 1 day 6 hr 1 min
+531 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,6 +494,7 @@
 | [Waiting Here](https://open.spotify.com/track/010K4ydIvyrxXWbt7gGvzZ) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Waiting Here \(Remixes\)](https://open.spotify.com/album/6VnXIm4oiQoiRVjSCypRJo) | 3:54 | 2022-03-12 | 2022-08-17 |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-11-12 | 2022-07-29 |
 | [War In Your Arms](https://open.spotify.com/track/2EFy7yp659dID3X1TVbdfq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:35 | 2022-03-12 | 2022-08-20 |
+| [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 | 2025-08-22 |  |
 | [Waterfall](https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Waterfall](https://open.spotify.com/album/2pOfoFlDHQ7YO9YorMzeLF) | 3:32 | 2022-02-21 | 2022-07-29 |
 | [Waterfall](https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:32 | 2022-03-12 | 2023-11-23 |
 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 | 2022-08-19 | 2024-03-29 |

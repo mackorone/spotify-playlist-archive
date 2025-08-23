@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,174 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,173 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,16 +36,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 26 | [Empty With You](https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork](https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI) | 3:23 |
 | 27 | [Earthquake](https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 3:29 |
 | 28 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
-| 29 | [Sisyphus](https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:59 |
-| 30 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 |
+| 29 | [Paradise Lost, a poem by John Milton](https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:47 |
+| 30 | [Sisyphus](https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:59 |
 | 31 | [Liar Liar \(Burn in Hell\)](https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:52 |
 | 32 | [The Worst I've Ever Been](https://open.spotify.com/track/4MxBcnUAE1Vx0Y1WLBgw8j) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:50 |
-| 33 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 |
-| 34 | [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 |
+| 33 | [Burning Down the House](https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Transformers: Revenge Of The Fallen The Album](https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn) | 3:39 |
+| 34 | [Terrified](https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:03 |
 | 35 | [Over and Over Again](https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Canyon](https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe) | 5:14 |
 | 36 | [Revolution](https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 4:04 |
-| 37 | [Before I Leave](https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:17 |
-| 38 | [Choke Me](https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 2:00 |
+| 37 | [Choke Me](https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Shallow Believer](https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU) | 2:00 |
+| 38 | [Before I Leave](https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 3:17 |
 | 39 | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 40 | [I Hate Everybody](https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:48 |
 | 41 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 49 | [Blow Me](https://open.spotify.com/track/1vS7jjy99wfMVVC9nzZtX1) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 3:20 |
 | 50 | [I Come Alive](https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:16 |
 
-Snapshot ID: `aKO+gAAAAAD0k7b+uVAPSouqckXKJUfI`
+Snapshot ID: `aKZhgAAAAAB3XJYuc8vITY8+iokYoI3+`

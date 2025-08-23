@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무 & 공부시간을 보내세요!\)
 
-1,081 songs - 2 day 11 hr 39 min
+1,082 songs - 2 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,7 +845,7 @@
 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-27 | 2024-10-26 |
 | [Snapping](https://open.spotify.com/track/4IOxk5ep5ONrdlL0ZIy64v) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 3:33 | 2022-07-08 | 2023-03-29 |
 | [Snapping](https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh) | 3:33 | 2021-11-17 | 2022-07-27 |
-| [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-08-12 |  |
+| [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 | 2022-08-12 | 2025-08-23 |
 | [Snowy Summer](https://open.spotify.com/track/54zyXasoWKZAYt43c8GQvd) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [Snowy Summer](https://open.spotify.com/album/7eM9aYuP3VOnxRAPz9aGuN) | 2:57 | 2025-07-18 |  |
 | [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 | 2021-11-17 | 2025-08-19 |
 | [So Hot](https://open.spotify.com/track/6ZizEG2wtzeHrgKEv1eBmD) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/31FkCs7l3VVYbapFtIjfYe) | 3:01 | 2022-03-24 | 2022-06-20 |
@@ -1012,6 +1012,7 @@
 | [What is Love?](https://open.spotify.com/track/5m95gCTAiHshTaajznt5fA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [What is Love?](https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj) | 3:28 | 2021-11-17 | 2022-07-29 |
 | [What The Flower](https://open.spotify.com/track/3uVqwK7jRfNb04b5i4hJqT) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [TAIL](https://open.spotify.com/album/6N8gHTBafJrVn0tcn9AKqz) | 3:25 | 2021-11-17 | 2022-07-24 |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-11-17 | 2023-08-25 |
+| [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2025-08-21 |  |
 | [WHAT'S GOIN' ON](https://open.spotify.com/track/5RYFLurX0Vg85bgnClS6im) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Single Album \[WHAT'S GOIN' ON\]](https://open.spotify.com/album/0DYLNTiiA03sjrXPHDaU7z) | 3:11 | 2022-02-16 | 2022-07-19 |
 | [WHEN I MOVE](https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [MOVE AGAIN](https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk) | 2:58 | 2022-12-01 | 2023-11-03 |
 | [Whiplash](https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Whiplash \- The 5th Mini Album](https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx) | 3:03 | 2024-11-21 |  |

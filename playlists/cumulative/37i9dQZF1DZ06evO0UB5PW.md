@@ -4,7 +4,7 @@
 
 > This is Mastodon\. The essential tracks, all in one playlist.
 
-78 songs - 6 hr 41 min
+80 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Cold Dark Place](https://open.spotify.com/track/23CIAx7uGrtUH5CwRf3BC5) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Cold Dark Place](https://open.spotify.com/album/6uSD9SU0j8xgQAIxzPg0Fv) | 5:59 | 2022-05-30 | 2022-12-21 |
 | [Colony of Birchmen](https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 4:19 | 2022-05-30 |  |
 | [Crack the Skye](https://open.spotify.com/track/4nwwFLQqopxAL0g2L0Fg0B) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:54 | 2022-05-30 |  |
+| [Crusher Destroyer](https://open.spotify.com/track/46xkUxIP9eWmQcYh42b2Bm) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 2:00 | 2025-08-23 |  |
 | [Crusher Destroyer](https://open.spotify.com/track/6eULdK9eyByYgMpqH1lBeF) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 2:01 | 2022-05-30 | 2023-12-17 |
 | [Crystal Skull](https://open.spotify.com/track/6H6jikiotP4Ygv5oxPGPDW) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:24 | 2022-05-30 |  |
 | [Curl of the Burl](https://open.spotify.com/track/7hUKxjrojKK6r4wiO3G9iU) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7GHaFBpmPwSAWaw4rHhVyF) | 3:40 | 2022-05-30 |  |
@@ -43,6 +44,7 @@
 | [Jaguar God](https://open.spotify.com/track/7lGOFEVWK0jzpLMFuR4ANh) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 7:56 | 2022-05-30 | 2023-02-01 |
 | [Joseph Merrick \- Instrumental](https://open.spotify.com/track/10DrDEatayhTM9dx9FIHSF) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:33 | 2022-05-30 | 2022-10-12 |
 | [March of the Fire Ants](https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 4:25 | 2022-05-30 | 2024-10-14 |
+| [March of the Fire Ants](https://open.spotify.com/track/1KcVOoLXfpbadmBz0HkJ1r) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission](https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA) | 4:25 | 2025-08-23 |  |
 | [Megalodon](https://open.spotify.com/track/1rLDTmI8quVUsGy9mzrXBx) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 4:22 | 2022-05-30 |  |
 | [More Than I Could Chew](https://open.spotify.com/track/50cqylMZEIcdJu3XDm1Tro) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 6:51 | 2022-05-30 |  |
 | [Mother Puncher](https://open.spotify.com/track/0mMi2FQIfXbHb8SilRoX8R) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Remission \(Reissue\)](https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL) | 3:50 | 2022-05-30 | 2024-01-04 |
@@ -67,7 +69,7 @@
 | [Sleeping Giant](https://open.spotify.com/track/1Ph2EtzV2wW7I4AC2YjoJn) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:36 | 2022-05-30 |  |
 | [Spectrelight](https://open.spotify.com/track/1MTuSPR63Sm149T8vgE8xF) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 3:09 | 2024-12-03 | 2024-12-13 |
 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 | 2022-05-30 |  |
-| [Stargasm](https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 4:39 | 2022-05-30 |  |
+| [Stargasm](https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter](https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1) | 4:39 | 2022-05-30 | 2025-08-23 |
 | [Steambreather](https://open.spotify.com/track/4Ut80ggQbyiJN2pGCs7VfB) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 5:03 | 2022-05-30 |  |
 | [Sultan's Curse](https://open.spotify.com/track/4X5g2t99BTuLQIRdjGw1Fn) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Emperor of Sand](https://open.spotify.com/album/1VzmKgEG38fsUBZVe15wuF) | 4:09 | 2022-05-30 |  |
 | [Teardrinker](https://open.spotify.com/track/7z7A9g6N2prBVa0baThmGq) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Hushed and Grim](https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC) | 5:20 | 2022-05-30 |  |
@@ -79,7 +81,7 @@
 | [The Last Baron](https://open.spotify.com/track/6MUc3qu8WOqO7hAY6gdhJY) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 13:00 | 2022-05-30 | 2025-01-04 |
 | [The Last Baron \- 2024 Remaster](https://open.spotify.com/track/6Gj3tMveDFCMrfcudyvLgB) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye \(15th Anniversary Deluxe Edition\)](https://open.spotify.com/album/22BMsIMHQ5TayHOJvjF4y4) | 12:59 | 2024-10-11 | 2024-11-16 |
 | [The Motherload](https://open.spotify.com/track/6EF0xhfKtQNqUPz2mnE5BD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:59 | 2022-05-30 |  |
-| [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 | 2022-05-30 |  |
+| [The Sparrow](https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [The Hunter \(Deluxe\)](https://open.spotify.com/album/7lObP1GanG65wToWzufQtq) | 5:30 | 2022-05-30 | 2025-08-23 |
 | [The Wolf Is Loose](https://open.spotify.com/track/4mYpmNDyJv3HEl22hfrDnL) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 3:34 | 2022-05-30 |  |
 | [This Mortal Soil](https://open.spotify.com/track/2dqT4WPOLNm9wIRFOAMTLl) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Blood Mountain](https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe) | 5:00 | 2022-05-30 | 2023-08-17 |
 | [Toe to Toes](https://open.spotify.com/track/7ppgV0Y4cDjNWFtNYmRzsD) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Toe to Toes](https://open.spotify.com/album/0u1dWanZBy4vkzZnLJZmZ3) | 4:29 | 2022-05-30 |  |

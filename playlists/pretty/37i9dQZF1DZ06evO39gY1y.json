@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 246199,
+  "num_followers": 246240,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAA8qL+x/bmsCLAOwl7UP5UN",
+  "snapshot_id": "aKZhgAAAAABZwbkH7w+6GizcylZoxU/4",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Gordo Fu",
+          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
+        }
+      ],
+      "duration_ms": 224733,
+      "name": "A Paso Lento",
+      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Inmensidades",
         "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 231416,
       "name": "Lumbre",
       "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Gordo Fu",
-          "url": "https://open.spotify.com/artist/23bGjptdJUtlOgewyvds6g"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "A Paso Lento",
-      "url": "https://open.spotify.com/track/5fUkzmm6HnPDDZKwnQcNUG"
     },
     {
       "added_at": null,
@@ -647,30 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "Ms. Ambar",
-          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
-        }
-      ],
-      "duration_ms": 174230,
-      "name": "Me Toca Perder",
-      "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
       },
@@ -691,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olvidemos el Reloj",
-        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
       "artists": [
         {
@@ -700,13 +676,17 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         },
         {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Ms. Ambar",
+          "url": "https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA"
         }
       ],
-      "duration_ms": 232947,
-      "name": "Olvidemos el Reloj",
-      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+      "duration_ms": 174230,
+      "name": "Me Toca Perder",
+      "url": "https://open.spotify.com/track/3Ggt6nM1vKeTM0sy2xnNm5"
     },
     {
       "added_at": null,
@@ -755,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olvidemos el Reloj",
+        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Olvidemos el Reloj",
+      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ynlpa",
         "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "400 Estrellas",
         "url": "https://open.spotify.com/album/64jUlMiRacXh6dgXaA4Zfr"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 223875,
       "name": "400 Estrellas",
       "url": "https://open.spotify.com/track/7KoRTkn1EfYjEdmo0GbUOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "duration_ms": 166499,
+      "name": "La Que Se Fue",
+      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 256799,
       "name": "Naranja a Morado",
       "url": "https://open.spotify.com/track/3CcUQabK3Vn0RUjZI7lfPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/1WXcLpnA8CXFXpHM9Yuz26"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Nunca Jamas",
-          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
-        }
-      ],
-      "duration_ms": 166499,
-      "name": "La Que Se Fue",
-      "url": "https://open.spotify.com/track/0CTaaPUheCCdynjsZhhwlB"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cada Vez",
-        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
       },
       "artists": [
         {
-          "name": "Desert Ni\u00f1os",
-          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
-        },
-        {
           "name": "Charles Ans",
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Cada Vez",
-      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": null,
@@ -987,22 +987,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+        "name": "Cada Vez",
+        "url": "https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Desert Ni\u00f1os",
+          "url": "https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD"
         },
         {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+      "duration_ms": 207000,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt"
     },
     {
       "added_at": null,

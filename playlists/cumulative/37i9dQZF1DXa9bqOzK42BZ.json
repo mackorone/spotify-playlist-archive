@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Bora Upo",
+        "url": "https://open.spotify.com/album/3unMarKtjiBxZr12Ul8vzY"
+      },
+      "artists": [
+        {
+          "name": "J blessing",
+          "url": "https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr"
+        },
+        {
+          "name": "Kambua",
+          "url": "https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "Bora Upo",
+      "url": "https://open.spotify.com/track/2jn50Zl0Iwu4SyPueV8ujt"
+    },
+    {
+      "album": {
         "name": "Breaking News (UFO)",
         "url": "https://open.spotify.com/album/1YtAG0djosPWZRQAHYusih"
       },
@@ -1024,6 +1046,24 @@
       "duration_ms": 260911,
       "name": "Golgota",
       "url": "https://open.spotify.com/track/4SPIhLjAjyOOqeZxpZHQ6u"
+    },
+    {
+      "album": {
+        "name": "Gusa",
+        "url": "https://open.spotify.com/album/4QlzmI3pPgrvF0cQfxA1ok"
+      },
+      "artists": [
+        {
+          "name": "Rose Kumenya",
+          "url": "https://open.spotify.com/artist/5epA6i4sh4yGgf8E0Jk8pQ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464133,
+      "name": "Gusa",
+      "url": "https://open.spotify.com/track/07WihVXFDlPnDqsF9LnuSU"
     },
     {
       "album": {
@@ -2332,7 +2372,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 184868,
       "name": "Mungu Tu",
       "url": "https://open.spotify.com/track/3eT8tmuQVnKdB2X5KJn6KD"
@@ -3725,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "Sifa Ziko Juu",
+        "url": "https://open.spotify.com/album/7G4JY0qlOoTkAugC3BaeKL"
+      },
+      "artists": [
+        {
+          "name": "Neo Elani",
+          "url": "https://open.spotify.com/artist/7kl0ORDAUsmnGAN1LWGUM4"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475077,
+      "name": "Sifa Ziko Juu",
+      "url": "https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m"
+    },
+    {
+      "album": {
         "name": "SIJAI KUWA MSOTO (Racing Thoughts)",
         "url": "https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G"
       },
@@ -4062,7 +4120,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 217931,
       "name": "Tamu Sana",
       "url": "https://open.spotify.com/track/5jo5vHtj53dSNMa338hsep"
@@ -4980,7 +5038,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 272008,
       "name": "Yamekwisha",
       "url": "https://open.spotify.com/track/3fanFHEVq7NpudvP1LizRe"

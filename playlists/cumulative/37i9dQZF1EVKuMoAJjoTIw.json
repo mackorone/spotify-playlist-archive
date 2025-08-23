@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY7CvPxC9irc>Ruth B.</a>, <a href=spotify:playlist:37i9dQZF1EIVmkna7DTk3K>Alan Walker</a>, <a href=spotify:playlist:37i9dQZF1EIYHN50xjk7mx>Isabel Pantoja</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVU55XrEPhol>Juicy Luicy</a>, <a href=spotify:playlist:37i9dQZF1EIWQ7iXYvVC5w>Pritam</a>, <a href=spotify:playlist:37i9dQZF1EIUVlFX4mvh7V>Placebo</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 325466,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
@@ -3886,7 +3886,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 179080,
       "name": "Get You The Moon (feat. Sn\u00f8w)",
       "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
@@ -5855,6 +5855,28 @@
     },
     {
       "album": {
+        "name": "Chhichhore",
+        "url": "https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Khairiyat (Bonus Track)",
+      "url": "https://open.spotify.com/track/3oM90C4SZLYzVZJEZD5EQk"
+    },
+    {
+      "album": {
         "name": "My Liver Will Handle What My Heart Can't",
         "url": "https://open.spotify.com/album/2VrpzWjnsiELWKXOJAFhme"
       },
@@ -6344,7 +6366,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 242652,
       "name": "listen before i go",
       "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE"
@@ -7078,7 +7100,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 244137,
       "name": "Mati-Matian",
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
@@ -7962,7 +7984,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 153718,
       "name": "Not You",
       "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
@@ -9813,6 +9835,24 @@
     },
     {
       "album": {
+        "name": "Meds",
+        "url": "https://open.spotify.com/album/4rIT7o85FQB2KfTMMT4Pj0"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216186,
+      "name": "Song to Say Goodbye",
+      "url": "https://open.spotify.com/track/6Vkn98iI3sfATzdacZ307z"
+    },
+    {
+      "album": {
         "name": "hopeless fountain kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0"
       },
@@ -10156,7 +10196,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 219453,
       "name": "Superficial Love - Single Version",
       "url": "https://open.spotify.com/track/4sxssJY6nbqDHnsgZPkRZW"
@@ -10491,6 +10531,24 @@
     },
     {
       "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278667,
+      "name": "Terlalu Tinggi",
+      "url": "https://open.spotify.com/track/4GHzE0rDsSkbj6V6UXZTLc"
+    },
+    {
+      "album": {
         "name": "all the things i never said",
         "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
@@ -10808,7 +10866,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"

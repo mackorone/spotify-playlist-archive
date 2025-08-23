@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,764 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,802 likes - 69 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 33 | [Swan Lake Story, Op\. 1](https://open.spotify.com/track/0xnJfH95YdS540hYkQK0qU) | [W CELLO](https://open.spotify.com/artist/3qEFluoXwyiaw2Du5gUrpd), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Swan Lake Story](https://open.spotify.com/album/4xV5TH4Vr5ujQadhFpoxNU) | 2:50 |
 | 34 | [What If](https://open.spotify.com/track/7vXfjSymSmza9Boy5pUedX) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [Transcend](https://open.spotify.com/album/48TZuG4b6WDgNJgvM2IEI1) | 3:32 |
 | 35 | [You Will Never Walk Alone \- Glowworm Rework](https://open.spotify.com/track/1mR4Q4RBnZ7fBFStLKIbVG) | [Maciej Sadowski](https://open.spotify.com/artist/5NtUG4lcabgbge5bNJoX1J), [Glowworm](https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw) | [You Will Never Walk Alone \(Glowworm Rework\)](https://open.spotify.com/album/1KGcUdZHX9AQV7WpfcEwtM) | 3:53 |
-| 36 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
-| 37 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
+| 36 | [How Time Works](https://open.spotify.com/track/4xqfOnP7Mue9j5JJVfLFyh) | [Eric Carlson](https://open.spotify.com/artist/3rBIitlyjzAPUDj80fM3TE) | [How Time Works](https://open.spotify.com/album/70cJVjIxPDkseZhzGy5kkE) | 3:45 |
+| 37 | [The House with a View](https://open.spotify.com/track/5NgZtc9b3TFDtdtKYT5YAV) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [The House with a View](https://open.spotify.com/album/36G6cLrEniO07qHgkLflTX) | 2:21 |
 | 38 | [Adventure](https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic) | [Mahmoud Valanejad](https://open.spotify.com/artist/4qCb7k3NdlqIqh0fXl2Kor) | [Adventure](https://open.spotify.com/album/5AuYjfOuvm2mcAoJiQV0Sn) | 3:42 |
 | 39 | [A Winter's Tale](https://open.spotify.com/track/40Vn1ZHFzVdtTYLJ4huCfa) | [Malin Eriksson](https://open.spotify.com/artist/43yDuFWdDwDW8hDwjfAxUU) | [Words Left Unspoken](https://open.spotify.com/album/4P09SKvRAbJhBrNwDv7ABc) | 2:45 |
 | 40 | [Be Here Now](https://open.spotify.com/track/6FC7o2qC7oU1Aa6qJAnptQ) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Be Here Now](https://open.spotify.com/album/5uXs3lwuibE9vUFisIoGmH) | 2:16 |
@@ -74,7 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 64 | [EGUZKIA GALDU](https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [EGUZKIA GALDU](https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv) | 2:41 |
 | 65 | [Calm Water](https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l) | 4:20 |
 | 66 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 |
-| 67 | [Composite 03](https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU) | 3:43 |
-| 68 | [Procyon](https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Procyon](https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X) | 3:06 |
+| 67 | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3) | 2:33 |
+| 68 | [Composite 03](https://open.spotify.com/track/33s1LqCz2TSaiSpcqdffu5) | [Thrupence](https://open.spotify.com/artist/33WEbJHirq23bohapH3pI9), [Josh Hooke](https://open.spotify.com/artist/1X0yIDVrFaFeYmAqp0ETUj), [Jack Vanzet](https://open.spotify.com/artist/3Q4bHGAfG5KexzVaWE4fnf) | [Composites](https://open.spotify.com/album/1GgxB4FcIhKrnrbG5qfVrU) | 3:43 |
+| 69 | [Procyon](https://open.spotify.com/track/35m2vXqGKnKrJZLIq36HQ2) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Procyon](https://open.spotify.com/album/3rJky4N4dLDxv6CkB1zC4X) | 3:06 |
 
-Snapshot ID: `AAAAAOqHJUjWqDTrrmeH7/PJtjRat7Zn`
+Snapshot ID: `AAAAAGLvOxDkxkYPxrRVcOObcED2XsRz`

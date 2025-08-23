@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The best indie tracks of the moment\. Cover: Mac Demarco
+> The best indie tracks of the moment\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,714 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,733 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 4 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
 | 5 | [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 |
 | 6 | [In My Pocket](https://open.spotify.com/track/1gE0tC5gvbVQeYezwbnacb) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [In My Pocket](https://open.spotify.com/album/50qvHvf9UAWFckNJcRwFWv) | 3:58 |
-| 7 | [Too Loud \(feat\. Phantogram\)](https://open.spotify.com/track/1KyLeMC2u5BboI2Il5B59a) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Too Loud \(feat\. Phantogram\)](https://open.spotify.com/album/3nvBtn93xogbmzrl72QUOE) | 2:50 |
+| 7 | [Too Loud \(feat\. Phantogram\)](https://open.spotify.com/track/1KyLeMC2u5BboI2Il5B59a) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Too Loud](https://open.spotify.com/album/3nvBtn93xogbmzrl72QUOE) | 2:50 |
 | 8 | [Bitter Everyday](https://open.spotify.com/track/3NGXSH11dlimo9JWJwLaEg) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bitter Everyday](https://open.spotify.com/album/2c6cvFXz3fANNgXuuqtlHs) | 3:21 |
 | 9 | [Lesbian Of The Year](https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Lesbian Of The Year](https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW) | 3:33 |
 | 10 | [Feel Free](https://open.spotify.com/track/6zZdi6KymzSZDKpN7gX35N) | [Jeff Tweedy](https://open.spotify.com/artist/2rDxtYUzTAYJJE3Bl3Z5IN) | [Feel Free](https://open.spotify.com/album/6X9IEDdGvvwfXLTJVfRG0m) | 7:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Deadhead](https://open.spotify.com/track/7ugxl8IReO7q4ppcvM6e9d) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Deadhead](https://open.spotify.com/album/5U6isFPLroc6yUiX2mGszR) | 3:32 |
 | 100 | [9 2 5](https://open.spotify.com/track/4zz49nB3rFzVPrEQmwuSrU) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [9 2 5](https://open.spotify.com/album/1rLn3XFLdBGMkYThRRGtdF) | 4:29 |
 
-Snapshot ID: `AAAAAPwyo1uweBRg/YB1Jv38T6+Ramcd`
+Snapshot ID: `AAAAALg0eSqzg3B/xCpOsDIfUfbPwW7o`

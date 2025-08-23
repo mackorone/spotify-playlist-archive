@@ -1584,6 +1584,24 @@
     {
       "album": {
         "name": "Pink Cadillac",
+        "url": "https://open.spotify.com/album/3HeqMhX52CgQbiLozSehtu"
+      },
+      "artists": [
+        {
+          "name": "Mags Duval",
+          "url": "https://open.spotify.com/artist/7epku2Ukk67TDYWYyCOAz0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208851,
+      "name": "Pink Cadillac",
+      "url": "https://open.spotify.com/track/2W3PyvVjEin1abo9O1iiai"
+    },
+    {
+      "album": {
+        "name": "Pink Cadillac",
         "url": "https://open.spotify.com/album/4ZnEbHYgAYhq2yyZbyRuH3"
       },
       "artists": [
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 208851,
       "name": "Pink Cadillac",
       "url": "https://open.spotify.com/track/5VPLhwxEQ2p6phOQLlUWO9"

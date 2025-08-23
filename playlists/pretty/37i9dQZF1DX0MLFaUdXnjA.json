@@ -1,13 +1,29 @@
 {
-  "description": "Sit back and relax to the chillest pop.  Cover: Olivia Dean",
-  "num_followers": 1836725,
+  "description": "Sit back and relax to the chillest pop.  Cover: Ruel",
+  "num_followers": 1836576,
   "original_name": "Chill Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK793CmnB3qB2vgK1CRnsOoljxj0",
+  "snapshot_id": "AAAAANQ1G3G4Bj6T+5yfDc0kg4jS1woO",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "The Suburbs",
+        "url": "https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 188712,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX"
+    },
     {
       "added_at": "2025-08-15 04:00:21",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 302408,
+      "name": "canal street",
+      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
     },
     {
       "added_at": "2025-07-11 04:00:17",
@@ -41,6 +73,54 @@
       "url": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl"
     },
     {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Sienna",
+      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
+    },
+    {
+      "added_at": "2025-03-18 21:44:08",
+      "album": {
+        "name": "Ordinary",
+        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mr. Eclectic",
+      "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
+    },
+    {
       "added_at": "2025-08-14 14:49:57",
       "album": {
         "name": "Time After Time (Spotify Singles)",
@@ -55,6 +135,22 @@
       "duration_ms": 219648,
       "name": "Time After Time - Spotify Singles",
       "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "i don\u2019t know you",
+      "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
     },
     {
       "added_at": "2025-08-01 04:00:27",
@@ -75,6 +171,38 @@
       "duration_ms": 199923,
       "name": "L.O.V.E.U (feat. hannah bahng)",
       "url": "https://open.spotify.com/track/1fdJovNYzsGgh7jv4qBckQ"
+    },
+    {
+      "added_at": "2025-07-11 10:13:40",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-08-08 04:00:36",
+      "album": {
+        "name": "WANTCHU",
+        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 199896,
+      "name": "WANTCHU",
+      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
     },
     {
       "added_at": "2025-08-15 04:00:21",
@@ -109,20 +237,20 @@
       "url": "https://open.spotify.com/track/45mmAFhB2L79faaul6n8If"
     },
     {
-      "added_at": "2025-07-11 10:13:40",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "puffette",
+        "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
         }
       ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+      "duration_ms": 147322,
+      "name": "silly nature",
+      "url": "https://open.spotify.com/track/39TQI4MMElmwhA0f07apQ8"
     },
     {
       "added_at": "2025-04-28 13:34:33",
@@ -157,6 +285,38 @@
       "url": "https://open.spotify.com/track/6vQnaQLxQf58F3LE0lw2mp"
     },
     {
+      "added_at": "2025-05-30 04:00:31",
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
+    },
+    {
+      "added_at": "2025-08-08 04:00:36",
+      "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz"
+      },
+      "artists": [
+        {
+          "name": "Romy Mars",
+          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
+    },
+    {
       "added_at": "2025-08-15 04:00:21",
       "album": {
         "name": "It\u2019s Alright",
@@ -173,20 +333,20 @@
       "url": "https://open.spotify.com/track/22DGRiZNdwcDyi6xSTaLvR"
     },
     {
-      "added_at": "2025-08-08 04:00:36",
+      "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "WANTCHU",
-        "url": "https://open.spotify.com/album/3X3j61g2QBXl8qcq4DsSbI"
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/4grlELiV0hN4MrIOtc1bBd"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Devin Kennedy",
+          "url": "https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z"
         }
       ],
-      "duration_ms": 199896,
-      "name": "WANTCHU",
-      "url": "https://open.spotify.com/track/0XWf8CRB6IptewumZDi5b6"
+      "duration_ms": 166827,
+      "name": "All Because I Love Someone",
+      "url": "https://open.spotify.com/track/0lZTgTF7FnFiHHokJNIcak"
     },
     {
       "added_at": "2025-08-15 04:00:21",
@@ -235,22 +395,6 @@
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2025-08-08 04:00:36",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz"
-      },
-      "artists": [
-        {
-          "name": "Romy Mars",
-          "url": "https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl"
     },
     {
       "added_at": "2025-08-01 04:00:27",
@@ -331,22 +475,6 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN"
-    },
-    {
-      "added_at": "2025-03-18 21:44:08",
-      "album": {
-        "name": "Ordinary",
-        "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
       "added_at": "2025-08-15 04:00:21",
@@ -443,22 +571,6 @@
       "duration_ms": 196260,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
-        "name": "weren't for the wind",
-        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
       "added_at": "2025-03-21 04:46:31",
@@ -635,30 +747,6 @@
       "duration_ms": 194760,
       "name": "GO BABY",
       "url": "https://open.spotify.com/track/01p5urrGw5fuFCcfT7PBgc"
-    },
-    {
-      "added_at": "2025-07-25 04:01:00",
-      "album": {
-        "name": "Almost (w/ HONGJOONG of ATEEZ)",
-        "url": "https://open.spotify.com/album/3Jf9g6fJ0vSqXMy0r5Y0Jp"
-      },
-      "artists": [
-        {
-          "name": "Bradley Simpson",
-          "url": "https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE"
-        },
-        {
-          "name": "Hongjoong of ATEEZ",
-          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
-        },
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 196362,
-      "name": "Almost - w/ HONGJOONG of ATEEZ",
-      "url": "https://open.spotify.com/track/3kkuFELHNPjQKvoh3DxQf4"
     },
     {
       "added_at": "2025-08-01 04:00:27",
@@ -1205,38 +1293,6 @@
       "url": "https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3"
     },
     {
-      "added_at": "2025-06-27 04:00:42",
-      "album": {
-        "name": "talk",
-        "url": "https://open.spotify.com/album/1v5MxGxLHcJEMlA6N67bqx"
-      },
-      "artists": [
-        {
-          "name": "The Two Lips",
-          "url": "https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50"
-        }
-      ],
-      "duration_ms": 160407,
-      "name": "talk",
-      "url": "https://open.spotify.com/track/5kTHoxckjY24DWgIX6mnNR"
-    },
-    {
-      "added_at": "2025-06-27 04:00:42",
-      "album": {
-        "name": "Bye Bye Baby",
-        "url": "https://open.spotify.com/album/6g4GDgPbbmvNfHxnfOLz43"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 201913,
-      "name": "Bye Bye Baby",
-      "url": "https://open.spotify.com/track/4OhHrtiU7JIPhOJBVlBTgP"
-    },
-    {
       "added_at": "2025-06-24 03:22:41",
       "album": {
         "name": "The Promise",
@@ -1321,22 +1377,6 @@
       "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
     },
     {
-      "added_at": "2025-06-27 04:00:42",
-      "album": {
-        "name": "Somethin\u2019 Bout A Beer",
-        "url": "https://open.spotify.com/album/2P0jFtw0wN8BIu2O2FQsKA"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Somethin\u2019 Bout A Beer",
-      "url": "https://open.spotify.com/track/7nJZFldr6TBFHY6hWtpCJI"
-    },
-    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "This Is How Tomorrow Moves",
@@ -1385,22 +1425,6 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "MAYBE.",
-        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 235395,
-      "name": "MAYBE.",
-      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
-    },
-    {
       "added_at": "2025-06-13 04:00:53",
       "album": {
         "name": "All Over Me",
@@ -1447,22 +1471,6 @@
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2025-06-06 04:00:19",
-      "album": {
-        "name": "I FOLLOW YOU",
-        "url": "https://open.spotify.com/album/71ErM8K0tbYK3Ryr3R4jWC"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
-        }
-      ],
-      "duration_ms": 219149,
-      "name": "I FOLLOW YOU",
-      "url": "https://open.spotify.com/track/5VeGKt5icWhIMuEZSHdQJa"
     },
     {
       "added_at": "2025-06-06 04:00:19",
@@ -1575,22 +1583,6 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
-    },
-    {
-      "added_at": "2025-05-30 04:00:31",
-      "album": {
-        "name": "Dream Police",
-        "url": "https://open.spotify.com/album/4tZDDiPikDegR9qbqagDBF"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 190436,
-      "name": "Dream Police",
-      "url": "https://open.spotify.com/track/2zyodCmgNx5slEG5tOlXX2"
     },
     {
       "added_at": "2025-05-16 04:00:11",

@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-745 songs - 1 day 11 hr 16 min
+746 songs - 1 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Bus Stop Remix \(with Young Jonn\)](https://open.spotify.com/track/7Evfsvdd1x1MEysQyEE7fK) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Okada Airlines](https://open.spotify.com/album/0tryWtXDmIsGPK53e9DBTH) | 3:01 | 2024-11-08 | 2025-03-29 |
 | [by now](https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:44 | 2024-04-03 | 2025-02-25 |
 | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [C'mon Look! \(feat\. Asake\)](https://open.spotify.com/album/5ypbnurLlF8HIf1gW20dvi) | 2:54 | 2024-12-16 | 2025-04-01 |
+| [Calculate II \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate II](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 | 2025-08-22 |  |
 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 | 2024-06-28 | 2024-08-30 |
 | [Call Again](https://open.spotify.com/track/31Kunh3BOAccQ5EHXkJkz5) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Best Of Both Worlds](https://open.spotify.com/album/141gy9ZTgo1fPLfCBdXKYq) | 3:10 | 2025-03-07 | 2025-03-24 |
 | [Call Me](https://open.spotify.com/track/3ymSx5mCHlWAeb1yF6ZAPb) | [Teemanay](https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l) | [Call Me](https://open.spotify.com/album/51xSh3oKnYhYi77871elgq) | 2:47 | 2024-06-28 | 2024-08-31 |
@@ -274,7 +275,7 @@
 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2022-06-09 | 2023-11-10 |
 | [For Days](https://open.spotify.com/track/1a4F4Gb0jQ4QsAYv4nMBoD) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [AYOMIPO](https://open.spotify.com/artist/5TN7mfvPehlALb4YJ4I7x3) | [For Days](https://open.spotify.com/album/5vbe78H3h0GzVhwp4djYaq) | 3:27 | 2025-08-01 |  |
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2024-11-29 |  |
-| [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 | 2025-03-21 |  |
+| [FOR YOU](https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [FOR YOU](https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV) | 2:28 | 2025-03-21 | 2025-08-23 |
 | [Forex Boys](https://open.spotify.com/track/0OCSthrrrZjFSqTn23xNNm) | [TheFeyiii](https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB), [Boy Muller](https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ) | [Forex Boys](https://open.spotify.com/album/7sCoQZBfoNTdGlTdR2Fcgg) | 2:17 | 2025-04-04 | 2025-07-18 |
 | [Formula](https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Formula](https://open.spotify.com/album/4fdqH5RYucjH0vlQkiINeQ) | 2:42 | 2024-07-26 | 2024-08-30 |
 | [FREE](https://open.spotify.com/track/1kT4kSXCoejVHAZ3nEnqdA) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [GLADIATOR](https://open.spotify.com/album/79o1dxPTxk0QJhXjFoQlsE) | 2:46 | 2024-08-25 | 2024-09-20 |

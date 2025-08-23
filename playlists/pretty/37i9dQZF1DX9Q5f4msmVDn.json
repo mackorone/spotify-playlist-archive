@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 23692,
+  "num_followers": 23695,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 139029,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Beyond Bulletproof",
         "url": "https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 155968,
       "name": "Boyz To Men",
       "url": "https://open.spotify.com/track/4SCZOft290qQSfl4MLUMId"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 139029,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
     },
     {
       "added_at": "2022-10-01 16:00:00",

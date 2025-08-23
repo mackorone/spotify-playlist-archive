@@ -2,9 +2,9 @@
 
 ### [Corridos 2025](https://open.spotify.com/playlist/37i9dQZF1DWWX93cOoPbrf)
 
-> Lo más fresco de los corridones\.  Jasiel Nuñez en portada.
+> Lo más fresco de los corridones\.  LOS DOS DE TAMAULIPAS en portada.
 
-1,619 songs - 3 day 10 hr 27 min
+1,622 songs - 3 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Andamos En El Peligro](https://open.spotify.com/track/2k3k8os4EvfIjxMtPobg1g) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Andamos En El Peligro](https://open.spotify.com/album/0EGE5XNstrncvV3hF4oOF3) | 3:19 | 2025-01-17 | 2025-03-01 |
 | [ANDAMOS GANANDO](https://open.spotify.com/track/6TTGRjvzdhIg4eWYbHj4fI) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [ANDAMOS GANANDO](https://open.spotify.com/album/1HpR34HOatAt6OkrqxFOfx) | 2:42 | 2025-02-14 |  |
 | [Andamos Generando](https://open.spotify.com/track/6pnprdyuVz1AaszsSv2Hn7) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Andamos Generando](https://open.spotify.com/album/5SZ8u4ubc0QuapKbtaAZ2e) | 2:40 | 2023-02-17 | 2023-03-11 |
+| [Andamos Triunfando](https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Andamos Triunfando](https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU) | 2:28 | 2025-08-22 |  |
 | [Ando Detras del Billete](https://open.spotify.com/track/6jYXCRbqZmjlkU8tMRnPoq) | [Grupo Código Rojo](https://open.spotify.com/artist/0k8TxwTaTukNfzpYAaZKWR) | [Ando Detras del Billete](https://open.spotify.com/album/6q28eYpdCpTI6uVCwcM5w6) | 3:05 | 2024-02-23 | 2024-03-09 |
 | [Ando en el Caloron](https://open.spotify.com/track/2bu2siQAht5AGdhL2Ey8u2) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V) | [Andamos por Todos Lados](https://open.spotify.com/album/1kfxk0qGBxeZcv9qeAx2Rp) | 3:43 | 2022-08-29 | 2022-10-08 |
 | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/track/5ed9exnSCZn7OVxLYcHuRb) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Banda La Veintona](https://open.spotify.com/artist/22mUBA7P0AY1inU2zHAicS) | [Ando en la Fea \(En Vivo\)](https://open.spotify.com/album/5wb3Aa6Q3iFieGD9zhSgnd) | 3:26 | 2022-07-15 | 2022-09-03 |
@@ -1182,6 +1183,7 @@
 | [Millennial](https://open.spotify.com/track/1XCotAsDLWl4Xv1hy9qaiG) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Millennial](https://open.spotify.com/album/2eTrKUYyEnLdvN6awc6PK4) | 2:44 | 2022-09-30 | 2022-12-10 |
 | [Mira Jodidon](https://open.spotify.com/track/7b5Qcwa49HRUW3AvX3v781) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Mira Jodidon](https://open.spotify.com/album/76UGi97cC4O9r4Sd86CNZ9) | 2:52 | 2023-06-09 | 2023-08-12 |
 | [Mirada Fría](https://open.spotify.com/track/1ilj5S7ZFhiDGbeKHET5cE) | [Beto Quintero](https://open.spotify.com/artist/6iTpBHV0DyWLKNLdA6Heo9) | [Mirada Fría](https://open.spotify.com/album/5Y7YEu6iRInk0VPvGwGuLu) | 3:34 | 2025-01-31 | 2025-03-01 |
+| [Miren Al Muchacho](https://open.spotify.com/track/3ibol5FXj2rcsj5NqM61pw) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Miren Al Muchacho](https://open.spotify.com/album/0AyTQWfINdnDhbQofGRMcV) | 2:21 | 2025-08-22 |  |
 | [Mis Cuarenta](https://open.spotify.com/track/1KJt4L1dkAQHGMZOFFkSTc) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Cosas que sorprenden a la audiencia](https://open.spotify.com/album/5we19HT5xmqq0QCGOVL6uv) | 3:05 | 2025-04-25 | 2025-05-17 |
 | [Misma Gente](https://open.spotify.com/track/7BEbwMqPL2E2yNkKcxQn7J) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Misma Gente](https://open.spotify.com/album/2Tza659en16J4L8ocRDLip) | 2:33 | 2025-02-14 | 2025-03-29 |
 | [MJ](https://open.spotify.com/track/7ulHyDYZvFowlPmSq62btS) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC), [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [MJ](https://open.spotify.com/album/6dUUmpDWOd8FuLtsegWaD5) | 2:52 | 2024-12-13 | 2025-02-15 |
@@ -1216,6 +1218,7 @@
 | [Nacho Coronel](https://open.spotify.com/track/4vWGykpz2KZIYl13oY0cfE) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD), [Alemi Bustos](https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF) | [Pisteando con Nico & Alemi](https://open.spotify.com/album/4vZa4rfWwniKA7thjP5WaK) | 4:24 | 2023-10-13 | 2023-11-11 |
 | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/track/2OWyDDiLOC6PACqh7Xac8y) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Grupo Restaurado](https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc) | [Nació Pa' Leyenda \- Spotify Singles](https://open.spotify.com/album/2gzPNct7gehdFkAgPn9n2y) | 2:23 | 2025-07-11 |  |
 | [NASA](https://open.spotify.com/track/5lfRpM2xBf5s51oBkJ9HmT) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [NASA](https://open.spotify.com/album/36AqBtfg7yxbZq920G2kJT) | 2:14 | 2024-08-16 | 2025-01-18 |
+| [Naty](https://open.spotify.com/track/65Ne741JRdJaWII6yUGG3n) | [Raul Vega](https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9) | [Naty](https://open.spotify.com/album/5rJTX3kpAZMq6JB1zequlu) | 3:10 | 2025-08-22 |  |
 | [Negro Como La Pantera](https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Negro Como La Pantera](https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr) | 2:09 | 2023-02-24 | 2023-06-10 |
 | [Negro y Azul](https://open.spotify.com/track/52pCk0elJjXzijwCAFUWO8) | [Triángulo Dorado](https://open.spotify.com/artist/2RiTt3cJ76SzzmhPSBTFLp) | [Negro y Azul](https://open.spotify.com/album/33nrBVp7x5AVWKDG0jPR0P) | 3:30 | 2023-09-22 | 2023-10-28 |
 | [Nemesio](https://open.spotify.com/track/6bd5RNCLkKrNTdMBiehixh) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nemesio](https://open.spotify.com/album/7dDDAkoT9xPwxcCc9cn28o) | 3:42 | 2023-08-04 | 2023-11-25 |

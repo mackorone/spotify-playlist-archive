@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> Ya es Viernes y el cuerpo lo sabeeeee y Zoé esta de regreso!!
+> Descubre lo más nuevo y lo más cool de la semana en compañía de La Maestra Pecas, LOOJANCITO y Yeri Mua
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,070 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,338 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 54 | [SITEDIGOQPASA](https://open.spotify.com/track/6XFM9lrZdIgYHg8OGhQzKa) | [Sam Gross](https://open.spotify.com/artist/56Pi4vIsfS2pVOkPanLV6q) | [SITEDIGOQPASA](https://open.spotify.com/album/2B3GeQc3NchXoHm063UM7L) | 3:33 |
 | 55 | [JALEA](https://open.spotify.com/track/7x0WvATMYkpwCSHLYH0ypm) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK), [Cuauh](https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc) | [JALEA](https://open.spotify.com/album/3hq3mRE7nt4ChpsMjKo1pk) | 4:09 |
 
-Snapshot ID: `AAAAAHQ//TePqtrMR+zq8AUnarfYftwD`
+Snapshot ID: `AAAAAN1Z1Y0f5g7UDuNEWEEk1cqEsdUq`

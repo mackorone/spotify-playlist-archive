@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,845 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,854 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 35 | [好きなこと \- Remix](https://open.spotify.com/track/7qU0zH4eG1f6JZolLL6kjw) | [柊人](https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [098RADIO vol.2 Hosted by Awich](https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i) | 3:49 |
 | 36 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 | 37 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 |
-| 38 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
+| 38 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
 | 39 | [Summertime \(feat\. ZIN & Hikaru Tanaka\)](https://open.spotify.com/track/4VYRcL6o6it5bHPZpO35PT) | [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [Hikaru Tanaka](https://open.spotify.com/artist/40VTdJg40PD2fIPQcbNzU3) | [blurs](https://open.spotify.com/album/75ir7qfFNNbSRAm8HZnzW2) | 3:44 |
 | 40 | [MINT](https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [MINT](https://open.spotify.com/album/2IpHpoP8dF0bbcvajoe3p3) | 2:21 |
-| 41 | [夏風に溶ける](https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS), [南雲ゆうき](https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk) | [夏風に溶ける](https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG) | 3:44 |
+| 41 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 42 | [ネオンを消して](https://open.spotify.com/track/1KnBBZEqJA2EtHuYKKBB50) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [the youth night](https://open.spotify.com/album/1ctyQFj7yDRDwU7dwcd43c) | 3:23 |
 | 43 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 44 | [サンクチュアリ](https://open.spotify.com/track/1meZPjZFVbA9psKezn9Z87) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [サンクチュアリ](https://open.spotify.com/album/3K6BhGujuqyF0aTdSA0DYb) | 4:52 |
-| 45 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
-| 46 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
+| 45 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
+| 46 | [Marshmallow](https://open.spotify.com/track/1xAlI4oMjz8lJXO4iXik84) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Marshmallow](https://open.spotify.com/album/1EhH8kssFXb3MSf74XEjkx) | 3:02 |
 | 47 | [Sign](https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0) | [YRD Leo](https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3) | [Sign](https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP) | 2:55 |
 | 48 | [Too Late](https://open.spotify.com/track/2Y0XwI9C0nj1XukpB8R8wu) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Too Late](https://open.spotify.com/album/7iq6ENSH2FvyhQKzC7IJiN) | 3:20 |
 | 49 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |

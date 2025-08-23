@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,582 likes - 38 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,653 likes - 38 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 8 | [+ Perra + Bitch](https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:18 |
 | 9 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 |
 | 10 | [Cuando Baja La Marea \(feat\. Regina Blandón\)](https://open.spotify.com/track/1Vw3eejKjUosMf7oYfGGPx) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Diana Bovio](https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp), [Regina Blandón](https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:41 |
-| 11 | [Luz Sin Gravedad](https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 4:01 |
-| 12 | [Ángel \- Once in Your Lifetime](https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:40 |
+| 11 | [Ángel \- Once in Your Lifetime](https://open.spotify.com/track/46byx3nwRDZwZ0dxPZNs0G) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:40 |
+| 12 | [Luz Sin Gravedad](https://open.spotify.com/track/60CEVNgCHcVyWCPy6Kh2K6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 4:01 |
 | 13 | [300 Noches](https://open.spotify.com/track/0163eXbLwh5dFhKa73n9wG) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [300 Noches](https://open.spotify.com/album/1eXnHv9p2TLAg1X4LoFTml) | 3:24 |
 | 14 | [Castillos \(feat\. Regina Blandón\)](https://open.spotify.com/track/4IGGduepkbwJ3j2fSWNZ1J) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Mariana Treviño](https://open.spotify.com/artist/5dyHrsYkwHUstLg87rRIpM), [Diana Bovio](https://open.spotify.com/artist/62IAzVoIjzzHeBZ6Glodjp), [Regina Blandón](https://open.spotify.com/artist/38vkPLirHhh2tquGOtNSbQ) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 2:05 |
 | 15 | [Cursi De +](https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:22 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 37 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
 | 38 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 |
 
-Snapshot ID: `aKO+gAAAAACj5cWIKaFc6d1TII91smNS`
+Snapshot ID: `aKZhgAAAAAD+111WYpiT3sXhZu/RKPyW`

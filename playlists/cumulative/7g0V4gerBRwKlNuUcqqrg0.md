@@ -4,7 +4,7 @@
 
 > Fijne muziek voor een rustige dag\. Doe lekker kalm aan met deze easy going liedjes van Olivia Dean, Lewis Capaldi, Royel Otis en meer
 
-87 songs - 4 hr 58 min
+88 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:04 | 2025-07-04 |  |
 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 | 2025-07-04 |  |
 | [Who Knows](https://open.spotify.com/track/31P3lzjtP65naJF9LLnY2n) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Who Knows](https://open.spotify.com/album/1yFSk5BGw4B2fDnwJ7hulw) | 2:51 | 2025-07-04 |  |
+| [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-22 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2025-07-04 |  |
 | [Worry About You](https://open.spotify.com/track/72h5CLklGzoJhWXM9aZzvC) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Worry About You](https://open.spotify.com/album/5nmek7NtizCaPrpePZFQkz) | 3:33 | 2025-08-15 |  |
 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 | 2025-07-04 |  |

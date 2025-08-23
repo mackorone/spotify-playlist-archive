@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists from Africa. Cover:  <a href=\"https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z?si=umUOIuWqQTadX43Ikkp_Sw\">FOLA</a> ",
+  "description": "Discover your new favourite artists from Africa. Cover:  Thakzin and FOLA",
   "name": "RADAR Africa ",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 150857,
       "name": "Agility",
       "url": "https://open.spotify.com/track/1aMdNvjmLwPQTA97oflMaF"
@@ -1666,6 +1666,24 @@
       "duration_ms": 178515,
       "name": "C'est Du M\u00e9lange",
       "url": "https://open.spotify.com/track/10XVh3wR0cBqPBiTCgIuDw"
+    },
+    {
+      "album": {
+        "name": "DACHIBA KOUMGBA TCHAIBA",
+        "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175858,
+      "name": "C'EST PAS DE MA FAUTE",
+      "url": "https://open.spotify.com/track/44uGTxfrWTbnJZrT5O1kVO"
     },
     {
       "album": {
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 118309,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/1ls7ozfIGPp9Y8ItqzhO9U"
@@ -9384,6 +9402,24 @@
       "duration_ms": 190664,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/5rOGgvxkgMOn5ZhyLHLDFz"
+    },
+    {
+      "album": {
+        "name": "W2Y",
+        "url": "https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Way2Yung",
+      "url": "https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw"
     },
     {
       "album": {

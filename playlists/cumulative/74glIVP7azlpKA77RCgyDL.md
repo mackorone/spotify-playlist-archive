@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: GAEREA.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Deftones.
 
-1,070 songs - 2 day 19 hr 4 min
+1,076 songs - 2 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-02 | 2025-04-11 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:01 | 2024-04-12 | 2025-04-11 |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 | 2023-07-15 |
+| [cut hands](https://open.spotify.com/track/4oONLfYN4mYYWnnQNW0tap) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:01 | 2025-08-22 |  |
 | [Cut The Cord](https://open.spotify.com/track/5X6VrWoMKlHOR774CZB21s) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Cut The Cord/Shame's Mirror](https://open.spotify.com/album/4n74DoC0rdpxrNOi2mgEa7) | 3:21 | 2024-01-12 | 2025-04-11 |
 | [Cut the Cord](https://open.spotify.com/track/2wqJOG6zJt7PYLibLVYsZc) | [Necrot](https://open.spotify.com/artist/5jWIRPU5rVBm6ky8Atq7AW) | [Cut the Cord](https://open.spotify.com/album/0C9tkZoEJahg5kkt6UURTm) | 5:16 | 2024-02-09 | 2025-04-11 |
 | [CUT.BLEED.REPEAT](https://open.spotify.com/track/7DECB48H9EToEwvpd0Cxf3) | [PROJECT: VENGEANCE](https://open.spotify.com/artist/7HcrrlXGMsiC4nteuArgi9), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [CUT.BLEED.REPEAT](https://open.spotify.com/album/1R9xrOaKyMkGxBFD4fYYY8) | 3:34 | 2023-03-10 | 2024-02-03 |
@@ -410,6 +411,7 @@
 | [Her Eyes](https://open.spotify.com/track/6iTYBfAOuy7oSMyppweXc7) | [The Cost](https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Her Eyes](https://open.spotify.com/album/1HlRjRD9b4DZriCMW3WvNg) | 4:44 | 2024-06-07 | 2025-04-11 |
 | [Hide](https://open.spotify.com/track/6C2odc2qG42ZbCyNZNxGKi) | [Druids](https://open.spotify.com/artist/6oQRvz9JHOHWtryh47KdOH) | [Hide](https://open.spotify.com/album/2KgDvPXVoyzQZDbMe1BH9S) | 6:07 | 2022-05-06 | 2023-07-15 |
 | [Hide & Seek](https://open.spotify.com/track/7tJwNCxACiqdewg8dODKAL) | [The Jesus Lizard](https://open.spotify.com/artist/6r26MaDr8bqNALjXgYPXMa) | [Hide & Seek](https://open.spotify.com/album/2OUAkno2xG9rjGhHlt0pqM) | 3:04 | 2024-06-07 | 2025-04-11 |
+| [Hide Your Evil](https://open.spotify.com/track/0OliHsJwDWAnUlG0kaMhor) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Hide Your Evil](https://open.spotify.com/album/6I67EzTCCMBkSksDLclSGI) | 2:52 | 2025-08-22 |  |
 | [High Plains Drifter](https://open.spotify.com/track/4Eya9E3OOY9QCec2ssaG6T) | [Kirk Hammett](https://open.spotify.com/artist/2ePzbA0F0TD96Na0MEB2Cf) | [High Plains Drifter](https://open.spotify.com/album/26ZZ3Pr3U6OCzveywxauf2) | 4:45 | 2022-04-15 | 2023-07-15 |
 | [Hole](https://open.spotify.com/track/5BJTWI5ppMqnQldCPawycd) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Hole](https://open.spotify.com/album/6W6uSAwCv3tC5btB7kd4GN) | 6:01 | 2025-07-25 |  |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-07-15 |
@@ -461,6 +463,7 @@
 | [In the Way](https://open.spotify.com/track/4EixKLBcPtkqDGk2Z3zUAv) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [In the Way](https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM) | 3:22 | 2022-04-08 | 2023-07-15 |
 | [Inamorata](https://open.spotify.com/track/4q55PFuLhKPB1JT1ZqYhsL) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 11:10 | 2023-04-14 | 2024-02-03 |
 | [Incinerator](https://open.spotify.com/track/3uAdXOqP7pbGh2eCJuGhd1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Incinerator](https://open.spotify.com/album/6oxVcOp8P3YBQ5AZlA0YwS) | 3:41 | 2024-03-22 | 2025-04-11 |
+| [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2022-06-24 | 2023-07-15 |
 | [Infusorium](https://open.spotify.com/track/0CMu9ZzwDgvIg9bo6jzKeH) | [Scour](https://open.spotify.com/artist/6SoZi6u1HOTJ33PrXjMxlo) | [Infusorium](https://open.spotify.com/album/3HWsdwv1gstJyp6QOFZrY9) | 3:47 | 2024-11-15 | 2025-04-11 |
 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 | 2022-03-18 | 2023-07-15 |
@@ -576,6 +579,7 @@
 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 | 2024-04-12 | 2025-04-11 |
 | [names](https://open.spotify.com/track/4keVU1iG5gKDkp3gFnIMsM) | [Home Is Where](https://open.spotify.com/artist/1umUe3DQdjTkk0LoMuwcj2), [Record Setter](https://open.spotify.com/artist/5dAHI3WBHJFGRaAyDm5VHT) | [names](https://open.spotify.com/album/4UDjMHGSpHxfRm6ABUsiCF) | 1:16 | 2022-04-01 | 2023-07-15 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 | 2023-07-15 |
+| [Natural Selection](https://open.spotify.com/track/53V9f6KYje1szmkJeMBlJ5) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [To Rid Myself Of Truth](https://open.spotify.com/album/4V7kK1ChSXsCvUFxqGHQnx) | 3:56 | 2025-08-22 |  |
 | [Nauseating Despair](https://open.spotify.com/track/75l59IlC5Vnv950vbdB0X2) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Nauseating Despair](https://open.spotify.com/album/3ytulfN7eaFD9aIQikuM27) | 4:39 | 2022-07-08 | 2023-07-15 |
 | [Necromanteum](https://open.spotify.com/track/4BsyVbO7MkrVTJzBOQHS1M) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [Necromanteum](https://open.spotify.com/album/2RZ0KrPK6mMo4XGjY0Ag8X) | 4:26 | 2023-07-07 | 2024-02-03 |
 | [Never Again \(Parasite\)](https://open.spotify.com/track/5gXIDQDs0ur8CjPg6BFLoG) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Never Again \(Parasite\)](https://open.spotify.com/album/6JiZnSdiYzpqUBdmHZVnWv) | 3:24 | 2025-02-14 |  |
@@ -632,6 +636,7 @@
 | [On The Run](https://open.spotify.com/track/3JKWw3L65jWdQWxQxonf4R) | [Exhibition](https://open.spotify.com/artist/3PXIpUyxwTbRam0fB84BKD) | [On the Run](https://open.spotify.com/album/5GztBxPsWCj87c7m9L5TEH) | 2:23 | 2023-01-20 | 2024-02-03 |
 | [One Blood We Bleed](https://open.spotify.com/track/7K1WsCumamKoTiLSnZStKD) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [One Blood We Bleed](https://open.spotify.com/album/0wIamqS45lRSLLf8TluZcr) | 2:25 | 2022-11-18 | 2023-07-15 |
 | [One by One](https://open.spotify.com/track/3UEeuZJjE4ftR7zkq7IVaK) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb) | [One by One](https://open.spotify.com/album/3J7NZbEojkhk997nA5UhkD) | 3:05 | 2022-02-18 | 2023-07-15 |
+| [one by one](https://open.spotify.com/track/2xIvHnbzpdwVa9vODhiknm) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [one by one](https://open.spotify.com/album/5JpzFSomr4c8SUxyX4Wjjm) | 3:18 | 2025-08-22 |  |
 | [One Twenty Two](https://open.spotify.com/track/1YcAT8wzQpk12OOJcBcOT5) | [Botch](https://open.spotify.com/artist/4kRYDoAbgDL7nqeqZhJlA3) | [One Twenty Two](https://open.spotify.com/album/2F2GdWHz62uzpsgNtF7mfd) | 2:16 | 2022-08-26 | 2023-07-15 |
 | [One Word](https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [One Word](https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe) | 5:57 | 2023-12-01 | 2024-02-03 |
 | [Opaco](https://open.spotify.com/track/2WOLSfpkasvlVhkYdxDFAU) | [Asymmetric Universe](https://open.spotify.com/artist/7eQvcbsRwRagthh73MJgzo) | [Opaco](https://open.spotify.com/album/4diRdn1HrcB6p67uel2VWk) | 5:01 | 2024-11-22 | 2025-04-11 |
@@ -1033,6 +1038,7 @@
 | [What Is Delicious? Who Swarms?](https://open.spotify.com/track/4zyPbDKebdwbahJsaQs57a) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [What Is Delicious? Who Swarms?](https://open.spotify.com/album/5Z9n0CXvfI0fsvXC0PLHO2) | 3:16 | 2022-06-03 | 2023-07-15 |
 | [What we know](https://open.spotify.com/track/5aFdZBMU2W8jw1gPuVYLtf) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [What we know](https://open.spotify.com/album/6sdxlixknhEoA0qBwEoIGV) | 4:03 | 2025-04-04 |  |
 | [When Mortal Coils Shed](https://open.spotify.com/track/6RkLj4DJXCSFUr0PJ8xE8z) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [The Unknown](https://open.spotify.com/album/51BpsIsaNfI4MWqUl3WD9P) | 7:05 | 2023-07-14 | 2024-02-03 |
+| [Where the Flowers Never Grow](https://open.spotify.com/track/4cFI7k2rfpnxNKxUhHmANB) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Where The Flowers Never Grow](https://open.spotify.com/album/44cgztHaaoJh5taG0n0PG0) | 4:24 | 2025-08-22 |  |
 | [Where The Light Fades](https://open.spotify.com/track/7g0oIMiUqPKudJsPjkpc2E) | [Pallbearer](https://open.spotify.com/artist/2yeEmsTQMNHBlS5dhWtuD1) | [Where The Light Fades](https://open.spotify.com/album/4UtNmhrbKelGVvZy1AxrC8) | 6:39 | 2024-03-22 | 2025-04-11 |
 | [Where the Void Begins](https://open.spotify.com/track/7hYwuiDgHoIXONMjwj1sYf) | [Sarcator](https://open.spotify.com/artist/78tS2rMs81fH13rbaw4sT0) | [Where the Void Begins](https://open.spotify.com/album/0yCk147goanQpkQTF7e4EN) | 7:01 | 2024-12-13 | 2025-04-11 |
 | [While We Serve](https://open.spotify.com/track/3LmcjJ7e4tlRqwYs2VNRq0) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [The Forgotten](https://open.spotify.com/album/0jIKQkG06Op47HFg6slCS1) | 6:02 | 2023-12-01 | 2024-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Towa Bird.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,643 likes - 45 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,644 likes - 45 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 30 | [Hyperdome](https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Hyperdome](https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE) | 3:13 |
 | 31 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 |
 | 32 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 |
-| 33 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
-| 34 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
+| 33 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
+| 34 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 | 35 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 |
 | 36 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 |
 | 37 | [Man Who Loves You](https://open.spotify.com/track/6vJogWl1AUnWilW3UCKQ8K) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:29 |

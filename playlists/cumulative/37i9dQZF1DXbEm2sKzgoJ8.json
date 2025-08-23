@@ -3145,6 +3145,28 @@
     },
     {
       "album": {
+        "name": "Escape Room",
+        "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158115,
+      "name": "Hard Part (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
+    },
+    {
+      "album": {
         "name": "Hardcore",
         "url": "https://open.spotify.com/album/41KhQVLtpKGsitTXYrKxeb"
       },
@@ -4047,6 +4069,24 @@
     },
     {
       "album": {
+        "name": "Ink and Feather",
+        "url": "https://open.spotify.com/album/6Fg2clXDwHDwHOjROjH9PM"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Ink and Feather",
+      "url": "https://open.spotify.com/track/2VKZK8kVCRKKvqwuhAewae"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -4818,7 +4858,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 256000,
       "name": "Loved by You",
       "url": "https://open.spotify.com/track/5bYOsPMgWyQc94vtLz92ZH"
@@ -9040,7 +9080,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 153034,
       "name": "wherever u r (ft. V of BTS)",
       "url": "https://open.spotify.com/track/1k255f17DRuRbGrfz5Ifmd"

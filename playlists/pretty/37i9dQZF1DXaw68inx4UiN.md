@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > Recordings from the tropical rainforest
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,627 likes - 95 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,698 likes - 95 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 35 | [Forest Rain](https://open.spotify.com/track/1gDhRTrbT942IknQqleVqB) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:28 |
 | 36 | [Thunderous Amazon](https://open.spotify.com/track/4Xy4EQyJWS01SEERqnfrkn) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 3:09 |
 | 37 | [Relaxing Jungle Sounds](https://open.spotify.com/track/17kqaq39xg9nP1j6goQW5A) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:23 |
-| 38 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
-| 39 | [Relaxing Afternoon Rain](https://open.spotify.com/track/6gfzHvzslUJYs1dVMMhyaF) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Hawaiian Rainforest](https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1) | 2:30 |
-| 40 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
-| 41 | [Rainy European Forest](https://open.spotify.com/track/2LuSIOYRov2ql9HlNYVKMk) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Gentle Forest Rain](https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE) | 2:46 |
+| 38 | [Relaxing Afternoon Rain](https://open.spotify.com/track/6gfzHvzslUJYs1dVMMhyaF) | [The Earth Song](https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r) | [Hawaiian Rainforest](https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1) | 2:30 |
+| 39 | [Djungle Rain](https://open.spotify.com/track/6OYu0UZHuVYtJb9px1dKwi) | [Djunjo](https://open.spotify.com/artist/1DWBwafhEN1i2zYG6r05Au) | [Humid Drops](https://open.spotify.com/album/0Rlwlp5Q0PkDgXnlcKGBad) | 3:28 |
+| 40 | [Rainy European Forest](https://open.spotify.com/track/2LuSIOYRov2ql9HlNYVKMk) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Gentle Forest Rain](https://open.spotify.com/album/4Q4aYbWcZtkK0vRpzj3RwE) | 2:46 |
+| 41 | [Sounds of Congo](https://open.spotify.com/track/55IAZKoY31CjxxGCgCMmo8) | [Wildazon](https://open.spotify.com/artist/3MDGo9gMugtZGrB0oyQ69G) | [Sounds of Congo](https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0) | 3:28 |
 | 42 | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/track/4RGPG1DbWsUS6uBNxUkTnv) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Howler Monkeys and Bird Songs in the Tropical Wet Forest](https://open.spotify.com/album/6VvWeQKdLlo7BiLQXBsp8k) | 2:35 |
 | 43 | [Slow Day In The Woods](https://open.spotify.com/track/0lvURQCoBLWmVYbXlOu3Mh) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 44 | [Ambience Within](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Clayton Calm](https://open.spotify.com/artist/0nZQHwKfuzDyeTwiMDCzbn) | [A Rain Forest Walk](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 | 84 | [Distant ocean, birds and insects in the forest](https://open.spotify.com/track/6VtOLJbtuy3bBULJvnd8pQ) | [Nicolas Gutierrez G.](https://open.spotify.com/artist/5blyFWCmmsbLdxQVRARv6x) | [Distant ocean, birds and insects in the forest](https://open.spotify.com/album/2x2JL6cGSi0wtg9y6bmav1) | 4:34 |
 | 85 | [Whispering Nature Harmony](https://open.spotify.com/track/1rWyQsyX5vqqSMXZyrtQqW) | [Herbird](https://open.spotify.com/artist/35zC83DS27iISaGLzmXk8S) | [Whispering Nature Harmony](https://open.spotify.com/album/28CXo52EEFsQF1yMBi8iXo) | 3:15 |
 | 86 | [Fugue of the Forest](https://open.spotify.com/track/0Do11qV3N7Wo1ZPoGjkE27) | [Sound Of The Woods](https://open.spotify.com/artist/3fRd8qPNSLClRFaxvFFLPL) | [Peaceful Nature Melodies](https://open.spotify.com/album/0TFmJQQqxdHlLcGz5MNnZE) | 3:32 |
-| 87 | [Melodic Nature Chorus](https://open.spotify.com/track/34OOT0ckCDlGQ7c3mo2rl9) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 3:27 |
-| 88 | [Wildwood Meditation Soundscape](https://open.spotify.com/track/0pbswGrPsQ3LRkDGxiiZr5) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Relaxing Wilderness Serenade](https://open.spotify.com/album/3zAlxRrbuNo44XqLEHTLqg) | 1:47 |
+| 87 | [Wildwood Meditation Soundscape](https://open.spotify.com/track/0pbswGrPsQ3LRkDGxiiZr5) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Relaxing Wilderness Serenade](https://open.spotify.com/album/3zAlxRrbuNo44XqLEHTLqg) | 1:47 |
+| 88 | [Melodic Nature Chorus](https://open.spotify.com/track/34OOT0ckCDlGQ7c3mo2rl9) | [Touch of Spades](https://open.spotify.com/artist/1YWkdQMBdIM1QiiYiiTdil) | [Melodic Nature Chorus](https://open.spotify.com/album/0VwWFLflpeb6ayLAdcwi6i) | 3:27 |
 | 89 | [Rain Forest Bird Songs](https://open.spotify.com/track/1CuLVx6KbZAJDXE7Li9USq) | [Nature Is Calling](https://open.spotify.com/artist/5njWiMvAgKEJJTJTgRVST1) | [Spring Birds](https://open.spotify.com/album/3na52KNVuw7RpQO0txjnhY) | 2:02 |
 | 90 | [The Music of the Forest](https://open.spotify.com/track/2EhEZWBADwQNIyAt4k3qme) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Secret Life of Trees](https://open.spotify.com/album/7uaPwBS26PUvqhhZIlwrrH) | 2:16 |
 | 91 | [Relaxing Safari](https://open.spotify.com/track/2vJX46nkmTcFbLshJTGR8v) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Wildlife and Nature Soundscapes](https://open.spotify.com/album/4fWw1JF0Mtke2CkcCmrm1S) | 3:20 |

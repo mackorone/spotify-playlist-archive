@@ -4,7 +4,7 @@
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Stoondio
 
-133 songs - 9 hr 15 min
+134 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,10 +80,11 @@
 | [ผัดวัน \(no/more\)](https://open.spotify.com/track/34dNJVGauEMrLWoc82EHxv) | [electric.neon.lamp](https://open.spotify.com/artist/4TrJEtCSLvvnpuPO4uAesD) | [ผัดวัน \(no/more\)](https://open.spotify.com/album/5un08eM6t9HLY1iEz2vjDE) | 4:44 | 2024-06-27 | 2024-07-20 |
 | [ฝังร่างข้างๆกัน](https://open.spotify.com/track/2ozaRIqgJ3P0F0IDUeCGx2) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฝังร่างข้างๆกัน](https://open.spotify.com/album/7dx5MW8O3RAfPNMln79BYd) | 5:13 | 2025-06-13 |  |
 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 | 2024-06-27 | 2024-09-21 |
+| [พื้นที่ความทรงจำ](https://open.spotify.com/track/7D8eiRaPyZjdn32F6y9Zo3) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [พื้นที่ความทรงจำ](https://open.spotify.com/album/6wAd9J32861HPk1QYhJZWm) | 4:21 | 2025-08-22 |  |
 | [มอง=กอด](https://open.spotify.com/track/7yKGkOde6ogB4MjpNVDajp) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [มอง=กอด](https://open.spotify.com/album/5S868uu0jbeLlwQinp6Ecs) | 4:01 | 2025-05-16 |  |
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-06-27 | 2024-11-09 |
 | [ยังดี \(You\)](https://open.spotify.com/track/0oZh9OKGPeyDPVzh1eJNaK) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [Common Sense](https://open.spotify.com/album/4Xd1G8WXQb9p8KeB3OnayE) | 3:43 | 2025-08-15 |  |
-| [ยังมี \| Better Next Day](https://open.spotify.com/track/6vzHVDu4OtkvXcGar8mDM2) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ยังมี \| Better Next Day](https://open.spotify.com/album/7bqfOLuEACwFsP7mcJNvV0) | 2:56 | 2025-03-21 |  |
+| [ยังมี \| Better Next Day](https://open.spotify.com/track/6vzHVDu4OtkvXcGar8mDM2) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ยังมี \| Better Next Day](https://open.spotify.com/album/7bqfOLuEACwFsP7mcJNvV0) | 2:56 | 2025-03-21 | 2025-08-23 |
 | [รถมันติด \(Romantic\)](https://open.spotify.com/track/1nifHQL0R1vZKYaoeqhJCM) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [รถมันติด \(Romantic\)](https://open.spotify.com/album/0NbbkbliUaaqnxYRNKDY44) | 4:14 | 2025-04-11 | 2025-08-09 |
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2024-06-27 | 2025-05-24 |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-06-27 | 2025-01-24 |

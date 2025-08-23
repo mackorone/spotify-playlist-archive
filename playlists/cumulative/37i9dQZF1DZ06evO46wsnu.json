@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 228480,
       "name": "Blood To Bleed",
       "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 233553,
       "name": "Far From Perfect - Ghost Note Symphonies",
       "url": "https://open.spotify.com/track/5k1pZ19vT32fzCSeqRL26v"
@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/0JWOSnfL0rLA50OEuF9Itc"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/1TBOPJx69RayvK6CJOK0uy"
+    },
+    {
+      "album": {
         "name": "I Want It All",
         "url": "https://open.spotify.com/album/5ePyRQrVvJWE3YJ8t9FQcw"
       },
@@ -582,7 +600,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 186052,
       "name": "I Want It All",
       "url": "https://open.spotify.com/track/6nUv1TbOMwOYzESvJCVbF7"
@@ -978,7 +996,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 200204,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 210259,
       "name": "State Of Emergency",
       "url": "https://open.spotify.com/track/5YCfHKx46HsZ1hSa7EkMI9"

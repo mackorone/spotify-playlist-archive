@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-177 songs - 9 hr 34 min
+178 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Autumn](https://open.spotify.com/track/1qBQECdGaZL0Nwg55VMniX) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Autumn](https://open.spotify.com/album/5MbVgvlnSE13v5BQEGgN0Q) | 2:33 | 2022-04-01 |  |
 | [Autumn Angst](https://open.spotify.com/track/7Dcnv33fuJPwiHghh9Jkkx) | [Kris Johnson](https://open.spotify.com/artist/52Yoq0x7Eso0ZXRqucZBmc) | [Autumn Angst](https://open.spotify.com/album/1b7FBB65gv31cbk1DcaJrs) | 3:02 | 2022-07-15 | 2022-07-23 |
 | [Avalon](https://open.spotify.com/track/4gSOk75BfDZIU3CkD93wr7) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Avalon](https://open.spotify.com/album/1EPU3KWYWEwLI9wyMVJSAh) | 2:34 | 2022-05-20 | 2022-07-27 |
+| [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3) | 2:33 | 2025-08-22 |  |
 | [Awakened Dream](https://open.spotify.com/track/7LojpF7q06ijTdp1I4Bwvh) | [Franki Love](https://open.spotify.com/artist/5mDUumCBWXr3v5EXqTYwpY) | [The Moon](https://open.spotify.com/album/0oCRWE9MmAu1lLXtVP4rZi) | 3:02 | 2022-06-24 | 2022-07-10 |
 | [Back to Lyla](https://open.spotify.com/track/5wzDVIeUeJZAfZPfLy0iwS) | [Arturo Cardelús](https://open.spotify.com/artist/1xMk7B6ZdB5d13S1PWfRLZ) | [Back to Lyla](https://open.spotify.com/album/5AXOk2npEI1tdB08ygETJY) | 2:52 | 2022-08-12 | 2022-11-08 |
 | [Bad Signal](https://open.spotify.com/track/6FqAAz5ZcxuFfzBuzo4xHU) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [Bad Signal](https://open.spotify.com/album/3kQTkKBCUSJQvl2C5j5w8o) | 3:28 | 2022-06-24 | 2022-11-08 |

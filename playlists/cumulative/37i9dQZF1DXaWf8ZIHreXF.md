@@ -4,7 +4,7 @@
 
 > The biggest dance floor bangers of the 2010s.
 
-158 songs - 9 hr 9 min
+159 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Million Voices \- Radio Edit](https://open.spotify.com/track/0MOiv7WTXCqvm89lVCf9C8) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Million Voices](https://open.spotify.com/album/6yEb0IID8Uc99lvC3QtWD4) | 3:12 | 2022-10-12 | 2024-04-19 |
 | [Monster](https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Monster](https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W) | 2:34 | 2022-10-12 |  |
 | [Moonlight](https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE) | 2:53 | 2023-08-25 | 2024-08-18 |
+| [More Than Friends](https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [More Than Friends](https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M) | 2:20 | 2023-08-25 |  |
 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 | 2022-10-12 |  |
 | [Move Your Body \- Alan Walker Remix](https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-10-12 |  |
 | [My Love](https://open.spotify.com/track/4N1MFKjziFHH4IS3RYYUrU) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love](https://open.spotify.com/album/4ZD1KnBqghtSAEyqrZAkU4) | 4:19 | 2022-11-14 | 2024-04-19 |
@@ -104,7 +105,7 @@
 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 | 2022-10-12 |  |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/0uVyZywUNOp6S0dU5r8TS8) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1SrvubPy1Dg2BWJyTMcmgr) | 3:09 | 2022-11-14 |  |
 | [Prayer in C \- Robin Schulz Radio Edit](https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer in C](https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa) | 3:09 | 2022-10-12 | 2023-03-31 |
-| [Raging \(feat\. Kodaline\)](https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:44 | 2023-08-25 |  |
+| [Raging \(feat\. Kodaline\)](https://open.spotify.com/track/2Vhd5uZB4brKHmM0MNxkZo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 3:44 | 2023-08-25 | 2025-08-23 |
 | [Reality \(feat\. Janieck Devy\) \- Radio Edit](https://open.spotify.com/track/0cOBMETjhxublnnwhbnzJO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck Devy](https://open.spotify.com/artist/5gtYjyZlmPOc1lLHvYzCON) | [Less Is More](https://open.spotify.com/album/57AJ70IWVE0pmPwNYBa4PT) | 2:39 | 2023-08-25 | 2024-04-19 |
 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 | 2022-10-12 |  |
 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 | 2022-10-12 |  |

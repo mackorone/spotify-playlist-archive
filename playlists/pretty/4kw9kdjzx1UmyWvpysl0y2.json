@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125053,
+  "num_followers": 125048,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUgE/GeO47v3nYrHu8PdBdu3obXYNL",
+  "snapshot_id": "AAAUgQPC+BsWqlm8c/zMmbdBrIp3AqB+",
   "tracks": [
+    {
+      "added_at": "2025-08-22 14:11:18",
+      "album": {
+        "name": "Aura Farming",
+        "url": "https://open.spotify.com/album/5RbSTWWJaRaRcehgyOVr04"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Eliminate",
+          "url": "https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Aura Farming",
+      "url": "https://open.spotify.com/track/54iy8ooDbrHeuSOeYL0pkC"
+    },
     {
       "added_at": "2025-08-21 13:50:45",
       "album": {

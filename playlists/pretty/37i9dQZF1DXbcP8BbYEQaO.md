@@ -4,37 +4,37 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,659 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,664 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 |
-| 2 | [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 |
-| 3 | [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 |
-| 4 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
-| 5 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 |
-| 6 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
-| 7 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
-| 8 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 |
-| 9 | [Chocolate](https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Chocolate](https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc) | 3:43 |
-| 10 | [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 |
-| 11 | [Agnostic](https://open.spotify.com/track/7lXsk9wPqSrFUJ1vdiSPXL) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Agnostic](https://open.spotify.com/album/0udRRD0WX6mUqGV7voDWY1) | 3:21 |
-| 12 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 |
-| 13 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 |
-| 14 | [MOVE](https://open.spotify.com/track/5FPfUz8dqrJmZEA0hV2nwT) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [MOVE](https://open.spotify.com/album/5WE3dloLqYGlTZi3bmQLJm) | 5:02 |
-| 15 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 |
-| 16 | [24/7](https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [24/7](https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh) | 2:37 |
-| 17 | [Ride Or Die](https://open.spotify.com/track/7A6BREshRrCXX6nWgGLSan) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Ride Or Die](https://open.spotify.com/album/40WL9iL1HCYnppQLDbRuGJ) | 2:44 |
-| 18 | [Moonlight](https://open.spotify.com/track/1kQffpF3I0YD5dDVSYaEGG) | [Essy](https://open.spotify.com/artist/6tnxA4woi9zSxFDyOuBjIo) | [Moonlight](https://open.spotify.com/album/0ewLNJICTVLG7qiMKdwhrV) | 2:59 |
-| 19 | [Hold Me Closer](https://open.spotify.com/track/3Z9opAvcyRGRJBV6VcaptT) | [Soft Faith](https://open.spotify.com/artist/76TvRLbqtgOcAoIsBplbfz), [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Hold Me Closer](https://open.spotify.com/album/2k9qbwMJmO8HTT9TiYIeTG) | 3:19 |
-| 20 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 |
-| 21 | [I luv that babe](https://open.spotify.com/track/6ZT6neqII47y0pj6jekfS4) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [I luv that babe](https://open.spotify.com/album/4Tkh0wRWbGH1qLq00laUYc) | 2:20 |
-| 22 | [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 |
-| 23 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 |
-| 24 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 |
-| 25 | [Dreams](https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Dreams](https://open.spotify.com/album/0X25tZlCCHAofXorBcuty3) | 3:38 |
-| 26 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 |
-| 27 | [Gimmicks](https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Gimmicks](https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV) | 3:17 |
+| 1 | [Call me when you need me](https://open.spotify.com/track/5sJ7YLGwsOP7pmwGTz2Osu) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Call me when you need me](https://open.spotify.com/album/5DgDuWTZ8cFgfUsymQvD9P) | 3:14 |
+| 2 | [Cast Away](https://open.spotify.com/track/60tNQTn6gG8IeBI1YsDVhf) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Cast Away](https://open.spotify.com/album/3cBGqMdAh3xBtU9oCjixpA) | 3:14 |
+| 3 | [Whiplash](https://open.spotify.com/track/1MAPgk3yv5Oft9A3opmFKt) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Whiplash](https://open.spotify.com/album/0VreXpycntuoYLnz36V08N) | 3:32 |
+| 4 | [I Don't Go Out](https://open.spotify.com/track/1MyaKBtXxY6fVXKpGnfpZh) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [I Don't Go Out](https://open.spotify.com/album/06IA3CmlGc7CO9MWkPG0Ib) | 2:38 |
+| 5 | [Dancing2](https://open.spotify.com/track/2ttnp69yYFGqppvqNGBBsW) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [Dancing2](https://open.spotify.com/album/7xx2t5BwTC6BrprRBynu50) | 4:32 |
+| 6 | [DON’T LOOK AT ME LIKE THAT](https://open.spotify.com/track/2sWwA2lynn8aJXlf2k5NgS) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [RACER](https://open.spotify.com/album/6vay9YuOMKK5Pij8urGx8x) | 2:43 |
+| 7 | [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 |
+| 8 | [storm](https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [storm](https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3) | 4:08 |
+| 9 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 |
+| 10 | [Chocolate](https://open.spotify.com/track/7ELsmbYGsoe911WcuFkLKf) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Chocolate](https://open.spotify.com/album/7I3QeEOfJk7fQ8iegHWFUc) | 3:43 |
+| 11 | [needle and thread](https://open.spotify.com/track/1BAS3dk6UejbMT5w4RywJA) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [needle and thread](https://open.spotify.com/album/3nQfJ7wScMr35vxSDdozXG) | 3:54 |
+| 12 | [Agnostic](https://open.spotify.com/track/7lXsk9wPqSrFUJ1vdiSPXL) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Agnostic](https://open.spotify.com/album/0udRRD0WX6mUqGV7voDWY1) | 3:21 |
+| 13 | [HEAVEN IS A DANCE FLOOR](https://open.spotify.com/track/3JLUj88lGBl4j6NRVN7vxW) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [DESIRE PATH](https://open.spotify.com/album/3vC3tHIOUT2TM4dIIXwsKZ) | 3:18 |
+| 14 | [Hey Hi Hello](https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ) | [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS) | [Hey Hi Hello](https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p) | 3:09 |
+| 15 | [MOVE](https://open.spotify.com/track/5FPfUz8dqrJmZEA0hV2nwT) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [MOVE](https://open.spotify.com/album/5WE3dloLqYGlTZi3bmQLJm) | 5:02 |
+| 16 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 |
+| 17 | [24/7](https://open.spotify.com/track/5EsODmIpUVw30t1Bq8dF5b) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [24/7](https://open.spotify.com/album/2dWmHY90dhPLu5pKnI5qDh) | 2:37 |
+| 18 | [Ride Or Die](https://open.spotify.com/track/7A6BREshRrCXX6nWgGLSan) | [PHEA](https://open.spotify.com/artist/746BKR1BgUEsXfFtpdTeWL) | [Ride Or Die](https://open.spotify.com/album/40WL9iL1HCYnppQLDbRuGJ) | 2:44 |
+| 19 | [Moonlight](https://open.spotify.com/track/1kQffpF3I0YD5dDVSYaEGG) | [Essy](https://open.spotify.com/artist/6tnxA4woi9zSxFDyOuBjIo) | [Moonlight](https://open.spotify.com/album/0ewLNJICTVLG7qiMKdwhrV) | 2:59 |
+| 20 | [Hold Me Closer](https://open.spotify.com/track/3Z9opAvcyRGRJBV6VcaptT) | [Soft Faith](https://open.spotify.com/artist/76TvRLbqtgOcAoIsBplbfz), [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Hold Me Closer](https://open.spotify.com/album/2k9qbwMJmO8HTT9TiYIeTG) | 3:19 |
+| 21 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 |
+| 22 | [I luv that babe](https://open.spotify.com/track/6ZT6neqII47y0pj6jekfS4) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [I luv that babe](https://open.spotify.com/album/4Tkh0wRWbGH1qLq00laUYc) | 2:20 |
+| 23 | [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 |
+| 24 | [Change Your Mind](https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B) | 2:59 |
+| 25 | [LAST MAN STANDING](https://open.spotify.com/track/1EWQItYxD9C6dicju78MWC) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [LAST MAN STANDING](https://open.spotify.com/album/2ZdaLdroDh69cI4FqsRo19) | 3:23 |
+| 26 | [Dreams](https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Dreams](https://open.spotify.com/album/0X25tZlCCHAofXorBcuty3) | 3:38 |
+| 27 | [The Hit](https://open.spotify.com/track/0cDf1WMAJW9CUubbp6Fb3d) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [The Hit](https://open.spotify.com/album/4mhrVYZZPIj5dwIDhyQDmK) | 3:39 |
 | 28 | [Alive](https://open.spotify.com/track/1BolvPHesuoFdC8hSPp4IW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Alive](https://open.spotify.com/album/779GE2JiWs969fsRY5P04G) | 4:00 |
 | 29 | [If I stop I'll feel it](https://open.spotify.com/track/3ZmazoGrS6OXn5iF2k5D5M) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [If I stop I'll feel it](https://open.spotify.com/album/4GCkV1Tw1RPjYgyN4953MI) | 3:00 |
 | 30 | [Blue Lagoon](https://open.spotify.com/track/3t5nTLIDZqxsNi1wAeLvFy) | [PAWWS](https://open.spotify.com/artist/7oTof0LWYf6S0mGq8K02CT) | [Blue Lagoon](https://open.spotify.com/album/7FiwcveyjTrUFk4chU2aFf) | 2:57 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 84 | [Mathematics](https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:26 |
 | 85 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 |
 
-Snapshot ID: `AAAAAA4zXsJfyX3H7NDXI97m4tfeBX23`
+Snapshot ID: `AAAAAAO7vYYJyz1t/2bzR6ZNrQtnpUOv`

@@ -4,7 +4,7 @@
 
 > Dance anthems from the club to your ears!
 
-250 songs - 17 hr 8 min
+251 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Be Sharp Say Nowt](https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc) | 3:48 | 2020-11-06 | 2023-11-05 |
 | [Be Sharp Say Nowt \- Edit](https://open.spotify.com/track/0j7O38949INodwi5ppDvFe) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/2Oc9mE5qOn4ft9hym2XJMw) | 3:48 | 2020-11-06 | 2024-04-19 |
 | [Beat Up The Drum](https://open.spotify.com/track/1akN2rCH2Nj2PRe12MFnaW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [Beat Up The Drum](https://open.spotify.com/album/0XW8vBrV29BhdbAqTTiiAz) | 3:19 | 2025-06-20 | 2025-08-08 |
+| [Beatbox](https://open.spotify.com/track/7CkESXBof0weZtHv2voolS) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Beatbox](https://open.spotify.com/album/5SATDgT7dl86qwY0QTJpso) | 3:14 | 2025-08-07 |  |
 | [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2020-11-06 | 2024-03-01 |
 | [Best Be Believing \- Shadow Child Remix](https://open.spotify.com/track/4ZOuB9nVbvyeEIYKbm55O4) | [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38), [Shadow Child](https://open.spotify.com/artist/0tMr0e1EQZ0Vci7EHz2bM9) | [Body Music \(Remixed\)](https://open.spotify.com/album/02ia0xYRyujnMk3AuCUqoR) | 5:51 | 2020-11-06 | 2024-01-18 |
 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 | 2020-11-06 | 2025-02-21 |
@@ -220,7 +221,7 @@
 | [The Don](https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Gabi'el](https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN) | [The Don](https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV) | 2:46 | 2024-09-06 | 2025-05-19 |
 | [The Groovy Cat](https://open.spotify.com/track/08d1uFAAtQgLbuvyP2AkoH) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [The Groovy Cat](https://open.spotify.com/album/2zL3pun7npuBMHeBPr7mtz) | 4:32 | 2020-11-06 | 2025-05-17 |
 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 | 2020-11-06 | 2023-11-16 |
-| [the one](https://open.spotify.com/track/6uBOGvxsHEn9rJyzwQSc1Z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [the one](https://open.spotify.com/album/6LntWVFC7jAmt6zIfFNFm1) | 3:38 | 2025-08-07 |  |
+| [the one](https://open.spotify.com/track/6uBOGvxsHEn9rJyzwQSc1Z) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [the one](https://open.spotify.com/album/6LntWVFC7jAmt6zIfFNFm1) | 3:38 | 2025-08-07 | 2025-08-23 |
 | [The Renegade](https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK) | [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [The Renegade EP](https://open.spotify.com/album/2nFqzhDJO6HBSQHGpsYhw7) | 2:30 | 2020-11-06 | 2024-03-01 |
 | [The Weekend](https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [The Weekend / Control the Media](https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI) | 2:58 | 2024-04-05 | 2024-11-24 |
 | [This Is My Life](https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life](https://open.spotify.com/album/65r6PbiURn3vzNaKkfgxF2) | 3:01 | 2024-03-01 | 2024-04-20 |

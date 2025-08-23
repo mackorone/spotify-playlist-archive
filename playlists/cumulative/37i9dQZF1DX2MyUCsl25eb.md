@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-943 songs - 2 day 6 hr 31 min
+945 songs - 2 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [A Taste Of Honey](https://open.spotify.com/track/4TexN91wQhOWCYgdpmufFj) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [A Taste Of Honey](https://open.spotify.com/album/3eNcPUpriTk6tZ6adXPPRc) | 2:09 | 2021-08-04 | 2022-04-02 |
 | [A World So Full of Love](https://open.spotify.com/track/77OBKDqQD0tvocHP5AXDDV) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [A World So Full of Love](https://open.spotify.com/album/788jxnxEP2HC7pmIrBu8St) | 2:51 | 2021-08-04 | 2022-04-02 |
 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 | 2023-05-12 | 2023-11-18 |
-| [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 | 2024-10-11 |  |
+| [A\-frame](https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [A\-frame](https://open.spotify.com/album/3myLTj5zDyZCt4aiq0gRyM) | 3:36 | 2024-10-11 | 2025-08-23 |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2021-11-19 | 2022-12-10 |
 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 | 2021-11-19 | 2022-07-29 |
 | [Adam, Check Please \(Up North Version\)](https://open.spotify.com/track/6RNNj7Le89tmgF6xogxJLi) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon Deluxe](https://open.spotify.com/album/4bZmcw0Yw0PCJvACN41kPJ) | 6:43 | 2024-03-22 | 2025-03-29 |
@@ -396,6 +396,7 @@
 | [I Don't Wanna Dance](https://open.spotify.com/track/330ssf1QuLQjoaoyZbyrPI) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [I Don't Wanna Dance](https://open.spotify.com/album/6vEl3ZGvpUT8acpCHHxKkS) | 3:02 | 2024-03-01 | 2024-09-28 |
 | [i don't wanna ruin ur party](https://open.spotify.com/track/1mYEAoHFaq4I5gJV0MvhSa) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i don't wanna ruin ur party](https://open.spotify.com/album/38ZS3InIKSDLYcKZpfm09m) | 2:22 | 2022-09-30 | 2022-10-08 |
 | [I Don’t Know How To End](https://open.spotify.com/track/24n43FNabatI424TFU39Tr) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Sunday In Heaven](https://open.spotify.com/album/6Xi4qZBRpq328DPysFR6fO) | 4:00 | 2022-10-14 | 2023-05-13 |
+| [i don’t know you](https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [Garden State](https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3) | 3:23 | 2025-08-22 |  |
 | [I Don’t Wanna See You Try](https://open.spotify.com/track/6BhFYU7Fyq85NIFRmHbVaY) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [I Don’t Wanna See You Try](https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB) | 2:43 | 2024-02-23 | 2025-03-08 |
 | [I Get It Now](https://open.spotify.com/track/0bgkFYeUHHu3ANzPwvGUgH) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky Continued](https://open.spotify.com/album/3iguCKsubREAOrpyG0wcoZ) | 3:38 | 2023-10-13 | 2024-07-06 |
 | [I Guess](https://open.spotify.com/track/0rkKuNq4U8E8KTLq7RRl1Z) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [I Guess](https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E) | 3:44 | 2024-03-15 | 2024-10-05 |
@@ -661,7 +662,7 @@
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 |  |
 | [Rainbow](https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:34 | 2021-08-04 | 2022-08-13 |
 | [Raincatchers](https://open.spotify.com/track/6StoqrO6Hm52RQaQMUrotJ) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Raincatchers](https://open.spotify.com/album/4l4OKQn58HsPNuIdCldPfU) | 3:59 | 2023-03-03 | 2023-09-16 |
-| [Rather Be Lonely](https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Rather Be Lonely](https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB) | 2:44 | 2024-07-19 |  |
+| [Rather Be Lonely](https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Rather Be Lonely](https://open.spotify.com/album/0cENSCQhJwwx9rtMBcs1pB) | 2:44 | 2024-07-19 | 2025-08-23 |
 | [Ready](https://open.spotify.com/track/6zPShdSv4OhuqBEVi1pbvO) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Ready](https://open.spotify.com/album/4HYFwsvWNfN400hyJiyjdM) | 2:54 | 2023-06-09 | 2023-08-05 |
 | [Ready to Go](https://open.spotify.com/track/0ImT0gd8nSmypPjZQrEecl) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [The Hardest Part](https://open.spotify.com/album/0CIYj6AV180SmLAEONb2DW) | 3:07 | 2022-06-24 | 2022-10-07 |
 | [Ready to Go](https://open.spotify.com/track/4DPbmIOru8LNVnYctKG9oc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Ready to Go](https://open.spotify.com/album/226XwxWegT3yUEwlvxWmvA) | 3:07 | 2022-06-24 | 2022-09-15 |
@@ -797,6 +798,7 @@
 | [superhuman](https://open.spotify.com/track/7BTNd80NiL6anY2mnSYkgQ) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [superhuman](https://open.spotify.com/album/0johO4xlYDXem8iYmjKoha) | 2:50 | 2022-10-21 | 2023-07-08 |
 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 | 2022-08-12 | 2022-08-27 |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-06-27 |  |
+| [Sweet Talk](https://open.spotify.com/track/7kbQOGIwFOpLGD08lK8DQ0) | [Archie Madekwe](https://open.spotify.com/artist/0ocHYFujtXLkWmCift0Z7Y), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Lurker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg) | 2:18 | 2025-08-22 |  |
 | [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-02 | 2025-04-26 |
 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 | 2023-03-17 | 2024-03-23 |
 | [Talk About Love](https://open.spotify.com/track/2xc5PUIG6lJVvn3yr96n1r) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Talk About Love](https://open.spotify.com/album/5i6UvFvn2My0AZCwyDIXGN) | 3:48 | 2024-01-31 | 2024-03-30 |

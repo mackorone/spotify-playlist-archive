@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-820 songs - 1 day 15 hr 46 min
+821 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [C'est La Vie](https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [C'est La Vie](https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx) | 2:35 | 2024-05-24 | 2024-07-01 |
 | [Calabash](https://open.spotify.com/track/38fddB34U8mv6ID4jcvndR) | [Looking for Avala](https://open.spotify.com/artist/0ze3oqXaudUaJP8HBRuJJ1) | [Calabash](https://open.spotify.com/album/13lvpRxnYYnWZWgdnMVrRv) | 2:36 | 2023-01-27 | 2023-02-04 |
 | [Calculate](https://open.spotify.com/track/4FMfmvlC2DpXIQmpYpcdlC) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [Calculate](https://open.spotify.com/album/6WGAahcjDpFiel0OOcKbyo) | 3:00 | 2025-05-16 |  |
+| [Calculate II \- II](https://open.spotify.com/track/1sCQfPNKw2QIIV0CloMdpw) | [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Calculate II](https://open.spotify.com/album/1PkPQJDdcDjgG6tCgiUBlK) | 3:00 | 2025-08-22 |  |
 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 | 2024-04-05 | 2024-05-03 |
 | [California](https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [California / Rollercoaster](https://open.spotify.com/album/6ocXzmy38tFXV54CL56bga) | 2:20 | 2024-06-28 | 2024-10-01 |
 | [Call My Phone](https://open.spotify.com/track/2Buv3NUP63ckzuKMouDGC6) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Call My Phone](https://open.spotify.com/album/4uYnTUhUNGcIt61Qt9j3yw) | 2:17 | 2023-03-03 | 2023-03-18 |
@@ -261,7 +262,7 @@
 | [First Sight](https://open.spotify.com/track/02DkSzg2JUcKiWllkiZKlO) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [First Sight](https://open.spotify.com/album/3xOkRgxPDogV62jurUx4Vg) | 3:06 | 2025-05-23 |  |
 | [FLAMES](https://open.spotify.com/track/6T3Y4utPEBs35xiG3e7Ebp) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [MY DIARY \- EP](https://open.spotify.com/album/2AtDDefSJveMubpGuqch1r) | 2:50 | 2022-07-21 | 2022-09-09 |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-01-27 | 2024-02-09 |
-| [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 |  |
+| [Folasade](https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Folasade](https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN) | 2:48 | 2025-06-13 | 2025-08-23 |
 | [Folelé](https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:48 | 2023-05-26 | 2023-06-10 |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-04-28 | 2024-04-04 |
 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2022-03-31 | 2024-02-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,947 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,989 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 24 | [Señor Miedo](https://open.spotify.com/track/3G5meYRoaJZ75cD1JUxUU6) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Señor Miedo](https://open.spotify.com/album/6erc20YBqIjgK1JaOaLnPb) | 3:52 |
 | 25 | [La Mera Marca \(Frostix\)](https://open.spotify.com/track/6gBklUstYsMXwIshzFuokW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Mera Marca \(Frostix\)](https://open.spotify.com/album/6Mqd5nHyiabPoQtKodtKAr) | 3:07 |
 | 26 | [Cerveza Al Aire](https://open.spotify.com/track/0lclNVJgbfNZDdwIwkAZbO) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Cerveza Al Aire](https://open.spotify.com/album/1zrNUiT3MeXWxOIHhbW5kQ) | 3:51 |
-| 27 | [Los Sierra](https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Los Sierra](https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk) | 2:48 |
-| 28 | [El Halcon](https://open.spotify.com/track/6XlkDOzPNCvBhrBRMEgpK9) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Halcon](https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy) | 3:44 |
+| 27 | [El Halcon](https://open.spotify.com/track/6XlkDOzPNCvBhrBRMEgpK9) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Halcon](https://open.spotify.com/album/1qgHPNs3Yz5aTKZXTc6Ycy) | 3:44 |
+| 28 | [Los Sierra](https://open.spotify.com/track/5Bxpl6JLicyjM4W8qsdZiW) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Los Sierra](https://open.spotify.com/album/33CwQFjErZn91NdIgH1WDk) | 2:48 |
 | 29 | [El Buenazo](https://open.spotify.com/track/09n6isQIxzROWYMFgkKz10) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:59 |
 | 30 | [El Muchacho De Las Cajas](https://open.spotify.com/track/4P5GD2VOkMahwrqIjOYGTD) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 3:21 |
 | 31 | [La Pluma De Wax](https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Tite Chavez](https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q) | [La Pluma De Wax](https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g) | 2:39 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 40 | [Andares](https://open.spotify.com/track/1HteRXTExneqPT4b62Vkmf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [El Filly Y Sus Aliados](https://open.spotify.com/artist/0qvV5NBJR6uHz2B43Wxemt) | [Andares](https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p) | 2:31 |
 | 41 | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/track/1BlDvvKfBQZZn2wnJdUshp) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Muchas Gracias Chavalones \(En Vivo\)](https://open.spotify.com/album/7nTD2z80D62N6JoyPtVjZA) | 3:48 |
 | 42 | [Nos Cayeron los Guachitos](https://open.spotify.com/track/2OcwUZJSDpmqDTdHoGI1PH) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Nos Cayeron los Guachitos](https://open.spotify.com/album/4BvfkPKhO3tBrV6pPxlSqy) | 3:28 |
-| 43 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
-| 44 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
+| 43 | [Desde Mañana](https://open.spotify.com/track/14kS4GlsFQGGc480lGfmW4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Desde Mañana](https://open.spotify.com/album/0sY4rfTBN58ZjQC7S14SlR) | 3:28 |
+| 44 | [La Elegancia Se Miro](https://open.spotify.com/track/6XJ4CQ5E9c71cTkPHhivAN) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8) | [La Elegancia Se Miró](https://open.spotify.com/album/40uIryLOvhReoMWynEq2GD) | 3:28 |
 | 45 | [DEFIENDO EL TERRE](https://open.spotify.com/track/150x3uhN0IOSohoxaj3auy) | [Máxima Ventaja](https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [DEFIENDO EL TERRE](https://open.spotify.com/album/3dSuYPcIUIgUdUZsKZiDMh) | 2:30 |
-| 46 | [No Son Caricaturas](https://open.spotify.com/track/3DiUJWoWuCbxqBdHAYYGt7) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Son Caricaturas](https://open.spotify.com/album/4kIdCDTBEwE0aH19xyWdmt) | 3:22 |
-| 47 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 |
+| 46 | [El Sobrino](https://open.spotify.com/track/22LdqMvbsQnnpO264LlaOf) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Sobrino](https://open.spotify.com/album/1mTlBDsYsV7oPkca862gSk) | 2:40 |
+| 47 | [No Son Caricaturas](https://open.spotify.com/track/3DiUJWoWuCbxqBdHAYYGt7) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [No Son Caricaturas](https://open.spotify.com/album/4kIdCDTBEwE0aH19xyWdmt) | 3:22 |
 | 48 | [La Torre Eiffel](https://open.spotify.com/track/3PBCGgKFkuJmyYUHtqxsKQ) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Torre Eiffel](https://open.spotify.com/album/7zkdFW7q3ASZDMewQSV4Ab) | 3:00 |
 | 49 | [El Chato](https://open.spotify.com/track/0uNazwI0XPyMqVw4LOsOUt) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [El Chato](https://open.spotify.com/album/1pcmtSkSvsZX2anSkn5zsI) | 3:33 |
 | 50 | [Cuatro Letras](https://open.spotify.com/track/2xQdn2sYrp4bNJunP8aEOx) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Forjando El Camino](https://open.spotify.com/album/5NcAXKjS33TtqttBKRjcsx) | 2:49 |
 
-Snapshot ID: `aKO+gAAAAAAVRnijSKNAABzPrB15gP/E`
+Snapshot ID: `aKZhgAAAAAD16QLUNmkEeVemxHbk13sU`

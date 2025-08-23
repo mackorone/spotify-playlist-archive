@@ -1,13 +1,133 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Aug 03:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Aug 22:05 UTC.",
   "num_followers": 100,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUITeNHZJzn5G2j+Efu9Io9yjSPXaQ",
+  "snapshot_id": "AAAUKY0ZkIAz8YyPQhNB0kDSweU++pKL",
   "tracks": [
+    {
+      "added_at": "2025-08-22 08:04:42",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 169294,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
+    },
+    {
+      "added_at": "2025-08-22 18:06:05",
+      "album": {
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
+    },
+    {
+      "added_at": "2025-08-22 18:06:05",
+      "album": {
+        "name": "Pay & Display",
+        "url": "https://open.spotify.com/album/03of5N9ZECWetEYkjc4ZaD"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Pay & Display",
+      "url": "https://open.spotify.com/track/70yJFOirBNUOK8DoWFIhod"
+    },
+    {
+      "added_at": "2025-08-22 22:05:02",
+      "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/0Ha1jsS1Y0BZwiOK1mgWOc"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt"
+    },
+    {
+      "added_at": "2025-08-22 18:06:05",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
+    },
+    {
+      "added_at": "2025-08-22 13:05:12",
+      "album": {
+        "name": "Sunscreen",
+        "url": "https://open.spotify.com/album/00x7wb3nZ4UCqAjOMhaN9P"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 187320,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3MAJodlxg5qPqVDu0TW4aB"
+    },
+    {
+      "added_at": "2025-08-22 22:05:02",
+      "album": {
+        "name": "Hey Curtis",
+        "url": "https://open.spotify.com/album/0T2ayU1U6GN9CyIR3ynckY"
+      },
+      "artists": [
+        {
+          "name": "Dave Blunts",
+          "url": "https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j"
+        }
+      ],
+      "duration_ms": 251142,
+      "name": "Hey Curtis",
+      "url": "https://open.spotify.com/track/34ycZDbSn54bj7woHHsbct"
+    },
     {
       "added_at": "2025-08-22 03:04:44",
       "album": {
@@ -23,6 +143,22 @@
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "added_at": "2025-08-22 18:06:05",
+      "album": {
+        "name": "Free As A Bird (2025 Mix)",
+        "url": "https://open.spotify.com/album/4xapkZNwiVtC9SGOQJfHCW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Free As A Bird (2025 Mix)",
+      "url": "https://open.spotify.com/track/6XNF8RS4XH1o4ljx1A1r8m"
     },
     {
       "added_at": "2025-08-21 22:03:51",
@@ -57,6 +193,38 @@
       "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
     },
     {
+      "added_at": "2025-08-22 13:05:12",
+      "album": {
+        "name": "If He Wanted To He Would",
+        "url": "https://open.spotify.com/album/0j60ar6J7DC0QA0TbxAJfR"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "If He Wanted To He Would",
+      "url": "https://open.spotify.com/track/508FUEqlyZv4Fnip7no5if"
+    },
+    {
+      "added_at": "2025-08-22 22:05:02",
+      "album": {
+        "name": "Burning Up",
+        "url": "https://open.spotify.com/album/2ree99pgw7rfKASXNnx08q"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/0jFf0E5IwXuoa9VvfMGezJ"
+    },
+    {
       "added_at": "2025-08-21 18:04:36",
       "album": {
         "name": "Stardust / The Whole Woman",
@@ -71,6 +239,22 @@
       "duration_ms": 406093,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/1Kl98pNTsvegkWpUKIO6bH"
+    },
+    {
+      "added_at": "2025-08-22 18:06:05",
+      "album": {
+        "name": "Like 1",
+        "url": "https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "Like 1",
+      "url": "https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V"
     },
     {
       "added_at": "2025-08-20 22:03:57",
@@ -411,7 +595,7 @@
     {
       "added_at": "2025-08-16 18:03:58",
       "album": {
-        "name": "Bike Air Anthem",
+        "name": "Bike Air Anthem (feat. Nigel Sylvester)",
         "url": "https://open.spotify.com/album/4BqLZhPK5wK6arUiSbuI7Q"
       },
       "artists": [
@@ -421,7 +605,7 @@
         }
       ],
       "duration_ms": 87272,
-      "name": "Bike Air Anthem",
+      "name": "Bike Air Anthem (feat. Nigel Sylvester)",
       "url": "https://open.spotify.com/track/64l10zH8TMlar9zCqpUaEg"
     },
     {
@@ -639,194 +823,6 @@
       "duration_ms": 99787,
       "name": "BUFF BBY",
       "url": "https://open.spotify.com/track/3hgKImbnnlEo91XTerv2NV"
-    },
-    {
-      "added_at": "2025-08-17 18:03:47",
-      "album": {
-        "name": "missed calls.",
-        "url": "https://open.spotify.com/album/7Emb9JSYbzWrvsTk9pRC8a"
-      },
-      "artists": [
-        {
-          "name": "shteppi",
-          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
-        }
-      ],
-      "duration_ms": 129254,
-      "name": "missed calls.",
-      "url": "https://open.spotify.com/track/2a1yoleQBqguvqshRdvtsT"
-    },
-    {
-      "added_at": "2025-08-20 13:07:45",
-      "album": {
-        "name": "Little By Little (Live from London, 2 August '25)",
-        "url": "https://open.spotify.com/album/5QSPQFuj1heseH4jEQoHCY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 285627,
-      "name": "Little By Little (Live from London, 2 August '25)",
-      "url": "https://open.spotify.com/track/3DbYSWmxCEBmrvm0guKasf"
-    },
-    {
-      "added_at": "2025-08-17 08:03:59",
-      "album": {
-        "name": "FACEDOWN",
-        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 221818,
-      "name": "FACEDOWN",
-      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
-    },
-    {
-      "added_at": "2025-08-16 13:04:06",
-      "album": {
-        "name": "The Hives Forever Forever The Hives",
-        "url": "https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "The Hives Forever Forever The Hives",
-      "url": "https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2"
-    },
-    {
-      "added_at": "2025-08-16 13:04:06",
-      "album": {
-        "name": "Prison of Flesh",
-        "url": "https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC"
-      },
-      "artists": [
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 420124,
-      "name": "Prison of Flesh",
-      "url": "https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56"
-    },
-    {
-      "added_at": "2025-08-20 03:04:04",
-      "album": {
-        "name": "Lesbian Of The Year",
-        "url": "https://open.spotify.com/album/2jxlwT7sZN9ios4LuXQSsW"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 213824,
-      "name": "Lesbian Of The Year",
-      "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
-    },
-    {
-      "added_at": "2025-08-14 13:08:12",
-      "album": {
-        "name": "Forever War",
-        "url": "https://open.spotify.com/album/0GDhHytgn4PGWwNPBvuZlS"
-      },
-      "artists": [
-        {
-          "name": "clipping.",
-          "url": "https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I"
-        },
-        {
-          "name": "Daveed Diggs",
-          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
-        },
-        {
-          "name": "Jonathan Snipes",
-          "url": "https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M"
-        },
-        {
-          "name": "William Hutson",
-          "url": "https://open.spotify.com/artist/709RUroHgigfxfOrPwVDAm"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "Forever War",
-      "url": "https://open.spotify.com/track/5bAr1S3IqWhybdnN6nDt6b"
-    },
-    {
-      "added_at": "2025-08-15 13:03:53",
-      "album": {
-        "name": "War Crimes",
-        "url": "https://open.spotify.com/album/40ww0FderTFvmw8tTLyIbx"
-      },
-      "artists": [
-        {
-          "name": "Hail The Sun",
-          "url": "https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6"
-        }
-      ],
-      "duration_ms": 288813,
-      "name": "War Crimes",
-      "url": "https://open.spotify.com/track/1dLUJmlmxeVGTuYZIAvMuE"
-    },
-    {
-      "added_at": "2025-08-14 18:23:56",
-      "album": {
-        "name": "HIT ME BEDI ONE MORE TIME",
-        "url": "https://open.spotify.com/album/5qJNvA7ZYDX3K36hOF5Ctl"
-      },
-      "artists": [
-        {
-          "name": "Eripe",
-          "url": "https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL"
-        }
-      ],
-      "duration_ms": 353548,
-      "name": "HIT ME BEDI ONE MORE TIME",
-      "url": "https://open.spotify.com/track/0Dh0RRMI8XVJSWh6jMoF29"
-    },
-    {
-      "added_at": "2025-08-15 22:03:39",
-      "album": {
-        "name": "Obsolete",
-        "url": "https://open.spotify.com/album/5t5ATC7XZSx8clvDETqDYH"
-      },
-      "artists": [
-        {
-          "name": "vianova",
-          "url": "https://open.spotify.com/artist/01DWiz55UPC4lQOGIo4z5n"
-        }
-      ],
-      "duration_ms": 312750,
-      "name": "Obsolete",
-      "url": "https://open.spotify.com/track/7MuVMzOoomIlcdTRPx4hiP"
-    },
-    {
-      "added_at": "2025-08-17 13:03:51",
-      "album": {
-        "name": "Nanaman",
-        "url": "https://open.spotify.com/album/4ytEbWBXLTrrgfu9plJhr8"
-      },
-      "artists": [
-        {
-          "name": "IV OF SPADES",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 191908,
-      "name": "Nanaman",
-      "url": "https://open.spotify.com/track/60x9cVQ3agMY2tNtzisgVK"
     }
   ],
   "unique_name": "New Singles Now",

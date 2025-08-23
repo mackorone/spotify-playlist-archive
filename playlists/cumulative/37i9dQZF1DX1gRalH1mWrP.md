@@ -4,7 +4,7 @@
 
 > All the hits you'll need to make your summer sizzle.
 
-1,376 songs - 2 day 22 hr 57 min
+1,377 songs - 2 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [Lois](https://open.spotify.com/track/2Kki4MvKJuZJgB6UPCpKJB) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Nonsuch Park \(sa\)](https://open.spotify.com/album/1hghzbtni8r1JTLHlAlPDm) | 2:54 | 2020-09-05 | 2021-04-30 |
 | [lonely anthem](https://open.spotify.com/track/0TtGNEFv8hTSTFJDXUA7lp) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [lonesome](https://open.spotify.com/album/5tvGgatnybABXI9xao61yZ) | 3:36 | 2019-07-27 | 2019-07-30 |
 | [Look Easy](https://open.spotify.com/track/0JzPnwc3eDdyBeReXFLgXr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Look Easy](https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi) | 2:45 | 2020-07-11 | 2020-07-22 |
-| [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 | 2025-05-02 |  |
+| [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 | 2025-05-02 | 2025-08-23 |
 | [Lose Somebody](https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:19 | 2020-05-31 | 2020-07-22 |
 | [Lose Somebody](https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Lose Somebody](https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc) | 3:19 | 2020-05-17 | 2020-05-30 |
 | [Losing Sleep](https://open.spotify.com/track/4JTewNRFNQ0bRxirg1gqMk) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Losing Sleep](https://open.spotify.com/album/6RzE3h2wJzjU6U1CdpLsRg) | 2:41 | 2021-07-01 | 2021-07-22 |
@@ -767,6 +767,7 @@
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-18 | 2024-04-16 |
 | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Midnight \(feat\. Liam Payne\)](https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG) | 3:40 | 2020-04-29 | 2020-08-05 |
 | [Midnight Sky](https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Midnight Sky](https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51) | 3:43 | 2020-08-15 | 2021-04-30 |
+| [Midnight Sun](https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki) | 3:09 | 2025-07-18 |  |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-05-17 | 2025-06-07 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 | 2024-08-13 |
 | [mind games](https://open.spotify.com/track/36KJMSaMTtDHkF3m90avQc) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [mind games](https://open.spotify.com/album/2wCYKDy70ayKcRquGlg7T5) | 3:41 | 2019-06-01 | 2019-06-26 |

@@ -2,9 +2,9 @@
 
 ### [RAP 91 Haryanvi](https://open.spotify.com/playlist/37i9dQZF1DWXpuQNEd48No)
 
-> Best of Haryanvi Hip\-Hop! Cover: Addy Nagar
+> Best of Haryanvi Hip\-Hop! Cover: RP Singh
 
-477 songs - 1 day 0 hr 16 min
+479 songs - 1 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Backbite](https://open.spotify.com/track/2uX1XfBbQ6zZHarP7cAfIk) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Backbite](https://open.spotify.com/album/0oZKnE7KIntFjsPNJKXo9B) | 3:51 | 2023-09-27 | 2023-10-07 |
 | [Bad Boys](https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [Bad Boys](https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw) | 2:22 | 2023-12-22 | 2025-02-11 |
 | [Bad News Drill](https://open.spotify.com/track/1IpSX0jH7yyoG7ZeHG7oN8) | [Guru](https://open.spotify.com/artist/0GBqKfsf3Y5Iw7Z5f4rgMt), [Vaakya](https://open.spotify.com/artist/3cUTrXS7lwWqS1u2PmGKFB) | [Bad News Drill](https://open.spotify.com/album/2pxnxTcemCejjBedwJFvMI) | 3:28 | 2025-08-05 | 2025-08-13 |
-| [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 | 2025-05-09 |  |
+| [BADERA](https://open.spotify.com/track/6lPHkAlcTwbasmpaGJ0MiY) | [BOBBY GAHLOT AKA RJ01](https://open.spotify.com/artist/7ft8TXI7fXZgCWdUYgP5yu), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [BADERA](https://open.spotify.com/album/77mzQDtenloNZCgsZtGtEo) | 2:23 | 2025-05-09 | 2025-08-23 |
 | [Badmash](https://open.spotify.com/track/0oZpi8tiIxUqtNkJD8Iaue) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Nuke](https://open.spotify.com/album/0agmnQzKZ1aKvC4eSFau14) | 2:17 | 2025-02-15 | 2025-05-21 |
 | [Badmash](https://open.spotify.com/track/59NeNxSve36qM7JRHVdD6G) | [KD](https://open.spotify.com/artist/0RPNJNnaW9YEmWCHtL5Yo2) | [Badmash](https://open.spotify.com/album/1Aa0LC60RZzl1qGSjyTbvI) | 5:56 | 2023-09-27 | 2025-01-11 |
 | [Badmos Chora](https://open.spotify.com/track/1aN0nqXAM5fgrsmltCMUgq) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:21 | 2023-07-11 | 2023-12-15 |
@@ -109,6 +109,7 @@
 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 | 2023-12-14 | 2025-01-11 |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
 | [City Seized](https://open.spotify.com/track/1iIZKR036e1FtffuSydKHO) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [City Seized](https://open.spotify.com/album/459mJj5wBl29EAQqSq5J7q) | 2:48 | 2025-05-13 | 2025-06-21 |
+| [Coin Flip](https://open.spotify.com/track/76qBKKtRyeUEV4pCc3K48a) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [Coin Flip](https://open.spotify.com/album/5GSzBqYjLEImAwjBHwFj2P) | 5:40 | 2025-08-22 |  |
 | [Commercial](https://open.spotify.com/track/22NIX7ocBNnIMH0WCrTqpY) | [Dev Lohia](https://open.spotify.com/artist/6e5BITKRuXj4Xu4Jmfwtnp) | [Commercial](https://open.spotify.com/album/0jL3NoyEZCuNz8Mj7620Rq) | 1:59 | 2024-11-29 | 2025-01-19 |
 | [Concentrate Drill](https://open.spotify.com/track/7BRxPnK4rwOf01MMCUljSI) | [Chota Puthar Aala](https://open.spotify.com/artist/4UU6mpKAEYiMTEf7J5Zgp7), [Sumit Seedpuriya](https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS) | [Concentrate Drill](https://open.spotify.com/album/4odgsg6ibpmkxaQNbLUov1) | 4:17 | 2024-07-03 | 2024-07-09 |
 | [Confuse](https://open.spotify.com/track/5nXadOAptwlFI7desJ3P1e) | [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Confuse](https://open.spotify.com/album/4oLOKpv3T6F7GoE6Q8rRGQ) | 2:39 | 2024-09-16 | 2024-10-25 |
@@ -159,6 +160,7 @@
 | [FARIDA DRIP](https://open.spotify.com/track/3mInEHbMdIsY7E4czvxloZ) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FARIDA DRIP](https://open.spotify.com/album/2bBOwF7NrAR5Y74C8d5diO) | 4:11 | 2024-09-30 | 2025-02-16 |
 | [FARIDA DRIP](https://open.spotify.com/track/07tKXov8dK1y2pS1DbfreN) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 4:20 | 2025-01-31 |  |
 | [Farishtey](https://open.spotify.com/track/4fSsIfi3B5iaIxkuqc5o4L) | [Saaba](https://open.spotify.com/artist/1IYtQx00jWkGZcUb92vslE), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Farishtey](https://open.spotify.com/album/2DYyLv76d0su54WSRaOuYS) | 1:40 | 2025-08-05 |  |
+| [Fearless](https://open.spotify.com/track/4ZRaZBEzEyYp5DqE7WvGzR) | [Yogi Aulakh](https://open.spotify.com/artist/5J2xmfWX1pR9OgoGb4Zuaz) | [Fearless](https://open.spotify.com/album/1GhFjVBMSz7PVuWcMCuzgp) | 2:59 | 2025-08-22 |  |
 | [Few](https://open.spotify.com/track/51Kyb1MRMYvAcH6VgiOz1b) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Exhibition](https://open.spotify.com/album/3qaP1e96sP9YJUW1QTYrIu) | 2:23 | 2025-01-24 | 2025-02-01 |
 | [Fire Dabey](https://open.spotify.com/track/1kNaWZ2bskms40GY2IX8cS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [Muzik Amy](https://open.spotify.com/artist/5ksHS8iRqki2cehxR7lJbK), [Ravish Khanna](https://open.spotify.com/artist/33PxISTUOjYQUH3hmo63MT) | [Fire Dabey](https://open.spotify.com/album/5jQKtKpPJlwMTDmDB2yhcT) | 2:52 | 2025-01-31 | 2025-08-06 |
 | [Fire Spit](https://open.spotify.com/track/2zJx7a2mnrXAyExxm5WmYe) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [3rd Eye](https://open.spotify.com/artist/318a6U8piaVqh1qyTD5sqZ) | [F1](https://open.spotify.com/album/3AqhupPmnUNCvvNEx0F61s) | 2:40 | 2025-02-28 |  |
@@ -323,7 +325,7 @@
 | [Mote Kharche](https://open.spotify.com/track/3dNToqbycdUSywpw0ZyCOC) | [Laath Saab](https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7) | [Mote Kharche](https://open.spotify.com/album/4dQF9RxSETEd7mUdY6yTyt) | 2:44 | 2024-07-16 | 2024-07-19 |
 | [Move Back](https://open.spotify.com/track/3NENq5fDBChRZI626K1K3g) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Move Back](https://open.spotify.com/album/6o7iRip7uIr7L7dfUGDjhT) | 2:24 | 2024-12-19 | 2025-02-01 |
 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 | 2023-03-28 | 2024-08-13 |
-| [MY JOURNEY](https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:52 | 2025-08-05 |  |
+| [MY JOURNEY](https://open.spotify.com/track/0TV4X4739sqDGHFPjWm8iG) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [KING IN THE NORTH](https://open.spotify.com/album/17j95vZcDXP95NTwVBZ77s) | 2:52 | 2025-08-05 | 2025-08-23 |
 | [My Time](https://open.spotify.com/track/6vX78Jh5vcsvnu8zECaxth) | [DEEP KAMBOJ](https://open.spotify.com/artist/6ObYocifnW8x3LpHkRUqWk) | [My Time](https://open.spotify.com/album/0AZp22eymljt7v6ZFZv9yw) | 2:32 | 2023-06-22 | 2023-06-30 |
 | [Na Bawle](https://open.spotify.com/track/0AA9WdZRQxyQciaf4wuJSl) | [Sunny Boi Singh](https://open.spotify.com/artist/6NtfxVEjZtsMvpz9WPe0WC) | [Na Bawle](https://open.spotify.com/album/4gPcOlRFGEo07gm8APwCse) | 2:51 | 2025-01-10 | 2025-03-01 |
 | [Nahi Jande](https://open.spotify.com/track/4obkomcW1e0D9iB9FnTDnV) | [Miki Malang](https://open.spotify.com/artist/5vGjn7KpA1qJNuy2Ez9yRM), [Ron Likhari](https://open.spotify.com/artist/3HtPdSP2gc9CkXVysXsRQS), [Harssh Dada](https://open.spotify.com/artist/58M48cKnFnWJs6gvhA77tX) | [Nahi Jande](https://open.spotify.com/album/2UuFywp58lCAt3AzZobpqX) | 3:23 | 2025-01-31 | 2025-03-01 |

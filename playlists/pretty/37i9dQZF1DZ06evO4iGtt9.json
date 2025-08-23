@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8421,
+  "num_followers": 8426,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACmVCSU+GbdLuTiCiTll46Z",
+  "snapshot_id": "aKZhgAAAAADDZ1TGCwaxaiDgKzk7pWpW",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 161684,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
+      "duration_ms": 183529,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
+      "duration_ms": 161684,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
     },
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Panic, Vol. 2",
-        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 148140,
-      "name": "Taku",
-      "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Serious",
         "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 245626,
       "name": "Good Or Bad (Oway)",
       "url": "https://open.spotify.com/track/1jqBgNjP5yfjCrAgJZE0be"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zero Panic, Vol. 2",
+        "url": "https://open.spotify.com/album/2eX6rXJEXd2Gs8kD0nDkC4"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 148140,
+      "name": "Taku",
+      "url": "https://open.spotify.com/track/63A8SVGGOBFB6OtmMEyBGv"
     },
     {
       "added_at": null,
@@ -303,6 +303,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ODESHI",
         "url": "https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 192053,
       "name": "ODESHI",
       "url": "https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": null,
@@ -443,6 +443,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alubarika",
+        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "Alubarika",
+      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To U",
         "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
       },
@@ -499,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alubarika",
-        "url": "https://open.spotify.com/album/6IZKiJ8BBmkh176u71Tvyw"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Alubarika",
-      "url": "https://open.spotify.com/track/5xgplU8BucIPYcUehSY7ym"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 265404,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
       },
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Story",
         "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
       },
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
     },
     {
       "added_at": null,

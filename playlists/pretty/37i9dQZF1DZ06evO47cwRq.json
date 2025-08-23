@@ -1,12 +1,12 @@
 {
   "description": "This is Linkin Park. The essential tracks, all in one playlist.",
-  "num_followers": 2948295,
+  "num_followers": 2948802,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACNKqhvF0y/nqPMuebNjuHe",
+  "snapshot_id": "aKZhgAAAAACtEOvkrjDfpeq9Fe6D5Gyc",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Zero (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/2SwdMXPvGdciXamSjfoNH9"
+      "duration_ms": 189293,
+      "name": "Given Up",
+      "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+        "name": "From Zero (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Given Up",
-      "url": "https://open.spotify.com/track/1fLlRApgzxWweF1JTf8yM5"
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/2SwdMXPvGdciXamSjfoNH9"
     },
     {
       "added_at": null,
@@ -267,6 +267,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "Leave Out All The Rest",
+      "url": "https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
         "url": "https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "Leave Out All The Rest",
-      "url": "https://open.spotify.com/track/0sp00HSXkQyqTa6QqM0O8V"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Transformers: Revenge Of The Fallen The Album",
         "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 268613,
       "name": "New Divide",
       "url": "https://open.spotify.com/track/6Wx88Mv6b9ofjKMKkdwOJd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": null,

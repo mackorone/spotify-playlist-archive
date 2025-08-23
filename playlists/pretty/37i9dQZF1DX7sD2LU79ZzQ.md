@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Perunggu
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,259 likes - 124 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,299 likes - 124 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 3](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 0:00 |
+| 1 | [Gemilang](https://open.spotify.com/track/7EPJbZ3UygY2fqhOdqOSaT) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Dalam Dinamika](https://open.spotify.com/album/1Mhq1R6xMuXuWUgbl6B6Iv) | 5:00 |
 | 2 | [Teruntuk Dirimu](https://open.spotify.com/track/7bI01b0ysHcQOeMZ3u6cl4) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Teruntuk Dirimu](https://open.spotify.com/album/0OYS4La7wPJayqBmrZfSLr) | 4:09 |
 | 3 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 |
 | 4 | [Itu Kamu](https://open.spotify.com/track/3lOI3katUtaSPNzTib0kKf) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Itu Kamu](https://open.spotify.com/album/70edAUYslKNTNQDwZw9nY7) | 3:28 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 11 | [Percik Kecil](https://open.spotify.com/track/6CsSNFkQVVuQjRQMrzyDzq) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC), [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Percik Kecil](https://open.spotify.com/album/3TrKCx9c3yJ7iD7NsIDRAC) | 3:49 |
 | 12 | [Semua Kan Terjawab](https://open.spotify.com/track/6Or0Oukup3AsagLC0VYUOK) | [Gigi](https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf) | [Semua Kan Terjawab](https://open.spotify.com/album/2bZWsdlVjZsZwabcXbXe6T) | 4:06 |
 | 13 | [Tidak Banyak \- Banyak](https://open.spotify.com/track/5KoC6YdabgtcxPeBVJSQ9J) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Tidak Banyak \- Banyak](https://open.spotify.com/album/4fYVJrm2ngaGcqYw9O4llT) | 4:22 |
-| 14 | [Ingatlah Aku Disini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Disini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
+| 14 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
 | 15 | [Gelora Asmara](https://open.spotify.com/track/4zPZ7Uy5MLeIfeq4G46UIu) | [Tissa Biani](https://open.spotify.com/artist/30VMqU6hVQqn46eGWn5rXM) | [Apakah Kita?](https://open.spotify.com/album/1TgyHkafKmeUG3vvJzrSof) | 3:09 |
 | 16 | [1/10](https://open.spotify.com/track/35uNrhq5sf2zDI2aKJPNBa) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [RYO](https://open.spotify.com/artist/3nfCxDVevITHrnUT4YouD0) | [1/10](https://open.spotify.com/album/7CwFC4cVgWj6Iko4kMdwGl) | 2:42 |
 | 17 | [Jalan, Pulang](https://open.spotify.com/track/4ZxPYWXCWzyrqCfMoqPbSm) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Jalan, Pulang](https://open.spotify.com/album/5p8fWLTb6EF1VyKigzsKP1) | 3:24 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 19 | [Rangga Cinta \- Theme Song ‘Rangga & Cinta’](https://open.spotify.com/track/0GiGo39NNQJQF4JoMCSR0L) | [Eva Celia](https://open.spotify.com/artist/0D0AtqH4LxV9AkcdMqKkLY), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Rangga Cinta \(Theme Song ‘Rangga & Cinta’\)](https://open.spotify.com/album/4kOgoaeUZgZ3QqpxKDB10g) | 3:58 |
 | 20 | [Bila Nanti Kau Cinta](https://open.spotify.com/track/128R9RQ0hhjiycMFWGBTMu) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ) | [Bila Nanti Kau Cinta](https://open.spotify.com/album/3GpDT54ZFbNMygJMq1zUEO) | 3:25 |
 | 21 | [Room For Someone](https://open.spotify.com/track/6PL6UX3zf3No2Aa4w2yKXB) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Room For Someone](https://open.spotify.com/album/0R8L8vIgcXMz1lmrWYQVXR) | 2:26 |
-| 22 | [Track 1](https://open.spotify.com/track/3ckxohzQaYwhkXlkuwaZBF) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Melewatkanmu](https://open.spotify.com/album/0HNzalHfDpwXyfT2aDNdjF) | 0:00 |
+| 22 | [Melewatkanmu](https://open.spotify.com/track/3ckxohzQaYwhkXlkuwaZBF) | [Soulvibe](https://open.spotify.com/artist/16V8gNCkbY1L1jPd2uEBLg) | [Melewatkanmu](https://open.spotify.com/album/0HNzalHfDpwXyfT2aDNdjF) | 4:06 |
 | 23 | [dusta](https://open.spotify.com/track/5TigmnZ3JxlwNvlVe9EU5a) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [dusta](https://open.spotify.com/album/5WJDpfRQJ3n7Q0LlaalF1d) | 3:21 |
 | 24 | [Orang Baru](https://open.spotify.com/track/5sfOHV8uS1ICKFkst0bua9) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Orang Baru](https://open.spotify.com/album/4A1va6CGH22Tf8tY11E4v6) | 4:09 |
 | 25 | [Cinta Rahasia](https://open.spotify.com/track/3aIaHN3TbPK8QZbZnoMmi0) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Cinta Rahasia](https://open.spotify.com/album/6Tgp2oKTLa1mtyz64YSwLn) | 4:11 |

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Blush Davis",
-  "num_followers": 40154,
+  "num_followers": 40155,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
+        "name": "Zeig mir",
+        "url": "https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Zeig mir",
+      "url": "https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y"
+    },
+    {
+      "added_at": "2025-08-05 22:00:22",
+      "album": {
         "name": "So nah",
         "url": "https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 198733,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp"
-    },
-    {
-      "added_at": "2025-08-05 22:00:22",
-      "album": {
-        "name": "Zeig mir",
-        "url": "https://open.spotify.com/album/72M0XQIcyxHDcprr5C5hFY"
-      },
-      "artists": [
-        {
-          "name": "Magda",
-          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Zeig mir",
-      "url": "https://open.spotify.com/track/5ts13MukRZiePeVvrrhX6Y"
     },
     {
       "added_at": "2025-08-05 22:00:22",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-08-05 22:00:22",
       "album": {
-        "name": "Spaced Out",
-        "url": "https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I"
-      },
-      "artists": [
-        {
-          "name": "Fuffifufzich",
-          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Spaced Out",
-      "url": "https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR"
-    },
-    {
-      "added_at": "2025-08-05 22:00:22",
-      "album": {
         "name": "ten years time",
         "url": "https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179665,
       "name": "ten years time",
       "url": "https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn"
+    },
+    {
+      "added_at": "2025-08-05 22:00:22",
+      "album": {
+        "name": "Spaced Out",
+        "url": "https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I"
+      },
+      "artists": [
+        {
+          "name": "Fuffifufzich",
+          "url": "https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Spaced Out",
+      "url": "https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR"
     },
     {
       "added_at": "2025-08-05 22:00:22",

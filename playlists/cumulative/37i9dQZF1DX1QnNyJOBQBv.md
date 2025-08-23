@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> Pop on the rise you should know, featuring Danny Ocean.
+> Pop on the rise you should know, featuring ELENA ROSE.
 
 719 songs - 1 day 13 hr 3 min
 

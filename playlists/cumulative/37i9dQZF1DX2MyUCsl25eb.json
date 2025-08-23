@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 216666,
       "name": "A-frame",
       "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
@@ -7353,6 +7353,24 @@
     },
     {
       "album": {
+        "name": "Garden State",
+        "url": "https://open.spotify.com/album/6apU0ZY1IW3GdKD1IsYkP3"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "i don\u2019t know you",
+      "url": "https://open.spotify.com/track/2IAmKxh24ZiPTDI4kL8yrl"
+    },
+    {
+      "album": {
         "name": "I Don\u2019t Wanna See You Try",
         "url": "https://open.spotify.com/album/7ltoJAs4T639HlUdiEFdOB"
       },
@@ -12278,7 +12296,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 164558,
       "name": "Rather Be Lonely",
       "url": "https://open.spotify.com/track/3lBO1ZuelfLTtkYfc1t7PO"
@@ -14804,6 +14822,28 @@
       "duration_ms": 225211,
       "name": "Survive",
       "url": "https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV"
+    },
+    {
+      "album": {
+        "name": "Lurker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zXA6U4tems3JZXHRR4JUg"
+      },
+      "artists": [
+        {
+          "name": "Archie Madekwe",
+          "url": "https://open.spotify.com/artist/0ocHYFujtXLkWmCift0Z7Y"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138243,
+      "name": "Sweet Talk",
+      "url": "https://open.spotify.com/track/7kbQOGIwFOpLGD08lK8DQ0"
     },
     {
       "album": {

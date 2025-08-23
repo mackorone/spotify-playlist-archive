@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Le\-one in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,131,292 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,131,552 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [M A Y B A C H](https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASTRO DELUXE](https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL) | 2:39 |
 | 2 | [STUPIDA \(feat\. Artie 5ive\)](https://open.spotify.com/track/0wqZcZXczBKh5wbYUet7vV) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [RAPPER](https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF) | 3:28 |
-| 3 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 |
-| 4 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
+| 3 | [YAMAL](https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou) | [YAMAL](https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg) | 2:07 |
+| 4 | [MANESKIN \(feat\. Ghali, Shiva\)](https://open.spotify.com/track/1z9adRe4kaugMq3E8HX3c6) | [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [NO REGULAR MUSIC 2](https://open.spotify.com/album/1P6Pfl8VSFeu4hJjhp0xB1) | 2:28 |
 | 5 | [7ELEVEN](https://open.spotify.com/track/27teXnNekA5jBFLCcsCFoq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [BIG 5](https://open.spotify.com/album/4Are0mNScwygiibFFK39db) | 2:07 |
 | 6 | [Don't Stop It \(feat\. Shiva & Guè\)](https://open.spotify.com/track/2eJJMK4v39nVLSYd72Fuj9) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Finesse](https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Too Clean](https://open.spotify.com/album/6BOxaFOsnIFASRRH2JlBp5) | 2:33 |
 | 7 | [Kriminal \- Prod\. by Roberto Ferrante](https://open.spotify.com/track/0pxwzHAlnK86CIfDbbJLr4) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Roberto Ferrante](https://open.spotify.com/artist/2aiM1OfMODFLUXaQgEVPK1) | [Kriminal \(Prod\. by Roberto Ferrante\)](https://open.spotify.com/album/64mzxfRIXYCm6NVj0NTefe) | 3:09 |

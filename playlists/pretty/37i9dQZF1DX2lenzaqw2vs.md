@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,661 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,660 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 69 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
 | 70 | [Si es contigo si](https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Si es contigo si](https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480) | 2:26 |
 | 71 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 |
-| 72 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
-| 73 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
+| 72 | [t hice gay :$](https://open.spotify.com/track/1DUN1BbGpJGOKx0EuD9wHt) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [t hice gay :$](https://open.spotify.com/album/4dt3wCNCFuyW05pymEXyF9) | 2:45 |
+| 73 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
 | 74 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 |
 | 75 | [nada mejor](https://open.spotify.com/track/3kWuBlBpeKyaZzlGxVHG2e) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [nada mejor](https://open.spotify.com/album/4fe8cH92WZmb9rQVyy3aEK) | 3:17 |
 | 76 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 93 | [PXRNX](https://open.spotify.com/track/2d5TRfD5tIAs6R2gqN0g2X) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:24 |
 | 94 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 | 95 | [Tú](https://open.spotify.com/track/60GyTuWqPpeLqhVGaxIAAB) | [Mon & Marz](https://open.spotify.com/artist/1x5kgyBEiCGfzw1IYeI4cU), [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV) | [Tú](https://open.spotify.com/album/0xSXHBOzeTzGGUhE2TIpS9) | 3:04 |
-| 96 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
-| 97 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
+| 96 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
+| 97 | [NO BINARIA](https://open.spotify.com/track/1jYS776XZAbypmf7pwP6yQ) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [NO BINARIA](https://open.spotify.com/album/3HMNc1vhNdAoiIlmz3EWtA) | 2:11 |
 | 98 | [Besos](https://open.spotify.com/track/0WIOsnOOJlIDN095VDlSOk) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Lesbihonest](https://open.spotify.com/album/5C5rCLBjwHPNF112Xuea9t) | 3:27 |
 | 99 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
-| 100 | [Perdón](https://open.spotify.com/track/2Dt9XzdTyfHjQlz7aAraor) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Perdón](https://open.spotify.com/album/26H0Ji3Lr8GUXdUBfphCZu) | 3:42 |
+| 100 | [Vacation Bae](https://open.spotify.com/track/6IIc7LQm8bcshVRbZvMvJ5) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Radio Sunshine](https://open.spotify.com/album/6EqV9d8O0KlLBRGMLwHa23) | 2:34 |
 
 Snapshot ID: `AAAAAE7AKzCaqjHXpjF5Mz9/WWw+1VlB`

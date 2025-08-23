@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 15976,
+  "num_followers": 15996,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "VOICE MAIL",
+        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "\ud3c9\uc0dd",
+      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "The Reign",
         "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "VOICE MAIL",
-        "url": "https://open.spotify.com/album/5IH6HeHqXONUai8Dk7yEWz"
+        "name": "Let Me Love",
+        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
       },
       "artists": [
         {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
         }
       ],
-      "duration_ms": 217417,
-      "name": "\ud3c9\uc0dd",
-      "url": "https://open.spotify.com/track/1HJHe0MtRQ6FZgEdXR7KFd"
+      "duration_ms": 240653,
+      "name": "\ub2e4\uc9d0",
+      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1119,22 +1135,6 @@
       "duration_ms": 207693,
       "name": "Bruise",
       "url": "https://open.spotify.com/track/6hXay0R9yHoV2FpmrXpepw"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Let Me Love",
-        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "\ub2e4\uc9d0",
-      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "2nd Album",
-        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
+        "name": "\ube44\ub828",
+        "url": "https://open.spotify.com/album/5UugLklhrCgoXmaqVue8X1"
       },
       "artists": [
         {
-          "name": "YTC",
-          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+          "name": "\uad6c\ud53c",
+          "url": "https://open.spotify.com/artist/4kmE4cLvCDs9tBY18fwXs1"
         }
       ],
-      "duration_ms": 250618,
-      "name": "\ud0c0\uc778",
-      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
+      "duration_ms": 235213,
+      "name": "\ube44\ub828",
+      "url": "https://open.spotify.com/track/2saze3DWopH6ArRTxXN2nd"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "2nd Album",
+        "url": "https://open.spotify.com/album/3DAeNadLM2xoQjPh8zzDYC"
+      },
+      "artists": [
+        {
+          "name": "YTC",
+          "url": "https://open.spotify.com/artist/6IbJD9PQK5n7etiYsu0fi7"
+        }
+      ],
+      "duration_ms": 250618,
+      "name": "\ud0c0\uc778",
+      "url": "https://open.spotify.com/track/5PWo2Hjgqz6CxTkQpvt7Qx"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "\u592a\u56db\u5b50 Taesaja, Vol. 1",
         "url": "https://open.spotify.com/album/2h2SbpYuU6BY1XiakfuRYz"
       },
@@ -1359,38 +1375,6 @@
       "duration_ms": 222250,
       "name": "\ub3c4 The Way",
       "url": "https://open.spotify.com/track/7EfwavUg7KW5oTJtzUrMCg"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "\ube44\ub828",
-        "url": "https://open.spotify.com/album/5UugLklhrCgoXmaqVue8X1"
-      },
-      "artists": [
-        {
-          "name": "\uad6c\ud53c",
-          "url": "https://open.spotify.com/artist/4kmE4cLvCDs9tBY18fwXs1"
-        }
-      ],
-      "duration_ms": 235213,
-      "name": "\ube44\ub828",
-      "url": "https://open.spotify.com/track/2saze3DWopH6ArRTxXN2nd"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "Psy From The Psycho World",
-        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        }
-      ],
-      "duration_ms": 193280,
-      "name": "\uc0c8",
-      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
-        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
+        "name": "Psy From The Psycho World",
+        "url": "https://open.spotify.com/album/1MHlOpXB48S9GqnDqnEb69"
       },
       "artists": [
         {
-          "name": "\ud669\uaddc\uc601",
-          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
         }
       ],
-      "duration_ms": 259775,
-      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
+      "duration_ms": 193280,
+      "name": "\uc0c8",
+      "url": "https://open.spotify.com/track/3J7ZJczjrnWB2jvoYKkrlo"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1439,6 +1423,22 @@
       "duration_ms": 216372,
       "name": "\ud558\ub298\ub545 \ubcc4\ub545",
       "url": "https://open.spotify.com/track/2uaWQ7tyiIPAWUUYUhjP49"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
+        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
+      },
+      "artists": [
+        {
+          "name": "\ud669\uaddc\uc601",
+          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
+        }
+      ],
+      "duration_ms": 259775,
+      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Back in Time",
-        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
-      },
-      "artists": [
-        {
-          "name": "FLY TO THE SKY",
-          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
-        }
-      ],
-      "duration_ms": 255891,
-      "name": "Sea Of Love",
-      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Taekwon V",
         "url": "https://open.spotify.com/album/7DAB9CI3G64gf1nsHgUm2n"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 222200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/36iEQYW3jx9jsfETI5drEc"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Back in Time",
+        "url": "https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt"
+      },
+      "artists": [
+        {
+          "name": "FLY TO THE SKY",
+          "url": "https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC"
+        }
+      ],
+      "duration_ms": 255891,
+      "name": "Sea Of Love",
+      "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "A Sea Gull Of Dream",
-        "url": "https://open.spotify.com/album/4m1cpODfcEUc8u5btJgrSC"
-      },
-      "artists": [
-        {
-          "name": "Kim Hyun Jung",
-          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Returned Break up",
-      "url": "https://open.spotify.com/track/20pRpdvWh7BLIKpRZVLhMF"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Jinusean",
         "url": "https://open.spotify.com/album/07cn1DunxVqvA3JINM9HKt"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 243910,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/1XZHPuWHpyaVRsgOW2OVoB"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "A Sea Gull Of Dream",
+        "url": "https://open.spotify.com/album/4m1cpODfcEUc8u5btJgrSC"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyun Jung",
+          "url": "https://open.spotify.com/artist/43POv7qZZ3vVHxpa1kUZsO"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Returned Break up",
+      "url": "https://open.spotify.com/track/20pRpdvWh7BLIKpRZVLhMF"
     },
     {
       "added_at": "2024-08-05 17:06:13",

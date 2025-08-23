@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 466250,
+  "num_followers": 466321,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADoiB9IwzCpKzeJIIjkt3fy",
+  "snapshot_id": "aKZhgAAAAABhBeXmWKcElA/KcvaRSO+k",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Is Like",
+        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 174911,
+      "name": "Love Is Like (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter VI",
         "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
       },
@@ -207,6 +227,26 @@
       "duration_ms": 241335,
       "name": "Hip-Hop (feat. BigXthaPlug, Jay Jones)",
       "url": "https://open.spotify.com/track/0t5LNjml8LTuAPiEfD7zFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
     },
     {
       "added_at": null,
@@ -243,46 +283,6 @@
       "duration_ms": 243490,
       "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is Like",
-        "url": "https://open.spotify.com/album/0cMIntDigHjfYqnvgJjd3Q"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 174911,
-      "name": "Love Is Like (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/46XtsFriNQjGM5enGQViSQ"
     },
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here I Am (Deluxe Version)",
+        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 264666,
       "name": "I'm So Paid",
       "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here I Am (Deluxe Version)",
-        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
       "added_at": null,
@@ -947,50 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
-      },
-      "artists": [
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 124188,
-      "name": "ay! (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tha Carter VI",
-        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 229759,
-      "name": "Sharks (feat. Jelly Roll, Big Sean)",
-      "url": "https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -1015,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 124188,
+      "name": "ay! (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1T4tQ4SSagbhAKpvcWg035"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry 4 The Wait",
         "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 148610,
       "name": "Twist Made Me",
       "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter VI",
+        "url": "https://open.spotify.com/album/3f35htoN6xM1w2fKE8YZIJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 229759,
+      "name": "Sharks (feat. Jelly Roll, Big Sean)",
+      "url": "https://open.spotify.com/track/5lGd2E7qKxgsMjQcTPTek2"
     },
     {
       "added_at": null,

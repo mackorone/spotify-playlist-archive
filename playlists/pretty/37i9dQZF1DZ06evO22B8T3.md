@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,941 likes - 48 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,940 likes - 48 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 4 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
 | 5 | [Me Tiene Mal](https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Me Tiene Mal](https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV) | 4:10 |
 | 6 | [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 |
-| 7 | [NANAENA](https://open.spotify.com/track/5XX8OtWCYAP4s0zMVp5REJ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [NANAENA](https://open.spotify.com/album/1EnBKvyQPu5RAWUbE3e2ju) | 3:11 |
-| 8 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
+| 7 | [Princesa](https://open.spotify.com/track/1db75lVrSgDFZI1gZh8JlV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa](https://open.spotify.com/album/7rd2Pb6dBQvrzgbJU3ihpC) | 2:46 |
+| 8 | [NANAENA](https://open.spotify.com/track/5XX8OtWCYAP4s0zMVp5REJ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [NANAENA](https://open.spotify.com/album/1EnBKvyQPu5RAWUbE3e2ju) | 3:11 |
 | 9 | [Plan A](https://open.spotify.com/track/3DmQvbSuwGoDJkDm369GEz) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:58 |
 | 10 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:47 |
 | 11 | [Flashbacks \| CROSSOVER \#9](https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Flashbacks \| CROSSOVER \#9](https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy) | 3:02 |
 | 12 | [Cámara Lenta](https://open.spotify.com/track/1OphvZqEV1jhzTGfCXSTWX) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cámara Lenta](https://open.spotify.com/album/30baudnBrCRWSuGJRoNLNm) | 3:15 |
 | 13 | [Nublado](https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Nublado](https://open.spotify.com/album/4Xzp1DYT87Uabsz9FutNyL) | 3:00 |
 | 14 | [Chica Paranormal](https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:41 |
-| 15 | [Mujer Maravilla](https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Mujer Maravilla](https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN) | 2:27 |
-| 16 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
+| 15 | [Recién Soltera](https://open.spotify.com/track/62NnbMclYuQuF09B0ShIPV) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Recién Soltera](https://open.spotify.com/album/5cSGLKp6GpfyYBjtCp2T2D) | 3:03 |
+| 16 | [Mujer Maravilla](https://open.spotify.com/track/5Ngqa0mESN79RkVf7YLYBE) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Mujer Maravilla](https://open.spotify.com/album/3FQcQcmVw3Xe5bFxB0VuCN) | 2:27 |
 | 17 | [Protagonista](https://open.spotify.com/track/1kmeChA8VINeDprVkTHRhW) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Protagonista](https://open.spotify.com/album/5zQtriA0zv9RW1UbFUIHM3) | 2:39 |
 | 18 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 |
 | 19 | [Ella](https://open.spotify.com/track/3dRfUIZFlwHB2l8pWbgQzp) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:33 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 25 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 |
 | 26 | [Relax](https://open.spotify.com/track/7kkpwLgPSYzGWq3sM25Rvv) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Relax](https://open.spotify.com/album/6S9Hg5Ie8LHYTpCxUFZl1S) | 3:53 |
 | 27 | [Chance](https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Chance](https://open.spotify.com/album/4vOLBVH0wiFWa4Us2h5Vo4) | 3:24 |
-| 28 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
+| 28 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:11 |
 | 29 | [NEXT](https://open.spotify.com/track/23DtMntbWNRJV586cBH4sP) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:01 |
-| 30 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/1O9FJyTicBMSqIv0RLRy4i) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:11 |
+| 30 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
 | 31 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 |
 | 32 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
 | 33 | [GLAMPING](https://open.spotify.com/track/2o9P96ZWhJ4qOnNdeg657H) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:21 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 47 | [Confiado y Tranquilo](https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Confiado y Tranquilo](https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b) | 3:32 |
 | 48 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 
-Snapshot ID: `aKO+gAAAAAAVsLbJIfiAkX8DgUz/udAB`
+Snapshot ID: `aKZhgAAAAABxiVpIqcrdiKHbx6tl/Uby`

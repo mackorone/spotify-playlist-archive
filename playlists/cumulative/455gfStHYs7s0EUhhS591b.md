@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-208 songs - 12 hr 24 min
+210 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Curiosity](https://open.spotify.com/track/5nGHltMfN4Mv5X0KRxz1OE) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Atlas Internet Cafe](https://open.spotify.com/album/5NYixQn4hBXehTNROuqlAY) | 2:46 | 2025-06-19 |  |
 | [Dancing People Are Never Wrong](https://open.spotify.com/track/4admt90cSChznePxyzUVCP) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [The Bianca Story](https://open.spotify.com/artist/1p6obHqCF3E42HYbyQrHhE) | [Dancing People Are Never Wrong](https://open.spotify.com/album/3pISRwuc4xXShYnEp1L49R) | 3:19 | 2025-07-18 |  |
 | [Dark Belts](https://open.spotify.com/track/0tCD5iDugyIqGJALEG7jHB) | [Duncan La Barre](https://open.spotify.com/artist/7wAx0flUZw6uzEe5Objdee) | [Cassini](https://open.spotify.com/album/6FE8QceGF0DzQyMIpWkvZq) | 3:55 | 2025-06-19 |  |
+| [Deep Inside](https://open.spotify.com/track/2W7oS0eMpYU2lAAprAT6hL) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u) | [Summer Is Calling, Vol\. 1](https://open.spotify.com/album/2zaKbh9KmiTtkpSAHaeikd) | 2:43 | 2025-08-22 |  |
 | [Defiance](https://open.spotify.com/track/2hIqWlIinmg23A9uYQbi77) | [James Organ](https://open.spotify.com/artist/4gus0P48NlwC0zSgBZAO3R) | [Chill Executive Officer \(CEO\), Vol\. 37 \[Selected by Maykel Piron\]](https://open.spotify.com/album/0lA3lSQ5oQeOtQ8CV1QeG7) | 3:41 | 2025-07-04 |  |
 | [Disconnected](https://open.spotify.com/track/4LYaFcMoIwqRtaDCED5DJM) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Disconnected](https://open.spotify.com/album/52o5ZbStGF7H2ikwU447l8) | 4:36 | 2025-07-18 |  |
 | [Divine](https://open.spotify.com/track/3HFQRcE25gUw5jiGrJPsRc) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Divine](https://open.spotify.com/album/5XPhK0D2fEjX3oK3GPgalf) | 2:17 | 2025-06-19 |  |
@@ -85,6 +86,7 @@
 | [Hold That Sucker Down \- Lifelike & Kris Menace Remix](https://open.spotify.com/track/6pEbsqPHhO0P6ylkR4geQG) | [OT Quartet](https://open.spotify.com/artist/6BspK9ToOVAlay9MMF5NQj), [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Kris Menace](https://open.spotify.com/artist/5P5i4EeZfrKrcRGHRTqJr0) | [Hold That Sucker Down \(The Remixes Part 2\)](https://open.spotify.com/album/7lUsQNlKqy00fBFgvaj5kA) | 3:13 | 2025-07-18 |  |
 | [How To Listen To This Album](https://open.spotify.com/track/0Py4iHLT1CPUOB6UJCrKeq) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL) | [Echoes](https://open.spotify.com/album/1oyF52n5Za9DFmSC2t0KMN) | 2:30 | 2025-07-18 |  |
 | [How Will I Know](https://open.spotify.com/track/6Zj0prCnGTWIHJzbkRkxdY) | [Teddy Beats](https://open.spotify.com/artist/38aAEKHAmZwECZgFuUfdCB), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ), [Miami Rockets](https://open.spotify.com/artist/4byzj224X350YqoAqGSkd8), [Anni](https://open.spotify.com/artist/6RMCiCPbBhd7hYP4cWhjOE) | [How Will I Know](https://open.spotify.com/album/689NgodT15JChJA4f2TdSM) | 3:06 | 2025-06-19 |  |
+| [Hurt Again](https://open.spotify.com/track/1KYdFmr3dZ678rVMD58k78) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Hurt Again](https://open.spotify.com/album/6zm2DCjAiQVani25CubAZO) | 3:40 | 2025-08-22 |  |
 | [I Never Knew How \- Original Mix](https://open.spotify.com/track/1JRqdhtPjnfgizg6DB9ISo) | [Manu Zain](https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7), [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [I Never Knew How](https://open.spotify.com/album/1YRe3DxgMk2eyJghhuRtiE) | 3:32 | 2025-06-19 |  |
 | [I Would Like To Know](https://open.spotify.com/track/42JXQGrJTzN67naZ7QySyR) | [Collective Sound Members](https://open.spotify.com/artist/2nbNDji9Kj4dcqH0g8B5UQ) | [Music From The Soul Vol\. 1](https://open.spotify.com/album/1tleH47sxteEjY8Cts1Ztw) | 3:37 | 2025-06-19 |  |
 | [If We Could Fly](https://open.spotify.com/track/7lrrMXyShyiRnruh9nLBNb) | [Summer Is Calling](https://open.spotify.com/artist/34q9Zt0mBwYXGMeRq9m94u), [Soul Dhamma](https://open.spotify.com/artist/0VnLQZ37oYVlV9MeztxSmu) | [If We Could Fly](https://open.spotify.com/album/1h4zfoe4LvCVo767mxD0jj) | 2:35 | 2025-06-19 |  |

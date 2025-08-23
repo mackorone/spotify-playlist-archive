@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 
 > Voices that are elevating nuestra cultura\. ERRE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,240 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IX6biNn3iB.md) - [plain]
 | 36 | [Silvia](https://open.spotify.com/track/2DpArGENg7A5LnuwkEfyeR) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Silvia](https://open.spotify.com/album/1wI1VI8bdgUsK7HhQO0s3l) | 2:33 |
 | 37 | [Pienso En Ti](https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [EddyJae](https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp) | [Pienso En Ti](https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt) | 2:35 |
 | 38 | [No Sé Vivir](https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [No Sé Vivir](https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b) | 3:53 |
-| 39 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
-| 40 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
+| 39 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
+| 40 | [la emoción](https://open.spotify.com/track/12bAZeBar4BQC2FNL9H9XA) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [la emoción](https://open.spotify.com/album/3w7IrS4d416CR2xUw2WB5N) | 3:13 |
 | 41 | [YNMA](https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D) | [Alex O'aiza](https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT) | [YNMA](https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB) | 3:59 |
 | 42 | [¿Quién de Ustedes?](https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [No Me Importa](https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd) | 3:06 |
 | 43 | [Me Tienes Loco](https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Me Tienes Loco](https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3) | 2:40 |

@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "safmusic",
+          "url": "https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187900,
+      "name": "a.m.3:21\uff08safmusic Remix\uff09",
+      "url": "https://open.spotify.com/track/7g7uPUI6kO8ru6JzpbZtVZ"
+    },
+    {
+      "album": {
         "name": "BURN",
         "url": "https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4"
       },
@@ -104,6 +126,24 @@
       "duration_ms": 161470,
       "name": "D(evil) feat. yama",
       "url": "https://open.spotify.com/track/64taNX9xrRu6cYf0a0v72w"
+    },
+    {
+      "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176833,
+      "name": "doku",
+      "url": "https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS"
     },
     {
       "album": {
@@ -516,7 +556,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 241329,
       "name": "\u3042\u308b\u3044\u306f\u6620\u753b\u306e\u3088\u3046\u306a",
       "url": "https://open.spotify.com/track/76XAwMxmnJexw1NJXOyjsg"
@@ -1562,7 +1602,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 245533,
       "name": "\u8fd4\u5149\uff08Movie Edition\uff09",
       "url": "https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu"

@@ -4,7 +4,7 @@
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Safira Inema
 
-508 songs - 1 day 18 hr 33 min
+509 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All In For You](https://open.spotify.com/track/45fA54TCF3IZfxuJ2mZkbY) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [All In For You](https://open.spotify.com/album/6icTLvbEIwpUAE4if2aOM4) | 6:05 | 2024-08-09 |  |
 | [Alum](https://open.spotify.com/track/0ExvgOOke3ZeB5kT6pC0ex) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Ajeng Febria](https://open.spotify.com/artist/4dwBdgv1ZFFTjJ9Yeoptsa) | [Alum](https://open.spotify.com/album/5CEbB9fsZDxjzKM86JnZ3l) | 6:08 | 2024-02-01 | 2024-07-06 |
 | [Alum](https://open.spotify.com/track/1AQi5VEfANfALD9yq8jPgF) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Alum](https://open.spotify.com/album/2Wc4PfWxd5rylkoxqNE7dw) | 5:33 | 2024-05-02 | 2024-08-16 |
+| [AMBILKAN GELAS](https://open.spotify.com/track/0diK7fRaoeWY7by5AvPIz2) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [AMBILKAN GELAS](https://open.spotify.com/album/6QgwQWSBYE70KJFZ6JpCyz) | 3:28 | 2025-08-21 |  |
 | [Ambyar](https://open.spotify.com/track/0JBnBZ53RRDsWnjtrhG6YB) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Ambyar](https://open.spotify.com/album/0cMPXAVMsdmq5SaVVyUH5e) | 4:42 | 2022-05-26 | 2022-11-14 |
 | [Ambyar Mak Pyar](https://open.spotify.com/track/6UC5ZI2p6oI6ukaZGxjQ89) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar](https://open.spotify.com/album/76ehbPj5BFTqcCr2opmHky) | 4:43 | 2022-05-26 | 2023-08-11 |
 | [Ambyar Mak Pyar \- Keroncong Version](https://open.spotify.com/track/74xhzdyLf8NFPg0YEkl2zx) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ambyar Mak Pyar \(Keroncong Version\)](https://open.spotify.com/album/2p3qceONrEXQAjo1tpUKY9) | 4:38 | 2022-05-26 | 2022-09-02 |

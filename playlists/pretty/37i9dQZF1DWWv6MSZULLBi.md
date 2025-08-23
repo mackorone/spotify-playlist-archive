@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Kathleen Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,484 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,479 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 12 | [Circle Remains Unbroken](https://open.spotify.com/track/2QH25dbohPIBjoO4QMelLO) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [Circle Remains Unbroken](https://open.spotify.com/album/0ORgPVtjziwRxPk62Ntl1S) | 6:47 |
 | 13 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 |
 | 14 | [aka's white wolf](https://open.spotify.com/track/32BzrzD6L6EsIkCqwWW4FQ) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [aka's white wolf](https://open.spotify.com/album/6RwBmZb4xuBOQ3PQfpIsrE) | 2:54 |
-| 15 | [Father Time](https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Father Time](https://open.spotify.com/album/1YC0JBMSbLwt2d62Vw1C3D) | 3:03 |
+| 15 | [Father Time](https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Father Time](https://open.spotify.com/album/1YC0JBMSbLwt2d62Vw1C3D) | 3:03 |
 | 16 | [Not There Yet](https://open.spotify.com/track/0ONF1pX2bhclWj3QfKP0zH) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Not There Yet](https://open.spotify.com/album/72jWkbHCIDhUBFoOXbv2WK) | 3:13 |
 | 17 | [Jessie's Comet](https://open.spotify.com/track/73Nc16ELVAtiyqsCy9q5MQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Modes of Transportation](https://open.spotify.com/album/1uCP3X06rtmi7P7Dsg1cMD) | 3:30 |
 | 18 | [Like The Rain](https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Love Again](https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS) | 3:07 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 37 | [How to Dress](https://open.spotify.com/track/5V6SogaHHZDEujruIiG7Nw) | [Alicia Clara](https://open.spotify.com/artist/2SXUlfCHZornfHnrSMqIPe) | [How to Dress](https://open.spotify.com/album/6NjHcTZSVHDxqYQBHC4aDU) | 3:05 |
 | 38 | [Workingman's Folk](https://open.spotify.com/track/4i3a34zfgc9TwOmC2DW4uF) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Workingman's Folk](https://open.spotify.com/album/3V61LCmUqHMGRF2xud8gwP) | 4:33 |
 | 39 | [When The Truth Comes Out](https://open.spotify.com/track/4g0TfaBIbVymM94f0I4DYo) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [When The Truth Comes Out / Little Red Ranger](https://open.spotify.com/album/2sF7YHihTIBUjEaHv7zTSb) | 3:30 |
-| 40 | [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 |
+| 40 | [Marylebone](https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM) | [Al Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu) | [Marylebone](https://open.spotify.com/album/6nDtDqA33jrEoW7qddJGz9) | 3:33 |
 | 41 | [Paradise](https://open.spotify.com/track/4MKNdW2bfkEGwpXqHYjzjA) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Paradise](https://open.spotify.com/album/5UbzUiIAy3EiLzurOlGkcE) | 2:37 |
 | 42 | [heat](https://open.spotify.com/track/7vYLl6wqBUJX362yMmWZPM) | [Ethan Regan](https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e) | [honey honey honey](https://open.spotify.com/album/2zAUSzL2rcAEowPXN9ifEc) | 3:34 |
 | 43 | [Heavy Foot](https://open.spotify.com/track/6tJQwOhJTw9a6l7C1EEBbP) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Heavy Foot](https://open.spotify.com/album/67pI7imaiLZ70j22ROlLmf) | 2:25 |

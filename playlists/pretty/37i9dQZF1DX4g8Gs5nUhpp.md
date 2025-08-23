@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Tăng Duy Tân
+> Bạn thuộc hệ<a href="https://open.spotify.com/presents/vietspirit"> mãi tươi</a> <br/>như Tăng Duy Tân?
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,418 likes - 52 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,535 likes - 52 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 51 | [Em Còn Nhớ Anh Không \- Htingale X Ryuuko Remix](https://open.spotify.com/track/5bOh5gwwjMQfMwgusZS78M) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [Koo](https://open.spotify.com/artist/19JOXyTbKnSp1QxnKEeXtq) | [Em Còn Nhớ Anh Không \(Htingale X Ryuuko Remix\)](https://open.spotify.com/album/1xWTf7x8PVD447zkwkE44O) | 2:28 |
 | 52 | [Dù Cho Tận Thế](https://open.spotify.com/track/0oSc7X1uRQGuEqNRtXEeQL) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Dù Cho Tận Thế](https://open.spotify.com/album/5QDR0OiGmansGUC3umc6db) | 3:53 |
 
-Snapshot ID: `AAAAAGrgEJBNytNSjsFl4Lw7OfmsRRcU`
+Snapshot ID: `AAAAAOULMKRXQBgY8UF4ruYlOo7+eTnh`

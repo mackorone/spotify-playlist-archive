@@ -2,7 +2,7 @@
 
 ### [Women of Electronic](https://open.spotify.com/playlist/37i9dQZF1DX9WbnZpHWMaI)
 
-> Celebrating women at the center of innovation in electronic music\. Featuring J\. Worra.
+> Celebrating women at the center of innovation in electronic music\. Featuring ZULAN.
 
 651 songs - 1 day 16 hr 59 min
 

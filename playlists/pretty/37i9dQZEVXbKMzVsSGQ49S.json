@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 43226,
+  "num_followers": 43231,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MDqLoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MDvdIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "Miklu betri einn",
         "url": "https://open.spotify.com/album/0iWWosOl3XNiDJLEyNpFRM"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -73,7 +73,27 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Fyrirgef\u00f0u",
+        "url": "https://open.spotify.com/album/7hOICUhYnfOn4DJSURWntH"
+      },
+      "artists": [
+        {
+          "name": "Lexi Picasso",
+          "url": "https://open.spotify.com/artist/0mu4XqTlbFzFkaX19PLPJP"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 250216,
+      "name": "F\u00e1viti",
+      "url": "https://open.spotify.com/track/0lONRLEgSRlde4fsOZvI5d"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "Dyrnar",
         "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
@@ -93,7 +113,7 @@
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -109,23 +129,7 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "Lonely Without You",
-        "url": "https://open.spotify.com/album/3eOyxVblFhEITefWFfLQCH"
-      },
-      "artists": [
-        {
-          "name": "Juliera",
-          "url": "https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav"
-        }
-      ],
-      "duration_ms": 179924,
-      "name": "Lonely Without You",
-      "url": "https://open.spotify.com/track/2EurvjkcgNuBs0YHd17Yfk"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -141,7 +145,7 @@
       "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -157,23 +161,7 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "LXS",
-      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -213,7 +201,59 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 212520,
+      "name": "LXS",
+      "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 152415,
+      "name": "Litlar stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Fyrirgef\u00f0u",
+        "url": "https://open.spotify.com/album/7hOICUhYnfOn4DJSURWntH"
+      },
+      "artists": [
+        {
+          "name": "Lexi Picasso",
+          "url": "https://open.spotify.com/artist/0mu4XqTlbFzFkaX19PLPJP"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 214979,
+      "name": "Klukkan 8",
+      "url": "https://open.spotify.com/track/5JlB0uSmlYROFfMxyIB7gk"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "G\u00f3\u00f0ur Dagur",
         "url": "https://open.spotify.com/album/5Tsagzg7fXWf71fbQQ4bnV"
@@ -233,95 +273,7 @@
       "url": "https://open.spotify.com/track/7Bj9cK1Ak0onwKx4U7vvWv"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 152415,
-      "name": "Litlar stj\u00f6rnur",
-      "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "Huganum af \u00fe\u00e9r",
-        "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 135463,
-      "name": "Huganum af \u00fe\u00e9r",
-      "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "\u00dearft a\u00f0 vita",
-        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
-      },
-      "artists": [
-        {
-          "name": "Maron Birnir",
-          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
-        },
-        {
-          "name": "ELVAR",
-          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "\u00dearft a\u00f0 vita",
-      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "Dyrnar",
-        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
-      },
-      "artists": [
-        {
-          "name": "Birnir",
-          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -361,7 +313,23 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Lonely Without You",
+        "url": "https://open.spotify.com/album/3eOyxVblFhEITefWFfLQCH"
+      },
+      "artists": [
+        {
+          "name": "Juliera",
+          "url": "https://open.spotify.com/artist/00it1bBwOIDqd6QFINlBav"
+        }
+      ],
+      "duration_ms": 179924,
+      "name": "Lonely Without You",
+      "url": "https://open.spotify.com/track/2EurvjkcgNuBs0YHd17Yfk"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -372,12 +340,52 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Huganum af \u00fe\u00e9r",
+        "url": "https://open.spotify.com/album/4Mn0qnzP3UGEYKzrB4UFpW"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 135463,
+      "name": "Huganum af \u00fe\u00e9r",
+      "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Fyrirgef\u00f0u",
+        "url": "https://open.spotify.com/album/7hOICUhYnfOn4DJSURWntH"
+      },
+      "artists": [
+        {
+          "name": "Lexi Picasso",
+          "url": "https://open.spotify.com/artist/0mu4XqTlbFzFkaX19PLPJP"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 239639,
+      "name": "Mask\u00edna",
+      "url": "https://open.spotify.com/track/3rzpsc7FE2ajNK9WqWVETe"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -409,7 +417,111 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "\u00dearft a\u00f0 vita",
+        "url": "https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD"
+      },
+      "artists": [
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "ELVAR",
+          "url": "https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "\u00dearft a\u00f0 vita",
+      "url": "https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "N\u00fdlent",
+        "url": "https://open.spotify.com/album/3ZUypuGNYcvob4WuWtlT0p"
+      },
+      "artists": [
+        {
+          "name": "Lexi Picasso",
+          "url": "https://open.spotify.com/artist/0mu4XqTlbFzFkaX19PLPJP"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 189726,
+      "name": "N\u00fdlent",
+      "url": "https://open.spotify.com/track/0p3d3HY8bITfhYxO2hGnLH"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 292133,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/47aQ5I2w61UjVrSv27gFdp"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "Dyrnar",
+        "url": "https://open.spotify.com/album/5yjVhol6NpMgJ3kVcKWaWo"
+      },
+      "artists": [
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        }
+      ],
+      "duration_ms": 210813,
+      "name": "Win win",
+      "url": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+    },
+    {
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "International Superstars",
         "url": "https://open.spotify.com/album/62yTAVg4kkGOzR8i25wTLX"
@@ -429,7 +541,7 @@
       "url": "https://open.spotify.com/track/16f7srBRJyFgwflwA6ZYDu"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -440,76 +552,60 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Dance Until the Dawn",
-      "url": "https://open.spotify.com/track/5acpp7T773MPkiNH3ZH5bJ"
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "back to friends",
+        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Crackle of Fear",
-      "url": "https://open.spotify.com/track/5FJ4SDGMFCvHoQWMoMpkDo"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Celebrate the Dream",
-      "url": "https://open.spotify.com/track/2Q8OdbmNtpSLz6PtzJm32E"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Crunch in the Silence",
-      "url": "https://open.spotify.com/track/0qjJEeqFguygZRPMaVgQ7T"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
         "name": "Lj\u00f3sin Kvikna",
         "url": "https://open.spotify.com/album/1lMfqUuKwmCuEHrYmzkdzd"
@@ -533,388 +629,352 @@
       "url": "https://open.spotify.com/track/58SoUVgqESqrH2v9rjha5n"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "Hvar ertu n\u00fa?",
+        "url": "https://open.spotify.com/album/3LZTeLY6rVURrPwHWoTzg2"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "Theod\u00f3r",
+          "url": "https://open.spotify.com/artist/5YrK7YhaPG3tEqUxdE4CmB"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Eternal, Like the Stars Above",
-      "url": "https://open.spotify.com/track/5Tve9PpP8XfSuxECpsog24"
+      "duration_ms": 146853,
+      "name": "Hvar ertu n\u00fa?",
+      "url": "https://open.spotify.com/track/3gbwej4Slibs1NbvP08BEZ"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "Best gleymdu leyndarm\u00e1lin",
+        "url": "https://open.spotify.com/album/3bV2pLFya34JhQoDYUHir7"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hipsumhaps",
+          "url": "https://open.spotify.com/artist/0Hc3yVWeBOkwf4jCW79BLh"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Can You Feel It?",
-      "url": "https://open.spotify.com/track/2k68Z35nLk905psiWwul4A"
+      "duration_ms": 253472,
+      "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
+      "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Chase the Stars",
-      "url": "https://open.spotify.com/track/7nu9R576h5mWBzRRehIC8Y"
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Lift Me Higher",
-      "url": "https://open.spotify.com/track/5dQ8DwTLpwrq2JzQOzb4NO"
+      "duration_ms": 163866,
+      "name": "YUKON",
+      "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
         }
       ],
-      "duration_ms": 65471,
-      "name": "Just Me and You",
-      "url": "https://open.spotify.com/track/3tHGrrNsMg7SLnn4Nj0NOK"
+      "duration_ms": 250268,
+      "name": "What It Sounds Like",
+      "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "ST\u00c9TTIN",
+        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Let It Move Me",
-      "url": "https://open.spotify.com/track/3RKDSfshbsiMkiZzManRTx"
+      "duration_ms": 237048,
+      "name": "EN EKKI HVA\u00d0?",
+      "url": "https://open.spotify.com/track/1Q5E0x2u3z3jOEvoIuiY5l"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "Fyrirgef\u00f0u",
+        "url": "https://open.spotify.com/album/7hOICUhYnfOn4DJSURWntH"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Lexi Picasso",
+          "url": "https://open.spotify.com/artist/0mu4XqTlbFzFkaX19PLPJP"
+        },
+        {
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Breaking Through the Night",
-      "url": "https://open.spotify.com/track/3mrkOjpCl64rw4PeoDBis4"
+      "duration_ms": 218094,
+      "name": "Skr\u00e6la",
+      "url": "https://open.spotify.com/track/1md1nPFbDJ7nuLLPAtAGMZ"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Dance Through the Night",
-      "url": "https://open.spotify.com/track/0UhIbz8xdyuGXNu8LVqXWM"
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "\u00deEGAR \u00c9G SEGI MONN\u00cd",
+        "url": "https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
         }
       ],
-      "duration_ms": 32810,
-      "name": "In the Moment",
-      "url": "https://open.spotify.com/track/5SFOkjHnZXlJqwuSqI4ZDT"
+      "duration_ms": 168040,
+      "name": "POPPSTIRNI",
+      "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Feel the Fire",
-      "url": "https://open.spotify.com/track/56dE0N4VRcA84kTzHBVE9K"
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Feel the Beat",
-      "url": "https://open.spotify.com/track/59KN8sNYxX6264jcvK5GJr"
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "D\u00fdnam\u00edk",
+        "url": "https://open.spotify.com/album/2w2XFZe0dSrOo5YFfq2dnC"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Dance with Me",
-      "url": "https://open.spotify.com/track/0Fi7NzIPFJiowbLQdE5eCq"
+      "duration_ms": 155785,
+      "name": "Eg\u00f3",
+      "url": "https://open.spotify.com/track/6peUs6BJUpBfhpH5NUDdux"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "ST\u00c9TTIN",
+        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        },
+        {
+          "name": "Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/6yI1aFdfAnjSHaDnHBFAD9"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Echoes Guide Us High",
-      "url": "https://open.spotify.com/track/77X4Gqutw87yyUJtFYXRU8"
+      "duration_ms": 163750,
+      "name": "10 \u00de\u00daSUND",
+      "url": "https://open.spotify.com/track/64QhlrzSmL75MnvEvWzGs6"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5IQKGkAnpXcXkvJKyj1yvM"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Birnir",
+          "url": "https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z"
+        },
+        {
+          "name": "Alaska1867",
+          "url": "https://open.spotify.com/artist/2yyLYHJEdPcHJyfvn7OWHk"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Find the Spark",
-      "url": "https://open.spotify.com/track/7hTDGiXHdS6Vxy8kJaJjIE"
+      "duration_ms": 209248,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2jM6zqj9nOrMac175qUesR"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "Gr\u00e6ni Pakkinn",
+        "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Saint Pete",
+          "url": "https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Dancing Free",
-      "url": "https://open.spotify.com/track/74zVoEQAB2aPYAFQUeq89o"
+      "duration_ms": 156274,
+      "name": "Saintro",
+      "url": "https://open.spotify.com/track/17Xw0WarbdFVTua2PYkjlG"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "St\u00f3rir Str\u00e1kar",
+        "url": "https://open.spotify.com/album/63tO5mZENF526DHAbrrjoj"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Izleifur",
+          "url": "https://open.spotify.com/artist/5fxRKBJNkss9n22ePnifL6"
+        },
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Feel the Pulse",
-      "url": "https://open.spotify.com/track/4oCcI1kLdGHoYlP6TYtacF"
+      "duration_ms": 148855,
+      "name": "St\u00f3rir Str\u00e1kar",
+      "url": "https://open.spotify.com/track/7Lnklp5hNqusyupGsyBbaE"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/7kePO0Mw3NW5vjBTWu0ewH"
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6DrzqgYAx4FZjJ275iRHrW"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Lexi Picasso",
+          "url": "https://open.spotify.com/artist/0mu4XqTlbFzFkaX19PLPJP"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Chasing the Light",
-      "url": "https://open.spotify.com/track/40Qr3OebBN1bWRZ75UTyly"
+      "duration_ms": 142363,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Fo3vk2l4BhzhdyfQpilOr"
     },
     {
-      "added_at": "2025-08-21 13:42:56",
+      "added_at": "2025-08-22 15:23:14",
       "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 32810,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/5biOEiDd3HE4WmhthIxoBf"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Keep That in Mind",
-      "url": "https://open.spotify.com/track/0jFlGmCX808DTwYWIQUsUY"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Blur the Light",
-      "url": "https://open.spotify.com/track/2Vgf2wi8r5TdMJWUoFHCGm"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Come Alive Girl",
-      "url": "https://open.spotify.com/track/26nuXXv1VnK7X00odcv4PD"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/7vOwLavezTdbq6A77twR4B"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Alive Tonight",
-      "url": "https://open.spotify.com/track/6lw0EMt5h41luxvAm1raoU"
-    },
-    {
-      "added_at": "2025-08-21 13:42:56",
-      "album": {
-        "name": "M\u0142ody Francesco",
-        "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
-      },
-      "artists": [
-        {
-          "name": "France3c0",
-          "url": "https://open.spotify.com/artist/2UQ3OdJM6PFw5aEBuAH5U3"
-        }
-      ],
-      "duration_ms": 32810,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/5XJEefpIGPRL950U8A6ZHt"
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
     }
   ],
   "unique_name": "Top 50 - Iceland",

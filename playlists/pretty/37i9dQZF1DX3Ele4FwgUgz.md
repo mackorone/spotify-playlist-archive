@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Enjoy music from "Nijigasaki High School Idol Club"\. ©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,402 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,407 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 21 | [Stellar Stream](https://open.spotify.com/track/4wZcKcvGmPDbSazHXFw6ex) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 3:48 |
 | 22 | [Rise Up High!](https://open.spotify.com/track/6pOlykcyQR9NsC3sgPKwmE) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 3:34 |
 | 23 | [stars we chase](https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [Eutopia / EMOTION / stars we chase \(ミア・テイラー盤\)](https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg) | 3:13 |
-| 24 | [EMOTION](https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/5FjoFZMuaiM6NTxzEfR89g) | [Eutopia / EMOTION / stars we chase \(三船栞子盤\)](https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T) | 3:50 |
-| 25 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 |
+| 24 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
+| 25 | [EMOTION](https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/5FjoFZMuaiM6NTxzEfR89g) | [Eutopia / EMOTION / stars we chase \(三船栞子盤\)](https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T) | 3:50 |
 | 26 | [Dream with You](https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Dream with You / Poppin' Up! / DIVE! \(上原歩夢盤\)](https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1) | 4:18 |
-| 27 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
+| 27 | [Eternal Light](https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 4:06 |
 | 28 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
 | 29 | [Cara Tesoro](https://open.spotify.com/track/0Qgi48UqdmsFcKCH3a8NKG) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [どこにいても君は君](https://open.spotify.com/album/3ByQWR8ogTlrWM7lh5i5Om) | 3:53 |
 | 30 | [LIKE IT!LOVE IT!](https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:21 |

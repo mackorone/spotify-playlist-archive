@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 366939,
+  "num_followers": 366950,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAD2zGXLrLZIdU4kYCivAgaq",
+  "snapshot_id": "aKZhgAAAAAANrJw1xJD/GdnV80IkpTXA",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let It Be A Hallelujah",
+        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Let It Be A Hallelujah",
+      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desperate",
         "url": "https://open.spotify.com/album/2qnnFD2AllqulvcOLJZQ87"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 210785,
       "name": "Desperate (with Lauren Daigle)",
       "url": "https://open.spotify.com/track/6VoT2qfMbAduFP8vUHlhjI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let It Be A Hallelujah",
-        "url": "https://open.spotify.com/album/0UvsYiQ89EzZCxNTijAYcc"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Let It Be A Hallelujah",
-      "url": "https://open.spotify.com/track/5AghoJrCWnWgT9bFhNXjcs"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 238026,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
+      "duration_ms": 209466,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 209466,
-      "name": "O' Lord - Radio Version",
-      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
+      "duration_ms": 238026,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
     },
     {
       "added_at": null,

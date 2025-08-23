@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\.  Cover: Mr Eazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,637 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,696 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,16 +62,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 52 | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/track/37PVItglTwpHi9nq0ftOjg) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [alone \(feat\. BhadBoi OML\)](https://open.spotify.com/album/6xw343HvlZYSXRti7sdWgP) | 2:33 |
 | 53 | [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 |
 | 54 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 |
-| 55 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |
-| 56 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
+| 55 | [So Much Sense](https://open.spotify.com/track/2bd4mGioqIx2KUlLGB7rOo) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [So Much Sense](https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V) | 2:48 |
+| 56 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 |
 | 57 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
 | 58 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 |
 | 59 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 |
 | 60 | [Toma Toma](https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Toma Toma](https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS) | 2:48 |
 | 61 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 62 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
-| 63 | [Police](https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Police](https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6) | 2:46 |
-| 64 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 |
+| 63 | [Sooner](https://open.spotify.com/track/63sgKgx5GSfmQYrCTCWM9O) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sooner](https://open.spotify.com/album/2BMLS5M4KcpBEVCgZoU62q) | 2:49 |
+| 64 | [Police](https://open.spotify.com/track/2Wj5YuUfvbAOzA2kxRlnqi) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Police](https://open.spotify.com/album/1UxjoXYJBDwQ4npIGWQhS6) | 2:46 |
 | 65 | [I miss you die](https://open.spotify.com/track/7swzo2S4OPXeBmHnSXolVw) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Olayemi](https://open.spotify.com/album/4wIqqlZlsh8cTmyMT2qycY) | 3:20 |
 | 66 | [Corny](https://open.spotify.com/track/4OnkZxUQMN9D7ZjGuxEd7K) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Corny](https://open.spotify.com/album/1oVNe2AR7EQLYMjzKbXASP) | 2:54 |
 | 67 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 |

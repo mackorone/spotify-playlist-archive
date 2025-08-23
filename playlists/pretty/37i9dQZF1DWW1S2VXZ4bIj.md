@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PONCHET
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: GEMINI, FOURTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,407 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,498 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

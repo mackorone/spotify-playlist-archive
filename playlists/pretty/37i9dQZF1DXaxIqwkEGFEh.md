@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,242,524 likes - 101 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,658 likes - 101 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 |
 | 101 | [FOOT SOLDIERS](https://open.spotify.com/track/2MjMV7Z1X9lvZ00SUbH6dr) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 3:25 |
 
-Snapshot ID: `AAAAANfL4KjxsN1WNJdBJadptrJgdr6d`
+Snapshot ID: `AAAAAG58PFvElwq4WzfXI9fJvLZK+z6Z`

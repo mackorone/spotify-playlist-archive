@@ -2,9 +2,9 @@
 
 ### [Gospel Acústico](https://open.spotify.com/playlist/37i9dQZF1DX7O8ONc6Mo0L)
 
-> Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
+> Relaxe com hinos acústicos\. Foto: Fernandinho
 
-166 songs - 12 hr 18 min
+167 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Até o Fim](https://open.spotify.com/track/5pYCKUDdBvxK8Zhxr4ywri) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Até o Fim](https://open.spotify.com/album/1adgtw24sgeeH5kEWz2Yyv) | 3:45 | 2022-09-02 | 2023-02-25 |
 | [Até Que Tu Sejas o Primeiro \- Acústico](https://open.spotify.com/track/1JiUNbAkkAtmCQLuKcdGSc) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Arco e Flecha](https://open.spotify.com/artist/2MnCgdwSL1ujfSHwIvjjmm) | [Acústico, Vol\. 2](https://open.spotify.com/album/0OcToYPbbdIO4d6p7SJZ2n) | 6:26 | 2022-09-02 | 2023-03-18 |
 | [Até Te Encontrar \- Em Casa Acústico](https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Até Te Encontrar \(Em Casa Acústico\)](https://open.spotify.com/album/019siXdjcZnRaYu461N7US) | 5:47 | 2022-09-02 |  |
+| [Bondade de Deus \- Acústico](https://open.spotify.com/track/6UO4TEDabo3GtIC7oYsE5C) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [VERSÕES 2: Fernandinho e Paula Santos \(Acústico\)](https://open.spotify.com/album/6tJWsyOOSJQddNw1YDhLDE) | 4:59 | 2025-08-22 |  |
 | [Caim e Abel \- Acústico](https://open.spotify.com/track/76PkcV3zkKw7d2LOOwb9BC) | [Ventania](https://open.spotify.com/artist/4ZgHby6oTRKwiGbf38dPs1), [MAYTHÊ](https://open.spotify.com/artist/6mCUkPiHI1H069swpE1OEi) | [Caim e Abel \(Acústico\)](https://open.spotify.com/album/5oCbHUIdqXs7PjJZmlowdB) | 3:38 | 2024-06-28 | 2024-10-26 |
 | [Calvário \- Acústico](https://open.spotify.com/track/1iDULS2J3cedW8dNWk0XXX) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k), [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Calvário \(Acústico\)](https://open.spotify.com/album/4hqJjhLBxT06bavOHts4ei) | 5:32 | 2022-09-02 | 2022-10-01 |
 | [Carta de Deus \- Ao Vivo](https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Carta de Deus \(Ao Vivo\)](https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa) | 5:08 | 2024-06-28 |  |

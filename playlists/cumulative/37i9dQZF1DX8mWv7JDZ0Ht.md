@@ -2,7 +2,7 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Luccas Carlos
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto: Doral
 
 852 songs - 1 day 18 hr 32 min
 

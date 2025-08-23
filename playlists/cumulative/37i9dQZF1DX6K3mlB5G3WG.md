@@ -4,7 +4,7 @@
 
 > Minelli e INNA in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-1,881 songs - 4 day 0 hr 11 min
+1,883 songs - 4 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 | 2025-01-16 | 2025-02-12 |
 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 | 2024-09-05 | 2024-09-27 |
 | [be a bitch](https://open.spotify.com/track/2nTvToMkyC8w9HySV4W7uU) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [be a bitch](https://open.spotify.com/album/26TVH1aBTaZG5TQURy09Wl) | 3:04 | 2025-07-24 | 2025-08-22 |
+| [Be Mine](https://open.spotify.com/track/2kqB5mGIss7DRgtXDsSrt1) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [Be Mine](https://open.spotify.com/album/0I7650tSDudV79jVNz6urZ) | 2:36 | 2025-08-22 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-09 | 2024-09-13 |
 | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/track/3Tdih47Fm5lGlwc4qsqFGr) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Beautiful Colors \- from Kaiju No\. 8](https://open.spotify.com/album/7J74ZcCS99ZyNUHB6E6Ntn) | 2:37 | 2025-07-24 | 2025-08-22 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-03-06 | 2025-04-11 |
@@ -310,6 +311,7 @@
 | [Cenere e fumo](https://open.spotify.com/track/7dW2uYFGWiLhc3EFVDp0vF) | [Shari](https://open.spotify.com/artist/3X9nkz31tAOM25rdtzfi60) | [Amore & Blues](https://open.spotify.com/album/3FggKt3YeS9XAQJdHbnmTh) | 2:38 | 2024-11-28 | 2024-12-06 |
 | [Centri Commerciali](https://open.spotify.com/track/1QdLcCH3xq7JEqCE8Lfbac) | [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm) | [Centri Commerciali](https://open.spotify.com/album/7nkwjllcvWQUTGQk25LjE6) | 2:37 | 2025-06-20 | 2025-07-18 |
 | [Cercapersone](https://open.spotify.com/track/2SywfrWnlBy49pkHkLC26J) | [Albe](https://open.spotify.com/artist/6eBpe3hqpzEJPqh8bREqI6) | [Cercapersone](https://open.spotify.com/album/1SYhkoiZ4UDCeoAGWAJEMc) | 3:19 | 2025-06-12 | 2025-07-11 |
+| [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-08-22 |  |
 | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/track/54Ti1KKYAVG2PdDdNx5cqH) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Namayana Women's Choir](https://open.spotify.com/artist/5VaB3puDBDbNGldxINR9rJ) | [Cero \(feat\. Namayana Women's Choir\)](https://open.spotify.com/album/4XOUS79S6VwUizow9b4ePm) | 3:02 | 2024-09-26 | 2024-10-18 |
 | [Cha Cha Twist! \(feat\. Lorella Cuccarini\)](https://open.spotify.com/track/0w3gV4FJQcjywuwKAUTHOF) | [Riki](https://open.spotify.com/artist/1DyU8JVejfDzqXo9x2mFfQ), [Lorella Cuccarini](https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U) | [Cha Cha Twist! \(feat\. Lorella Cuccarini\)](https://open.spotify.com/album/6n3REnnik2qpu7bkViZ67Q) | 3:02 | 2025-06-12 | 2025-07-11 |
 | [Chakra](https://open.spotify.com/track/7Hcd6tK1cag1iJwVhn3DH6) | [Mimì](https://open.spotify.com/artist/52qre2JBFS4n84AnZFWSY1) | [Chakra](https://open.spotify.com/album/0Xik1jZbDQ5bBFVap73iul) | 2:24 | 2025-06-20 | 2025-07-18 |

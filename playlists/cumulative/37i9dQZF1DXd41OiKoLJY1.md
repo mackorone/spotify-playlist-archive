@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover:  Liyenne Artwork: Isu Kim
 
-3,577 songs - 8 day 17 hr 25 min
+3,578 songs - 8 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,6 +851,7 @@
 | [DREAM](https://open.spotify.com/track/3pqySUFrmGQsZ5OStPQl5e) | [Xchan](https://open.spotify.com/artist/7Hjd5uSSIb9fFPPp0lPfYn) | [DREAM](https://open.spotify.com/album/4hioyzoOa3LfpKrzFYFPcQ) | 3:03 | 2022-11-24 | 2023-02-03 |
 | [Dream Come True](https://open.spotify.com/track/4nOMpfOWdXADocWa8xyQ8O) | [Fryday](https://open.spotify.com/artist/4QDQlEE69slOs65KGRNheo), [Jhen](https://open.spotify.com/artist/2dAxnIRoxer2kKA9VHkxpb) | [Dream Come True](https://open.spotify.com/album/4JlSR4fVwvoDjdTsMQsu3e) | 3:10 | 2023-06-08 | 2023-06-23 |
 | [Dreamland](https://open.spotify.com/track/06QalNnVHUw4CCh52rHHLx) | [Gab Mabanta](https://open.spotify.com/artist/2BcBX0znvjTTuUw2f0bTQQ) | [Dreamland](https://open.spotify.com/album/3kGzbutzEVNfONRVcXwyf4) | 4:37 | 2023-08-24 | 2023-09-15 |
+| [DREAMWEAVER](https://open.spotify.com/track/6GQUCYI3GiyFs1jtrCTjZT) | [Hazylazy](https://open.spotify.com/artist/5hVGJyd2WyWbzSkJiWmetp) | [DREAMWEAVER](https://open.spotify.com/album/6wMk1JCuXMpbbSeO7uk3Gx) | 4:12 | 2025-08-21 |  |
 | [Dried Flowers](https://open.spotify.com/track/5qiL3EHVn1RdbQieZrfhyi) | [Yoan Francine](https://open.spotify.com/artist/6DFr4IJysUA0KLD3JP0602) | [Dried Flowers](https://open.spotify.com/album/3GzvqT5HfmkC2muHyjp91x) | 5:00 | 2023-10-05 | 2023-11-11 |
 | [DRILLA from MANILA](https://open.spotify.com/track/72sGefblI6cj44dKmjoxBa) | [KZZY](https://open.spotify.com/artist/3npYwV74Euuu9W97dL6K8E) | [DRILLA from MANILA](https://open.spotify.com/album/42QsQ0ijobKVpOGwK0PqqM) | 2:32 | 2024-02-08 | 2024-03-01 |
 | [Drive and Meet You](https://open.spotify.com/track/0KuTQlAitRKGhPRdjyJ3Ht) | [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Drive and Meet You](https://open.spotify.com/album/6oKxJdV8je7SBnwWr37S5P) | 3:13 | 2022-09-22 | 2022-12-01 |

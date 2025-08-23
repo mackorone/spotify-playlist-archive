@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Common Hymnal
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,240 likes - 75 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,294 likes - 75 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 74 | [SPIRIT AND BRIDE](https://open.spotify.com/track/0SX3YuyCvHsV6gtffhySHV) | [Gather Worship](https://open.spotify.com/artist/3BysBU9EuhkanB2yKDSG7L), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Hear The World That You So Love Sing Back to You](https://open.spotify.com/album/5sRP2p1xJQ5cfTQajmslzF) | 4:52 |
 | 75 | [So Much](https://open.spotify.com/track/6uqYWwJnvxaea90fGpnD5K) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [The Way](https://open.spotify.com/album/4WnUpf631dEc0KK4jXjK3y) | 6:46 |
 
-Snapshot ID: `AAAAAMCF+eOpVEq5+c5JTgePbsB/jMr2`
+Snapshot ID: `AAAAAI3tQnLGEX/wD73/k3nm4uML+78Y`

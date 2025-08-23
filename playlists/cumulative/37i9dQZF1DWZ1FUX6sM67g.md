@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Fonseca & Rubén Blades
 
-238 songs - 13 hr 51 min
+239 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/7C3Czet53d8yHPg6S97L29) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [En Barranquilla Me Quedo \(Homenaje a Joe Arroyo\)](https://open.spotify.com/album/6OjhfiVCYhYx1Qne6IfChP) | 4:44 | 2022-07-28 | 2022-09-10 |
 | [En Esta Boca](https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [En Esta Boca](https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF) | 2:50 | 2024-02-23 | 2025-04-26 |
 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 | 2025-03-14 |  |
+| [Enamorarte Mil Veces](https://open.spotify.com/track/1XmJsXTKeaw51buHrbaqDM) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Enamorarte Mil Veces](https://open.spotify.com/album/6dV0Zc2j7ZcxP4vukqmvxj) | 2:51 | 2025-08-22 |  |
 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 | 2024-08-09 |  |
 | [Enséñame a Bailar](https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-20 | 2023-09-02 |
 | [Escúchame Mi Amor \- \(Versión Salsa\)](https://open.spotify.com/track/3ls8JeVnVqZjgxBUQ6dFmN) | [Alvaro Rod](https://open.spotify.com/artist/5UjFDinYOVndyri7JqzcAP) | [Escúchame Mi Amor](https://open.spotify.com/album/2JLsZ8rCJFCnjNIkepUej0) | 3:45 | 2022-05-20 | 2022-11-12 |
@@ -160,7 +161,7 @@
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-20 | 2024-05-11 |
 | [Mía](https://open.spotify.com/track/4a0boU6hLy1dqh9b2ihv33) | [Heredero](https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY) | [Mía](https://open.spotify.com/album/1ZpIwQLBouIfThnXmsWgOT) | 3:28 | 2025-04-25 | 2025-06-14 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-20 |  |
-| [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2022-05-20 |  |
+| [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2022-05-20 | 2025-08-23 |
 | [Ni Con Él, Ni Conmigo](https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Ni Con Él, Ni Conmigo](https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV) | 3:47 | 2024-08-23 |  |
 | [Ni Tú Ni Yo](https://open.spotify.com/track/1qK7lKpGFGzR00uxY6XRLq) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ni Tú Ni Yo](https://open.spotify.com/album/35f9vTMAvc2oVRgduRYL8D) | 3:44 | 2024-05-10 | 2024-06-22 |
 | [No Dudo](https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [No Dudo](https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA) | 3:20 | 2022-09-09 | 2022-12-03 |

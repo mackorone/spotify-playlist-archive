@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
 
-86 songs - 5 hr 33 min
+87 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [No Such Thing](https://open.spotify.com/track/6Vecwo7AHst9V2CE3kmwr0) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Room For Squares](https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48) | 3:51 | 2023-06-08 |  |
 | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/track/21I6SL2JSDfV04k1QFyLEG) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Not Goodbye \(Close My Eyes\)](https://open.spotify.com/album/1sIXZgz5vUYWCkR6yHaDSS) | 3:28 | 2025-08-01 |  |
 | [Nothing Left to Lose](https://open.spotify.com/track/4MzV7oB4N73FD7pCQjzDIa) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose \(Expanded Edition\)](https://open.spotify.com/album/4QOiSutKuxZ50zokHhz4QN) | 4:23 | 2023-06-08 |  |
+| [Ocean](https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Summer Anthem](https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah) | 3:26 | 2025-08-22 |  |
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2023-06-08 |  |
 | [Pictures Of You](https://open.spotify.com/track/6V4y4uuMAxe2EYDIWNToaH) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Pictures Of You](https://open.spotify.com/album/4EVjjpQd3Qw6tWIHgII6Rq) | 3:10 | 2023-06-08 |  |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-06-08 |  |

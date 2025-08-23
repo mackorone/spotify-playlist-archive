@@ -2,7 +2,7 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Gloria Estefan
+> Lo último y lo mejor de la salsa\. Cover: Luis Vazquez
 
 313 songs - 22 hr 38 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,472 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,467 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 20 | [Give That Wolf A Banana](https://open.spotify.com/track/50Cf2eYv8zT3v2HAkwhIiL) | [Subwoolfer](https://open.spotify.com/artist/633Va8wlM3hrqQ4xjqRfOf) | [Give That Wolf A Banana](https://open.spotify.com/album/0GPnAl0Q0GMPgFbmScP5as) | 2:51 |
 | 21 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
 | 22 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
-| 23 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
-| 24 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 |
+| 23 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 |
+| 24 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
 | 25 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 | 26 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
 | 27 | [Rockefeller Street](https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K) | [Getter Jaani](https://open.spotify.com/artist/10pMyCRhDkBpyuc38QOlKf) | [Rockefeller Street \- Single](https://open.spotify.com/album/4Prlk6ouh6SYDOa97Eyly4) | 3:12 |

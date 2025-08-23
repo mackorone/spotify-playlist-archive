@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2064699,
+  "num_followers": 2064952,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAA9ckxl9gtz4+udLiqq5WE/",
+  "snapshot_id": "aKZhgAAAAAA5XOrEbRrddLbkj9OOs+ca",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 328132,
       "name": "King Nothing - Remastered",
       "url": "https://open.spotify.com/track/0Qc9Bd7qzA8Vx3aSIf1t8B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 585506,
-      "name": "...And Justice for All",
-      "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Load (Remastered Deluxe Box Set)",
         "url": "https://open.spotify.com/album/1LupC8p6zU5mDyrLvvWEuV"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 319600,
       "name": "Mama Said - Remastered",
       "url": "https://open.spotify.com/track/2pFg7eERlKmCcdI3FlEuAc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 585506,
+      "name": "...And Justice for All",
+      "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 385986,
+      "name": "Eye of the Beholder",
+      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REBELS NEVER DIE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6giiV9q6odKQWeR6tfBgyX"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 189374,
       "name": "Nothing Else Matters vs F*CKING SOCIETY - Hardwell Mashup",
       "url": "https://open.spotify.com/track/107nvz0Fjnsq9O9g61myZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Eye of the Beholder",
-      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
     },
     {
       "added_at": null,

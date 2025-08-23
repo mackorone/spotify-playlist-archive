@@ -4,7 +4,7 @@
 
 > Geniet van de zon met hits van KAROL G, Chappell Roan, Sabrina Carpenter en meer...
 
-109 songs - 5 hr 35 min
+111 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,8 @@
 | [Fast](https://open.spotify.com/track/0o7fAE9dLRLx4kGMh3QFot) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Fast](https://open.spotify.com/album/5Gxs3DFHTwi9yeE5Uj64uI) | 3:01 | 2025-08-05 |  |
 | [Feel It](https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Milaa](https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB) | [Feel It](https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS) | 3:34 | 2025-07-17 |  |
 | [Feel It \(From “Invincible”\)](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 | 2025-07-17 |  |
+| [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-08-22 |  |
+| [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-22 |  |
 | [Gabriela](https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Gabriela](https://open.spotify.com/album/6rpin9IVOuBEWBYnrA9hft) | 3:17 | 2025-07-17 |  |
 | [Gameboy](https://open.spotify.com/track/2HMvIK2S3oC6OABl2YXAx1) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/4Bd27JFKxVcDPYGUkLHKPi) | 3:05 | 2025-07-17 |  |
 | [Girls Like You](https://open.spotify.com/track/6BfN2z3FfrqT8poo78l5hY) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Girls Like You](https://open.spotify.com/album/1TO1Ccdu03e0E3vGWHLZnc) | 3:35 | 2025-07-17 |  |

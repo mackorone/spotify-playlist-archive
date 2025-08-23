@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,054 songs - 2 day 11 hr 4 min
+1,055 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [As I Wander](https://open.spotify.com/track/4z9xtib1MazaujgJmSBxUB) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [As I Wander](https://open.spotify.com/album/4vimkzGnMvAaGc1eqtzx2u) | 2:48 | 2022-03-16 | 2022-05-28 |
 | [Ashes](https://open.spotify.com/track/7LgqqZZSiEu2ILeWBtwMsq) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Ashes](https://open.spotify.com/album/2GCD6TRc3fKAyiGKWTHy0M) | 2:33 | 2025-08-08 |  |
 | [Assassins](https://open.spotify.com/track/7fUtz2v6funYLn8G1W8TdD) | [VØJ](https://open.spotify.com/artist/4KRllJ2dEeoqvxOQLOgOsI), [Asketa](https://open.spotify.com/artist/2rJlTPC0ClcoQmNWci4C03) | [Assassins](https://open.spotify.com/album/2AQN1Enb8Sj4GXPQe3LnpK) | 2:54 | 2024-08-28 | 2024-11-20 |
+| [Aura Farming](https://open.spotify.com/track/54iy8ooDbrHeuSOeYL0pkC) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Aura Farming](https://open.spotify.com/album/5RbSTWWJaRaRcehgyOVr04) | 4:20 | 2025-08-22 |  |
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [AUTOMATIC](https://open.spotify.com/track/4xYMDPAohsKkfsO2lHltOQ) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67) | [AUTOMATIC](https://open.spotify.com/album/3M7GhG2yRtLncbiLtDBm6D) | 2:50 | 2023-08-03 | 2023-12-14 |

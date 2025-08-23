@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,874 likes - 46 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,878 likes - 46 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 32 | [Truth Doesn't Make a Noise](https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 3:14 |
 | 33 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
 | 34 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
-| 35 | [Party of Special Things to Do](https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:50 |
-| 36 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
+| 35 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
+| 36 | [Party of Special Things to Do](https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Party of Special Things to Do](https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U) | 2:50 |
 | 37 | [Cannon](https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:31 |
 | 38 | [Hand Springs](https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hand Springs](https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa) | 2:56 |
-| 39 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
-| 40 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
+| 39 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
+| 40 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
 | 41 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
 | 42 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
 | 43 | [City Lights \- Previously Unreleased](https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [City Lights \(Previously Unreleased\)](https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF) | 4:50 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 45 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 |
 | 46 | [Cool Drink Of Water Blues \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:12 |
 
-Snapshot ID: `aKO+gAAAAABoh2MOmnjTXOQe68oJPeDb`
+Snapshot ID: `aKZhgAAAAACtkTldWjthjL4puCPWpYHp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 
 > Hard rock and hair\-raising tracks for a head\-banging halloween
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,690 likes - 80 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,658 likes - 80 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 62 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 |
 | 63 | [Burn The Witch](https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Lullabies To Paralyze](https://open.spotify.com/album/68ZycIjwlQ0fvtaxVXmgn8) | 3:35 |
 | 64 | [Creature](https://open.spotify.com/track/3KFcKLDTG0KuWw3CCAdFFR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Don't Wait 'Til Tomorrow](https://open.spotify.com/album/20XIFoAtLYdFGnDoqNwnbf) | 3:05 |
-| 65 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
-| 66 | [Halloween](https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:39 |
+| 65 | [Halloween](https://open.spotify.com/track/17S89qlqmhEtGbHjzWWLaT) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Once More 'Round the Sun](https://open.spotify.com/album/7mEkBi9a2p2f1WQbnH8Qk5) | 4:39 |
+| 66 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 |
 | 67 | [Maxine \(Witch Queen\)](https://open.spotify.com/track/2wbfb2aLoDZMfX3kuuqYbt) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [This Heathen Land](https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K) | 3:18 |
 | 68 | [Bartzabel](https://open.spotify.com/track/3sR5MqlhE1pYtrZyCJNIuO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [I Loved You at Your Darkest](https://open.spotify.com/album/3Do9xEU0fSirYUJy5TguYv) | 5:01 |
 | 69 | [Skeleton](https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Skeleton](https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw) | 3:23 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqv38T3vrCH.md) - [plain]
 | 73 | [I Love the Dead](https://open.spotify.com/track/1nwkxjOS104dWwNgrhYkEo) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Billion Dollar Babies \(Deluxe Reissue\)](https://open.spotify.com/album/4SlY4oyiPg6At7vyouZ7ep) | 5:07 |
 | 74 | [Hellraiser](https://open.spotify.com/track/2N7LcpJoYo7WWTueTW9KyX) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Very Best Of](https://open.spotify.com/album/0v6vbvtlFL78oEd3KrT0jp) | 4:34 |
 | 75 | [Devil Inside](https://open.spotify.com/track/2kzVZTBUQG3CzuFTUknaRo) | [Wednesday 13](https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo) | [Devil Inside](https://open.spotify.com/album/42VxwbDQ4YorE3wuS7ofYq) | 5:14 |
-| 76 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 |
-| 77 | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [L'Orchestra Cinematique](https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W) | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo) | 3:19 |
+| 76 | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [L'Orchestra Cinematique](https://open.spotify.com/artist/4m1i53DaEliWzSkSFwqv5W) | [This is Halloween \(From "The Nightmare Before Christmas"\)](https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo) | 3:19 |
+| 77 | [Am I Evil?](https://open.spotify.com/track/1bqxO1wuMODj6x7fiCCovB) | [Diamond Head](https://open.spotify.com/artist/3z3KnhKZObj216IgfHYGVf) | [Am I Evil?](https://open.spotify.com/album/3Kq7zsHEu1aueV2ukmjwKA) | 8:25 |
 | 78 | [Every Day Is Halloween](https://open.spotify.com/track/6Zqj7C6uaIXFF5B8XxzWTO) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Every Day Is Halloween](https://open.spotify.com/album/7k9I081UZQ52AxclQ6ZjQE) | 6:24 |
 | 79 | [Happy Happy Halloween](https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2) | [Surfbort](https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx) | [Happy Happy Halloween](https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm) | 2:17 |
 | 80 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/2WAyob28woJ33khnZ2VI4Z) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 3:06 |

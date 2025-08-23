@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: FattyPillow
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,296 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,333 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 42 | [No Sleep Gang](https://open.spotify.com/track/4mVwqx2xCrkDP2vYgh38jG) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 2:44 |
 | 43 | [Narcos](https://open.spotify.com/track/1OWQtElgSSmAcIT6fZLJ6R) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk) | [Narcos](https://open.spotify.com/album/5RFUeH46MDwQ1PSIPJM6s5) | 3:11 |
 | 44 | [V Hlavě](https://open.spotify.com/track/5MdR2U7mgeQjCedqj5kC2o) | [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz), [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:08 |
-| 45 | [Window Shopper](https://open.spotify.com/track/2x39J1ztiWV60Q7WeSHIpW) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:00 |
+| 45 | [Window Shopper](https://open.spotify.com/track/2x39J1ztiWV60Q7WeSHIpW) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [juli koli](https://open.spotify.com/artist/3F4MshW2XrEex8rNOrrU4w) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:00 |
 | 46 | [Slzy](https://open.spotify.com/track/3zvg1jGv8J5laammbEvkzf) | [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slzy](https://open.spotify.com/album/3GYATvHPq0inFsTEVlxZkZ) | 2:30 |
 | 47 | [Letná](https://open.spotify.com/track/7JLiGPvaKNNrYJHfzfANe5) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [Manene](https://open.spotify.com/artist/7eKgZc26opM9g5oRiOOwlu) | [Letná](https://open.spotify.com/album/71pgnbzr7VB04NEUGQsU6F) | 2:16 |
 | 48 | [Givenchy](https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Givenchy](https://open.spotify.com/album/7iozutogFmMyQFGzOBEsuE) | 3:01 |

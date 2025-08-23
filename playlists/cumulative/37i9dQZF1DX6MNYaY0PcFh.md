@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Jorja Smith
 
-298 songs - 16 hr 53 min
+299 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 | 2023-06-08 | 2024-04-19 |
 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 | 2024-03-15 | 2024-06-01 |
 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 | 2022-11-25 | 2024-02-09 |
-| [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 | 2024-10-24 |  |
+| [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 | 2024-10-24 | 2025-08-23 |
 | [Empty](https://open.spotify.com/track/0geLfVS9vrNQhDPFJBqsL8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Love Me Not](https://open.spotify.com/album/0FYjV1mYKYhQqxrPSJWaLi) | 3:21 | 2025-04-17 | 2025-07-25 |
 | [Endless Sky](https://open.spotify.com/track/6yx9SdXE5O69efsGQqNiLp) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 2:39 | 2023-10-06 | 2024-09-13 |
 | [Everybody Over](https://open.spotify.com/track/4No1alSr6ux0ttjJqjAx8A) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Everybody Over](https://open.spotify.com/album/5efKfj820nvc1oQ71S43YC) | 2:46 | 2025-07-03 |  |
@@ -259,6 +259,7 @@
 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 | 2025-01-17 | 2025-08-19 |
 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 | 2024-06-28 | 2025-05-31 |
 | [Sweet](https://open.spotify.com/track/6VGLkcRFlnt38lQIqa9xQC) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sweet](https://open.spotify.com/album/2IB3vKc68wV4wAnRRHFSOb) | 2:20 | 2025-06-12 |  |
+| [Swings](https://open.spotify.com/track/51f0x0ish7roN0PUlCsAgY) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Swings](https://open.spotify.com/album/7Gmllttn0NtckSdTmsosYk) | 2:21 | 2025-08-15 |  |
 | [Take Control](https://open.spotify.com/track/0Dva4BUUvU1eSe3EV5F3Wa) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Take Control](https://open.spotify.com/album/5K6e9x4TdZsvmlODZ7GdQQ) | 3:00 | 2022-11-25 | 2024-01-04 |
 | [Take it Further](https://open.spotify.com/track/2YNcbIe5ez6J9pLeS0TmdL) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Take it Further](https://open.spotify.com/album/1g8uVD8Hk9ZOmjrSg1TwUb) | 4:33 | 2022-11-25 | 2023-09-02 |
 | [Take Me High](https://open.spotify.com/track/7aNEcFmD4lkBX0UjgTmzG1) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Take Me High](https://open.spotify.com/album/3yKCs4UE4ajRa8lfU8hyGp) | 2:41 | 2024-05-10 | 2025-06-20 |

@@ -12714,7 +12714,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 133846,
       "name": "EISAI BCC",
       "url": "https://open.spotify.com/track/4o6alQshJYIfjdH8WytWlc"
@@ -14134,7 +14134,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-15",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Esena",
       "url": "https://open.spotify.com/track/7uBuKv7JXBT6p2eM4JvSLi"
@@ -15190,7 +15190,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 137821,
       "name": "Feggari",
       "url": "https://open.spotify.com/track/3FP3DPRN3lw2APlsamN6yk"
@@ -19758,7 +19758,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -21972,7 +21972,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 187133,
       "name": "Kapos Allios",
       "url": "https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN"
@@ -23784,7 +23784,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -26234,7 +26234,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 172500,
       "name": "MA BELLA",
       "url": "https://open.spotify.com/track/6D5QFkJLHYuv5f7hvslZxz"
@@ -26282,7 +26282,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 220000,
       "name": "Ma Tnsani (Yalla Habibi)",
       "url": "https://open.spotify.com/track/01WFjqzUwrD4nfSQsHMVNm"
@@ -42119,6 +42119,28 @@
     },
     {
       "album": {
+        "name": "SYNTAGH",
+        "url": "https://open.spotify.com/album/1RW7ZSxu05jD61IOeydBAi"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Arab",
+          "url": "https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138543,
+      "name": "SYNTAGH",
+      "url": "https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum"
+    },
+    {
+      "album": {
         "name": "S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
       },
@@ -47922,7 +47944,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 218647,
       "name": "Xeiroteri Genia",
       "url": "https://open.spotify.com/track/5RquJn4F0DjTTzroC5pQRY"

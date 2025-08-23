@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,306 likes - 47 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,307 likes - 47 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 41 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
 | 42 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 | 43 | [Tabla Music for Meditation](https://open.spotify.com/track/6GQeKCaqhezSIkRcURoVjN) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:20 |
-| 44 | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/track/1ab08g5dW8AIEJzXcD561V) | [Indraneel Hariharan](https://open.spotify.com/artist/5WPiQNj0DTvWhYBrp1hiIC), [Krishang Hariharan](https://open.spotify.com/artist/0gNWJkcDHN7t3Hg6JEi2hv) | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/album/2WqDvVSYLHj1HgxPhnHysc) | 4:38 |
-| 45 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
+| 44 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |
+| 45 | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/track/1ab08g5dW8AIEJzXcD561V) | [Indraneel Hariharan](https://open.spotify.com/artist/5WPiQNj0DTvWhYBrp1hiIC), [Krishang Hariharan](https://open.spotify.com/artist/0gNWJkcDHN7t3Hg6JEi2hv) | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/album/2WqDvVSYLHj1HgxPhnHysc) | 4:38 |
 | 46 | [Rhythmic Passion](https://open.spotify.com/track/7sxcB99i4Bm0RJ3qwY3hrl) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 5:20 |
 | 47 | [Tabla](https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur) | [Jnan Prakash Ghosh](https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg) | [Drums Of India \- Pt\. Jnan Prakash Ghosh](https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT) | 12:51 |
 

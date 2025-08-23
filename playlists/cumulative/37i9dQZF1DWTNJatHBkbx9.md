@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: SuperJazzClub
 
-222 songs - 11 hr 1 min
+223 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Come Follow Me](https://open.spotify.com/track/56T8loOtxEaHfa6R6zkDO3) | [Sena Dagadu](https://open.spotify.com/artist/3ceHJPOe3uPruYejDNWXWH) | [Come Follow Me](https://open.spotify.com/album/4f3SmSUYbf384SthvKjjFf) | 5:42 | 2024-10-18 | 2025-01-18 |
 | [Comforter](https://open.spotify.com/track/55IEHJw75OMJpNIXQ9iiZe) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Kpanlogo](https://open.spotify.com/album/0u2Xpx6AJj4hSzPig3msZ7) | 3:37 | 2024-05-10 | 2024-11-23 |
 | [Connection](https://open.spotify.com/track/6WyvDxBdfoB4wNao2xLzcB) | [Jéermain](https://open.spotify.com/artist/6hLlNvIyGrv9VfHGJ6dJ08) | [Connection](https://open.spotify.com/album/1kpUWOZxlqylkCJZDRvro7) | 3:13 | 2024-05-10 | 2024-09-28 |
+| [Could It Be](https://open.spotify.com/track/59tS6EHPftOqgOtiMBaegm) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Pepper Soup](https://open.spotify.com/album/2k97Xj77SKb2zsdnpMiZSW) | 2:22 | 2025-08-22 |  |
 | [CRUISE](https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [CRUISE](https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56) | 1:39 | 2024-08-30 | 2025-07-05 |
 | [Cruise Control](https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 2:37 | 2024-06-07 | 2025-03-29 |
 | [Curbside](https://open.spotify.com/track/21yQvM7joAjWuZhnT4KdoS) | [Mēl](https://open.spotify.com/artist/0mBV9dVitzF9JNH3JRinMC), [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv), [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [For Melanin Girlies](https://open.spotify.com/album/2PrnZQQ9OyOCqFKaSnrTwA) | 2:08 | 2024-06-07 | 2024-09-13 |

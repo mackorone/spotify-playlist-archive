@@ -4,7 +4,7 @@
 
 > My name is pink
 
-158 songs - 8 hr 8 min
+159 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 | 2023-07-22 |  |
 | [Conceited](https://open.spotify.com/track/3qKunud9sySc8qvQ3i84og) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:26 | 2023-06-13 |  |
 | [Cool Girl](https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Lady Wood](https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y) | 3:19 | 2023-06-13 | 2025-05-31 |
-| [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2023-06-13 |  |
+| [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2023-06-13 | 2025-08-23 |
 | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL) | 2:48 | 2024-09-06 | 2025-02-13 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-06-13 |  |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-04-06 | 2024-04-19 |
@@ -65,6 +65,7 @@
 | [Guess](https://open.spotify.com/track/0xzBmAsCfu3AzX1W0GYtMJ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Brat and it’s the same but there’s three more songs so it’s not](https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq) | 2:22 | 2024-07-31 | 2025-05-07 |
 | [Hands](https://open.spotify.com/track/0r9P2WPP0kRvw0idqKedgK) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 2:45 | 2023-09-22 | 2023-10-28 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-06-13 |  |
+| [HOT BOYS MAKE HOT MUSIC](https://open.spotify.com/track/6YG2dmPEqcOA9ctHqhFbd4) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [HOT PEOPLE MAKE HOT MUSIC](https://open.spotify.com/album/5XXUWs8q10wMrfpQle0f2W) | 3:53 | 2025-08-22 |  |
 | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/track/0FZUbqZ1x2G71vl027d8Ud) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot Girl \(Bodies Bodies Bodies\)](https://open.spotify.com/album/5A0U5x6tAfyQaG5lnOL0fA) | 2:37 | 2023-07-26 | 2023-09-23 |
 | [Hot In It](https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Hot In It](https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q) | 2:09 | 2023-06-13 | 2023-10-28 |
 | [Hot In It \(feat\. Charli XCX\)](https://open.spotify.com/track/5pNFibJLq7dvoDVIIcQBkn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:09 | 2023-10-27 | 2024-04-19 |

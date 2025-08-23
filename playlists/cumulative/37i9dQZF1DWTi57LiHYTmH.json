@@ -2586,7 +2586,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 132760,
       "name": "Flute Sonata in E-Flat Major, BWV 1031: II. Siciliano (Arr. I. Friedman for Piano)",
       "url": "https://open.spotify.com/track/6snA8ljjHLaFZWZy3EfgNM"
@@ -2964,7 +2964,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 176466,
       "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/7qfuAHc88ZCpkVh5nCbcE5"
@@ -5129,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Max Richter: Written on the Sky",
+        "url": "https://open.spotify.com/album/3NTBDwC0a5CtotRCylwCFm"
+      },
+      "artists": [
+        {
+          "name": "Dalal",
+          "url": "https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109380,
+      "name": "Richter: Written on the Sky",
+      "url": "https://open.spotify.com/track/0n3CjysTL1Kcuu9BS0lN38"
+    },
+    {
+      "album": {
         "name": "Handel Variations",
         "url": "https://open.spotify.com/album/21lcyOutL6OClPcldmOP3Q"
       },
@@ -6348,7 +6366,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 236491,
       "name": "Tiersen: Tempelhof",
       "url": "https://open.spotify.com/track/4NqrAnZUh7iienqfrC4oaE"

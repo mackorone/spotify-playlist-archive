@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 205467,
+  "num_followers": 205540,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAA4a46s6tCWwoeHez2gBb+j",
+  "snapshot_id": "aKZhgAAAAAAM3xKSgRJoiot9lLFZLeva",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Avi\u00f3n",
-        "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 227750,
-      "name": "En El Avi\u00f3n",
-      "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ahora Es Diferente",
         "url": "https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6"
       },
@@ -763,38 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avion de Papel",
-        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
+        "name": "En El Avi\u00f3n",
+        "url": "https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 194899,
-      "name": "Quien Te Viera",
-      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         },
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Est\u00e1 Caliente",
-      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+      "duration_ms": 227750,
+      "name": "En El Avi\u00f3n",
+      "url": "https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda"
     },
     {
       "added_at": null,
@@ -819,8 +783,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Est\u00e1 Caliente",
+      "url": "https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avion de Papel",
+        "url": "https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9"
       },
       "artists": [
         {
@@ -828,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         }
       ],
-      "duration_ms": 217913,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+      "duration_ms": 194899,
+      "name": "Quien Te Viera",
+      "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
       "duration_ms": 188125,
       "name": "Nada Es Perfecto",
       "url": "https://open.spotify.com/track/0qn3qZwkLKB6zelSSdUUX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ingrata",
-        "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 214471,
-      "name": "Ingrata",
-      "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flaco Pesado (Remix)",
         "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 227631,
       "name": "Flaco Pesado (Remix)",
       "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ingrata",
+        "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 214471,
+      "name": "Ingrata",
+      "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
     },
     {
       "added_at": null,

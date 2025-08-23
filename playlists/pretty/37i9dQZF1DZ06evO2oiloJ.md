@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,553 likes - 42 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,609 likes - 42 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 5 | [Rich Off Pain \(feat\. Rod Wave\)](https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 3:55 |
 | 6 | [Boyz Don't Cry](https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f) | 2:46 |
 | 7 | [Tombstone](https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:40 |
-| 8 | [Passport Junkie](https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:27 |
-| 9 | [Chip On My Shoulder](https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 1:51 |
+| 8 | [Chip On My Shoulder](https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 1:51 |
+| 9 | [Passport Junkie](https://open.spotify.com/track/5srHQMMvaXT2S3nXy1jq6g) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:27 |
 | 10 | [Heart On Ice](https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [PTSD](https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm) | 2:39 |
 | 11 | [Dark Clouds](https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:49 |
 | 12 | [Turks & Caicos \(feat\. 21 Savage\)](https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 3:23 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 20 | [Fight The Feeling](https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:40 |
 | 21 | [Angel With An Attitude](https://open.spotify.com/track/2gUEB9jSU0HZhLJIYffeQn) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 3:15 |
 | 22 | [Sky Priority](https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:58 |
-| 23 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 |
-| 24 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
+| 23 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
+| 24 | [Sinners](https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners](https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr) | 3:08 |
 | 25 | [By Your Side](https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:14 |
 | 26 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
 | 27 | [The Greatest](https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love](https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY) | 2:48 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 41 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 |
 | 42 | [What's Love??](https://open.spotify.com/track/4NWJN6qnlOwHmMfOhrC5qZ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk) | 2:58 |
 
-Snapshot ID: `aKO+gAAAAACQhLSDDzVBSpUhG4ZacgQ+`
+Snapshot ID: `aKZhgAAAAAB7IU7kpR9TPYKEH2G72o36`

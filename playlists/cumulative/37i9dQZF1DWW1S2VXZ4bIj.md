@@ -2,7 +2,7 @@
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: PONCHET
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: GEMINI, FOURTH
 
 503 songs - 1 day 6 hr 35 min
 

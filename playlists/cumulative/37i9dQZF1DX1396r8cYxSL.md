@@ -4,7 +4,7 @@
 
 > 2025 yazına damga vuran şarkılar\. Kapak: Norm Ender x Ebru Gündeş
 
-174 songs - 8 hr 21 min
+176 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Gemiler \- Ersay Üner](https://open.spotify.com/track/7I1HcvlIhaPgN368uSndoc) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 2:17 | 2025-07-02 | 2025-07-16 |
 | [Geri Dönemedim](https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geri Dönemedim](https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC) | 2:18 | 2023-09-04 | 2024-07-04 |
 | [Geçsin Yıllar](https://open.spotify.com/track/5CiycCVVt7vLJyMw1MVfzS) | [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Geçsin Yıllar](https://open.spotify.com/album/5vc7GUQqWQ2zZS3CffxRmx) | 3:27 | 2025-05-22 |  |
+| [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 | 2025-08-22 |  |
 | [Görmem Böylesini](https://open.spotify.com/track/52EgkN1E6pqOJ0AL2YWxfs) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Görmem Böylesini](https://open.spotify.com/album/0ZR3vgtrtcwpKWZ9Naiic0) | 3:12 | 2023-09-04 | 2025-07-01 |
 | [HA HA HA HA](https://open.spotify.com/track/46EVmz3fZglNWoo2uyRkMu) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [HA HA HA HA](https://open.spotify.com/album/5cQ0A1z9Xlpi2M4RLGO8Xz) | 1:42 | 2025-05-22 | 2025-08-06 |
 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 | 2024-06-05 | 2025-06-07 |
@@ -99,7 +100,7 @@
 | [KAPALI KAPILAR](https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [KAPALI KAPILAR](https://open.spotify.com/album/4LQUHqj3yzAz5zQXR1w296) | 2:36 | 2024-07-03 | 2025-05-23 |
 | [Kayboldum Masalında](https://open.spotify.com/track/1BpEKaFPwQY2KtoDQawpt2) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kayboldum Masalında](https://open.spotify.com/album/7M2QsyKsuRE2We8pTa2oEc) | 4:15 | 2025-06-06 |  |
 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 | 2025-06-06 |  |
-| [Konsun Bir Kuş Gibi](https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Konsun Bir Kuş Gibi](https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75) | 2:28 | 2025-05-22 |  |
+| [Konsun Bir Kuş Gibi](https://open.spotify.com/track/6iDsGozcu8TQ3NvCLOy9w9) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Konsun Bir Kuş Gibi](https://open.spotify.com/album/2hZZK3GW7k61P4cZkElt75) | 2:28 | 2025-05-22 | 2025-08-23 |
 | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU) | [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg), [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [KONTAK \(feat\. Ezhel\)](https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw) | 2:38 | 2023-09-04 | 2024-06-06 |
 | [Koy](https://open.spotify.com/track/0HZi4wE9hQM6TAL33xzXcx) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m) | [Koy](https://open.spotify.com/album/1Wuw1HlYJQakuvryQEev38) | 2:37 | 2025-05-22 | 2025-08-08 |
 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 | 2025-05-22 |  |
@@ -125,6 +126,7 @@
 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 | 2025-05-22 | 2025-08-08 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-05 | 2025-06-13 |
 | [RUJ](https://open.spotify.com/track/3SJ6Dk9v81DxV9ugOTXSZk) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [RUJ](https://open.spotify.com/album/0uDGWW5KwPWZz7uffY647c) | 3:08 | 2025-06-26 |  |
+| [Sabrettim](https://open.spotify.com/track/1PkXm3F4IHE4cwm3D9y1tr) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Sabrettim](https://open.spotify.com/album/1F9mSnW3E9HjHLAzqO0cjP) | 3:05 | 2025-08-22 |  |
 | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [SAGOLUYORUM \(BIG TERORISTA\)](https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9) | 1:35 | 2024-06-05 | 2025-06-07 |
 | [Sahte Dualar](https://open.spotify.com/track/3bUkBCbcOg787J2jEp3lN7) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Sahte Dualar](https://open.spotify.com/album/2NHiHNUsDwEW49Y5ss910e) | 3:30 | 2025-07-10 |  |
 | [SALINA SALINA](https://open.spotify.com/track/1Ka5a3r3oYJzCfXl5Uq2CA) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [SALINA SALINA](https://open.spotify.com/album/2eOg7JmgrIgAEpX4SBr6L8) | 2:08 | 2025-07-10 |  |
@@ -158,7 +160,7 @@
 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 | 2025-08-07 |  |
 | [Yana Yana](https://open.spotify.com/track/7p0ODIG60DRkcTiVlJPgck) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Yana Yana](https://open.spotify.com/album/0LhcOfHLFQlBQhqGtRPIZy) | 2:27 | 2023-09-04 | 2024-06-06 |
 | [YANILIR GİBİ](https://open.spotify.com/track/20hHiVlL96ctdsrP2Nsydj) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [TEK KİŞİLİK MASA](https://open.spotify.com/album/1PNjEh6e0T28jszrn3Mwva) | 4:27 | 2025-05-22 |  |
-| [Yansın](https://open.spotify.com/track/1JhhX1TICmdKIwaLNuj09y) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Spektrum](https://open.spotify.com/album/0PbUBrhDL85j33u5HEqU03) | 2:32 | 2025-05-22 |  |
+| [Yansın](https://open.spotify.com/track/1JhhX1TICmdKIwaLNuj09y) | [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Spektrum](https://open.spotify.com/album/0PbUBrhDL85j33u5HEqU03) | 2:32 | 2025-05-22 | 2025-08-23 |
 | [Yanıbaşımda](https://open.spotify.com/track/3I69y3FlCsZ6UlOQinRs3l) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Yanıbaşımda](https://open.spotify.com/album/29DQUx0KYURggIpSJIiU0r) | 2:23 | 2024-06-05 | 2024-07-04 |
 | [YAPAR MISIN?](https://open.spotify.com/track/1o1y0rEQzj9HyB7grfQyl8) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [Murat Boz](https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh) | [YAPAR MISIN?](https://open.spotify.com/album/6wCoZSFVEl52dncyZh2juC) | 2:37 | 2025-08-07 |  |
 | [Yara Bandı](https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Yara Bandı](https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p) | 3:06 | 2025-06-12 |  |

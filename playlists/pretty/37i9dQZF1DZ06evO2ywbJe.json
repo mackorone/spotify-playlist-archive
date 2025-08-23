@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 5981,
+  "num_followers": 5985,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADKU6NMko+xz6QnirS02qzA",
+  "snapshot_id": "aKZhgAAAAAALB4T9E+NIiuDcUj37Ss33",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "African Giant",
-        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 223531,
-      "name": "Killin Dem (feat. Zlatan)",
-      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 248727,
       "name": "Sweet in the Middle (feat. Wurld, Naira Marley & Zlatan)",
       "url": "https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/277z75G1Gdz0SWN9pegrrs"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 223531,
+      "name": "Killin Dem (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/7tZkNNRpseecV80chiIeDT"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagos Anthem",
-        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 209747,
-      "name": "Lagos Anthem",
-      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Elon Musk (Remix)",
         "url": "https://open.spotify.com/album/5payO4dC3cuMZryiZ5pFdd"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 204107,
       "name": "Elon Musk (Remix)",
       "url": "https://open.spotify.com/track/2AARxK7bhm2PNL08d0FHto"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lagos Anthem",
+        "url": "https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 209747,
+      "name": "Lagos Anthem",
+      "url": "https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM"
     },
     {
       "added_at": null,
@@ -955,30 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatness 2.0",
-        "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
-      },
-      "artists": [
-        {
-          "name": "DJ Neptune",
-          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Only Fan",
-      "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Marleba The EP",
         "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 144993,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatness 2.0",
+        "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 200973,
+      "name": "Only Fan",
+      "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
     },
     {
       "added_at": null,

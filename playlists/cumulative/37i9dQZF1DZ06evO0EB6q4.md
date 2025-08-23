@@ -4,7 +4,7 @@
 
 > This is Nanpa Básico\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 24 min
+114 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 | 2024-12-19 |  |
 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 | 2023-12-30 | 2024-12-11 |
 | [Canela](https://open.spotify.com/track/592R1yDJZI1NUKHpjyLCua) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/3Xc3k048w8xcsJLnTx4DY6) | 3:24 | 2024-12-11 |  |
-| [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 | 2023-12-30 |  |
+| [Carita de Ángel](https://open.spotify.com/track/01hgvJRWaAVi9kAfKOa4TC) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:10 | 2023-12-30 | 2025-08-23 |
 | [Cariñitos Y Flores](https://open.spotify.com/track/1GOJEorxVpE2s6jhqUyRNh) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Cariñitos Y Flores](https://open.spotify.com/album/70GVEB2pOYx7hViOJV9ucd) | 2:39 | 2025-02-09 |  |
 | [Coincidimos](https://open.spotify.com/track/3IEUAkhsrEpWLFDPasBKzj) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Coincidimos](https://open.spotify.com/album/21RfMYRrUo2VVY2WyqqeiD) | 2:52 | 2025-03-22 | 2025-05-17 |
 | [Como Bolero](https://open.spotify.com/track/5sBFBv0WHFp6n7IkHPZjMM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Como Bolero](https://open.spotify.com/album/5XDYqdmYZykDK3uFHF9Mz3) | 3:14 | 2024-12-20 | 2025-06-22 |
@@ -109,6 +109,7 @@
 | [Te Ire A Buscar](https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire A Buscar](https://open.spotify.com/album/48nhACiR3pxi57lxXIxx1P) | 3:38 | 2023-12-30 |  |
 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 | 2023-12-30 |  |
 | [Todo Irá Bien](https://open.spotify.com/track/3jX12gKsZ4bPUne2d9b4aQ) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todo Irá Bien](https://open.spotify.com/album/6QsEigzBAgnkBS9AHbRIRP) | 3:11 | 2025-06-22 |  |
+| [TRAGO \#1 LOLOLO](https://open.spotify.com/track/4hwdIStMgDWTkFBoNSwlM8) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Altafulla](https://open.spotify.com/artist/0Tr6PMUYJ3MupljA0MS4Dy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [TRAGO \#1 LOLOLO](https://open.spotify.com/album/1ASpVS2RnpVQ3PdBh2rhd8) | 3:05 | 2025-08-23 |  |
 | [Tu Look](https://open.spotify.com/track/1eeJ8xrZTorbacEPCmharT) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Tu Look](https://open.spotify.com/album/11pMPWJT66aQcb0m6UhnsZ) | 2:49 | 2024-03-16 | 2024-09-01 |
 | [Una Loca Como Tú](https://open.spotify.com/track/0yWarPMKVH0kLJT7XZRMNF) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/3gmrexExvzNXV9HlKwLAdT) | 3:55 | 2024-12-19 |  |
 | [Una Loca Como Tú](https://open.spotify.com/track/75LEiH4VE5EZN48jBZ0ABi) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Una Loca Como Tú](https://open.spotify.com/album/5B1wWFnFiSYNgsyOv66SDW) | 3:55 | 2023-12-30 | 2024-12-19 |

@@ -2,9 +2,9 @@
 
 ### [New Music Friday France](https://open.spotify.com/playlist/37i9dQZF1DX742okrrpwah)
 
-> M\. Pokora, Joé Dwèt Filé et sombr au top des nouveautés de la semaine !
+> Doja Cat, M\. Pokora, Joé Dwèt Filé et sombr au top des nouveautés de la semaine !
 
-5,985 songs - 12 day 22 hr 48 min
+5,988 songs - 12 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [Celle que je crois](https://open.spotify.com/track/35P72mvd7V0vVdwQFW9gb9) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [Celle que je crois](https://open.spotify.com/album/6xlyjscksxeukBj52Peufx) | 3:26 | 2025-03-20 | 2025-03-28 |
 | [Celle\-ci](https://open.spotify.com/track/46p3ZcZbQNDpdn83IXfh9e) | [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [Celle\-ci](https://open.spotify.com/album/3vtkElmMQAruKqdHyfQhG1) | 3:16 | 2024-05-02 | 2024-05-10 |
 | [CELUI QUE T'AS CONNU](https://open.spotify.com/track/7fyJQ3isSNCtiJV34aD8td) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [NO MAN'S LAND](https://open.spotify.com/album/27vmqM2BAbsocmzcmXHhcn) | 2:12 | 2025-07-10 | 2025-07-18 |
+| [CEREMONY](https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO) | 2:44 | 2025-08-21 |  |
 | [Cet été](https://open.spotify.com/track/4y6KMBZaFGrb1BXKjJBWrK) | [Coline Sicre](https://open.spotify.com/artist/0uUP6OPSUQB5fo2oiqlZUz) | [Cet été](https://open.spotify.com/album/7wUwgYwIAKebXAJPp7eMCJ) | 3:08 | 2025-05-22 | 2025-05-30 |
 | [Cette guerre](https://open.spotify.com/track/2F7F4ZWiPnJ8ZUK2Gc96dQ) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [Famille](https://open.spotify.com/album/42BQRI096xf6TUvY4UOuEV) | 3:17 | 2025-02-28 | 2025-03-07 |
 | [Cette vie](https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Mon sang](https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR) | 2:54 | 2024-11-14 | 2024-11-22 |
@@ -1901,6 +1902,7 @@
 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 | 2025-07-24 | 2025-08-01 |
 | [Freaking You Out](https://open.spotify.com/track/5ndDgAqa9XNZsfdt6MVHIC) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Freaking You Out](https://open.spotify.com/album/4pYGTu5OMw0SAeW7uWIpM3) | 3:02 | 2025-05-01 | 2025-05-09 |
 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-03-27 | 2025-04-04 |
+| [FREE \(feat\. Vory\)](https://open.spotify.com/track/2ejtHkOYKyi2qE8eGSIfo5) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Red Clay \(Official Motion Picture Soundtrack\)](https://open.spotify.com/album/7AzI6QadypH58VqkyUEEzm) | 3:10 | 2025-08-21 |  |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-25 | 2024-08-02 |
 | [FREE CONGO](https://open.spotify.com/track/6RAYjbw8M4gZ5lkZKipWFC) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [FREE CONGO](https://open.spotify.com/album/1hLPzmMntzpYy2Ajp9Ba5s) | 3:34 | 2025-02-20 | 2025-03-01 |
 | [Free of Charge](https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Viva Lavida](https://open.spotify.com/album/2v9BQysB6oA12Vcm9kjL5w) | 2:53 | 2025-03-27 | 2025-04-04 |
@@ -2685,6 +2687,7 @@
 | [Je veux](https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Je veux](https://open.spotify.com/album/5TmZ1rSDiLu7U3HdnogwC7) | 2:12 | 2025-01-09 | 2025-01-17 |
 | [Je voudrais tomber amoureux](https://open.spotify.com/track/2KEbuxwXcerVcuPdfxBMg2) | [Félix Radu](https://open.spotify.com/artist/0a0Pl9QiikzqYozn7qyooX) | [Je voudrais tomber amoureux](https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0) | 4:43 | 2024-07-25 | 2024-08-02 |
 | [Je\-m'en\-foutisme](https://open.spotify.com/track/2HVbMBvaLBk8r9N2JkoSdr) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Je\-m'en\-foutisme](https://open.spotify.com/album/3MtHZHhYxhiMheSNTObC1R) | 2:27 | 2024-11-14 | 2024-11-22 |
+| [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-08-22 |  |
 | [Jealousy \- From the Vault](https://open.spotify.com/track/44jX2MFYW9vDayWo94q6TA) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Queen Of The Clouds: X](https://open.spotify.com/album/0cOURyRiI1HI6BEyhH9ktH) | 3:44 | 2024-09-26 | 2024-10-04 |
 | [JEAN](https://open.spotify.com/track/2KQaZMOnSVvUws99I5H6y2) | [Jeanne Cherhal](https://open.spotify.com/artist/782B4UZNgZiVf5uVS5P35h) | [JEAN](https://open.spotify.com/album/7qIiRSinRJopSRVuqZT9E9) | 3:27 | 2025-01-30 | 2025-02-07 |
 | [Jekasoro](https://open.spotify.com/track/6aM9gqrk4TJaYiLHB3NJlv) | [Anni3](https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Jekasoro](https://open.spotify.com/album/1vNa83E7iYAwrI6lAKnqOp) | 1:38 | 2024-09-26 | 2024-10-04 |

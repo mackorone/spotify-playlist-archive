@@ -1,32 +1,28 @@
 {
-  "description": "Where R&B lives. Cover: Odeal",
-  "num_followers": 6167126,
+  "description": "Where R&B lives. Cover: Mariah The Scientist",
+  "num_followers": 6166221,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGErpHBbhusqutq8jQ4/9IJxT8dP",
+  "snapshot_id": "AAAAAGee10zGInn/JHcKdCgbw6wp3YlJ",
   "tracks": [
     {
-      "added_at": "2025-08-15 04:58:04",
+      "added_at": "2025-08-22 16:01:48",
       "album": {
-        "name": "The Summer That Saved Me",
-        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 216493,
-      "name": "Miami (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+      "duration_ms": 241206,
+      "name": "All I Want + In Pursuit",
+      "url": "https://open.spotify.com/track/3X6hp5iPHRAB7AZ27liSbF"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -83,6 +79,26 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
+        "name": "The Summer That Saved Me",
+        "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "Miami (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": "2025-08-15 04:58:04",
+      "album": {
         "name": "BELOVED",
         "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
@@ -95,6 +111,26 @@
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Escape Room",
+        "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 158115,
+      "name": "Hard Part (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -115,26 +151,6 @@
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
-        "name": "Is It a Crime",
-        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -185,6 +201,22 @@
       "url": "https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5"
     },
     {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 212941,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/3mkRf3aCGR47rOxtJJiv9u"
+    },
+    {
       "added_at": "2025-08-15 04:58:04",
       "album": {
         "name": "Spend It",
@@ -203,22 +235,34 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+        "name": "Useless (Without You)",
+        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 182767,
-      "name": "SOMEBODY LOVES ME",
-      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
+      "duration_ms": 166894,
+      "name": "Useless (Without You)",
+      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 209589,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -319,6 +363,62 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 182767,
+      "name": "SOMEBODY LOVES ME",
+      "url": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
+    },
+    {
+      "added_at": "2025-08-15 04:58:04",
+      "album": {
+        "name": "Is It a Crime",
+        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 181334,
+      "name": "Is It a Crime",
+      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
+    },
+    {
+      "added_at": "2025-08-15 04:58:04",
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
+    },
+    {
+      "added_at": "2025-08-15 04:58:04",
+      "album": {
         "name": "Why Not More? (MORE!)",
         "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
       },
@@ -331,6 +431,38 @@
       "duration_ms": 158815,
       "name": "Passport",
       "url": "https://open.spotify.com/track/6zndkRnkrpNLXj4Hk64YN6"
+    },
+    {
+      "added_at": "2025-08-15 04:58:04",
+      "album": {
+        "name": "Bed of Roses",
+        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "duration_ms": 149503,
+      "name": "Bed of Roses",
+      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
+    },
+    {
+      "added_at": "2025-08-15 04:58:04",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -353,36 +485,36 @@
       "url": "https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn"
     },
     {
-      "added_at": "2025-08-15 04:58:04",
+      "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "Burning Blue",
-        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 205724,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
+      "duration_ms": 184822,
+      "name": "Acres",
+      "url": "https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3"
     },
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "BELOVED",
+        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
       },
       "artists": [
         {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
+      "duration_ms": 213791,
+      "name": "STRANGERS",
+      "url": "https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -407,34 +539,18 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "BELOVED",
-        "url": "https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ"
+        "name": "Burning Blue",
+        "url": "https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 213791,
-      "name": "STRANGERS",
-      "url": "https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
-        "name": "Useless (Without You)",
-        "url": "https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 166894,
-      "name": "Useless (Without You)",
-      "url": "https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw"
+      "duration_ms": 205724,
+      "name": "Burning Blue",
+      "url": "https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -455,22 +571,6 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "Bed of Roses",
-        "url": "https://open.spotify.com/album/7EHL9PCseJVg7jLeF08G3S"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        }
-      ],
-      "duration_ms": 149503,
-      "name": "Bed of Roses",
-      "url": "https://open.spotify.com/track/4hTBcHQ5DjYH9dbroi91if"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -483,22 +583,6 @@
       "duration_ms": 137746,
       "name": "In the Chair",
       "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
-        "name": "Make It Right",
-        "url": "https://open.spotify.com/album/0G261JpPvWe41UOUsIUyZJ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/3uWZInj0LhM1SKBcL25HE2"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -695,8 +779,8 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "DOWN BAD",
-        "url": "https://open.spotify.com/album/7vACZGvCij77fUPfSi54TC"
+        "name": "CUT UP",
+        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
       },
       "artists": [
         {
@@ -704,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 132246,
-      "name": "DOWN BAD",
-      "url": "https://open.spotify.com/track/6V2GsxdsoC7s81pD0ZMyi6"
+      "duration_ms": 176785,
+      "name": "CUT UP",
+      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     },
     {
       "added_at": "2025-08-15 04:58:04",
@@ -747,22 +831,6 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "Head in a Jar",
-        "url": "https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "Head in a Jar",
-      "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
         "name": "WHY",
         "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
       },
@@ -795,26 +863,6 @@
     {
       "added_at": "2025-08-15 04:58:04",
       "album": {
-        "name": "NIGHT OFF",
-        "url": "https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
-        },
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 173445,
-      "name": "NIGHT OFF",
-      "url": "https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
         "name": "WHEN",
         "url": "https://open.spotify.com/album/2HHseNs1ly8ccUuZjGNsQD"
       },
@@ -843,38 +891,6 @@
       "duration_ms": 228047,
       "name": "YES IT IS",
       "url": "https://open.spotify.com/track/2iksjpqL3eraxCBKqNHuqd"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 167448,
-      "name": "What Do I Do",
-      "url": "https://open.spotify.com/track/6jTQijAuYxOd8DjQ8D6UkL"
-    },
-    {
-      "added_at": "2025-08-15 04:58:04",
-      "album": {
-        "name": "CUT UP",
-        "url": "https://open.spotify.com/album/6hTtCdrTGIb5hzksetYw0u"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 176785,
-      "name": "CUT UP",
-      "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     }
   ],
   "unique_name": "RNB X",

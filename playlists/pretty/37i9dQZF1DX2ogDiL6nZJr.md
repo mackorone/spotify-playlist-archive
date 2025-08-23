@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,352 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,430 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 42 | [Colorado \- Acoustic Version](https://open.spotify.com/track/1iRoX1aGWT6C48LIdbTWr8) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Colorado \(Acoustic Version\)](https://open.spotify.com/album/3PiUucuaHEp8Sr3eo1OETs) | 2:55 |
 | 43 | [Stuck](https://open.spotify.com/track/3d2oVtfkR9fZGIejnA4fY8) | [SWEED](https://open.spotify.com/artist/1gM5MrKbRvvQuG1SShfkVG) | [Stuck](https://open.spotify.com/album/2DukMfm4xFv4wrG5OxnwmJ) | 3:39 |
 | 44 | [Blue Eyes Forever](https://open.spotify.com/track/5eXxyV07hVH8VxAwYP0VL6) | [Charlotte OC](https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH) | [Oh the Agony, Oh the Ecstasy](https://open.spotify.com/album/4CLlox0P7wxjTjxJsfUXsO) | 3:23 |
-| 45 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
-| 46 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
+| 45 | [Breach](https://open.spotify.com/track/04CmffXO0izW3hyshf25Zj) | [Boatkeeper](https://open.spotify.com/artist/50KHQF16VC7NeTwFNnKoJ5) | [Breach](https://open.spotify.com/album/6w03R3cOqEyw58PhPnYoPg) | 3:22 |
+| 46 | [Cabriolet](https://open.spotify.com/track/2YQfZm5t4oD3j9ZTgfmtaO) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Cabriolet](https://open.spotify.com/album/0O64L0ug8zm8jnb9ubZgUh) | 4:02 |
 | 47 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
 | 48 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
 | 49 | [Riverbank](https://open.spotify.com/track/0SP2eFIWDUhg3WyLvGz8tg) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Trust](https://open.spotify.com/album/13L02WekpJUjOj1SiIUBoW) | 4:15 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 59 | [Our New World \- with Kyson](https://open.spotify.com/track/374XMHdbsgqK0awW8yldpW) | [YUUL](https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Our New World \(with Kyson\)](https://open.spotify.com/album/4hotjToQtwMlzRD0XQeYvB) | 3:39 |
 | 60 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 61 | [Hello Sunshine](https://open.spotify.com/track/26fA2nehuPzIVzfWwKg9MA) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hello Sunshine](https://open.spotify.com/album/5YeVhDtsgPOBSo0e4qIxRb) | 2:33 |
-| 62 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
-| 63 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 |
+| 62 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 |
+| 63 | [Dusk](https://open.spotify.com/track/3FeEcY103cc4fmDl6UwoUS) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Dusk](https://open.spotify.com/album/364sZomV3ATJr86kZiJOdb) | 2:51 |
 | 64 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
 | 65 | [Golden](https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x) | [Golden](https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL) | 3:14 |
 | 66 | [Fake Plastic Trees](https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Fake Plastic Trees](https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym) | 4:20 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 80 | [Hi Lo](https://open.spotify.com/track/2FucHXR1w9EuvdSPNb32Zv) | [Ro Bergman](https://open.spotify.com/artist/10iARDtBmqUF4X7zCr3rZA) | [HI\-LO](https://open.spotify.com/album/3V1WgUPQ0hq1hws188Z4uA) | 3:45 |
 | 81 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |
 | 82 | [But \- Radio Edit](https://open.spotify.com/track/4d058hVl7ZMJGqY7boJOf3) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [But \(Radio Edit\)](https://open.spotify.com/album/3Nfci1vevpKtkdKTf12KEQ) | 4:01 |
-| 83 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |
-| 84 | [Everything You Do](https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Everything You Do](https://open.spotify.com/album/2Mnf0FUlISsu3280EzVtfB) | 3:29 |
+| 83 | [Everything You Do](https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Everything You Do](https://open.spotify.com/album/2Mnf0FUlISsu3280EzVtfB) | 3:29 |
+| 84 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |
 | 85 | [Lonely Nights](https://open.spotify.com/track/0dRqWsb5yaDSm2Z9TJlqDF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Lonely Nights](https://open.spotify.com/album/5qvewfz3zp6c9DlCKk4m3w) | 3:20 |
 | 86 | [Lisbon](https://open.spotify.com/track/53w0tKVDTNnpuTEj2bp4NO) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE), [lùisa](https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa) | [Lisbon](https://open.spotify.com/album/3b3WV63T1k4WlKT71hoo1F) | 4:11 |
 | 87 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 |
-| 88 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 |
-| 89 | [Choirs to Heaven](https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm) | [Lea Porcelain](https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl) | [Choirs to Heaven](https://open.spotify.com/album/1hd5c47zvKt66gm1zo60Z9) | 4:45 |
+| 88 | [Choirs to Heaven](https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm) | [Lea Porcelain](https://open.spotify.com/artist/4HsBBgi3DDsy0w29W5yevl) | [Choirs to Heaven](https://open.spotify.com/album/1hd5c47zvKt66gm1zo60Z9) | 4:45 |
+| 89 | [Orion](https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Orion](https://open.spotify.com/album/5iQB5w3lt2DH5OC7ojVen9) | 3:37 |
 | 90 | [Los Angeles](https://open.spotify.com/track/4yjJ0fj3V3Xmqq871Tf36q) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Los Angeles](https://open.spotify.com/album/5hH21nWF4QmeN7B9OFHrZF) | 3:33 |
 | 91 | [tongue\-tied & starry\-eyed](https://open.spotify.com/track/55zZv3cr8mySL0lqzg2Ic0) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU), [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [tongue\-tied & starry\-eyed](https://open.spotify.com/album/0zAFbHU4JRS86B8lbFbjBA) | 3:13 |
 | 92 | [Tuscan Sun](https://open.spotify.com/track/7Lk0RmNpKQxQdJb1xeUy7O) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Tuscan Sun](https://open.spotify.com/album/2pNPvs9j5gTqExGiZcHs6X) | 3:51 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 97 | [Goji](https://open.spotify.com/track/11y2kxIBHpfxcvlpShPxTs) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Goji](https://open.spotify.com/album/3soUMToMXTZOHJFGVoeuij) | 3:35 |
 | 98 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 |
 | 99 | [The Barrel \- Radio Edit](https://open.spotify.com/track/3HJGY8vPq6zI8mEDl6a6K4) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [The Barrel](https://open.spotify.com/album/266my6GRmoIUzp0eSEJX6Q) | 3:39 |
-| 100 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
+| 100 | [Tender Love](https://open.spotify.com/track/6IDxzMPyrbvusWD0YgpsrN) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Tender Love](https://open.spotify.com/album/4mXQJ6TvnAisEYMJ0LllLI) | 3:23 |
 
 Snapshot ID: `AAAAAL1Wrw6R2rqVqBUAT97IxED6s6S1`

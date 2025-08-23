@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,730 songs - 3 day 23 hr 13 min
+1,731 songs - 3 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,7 +410,7 @@
 | [Deslocado](https://open.spotify.com/track/6QlygEHWgXDeAwDtzksA5b) | [NAPA](https://open.spotify.com/artist/3BR3Qfra04DICDUB2BL3eu) | [Festival da Canção 2025](https://open.spotify.com/album/6VHtVgnrzrBLMNyYaHkpSu) | 2:59 | 2025-01-31 | 2025-03-12 |
 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 | 2023-06-21 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2022-09-11 |
-| [Devia Ir](https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Devia Ir](https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL) | 4:53 | 2023-09-17 |  |
+| [Devia Ir](https://open.spotify.com/track/5KZJORKMEkrsNRD4dfBw1X) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Devia Ir](https://open.spotify.com/album/1Tpc5QlSXkYW30RsLIQhoL) | 4:53 | 2023-09-17 | 2025-08-23 |
 | [Dia de Fluxo](https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Dia de Fluxo](https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS) | 2:13 | 2024-02-11 | 2024-02-18 |
 | [Dia de Jogo](https://open.spotify.com/track/75fMooJ7uRJAvRT5vBzxoU) | [Supporting](https://open.spotify.com/artist/4Wog0FT0qUgfiCompPBEKC) | [Campeões](https://open.spotify.com/album/1WXD4UpRzIa47Wi5PGM4l3) | 3:42 | 2025-05-18 | 2025-05-20 |
 | [DIA DELÍCIA](https://open.spotify.com/track/094IjHeVUviN4aBnSXYsuj) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/3bT53CJPMsSXSn0vDAX2Do) | 1:15 | 2025-07-23 | 2025-08-17 |
@@ -1238,6 +1238,7 @@
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-05 | 2022-11-17 |
 | [Puta Mexicana](https://open.spotify.com/track/4mD9hjoTckjeL1CrJCx0MT) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Pelé](https://open.spotify.com/artist/5kfgervAs5bJUOC0vbYB12) | [Som das Regiões](https://open.spotify.com/album/6DD55XfooWMQ3T2wT43dKF) | 2:42 | 2023-01-17 | 2023-04-13 |
 | [Pyramide](https://open.spotify.com/track/5Y9xTg76DkBpjzYu2aCUYi) | [Bezza](https://open.spotify.com/artist/0MfPlLNDak7ZuAIbxzbzde) | [Pyramide](https://open.spotify.com/album/0EN8aHwD7Xt1X1EgqrddqV) | 2:44 | 2023-03-04 | 2023-03-06 |
+| [Pé na Areia](https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [Pé na Areia](https://open.spotify.com/album/1OLQjH7XeZDm51XYpjbrTY) | 2:58 | 2025-08-22 |  |
 | [Pé no Mar](https://open.spotify.com/track/4hL6Jr0nOm5erNhCv7FpCT) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 3:49 | 2024-02-17 | 2024-02-29 |
 | [PÉ NOVO](https://open.spotify.com/track/7432vfk7lMjvBKYWwcu2Uh) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 2:59 | 2023-01-21 | 2023-01-23 |
 | [Pôr do Sol](https://open.spotify.com/track/2yMTUaAv55qoTD0JPLodIQ) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Pôr do Sol](https://open.spotify.com/album/656nGI6shKfsEFNGBZTOKA) | 2:40 | 2025-04-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Oualid on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,374 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,389 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 18 | [Ah Min Hala](https://open.spotify.com/track/2AfIs1TZDz9zyTOEbwP33i) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Ah Min Hala](https://open.spotify.com/album/3hOtTZjlcdlJw7eOdxPoLW) | 2:12 |
 | 19 | [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 |
 | 20 | [YA BABA](https://open.spotify.com/track/48l6xps5kWSsxtYdXHgz0Y) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [YA BABA](https://open.spotify.com/album/1HGvr8M7zmT4qZlKf1lKZK) | 2:48 |
-| 21 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 |
-| 22 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 |
+| 21 | [CARRÉ OK](https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CARRÉ OK](https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw) | 2:40 |
+| 22 | [Pichichi](https://open.spotify.com/track/05iONcJNHLMyfXIecWpidj) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/7fCO7PBtuTuGrFJs4V8Hd7) | 2:58 |
 | 23 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
 | 24 | [Mahboul Ana](https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1) | [Lazaro](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [Mahboul Ana](https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm) | 3:05 |
 | 25 | [Libertad \(feat\. Morad\)](https://open.spotify.com/track/72pkk2rd9ncTTS6Czd32Yy) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:52 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 79 | [Lik Ou Lia](https://open.spotify.com/track/2snEwuyP4QCZC5y97R67hb) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Lik Ou Lia](https://open.spotify.com/album/5hYp2FUgUepi7Ekm7NKfI5) | 2:18 |
 | 80 | [Yemma](https://open.spotify.com/track/6weM3NHta6Zi0P4uyEus29) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Yemma](https://open.spotify.com/album/42u4hiZGAjRvVfAO2LrcWt) | 3:11 |
 
-Snapshot ID: `AAAAAC0mrNK4KFMZfjua70tGHCjrFE23`
+Snapshot ID: `AAAAAN12avcd6JipVIEcJxAljRjg88d4`

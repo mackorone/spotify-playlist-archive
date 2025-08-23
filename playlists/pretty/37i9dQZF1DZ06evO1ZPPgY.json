@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 229289,
+  "num_followers": 229319,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABRfd28y4g+xB1wEbOFkB6p",
+  "snapshot_id": "aKZhgAAAAAAY6Y68k+GqHBFRhOLjah1S",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 433226,
-      "name": "Playing Your Game, Baby",
-      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
       },
@@ -335,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
       },
       "artists": [
         {
@@ -344,9 +328,25 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
+      "duration_ms": 433226,
+      "name": "Playing Your Game, Baby",
+      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 239600,
-      "name": "September When I First Met You - Single Version",
-      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+      "duration_ms": 349506,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "I'm Qualified To Satisfy You - Edit",
-      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beware!",
         "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 261133,
       "name": "I Won't Settle For Less Than The Best (For You Baby)",
       "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "I'm Qualified To Satisfy You - Edit",
+      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
     },
     {
       "added_at": null,
@@ -777,7 +777,7 @@
         }
       ],
       "duration_ms": 267106,
-      "name": "You're The First, The Last, My Everything - Live",
+      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
       "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
     },
     {

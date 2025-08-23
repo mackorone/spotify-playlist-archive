@@ -4,7 +4,7 @@
 
 > Música brasileira fora da curva\. Foto: Mombojó
 
-791 songs - 1 day 20 hr 59 min
+792 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,7 @@
 | [Frutas](https://open.spotify.com/track/5X8Mv7ksfj4mEo2yyOwmK6) | [alici](https://open.spotify.com/artist/3xwrVmAg320G7DzTPkhOjX) | [Frutas](https://open.spotify.com/album/4GXAxNN4YzQsUPvxDUcNhd) | 3:22 | 2023-05-05 | 2023-07-08 |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-01-14 | 2022-03-18 |
 | [Fuga](https://open.spotify.com/track/3ohS2af546AnusvsebxQcN) | [Facção Caipira](https://open.spotify.com/artist/08aFPvLuNioTMnz2DcNMvg), [Rev Beats](https://open.spotify.com/artist/4KOV93awg7zj8ac5JmNA8V), [Nicole Cyrne](https://open.spotify.com/artist/07YGUIyc9huPaom4lPJZVv), [Moitz.](https://open.spotify.com/artist/6zpV1Xb2zztwyaU68KmWDs), [calli.](https://open.spotify.com/artist/6wZZKH7h9HU8Lt0IsphFqo) | [Fuga](https://open.spotify.com/album/1yywrWGEINRZ0SY5z3DaCk) | 3:01 | 2022-01-14 | 2022-02-12 |
-| [Fundin](https://open.spotify.com/track/1kcaJBlMZl0tR53Vmb2iCW) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Samuel Galvão](https://open.spotify.com/artist/1kUkWqMP3dCn5WAOkOQ4VH) | [Fundin](https://open.spotify.com/album/6Cea0fRs11YjaWcx27cD1i) | 3:47 | 2024-11-29 |  |
+| [Fundin](https://open.spotify.com/track/1kcaJBlMZl0tR53Vmb2iCW) | [Vitor Brauer](https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8), [Samuel Galvão](https://open.spotify.com/artist/1kUkWqMP3dCn5WAOkOQ4VH) | [Fundin](https://open.spotify.com/album/6Cea0fRs11YjaWcx27cD1i) | 3:47 | 2024-11-29 | 2025-08-23 |
 | [Ghosting](https://open.spotify.com/track/3iXVbSgmGj4kvHI3rjKJk7) | [Giovani Cidreira](https://open.spotify.com/artist/2SBQT5mUZ07UXABDj12pH1), [Rei Lacoste](https://open.spotify.com/artist/7Bp2KSECy4D9UGok5wtScH) | [Ghosting](https://open.spotify.com/album/2rlYG7y1H446ppIxZbEhDf) | 2:22 | 2024-12-20 | 2025-01-11 |
 | [Girassol](https://open.spotify.com/track/3ujHWJpRyT2DZtwsSI7lpo) | [j4mpa](https://open.spotify.com/artist/6x1PjwopHU4qaamzJrAhAt) | [Girassol](https://open.spotify.com/album/1D3DNwCke32gvuo1HbJWZN) | 3:09 | 2023-08-25 | 2023-11-11 |
 | [Goteira de Amor](https://open.spotify.com/track/7zWem6BVqAtotg4nHH7RxX) | [Fantástico Caramelo](https://open.spotify.com/artist/0LsC50sqPpTcHPGY8lyvwJ) | [Goteira de Amor](https://open.spotify.com/album/4T3Uv1Khl0uXyocpB9C4OW) | 2:36 | 2024-02-23 | 2024-04-27 |
@@ -521,6 +521,7 @@
 | [Orgulho](https://open.spotify.com/track/28sgPek7Lfm4eQUuBHbHUU) | [Lourandes](https://open.spotify.com/artist/3Un59PenImYu2RdwRb6cDv) | [Orgulho](https://open.spotify.com/album/3Ekzzjpm17YFpH3hqSObVm) | 3:00 | 2023-03-17 | 2023-04-01 |
 | [Orlando](https://open.spotify.com/track/5kydwe4EX8d7kys5WrfU7A) | [Sofia Freire](https://open.spotify.com/artist/1Iei4PJ2fWpnhc5qamVloV) | [Ponta da Língua](https://open.spotify.com/album/08YInO2jLBRO87MJlJwlAS) | 2:32 | 2024-03-01 | 2024-07-06 |
 | [os carros](https://open.spotify.com/track/2BQslz0bjUZCft2LQoL31M) | [pedro lanches](https://open.spotify.com/artist/44PNMjjw6oTqDPzOdcGAI7) | [veio sem maionese](https://open.spotify.com/album/5w5JeTiXMb5ulGK7Ih4ADE) | 3:09 | 2024-11-29 |  |
+| [os pelados sabem demais](https://open.spotify.com/track/00xQgJ1ve8Pw8AkpMcFv8j) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Contato](https://open.spotify.com/album/2XUCKM3IH9nvHr1VRBgLbe) | 2:38 | 2025-08-22 |  |
 | [Outras Pessoas](https://open.spotify.com/track/3GPmORdDL9q7V3lG3NTPY0) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq) | [Outras Pessoas](https://open.spotify.com/album/6VkLmqMgWidTCTK73U1eqW) | 3:19 | 2022-09-30 | 2023-01-21 |
 | [outro lado](https://open.spotify.com/track/1Y9nMOJou7Wme3bChASU8K) | [Lucas Maranhão](https://open.spotify.com/artist/2toIuAC4HlzxWWxEQGF1Uj), [Taís Cardoso](https://open.spotify.com/artist/3bR6CcZTfMngMAitBkBp81) | [outro lado](https://open.spotify.com/album/26hC9jMxYGlIjmPg1aWxLC) | 3:02 | 2024-08-16 |  |
 | [Pagar Pra Ver I](https://open.spotify.com/track/0u0USI9jK02pHfd0eocJpz) | [Fogo Fera](https://open.spotify.com/artist/0QSdV5uL8HUJOwsyzL5rEI), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriano Cintra](https://open.spotify.com/artist/6ZhHDKgsucGUUkEeH1mzyH) | [Eu Te Amo, Pt\. 1](https://open.spotify.com/album/0M8vTT7jGR6bpcvQnLQXQ3) | 4:05 | 2022-09-09 | 2022-12-10 |

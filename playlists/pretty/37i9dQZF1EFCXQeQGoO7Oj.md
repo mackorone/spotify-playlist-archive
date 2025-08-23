@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,456 likes - 479 songs - 1 day 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,489 likes - 479 songs - 1 day 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 203 | [Hampstead](https://open.spotify.com/track/0T3gCq5ZQvGq9jqZmaAff1) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(instrumental version\)](https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig) | 3:36 |
 | 204 | [Legendary Lovers](https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:44 |
 | 205 | [Whatever You Want](https://open.spotify.com/track/4NbffevAm9frDOlBMDp0hl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 4:02 |
-| 206 | [Humankind](https://open.spotify.com/track/23BO6YozrAXUta1buxFZ80) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:26 |
-| 207 | [past life](https://open.spotify.com/track/2Im5a2GdRF1QIUUNqnloX4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:35 |
+| 206 | [past life](https://open.spotify.com/track/2Im5a2GdRF1QIUUNqnloX4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead \(a cappella version\)](https://open.spotify.com/album/2xqTa2dCR54yYHEcttiXyD) | 3:35 |
+| 207 | [Humankind](https://open.spotify.com/track/23BO6YozrAXUta1buxFZ80) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:26 |
 | 208 | [Walking On Air](https://open.spotify.com/track/6eQbRfp5DxLSOL5pGozYf1) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:42 |
 | 209 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 |
 | 210 | [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 |
@@ -363,8 +363,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 353 | [I Don't Care \(with Justin Bieber\) \- Chronixx & Koffee Remix](https://open.spotify.com/track/2Xqm0jHnkvjzrkkVRInzUB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [I Don't Care \(with Justin Bieber\) \[Chronixx & Koffee Remix\]](https://open.spotify.com/album/1alDPx3BdkU4YBHRZ8gGLu) | 3:38 |
 | 354 | [All That Matters \(The Beautiful Life\)](https://open.spotify.com/track/7949ooAKks9n3EB5CesM4B) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:37 |
 | 355 | [California Lovers](https://open.spotify.com/track/1lfhZpDzijEUwF8EI2Jgho) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Unbreakable Smile](https://open.spotify.com/album/30QwSnTFUhCGee32ng1tvL) | 3:40 |
-| 356 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 |
-| 357 | [¿Es En Serio?](https://open.spotify.com/track/2MJPYIMuIpW2SmdC4QLsNJ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:13 |
+| 356 | [¿Es En Serio?](https://open.spotify.com/track/2MJPYIMuIpW2SmdC4QLsNJ) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [PREGUNTAS A LAS 11:11](https://open.spotify.com/album/6p3Mgf45pOfZN3fBiMp3kb) | 3:13 |
+| 357 | [Oops](https://open.spotify.com/track/7fdGGQpQQxwDhgurhKDWVL) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Oops](https://open.spotify.com/album/7c019FtvgrH286V56ZX9jp) | 2:48 |
 | 358 | [Alone](https://open.spotify.com/track/7CUPfpfuPwjicclWi4qKH4) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:13 |
 | 359 | [Stick With You](https://open.spotify.com/track/431t5WpCcmzKG3wU1S2H94) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/6hp2216exPe2qBLST3gpD8) | 2:59 |
 | 360 | [Watching Us Die Tonight](https://open.spotify.com/track/0XRve6jWjKSdKH1GumdUNE) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/7DPGT2UbJ8PeX4V7HG7VvA) | 3:53 |
@@ -488,4 +488,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 478 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 479 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `Ab6H6gAAAABSk2reKaX2S9nvFaIffPbo`
+Snapshot ID: `Ab6NigAAAAADcWHr8aEW2j60Ph2ohnnh`

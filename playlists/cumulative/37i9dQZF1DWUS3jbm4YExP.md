@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-837 songs - 2 day 11 hr 26 min
+838 songs - 2 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Mushroom Samba](https://open.spotify.com/track/06dKqow8ddfH8FREVTLJoy) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Mushroom Samba](https://open.spotify.com/album/2vZDpV5nFLejbX10a04HM2) | 4:10 | 2022-08-03 | 2022-09-24 |
 | [My Brother](https://open.spotify.com/track/6h0yIcxUPldNEAJWU5jaA1) | [The Survivals](https://open.spotify.com/artist/56fdoei37XjePeY36vLp4a) | [Gumba Fire: Bubblegum Soul & Synth Boogie in 1980s South Africa](https://open.spotify.com/album/4zss7Www7vwRQCZIlnSgzu) | 4:46 | 2025-03-14 |  |
 | [My Padi](https://open.spotify.com/track/4v3r8Qo2urOchL0HVZbBQn) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Padi](https://open.spotify.com/album/1EH9dIlkJeLraZsLBx2oWw) | 2:34 | 2025-06-26 | 2025-07-26 |
+| [Mágica](https://open.spotify.com/track/1TWz6EODmucHiVAt9nT1JX) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Mágica](https://open.spotify.com/album/2h8rlqyVT4tmC5ytcrGuAR) | 2:35 | 2025-08-22 |  |
 | [Météw Byen](https://open.spotify.com/track/7Ei31Z09xAuNQHOw7Vlk4w) | [Edmony Krater](https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF) | [Météw Byen](https://open.spotify.com/album/1BI6PFcuX5kvWFlvhc3DGL) | 4:06 | 2021-10-06 | 2022-04-19 |
 | [Música Huanca](https://open.spotify.com/track/70nmT1ABxMP4K82VbTivGM) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548) | [Música Huanca](https://open.spotify.com/album/1jEJCXRSZAmsnDwMcIfHGP) | 1:56 | 2021-10-06 | 2022-04-18 |
 | [Nadie](https://open.spotify.com/track/2XoNKg4B4K3dt04S6fnZc6) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E), [JO BISSA](https://open.spotify.com/artist/1NU9e1MfhFQWRZIuvpoMSj) | [Nadie](https://open.spotify.com/album/5K0CcRXYR7rntpAsxIEMZ8) | 4:14 | 2022-04-22 | 2022-05-25 |
@@ -668,7 +669,7 @@
 | [So We Won't Forget](https://open.spotify.com/track/4HpFU6eMThgW6Cael5AwYy) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:58 | 2022-03-29 | 2025-08-08 |
 | [Sol \(YoSoyMatt Remix\)](https://open.spotify.com/track/56o0dcdZbt7GxwGI8iIXRV) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Alterego \(Deluxe\)](https://open.spotify.com/album/2bGwjvXBX8jytRMwXgRKin) | 3:42 | 2024-08-23 | 2025-04-06 |
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-10-06 | 2022-07-29 |
-| [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 |  |
+| [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 | 2025-08-23 |
 | [Sondiramá](https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Padremontes](https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn) | 3:23 | 2021-10-06 |  |
 | [Sorna Lorestan](https://open.spotify.com/track/7grp4TrONV4cu99mhbjOga) | [Ehsan Abdi Pour](https://open.spotify.com/artist/7tcYfMImH0mnRsjB5yUOAb) | [Sorna Lorestan](https://open.spotify.com/album/41spzG46heSG7Dy8dHmxfa) | 2:36 | 2021-10-06 | 2022-07-28 |
 | [Souk el Ahad](https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Marzipan \(Habibi Funk 023\) \[Bonus Edition\]](https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv) | 2:51 | 2023-07-24 | 2025-05-05 |

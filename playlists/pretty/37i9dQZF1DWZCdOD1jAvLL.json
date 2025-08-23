@@ -1,6 +1,6 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 266076,
+  "num_followers": 266114,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,26 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "I Don't Trust A Soul",
+        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 146059,
+      "name": "I Don't Trust A Soul",
+      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "DJ Turn It Up",
         "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 184620,
       "name": "X-Rated",
       "url": "https://open.spotify.com/track/2vFabIc6h3F6GiZCsxq8zw"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "I Don't Trust A Soul",
-        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 146059,
-      "name": "I Don't Trust A Soul",
-      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 201093,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Sound of You",
         "url": "https://open.spotify.com/album/6J4wHgqUO4f0mqp0Cfy3mG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 204236,
       "name": "Sound of You",
       "url": "https://open.spotify.com/track/4J4KcVmHSypHymgMpAP9cn"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 201093,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/5XXriU0XC0HPH60GIJYpIA"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "Fine Night",
+        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 161723,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "Gunfinger (Salute)",
         "url": "https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 166896,
       "name": "Gunfinger (Salute)",
       "url": "https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "Fine Night",
-        "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 161723,
-      "name": "Fine Night",
-      "url": "https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1311,6 +1311,38 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
+      },
+      "artists": [
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 193903,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 160888,
+      "name": "Destination Calabria",
+      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "Receipts (feat. Gunna)",
         "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
       },
@@ -1331,22 +1363,6 @@
       "duration_ms": 234461,
       "name": "Receipts (feat. Gunna)",
       "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 160888,
-      "name": "Destination Calabria",
-      "url": "https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -1439,22 +1455,6 @@
       "duration_ms": 204923,
       "name": "SONG REQUEST",
       "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/6Qs4FQFYCMfLnuYEFATGEo"
-      },
-      "artists": [
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 193903,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
-        "name": "Bass Face",
-        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Young Lyxx",
-          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "Bass Face",
-      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
         "name": "Black Ice",
         "url": "https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME"
       },
@@ -2259,6 +2239,26 @@
       "duration_ms": 260001,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
+        "name": "Bass Face",
+        "url": "https://open.spotify.com/album/1XlhAL5qwEwLWYmgzbY2Hw"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Young Lyxx",
+          "url": "https://open.spotify.com/artist/1KaPSJ1xlpywMSGiK1Qftk"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "Bass Face",
+      "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
     },
     {
       "added_at": "2025-08-15 04:00:16",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2025-08-15 04:00:16",
       "album": {
+        "name": "Death By Love",
+        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Death By Love",
+      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
+    },
+    {
+      "added_at": "2025-08-15 04:00:16",
+      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -2335,22 +2351,6 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
-    },
-    {
-      "added_at": "2025-08-15 04:00:16",
-      "album": {
-        "name": "Death By Love",
-        "url": "https://open.spotify.com/album/36KL4YmFsXEDfqZVfm6qXF"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Death By Love",
-      "url": "https://open.spotify.com/track/6YOg0daCavgHVBZ3u9hZWc"
     },
     {
       "added_at": "2025-08-15 04:00:16",

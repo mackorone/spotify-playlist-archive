@@ -986,7 +986,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -5394,7 +5394,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 157349,
       "name": "CHUMBER",
       "url": "https://open.spotify.com/track/3vFOfbQ2nyBysnMhKSHRVr"
@@ -8176,7 +8176,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 134905,
       "name": "Edge of Desire",
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT"
@@ -9542,7 +9542,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 150480,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
@@ -10356,7 +10356,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 126933,
       "name": "GET NAKED",
       "url": "https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ"
@@ -16294,7 +16294,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/1GfJCWGLfdev016PSsrUO8"
@@ -19750,7 +19750,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 212727,
       "name": "Number 1",
       "url": "https://open.spotify.com/track/5MUukexMhkAfMqMsYXHpbc"
@@ -20232,7 +20232,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 204923,
       "name": "OPA OPA",
       "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
@@ -24382,6 +24382,24 @@
       "duration_ms": 253770,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7"
+    },
+    {
+      "album": {
+        "name": "Perdeler",
+        "url": "https://open.spotify.com/album/5cx3XHwc4WNml8uhO7LM3y"
+      },
+      "artists": [
+        {
+          "name": "\u015eebnem Ferah",
+          "url": "https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294846,
+      "name": "Sigara",
+      "url": "https://open.spotify.com/track/2Vo0kGsnu44Nmfuh3r5aJv"
     },
     {
       "album": {
@@ -31264,6 +31282,24 @@
       "duration_ms": 163759,
       "name": "Y Que Fue?",
       "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
+    },
+    {
+      "album": {
+        "name": "YAMAL",
+        "url": "https://open.spotify.com/album/6tfVEuHaORg36RMg77rGcv"
+      },
+      "artists": [
+        {
+          "name": "MITREVV",
+          "url": "https://open.spotify.com/artist/29JDW7YBoYLyRs7mUg2Lzq"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177272,
+      "name": "YAMAL",
+      "url": "https://open.spotify.com/track/07AzRWYeS67UTLb1fi3CTc"
     },
     {
       "album": {

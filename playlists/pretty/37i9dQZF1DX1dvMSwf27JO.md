@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,371 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,330 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,16 +84,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 74 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 75 | [STAY UP](https://open.spotify.com/track/1hb5zeeR0SchsLSIPrphL8) | [Stevedreez](https://open.spotify.com/artist/3KJzwEs0Tr6egQZ65WTncE) | [STAY UP / SWEET](https://open.spotify.com/album/0cdWnxer5dFkriRf2CFLMc) | 3:49 |
 | 76 | [Crystalfilm](https://open.spotify.com/track/5bBrbeCtAntjU0SOUXnIC8) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 4:49 |
-| 77 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 |
-| 78 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
-| 79 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
-| 80 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
+| 77 | [Closure](https://open.spotify.com/track/5tir4dUwLnKYd1rr0zLiGR) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [Rahrah Gabor](https://open.spotify.com/artist/0aXwPlkVGO3Cyn1nwiNq2g) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:29 |
+| 78 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 |
+| 79 | [Time Machine](https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Time Machine](https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3) | 4:11 |
+| 80 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 |
 | 81 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
 | 82 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
 | 83 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
 | 84 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
-| 85 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 |
-| 86 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
+| 85 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
+| 86 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 |
 | 87 | [Mr Valentine](https://open.spotify.com/track/2E51gp6rrOPtfvmrk6wIL5) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Mr Valentine](https://open.spotify.com/album/2TuYvh4A25VRWjqxnC4sf0) | 2:37 |
 | 88 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |
 | 89 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |

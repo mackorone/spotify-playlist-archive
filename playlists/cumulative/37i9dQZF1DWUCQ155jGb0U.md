@@ -4,7 +4,7 @@
 
 > Sonido contemporáneo y algunos clásicos\. <br/>Foto: Gorillaz
 
-291 songs - 18 hr 16 min
+293 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Dream On](https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:27 | 2022-12-23 | 2024-04-19 |
 | [Dreaming](https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dreaming](https://open.spotify.com/album/2WApmrlB4VgT8Mz0zEMrty) | 3:07 | 2022-04-18 | 2022-07-26 |
 | [Drive \(From F1® The Movie\)](https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Drive \(From F1® The Movie\)](https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc) | 3:07 | 2025-06-20 |  |
+| [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-22 |  |
 | [Eddie](https://open.spotify.com/track/0G1BEi8ByngMCJqcPnDACw) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 5:41 | 2022-12-12 | 2024-03-02 |
 | [Eddie](https://open.spotify.com/track/5GWrhVfgP4szBtCOXbSki8) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Eddie](https://open.spotify.com/album/6DUWfrmH8uTH33wMFOBJDu) | 5:41 | 2022-09-23 | 2022-12-24 |
 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 | 2022-10-14 | 2023-02-16 |
@@ -267,6 +268,7 @@
 | [Three Wishes](https://open.spotify.com/track/1yotg2vkhNPOutedS4juRe) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Three Wishes](https://open.spotify.com/album/5g22FRt9pDnxxGVd4KXLdi) | 4:51 | 2022-04-18 | 2022-07-26 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2022-04-18 |  |
 | [Tissues](https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Tissues](https://open.spotify.com/album/1LIAp7pyElYRzvlP0mXSew) | 3:35 | 2022-09-05 | 2023-10-07 |
+| [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-08-22 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-07-25 |  |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-09 | 2022-12-13 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-05-08 |  |

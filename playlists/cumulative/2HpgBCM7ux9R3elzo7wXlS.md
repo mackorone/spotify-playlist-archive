@@ -4,7 +4,7 @@
 
 > All of it
 
-929 songs - 2 day 9 hr 54 min
+930 songs - 2 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 | 2025-06-02 |  |
 | [11 Pezzi infantili, Op\. 35: VI\. Siciliana](https://open.spotify.com/track/5LlyIeAtCOV7hYpbVvd7tZ) | [Alfredo Casella](https://open.spotify.com/artist/4H4WcIy2H9hlLQpVlJcSMI), [Luca Ballerini](https://open.spotify.com/artist/6Dvp66CbQo9OoDkABbiLaJ) | [Casella: Piano Music](https://open.spotify.com/album/5Q0C55reqMLaGKyEY2ZxDQ) | 2:35 | 2025-06-02 |  |
 | [20 Min](https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2 \(Deluxe\)](https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP) | 3:40 | 2025-06-02 |  |
+| [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2025-08-22 |  |
 | [20Four Songs](https://open.spotify.com/track/2v14XGT6XpCxYDEq5x41me) | [gauthydies4u](https://open.spotify.com/artist/1ZhGmv6onhBEf17i6utMT6) | [20Four Songs](https://open.spotify.com/album/30RaVhHvR6uyl4UclRv45Z) | 3:09 | 2025-06-02 |  |
 | [21st Century Schizoid Man](https://open.spotify.com/track/5yClziwiwTdqRmdPQl3NDz) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 7:22 | 2025-06-02 |  |
 | [3005](https://open.spotify.com/track/5cc9Zbfp9u10sfJeKZ3h16) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:54 | 2025-06-02 |  |

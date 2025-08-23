@@ -4,7 +4,7 @@
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 
-609 songs - 23 hr 19 min
+611 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Brief Stack](https://open.spotify.com/track/2aJ4q1Y7Ks5NMKcLr3DUrZ) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Brief Stack](https://open.spotify.com/album/4eFJkuboRVGp7xYylyRgNQ) | 2:27 | 2024-01-05 |  |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2024-01-05 | 2025-05-10 |
 | [Buttersweet](https://open.spotify.com/track/1d5pAGQRJ9ROCOuxK52uED) | [Moox](https://open.spotify.com/artist/0ujZnGAenOcihPvgnnY2qq) | [Buttersweet](https://open.spotify.com/album/6GuzaGSiWBXbyRcOMAgsBJ) | 2:57 | 2024-01-05 | 2025-08-22 |
+| [By The Lake](https://open.spotify.com/track/5pf8OQ19OvfPxhGuLpokXQ) | [Red Cedar](https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp) | [By The Lake](https://open.spotify.com/album/5g6ci06rDqKFW03q30m2iS) | 2:09 | 2025-08-21 |  |
 | [BYOB](https://open.spotify.com/track/10mxUK1aTajK3O8DnkSGET) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [BYOB](https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH) | 2:15 | 2024-03-01 | 2025-08-22 |
 | [Bypass](https://open.spotify.com/track/2pbJqRWuDlzvKX6IbsFH1I) | [Woodly Fields](https://open.spotify.com/artist/3ur5AmVKeInQ8lGOP4kvBF) | [Bypass](https://open.spotify.com/album/7ybr6nw32PQYcLny6vXjh6) | 1:50 | 2024-01-05 | 2025-08-22 |
 | [c ya soon](https://open.spotify.com/track/38cy4dQmnps3oMyiTcQNxY) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [c ya soon](https://open.spotify.com/album/19LWNsp8XImmOBygYPQXCS) | 2:07 | 2024-01-05 | 2025-08-22 |
@@ -257,7 +258,7 @@
 | [if you do](https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [if you do](https://open.spotify.com/album/7anJkBjZABHWT2cSru4sBw) | 2:30 | 2025-03-21 |  |
 | [imenü](https://open.spotify.com/track/2yFwy1qCr4kiyHEZAwiw2p) | [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr), [Doctor Phono](https://open.spotify.com/artist/26vuhTy5mAWVFKOJMJ5PRP) | [imenü](https://open.spotify.com/album/08J2uAEhntycYO7Zz6z9J7) | 2:27 | 2024-01-05 | 2025-08-22 |
 | [immersive kaleidoscope](https://open.spotify.com/track/29PLMHXtuRpUgO2cNfsgWi) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [immersive kaleidoscope](https://open.spotify.com/album/5NFtnIgx3ikbkxzBHQyuKl) | 2:40 | 2024-01-05 | 2025-08-22 |
-| [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2024-01-05 |  |
+| [Imprints](https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Tailored Times / Imprints](https://open.spotify.com/album/2N1V0jS8ZBNI8BjYvmXGtr) | 2:12 | 2024-01-05 | 2025-08-23 |
 | [in a..\. mood](https://open.spotify.com/track/06EpTiOF7FJajxmFd3iBZs) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [in a..\. mood](https://open.spotify.com/album/5H1jIhE1wBYqDkWpEnTCsc) | 2:31 | 2024-01-05 | 2025-05-10 |
 | [in the shadows](https://open.spotify.com/track/26Wu26lCBd5Pf5bMyhlDPP) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [in the shadows](https://open.spotify.com/album/1aJZsbwArORSxptMMAsksU) | 2:29 | 2024-02-09 |  |
 | [Incredibly happy](https://open.spotify.com/track/6FVL1EGTz7nWEzuUz6VpvF) | [Silk Soul](https://open.spotify.com/artist/2DgL3THTMvM0MfSTaYYMAI) | [Incredibly happy](https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs) | 2:39 | 2024-01-05 |  |
@@ -322,6 +323,7 @@
 | [Lotus](https://open.spotify.com/track/0UW7iedk0q5u3EPTlgp3Sc) | [All Names](https://open.spotify.com/artist/4hdKvR0UnMhgvQp6BzqdIK) | [Lotus](https://open.spotify.com/album/0Vpd6SmPohg4jRreilcgtE) | 1:38 | 2024-03-01 | 2025-04-05 |
 | [Loud Bolt](https://open.spotify.com/track/4JgH9mzHDXcL4ZQW9NvXwU) | [tori yami](https://open.spotify.com/artist/3ZjRFcfag9ETSC777HOBDx) | [Loud Bolt](https://open.spotify.com/album/6GpmOKP4fhN0L3lxxTQVk9) | 2:17 | 2024-01-05 | 2024-06-22 |
 | [Lounge Pony](https://open.spotify.com/track/15YqQldesDAP9s43MzFk3q) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [Lounge Pony](https://open.spotify.com/album/1pgUDDxFjA5xXQdjpCJQGG) | 2:17 | 2024-01-05 | 2025-08-22 |
+| [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 | 2025-08-21 |  |
 | [lucid air](https://open.spotify.com/track/6suiglC9EEWunpmOkJagzj) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [lucid air](https://open.spotify.com/album/5zQ8bKhgfXeMeCoP4PL7gH) | 2:12 | 2024-01-05 | 2025-08-22 |
 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 | 2024-01-05 |  |
 | [Maca](https://open.spotify.com/track/6gdDUUOVAlv1iIywKDRHZE) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Maca](https://open.spotify.com/album/7L6D24JOqqngMKQvknjWiA) | 2:25 | 2024-01-05 | 2025-08-22 |
@@ -555,7 +557,7 @@
 | [till the morning](https://open.spotify.com/track/1U20PKesBLfYS0mwnZI89Z) | [fluffy](https://open.spotify.com/artist/4OqfSWELqg0RW8Ab9blfaA) | [till the morning](https://open.spotify.com/album/0tYSTPNkyYaegXf9HBRKtk) | 2:48 | 2024-01-05 | 2025-08-22 |
 | [Time and Time Again](https://open.spotify.com/track/5aMyRc257zukcKz1IKYVqj) | [Vacant Clinic](https://open.spotify.com/artist/069LYwxcFj7gaqBl2cEUGS) | [Time and Time Again](https://open.spotify.com/album/5rQ9mNwMeqR4a8tJ3OohTU) | 3:11 | 2024-01-05 | 2025-08-22 |
 | [Time Traveler](https://open.spotify.com/track/7MH56weRw2uMcFaTAWgHUE) | [mennasa](https://open.spotify.com/artist/3J5F3p73CQAPPPbQzlLHUk) | [Time Traveler](https://open.spotify.com/album/7azHzF2Y0ZP7zX22WdSAld) | 3:01 | 2024-01-05 |  |
-| [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 | 2024-01-05 |  |
+| [Timeline](https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [Timeline](https://open.spotify.com/album/12ONIy1jPZtYfyi30EwEA6) | 2:40 | 2024-01-05 | 2025-08-23 |
 | [Timing](https://open.spotify.com/track/6XdulSZx2waNFqtpZE1hL3) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Timing](https://open.spotify.com/album/23dtHzD8bRAg4oN58li4Hp) | 2:21 | 2024-01-05 | 2025-08-22 |
 | [ting](https://open.spotify.com/track/2EpkC5rovFu6Kqb6Rw9uYA) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [ting](https://open.spotify.com/album/2MJC68gu7gXgSGiht2JdcJ) | 2:18 | 2024-01-05 | 2025-08-22 |
 | [toasty](https://open.spotify.com/track/1wiToTJb3JoC3KLevi9mzx) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [toasty](https://open.spotify.com/album/3YDDPxNCBqCJOlStSPUnoG) | 1:56 | 2024-02-23 |  |

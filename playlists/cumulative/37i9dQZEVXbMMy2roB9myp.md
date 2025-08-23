@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-1,154 songs - 2 day 13 hr 36 min
+1,155 songs - 2 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -785,7 +785,7 @@
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2021-08-01 | 2021-10-03 |
 | [Perdonarte ¿Para Qué?](https://open.spotify.com/track/5djlc1fMHiFsSpsQQtopLy) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte ¿Para Qué?](https://open.spotify.com/album/2yJ4Ic3Bt4DC3kIR7M4Y44) | 3:13 | 2024-08-18 | 2025-04-17 |
 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2024-05-25 | 2025-05-08 |
-| [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 | 2025-07-25 |  |
+| [Perfecta](https://open.spotify.com/track/09QfIIP4NUx4A3thmovb2o) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [El Templo del Pop](https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY) | 3:45 | 2025-07-25 | 2025-08-23 |
 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 | 2022-10-13 | 2023-03-20 |
 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/0vUqiSvbUICW3YtTA5ecSX) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hotel Miranda!](https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO) | 3:41 | 2023-04-21 | 2023-09-03 |
 | [perfectas](https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 3:38 | 2025-08-02 | 2025-08-04 |
@@ -1018,6 +1018,7 @@
 | [Todo De Ti](https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:19 | 2021-12-21 | 2022-01-23 |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2021-05-26 | 2021-06-27 |
 | [Todo De Ti](https://open.spotify.com/track/5RwV8BvLfX5injfqYodke9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 3:19 | 2021-06-27 | 2021-12-22 |
+| [TODO KE VER](https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Katteyes](https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [TODO KE VER](https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC) | 2:38 | 2025-08-22 |  |
 | [TODO PAGO](https://open.spotify.com/track/4IDRYddYWDSt4OTKOo6P0t) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Halpe](https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 3:53 | 2022-11-12 | 2022-11-19 |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2021-12-11 | 2022-05-22 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-04 | 2023-03-20 |

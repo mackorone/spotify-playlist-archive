@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Yammi
 
-313 songs - 17 hr 37 min
+314 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Unanifaa](https://open.spotify.com/track/3nu58GJygIADFBTBGkA25t) | [Killy Tz](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Unanifaa](https://open.spotify.com/album/0qR0bS6061tEud4fYRksqW) | 3:18 | 2024-06-20 | 2024-10-18 |
 | [Unanifaa](https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD) | [Taffa](https://open.spotify.com/artist/44lGZ9vJnHuATkGDWNB9vq) | [Unanifaa](https://open.spotify.com/album/1nTkTNj7XrcLcrGxkos0OG) | 3:16 | 2022-06-30 | 2023-03-03 |
 | [Unavyonipenda](https://open.spotify.com/track/6eAfkVy819EFu8xOdcwkFR) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Unavyonipenda](https://open.spotify.com/album/7y3gLS4YLeD5i9NhdTxvD6) | 3:44 | 2022-05-26 | 2022-09-30 |
+| [Upendo](https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Upendo](https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W) | 3:45 | 2025-08-21 |  |
 | [Usemi Sina \(feat\. Harmonize\)](https://open.spotify.com/track/62A4OmPLPI7xZQHtF4kfCQ) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Usemi Sina \(feat\. Harmonize\)](https://open.spotify.com/album/5KeeqL8MAeTyiRCodK8PQV) | 2:52 | 2024-10-24 | 2025-04-12 |
 | [Usiongee \(feat\. Phina\)](https://open.spotify.com/track/4rXQwPTSGcXIl26JrSafBP) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Water & Wine](https://open.spotify.com/album/69EiMwVvOIn2fOmahwyPNC) | 3:01 | 2024-06-14 | 2024-10-25 |
 | [Utaniua](https://open.spotify.com/track/63J4CoSdtfGr1fM48i26MP) | [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [Utaniua](https://open.spotify.com/album/59Ir2NbfuFJomiA8xJmrTo) | 3:34 | 2024-10-04 | 2025-02-07 |

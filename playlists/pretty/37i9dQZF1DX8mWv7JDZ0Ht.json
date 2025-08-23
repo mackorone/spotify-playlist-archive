@@ -1,6 +1,6 @@
 {
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Luccas Carlos",
-  "num_followers": 437513,
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Doral",
+  "num_followers": 437524,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Nossa Estrela",
+        "url": "https://open.spotify.com/album/7iQZdCTZzJ09QTKfRia7Ep"
+      },
+      "artists": [
+        {
+          "name": "LARA",
+          "url": "https://open.spotify.com/artist/5BA4kZY0VCx5tyvJBrEjLg"
+        }
+      ],
+      "duration_ms": 216887,
+      "name": "Nossa Estrela",
+      "url": "https://open.spotify.com/track/1rI16UAU31APDnEPiujDy5"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
         "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 183337,
       "name": "sera que esse \u00e9 mesmo o nosso fim?",
       "url": "https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Nossa Estrela",
-        "url": "https://open.spotify.com/album/7iQZdCTZzJ09QTKfRia7Ep"
-      },
-      "artists": [
-        {
-          "name": "LARA",
-          "url": "https://open.spotify.com/artist/5BA4kZY0VCx5tyvJBrEjLg"
-        }
-      ],
-      "duration_ms": 216887,
-      "name": "Nossa Estrela",
-      "url": "https://open.spotify.com/track/1rI16UAU31APDnEPiujDy5"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "livre",
+        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
+      },
+      "artists": [
+        {
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+        }
+      ],
+      "duration_ms": 63239,
+      "name": "livre",
+      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "sinto saudade",
         "url": "https://open.spotify.com/album/3uFcpiMyVsArsCE7rH6pvk"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Caso eu Case",
-        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 215943,
-      "name": "Caso eu Case",
-      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Um Doce, Uma Flor",
         "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
       },
@@ -527,18 +527,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "livre",
-        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
+        "name": "Caso eu Case",
+        "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
       "artists": [
         {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 63239,
-      "name": "livre",
-      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
+      "duration_ms": 215943,
+      "name": "Caso eu Case",
+      "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -559,8 +559,8 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Passageiro",
-        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
+        "name": "Acordar Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
       },
       "artists": [
         {
@@ -568,13 +568,13 @@
           "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
         },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
         }
       ],
-      "duration_ms": 219574,
-      "name": "Passageiro",
-      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
+      "duration_ms": 182000,
+      "name": "Acordar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -651,18 +651,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+        "name": "Passageiro",
+        "url": "https://open.spotify.com/album/65uSV3GkJ8Pn34WOfi6fdm"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+      "duration_ms": 219574,
+      "name": "Passageiro",
+      "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -687,38 +691,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Acordar Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Acordar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Vest\u00edgios",
-        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 153714,
-      "name": "Vest\u00edgios",
-      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -735,6 +719,22 @@
       "duration_ms": 166692,
       "name": "Abrigo",
       "url": "https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Vest\u00edgios",
+        "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 153714,
+      "name": "Vest\u00edgios",
+      "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Partir",
-        "url": "https://open.spotify.com/album/28blWY8Yr3w6LBtZru0uIR"
-      },
-      "artists": [
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        }
-      ],
-      "duration_ms": 94444,
-      "name": "Partir",
-      "url": "https://open.spotify.com/track/6QEGJF1lDMEEqxbEQVNi34"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Vamos de Viagem",
         "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 238604,
       "name": "Vamos de Viagem",
       "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Partir",
+        "url": "https://open.spotify.com/album/28blWY8Yr3w6LBtZru0uIR"
+      },
+      "artists": [
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        }
+      ],
+      "duration_ms": 94444,
+      "name": "Partir",
+      "url": "https://open.spotify.com/track/6QEGJF1lDMEEqxbEQVNi34"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 186465,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/6UnPlaIzrlpTwH40c9Z1R1"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 186465,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/39y7YPqa1gxJPq52KkOAzV"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "\u00c1udios Antigos",
-        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 204731,
-      "name": "\u00c1udios Antigos",
-      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "\u00c1udios Antigos",
+        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 204731,
+      "name": "\u00c1udios Antigos",
+      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Eu Gosto Assim",
         "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1055,6 +1039,22 @@
       "duration_ms": 257521,
       "name": "KINTSUGI",
       "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Saber Confiar",
+        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Saber Confiar",
+      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "LEBLON",
         "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Saber Confiar",
-        "url": "https://open.spotify.com/album/5n1s0HVLzCZbSM0e221Afi"
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Saber Confiar",
-      "url": "https://open.spotify.com/track/72fZiooQ214zq66ix04xJh"
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1227,22 +1243,6 @@
       "duration_ms": 83467,
       "name": "olhos mar",
       "url": "https://open.spotify.com/track/7EkFBHUyRhjARpnNZr6PgO"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2025-08-22 03:00:09",

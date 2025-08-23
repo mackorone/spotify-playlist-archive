@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-964 songs - 1 day 19 hr 40 min
+965 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [...And To Those I Love, Thanks For Sticking Around](https://open.spotify.com/track/23GLgk0r6rKVCic7cCFArg) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [STOP STARING AT THE SHADOWS](https://open.spotify.com/album/2yopGJJSiA6ZDpw9IsGXTA) | 2:48 | 2021-01-15 | 2022-03-19 |
 | [0verd0se](https://open.spotify.com/track/5r4eesBDOsXbCKPYtDdTbX) | [Ders](https://open.spotify.com/artist/54JOWWtkyXlCZcpLiB9o5Y) | [0verd0se](https://open.spotify.com/album/2b1q67i2DVElGyIqBEZypg) | 1:52 | 2023-12-06 | 2024-02-24 |
 | [1.28.19](https://open.spotify.com/track/0Wjczjn4UW1DBl0Hzt9bkx) | [Chynna](https://open.spotify.com/artist/41TSOINjztNAFtwuGenWVA) | [drug opera](https://open.spotify.com/album/7huwRfNMhKPpjIX6xyUZUk) | 3:44 | 2021-10-12 | 2021-10-13 |
-| [100$ \(sped up\)](https://open.spotify.com/track/3QVj1vEdBVFNWtzCVrCGOT) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [100$](https://open.spotify.com/album/6cZjAGLgKKUTyqGHww7CuZ) | 2:44 | 2024-09-30 |  |
+| [100$ \(sped up\)](https://open.spotify.com/track/3QVj1vEdBVFNWtzCVrCGOT) | [Løvesick](https://open.spotify.com/artist/4tpVKOHMbYOFLuNEQ54hVl) | [100$](https://open.spotify.com/album/6cZjAGLgKKUTyqGHww7CuZ) | 2:44 | 2024-09-30 | 2025-08-23 |
 | [2 Late](https://open.spotify.com/track/0MeBjjKz6MeXZczG6yoQbO) | [Angst](https://open.spotify.com/artist/1nFcEfO5iLptFlrBCiDztw) | [2 Late](https://open.spotify.com/album/4LGEU7vdGCH8fDNmPz8R2W) | 2:54 | 2021-03-06 | 2021-03-17 |
 | [2 soon](https://open.spotify.com/track/5SlU0Yhi51jobhEiGE4xDv) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [2 soon](https://open.spotify.com/album/5TfGMgtbj2pU60Hk7DT5Yb) | 3:26 | 2020-12-13\* | 2022-04-21 |
 | [2 Times](https://open.spotify.com/track/1Juo9g0Rjxo6fxOmr8N3wV) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [2 Times](https://open.spotify.com/album/1VqSZplKjtFTvOI3bqmdbg) | 2:38 | 2021-03-14 | 2021-04-24 |
@@ -443,6 +443,7 @@
 | [jaded](https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [jaded](https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p) | 2:40 | 2022-05-23 | 2023-05-24 |
 | [jetlag](https://open.spotify.com/track/1lpxJ3K9cvOTZzFwFFIHT1) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [jetlag](https://open.spotify.com/album/5y84p6F74Mc1Q8x1QvaFPS) | 2:00 | 2022-04-15 | 2022-06-30 |
 | [jetlag](https://open.spotify.com/track/62jvrAm0bIgTj9auHh3XFS) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [creatures together](https://open.spotify.com/album/55MvRMMqTYn6NTxLqu5PjX) | 2:00 | 2022-10-07 | 2022-10-15 |
+| [JEZEBEL](https://open.spotify.com/track/4BdxCn4Hlo0YvHsI9bmRQM) | [Kee Nola](https://open.spotify.com/artist/4v5hbcPtrVfLlI011eQrER) | [JEZEBEL](https://open.spotify.com/album/36cZCEafXc711zZ18Jizch) | 1:55 | 2025-08-22 |  |
 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 | 2021-02-23 | 2022-12-10 |
 | [Joyride](https://open.spotify.com/track/1k78DnGY62qsh7axTXWUd5) | [Roderick Porter](https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy) | [Joyride](https://open.spotify.com/album/0uIDgVIPvrRnd2ACNrwaLn) | 3:06 | 2022-06-03 | 2022-07-28 |
 | [junky](https://open.spotify.com/track/2ZrPCVQCGWiEOA3bSzcAkq) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [LET IT SINK IN](https://open.spotify.com/album/0X5qYffN3B8SwczRa1T6Im) | 3:24 | 2022-04-08 | 2022-04-17 |

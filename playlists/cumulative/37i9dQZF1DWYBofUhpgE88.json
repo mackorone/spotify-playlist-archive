@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Astronaut In The Ocean (Alok Remix)",
+        "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Astronaut In The Ocean - Alok Remix",
+      "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
+    },
+    {
+      "album": {
         "name": "Salvatore",
         "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
       },
@@ -3480,7 +3502,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"

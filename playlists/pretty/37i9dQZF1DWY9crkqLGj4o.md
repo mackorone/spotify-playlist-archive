@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,532 likes - 75 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,568 likes - 75 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 34 | [Alfa e Ômega](https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Alfa e Ômega](https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo) | 6:04 |
 | 35 | [Teu Amor Não Falha \- Ao Vivo](https://open.spotify.com/track/2BslVGgN43vtWfAFI7vJnr) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Glória E Honra \(Ao Vivo\)](https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm) | 6:05 |
 | 36 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
-| 37 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 |
-| 38 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
+| 37 | [Tudo a Ver Com Ele](https://open.spotify.com/track/726jL4DA03vptKr05so4Zu) | [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Tudo a Ver Com Ele](https://open.spotify.com/album/30UxGPbbZgTh6Uyk6Ubdcn) | 6:25 |
+| 38 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 |
 | 39 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 |
 | 40 | [Sou Casa \(Ao Vivo\)](https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [André Aquino](https://open.spotify.com/artist/6xHt6gUd0LMPtKm0XokFiq) | [Sou Casa \(Ao Vivo\)](https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H) | 4:35 |
 | 41 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |

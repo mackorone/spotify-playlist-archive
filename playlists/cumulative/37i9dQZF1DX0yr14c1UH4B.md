@@ -4,7 +4,7 @@
 
 > Songwriters and their stories ✨ Kingfishr on the cover
 
-481 songs - 1 day 2 hr 48 min
+481 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Back To Me](https://open.spotify.com/track/6NrhdHt3Pv5xMYxdbJ6GSX) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Back To Me](https://open.spotify.com/album/3gdiiWvOT29OdzKATxcgaP) | 3:04 | 2025-06-19 | 2025-08-01 |
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-09-13 | 2025-03-14 |
 | [Bad Routines](https://open.spotify.com/track/6wAelB7Ix0nMKi8u2w5CfK) | [Brodie Barclay](https://open.spotify.com/artist/0E1vjqJdQfPJPdmzZkrA9w) | [Bad Routines](https://open.spotify.com/album/2lu27gXHwhFrIgTQSlQZ5K) | 2:13 | 2025-07-24 |  |
+| [Beautiful Girl](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 3:21 | 2025-08-22 |  |
 | [Better in Person](https://open.spotify.com/track/1ykiYtLH5TTORfPrbZ50LU) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Basis of a Pinky Promise](https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM) | 2:50 | 2025-07-10 |  |
 | [Big Mouth](https://open.spotify.com/track/5NpAghBCYAYELwgeaIzj0z) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Big Mouth](https://open.spotify.com/album/0ll2OHVzsVRz7vkbZBbiQA) | 2:09 | 2025-05-29 |  |
 | [Billboards](https://open.spotify.com/track/0Sg9XLAL4tKezeuwnu4itl) | [Tragic Sasha](https://open.spotify.com/artist/13POEdcy38kG2ZzQD6PnTB) | [Billboards](https://open.spotify.com/album/3D3atcKKmfYoZFJMz6qED8) | 2:17 | 2025-05-19 | 2025-08-08 |
@@ -146,6 +147,7 @@
 | [Friend Like You](https://open.spotify.com/track/3dCj7QrhestztA4yop8xus) | [CHEAPE](https://open.spotify.com/artist/6XvZAMKpQEWPNmAV2DXkFC) | [Friend Like You](https://open.spotify.com/album/3y0ZZ1p8vzZPGL041sa6mr) | 3:11 | 2025-05-15 | 2025-05-30 |
 | [Future Emma](https://open.spotify.com/track/2v8pOMgEEvFjAFSJXBRwhQ) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Future Emma](https://open.spotify.com/album/6fCdybjQTL2stzYvev2hPk) | 4:19 | 2025-04-10 | 2025-05-03 |
 | [Gloria](https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Gloria](https://open.spotify.com/album/3JHsuuNJM52oePgcXvbdhw) | 3:37 | 2025-05-15 | 2025-07-11 |
+| [Glorious World](https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Bigger Picture](https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT) | 4:04 | 2025-08-22 |  |
 | [Go Where You're Wanted](https://open.spotify.com/track/31I91A2vqfBKo6z4YknN0F) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Go Where You're Wanted](https://open.spotify.com/album/7pecq9XGFdE0map0YCD5Ne) | 2:54 | 2025-06-05 |  |
 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 | 2025-04-03 | 2025-04-25 |
 | [God Went Crazy](https://open.spotify.com/track/1E5HKRzDzeeC7vQGjlLpUr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [God Went Crazy](https://open.spotify.com/album/43mGt3jmmeOnJE4bC0Ulls) | 3:03 | 2025-06-05 | 2025-07-11 |
@@ -432,8 +434,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-05-31 | 2025-01-31 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-03-08 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-07-11 |
-| [Track 1](https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Bigger Picture](https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT) | 0:00 | 2025-08-22 |  |
-| [Track 8](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 0:00 | 2025-08-22 |  |
 | [Trap Door](https://open.spotify.com/track/2YmU8nq1nHFrRLJTOonDC2) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Gumshoe](https://open.spotify.com/album/4RtdIqhVWgQ2moLXF9yooo) | 2:27 | 2025-05-02 | 2025-05-23 |
 | [Treehouse Wings](https://open.spotify.com/track/4iiiQSCFi5y1B1agejyqg3) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [Treehouse Wings](https://open.spotify.com/album/22KFaK3JsMm2FTCN0SpRoF) | 3:19 | 2025-05-02 | 2025-05-23 |
 | [Try Me](https://open.spotify.com/track/7rO7QXBRq8Ka9bgs8pVaBr) | [Ava Joe](https://open.spotify.com/artist/1kExWfjjFzo8vNlmtBjCdj) | [Try Me](https://open.spotify.com/album/3MEkYRv9qRdxGi03qKkFh6) | 2:29 | 2025-05-09 | 2025-05-16 |

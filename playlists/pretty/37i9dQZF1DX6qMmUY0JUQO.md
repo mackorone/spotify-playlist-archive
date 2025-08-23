@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,728 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,786 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
-| 2 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 1 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 |
+| 2 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 3 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Basement Boy Strip To The Bone Mix](https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [The Basement Boys](https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 7:31 |
 | 4 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 |
 | 5 | [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 5:16 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 42 | [My Heart Goes Boom \- Radio Version](https://open.spotify.com/track/4k75o8WPCPqDd2tgD4AKxU) | [French Affair](https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E) | [My Heart Goes Boom \(La Di da da\)](https://open.spotify.com/album/0AVy1xmas9TvWDPPsHOC0G) | 3:40 |
 | 43 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 |
 | 44 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
-| 45 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
-| 46 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
+| 45 | [Rebel Without A Pause](https://open.spotify.com/track/1zONdCQrEJ4t3mlzKQADEN) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back](https://open.spotify.com/album/03Mx6yaV7k4bsEmcTH8J49) | 5:02 |
+| 46 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
 | 47 | [Don't Leave Me](https://open.spotify.com/track/46ysV2R0UyqObMmY0IgGHc) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [Don't Leave Me / Plan A](https://open.spotify.com/album/5htDgTnOfAIsk4ZFzdQqf8) | 6:55 |
 | 48 | [Alone \- Paradise](https://open.spotify.com/track/06Mts9X72EonW3kq8owouA) | [Don Carlos](https://open.spotify.com/artist/5WF9UkgNk1JGU2C76UayUq) | [Alone](https://open.spotify.com/album/0307WAhBTyZd9YNB6rvPMx) | 6:46 |
 | 49 | [Hunter](https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 4:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,463 likes - 65 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,486 likes - 65 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 33 | [Spc](https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho](https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs) | 3:23 |
 | 34 | [Tive Razão \- Ao Vivo](https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [América Brasil Ao Vivo \(Live\)](https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K) | 3:53 |
 | 35 | [No Pagode Do Vavá](https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:05 |
-| 36 | [Pintou uma Lua Lá](https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr) | [Arlindo Cruz & Sombrinha](https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE) | [Da Música](https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM) | 4:24 |
-| 37 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
+| 36 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
+| 37 | [Pintou uma Lua Lá](https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr) | [Arlindo Cruz & Sombrinha](https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE) | [Da Música](https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM) | 4:24 |
 | 38 | [Dependente Do Amor](https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Xande de Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mais Feliz](https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9) | 3:44 |
 | 39 | [Promessa](https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo) | [Noca Da Portela](https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC) | [De Mãos Dadas](https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF) | 2:54 |
 | 40 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |

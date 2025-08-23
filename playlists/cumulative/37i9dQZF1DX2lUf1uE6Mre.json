@@ -184,7 +184,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 138354,
       "name": "AKON",
       "url": "https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 172617,
       "name": "Baccarat",
       "url": "https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 137142,
       "name": "Beste",
       "url": "https://open.spotify.com/track/3DeVWNbo7ZepNoTGUWXpNv"
@@ -1437,6 +1437,32 @@
     },
     {
       "album": {
+        "name": "CC&MO",
+        "url": "https://open.spotify.com/album/6piWSXJfxNDZLP13xDzUge"
+      },
+      "artists": [
+        {
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155083,
+      "name": "CC&MO",
+      "url": "https://open.spotify.com/track/2jTMp5LqbcxgVYQEc7WU7l"
+    },
+    {
+      "album": {
         "name": "Champions League (feat. Haaland936, Aymen & Amo)",
         "url": "https://open.spotify.com/album/00GSVkuouhL4n9Iou8s4y7"
       },
@@ -1654,6 +1680,24 @@
       "duration_ms": 168594,
       "name": "Criminale",
       "url": "https://open.spotify.com/track/1Be37RqkPZzbGljg38HrBI"
+    },
+    {
+      "album": {
+        "name": "CUT",
+        "url": "https://open.spotify.com/album/39wN3wYWAh5oxIsoqBauPe"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151399,
+      "name": "CUT",
+      "url": "https://open.spotify.com/track/1s5qFD7akbvD7Urf8iAwqY"
     },
     {
       "album": {
@@ -2628,7 +2672,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 129371,
       "name": "Heute mit mir",
       "url": "https://open.spotify.com/track/7jKRh2TyKJRKxGunk6g4XO"
@@ -2710,6 +2754,28 @@
       "duration_ms": 146000,
       "name": "Hoch",
       "url": "https://open.spotify.com/track/40dX0tk8hBHCEB4czExfxX"
+    },
+    {
+      "album": {
+        "name": "HOKUS POKUS",
+        "url": "https://open.spotify.com/album/1AWAuL3lkGaH7ZbelmJKrO"
+      },
+      "artists": [
+        {
+          "name": "Kurdo",
+          "url": "https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191661,
+      "name": "HOKUS POKUS",
+      "url": "https://open.spotify.com/track/0UfRPRyFnKrW4wKCRenAi4"
     },
     {
       "album": {
@@ -3244,10 +3310,28 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163815,
       "name": "Kotti d'Azur",
       "url": "https://open.spotify.com/track/1DoKidkFLUJeiFtmhmUQm5"
+    },
+    {
+      "album": {
+        "name": "KUNSTWERK",
+        "url": "https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "KUNSTWERK",
+      "url": "https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs"
     },
     {
       "album": {
@@ -3292,7 +3376,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 127350,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/3TBFqIc6UwpWIL8i0qADMF"
@@ -3474,7 +3558,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 143504,
       "name": "Lebenlang",
       "url": "https://open.spotify.com/track/3twwhIkTw6W3pZORgIYuPq"
@@ -3734,7 +3818,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 152500,
       "name": "Ma Jolie",
       "url": "https://open.spotify.com/track/38kmnVWMW8h5GpnRgNQueB"
@@ -4902,6 +4986,24 @@
       "duration_ms": 150125,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/773uSnil7arBe7hEZJJf7p"
+    },
+    {
+      "album": {
+        "name": "Reiche Tante",
+        "url": "https://open.spotify.com/album/4kv0vmcWdkLUpzKHnhQaYp"
+      },
+      "artists": [
+        {
+          "name": "Katja Krasavice",
+          "url": "https://open.spotify.com/artist/0lFLP59V4TY3XgnrkFIwxK"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147048,
+      "name": "Reiche Tante",
+      "url": "https://open.spotify.com/track/7jwsshE6KbiCyE786Zgro7"
     },
     {
       "album": {
@@ -6297,6 +6399,24 @@
     },
     {
       "album": {
+        "name": "WHINE (BADALADA)",
+        "url": "https://open.spotify.com/album/4uCbquIf4oONYWRDq1RVuF"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129749,
+      "name": "WHINE (BADALADA)",
+      "url": "https://open.spotify.com/track/7fjov4E4FQSn92fqndntfa"
+    },
+    {
+      "album": {
         "name": "Wie beim ersten Mal",
         "url": "https://open.spotify.com/album/3lHE9xS4KWC3UnZFoVN9KE"
       },
@@ -6627,6 +6747,24 @@
     },
     {
       "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1Bzce6pArJYiAJJBuMVDMf"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153490,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/0soA9FP4NzRbIwwEvo5Vy6"
+    },
+    {
+      "album": {
         "name": "Zahide Did It Better",
         "url": "https://open.spotify.com/album/5KMN9yXTsSokxwaWSx7eAW"
       },
@@ -6718,6 +6856,24 @@
       "duration_ms": 162487,
       "name": "Zimmer 582",
       "url": "https://open.spotify.com/track/1wsxoHOqXop0YHoNAB5SqG"
+    },
+    {
+      "album": {
+        "name": "ZOE",
+        "url": "https://open.spotify.com/album/0LcczDP99Tz2qWoEQFtNrQ"
+      },
+      "artists": [
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168004,
+      "name": "ZOE",
+      "url": "https://open.spotify.com/track/6ilShkVwoV3360sb3JIJWd"
     },
     {
       "album": {

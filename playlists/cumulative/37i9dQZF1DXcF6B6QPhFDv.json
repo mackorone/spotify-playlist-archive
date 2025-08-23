@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "Rock never dies. Cover: Black Honey",
+  "description": "Rock never dies. Cover: Deftones",
   "name": "MARROW",
   "tracks": [
     {
@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "All My Friends Are So Depressed",
+        "url": "https://open.spotify.com/album/3NEtccNr2fy3ntFY7RUQoN"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162886,
+      "name": "All My Friends Are So Depressed",
+      "url": "https://open.spotify.com/track/1B96kEGScLcBqZNlKycVsR"
+    },
+    {
+      "album": {
         "name": "All the Noise",
         "url": "https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc"
       },
@@ -748,6 +766,24 @@
       "duration_ms": 129880,
       "name": "alright (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF"
+    },
+    {
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211542,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5"
     },
     {
       "album": {
@@ -4021,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
+    {
+      "album": {
         "name": "Dull",
         "url": "https://open.spotify.com/album/5CbmuaAeWbQRpCAtkoQo1E"
       },
@@ -4492,7 +4546,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 268369,
       "name": "Even In Arcadia",
       "url": "https://open.spotify.com/track/4IixOTCzviJgIigKleiVbo"
@@ -4550,6 +4604,24 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "album": {
+        "name": "Everybody Scream",
+        "url": "https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244500,
+      "name": "Everybody Scream",
+      "url": "https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW"
     },
     {
       "album": {
@@ -4778,7 +4850,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 215517,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr"
@@ -5866,7 +5938,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 193182,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG"
@@ -6362,7 +6434,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 176066,
       "name": "Hell You Call A Dream",
       "url": "https://open.spotify.com/track/03A89GAR9MPybXei4sZiYh"
@@ -7576,10 +7648,28 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 219130,
       "name": "Incline (feat. Nova Twins, Pink Siifu & Yung Skrrt)",
       "url": "https://open.spotify.com/track/6QnlhyJkaLpxEslu7sB5el"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "album": {
@@ -7937,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "The Clearing",
+        "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229880,
+      "name": "Just Two Girls",
+      "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
+    },
+    {
+      "album": {
         "name": "Karma Police",
         "url": "https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S"
       },
@@ -8114,6 +8222,24 @@
       "duration_ms": 134117,
       "name": "Kinky",
       "url": "https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF"
+    },
+    {
+      "album": {
+        "name": "Swallow the Knife",
+        "url": "https://open.spotify.com/album/6U5DzgCUo2V2M43cMW6i6K"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196221,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/0mo8ihg80BpO2XQ8YsOQzL"
     },
     {
       "album": {
@@ -9846,7 +9972,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 248840,
       "name": "milk of the madonna",
       "url": "https://open.spotify.com/track/2gcxuSpWOOGR0z0JGsPB7B"
@@ -11350,6 +11476,24 @@
       "duration_ms": 198380,
       "name": "One Shot",
       "url": "https://open.spotify.com/track/4yiiRbfHkqhCj0ChW62ASx"
+    },
+    {
+      "album": {
+        "name": "One Train",
+        "url": "https://open.spotify.com/album/4Vx7dItHDgFCRgZzM7ngxN"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152414,
+      "name": "One Train",
+      "url": "https://open.spotify.com/track/5CiLlBxMClDoCe7fAJfn8p"
     },
     {
       "album": {
@@ -16540,7 +16684,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 141834,
       "name": "The Scene",
       "url": "https://open.spotify.com/track/0h4aBq7QsZiNwwsxQlwQoP"
@@ -18506,7 +18650,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 161240,
       "name": "Worm in the Sun",
       "url": "https://open.spotify.com/track/2LXluMwdeV2mA9uZnpxHcY"

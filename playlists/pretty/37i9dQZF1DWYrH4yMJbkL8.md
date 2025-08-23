@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Drives the Common Man.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,720 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,718 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

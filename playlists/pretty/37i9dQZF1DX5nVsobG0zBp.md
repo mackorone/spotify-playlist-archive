@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Deejay Telio, Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,403 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,422 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 28 | [UUUUHH](https://open.spotify.com/track/1Jk03rMQGTjdkjNtCGgkPd) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:30 |
 | 29 | [0044](https://open.spotify.com/track/7cfIbKCASPe9FDhYjaQnDd) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [LONDON LP](https://open.spotify.com/album/7GbrLzZ9xJ9mhwk6MO1mWf) | 2:36 |
 | 30 | [Chakras](https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Chakras](https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K) | 3:16 |
-| 31 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
-| 32 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
+| 31 | [Galileu](https://open.spotify.com/track/3i7DYnwcLwCUHyaJlEh3od) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Galileu](https://open.spotify.com/album/031weUuUvb1pPjah41hwyg) | 3:02 |
+| 32 | [Desconfinamento](https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Desconfinamento](https://open.spotify.com/album/2gelzQflEo0NtA8xE7pHlI) | 3:06 |
 | 33 | [DIAS](https://open.spotify.com/track/56hVdyqQWCMYfKopnVRCwQ) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [COR D'ÁGUA](https://open.spotify.com/album/7G4pMhZajkeOLWgvQyGhta) | 3:49 |
 | 34 | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/track/5bBQI31u2eqXJE5OyP4hxq) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Europa \(feat\. Deejay Telio, Teto & Gson\)](https://open.spotify.com/album/4mJPvU4b5VgvQNgyuDcD0Q) | 3:36 |
 | 35 | [Tou Bem \(feat\. Lhast\)](https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [\#FFFFFF](https://open.spotify.com/album/4OltHlGzkBCjBkbWtJyO5E) | 3:11 |

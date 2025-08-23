@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,197 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,193 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 3 | [El Africano](https://open.spotify.com/track/6cZLHBG002Ed7jschiI4J1) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Rubby Pérez ¡Grandes Éxitos!](https://open.spotify.com/album/02xo53N4j4TQSrY2haxM7D) | 4:33 |
 | 4 | [Cuando Estés Con Él](https://open.spotify.com/track/6BOhbcfVzsNpIJ1dJYa47X) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Vida, Canción y Suerte](https://open.spotify.com/album/7o1Fi1ND2r1XMfpyi1Zrwf) | 3:40 |
 | 5 | [Enamorado de Ella](https://open.spotify.com/track/18ouTwcDXaundgNOmmAbKy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Fiesta para Dos!!](https://open.spotify.com/album/00VQ30oxy9Xy65WTLxOeIw) | 4:27 |
-| 6 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
-| 7 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
+| 6 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
+| 7 | [No Me Digas Que No](https://open.spotify.com/track/5hD4JNBJ2vcM42x8hPxnvo) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Para El Bailador](https://open.spotify.com/album/2Nn1Spyz1iM55bGEsTD2pA) | 3:48 |
 | 8 | [Tu Vas a Volar](https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vuelve el Merengue](https://open.spotify.com/album/3lmCQED04iauPJR1C07uhj) | 4:56 |
 | 9 | [A Mover la Colita](https://open.spotify.com/track/1KhcGUG4W3972WwaOoB0DO) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [El Baile](https://open.spotify.com/album/3yUu8PQm3x32cqOSjpHGWC) | 3:43 |
 | 10 | [La Travesia](https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
-| 11 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
-| 12 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
+| 11 | [La Quiero a Morir / Si Algun Dia la Vez](https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Tropicalísimo, Vol\. 1](https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx) | 6:34 |
+| 12 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 13 | [Un Hombre Busca Una Mujer](https://open.spotify.com/track/0gUEASZhZGZb60JqyQwytv) | [Jossie Esteban](https://open.spotify.com/artist/1n6WShjEhCUMCkHDpvwk8H), [La Patrulla 15](https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O) | [En Accion!](https://open.spotify.com/album/5nXmOTbpGP0z0qtYA1CXAb) | 4:55 |
 | 14 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 15 | [Celoso](https://open.spotify.com/track/6vzt5y2hAw7xonrEyo6HZp) | [Las Chicas Del Can](https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE) | [Explosivo](https://open.spotify.com/album/2LcEbujF2RRUfKKjOlnXWQ) | 4:03 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 60 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
 | 61 | [Colegiala \(La\)](https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues Volume 2](https://open.spotify.com/album/3tFeNqVsvhhXXbey1CmeKW) | 4:58 |
 | 62 | [Feliciana](https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Robert JeanD'or](https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0) | [Todos Exitos, Vol\. 1](https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs) | 4:51 |
-| 63 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
-| 64 | [Te Buscare](https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI) | [La Orquesta Joven](https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:19 |
+| 63 | [Te Buscare](https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI) | [La Orquesta Joven](https://open.spotify.com/artist/1gPNsezZhRqdoT1PBJj2RK) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:19 |
+| 64 | [La Fosforera](https://open.spotify.com/track/3aVDQpW4Lk5meFxnOWhU8k) | [Luis Ovalles](https://open.spotify.com/artist/3pEATAGQszb8de1Yv8W6dx) | [Estelares De](https://open.spotify.com/album/6uYB2pc2yhDbtOHNBEA4ur) | 3:39 |
 | 65 | [Penelope](https://open.spotify.com/track/1rQKgkbKDR7boRA0aPXQGI) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Merengue Salvaje](https://open.spotify.com/album/1BeAOinmiOj7uvjEZp7oCA) | 4:26 |
 | 66 | [Melina](https://open.spotify.com/track/6GHOBqeLlPkYabtn1ltqqC) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [Edición Limitada](https://open.spotify.com/album/21TzuVhh3Nm12AFIqnZjF0) | 4:26 |
 | 67 | [El Diente de Oro](https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 4:01 |

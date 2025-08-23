@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 167593,
+  "num_followers": 167651,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 263306,
-      "name": "Oye Mi Amor",
-      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Flores De Alquiler",
-        "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
-      },
-      "artists": [
-        {
-          "name": "La Quinta Estacion",
-          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2awKQgW88iq9jFM54VaCAp"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 203226,
       "name": "Noviembre Sin Ti",
       "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Flores De Alquiler",
+        "url": "https://open.spotify.com/album/2IdCNfB4mJGsGCzGt6FnHs"
+      },
+      "artists": [
+        {
+          "name": "La Quinta Estacion",
+          "url": "https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2awKQgW88iq9jFM54VaCAp"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -463,22 +463,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "Qui\u00e9n Como T\u00fa",
-      "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 272826,
       "name": "Tengo Todo Excepto a Ti",
       "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "Qui\u00e9n Como T\u00fa",
+      "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -547,22 +547,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Stereo Hits",
-        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
-      },
-      "artists": [
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Ni T\u00fa Ni Nadie",
-      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 310146,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Stereo Hits",
+        "url": "https://open.spotify.com/album/6y3FTrfW6zFquk2V1qU2as"
+      },
+      "artists": [
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Ni T\u00fa Ni Nadie",
+      "url": "https://open.spotify.com/track/16J6wH4Evm97ta1hDQIYQC"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Mundo Lite",
         "url": "https://open.spotify.com/album/1RaOKsaRdN1H4twh4u6FUd"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Secreto De Amor",
         "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Para M\u00ed",
-        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "En Total Plenitud",
         "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 228920,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -919,22 +919,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Las baladas (Los singles vol II)",
         "url": "https://open.spotify.com/album/2lsc9HZQaNf3gT7lIys2vN"
       },
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 180239,
-      "name": "La Chica Del Bikini Azul",
-      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 241160,
       "name": "Est\u00e9s Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 186373,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Esta Es Mi Vida",
         "url": "https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 222626,
       "name": "Espacio sideral",
       "url": "https://open.spotify.com/track/3OIoy3TNU7CL5PTaHOGmbR"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 186373,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH"
     },
     {
       "added_at": "2020-10-24 04:53:42",

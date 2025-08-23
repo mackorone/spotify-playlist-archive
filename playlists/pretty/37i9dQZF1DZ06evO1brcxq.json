@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 175297,
+  "num_followers": 175375,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAh5/cni30XJwyfc8lF3qHo",
+  "snapshot_id": "aKZhgAAAAACIBSGCYhT/7K+IEWeatPiH",
   "tracks": [
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AR",
-        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
-      },
-      "artists": [
-        {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 126105,
-      "name": "2 die 4 (feat. Charli XCX)",
-      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 176479,
       "name": "In The City",
       "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AR",
+        "url": "https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 126105,
+      "name": "2 die 4 (feat. Charli XCX)",
+      "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "Constant Repeat",
+      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1999",
         "url": "https://open.spotify.com/album/49Teqcxp4dOBayTBtR3j5W"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 189000,
       "name": "1999",
       "url": "https://open.spotify.com/track/05mAIVLkIWc2d1UBYZBCp8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "Constant Repeat",
-      "url": "https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW"
     },
     {
       "added_at": null,

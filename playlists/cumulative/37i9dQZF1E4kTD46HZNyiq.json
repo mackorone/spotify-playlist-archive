@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Rhineland, Laureline, The Wild Wind and more",
+  "description": "With Rhineland, The Wild Wind, Laureline and more",
   "name": "NIGHT TRAVELER Radio",
   "tracks": [
     {
@@ -3098,7 +3098,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 261320,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/6e6jrSoJq75MYe3jgCpY0C"
@@ -8678,7 +8678,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye"
@@ -8786,7 +8786,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-11",
+      "date_removed": null,
       "duration_ms": 219440,
       "name": "Ghost Hotel",
       "url": "https://open.spotify.com/track/6Bgy71MzE99kjyqWRKWpKh"
@@ -11330,7 +11330,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 243187,
       "name": "I Wish That You Would",
       "url": "https://open.spotify.com/track/6fvbcLqImwREQb1l3h5yOg"
@@ -19738,7 +19738,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 216800,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/5ijeJQFNNXE6m0fYfZ3x72"
@@ -21100,7 +21100,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 207960,
       "name": "Still Thinking About You",
       "url": "https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY"
@@ -22450,7 +22450,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 240746,
       "name": "The Hotel",
       "url": "https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6"
@@ -22830,6 +22830,24 @@
       "duration_ms": 203106,
       "name": "There's Still A Light In The House",
       "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY"
+    },
+    {
+      "album": {
+        "name": "Things I Can't Explain",
+        "url": "https://open.spotify.com/album/7wgZmvDWGSc66ldpWFXX6g"
+      },
+      "artists": [
+        {
+          "name": "Dekleyn",
+          "url": "https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229685,
+      "name": "Things I Can't Explain",
+      "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [All Out 2010s](https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP)
 
-> The biggest songs of the 2010s\. Cover: Lady Gaga
+> The biggest songs of the 2010s\. Cover: Carly Rae Jepsen
 
-932 songs - 2 day 8 hr 57 min
+933 songs - 2 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 | 2020-06-17 | 2022-04-14 |
 | [Easy Love](https://open.spotify.com/track/42zLyJxoTWBGAu6481ALWL) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Easy Love](https://open.spotify.com/album/3ksyoE3J4CF1VxcMtuzSFv) | 3:47 | 2019-07-11 | 2019-08-10 |
 | [Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4:17 | 2019-07-13 | 2019-08-02 |
-| [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-08-11 |  |
+| [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2022-08-11 | 2025-08-23 |
 | [Every Teardrop Is A Waterfall](https://open.spotify.com/track/3ViG53I02hn2DmNybJXZ1h) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Every Teardrop Is A Waterfall](https://open.spotify.com/album/0Kdqiym24Ylz750RqS6Pyf) | 4:03 | 2019-07-23 | 2019-08-27 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-08-23 | 2023-11-27 |
 | [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 | 2019-07-12 | 2022-04-21 |
@@ -623,6 +623,7 @@
 | [Rude](https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Don't Kill the Magic](https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi) | 3:44 | 2019-06-02 |  |
 | [Rude Boy](https://open.spotify.com/track/4TrL9On7tYmKQ4qJeGE3Dw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Rude Boy](https://open.spotify.com/album/0saKhJufuCCzEzJTlenNwK) | 3:43 | 2019-06-25 | 2019-08-08 |
 | [Rumour Has It](https://open.spotify.com/track/5mFMb5OHI3cN0UjITVztCj) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/5duyQokC4FMcWPYTV9Gpf9) | 3:43 | 2022-03-02 | 2022-04-18 |
+| [Run Away With Me](https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion \(Deluxe Expanded Edition\)](https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou) | 4:11 | 2025-08-21 |  |
 | [Run the World \(Girls\)](https://open.spotify.com/track/4BookP9oLuvJu4onG0bDFM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Run The World \(Girls\)](https://open.spotify.com/album/6sDm2SVKzQaTA2RzQsj3Ev) | 3:55 | 2019-06-22 | 2019-08-27 |
 | [Run the World \(Girls\)](https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 3:56 | 2021-03-14 | 2022-04-21 |
 | [Runaway \(U & I\)](https://open.spotify.com/track/7jTTclESZDl303D4p7tN6M) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Absolute Music 78](https://open.spotify.com/album/3UchYvcUU955pl8gThnhAa) | 3:47 | 2019-07-17 | 2019-08-27 |

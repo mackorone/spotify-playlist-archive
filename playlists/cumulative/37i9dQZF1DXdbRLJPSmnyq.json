@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-07",
-  "description": "All the J-Pop tunes you love in one playlist. Cover: AKASAKI",
+  "description": "All the J-Pop tunes you love in one playlist. Cover: yama",
   "name": "J-Pop Hits",
   "tracks": [
     {
@@ -572,6 +572,24 @@
       "duration_ms": 228197,
       "name": "DNA",
       "url": "https://open.spotify.com/track/4oym4UJGVd6l70PXHeMcha"
+    },
+    {
+      "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176833,
+      "name": "doku",
+      "url": "https://open.spotify.com/track/7r5gbT0sRLKfyTqD0VomNS"
     },
     {
       "album": {
@@ -2899,6 +2917,24 @@
     },
     {
       "album": {
+        "name": "SUNDANCE FOR BOTTEGA VENETA",
+        "url": "https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR"
+      },
+      "artists": [
+        {
+          "name": "Daiki Tsuneta",
+          "url": "https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189444,
+      "name": "WHEN YOUR OWN INITIALS ARE ENOUGH",
+      "url": "https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5"
+    },
+    {
+      "album": {
         "name": "Whole of Flower",
         "url": "https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS"
       },
@@ -3727,6 +3763,24 @@
     },
     {
       "album": {
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
+        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
+    },
+    {
+      "album": {
         "name": "\u30bf\u30a4\u30e0\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4cHdtiNVgGR80HprOsOdiK"
       },
@@ -3868,7 +3922,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 184921,
       "name": "\u30cf\u30c3\u30d4\u30fc\u30e9\u30c3\u30ad\u30fc\u30c1\u30e3\u30c3\u30d4\u30fc",
       "url": "https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX"
@@ -4680,7 +4734,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 170306,
       "name": "\u592a\u967d\u304c\u6607\u3089\u306a\u3044\u4e16\u754c - A World Where the Sun Never Rises",
       "url": "https://open.spotify.com/track/0AtZkwQcZmhVzQCEJga3ni"
@@ -4968,7 +5022,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 262105,
       "name": "\u611b\u2661\u30b9\u30af\u30ea\uff5e\u30e0\uff01",
       "url": "https://open.spotify.com/track/2cfFr7Mnv7fNQoQidIs38z"

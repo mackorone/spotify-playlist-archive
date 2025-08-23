@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-21",
-  "description": "Where two indie music powerhouses meet!\nGet in the groove and gear up for the show with the best tracks from the lineup. \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! \uacf5\uc5f0 \ub77c\uc778\uc5c5\uc758 \ubca0\uc2a4\ud2b8 \uace1\ub4e4\uc744 \ub4e4\uc73c\uba70 \uacf5\uc5f0\uc744 \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "Where two indie music powerhouses meet!\nEnjoy the [Tune Up Meets Fresh Finds] LIVE SET including the voices of them on stage! \ud83c\udfb6\u2728 (\uc778\ub514\uc74c\uc545\uc744 \uc9c0\uc6d0\ud558\ub294 \ub450 \ud504\ub85c\uadf8\ub7a8\uc758 \ub9cc\ub0a8! [Tune Up Meets Fresh Finds] \uacf5\uc5f0\uc758 \ub77c\uc774\ube0c\uc14b\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "Tune Up Meets Fresh Finds",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 249480,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 188933,
       "name": "Brighton",
       "url": "https://open.spotify.com/track/293bnJIil4RNH9AXgVegpS"
@@ -88,10 +88,28 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 250625,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/4mjLbpVgQwz6nFtdOnCB1L"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/0Ol2ti1tUO7Uu6sq3fC3lI"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248173,
+      "name": "Cotton Mouth",
+      "url": "https://open.spotify.com/track/0jrq6kvqkPcxPqZzR3Ceta"
     },
     {
       "album": {
@@ -106,7 +124,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 194701,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/7M83y4B74xNqJPxQlIzXZN"
@@ -131,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Get My Money Back",
+        "url": "https://open.spotify.com/album/1PCF99yRCBu4PYEoBRZks1"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Get My Money Back",
+      "url": "https://open.spotify.com/track/0d9yXZVK8L4mGEdL47vGZX"
+    },
+    {
+      "album": {
         "name": "Girl At Night",
         "url": "https://open.spotify.com/album/3RWcBHbBr3PO9lMku3XSLd"
       },
@@ -146,6 +182,60 @@
       "duration_ms": 215069,
       "name": "Girl At Night",
       "url": "https://open.spotify.com/track/1SPV5U0bXTlHsDoADnFU3w"
+    },
+    {
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257480,
+      "name": "High and Dry",
+      "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "album": {
+        "name": "Climbers",
+        "url": "https://open.spotify.com/album/4h07d6P5OuqOpAZnplCuxJ"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198666,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/22dNi7hvJmfo4oJfZXjOuE"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/0Ol2ti1tUO7Uu6sq3fC3lI"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32213,
+      "name": "i know it's not forever",
+      "url": "https://open.spotify.com/track/2f6Tp3o5QtFh6RPdQabuF8"
     },
     {
       "album": {
@@ -196,7 +286,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 266040,
       "name": "Magic Lily",
       "url": "https://open.spotify.com/track/2idifx4BoD1a2O3Tksl2h1"
@@ -239,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Climbers",
+        "url": "https://open.spotify.com/album/4h07d6P5OuqOpAZnplCuxJ"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Miss you amigo",
+      "url": "https://open.spotify.com/track/4GaSlMSUnEFSkuAly9QjS1"
+    },
+    {
+      "album": {
         "name": "pool vol. 2 - Peanut Butter Sandwich",
         "url": "https://open.spotify.com/album/3yItJ86DsLRh9OynW2x8pV"
       },
@@ -268,7 +376,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 187215,
       "name": "Pi\u00f1ata Head",
       "url": "https://open.spotify.com/track/0O56HkasHwgBVvl98TKqhT"
@@ -286,7 +394,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 230360,
       "name": "She's not straight",
       "url": "https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL"
@@ -322,7 +430,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 180080,
       "name": "Side by side",
       "url": "https://open.spotify.com/track/3RqJbTr2A464z2YVrCdKyX"
@@ -340,10 +448,118 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 204389,
       "name": "Sleep All Day",
       "url": "https://open.spotify.com/track/77nCqTRlDYjmfnptxefCZu"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Audio Liners",
+        "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90891,
+      "name": "Stage Comment from can't be blue 1",
+      "url": "https://open.spotify.com/track/6Almd5UKehInNnYll80QuR"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Audio Liners",
+        "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
+      },
+      "artists": [
+        {
+          "name": "can\u2019t be blue ",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60589,
+      "name": "Stage Comment from can't be blue 2",
+      "url": "https://open.spotify.com/track/0B5qTRT8Dx77GaJRSXc7cs"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Audio Liners",
+        "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30287,
+      "name": "Stage Comment from jisokuryClub 1",
+      "url": "https://open.spotify.com/track/7i3xWLEnLIzHc4C9BRkiQl"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Audio Liners",
+        "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45438,
+      "name": "Stage Comment from jisokuryClub 2",
+      "url": "https://open.spotify.com/track/5M3IVa3oamAVYof1FNIt4Y"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Audio Liners",
+        "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62104,
+      "name": "Stage Comment from There's A Tuesday 1",
+      "url": "https://open.spotify.com/track/7CFVxmq9S3BDEgv4G8ISWw"
+    },
+    {
+      "album": {
+        "name": "Tune Up Meets Fresh Finds Audio Liners",
+        "url": "https://open.spotify.com/album/69ZMEAuFUGeNQ6Afwtjtis"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74225,
+      "name": "Stage Comment from There's A Tuesday 2",
+      "url": "https://open.spotify.com/track/188I6Xvjqn5GQL3eExMxVN"
     },
     {
       "album": {
@@ -358,7 +574,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 199133,
       "name": "Take On",
       "url": "https://open.spotify.com/track/4JGiIFr49qQUYZlqsGhiZi"
@@ -448,7 +664,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 214000,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/7kM01YL4fQqqqAx6kiZbFe"
@@ -466,7 +682,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 199738,
       "name": "Within the words i once called love",
       "url": "https://open.spotify.com/track/2mcVpKIs14wlYGygDuMFMI"

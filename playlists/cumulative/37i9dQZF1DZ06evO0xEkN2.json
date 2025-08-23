@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "Se Agradece",
+        "url": "https://open.spotify.com/album/3qOtTVQrOweneiMPwaRme2"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271553,
+      "name": "A Todos los Rumberos",
+      "url": "https://open.spotify.com/track/5hIDmYCrX2be6ZolvvItJe"
+    },
+    {
+      "album": {
         "name": "Ej\u00e9rcito de Paz",
         "url": "https://open.spotify.com/album/31M3drSiYALJMah8o3PGke"
       },
@@ -242,6 +268,24 @@
     {
       "album": {
         "name": "Cha-Cha Love",
+        "url": "https://open.spotify.com/album/33GzwOk7AR9y4fJyp7UIhk"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212490,
+      "name": "Cha Cha Love",
+      "url": "https://open.spotify.com/track/0qD5NSPzBWhSc8zdpJ6brO"
+    },
+    {
+      "album": {
+        "name": "Cha-Cha Love",
         "url": "https://open.spotify.com/album/40CNNWcq16RQiAIuY7HDue"
       },
       "artists": [
@@ -252,7 +296,7 @@
       ],
       "date_added": "2025-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 214942,
       "name": "Cha-Cha Love",
       "url": "https://open.spotify.com/track/5Wv7CUKoTdUOk1KwaBTHFW"
@@ -720,7 +764,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 187744,
       "name": "La Ranchera",
       "url": "https://open.spotify.com/track/1A8MVDv6OMaKvTo1FvXNzt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,507 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,520 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 15 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
 | 16 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
 | 17 | [Je suis venu te dire que je m'en vais](https://open.spotify.com/track/5cC9RZFMzrpbA9U1m4zSPm) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Vu de l'extérieur](https://open.spotify.com/album/0NACl36sqipY6OZXOqy1At) | 3:23 |
-| 18 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
-| 19 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
+| 18 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
+| 19 | [J'ai encore rêvé d'elle](https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE) | [Il Etait Une Fois](https://open.spotify.com/artist/1QQlg9J5PEMv9cpOOJPUvR) | [ils vecurent heureux](https://open.spotify.com/album/16ymDIBYhTE7GANUGFJYmk) | 3:40 |
 | 20 | [La ballade des gens heureux](https://open.spotify.com/track/0hO4TgWkyR3XiI6P3x731B) | [Gérard Lenorman](https://open.spotify.com/artist/5yyYswdvKadmf03amOvBDx) | [Les plus belles chansons de Gérard Lenorman](https://open.spotify.com/album/7yjQwjm48h8sP04y5w2thf) | 3:17 |
 | 21 | [Lettre à France](https://open.spotify.com/track/7wOv0Qd3aKaDEw0QplvJzl) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Coucou Me Revoilou](https://open.spotify.com/album/3wqj1dmx9XqLSdPGwaWEDk) | 4:50 |
 | 22 | [Alexandrie Alexandra](https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Magnolias For Ever](https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM) | 4:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 39 | [On ira tous au paradis](https://open.spotify.com/track/58bRgUVRgeHrrGfqR7v96k) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Best Of 2003](https://open.spotify.com/album/6uoHpvJlZvaREOR1Z3Lu8i) | 4:33 |
 | 40 | [J'ai dix ans](https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [J'ai dix ans](https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ) | 3:02 |
 | 41 | [Téléphone\-moi](https://open.spotify.com/track/5zILwyLYKdDRgMBfuOZYob) | [Nicole Croisille](https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV) | [Téléphone\-moi / Tu m'avais dit \- Single](https://open.spotify.com/album/3Z8ys5UIyDtytg6pfsKAUS) | 3:10 |
-| 42 | [Ça balance pas mal à Paris \- Remasterisé en 2002](https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4), [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Pour Me Comprendre \(40 titres\)](https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ) | 2:16 |
-| 43 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
+| 42 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
+| 43 | [Ça balance pas mal à Paris \- Remasterisé en 2002](https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4), [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Pour Me Comprendre \(40 titres\)](https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ) | 2:16 |
 | 44 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 |
 | 45 | [L'aigle noir](https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Les 50 Plus Belles Chansons De Barbara](https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12) | 4:54 |
 | 46 | [Où sont les femmes](https://open.spotify.com/track/0aWA84zzPPadF7I0N9tSRb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Paris By Night](https://open.spotify.com/album/7wMa3V484gRTpUFKvZ8GkZ) | 6:16 |

@@ -98,7 +98,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 194935,
       "name": "American Me",
       "url": "https://open.spotify.com/track/5F3xdzFq5PZeBsQ281WCml"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 180506,
       "name": "Danger",
       "url": "https://open.spotify.com/track/7lRvPKj9HX2vyiolG2uP48"
@@ -2201,6 +2201,28 @@
     },
     {
       "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264684,
+      "name": "Ostatni Track",
+      "url": "https://open.spotify.com/track/08qct5VN9lq7Rlj4vJTb2v"
+    },
+    {
+      "album": {
         "name": "Richmond Hill",
         "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
@@ -2718,7 +2740,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 236220,
       "name": "Sunken Place (feat. Pav Bundy)",
       "url": "https://open.spotify.com/track/6wKf0bWNwfiBI0E1yWRAoh"
@@ -2962,7 +2984,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 195520,
       "name": "Truffle Shuffle",
       "url": "https://open.spotify.com/track/6bW5FWM4Th7uO6y0mcmrl0"
@@ -3058,7 +3080,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 150786,
       "name": "What Is The Question",
       "url": "https://open.spotify.com/track/4aBGO8mF1pJhdmzvy7S7ro"

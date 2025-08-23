@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 227436,
+  "num_followers": 227455,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAYRKojAWZAzOKvV4WB7s1M",
+  "snapshot_id": "aKZhgAAAAABRTMzl09YcGnpXQsn5DM2l",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168224,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendary (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 194935,
       "name": "SWISH",
       "url": "https://open.spotify.com/track/0aJ2hFC6e9Z00Lx9RIRNcT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168224,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (from Songland) (feat. Tyga)",
-        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 175179,
-      "name": "California (from Songland) (feat. Tyga)",
-      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wow. (Remix)",
         "url": "https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California (from Songland) (feat. Tyga)",
+        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "California (from Songland) (feat. Tyga)",
+      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
     },
     {
       "added_at": null,
@@ -783,30 +783,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
       "artists": [
         {
-          "name": "Scott Storch",
-          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
-      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+      "duration_ms": 198186,
+      "name": "Krabby Step (with Tyga & Lil Mosey)",
+      "url": "https://open.spotify.com/track/54VtNjzhAyLvPxuJlw0Z3q"
     },
     {
       "added_at": null,
@@ -843,6 +839,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+        "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
+      },
+      "artists": [
+        {
+          "name": "Scott Storch",
+          "url": "https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
+      "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Splash (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv"
       },
@@ -859,30 +883,6 @@
       "duration_ms": 173161,
       "name": "Splash (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
-      },
-      "artists": [
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Krabby Step (with Tyga & Lil Mosey)",
-      "url": "https://open.spotify.com/track/54VtNjzhAyLvPxuJlw0Z3q"
     },
     {
       "added_at": null,

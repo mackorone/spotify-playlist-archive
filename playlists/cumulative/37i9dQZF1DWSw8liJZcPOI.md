@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-624 songs - 1 day 18 hr 31 min
+626 songs - 1 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [Ruins](https://open.spotify.com/track/2GGS3Qry5txkpc3Caz4VDt) | [Jim Copperthwaite](https://open.spotify.com/artist/7roEen94bDxXPEhG3DVjej) | [Ballroom Ghosts](https://open.spotify.com/album/2WN0MKnzMoi1dm7s8XnD6C) | 5:13 | 2020-10-21 | 2022-04-16 |
 | [Runddans](https://open.spotify.com/track/6Yih5MA3v98yJzgfnUJ1Gd) | [Julia Gjertsen](https://open.spotify.com/artist/6dEpJk27D9ijwgvz33icCC) | [Runddans](https://open.spotify.com/album/01GyKaeOGueyXsGElCsGjF) | 4:06 | 2022-04-01 |  |
 | [Rückenfigur](https://open.spotify.com/track/3Pb1B51RXr8DnmGpR14GXl) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [S.A.D\. Storm and Drugs](https://open.spotify.com/album/6D17eYpXEBKROPdbONmdHM) | 4:38 | 2020-10-20\* | 2022-07-08 |
+| [Saari](https://open.spotify.com/track/0o2qBgw2VIwxTgWO3oGCqL) | [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Mika Jämsä](https://open.spotify.com/artist/2oAdRZ4zveM1m57E9ZNVyz) | [Saari \(Island\)](https://open.spotify.com/album/1igiUq5aDOh4uqRRvJGX7K) | 3:36 | 2025-08-22 |  |
 | [Sadness \- Carlos Cipa Rework](https://open.spotify.com/track/6DLTECZMsEl9En73TNRoEQ) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT), [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Sadness \(Carlos Cipa Rework\)](https://open.spotify.com/album/67ATK2PDKwEUiIB7RB156L) | 6:26 | 2020-12-25 | 2024-11-21 |
 | [Sakura Sakura](https://open.spotify.com/track/0qGzFSA5UixwAbB7RSW65M) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Sakura Sakura](https://open.spotify.com/album/4LUSWR1gdXKX5FDzC4r16J) | 4:05 | 2024-03-01 | 2024-12-13 |
 | [Salt Point](https://open.spotify.com/track/5h9QpeYnU4Q652BUKFXwQ4) | [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Salt Point](https://open.spotify.com/album/0yU4vxbhbdrGD7l9PIiQHR) | 3:17 | 2020-10-20\* | 2022-04-20 |
@@ -545,6 +546,7 @@
 | [The Space Between](https://open.spotify.com/track/0xqi0Jr0zJuo7wT0mHSvle) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Acqua](https://open.spotify.com/album/5pAXkSh3qiXv1FS3qtRNLk) | 3:16 | 2022-07-22 |  |
 | [The Spheres \- Ambient Mix](https://open.spotify.com/track/7hvW3ZVzAP47Lb1doqYRtD) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G), [Tenebrae](https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [The Spheres \(Ambient Mix\)](https://open.spotify.com/album/1IzQgElbT1QJRjMI8KrMrV) | 3:18 | 2024-11-20 |  |
 | [The Spin](https://open.spotify.com/track/2Wac2hlUTjfiUu27sLHGIi) | [Greg Haines](https://open.spotify.com/artist/1C2rCgyUlqHUx1Xm0KXUik) | [Moments Eluding](https://open.spotify.com/album/6GK8maOxjrAqs023JZZ0vV) | 6:59 | 2021-02-06 | 2021-02-12 |
+| [The Swan \- Reimagined](https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Verwey](https://open.spotify.com/artist/4ol6DQyE3YPC6XGrgkq5Nb) | [The Swan \- Reimagined](https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES) | 2:46 | 2025-08-22 |  |
 | [The Swimmer](https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4) | [Phil France](https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd) | [The Swimmer](https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek) | 4:12 | 2022-07-22 | 2024-04-19 |
 | [The Swimmer](https://open.spotify.com/track/6NtpDQounqLQOrZsXo9oHt) | [Phil France](https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd) | [The Swimmer](https://open.spotify.com/album/3r0g5kX6vfRGyFmkN40MPp) | 4:12 | 2021-02-13 | 2024-09-07 |
 | [The Turning Year](https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke) | [The Turning Year](https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX) | 2:40 | 2022-01-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірку створено разом із Мариною Круть.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,183 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,184 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 64 | [Одна із тисяч](https://open.spotify.com/track/1oufy9R5UAokOmFBb4RblZ) | [Vyka](https://open.spotify.com/artist/3MxRl66GqmoZa036cM3Tas) | [Одна із тисяч](https://open.spotify.com/album/6wFkztonWujtx9tuylNssU) | 3:34 |
 | 65 | [Теплий лайк](https://open.spotify.com/track/6HQe5wpIZKxITPdm4l4v4Q) | [INSHAYA](https://open.spotify.com/artist/0KRduEGNhx9fs3h3cxv2ON) | [Теплий лайк](https://open.spotify.com/album/0BZZnTAuNTHXuuJG6e3XfK) | 3:30 |
 
-Snapshot ID: `AAAAAISWX3onDpAxgA1kwd60m8JG7UL6`
+Snapshot ID: `AAAAADNsB7+G3jiEdte4dwC/2dzxwEpR`

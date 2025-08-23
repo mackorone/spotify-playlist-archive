@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 337016,
+  "num_followers": 337254,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Down The Road I Go",
-        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "It's A Great Day To Be Alive",
-      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "The Woman In Me",
         "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 246760,
       "name": "Any Man Of Mine",
       "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Down The Road I Go",
+        "url": "https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "It's A Great Day To Be Alive",
+      "url": "https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -267,18 +267,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Haywire",
         "url": "https://open.spotify.com/album/4AwUix40p2isD6wvEBPpQ8"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 192800,
       "name": "Why Don't We Just Dance",
       "url": "https://open.spotify.com/track/2p07VcUwRZ5sru3mJ0JogS"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "You Do Your Thing",
-        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
-      },
-      "artists": [
-        {
-          "name": "Montgomery Gentry",
-          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
-        }
-      ],
-      "duration_ms": 256600,
-      "name": "Something to Be Proud Of",
-      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "Not A Moment Too Soon",
         "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 249360,
       "name": "Don't Take The Girl",
       "url": "https://open.spotify.com/track/2wmEryA2YLaFwFvA63n3O2"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "You Do Your Thing",
+        "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
+      },
+      "artists": [
+        {
+          "name": "Montgomery Gentry",
+          "url": "https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a"
+        }
+      ],
+      "duration_ms": 256600,
+      "name": "Something to Be Proud Of",
+      "url": "https://open.spotify.com/track/4D8uIY6Wzj7dJDaw0dW0UF"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1327,38 +1327,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "Be Here",
-        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 224629,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "The Incredible Machine",
         "url": "https://open.spotify.com/album/6tRJWFLsUW4HuiXHlOSnwf"
       },
@@ -1391,6 +1359,38 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
+        "name": "Be Here",
+        "url": "https://open.spotify.com/album/2IGgtSdgps7BjyZBtJGW89"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 224629,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/2jwaErbghhcia4JqUYWz3g"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
         "name": "Livin' It Up",
         "url": "https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 187000,
       "name": "Love Without End, Amen",
       "url": "https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
-        "name": "Good Hearted Woman",
-        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Good Hearted Woman",
-      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1451,6 +1435,22 @@
       "duration_ms": 246440,
       "name": "I Believe In You",
       "url": "https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "Good Hearted Woman",
+        "url": "https://open.spotify.com/album/13fXjHXIcgjroGQ4vsUfbv"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/4KmAGKJbeY2DUiLInlet53"
     },
     {
       "added_at": "2025-02-18 00:33:12",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2025-02-18 00:33:12",
       "album": {
-        "name": "We Must Believe In Magic",
-        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
-      },
-      "artists": [
-        {
-          "name": "Crystal Gayle",
-          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Don't It Make My Brown Eyes Blue",
-      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
-    },
-    {
-      "added_at": "2025-02-18 00:33:12",
-      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 255133,
       "name": "When I Call Your Name",
       "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
+    },
+    {
+      "added_at": "2025-02-18 00:33:12",
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
     },
     {
       "added_at": "2025-02-18 00:33:12",

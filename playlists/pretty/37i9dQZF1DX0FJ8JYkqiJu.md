@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 
 > Tune in, bliss out
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,148 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,161 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 17 | [dancing](https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 2:54 |
 | 18 | [So Alive](https://open.spotify.com/track/4Pvf9J97mPFi8xE6FNLfIK) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [So Alive](https://open.spotify.com/album/2iltoKXclflZGGy9pIkZX7) | 2:39 |
 | 19 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 |
-| 20 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
-| 21 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
+| 20 | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH) | [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Come With Me \(feat\. Jorja Smith\)](https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26) | 3:34 |
+| 21 | [Gotta Move](https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Gotta Move](https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x) | 2:59 |
 | 22 | [Into Dust \(Still Falling\)](https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Into Dust \(Still Falling\)](https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0) | 5:33 |
 | 23 | [3 Days Later](https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [3 Days Later](https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4) | 5:33 |
 | 24 | [Weightless](https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Weightless](https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8) | 3:42 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 48 | [Believe Me](https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH) | [Gavin Moss](https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT), [RUSSI](https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U) | [Believe Me](https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97) | 2:31 |
 | 49 | [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 |
 | 50 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 |
-| 51 | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B) | 4:26 |
-| 52 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
+| 51 | [Be With You](https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:34 |
+| 52 | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/track/115oxLXomzaH8T9ujFBuNP) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Me and You \(feat\. Vancouver Sleep Clinic\)](https://open.spotify.com/album/3I2DyDuoBgTndybTZM0W8B) | 4:26 |
 | 53 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 |
 | 54 | [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 |
 | 55 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FJ8JYkqiJu.md) - [plain]
 | 67 | [About You](https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [About You](https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta) | 2:34 |
 | 68 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 |
 | 69 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 |
-| 70 | [SWEET LOVIN](https://open.spotify.com/track/5FyaFI5pYPGdhKC6z4Gm0e) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [SWEET LOVIN](https://open.spotify.com/album/0J02fKiJmJp7DKyEI3lQjR) | 3:08 |
+| 70 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 
 Snapshot ID: `AAAAAE5jOq6SOWzIMx5vOvNoK2yyQq/v`

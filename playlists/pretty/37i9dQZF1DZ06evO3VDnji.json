@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 74007,
+  "num_followers": 74019,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACP0SubEAjkq/PbtgFrkIjK",
+  "snapshot_id": "aKZhgAAAAAC2Ke5LVlOy/uhw8OZL81q7",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 140735,
+      "name": "HOUSE OF LUX",
+      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "C\u00d3DiGOS DE MU\u00d1EKA",
         "url": "https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 199148,
       "name": "SiNKRONiZAMOS",
       "url": "https://open.spotify.com/track/606P7BzQuVQ2C0rnG7u66E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 140735,
-      "name": "HOUSE OF LUX",
-      "url": "https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo"
     },
     {
       "added_at": null,
@@ -367,18 +367,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "24:7",
-        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
+        "name": "PORTATE BIEN",
+        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
       },
       "artists": [
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 181511,
-      "name": "24:7",
-      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
+      "duration_ms": 205565,
+      "name": "BALENCIAGA",
+      "url": "https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7"
     },
     {
       "added_at": null,
@@ -403,22 +407,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PORTATE BIEN",
-        "url": "https://open.spotify.com/album/6rADEvi8Fk6ODOJYPYbfrt"
+        "name": "24:7",
+        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
       },
       "artists": [
-        {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 205565,
-      "name": "BALENCIAGA",
-      "url": "https://open.spotify.com/track/7neUFP4lHE6KBnc1saodk7"
+      "duration_ms": 181511,
+      "name": "24:7",
+      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Dos Caras Del Amor",
+        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Dos Caras Del Amor",
-        "url": "https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/5w3mQk0oyXswjY9yNRjawb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love </3",
         "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 229500,
       "name": "Ense\u00f1ame",
       "url": "https://open.spotify.com/track/3I6nXjL30GFmraDrSHqd8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEYENDA",
-        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 239459,
-      "name": "carrusel_eterno_demo.wav",
-      "url": "https://open.spotify.com/track/3scXR1D9lYmQ0Dp8F7IfIm"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
       "duration_ms": 233625,
       "name": "ZAFIRO (feat. Pablo Hurtado)",
       "url": "https://open.spotify.com/track/6taOvxRUBWYuO2n0NUWAyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEYENDA",
+        "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 239459,
+      "name": "carrusel_eterno_demo.wav",
+      "url": "https://open.spotify.com/track/3scXR1D9lYmQ0Dp8F7IfIm"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El 100",
-        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 178100,
-      "name": "El 100",
-      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DLUX",
         "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 228450,
       "name": "DECIR ADIOS \"OYE NARRADOR\" (with Cuco)",
       "url": "https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El 100",
+        "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 178100,
+      "name": "El 100",
+      "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL HOMBRE PERFECTO",
-        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "EL HOMBRE PERFECTO",
-      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perdido En Ti",
         "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192626,
       "name": "La Perfecta",
       "url": "https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL HOMBRE PERFECTO",
+        "url": "https://open.spotify.com/album/3dtc12UnEQCJ4TSU4lRIAW"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "EL HOMBRE PERFECTO",
+      "url": "https://open.spotify.com/track/5DcVcYoTmUnp90GuRCyfDT"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perdido En Ti",
+        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 134894,
       "name": "Amigos Para Qu\u00e9",
       "url": "https://open.spotify.com/track/5KcCiFGD4xEsUBhdglc7Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perdido En Ti",
-        "url": "https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/1HfkiyazS6licNey0lz01N"
     },
     {
       "added_at": null,

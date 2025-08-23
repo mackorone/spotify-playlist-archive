@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 
 > 머릿속은 복잡하지만, 겉으로는 칠 & 쿨해보이고 싶을 때
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,696 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,706 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL1oUQs6d9h.md) - [plain]
 | 45 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
 | 46 | [how u been?](https://open.spotify.com/track/14MljYk21TMPj3cOQ8Rsz6) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [how u been?](https://open.spotify.com/album/3IFf3W3XEgx6uD0Ok6XknE) | 2:34 |
 | 47 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 |
-| 48 | [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 |
-| 49 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
+| 48 | [vulnerable](https://open.spotify.com/track/4MiZmaNIbvO7yY8UltCATD) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 3:18 |
+| 49 | [Heaven](https://open.spotify.com/track/5NQpRUfFQh3jB0guBAkYWu) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:00 |
 | 50 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
 
 Snapshot ID: `AAAAAE5sv9k4BmClDtKZfGMAQANY6nH2`

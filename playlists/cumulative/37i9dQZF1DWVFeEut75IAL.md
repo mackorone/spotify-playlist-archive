@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-184 songs - 11 hr 59 min
+185 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Notturno for Strings and Harp](https://open.spotify.com/track/7nGA1sRfLDWXYb3VPstnZf) | [Arnold Schoenberg](https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [Zürcher Kammerorchester](https://open.spotify.com/artist/33cajGDdkhowQ8hiuEucXM), [Jane Berthe](https://open.spotify.com/artist/54IIxBw0yvR4zHHxE8GG5d) | [Schoenberg: Notturno for Strings and Harp](https://open.spotify.com/album/4rCx7dnAgXhes9ckGrMXA4) | 3:12 | 2021-11-15 |  |
 | [Ocean Sonata For Harp](https://open.spotify.com/track/2BtNSFBVrY9QTSPwGCFJ7N) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Ocean Sonata For Harp](https://open.spotify.com/album/6fCXKF0TxDdjQJjPNvpbw0) | 1:59 | 2024-12-23 |  |
 | [On the Nature of Daylight \- Orchestral Version](https://open.spotify.com/track/0tYuVSs2DqXhtXT4JzDWSt) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lorenz Dangel](https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:36 | 2024-07-23 |  |
+| [Palestrina: Panis angelicus \(Arr\. Diluka for Piano\)](https://open.spotify.com/track/14pcCEXXkbcpIM8e5zgOl1) | [Giovanni Pierluigi da Palestrina](https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem), [Shani Diluka](https://open.spotify.com/artist/3QFnDCL9APB7hCVnSb0a73) | [Palestrina: Panis angelicus](https://open.spotify.com/album/77Pfzeq8dElV1ixLqHQerC) | 2:27 | 2025-08-22 |  |
 | [Passage](https://open.spotify.com/track/4HMf8DnYWNpEbjgvQJFWl6) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Passage](https://open.spotify.com/album/4BdE3Lt7eLlGKR2Fd4S4bv) | 5:12 | 2023-03-31 |  |
 | [Pastorale](https://open.spotify.com/track/2l2G75RpwNntF9VH1x6SPj) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Jean\-Louis Beaumadier](https://open.spotify.com/artist/0bXA9eh1eZ4rgiaotDxA6n), [Jacques Raynaut](https://open.spotify.com/artist/28WRKVbfkAN9ApqUadGZnS) | [Le groupe des six: Œuvres pour flûte et piano](https://open.spotify.com/album/4oWTmOp0pC7ISG6MR4zt78) | 4:06 | 2022-01-26 | 2022-07-09 |
 | [Patterns / Solo \- Pt\. 2 / Faded](https://open.spotify.com/track/6sVnLwq1kcizSsHs0f9VSV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [Nick Barr](https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y), [Max Ruisi](https://open.spotify.com/artist/0UqhmCMWvq49fgnXpO4vZQ), [Zara Hudson\-Kozdoj](https://open.spotify.com/artist/3jgKHHxYf7tw8Y6E61Lygb) | [Patterns / Solo \(Pt\. 2\)](https://open.spotify.com/album/55Il1buLR6Zy2sT5mG3ChS) | 2:51 | 2025-08-08 |  |

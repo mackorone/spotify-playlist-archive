@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWSuZL7uNdVA.md) - [plain]
 
 > The Last Dinner Party au top des meilleurs morceaux rock du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,492 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,448 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

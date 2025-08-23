@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,734 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,724 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 33 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 |
 | 34 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 |
 | 35 | [FaceTime](https://open.spotify.com/track/61E9a3TY4BNTBOuTa5jqJK) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/2N6zGSJKBKGOLMUwxnwx2B) | 2:24 |
-| 36 | [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 |
-| 37 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
+| 36 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 |
+| 37 | [Samma det](https://open.spotify.com/track/3wsLovP5LHvUL4fqqjX0xh) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Samma det](https://open.spotify.com/album/7MKCQPH6Z9o5uSdIlvK0tp) | 2:34 |
 | 38 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 39 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 |
 | 40 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Aooo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,203 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,207 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 36 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
 | 37 | [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 |
 | 38 | [mild days](https://open.spotify.com/track/4EG6dnqnMVABq5CQPUIOAJ) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [mild days](https://open.spotify.com/album/5GYDVu9X4VAMW3f4I4rdKd) | 3:08 |
-| 39 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
-| 40 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
+| 39 | [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 |
+| 40 | [鏡に恋して](https://open.spotify.com/track/1DrDELqHERt3YQ0Q4y5MDK) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [SOME BUDDY](https://open.spotify.com/album/03noS9IVsR6kLzt5PVa9Dn) | 3:35 |
 | 41 | [MAISIE](https://open.spotify.com/track/24JAm9Rp43KfcCJAb3186t) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [MAISIE](https://open.spotify.com/album/2JquzazGAECf177YfAXHNx) | 3:13 |
 | 42 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
 | 43 | [Thirsty days](https://open.spotify.com/track/1eP3KKpNEDafhVKM3X2QIu) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [Thirsty days](https://open.spotify.com/album/5avr2q4yDkxBLv2uaxjN14) | 2:31 |
 | 44 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 |
 | 45 | [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/track/3IYenm1UBvvmEeBUm7tUC5) | [The Dahlia](https://open.spotify.com/artist/5DXnT4SukHYxqDU9sxdM3n) | [SMOKE, SMOKE AND SMOKE](https://open.spotify.com/album/2orG6xhixYSqcjsakCpNXd) | 2:51 |
-| 46 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
-| 47 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
-| 48 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 |
-| 49 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 46 | [ブルーモーション](https://open.spotify.com/track/7sxfPGktYFgla21DiCvMBZ) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ブルーモーション](https://open.spotify.com/album/5KLKpuOrCE8Gfc5Blx1anM) | 3:31 |
+| 47 | [Coming\-of\-age Story](https://open.spotify.com/track/5BiR7CY2Bj4s5CmV7HZdKi) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [悪夢のような1週間](https://open.spotify.com/album/0LnARpfUs0NQ94beJ9jAC9) | 3:34 |
+| 48 | [dedede](https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [dedede](https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI) | 2:55 |
+| 49 | [PLAYER 1](https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Channel U](https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s) | 3:14 |
 | 50 | [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 |
 | 51 | [Ready to Rock](https://open.spotify.com/track/6RmznWIj65w4YPTcfVfmpt) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Ready to Rock](https://open.spotify.com/album/70YvxjBBrnc812iiPAzZ05) | 3:26 |
 | 52 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |

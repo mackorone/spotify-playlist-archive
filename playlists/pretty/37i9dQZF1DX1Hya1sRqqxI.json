@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 645033,
+  "num_followers": 645520,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Hot Chocolate",
         "url": "https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 244920,
       "name": "You Sexy Thing",
       "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1529,22 +1529,6 @@
       "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Red Light Spells Danger",
-      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
-    },
-    {
       "added_at": "2021-03-22 14:18:04",
       "album": {
         "name": "The Singles 1974 - 76",
@@ -1559,6 +1543,22 @@
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Red Light Spells Danger",
+      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 152453,
-      "name": "Lookin' Out My Back Door",
-      "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Cyan",
         "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 204106,
       "name": "Shambala - Single Version",
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "Lookin' Out My Back Door",
+      "url": "https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS"
     },
     {
       "added_at": "2022-08-11 07:51:07",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Go West In the Navy",
         "url": "https://open.spotify.com/album/3iF4amlNW1yd9DoZ9WOD1i"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "The Tears Of A Clown",
-      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Caribou (Remastered 1995)",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -2111,34 +2095,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
-        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
       "artists": [
         {
-          "name": "Santa Esmeralda",
-          "url": "https://open.spotify.com/artist/1QZVO3O03uJ61pX7Heo5qx"
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
         }
       ],
-      "duration_ms": 628546,
-      "name": "Don't Let Me Be Misunderstood",
-      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
-      },
-      "artists": [
-        {
-          "name": "Thelma Houston",
-          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "Don't Leave Me This Way",
-      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2159,18 +2127,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Vehicle",
-        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
       },
       "artists": [
         {
-          "name": "The Ides Of March",
-          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+          "name": "Thelma Houston",
+          "url": "https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Vehicle",
-      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+      "duration_ms": 217733,
+      "name": "Don't Leave Me This Way",
+      "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2191,6 +2159,38 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Vehicle",
+        "url": "https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob"
+      },
+      "artists": [
+        {
+          "name": "The Ides Of March",
+          "url": "https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Vehicle",
+      "url": "https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
+        "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
+      },
+      "artists": [
+        {
+          "name": "Santa Esmeralda",
+          "url": "https://open.spotify.com/artist/1QZVO3O03uJ61pX7Heo5qx"
+        }
+      ],
+      "duration_ms": 628546,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "On The Radio: Greatest Hits Volumes I & II",
         "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
       },
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Ship Ahoy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "I Love The Way You Love",
         "url": "https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Ship Ahoy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "For the Love of Money",
+      "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Cosmo's Factory (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 127493,
-      "name": "Travelin' Band",
-      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3gGHGMqm9zqw0j0UIcRKvE"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 276333,
       "name": "Fire",
       "url": "https://open.spotify.com/track/06xkqQuJzl1ddeK48jG6qa"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Cosmo's Factory (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 127493,
+      "name": "Travelin' Band",
+      "url": "https://open.spotify.com/track/0INUNNYfsp4qr6kJdY46mY"
     }
   ],
   "unique_name": "70s Party",

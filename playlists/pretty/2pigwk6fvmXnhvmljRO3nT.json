@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAIZwdg8dEGLvewQ3dLte8DzXUlUATn",
+  "snapshot_id": "AAAIaqrHQXI1gMJTmLR7j8OPZ5hgkryn",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -50010,6 +50010,14 @@
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
       "duration_ms": 243187,
@@ -129324,7 +129332,7 @@
           "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
         }
       ],
-      "duration_ms": 232768,
+      "duration_ms": 232774,
       "name": "STARRCADE 97",
       "url": "https://open.spotify.com/track/1k3ijIplOaExpmBOjCt914"
     },
@@ -134311,6 +134319,54 @@
       "duration_ms": 144062,
       "name": "Gloaming",
       "url": "https://open.spotify.com/track/6IpA6AJYxYi2rViFWWidXw"
+    },
+    {
+      "added_at": "2025-08-22 20:35:35",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 120891,
+      "name": "Gamma (need the <3)",
+      "url": "https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc"
+    },
+    {
+      "added_at": "2025-08-22 20:35:50",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 82822,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/2zksWgfSYzhTq9YGOBS2HP"
+    },
+    {
+      "added_at": "2025-08-22 20:36:12",
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 186753,
+      "name": "Heavy Metal aka ejecto seato!",
+      "url": "https://open.spotify.com/track/6mxO6T82rU5bfVA6inlfDq"
     }
   ],
   "unique_name": "Purge",

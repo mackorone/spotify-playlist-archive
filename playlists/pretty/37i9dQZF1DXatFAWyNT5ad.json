@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 150111,
+  "num_followers": 150123,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANIUin3fqwtkSTIxKqI0ieWHmxIq",
+  "snapshot_id": "AAAAAD8f93IcndWmcQ/QasUD/sDU397n",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:09",
@@ -257,6 +257,22 @@
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
     },
     {
+      "added_at": "2025-08-22 04:00:13",
+      "album": {
+        "name": "Rock A Bye Baby",
+        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Rock A Bye Baby",
+      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
+    },
+    {
       "added_at": "2025-08-15 04:00:09",
       "album": {
         "name": "RUSH!",
@@ -291,6 +307,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Love Made Me Do It",
+        "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
+      },
+      "artists": [
+        {
+          "name": "Kelsy Karter & The Heroines",
+          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+        }
+      ],
+      "duration_ms": 181393,
+      "name": "Daughter of the Night",
+      "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Say That You Love Me",
         "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
       },
@@ -307,18 +339,18 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Love Made Me Do It",
-        "url": "https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1"
+        "name": "miss sunshine",
+        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
       },
       "artists": [
         {
-          "name": "Kelsy Karter & The Heroines",
-          "url": "https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl"
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
         }
       ],
-      "duration_ms": 181393,
-      "name": "Daughter of the Night",
-      "url": "https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb"
+      "duration_ms": 203187,
+      "name": "miss sunshine",
+      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -339,18 +371,18 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "miss sunshine",
-        "url": "https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc"
+        "name": "THE LONELIEST",
+        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
       },
       "artists": [
         {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 203187,
-      "name": "miss sunshine",
-      "url": "https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE"
+      "duration_ms": 247067,
+      "name": "THE LONELIEST",
+      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -383,22 +415,6 @@
       "duration_ms": 161475,
       "name": "hell of a good time",
       "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "THE LONELIEST",
-        "url": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 247067,
-      "name": "THE LONELIEST",
-      "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -495,22 +511,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Goodbye, Good Riddance",
-        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 159275,
-      "name": "Goodbye, Good Riddance",
-      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -727,6 +743,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
+      },
+      "artists": [
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "I\u2019m a Mess (with YUNGBLUD)",
         "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
       },
@@ -743,22 +775,6 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -811,6 +827,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Cinderella Snapped",
+        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 173103,
+      "name": "Cinderella Snapped",
+      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -831,22 +863,6 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Cinderella Snapped",
-        "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 173103,
-      "name": "Cinderella Snapped",
-      "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -983,22 +999,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "sail away",
-        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
-      },
-      "artists": [
-        {
-          "name": "lovelytheband",
-          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "sail away",
-      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "sail away",
+        "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
+      },
+      "artists": [
+        {
+          "name": "lovelytheband",
+          "url": "https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "sail away",
+      "url": "https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "I'm So Good At Being Alone?",
         "url": "https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 198022,
       "name": "Not The 1975",
       "url": "https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "29",
-        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 163027,
-      "name": "29",
-      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1079,6 +1079,22 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "29",
+        "url": "https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 163027,
+      "name": "29",
+      "url": "https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Yours (feat. Bea Miller)",
         "url": "https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ"
       },
@@ -1211,6 +1211,22 @@
       "duration_ms": 177188,
       "name": "Yours (feat. Bea Miller)",
       "url": "https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 165799,
-      "name": "Bitter Sweet Love",
-      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "JUMP!",
         "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 194928,
       "name": "JUMP!",
       "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Shallow",
-        "url": "https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 203033,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "diamonds on your dagger",
         "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 201710,
       "name": "diamonds on your dagger",
       "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/3pG0tymPYF4XegIzM6qqAh"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 203033,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2A0yaDps8KbadUuUEegBYQ"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -1947,22 +1963,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 128696,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "Head in The Clouds",
         "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
       },
@@ -1995,6 +1995,22 @@
       "duration_ms": 184910,
       "name": "ALL CAPS (feat. John the Ghost)",
       "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/0GzQBO3yXjOmFgFCSkon64"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 128696,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/3m00PT6J1B5E0n7eJBRZPg"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2051,6 +2067,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
       },
@@ -2079,22 +2111,6 @@
       "duration_ms": 189101,
       "name": "Mugshot",
       "url": "https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190222,
-      "name": "Giving Up",
-      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2303,22 +2319,6 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Walk This World With Me",
-        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 228372,
-      "name": "Walk This World With Me",
-      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -2355,22 +2355,18 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Nosebleeds: Encore",
-        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
+        "name": "Walk This World With Me",
+        "url": "https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Vultures (feat. PVRIS)",
-      "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
+      "duration_ms": 228372,
+      "name": "Walk This World With Me",
+      "url": "https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2391,6 +2387,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
+        "name": "Big City Thing",
+        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
+      },
+      "artists": [
+        {
+          "name": "The Scarlet Opera",
+          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+        }
+      ],
+      "duration_ms": 203667,
+      "name": "Big City Thing",
+      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
+    },
+    {
+      "added_at": "2025-08-15 04:00:09",
+      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -2407,18 +2419,22 @@
     {
       "added_at": "2025-08-15 04:00:09",
       "album": {
-        "name": "Big City Thing",
-        "url": "https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn"
+        "name": "Nosebleeds: Encore",
+        "url": "https://open.spotify.com/album/19BoWVjerUhTZXmTlVGCoJ"
       },
       "artists": [
         {
-          "name": "The Scarlet Opera",
-          "url": "https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        },
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 203667,
-      "name": "Big City Thing",
-      "url": "https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd"
+      "duration_ms": 178333,
+      "name": "Vultures (feat. PVRIS)",
+      "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"
     },
     {
       "added_at": "2025-08-15 04:00:09",
@@ -2539,22 +2555,6 @@
       "duration_ms": 169750,
       "name": "Mona Lisa On A Mattress",
       "url": "https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV"
-    },
-    {
-      "added_at": "2025-08-15 04:00:09",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU"
-      },
-      "artists": [
-        {
-          "name": "The Wrecks",
-          "url": "https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34"
-        }
-      ],
-      "duration_ms": 200210,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV"
     }
   ],
   "unique_name": "Pop Rock",

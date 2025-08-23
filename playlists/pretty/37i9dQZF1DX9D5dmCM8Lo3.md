@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,261 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,331 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 30 | [Load/Save Game](https://open.spotify.com/track/3wGXBAh3LV2qw334Zvxxra) | [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Rainbow](https://open.spotify.com/album/5rlKNDzXWQwJumhrjnGLNR) | 2:20 |
 | 31 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
 | 32 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
-| 33 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
-| 34 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 33 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 34 | [Blackbird](https://open.spotify.com/track/1wc2mgAKMZuicbXCPh163c) | [Zock](https://open.spotify.com/artist/6KSnLGkppa7QiXeGoD56YP) | [Blackbird](https://open.spotify.com/album/3R9nYmuuHJx26TjoPIsasc) | 1:36 |
 | 35 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
 | 36 | [ultra](https://open.spotify.com/track/60aMDjOxTTjf3UJp1SElQd) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [ultra](https://open.spotify.com/album/6PBMIPRU5YjTjQdlcHdssk) | 1:24 |
 | 37 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |

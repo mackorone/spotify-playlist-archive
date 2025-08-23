@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 202753,
+  "num_followers": 202771,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACDornZozqCPMg/ymF6IkPy",
+  "snapshot_id": "aKZhgAAAAAAXAhN/QF64iSDC+d6U4g+x",
   "tracks": [
     {
       "added_at": null,
@@ -279,22 +279,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "Willie Nelson The Collection",
+        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
       },
       "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 50721,
-      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
-      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
+      "duration_ms": 154360,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
     },
     {
       "added_at": null,
@@ -331,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Willie Nelson The Collection",
-        "url": "https://open.spotify.com/album/4QQfWSR8uMbTye3EjCAea2"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
         {
           "name": "Willie Nelson",
           "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 154360,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/2GyH5rvdnfkjzsTFaWrrov"
+      "duration_ms": 50721,
+      "name": "SMOKE HOUR \u2605 WILLIE NELSON",
+      "url": "https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce"
     },
     {
       "added_at": null,
@@ -487,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "California Sober (feat. Willie Nelson)",
-        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 230033,
-      "name": "California Sober (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 198133,
       "name": "(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/3ST1SVHTxxiGodhUeASN3h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life On A Rock",
         "url": "https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 203746,
       "name": "Coconut Tree (with Willie Nelson) (with Willie Nelson)",
       "url": "https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 213440,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": null,
@@ -1115,26 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva Tu",
-        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 125379,
-      "name": "Heaven's Bad Day",
-      "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Country Boy Can Survive (Box Set)",
         "url": "https://open.spotify.com/album/2mUqVFSr5l4W2Hpm8t3Gfm"
       },
@@ -1175,6 +1155,26 @@
       "duration_ms": 148293,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/166Dyvfibu4SOygA4vub85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva Tu",
+        "url": "https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 125379,
+      "name": "Heaven's Bad Day",
+      "url": "https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD"
     },
     {
       "added_at": null,

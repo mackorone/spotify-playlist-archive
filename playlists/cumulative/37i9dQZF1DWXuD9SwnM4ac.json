@@ -11843,6 +11843,24 @@
     },
     {
       "album": {
+        "name": "Good To Waste",
+        "url": "https://open.spotify.com/album/1ZXlBSRAMpwm6fhOIMXtZ7"
+      },
+      "artists": [
+        {
+          "name": "Freddy Crabs",
+          "url": "https://open.spotify.com/artist/5KoEtVSR2tzPzXz5Nun6OV"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199955,
+      "name": "My Love Dont Treat Me Right",
+      "url": "https://open.spotify.com/track/7vrClE4g89H9OwRtuzW8Ud"
+    },
+    {
+      "album": {
         "name": "MY RELEASE",
         "url": "https://open.spotify.com/album/0D52WbamKzwFj3s3vhBkR8"
       },
@@ -17214,24 +17232,6 @@
       "duration_ms": 196808,
       "name": "Touching and Talking",
       "url": "https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk"
-    },
-    {
-      "album": {
-        "name": "Good To Waste",
-        "url": "https://open.spotify.com/album/1ZXlBSRAMpwm6fhOIMXtZ7"
-      },
-      "artists": [
-        {
-          "name": "Freddy Crabs",
-          "url": "https://open.spotify.com/artist/5KoEtVSR2tzPzXz5Nun6OV"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/7vrClE4g89H9OwRtuzW8Ud"
     },
     {
       "album": {

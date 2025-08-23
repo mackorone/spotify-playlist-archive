@@ -4,7 +4,7 @@
 
 > lighters up.
 
-167 songs - 11 hr 29 min
+168 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Broken](https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi) | 4:18 | 2022-07-22 | 2024-04-19 |
 | [Broken](https://open.spotify.com/track/7clkfcLfKBYZRXg0Wo9Vsc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Disclaimer II](https://open.spotify.com/album/24F033DfwAvs1SqmUSn4y8) | 4:18 | 2022-10-07 | 2022-11-14 |
 | [Broken](https://open.spotify.com/track/5lzXML8WVfoQeUvEVakaHx) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Amy Lee](https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk) | [Seether: 2002\-2013](https://open.spotify.com/album/5xzZCLPg7UiMeaojIMDonl) | 4:18 | 2021-06-03 |  |
-| [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2021-06-03 |  |
+| [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 | 2021-06-03 | 2025-08-23 |
 | [Call Me](https://open.spotify.com/track/2nBWxgSZ79w9l6t2rUg6pl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 | 2021-06-03 |  |
 | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5eZVBnHekzKt790vYQeBDH) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/album/2gNks1RYLTStziHLRWewFY) | 3:14 | 2023-10-20 |  |
 | [Darlin'](https://open.spotify.com/track/1sfdLryuujVNx5v3SqDIh8) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Darlin’](https://open.spotify.com/album/7rK95dGqm7hOseBp2PU04g) | 4:59 | 2021-06-03 | 2022-07-29 |
@@ -39,6 +39,7 @@
 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 | 2022-07-22 | 2023-07-15 |
 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 | 2021-10-31 |  |
 | [Don't Tell Me \(feat\. Ann Wilson\)](https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Ann Wilson](https://open.spotify.com/artist/4lPDIYPFDs5gpcToUczJDs) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 4:31 | 2024-03-06 |  |
+| [Don't Wanna Go Home Tonight](https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Alienation](https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk) | 3:31 | 2025-08-22 |  |
 | [Doomsday \- Piano Reprise](https://open.spotify.com/track/2pHSfJPAYaSEvVBLBtp8R6) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Doomsday \(Piano Reprise\)](https://open.spotify.com/album/2fh1FZTm4vq2IH688r4f4N) | 4:05 | 2021-06-03 | 2022-07-29 |
 | [Doomsday \- Piano Reprise](https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Doomsday \(Piano Reprise\)](https://open.spotify.com/album/3qugOscI33flKHeUONCfLh) | 4:05 | 2022-07-22 | 2023-01-21 |
 | [Drowning \(Face Down\)](https://open.spotify.com/track/0P0rnpupoEnxJojWHGtn0a) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:55 | 2021-06-03 |  |

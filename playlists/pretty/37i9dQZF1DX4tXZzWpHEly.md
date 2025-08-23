@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,331 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,354 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 8 | [Day Drunk](https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:14 |
 | 9 | [True Blue](https://open.spotify.com/track/2MGZFL6kqsXxXojlm64BUn) | [John Williamson](https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf) | [Old Man Emu](https://open.spotify.com/album/39Uimqur7UcRay3BIZbj0b) | 4:05 |
 | 10 | [Not Pretty Enough](https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:19 |
-| 11 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
+| 11 | [Banks Of The Ohio](https://open.spotify.com/track/6ZS881EDqCJuLpCPFrAvjK) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:19 |
 | 12 | [The Outback Club \- Remastered 2017](https://open.spotify.com/track/2c5kAeXAQmgb97baBdtLqI) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:23 |
 | 13 | [Duncan](https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:35 |
 | 14 | [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 |
 | 15 | [The Captain](https://open.spotify.com/track/1njWYdD28YORBUTF6vshxc) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:32 |
-| 16 | [Banks Of The Ohio](https://open.spotify.com/track/6ZS881EDqCJuLpCPFrAvjK) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:19 |
+| 16 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
 | 17 | [She's My Ute \- Remastered 2017](https://open.spotify.com/track/5Qi0HBS6QTQGr7RgEb4iDe) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:42 |
 | 18 | [Lights On The Hill \- Remastered 1992](https://open.spotify.com/track/2cIKLkNyXliGa1we1FOOJn) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 3:04 |
 | 19 | [Young Again](https://open.spotify.com/track/5KClAAep73NVj6DYpLkvRA) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 2:55 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu?si=OYztKxMcTRakkpkNEB9tjw"> Kenji</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=2DiYZCTNTL62Z9jXR0epyg"> Nali</a>\. Updates every Wednesday.
 
 3,518 songs - 7 day 9 hr 49 min
 
@@ -263,7 +263,7 @@
 | [Back In Time](https://open.spotify.com/track/6F7Fm3rwncbAkK76L3OnYF) | [Treyfromnextdoor](https://open.spotify.com/artist/56w4SAwcbNpdLqKwF9FVBw), [Shade Jenifer](https://open.spotify.com/artist/0H4RQd6VmuhhYVIDYUhjDy) | [Back In Time](https://open.spotify.com/album/7ooQS7k1rZDDhjY4gZaSDS) | 2:23 | 2023-03-17 | 2023-08-04 |
 | [Back of the Cab](https://open.spotify.com/track/7taVERr9AWEswc37NzIhMI) | [Nyah Grace](https://open.spotify.com/artist/1WfCU4DPKY0jvcqEWU34UK) | [Divinely Devoted](https://open.spotify.com/album/6bdTxUObzSibIFRGAAsWRJ) | 3:18 | 2025-06-20 |  |
 | [Back of Your Mind](https://open.spotify.com/track/6EscvaMH8XfooW9I8wAiJr) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Back of Your Mind](https://open.spotify.com/album/7Lshgmk0bGA0HYKX0eMctA) | 3:12 | 2025-04-19 |  |
-| [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:08 | 2025-08-15 |  |
+| [Back Outside](https://open.spotify.com/track/5f9kF5QsT7XOv5TLRza1zJ) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Back Outside](https://open.spotify.com/album/1uhm8KeAsEylvJfNVq9mo8) | 3:06 | 2025-08-15 |  |
 | [Back There](https://open.spotify.com/track/5oHo5ixELIep3usDd3yAtO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [Dornik](https://open.spotify.com/artist/5LfhZDNwFPdXrVhlESBE7S) | [Radiant](https://open.spotify.com/album/3u6FiAgC5VFuOxPPdsoDow) | 2:55 | 2024-04-10 | 2024-07-20 |
 | [Back to Heaven](https://open.spotify.com/track/6apGRpEikdFrFB3q9N19UU) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Back to Heaven](https://open.spotify.com/album/2hPFEV3hqWKiVq8tJ8VaDC) | 2:15 | 2025-03-03 | 2025-07-26 |
 | [Back to Me](https://open.spotify.com/track/6nrx4f7vC8gPwNWTHADD5v) | [Kaisha](https://open.spotify.com/artist/7pz3rYu86PfExk8qn0o6Oe) | [Nine Yards](https://open.spotify.com/album/08F93SvkjvGixAfVSTgcJ6) | 3:40 | 2023-03-31 | 2023-08-04 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > Songwriters and their stories ✨ Kingfishr on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,137 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,134 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [21](https://open.spotify.com/track/42G2iOzg2XJ1AGixhNV6cE) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Halcyon](https://open.spotify.com/album/6qozXyj0x4k9gvSuKm6Jlq) | 2:59 |
 | 2 | [Where Were You](https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U) | [Vicky Sometani](https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt) | [Where Were You](https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs) | 3:25 |
-| 3 | [Track 1](https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Bigger Picture](https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT) | 0:00 |
+| 3 | [Glorious World](https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Bigger Picture](https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT) | 4:04 |
 | 4 | [We're Onto Something \(feat\. Zach Bryan\)](https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx), [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [We're Onto Something \(feat\. Zach Bryan\)](https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4) | 3:42 |
 | 5 | [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 |
-| 6 | [Track 8](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 0:00 |
+| 6 | [Beautiful Girl](https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [There, I Said It](https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3) | 3:21 |
 | 7 | [Lose Lose](https://open.spotify.com/track/4QCtIQUKi2wshceTwLN9PI) | [Aaron Rowe](https://open.spotify.com/artist/1wskVZXoUsbxB5mBhR9Oke) | [Lose Lose](https://open.spotify.com/album/26JxGsEkt4JpXsHn9Vsj3Q) | 3:37 |
 | 8 | [Mr\. Eclectic](https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:35 |
 | 9 | [Ten Lifetimes](https://open.spotify.com/track/0sYVuKnsIBXThImQbMBh34) | [Ethan Hodges](https://open.spotify.com/artist/2MJuujOU75c34aWr7TZsGD) | [Ten Lifetimes](https://open.spotify.com/album/3AiPs1gZPYlIdNZqm2LZ6W) | 3:28 |

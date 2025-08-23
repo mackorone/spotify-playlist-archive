@@ -4,7 +4,7 @@
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 裘德 \(Jude Chiu\)
 
-2,860 songs - 6 day 22 hr 57 min
+2,861 songs - 6 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1004,6 +1004,7 @@
 | [人間動物園](https://open.spotify.com/track/0MJYZSyKWHFoCjpfyFSHjP) | [Jonsom Lee](https://open.spotify.com/artist/7D922kvb7JKuCWJNrmo72i) | [人間動物園](https://open.spotify.com/album/509bMhqv6Wp6j1GiottHHu) | 4:56 | 2024-07-11 | 2024-07-19 |
 | [人青（劇集《拜六禮拜》插曲）](https://open.spotify.com/track/4PWtvbrqC60b3w3D2liYWF) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [人青（劇集《拜六禮拜》插曲）](https://open.spotify.com/album/5OhcBZpw5kEEap0E93jUGS) | 3:58 | 2025-07-10 | 2025-08-01 |
 | [人魚](https://open.spotify.com/track/26FLc13ZEHmojKQdzhDKPn) | [烏流](https://open.spotify.com/artist/2jyPtGFcFyVwoWcNmZaBia) | [烏流](https://open.spotify.com/album/4WsX1xCBUhUHC4o2W67rIa) | 3:14 | 2025-05-01 | 2025-05-16 |
+| [亻厓 行个路](https://open.spotify.com/track/0xGvR7ayNnMeouh7y8uwcF) | [RIBINGU](https://open.spotify.com/artist/4Ea8yy2Fu3LpKeI865UWPI) | [亻厓 行个路](https://open.spotify.com/album/2o60evFPWahnnZo4I3PuyR) | 3:09 | 2025-08-22 |  |
 | [什麼毛病](https://open.spotify.com/track/2B4G39WAEN4fQsSoBizeXy) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH) | [什麼毛病](https://open.spotify.com/album/2aEJou94xUJ3G0r9ZYih2i) | 2:56 | 2025-06-26 | 2025-07-11 |
 | [今仔日的天氣哪會遮熱](https://open.spotify.com/track/1ZYmaucuIi41sysEIBEvKq) | [余佩真](https://open.spotify.com/artist/6DHgvg8leMhBE7itUz8LgN) | [今仔日的天氣哪會遮熱](https://open.spotify.com/album/7Kg1ctzHl2yKJyD2JBm0jv) | 3:34 | 2025-06-26 | 2025-07-11 |
 | [今夏以後](https://open.spotify.com/track/7M2b899iWsv3f4eBE0hfYP) | [鄭亞弦Lolli](https://open.spotify.com/artist/16ELgOyr8S1hXUTGA8MB9y) | [隔壁包廂603](https://open.spotify.com/album/3dakfFc4Tg4Drft1hDIpFf) | 4:18 | 2024-10-03 | 2024-11-29 |
@@ -1344,7 +1345,7 @@
 | [垃圾鬼](https://open.spotify.com/track/1ZTwUpSrn6UK0HABDQ16HU) | [芮鯊 RapShark](https://open.spotify.com/artist/7AE76qHA80HDxXfqGCKbJZ) | [垃圾鬼](https://open.spotify.com/album/63b8MbeKbKBpzgGcDbHmNy) | 2:54 | 2024-10-10 | 2024-11-01 |
 | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/track/0uPTAbTiu5swm1QlwUWEnj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [埋（《Recall：Empty Wishes 空願》遊戲主題曲）](https://open.spotify.com/album/3wjO4kP1WKLlFkBEe70A1h) | 3:48 | 2024-06-27 | 2024-07-12 |
 | [基礎憂鬱 \- Live](https://open.spotify.com/track/5v7eTSNH50eYJPYbIj3vpp) | [wannasleep](https://open.spotify.com/artist/1Qe4VNycDbzI2unKKDtQ0x), [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [睡好2025 \(Live\)](https://open.spotify.com/album/1wdT6evX63UD0UISHuS0rd) | 4:53 | 2025-05-15 | 2025-05-30 |
-| [基隆路二段](https://open.spotify.com/track/4EbvpKA9z8TWSamgJ1vuUE) | [PiA](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [基隆路二段](https://open.spotify.com/album/6v6Pk9Yr10KLXZOvRzOzWa) | 4:47 | 2025-08-14 |  |
+| [基隆路二段](https://open.spotify.com/track/4EbvpKA9z8TWSamgJ1vuUE) | [PiA吳蓓雅](https://open.spotify.com/artist/1icD6XHYvJ381imDgXexLD) | [基隆路二段](https://open.spotify.com/album/6v6Pk9Yr10KLXZOvRzOzWa) | 4:47 | 2025-08-14 |  |
 | [塑膠翅膀](https://open.spotify.com/track/5Qq56jkhrfaCWmiEyfNoHO) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [Good Enough](https://open.spotify.com/album/2Abirr61TubwCkRRgmRQpr) | 4:12 | 2024-09-26 | 2024-10-25 |
 | [墟 Ashes](https://open.spotify.com/track/02TLgNh7q2KkhN9b7TtPwB) | [SONNIE 桑尼](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [U Make Me SONNIE](https://open.spotify.com/album/4dCBaTZ553lRteVWRH032A) | 4:16 | 2024-10-31 | 2024-11-22 |
 | [壁紙是你揀的](https://open.spotify.com/track/1uGBe7n7caad2CAyOpA5jw) | [NANA](https://open.spotify.com/artist/55xE2cp7ka3MoZ1i9Vdg2q) | [壁紙是你揀的](https://open.spotify.com/album/66rD6gGLrH3a6St898CY7T) | 3:30 | 2025-08-21 |  |
@@ -1721,7 +1722,7 @@
 | [我们不都还是人](https://open.spotify.com/track/1L2ojMpzFSEJQ2MQrsvvVp) | [Eevone](https://open.spotify.com/artist/5NJJStMLtyc5gj5ZvyBIAN) | [我们不都还是人](https://open.spotify.com/album/2KzECSyK8EpzxBvtA0VMuO) | 3:20 | 2024-08-29 | 2024-09-20 |
 | [我來過](https://open.spotify.com/track/31zS65d6ECdSGkD8BHmEik) | [Waven](https://open.spotify.com/artist/2D0JXq5q1JaPwd68uiMFl0), [emut](https://open.spotify.com/artist/2DRHrS8ow8oqwMKFfyC1wZ) | [我來過](https://open.spotify.com/album/42bSOJaud3JMwH0TluBnLV) | 3:41 | 2025-02-06 | 2025-03-07 |
 | [我們不應該](https://open.spotify.com/track/49dQuTKnrsf0f8LSxUP29J) | [Sana Yu](https://open.spotify.com/artist/2YfxlWDLYLUCbLYpnnGoof) | [我們不應該](https://open.spotify.com/album/4VuKrERDO84Gt7TFzuzWv1) | 4:16 | 2025-05-15 | 2025-05-23 |
-| [我們不要躲雨了](https://open.spotify.com/track/482IhYjl37yV1v9jnLKovu) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [我們不要躲雨了](https://open.spotify.com/album/74HRnLP5sZRNdd7N8nbidx) | 4:21 | 2025-08-21 |  |
+| [我們不要躲雨了](https://open.spotify.com/track/482IhYjl37yV1v9jnLKovu) | [Jude Chiu](https://open.spotify.com/artist/0RFpGSVvrZOh43m5WdZn8T) | [我們不要躲雨了](https://open.spotify.com/album/74HRnLP5sZRNdd7N8nbidx) | 4:20 | 2025-08-21 |  |
 | [我們不需要忍耐](https://open.spotify.com/track/0Kyb5gqigj373Euk3Na5hC) | [Traveller旅人](https://open.spotify.com/artist/1FZr7h9QbCHWkWsMm6pYH9) | [殘破的人生](https://open.spotify.com/album/7zOfvCjGnY095hNlSjr5zt) | 4:08 | 2024-07-11 | 2024-08-02 |
 | [我們之間沒有愛了吧](https://open.spotify.com/track/31IIw4oon1e2k8WISal6gM) | [蛋蛋EGgskriiXX](https://open.spotify.com/artist/0p5VtjGvBI3po0JgVU68Tk), [GEKYUMENOSAD‪](https://open.spotify.com/artist/5ZQlTOFLvfRFfHHR4aFlWF) | [我們之間沒有愛了吧](https://open.spotify.com/album/2jaTgNq1DpIUc4s5FmGGhz) | 2:41 | 2024-07-18 | 2024-07-27 |
 | [我們什麼都不是… but we are everything](https://open.spotify.com/track/2z77ixdBzvWnr8v1lToKh3) | [馬天佑](https://open.spotify.com/artist/3snzyW7XBu9Ox2VKzAkOLG), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [我們什麼都不是… but we are everything](https://open.spotify.com/album/6bJpLRn2rGukRZgBS77biW) | 3:58 | 2025-05-29 | 2025-06-27 |

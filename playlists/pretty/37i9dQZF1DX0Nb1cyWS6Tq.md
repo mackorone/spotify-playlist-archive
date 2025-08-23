@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release the bats..\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,548 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,718 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 19 | [Black No\. 1 \(Little Miss Scare \-All\)](https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 11:15 |
 | 20 | [The Lovecats](https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:40 |
 | 21 | [Танцевать](https://open.spotify.com/track/782VcXkRqyevFaJlcoIIEz) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 3:22 |
-| 22 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
-| 23 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
+| 22 | [Helena](https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Famous Monsters](https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE) | 3:19 |
+| 23 | [Lucretia My Reflection \- Vinyl Version](https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs) | [Sisters of Mercy](https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR) | [Floodland](https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc) | 4:55 |
 | 24 | [Christian Woman](https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses \(Top Shelf Edition\)](https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG) | 8:58 |
 | 25 | [Vampyres](https://open.spotify.com/track/64eMRy4wA7f5guLIS2VL52) | [Inkubus Sukkubus](https://open.spotify.com/artist/5TcSmqbuyYcyn396CFLwPr) | [Belladonna & Aconite 2011 Digital Remaster](https://open.spotify.com/album/4zcd6nEpQl5o7rKleGQHcB) | 3:40 |
 | 26 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 77 | [Adrenaline](https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw) | [Rosetta Stone](https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK) | [Adrenaline](https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4) | 3:40 |
 | 78 | [Flowers In Our Hair](https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S) | [All About Eve](https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR) | [All About Eve](https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki) | 4:25 |
 | 79 | [A Failure](https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l) | [Lycia](https://open.spotify.com/artist/6D2FZCqwDafnI49jrFYROE) | [In Flickers](https://open.spotify.com/album/3bBAVkxSwk1ZzNH1873nUI) | 4:57 |
-| 80 | [Astrónomo Insumiso](https://open.spotify.com/track/4jAvNrbowuSgqta1xr3Crc) | [Equinoxious](https://open.spotify.com/artist/7lCXpzIudWHsKQ6PMGECaZ) | [Cosmódromo](https://open.spotify.com/album/2oxzZvPi4tKqFj6rh3FfTC) | 4:45 |
+| 80 | [North, South, East and West](https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:49 |
 
 Snapshot ID: `AAAAAKgEHUSP0Y9n1KhVD2w8p0n3a/H8`

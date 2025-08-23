@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,486 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,366 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 21 | [Hard Time](https://open.spotify.com/track/3gFS9CKU70Wm7vAoA0O1uW) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Pretend](https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz) | 3:29 |
 | 22 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
 | 23 | [Break My Baby](https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Want More / Break My Baby](https://open.spotify.com/album/0zohDZP7J5cZe6cN5jjIaY) | 4:25 |
-| 24 | [Half of Me](https://open.spotify.com/track/3zyDQeTrptB1etZyRCpOLX) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:33 |
-| 25 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
+| 24 | [You Needed Love, I Needed You](https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:25 |
+| 25 | [Half of Me](https://open.spotify.com/track/3zyDQeTrptB1etZyRCpOLX) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:33 |
 | 26 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
 | 27 | [Billie Holiday](https://open.spotify.com/track/3JCFw3L2g1NsSjbnjR869j) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool \(Deluxe\)](https://open.spotify.com/album/3vNQPnY0Dv8fyyN3gHBmBh) | 6:45 |
 | 28 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 47 | [Burnt Sage](https://open.spotify.com/track/3NX56nHlZ4TwoZzaUW0dgz) | [Le Siren](https://open.spotify.com/artist/2S3JqbYUGXlM10ljtBH1wC) | [Take Care of Yourself](https://open.spotify.com/album/1ga17JiadIfEdU2atHyimo) | 2:37 |
 | 48 | [Torture](https://open.spotify.com/track/55QFFGguYCPpOXQveiaEPA) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Torture](https://open.spotify.com/album/4YINaOhKmkGdBsrod5ipfN) | 3:02 |
 | 49 | [Forget \- Live from Spotify, NYC](https://open.spotify.com/track/1gpyfbutOl79qgVjMrZQOe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Spotify Sessions](https://open.spotify.com/album/6YYarhAfY1nBoYsDichIts) | 4:38 |
-| 50 | [Too Repressed \- Explicit](https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx) | [Sometymes Why](https://open.spotify.com/artist/3fV5kUgVNIf2EvxVYo9QlU) | [Sometimes Why](https://open.spotify.com/album/1q5M6eQC435yDlj5WQlD5Q) | 5:57 |
+| 50 | [Til It Breaks](https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Til It Breaks](https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC) | 3:21 |
 
 Snapshot ID: `AAAAAEIi5GcyYPjTLHrAjy79ABkw0jZA`

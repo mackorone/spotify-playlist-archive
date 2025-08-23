@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,908 likes - 100 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,910 likes - 100 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 31 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
 | 32 | [I'll Cut You Down](https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 5:01 |
 | 33 | [Elk.Blood.Heart](https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Our Mother Electricity](https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg) | 5:52 |
-| 34 | [Supersoul](https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [In the tail of a comet](https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA) | 2:42 |
-| 35 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
+| 34 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
+| 35 | [Supersoul](https://open.spotify.com/track/1kqEeFbUyuaMSI27hzW6K4) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [In the tail of a comet](https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA) | 2:42 |
 | 36 | [The Last Leaf](https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0) | [Monolord](https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm) | [No Comfort](https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0) | 5:14 |
 | 37 | [The Fox](https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 2:38 |
 | 38 | [Aquamaria](https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [Tempel](https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5) | 8:46 |

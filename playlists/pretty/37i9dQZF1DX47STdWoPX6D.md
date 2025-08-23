@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 ### [The Blaze](https://open.spotify.com/playlist/37i9dQZF1DX47STdWoPX6D)
 
-> The latest and the greatest of CHH!  Cover: Futuristic
+> The latest and the greatest of CHH!  Cover: Aaron Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,018 likes - 117 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,034 likes - 117 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 116 | [DASHBOARD!](https://open.spotify.com/track/4s10ZDSaKTPuvIcs7ZG9E9) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [DASHBOARD!](https://open.spotify.com/album/054Zi97U3a6pjAyoJButRK) | 1:38 |
 | 117 | [Lace Up Your Boots \- Rap Remix](https://open.spotify.com/track/0tJWZL35YGD3Bc9kqjmGh3) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [Lace Up Your Boots \(Rap Remix\)](https://open.spotify.com/album/1yxz7cO02DiwdXtFyBSQSg) | 2:02 |
 
-Snapshot ID: `AAAAAFh+/yi5Bk2lK0GzbRNPtGHNMcbR`
+Snapshot ID: `AAAAAA26edXdNsN7m/MTIRYpZnqeRZa4`

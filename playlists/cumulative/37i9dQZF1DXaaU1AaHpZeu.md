@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina, con Espiritu System en portada.
 
-6,384 songs - 14 day 15 hr 6 min
+6,386 songs - 14 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2044,6 +2044,7 @@
 | [es caprichoso el azar](https://open.spotify.com/track/2Uunn684ajXS2E7Q9efp6e) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [tío pepe](https://open.spotify.com/artist/2RZ0SqMMzsDKZBwUW4ygWA) | [es caprichoso el azar](https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr) | 2:57 | 2022-12-23 | 2023-01-21 |
 | [Es Hora](https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Sean Felices](https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6) | 3:21 | 2024-10-11 | 2024-10-26 |
 | [es pero no es](https://open.spotify.com/track/5l7eIzzjHMJ6VA90uTyqHD) | [Amber Grimbo](https://open.spotify.com/artist/3nNchukv6BBRwhevFeQuFa) | [es pero no es](https://open.spotify.com/album/3Qe6ofy9hevBsupTOISoXz) | 3:13 | 2025-04-25 | 2025-05-03 |
+| [Es por Ti](https://open.spotify.com/track/7aivoV6lsu8Xn7aXcsdeTL) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Es por Ti](https://open.spotify.com/album/4hIyIyhVujHn206v3m514w) | 3:18 | 2025-08-21 |  |
 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 | 2023-04-14 | 2023-04-22 |
 | [Es todo un encierro](https://open.spotify.com/track/4F08ggtZHwrGwUUEUxWLA6) | [airu](https://open.spotify.com/artist/47IHD6RxxZW56J4RazegM2) | [Es todo un encierro](https://open.spotify.com/album/7gbXJMSkHBbkk5dNDQFHg3) | 2:52 | 2023-04-14 | 2023-04-22 |
 | [Es tu alma](https://open.spotify.com/track/6TwargPfBd0wiiLffNQzAE) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe) | [Es tu alma](https://open.spotify.com/album/3czr2d0vzotyKIKEhpmhvx) | 2:32 | 2022-09-09 | 2022-09-17 |
@@ -3364,6 +3365,7 @@
 | [MALDIGO](https://open.spotify.com/track/7dJ6Klj1hSi185Jj256Mec) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr) | [ESTO ES UNA LOCURA](https://open.spotify.com/album/1kfg6G5CWjHixeP4YoSk1A) | 4:12 | 2022-09-16 | 2022-09-24 |
 | [Maldita Actitud](https://open.spotify.com/track/5JB1a5AXqZwDRBWH6NPJhN) | [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [Maldita Actitud](https://open.spotify.com/album/4cNOmK00U8CLa0iOTaP2Cf) | 3:03 | 2022-09-09 | 2022-09-17 |
 | [Maldita Suerte](https://open.spotify.com/track/70jgpfi8zOx37vLO7zlBvd) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Maldita Suerte](https://open.spotify.com/album/0hEM8LjaBkGI7gCg4NxRPH) | 3:05 | 2024-09-20 | 2024-09-28 |
+| [maldito enamorado](https://open.spotify.com/track/6dwcAKaMaUEQcO7csjY9wb) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [maldito enamorado](https://open.spotify.com/album/1K0k22xCAcOIznjUxfwKhY) | 2:14 | 2025-08-21 |  |
 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 | 2025-05-23 | 2025-06-07 |
 | [Malicia](https://open.spotify.com/track/5ylsvgN3rSWBU6PnyRbfIs) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [Malicia](https://open.spotify.com/album/35LXS0jbbnya85SBWrWdwj) | 2:57 | 2024-05-31 | 2024-06-15 |
 | [MALONA](https://open.spotify.com/track/4pwbCOjyz62GpHI2UwkUOw) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [MALONA](https://open.spotify.com/album/1BEpXQ1topBEWGB5xkJ9JN) | 2:20 | 2024-04-26 | 2024-05-11 |

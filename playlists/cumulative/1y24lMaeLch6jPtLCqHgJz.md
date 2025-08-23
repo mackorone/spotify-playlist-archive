@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-423 songs - 21 hr 19 min
+424 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Carnaval](https://open.spotify.com/track/1pxLRhExfP8hpQBk4RUVOV) | [Maski & Banga](https://open.spotify.com/artist/36NmS3mln38AYWDoj8CVHN) | [Carnaval](https://open.spotify.com/album/0QMdFZOE9Bawanj03nWryH) | 2:39 | 2024-04-18 | 2024-09-26 |
 | [Carry You](https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Carry You](https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO) | 3:35 | 2024-04-11 | 2024-11-16 |
 | [Catching Fire](https://open.spotify.com/track/0gpJMwZeHBz4TmjWXjax6k) | [J4CKO](https://open.spotify.com/artist/5aang7oD3L1eWq1SCYsMVu), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef) | [Catching Fire](https://open.spotify.com/album/2YvhwThO6T1h7emgR7Mi9Y) | 2:55 | 2022-12-09 | 2023-02-11 |
+| [Chained](https://open.spotify.com/track/4ceruJjAtVIvS2JVaimAta) | [Odssey](https://open.spotify.com/artist/6SXyD2Wy3j0fHmq266QJDS), [Soundwars](https://open.spotify.com/artist/1UJ8zippTrIdAmN3yyaEHw) | [Chained \(The Remixes\) \[Soundwars Remix\]](https://open.spotify.com/album/2k2CKRwmV2CKLtx4HUsloJ) | 3:13 | 2025-08-22 |  |
 | [Champion](https://open.spotify.com/track/50GVy9jKhOOycBJ7gTI12I) | [Mike Bond](https://open.spotify.com/artist/4yroY1dUWxiROWLei7Mude), [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc) | [Champion](https://open.spotify.com/album/3aDsky9uABrOWVmjgwLfAb) | 2:18 | 2024-04-04 | 2024-11-30 |
 | [Chase The Sun](https://open.spotify.com/track/18vGqlZqxpAwlepFrqIkOG) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Chase The Sun](https://open.spotify.com/album/4sm3DeCmr4ppnUnxdRtJEG) | 3:03 | 2022-07-29 | 2023-09-09 |
 | [Chasing Bliss](https://open.spotify.com/track/2D3aVWaHfXemcFgn9T50AK) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Chasing Bliss](https://open.spotify.com/album/4VvRpBgvISZ3DcSZp4fNqV) | 3:15 | 2022-07-29 | 2022-10-08 |

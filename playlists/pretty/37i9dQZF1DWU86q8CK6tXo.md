@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Noah Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,073 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,079 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 17 | [Real Thing](https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Real Thing](https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv) | 3:25 |
 | 18 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 |
 | 19 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 |
-| 20 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
-| 21 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
-| 22 | [the hell you are](https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [the hell you are](https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ) | 2:54 |
-| 23 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
-| 24 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 20 | [the hell you are](https://open.spotify.com/track/6E02wi9oGn2EvKiLc2cuMv) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [the hell you are](https://open.spotify.com/album/5yqBQUm3a7jXyfM3OMw5rJ) | 2:54 |
+| 21 | [THE ONE.](https://open.spotify.com/track/3f4evenChyF1t9DCZAlCdS) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [THE ONE.](https://open.spotify.com/album/4qyEBTZQaLFakBjBZQV1Ea) | 3:24 |
+| 22 | [Oh, Anna!](https://open.spotify.com/track/6VyrfS9m8W5TrLBzv0SlrY) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Oh, Anna!](https://open.spotify.com/album/1HWFTOpcSa27GzAzVwGUOB) | 4:06 |
+| 23 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 24 | [Breathe onto me](https://open.spotify.com/track/1TKRTEOlBI30ftNy1kWQCh) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Breathe onto me](https://open.spotify.com/album/5FI4CXyIPIvp34yuBjRn6F) | 3:57 |
 | 25 | [Waymo](https://open.spotify.com/track/0sI1Sx8scXXR3KylkXARzf) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Waymo](https://open.spotify.com/album/24tWMML2bsA27NlVIYafD9) | 3:02 |
 | 26 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 |
 | 27 | [Girl of Your Dreams](https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Girl of Your Dreams](https://open.spotify.com/album/7lH9AcAtACrcYMKC6aLoGA) | 3:09 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 29 | [idgaf era](https://open.spotify.com/track/1QkeDzrWGwDJd8mjQrUeBD) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [idgaf era](https://open.spotify.com/album/3tGoaKWZxgQ1BuGQNi6Ryz) | 2:44 |
 | 30 | [We On Dat](https://open.spotify.com/track/7lZAVKwXTXcxp2RPF1R2U6) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [We On Dat](https://open.spotify.com/album/4dpOOB97KCYfGTu14imfV2) | 2:52 |
 | 31 | [Snakeskin](https://open.spotify.com/track/199g0lSljCpMXZEhNPeX0w) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Snakeskin](https://open.spotify.com/album/3ImHuxZRynM9tilae80YAr) | 2:43 |
-| 32 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
-| 33 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
+| 32 | [Gut Feelings](https://open.spotify.com/track/3ywowXgaDXWyYt9S9w9fXI) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Gut Feelings](https://open.spotify.com/album/4qCCYyhWUZPvHS8XfnQayK) | 3:24 |
+| 33 | [Hotel TV](https://open.spotify.com/track/1hxwdWDVrjlyKRMXqYr6gv) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Hotel TV](https://open.spotify.com/album/0aHSi8fDgyazya4a9KccTn) | 4:37 |
 | 34 | [Sex, Drugs, & Country Music](https://open.spotify.com/track/7FzbROJvb1vzrwnmkK5EC5) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Sex, Drugs, & Country Music](https://open.spotify.com/album/759caALCZeFt6jTB2eKMv8) | 3:37 |
 | 35 | [Rattlesnake Preacher](https://open.spotify.com/track/0SWHS54IqnYyLSYifmhXI7) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Rattlesnake Preacher](https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj) | 3:55 |
 | 36 | [Marlboro Man](https://open.spotify.com/track/6Wzl4TwDZLRDmFmv1KHyp5) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [Marlboro Man](https://open.spotify.com/album/76zkHW7rcIRtQ8h9Cc2YTW) | 3:35 |

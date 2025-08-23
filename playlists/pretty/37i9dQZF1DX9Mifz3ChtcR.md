@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,902 likes - 190 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,964 likes - 190 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mifz3ChtcR.md) - [plain]
 | 67 | [Seaglass](https://open.spotify.com/track/4dmHjWBagrbss7m8vfzOv9) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Seaglass](https://open.spotify.com/album/2F1lwqdVe5XlehZYPLyGbS) | 2:36 |
 | 68 | [As Sky Unfolds](https://open.spotify.com/track/3BqqJWXx5H0PJshDdwc0cX) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX), [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [As Sky Unfolds](https://open.spotify.com/album/7bzd9aU9nPHx439h8dZcy0) | 2:33 |
 | 69 | [Luminous Dream](https://open.spotify.com/track/5C9upZodbEhkz6l1HGqaMB) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Luminous Dream](https://open.spotify.com/album/1hnoul9QkXJ1HWONoKsC9V) | 2:37 |
-| 70 | [Dematerialise](https://open.spotify.com/track/2fQcsr4q4tP5khVylHpk0y) | [Opal Skies](https://open.spotify.com/artist/7Bf5POar9ja7KFM4yeOeXu) | [Dematerialise](https://open.spotify.com/album/1VAkZgzQRifwhqcw3S9zM6) | 3:44 |
+| 70 | [Dematerialise](https://open.spotify.com/track/2fQcsr4q4tP5khVylHpk0y) | [Opal Skies](https://open.spotify.com/artist/0xrdCwjtVAWzIdto3Ww9a7) | [Dematerialise](https://open.spotify.com/album/1VAkZgzQRifwhqcw3S9zM6) | 3:44 |
 | 71 | [When Dreams Come True](https://open.spotify.com/track/2eBbbpIhX9RUpadLxW6O0f) | [Aster alpinus](https://open.spotify.com/artist/5GncNXKJrJiIAEbkWtyTJC) | [When Dreams Come True](https://open.spotify.com/album/3K8dvzs8jd0qbmSgphmRa6) | 2:32 |
 | 72 | [Oscuro](https://open.spotify.com/track/1OY6RiCUDSvHOYMoMks0vP) | [Prodigieux](https://open.spotify.com/artist/6YILY619DfWelHq35w4DRb) | [Oscuro](https://open.spotify.com/album/2z7oYeXSY1lrLmQq7MhwYX) | 2:50 |
 | 73 | [Beyond the Sunset](https://open.spotify.com/track/6skst5G69hmm0SegfHK3h6) | [Viola Aura](https://open.spotify.com/artist/62tzMge45KuVH6CarRyacb) | [Beyond the Sunset](https://open.spotify.com/album/5DoE9xqd55SyKROdRgRRIt) | 3:12 |

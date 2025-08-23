@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1487693,
+  "num_followers": 1487657,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 208192,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "Life in the Wild Garden",
-        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
-      },
-      "artists": [
-        {
-          "name": "Savages",
-          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Viva la Vida",
-      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -695,22 +679,6 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 100747,
-      "name": "NEIGHBORHOOD",
-      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
         "name": "Beats On Boat: Hazy Year",
         "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
       },
@@ -723,6 +691,38 @@
       "duration_ms": 167926,
       "name": "Notes",
       "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "Life in the Wild Garden",
+        "url": "https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb"
+      },
+      "artists": [
+        {
+          "name": "Savages",
+          "url": "https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Viva la Vida",
+      "url": "https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 100747,
+      "name": "NEIGHBORHOOD",
+      "url": "https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
-        }
-      ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
         "name": "Azure",
         "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 139508,
       "name": "Azure",
       "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -847,6 +847,30 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
+        "name": "Hip Shop",
+        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "Hip Shop",
+      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
@@ -879,26 +903,18 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "Hip Shop",
-        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+        "name": "Tender Rose",
+        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
       "artists": [
         {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
-        },
-        {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
         }
       ],
-      "duration_ms": 123008,
-      "name": "Hip Shop",
-      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+      "duration_ms": 202938,
+      "name": "Tender Rose",
+      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -915,22 +931,6 @@
       "duration_ms": 164769,
       "name": "Sinking Ship - Instrumental",
       "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
-        "name": "Tender Rose",
-        "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 202938,
-      "name": "Tender Rose",
-      "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "181's penny candy store #7",
-        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
+        "name": "Cloud9",
+        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
       },
       "artists": [
         {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Win the Lottery",
-      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
+      "duration_ms": 126730,
+      "name": "Cloud9",
+      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1059,22 +1063,38 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
+        "name": "181's penny candy store #7",
+        "url": "https://open.spotify.com/album/2DU5c1qHqSKxAMoZig9SLd"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 162324,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
+      "duration_ms": 186000,
+      "name": "Win the Lottery",
+      "url": "https://open.spotify.com/track/2sGf6pQ73JyfTfSkSLLQfM"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "keep going",
+        "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        },
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "settle down",
+      "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1099,22 +1119,22 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "keep going",
-        "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
       },
       "artists": [
         {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         },
         {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 102000,
-      "name": "settle down",
-      "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
+      "duration_ms": 162324,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1147,26 +1167,6 @@
       "duration_ms": 147200,
       "name": "Faded Curtains",
       "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
-        "name": "Cloud9",
-        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 126730,
-      "name": "Cloud9",
-      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1315,30 +1315,6 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "Warm Flicker (Uevo & Noflik Remix)",
-        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
-      },
-      "artists": [
-        {
-          "name": "rocomoco",
-          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
-        },
-        {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 136774,
-      "name": "Warm Flicker - Uevo & Noflik Remix",
-      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
         "name": "City Strollin'",
         "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
       },
@@ -1363,6 +1339,30 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
+        "name": "Warm Flicker (Uevo & Noflik Remix)",
+        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
+      },
+      "artists": [
+        {
+          "name": "rocomoco",
+          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 136774,
+      "name": "Warm Flicker - Uevo & Noflik Remix",
+      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -1375,6 +1375,22 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "glow",
+        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 249717,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1399,22 +1415,6 @@
       "duration_ms": 165333,
       "name": "Woodstock",
       "url": "https://open.spotify.com/track/26vm8tYfXCHUxK8A3jFgBZ"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
-        "name": "glow",
-        "url": "https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 249717,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj"
     },
     {
       "added_at": "2025-08-20 01:46:33",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2025-08-20 01:46:33",
       "album": {
-        "name": "Busy Bird",
-        "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
-      },
-      "artists": [
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        },
-        {
-          "name": "Mirror Box",
-          "url": "https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F"
-        }
-      ],
-      "duration_ms": 130964,
-      "name": "Busy Bird",
-      "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
-    },
-    {
-      "added_at": "2025-08-20 01:46:33",
-      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
       },
@@ -1495,6 +1475,22 @@
       "duration_ms": 160500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+    },
+    {
+      "added_at": "2025-08-20 01:46:33",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV"
+      },
+      "artists": [
+        {
+          "name": "helistofax",
+          "url": "https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW"
+        }
+      ],
+      "duration_ms": 131350,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS"
     }
   ],
   "unique_name": "Mellow Beats",

@@ -4,7 +4,7 @@
 
 > per spingere come veri gym bro e gym sis
 
-379 songs - 19 hr 59 min
+380 songs - 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Aria](https://open.spotify.com/track/5vFJOD9V4rHgTLWaBRGQ4N) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [New World](https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv) | 3:56 | 2024-08-07 | 2025-07-22 |
 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-09-12 | 2025-07-22 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA) | 2:12 | 2024-08-01 |  |
+| [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 | 2025-08-08 |  |
 | [Auto tedesca](https://open.spotify.com/track/15aJdXtfq3w4ULVTDKQ2VK) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ) | 2:39 | 2022-09-28 | 2023-03-12 |
 | [Auto tedesca](https://open.spotify.com/track/2dTjaUZFpnlohX8oZ5A2sy) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:39 | 2022-09-08 | 2022-10-26 |
 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 | 2024-08-01 | 2024-11-08 |
@@ -168,7 +169,7 @@
 | [Insta Lova](https://open.spotify.com/track/1w91YxaRwTShkKe4apYf3r) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Santeria](https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV) | 3:26 | 2023-09-19 | 2024-08-02 |
 | [It's That Time \- FISHER Remix](https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [It's That Time \(FISHER Remix\)](https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2) | 2:51 | 2024-08-01 | 2025-07-22 |
 | [JANNIK SIPPER](https://open.spotify.com/track/3szKaPYLfIE3wljxdEkMKs) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [JANNIK SIPPER](https://open.spotify.com/album/5cohPWuQYVNPSstPJkV8ty) | 2:10 | 2025-07-14 | 2025-07-22 |
-| [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2024-08-01 |  |
+| [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2024-08-01 | 2025-08-23 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-21 |  |
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-08-07 | 2024-10-25 |
 | [Jungle](https://open.spotify.com/track/5KlQHwczFD9jrAGKxLaG4A) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Jungle](https://open.spotify.com/album/3QRv9ksvfXX8S2XrfXCuRU) | 3:04 | 2022-05-03 | 2022-07-29 |

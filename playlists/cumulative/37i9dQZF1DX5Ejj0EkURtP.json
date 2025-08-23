@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "The biggest songs of the 2010s. Cover: Lady Gaga",
+  "description": "The biggest songs of the 2010s. Cover: Carly Rae Jepsen",
   "name": "All Out 2010s",
   "tracks": [
     {
@@ -4306,7 +4306,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
@@ -12228,6 +12228,24 @@
       "duration_ms": 223266,
       "name": "Rumour Has It",
       "url": "https://open.spotify.com/track/5mFMb5OHI3cN0UjITVztCj"
+    },
+    {
+      "album": {
+        "name": "Emotion (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251327,
+      "name": "Run Away With Me",
+      "url": "https://open.spotify.com/track/0FS7B5o3QyvOD8eWjnbLoO"
     },
     {
       "album": {

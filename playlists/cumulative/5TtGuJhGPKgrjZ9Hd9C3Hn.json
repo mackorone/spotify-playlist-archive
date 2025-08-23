@@ -1545,6 +1545,28 @@
     },
     {
       "album": {
+        "name": "You\u2019re Exaggerating!",
+        "url": "https://open.spotify.com/album/17poWlH7a2OcIv1bTwq0xU"
+      },
+      "artists": [
+        {
+          "name": "Paul Cornish",
+          "url": "https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON"
+        },
+        {
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322720,
+      "name": "Palindrome (feat. Jeff Parker)",
+      "url": "https://open.spotify.com/track/61Iql0ceRGvgkV82ejHjO6"
+    },
+    {
+      "album": {
         "name": "Blowin' The Blues Away",
         "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
       },

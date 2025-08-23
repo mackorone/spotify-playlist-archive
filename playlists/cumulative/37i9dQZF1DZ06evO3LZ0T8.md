@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 23 min
+69 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Bad Decisions](https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:04 | 2022-10-10 |  |
 | [Blink](https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Blink](https://open.spotify.com/album/3K0ZUAJYic8PxlQcyoxqi2) | 2:49 | 2025-07-20 |  |
 | [Body & Soul](https://open.spotify.com/track/0b44DsaZAPjRiC0HNjmwcF) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Body & Soul](https://open.spotify.com/album/3ve6mVulj4imuzhlhHjBoK) | 2:38 | 2025-03-23 |  |
-| [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 | 2023-04-08 |  |
+| [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 | 2023-04-08 | 2025-08-23 |
+| [Breakout](https://open.spotify.com/track/6JrC9b4IXceXMOPWu9N7qv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/6Gg8LNciD3pXvcRlwdF3Yt) | 3:35 | 2025-08-23 |  |
 | [Bumpin'](https://open.spotify.com/track/4cRh8GLkf85Dl8dsceZMqp) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Bumpin'](https://open.spotify.com/album/1Zs0tvWEiGsszEnjKjr2yA) | 2:55 | 2023-09-18 |  |
 | [Club 95](https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 3:09 | 2022-10-10 |  |
 | [Dance With Me](https://open.spotify.com/track/4mqzTIzpMtbN9lfPVqVjUD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Light It Up](https://open.spotify.com/album/21qXXrBG0EM0mLK6A92rDv) | 3:06 | 2022-10-10 |  |

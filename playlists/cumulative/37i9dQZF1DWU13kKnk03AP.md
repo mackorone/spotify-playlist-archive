@@ -4,7 +4,7 @@
 
 > Pump it up with these current jams!
 
-856 songs - 1 day 19 hr 46 min
+857 songs - 1 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-03-22 | 2024-10-05 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-17 | 2022-06-16 |
 | [Can You Handle My Love??](https://open.spotify.com/track/7GKMstqz3UYkFvlX93qCyz) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [Can You Handle My Love??](https://open.spotify.com/album/5HuxJH43h3FTR8W258lhps) | 4:16 | 2022-03-25 | 2022-04-21 |
-| [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2025-03-11 |  |
+| [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2025-03-11 | 2025-08-23 |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-08-26 | 2022-11-13 |
 | [Carry You Home](https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Carry You Home](https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu) | 2:46 | 2024-05-31 |  |
 | [Catching A Dream](https://open.spotify.com/track/7yhFvfZtC4DomCU4Lpe0cr) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Catching A Dream](https://open.spotify.com/album/2dipFQRQDur8SIAkVJovBn) | 2:38 | 2021-12-24 | 2022-01-27 |
@@ -385,6 +385,7 @@
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-17 | 2022-10-01 |
 | [I Remember](https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [I Remember](https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF) | 2:48 | 2022-08-26 | 2023-03-05 |
 | [I Rise](https://open.spotify.com/track/22qKulMO8VijTJGXOig5vN) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [I Rise](https://open.spotify.com/album/2N3GoTPzZ81DIIujoxCYYP) | 3:20 | 2023-08-11 | 2023-09-14 |
+| [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-22 |  |
 | [I'll Be There](https://open.spotify.com/track/0JwXH0xA7o7HUfVfyFh1H6) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [I'll Be There](https://open.spotify.com/album/0fO4oE2tNqegemqaq8byqQ) | 2:46 | 2023-10-27 | 2023-12-09 |
 | [I'll Follow](https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [I'll Follow](https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w) | 2:52 | 2023-04-28 | 2023-05-20 |
 | [I'm Not Dead Yet](https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [I'm Not Dead Yet](https://open.spotify.com/album/1yMUi2EXhNKenf6rHEu7AT) | 2:58 | 2022-09-23 | 2022-11-15 |

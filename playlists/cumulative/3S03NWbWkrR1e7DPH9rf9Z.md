@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-207 songs - 10 hr 9 min
+208 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Welcome To The Weekend](https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Welcome To The Weekend](https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9) | 2:54 | 2025-07-04 |  |
 | [Why \- BLK RSE Remix](https://open.spotify.com/track/3pasvjHpIOyUEIuFgB9KaD) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Why \(BLK RSE Remix\)](https://open.spotify.com/album/3UQ5fqGMimlIULruwBMZhf) | 2:52 | 2025-07-04 |  |
 | [Wild](https://open.spotify.com/track/3kKq8JKvGEGSJwd3aChRRb) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Wild](https://open.spotify.com/album/5yDDif1Lxqfheltsy5Cb4u) | 2:51 | 2025-07-04 |  |
+| [Wild Ride \(Ryos Remix\)](https://open.spotify.com/track/0Qe6yEMaWsmynN3eTA9Bxd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Wild Ride \(Ryos Remix\)](https://open.spotify.com/album/1RJOptnhicG5FsZRzpT5YF) | 3:04 | 2025-08-22 |  |
 | [Without Me](https://open.spotify.com/track/0hym4F3u1SiwngE4xqUJKp) | [Mark Bale](https://open.spotify.com/artist/4zrsPs5wddzJnn6vSO2jlx), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP), [Dave Darell](https://open.spotify.com/artist/1aAiIcYEUijIWf57lnNBbf) | [Without Me](https://open.spotify.com/album/43rIuT8B1jTG3CNkpbzTpt) | 2:16 | 2025-07-04 |  |
 | [Without Your Love](https://open.spotify.com/track/6aln4oo2dKzZtkaAfsnmDs) | [Loreno Mayer](https://open.spotify.com/artist/1LheHu54nfIS8DahCd1HqL), [Quizzow](https://open.spotify.com/artist/7c0dWC7MBwDJN6za0fmFTa), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [For The Love Of Progressive EP](https://open.spotify.com/album/69WyFAqNqj4nK0wjq5wmqs) | 2:50 | 2025-07-04 | 2025-07-31 |
 | [WOLFGANG](https://open.spotify.com/track/7HG413xQYwoR6i8D3ADC7J) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Junkie Kid](https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J) | [Timmy Trumpet's SINPHONY No\. 1](https://open.spotify.com/album/1QRuYyPWkoxox6RY3bU4T5) | 2:48 | 2025-07-04 |  |

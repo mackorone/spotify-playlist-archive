@@ -2,9 +2,9 @@
 
 ### [Pop Country](https://open.spotify.com/playlist/37i9dQZF1DXadasIcsfbqh)
 
-> Pop country hits of today and tomorrow\. Cover: Diplo and Bailey Zimmerman
+> Pop country hits of today and tomorrow\. Cover: Dasha
 
-339 songs - 17 hr 36 min
+340 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Coast](https://open.spotify.com/track/0mwmnzC58HlOGPmX82jKZs) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Coast](https://open.spotify.com/album/0xyA1H9vmwFF2jRbfIoZua) | 3:50 | 2021-12-17 | 2022-07-29 |
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 | 2024-09-14 |
 | [Complicated](https://open.spotify.com/track/3GtjS01mYbI1FGUr9xy29d) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Complicated](https://open.spotify.com/album/4KHD5LGWqkmyZSyZOU08l0) | 2:57 | 2024-04-05 |  |
-| [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-12-17 |  |
+| [Coulda Loved You Longer](https://open.spotify.com/track/5z0xIGpy5Cb8LRXh0I7Ewl) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Coulda Loved You Longer](https://open.spotify.com/album/5nwGL9nRvi6p5NVMiOSrLN) | 2:56 | 2021-12-17 | 2025-08-23 |
 | [Cowboy](https://open.spotify.com/track/76dft06UMtOBvXRcnQp5AP) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Cowboy](https://open.spotify.com/album/43nbnIDcdVU0ky255QCq9K) | 3:08 | 2022-03-25 | 2022-04-20 |
 | [Cowgirls \(feat\. ERNEST\)](https://open.spotify.com/track/5m3F7x3wk7S3Zm5mzc0gXP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [One Thing At A Time](https://open.spotify.com/album/7aj4cB74oT3vTHDHAMaiHw) | 3:01 | 2023-03-03 | 2025-05-18 |
 | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/track/3yf1lOT3aAaVzkyDYkxQLF) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Cross Country \(feat\. Mickey Guyton\)](https://open.spotify.com/album/1Z5vIsFPproLKSFGPx77ly) | 3:25 | 2021-12-17 | 2022-07-27 |
@@ -176,6 +176,7 @@
 | [Leave You Alone](https://open.spotify.com/track/5J8AKBaUq1WHrzrm9YWlP3) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Leave You Alone](https://open.spotify.com/album/1GeeQwpCveYVHBSumI6dFx) | 3:34 | 2022-05-06 | 2023-06-24 |
 | [Left You For Me](https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Left You For Me](https://open.spotify.com/album/03gbxBbvrYa9tfMtBOorEj) | 3:50 | 2022-07-01 | 2023-03-02 |
 | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Life Goes On \(feat\. Luke Combs\)](https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN) | 3:30 | 2023-05-12 |  |
+| [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 | 2025-08-22 |  |
 | [Lil Bit](https://open.spotify.com/track/0NmuYnjETG3u3qx0OmEJev) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Lil Bit](https://open.spotify.com/album/6aw4FMaYoLmhMZEI5dcq8I) | 3:15 | 2021-12-17 | 2022-01-08 |
 | [Lil Vibe](https://open.spotify.com/track/1eucIrSBntRnPpTvsaHmwE) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Something To Dance To](https://open.spotify.com/album/2o9aZsNGXbBNJvtdfW0eXt) | 2:54 | 2023-06-23 | 2023-07-12 |
 | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Line By Line \(feat\. Maren Morris\)](https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK) | 3:28 | 2021-12-17 |  |

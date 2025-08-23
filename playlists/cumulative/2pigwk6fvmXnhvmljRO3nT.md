@@ -4,7 +4,7 @@
 
 > 
 
-7,651 songs - 19 day 18 hr 6 min
+7,654 songs - 19 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2123,6 +2123,7 @@
 | [Ga Sm A Pa Do](https://open.spotify.com/track/5nXwl35IvLxRjhujHZBdq3) | [Fly to the Sky](https://open.spotify.com/artist/4Va11kshAHkYONJgZqhi0C) | [Fashion 70s \(Original Television Soundtrack\)](https://open.spotify.com/album/4qFgKToJg1d463SQCD77qI) | 4:25 | 2025-01-03 |  |
 | [Galaxy](https://open.spotify.com/track/1lgy5Mb6QKx47vJXmmwIri) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 0:52 | 2025-01-03 |  |
 | [Galaxy](https://open.spotify.com/track/5rd00qaUJugfI8nhPcxA3o) | [LADIES' CODE](https://open.spotify.com/artist/4epPY1AW9lQeVUM1XaFiwi) | [MYST3RY](https://open.spotify.com/album/2kOn7OTf9UGL0fyxy8yT7n) | 3:32 | 2025-07-22 |  |
+| [Gamma \(need the <3\)](https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:00 | 2025-08-22 |  |
 | [Gang Activities](https://open.spotify.com/track/4Vir8uv89eNY6hovcNq4w6) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Sound of Bad Habit](https://open.spotify.com/album/5lxdY4GQkCJMcvScmwRgCx) | 1:39 | 2024-12-10 |  |
 | [GANG GANG](https://open.spotify.com/track/6uJONCdr2rC65BNmCnTBWK) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 4:04 | 2025-01-03 |  |
 | [Gang Over Luv](https://open.spotify.com/track/7LaI3mRTJu66r9HKdv7iBx) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Sonder Son](https://open.spotify.com/album/5Bp1EX2ypdFnJ5IUyiRl8w) | 3:24 | 2024-12-10 |  |
@@ -2459,6 +2460,7 @@
 | [Heavenly Father](https://open.spotify.com/track/0qLt7pQhm8LDxFgI0YXdlY) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 4:20 | 2025-01-03 |  |
 | [Heaven’s EP \(with J\. Cole\)](https://open.spotify.com/track/19h1LNf7idduUW3jBeswB8) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:58 | 2025-01-03 |  |
 | [Heavy](https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 4:13 | 2025-01-04 |  |
+| [Heavy Metal aka ejecto seato!](https://open.spotify.com/track/6mxO6T82rU5bfVA6inlfDq) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 3:06 | 2025-08-22 |  |
 | [Heavydirtysoul](https://open.spotify.com/track/7i9763l5SSfOnqZ35VOcfy) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:54 | 2025-01-15 |  |
 | [HeeJae](https://open.spotify.com/track/10PzmnIzAwd4vRRDUamEwr) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [HeeJae \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wqchZ5AFWr6akPCH6h74O) | 4:41 | 2025-01-15 |  |
 | [Hehe ♡](https://open.spotify.com/track/4tl4LtTvb04soGstvFrx6O) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Catherine & Catherine Full Body Soundtrack Set](https://open.spotify.com/album/0X0ZWOmMDsAJW7NDeMXIN4) | 1:16 | 2025-05-19 |  |
@@ -2640,7 +2642,7 @@
 | [Hungry](https://open.spotify.com/track/5Pe50lldAyEyHXxgWW0LgI) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:33 | 2024-12-14 |  |
 | [Hungry Eyes](https://open.spotify.com/track/3sTSo8X7UCDTVUVMJ63LJO) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 4:07 | 2025-01-03 |  |
 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 | 2025-01-03 |  |
-| [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 | 2025-01-03 |  |
+| [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 | 2025-01-03 |  |
 | [Hurt](https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:36 | 2025-01-03 |  |
 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 | 2025-01-04 |  |
 | [Hurt \(250 Remix\)](https://open.spotify.com/track/2gWWYL6iXZKkOqCE3TQHBM) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:44 | 2025-01-04 |  |
@@ -5425,6 +5427,7 @@
 | [Start Again](https://open.spotify.com/track/7b1nJaOmQowF0ySjQuCrHw) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 3:14 | 2025-01-04 |  |
 | [Started From the Bottom](https://open.spotify.com/track/5bm0CcD5R9Nj04QbMvwugt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 2:54 | 2025-01-03 |  |
 | [State of My Head](https://open.spotify.com/track/1fnULsZuORnAgCFFbM8nTZ) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:25 | 2025-01-15 |  |
+| [Static](https://open.spotify.com/track/2zksWgfSYzhTq9YGOBS2HP) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 1:22 | 2025-08-22 |  |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2025-01-15 |  |
 | [STATS](https://open.spotify.com/track/0w6webWdhjRKdqJ3DeGgM1) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:49 | 2024-12-07 |  |
 | [Statue of The Seven](https://open.spotify.com/track/6Dv4L5oSBUomHLes9RiLyi) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- City of Winds and Idylls \(Original Game Soundtrack\)](https://open.spotify.com/album/4B5efqHkeq0UaDGx8nYOuf) | 1:24 | 2025-03-23 |  |

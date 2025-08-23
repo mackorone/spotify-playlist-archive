@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi",
-  "num_followers": 97007,
+  "num_followers": 97050,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 591333,
-      "name": "Made A Way",
-      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
-    },
-    {
       "added_at": "2024-10-11 00:01:00",
       "album": {
         "name": "We Move",
@@ -775,6 +759,22 @@
       "duration_ms": 287831,
       "name": "We Move",
       "url": "https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1049,42 +1049,6 @@
       "url": "https://open.spotify.com/track/2GBaCowYlscaEClL9bciuL"
     },
     {
-      "added_at": "2025-07-04 00:01:36",
-      "album": {
-        "name": "When You Say A Thing",
-        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 239076,
-      "name": "When You Say A Thing",
-      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Fragrance (feat. GGTQ All Stars)",
-        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
-      },
-      "artists": [
-        {
-          "name": "Esther Oji",
-          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
-        },
-        {
-          "name": "GGTQ All Stars",
-          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
-        }
-      ],
-      "duration_ms": 267337,
-      "name": "Fragrance (feat. GGTQ All Stars)",
-      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
-    },
-    {
       "added_at": "2025-07-25 00:01:13",
       "album": {
         "name": "OMG",
@@ -1109,20 +1073,40 @@
       "url": "https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq"
     },
     {
-      "added_at": "2025-06-27 00:01:36",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e"
+        "name": "Fragrance (feat. GGTQ All Stars)",
+        "url": "https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p"
       },
       "artists": [
         {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+          "name": "Esther Oji",
+          "url": "https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4"
+        },
+        {
+          "name": "GGTQ All Stars",
+          "url": "https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS"
         }
       ],
-      "duration_ms": 142205,
-      "name": "Welcome Home",
-      "url": "https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4"
+      "duration_ms": 267337,
+      "name": "Fragrance (feat. GGTQ All Stars)",
+      "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+    },
+    {
+      "added_at": "2025-07-04 00:01:36",
+      "album": {
+        "name": "When You Say A Thing",
+        "url": "https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 239076,
+      "name": "When You Say A Thing",
+      "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 298306,
       "name": "Most High - African Worship Medley/Live",
       "url": "https://open.spotify.com/track/4BvbY6pmXzt0S895doZv9y"
+    },
+    {
+      "added_at": "2025-06-27 00:01:36",
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 142205,
+      "name": "Welcome Home",
+      "url": "https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -1209,22 +1209,6 @@
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
     },
     {
-      "added_at": "2025-04-18 00:01:29",
-      "album": {
-        "name": "Hagiazo (Live)",
-        "url": "https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 901815,
-      "name": "Hagiazo - Live",
-      "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Pretty Day",
@@ -1243,6 +1227,22 @@
       "duration_ms": 154588,
       "name": "Pretty Day",
       "url": "https://open.spotify.com/track/5MOzAAZUnH1sQXXI2Pu91W"
+    },
+    {
+      "added_at": "2025-04-18 00:01:29",
+      "album": {
+        "name": "Hagiazo (Live)",
+        "url": "https://open.spotify.com/album/06ZexGDl7IkbHEcxD8nvWw"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 901815,
+      "name": "Hagiazo - Live",
+      "url": "https://open.spotify.com/track/7f1LRhHyMVY7eaefuuCmup"
     },
     {
       "added_at": "2025-07-04 00:01:36",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa"
     },
     {
-      "added_at": "2025-01-07 00:01:28",
-      "album": {
-        "name": "Judah (Live)",
-        "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 534026,
-      "name": "Judah - Live",
-      "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Ebenezeri",
@@ -1343,6 +1327,22 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
+    },
+    {
+      "added_at": "2025-01-07 00:01:28",
+      "album": {
+        "name": "Judah (Live)",
+        "url": "https://open.spotify.com/album/3G7STAcuoN3HD69I2GP1dd"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 534026,
+      "name": "Judah - Live",
+      "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -1421,22 +1421,6 @@
       "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
     },
     {
-      "added_at": "2024-08-30 00:01:00",
-      "album": {
-        "name": "Isi Gini",
-        "url": "https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj"
-      },
-      "artists": [
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 269538,
-      "name": "Isi Gini",
-      "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
-    },
-    {
       "added_at": "2025-07-11 00:01:22",
       "album": {
         "name": "Jubilate",
@@ -1455,6 +1439,22 @@
       "duration_ms": 162857,
       "name": "Belong",
       "url": "https://open.spotify.com/track/78i9FcczM7IH9QVB42nWGH"
+    },
+    {
+      "added_at": "2024-08-30 00:01:00",
+      "album": {
+        "name": "Isi Gini",
+        "url": "https://open.spotify.com/album/4odNgQQKOPmNSQbs1k2bYj"
+      },
+      "artists": [
+        {
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "Isi Gini",
+      "url": "https://open.spotify.com/track/6OJooIGQRv2xjNr2AEvckI"
     },
     {
       "added_at": "2025-01-07 00:01:28",

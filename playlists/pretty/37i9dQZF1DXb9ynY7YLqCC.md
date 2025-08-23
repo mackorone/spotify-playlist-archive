@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: lisandro skar
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,273 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,276 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 21 | [Las cosas que no se tocan](https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:34 |
 | 22 | [Beatle](https://open.spotify.com/track/5dpS7KpIkLFC0hm8tsqI1V) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Radio Insomnio](https://open.spotify.com/album/7cm5BAYTV2rWUTEwpLk1F3) | 3:29 |
 | 23 | [Solo voy](https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [SHOC](https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz) | 4:15 |
-| 24 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
+| 24 | [Cobarde para Amar](https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 4:22 |
 | 25 | [Cuando Estés Acá](https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [La Renga](https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH) | 4:55 |
 | 26 | [Señor Kioskero](https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:18 |
 | 27 | [Chance](https://open.spotify.com/track/5jU0mt57ZibD3Us55vMs9Y) | [Attaque 77](https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9) | [Karmagedon](https://open.spotify.com/album/7BwJSFUMeLoEFyJEXbTLLv) | 5:28 |
 | 28 | [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 |
-| 29 | [Cobarde para Amar](https://open.spotify.com/track/5wRABVeikfx8nwyyG3xVLQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 4:22 |
+| 29 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
 | 30 | [Triste Canción De Amor](https://open.spotify.com/track/0LTPPsp9xmM92ZT6pGvsrz) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [A Donde Me Lleva La Vida](https://open.spotify.com/album/5f86DyUHkazyikoFVWb237) | 5:07 |
 | 31 | [Volver a Casa](https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 3:46 |
 | 32 | [Cruz de Sal](https://open.spotify.com/track/3wSEaw1s73DTuS1iNPaK4G) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [El Origen](https://open.spotify.com/album/0S6egWzUaW2gR2MX16UKHb) | 6:15 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 57 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
 | 58 | [Veredas](https://open.spotify.com/track/1iv3txvY78PROSNk2AxW3t) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Viaje al Centro de Uno Mismo](https://open.spotify.com/album/7zKNPA1cVOW58Pn4UJTerl) | 5:05 |
 | 59 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
-| 60 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
-| 61 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
+| 60 | [El último poeta maldito](https://open.spotify.com/track/4i3NV6znz9XgQOpEelbhic) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 2:16 |
+| 61 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
 | 62 | [Miras sin ver](https://open.spotify.com/track/0h977C6sVvhYg2fEf3tIO6) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Guerra de Nada](https://open.spotify.com/album/4BpvpQg1SoId37jAosecWu) | 4:11 |
 | 63 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
 | 64 | [Esa Gente](https://open.spotify.com/track/449Ed1jOxFMqlP0gzDuqDM) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 4:29 |

@@ -4,7 +4,7 @@
 
 > Jazz house is our love language  🌳  with Chaos In The CBD
 
-135 songs - 9 hr 5 min
+137 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Metropolis](https://open.spotify.com/track/53Z2PO6u3LG9ba0A6EBaTI) | [AJ Hamilton](https://open.spotify.com/artist/6JvOEBar34Q5TQulmpLj3V) | [Metropolis](https://open.spotify.com/album/6ZiOldPmvjyuWcA9WwuVX9) | 3:54 | 2025-02-21 |  |
 | [Mon Coeur](https://open.spotify.com/track/0PAaJeO1U7Q4OgJk7Wx1j3) | [Sajmoonn](https://open.spotify.com/artist/7Jui0pv7zs0Pmbfaqx2Sjh), [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Mon Coeur](https://open.spotify.com/album/3btmLGVI2AlqPtwoeBEt6K) | 4:34 | 2025-02-21 |  |
 | [more parties in LA](https://open.spotify.com/track/3hVhokUMdBEg8ZhmFvXLOy) | [STELLA.](https://open.spotify.com/artist/7E4fw5nKeMuPzbvdn52nqa), [pedram](https://open.spotify.com/artist/0sQSO9miTJGNBj9Kqxptfz) | [more parties in LA](https://open.spotify.com/album/6gGC9ATSVrr3iHST9uEeOo) | 2:47 | 2025-05-02 |  |
+| [mostly poetry](https://open.spotify.com/track/6o4UiH0LuFQIvLklnHSj1W) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [mostly poetry](https://open.spotify.com/album/0XS5hDo5UG41upARzFPgCC) | 3:00 | 2025-08-22 |  |
 | [Mr\. Particular](https://open.spotify.com/track/4B4acwDbCZkxNC9VmBOaE4) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Mr\. Particular](https://open.spotify.com/album/7FNjJhOGAR4eyIJp3bhzdC) | 3:58 | 2025-02-28 | 2025-04-29 |
 | [Nectar](https://open.spotify.com/track/4LOmZ8pVGsRe117F26nUge) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Nectar](https://open.spotify.com/album/2e7fjwbhErSDkxjs2WQP4p) | 2:15 | 2025-03-07 | 2025-08-02 |
 | [Newness](https://open.spotify.com/track/2lcakwd3OkGq63LW9lfZMv) | [Nutty Nys](https://open.spotify.com/artist/7Hbhksw9E9NGS44qobhTSX) | [Newness](https://open.spotify.com/album/0klrfwgPj1Yxed3OuOYmRE) | 6:02 | 2025-02-21 |  |
@@ -114,14 +115,15 @@
 | [Samba Breakfast \- Bonus Track](https://open.spotify.com/track/2wPA16bUf17UmtdlNh6ASV) | [Milan93](https://open.spotify.com/artist/5FPtZ4IXvHYp8MsjAevEWg) | [Samba Breakfast \(Bonus Track\)](https://open.spotify.com/album/4GmZJrUmzBH5q1Cjlzxqsl) | 3:07 | 2025-06-27 | 2025-07-26 |
 | [Saw You for the First Time](https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Saw You for the First Time](https://open.spotify.com/album/5OTN5IJFRgdjHsr4iaVGFo) | 6:44 | 2025-02-21 | 2025-03-22 |
 | [Shelter](https://open.spotify.com/track/1NUYg3LhwCupGjxisQTa0w) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Shelter](https://open.spotify.com/album/38cSJDqR52DWEufIBNfpqe) | 3:49 | 2025-02-21 |  |
-| [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 |  |
+| [Side Pocket](https://open.spotify.com/track/5cxhLPv1j4xE3xlbsDgGYG) | [Aguava](https://open.spotify.com/artist/2va26iLf6XkexHsCnKWOid) | [Side Pocket](https://open.spotify.com/album/5b1Td8anOjaeXBdJkHq57a) | 3:17 | 2025-08-22 |  |
+| [Simulacra](https://open.spotify.com/track/6uofhCrZ39bK4azqoG9naC) | [Palmate](https://open.spotify.com/artist/02mNGa8lfssm5rnhwZhVNw) | [Simulacra](https://open.spotify.com/album/7zQFTAlzMr0Gs0pKPR0txL) | 3:23 | 2025-04-04 | 2025-08-23 |
 | [Six Am](https://open.spotify.com/track/6KsDQA0pYkNs1kiN1u9V6T) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Mythic Music](https://open.spotify.com/album/52N4nKcwVerlZ2xgFJurJa) | 3:24 | 2025-02-21 |  |
 | [Society's Man](https://open.spotify.com/track/6qVGWZQgaXFdC3rhT3NEOw) | [Spiral Deluxe](https://open.spotify.com/artist/2VGvrUaPzdqxyTXv9k81hw) | [The Love Pretender](https://open.spotify.com/album/02f8SRW7h97Xjn5vcTF4yr) | 7:24 | 2025-04-04 | 2025-07-05 |
 | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/track/2oOi12NtTZZGJkujoAK3cL) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [SOMEWHERE IN MANHATTAN](https://open.spotify.com/album/6fAfX2xL2iNUSapSs32lOa) | 3:30 | 2025-06-20 |  |
 | [Spore](https://open.spotify.com/track/7K9ZgydesA3IlT4Pc6ojqJ) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Spore](https://open.spotify.com/album/07GHP3BBVp2qdkZaPlabZz) | 2:30 | 2025-06-06 | 2025-07-19 |
 | [Stay](https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [The Panorama Sessions, Vol\. 2](https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J) | 6:00 | 2025-03-21 |  |
 | [Sundials](https://open.spotify.com/track/6fwIywo8F6JE8Y6GRYQlgM) | [Brawther](https://open.spotify.com/artist/6UV6mehn2Fs0ropWUpGWtI), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sundials EP](https://open.spotify.com/album/2gUTGkvfNNYhojlNAtGm29) | 6:26 | 2025-02-21 |  |
-| [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 |  |
+| [Takes Time](https://open.spotify.com/track/2aHwoje34bmunwzxhutIZA) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Takes Time](https://open.spotify.com/album/0jW9tsdoxRlkxdroh5Nyox) | 6:09 | 2025-03-07 | 2025-08-23 |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-02-21 |  |
 | [Tess](https://open.spotify.com/track/4g2IofvpR6XcrX9I1Rui3J) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9) | [Tess](https://open.spotify.com/album/1SpgeROLMxyyyeBEXeu2Es) | 3:32 | 2025-02-21 |  |
 | [the message](https://open.spotify.com/track/73blhc3aERjdW7XXS04e2Z) | [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [the message](https://open.spotify.com/album/5PeLuRScqmff4MV6hSAyTN) | 3:48 | 2025-07-04 |  |

@@ -2,7 +2,7 @@
 
 ### [The New Alt](https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug)
 
-> No rules\. No boundaries\. The best new alternative tracks\. Cover: Chase Atlantic
+> No rules\. No boundaries\. The best new alternative tracks\. Cover: sombr
 
 2,969 songs - 6 day 18 hr 12 min
 

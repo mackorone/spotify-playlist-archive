@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 131428,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/49nDMhpStdVOkPYucjjyo5"
@@ -25032,7 +25032,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 121379,
       "name": "Fire It Up",
       "url": "https://open.spotify.com/track/1IliCedo3jvUAnkVUfOb5Y"
@@ -37436,7 +37436,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 123157,
       "name": "Jasmine",
       "url": "https://open.spotify.com/track/2jRhznDCSZDHuiTfT2VGDQ"
@@ -58673,6 +58673,28 @@
     },
     {
       "album": {
+        "name": "Peaches and Cream",
+        "url": "https://open.spotify.com/album/1E7mqoRRnViuleWdArhxvx"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "very noise person",
+          "url": "https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Peaches and Cream",
+      "url": "https://open.spotify.com/track/3hI24Dpu2L2YZy3p5Lj1vX"
+    },
+    {
+      "album": {
         "name": "Pearl",
         "url": "https://open.spotify.com/album/4p7yuxdOFhq7bw6LyOUkJw"
       },
@@ -59652,7 +59674,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 135384,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/54kVALXWYJynRq2Flq5n6k"
@@ -79503,6 +79525,24 @@
     },
     {
       "album": {
+        "name": "Think",
+        "url": "https://open.spotify.com/album/5sGzy7P3phhuXHbdEV8JUt"
+      },
+      "artists": [
+        {
+          "name": "Vanilla",
+          "url": "https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246643,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/7lWUihuAyFjZYP3Dat33LW"
+    },
+    {
+      "album": {
         "name": "Think for Yourself",
         "url": "https://open.spotify.com/album/2cgAsluSyoCwyXlWgIGNOV"
       },
@@ -79576,6 +79616,28 @@
       "duration_ms": 231398,
       "name": "Think Twice - DJ Muro's KG Mix",
       "url": "https://open.spotify.com/track/6k5UnpuaR89WUyCnnhkFKi"
+    },
+    {
+      "album": {
+        "name": "Thinkgood",
+        "url": "https://open.spotify.com/album/4dnbVgFWnopxOcG9IWIBo7"
+      },
+      "artists": [
+        {
+          "name": "Gianni",
+          "url": "https://open.spotify.com/artist/1qOhp9sUeynPwEfyY6kX6c"
+        },
+        {
+          "name": "404beats",
+          "url": "https://open.spotify.com/artist/18QH5J2MZ8yb62h7Jt6X0H"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113863,
+      "name": "Thinkgood",
+      "url": "https://open.spotify.com/track/7aVZjXb2mBHnzNIt8T3oyU"
     },
     {
       "album": {
@@ -83510,6 +83572,24 @@
       "duration_ms": 91874,
       "name": "Venting",
       "url": "https://open.spotify.com/track/57YgQ31iIqPLQXMhkNgO7m"
+    },
+    {
+      "album": {
+        "name": "vento",
+        "url": "https://open.spotify.com/album/0MOy8r1FSzmU6dpgwkSOTj"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131180,
+      "name": "vento",
+      "url": "https://open.spotify.com/track/19EzCbGr0oAHNimhMPIiM3"
     },
     {
       "album": {

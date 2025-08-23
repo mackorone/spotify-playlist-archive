@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland.  Cover: Kings Elliot",
-  "num_followers": 38006,
+  "num_followers": 38010,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 179561,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Fire To The Sky",
         "url": "https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 165206,
       "name": "Fire To The Sky",
       "url": "https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Starcrossed",
-        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Starcrossed",
-      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "No Good For Me",
         "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 193271,
       "name": "No Good For Me",
       "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Starcrossed",
+        "url": "https://open.spotify.com/album/0EotHssXwipeSqR7x8smCC"
+      },
+      "artists": [
+        {
+          "name": "Kings Elliot",
+          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "Starcrossed",
+      "url": "https://open.spotify.com/track/0vIAdlejSPRVJZwY5h7pqe"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -743,18 +743,18 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
+        "name": "New Her",
+        "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
       },
       "artists": [
         {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
         }
       ],
-      "duration_ms": 190652,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
+      "duration_ms": 180750,
+      "name": "New Her",
+      "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -779,18 +779,18 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "New Her",
-        "url": "https://open.spotify.com/album/0e7ejGUMZ7mBKXkogphNtQ"
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/0zEDzgkc06V4vaoITIHieR"
       },
       "artists": [
         {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 180750,
-      "name": "New Her",
-      "url": "https://open.spotify.com/track/5J5hwc01KPjI06A8QJGGQr"
+      "duration_ms": 190652,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/3urxkVanctj4z2LjME3Yb8"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -971,6 +971,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
+        "name": "The Wrong Cards",
+        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "The Wrong Cards",
+      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
         "name": "redwhite (Offical Swiss Women\u2019s National Team Song)",
         "url": "https://open.spotify.com/album/09GIdZLuPhRNZAJIuIW2yr"
       },
@@ -995,38 +1011,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Unfinished",
-        "url": "https://open.spotify.com/album/0b6nhv53sGGd3jsjxZU96a"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 180908,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/1S0n6HR1ZHZ8vOzMJiQKQE"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "The Wrong Cards",
-        "url": "https://open.spotify.com/album/16geXJeWAs3qlF4dgPRNkA"
-      },
-      "artists": [
-        {
-          "name": "Lost in Lona",
-          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "The Wrong Cards",
-      "url": "https://open.spotify.com/track/3rdSYchPn7ppUx9wQvsdxx"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 167450,
       "name": "For You",
       "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/0b6nhv53sGGd3jsjxZU96a"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 180908,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/1S0n6HR1ZHZ8vOzMJiQKQE"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Elektrisch",
-        "url": "https://open.spotify.com/album/06wUSPaMKIR0Snp3UwaOL8"
-      },
-      "artists": [
-        {
-          "name": "Megawatt",
-          "url": "https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Zweiazwenzgi",
-      "url": "https://open.spotify.com/track/62fsYBNcYg9jGxF4Yk1Iqq"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "you & i",
         "url": "https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 125893,
       "name": "you & i",
       "url": "https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Elektrisch",
+        "url": "https://open.spotify.com/album/06wUSPaMKIR0Snp3UwaOL8"
+      },
+      "artists": [
+        {
+          "name": "Megawatt",
+          "url": "https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Zweiazwenzgi",
+      "url": "https://open.spotify.com/track/62fsYBNcYg9jGxF4Yk1Iqq"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Doomsday Kiss",
-        "url": "https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 168435,
-      "name": "Doomsday Kiss",
-      "url": "https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Doomsday Kiss",
+        "url": "https://open.spotify.com/album/3nfIttcOYNsLZWtFXd7kGa"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 168435,
+      "name": "Doomsday Kiss",
+      "url": "https://open.spotify.com/track/0b6CfOTTJQGJhS4mliyjAV"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
-      },
-      "artists": [
-        {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
-        }
-      ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Chlorine",
         "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 199261,
       "name": "Hell",
       "url": "https://open.spotify.com/track/3jCXH64RBJHKjvMW9U7TZZ"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Next to You",
-        "url": "https://open.spotify.com/album/3gbzQAnrhR3rfKdbs9lm7j"
-      },
-      "artists": [
-        {
-          "name": "Noah Parks",
-          "url": "https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p"
-        }
-      ],
-      "duration_ms": 212617,
-      "name": "Next to You",
-      "url": "https://open.spotify.com/track/2K6jXjgVn1ZSnXYR0DZF5k"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Modern Roses",
         "url": "https://open.spotify.com/album/3OV7Hh7hbTcjemTIcQImWf"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 230310,
       "name": "Ehrlich",
       "url": "https://open.spotify.com/track/2CpYkZOMP8Xmac4akYnAxF"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Next to You",
+        "url": "https://open.spotify.com/album/3gbzQAnrhR3rfKdbs9lm7j"
+      },
+      "artists": [
+        {
+          "name": "Noah Parks",
+          "url": "https://open.spotify.com/artist/1W47ZQbSjqKQiyBDOtlr0p"
+        }
+      ],
+      "duration_ms": 212617,
+      "name": "Next to You",
+      "url": "https://open.spotify.com/track/2K6jXjgVn1ZSnXYR0DZF5k"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Rollen in den Norden",
-        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 150648,
-      "name": "Rollen in den Norden",
-      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 194379,
       "name": "Julia",
       "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Rollen in den Norden",
+        "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 150648,
+      "name": "Rollen in den Norden",
+      "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
     },
     {
       "added_at": "2025-08-14 22:00:40",
@@ -1595,38 +1595,6 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
-        "name": "Hinterem Mond",
-        "url": "https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR"
-      },
-      "artists": [
-        {
-          "name": "Gigi Malua",
-          "url": "https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82"
-        }
-      ],
-      "duration_ms": 163578,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC"
-    },
-    {
-      "added_at": "2025-08-14 22:00:40",
-      "album": {
         "name": "exit door",
         "url": "https://open.spotify.com/album/2FSf42CGwejkhmBUJEzpty"
       },
@@ -1643,6 +1611,22 @@
     {
       "added_at": "2025-08-14 22:00:40",
       "album": {
+        "name": "Hinterem Mond",
+        "url": "https://open.spotify.com/album/5Qe6ceY5yPGV5e40FuKjaR"
+      },
+      "artists": [
+        {
+          "name": "Gigi Malua",
+          "url": "https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82"
+        }
+      ],
+      "duration_ms": 163578,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/320FkP0qHyl7w1a1oDpyhE"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
         "name": "What if It All Works Out",
         "url": "https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 213494,
       "name": "Someone",
       "url": "https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0"
+    },
+    {
+      "added_at": "2025-08-14 22:00:40",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC"
     }
   ],
   "unique_name": "Swiss Made",

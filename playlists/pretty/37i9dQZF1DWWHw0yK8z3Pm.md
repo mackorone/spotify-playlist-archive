@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,517 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,529 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 34 | [In Your Love](https://open.spotify.com/track/1olWQ1LOUYs4VBwx5N8Lz9) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [In Your Love](https://open.spotify.com/album/2LmPlAxpD5cS5ne6dQvxbc) | 3:45 |
 | 35 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 |
 | 36 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 |
-| 37 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
-| 38 | [King of Possibilities](https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [King of Possibilities](https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2) | 2:36 |
+| 37 | [King of Possibilities](https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [King of Possibilities](https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2) | 2:36 |
+| 38 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
 | 39 | [Space and Time](https://open.spotify.com/track/49ox9rycOdJrbQlWGAJRBL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:42 |
 | 40 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 |
 | 41 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 70 | [Completely, Sweetly](https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Chains & Stakes](https://open.spotify.com/album/7y1TBs8QPwekErm9r0YZy7) | 3:51 |
 | 71 | [Save Your Soul](https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 3:32 |
 | 72 | [Burn Me Once \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/1wB4su0ngpr8Rnh96So3vJ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:20 |
-| 73 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
-| 74 | [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 |
+| 73 | [Winchester Mansion of Sound](https://open.spotify.com/track/4dmta9nVCw45Q2ZtbzSkIq) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Winchester Mansion of Sound](https://open.spotify.com/album/5o461QKeM7GUAJPMMlQ5gu) | 4:48 |
+| 74 | [Bluebird Singing](https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs For The Canyon](https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I) | 4:00 |
 | 75 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 |
 | 76 | [Misty Morning](https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Misty Morning](https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W) | 3:02 |
 | 77 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 96 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
 | 97 | [Ain't Dead Yet](https://open.spotify.com/track/7bh24ywGwlWCf3RReA5Dk1) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Pain Pills Or Pews EP](https://open.spotify.com/album/4EeCNe24c0doMP5YOCtf3j) | 3:02 |
 | 98 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 |
-| 99 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 |
-| 100 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
+| 99 | [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 |
+| 100 | [Going to Water](https://open.spotify.com/track/3HCWK9dtiQ6X2yP5952dvl) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Thus Spoke the Fool](https://open.spotify.com/album/4K8fgkZb2es57x2enGQa9n) | 3:04 |
 
 Snapshot ID: `AAAAAIC6xkG4wK6nRsHE1tndV+KA7TLU`

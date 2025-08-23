@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 469472,
+  "num_followers": 469505,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
+        "name": "About Damn Time (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 218476,
+      "name": "About Damn Time - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
         "name": "Blessings - The Remixes (Part 1)",
         "url": "https://open.spotify.com/album/2jKX83sjxv0Jwk35xBR0Us"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 226285,
       "name": "Blessings - CamrinWatsin Remix",
       "url": "https://open.spotify.com/track/3bErnntUPcW8jLbixhpZmQ"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
-        "name": "About Damn Time (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 218476,
-      "name": "About Damn Time - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
       "added_at": "2025-08-11 13:08:34",

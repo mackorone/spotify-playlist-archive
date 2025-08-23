@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: White Chorus
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,187 likes - 91 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,199 likes - 91 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ingatlah Aku Disini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Disini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
+| 1 | [Ingatlah Aku Di Sini](https://open.spotify.com/track/4LyUgOxEfMBEWz4jZlcr0K) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [Ingatlah Aku Di Sini](https://open.spotify.com/album/6tdyfG9mVhWfzvoOMcEm9L) | 3:06 |
 | 2 | [Well, dadah](https://open.spotify.com/track/5qxbLTQzhm8pDTbS2W9kyp) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf) | [Well, dadah](https://open.spotify.com/album/6NqZyZZl2lsbQ0cXIGL6cI) | 3:17 |
 | 3 | [Memento Mori](https://open.spotify.com/track/6iXifePsg3sAghgVgcQT7z) | [Duara](https://open.spotify.com/artist/1XOfH1UedJEI98CfjiDlyF) | [Memento Mori](https://open.spotify.com/album/7blLbc1p2xhSBeR6uEdc2D) | 2:56 |
 | 4 | [Mr\. Sunflower \(Noni's Lullaby\)](https://open.spotify.com/track/4qwPIkxPgdbkSiNMiLhUM9) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b) | [Mr\. Sunflower \(Noni's Lullaby\)](https://open.spotify.com/album/0UG7d1uq3pw6hN6KqYb8K7) | 3:44 |

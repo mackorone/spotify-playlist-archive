@@ -2,33 +2,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: Fat Mizzo
+> Cover: Stormy
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,072 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,177 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 |
-| 2 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
-| 3 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
-| 4 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 |
-| 5 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
-| 6 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 |
-| 7 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 |
-| 8 | [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 |
-| 9 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
-| 10 | ['BOUT U](https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:59 |
-| 11 | [Marceline](https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Marceline](https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS) | 2:55 |
-| 12 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
+| 1 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
+| 2 | [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 |
+| 3 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 |
+| 4 | [BON COURAGE](https://open.spotify.com/track/0VUzXxOmLtFYXnlX2Q9Tu6) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:14 |
+| 5 | [Jean](https://open.spotify.com/track/34prmUEDgxpFbHSszyFqpV) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [Jean](https://open.spotify.com/album/1sCtfqdWwq1olAlPwUTfEQ) | 2:27 |
+| 6 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 |
+| 7 | [Souvenir](https://open.spotify.com/track/34xhlfh5RUmx0AFf8dek9f) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 3:14 |
+| 8 | [PIRATE](https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:59 |
+| 9 | [Fundo](https://open.spotify.com/track/3UFAzSF6xdDsX8uMbQXq0E) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Fundo](https://open.spotify.com/album/0y5YNIoy8QZ3igG8A06VCI) | 3:41 |
+| 10 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 |
+| 11 | [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 |
+| 12 | ['BOUT U](https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:59 |
 | 13 | [IMBECILE](https://open.spotify.com/track/62fZpKvnicIFNWHN2PEqig) | [Chaos333](https://open.spotify.com/artist/1fP5b7OUxcCkbhUX3yKVzE) | [IMBECILE](https://open.spotify.com/album/28GJ8C0mVMYXpemH2kBi5n) | 2:48 |
 | 14 | [KOUDOUROU](https://open.spotify.com/track/4Wx54faWzcpENP6oEST3Fv) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [KOUDOUROU X BON COURAGE](https://open.spotify.com/album/05sh3hHudpCfoXlQMwqCmE) | 3:22 |
-| 15 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
-| 16 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |
-| 17 | [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 |
-| 18 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
-| 19 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
-| 20 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
-| 21 | [MOON](https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:29 |
+| 15 | [Marceline](https://open.spotify.com/track/5eqhJGx7N5bXvLmO7jc9CR) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Marceline](https://open.spotify.com/album/7xfJ3XGJxiXPB5qqTZkxxS) | 2:55 |
+| 16 | [KTER MN 10](https://open.spotify.com/track/3KuNDv65JtFJH1Bns3qkPP) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [KTER MN 10](https://open.spotify.com/album/3Y6HHfbV7ducsDdzwfn1lT) | 2:24 |
+| 17 | [أفشتني](https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [أفشتني](https://open.spotify.com/album/4sVSTpSXH7u7MCsXEkTlHy) | 3:25 |
+| 18 | [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 |
+| 19 | [STALINE](https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:44 |
+| 20 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
+| 21 | [Bjouj](https://open.spotify.com/track/14V7nEgSoWK9qk2pBauKgg) | [777YM](https://open.spotify.com/artist/0RM7X5kb4RzuDItJhqy3A1) | [Bjouj](https://open.spotify.com/album/3hQhWKth1LpH13GAokcQbT) | 3:27 |
 | 22 | [Échec \- Spotify Singles](https://open.spotify.com/track/7bpuBTsNwlWnBABYbCZAkN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [Sipo](https://open.spotify.com/artist/3oMj4UHfEpUEtClL0pcT8o) | [Échec \(Spotify Singles\)](https://open.spotify.com/album/1wnHxsDjULbyppLwnAYsPt) | 3:23 |
 | 23 | [BlackBerry](https://open.spotify.com/track/0HILtKSUfXinAWDnGSuJre) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn), [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [BlackBerry](https://open.spotify.com/album/6WJfe5N7rppndgC0Hz007S) | 2:33 |
 | 24 | [CHERRANI](https://open.spotify.com/track/4jGp61FIMJW8DUS1C3O3GR) | [Shinigami](https://open.spotify.com/artist/0ENNdQNQ6dlTit1exQNrL0) | [CHERRANI](https://open.spotify.com/album/7pQCduA2fy9aDXzwQeZscQ) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Yasuke](https://open.spotify.com/track/0ksL1aTNLTYKWSjCw19heM) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [TPS](https://open.spotify.com/album/5wnB3WsAiqAiH30W8lUVqP) | 5:41 |
 | 50 | [Sabrine](https://open.spotify.com/track/2pl7M15413P7S23MWadlee) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Sabrine](https://open.spotify.com/album/7F8AGhPRsETl0HApPPhFLK) | 3:01 |
 
-Snapshot ID: `AAAAABpv7LEjiRpoN+SxNThttgQdcpVF`
+Snapshot ID: `AAAAAMqv/xvtO6zmM+8Xxo5IBRXJSptf`

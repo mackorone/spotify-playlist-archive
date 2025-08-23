@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,979 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,988 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Like Me](https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:51 |
 | 50 | [Shawty \(feat\. Coogie\)](https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [쿠기 \(Coogie\)](https://open.spotify.com/artist/5Wz7bYvDiqOfcQnE66pGBB) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:48 |
 
-Snapshot ID: `AAAAACEkx2MOoEG9JjWeZ3K70QdyyH9/`
+Snapshot ID: `AAAAAN2nPCNKPqCLTgWycRWYOVVc8zDG`

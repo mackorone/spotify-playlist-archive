@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: dodie
 
-169 songs - 8 hr 33 min
+170 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [barcelona](https://open.spotify.com/track/6tvikT3O9PBnghgHN9LaiB) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:55 | 2023-01-06 | 2023-09-09 |
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2023-01-06 | 2023-05-13 |
 | [Bewitched](https://open.spotify.com/track/0pfpeTGQOWlGp6YUUbBD42) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 4:06 | 2023-09-22 | 2024-04-19 |
-| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 |  |
+| [Bewitched](https://open.spotify.com/track/6GNmllEUoNK0rxAmthPEQf) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/3cqkzyDdfMYmzkdjIxwGAp) | 4:06 | 2023-07-28 | 2025-08-23 |
 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 | 2023-01-06 |  |
 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 | 2024-10-25 | 2025-01-04 |
 | [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-01-10 |  |
@@ -43,6 +43,7 @@
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2023-01-06 |  |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-07 | 2024-07-27 |
 | [City Of Stars](https://open.spotify.com/track/5BMwpS4iYKR30kq9U9beaT) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [La La Land \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S) | 1:51 | 2023-07-28 | 2024-11-26 |
+| [Clockwork](https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:30 | 2025-08-22 |  |
 | [Coconut](https://open.spotify.com/track/0LhqjgKRBaJx5qsEN4rBMh) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Coconut](https://open.spotify.com/album/6B9Sppt3rDjFx8iWcKJD3x) | 2:39 | 2024-09-09 | 2024-12-10 |
 | [Coming Home](https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coming Home](https://open.spotify.com/album/5xJOewC53fRL37VrHco2de) | 2:16 | 2024-06-07 |  |
 | [COMO TÚ](https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [I AM](https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv) | 3:14 | 2025-01-20 |  |

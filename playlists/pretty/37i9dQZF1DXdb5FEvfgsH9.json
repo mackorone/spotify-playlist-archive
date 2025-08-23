@@ -1,13 +1,37 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 32258,
+  "num_followers": 32273,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMc5W95ygEednFUNAmZrpx3VAZmd",
+  "snapshot_id": "AAAAAPD5PkKeH4nwvlNNP1+jcunmY4fB",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:20",
+      "album": {
+        "name": "Still Glowin' (MH Disco Mix)",
+        "url": "https://open.spotify.com/album/7Iky9QNT7PfF5ZH51iUGDj"
+      },
+      "artists": [
+        {
+          "name": "Miami Horror",
+          "url": "https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37"
+        },
+        {
+          "name": "Silk Ribbons",
+          "url": "https://open.spotify.com/artist/1vUhA1WvlT28qVbHrXy6Za"
+        },
+        {
+          "name": "Queen Magic",
+          "url": "https://open.spotify.com/artist/2l8Tq6BJXM577DlQtIlNsa"
+        }
+      ],
+      "duration_ms": 200828,
+      "name": "Still Glowin' - MH Disco Mix",
+      "url": "https://open.spotify.com/track/00RXWUQ3r4v9zTwV3za3wO"
+    },
     {
       "added_at": "2025-04-25 04:00:48",
       "album": {
@@ -867,26 +891,6 @@
       "duration_ms": 270804,
       "name": "1988",
       "url": "https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu"
-    },
-    {
-      "added_at": "2021-07-26 17:42:45",
-      "album": {
-        "name": "2 Steps Away",
-        "url": "https://open.spotify.com/album/6iUteCVnLSRnsGVgUKlQku"
-      },
-      "artists": [
-        {
-          "name": "The Pendletons",
-          "url": "https://open.spotify.com/artist/7LzEoX1kEvrogY1Vc5bl55"
-        },
-        {
-          "name": "Gizelle Smith",
-          "url": "https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Keep It Working",
-      "url": "https://open.spotify.com/track/37prvjDLAyANTa26VVggl3"
     },
     {
       "added_at": "2021-07-26 17:42:45",

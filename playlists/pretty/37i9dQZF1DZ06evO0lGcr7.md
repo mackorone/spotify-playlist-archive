@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 
 > This is mxmtoon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,257 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,253 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 23 | [dramatic escape](https://open.spotify.com/track/1Rh3J0oTvXLEsVmaZoSurn) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:50 |
 | 24 | [blister in the sun](https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [true colors \(from Life is Strange\)](https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h) | 2:24 |
 | 25 | [the idea of you](https://open.spotify.com/track/1g1Ni37doHAEjypC9SrFoY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 2:47 |
-| 26 | [dance \(end of the world\)](https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 |
-| 27 | [elevator](https://open.spotify.com/track/1TkpDBOASLm2yj7ZEuSmgk) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:08 |
-| 28 | [please don't](https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR) | 4:16 |
+| 26 | [please don't](https://open.spotify.com/track/13udwRO2lxuI5CQCgQKs0i) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [please don't](https://open.spotify.com/album/0FML2Vg1z5EvafxbbY1PVR) | 4:16 |
+| 27 | [just a little](https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 3:44 |
+| 28 | [dance \(end of the world\)](https://open.spotify.com/track/4gyCjsvbbt3PBICIiYlTG4) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:38 |
 | 29 | [Queen](https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Queen](https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7) | 3:16 |
-| 30 | [used to you](https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:54 |
-| 31 | [just a little](https://open.spotify.com/track/79nTjYPEirzCDbSrMF6Qk7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 3:44 |
-| 32 | [unspoken words](https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 4:06 |
-| 33 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 |
+| 30 | [unspoken words](https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 4:06 |
+| 31 | [elevator](https://open.spotify.com/track/1TkpDBOASLm2yj7ZEuSmgk) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:08 |
+| 32 | [ok on your own](https://open.spotify.com/track/3B3AzChR44z7JxsiWB47Xw) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:28 |
+| 33 | [used to you](https://open.spotify.com/track/3UsxVebZkPE4TUvon8IHiS) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dawn](https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy) | 2:54 |
 | 34 | [porcelain](https://open.spotify.com/track/480dcljP2jOjTKLYpbQllC) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [plum blossom](https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe) | 4:31 |
 | 35 | [VHS](https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:52 |
 | 36 | [blame game](https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0lGcr7.md) - [plain]
 | 49 | [victim of nostalgia](https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising](https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN) | 2:36 |
 | 50 | [So Mean](https://open.spotify.com/track/67LVRpGwukS1vEO8nNzT37) | [afternoon](https://open.spotify.com/artist/7i95A726HxGqwlaEVDxtNM), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Samsa](https://open.spotify.com/artist/5FN9kuAUamAd4IadVnH4jH) | [So Mean](https://open.spotify.com/album/24sVYdbUT74K1lO3lTnbOe) | 4:30 |
 
-Snapshot ID: `aKO+gAAAAADktA6p1KKWBJW+FM+fr0sG`
+Snapshot ID: `aKZhgAAAAAByWbhDR/u4s2GhYQEx3tIs`

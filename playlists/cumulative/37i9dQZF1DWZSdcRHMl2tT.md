@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-591 songs - 1 day 4 hr 26 min
+595 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Bored](https://open.spotify.com/track/0zsaCI7LPbR48ws0Yc1ckc) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Bored](https://open.spotify.com/album/7xmuoVkyUslG8EVzL8Ubok) | 2:24 | 2024-06-11 |  |
 | [Bottom of the Planet](https://open.spotify.com/track/1lIRzvFbQpX7eiFOttAeXT) | [Co Kluin](https://open.spotify.com/artist/5KHUSgxUWMd7zD4rFtr7h5) | [Bottom of the Planet](https://open.spotify.com/album/4a4LtaD2DB5Z3C3WM4n7N5) | 3:44 | 2025-01-10 |  |
 | [Breeze](https://open.spotify.com/track/42mPGV6cDZHkPbRoSMzE1A) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Breeze](https://open.spotify.com/album/2oFMPl1PAYVyvBGINyW9T7) | 2:46 | 2025-06-16 |  |
+| [Breeze In](https://open.spotify.com/track/4lST80M4KeO6N6GDNwkHNL) | [Gaël Isolée](https://open.spotify.com/artist/7BiXGun6Yv7YNJZKflQtOh) | [Breeze In](https://open.spotify.com/album/01tHyBDEnJHuylMZPNAgmr) | 2:31 | 2025-08-22 |  |
 | [Brooklyn Café](https://open.spotify.com/track/7ABcu8abthGXp26NswHwh2) | [Palm Club](https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv) | [Brooklyn Café](https://open.spotify.com/album/2NVjMTfZNEdr0Ov2QW0ox8) | 1:56 | 2025-04-25 |  |
 | [bubbly fun](https://open.spotify.com/track/4EgmPP8fBkVxL4jDUEhQ8n) | [fxhash](https://open.spotify.com/artist/0p1FUiIp2oM3aFekQZYR6j) | [bubbly fun](https://open.spotify.com/album/4cN9GCj0Q9bohgKoXWQhjO) | 2:48 | 2022-09-02 |  |
 | [Buon Complenno](https://open.spotify.com/track/7Ezwg9O6YVGrjHi77UoQcv) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Buon Complenno](https://open.spotify.com/album/50Gn8EsOm7ByMJKTdrhBNd) | 2:59 | 2025-02-21 |  |
@@ -220,6 +221,7 @@
 | [Hanging Out](https://open.spotify.com/track/5sxk6ElBzgcFqneVR1Uug6) | [Neotronicz](https://open.spotify.com/artist/6LvxEsI0dKlKpN7RHthHOf) | [Hanging Out](https://open.spotify.com/album/1QqzZApC7xi8JtVEGXDMBr) | 2:55 | 2022-04-05 | 2025-01-11 |
 | [Happy Days](https://open.spotify.com/track/7AiJfQZHFp6EMbpeYFOXxj) | [Vood Gibes](https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN) | [Happy Days](https://open.spotify.com/album/2gx6CElSxguWozs3cHJyUw) | 3:16 | 2022-04-05 | 2023-01-07 |
 | [Have A Snack](https://open.spotify.com/track/0uD4qS3LkxShtOlJf4K4oG) | [Major Mirror](https://open.spotify.com/artist/4TJKZfkv0XFP29x1TVBSny) | [Have A Snack](https://open.spotify.com/album/4wdMuGMzmNjX5lNTtXLG9b) | 2:44 | 2025-06-16 |  |
+| [Haven](https://open.spotify.com/track/3ZeIbh9lXkt0tk6OqgC29n) | [Pello Esso](https://open.spotify.com/artist/4Bxpz0ttb5aP5b7rIc81J6) | [Haven](https://open.spotify.com/album/0oPNNiF8cyunxPc7QdQSQm) | 2:57 | 2025-08-22 |  |
 | [Hazy](https://open.spotify.com/track/3JDWe0YJ7fwIGpXchl79C0) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [Hazy](https://open.spotify.com/album/1rHb2fhThB9QtSsxPV1G2m) | 2:15 | 2025-07-17 |  |
 | [head east](https://open.spotify.com/track/47BhuJCF6i496FcleIShvI) | [bonaira](https://open.spotify.com/artist/0DSl0jXUEASDzduwv7VOgQ) | [head east](https://open.spotify.com/album/1aNqfWGFPBZjusOMdxRT1l) | 2:08 | 2024-06-11 |  |
 | [Heart On Fire](https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG) | [Ingbrit](https://open.spotify.com/artist/1oqi1KuDH3koFICALPltAS) | [Heart On Fire](https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN) | 2:28 | 2022-04-05 | 2022-05-20 |
@@ -321,6 +323,7 @@
 | [Missing You \- Edit](https://open.spotify.com/track/3kz48YBXaevUhbPmVOIIeR) | [Traumen](https://open.spotify.com/artist/4HBtYshoPlAco0bw0tbFPq) | [Missing You \(Edit\)](https://open.spotify.com/album/19rs2mF1OBzZVSqFIm4kz6) | 4:02 | 2022-04-05 | 2022-05-11 |
 | [misty mind](https://open.spotify.com/track/102zs3avhOThDCgsnHfJ6q) | [kilowattz](https://open.spotify.com/artist/6Bs4E2TGDPdl77feKWHpiN) | [misty mind](https://open.spotify.com/album/0s05LnnEMwRsijxcg3nClv) | 2:23 | 2022-08-19 |  |
 | [Mockingbirds](https://open.spotify.com/track/6kfFIKQp1CWCq7BLCsdJ0L) | [Natasha Fierce](https://open.spotify.com/artist/281dPcxZwBbfyWO1foC6bV) | [Mockingbirds](https://open.spotify.com/album/4oQqeJyd6TLiJEgh2pDSls) | 2:12 | 2025-01-10 |  |
+| [Mondello](https://open.spotify.com/track/0P8M2AcRc1Am3BYI7GGph8) | [Oldofredi](https://open.spotify.com/artist/2o1RrTh4ndGzk8CvWLvv0l) | [Mondello](https://open.spotify.com/album/3cPaf60UYpe1c22HMbLBf8) | 2:06 | 2025-08-22 |  |
 | [Montanita](https://open.spotify.com/track/43xOfLbXEEFWZCqb3YCkmN) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Montanita](https://open.spotify.com/album/26UWyFFPTYnILijzjzLb3o) | 2:33 | 2024-05-11 |  |
 | [Moon](https://open.spotify.com/track/7bLbcnwdltIa6i1ebLAQlb) | [Safe Tock](https://open.spotify.com/artist/2Wz1Gs5fSAP2v31hzx113t) | [Moon](https://open.spotify.com/album/3M46ScNsRcUadJs8j5qajr) | 2:56 | 2022-04-05 |  |
 | [Moonlight](https://open.spotify.com/track/4Lwd2CrXwIa72w4AngkAOT) | [King Bøb](https://open.spotify.com/artist/41zvJbIz0wTbdM8KBB6vRy) | [Moonlight](https://open.spotify.com/album/76KYIw7mjfAx9nYLF8mSuc) | 2:34 | 2025-06-16 |  |
@@ -550,6 +553,7 @@
 | [Time Traveller](https://open.spotify.com/track/6VHSgqxQmWHlFuQKk1tX1x) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [The Sinner — Time Traveller](https://open.spotify.com/album/7hSgjrlCxz6UvQMeX4jjvt) | 4:53 | 2022-04-05 | 2022-07-29 |
 | [Tombstone Diploma](https://open.spotify.com/track/5jL5LiIeD5eJ3kTvrx2D6K) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Solvable](https://open.spotify.com/album/3ygEnJjQY0S9mDyYy2sVcB) | 3:48 | 2022-04-05 | 2025-01-11 |
 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 | 2022-04-05 | 2022-05-20 |
+| [Touch](https://open.spotify.com/track/2y69Kb0l8f3Md6iw9vwtVk) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Touch](https://open.spotify.com/album/5yoabdMFhwofYRHXSk7SSC) | 2:32 | 2025-08-22 |  |
 | [Tracer Arcs](https://open.spotify.com/track/0f8LcCSouQTN5iE8qVrHsp) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Tracer Arcs](https://open.spotify.com/album/2NuBMVkXAAMI9Yi2duG8Ek) | 3:18 | 2022-09-02 | 2024-08-02 |
 | [Train of Thought](https://open.spotify.com/track/3Uflrmt2A0RFUNS42zasqE) | [Ealot](https://open.spotify.com/artist/6sJse0O3SfTxVeFiG1D4Mq) | [Slightly Spinning](https://open.spotify.com/album/75Swu0xsGLyKZDmE0TACOF) | 4:06 | 2022-04-05 | 2022-05-11 |
 | [Travolta](https://open.spotify.com/track/4aL6ArytlzfYU49VPTFisX) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Travolta](https://open.spotify.com/album/4MDDzBeqGKO1SSWjVvpQMU) | 3:35 | 2023-03-10 | 2024-09-24 |

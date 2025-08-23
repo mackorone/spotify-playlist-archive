@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,868 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,880 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 9 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 10 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 |
 | 11 | [悪夢のような](https://open.spotify.com/track/57tkpJBjbHMdCD9BCA7vxL) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 4:19 |
-| 12 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
-| 13 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
+| 12 | [The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:10 |
+| 13 | [cliché](https://open.spotify.com/track/3aD33slymVwdEcdbKUBnDu) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [cliché](https://open.spotify.com/album/2zCyRKoQozz3iTdTi3o8mi) | 2:56 |
 | 14 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 15 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 |
 | 16 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 29 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 30 | [Take me back](https://open.spotify.com/track/3CkBVxtfny3epwPhQfw9t8) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Take me back](https://open.spotify.com/album/2lNf4UcthxACQ1Ks8BUw98) | 3:45 |
 | 31 | [vampire diaries](https://open.spotify.com/track/03HuVUgzwdz4HNn6qiEPmJ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [vampire diaries](https://open.spotify.com/album/0vYEdQ4He21cO04eKYiU7O) | 2:35 |
-| 32 | [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 |
-| 33 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
-| 34 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
-| 35 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 |
+| 32 | [Caramel](https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Wishbone](https://open.spotify.com/album/1Q0kTJx8DrQd8RJW9L7eIN) | 3:54 |
+| 33 | [DIFFERENT](https://open.spotify.com/track/0c6PVOqHNDuhH6uNfA13IX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/3ktE9BFKxeYT90NbKnDn7v) | 2:21 |
+| 34 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 |
+| 35 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |
 | 36 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
 | 37 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 38 | [Hold Me Closer](https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer](https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6) | 3:22 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 41 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
 | 42 | [mangetout](https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [moisturizer](https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy) | 3:24 |
 | 43 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
-| 44 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
-| 45 | [未確認領域](https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [未確認領域](https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO) | 2:53 |
+| 44 | [未確認領域](https://open.spotify.com/track/14KZzCx6mbOCeM0e5iFt3N) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [未確認領域](https://open.spotify.com/album/0PWlfMnADAMGN7SIpvN4LO) | 2:53 |
+| 45 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 |
 | 46 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
 | 47 | [SHOOTING STAR](https://open.spotify.com/track/3IelG5zYpWWCZIH4cqWlPV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SHOOTING STAR](https://open.spotify.com/album/1Gi6ij4Jxc4qE35i3I0gqS) | 3:23 |
 | 48 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 |

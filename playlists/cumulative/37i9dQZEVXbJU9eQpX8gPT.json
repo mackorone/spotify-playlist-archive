@@ -3858,6 +3858,24 @@
     {
       "album": {
         "name": "BEAU-COUP",
+        "url": "https://open.spotify.com/album/3hYuQ5LytX6jLp5ztr0xxJ"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "BEAU-COUP",
+      "url": "https://open.spotify.com/track/0jUmJoesKJIjx0p2V26F7M"
+    },
+    {
+      "album": {
+        "name": "BEAU-COUP",
         "url": "https://open.spotify.com/album/12Jze1F3SWKS1pE99i8fOt"
       },
       "artists": [
@@ -6272,7 +6290,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -6302,7 +6320,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 155248,
       "name": "Charger",
       "url": "https://open.spotify.com/track/3yXwdtQVgBMLFG24Ez63LZ"
@@ -15640,7 +15658,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 140750,
       "name": "KA3I",
       "url": "https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5"
@@ -16582,7 +16600,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 177185,
       "name": "Koulchi Dial Allah",
       "url": "https://open.spotify.com/track/0GPtVF1UqnrO0kro91AhyM"
@@ -35718,7 +35736,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 205352,
       "name": "\u0623\u0641\u0634\u062a\u0646\u064a",
       "url": "https://open.spotify.com/track/0TLJPWdBF6S1dLrPixXWMV"

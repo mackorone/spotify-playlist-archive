@@ -4,7 +4,7 @@
 
 > All the new indie tracks worth knowing about\. Cover: Dominic Fike
 
-1,012 songs - 2 day 10 hr 1 min
+1,012 songs - 2 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -645,6 +645,7 @@
 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 | 2024-12-19 | 2025-02-14 |
 | [My Love](https://open.spotify.com/track/4XM4c3zMS0orMhblnrZwnS) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [My Love](https://open.spotify.com/album/4Flne5uLAm16EoUCf2DgDt) | 2:44 | 2025-06-12 | 2025-08-08 |
 | [my love](https://open.spotify.com/track/1rqnSTuaNTr3F5t2Q2gx3d) | [mou](https://open.spotify.com/artist/0hjU3zARYvc8H37k4RCqjt) | [a few thoughts](https://open.spotify.com/album/6J01H7cgmsdyQzodSkTcoo) | 3:49 | 2025-01-30 | 2025-02-28 |
+| [My Love Dont Treat Me Right](https://open.spotify.com/track/7vrClE4g89H9OwRtuzW8Ud) | [Freddy Crabs](https://open.spotify.com/artist/5KoEtVSR2tzPzXz5Nun6OV) | [Good To Waste](https://open.spotify.com/album/1ZXlBSRAMpwm6fhOIMXtZ7) | 3:19 | 2025-08-21 |  |
 | [MY RELEASE](https://open.spotify.com/track/45mL6vnjcXGGSZ1R4nQXFp) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [MY RELEASE](https://open.spotify.com/album/0D52WbamKzwFj3s3vhBkR8) | 3:08 | 2024-09-26 | 2024-11-22 |
 | [Nack Nostalgia](https://open.spotify.com/track/5MAKcQ6f6QvqZE21KD2AW5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Nack Nostalgia](https://open.spotify.com/album/0T76MIpjGDea7AZyBjqoPA) | 3:07 | 2024-07-18 | 2024-10-04 |
 | [Nails](https://open.spotify.com/track/2B83qROUA5odTV8wku4N2W) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Nails](https://open.spotify.com/album/3W5gzm7IExxZUhjFjgSXCe) | 3:10 | 2024-11-21 | 2025-01-24 |
@@ -934,7 +935,6 @@
 | [Too Timid](https://open.spotify.com/track/5XSxXLUFrOvxZcV7EQPWCg) | [Holdan Sutton](https://open.spotify.com/artist/4VRRVLm2L1yeCKSFGR57zl) | [Vagabond](https://open.spotify.com/album/3pjhuVZMiqjxKUIQEIKKeu) | 5:08 | 2024-08-08 | 2024-09-13 |
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-20 | 2025-05-23 |
 | [Touching and Talking](https://open.spotify.com/track/6gHoCgosSQzDgZngAAIbmk) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Touching and Talking](https://open.spotify.com/album/63nBX7FKEB6e9j5NyFu2yF) | 3:16 | 2024-07-11 | 2024-08-09 |
-| [Track 5](https://open.spotify.com/track/7vrClE4g89H9OwRtuzW8Ud) | [Freddy Crabs](https://open.spotify.com/artist/5KoEtVSR2tzPzXz5Nun6OV) | [Good To Waste](https://open.spotify.com/album/1ZXlBSRAMpwm6fhOIMXtZ7) | 0:00 | 2025-08-21 |  |
 | [Tractor Beams](https://open.spotify.com/track/5F8SZeipQ3cEN2gZ8BxSpO) | [Tutara Peak](https://open.spotify.com/artist/6GqQziMdX3FNMhEx9zd3NX), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Tractor Beams](https://open.spotify.com/album/43DvYfPb4cbuQr2wnBhdh9) | 3:18 | 2024-08-01 | 2024-09-06 |
 | [Transmuted Matter](https://open.spotify.com/track/7zURyQnzkBzFygOxIDdyTf) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transmuted Matter](https://open.spotify.com/album/6QkrEzypKMm9yt90JpeY6U) | 4:16 | 2025-05-22 | 2025-07-25 |
 | [Trinidad](https://open.spotify.com/track/0dklIrKepdHzKMo7ViDpyI) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Trinidad](https://open.spotify.com/album/2F5SSX6eyJQv3OJIUV1Y6x) | 3:44 | 2025-07-31 | 2025-08-22 |

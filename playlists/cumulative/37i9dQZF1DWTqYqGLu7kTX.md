@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Sidhu Moose Wala
+> Best of Punjabi Hip\-Hop! Cover:  Navaan Sandhu
 
 285 songs - 14 hr 7 min
 

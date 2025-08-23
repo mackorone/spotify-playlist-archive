@@ -4,7 +4,7 @@
 
 > This is Tyla\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 47 min
+32 songs - 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2025-03-04 |  |
 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-11 |  |
 | [Breathe Me](https://open.spotify.com/track/5lpeQDudD4Dns3m3UjFx0y) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 3:21 | 2025-03-04 | 2025-03-15 |
-| [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 | 2025-07-27 |  |
+| [DYNAMITE](https://open.spotify.com/track/1myE3bHoWoSO5hyr3MxdHJ) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [DYNAMITE](https://open.spotify.com/album/0mk0S1Ytt2fDJYvc4AdzAQ) | 2:57 | 2025-08-23 |  |
+| [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 | 2025-07-27 | 2025-08-23 |
 | [Getting Late](https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Getting Late](https://open.spotify.com/album/2N8jO8NkQ0pUyA0MFqRZM6) | 4:14 | 2025-03-04 |  |
 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 | 2025-03-04 |  |
 | [Girls Need Love \(Girls Mix\) \(feat\. Tyla\)](https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Girls Need Love \(Girls Mix\)](https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71) | 2:38 | 2025-03-04 |  |

@@ -2,9 +2,9 @@
 
 ### [Romcom](https://open.spotify.com/playlist/37i9dQZF1DX4cizS4wQeF2)
 
-> “My Mr\. Darcy\. My Rochester\. My … Felix.” ❤️ Cover: Jess and Felix in Too Much
+> he loves me not, he loves me
 
-134 songs - 8 hr 14 min
+135 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Thousand Miles](https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP) | [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Be Not Nobody](https://open.spotify.com/album/5e7T2qUigzt0oIr50KsOld) | 3:57 | 2022-12-31 |  |
 | [Accidentally In Love](https://open.spotify.com/track/4ccM2xBxicGigjLqt6A0YY) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Accidentally In Love](https://open.spotify.com/album/70NalxU5fQaMxOpe0T69Ob) | 3:08 | 2022-12-31 |  |
 | [All You Wanted](https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:37 | 2022-12-31 |  |
-| [Are You with Me Now?](https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Mug Museum](https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O) | 4:20 | 2025-07-14 |  |
+| [Are You with Me Now?](https://open.spotify.com/track/7JSKAwskeR9SGtwJdarODc) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Mug Museum](https://open.spotify.com/album/5xXP2gI8U35p389RggZW6O) | 4:20 | 2025-07-14 | 2025-08-23 |
 | [Autumn Leaves \- Remastered 1987](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2023-10-24 | 2025-03-22 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-12 | 2024-09-13 |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-07-05 | 2025-02-11 |
@@ -25,8 +25,9 @@
 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 | 2024-01-22 | 2024-04-19 |
 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 | 2025-07-14 |  |
 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 | 2022-12-31 |  |
+| [Castle in Hollywood](https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:33 | 2025-08-22 |  |
 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 | 2022-12-31 | 2023-06-09 |
-| [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 | 2025-05-27 |  |
+| [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 | 2025-05-27 | 2025-08-23 |
 | [Closing Time](https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [20th Century Masters: The Millennium Collection: Best Of Semisonic](https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L) | 4:34 | 2022-12-31 |  |
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2022-12-31 | 2023-10-25 |
 | [Cruel to Be Kind](https://open.spotify.com/track/7xwQQFE2sujoxValiZrkm4) | [Letters To Cleo](https://open.spotify.com/artist/7E41j1yL9ZeTWfqe9bUGgw) | [When Did We Do That?](https://open.spotify.com/album/1c2pJwy1y3eSP2Nknt0rp8) | 3:02 | 2022-12-31 | 2023-06-09 |
@@ -83,7 +84,7 @@
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-12-31 |  |
 | [Now I'm In It \- Bonus Track](https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:24 | 2024-10-11 | 2024-11-26 |
 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 | 2023-11-16 | 2025-05-28 |
-| [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 | 2023-06-08 |  |
+| [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 | 2023-06-08 | 2025-08-23 |
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2022-12-31 | 2023-06-09 |
 | [Perfect Day \- Chris Lord Alge Mix](https://open.spotify.com/track/0frKt739Ov9vvKS3JRu5Vi) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Legally Blonde](https://open.spotify.com/album/4ahahKSnwRkqMcJrC8uguE) | 3:26 | 2023-06-08 |  |
 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 | 2024-07-02 | 2024-10-11 |

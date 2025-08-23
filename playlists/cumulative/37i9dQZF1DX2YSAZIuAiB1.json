@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 139823,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/4BYLTiLrlybFhX0OSeNkSa"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 194840,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/30TmLgK0ja5O8q9l4BShIX"
@@ -3546,6 +3546,24 @@
       "duration_ms": 192631,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6X70MJKhqu5SvjQ7IYLZdJ"
+    },
+    {
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "album": {
@@ -5116,6 +5134,24 @@
       "duration_ms": 144000,
       "name": "Laho",
       "url": "https://open.spotify.com/track/0lhLSwvRKGHfIcVEz3uQK6"
+    },
+    {
+      "album": {
+        "name": "Reinsertado 2.0",
+        "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Lamine",
+      "url": "https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ"
     },
     {
       "album": {
@@ -9981,6 +10017,28 @@
     },
     {
       "album": {
+        "name": "Encore / Viano",
+        "url": "https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf"
+      },
+      "artists": [
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111764,
+      "name": "Viano",
+      "url": "https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW"
+    },
+    {
+      "album": {
         "name": "Vidrado Em Voc\u00ea",
         "url": "https://open.spotify.com/album/2EjRuOYSlELWIleNx7lDbe"
       },
@@ -10840,7 +10898,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 196274,
       "name": "Zun Zun",
       "url": "https://open.spotify.com/track/7uQ3MlGpYURF2ED8E5xFIa"

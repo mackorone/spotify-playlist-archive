@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,291 likes - 75 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,381 likes - 75 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 14 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
 | 15 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 |
 | 16 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
-| 17 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
+| 17 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
 | 18 | [Runar](https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Runar](https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS) | 4:20 |
-| 19 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
+| 19 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
 | 21 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 22 | [Blot](https://open.spotify.com/track/0YYZwCwlj4LVEsQxPPJJmf) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Blot](https://open.spotify.com/album/1ADhesMd0cTTjL8Vv44Idf) | 5:13 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 56 | [Die Welle](https://open.spotify.com/track/3r46i87MmG57Nmrrnfo2Mj) | [Rauhbein](https://open.spotify.com/artist/0neCOkQjYXJMLW7cvOw6fe) | [Die Welle](https://open.spotify.com/album/7KTsLcGCa66kwmjYsXCTZl) | 4:42 |
 | 57 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |
 | 58 | [Anaia](https://open.spotify.com/track/3zV5XvBjP9uvQlfW2z7hCC) | [IANAI](https://open.spotify.com/artist/1yGcDrrvQWSoki7RrXWPhh), [Client N](https://open.spotify.com/artist/4ItT2MdjEl4l5HrxkWT9QF) | [Sunir](https://open.spotify.com/album/4LmG2mr04QCWGQ51SiDrWA) | 6:38 |
-| 59 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
-| 60 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
+| 59 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
+| 60 | [Set the Sails](https://open.spotify.com/track/6ZOx4ehXa8K2LESIQzIaqA) | [Storm Seeker](https://open.spotify.com/artist/4zAK8a87dIdPw6xRYvsr4c) | [Set the Sails](https://open.spotify.com/album/32yJV9RCY9rHW8Hc2isL1c) | 3:16 |
 | 61 | [Les](https://open.spotify.com/track/4zrkDm3R7bM53Tvknv5dks) | [Theodor Bastard](https://open.spotify.com/artist/2PQ9UX4kWDE3mf2fYGRzqF) | [Volch'ya Yagoda](https://open.spotify.com/album/0UWdMPkfaHzQclhYQc43fS) | 4:09 |
 | 62 | [Sun and the Morning Star](https://open.spotify.com/track/5UcGAYuUcxiGt7Wc2SwWBu) | [Romuvos](https://open.spotify.com/artist/0GlwrXB5cmvWo091lMFeud) | [Sun and the Morning Star](https://open.spotify.com/album/5Lg1rhYDzoYgL6XFEnHnKA) | 5:23 |
 | 63 | [Fenris](https://open.spotify.com/track/1QvKHj2NLCuJoFeoe30nLU) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Fenris](https://open.spotify.com/album/7LDHiI3WUZhXqh313wu87n) | 5:47 |

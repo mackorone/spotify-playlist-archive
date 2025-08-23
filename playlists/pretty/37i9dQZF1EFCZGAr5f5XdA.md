@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,060 likes - 212 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,075 likes - 212 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 84 | [Crop Circles](https://open.spotify.com/track/2SCUNHTUORvAnmWjSsp5Ib) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Crop Circles](https://open.spotify.com/album/4oNTQtyqMltQXSnrmgMYWh) | 2:27 |
 | 85 | [Woodstock \(Psychedelic Fiction\)](https://open.spotify.com/track/0Do59HJNKcUliLc888Y2eT) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Woodstock \(Psychedelic Fiction\)](https://open.spotify.com/album/6wtd9JG4eEefueLT5iz49z) | 4:42 |
 | 86 | [Don't Say Love](https://open.spotify.com/track/0qXGuBm0tmBLjC7InLM3EK) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Don't Say Love](https://open.spotify.com/album/6XvWGtXvrMdVsFNExEBCDC) | 3:00 |
-| 87 | [The Internet](https://open.spotify.com/track/359Q4gGdrQIFhRzs7J8gZu) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:09 |
-| 88 | [Montana Sky](https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:49 |
+| 87 | [Montana Sky](https://open.spotify.com/track/2jpVAeVwDtvOwdyUYH3NxN) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:49 |
+| 88 | [The Internet](https://open.spotify.com/track/359Q4gGdrQIFhRzs7J8gZu) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 3:09 |
 | 89 | [Surfboard](https://open.spotify.com/track/7rnhxvGrHEEu1KFzb7fpxh) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Surfers Paradise \(Expanded\)](https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH) | 2:56 |
 | 90 | [Munny Right](https://open.spotify.com/track/28pdIEbChDEj6JdhAuuXU9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Definition](https://open.spotify.com/album/7EOvtHDxbltA0GNC4mvLAC) | 4:13 |
 | 91 | [Celebrate!](https://open.spotify.com/track/3qXOcbRVwKySRfN0k6BDrf) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:06 |
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 152 | [shelter](https://open.spotify.com/track/6ZX1PCq8GsEkjoDPiw800u) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:51 |
 | 153 | [Timeless](https://open.spotify.com/track/7ftFKr5YodntV2NlzbUgIy) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:29 |
 | 154 | [Robin Williams](https://open.spotify.com/track/1pyQEXRG3YxxMzNVzfjBFM) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [Heart Blanche](https://open.spotify.com/album/4V7teI9GVCoLf6BNdaNj29) | 3:29 |
-| 155 | [Worship](https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:13 |
-| 156 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
+| 155 | [Heaven II](https://open.spotify.com/track/3pRuLrdzQsaQHnBNijp6gN) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Heaven II](https://open.spotify.com/album/6WANqC81U0YJJ6fwBIPReZ) | 2:27 |
+| 156 | [Worship](https://open.spotify.com/track/0wEDbE7HCmrTPKxKCqKj7G) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 4:13 |
 | 157 | [Antidote](https://open.spotify.com/track/4bxH0J1mnut9n5KwnuOHc9) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 4:08 |
 | 158 | [23](https://open.spotify.com/track/4APGetG5oDxfKFAb7MRu1B) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:09 |
 | 159 | [One More Time](https://open.spotify.com/track/4wPbR6XonWB7fiyWUMAaH2) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [The Separation](https://open.spotify.com/album/0Qfwzu4yfzVUIrBLittdDO) | 2:59 |
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 163 | [Beautiful Problem \(feat\. Maty Noyes & gnash\)](https://open.spotify.com/track/5V6Z0byDlUIfvXY7xE5sCp) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Maty Noyes](https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Movie](https://open.spotify.com/album/2EQ6FlyXmzemCGFvTXHauN) | 4:21 |
 | 164 | [Wutup Snow?](https://open.spotify.com/track/1hovFMWdOBsbZWxP3roR0L) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Blaque Keyz](https://open.spotify.com/artist/0OLVptinKCohT8CL3TFY9s) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:49 |
 | 165 | [Don't Ask Cuz I Don't Know](https://open.spotify.com/track/0yBylQ4liLmENeK82vnHOb) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Translations Through Speakers](https://open.spotify.com/album/0aRIVhGZ5l7pmaBF38fgby) | 3:15 |
-| 166 | [Family Business](https://open.spotify.com/track/0h4K1pD8oD1iBPDv1PNRhg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:18 |
-| 167 | [FATHER FIGURE](https://open.spotify.com/track/2GEoDwjcRfDxHOiLbi7CWS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:51 |
+| 166 | [FATHER FIGURE](https://open.spotify.com/track/2GEoDwjcRfDxHOiLbi7CWS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:51 |
+| 167 | [Family Business](https://open.spotify.com/track/0h4K1pD8oD1iBPDv1PNRhg) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/0QnFcE6t41aRG81YG0POM8) | 3:18 |
 | 168 | [alive if i die](https://open.spotify.com/track/24qUDiph2ajBkfSuaIsX1C) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [tori](https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd) | 2:34 |
 | 169 | [oceans](https://open.spotify.com/track/14HmdbVhtDR1R32qgNZx1N) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:38 |
 | 170 | [Love These Days](https://open.spotify.com/track/2cXu6oGXOieNkFViXTHBEi) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [It’s The End Of The World But It’s A Beautiful Day](https://open.spotify.com/album/08qd1EHSPOu0RHlIOgyYDf) | 3:00 |
@@ -221,4 +221,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 211 | [Break These Walls](https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/0wdTfLFDfMVMdxtGf1iHzL) | 3:51 |
 | 212 | [Bad for Me](https://open.spotify.com/track/1vkQ1EwVJrCi90UFfpzMuv) | [JustinLee](https://open.spotify.com/artist/4Tf3jFnlqCpYMeeFkvF1Mz) | [Tennessee Backroad](https://open.spotify.com/album/7F0po7F6sk6HrJnv0zerrs) | 0:56 |
 
-Snapshot ID: `Ab6H6gAAAADpEvo/iI82m2yy0sWd+Olf`
+Snapshot ID: `Ab6NigAAAAAEQqiU4uDpVeVD3oR6hwLr`

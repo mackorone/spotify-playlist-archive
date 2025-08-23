@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Esoterica
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,840 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,846 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 69 | [BMB \(Be My Baby\)](https://open.spotify.com/track/53UX7O9CVsStlmDJ6JxPoW) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [BMB \(Be My Baby\)](https://open.spotify.com/album/7hAxhFNm53bIbzNbarbs5f) | 3:04 |
 | 70 | [When I Am Home](https://open.spotify.com/track/4egw8ZWUgQF7LfxPJCA7Nd) | [Adam Srae](https://open.spotify.com/artist/3QxhXJxbonsOqLObAIuKAE), [Kidda X](https://open.spotify.com/artist/5egalTdmPOZMftBz4n0nrC), [Chuks BK](https://open.spotify.com/artist/6RKxYmaJnCRs01HNsj8JDS) | [This Is Me, Thinking Out Loud...](https://open.spotify.com/album/1MAq3lQX2tkx4TFdO5sQEU) | 3:12 |
 
-Snapshot ID: `AAAAAIbIm3BTh1UgndvwlUBvr7Mf/zSn`
+Snapshot ID: `AAAAAK8qq9sDoQjIQYcmZqSeprKfHyYN`

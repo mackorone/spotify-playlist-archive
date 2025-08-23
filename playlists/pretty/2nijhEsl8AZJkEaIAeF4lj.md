@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 
 > melancholic dreaming… or my go\-to plane playlist
 
-[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 330 songs - 21 hr 17 min
+[lanuarii](https://open.spotify.com/user/22u4wz3kivvtfwyr6rzyeyp6y) - 18 likes - 333 songs - 21 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -338,5 +338,8 @@ pretty - [cumulative](/playlists/cumulative/2nijhEsl8AZJkEaIAeF4lj.md) - [plain]
 | 328 | [I'll Take Care of You \(feat\. Yebba\)](https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 3:20 |
 | 329 | [West Savannah \(feat\. SZA\)](https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 2:47 |
 | 330 | [Drive](https://open.spotify.com/track/3ek4HgBlmvkTWgfT5sTSe9) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 4:18 |
+| 331 | [i think about you all the time](https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 |
+| 332 | [Mariners Apartment Complex](https://open.spotify.com/track/6OG05bPAwUuV3OMvy2Vy1P) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:07 |
+| 333 | [Fuck it I love you](https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:38 |
 
-Snapshot ID: `AAAECzTPerfT9RM6cNHZh/X1qMHtBx9d`
+Snapshot ID: `AAAEDrtsQ2vEJHtlt0vZlokqAuSQTg4r`

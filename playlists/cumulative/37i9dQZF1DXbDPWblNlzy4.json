@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Andr\u00e9s Cepeda con Morat",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Joaquina",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -532,6 +532,24 @@
       "duration_ms": 153610,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
+    },
+    {
+      "album": {
+        "name": "amarillo",
+        "url": "https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210769,
+      "name": "amarillo",
+      "url": "https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD"
     },
     {
       "album": {
@@ -2548,7 +2566,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 198947,
       "name": "Dios Te Cuide",
       "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 168124,
       "name": "El Correcto",
       "url": "https://open.spotify.com/track/4tYgQrGwhpvjfq4ryajgUo"
@@ -3964,6 +3982,24 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "album": {
+        "name": "Indecisa",
+        "url": "https://open.spotify.com/album/5dPuGA5JVHtbrGvenykZNl"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Indecisa",
+      "url": "https://open.spotify.com/track/6J3LSNRHLDxHTZRXiRhRIf"
     },
     {
       "album": {
@@ -5199,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "Me falt\u00f3",
+        "url": "https://open.spotify.com/album/0webXi5AcGJql5HvO6hA2X"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191714,
+      "name": "Me falt\u00f3",
+      "url": "https://open.spotify.com/track/7DDE0MnsqGm9i43o91w98x"
+    },
+    {
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/7rgMmQT0fYd3UPxV6H8jzg"
       },
@@ -5458,7 +5512,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
@@ -7408,6 +7462,24 @@
       "duration_ms": 175074,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/26tLmURZXoOmbFA7pjtvJ4"
+    },
+    {
+      "album": {
+        "name": "Quiero +",
+        "url": "https://open.spotify.com/album/3eF6EiinfXf9fXbyLTxFDv"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
     },
     {
       "album": {
@@ -9532,7 +9604,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 147640,
       "name": "\u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/2gcwAmAnJ3EztIvP5R4bp2"

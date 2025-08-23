@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Kris R.
 
-141 songs - 7 hr 31 min
+142 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Malo H \- Remix](https://open.spotify.com/track/4tAxviSnEboFWHkvIyRo88) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Leandro Santos](https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4) | [Malo H \(Remix\)](https://open.spotify.com/album/5Z7a7ImvcLHz61suUaIQkJ) | 3:18 | 2025-05-27 |  |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-01-28 | 2025-02-08 |
 | [Me Vuelvo Del DIM](https://open.spotify.com/track/4D4QeJRcuThO84Yg1Yu4Tf) | [Sa!koro](https://open.spotify.com/artist/6LNkIoneVxdu31qUNsfRwa), [Milanezie](https://open.spotify.com/artist/6xcD5pcEiRobg9IXphHa5L) | [GRACIAS SA!KO](https://open.spotify.com/album/500MFNZFFYYlyfd8VJZcnT) | 2:18 | 2025-07-23 |  |
+| [Meterlo A Estudiar](https://open.spotify.com/track/2szyeDtOPaBLCenHCMgMP6) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Meterlo A Estudiar](https://open.spotify.com/album/03tK5aJsBoDecyfb7EkuBz) | 2:45 | 2025-08-22 |  |
 | [Mi Imperio Romano](https://open.spotify.com/track/6Nl1sPqRe3H2ovczhCifYJ) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh) | [Mi Imperio Romano](https://open.spotify.com/album/0VYYcdYzRwFV8IXLWdn9RF) | 3:18 | 2025-04-04 | 2025-07-24 |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
 | [MR CHIMB4S](https://open.spotify.com/track/4EDhkGtlJRPf8fnonD0n5q) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs) | [MR CHIMB4S](https://open.spotify.com/album/16CL0gZreRyXOHkovjxRjm) | 2:18 | 2025-08-15 |  |
@@ -106,7 +107,7 @@
 | [Nitiwey](https://open.spotify.com/track/6nz9wJiuRIIydZYLCbfs7h) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Nitiwey](https://open.spotify.com/album/7IrMfVF2uh7Uesibaa52kl) | 3:09 | 2025-08-01 |  |
 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 | 2021-10-15 |  |
 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 | 2021-10-15 |  |
-| [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-10-15 |  |
+| [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-10-15 | 2025-08-23 |
 | [No Sé](https://open.spotify.com/track/3cDTaeeL4b7zSVYXbSoSpS) | [Stailmic](https://open.spotify.com/artist/3JvGIegytK234itXw0xaOY) | [No Sé](https://open.spotify.com/album/7tR03q8Trq7V0i3mYKnZ2j) | 4:05 | 2021-10-15 | 2022-04-09 |
 | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/track/2uCUEMPaiBg3mOBzP0ygId) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Pipo Martinez](https://open.spotify.com/artist/3NBtvR4R4OWimH7bzLOvYB) | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/album/4Js4KZ1XTWxnxM1yi38poT) | 3:15 | 2022-04-08 | 2023-11-18 |
 | [Otros Planes](https://open.spotify.com/track/3YnNJdbJwgJbIY52RqWPVn) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Otros Planes](https://open.spotify.com/album/7xVXWXbRaBCEMXMqnuIWg8) | 3:16 | 2025-06-06 |  |

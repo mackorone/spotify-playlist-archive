@@ -4,7 +4,7 @@
 
 > The best Bass, EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
 
-184 songs - 10 hr 21 min
+185 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Dirty Talk](https://open.spotify.com/track/1b4WGUgsfdiJYStI6W1mo4) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn) | [Dirty Talk](https://open.spotify.com/album/4OQBeRy1QK8N9HdVI657lm) | 2:55 | 2023-12-01 | 2025-03-15 |
 | [Do It To It \- Sub Focus Remix](https://open.spotify.com/track/4z78eVQBoMHg1e4XGp4rMj) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Sub Focus Remix\)](https://open.spotify.com/album/2nHx69FlthuA68GBIjjXuP) | 3:14 | 2023-12-01 | 2025-05-03 |
 | [Dooms Dive](https://open.spotify.com/track/4SW0IfMrQ4UuW1LMfeBChC) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Influences](https://open.spotify.com/album/42f1guaKkopBy81cZpxEA5) | 5:25 | 2023-12-01 | 2025-04-26 |
+| [Downward](https://open.spotify.com/track/43XojkisLpzfgCOlswzavC) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Owl Vision](https://open.spotify.com/artist/5bC2AQ49NEL0cWpev4dgnw) | [Downward](https://open.spotify.com/album/5Ab6nQ9lH6UsBy3IenRuly) | 2:42 | 2025-08-22 |  |
 | [Drift](https://open.spotify.com/track/1a4hoCFbhtk6GtW7o5Ldun) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Drift](https://open.spotify.com/album/4p76NlMgncvuc8OWtKU7TN) | 4:08 | 2023-12-01 |  |
 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 | 2025-04-19 |  |
 | [Drum Beats Go Like](https://open.spotify.com/track/4bW4m8LzKoaqwF8sCI37wn) | [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN) | [Drum Beats Go Like](https://open.spotify.com/album/0Ed341Woml6O3DJJsALmmN) | 3:36 | 2024-05-17 | 2024-11-09 |
@@ -103,7 +104,7 @@
 | [Into The Abyss](https://open.spotify.com/track/0eq4dBI0Z0Jbvz4DxO7SuE) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Into The Abyss](https://open.spotify.com/album/0iPD7Qr7nagkhzLUN9JQek) | 4:05 | 2023-12-01 | 2025-03-15 |
 | [It Gets Better](https://open.spotify.com/track/5erj647SYiDcIR8Zwi6tc9) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [It Gets Better](https://open.spotify.com/album/5YZCCZpKDtTTxtQrVWLGL6) | 3:04 | 2023-12-01 | 2025-05-03 |
 | [It's Our Destiny](https://open.spotify.com/track/0OijABrqIE3h6iDcDjLagm) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [It's Our Destiny](https://open.spotify.com/album/7rWG1YdbCUi4Kd47eK3sUF) | 2:33 | 2023-12-01 | 2025-05-03 |
-| [It's Our Destiny \- Subtronics Remix](https://open.spotify.com/track/1WylHY3NV9jPjRlpHcA8yR) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [UNFOLD Remixes](https://open.spotify.com/album/1Bo6cdGOPSUCSws8BxiRIP) | 3:08 | 2023-12-01 |  |
+| [It's Our Destiny \- Subtronics Remix](https://open.spotify.com/track/1WylHY3NV9jPjRlpHcA8yR) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [UNFOLD Remixes](https://open.spotify.com/album/1Bo6cdGOPSUCSws8BxiRIP) | 3:08 | 2023-12-01 | 2025-08-23 |
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-08-01 |  |
 | [King Steps](https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [King Steps](https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt) | 3:01 | 2024-11-29 |  |
 | [Kintsugi](https://open.spotify.com/track/7IKTp0RWkrNgrdyIZ5Egk4) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og) | [Entangled](https://open.spotify.com/album/1QEb39IfozGparLKKYjPel) | 2:40 | 2025-05-02 |  |

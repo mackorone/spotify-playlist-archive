@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 176785,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
@@ -5174,7 +5174,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 236140,
       "name": "do you think you could love me?",
       "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS"
@@ -14889,6 +14889,24 @@
     },
     {
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/0w0BbQ0cj8XShSDBw07FkP"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195165,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/3OQJW5UCsCjxaA7eYXvV8A"
+    },
+    {
+      "album": {
         "name": "On Everything",
         "url": "https://open.spotify.com/album/79nCVge6Qf4GrdjdTMazLf"
       },
@@ -14926,6 +14944,24 @@
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+    },
+    {
+      "album": {
+        "name": "Closer To Closure",
+        "url": "https://open.spotify.com/album/2B017eOgooRBYlXkefR2wD"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189941,
+      "name": "One",
+      "url": "https://open.spotify.com/track/7DFXLXzUdRbQRt7Gd02Xft"
     },
     {
       "album": {
@@ -16716,6 +16752,28 @@
       "duration_ms": 192592,
       "name": "Rot",
       "url": "https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ"
+    },
+    {
+      "album": {
+        "name": "RUFF RIDE",
+        "url": "https://open.spotify.com/album/3uypo9hATbNvyhiYYpNWQ2"
+      },
+      "artists": [
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        },
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156839,
+      "name": "RUFF RIDE",
+      "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
     },
     {
       "album": {
@@ -23102,7 +23160,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 203756,
       "name": "You Were Supposed To Fall In Love With Me",
       "url": "https://open.spotify.com/track/0SoXqAuZPynaPcE6stG97m"

@@ -1,13 +1,29 @@
 {
-  "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: Olivia Dean",
-  "num_followers": 1187840,
+  "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: Water From Your Eyes",
+  "num_followers": 1188207,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACJOGu8ICElTXQVVJRg2ZmQoI6os",
+  "snapshot_id": "AAAAALeWwybdVgZF7Lvy++jkXITu4LMO",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Nights in Armor",
+        "url": "https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ"
+      },
+      "artists": [
+        {
+          "name": "Water From Your Eyes",
+          "url": "https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Nights in Armor",
+      "url": "https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow"
+    },
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
@@ -89,6 +105,42 @@
       "url": "https://open.spotify.com/track/55hQIuN7pJ7pHjNy9RO4y0"
     },
     {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "tears on his rings and chains",
+        "url": "https://open.spotify.com/album/5DXpvfvNrOTSM2nYL5YlyR"
+      },
+      "artists": [
+        {
+          "name": "Dean Blunt",
+          "url": "https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk"
+        },
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "tears on his rings and chains",
+      "url": "https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 302408,
+      "name": "canal street",
+      "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
       "added_at": "2025-08-15 04:00:26",
       "album": {
         "name": "Closing In",
@@ -137,6 +189,90 @@
       "url": "https://open.spotify.com/track/0gpPi4vOxqC3yFQFPzf9ef"
     },
     {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Braces",
+        "url": "https://open.spotify.com/album/5vfzQerxfyJtjb0eGRdIY4"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 96452,
+      "name": "Braces",
+      "url": "https://open.spotify.com/track/7sXm84Dk5WlETkdzIfdQCT"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Perfect Person (feat. coop)",
+        "url": "https://open.spotify.com/album/3TWKgpC7rrappK0JWHPWWZ"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Perfect Person (feat. coop)",
+      "url": "https://open.spotify.com/track/3fOBaVKw79f4xRTwMkR15w"
+    },
+    {
+      "added_at": "2025-08-08 04:02:53",
+      "album": {
+        "name": "All My Friends Are Models",
+        "url": "https://open.spotify.com/album/5cbN5Z8hTuRVzVDuzJWyCv"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "All My Friends Are Models",
+      "url": "https://open.spotify.com/track/34b6933wH4nOqZGMq3EOMX"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Appalachia",
+        "url": "https://open.spotify.com/album/3yTGd142wMD28wd17gzdpO"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 138043,
+      "name": "Appalachia",
+      "url": "https://open.spotify.com/track/1eh7N11Wxib2KZ5w8eKJ94"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "The Passionate Ones",
+        "url": "https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS"
+      },
+      "artists": [
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "When The War Is Over",
+      "url": "https://open.spotify.com/track/6CSpmRlGT82RrGNJotD9gJ"
+    },
+    {
       "added_at": "2025-08-19 20:55:24",
       "album": {
         "name": "Who's the Clown?",
@@ -169,6 +305,38 @@
       "url": "https://open.spotify.com/track/5K8awOE1oodBf1EquC3ghG"
     },
     {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Chrysalis",
+        "url": "https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 240450,
+      "name": "Little Birds",
+      "url": "https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "say something",
+        "url": "https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 144544,
+      "name": "say something",
+      "url": "https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7"
+    },
+    {
       "added_at": "2025-08-08 04:02:53",
       "album": {
         "name": "how did they know",
@@ -185,20 +353,36 @@
       "url": "https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1"
     },
     {
-      "added_at": "2025-08-08 04:02:53",
+      "added_at": "2025-05-22 19:27:26",
       "album": {
-        "name": "All My Friends Are Models",
-        "url": "https://open.spotify.com/album/5cbN5Z8hTuRVzVDuzJWyCv"
+        "name": "You got time and I got money",
+        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
       },
       "artists": [
         {
-          "name": "Sophia Stel",
-          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 253973,
-      "name": "All My Friends Are Models",
-      "url": "https://open.spotify.com/track/34b6933wH4nOqZGMq3EOMX"
+      "duration_ms": 271583,
+      "name": "You got time and I got money",
+      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
+    },
+    {
+      "added_at": "2025-06-04 15:37:18",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -217,6 +401,38 @@
       "url": "https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz"
     },
     {
+      "added_at": "2025-08-01 04:00:40",
+      "album": {
+        "name": "End Credits",
+        "url": "https://open.spotify.com/album/5buMlOG40ceSS60U9vnzPf"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 180333,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/1cVKKjz0xDKOU95zPLeaJ0"
+    },
+    {
+      "added_at": "2025-08-22 04:00:32",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/7EHj6pF3Xzv4CC9XIiqhTi"
+      },
+      "artists": [
+        {
+          "name": "Been Stellar",
+          "url": "https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh"
+        }
+      ],
+      "duration_ms": 211542,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/5ANlhqIz2ai4B0aZo9NVx5"
+    },
+    {
       "added_at": "2025-08-08 04:02:53",
       "album": {
         "name": "Willoughby Tucker, I'll Always Love You",
@@ -231,6 +447,22 @@
       "duration_ms": 300125,
       "name": "Janie",
       "url": "https://open.spotify.com/track/1ZPct0Fm4bWqtdfmf1Cspt"
+    },
+    {
+      "added_at": "2025-07-02 04:00:05",
+      "album": {
+        "name": "starburn",
+        "url": "https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G"
+      },
+      "artists": [
+        {
+          "name": "crushed",
+          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
+        }
+      ],
+      "duration_ms": 251407,
+      "name": "starburn",
+      "url": "https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N"
     },
     {
       "added_at": "2025-08-15 04:00:26",
@@ -249,36 +481,40 @@
       "url": "https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO"
     },
     {
-      "added_at": "2025-08-15 04:00:26",
+      "added_at": "2025-06-27 04:02:24",
       "album": {
-        "name": "Chrysalis",
-        "url": "https://open.spotify.com/album/7zye78YuqWDxWb3ZLSsXNh"
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
       },
       "artists": [
         {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        },
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
         }
       ],
-      "duration_ms": 240450,
-      "name": "Little Birds",
-      "url": "https://open.spotify.com/track/48f6WJoZEU1TgKsapzSy9m"
+      "duration_ms": 172666,
+      "name": "Post Break Up Beauty",
+      "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
     },
     {
-      "added_at": "2025-08-15 04:00:26",
+      "added_at": "2025-08-08 04:02:53",
       "album": {
-        "name": "Dagger Song",
-        "url": "https://open.spotify.com/album/56HC5Tbuu2LY13my4Spzfy"
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss"
       },
       "artists": [
         {
-          "name": "Daffo",
-          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 246808,
-      "name": "Dagger Song",
-      "url": "https://open.spotify.com/track/6lgMxz2iOpeiDTIeuIR7Be"
+      "duration_ms": 243014,
+      "name": "Pool - Stripped",
+      "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
     },
     {
       "added_at": "2025-08-08 04:02:53",
@@ -315,38 +551,18 @@
     {
       "added_at": "2025-08-15 04:00:26",
       "album": {
-        "name": "Bird Parts",
-        "url": "https://open.spotify.com/album/7g9GJrdCkxpbVM3BY3gSNS"
+        "name": "38 inch loveseat",
+        "url": "https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr"
       },
       "artists": [
         {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        },
-        {
-          "name": "Harmony",
-          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+          "name": "Clyde Crooks",
+          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
         }
       ],
-      "duration_ms": 174400,
-      "name": "Bird Parts",
-      "url": "https://open.spotify.com/track/1EFOhaboWzbZZO5dnqZtP0"
-    },
-    {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "Ride Or Die w/ Lydia",
-        "url": "https://open.spotify.com/album/2rawUG9uJQMfRbwGPbpBaG"
-      },
-      "artists": [
-        {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Ride Or Die w/ Lydia",
-      "url": "https://open.spotify.com/track/6K4ITzOCDkln7gi9sVGPii"
+      "duration_ms": 232000,
+      "name": "38 inch loveseat",
+      "url": "https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs"
     },
     {
       "added_at": "2025-08-01 04:00:40",
@@ -411,22 +627,6 @@
       "duration_ms": 219926,
       "name": "Sun soaked",
       "url": "https://open.spotify.com/track/0EBrkqSAj0VHLxJgmPDc3j"
-    },
-    {
-      "added_at": "2025-08-08 04:02:53",
-      "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/3Fd3U7toUGx6ga7G4h8Kss"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 243014,
-      "name": "Pool - Stripped",
-      "url": "https://open.spotify.com/track/5zlxkhxG7ICPmq8x3GSPy8"
     },
     {
       "added_at": "2025-08-08 04:02:53",
@@ -529,22 +729,6 @@
       "url": "https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn"
     },
     {
-      "added_at": "2025-08-15 04:00:26",
-      "album": {
-        "name": "38 inch loveseat",
-        "url": "https://open.spotify.com/album/2n5Bjj04OWh44d2yCOlyrr"
-      },
-      "artists": [
-        {
-          "name": "Clyde Crooks",
-          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "38 inch loveseat",
-      "url": "https://open.spotify.com/track/55dPDt8xXd5Qbyu88JJDFs"
-    },
-    {
       "added_at": "2025-07-11 04:00:24",
       "album": {
         "name": "moisturizer",
@@ -609,6 +793,58 @@
       "url": "https://open.spotify.com/track/7r9BUOSnekEjrkMhmxD6Ae"
     },
     {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Bird Parts",
+        "url": "https://open.spotify.com/album/7g9GJrdCkxpbVM3BY3gSNS"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "Bird Parts",
+      "url": "https://open.spotify.com/track/1EFOhaboWzbZZO5dnqZtP0"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Dagger Song",
+        "url": "https://open.spotify.com/album/56HC5Tbuu2LY13my4Spzfy"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "duration_ms": 246808,
+      "name": "Dagger Song",
+      "url": "https://open.spotify.com/track/6lgMxz2iOpeiDTIeuIR7Be"
+    },
+    {
+      "added_at": "2025-08-15 04:00:26",
+      "album": {
+        "name": "Ride Or Die w/ Lydia",
+        "url": "https://open.spotify.com/album/2rawUG9uJQMfRbwGPbpBaG"
+      },
+      "artists": [
+        {
+          "name": "villagerrr",
+          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Ride Or Die w/ Lydia",
+      "url": "https://open.spotify.com/track/6K4ITzOCDkln7gi9sVGPii"
+    },
+    {
       "added_at": "2025-08-01 04:00:40",
       "album": {
         "name": "It Was Only Perfect Because It Was Never Real",
@@ -623,22 +859,6 @@
       "duration_ms": 234420,
       "name": "Know It Best",
       "url": "https://open.spotify.com/track/0r08QTvrSoVCHAe5tuqGcp"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
-        "name": "End Credits",
-        "url": "https://open.spotify.com/album/5buMlOG40ceSS60U9vnzPf"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 180333,
-      "name": "End Credits",
-      "url": "https://open.spotify.com/track/1cVKKjz0xDKOU95zPLeaJ0"
     },
     {
       "added_at": "2025-07-25 04:01:24",
@@ -841,22 +1061,6 @@
       "url": "https://open.spotify.com/track/2XOnuf9xCg90wOcrthaGPD"
     },
     {
-      "added_at": "2025-07-02 04:00:05",
-      "album": {
-        "name": "starburn",
-        "url": "https://open.spotify.com/album/1TiUalhlnM2ZplG7gIHU2G"
-      },
-      "artists": [
-        {
-          "name": "crushed",
-          "url": "https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM"
-        }
-      ],
-      "duration_ms": 251407,
-      "name": "starburn",
-      "url": "https://open.spotify.com/track/5qPwsJXFapnFgN7eqo9w4N"
-    },
-    {
       "added_at": "2025-07-17 18:21:08",
       "album": {
         "name": "Harley",
@@ -1001,26 +1205,6 @@
       "url": "https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei"
     },
     {
-      "added_at": "2025-06-27 04:02:24",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
-      },
-      "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Post Break Up Beauty",
-      "url": "https://open.spotify.com/track/2sHayl1gSu80Y4nDcRrEfT"
-    },
-    {
       "added_at": "2025-06-21 01:13:28",
       "album": {
         "name": "Special",
@@ -1035,22 +1219,6 @@
       "duration_ms": 194754,
       "name": "Special",
       "url": "https://open.spotify.com/track/7HWDQfrQvnAXp5Xk29xqh7"
-    },
-    {
-      "added_at": "2025-06-04 15:37:18",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
       "added_at": "2025-06-11 21:27:21",
@@ -1335,22 +1503,6 @@
     {
       "added_at": "2025-05-22 19:27:26",
       "album": {
-        "name": "You got time and I got money",
-        "url": "https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 271583,
-      "name": "You got time and I got money",
-      "url": "https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0"
-    },
-    {
-      "added_at": "2025-05-22 19:27:26",
-      "album": {
         "name": "Headlock - Spotify Singles",
         "url": "https://open.spotify.com/album/1QVdNa9UlOPBxv8WpGMtsG"
       },
@@ -1363,22 +1515,6 @@
       "duration_ms": 220762,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/0UzhHaqs5it354pkj2lSCG"
-    },
-    {
-      "added_at": "2025-06-03 00:01:39",
-      "album": {
-        "name": "Chlorine",
-        "url": "https://open.spotify.com/album/6XwXtVaQxXNBD9G6wihYp1"
-      },
-      "artists": [
-        {
-          "name": "TOPS",
-          "url": "https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9"
-        }
-      ],
-      "duration_ms": 161429,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/3p8G6cIqs5sinWIZ4MtlxN"
     },
     {
       "added_at": "2025-04-18 04:00:55",

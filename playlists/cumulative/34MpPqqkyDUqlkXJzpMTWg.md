@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/34MpPqqkyDUqlkXJzpMTWg.md) - cumulative - [plain](/playlists/plain/34MpPqqkyDUqlkXJzpMTWg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/34MpPqqkyDUqlkXJzpMTWg)
 
-### [Winter  Vibes 2025](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
+### [Herfst  Vibes 2025](https://open.spotify.com/playlist/34MpPqqkyDUqlkXJzpMTWg)
 
-> Winter is coming, met muziek van Dean Lewis, Son Mieux, Taylor Swift, Lewis Capaldi &amp; Olivia Rodrigo.
+> Them: So sad Summer is over..\. Me: Listening to Autumn music all day
 
-86 songs - 4 hr 52 min
+87 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-05-30 |  |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:04 | 2025-07-16 |  |
 | [Who Believes In Angels?](https://open.spotify.com/track/1TaWo5hydbHe1ryeRgaZQb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Who Believes In Angels?](https://open.spotify.com/album/4UZ9Xt3QcKI09FA5qMqWgb) | 5:13 | 2025-05-30 | 2025-08-22 |
+| [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-22 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2025-05-30 |  |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2025-05-30 |  |
 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-05-30 |  |

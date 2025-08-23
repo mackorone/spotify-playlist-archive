@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 133 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 133 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 22 | [Haunted](https://open.spotify.com/track/1bx9j48IeWnDnPqcTTqT8Q) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:20 |
 | 23 | [While You Were Sleeping](https://open.spotify.com/track/753iehfOnYSmjVfjx20znR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:57 |
 | 24 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 |
-| 25 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
-| 26 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
+| 25 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 |
+| 26 | [What Love Will Do to You](https://open.spotify.com/track/4TvZH3MgJ1ZNBPquN2xwjK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:51 |
 | 27 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
 | 28 | [neverletyougo](https://open.spotify.com/track/4qWQdhdHttXPKrQVqoLKMy) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:58 |
 | 29 | [Tough Luck](https://open.spotify.com/track/6PLXJetycVoEZOr1f81XKI) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/4OYDfYtehc25QPb3ft8YoI) | 3:12 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 40 | [Just Like Chet](https://open.spotify.com/track/1yNylaCqr4SbSUcgvStBGJ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:36 |
 | 41 | [2021](https://open.spotify.com/track/49WWSaa9yKrvsj8PhsIWmc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [2021](https://open.spotify.com/album/4ffgttI9dtiW8lWDJ8uM5i) | 3:15 |
 | 42 | [Morocco \(feat\. 6LACK\)](https://open.spotify.com/track/4ZTJdqEg6O4SnHzlaRQtfi) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:21 |
-| 43 | [Endlessly](https://open.spotify.com/track/02YPsZehXDNohgCbH6t5Lm) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 5:00 |
-| 44 | [Trouble](https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:51 |
+| 43 | [Trouble](https://open.spotify.com/track/0Ah2wJirVEGUITkcPU6ali) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 2:51 |
+| 44 | [Endlessly](https://open.spotify.com/track/02YPsZehXDNohgCbH6t5Lm) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 5:00 |
 | 45 | [Trust](https://open.spotify.com/track/4nCWC5PmiFDU3MeZUXWo1T) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Trust](https://open.spotify.com/album/2Cm9Fr0UWeJJNi0koNjAwA) | 2:35 |
 | 46 | [for the people in the back](https://open.spotify.com/track/72gooyj5bJQNROC5Ptmjn7) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:34 |
 | 47 | [Right There](https://open.spotify.com/track/6ACABT7da0gny402DMm9vs) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 2:42 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 132 | [Gentlewoman](https://open.spotify.com/track/30Npm4RFzP3zVRs2LKIyk5) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:35 |
 | 133 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 
-Snapshot ID: `Ab6H9AAAAACvSZxvdHxRvky8VxcGMu1M`
+Snapshot ID: `Ab6NlAAAAADU8AKnFGKamIth4Nh3jGIn`

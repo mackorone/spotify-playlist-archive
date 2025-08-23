@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de hits pra te acompanhar no home office.",
-  "num_followers": 235723,
+  "num_followers": 235709,
   "original_name": "Trabalhando de Casa",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 482830,
-      "name": "Stairway to Heaven - Remaster",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Ten",
         "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 342653,
       "name": "Black",
       "url": "https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 482830,
+      "name": "Stairway to Heaven - Remaster",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 340200,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Arquivo II 1991 - 2000",
-        "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 257333,
-      "name": "Aonde Quer Que Eu V\u00e1",
-      "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 346586,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/07HqIg8BnB1lJElnw2ZiSR"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Arquivo II 1991 - 2000",
+        "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 257333,
+      "name": "Aonde Quer Que Eu V\u00e1",
+      "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "The Doors",
-        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 429760,
-      "name": "Light My Fire",
-      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Vitalogy",
         "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 268586,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2B98ljvzqpCVgt5reTHq28"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 429760,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 324840,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Angel Dust (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 186960,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4Y3WqmBWmG23thvU9xEhMv"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Sheryl Crow",
+        "url": "https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 324840,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 308333,
-      "name": "Cryin'",
-      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
+      "duration_ms": 308333,
+      "name": "Cryin'",
+      "url": "https://open.spotify.com/track/0NJC0FDCODpPUntRTTQq97"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
-        "name": "Eyes Open",
-        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 341266,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
         "name": "Unplugged (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ebyEGol0Abc7VAxYf7vEg"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 289026,
       "name": "Layla - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",
       "url": "https://open.spotify.com/track/3BEZCNZSmVv30vsMNSOCri"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 341266,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA"
     },
     {
       "added_at": "2024-02-27 20:15:05",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-02-27 20:15:05",
       "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+    },
+    {
+      "added_at": "2024-02-27 20:15:05",
+      "album": {
         "name": "A Arte De Cazuza",
         "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 237866,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/05NEcj4geEg0JthGNSGUI7"
-    },
-    {
-      "added_at": "2024-02-27 20:15:05",
-      "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
     },
     {
       "added_at": "2024-02-27 20:15:05",

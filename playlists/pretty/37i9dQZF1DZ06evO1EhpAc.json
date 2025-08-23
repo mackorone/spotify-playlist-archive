@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9564,
+  "num_followers": 9568,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAacwMgV7S2sRWXxuu5CZTF",
+  "snapshot_id": "aKZhgAAAAAAii3Sm+8OJnPeNcB+34sie",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Joy",
-        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
-      },
-      "artists": [
-        {
-          "name": "Ellie Herring",
-          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "Swim Me",
-      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 186873,
       "name": "SPELL \uc8fc\ubb38",
       "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Joy",
+        "url": "https://open.spotify.com/album/66awLlAFni3514drN79wdh"
+      },
+      "artists": [
+        {
+          "name": "Ellie Herring",
+          "url": "https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 208173,
+      "name": "Swim Me",
+      "url": "https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "New York 93 (Baba Stiltz Remix)",
         "url": "https://open.spotify.com/album/1N6E1WgIKkDBQynAvDRdTa"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 355121,
       "name": "New York 93 (Baba Stiltz Remix)",
       "url": "https://open.spotify.com/track/3aMdNsf7cEtehKpJpBuqOD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "After That",
-      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 205306,
-      "name": "Submerge FM",
-      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Passed Me By",
-      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
+      "duration_ms": 205306,
+      "name": "Submerge FM",
+      "url": "https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn"
     },
     {
       "added_at": null,

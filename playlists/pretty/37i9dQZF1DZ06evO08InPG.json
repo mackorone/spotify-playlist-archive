@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 61972,
+  "num_followers": 61983,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADzB/WzbLESi+Y8VIuLm/Er",
+  "snapshot_id": "aKZhgAAAAACFuAUzcP1wZ7guV7zVF2LE",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circle The Drain",
-        "url": "https://open.spotify.com/album/0KnBuxBF1ynAS69UlDuJHE"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 245137,
-      "name": "Circle The Drain",
-      "url": "https://open.spotify.com/track/61nq0jg2PYWxUUiarofGBI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 213238,
       "name": "B\u00d8NESCRAPER",
       "url": "https://open.spotify.com/track/6j5asGEn2t6NwwEefx1vvi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circle The Drain",
+        "url": "https://open.spotify.com/album/0KnBuxBF1ynAS69UlDuJHE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 245137,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/61nq0jg2PYWxUUiarofGBI"
     },
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNAT\u00d8NED",
+        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 236833,
+      "name": "\u00d8UTSIDER",
+      "url": "https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "These Scars Won't Define Us (Tour Version)",
         "url": "https://open.spotify.com/album/3zo4Te2wDclqlGiJtTlZab"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 212325,
       "name": "These Scars Won't Define Us - Tour Version",
       "url": "https://open.spotify.com/track/0nHMHZpK4ybhSzKeOOOqjQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNAT\u00d8NED",
-        "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 236833,
-      "name": "\u00d8UTSIDER",
-      "url": "https://open.spotify.com/track/1geTeZEhjXmVZzaERpKp9r"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The More Things Change...",
-        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "Ten Ton Hammer",
-      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 236531,
       "name": "UNB\u00d8UND",
       "url": "https://open.spotify.com/track/1rf6gK95isZRyopJ5RWs2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The More Things Change...",
+        "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "Ten Ton Hammer",
+      "url": "https://open.spotify.com/track/0bxUaSy4x46Ogeio8khuBd"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 221918,
       "name": "AT\u00d8MIC REVELATI\u00d8NS",
       "url": "https://open.spotify.com/track/0gGpw7LAY3cXiUfvppLkPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 246405,
-      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
-      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 212323,
       "name": "THESE SCARS W\u00d8N'T DEFINE US",
       "url": "https://open.spotify.com/track/1MEdnIjAeurY3p4qAbFIrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 246405,
+      "name": "CH\u00d8KE \u00d8N THE ASHES \u00d8F Y\u00d8UR HATE",
+      "url": "https://open.spotify.com/track/5sykvfEJHupA8mjhhgylVk"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 329878,
-      "name": "MY HANDS ARE EMPTY",
-      "url": "https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "UNAT\u00d8NED",
         "url": "https://open.spotify.com/album/197VDX6RBWHRl7w89XcJWE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 235033,
       "name": "N\u00d8T L\u00d8NG F\u00d8R THIS W\u00d8RLD",
       "url": "https://open.spotify.com/track/3D6o1Gu1kkG6HFY1iRP8gL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 329878,
+      "name": "MY HANDS ARE EMPTY",
+      "url": "https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 389947,
-      "name": "UNHALL\u00d8WED",
-      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supercharger",
         "url": "https://open.spotify.com/album/4W35ayLEiRSBBaN4Ov1of1"
       },
@@ -507,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 389947,
+      "name": "UNHALL\u00d8WED",
+      "url": "https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blackening",
         "url": "https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 286426,
       "name": "Beautiful Mourning",
       "url": "https://open.spotify.com/track/5Cs6AftcanvD6Ib7YJ1otT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bloodstone & Diamonds",
+        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272058,
+      "name": "Killers & Kings",
+      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
     },
     {
       "added_at": null,
@@ -555,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloodstone & Diamonds",
-        "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
+        "name": "Unto the Locust (Special Edition)",
+        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
       },
       "artists": [
         {
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
         }
       ],
-      "duration_ms": 272058,
-      "name": "Killers & Kings",
-      "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
+      "duration_ms": 343786,
+      "name": "Be Still and Know",
+      "url": "https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unto the Locust (Special Edition)",
-        "url": "https://open.spotify.com/album/79EwDnZoH0n7vIAXmYP1cz"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 343786,
-      "name": "Be Still and Know",
-      "url": "https://open.spotify.com/track/3cVniBBRC955LHAXiXGER0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 355272,
-      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
-      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The More Things Change...",
         "url": "https://open.spotify.com/album/60l0eb8lzf8jNF0K6XsbWL"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 259693,
       "name": "Take My Scars",
       "url": "https://open.spotify.com/track/4mbljJEr6SyhcImsdSWmz0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 355272,
+      "name": "ARR\u00d8WS IN W\u00d8RDS FR\u00d8M THE SKY",
+      "url": "https://open.spotify.com/track/3G0A7kcQeYbyPH8euw6M5a"
     },
     {
       "added_at": null,

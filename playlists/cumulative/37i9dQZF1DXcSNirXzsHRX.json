@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 278680,
       "name": "Born in the U.S.A.",
       "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "Alienation",
+        "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Don't Wanna Go Home Tonight",
+      "url": "https://open.spotify.com/track/3I3FSs3C05QUs3r8fSdSeQ"
+    },
+    {
+      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -806,6 +824,24 @@
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
     },
     {
       "album": {
@@ -953,6 +989,24 @@
     },
     {
       "album": {
+        "name": "For I Am Death",
+        "url": "https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219395,
+      "name": "For I Am Death",
+      "url": "https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4"
+    },
+    {
+      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -1080,7 +1134,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 281124,
       "name": "GUTSY",
       "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
@@ -1188,7 +1242,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
@@ -1375,6 +1429,24 @@
     },
     {
       "album": {
+        "name": "If You Were Here",
+        "url": "https://open.spotify.com/album/5V2y41zkS6wPMFduDzG2Z2"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239755,
+      "name": "If You Were Here",
+      "url": "https://open.spotify.com/track/7vCIl8yXWdXoBgwIQs6pdd"
+    },
+    {
+      "album": {
         "name": "Led Zeppelin III (Remaster)",
         "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
       },
@@ -1426,6 +1498,24 @@
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212577,
+      "name": "infinite source",
+      "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
     },
     {
       "album": {
@@ -1703,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Join the Storm",
+        "url": "https://open.spotify.com/album/27Mu44xPwORQTI7ZM9qq7J"
+      },
+      "artists": [
+        {
+          "name": "STORM",
+          "url": "https://open.spotify.com/artist/4AVgAZo5MgdaXUSCZEzWjZ"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184880,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0S87zqCQPHOAD0yQFvTBeX"
+    },
+    {
+      "album": {
         "name": "AIR",
         "url": "https://open.spotify.com/album/4b7MVymy35wxWxAMPjPMaY"
       },
@@ -1822,7 +1930,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 194146,
       "name": "Old Time Rock & Roll",
       "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
@@ -1884,7 +1992,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 210226,
       "name": "Panama - 2015 Remaster",
       "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
@@ -2317,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/0Ha1jsS1Y0BZwiOK1mgWOc"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt"
+    },
+    {
+      "album": {
         "name": "Dire Straits",
         "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT"
       },
@@ -2512,7 +2642,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"

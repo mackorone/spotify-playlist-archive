@@ -33859,6 +33859,24 @@
     },
     {
       "album": {
+        "name": "MP3 M1XTAPE",
+        "url": "https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz"
+      },
+      "artists": [
+        {
+          "name": "S1RENA",
+          "url": "https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113908,
+      "name": "MP3",
+      "url": "https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo"
+    },
+    {
+      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -50010,24 +50028,6 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "album": {
-        "name": "MP3 M1XTAPE",
-        "url": "https://open.spotify.com/album/79sd4BgSWDXoVzQIJMUgmz"
-      },
-      "artists": [
-        {
-          "name": "S1RENA",
-          "url": "https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/00zEYh3JTo06GVPtgMh3Qo"
     },
     {
       "album": {

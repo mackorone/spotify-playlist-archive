@@ -4,7 +4,7 @@
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 50 min
+58 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Topsy](https://open.spotify.com/track/0AFzoxnoTSJ0IvgefXuD1C) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw) | 3:05 | 2025-08-19 |  |
 | [Topsy](https://open.spotify.com/track/7Gj5OjTc4riTgEL1C0dhws) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 3:05 | 2025-07-20 | 2025-08-19 |
 | [Tornerai \(J'attendrai\)](https://open.spotify.com/track/4Ka5krmfRuHNBYXJ6jV0C7) | [Dino Olivieri](https://open.spotify.com/artist/0SZKROPnqEzefRAqIKmhr5), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Reinhardt, Django: Django Reinhardt \(1938\-1939\)](https://open.spotify.com/album/2ifUISRaHb1iVcqD8ypjIJ) | 2:40 | 2025-07-20 | 2025-07-30 |
+| [Viper's Dream](https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Maurice Meunier](https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru), [Eddie Bernard](https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [Jacques Martinon](https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 3:01 | 2025-08-23 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/3C9bNCnxHvUEVELsUvKGyy) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [All Star Sessions](https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3) | 3:23 | 2025-07-20 |  |
 | [You Rascal You](https://open.spotify.com/track/5tSmb1dTCnio8QRb0CXjtx) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 3:07 | 2025-07-20 |  |
 

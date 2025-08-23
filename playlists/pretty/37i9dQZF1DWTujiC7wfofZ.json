@@ -1,6 +1,6 @@
 {
   "description": "100% indie floorfillers.",
-  "num_followers": 452035,
+  "num_followers": 452083,
   "original_name": "Indie Party",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "More Than Just a Dream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 209386,
-      "name": "Out of My League",
-      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Three Imaginary Boys",
         "url": "https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 155973,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/1QFh8OH1e78dGd3VyJZCAC"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "More Than Just a Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 209386,
+      "name": "Out of My League",
+      "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Oysters In My Pocket",
-        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 162338,
-      "name": "Oysters In My Pocket",
-      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Oysters In My Pocket",
+        "url": "https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 162338,
+      "name": "Oysters In My Pocket",
+      "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "I Follow Rivers (The Magician Remix)",
-        "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 279635,
-      "name": "I Follow Rivers - The Magician Remix",
-      "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -563,18 +543,22 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+        "name": "I Follow Rivers (The Magician Remix)",
+        "url": "https://open.spotify.com/album/3Lp1pBV5Lao3Ry6CiEb7Y1"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         }
       ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+      "duration_ms": 279635,
+      "name": "I Follow Rivers - The Magician Remix",
+      "url": "https://open.spotify.com/track/4Jv7lweGIUOFQ7Oq2AtAh9"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -591,6 +575,22 @@
       "duration_ms": 211226,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "It's Blitz!",
@@ -739,18 +723,18 @@
     {
       "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "Imaginal Disk",
-        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
       "artists": [
         {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 212866,
-      "name": "Image",
-      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -771,18 +755,18 @@
     {
       "added_at": "2024-12-30 11:00:05",
       "album": {
-        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 271969,
-      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
-      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -799,6 +783,22 @@
       "duration_ms": 180872,
       "name": "Murder on the Dancefloor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+        "url": "https://open.spotify.com/album/4YCeHlXgJTKlzuwHmvZZo8"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 271969,
+      "name": "L\u2019AMOUR DE MA VIE [OVER NOW EXTENDED EDIT]",
+      "url": "https://open.spotify.com/track/2Y6U158gVXfvqNWOLdis0R"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "The Balcony",
-        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
-      },
-      "artists": [
-        {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
-        }
-      ],
-      "duration_ms": 160886,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "The Balcony",
+        "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
+      },
+      "artists": [
+        {
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+        }
+      ],
+      "duration_ms": 160886,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/2cmRpmO04TLaKPzmAzySYZ"
     },
     {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Gone Now",
-        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Don't Take The Money",
-      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Body Talk",
@@ -1079,6 +1063,22 @@
       "duration_ms": 285853,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Gone Now",
+        "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Don't Take The Money",
+      "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
+        "name": "Bon Bon",
+        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Bon Bon",
+      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 157366,
       "name": "Apple featuring the japanese house",
       "url": "https://open.spotify.com/track/1PJe42QnCMD6JqhcooaWzc"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
-        "name": "Bon Bon",
-        "url": "https://open.spotify.com/album/27WWDGD7YPsoaOCwZNFWBT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Bon Bon",
-      "url": "https://open.spotify.com/track/4Dr5pBJktWX8aZckCznE6q"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -1841,26 +1841,6 @@
       "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Brat and it\u2019s completely different but also still brat",
-        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "Girl, so confusing featuring lorde",
-      "url": "https://open.spotify.com/track/597W049n13m86dgV0dbLae"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Standing in the Way of Control",
@@ -1925,6 +1905,26 @@
       "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
     },
     {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Brat and it\u2019s completely different but also still brat",
+        "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/597W049n13m86dgV0dbLae"
+    },
+    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Made In The Dark",
@@ -1957,6 +1957,22 @@
       "url": "https://open.spotify.com/track/1dSTDwgJBmHw3RaiM9h2ah"
     },
     {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "How Big, How Blue, How Beautiful (Deluxe)",
+        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 293468,
+      "name": "Delilah",
+      "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
+    },
+    {
       "added_at": "2024-12-30 11:00:05",
       "album": {
         "name": "Volcano",
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "How Big, How Blue, How Beautiful (Deluxe)",
-        "url": "https://open.spotify.com/album/2jn2n5OkuHliOLKCqHnjXV"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 293468,
-      "name": "Delilah",
-      "url": "https://open.spotify.com/track/12HB8AmFTovKrFcGG36KbL"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
       },
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
-        "name": "Softly",
-        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 188780,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
-    },
-    {
-      "added_at": "2024-12-20 01:31:11",
-      "album": {
         "name": "Cherry Blossom",
         "url": "https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
     },
     {
       "added_at": "2024-12-30 11:00:05",
@@ -2201,22 +2201,6 @@
       "url": "https://open.spotify.com/track/1Vom4RbPagXle3g1BgzqUC"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "The Bones Of What You Believe (Special Edition)",
-        "url": "https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 191293,
-      "name": "The Mother We Share",
-      "url": "https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "Get To Heaven (Deluxe)",
@@ -2231,6 +2215,22 @@
       "duration_ms": 221693,
       "name": "Distant Past",
       "url": "https://open.spotify.com/track/4L2F0LcDVtNrFc1K4lmx3m"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "The Bones Of What You Believe (Special Edition)",
+        "url": "https://open.spotify.com/album/1k0GwSFLuaMSQKs9Q9MQyD"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 191293,
+      "name": "The Mother We Share",
+      "url": "https://open.spotify.com/track/20Dw7Jar5hUbwX5FwHdQoG"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2381,22 +2381,6 @@
       "url": "https://open.spotify.com/track/57PuRFQ41OhhWAFxLh7zXz"
     },
     {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr"
-    },
-    {
       "added_at": "2024-12-20 01:31:11",
       "album": {
         "name": "It's Blitz!",
@@ -2411,6 +2395,22 @@
       "duration_ms": 265786,
       "name": "Zero",
       "url": "https://open.spotify.com/track/6RnfjXnNuKK6zca1d9W0Ir"
+    },
+    {
+      "added_at": "2024-12-30 11:00:05",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/0izNh5tYrA859V9FzAEgvI"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/2j5AyPkjugfvw0HWrK1Wvr"
     },
     {
       "added_at": "2024-12-20 01:31:11",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2024-12-20 01:31:11",
       "album": {
+        "name": "Seventeen Going Under",
+        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Howdon Aldi Death Queue",
+      "url": "https://open.spotify.com/track/5305FSV0HgZDeC0QwYxhVd"
+    },
+    {
+      "added_at": "2024-12-20 01:31:11",
+      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/4hW2wvP51Myt7UIVTgSp4f"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 182306,
       "name": "Pressure to Party",
       "url": "https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R"
-    },
-    {
-      "added_at": "2024-12-30 11:00:05",
-      "album": {
-        "name": "Every Open Eye",
-        "url": "https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 233769,
-      "name": "Clearest Blue",
-      "url": "https://open.spotify.com/track/0ptjIq1XKNYBtfjzXQ3dXE"
     }
   ],
   "unique_name": "Indie Party",

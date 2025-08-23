@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Milena Pina
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,758 likes - 85 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,788 likes - 85 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 22 | [A Melhor História](https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr) | [Coral Teen Cap](https://open.spotify.com/artist/3AgYtiBlqddSzuTny26Vwl), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Victoria Niza](https://open.spotify.com/artist/3iymnXB3f8cSOUrfk9CAZ6) | [A Melhor História](https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b) | 3:50 |
 | 23 | [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 |
 | 24 | [Sonhar](https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC) | [Matheus Balo](https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T), [Filipe Lancaster](https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw) | [Sonhar](https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK) | 2:18 |
-| 25 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 |
-| 26 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
+| 25 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 |
+| 26 | [Teu Vôo](https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD) | [Felipe Vinii](https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP), [diaszin](https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Teu Vôo](https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1) | 3:12 |
 | 27 | [É Você](https://open.spotify.com/track/3dQXxShR7tRJF7of1tmPQ7) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS) | [É Você](https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX) | 3:51 |
 | 28 | [Agora](https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV), [Salomão](https://open.spotify.com/artist/7yIo15qboa9gHCtqK7cOLx), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Agora](https://open.spotify.com/album/4U92cEpwlKPbTOc1lwImMn) | 3:16 |
 | 29 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 67 | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX) | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH) | 2:59 |
 | 68 | [Contigo](https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Contigo](https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0) | 3:19 |
 | 69 | [Fui Liberto](https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t) | [Nicole Gomes](https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Fui Liberto](https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3) | 2:33 |
-| 70 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
-| 71 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
+| 70 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 |
+| 71 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 |
 | 72 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 |
 | 73 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 |
 | 74 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: skantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,905 likes - 55 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,939 likes - 55 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 35 | [LOUDER](https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [LOUDER](https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD) | 3:42 |
 | 36 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h) | 3:57 |
 | 37 | [PURPOSE](https://open.spotify.com/track/35mele207P8xoKXOsTh52L) | [Blooom](https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [PURPOSE](https://open.spotify.com/album/0gXmfiCDIV0DRnHakUxXjU) | 2:47 |
-| 38 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
-| 39 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 38 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
+| 39 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
 | 40 | [Ice Cold](https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Ice Cold](https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV) | 2:03 |
 | 41 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
 | 42 | [Come Around](https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl) | [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j), [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC) | [Come Around](https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O) | 3:48 |

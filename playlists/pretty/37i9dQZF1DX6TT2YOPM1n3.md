@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Home to Pakistani Hits\. Cover: Afusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,534 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,553 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 59 | [Heer](https://open.spotify.com/track/4AyKPZ1b7lUlsAOb3aG6tC) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Heer](https://open.spotify.com/album/3YiqeB6tWyEr8vHveTita7) | 3:16 |
 | 60 | [Hoor](https://open.spotify.com/track/09tcpqekQgXb87ETaAijXf) | [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [Hoor](https://open.spotify.com/album/2TJkGp4JyFDLCE49DLsKvL) | 3:30 |
 
-Snapshot ID: `AAAAAACCQuf4SXxOsOIcif5jAVeGVML1`
+Snapshot ID: `AAAAAOu7Pbs7k6iysMOGviACjzLDoeto`

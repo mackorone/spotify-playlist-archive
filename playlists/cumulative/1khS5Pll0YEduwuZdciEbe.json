@@ -3557,6 +3557,24 @@
     },
     {
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110143,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut"
+    },
+    {
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/4IQcPaShC0RkEghzFd46aQ"
       },

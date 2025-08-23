@@ -6845,6 +6845,28 @@
     },
     {
       "album": {
+        "name": "Let Her Shine",
+        "url": "https://open.spotify.com/album/3w6IxJsttV1vrf5UC5jqFp"
+      },
+      "artists": [
+        {
+          "name": "Tamara Kramar",
+          "url": "https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT"
+        },
+        {
+          "name": "Shng.",
+          "url": "https://open.spotify.com/artist/3558wNwANBlMFEGZpyGZwo"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177321,
+      "name": "Let Her Shine",
+      "url": "https://open.spotify.com/track/6qT6YkmjCN2i8YRFAdwCYK"
+    },
+    {
+      "album": {
         "name": "Love & Justice",
         "url": "https://open.spotify.com/album/3sDIdiwV7fdKWnp7TeMJ7J"
       },
@@ -12872,7 +12894,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 160000,
       "name": "We've Come So Far",
       "url": "https://open.spotify.com/track/1eF6pVPoLLbOvn4mM8CIfM"

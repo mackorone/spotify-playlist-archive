@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Melly",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -838,7 +838,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 178548,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0M8S97mIFkU6azMy1TGkmJ"
@@ -1507,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Despacha",
+        "url": "https://open.spotify.com/album/1dci5uXicRuc34idbXrxdi"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178557,
+      "name": "Despacha",
+      "url": "https://open.spotify.com/track/5m4Ok5eGb7Igrw6d6G4fqr"
+    },
+    {
+      "album": {
         "name": "Detalhes",
         "url": "https://open.spotify.com/album/0l32YWicNxyVAvraHQqEqD"
       },
@@ -1702,6 +1720,24 @@
       "duration_ms": 140421,
       "name": "DOCE VENENO",
       "url": "https://open.spotify.com/track/0vy2VvLYTwgaBATjXx4aPO"
+    },
+    {
+      "album": {
+        "name": "P\u00farpura Session",
+        "url": "https://open.spotify.com/album/0z9Hd4clonKlcQY6fGcZUy"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200083,
+      "name": "Dona Do Mundo (P\u00farpura Session)",
+      "url": "https://open.spotify.com/track/3V18oJelSIuz0gjrFKO7tQ"
     },
     {
       "album": {
@@ -2854,7 +2890,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 171269,
       "name": "Localiza\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5QfVNjigAYJ5k585D3bdpL"
@@ -3108,7 +3144,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 216716,
       "name": "Marfim",
       "url": "https://open.spotify.com/track/32xPKgpBUKsGhS6wkiCJxj"
@@ -4801,6 +4837,24 @@
     },
     {
       "album": {
+        "name": "Red On My Lips",
+        "url": "https://open.spotify.com/album/6cW19rqP5z2smPZwyeG6vL"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134406,
+      "name": "Red On My Lips",
+      "url": "https://open.spotify.com/track/5MBNXbieJAHV7lOcNxpzfL"
+    },
+    {
+      "album": {
         "name": "Redial",
         "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
       },
@@ -4820,6 +4874,28 @@
       "duration_ms": 244705,
       "name": "Redial",
       "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
+    },
+    {
+      "album": {
+        "name": "G\u00caMEOS EM G\u00caMEOS",
+        "url": "https://open.spotify.com/album/7mV6fLMgnTZkBQQ8e7PfcB"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        },
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "rela\u00e7\u00f5es superficiais",
+      "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
     },
     {
       "album": {
@@ -4900,7 +4976,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 190196,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/4HYZYfXAeETot63750cbxe"
@@ -5446,7 +5522,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 181257,
       "name": "slow",
       "url": "https://open.spotify.com/track/6bkFPYYHfZ6jzWPh6eREKK"
@@ -5596,6 +5672,28 @@
       "duration_ms": 186382,
       "name": "Suplicar",
       "url": "https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN"
+    },
+    {
+      "album": {
+        "name": "s\u00f3 (mais) uma vez",
+        "url": "https://open.spotify.com/album/74aOIXbvcA7NROiJzfRcGp"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Paulo DK",
+          "url": "https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210522,
+      "name": "s\u00f3 (mais) uma vez",
+      "url": "https://open.spotify.com/track/6Q34vqJQgCRNxbc6xWsVR1"
     },
     {
       "album": {

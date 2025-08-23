@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Zara Larsson
+> Neues aus der Welt des Pop\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,471 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,529 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

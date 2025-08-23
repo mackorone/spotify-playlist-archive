@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "About You (feat. Tucker Wetmore)",
+      "url": "https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5"
+    },
+    {
+      "album": {
         "name": "Ain't Nothin' Free (feat. SB the Queen)",
         "url": "https://open.spotify.com/album/3IYqdJ67ZAPcUZCtCRcqEd"
       },

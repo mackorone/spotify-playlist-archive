@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Evan Craft",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Gilberto Daza",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -480,7 +480,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 268120,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/27fuKEC4SJYyaJMcXLz9gi"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 139156,
       "name": "AM\u00d3 DIOS",
       "url": "https://open.spotify.com/track/7yF3XJs7IMWqwmALhZYerp"
@@ -1858,6 +1858,24 @@
       "duration_ms": 201387,
       "name": "BACHADRILL feat. Madiel Lara",
       "url": "https://open.spotify.com/track/1MH2tvweBLLDWpgbBDZqji"
+    },
+    {
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/6BhuGOZh7HucgeEhZTECJc"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179690,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/3UjG1O5avEgsYVAMXSBeg5"
     },
     {
       "album": {
@@ -2596,7 +2614,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 235517,
       "name": "Cantar\u00e9 a Jehov\u00e1",
       "url": "https://open.spotify.com/track/71kurX4AczUVjiLT95MTVi"
@@ -4160,6 +4178,28 @@
       "duration_ms": 184917,
       "name": "De Camino",
       "url": "https://open.spotify.com/track/5xvTaOialdtRQYlQNE31W1"
+    },
+    {
+      "album": {
+        "name": "De Tal Manera",
+        "url": "https://open.spotify.com/album/4sldH3oUygVdQfh9oz0wyw"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ramos",
+          "url": "https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv"
+        },
+        {
+          "name": "La Feria Oficial",
+          "url": "https://open.spotify.com/artist/2SJpjUs975HmjZrjVRTSAh"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254603,
+      "name": "De Tal Manera",
+      "url": "https://open.spotify.com/track/3dGcL3nzABghmtd847UwVi"
     },
     {
       "album": {
@@ -5794,6 +5834,28 @@
       "duration_ms": 343792,
       "name": "En Tu Luz",
       "url": "https://open.spotify.com/track/07T6LB4Og4VcO2ldZ19rcv"
+    },
+    {
+      "album": {
+        "name": "Encontrarte",
+        "url": "https://open.spotify.com/album/5Qph9P6iRDJVsPd2xs8Inw"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218144,
+      "name": "Encontrarte",
+      "url": "https://open.spotify.com/track/1c72j3yhaPFamJi6HW4IqF"
     },
     {
       "album": {
@@ -8607,6 +8669,24 @@
     },
     {
       "album": {
+        "name": "La Samaritana",
+        "url": "https://open.spotify.com/album/4RIZUNwceecFM7v1ONCdNC"
+      },
+      "artists": [
+        {
+          "name": "Los Voceros de Cristo",
+          "url": "https://open.spotify.com/artist/4yUNbtVl2PW9dARZdWuDXu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "La Samaritana",
+      "url": "https://open.spotify.com/track/0J63uam345AmJLtKcfYOz2"
+    },
+    {
+      "album": {
         "name": "Hogar",
         "url": "https://open.spotify.com/album/1xJ3lLHzbkjnlshDcrNYYu"
       },
@@ -9965,6 +10045,36 @@
     },
     {
       "album": {
+        "name": "Mi Fe",
+        "url": "https://open.spotify.com/album/0VPJ1W9Et8WNq1rS6WeuUC"
+      },
+      "artists": [
+        {
+          "name": "Frank Miami",
+          "url": "https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        },
+        {
+          "name": "David Muguercia",
+          "url": "https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204261,
+      "name": "Mi Fe",
+      "url": "https://open.spotify.com/track/43IlvFKHsBbMcKCINJaPoa"
+    },
+    {
+      "album": {
         "name": "Mi Fe Viva Est\u00e1",
         "url": "https://open.spotify.com/album/7efdujfEbdhiWhHO4vMXap"
       },
@@ -10196,6 +10306,24 @@
       "duration_ms": 875000,
       "name": "Mi Tesoro",
       "url": "https://open.spotify.com/track/5JXj9Sm3DdLUS87a7dMAtg"
+    },
+    {
+      "album": {
+        "name": "VIVO | Buenas Noticias (Live)",
+        "url": "https://open.spotify.com/album/3So3qRgtUA0nbvaHzcsdvO"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478000,
+      "name": "Mi Viaje - Live",
+      "url": "https://open.spotify.com/track/1TYJVF5CDEzj7zMIbOq8Dr"
     },
     {
       "album": {
@@ -12346,7 +12474,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 204000,
       "name": "Puedes Entenderme - Live",
       "url": "https://open.spotify.com/track/5W8VnIul9lElCWnXCbuYN6"
@@ -13198,7 +13326,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 377975,
       "name": "Sal 22 / Te Amo",
       "url": "https://open.spotify.com/track/4DwySFpj8jUX4a5srbPCqi"
@@ -14659,6 +14787,28 @@
     },
     {
       "album": {
+        "name": "Te Necesito",
+        "url": "https://open.spotify.com/album/1T2aFRYmoh7li7NCqgQapo"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374441,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/3vxk1zZIhMDhOoPKGxnJbX"
+    },
+    {
+      "album": {
         "name": "Te Necesito (Remix)",
         "url": "https://open.spotify.com/album/7JtlXGjAvs41d2cQ6jfhMz"
       },
@@ -15084,7 +15234,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163839,
       "name": "Todito",
       "url": "https://open.spotify.com/track/5KxqJXclcIpKbMRa9XyQRG"
@@ -16003,6 +16153,24 @@
     },
     {
       "album": {
+        "name": "Un D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/2CbssvGBC2cWix4TeHCskm"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296160,
+      "name": "Un D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/4hb1Hvw1Jyc0y8JYUdwjuV"
+    },
+    {
+      "album": {
         "name": "A Great Awakening & Un Nuevo Despertar (Live)",
         "url": "https://open.spotify.com/album/03VPSpGeiuWIF0hiD7sEm2"
       },
@@ -16164,7 +16332,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 192256,
       "name": "Vamos bien",
       "url": "https://open.spotify.com/track/3ihSP5eDXLDUWCglJgj75b"
@@ -17278,7 +17446,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 339482,
       "name": "\u00c9pico",
       "url": "https://open.spotify.com/track/5eLuGSkS4xXY1l1Be5yGb6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Alex Velea, Connect\-R, Smiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,595 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,623 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 48 | [Du\-mă](https://open.spotify.com/track/36zPpkkyTf8hikJ0R6cC7d) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Roșu Aprins](https://open.spotify.com/album/1oM4T8LNrdJBwFsDq8A1dr) | 2:17 |
 | 49 | [Regele Lumii](https://open.spotify.com/track/2S8aXfKXsyuuWxnFkoaowl) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Regele Lumii](https://open.spotify.com/album/2pmL1VXRXhSxb1za2BMspw) | 2:56 |
 
-Snapshot ID: `AAAAAIZxRymvXKSHHRkInynBaBEB9w6s`
+Snapshot ID: `AAAAAL+lwsRUuGBdqfHROLIC1FlAaoQV`

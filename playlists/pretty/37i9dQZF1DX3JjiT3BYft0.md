@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,770 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,779 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 55 | [ひとりじゃないんだから](https://open.spotify.com/track/515WPZYmddlUfvh83HkVHd) | [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [モカ](https://open.spotify.com/artist/08iFyyIHV3408EfVB15t1c), [リサ](https://open.spotify.com/artist/1hihJzteX1ZxRB0irUH9Jy), [花音](https://open.spotify.com/artist/0QXuZrXpnPAvr7JpGaDPt8), [つぐみ](https://open.spotify.com/artist/3b6B58DMmqJdVuEiy0pszZ) | [ひとりじゃないんだから](https://open.spotify.com/album/5TGY2a6bgANlDFMdp7AHrm) | 4:00 |
 | 56 | [誓いのWingbeat](https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [QUINTET](https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS) | 4:15 |
 | 57 | [えがお、み～っけた!](https://open.spotify.com/track/58qgn1BHFxLaVPbrUtaSA6) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [うぃーきゃん☆フレフレっ!](https://open.spotify.com/album/0l8Ay8vHgLHxtE1fKgVqhH) | 4:29 |
-| 58 | [Northern lights \- Cover](https://open.spotify.com/track/55RYpBqJz5hzsO22QzbLF3) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 3:29 |
+| 58 | [独創収差](https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:36 |
 | 59 | [SAKURAスキップ \- Cover](https://open.spotify.com/track/1NhUiKrcrBPCIDgkBDzx5x) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 3:48 |
 | 60 | [STAR BEAT!～ホシノコドウ～ \- Acoustic Ver.](https://open.spotify.com/track/210Li0dai3m4bnYYyJQgsl) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [TVアニメ「BanG Dream!」キャラクターソング 山吹沙綾「遠い音楽 ～ハートビート～」](https://open.spotify.com/album/2RVfiJkTemVwgvXWYjoQD8) | 5:22 |
 | 61 | [Glee! Glee! Glee!](https://open.spotify.com/track/7zFCL7EJojUeI9kil08Rfz) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/6v5jRwRCLeZKUFJ4rxomtc) | 3:31 |

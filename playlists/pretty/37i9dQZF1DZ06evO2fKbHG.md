@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,246 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,260 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 |
-| 2 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 |
+| 2 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
 | 3 | [I Fought the Law](https://open.spotify.com/track/5dAxeuDkIkpa6wZpMOuG9i) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 2:43 |
 | 4 | [The Magnificent Seven \- Remastered](https://open.spotify.com/track/3Ro71R8Vpy166E2PuQDSc8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sandinista! \(Remastered\)](https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF) | 5:33 |
 | 5 | [Rock the Casbah \- Remastered](https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:42 |
-| 6 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 |
+| 6 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 |
 | 7 | [Janie Jones \- Remastered](https://open.spotify.com/track/6ywRlumSQjOOkcSnJYAgHw) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 2:08 |
 | 8 | [Bankrobber](https://open.spotify.com/track/6gSDSkAJ3vuSINvcroq1Vn) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 4:34 |
 | 9 | [Straight to Hell \- Remastered](https://open.spotify.com/track/2ax1vei61BzRGsEn6ckEdL) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 5:30 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 40 | [Drug\-Stabbing Time \- Remastered](https://open.spotify.com/track/3TrpmIKzmn8BNZDMys2n72) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Give 'Em Enough Rope \(Remastered\)](https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg) | 3:43 |
 | 41 | [Gates of the West](https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Cost of Living \- EP](https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u) | 3:25 |
 
-Snapshot ID: `aKO+gAAAAAAm9s+xS/GMbiwh/qjupvI4`
+Snapshot ID: `aKZhgAAAAAAr9J2SMmvRz8uzuOQD2Zc2`

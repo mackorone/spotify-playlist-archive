@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-281 songs - 17 hr 4 min
+282 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Someday It’ll All Make Sense](https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [As Far As I Can See: The Best Of](https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA) | 3:51 | 2022-06-10 | 2025-06-30 |
 | [Something in the Water](https://open.spotify.com/track/10RQKVSr4rS0coExTmi4dF) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Greatest Hits: Decade \#1](https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A) | 3:58 | 2021-12-10 |  |
 | [Somewhere in the Sunshine](https://open.spotify.com/track/0ZumjEWenangePeQRcq0h9) | [Charles Esten](https://open.spotify.com/artist/5DOQ7jQ2pnXaiJiIoiEQjz) | [Somewhere in the Sunshine](https://open.spotify.com/album/4EFxY2XuXN2HMWpFDRXEbA) | 4:22 | 2023-10-06 |  |
+| [Song For My Son \(feat\. Kane Brown\)](https://open.spotify.com/track/2wUT327Dd5zPsUpE7lMqly) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [17 Problems](https://open.spotify.com/album/02epJ6msSRbMcoCbZGLV1h) | 2:53 | 2025-08-22 |  |
 | [Songs About Jesus](https://open.spotify.com/track/7BIpImnCKnk5PHVYRC9vfa) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [Songs About Jesus](https://open.spotify.com/album/7oWHCY0bUwwvVvj2saT4UR) | 3:17 | 2024-05-17 |  |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-04-19 | 2024-12-14 |
 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 | 2022-07-29 | 2025-06-30 |

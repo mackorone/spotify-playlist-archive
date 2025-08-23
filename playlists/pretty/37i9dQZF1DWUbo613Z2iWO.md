@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Zyah Belle
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,495 likes - 200 songs - 10 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,508 likes - 200 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 199 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 |
 | 200 | [Your Ecstasy](https://open.spotify.com/track/347G6GmaMD9JQbv7LKAILT) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Your Ecstasy](https://open.spotify.com/album/3rvVKbEF5GQWdjA4RfEshs) | 3:48 |
 
-Snapshot ID: `AAAAAO5kfYpgzgnhe9IX7t0Fy7P/ugM9`
+Snapshot ID: `AAAAAGJ1l1AFZNl5xlK+Uf7KWuMRWzWb`

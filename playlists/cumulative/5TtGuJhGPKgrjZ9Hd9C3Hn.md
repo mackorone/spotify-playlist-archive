@@ -4,7 +4,7 @@
 
 > The Finest In Jazz Since 1939
 
-132 songs - 14 hr 8 min
+133 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Oblighetto](https://open.spotify.com/track/5H9ndwyE50LFwZFuZnVe2o) | [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [Moon Rappin'](https://open.spotify.com/album/25sQE6mJ38XKqKm4VKgWp8) | 6:36 | 2023-01-06 |  |
 | [Ofafrii](https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX) | [Out Of/Into](https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU) | [Motion I](https://open.spotify.com/album/4lT8g8vcE3uQEVX5yNLeCd) | 7:47 | 2024-12-18 |  |
 | [Old Folks](https://open.spotify.com/track/5iLiu2yxhOs97x9VILKzHF) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Vol\. 1](https://open.spotify.com/album/5ogYqVF7SaAZSgdYM9sDba) | 5:50 | 2023-10-20 | 2024-12-19 |
+| [Palindrome \(feat\. Jeff Parker\)](https://open.spotify.com/track/61Iql0ceRGvgkV82ejHjO6) | [Paul Cornish](https://open.spotify.com/artist/6Buu7N5lG1P2yRirqj9UON), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [You’re Exaggerating!](https://open.spotify.com/album/17poWlH7a2OcIv1bTwq0xU) | 5:22 | 2025-08-22 |  |
 | [Peace](https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Blowin' The Blues Away](https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc) | 6:02 | 2023-01-06 |  |
 | [Pearls](https://open.spotify.com/track/6ys3DgHClE8mCa4sRx8yDQ) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O), [Avishai Cohen](https://open.spotify.com/artist/7pLCGEFmIawVDA35Up9OSG) | [The Women Who Raised Me](https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF) | 4:44 | 2023-01-06 |  |
 | [Please Set Me At Ease](https://open.spotify.com/track/5emxS2ghZWuPnRFOe10vdq) | [Bobbi Humphrey](https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON) | [Fancy Dancer \(Reissue\)](https://open.spotify.com/album/1pT80BtTp6pzTvX3PFUHpb) | 6:09 | 2023-01-06 |  |

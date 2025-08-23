@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 296969,
       "name": "Adaraku",
       "url": "https://open.spotify.com/track/67RKXc29tGIKnVY2xIBcSU"
@@ -2655,6 +2655,32 @@
     },
     {
       "album": {
+        "name": "Mallika Gandha (From \"Telusu Kada\")",
+        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "Mallika Gandha (From \"Telusu Kada\")",
+      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
+    },
+    {
+      "album": {
         "name": "Paisa Vasool",
         "url": "https://open.spotify.com/album/2mvMBtAd07PuPbmBH56YcF"
       },
@@ -2902,7 +2928,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 298392,
       "name": "My Heart is Beating",
       "url": "https://open.spotify.com/track/3ppaMjhBDxRi2kTpawOSJn"
@@ -4952,6 +4978,32 @@
       "duration_ms": 217776,
       "name": "Vellake",
       "url": "https://open.spotify.com/track/2cDyQDAoP0cPQXzaviXu2f"
+    },
+    {
+      "album": {
+        "name": "Vibe Undi (From \"Mirai\") [Telugu]",
+        "url": "https://open.spotify.com/album/36tlIgxlfBUU4tXa7Vo5XX"
+      },
+      "artists": [
+        {
+          "name": "GowraHari",
+          "url": "https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202361,
+      "name": "Vibe Undi (From \"Mirai\") [Telugu]",
+      "url": "https://open.spotify.com/track/2N4dA1J0EkkXU7mRxtnfKv"
     },
     {
       "album": {

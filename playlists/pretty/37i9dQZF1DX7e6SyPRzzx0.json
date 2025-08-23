@@ -1,15 +1,47 @@
 {
   "description": "The home of rage rap. Cover: Homixide Gang",
-  "num_followers": 124593,
+  "num_followers": 124665,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPIm2lvMF7zS0Cz6HLyvMSHj4h8P",
+  "snapshot_id": "AAAAAObR/eKnTJVvRKNPIPLngwF39QEl",
   "tracks": [
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "MUSIC",
+        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 183928,
+      "name": "EVIL J0RDAN",
+      "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 126986,
+      "name": "TORE UP",
+      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Homixide Lifestyle 2",
         "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
@@ -29,39 +61,7 @@
       "url": "https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "HARDSTONE PSYCHO",
-        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 126986,
-      "name": "TORE UP",
-      "url": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "MUSIC",
-        "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 183928,
-      "name": "EVIL J0RDAN",
-      "url": "https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "500 Days of Summer",
         "url": "https://open.spotify.com/album/5rT8y6Tt8WVu5UFoKK5WsT"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/12V00GCnpzT8ghx0vTVbp4"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/2D8i2yY8z3kB5gRaUJ5weK"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "5G",
         "url": "https://open.spotify.com/album/79nZhu9My4y3JRzooOkCoL"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/08j2Jh51yVfb9sD33TAPYJ"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Enter The Dragon / TEKTIME",
         "url": "https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "REST IN BASS",
         "url": "https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F"
@@ -197,7 +197,43 @@
       "url": "https://open.spotify.com/track/51OiK90giWwDI0RedEYBcg"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "gone too soon",
+        "url": "https://open.spotify.com/album/6Yk3cd3sShQh79Rfug8OQ4"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "duration_ms": 105098,
+      "name": "stressed",
+      "url": "https://open.spotify.com/track/4jAf0mRh0eUvgZzAEb5Xmp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 274308,
+      "name": "LOVE HURTS",
+      "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "MUSIC - SORRY 4 DA WAIT",
         "url": "https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg"
@@ -213,27 +249,7 @@
       "url": "https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "bags",
-        "url": "https://open.spotify.com/album/3TwHdwW0nNdjuFtZnFnVdO"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "FearDorian",
-          "url": "https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn"
-        }
-      ],
-      "duration_ms": 166807,
-      "name": "bags",
-      "url": "https://open.spotify.com/track/6kjv8jfYnJ15fPIQYSvFKe"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "DANGEROUS SUMMER",
         "url": "https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/0rDy4G5erghtM8RR0svKzA"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/7ydu79RLStYQTOi1OM6Dvg"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "i need meds",
         "url": "https://open.spotify.com/album/0h6LKZjMZDE2pOGYQaczrL"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/6JIHW3L3mW9z2RtMNe1nlr"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "IM YEAT",
         "url": "https://open.spotify.com/album/6WBTIajwa9AAwQusziUoae"
@@ -325,7 +341,23 @@
       "url": "https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "ISMMMM",
+        "url": "https://open.spotify.com/album/3rpVls7KU7nNG8qOBD2KHM"
+      },
+      "artists": [
+        {
+          "name": "Thouxanbanfauni",
+          "url": "https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "ISMMMM",
+      "url": "https://open.spotify.com/track/0tyfJeorG8tvBm6goLjbuU"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Homixide Lifestyle 2",
         "url": "https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/0AUoWq5xvZL6vW7u4dZmJO"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Eternal Atake 2",
         "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
@@ -357,7 +389,7 @@
       "url": "https://open.spotify.com/track/1197AvSs0lMg5kNIGaeENm"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "PYRAMIDZ",
         "url": "https://open.spotify.com/album/32t9wZwwEinXJhHtZmKAab"
@@ -373,7 +405,7 @@
       "url": "https://open.spotify.com/track/1IvBafVU2yEd7tXz4Mmh3j"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "BABYRINO",
         "url": "https://open.spotify.com/album/0x4lDg9zVDZth6nlP5Maar"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/59ROR8sJpSxM16hqXtFUGU"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Molly And Her Week Of Wonders",
         "url": "https://open.spotify.com/album/6ReZujjjI3rWa2P9Qd2YhT"
@@ -409,7 +441,27 @@
       "url": "https://open.spotify.com/track/7tcOUGvkj9VpxyJjKJ5HQJ"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
+      "album": {
+        "name": "bags",
+        "url": "https://open.spotify.com/album/3TwHdwW0nNdjuFtZnFnVdO"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        },
+        {
+          "name": "FearDorian",
+          "url": "https://open.spotify.com/artist/2VddwtW7ie3dDcW8WKXHdn"
+        }
+      ],
+      "duration_ms": 166807,
+      "name": "bags",
+      "url": "https://open.spotify.com/track/6kjv8jfYnJ15fPIQYSvFKe"
+    },
+    {
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Aye Rage",
         "url": "https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC"
@@ -433,7 +485,7 @@
       "url": "https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -453,7 +505,7 @@
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "DEMON HOME",
         "url": "https://open.spotify.com/album/1o9z5t0xuvOcOp3VZ4ElXH"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/6IoVm0ggNarpZNAGZz8mtc"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Club Siberia",
         "url": "https://open.spotify.com/album/6PAjRoxVTG2dEdcnSnxTzl"
@@ -485,7 +537,7 @@
       "url": "https://open.spotify.com/track/0ltPQEEW1aC1pKqt68DIqV"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "5BRAZY (FEAT. QUAVO)",
         "url": "https://open.spotify.com/album/67CSBVsdfdCGHxF7JSModS"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/3Rhzm2IHHErnWwKcFgHmRv"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "COUNT MY BANDZ",
         "url": "https://open.spotify.com/album/5IhBUU1UKUKXvsWOjU2WjW"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/2JSu5cKatilbxzLLwWcwrE"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Teen X",
         "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "just score it",
         "url": "https://open.spotify.com/album/73cibirs94ZVsObZcEdyny"
@@ -573,7 +625,7 @@
       "url": "https://open.spotify.com/track/2AxMqRbs9U6JBJaS3GL5wx"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Ball Hog For Life",
         "url": "https://open.spotify.com/album/44jodlDP4L9mvGF6T7wi3i"
@@ -589,7 +641,7 @@
       "url": "https://open.spotify.com/track/7BrQDMJ4AcQDza9ULRJV6S"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "trompe l\u2019oeil",
         "url": "https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK"
@@ -605,7 +657,7 @@
       "url": "https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "LYFESTYLE",
         "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
@@ -621,7 +673,7 @@
       "url": "https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "KEEP IT COOL",
         "url": "https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c"
@@ -641,7 +693,7 @@
       "url": "https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "LIVE LAUGH COUNT",
         "url": "https://open.spotify.com/album/50N4wuDdnDYzvfNB0DUL94"
@@ -657,27 +709,7 @@
       "url": "https://open.spotify.com/track/6Bkj2oJ6gOqj1czcMEUjup"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/11ZryCurodmqJCHvj9AA6U"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS",
-      "url": "https://open.spotify.com/track/4wXb2K1fSCzl83qSpFELno"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "REBIRTH",
         "url": "https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "New Cash",
         "url": "https://open.spotify.com/album/25ZcUBzPwZxKVBk40kNzXu"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/4NNyZ9w119c7FJLn6FoRJg"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "LOVE LASTS FOREVER",
         "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "GO AGAIN (feat. Superheaven)",
         "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
@@ -769,7 +801,7 @@
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Precision",
         "url": "https://open.spotify.com/album/5a7AhbzPPOpwiiuI3ETuAe"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/2v0EGZ57xziY8aZMc79Hwl"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "11th Dimension",
         "url": "https://open.spotify.com/album/4Ioudl1Qx3fTh5AMOYRBvf"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/0Nem7CDbuhQnxmN6BcsXJ0"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "trauma",
         "url": "https://open.spotify.com/album/0eihBhagAmahQQALFmScz3"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
@@ -837,7 +869,7 @@
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -857,7 +889,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "i5u5we5",
         "url": "https://open.spotify.com/album/6VQw51JISwFViXaj3K7u9d"
@@ -877,23 +909,7 @@
       "url": "https://open.spotify.com/track/0zin6HNAYX04mXsWjpUkIk"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "LUV 4 YA",
-        "url": "https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 212088,
-      "name": "LUV 4 YA",
-      "url": "https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -925,7 +941,7 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
@@ -941,7 +957,7 @@
       "url": "https://open.spotify.com/track/42tD9J0KCPFSc1d2hFTvAf"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Trip At Knight",
         "url": "https://open.spotify.com/album/6SpT5TOPIInmmwLyCcCAXX"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/5n4FTCMefvyKUjeWumdaWv"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
@@ -977,7 +993,7 @@
       "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Hate Me",
         "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
@@ -997,7 +1013,7 @@
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "President (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/3wHQwZC88fNttgEGinZ34Z"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Marble Floors",
         "url": "https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o"
@@ -1037,7 +1053,7 @@
       "url": "https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
@@ -1053,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4txKMpsSfZRV6durPuHVq0"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
@@ -1069,27 +1085,7 @@
       "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
-      "album": {
-        "name": "King tonka",
-        "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 205296,
-      "name": "Heavy stunts (with Don Toliver)",
-      "url": "https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d"
-    },
-    {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "listen! (sped up)",
         "url": "https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF"
@@ -1105,7 +1101,7 @@
       "url": "https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "#CERTIFIED (DJ Ess Mix) [feat. DJ Ess]",
         "url": "https://open.spotify.com/album/3oUHbi4OZZTbsZe3UEISHJ"
@@ -1125,7 +1121,7 @@
       "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -1149,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "A Love Letter To You 4",
         "url": "https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE"
@@ -1165,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ"
     },
     {
-      "added_at": "2025-08-15 04:00:19",
+      "added_at": "2025-08-22 04:00:27",
       "album": {
         "name": "If Looks Could Kill",
         "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"

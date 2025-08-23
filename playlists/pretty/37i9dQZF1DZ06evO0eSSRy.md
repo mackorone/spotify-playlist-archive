@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 20 | [412](https://open.spotify.com/track/4HAUQ35gRU5GS1VuhqlqLw) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 3:54 |
 | 21 | [Then People Forget](https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:31 |
 | 22 | [Worry](https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:05 |
-| 23 | [Mike + Susan](https://open.spotify.com/track/4wpfVf67akZfMUhwybFNml) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:01 |
+| 23 | [Albert Suffers](https://open.spotify.com/track/6mRqJM62E7KH4zXOWvFmAt) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:06 |
 | 24 | [Semi Finalists](https://open.spotify.com/track/1HkBqkcB8F6kz1rcmJDL6T) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI) | 3:43 |
 
-Snapshot ID: `aKO+gAAAAACK+85FpRYsZG8eH03AyRf/`
+Snapshot ID: `aKZhgAAAAAA6cGssuAyBhpluFztxgHiF`

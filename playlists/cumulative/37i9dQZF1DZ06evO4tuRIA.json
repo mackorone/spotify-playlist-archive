@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "L7X",
+        "url": "https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131754,
+      "name": "LOKO",
+      "url": "https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ"
+    },
+    {
+      "album": {
         "name": "LOKO",
         "url": "https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2025-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 131754,
       "name": "LOKO",
       "url": "https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 129791,
       "name": "ME VALE LO QUE DIGAN",
       "url": "https://open.spotify.com/track/21iCh1TEu9d6Q4y2eWklHQ"
@@ -1612,6 +1630,28 @@
       "duration_ms": 240879,
       "name": "Paso En Culiacan (En Vivo)",
       "url": "https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS"
+    },
+    {
+      "album": {
+        "name": "The Magic, Vol.1",
+        "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191843,
+      "name": "Pateando Latas",
+      "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
     },
     {
       "album": {

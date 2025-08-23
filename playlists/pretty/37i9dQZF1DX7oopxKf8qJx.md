@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,336 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,391 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 19 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
 | 20 | [Alone Together](https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:05 |
 | 21 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:23 |
-| 22 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
-| 23 | [Tennessee Waltz \(with Boston Pops Orchestra\)](https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [The Pops Goes Country \(with Boston Pops Orchestra\)](https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq) | 2:43 |
+| 22 | [Tennessee Waltz \(with Boston Pops Orchestra\)](https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [The Pops Goes Country \(with Boston Pops Orchestra\)](https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq) | 2:43 |
+| 23 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
 | 24 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |
 | 25 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
 | 26 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 33 | [The Song from 'moulin Rouge' \(Where Is Your Heart\)](https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Music From Hollywood](https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4) | 5:51 |
 | 34 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
 | 35 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
-| 36 | [Theme From "Bus Stop"](https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Champagne, Candlelight And Kisses](https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx) | 3:42 |
-| 37 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
+| 36 | [If I Had You](https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55) | [Billy May](https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq) | [A Band Is Born](https://open.spotify.com/album/2JxztvhZeOftDGyJWEsFjU) | 3:25 |
+| 37 | [Theme From "Bus Stop"](https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Champagne, Candlelight And Kisses](https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx) | 3:42 |
 | 38 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
 | 39 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
 | 40 | [Stranger On The Shore](https://open.spotify.com/track/2pV4gOJ8bzwuz5zGbF1yRb) | [Acker Bilk](https://open.spotify.com/artist/5bdgb81IJMXag724quaNSA), [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Beyond The Sea](https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ) | 3:11 |

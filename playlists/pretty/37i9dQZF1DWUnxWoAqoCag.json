@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 197029,
+  "num_followers": 197034,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABh1UDoJ//a+IgHvRKpDxnWf14GD",
+  "snapshot_id": "AAAAAA++F9HVUpfS5A65SaZryHgPdFAx",
   "tracks": [
     {
       "added_at": "2025-08-04 14:23:09",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
-        "name": "\u518d\u4f1a",
-        "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 260829,
-      "name": "\u518d\u4f1a",
-      "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
         "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
         "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 383361,
       "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
       "url": "https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
+        "name": "\u518d\u4f1a",
+        "url": "https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "\u518d\u4f1a",
+      "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
     },
     {
       "added_at": "2025-08-04 14:23:09",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
-        "name": "NIGHT DANCER",
-        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
-      },
-      "artists": [
-        {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
-        }
-      ],
-      "duration_ms": 210948,
-      "name": "NIGHT DANCER",
-      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 257293,
       "name": "First Love",
       "url": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
+        "name": "NIGHT DANCER",
+        "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "duration_ms": 210948,
+      "name": "NIGHT DANCER",
+      "url": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
     },
     {
       "added_at": "2025-08-04 14:23:09",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
+        "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
+        "url": "https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 150715,
+      "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
+      "url": "https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 215120,
       "name": "GOD_i",
       "url": "https://open.spotify.com/track/6xLSq48LkhwFTwKx442veN"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
-        "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
-        "url": "https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 150715,
-      "name": "\u3069\u3046\u304b\u3057\u3066\u308b",
-      "url": "https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O"
     },
     {
       "added_at": "2025-08-04 14:23:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 184444,
-      "name": "ANTIFRAGILE",
-      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "ANTIFRAGILE",
+      "url": "https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
         "name": "Assort",
         "url": "https://open.spotify.com/album/12cXi1i1cgTVe27Rb122kZ"
       },
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe"
-      },
-      "artists": [
-        {
-          "name": "HIRAIDAI",
-          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
-        }
-      ],
-      "duration_ms": 193012,
-      "name": "Stand by me, Stand by you.",
-      "url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "duration_ms": 193012,
+      "name": "Stand by me, Stand by you.",
+      "url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh"
     },
     {
       "added_at": "2025-08-04 14:23:09",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
-        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
         "name": "Mela!",
         "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
+        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
     },
     {
       "added_at": "2025-08-04 14:23:09",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-08-04 14:23:09",
       "album": {
-        "name": "SiX",
-        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
-      },
-      "artists": [
-        {
-          "name": "Da-iCE",
-          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
-        }
-      ],
-      "duration_ms": 248653,
-      "name": "CITRUS",
-      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
-    },
-    {
-      "added_at": "2025-08-04 14:23:09",
-      "album": {
         "name": "\u6625\u6ce5\u68d2",
         "url": "https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 290289,
       "name": "\u6625\u6ce5\u68d2",
       "url": "https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf"
+    },
+    {
+      "added_at": "2025-08-04 14:23:09",
+      "album": {
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
     }
   ],
   "unique_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",

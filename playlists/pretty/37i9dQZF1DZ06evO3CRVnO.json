@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 313992,
+  "num_followers": 314053,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADJblMzIKuh9tE5uE6HuMDL",
+  "snapshot_id": "aKZhgAAAAACqn/f/HoQ9VackRens4TWw",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,34 @@
       "duration_ms": 166680,
       "name": "DIFFERENT DAY",
       "url": "https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174100,
+      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
     }
   ],
   "unique_name": "This Is Playboi Carti",

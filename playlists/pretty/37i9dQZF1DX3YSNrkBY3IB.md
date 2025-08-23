@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSNrkBY3IB.md) - [plain]
 
 > Check out these hip\-hop classics that are great for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,484 likes - 40 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,520 likes - 40 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

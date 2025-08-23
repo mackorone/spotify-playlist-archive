@@ -5151,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "Testament",
+        "url": "https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276440,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM"
+    },
+    {
+      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -7884,24 +7902,6 @@
       "duration_ms": 173333,
       "name": "Touch You",
       "url": "https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH"
-    },
-    {
-      "album": {
-        "name": "Testament",
-        "url": "https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "date_added": "2025-08-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM"
     },
     {
       "album": {

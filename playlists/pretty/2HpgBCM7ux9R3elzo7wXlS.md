@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 926 songs - 2 day 9 hr 46 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 927 songs - 2 day 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -934,5 +934,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 924 | [Wild Irish Roses](https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 2:49 |
 | 925 | [Netflix & Dusse](https://open.spotify.com/track/4hP7NIeToP2hU6lyvIHPyp) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 4:19 |
 | 926 | [Innamission](https://open.spotify.com/track/7svLpna6i9NbCVBciVCUWG) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 2:15 |
+| 927 | [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 |
 
-Snapshot ID: `AAAHV7pptUGLvykahg9Oi4fgQg0vQtMq`
+Snapshot ID: `AAAHWFjSYf6QQHc6MKrSYR0MrHJ9URrY`

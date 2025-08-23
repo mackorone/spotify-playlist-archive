@@ -4,7 +4,7 @@
 
 > we got you\. Cover: Post Malone
 
-115 songs - 5 hr 45 min
+116 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Star Shopping](https://open.spotify.com/track/1WbhIxkn5ECsOwUm795iX1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/342nD5SIsD90lP8LxkLaLM) | 2:22 | 2023-08-18 | 2024-04-19 |
 | [Star Shopping](https://open.spotify.com/track/6Ox1rvlwEpB49drasQm6RF) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Star Shopping](https://open.spotify.com/album/48dH5WaD1L379zPQt6LMDD) | 2:22 | 2023-08-07 | 2024-02-14 |
 | [Stay High](https://open.spotify.com/track/21CkzgKCBCq5V4XKjiGSIj) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 2:48 | 2024-02-23 | 2025-04-13 |
+| [Still](https://open.spotify.com/track/33M4V1Ns4DWrp2eop2Ubzg) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Dark](https://open.spotify.com/album/5QGv6b6i7tIOksucTpcUau) | 3:16 | 2025-08-22 |  |
 | [STRUGGLING](https://open.spotify.com/track/0hvzHfDeNjxE2cDlZObr6H) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [STRUGGLING](https://open.spotify.com/album/4czZAJkdRFjYA973kUZ3iB) | 3:05 | 2025-03-28 |  |
 | [Taking A Walk](https://open.spotify.com/track/4mHgYpuGHu99Mw69E83CP2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/214f4uAY0p2KgY7Fl4fBgk) | 2:01 | 2023-08-07 | 2023-10-24 |
 | [Taking A Walk](https://open.spotify.com/track/6vSRW8utiYAdoCfJG2v86r) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [LIFE'S A TRIP](https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL) | 2:01 | 2023-08-18 | 2024-04-11 |
@@ -116,7 +117,7 @@
 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 | 2023-08-07 |  |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2023-08-07 |  |
 | [treading water](https://open.spotify.com/track/4R4mceIGxEzPLhUArgAF7v) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [lost americana](https://open.spotify.com/album/30aIA1FrouOX9kHxP4dEr6) | 3:42 | 2025-08-15 |  |
-| [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-08 |  |
+| [Ugly](https://open.spotify.com/track/50vTXRm8DgeuSeFKggVXnG) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Ugly](https://open.spotify.com/album/4vyDBDOm0TJbxvTfsMDT9D) | 4:30 | 2025-08-08 | 2025-08-23 |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2023-08-07 | 2023-11-05 |
 | [Waves](https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 4:00 | 2023-08-18 |  |
 | [Where Did You Go? \- Bonus Track](https://open.spotify.com/track/6vLs1SrgbJkCclbn1Hqhyd) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WITHERED](https://open.spotify.com/album/2uPr7JseOfZGpsefGTaxLB) | 3:02 | 2025-05-30 |  |

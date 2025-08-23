@@ -4,12 +4,13 @@
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-166 songs - 8 hr 49 min
+167 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Too Far](https://open.spotify.com/track/0IYTStpc8Iux9ImzTQvlFu) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Ryan Miller](https://open.spotify.com/artist/7vzjsRPzEhuj0RtYS3M2jG) | [Hard Pills and Heartbreak](https://open.spotify.com/album/6IkkW1NUKXt8uumIfLHSv2) | 3:11 | 2023-03-17 |  |
 | [A Little Too Far](https://open.spotify.com/track/6u4QyCtJYymSgcpz3mdaQo) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk), [Ryan Miller](https://open.spotify.com/artist/7vzjsRPzEhuj0RtYS3M2jG) | [Hard Pills and Heartbreak](https://open.spotify.com/album/57xrSx3W5UoMAcBL4Ms6Ua) | 3:11 | 2023-04-21 | 2024-04-19 |
+| [About You \(feat\. Tucker Wetmore\)](https://open.spotify.com/track/4mDeL6rcWzsCLVYcdnzDo5) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 2:56 | 2025-08-22 |  |
 | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/track/6bd26YDDjUM8Zflkb5Nine) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9), [SB the Queen](https://open.spotify.com/artist/6KqXuBuC5LedSWM73bixOa) | [Ain't Nothin' Free \(feat\. SB the Queen\)](https://open.spotify.com/album/3IYqdJ67ZAPcUZCtCRcqEd) | 3:20 | 2023-09-22 | 2025-05-03 |
 | [All The Girls Wanna Ride](https://open.spotify.com/track/4u4JqBap9AgXwHMH90pKTl) | [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Kuntry](https://open.spotify.com/album/6EquuFDUflWCLiB6Rc6dsE) | 3:25 | 2023-03-17 |  |
 | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [All The Way \(feat\. Bailey Zimmerman\)](https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh) | 2:45 | 2025-04-04 |  |

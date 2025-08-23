@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 
 > This is Jasiel Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,530 likes - 44 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,555 likes - 44 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 22 | [Bien High](https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Bien High](https://open.spotify.com/album/5lcssTyl6yVlMSVQUyPDJa) | 3:27 |
 | 23 | [Mas Alto Que El Everest](https://open.spotify.com/track/4Pf6FyGk1qCOP2rDzFcuwp) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Mas Alto Que El Everest](https://open.spotify.com/album/5egwrtDVubauLR7o2OE1xb) | 3:01 |
 | 24 | [CALIFORNIA SUNSET](https://open.spotify.com/track/7Jw2UlbClhyuWzmfv9yWtD) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [LA ODISEA](https://open.spotify.com/album/0OrStwHqaIFS8JdPSwApqA) | 3:03 |
-| 25 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
-| 26 | [De Música Ligera](https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [De Música Ligera](https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB) | 3:13 |
+| 25 | [De Música Ligera](https://open.spotify.com/track/3h3CZSh3SP1et9rBQlxLMG) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [De Música Ligera](https://open.spotify.com/album/43XjEzLIOIU3xBqE2GMrKB) | 3:13 |
+| 26 | [Que Loco Es](https://open.spotify.com/track/21zCMMBtQrkwFwfkrun5Qk) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Que Loco Es](https://open.spotify.com/album/36UY5ZVRoeNMMVBJ9dtIfr) | 3:22 |
 | 27 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 |
 | 28 | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Maldad Pura \(feat\. Jasiel Nuñez\)](https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h) | 2:38 |
 | 29 | [Traigo Una 40](https://open.spotify.com/track/7hDeIf4zAccZaGEaAALBDh) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Disfrutando El Proceso](https://open.spotify.com/album/60falhlYX9dCpWmjlHfVGa) | 3:12 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sHsd4.md) - [plain]
 | 43 | [Flow Criminal](https://open.spotify.com/track/2qH76OVzQR5AAexNHhrFEj) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 2:16 |
 | 44 | [Yo Si Vengo De Las Calles](https://open.spotify.com/track/2cyhNfHLJtCcrpQIXFcV52) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Vueltas De La Vida](https://open.spotify.com/album/2uTCg09cWdECuo8oZl9HK4) | 3:18 |
 
-Snapshot ID: `aKO+gAAAAAA2PXk38zfZ4a4CVuzMVctG`
+Snapshot ID: `aKZhgAAAAABDyuFsq/SDmPU15vqATjk7`

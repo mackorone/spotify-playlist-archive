@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,004 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,934 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 64 | [Million Times](https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv) | [Million Times](https://open.spotify.com/album/42EPgrQJsO48gpuFV2xAOq) | 3:11 |
 | 65 | [If Not Today](https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Governor Tiggy](https://open.spotify.com/artist/5IwMTcaqt4B2bAcPqchc9u), [DJ Jeren](https://open.spotify.com/artist/5QkPMsK0XHCvM6jCbKhuEJ) | [If Not Today](https://open.spotify.com/album/3laz5leeSqRa3adGm0zjXP) | 4:16 |
 | 66 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
-| 67 | [Stay](https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Stay](https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e) | 4:07 |
-| 68 | [Time Is of Essence](https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Toxicity](https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym) | 3:18 |
+| 67 | [Time Is of Essence](https://open.spotify.com/track/6EseVHHBlvGNJnkhyyl4kH) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s), [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [Toxicity](https://open.spotify.com/album/5Ko9dGZI8vlqVROi0ugTym) | 3:18 |
+| 68 | [Stay](https://open.spotify.com/track/27RAZKSDzCpLCSaLBK8BNg) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Stay](https://open.spotify.com/album/4wkKZpR4yqXAvWLxzQj97e) | 4:07 |
 | 69 | [Final Warning](https://open.spotify.com/track/1jBmIONvgPrALQhRL6AgHe) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [Skank N Prod](https://open.spotify.com/artist/4rK98VLS3BkgpGFeWO6OI0) | [Final Warning](https://open.spotify.com/album/7lLoUQrpBTGAfW4Wu7cqmk) | 3:42 |
 | 70 | [Try](https://open.spotify.com/track/1VnH7JLH0WqmoB4hY6xj6p) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Try](https://open.spotify.com/album/2HFUCk4B25JopjnNsvSLNY) | 4:13 |
 

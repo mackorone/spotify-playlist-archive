@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9jvC1xBh84q.md) - [plain]
 
 > Calling all sneaky links! 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,565 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,582 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

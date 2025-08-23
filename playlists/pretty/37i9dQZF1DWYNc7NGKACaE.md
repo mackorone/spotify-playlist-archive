@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,843 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,837 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 18 | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk) | [TIKTOK HITS](https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK), [LC DAS CASINHAS](https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C) | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ) | 2:46 |
 | 19 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
 | 20 | [Portugal \(Speed\)](https://open.spotify.com/track/06tHtGtKQuYRKkrfa1yQEi) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Ananda \(Speed\)](https://open.spotify.com/album/1CIW6txeFisFO56w7sqX9e) | 2:43 |
-| 21 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
-| 22 | [Nunca Duvide de um Mano \(Speed Up\)](https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Nunca Duvide de um Mano](https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9) | 1:49 |
+| 21 | [Nunca Duvide de um Mano \(Speed Up\)](https://open.spotify.com/track/5ayuzPrJE082hhsn3tc00D) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse) | [Nunca Duvide de um Mano](https://open.spotify.com/album/1fTsqeLfYx1EItPGCudGg9) | 1:49 |
+| 22 | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/track/1fokvYsLRaqplJKbFGNwWd) | [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ) | [Meus Manos Faz Dinheiro Com Site](https://open.spotify.com/album/4fhA34Jwxwa1QFxD5l2ggp) | 2:10 |
 | 23 | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7) | [7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul](https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX) | 3:22 |
 | 24 | [Virgulado \- Speed](https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns) | [Nino Leone](https://open.spotify.com/artist/3WhUu0CKDwlQL9UDMccCCx), [Goodboysut](https://open.spotify.com/artist/7mGIf59rGrAZEv55wcSXvW) | [Virgulado](https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk) | 2:07 |
 | 25 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |

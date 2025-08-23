@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 37024,
+  "num_followers": 37028,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAB46bD58Uaeo+Q9OfXGaPOJ",
+  "snapshot_id": "aKZhgAAAAAD+6qmTkUzsjsimmpEuOtKN",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skin Deep Deluxe Version",
-        "url": "https://open.spotify.com/album/3PSiKvI79K1aoayA3Z7xfV"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Derek Trucks",
-          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
-        }
-      ],
-      "duration_ms": 268906,
-      "name": "Skin Deep (feat. Derek Trucks)",
-      "url": "https://open.spotify.com/track/3R11aqnxH9nlrxyAPV3A3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Play Guitar",
         "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
       },
@@ -731,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Skin Deep Deluxe Version",
+        "url": "https://open.spotify.com/album/3PSiKvI79K1aoayA3Z7xfV"
       },
       "artists": [
         {
@@ -740,13 +720,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
         }
       ],
-      "duration_ms": 275680,
-      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
-      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+      "duration_ms": 268906,
+      "name": "Skin Deep (feat. Derek Trucks)",
+      "url": "https://open.spotify.com/track/3R11aqnxH9nlrxyAPV3A3Q"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 339466,
       "name": "Sweet Little Angel",
       "url": "https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 275680,
+      "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
+      "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heavy Love",
         "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 317226,
       "name": "I Need You Tonight",
       "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Blues Is That (feat. Joe Walsh)",
-        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
         {
@@ -900,13 +900,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Joe Walsh",
-          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
         }
       ],
-      "duration_ms": 263653,
-      "name": "How Blues Is That (feat. Joe Walsh)",
-      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
+      "duration_ms": 296280,
+      "name": "I've Got Dreams To Remember",
+      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+        "name": "How Blues Is That (feat. Joe Walsh)",
+        "url": "https://open.spotify.com/album/5cdbGAB813CdwjVGPpcVzU"
       },
       "artists": [
         {
@@ -936,13 +936,13 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Joe Walsh",
+          "url": "https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK"
         }
       ],
-      "duration_ms": 296280,
-      "name": "I've Got Dreams To Remember",
-      "url": "https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH"
+      "duration_ms": 263653,
+      "name": "How Blues Is That (feat. Joe Walsh)",
+      "url": "https://open.spotify.com/track/1CHQ1JVroIwvFF4uyIzp5V"
     }
   ],
   "unique_name": "This Is Buddy Guy",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Peer Kusiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,585 likes - 90 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,884 likes - 90 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 21 | [Say Who?!](https://open.spotify.com/track/15mNoHnfalvvNAQMSv888J) | [Luca Olivotto](https://open.spotify.com/artist/6TKBUwZ48ncE6FbhT5ACzj) | [Say Who?!](https://open.spotify.com/album/3pAhxeXbJ3Bky5k1A3sJc8) | 6:59 |
 | 22 | [Cape Town Skyline](https://open.spotify.com/track/6sxbiI34pvSoAWzLnqZHEl) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Cape Town Skyline](https://open.spotify.com/album/7KmNTh2orNrQK1bfu0qbiI) | 7:18 |
 | 23 | [Jezzebell \- Edit](https://open.spotify.com/track/2rkMLmtZjLTWnCcJjZ7RhI) | [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Jezzebell \(Edit\)](https://open.spotify.com/album/3e0mV59Ha8qLHWoWOyibX6) | 5:02 |
-| 24 | [Track 1](https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z) | [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [Good Trip](https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC) | 0:00 |
+| 24 | [Ant Club](https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z) | [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [Good Trip](https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC) | 5:04 |
 | 25 | [Think About Me](https://open.spotify.com/track/0D7oxsjjyFV8qjSUgRt8LL) | [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Think About Me](https://open.spotify.com/album/3b4HODIwJDhwdtrJt3UNTW) | 4:12 |
 | 26 | [Innelvisun](https://open.spotify.com/track/47egdrS9XNxSjaH98PjXMI) | [MMYYLO](https://open.spotify.com/artist/0SbN9MjYIRrGSpHoXjJtIB) | [Innelvisun](https://open.spotify.com/album/738evR2smzlNzsIHe7JPBI) | 6:08 |
 | 27 | [Lost in Space](https://open.spotify.com/track/2RXyYe1ixle95O0ZycRLdS) | [AANN](https://open.spotify.com/artist/11n2xcTaJR5Ynum6tvN9AS), [Anchi](https://open.spotify.com/artist/0ZhsFRPe9Q1Bjs3Am6JMnj) | [Lost In Space](https://open.spotify.com/album/5Bl0sY9c2gGNMEYXpqOVxN) | 4:03 |

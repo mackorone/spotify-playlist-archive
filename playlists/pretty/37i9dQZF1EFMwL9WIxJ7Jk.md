@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,402 likes - 96 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,403 likes - 96 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 95 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 96 | [Painkiller](https://open.spotify.com/track/2q60LHPspsHW8Bct7f6c42) | [The Potsdam Pitches](https://open.spotify.com/artist/1JHUAYhBvMGmvrNLLukLP9) | [Echoes](https://open.spotify.com/album/7FLzk92ZO6d1ZehKmsWn9P) | 3:11 |
 
-Snapshot ID: `Ab6H6gAAAABsC/3eurG7wqGqMrNHSKWh`
+Snapshot ID: `Ab6NlAAAAADw/hT7E5p2s9k9Fvjjga2Z`

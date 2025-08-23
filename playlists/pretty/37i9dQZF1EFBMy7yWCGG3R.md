@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,207 likes - 260 songs - 14 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,209 likes - 260 songs - 14 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,8 +228,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 218 | [TE AMO](https://open.spotify.com/track/6EOK4bju6W6Ek9wBvUSeDc) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY](https://open.spotify.com/album/5KpiGNTu3QsPI1j0zo2qxS) | 4:16 |
 | 219 | [Me Without You](https://open.spotify.com/track/02XUnEfZexXh9bj66FeK4Y) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:33 |
 | 220 | [Wrapped Around](https://open.spotify.com/track/433GlmCc3VnUHqogFFQzq9) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:43 |
-| 221 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
-| 222 | [Try Your Luck](https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 2:43 |
+| 221 | [Try Your Luck](https://open.spotify.com/track/4OeHwa1G1CXBnbqZokaMwk) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Second Self](https://open.spotify.com/album/7wamK6t2NizBz3HScDpRY0) | 2:43 |
+| 222 | [Undertone](https://open.spotify.com/track/0JeAo18bs3edkTQ30aZtih) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 3:16 |
 | 223 | [chasing you](https://open.spotify.com/track/1b9FE0PI47eaWSPrfBW66I) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:02 |
 | 224 | [Orange Magic](https://open.spotify.com/track/08Ov5PSmldmPxZDGufK6Pj) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:53 |
 | 225 | [Celebration](https://open.spotify.com/track/5D2r5KcaVPuri7xD0FZZJC) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Turnt Up, Vol\. 6](https://open.spotify.com/album/4rESAMfV7F2cNSz93OEa2M) | 3:50 |
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 259 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 260 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Ab6H6gAAAACTcX/whDzSiLQP+NK0wSPQ`
+Snapshot ID: `Ab6NlAAAAADr2Cl7pZkK1IWWjZTD/+8X`

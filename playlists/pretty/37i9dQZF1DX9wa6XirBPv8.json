@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1849425,
+  "num_followers": 1849674,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN0LyohAmWUJNQNvFhLGuMkiFO0p",
+  "snapshot_id": "AAAAABvu73wcKV8xDTt7sp9Ln+W5hT2h",
   "tracks": [
     {
       "added_at": "2025-08-05 14:57:44",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Smile In Your Sleep",
+      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 268000,
       "name": "A Boy Brushed Red Living In Black And White",
       "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
-        "name": "Boys Like Girls",
-        "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
-      },
-      "artists": [
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 206520,
-      "name": "The Great Escape",
-      "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -815,18 +815,18 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+        "name": "Boys Like Girls",
+        "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Smile In Your Sleep",
-      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+      "duration_ms": 206520,
+      "name": "The Great Escape",
+      "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
     },
     {
       "added_at": "2025-08-05 14:57:44",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-08-05 14:57:44",
       "album": {
-        "name": "Left and Leaving",
-        "url": "https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe"
-      },
-      "artists": [
-        {
-          "name": "The Weakerthans",
-          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Aside",
-      "url": "https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr"
-    },
-    {
-      "added_at": "2025-08-05 14:57:44",
-      "album": {
         "name": "Casually Dressed & Deep In Conversation",
         "url": "https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 180386,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp"
+    },
+    {
+      "added_at": "2025-08-05 14:57:44",
+      "album": {
+        "name": "Left and Leaving",
+        "url": "https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe"
+      },
+      "artists": [
+        {
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Aside",
+      "url": "https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr"
     },
     {
       "added_at": "2025-08-05 14:57:44",

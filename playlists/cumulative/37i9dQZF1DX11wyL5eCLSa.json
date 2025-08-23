@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Arath Herce en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. La Vida Boh\u00e8me en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -3145,6 +3145,24 @@
     },
     {
       "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/5mXlrfESx3nrxGQsg4pFOF"
+      },
+      "artists": [
+        {
+          "name": "La Bande-Son Imaginaire",
+          "url": "https://open.spotify.com/artist/0U2KuJLptIL0uYTheNq4k7"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334285,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/4OTBD5g2HtuKlF3sysdu6T"
+    },
+    {
+      "album": {
         "name": "Discos Vac\u00edas",
         "url": "https://open.spotify.com/album/0zpvthj85rAO6eSjKa9rFQ"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 222743,
       "name": "El Adversario",
       "url": "https://open.spotify.com/track/4GWlWJXVfaxQJtgN4va9bp"
@@ -3935,6 +3953,24 @@
     },
     {
       "album": {
+        "name": "Embeces",
+        "url": "https://open.spotify.com/album/5wrbLnLCWcfkNGKwlT1P2k"
+      },
+      "artists": [
+        {
+          "name": "Meme del Real",
+          "url": "https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240706,
+      "name": "Embeces",
+      "url": "https://open.spotify.com/track/3tfFRiUe2e6FQ6oNNisspM"
+    },
+    {
+      "album": {
         "name": "Empezar de Cero",
         "url": "https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh"
       },
@@ -4040,6 +4076,24 @@
       "duration_ms": 242840,
       "name": "Enemigo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp"
+    },
+    {
+      "album": {
+        "name": "Entretenimiento",
+        "url": "https://open.spotify.com/album/6bSw6oJnecVO8AOxk23Ndr"
+      },
+      "artists": [
+        {
+          "name": "La Vida Boh\u00e8me",
+          "url": "https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228668,
+      "name": "Entretenimiento",
+      "url": "https://open.spotify.com/track/7rA6edTCfSvnXWyr0fy1Ff"
     },
     {
       "album": {
@@ -5217,6 +5271,24 @@
     },
     {
       "album": {
+        "name": "HYPER POSPONK MEXA",
+        "url": "https://open.spotify.com/album/0RoluZH3Y58llSVEAxgqSz"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162647,
+      "name": "HYPER POSPONK MEXA",
+      "url": "https://open.spotify.com/track/0uQ9YUnW68OHZizF8KYgsi"
+    },
+    {
+      "album": {
         "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
         "url": "https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ"
       },
@@ -5526,7 +5598,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 188035,
       "name": "K\u00e9 MaL",
       "url": "https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g"
@@ -5848,7 +5920,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 211882,
       "name": "La Novedad",
       "url": "https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN"
@@ -5920,7 +5992,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 138518,
       "name": "La Put4 Makin4 del Di4blo",
       "url": "https://open.spotify.com/track/59MTDfuO9KMQglj1eUT9og"
@@ -6717,6 +6789,28 @@
     },
     {
       "album": {
+        "name": "Maldita Distancia",
+        "url": "https://open.spotify.com/album/6t0ekozwgWaDY23S9wum8v"
+      },
+      "artists": [
+        {
+          "name": "ZEEVA",
+          "url": "https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH"
+        },
+        {
+          "name": "xKori",
+          "url": "https://open.spotify.com/artist/7482JBrvZ3ILAr4vVigQvI"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155591,
+      "name": "Maldita Distancia",
+      "url": "https://open.spotify.com/track/7rlR1LQdbbuC1xBc4BQORX"
+    },
+    {
+      "album": {
         "name": "Bulberizer / Bulbo Raqu\u00eddeo",
         "url": "https://open.spotify.com/album/6cD7ZctaLWVlsN8eUfxEmD"
       },
@@ -7116,7 +7210,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 197946,
       "name": "Me Siento Morir",
       "url": "https://open.spotify.com/track/0kDTu4tfBg92kKLP111jIW"
@@ -7534,6 +7628,28 @@
       "duration_ms": 190000,
       "name": "Michael Scott Hubiera Entendido Exactamente C\u00f3mo Me Siento En Este Momento",
       "url": "https://open.spotify.com/track/76VKsZAL0YhWMNcOnwh0iv"
+    },
+    {
+      "album": {
+        "name": "Miedo",
+        "url": "https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB"
+      },
+      "artists": [
+        {
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+        },
+        {
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196964,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/0MaSESPxb2TtRBvtqd6sAx"
     },
     {
       "album": {
@@ -8628,7 +8744,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 192363,
       "name": "No Vuelve",
       "url": "https://open.spotify.com/track/72CjmvSpwfljTQUSUiLeJW"
@@ -8722,7 +8838,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 119172,
       "name": "Nuestra Canci\u00f3n Favorita",
       "url": "https://open.spotify.com/track/4P7HdumLOdY6iDL1jHCryU"
@@ -8776,7 +8892,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 213449,
       "name": "Nuevos comienzos",
       "url": "https://open.spotify.com/track/3cEb05tA25tgAe95qbOfpY"
@@ -11184,6 +11300,24 @@
       "duration_ms": 238722,
       "name": "Tantas Cosas Buenas",
       "url": "https://open.spotify.com/track/6SOQ1rrcQL3UcGmsLOrXtd"
+    },
+    {
+      "album": {
+        "name": "Tatuajes Mal Hechos",
+        "url": "https://open.spotify.com/album/1ukyXCDjIm6TBmw8IJ9ICn"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149080,
+      "name": "Tatuajes Mal Hechos",
+      "url": "https://open.spotify.com/track/1QpWUDiDSMUVBCuvVMy16e"
     },
     {
       "album": {

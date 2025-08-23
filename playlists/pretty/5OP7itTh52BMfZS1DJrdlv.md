@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 ### [100 Greatest Christmas Songs Ever](https://open.spotify.com/playlist/5OP7itTh52BMfZS1DJrdlv)
 
-> Celebrate Christmas this summer in style with this timeless playlist of Xmas favorites old and new  ☀️🎄\. Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
+> Celebrate Christmas in style with this timeless playlist of Xmas favorites old and new  ☀️🎄\. Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,013,286 likes - 100 songs - 5 hr 20 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,013,248 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 4 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 5 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 |
 | 6 | [Jingle Bell Rock](https://open.spotify.com/track/3hBXvHLlTHvnbwrPbeoyAj) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [The Classic Years: 1956\-1962](https://open.spotify.com/album/7yeVUGG3xvGjKwhM2FBItZ) | 2:10 |
-| 7 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
-| 8 | [Holly Jolly Christmas](https://open.spotify.com/track/6yxQwWvRX8azRvvMTT4xM7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 1:59 |
+| 7 | [Holly Jolly Christmas](https://open.spotify.com/track/6yxQwWvRX8azRvvMTT4xM7) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 1:59 |
+| 8 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
 | 9 | [Christmas Lights](https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Christmas Lights](https://open.spotify.com/album/06CvxUVwS8h2aJYcCtApgy) | 4:02 |
 | 10 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 |
-| 11 | [I Wish It Could Be Christmas Everyday \- 2006 Remaster](https://open.spotify.com/track/6C8JkSqdFkE5LN2aXOa9cs) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:49 |
-| 12 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
+| 11 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
+| 12 | [I Wish It Could Be Christmas Everyday \- 2006 Remaster](https://open.spotify.com/track/6C8JkSqdFkE5LN2aXOa9cs) | [Wizzard](https://open.spotify.com/artist/7823Dim2TzjiQQ9wRQxyi9) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:49 |
 | 13 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch) | 2:31 |
 | 14 | [Fairytale of New York \(feat\. Kirsty MacColl\)](https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [Kirsty MacColl](https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq) | [If I Should Fall from Grace with God \(Expanded Edition\)](https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L) | 4:32 |
 | 15 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [What Christmas Means To Me \(with Stevie Wonder\)](https://open.spotify.com/track/6DIA408m0Am7GDTqCzsI59) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 2:35 |
 | 100 | [Christmas Wish \(Aka My Christmas Wish for You\)](https://open.spotify.com/track/4BorLKKvjKmgcT8XL3UN1y) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 2:40 |
 
-Snapshot ID: `AAAHI+0Wl0PQuPCHr1mFZLWt7JWjD3pH`
+Snapshot ID: `AAAHJnLgUFf6+uvzqXuml7KAgBh2fRSy`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 ### [All New Pop](https://open.spotify.com/playlist/37i9dQZF1DX11otjJ7crqp)
 
-> All this week's best new pop releases\. Cover: Claire Rosinkranz
+> All this week's best new pop releases\. Cover: Mikayla Geier
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,548 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,192 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [PORN STAR](https://open.spotify.com/track/3x6CBiYkTKlBoP1VrDzGNP) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [PORN STAR](https://open.spotify.com/album/1QIvF1yCQRSipqKvMs7yEO) | 2:51 |
 | 100 | [Daddy's Gonna Kill Me](https://open.spotify.com/track/6Oy1v5vp9yBxqnZlnIe0Ux) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Daddy's Gonna Kill Me](https://open.spotify.com/album/3NCo5H8K0T5RHMU7dshDcJ) | 2:24 |
 
-Snapshot ID: `AAAAAOF3WVD4pO7xGGbdVhhEM00hA5iz`
+Snapshot ID: `AAAAAHgY8Gvh5pU7sC3MV5JbDNlgNage`

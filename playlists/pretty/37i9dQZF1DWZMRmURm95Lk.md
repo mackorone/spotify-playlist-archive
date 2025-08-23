@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > DJ Shocca è tornato, 60 Hz II\. Beat e rime, oggi come una volta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,339 likes - 145 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,352 likes - 145 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 47 | [In Linea](https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF) | [Neffa E I Messaggeri Della Dopa](https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn) | 4:41 |
 | 48 | [S.I.C.](https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ) | [Bassi Maestro](https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX) | [Background](https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72) | 5:04 |
 | 49 | [Bastavano Le Briciole](https://open.spotify.com/track/6VFtdNEZ0iHCOvo1EdCfGb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B) | 3:53 |
-| 50 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 |
-| 51 | [Coppa Italia \(feat\. Ensi & Nerone\)](https://open.spotify.com/track/7dWbTK0WbZQm1LQLURFF5S) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 2:32 |
+| 50 | [Coppa Italia \(feat\. Ensi & Nerone\)](https://open.spotify.com/track/7dWbTK0WbZQm1LQLURFF5S) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 2:32 |
+| 51 | [La volta buona](https://open.spotify.com/track/0IUrIEBecV2QRR66eriMmO) | [Stokka & Madbuddy](https://open.spotify.com/artist/6U8aUHDeArzovgvZazAK0z), [Roc Beats](https://open.spotify.com/artist/4MK15feSVP4y02vfe2SA8d), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [La volta buona](https://open.spotify.com/album/5BvBw5pf2YOfXd0BFgu7HP) | 3:54 |
 | 52 | [Un mestiere qualunque](https://open.spotify.com/track/68OwzL0UGfgIKTpn0p1azy) | [Cor Veleno](https://open.spotify.com/artist/2OFhu1uXhK8gutkt7QcF2R) | [Heavy Metal](https://open.spotify.com/album/1vw8sbkCqUAyXJfEFSGI6f) | 3:56 |
 | 53 | [D.O.G.O\. \(feat\. Marracash\)](https://open.spotify.com/track/0aSLAOVyBGxAkB4aD18xEa) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Penna Capitale](https://open.spotify.com/album/1bkZDJt9IJ7DX2pCW6L9tA) | 3:44 |
 | 54 | [Las Vegas Freestyle](https://open.spotify.com/track/2XA12liYHYjmYfGS9dx4zT) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [W.edy Wonders](https://open.spotify.com/artist/3MRErInSm7swUFxG3Re6LR) | [Las Vegas Freestyle](https://open.spotify.com/album/1oqSHf9Qc8sJThpm6lpX2K) | 2:14 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 69404,
+  "num_followers": 69419,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADv1B5JCeZoaI7qDlVrPEEN",
+  "snapshot_id": "aKZhgAAAAAAA51+eT4ePLo69SE4AMFkp",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Nuevas Mentiras",
-      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bella Nostalgia",
         "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
       },
@@ -375,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Nuevas Mentiras",
+      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUNAY",
         "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
@@ -387,26 +387,6 @@
       "duration_ms": 174917,
       "name": "Buena Suerte",
       "url": "https://open.spotify.com/track/4fAlzlBojsx7aA9llmidAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 175733,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": null,
@@ -427,6 +407,26 @@
       "duration_ms": 188708,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
+      },
+      "artists": [
+        {
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 170099,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tu Manera (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/4RU5vBLmaIjQYnP0XueJUe"
       },
@@ -575,22 +555,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Tropez",
-        "url": "https://open.spotify.com/album/6E4dxiZT2g82W7hTVe4SKl"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 165979,
-      "name": "St. Tropez",
-      "url": "https://open.spotify.com/track/0B33BMeMUrRcINBvt7iREA"
+      "duration_ms": 170099,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sabe Bien",
+        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 160723,
+      "name": "Sabe Bien",
+      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sabe Bien",
-        "url": "https://open.spotify.com/album/2ntsVWNEOkxCYevBecgpvq"
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/6E4dxiZT2g82W7hTVe4SKl"
       },
       "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 160723,
-      "name": "Sabe Bien",
-      "url": "https://open.spotify.com/track/36LDPQfypNqhflhok841qb"
+      "duration_ms": 165979,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/0B33BMeMUrRcINBvt7iREA"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfDe qu\u00e9 vamos a hablar?",
         "url": "https://open.spotify.com/album/1dexhNnGvId5xMSu1hlTqh"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 185690,
       "name": "\u00bfDe qu\u00e9 vamos a hablar?",
       "url": "https://open.spotify.com/track/3Ra7HSy3xOJo3gkdXFZ3NB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
     },
     {
       "added_at": null,

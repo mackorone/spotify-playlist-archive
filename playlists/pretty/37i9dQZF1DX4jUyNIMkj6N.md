@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,126 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,119 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 46 | [Never Gonna Last \- Radio Edit](https://open.spotify.com/track/3ANGMbmBfuw91UMgCPrrUT) | [Jesper Lindell](https://open.spotify.com/artist/3P9Fc9AmQyNFIu2WJdeWoN) | [Never Gonna Last](https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL) | 3:54 |
 | 47 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
 | 48 | [Viking Fair](https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP) | [forfedre](https://open.spotify.com/artist/56lSAnlEsyFYGXvdzXyICW) | [Viking Fair](https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4) | 1:07 |
-| 49 | [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 |
+| 49 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
 | 50 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
-| 51 | [I Miss You](https://open.spotify.com/track/729Rt2RbcFwecV0Jo5UmNu) | [The Oldsfire Band](https://open.spotify.com/artist/35boIHWcDqOzDkVWZIgdio) | [I Miss You](https://open.spotify.com/album/0lLQNchoJCqE6R1ThbopDO) | 2:32 |
+| 51 | [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 |
 | 52 | [anywhere](https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN) | [Malen](https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g) | [anywhere](https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC) | 2:31 |
 | 53 | [All of Me](https://open.spotify.com/track/0VFbizmhEILidyQBvPOjCx) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All of Me](https://open.spotify.com/album/0wEaalS9Qna2fCrgnLMPDc) | 2:56 |
 | 54 | [The One to Leave](https://open.spotify.com/track/3tvfy9kXXUnYlDWe364mLo) | [Fia](https://open.spotify.com/artist/0MqfYdygGLnHjhmXc9yDeH) | [The One to Leave](https://open.spotify.com/album/5QW5An34TLvlFhDW9s6lmm) | 3:21 |

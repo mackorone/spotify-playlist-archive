@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2025-08-02",
-  "description": "Get ready for the upcoming concert by listening to the artist's best songs! (\uc544\ud2f0\uc2a4\ud2b8\uc758 \ubca0\uc2a4\ud2b8\uace1\uc744 \ub4e4\uc73c\uba70 \ub2e4\uac00\uc624\ub294 \ucf58\uc11c\ud2b8\ub97c \uc900\ube44\ud574\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the 10CM CONCERT [5.0] LIVE SET including the voices of them on stage! (10CM\uc758 \ubb34\ub300 \uba58\ud2b8\uc640 \ubaa9\uc18c\ub9ac\uac00 \ud3ec\ud568\ub41c [5.0] \ucf58\uc11c\ud2b8 LIVE SET\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "10CM CONCERT [5.0]",
   "tracks": [
+    {
+      "album": {
+        "name": "Americano",
+        "url": "https://open.spotify.com/album/3KvRFnETMbQ8O84vLeL6LP"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156137,
+      "name": "Americano",
+      "url": "https://open.spotify.com/track/7lUKHHMUabO9m5j5QWvcgB"
+    },
     {
       "album": {
         "name": "Beyond Love",
@@ -20,7 +38,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
@@ -42,6 +60,24 @@
       "duration_ms": 180000,
       "name": "CDEFG",
       "url": "https://open.spotify.com/track/2jz2OCkYGhRB7EEcHM6YOW"
+    },
+    {
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "day off",
+      "url": "https://open.spotify.com/track/26F7czXceIFiTw3j0qXrXK"
     },
     {
       "album": {
@@ -74,7 +110,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 237266,
       "name": "Drawer",
       "url": "https://open.spotify.com/track/1OQ3PoRZRtE7RH0NIh3p1O"
@@ -96,10 +132,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/0CPKAHMsDAj4ZMuarOWEqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Fine Thank You And You?",
+      "url": "https://open.spotify.com/track/28b9fF5byxcCr5KbHj49SS"
     },
     {
       "album": {
@@ -136,7 +190,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 253653,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4GhDaROSZ1HHh6qGHxBR0O"
@@ -161,6 +215,78 @@
     },
     {
       "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "How Could You Darling",
+      "url": "https://open.spotify.com/track/1fJ4oq1PhCd4HmncFKTi5M"
+    },
+    {
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "I Wanna Be",
+      "url": "https://open.spotify.com/track/2eXIoWvDq5cGsyxAv4aNX0"
+    },
+    {
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/2n7U0Ob6vFiew3RZZRVXjP"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194697,
+      "name": "Inseparable",
+      "url": "https://open.spotify.com/track/5CkiT5TKbZBbtFzirZ6wQI"
+    },
+    {
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Into Your Summer",
+      "url": "https://open.spotify.com/track/1RDItu0clRTX99fXk96UzC"
+    },
+    {
+      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/67hiKxAR8TrMNt3YopULAL"
       },
@@ -172,7 +298,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 201757,
       "name": "Island",
       "url": "https://open.spotify.com/track/2SnFQDvx0MXtb02w19RoH7"
@@ -194,7 +320,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 195506,
       "name": "Just 10 centimeters",
       "url": "https://open.spotify.com/track/4FKmrrI6y8REWoCyV5tAhY"
@@ -212,7 +338,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 234466,
       "name": "Late Night Walk",
       "url": "https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm"
@@ -237,6 +363,82 @@
     },
     {
       "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Monday Is Coming (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1sFUZKMWOFyZvO98Ep1W9J"
+    },
+    {
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "No. 1",
+      "url": "https://open.spotify.com/track/5A0MDaXKfbHOqlPc5V39sU"
+    },
+    {
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Nothing's Going On",
+      "url": "https://open.spotify.com/track/70W5W4yCNZHwXqfBzHSqOs"
+    },
+    {
+      "album": {
+        "name": "The 2nd",
+        "url": "https://open.spotify.com/album/1hhjbcgsHgjbOWDJZsni3P"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/6PcEUhuYQGMQeFo8Vi8CWl"
+    },
+    {
+      "album": {
         "name": "4.0",
         "url": "https://open.spotify.com/album/67hiKxAR8TrMNt3YopULAL"
       },
@@ -248,7 +450,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 190591,
       "name": "Pet",
       "url": "https://open.spotify.com/track/0kwyYOmB9wUaIpRzSxOJi6"
@@ -273,6 +475,24 @@
     },
     {
       "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Slave For You",
+      "url": "https://open.spotify.com/track/0Gi1D5BDhB823MQjekhD0x"
+    },
+    {
+      "album": {
         "name": "5.2 (feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/1aEMUc73KsSG53ysHl8x9f"
       },
@@ -288,10 +508,100 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/3OrmrZSVQJ8Kt017K51aF2"
+    },
+    {
+      "album": {
+        "name": "10CM CONCERT [5.0]",
+        "url": "https://open.spotify.com/album/6hbo5udTTx88v6Lfn0jrXI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Stage Comment 1",
+      "url": "https://open.spotify.com/track/4ix4UYfCpOK4U4nAAQhsOa"
+    },
+    {
+      "album": {
+        "name": "10CM CONCERT [5.0]",
+        "url": "https://open.spotify.com/album/6hbo5udTTx88v6Lfn0jrXI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214757,
+      "name": "Stage Comment 2",
+      "url": "https://open.spotify.com/track/2emioqdUvQbLNFb4ujoaTT"
+    },
+    {
+      "album": {
+        "name": "10CM CONCERT [5.0]",
+        "url": "https://open.spotify.com/album/6hbo5udTTx88v6Lfn0jrXI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435638,
+      "name": "Stage Comment 3",
+      "url": "https://open.spotify.com/track/6t6uNTjaFlotZ2w4S0j5WF"
+    },
+    {
+      "album": {
+        "name": "10CM CONCERT [5.0]",
+        "url": "https://open.spotify.com/album/6hbo5udTTx88v6Lfn0jrXI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346423,
+      "name": "Stage Comment 4",
+      "url": "https://open.spotify.com/track/52jy6baOlFyzQl4TDYdOgr"
+    },
+    {
+      "album": {
+        "name": "10CM CONCERT [5.0]",
+        "url": "https://open.spotify.com/album/6hbo5udTTx88v6Lfn0jrXI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Stage Comment 5",
+      "url": "https://open.spotify.com/track/7MCPrkg3sM2yN4j41MYg1j"
     },
     {
       "album": {
@@ -324,7 +634,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 209013,
       "name": "They're Gonna Say We're Right (@leekangseung111)",
       "url": "https://open.spotify.com/track/1fEWbpvDEm5mUmMBz8Ioay"
@@ -346,6 +656,24 @@
       "duration_ms": 158680,
       "name": "To Reach You",
       "url": "https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv"
+    },
+    {
+      "album": {
+        "name": "5.0",
+        "url": "https://open.spotify.com/album/2NxVbCMzrPU8Mld0lzJhqf"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/2N6v7yOXFkeW1j0mP8U3qh"
     },
     {
       "album": {
@@ -378,10 +706,28 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/4iJZ12gvcunf80gym7qEM2"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7xbxy4bC51eZe4hc4gwyf6"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "\uc624\ub298\ubc24\uc740 \uc5b4\ub460\uc774 \ubb34\uc11c\uc6cc\uc694",
+      "url": "https://open.spotify.com/track/6pZAmXnJflLRecgsHyJg15"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbnbPjf6UlQt"

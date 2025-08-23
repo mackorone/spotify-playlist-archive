@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 13637,
+  "num_followers": 13647,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAD8XE2fjTzzdd+v8Je2ezID",
+  "snapshot_id": "aKZhgAAAAAD3rH6QgINNNRqMzOJ7PWJ0",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ave Maria",
-        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Ave Maria",
-      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 177318,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ave Maria",
+        "url": "https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 162162,
       "name": "Milli (feat. Victony)",
       "url": "https://open.spotify.com/track/2GzuO6Yu4viM9XNWZKZmSa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -691,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Angelus",
-      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
+      "duration_ms": 163200,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
     },
     {
       "added_at": null,
@@ -723,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
       },
       "artists": [
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 195873,
-      "name": "Head Over Heels",
-      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Selema (Po Po) [Remix]",
         "url": "https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp"
       },
@@ -827,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadly (feat. Victony)",
-        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
       "artists": [
         {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         },
         {
           "name": "Victony",
           "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 181979,
-      "name": "Deadly (feat. Victony)",
-      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
+      "duration_ms": 195873,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/54q1vzK5sUXvNtxJCDrXGT"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deadly (feat. Victony)",
+        "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 181979,
+      "name": "Deadly (feat. Victony)",
+      "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belle Full",
         "url": "https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ"
       },
@@ -891,26 +891,6 @@
       "duration_ms": 191113,
       "name": "Belle Full",
       "url": "https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nataraja",
-        "url": "https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f"
     },
     {
       "added_at": null,
@@ -947,6 +927,26 @@
       "duration_ms": 331332,
       "name": "Margaret",
       "url": "https://open.spotify.com/track/0AyRhLx663qekqQDLf78ta"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nataraja",
+        "url": "https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f"
     },
     {
       "added_at": null,

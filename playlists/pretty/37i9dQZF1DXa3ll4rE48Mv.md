@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,442 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,438 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 26 | [Fem in a Black Leather Jacket](https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT) | [Pansy Division](https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm) | [Undressed](https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF) | 2:04 |
 | 27 | [Blood](https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS) | [Butch Baby](https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr) | [Stoned Butch Blues](https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn) | 2:47 |
 | 28 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
-| 29 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
-| 30 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
+| 29 | [Tinder Girl](https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Free Bleedin'](https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA) | 3:17 |
+| 30 | [At The Core](https://open.spotify.com/track/0Yurp3rkIdKpLtva5cU0Nh) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6SIQj7MJgbjkhV8nm16qZj) | 2:40 |
 | 31 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
 | 32 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
 | 33 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 65 | [Fake Great Britain](https://open.spotify.com/track/3SeQfwjcIIlCAMEYO9tGgZ) | [pink suits](https://open.spotify.com/artist/2tetR4N7chonvlPLHlNzOL) | [Fake Great Britain](https://open.spotify.com/album/604nwPmwMK2bFGUeHnnmMN) | 2:23 |
 | 66 | [Take Another](https://open.spotify.com/track/3S7KVKmwbxYbN41tltqZdT) | [Size Of Sadness](https://open.spotify.com/artist/2YuRANSZU5LahqGdk7cM5y) | [Little Trauma Things](https://open.spotify.com/album/37iLVqvAeUeTsXiDlYxKR5) | 3:00 |
 | 67 | [Fuck Shades](https://open.spotify.com/track/3arJ7yXJcIWds8vzd0PZTG) | [BRASHER](https://open.spotify.com/artist/4AOuRtMkFhZYXKARVdz3xt) | [Everything](https://open.spotify.com/album/6zYJ76uVjUQyJzhKiq9uBX) | 2:19 |
-| 68 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
-| 69 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
+| 68 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
+| 69 | [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 |
 | 70 | [Famous](https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [The Fool](https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W) | 3:16 |
 | 71 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
 | 72 | [What You Do for Love](https://open.spotify.com/track/0im1MaGNLes5Qo04udeQsD) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [What You Do for Love](https://open.spotify.com/album/1Kze0IOJ5pCx2wsywkevwr) | 3:20 |

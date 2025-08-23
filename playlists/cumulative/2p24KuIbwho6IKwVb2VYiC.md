@@ -4,13 +4,14 @@
 
 > Your festival season soundtrack includes the best Dance, House, Bass and EDM tracks right now!  Cover: James Hype
 
-347 songs - 18 hr 8 min
+349 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/17](https://open.spotify.com/track/1EGSotfvgMDQFFtFoUdrv5) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [1/17](https://open.spotify.com/album/0P7LoMJJ9wKnXovFzTVt3j) | 4:12 | 2025-03-21 |  |
 | [24 \(Turn It Up\) \(+6\)](https://open.spotify.com/track/0b4dAhBJwYWS4Dj74DfICb) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:00 | 2025-02-14 |  |
 | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [24 \(Turn It Up\) \(Radio Edit\)](https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ) | 3:11 | 2024-09-27 |  |
+| [925](https://open.spotify.com/track/5aNcakuYRSAfNFOz8nREvT) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [925](https://open.spotify.com/album/7CIAt6rtM6lpNlRc6eQGFB) | 2:48 | 2025-08-22 |  |
 | [A Lot Like Heaven \- Space Motion Remix](https://open.spotify.com/track/2hT5X2DjHG7D6vmhTWBDsG) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [A Lot Like Heaven \(Space Motion Remix\)](https://open.spotify.com/album/7rS4CkomP9uq8l9J2GTmc7) | 4:48 | 2023-11-24 | 2024-03-02 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-04 | 2025-04-23 |
 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 | 2023-10-27 | 2024-09-28 |
@@ -97,6 +98,7 @@
 | [Feel](https://open.spotify.com/track/2VhiDHhgFx6hKhgGB6sRLH) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 03 + 04](https://open.spotify.com/album/43YlByO8C1Fh1E9ziG1BbW) | 3:15 | 2024-06-14 | 2025-01-22 |
 | [Feel Your Ghost](https://open.spotify.com/track/64HfvrHpMhaPArBsmo5QTf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Feel Your Ghost](https://open.spotify.com/album/1CTxgZIYbDoSltqjBmwxyK) | 3:25 | 2023-10-27 | 2023-11-25 |
 | [Feelings](https://open.spotify.com/track/1bmZvvwtKSdLp8q71VJQiI) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Feelings](https://open.spotify.com/album/1UM8dddro8kQa6Y6bjZxAx) | 3:18 | 2023-10-27 | 2023-11-25 |
+| [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-08-22 |  |
 | [Fighting For You](https://open.spotify.com/track/7L71jX5uDYFXBCVCvZzb9D) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Come True](https://open.spotify.com/album/3d8NRzwbtsrbyfYE3JRSZQ) | 2:53 | 2023-11-10 | 2023-11-25 |
 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 | 2023-10-27 | 2024-02-27 |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-30 |  |

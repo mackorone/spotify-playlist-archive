@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17835,
+  "num_followers": 17850,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAC/o12zsD4/FikeSR5IXdvV",
+  "snapshot_id": "aKZhgAAAAADpxSdyKA7PJTbc4a/JMON5",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
-        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
-      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 281560,
       "name": "Cucurrucuc\u00fa Paloma",
       "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa'l Norte (En Vivo Desde Pa\u2019l Norte)",
+        "url": "https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Si Una Vez - En Vivo Desde Pa\u2019l Norte",
+      "url": "https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
         "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
       },
@@ -531,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
       "artists": [
         {
@@ -540,25 +556,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 162146,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L"
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+      "duration_ms": 162146,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Apartes De M\u00ed",
-        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
+        "name": "Una Buena Ranchera",
+        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 239880,
-      "name": "No Te Apartes De M\u00ed",
-      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
+      "duration_ms": 203813,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Buena Ranchera",
-        "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
+        "name": "No Te Apartes De M\u00ed",
+        "url": "https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/4YFlX9yi2B3b3yGClAuQq6"
+      "duration_ms": 239880,
+      "name": "No Te Apartes De M\u00ed",
+      "url": "https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tu Lado (En Vivo)",
-        "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 293266,
-      "name": "A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tik Tik Tik",
         "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
       },
@@ -783,18 +763,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel Azteca",
-        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
+        "name": "A Tu Lado (En Vivo)",
+        "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
       },
       "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 115537,
-      "name": "Piel Azteca",
-      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
+      "duration_ms": 293266,
+      "name": "A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 185834,
       "name": "Hasta Que Regreses",
       "url": "https://open.spotify.com/track/113DePdXtrX328UFntdtyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piel Azteca",
+        "url": "https://open.spotify.com/album/0zQpkq8x29yyopEtA5ownZ"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 115537,
+      "name": "Piel Azteca",
+      "url": "https://open.spotify.com/track/7wLHic0DluPeQslKdbgvYm"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6813,
+  "num_followers": 6820,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADlm9/VFJFRM2knX4rJkf73",
+  "snapshot_id": "aKZhgAAAAADBvkOWX0/y97hqd5J0OKZV",
   "tracks": [
     {
       "added_at": null,
@@ -63,38 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Hurt You So Bad",
-      "url": "https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GlitchGang (Remix)",
         "url": "https://open.spotify.com/album/3jC4WP0yUxkvqAipg0l6Pb"
       },
@@ -119,6 +87,38 @@
       "duration_ms": 144818,
       "name": "GlitchGang (Remix)",
       "url": "https://open.spotify.com/track/1Oq1BuID6k7oySD33H48ax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Hurt You So Bad",
+      "url": "https://open.spotify.com/track/0BJWCTLXFXRZKoLkKMztQt"
     },
     {
       "added_at": null,
@@ -216,17 +216,13 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "J. Angel",
-          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
-        },
-        {
-          "name": "DJ Am",
-          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
+          "name": "Fann",
+          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
         }
       ],
-      "duration_ms": 212306,
-      "name": "Born to Raise Hell",
-      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
+      "duration_ms": 189893,
+      "name": "Baby You Don't Know",
+      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
     },
     {
       "added_at": null,
@@ -304,13 +300,17 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Fann",
-          "url": "https://open.spotify.com/artist/45R5D1DlUbEW43Q1OHA3ft"
+          "name": "J. Angel",
+          "url": "https://open.spotify.com/artist/2Ntv9L9Iq5ExDIPxSkcfWP"
+        },
+        {
+          "name": "DJ Am",
+          "url": "https://open.spotify.com/artist/073pd2NojHfYRNGOFUQEmN"
         }
       ],
-      "duration_ms": 189893,
-      "name": "Baby You Don't Know",
-      "url": "https://open.spotify.com/track/347222YpEP2tSehBnN8b3T"
+      "duration_ms": 212306,
+      "name": "Born to Raise Hell",
+      "url": "https://open.spotify.com/track/0dKYukgkmv37SebbuUE6YJ"
     },
     {
       "added_at": null,
@@ -491,42 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (New Anthem)",
-        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
-      },
-      "artists": [
-        {
-          "name": "Black Oxygen",
-          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 227246,
-      "name": "Butterfly (New Anthem)",
-      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Brimstone Sluggers",
-        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Come Inside",
-      "url": "https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
@@ -547,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+        "name": "The Brimstone Sluggers",
+        "url": "https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp"
       },
       "artists": [
         {
@@ -556,9 +520,29 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+      "duration_ms": 198440,
+      "name": "Come Inside",
+      "url": "https://open.spotify.com/track/2JiR5ZnuHagOzZHSKfmpqk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterfly (New Anthem)",
+        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
+      },
+      "artists": [
+        {
+          "name": "Black Oxygen",
+          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 227246,
+      "name": "Butterfly (New Anthem)",
+      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
     },
     {
       "added_at": null,
@@ -575,6 +559,22 @@
       "duration_ms": 186293,
       "name": "Decorated",
       "url": "https://open.spotify.com/track/04jBnYdyN86CGnQjh9OJ8t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flirting With Disaster",
         "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 234022,
       "name": "99 Bottles",
       "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,
@@ -692,25 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Take It To The Bridge",
-      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,
@@ -727,6 +711,22 @@
       "duration_ms": 173773,
       "name": "Waste of My Time",
       "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Take It To The Bridge",
+      "url": "https://open.spotify.com/track/51pnpNaAkB5YWAXZhsW3Fh"
     }
   ],
   "unique_name": "This Is Crazy Town",

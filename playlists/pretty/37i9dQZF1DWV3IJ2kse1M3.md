@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,059 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,053 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 45 | [浪費](https://open.spotify.com/track/6rvSliUoMf9GU9vxAR7nPH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [大小說家](https://open.spotify.com/album/62r7dcrgRinOk2tTHYiOcl) | 5:07 |
 | 46 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 47 | [離人](https://open.spotify.com/track/5rwEzOpDovuwZ12wAUbzQi) | [林志炫](https://open.spotify.com/artist/6O9BAkGBRRzHUDrWqdT68r) | [擦聲而過](https://open.spotify.com/album/7z7KNMXDU1qjXBxPVEMnV7) | 4:55 |
-| 48 | [我們都傻](https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [仰望](https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5) | 5:30 |
-| 49 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
+| 48 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 |
+| 49 | [我們都傻](https://open.spotify.com/track/4eZxSOV6ZuRJ3GEGoqenwq) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [仰望](https://open.spotify.com/album/0jyu67cJVsydOdLKuvWow5) | 5:30 |
 | 50 | [我不知道愛是什麼](https://open.spotify.com/track/5YAiIE4ZGVFdK3LexsFej6) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [大人情歌](https://open.spotify.com/album/4E1Crsnlt8CMlbSd0BoEBh) | 4:54 |
 
 Snapshot ID: `AAAAAHIXUZ9F4lKvT2oxHkxI/lfB1hVE`

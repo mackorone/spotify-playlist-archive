@@ -1,13 +1,37 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 393527,
+  "num_followers": 393606,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIg1XM4xfV/2gc7b1f/j96oCeimF",
+  "snapshot_id": "AAAAABOU6Aq4HsQXdhybDWn7KE03ErnN",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "Serge & Jane",
+        "url": "https://open.spotify.com/album/5NjiU7WDE8G3XkWj2Yi9GN"
+      },
+      "artists": [
+        {
+          "name": "Scary Goldings",
+          "url": "https://open.spotify.com/artist/7qpDEiYbQJt05vCyAbg3ru"
+        },
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        }
+      ],
+      "duration_ms": 223468,
+      "name": "Serge & Jane",
+      "url": "https://open.spotify.com/track/4nTY0HQqETGI8OUuj1VeYy"
+    },
     {
       "added_at": "2025-05-30 04:00:14",
       "album": {
@@ -1715,42 +1739,6 @@
       "duration_ms": 254599,
       "name": "Sign Of The Times - Single Version",
       "url": "https://open.spotify.com/track/3bvB2Rzwh2GAMS69k8Vapr"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "The Ups and Downs",
-        "url": "https://open.spotify.com/album/7JkH3Vm2KHNYiLPhW3Ceco"
-      },
-      "artists": [
-        {
-          "name": "David Helbock",
-          "url": "https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq"
-        },
-        {
-          "name": "Lakecia Benjamin",
-          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
-        },
-        {
-          "name": "Peter Madsen",
-          "url": "https://open.spotify.com/artist/3yoec9eCXayjK4ZQGYNzOM"
-        },
-        {
-          "name": "Raphael Preuschl",
-          "url": "https://open.spotify.com/artist/3jDeB8RF0KDC4CuZflmGKt"
-        },
-        {
-          "name": "Herbert Pirker",
-          "url": "https://open.spotify.com/artist/2wgehJQNceJRqSHjv8YK3A"
-        },
-        {
-          "name": "Claudio Spieler",
-          "url": "https://open.spotify.com/artist/5V58M3kxqK9zUdJUKg9Dk4"
-        }
-      ],
-      "duration_ms": 325200,
-      "name": "The Ups and Downs",
-      "url": "https://open.spotify.com/track/3aVnFftWFh5YWrg9QXwThw"
     },
     {
       "added_at": "2021-04-16 04:00:00",

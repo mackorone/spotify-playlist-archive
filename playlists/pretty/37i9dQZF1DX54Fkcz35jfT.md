@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。/ Discover the intensity and emotion resonating through Japan’s hard rock\. Cover: The Cards I Play
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,065 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,071 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 57 | [GIRL'S TALK](https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [GIRL'S TALK](https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO) | 2:54 |
 | 58 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 59 | [NEW DAWN](https://open.spotify.com/track/71H3UvIlZRSifs0LNF2HKG) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [NEW DAWN](https://open.spotify.com/album/4IT98wMgoHu9O2Jx1EZIZ8) | 3:32 |
-| 60 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
+| 60 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
 | 61 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 |
-| 62 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
-| 63 | [BRIGHT EYES](https://open.spotify.com/track/6SM0swCv4dXsRozMjB27Pv) | [ASH](https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja) | [BRIGHT EYES](https://open.spotify.com/album/5JS9x5USWSbprGHpLBlesV) | 3:27 |
+| 62 | [BRIGHT EYES](https://open.spotify.com/track/6SM0swCv4dXsRozMjB27Pv) | [ASH](https://open.spotify.com/artist/7ipJyP4vRUwlGvYNkjpsja) | [BRIGHT EYES](https://open.spotify.com/album/5JS9x5USWSbprGHpLBlesV) | 3:27 |
+| 63 | [Monochrome](https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Monochrome](https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI) | 3:57 |
 | 64 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 |
 | 65 | [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 |
 | 66 | [State Of Mind](https://open.spotify.com/track/4luQpgdQDlshLspiKfkmPI) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh), [Matt Good](https://open.spotify.com/artist/2pAflbiYeStDJMRqKSZ4go) | [State Of Mind](https://open.spotify.com/album/0mykSFL8zFbdYEukPwm9RA) | 3:27 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 74 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 |
 | 75 | [Cure](https://open.spotify.com/track/4WP75fmmfAP4lPEC6eCFJB) | [waterweed](https://open.spotify.com/artist/3xo2d6Mjw5Gkb14HFOwFkQ) | [Cure](https://open.spotify.com/album/1HwSii3IuxWnn2X3TgEPYg) | 2:50 |
 | 76 | [DIKIDANDAN](https://open.spotify.com/track/3ehgrNAlUz9FAZ2NbhXQo0) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [AlterGeist0000](https://open.spotify.com/album/3LwplQwZ9pAKxvehPfytkx) | 3:33 |
-| 77 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 |
-| 78 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
+| 77 | [Schmerz](https://open.spotify.com/track/5xeD8ZfRdinMDzUfaw1T4B) | [\-真天地開闢集団\-ジグザグ](https://open.spotify.com/artist/6X80cxJKMsSqzFmwHX7QCu) | [Gran ∞ Grace](https://open.spotify.com/album/4T8vKqEfLe7aS914pjg7A3) | 3:01 |
+| 78 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 |
 | 79 | [Blooming the Tank\-top](https://open.spotify.com/track/2vBvV18PwrlUhTm9jaxhh6) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Tank\-top Flower for Friends](https://open.spotify.com/album/2Ll3DZYOR4UKeswV5TADhu) | 2:12 |
 | 80 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 |
 | 81 | [error](https://open.spotify.com/track/6UBKBsszhdmFrfgdrfXhHr) | [FACT](https://open.spotify.com/artist/6e72QQjYlMcLhQaDWO2G73) | [FACT 2009 \- 2012](https://open.spotify.com/album/7EAoGpFEkajO87sci1FFC2) | 3:32 |
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54Fkcz35jfT.md) - [plain]
 | 84 | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k) | [The Last Rockstars](https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz), [YOSHIKI](https://open.spotify.com/artist/2EWIKpC6npt0GTe1Cq1KDm) | [THE LAST ROCKSTARS \(PARIS MIX\)](https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor) | 4:45 |
 | 85 | [厄災](https://open.spotify.com/track/0IAJ4414Gaan0R3Eq6dtBm) | [Knosis](https://open.spotify.com/artist/5o1BN92ZEG8TucPzj6czCh) | [THE ETERNAL DOOM](https://open.spotify.com/album/35kPTUOLmfdvLb7IyrTInP) | 3:00 |
 | 86 | [From Today](https://open.spotify.com/track/7qLbPd5yhm0Vne45PXPabV) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:53 |
-| 87 | [オクターヴ](https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [オクターヴ](https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL) | 3:07 |
-| 88 | [「変身」](https://open.spotify.com/track/2b7Y188esHzmfCyFtLi7Km) | [DEZERT](https://open.spotify.com/artist/6PXfBBOkykTOPWoiURXBIl) | [yourself: ATTITUDE](https://open.spotify.com/album/2kfzcbhu3Rn2Km2T3lovx4) | 3:10 |
-| 89 | [Advance](https://open.spotify.com/track/1StSa2C0dXzulhu2Ooi9cc) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Advance](https://open.spotify.com/album/5hwpeb31oT0smtEbVZZqOY) | 3:31 |
+| 87 | [MISS WORLD](https://open.spotify.com/track/3R0i1KADblDL0zwBbLyDBO) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [ART\-SCHOOL 25th Anniversary Tribute Album『Dreams Never End』](https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc) | 2:21 |
+| 88 | [オクターヴ](https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [オクターヴ](https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL) | 3:07 |
+| 89 | [「変身」](https://open.spotify.com/track/2b7Y188esHzmfCyFtLi7Km) | [DEZERT](https://open.spotify.com/artist/6PXfBBOkykTOPWoiURXBIl) | [yourself: ATTITUDE](https://open.spotify.com/album/2kfzcbhu3Rn2Km2T3lovx4) | 3:10 |
 | 90 | [BUNBUN SUIBUN](https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [BUNBUN SUIBUN](https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0) | 3:11 |
-| 91 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
-| 92 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
-| 93 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
+| 91 | [Advance](https://open.spotify.com/track/1StSa2C0dXzulhu2Ooi9cc) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Advance](https://open.spotify.com/album/5hwpeb31oT0smtEbVZZqOY) | 3:31 |
+| 92 | [JUNGLE BUN DEM](https://open.spotify.com/track/63db8vQEJP7cjNgmGLQJ3G) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [JUNGLE BUN DEM](https://open.spotify.com/album/34W77zpgAiCyRDQ4RwhFwe) | 3:13 |
+| 93 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 |
 | 94 | [RISE](https://open.spotify.com/track/7IOWVbArUAldsxLamaQt8R) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [RISE](https://open.spotify.com/album/6aigT9ZhKsG8bBVEx75JzH) | 3:21 |
-| 95 | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF) | 3:53 |
-| 96 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
-| 97 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
+| 95 | [CHAMPiONS](https://open.spotify.com/track/25DKLVXbY747FnWBpum6k5) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [CHAMPiONS](https://open.spotify.com/album/1tgzTFdkXKzMhZhsHZs0PD) | 4:01 |
+| 96 | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/track/7cYeQLqaEOENOG7liSwfay) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [Trrrrrrrrrrrrrrrrrrrue Lies](https://open.spotify.com/album/5MHdG9qpN0sAcNByz8CdEF) | 3:53 |
+| 97 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 |
 | 98 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 |
-| 99 | [DO THE DANCE](https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:16 |
-| 100 | [君が望む永遠](https://open.spotify.com/track/0NEUmA4lPoX2JRdqT8g1dE) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [PK shampoo.log](https://open.spotify.com/album/1skkl0CvKuBJnvuTO2s10a) | 2:29 |
+| 99 | [Mountain Top](https://open.spotify.com/track/2VZsN0yEEVmEsohRi56wEm) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Mountain Top](https://open.spotify.com/album/02S7xatuIOTEWNgLAfKh34) | 4:06 |
+| 100 | [DO THE DANCE](https://open.spotify.com/track/0eCjxBaTwjCNksbytKPlqh) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 3:16 |
 
 Snapshot ID: `AAAAAIAo0Z9Dw/Q8EZLGhLiYFYENhvaC`

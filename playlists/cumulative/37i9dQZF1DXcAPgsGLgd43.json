@@ -186,7 +186,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 197007,
       "name": "Agua De Beber",
       "url": "https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn"
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 159000,
       "name": "Agua Y Paz (feat. Elisa Gold)",
       "url": "https://open.spotify.com/track/79mGOsW9F0XMpWq5g2pqQy"
@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 194285,
       "name": "Bajo",
       "url": "https://open.spotify.com/track/4b7BmAgj91XY2W9xXm3gBT"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 114230,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/6Vp5gUC5rPJWB4Q8klvUtn"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 177857,
       "name": "Bololo",
       "url": "https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh"
@@ -1524,6 +1524,28 @@
       "duration_ms": 139364,
       "name": "Boricuas",
       "url": "https://open.spotify.com/track/1mQq5CYoMsXnYvL39TuJAL"
+    },
+    {
+      "album": {
+        "name": "Bota Bota",
+        "url": "https://open.spotify.com/album/5d2AbREPcX9YBVoKflxJBG"
+      },
+      "artists": [
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        },
+        {
+          "name": "Phebo",
+          "url": "https://open.spotify.com/artist/03jnpPR3JC6ACsiJ9zQDYL"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Bota Bota",
+      "url": "https://open.spotify.com/track/01ou82q4euaFRX9FH3jUuV"
     },
     {
       "album": {
@@ -3126,7 +3148,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163124,
       "name": "Down",
       "url": "https://open.spotify.com/track/3CH1bhe5w2yu2BtVrKDJ13"
@@ -3730,7 +3752,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 230624,
       "name": "Flute",
       "url": "https://open.spotify.com/track/7jVZjXYSo0XeEYPYq0QX8g"
@@ -3828,7 +3850,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-17",
+      "date_removed": null,
       "duration_ms": 120120,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
@@ -4182,7 +4204,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 148644,
       "name": "Hombres y Mujeres",
       "url": "https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW"
@@ -5234,7 +5256,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 210937,
       "name": "LOKITA",
       "url": "https://open.spotify.com/track/4lpHSYKtVQc4cnkiwFKRKW"
@@ -6138,7 +6160,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163757,
       "name": "Noche",
       "url": "https://open.spotify.com/track/2osRPu8IcR8Uy2i7IChVrc"
@@ -6226,7 +6248,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 193562,
       "name": "O Cajado",
       "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
@@ -7222,6 +7244,54 @@
       "duration_ms": 215813,
       "name": "Ritmo 305",
       "url": "https://open.spotify.com/track/7M8EtNKLCdCEqPs1vwqHvE"
+    },
+    {
+      "album": {
+        "name": "Rompe La Pista",
+        "url": "https://open.spotify.com/album/5TVFpcWCn2tEgEN71w5E6f"
+      },
+      "artists": [
+        {
+          "name": "Lucky Guess",
+          "url": "https://open.spotify.com/artist/0gBcXRfO4AlJXZ901E9vs0"
+        },
+        {
+          "name": "Kamikaze Kid",
+          "url": "https://open.spotify.com/artist/2Je7Ani04CKlMltyGtMDXa"
+        },
+        {
+          "name": "DOUBLE B",
+          "url": "https://open.spotify.com/artist/6Vk7KR5AfsEVkUxBst60j0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Rompe La Pista",
+      "url": "https://open.spotify.com/track/56LTUVMz5yoRg6ydjNBVK3"
+    },
+    {
+      "album": {
+        "name": "Rompe La Pista",
+        "url": "https://open.spotify.com/album/2aHtOvNPE5gFOTdmFUVlkP"
+      },
+      "artists": [
+        {
+          "name": "Ochok",
+          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
+        },
+        {
+          "name": "Rose Caviar",
+          "url": "https://open.spotify.com/artist/3ftJx73iaBwm27kPQt0qSY"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201147,
+      "name": "Rompe La Pista",
+      "url": "https://open.spotify.com/track/7vxpNe9wFP6tZgAAXP3yiV"
     },
     {
       "album": {
@@ -8496,6 +8566,28 @@
       "duration_ms": 165625,
       "name": "Tomat\u00e1",
       "url": "https://open.spotify.com/track/1K20G73TiqmwtpSpF8YZc4"
+    },
+    {
+      "album": {
+        "name": "Traficante",
+        "url": "https://open.spotify.com/album/5NdUV7pMK0A5LWnWtm6Xkb"
+      },
+      "artists": [
+        {
+          "name": "Dj Remo",
+          "url": "https://open.spotify.com/artist/2rXNDwn76DVzIrU2ytI7nW"
+        },
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184218,
+      "name": "Traficante",
+      "url": "https://open.spotify.com/track/3tbsP4i5P6RGo40rpFChK0"
     },
     {
       "album": {

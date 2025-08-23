@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 40556,
+  "num_followers": 40606,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-09-06 20:51:37",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+    },
+    {
+      "added_at": "2024-09-06 20:51:37",
+      "album": {
         "name": "Traicionera (Baile Total)",
         "url": "https://open.spotify.com/album/1ESXDx2MI2QGcxTZXaAfRH"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 222200,
       "name": "Lloraras",
       "url": "https://open.spotify.com/track/6QJ1F9DrlsRSmKDcdVS0Oy"
-    },
-    {
-      "added_at": "2024-09-06 20:51:37",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2024-09-06 20:51:37",

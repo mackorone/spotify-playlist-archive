@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,569 likes - 150 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,781 likes - 150 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLmUaFDGb.md) - [plain]
 | 149 | [Waiting In Vain](https://open.spotify.com/track/6UMwlW88tuUf09Dj0CF6UX) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [Heart First](https://open.spotify.com/album/74fLArnOHs24KVKRui8r7w) | 4:59 |
 | 150 | [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 |
 
-Snapshot ID: `AAAAACnrq577LINHzyFIJTsGmnQTmgsD`
+Snapshot ID: `AAAAAOUz3vOI18FeRXDE2u3Jg4g1+ZES`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdziGPHNE40t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdziGPHNE40t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdziGPHNE40t)
 
-### [Jazzy Morning](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
+### [slow mornings](https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t)
 
-> Start your day right and wake up with some calm and cool Jazz.
+> start your day right ☕️ wake up with some calm and cool Jazz
 
 731 songs - 1 day 19 hr 18 min
 

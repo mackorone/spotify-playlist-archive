@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120026,
+      "name": "Crusher Destroyer",
+      "url": "https://open.spotify.com/track/46xkUxIP9eWmQcYh42b2Bm"
+    },
+    {
+      "album": {
         "name": "Remission (Reissue)",
         "url": "https://open.spotify.com/album/3pVCnqg7COWlaodlNiJIZL"
       },
@@ -636,6 +654,24 @@
       "duration_ms": 265653,
       "name": "March of the Fire Ants",
       "url": "https://open.spotify.com/track/5SoTqdQPiBu4XmZyXeNs4M"
+    },
+    {
+      "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265920,
+      "name": "March of the Fire Ants",
+      "url": "https://open.spotify.com/track/1KcVOoLXfpbadmBz0HkJ1r"
     },
     {
       "album": {
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 279840,
       "name": "Stargasm",
       "url": "https://open.spotify.com/track/5QMcwznMFieF1zUUElE5TR"
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 330880,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV"

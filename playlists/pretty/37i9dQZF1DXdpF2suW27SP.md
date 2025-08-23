@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Julinho Ksd entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,638 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,689 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 43 | [Só Resta Relembrar](https://open.spotify.com/track/7jkzAiPnWY7Jc5CtekrbRo) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Só Resta Relembrar](https://open.spotify.com/album/1LibJAFoIqjobZKLiStKw9) | 3:36 |
 | 44 | [Ficar Por Cima](https://open.spotify.com/track/4FbFdhugp8J1gEAKoyNVgC) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Ficar Por Cima](https://open.spotify.com/album/5lKdTetLS6JNpekrmmMLMT) | 2:51 |
 | 45 | [Champions League \(with Slow J & Gson\)](https://open.spotify.com/track/7jMSd85QqbHjqlpDSr66Hg) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Champions League \(with Slow J & Gson\)](https://open.spotify.com/album/2tHW0wmKMlYc4jJENTyUPP) | 2:41 |
-| 46 | [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [$heka](https://open.spotify.com/artist/64Ol0AKxBemSBbFUPmU8j2) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 |
+| 46 | [Nuvens](https://open.spotify.com/track/3JLXaXf55tgF1xQ1lQIgY1) | [Sheka](https://open.spotify.com/artist/0mLviys2d4z2ZzkX1fwD1J) | [Nuvens](https://open.spotify.com/album/5bxEub1mH7JPHN4YnSZvG6) | 2:19 |
 | 47 | [Saudade](https://open.spotify.com/track/2YVtDpRtyFb7rzu0m7Dg6S) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm), [Morais](https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu) | [Saudade](https://open.spotify.com/album/6P2otgLvoiizkovS14Oiaz) | 3:38 |
 | 48 | [Equilíbrio](https://open.spotify.com/track/3UHFYeLV41C0WjN6nn7sKd) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Trovador](https://open.spotify.com/album/42OhyOM28LEkgu9J9jrahn) | 3:05 |
 | 49 | [AMANHÃ](https://open.spotify.com/track/07Teg6yZ0fcfA7QO6utyFE) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [AMANHÃ](https://open.spotify.com/album/2W7kwwOTQkaGIg54BsikXU) | 2:23 |

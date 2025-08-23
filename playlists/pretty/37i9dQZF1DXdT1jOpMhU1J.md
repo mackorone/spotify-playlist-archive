@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 
 > Canções de ninar para o seu bebê ter um sono profundo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,551 likes - 140 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,555 likes - 140 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdT1jOpMhU1J.md) - [plain]
 | 44 | [Bruce the Goat](https://open.spotify.com/track/47IJNymEVbgixhvSxFKC2Z) | [Fileas Aunad](https://open.spotify.com/artist/4mqtOkMvlltg6gGDEVNsN7) | [Bruce the Goat](https://open.spotify.com/album/7nzrD3m5ThBsl7wjfbjWLM) | 2:48 |
 | 45 | [The Bear and the Owl](https://open.spotify.com/track/0M7V6oTBtL5tZEeNMnDAfu) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [The Bear and the Owl](https://open.spotify.com/album/3LtMRfHgMyyB5s1XfGLCen) | 1:46 |
 | 46 | [The Wheels On The Bus](https://open.spotify.com/track/6cczf3Ut0uCzAUveJg7Dur) | [Mads Brown](https://open.spotify.com/artist/03XOZ14tcmZDbkQHQWaYnB) | [The Wheels On The Bus](https://open.spotify.com/album/4bkgcrJ0hML1VynmJT1zTE) | 1:40 |
-| 47 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 |
+| 47 | [Lights Down](https://open.spotify.com/track/6tet9ALh2ZiQrJilAJCjCz) | [Morris Melba](https://open.spotify.com/artist/2y5YMSg3DW8rwhDygVRwO0) | [Lights Down](https://open.spotify.com/album/2ltEGd5XzxNHCGYKcptlNl) | 1:54 |
 | 48 | [Au Clair de la Lune](https://open.spotify.com/track/2YQzrwE7afmaRcuonKycGZ) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [Au Clair de la Lune](https://open.spotify.com/album/2G8aO2O9Jfi6eUCs2bXSDt) | 1:49 |
 | 49 | [Twilight Embrace](https://open.spotify.com/track/42uTb7TEMMmRfHpqMisPqg) | [Wyatt Cross](https://open.spotify.com/artist/3mgecCaL9scsKMSg9X8rZC) | [Twilight Embrace](https://open.spotify.com/album/25YSvB8DprutVKksUYghuH) | 1:51 |
 | 50 | [Boi da Cara Preta](https://open.spotify.com/track/78fgDWO87ZxmCCAff7QKI3) | [Reginaldo Frazatto Jr.](https://open.spotify.com/artist/6l3HBaY4ntgplwkbloGg0f), [Bia & Nino](https://open.spotify.com/artist/6CJhCtmWBiBZu2YHr2dNf0) | [Bia & Nino \- Canções de Ninar](https://open.spotify.com/album/7axwvbOfPlxldJ7K86dylg) | 1:47 |

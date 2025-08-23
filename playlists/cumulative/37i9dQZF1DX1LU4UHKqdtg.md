@@ -4,7 +4,7 @@
 
 > グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: Kep1er
 
-1,550 songs - 3 day 10 hr 19 min
+1,551 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -970,7 +970,7 @@
 | [Patbingsu](https://open.spotify.com/track/3B6t6zKMa959qbWvLUWxxl) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: Patbingsu](https://open.spotify.com/album/6c6wbjLgOX3crURuTPfaL8) | 3:29 | 2022-07-15 | 2022-08-26 |
 | [Peaches](https://open.spotify.com/track/237OjBs3wvamAFpHp0yItw) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:18 | 2021-12-23 | 2022-01-26 |
 | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People, Pt\. 2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-06 | 2023-04-11 |
-| [Perfect Crime](https://open.spotify.com/track/0XVbVHwZWkWutuBkSK78s9) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:16 | 2025-05-01 |  |
+| [Perfect Crime](https://open.spotify.com/track/0XVbVHwZWkWutuBkSK78s9) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 3:16 | 2025-05-01 | 2025-08-23 |
 | [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 | 2025-04-07 | 2025-05-02 |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2023-10-27 | 2024-04-27 |
 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-11-23 | 2024-02-07 |
@@ -1262,6 +1262,7 @@
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-16 | 2024-08-28 |
 | [Sweet Venom \(Seeb Remix\)](https://open.spotify.com/track/1wfNuhQNBGkisaCknJPbfr) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Sweet Venom \(Seeb Remix\)](https://open.spotify.com/album/1VpLHUZOodpgXh69HNu4nC) | 2:51 | 2024-04-02 | 2024-06-14 |
 | [Sweetie](https://open.spotify.com/track/2YORtNHlZ4AF1iqfa64Z9L) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Sweetie](https://open.spotify.com/album/48pkdo7vJncc2iGpmcb5ce) | 2:34 | 2025-03-06 | 2025-03-17 |
+| [TAKE MY HAND](https://open.spotify.com/track/1dcA0Ql31hchLydrA8dy9A) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [TAKE MY HAND](https://open.spotify.com/album/03AsWUHNl2Hh9JPF3Y66ds) | 2:55 | 2025-08-22 |  |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2023-08-17 |
 | [TAKEDOWN \(JEONGYEON, JIHYO, CHAEYOUNG\)](https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:01 | 2025-06-26 |  |
 | [Talk Saxy](https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Talk Saxy](https://open.spotify.com/album/0XDt5xgg2nI1Gqmf6isfm0) | 3:10 | 2023-10-27 | 2024-01-25 |

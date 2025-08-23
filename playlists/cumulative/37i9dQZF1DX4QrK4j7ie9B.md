@@ -4,7 +4,7 @@
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-120 songs - 7 hr 41 min
+121 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Swan Lake, Op\. 20, TH 12, Act II: Scene \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/7c00O75TZMQDDFExnxOrMM) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 3:15 | 2025-08-08 |  |
 | [Swan Lake, Op\. 20: Dance of the Four Swans \(Arr\. Wild for Piano\)](https://open.spotify.com/track/3StysTPY6u60aPKxaT01sx) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Tchaikovsky: Swan Lake, Op\. 20: Dance of the Four Swans \(Arr\. Wild for Piano\)](https://open.spotify.com/album/4sIbyfOUmbWR6KhcxXM31c) | 1:29 | 2025-08-08 |  |
 | [The Girl with the Flaxen Hair](https://open.spotify.com/track/3LArRyjSFrKpn36eKMiTeh) | [George Nascimento](https://open.spotify.com/artist/2hfcG7JOmq4zs2rkrM5L7u) | [Relaxing Classical Piano](https://open.spotify.com/album/0c9Gu8sIJ3EHmXRuKKUfD1) | 3:15 | 2021-03-18 | 2025-08-09 |
+| [The Nutcracker, Op\. 71 \(Suite Arr\. Pletnev for Piano\): I\. March](https://open.spotify.com/track/1G2K1RrApPUIg2dQQChxvM) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Andrey Gugnin](https://open.spotify.com/artist/4xhMm2D1MNNpLdXKGd7CYe) | [Tchaikovsky: The Nutcracker, Op\. 71 \(Suite Arr\. Pletnev for Piano\): I\. March](https://open.spotify.com/album/0lGbEWhgnevvAaVoBc2cof) | 2:00 | 2025-08-22 |  |
 | [The Nutcracker, Op\. 71, TH 14, Act II Tableau 3: No\. 12e, Dance of the mirlitons\. Andantino \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/5OmjnElwHplbBz66dqk4oP) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:11 | 2025-08-08 |  |
 | [The Nutcracker, Op\. 71, TH 14, Act II Tableau 3: No\. 13, Valse des fleurs \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/4ecVRTnGsRXYkhVpv62MMc) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:15 | 2025-08-08 |  |
 | [The Nutcracker, Op\. 71, TH 14, Act II Tableau 3: No\. 14, Pas de deux\. Var\. 2, Andante ma non troppo "Dance of the Sugarplum Fairy" \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/4GisdzBA1bzChJfUOzatxc) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:11 | 2025-08-08 |  |

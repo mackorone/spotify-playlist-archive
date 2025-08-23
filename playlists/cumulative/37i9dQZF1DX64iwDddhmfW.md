@@ -4,7 +4,7 @@
 
 > ❄️ we could leave the christmas lights up til..\. february? ❄️
 
-127 songs - 7 hr 46 min
+128 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Back To December \(Taylor's Version\)](https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 4:54 | 2023-11-27 | 2024-12-02 |
 | [Back To Then](https://open.spotify.com/track/1MlxVjYmfpF2tJv8jsCECm) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Back To Then](https://open.spotify.com/album/1QJoFre6OpOX9oYurWP04Q) | 2:49 | 2024-11-22 |  |
 | [Boyfriends](https://open.spotify.com/track/7jZTyWuQaTMpjO5SjF3RtS) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Boyfriends](https://open.spotify.com/album/0M2bXUTiOZYYcFJNDEbDWh) | 2:54 | 2022-12-02 | 2022-12-11 |
-| [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2022-10-25 |  |
+| [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2022-10-25 | 2025-08-23 |
 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 | 2022-10-25 |  |
+| [canal street](https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 5:02 | 2025-08-22 |  |
 | [Cherry](https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:19 | 2022-10-25 | 2023-11-27 |
 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 | 2022-10-25 | 2023-11-27 |
 | [Coffee](https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Coffee](https://open.spotify.com/album/5wQU9QESgj4rLyLECGTJGn) | 2:06 | 2023-11-27 |  |

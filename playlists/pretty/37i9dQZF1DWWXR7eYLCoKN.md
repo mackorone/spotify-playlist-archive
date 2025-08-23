@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,443 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,472 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 2 | [Meu Lugar](https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Sambista Perfeito](https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw) | 4:52 |
 | 3 | [Trem Das Onze](https://open.spotify.com/track/2TI5GBkbrrFtZRM5v1heeb) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Adoniran Barbosa](https://open.spotify.com/album/034ir9swD9gSpQNsfu9Ri4) | 3:04 |
 | 4 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
-| 5 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
-| 6 | [Tiro Ao Álvaro](https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Vento De Maio](https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8) | 2:44 |
+| 5 | [Tiro Ao Álvaro](https://open.spotify.com/track/7f31hpuzCNIU0rX5E6Dr3g) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Vento De Maio](https://open.spotify.com/album/3GCQzHjGHSvtW99n7U7iD8) | 2:44 |
+| 6 | [Disritmia](https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Martinho da Vila](https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB) | 2:24 |
 | 7 | [Não Deixe O Samba Morrer](https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [A Voz Do Samba](https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4) | 4:26 |
 | 8 | [Menina Mulher Da Pele Preta](https://open.spotify.com/track/5HpURubJUz2gysQiAkle9I) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 2:57 |
 | 9 | [Samba da Bênção](https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV), [Marcel Powell](https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR) | [Que Falta Você Me Faz](https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs) | 3:02 |

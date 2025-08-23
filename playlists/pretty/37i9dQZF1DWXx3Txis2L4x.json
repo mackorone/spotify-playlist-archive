@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 633564,
+  "num_followers": 633597,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Smash",
-        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Genocide",
-      "url": "https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Page Avenue",
         "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 193106,
       "name": "And the Hero Will Drown",
       "url": "https://open.spotify.com/track/3WsgkhWH001sMkbZVcjreS"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Genocide",
+      "url": "https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Freak of Nature",
-        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
-      },
-      "artists": [
-        {
-          "name": "Heart Attack Man",
-          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
-        }
-      ],
-      "duration_ms": 202889,
-      "name": "Freak Of Nature",
-      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Beauty Of Youth",
         "url": "https://open.spotify.com/album/6am0g93vswJjC98p8mihkF"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 171443,
       "name": "delirious",
       "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Freak of Nature",
+        "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
+      },
+      "artists": [
+        {
+          "name": "Heart Attack Man",
+          "url": "https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN"
+        }
+      ],
+      "duration_ms": 202889,
+      "name": "Freak Of Nature",
+      "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
     },
     {
       "added_at": "2024-10-08 12:05:02",

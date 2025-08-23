@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-89 songs - 5 hr 3 min
+90 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Little Chaos](https://open.spotify.com/track/0OKWHkdIAi2purVKdqaPC0) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Soundtrack Album\)](https://open.spotify.com/album/2Ae5IWNhCQvsH4fNF8FFHe) | 5:37 | 2022-07-13 | 2024-04-19 |
 | [A Little Chaos](https://open.spotify.com/track/0cKJ9VKdpwPA0MryV8K0vq) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JJeRNz4Qu3YJ4JNevYQjW) | 5:37 | 2021-01-29 |  |
 | [Adventures of a London Gentleman](https://open.spotify.com/track/16iqQIS5kz8tj2EeoDvq7i) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 3:49 | 2021-01-29 |  |
+| [Alba \(From "JoJo's Bizarre Adventure"\)](https://open.spotify.com/track/3o0ElK2SEYlTQbU2gDgEVh) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD), [Martynas](https://open.spotify.com/artist/24xgek07kTzaZ4SrocQHTs), [NDR Radiophilharmonie](https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR), [Michael England](https://open.spotify.com/artist/0hi3goRhw04R2VLGjvNrd6) | [Alba \(From "JoJo's Bizarre Adventure"\)](https://open.spotify.com/album/0cxbm88CY9rJ0p0MZvNUJO) | 1:40 | 2025-08-22 |  |
 | [Beauty and the Beast \- From "Beauty and the Beast"](https://open.spotify.com/track/4D8lQriIxEzw7JKboShO2X) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [The Disney Book](https://open.spotify.com/album/6s4Nj1n5yQuyn6ML0Jjk3z) | 4:09 | 2022-09-16 |  |
 | [Cinema Paradiso](https://open.spotify.com/track/7mQpHyD51jOr6zouLaFbZy) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Cinema Paradiso](https://open.spotify.com/album/1slMqlxO5G9o4e9JjkEwoU) | 2:58 | 2021-01-29 |  |
 | [Come Back to Us](https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [1917 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs) | 5:39 | 2021-01-29 |  |

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,003 songs - 1 day 16 hr 30 min
+2,005 songs - 1 day 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Cardinal \- Revisited Strings Version](https://open.spotify.com/track/657UOQReYCHbcoYOgxvFoF) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Cardinal \(Revisited Strings Version\)](https://open.spotify.com/album/0NJSFooKCb92m3NdpJYjw3) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Cardinal \- Strings Version](https://open.spotify.com/track/7Au3AiCioeiS307vGswQ8U) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Morning Solitude \(Strings Version\)](https://open.spotify.com/album/4Ezegn2rN1CtOdJzqJT1lG) | 1:10 | 2024-02-09 | 2024-02-13 |
 | [Cardinals](https://open.spotify.com/track/5QjUwoWJq9HyHJ2mSkPf5X) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Gazing](https://open.spotify.com/album/0hcrqnBc54ubYBORXkpPzT) | 1:16 | 2022-01-12 | 2024-01-30 |
+| [Care](https://open.spotify.com/track/02xPbeA0zjFEwZJJVUnXrW) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Care](https://open.spotify.com/album/3SHUCiCN8OUihqWxJhMzcX) | 1:00 | 2025-08-22 |  |
 | [Caring](https://open.spotify.com/track/3NvMgHITm7sEJFimnWuZ9J) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Caring](https://open.spotify.com/album/5UKExw3XI60SXjpFOQ5DEZ) | 1:00 | 2025-08-01 |  |
 | [Carnation](https://open.spotify.com/track/1njSR7Z7kLVOpSeFajEY5i) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Carnation](https://open.spotify.com/album/4BwbKdsxankzPgI3CAmACc) | 1:00 | 2025-02-15 |  |
 | [Carnation](https://open.spotify.com/track/29J969utg3ZjilR12yH00u) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
@@ -1497,6 +1498,7 @@
 | [Seeking](https://open.spotify.com/track/5wkuLc08Q3FkpSGVkpKKas) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Seeking](https://open.spotify.com/album/2lJrW6xrPfPxKolqhlkkU5) | 1:00 | 2025-03-15 |  |
 | [Seeking The Horizon](https://open.spotify.com/track/0qa0TY4jVYKimB2562Fdus) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Soulful Treasures](https://open.spotify.com/album/59cxCCKChUXYJIIDUdxafC) | 1:04 | 2022-03-08 |  |
 | [Sense](https://open.spotify.com/track/3JvzgrRFai8mYkl53iBp6J) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sense](https://open.spotify.com/album/1eOjNPYspaxIL1XRdtJXRx) | 1:00 | 2024-07-11 |  |
+| [September](https://open.spotify.com/track/7qAxZyznN6T3zObyCBPzRA) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [September](https://open.spotify.com/album/70nEqYgWRLf6URj5o37nYh) | 1:00 | 2025-08-22 |  |
 | [September Shadows](https://open.spotify.com/track/6Dsk3lg7nuNpxf22d3oqFE) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Ambient Season](https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF) | 1:01 | 2022-08-25 |  |
 | [Serene](https://open.spotify.com/track/7HVDOkkwld3WSn2sJg8Ert) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Serene](https://open.spotify.com/album/0CeS1bFOgD60GVqhZjKDle) | 1:00 | 2024-03-08 |  |
 | [Serene \- Cello Version](https://open.spotify.com/track/5rBgsbVvDcPAyuhYFWkSft) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Again](https://open.spotify.com/album/4ocM7Lg4DZPKwlJV7pFXyU) | 1:00 | 2024-03-08 |  |

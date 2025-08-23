@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,949 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,961 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 48 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 | 49 | [Man To Man](https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:17 |
 | 50 | [must be nice](https://open.spotify.com/track/25TIIp717353bt26eqPiJw) | [osquinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [must be nice](https://open.spotify.com/album/3nUIEmwKrceOIj4Kz33LB9) | 2:14 |
-| 51 | [go white boy go](https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [go white boy go](https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF) | 1:41 |
-| 52 | [doing it wrong](https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Dreamcache](https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa) | [doing it wrong](https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo) | 2:27 |
+| 51 | [doing it wrong](https://open.spotify.com/track/0pgktTvc5KgQU9jFusDtZC) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Dreamcache](https://open.spotify.com/artist/55V12vVIemdvh4AYO9qCZa) | [doing it wrong](https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo) | 2:27 |
+| 52 | [go white boy go](https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O) | [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [go white boy go](https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF) | 1:41 |
 | 53 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
 | 54 | [Of Course I Still Love You](https://open.spotify.com/track/0t3AvLeqkD0s72U59LeewQ) | [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Peace & Love](https://open.spotify.com/album/45bYIzNhwVUwTnVYjV30KD) | 3:22 |
 | 55 | [Whatuworried4?](https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Whatuworried4?](https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp) | 2:35 |

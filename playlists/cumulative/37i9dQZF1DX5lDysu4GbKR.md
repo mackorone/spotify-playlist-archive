@@ -2,9 +2,9 @@
 
 ### [Acoustic Soul](https://open.spotify.com/playlist/37i9dQZF1DX5lDysu4GbKR)
 
-> Stripped back vibes\. Cover: Alex Isley
+> Stripped back vibes\. Cover:  Lekan
 
-293 songs - 17 hr 8 min
+294 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,11 +169,12 @@
 | [Loyalty \- Acoustic](https://open.spotify.com/track/6FTpo3Ji9LOFC5Iv3MFxuF) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Loyalty \(Acoustic\)](https://open.spotify.com/album/0bsda3ccZoEUpiRW4zwMud) | 4:23 | 2021-12-09 | 2022-01-14 |
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2023-12-11 |  |
 | [Magic](https://open.spotify.com/track/0hNa2G3CxcEFD1iG0GM2rY) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Julia Zahra](https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 4:42 | 2022-10-27 |  |
+| [Make It Right \- Acoustic](https://open.spotify.com/track/7i9u3HorlfNKlLNrgG0k7J) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Make It Right](https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq) | 3:18 | 2025-08-22 |  |
 | [Make the Most \- Live](https://open.spotify.com/track/40jbQpNvRIFpV1i9UTcNgB) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Make the Most \(Live\)](https://open.spotify.com/album/1bGkar5XcMRqcs4sxp02sF) | 3:42 | 2021-12-09 | 2023-08-31 |
 | [Meant to Be](https://open.spotify.com/track/4SmFQJI0xNBavjodMBfscN) | [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG), [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [Thankful](https://open.spotify.com/album/2yhzbRsA4dOr3OV5gzHXqt) | 4:34 | 2021-12-09 | 2023-04-09 |
 | [Miami \(feat\. Leon Thomas\)](https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [The Summer That Saved Me](https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z) | 3:36 | 2025-07-11 |  |
 | [Mine to Lose](https://open.spotify.com/track/0rx0LgsgBQ8yGJzDwBNLU5) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/6QSOKuLlCEodRIJLQL6iI5) | 3:31 | 2024-02-09 | 2024-04-19 |
-| [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 |  |
+| [Mine to Lose](https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Dreams of Summertime](https://open.spotify.com/album/3Lc3gfGYz447QYlYiOhhcO) | 3:31 | 2021-12-09 | 2025-08-23 |
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-07 | 2024-02-09 |
 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 | 2025-06-06 |  |
@@ -282,7 +283,7 @@
 | [Up All Night \- Acoustic Version](https://open.spotify.com/track/0sF9rafYmmI4Kw8PCCRSFo) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [Up All Night](https://open.spotify.com/album/1RlvoML4BfPSxFOqQCx4Gi) | 3:36 | 2021-12-09 | 2022-05-04 |
 | [Video Game](https://open.spotify.com/track/7HmoOrC8B7YUG3XXPizxRp) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Video Game](https://open.spotify.com/album/4Ts5SXRtH4FJuMo104aZv1) | 2:44 | 2023-08-15 |  |
 | [Wait for You](https://open.spotify.com/track/0jjsLGCJmUzYRu6GKQqlR4) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Wait for You](https://open.spotify.com/album/2zdqd5mCgqHeDh6CR2PYLY) | 4:34 | 2021-12-09 | 2022-01-14 |
-| [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [Majo](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 | 2024-03-21 |  |
+| [Wake Up](https://open.spotify.com/track/64xjFRx6I7JL2IMOxpQFqK) | [sickoftheinternet](https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf) | [Things I Never Said](https://open.spotify.com/album/69zXuBI5Qs9pSnmZxT7pTo) | 2:50 | 2024-03-21 |  |
 | [WAVER \(Till it All Makes Sense\)](https://open.spotify.com/track/1xfNozfur1x0R12FzSeEIl) | [vAn](https://open.spotify.com/artist/31zEC5Veeh3aoNFfiv1poC) | [AUTUMN BOON](https://open.spotify.com/album/24Gu4tv2kH4rtNc795TNYF) | 5:04 | 2022-11-03 |  |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2021-12-09 |  |
 | [Weather Woman](https://open.spotify.com/track/3HTajNvnpRHFaKfhmBlhJM) | [Kali Claire](https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x) | [Weather Woman](https://open.spotify.com/album/3VYjEVRtowF8QLwleGYDcS) | 2:52 | 2024-11-15 | 2024-12-07 |

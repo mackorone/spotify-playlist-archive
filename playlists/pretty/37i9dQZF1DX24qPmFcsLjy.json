@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 135696,
+  "num_followers": 135735,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/5O4erNlJ74PIF6kGol1ZrC"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "What a Feelin'",
-        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
-      },
-      "artists": [
-        {
-          "name": "Irene Cara",
-          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Flashdance...What a Feeling - Radio Edit",
-      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "What a Feelin'",
+        "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
+      },
+      "artists": [
+        {
+          "name": "Irene Cara",
+          "url": "https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Flashdance...What a Feeling - Radio Edit",
+      "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     },
     {
       "added_at": "2024-07-09 16:44:07",

@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 90305,
+  "num_followers": 90340,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAC1e76o8pBrot70V3R3VQ55",
+  "snapshot_id": "aKZhgAAAAADamhZUMOjlIu6PceUCY3w+",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
+        "name": "What a Feeling",
+        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
       },
       "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 233314,
-      "name": "Gardenia (with Stick Figure)",
-      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
+      "duration_ms": 229616,
+      "name": "What a Feeling",
+      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
     },
     {
       "added_at": null,
@@ -191,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Feeling",
-        "url": "https://open.spotify.com/album/26zl5w4grdSyTmy2989Tov"
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
       },
       "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
         {
           "name": "Stick Figure",
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         }
       ],
-      "duration_ms": 229616,
-      "name": "What a Feeling",
-      "url": "https://open.spotify.com/track/68kKTUw9HJOczE2CAsz73a"
+      "duration_ms": 233314,
+      "name": "Gardenia (with Stick Figure)",
+      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
     },
     {
       "added_at": null,
@@ -740,13 +740,13 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         },
         {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 265654,
-      "name": "Showdown (with Collie Buddz)",
-      "url": "https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l"
+      "duration_ms": 254655,
+      "name": "Higher (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ"
     },
     {
       "added_at": null,
@@ -812,13 +812,13 @@
           "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
         },
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 254655,
-      "name": "Higher (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/04dXzKIPzrU6sRZai9YuTZ"
+      "duration_ms": 265654,
+      "name": "Showdown (with Collie Buddz)",
+      "url": "https://open.spotify.com/track/3z9AA2p7kCDX8Ds8Donb7l"
     },
     {
       "added_at": null,

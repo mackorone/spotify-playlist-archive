@@ -1656,7 +1656,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 132068,
       "name": "Blue Jean Baby",
       "url": "https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
@@ -13353,6 +13353,24 @@
     },
     {
       "album": {
+        "name": "Devil\u2019s Den",
+        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230112,
+      "name": "The Great Caucasian God",
+      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
+    },
+    {
+      "album": {
         "name": "The Greatest Day of My Life",
         "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
       },
@@ -14710,6 +14728,28 @@
       "duration_ms": 192706,
       "name": "We Shall Rise",
       "url": "https://open.spotify.com/track/6JWfXrbrsSqapQ4cAWrZuV"
+    },
+    {
+      "album": {
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto:Chinoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,051 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,025 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 58 | [Ícaro](https://open.spotify.com/track/3uc0lXpV31UPnZiMV9eUXi) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Ícaro](https://open.spotify.com/album/0PNzBHZUXpSsehZx7kzYii) | 4:37 |
 | 59 | [Veneno](https://open.spotify.com/track/3YJNkKxZghsufLlhEODFZa) | [Cler Canifrú](https://open.spotify.com/artist/1dBUAcFepQhvIVgUUHxRPf), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Veneno](https://open.spotify.com/album/6JARYXt8wnQyjIyqnPLmP7) | 3:39 |
 | 60 | [Nuestra señal](https://open.spotify.com/track/3JIy8mnMI0PvcrbCP9wMX3) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Mar de nubes](https://open.spotify.com/album/0DmG4qQfUvmaS781E8PK2q) | 4:11 |
-| 61 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 |
-| 62 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
+| 61 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
+| 62 | [La Innombrable](https://open.spotify.com/track/2WUgxqkD2iCLKoJFTahWU8) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Julius Popper?](https://open.spotify.com/album/23fZQY7rzLPXzLJlmEhs6W) | 4:07 |
 | 63 | [Asocial](https://open.spotify.com/track/2bCBHwtv930VSVbYfU1Ovd) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Asocial](https://open.spotify.com/album/57KPFodpLITwBR9iKUd2S6) | 3:17 |
 | 64 | [Let Me Fly](https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:42 |
-| 65 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
-| 66 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 |
+| 65 | [Lo Que Es Real](https://open.spotify.com/track/0BWlOb5MiXGRhVcCpeRwrF) | [El Otro Astronauta](https://open.spotify.com/artist/0XgIpxvQkRLs1IbbCkNcFa) | [Lo Que Es Real](https://open.spotify.com/album/4EhoOmnnr75ndHqBbsT7CA) | 3:43 |
+| 66 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 67 | [SUEÑOS MOJADOS](https://open.spotify.com/track/5b47pG0qPtebWxYZzrfQHD) | [Sir Valen](https://open.spotify.com/artist/31J0nfGXpgjWwbakScICTn), [Millonarios Depresivos](https://open.spotify.com/artist/00GDE8rkCDdatrLufmZvEn) | [SUEÑOS MOJADOS](https://open.spotify.com/album/5E9GuX20mLPXUwTxqRrQxp) | 2:24 |
 | 68 | [Tu primero y luego yo](https://open.spotify.com/track/58vX70xauiXtkUOOJG60b3) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Tu primero y luego yo](https://open.spotify.com/album/2T5fbke0n4S2e8mVFAAVqY) | 2:26 |
 | 69 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 |

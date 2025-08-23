@@ -7269,6 +7269,28 @@
     },
     {
       "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
+    },
+    {
+      "album": {
         "name": "Cops & Robbers",
         "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
       },
@@ -9600,7 +9622,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 198774,
       "name": "Drugs I Like",
       "url": "https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr"
@@ -10092,7 +10114,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 226546,
       "name": "Ensalada (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28"
@@ -17156,7 +17178,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
@@ -23858,7 +23880,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Nice To Each Other",
       "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
@@ -34676,7 +34698,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 180248,
       "name": "Thodi Si Daaru",
       "url": "https://open.spotify.com/track/3JiLQJmVW7d4O8AQDFB3oj"
@@ -39036,7 +39058,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163866,
       "name": "YUKON",
       "url": "https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl"
@@ -39250,7 +39272,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 211677,
       "name": "\u5927\u5c55\u9d3b\u5716(Blueprint Supreme)",
       "url": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"

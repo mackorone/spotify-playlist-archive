@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1123220,
+  "num_followers": 1123363,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADgriidpB9v6dXIJ+jWni3j",
+  "snapshot_id": "aKZhgAAAAADDzbQP9yPt0XSxNdjFFlVM",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 198093,
-      "name": "Redundant",
-      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saviors (\u00e9dition de luxe)",
         "url": "https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 123464,
       "name": "Fuck Off",
       "url": "https://open.spotify.com/track/3OTGZhc6EuE1XZ8849hHi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 198093,
+      "name": "Redundant",
+      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nimrod",
-        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 182506,
-      "name": "Scattered",
-      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saviors",
         "url": "https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 196794,
       "name": "Suzie Chapstick",
       "url": "https://open.spotify.com/track/3SzRlYb9HkQvZhlgotZA8w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 182506,
+      "name": "Scattered",
+      "url": "https://open.spotify.com/track/2iP4gsbex3yX32fC0kcwMV"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smash It Like Belushi",
-        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
+        "name": "American Idiot (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 168554,
-      "name": "Smash It Like Belushi",
-      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
+      "duration_ms": 120442,
+      "name": "She's a Rebel",
+      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Idiot (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/19ObsGobUuBr11M6ysFMug"
+        "name": "Smash It Like Belushi",
+        "url": "https://open.spotify.com/album/6UsVWmVhrnbaeHxeZKZhoU"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 120442,
-      "name": "She's a Rebel",
-      "url": "https://open.spotify.com/track/17vGKC6lZlgpDizEWR4VXs"
+      "duration_ms": 168554,
+      "name": "Smash It Like Belushi",
+      "url": "https://open.spotify.com/track/5VJNF9RdCPN99IDCbmMchz"
     },
     {
       "added_at": null,

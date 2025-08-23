@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 232026,
+  "num_followers": 232082,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,18 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 165026,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -135,18 +131,22 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+      "duration_ms": 165026,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -655,26 +655,26 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "TOMORROWLAND",
-        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
+        "name": "Don Dimadon",
+        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
       "artists": [
         {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+          "name": "Remp",
+          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         },
         {
           "name": "Victor Mendivil",
           "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 185511,
-      "name": "TOMORROWLAND",
-      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
+      "duration_ms": 184987,
+      "name": "Don Dimadon",
+      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -703,46 +703,26 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "Don Dimadon",
-        "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
+        "name": "TOMORROWLAND",
+        "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
       },
       "artists": [
         {
-          "name": "Remp",
-          "url": "https://open.spotify.com/artist/1xOk6ncnlNdMeSnLLLoMSa"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
           "name": "Victor Mendivil",
           "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        }
-      ],
-      "duration_ms": 184987,
-      "name": "Don Dimadon",
-      "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2025-08-08 06:00:34",
-      "album": {
-        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 174178,
-      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
-      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
+      "duration_ms": 185511,
+      "name": "TOMORROWLAND",
+      "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -771,6 +751,26 @@
       "duration_ms": 288000,
       "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
       "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
+    },
+    {
+      "added_at": "2025-08-08 06:00:34",
+      "album": {
+        "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+        "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Aleman: Bzrp Music Sessions, Vol. 15",
+      "url": "https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
-    },
-    {
-      "added_at": "2025-08-08 06:00:34",
-      "album": {
         "name": "Mafiosa",
         "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 170237,
       "name": "Mafiosa",
       "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
+    },
+    {
+      "added_at": "2025-08-08 06:00:34",
+      "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "Por Si Se Les Olvidaba",
-        "url": "https://open.spotify.com/album/3FB9u2hi89iWalsZVrZDck"
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
       },
       "artists": [
         {
@@ -1136,13 +1136,13 @@
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Alex Torres",
-          "url": "https://open.spotify.com/artist/70u0ytxL7TpF1Kdc2HFyM2"
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Por Si Se Les Olvidaba",
-      "url": "https://open.spotify.com/track/0rR7MiMnCmNTH7sIrxZdl7"
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "Ni Miedo Ni Piedad",
-        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 278181,
-      "name": "Ni Miedo Ni Piedad",
-      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
-    },
-    {
-      "added_at": "2025-08-08 06:00:34",
-      "album": {
         "name": "Viaje Sin Equipaje",
         "url": "https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 255843,
       "name": "Entrada Sin Salida",
       "url": "https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK"
+    },
+    {
+      "added_at": "2025-08-08 06:00:34",
+      "album": {
+        "name": "Ni Miedo Ni Piedad",
+        "url": "https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 278181,
+      "name": "Ni Miedo Ni Piedad",
+      "url": "https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "La Encomienda",
-        "url": "https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk"
-      },
-      "artists": [
-        {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
-        }
-      ],
-      "duration_ms": 381495,
-      "name": "El CaraCortada",
-      "url": "https://open.spotify.com/track/4Ztm2sw745p2ULfV8BkQkX"
-    },
-    {
-      "added_at": "2025-08-08 06:00:34",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 160150,
       "name": "Sin Dormir (Ya Se Arm\u00f3)",
       "url": "https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5"
+    },
+    {
+      "added_at": "2025-08-08 06:00:34",
+      "album": {
+        "name": "La Encomienda",
+        "url": "https://open.spotify.com/album/3083B6DZOQS2VEQsKX1Vtk"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "duration_ms": 381495,
+      "name": "El CaraCortada",
+      "url": "https://open.spotify.com/track/4Ztm2sw745p2ULfV8BkQkX"
     },
     {
       "added_at": "2025-08-08 06:00:34",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2025-08-08 06:00:34",
       "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/4rvCnf7vwzITEVDgA85R8t"
-      },
-      "artists": [
-        {
-          "name": "Miguel Comando",
-          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
-        },
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 146398,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/51qy6tN1n8EQKOuB0mexii"
-    },
-    {
-      "added_at": "2025-08-08 06:00:34",
-      "album": {
         "name": "Toretto (FAST X / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4YHGjIgKtP3QKRA11AhfJ1"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 150517,
       "name": "Toretto",
       "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
+    },
+    {
+      "added_at": "2025-08-08 06:00:34",
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/4rvCnf7vwzITEVDgA85R8t"
+      },
+      "artists": [
+        {
+          "name": "Miguel Comando",
+          "url": "https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 146398,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/51qy6tN1n8EQKOuB0mexii"
     },
     {
       "added_at": "2025-08-08 06:00:34",

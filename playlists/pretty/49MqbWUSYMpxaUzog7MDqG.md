@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,411 likes - 269 songs - 15 hr 46 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,408 likes - 269 songs - 15 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 | 75 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 |
 | 76 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 |
 | 77 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
-| 78 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
+| 78 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
 | 79 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
 | 80 | [Keep Me Honest](https://open.spotify.com/track/40OxWUSXZAxMAaL6BHxXt6) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Bloom](https://open.spotify.com/album/3SN6fq9qGjFNU49BS3MKgz) | 2:41 |
 | 81 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 |
@@ -211,7 +211,7 @@ pretty - [cumulative](/playlists/cumulative/49MqbWUSYMpxaUzog7MDqG.md) - [plain]
 | 201 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 |
 | 202 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 |
 | 203 | [Different \(With Majid Jordan\)](https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Different \(With Majid Jordan\)](https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k) | 2:26 |
-| 204 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
+| 204 | [Hurricane](https://open.spotify.com/track/6Hfu9sc7jvv6coyy2LlzBF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 4:03 |
 | 205 | [Bye Bye](https://open.spotify.com/track/6XO8RlYuJCiI0v3IA48FeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Bye Bye](https://open.spotify.com/album/1oKYKiAwR31eJvkRwpQVrb) | 1:48 |
 | 206 | [Keep Me Honest](https://open.spotify.com/track/40OxWUSXZAxMAaL6BHxXt6) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Bloom](https://open.spotify.com/album/3SN6fq9qGjFNU49BS3MKgz) | 2:41 |
 | 207 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 |

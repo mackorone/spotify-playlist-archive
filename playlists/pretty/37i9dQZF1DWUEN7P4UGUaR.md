@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Celestine Donkor
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,004 likes - 50 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,009 likes - 50 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 24 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 25 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 26 | [Come and See \(Remix\)](https://open.spotify.com/track/15D677rtBhHsiLiva3Wjv3) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Afiba](https://open.spotify.com/artist/1eKnW8PmxRivaPkqgYinPz), [KWAKU HYDRO](https://open.spotify.com/artist/543kVDVPx8oHgDdbPs7Yjm) | [Come and See \(Remix\)](https://open.spotify.com/album/5aZIYtIubUJiX5GkqRgDNu) | 3:15 |
-| 27 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 |
+| 27 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
 | 28 | [FAKY3 ME](https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr), [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [FAKY3 ME](https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT) | 5:11 |
-| 29 | [Awurade Ye](https://open.spotify.com/track/6Wmjp0UJ8KSKus3flNInST) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 4:24 |
+| 29 | [Atɛɛne \- Overturned](https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Atɛɛne \(Overturned\)](https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju) | 4:38 |
 | 30 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 |
 | 31 | [Aseda](https://open.spotify.com/track/7AIplY4MAG0TBQMTeQkHuH) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Keteke](https://open.spotify.com/album/7997TGx8F6QVwHdpYcV8hO) | 3:47 |
 | 32 | [You Saved Me](https://open.spotify.com/track/3F8n9EaoR8j0PWdCA5S51O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [God Reigns](https://open.spotify.com/album/5LJZt7IPdGdbJbYKTcj5YN) | 3:12 |

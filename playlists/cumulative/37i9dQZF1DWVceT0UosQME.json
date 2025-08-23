@@ -1363,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "By The Lake",
+        "url": "https://open.spotify.com/album/5g6ci06rDqKFW03q30m2iS"
+      },
+      "artists": [
+        {
+          "name": "Red Cedar",
+          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129047,
+      "name": "By The Lake",
+      "url": "https://open.spotify.com/track/5pf8OQ19OvfPxhGuLpokXQ"
+    },
+    {
+      "album": {
         "name": "BYOB",
         "url": "https://open.spotify.com/album/2hNLrMtLEItUDn4vnkLbPH"
       },
@@ -4526,7 +4544,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 132672,
       "name": "Imprints",
       "url": "https://open.spotify.com/track/1AjpbQ4hxw2LNy7QOJKxZh"
@@ -5686,6 +5704,24 @@
       "duration_ms": 137834,
       "name": "Lounge Pony",
       "url": "https://open.spotify.com/track/15YqQldesDAP9s43MzFk3q"
+    },
+    {
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI"
     },
     {
       "album": {
@@ -9902,7 +9938,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 160112,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/1NYYl3iu6mMt8yEWaN7GLX"

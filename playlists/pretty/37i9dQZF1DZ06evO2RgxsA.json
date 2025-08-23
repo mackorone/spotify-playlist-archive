@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 92159,
+  "num_followers": 92158,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABHry2CFh4UmbFkR2abke3W",
+  "snapshot_id": "aKZhgAAAAAAmtKnk8zukMX/9wHhAPWUi",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Long & Thanks For All The Shoes",
-        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 112493,
-      "name": "All Outta Angst",
-      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "The Separation of Church and Skate",
-      "url": "https://open.spotify.com/track/4J4mHxR63tRwRCtuAB7aG8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -132,9 +116,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 80800,
-      "name": "It's My Job To Keep Punk Rock Elite",
-      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Idiots Are Taking Over",
-      "url": "https://open.spotify.com/track/4EUAdFODgiLjf1QNDq122f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Long & Thanks For All The Shoes",
         "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
       },
@@ -196,25 +180,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 54600,
-      "name": "Monosyllabic Girl",
-      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "The Brews",
-      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
     },
     {
       "added_at": null,
@@ -231,6 +199,22 @@
       "duration_ms": 136666,
       "name": "Please Play This Song On The Radio",
       "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 160706,
+      "name": "The Brews",
+      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
     },
     {
       "added_at": null,
@@ -260,25 +244,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 136800,
-      "name": "Kids Of The K-Hole",
-      "url": "https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Lori Meyers",
-      "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
     },
     {
       "added_at": null,
@@ -295,6 +263,22 @@
       "duration_ms": 140333,
       "name": "Bottles To The Ground",
       "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Lori Meyers",
+      "url": "https://open.spotify.com/track/1BqrOpxmeKJG5uzewLFpv2"
     },
     {
       "added_at": null,
@@ -324,25 +308,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 45960,
-      "name": "Murder The Government",
-      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 126026,
-      "name": "Perfect Government",
-      "url": "https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb"
+      "duration_ms": 136800,
+      "name": "Kids Of The K-Hole",
+      "url": "https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk"
     },
     {
       "added_at": null,
@@ -359,6 +327,22 @@
       "duration_ms": 190200,
       "name": "Philthy Phil Philanthropist",
       "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 126026,
+      "name": "Perfect Government",
+      "url": "https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb"
     },
     {
       "added_at": null,
@@ -388,25 +372,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Eat The Meek",
-      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Trash, Two Heebs and a Bean",
-        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 142466,
-      "name": "Liza And Louise",
-      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+      "duration_ms": 45960,
+      "name": "Murder The Government",
+      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
     },
     {
       "added_at": null,
@@ -427,6 +395,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 92106,
+      "name": "Six Years on Dope",
+      "url": "https://open.spotify.com/track/1pMMLyJ1HNugJGnBwJGUL5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 142466,
+      "name": "Liza And Louise",
+      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Eat The Meek",
+      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ribbed",
         "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
       },
@@ -443,24 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "72 Hookers",
-      "url": "https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
+        "url": "https://open.spotify.com/album/6MsmOTvTocDVQqc68Gj7Pj"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 92106,
-      "name": "Six Years on Dope",
-      "url": "https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW"
+      "duration_ms": 150053,
+      "name": "I Don't Like Me Anymore",
+      "url": "https://open.spotify.com/track/6Ss3Tf53cyFh08IPp3eJRg"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2tM0bbnz85cOOI66j83Dhb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ribbed",
         "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
       },
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Entitled",
-        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
       },
       "artists": [
         {
@@ -516,41 +532,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 122746,
-      "name": "Cell Out",
-      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "First Ditch Effort",
-        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "I Don't Like Me Anymore",
-      "url": "https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 78800,
-      "name": "The Man I Killed",
-      "url": "https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd"
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/48GR6HX0RKUTooPbdLoxhM"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/1Kqfwjka2M3v3oJY9ZAezA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Longest EP",
         "url": "https://open.spotify.com/album/2PxPjYo7QT9Utmz0seSLjW"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 30880,
       "name": "I Wanna Be an Alcoholic",
       "url": "https://open.spotify.com/track/6k4uZukGqY0TyQ2CxkeYGz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
-        "url": "https://open.spotify.com/album/4uVWzS36kkWNFOXUjSym8g"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 138840,
-      "name": "Drugs Are Good",
-      "url": "https://open.spotify.com/track/4UxguRE3pCAET6BianBp4F"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 78800,
+      "name": "The Man I Killed",
+      "url": "https://open.spotify.com/track/0gbOhXBSBgFdPZTWLwwrJg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coaster",
         "url": "https://open.spotify.com/album/7deus9DeM8knVT2IrUdUcg"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 111960,
       "name": "The Quitter",
       "url": "https://open.spotify.com/track/0MKO5Cacju1WQHnoXugPiC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Leaving Jesusland",
-      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
     },
     {
       "added_at": null,
@@ -699,38 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decline",
-        "url": "https://open.spotify.com/album/0LW2FwC8ay4hXNDzaw7jWY"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 1101773,
-      "name": "The Decline",
-      "url": "https://open.spotify.com/track/2Wm84PF0DHyRQx79Lj9NwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Longest Line",
-        "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 124026,
-      "name": "The Longest Line",
-      "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wolves in Wolves' Clothing",
         "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
@@ -740,9 +692,25 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 145360,
-      "name": "60%",
-      "url": "https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9"
+      "duration_ms": 174226,
+      "name": "Leaving Jesusland",
+      "url": "https://open.spotify.com/track/7KFKekUmBedCbqUYjrhHyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/6jKQuMZAUduiiBYspgmpZO"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/76ePTtXUWNxPzip6pTt69O"
     },
     {
       "added_at": null,
@@ -764,7 +732,7 @@
       "added_at": null,
       "album": {
         "name": "War on Errorism",
-        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -774,13 +742,13 @@
       ],
       "duration_ms": 152066,
       "name": "The Irrationality of Rationality",
-      "url": "https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj"
+      "url": "https://open.spotify.com/track/6JcL46OffqgYlKLUNWiPXd"
     },
     {
       "added_at": null,
       "album": {
         "name": "Wolves in Wolves' Clothing",
-        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
       },
       "artists": [
         {
@@ -790,7 +758,23 @@
       ],
       "duration_ms": 133933,
       "name": "Usa-Holes",
-      "url": "https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b"
+      "url": "https://open.spotify.com/track/0gUW2Sm7q4BiSLVVqNJiWl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3H618drWSXnMvmIvVNi6mg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 145360,
+      "name": "60%",
+      "url": "https://open.spotify.com/track/4niJIxd3BEuMXMEHRtorO9"
     }
   ],
   "unique_name": "This Is NOFX",

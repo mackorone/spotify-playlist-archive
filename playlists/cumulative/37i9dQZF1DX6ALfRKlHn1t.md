@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-361 songs - 20 hr 22 min
+362 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Only the Wild Ones](https://open.spotify.com/track/2acbW2I3x82OmRfKdV4hZq) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Only the Wild Ones](https://open.spotify.com/album/1j8RzcdyqwVeY0GYcM1RuT) | 4:13 | 2021-03-24 | 2022-07-29 |
 | [Only the Wild Ones](https://open.spotify.com/track/3LwjMORRPuf7j7WiFHW350) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw) | 4:13 | 2022-10-07 | 2024-04-19 |
 | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/track/23aw0goM4v4fmIzA8AaBgo) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Other Side \(feat\. Charlotte Sands\)](https://open.spotify.com/album/7fN1RNlLuPuOjEl4tJW2PP) | 3:17 | 2024-06-21 | 2024-06-23 |
-| [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2023-05-05 |  |
+| [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2023-05-05 | 2025-08-23 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-03-14 | 2023-08-12 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-05-31 | 2024-04-19 |
 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 | 2022-06-24 | 2023-03-15 |
@@ -361,6 +361,7 @@
 | [Where I'm Going](https://open.spotify.com/track/38r2iSNTTK1hsBdrLXAY8I) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc) | [Where I'm Going](https://open.spotify.com/album/6lRVMQtYKpkMIeitaxqFQS) | 3:48 | 2024-07-26 |  |
 | [Wherever You Go](https://open.spotify.com/track/38GuP87aSI8phjYj7TzZK8) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Sirens](https://open.spotify.com/album/61BsnCrEb7zeRowWTFP4zC) | 3:31 | 2022-06-24 | 2023-05-06 |
 | [Wherever You Go](https://open.spotify.com/track/4tRE4gy0sj65IBRvMOumfr) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wherever You Go \- Single](https://open.spotify.com/album/3iY9JmzInF273jVt2CL1Ou) | 3:31 | 2021-03-24 | 2022-07-29 |
+| [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-22 |  |
 | [Why is everyone a DJ?](https://open.spotify.com/track/3y3JcY50HJob6QfkGz66ti) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Why is everyone a DJ?](https://open.spotify.com/album/3yscJ56s1RNgZSZngqDBNa) | 2:28 | 2024-06-07 | 2024-06-22 |
 | [Wicked Heart](https://open.spotify.com/track/6dqLKzSb6PBqMHAs8PhySK) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Wicked Heart](https://open.spotify.com/album/6248uTiCGShjuOPDeUkDU1) | 3:18 | 2021-03-24 | 2022-07-29 |
 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 | 2021-03-24 | 2024-06-08 |

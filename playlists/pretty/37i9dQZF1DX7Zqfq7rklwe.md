@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,470 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,478 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 79 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 |
 | 80 | [The Ring](https://open.spotify.com/track/3zEcOUkZuXfM9UBjEuyOxJ) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Ring](https://open.spotify.com/album/7JahzP1AdsdKlspPFNedVT) | 5:35 |
 
-Snapshot ID: `AAAAACTrat+yU6ByM34Hce3+iQhAqkRA`
+Snapshot ID: `AAAAAD8iYGWc4WVhNVeIg1aZ/DGtyjS+`

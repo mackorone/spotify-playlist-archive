@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: TVORCHI & The Maneken
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,872 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,880 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Одіссея](https://open.spotify.com/track/2vj3T8bFc0YGgv4Sut9eSS) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Одіссея](https://open.spotify.com/album/6Z1HGWBLIJaE5EluFv7rcd) | 3:53 |
-| 2 | [MINE](https://open.spotify.com/track/5VGwXtLOgMWnAwDPf3enFT) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [MINE](https://open.spotify.com/album/34ePrRcSKMbg0oshvKitV3) | 2:52 |
+| 2 | [](https://open.spotify.com/track/5VGwXtLOgMWnAwDPf3enFT) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/34ePrRcSKMbg0oshvKitV3) | 0:00 |
 | 3 | [DayaDaya](https://open.spotify.com/track/6QOArQczi6jwG9JfzOAkvG) | [GRISANA](https://open.spotify.com/artist/3EO10LHXB2cF79P8rYAVHz) | [DayaDaya](https://open.spotify.com/album/13zd2zdruviIwNQALmjIgB) | 2:53 |
 | 4 | [Наелектризована](https://open.spotify.com/track/2bpmPhRX5OCvn7vtV4GJH2) | [LAUD](https://open.spotify.com/artist/5SFA8vO07EK8SGJVdr9mX6) | [Наелектризована](https://open.spotify.com/album/4fhEGt4fOobPmROeLmKfs0) | 3:42 |
 | 5 | [Хай світ пам'ятає](https://open.spotify.com/track/2PFqarrECupnFNMgi6Poxx) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [Хай світ пам'ятає](https://open.spotify.com/album/1qSWnFJi2lRfsaAYhKK4qh) | 3:40 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 61 | [Voices](https://open.spotify.com/track/2qMDLvoWC6qZMjNhGc9V8j) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Voices](https://open.spotify.com/album/52Dzsy8FeJLPEsT3lqPZ2r) | 3:32 |
 | 62 | [Younger And Hotter Than Me](https://open.spotify.com/track/4XKCwXacGJ0Am1s7oD2rDM) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 3:09 |
 | 63 | [Грушка](https://open.spotify.com/track/3nGKzV2k4C3BcbLxeydqHr) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Грушка](https://open.spotify.com/album/387Yb2P64xMmoqQnGaYE6g) | 2:57 |
-| 64 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
-| 65 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 |
+| 64 | [Smoking Cherry](https://open.spotify.com/track/5hmQADC08TeCTQaeKhltnY) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Smoking Cherry](https://open.spotify.com/album/7hMpzKT3n8J30U8aClUan8) | 4:40 |
+| 65 | [Акація](https://open.spotify.com/track/6LP6fWSZmvXcd27Yv2pz9u) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7), [paashee](https://open.spotify.com/artist/2EuvNknH6K6WfgKUPMmfzB) | [Акація](https://open.spotify.com/album/5JMePmIFy40w6rX3rgh4Vk) | 2:45 |
 | 66 | [Мила моя](https://open.spotify.com/track/4gmYoD8EB3ATqJJHuj354Q) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Мила моя](https://open.spotify.com/album/0n4s3uO21LE59oTzMCoQ3x) | 2:58 |
 | 67 | [Додайте світла](https://open.spotify.com/track/4nvPpWu7S4ZBaOVHMQUaSY) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Додайте світла](https://open.spotify.com/album/59Lgs0uSPgh4fHFLjNG4yb) | 2:32 |
 | 68 | [Walk of Fame \(feat\. Brittany Howard\) \- Edit](https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Walk of Fame \(feat\. Brittany Howard\) \[Edit\]](https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26) | 3:37 |

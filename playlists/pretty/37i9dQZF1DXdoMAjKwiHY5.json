@@ -1,13 +1,29 @@
 {
   "description": "Got Fray-fever? Or craving some DeGraw-delights? Board the Train-train and enjoy these pop/rock favorites. Cover: Counting Crows",
-  "num_followers": 26338,
+  "num_followers": 26358,
   "original_name": "Jupiter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOA552830rdFHBZuJAFTuaBgpraZ",
+  "snapshot_id": "AAAAAAQ+GHFSA4cBFmQpNn+9/cxQog/H",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:20",
+      "album": {
+        "name": "Summer Anthem",
+        "url": "https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl"
+    },
     {
       "added_at": "2025-08-01 04:00:31",
       "album": {

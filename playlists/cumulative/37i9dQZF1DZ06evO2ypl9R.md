@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-61 songs - 5 hr 28 min
+62 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Bag Of Filters](https://open.spotify.com/track/7cLAZXxyRgQRGv4l2GOKfu) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 5:46 | 2025-06-28 |  |
 | [Booty Call](https://open.spotify.com/track/1y6b8HsrCsdUDmoMcnggfU) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Spectrum](https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5) | 4:35 | 2025-06-28 |  |
 | [Brand New Feeling \- Yoruba Soul Mix Part 2 Edit](https://open.spotify.com/track/7hEOBK13E4307YEaQFyWRQ) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy), [Sylvia Cox](https://open.spotify.com/artist/1oEFoNbrqTYuHrmBVaKSSl) | [Brand New Feeling \(Yoruba Soul Mix Part 2 Edit\)](https://open.spotify.com/album/3Avh7w1evREcin2NEj75JG) | 6:29 | 2025-08-03 |  |
-| [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 | 2025-06-29 |  |
+| [Build a Fire](https://open.spotify.com/track/1mq79cmhhp0bvnOmF8Blb8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Iamone](https://open.spotify.com/album/0aT3Nsxp2VzA8vCGaSOhU1) | 1:49 | 2025-06-29 | 2025-08-23 |
 | [Cantos a Ochun et Oya \- Juan Valentine Re\-Edit](https://open.spotify.com/track/7CmRM4JiOswdLdF28NyajZ) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Frankie Feliciano](https://open.spotify.com/artist/5KjteRQRJaHk16aYeZ08Ej), [Juan Valentine](https://open.spotify.com/artist/3GDUvKkbqtscZQHS8Zrzni) | [Cantos A Ochun et Oya \[Juan Valentine ReEdit\]](https://open.spotify.com/album/6k6ANYZCzmhF4KyKxUsPMx) | 7:05 | 2025-08-11 | 2025-08-16 |
 | [Chocolate Puddin' \- FNX Omar Remix](https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Chocolate Puddin'](https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7) | 6:28 | 2025-06-28 |  |
 | [Cosmic Signs](https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dedication EP](https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX) | 3:13 | 2025-06-28 |  |
@@ -49,6 +49,7 @@
 | [MOSS Pt\. 3 \(My Luva\)](https://open.spotify.com/track/3M71L3e1y6Xps6ojwlPLM2) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p) | 4:23 | 2025-07-02 | 2025-08-22 |
 | [My Reflection](https://open.spotify.com/track/1vQstVQMpgM26zzHUyoDTA) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Elements Beyond](https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw) | 5:24 | 2025-06-28 |  |
 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 | 2025-06-28 |  |
+| [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 | 2025-08-23 |  |
 | [Plantation Earth](https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
 | [Pride \(Main Mix\)](https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68) | 6:28 | 2025-06-28 |  |
 | [Put It On \- Osunlade Club Mix](https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Ernesto](https://open.spotify.com/artist/1whoHyyDCn7LqwFWdJjyqg) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:52 | 2025-07-02 | 2025-07-06 |

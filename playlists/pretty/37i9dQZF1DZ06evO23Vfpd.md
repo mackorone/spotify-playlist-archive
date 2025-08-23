@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,731 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,804 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 31 | [Joan Jett](https://open.spotify.com/track/4JJVcjQ4G6F76QUYxqlpN3) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Joan Jett](https://open.spotify.com/album/14LGfuq3keIxyKIJYQIPWT) | 4:06 |
 | 32 | [Winning Streak](https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:18 |
 | 33 | [Prosperity](https://open.spotify.com/track/52kH4nX8l9DTAJquoINEEy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Prosperity](https://open.spotify.com/album/25Ucx9hKJeVhaIfArtXSzE) | 3:17 |
-| 34 | [Cabelas](https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cabelas](https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61) | 2:57 |
-| 35 | [More](https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [More](https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM) | 3:06 |
+| 34 | [More](https://open.spotify.com/track/05GtboKWbu2zaFxbXXgBwc) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [More](https://open.spotify.com/album/6AvBRLME0mpHvd3p46mXyM) | 3:06 |
+| 35 | [Cabelas](https://open.spotify.com/track/6aie8HuaamfjCSN9VYiME8) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cabelas](https://open.spotify.com/album/3DNUZDqY1l72DNWMqtyD61) | 2:57 |
 | 36 | [Warped Tour](https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:55 |
 | 37 | [Starfoxx](https://open.spotify.com/track/26ripkMj3zMuzvXUFba7Ig) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Starfoxx](https://open.spotify.com/album/58SxzTBJiPqZyb3x4xRQeK) | 3:55 |
 | 38 | [Break The Band \(How Could She?\)](https://open.spotify.com/track/75cZzuektUsBvLW18rHGjx) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Break The Band \(How Could She?\)](https://open.spotify.com/album/2aCy1LOLEJB5snKIuSb16p) | 2:33 |
 | 39 | [Dream](https://open.spotify.com/track/0mi0iUFpptiGoLtgOEiN0h) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:34 |
 | 40 | [Left Behind](https://open.spotify.com/track/4bFflU4kadtLgGwIOAnQau) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 4:27 |
 
-Snapshot ID: `aKO+gAAAAAAXkEKyKfqluDPCxqJ7MET3`
+Snapshot ID: `aKZhgAAAAAB1mubQDZQkQUpLrGeMm6Hu`

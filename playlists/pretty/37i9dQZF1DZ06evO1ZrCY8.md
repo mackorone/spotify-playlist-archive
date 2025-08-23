@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,649 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,681 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 8 | [La sirena varada](https://open.spotify.com/track/185xDOLU8KPZKqhUICnjRz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu Del Vino\- Edición Especial](https://open.spotify.com/album/1HL69BuLCP5QTfz6pE0Qg3) | 4:17 |
 | 9 | [Malas intenciones](https://open.spotify.com/track/40FYFRru7SwWt61q6OEUjK) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 3:49 |
 | 10 | [Deshacer el mundo](https://open.spotify.com/track/3ZNs9tTAIX7gzA0G7TUTKr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 4:47 |
-| 11 | [Opio](https://open.spotify.com/track/1OEwlQgfS6Jwfwl9LwI4uj) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 6:18 |
-| 12 | [Oración](https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 4:08 |
+| 11 | [Oración](https://open.spotify.com/track/2y2EIt9PIGMXcxufDBkU9v) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición \- Edición Especial](https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y) | 4:08 |
+| 12 | [Opio](https://open.spotify.com/track/1OEwlQgfS6Jwfwl9LwI4uj) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 6:18 |
 | 13 | [Hechizo](https://open.spotify.com/track/4IIXnqZUndaRlMwomxZwIr) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Senderos De Traición](https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg) | 4:36 |
 | 14 | [El estanque \- Live](https://open.spotify.com/track/2vrVlidqD4TPASvwqlBztv) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 4:40 |
 | 15 | [Flor venenosa](https://open.spotify.com/track/2pCDBt25PUzgxAiWgjJ7kS) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa\- Edición Especial](https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y) | 4:08 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 28 | [Hace tiempo](https://open.spotify.com/track/0oEvR5rjD0MccE7eJBiYTs) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 4:29 |
 | 29 | [Flor de loto](https://open.spotify.com/track/7A0ssOm7kMkPlLPHWpaPUQ) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 6:19 |
 | 30 | [La apariencia no es sincera \- 1012 \- Remaster](https://open.spotify.com/track/0Fp4viDIGICGB3aRYP5yWo) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 7:02 |
-| 31 | [La espuma de Venus](https://open.spotify.com/track/2lZ0yhSadIy79IP5EDjMe2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:16 |
-| 32 | [El mar no cesa \- Live](https://open.spotify.com/track/08v40ca902gDGV6HAymDqn) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:17 |
+| 31 | [El mar no cesa \- Live](https://open.spotify.com/track/08v40ca902gDGV6HAymDqn) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 3:17 |
+| 32 | [La espuma de Venus](https://open.spotify.com/track/2lZ0yhSadIy79IP5EDjMe2) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 6:16 |
 | 33 | [Iberia sumergida](https://open.spotify.com/track/2PKhVCRILDBc7HYSIT9v0u) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [The Platinum Collection](https://open.spotify.com/album/6EdwaXDANI01KsWzOyLFt3) | 5:21 |
 | 34 | [Bendecida 2 \- 2012 Remastered Version](https://open.spotify.com/track/4J0HROC9pT8Wdahp2M6gHO) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Espíritu del Vino\-20th Anniversary Edition](https://open.spotify.com/album/46OqhyoVeC27eY4keJehHa) | 0:36 |
 | 35 | [...16](https://open.spotify.com/track/3iWYIYKVgcG7sfGqXwy1ZH) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [El Mar No Cesa](https://open.spotify.com/album/3qnbkXzDzbClaESvDYeEnq) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [Juan Valdivia y Entre dos tierras \- Interludio](https://open.spotify.com/track/4wkROZAHQ0E8L71rnbtlPz) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Héroes: Silencio y Rock & Roll](https://open.spotify.com/album/6c3S9kBmbQJ50qQRwKuYuV) | 0:39 |
 | 50 | [Derivas](https://open.spotify.com/track/0hPi8XhV0LpONFo1u4YK8D) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 1:00 |
 
-Snapshot ID: `aKO+gAAAAABSAtjw8A+We9+rBb5+9Gv2`
+Snapshot ID: `aKZhgAAAAAAupUXNSmsKom1PQPLbomSl`

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Wolf Alice
 
-1,675 songs - 4 day 0 hr 39 min
+1,677 songs - 4 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-14 | 2023-04-28 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-17 | 2025-04-19 |
+| [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-21 |  |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-19 | 2024-01-19 |
 | [Antidote](https://open.spotify.com/track/2xU2W9p3gi9ZyX0L7rBF0F) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/5LlPRkM2T4UK4INb33AhhV) | 1:49 | 2023-12-14 | 2023-12-17 |
 | [Antidote](https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Antidote](https://open.spotify.com/album/3tpdQGlDN7S3lGfDqrVaYk) | 1:49 | 2023-12-14 | 2023-12-22 |
@@ -1152,6 +1153,7 @@
 | [pretty good for a bad day](https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [Alex Gaskarth](https://open.spotify.com/artist/5X0hXpGcJDZiGTpnGPWEm5) | [pretty good for a bad day](https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r) | 3:15 | 2023-12-14 | 2023-12-22 |
 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 | 2023-04-27 | 2023-05-05 |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-19 | 2023-11-03 |
+| [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 | 2025-08-21 |  |
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-05-30 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |
@@ -1254,7 +1256,7 @@
 | [Settle Petal](https://open.spotify.com/track/6bChyygWt38QX2rOuPNzvw) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Settle Petal](https://open.spotify.com/album/15sV58RWILYvlgPXkOOTfy) | 3:06 | 2023-11-23 | 2023-12-01 |
 | [Seven Out](https://open.spotify.com/track/6Mt6czdOmbc2vheLs4HDI4) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Seven Out](https://open.spotify.com/album/4Qc5eqPw7BSQdoqyT3LSo5) | 2:56 | 2024-01-11 | 2024-01-19 |
 | [Shadow in the Sun](https://open.spotify.com/track/6xaMXvpkmVow1RAinlthUT) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Shadow in the Sun](https://open.spotify.com/album/5dVfRPlgjkkI1bBIvhzMEO) | 3:11 | 2024-02-29 | 2024-07-27 |
-| [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-08-01 |  |
+| [SHALLOW](https://open.spotify.com/track/55h5xNwW8na2bHKlZUfHh7) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Shallow](https://open.spotify.com/album/6Cor4gZH5ANpH8OSuyH3a3) | 3:29 | 2024-08-01 | 2025-08-23 |
 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 | 2023-11-23 | 2023-12-01 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2023-03-16 | 2023-04-28 |
 | [She Loves You \- 2023 Mix](https://open.spotify.com/track/01K1zFyjJhG2Qk7PIkSAEA) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1962 – 1966 \(2023 Edition\)](https://open.spotify.com/album/39Ti6Be9Ak2d6YbxlQo0Ba) | 2:22 | 2023-11-09 | 2023-11-24 |
@@ -1595,7 +1597,7 @@
 | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/track/4OfaKFkToxzzi2G5MwYsyZ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [We’re Not In Love Anymore \(feat\. Charlotte Sands\)](https://open.spotify.com/album/0gW6CulhLzMtnZ5wbt2AfW) | 2:50 | 2023-08-17 | 2023-08-25 |
 | [WHAT A VIBE](https://open.spotify.com/track/2KX9MYhJIEnMxwk4e7e1nd) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [8 STRAIGHT](https://open.spotify.com/album/0uRTvsBQIiW5inVvIwzHPU) | 3:52 | 2023-04-13 | 2023-04-21 |
 | [What Am I Missing?](https://open.spotify.com/track/1UhP3hxXqqKwrOedzSKFfE) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [What Am I Missing?](https://open.spotify.com/album/4fYbhT0Rz9HTWM2u5XoxDg) | 2:52 | 2023-04-27 | 2023-05-26 |
-| [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 | 2025-07-31 |  |
+| [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 | 2025-07-31 | 2025-08-23 |
 | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/track/1na4kP9vFyaXHq8ZOGOC16) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [What Doesn't Kill You Makes You Paranoid](https://open.spotify.com/album/6XAKGZmFNNij9L9dYTAznJ) | 3:51 | 2023-08-24 | 2023-09-01 |
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-05-02 | 2024-06-07 |
 | [What's Love Got To Do With It](https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [What's Love Got To Do With It](https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ) | 3:19 | 2023-06-08 | 2023-06-16 |

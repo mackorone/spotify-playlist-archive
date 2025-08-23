@@ -1,6 +1,6 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Kybba, Ryan Castro, Busy Signal",
-  "num_followers": 472183,
+  "num_followers": 472190,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "Dream Girl (Remix)",
+        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 192452,
+      "name": "Dream Girl - Remix",
+      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "La Jeepeta (Remix)",
         "url": "https://open.spotify.com/album/5emzM1P5GGeroiivNQgCq4"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Dream Girl (Remix)",
-        "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 192452,
-      "name": "Dream Girl - Remix",
-      "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1311,42 +1311,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 377580,
-      "name": "M\u00edrame - Remix",
-      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -1383,6 +1347,42 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 377580,
+      "name": "M\u00edrame - Remix",
+      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
+        "name": "Frente al Mar (Ozuna Remix)",
+        "url": "https://open.spotify.com/album/1ZDgXBIziCIo2RarcIeM7Y"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 196280,
+      "name": "Frente al Mar - Ozuna Remix",
+      "url": "https://open.spotify.com/track/1gFri8sTiJFOBK8tlLck43"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
         "name": "Esta Cabron (Remix) [feat. Anuel Aa, Yomo, Pusho, Almighty, D.Ozi & Jamby \"El Favo\"]",
         "url": "https://open.spotify.com/album/2xzISXCrWUEEmQDMV7W9U0"
       },
@@ -1491,26 +1511,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Frente al Mar (Ozuna Remix)",
-        "url": "https://open.spotify.com/album/1ZDgXBIziCIo2RarcIeM7Y"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 196280,
-      "name": "Frente al Mar - Ozuna Remix",
-      "url": "https://open.spotify.com/track/1gFri8sTiJFOBK8tlLck43"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Flow 2000 (Remix)",
+        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "duration_ms": 168520,
+      "name": "Flow 2000 - Remix",
+      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1575,26 +1595,6 @@
       "duration_ms": 332820,
       "name": "Tranquilo (Remix Oficial) feat. Kris R., iZaak",
       "url": "https://open.spotify.com/track/0J2sWV6wNwKvSoaadiZ5LK"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
-        "name": "Flow 2000 (Remix)",
-        "url": "https://open.spotify.com/album/0GvicNh2GpPbgmGVRDWjEU"
-      },
-      "artists": [
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        },
-        {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Flow 2000 - Remix",
-      "url": "https://open.spotify.com/track/7fRtruULHGuwC0wNRx1HSa"
     },
     {
       "added_at": "2025-07-31 00:00:34",
@@ -1675,38 +1675,6 @@
     {
       "added_at": "2025-07-31 00:00:34",
       "album": {
-        "name": "Marisola (Remix)",
-        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
-      },
-      "artists": [
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
-        }
-      ],
-      "duration_ms": 237473,
-      "name": "Marisola - Remix",
-      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
-    },
-    {
-      "added_at": "2025-07-31 00:00:34",
-      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -1751,6 +1719,38 @@
       "duration_ms": 240000,
       "name": "No Podemos - Remix",
       "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
+    },
+    {
+      "added_at": "2025-07-31 00:00:34",
+      "album": {
+        "name": "Marisola (Remix)",
+        "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "Marisola - Remix",
+      "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
     },
     {
       "added_at": "2025-07-31 00:00:34",

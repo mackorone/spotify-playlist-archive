@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 117505,
+  "num_followers": 117530,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-06-23 14:31:20",
       "album": {
-        "name": "Birthing",
-        "url": "https://open.spotify.com/album/3Yz6MpVM993PWHOEQLCXh5"
-      },
-      "artists": [
-        {
-          "name": "Swans",
-          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
-        }
-      ],
-      "duration_ms": 411135,
-      "name": "Red Yellow",
-      "url": "https://open.spotify.com/track/2aRL4MQjSefZIWBmeW926k"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
         "name": "James",
         "url": "https://open.spotify.com/album/7mHPviR5lgsokoGd2JxM2z"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 354066,
       "name": "The First Glimmer of Wind",
       "url": "https://open.spotify.com/track/0kQ1OXxdNx2mJfphbZ3K0c"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
+        "name": "Birthing",
+        "url": "https://open.spotify.com/album/3Yz6MpVM993PWHOEQLCXh5"
+      },
+      "artists": [
+        {
+          "name": "Swans",
+          "url": "https://open.spotify.com/artist/79S80ZWgVhIPMCHuvl6SkA"
+        }
+      ],
+      "duration_ms": 411135,
+      "name": "Red Yellow",
+      "url": "https://open.spotify.com/track/2aRL4MQjSefZIWBmeW926k"
     },
     {
       "added_at": "2025-06-23 14:31:20",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-06-23 14:31:20",
       "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 209115,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
         "name": "Those Winter Sundays",
         "url": "https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 229333,
       "name": "Those Winter Sundays",
       "url": "https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 209115,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
     },
     {
       "added_at": "2025-06-23 14:31:20",
@@ -787,38 +787,6 @@
     {
       "added_at": "2025-06-23 14:31:20",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
-        "name": "Love in the Void",
-        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 392374,
-      "name": "I Would Stare into the Sun with You Forever",
-      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 228973,
       "name": "Farewell, Stars - The American Dollar Rework",
       "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
+        "name": "Love in the Void",
+        "url": "https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 392374,
+      "name": "I Would Stare into the Sun with You Forever",
+      "url": "https://open.spotify.com/track/4KS0VLY87D2eHBhuvYoUDc"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2025-06-23 14:31:20",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2025-06-23 14:31:20",
       "album": {
+        "name": "Momentary Ghosts",
+        "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "bu.re_",
+          "url": "https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "A Letter from the Past",
+      "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
         "name": "Pearldiving",
         "url": "https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 235213,
       "name": "Abell 1835",
       "url": "https://open.spotify.com/track/7r2tHb7QeJVe04dV93tw26"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
-        "name": "Momentary Ghosts",
-        "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ferreira",
-          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
-        },
-        {
-          "name": "bu.re_",
-          "url": "https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "A Letter from the Past",
-      "url": "https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk"
     },
     {
       "added_at": "2025-06-23 14:31:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-06-23 14:31:20",
       "album": {
-        "name": "Lakeshore",
-        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
-      },
-      "artists": [
-        {
-          "name": "Lost Horse Mine",
-          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
-        }
-      ],
-      "duration_ms": 164589,
-      "name": "Lakeshore",
-      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
         "name": "Floating Above Saturn",
         "url": "https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 137986,
       "name": "Floating Above Saturn",
       "url": "https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
+        "name": "Lakeshore",
+        "url": "https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM"
+      },
+      "artists": [
+        {
+          "name": "Lost Horse Mine",
+          "url": "https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV"
+        }
+      ],
+      "duration_ms": 164589,
+      "name": "Lakeshore",
+      "url": "https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc"
     },
     {
       "added_at": "2025-06-23 14:31:20",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-06-23 14:31:20",
       "album": {
-        "name": "The Skyline EP",
-        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
-      },
-      "artists": [
-        {
-          "name": "Stubbleman",
-          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
-        }
-      ],
-      "duration_ms": 270962,
-      "name": "Skyline Drive",
-      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
-    },
-    {
-      "added_at": "2025-06-23 14:31:20",
-      "album": {
         "name": "The World Is A House On Fire",
         "url": "https://open.spotify.com/album/2AL66SHj3D8IZD6RrjHh2J"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 405400,
       "name": "Out of It",
       "url": "https://open.spotify.com/track/3BbU4k2CFvzpG7BNQlwnmR"
+    },
+    {
+      "added_at": "2025-06-23 14:31:20",
+      "album": {
+        "name": "The Skyline EP",
+        "url": "https://open.spotify.com/album/1ytb7WT8k3J4kNVlPWYtPB"
+      },
+      "artists": [
+        {
+          "name": "Stubbleman",
+          "url": "https://open.spotify.com/artist/0Fu1gmQ4PZ1S5anr0l2Cov"
+        }
+      ],
+      "duration_ms": 270962,
+      "name": "Skyline Drive",
+      "url": "https://open.spotify.com/track/4WQAWGhJB358e9g4wTS3pI"
     },
     {
       "added_at": "2025-06-23 14:31:20",

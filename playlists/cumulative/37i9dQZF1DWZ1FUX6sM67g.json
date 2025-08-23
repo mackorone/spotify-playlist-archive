@@ -1889,6 +1889,28 @@
     },
     {
       "album": {
+        "name": "Enamorarte Mil Veces",
+        "url": "https://open.spotify.com/album/6dV0Zc2j7ZcxP4vukqmvxj"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171943,
+      "name": "Enamorarte Mil Veces",
+      "url": "https://open.spotify.com/track/1XmJsXTKeaw51buHrbaqDM"
+    },
+    {
+      "album": {
         "name": "Enhorabuena",
         "url": "https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo"
       },
@@ -3092,7 +3114,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 264266,
       "name": "Necio (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"

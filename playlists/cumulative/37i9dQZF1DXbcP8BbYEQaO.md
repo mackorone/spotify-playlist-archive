@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-778 songs - 1 day 19 hr 39 min
+779 songs - 1 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Ghost](https://open.spotify.com/track/4mUV6ibaOhrkYNxFT0bSuL) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Ghost \- EP](https://open.spotify.com/album/4xRU1l0o51zNmeTPqFuVRB) | 3:04 | 2021-12-31 | 2022-03-12 |
 | [ghostin](https://open.spotify.com/track/2vdBo4ALPYbHRUPKgtE5iC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 4:31 | 2020-10-13\* | 2021-06-19 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 | 2024-12-14 |
-| [Gimmicks](https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Gimmicks](https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV) | 3:17 | 2025-05-31 |  |
+| [Gimmicks](https://open.spotify.com/track/4bjE1oWu9t5C2IbGXVxmnU) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Gimmicks](https://open.spotify.com/album/3vfHStBRAhSVSSCK92TwfV) | 3:17 | 2025-05-31 | 2025-08-23 |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-04 | 2023-09-30 |
 | [Girl, so confusing](https://open.spotify.com/track/41krZZovstMJKeJZJtbL78) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:54 | 2024-06-07 | 2024-07-13 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-04-17 |
@@ -759,6 +759,7 @@
 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 | 2022-05-27 | 2024-07-19 |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2020-10-13\* | 2021-07-10 |
 | [Where U Belong](https://open.spotify.com/track/2myef7k6ycOeDwRuC9pAGc) | [Midsplit](https://open.spotify.com/artist/5FDIxEGRvg8QrMoNr9BoFl), [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Where U Belong](https://open.spotify.com/album/0RicE717prGI2LHVBrQEod) | 3:58 | 2020-11-18 | 2021-07-10 |
+| [Whiplash](https://open.spotify.com/track/1MAPgk3yv5Oft9A3opmFKt) | [EMMMA](https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd) | [Whiplash](https://open.spotify.com/album/0VreXpycntuoYLnz36V08N) | 3:32 | 2025-08-22 |  |
 | [Who](https://open.spotify.com/track/0qTBo7ExHHGI7RLCk3CwDS) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Who](https://open.spotify.com/album/4d1xo2PYAhvn7Udjo1rBxs) | 3:08 | 2020-10-13\* | 2021-06-19 |
 | [Wild Things](https://open.spotify.com/track/24HWZczGAczojNdUnupoo4) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/5KIbd4Narbp6OAITLmr9Wv) | 3:36 | 2024-03-01 | 2024-08-27 |
 | [Wild Things](https://open.spotify.com/track/5zSblOkvmMVYmaXbDRXbFg) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Wild Things](https://open.spotify.com/album/2bcXBtpp2hrgJrCqbi06PA) | 3:36 | 2024-03-22 | 2024-04-19 |

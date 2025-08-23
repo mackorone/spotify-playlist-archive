@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Jelly Roll &amp; Marshmello",
+  "description": "From Toronto to Nashville - country is more than a genre, it's a lifestyle! Subscribe <a href=\"https://forms.umusic-online.com/forms/-MzVRuWCJewxwySP2ZdQ\">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Josh Ross",
   "name": "New Country Hits (Country Life)",
   "tracks": [
     {
@@ -3943,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "My Side Of Town",
+        "url": "https://open.spotify.com/album/3kjLeioihBaAQdGQePALiw"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162060,
+      "name": "My Side Of Town",
+      "url": "https://open.spotify.com/track/5u4otkyiGjEPj90cNtX8gd"
+    },
+    {
+      "album": {
         "name": "Neon Cowgirl",
         "url": "https://open.spotify.com/album/090hcRCJQ70C3TnLuSn6FG"
       },
@@ -6294,6 +6312,28 @@
       "duration_ms": 220145,
       "name": "we don't fight anymore",
       "url": "https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W"
+    },
+    {
+      "album": {
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
     },
     {
       "album": {

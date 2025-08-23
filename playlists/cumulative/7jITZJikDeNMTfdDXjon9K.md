@@ -4,7 +4,7 @@
 
 > 
 
-3,130 songs - 7 day 16 hr 38 min
+3,132 songs - 7 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1550,6 +1550,7 @@
 | [Last Friday Night \(T.G.I.F.\)](https://open.spotify.com/track/2ZI18qoTqFdSftkjP1olVY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/3BoUxfC7YhxNq3TpOfnRif) | 3:50 | 2021-03-24 |  |
 | [Last Hurrah](https://open.spotify.com/track/0i0wnv9UoFdZ5MfuFGQzMy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Last Hurrah](https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5) | 2:30 | 2019-03-12 |  |
 | [Last Living Souls](https://open.spotify.com/track/7JzmCjvB6bk48JghLyrg8N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Demon Days](https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT) | 3:15 | 2020-01-29 |  |
+| [Last Train to London](https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:30 | 2025-08-22 |  |
 | [Latch](https://open.spotify.com/track/1DunhgeZSEgWiIYbHqXl0c) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 4:15 | 2020-08-13 |  |
 | [late at night](https://open.spotify.com/track/6kksmL4t09IgxhajuVDDxR) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 2:54 | 2021-12-17 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-06-24 |  |
@@ -1580,6 +1581,7 @@
 | [Let Me Love You](https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/4qqrq2LYJYvKOV5Xrcajvp) | 4:09 | 2022-10-20 |  |
 | [Let Me Love You \(Until You Learn To Love Yourself\)](https://open.spotify.com/track/4kte3OcW800TPvOVgrLLj8) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [R.E.D\. \(Deluxe Edition\)](https://open.spotify.com/album/4HPdvrPf9RGfJ2hNYrODpC) | 4:11 | 2022-10-20 |  |
 | [Let Me Out \(feat\. Mavis Staples & Pusha T\)](https://open.spotify.com/track/44PelqgstAM0lb8rHPKfHq) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 2:55 | 2019-02-03 |  |
+| [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 | 2025-08-22 |  |
 | [Let's Build \(feat\. Quavo\)](https://open.spotify.com/track/2CrK0hSGlIFESHiT6rPe1s) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:31 | 2020-06-19 |  |
 | [Let's Get It On](https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 4:50 | 2021-06-04 |  |
 | [Let's Get It Started \- Spike Mix](https://open.spotify.com/track/3qK8x4GZcIkzTz9JEqvIF5) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/4wBDclsxFzGnR4kVAAMI7K) | 3:37 | 2019-01-13 |  |

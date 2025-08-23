@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-446 songs - 22 hr 34 min
+447 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,9 @@
 | [Everything in America Is Ragtime](https://open.spotify.com/track/4nyzsRS730YEh7ZAiKpa60) | [Jon Peterson](https://open.spotify.com/artist/1O60tT6Tmfwu4Cs34I1O3J) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 3:09 | 2024-07-26 |  |
 | [Follow the Fleet](https://open.spotify.com/track/5VOYa5W6qgKUqmsPApGAih) | [Teddy Stauffer & Seine Original Teddies](https://open.spotify.com/artist/7zfTtbPvtK3yiaDW0jXqyL) | [Teddy Stauffer & seine Original Teddies](https://open.spotify.com/album/7IrfSlkBkyjykKzjte8aEh) | 2:58 | 2024-07-26 |  |
 | [Fools Fall In Love \- Studio](https://open.spotify.com/track/6b9cSiYGzRUCHkYEdwxFa0) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3), [Stan Freeman](https://open.spotify.com/artist/4TGfwQOz95BUCCi8vJVjgu), [Cy Walter](https://open.spotify.com/artist/1PuSmNQqhL15IPZHByO08T) | [The Total \- Vol\. 1](https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH) | 3:00 | 2024-07-26 |  |
-| [For the Very First Time](https://open.spotify.com/track/0PCqGHk6i8ddceCHgLf2TG) | [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [All\-American Showcase](https://open.spotify.com/album/4vlqZJjIY05FIq4KQNbPcF) | 3:19 | 2024-12-11 |  |
+| [For the Very First Time](https://open.spotify.com/track/0PCqGHk6i8ddceCHgLf2TG) | [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [All\-American Showcase](https://open.spotify.com/album/4vlqZJjIY05FIq4KQNbPcF) | 3:19 | 2024-12-11 | 2025-08-23 |
 | [For the Very First Time](https://open.spotify.com/track/0xNJlSjmU06Rtjnj7GLoha) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [Presentando a Mantovani y Su Gran Orquesta](https://open.spotify.com/album/2sorFRZEtOYZE6DHhdnEkF) | 3:19 | 2024-07-26 | 2024-12-12 |
+| [For the Very First Time](https://open.spotify.com/track/03X4gm8MbeUclQFjEa9Ked) | [Mantovani y Su Gran Orquesta](https://open.spotify.com/artist/6Y1LEH2sDrGXvthbvTHanb) | [La Vie en Rose](https://open.spotify.com/album/4mkeREDDBjB3pUcaioLaTq) | 3:19 | 2025-08-22 |  |
 | [For Your Country & My Country](https://open.spotify.com/track/4cN85XKTmet64l7gwel9at) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Rudolph Erlebach](https://open.spotify.com/artist/2ubkNHo6WWy1vkl3d7lkbU) | [Masters Of The Roll: George Gershwin](https://open.spotify.com/album/3CpvGgDutkOc106fi3f874) | 2:32 | 2024-07-26 |  |
 | [From Here To Shanghai](https://open.spotify.com/track/76jNB49onenQmBolXeUURP) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Al Jolson & Orchestra](https://open.spotify.com/artist/4kAVYNCuMv0G122gnEnFYR) | [Jolson, Al: Al Jolson, Vol\. 2 \(1916\-1918\)](https://open.spotify.com/album/6iFlGQZv9y6YlAt4MxefnG) | 2:54 | 2024-07-26 | 2025-07-31 |
 | [From Here to Shanghai](https://open.spotify.com/track/1U1ZyrpOPp7FUfn5wORxgz) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa), [Charles A\. Prince Orchestra](https://open.spotify.com/artist/0qKmJGA0WCAvPkoFD3q8Cx) | [Wedding Bells \(Will You Ever Ring for Me?\) \[1916 \- 1918\]](https://open.spotify.com/album/5S7GXeDt004Mv8qjjHTTvt) | 2:54 | 2025-07-30 |  |

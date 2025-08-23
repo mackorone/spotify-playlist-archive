@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-610 songs - 1 day 12 hr 31 min
+611 songs - 1 day 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Lemon Squeezy](https://open.spotify.com/track/5sPGOHTaJSyGpun0ZxiKOV) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Lemon Squeezy / Afrique](https://open.spotify.com/album/5TOrJJWoM61EENIZi4PSSp) | 3:32 | 2022-04-01 | 2022-08-09 |
 | [Lemonade](https://open.spotify.com/track/5dG6kn38IgVuGUwFQ3dfSg) | [Alec Hershey](https://open.spotify.com/artist/0n0DLx9JnjPF4A6B3l2ZPX), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Lemonade](https://open.spotify.com/album/6u5tqSj1AjjRP99XujvXYI) | 4:17 | 2022-08-08 | 2023-03-18 |
 | [leslianne](https://open.spotify.com/track/4Po4QT2yUSoMakeWktz78r) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [leslianne](https://open.spotify.com/album/5TlQKwwFcsdBjoDDYvkMzk) | 1:54 | 2022-10-07 | 2023-04-15 |
+| [Let Her Shine](https://open.spotify.com/track/6qT6YkmjCN2i8YRFAdwCYK) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT), [Shng.](https://open.spotify.com/artist/3558wNwANBlMFEGZpyGZwo) | [Let Her Shine](https://open.spotify.com/album/3w6IxJsttV1vrf5UC5jqFp) | 2:57 | 2025-08-22 |  |
 | [Let Me Tell You](https://open.spotify.com/track/6mvNXpr2TruQixVp4VjEQR) | [Grace Victoria](https://open.spotify.com/artist/0cKCQAmUMmD05Nc2sZwOta) | [Love & Justice](https://open.spotify.com/album/3sDIdiwV7fdKWnp7TeMJ7J) | 3:39 | 2022-01-07 | 2022-08-27 |
 | [Let The Guitar Play \- Radio Version](https://open.spotify.com/track/6Ps899HotQYDpN2fK9P0Oe) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Darryl "DMC" McDaniels](https://open.spotify.com/artist/6a8v4haj3oDEJiDMVrAJAn) | [Let The Guitar Play](https://open.spotify.com/album/5TDXsLvPp5AqZKIZredNDi) | 4:55 | 2024-01-12 | 2024-06-01 |
 | [Let's Never Stop Growin' Up](https://open.spotify.com/track/5iC1NGvqmo3SieQnWHfcKc) | [Lillian Blue Makin](https://open.spotify.com/artist/69NqHAYlZQ6ueRawGqqINh) | [Let's Never Stop Growin' Up](https://open.spotify.com/album/1HIfrxDU5QmimT5JTNFUXG) | 3:08 | 2022-04-22 | 2022-09-10 |
@@ -580,7 +581,7 @@
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-04-29 | 2022-07-29 |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-04-29 | 2022-10-29 |
 | [We Good](https://open.spotify.com/track/0lDV0fFZoExtkbPPSAXWea) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Exchange](https://open.spotify.com/album/41oWMEufnbwHM97tHMotox) | 2:52 | 2021-11-12 | 2022-05-28 |
-| [We've Come So Far](https://open.spotify.com/track/1eF6pVPoLLbOvn4mM8CIfM) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [We've Come So Far](https://open.spotify.com/album/2M4eRUqtOF7hIRTlyK2Lef) | 2:40 | 2025-03-21 |  |
+| [We've Come So Far](https://open.spotify.com/track/1eF6pVPoLLbOvn4mM8CIfM) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [We've Come So Far](https://open.spotify.com/album/2M4eRUqtOF7hIRTlyK2Lef) | 2:40 | 2025-03-21 | 2025-08-23 |
 | [Weekend](https://open.spotify.com/track/71ZF6Lyg6lmqy78h275YMv) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Weekend](https://open.spotify.com/album/4B2gfyDO3wslxRbwWw0w8l) | 2:47 | 2024-09-20 | 2025-03-22 |
 | [What It Feels Like \- Carrtoons Remix](https://open.spotify.com/track/3xIDPvwMOl7dTMmq6cSWet) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Kapok](https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [What It Feels Like \(Carrtoons Remix\)](https://open.spotify.com/album/3fzEo1nKTHqEetOt2BADiz) | 3:23 | 2023-01-27 | 2025-01-18 |
 | [What It Feels Like \- Carrtoons Remix](https://open.spotify.com/track/6cBgiFiJ3qJgLRldC3MPtF) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH), [Illa J](https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp), [Kapok](https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [What It Feels Like \(Carrtoons Remix\)](https://open.spotify.com/album/7nH7SdXJQ9Kj8hTQgKtsk1) | 3:23 | 2023-01-27 | 2024-04-19 |

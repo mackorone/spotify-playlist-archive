@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 558 songs - 1 day 12 hr 34 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 563 songs - 1 day 12 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -566,5 +566,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 556 | [NO QUESTIONS ASKED](https://open.spotify.com/track/1OzmA3aBR7QK94L2tReAeD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 5:59 |
 | 557 | [Secret Knock](https://open.spotify.com/track/0rnhjjdY8szBKmi6HAVDvC) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Black Hole Superette](https://open.spotify.com/album/63y5mkLctupacSr20e0O6j) | 3:32 |
 | 558 | [So Special](https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 3:57 |
+| 559 | [Shining](https://open.spotify.com/track/66ALMWldXUZziIOSDv9jYB) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 3:08 |
+| 560 | [Echo Of My Shadow](https://open.spotify.com/track/71C3wpAeAjNfK8hwacQW5U) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [What Happened To The Heart?](https://open.spotify.com/album/6TVgUkZ0mlosNNcJYsgTeV) | 4:04 |
+| 561 | [1995](https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV) | 4:49 |
+| 562 | [Everything's Fine](https://open.spotify.com/track/61yVt2xUIrwYI53xY3jSFE) | [Jean Grae](https://open.spotify.com/artist/2ipBhKpOYqs6BbysLNGye6), [Quelle Chris](https://open.spotify.com/artist/2SlUrJAcTYbWR8GcmB9IEi) | [Everything's Fine](https://open.spotify.com/album/51WZxnoOPfdGY2yUwfCLhf) | 1:07 |
+| 563 | [HOW FAST](https://open.spotify.com/track/6pMujuxDlZv5k8RWktJAQw) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 2:54 |
 
-Snapshot ID: `AAAHi2Bd84GbAfdPe5A61JadWqXIPeyW`
+Snapshot ID: `AAAHkCp870RXikkDAM9e/dA7op40huEZ`

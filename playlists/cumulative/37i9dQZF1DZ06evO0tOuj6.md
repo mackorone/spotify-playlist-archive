@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 22 min
+98 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Ska Mundo Ska](https://open.spotify.com/track/7Iwyf6xoHbLotyoIaUmKnr) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Bailando Sobre las Ruinas](https://open.spotify.com/album/3EsVEnV2QwDau8JowS2kPh) | 3:46 | 2023-01-14 | 2023-10-06 |
 | [Te Quiero con Bugalú](https://open.spotify.com/track/19AG2FmshFkNm5FVTDZj0E) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Glorious](https://open.spotify.com/album/1sshEtkwfrCyY8kJWojThg) | 4:11 | 2023-02-13 | 2023-02-15 |
 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 | 2024-02-10 | 2024-10-19 |
-| [The Liar](https://open.spotify.com/track/1Gv1bR2a9JXnf79yeAhQP9) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/31q4rrYIResXCwBOyDYc7r) | 3:29 | 2025-07-25 |  |
+| [The Liar](https://open.spotify.com/track/1Gv1bR2a9JXnf79yeAhQP9) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/31q4rrYIResXCwBOyDYc7r) | 3:29 | 2025-07-25 | 2025-08-23 |
+| [The Liar](https://open.spotify.com/track/2d9h8W6esGHsrz3Oow11GU) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Liar](https://open.spotify.com/album/5pOoOJypKDcjwCV57AVyVp) | 3:29 | 2025-08-23 |  |
 | [Toi Toi](https://open.spotify.com/track/0xVlV62o4SjBzliahwzjsH) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Murotsuyoshi](https://open.spotify.com/artist/6y4aciagKq7EfDwuc5O3UK) | [Toi Toi](https://open.spotify.com/album/3yU3LJvb6QlNhEAyfq3siV) | 3:44 | 2025-05-30 | 2025-06-26 |
 | [Utakatarattara](https://open.spotify.com/track/43xCf1kLDNLNzdDu5V5qZS) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Utakatarattara](https://open.spotify.com/album/1qLUmDx6t3YzB37ok2rFhK) | 3:08 | 2023-09-15 | 2023-11-11 |
 | [WATERMELON](https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yukihiro Takahashi](https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 5:36 | 2023-01-14 |  |

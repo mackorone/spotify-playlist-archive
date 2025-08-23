@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,166 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,188 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 27 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 28 | [Chase the Sun](https://open.spotify.com/track/2mkBHN67xLpHrpqOuj79Yz) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4) | [Non Zero Sumness Plus One](https://open.spotify.com/album/4DcIgdBbqm0Fqhmh5RcoCD) | 3:53 |
 | 29 | [At the River](https://open.spotify.com/track/0KIPa0YuQ5QFmlAqRyXNd9) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Vertigo](https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax) | 6:33 |
-| 30 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
-| 31 | [HALCYON + ON + ON](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
+| 30 | [HALCYON + ON + ON](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
+| 31 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
 | 32 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
 | 33 | [Four to the Floor \- Thin White Duke Mix; Short Version](https://open.spotify.com/track/0Hx249i8UGY4cWLjmo1eIH) | [Starsailor](https://open.spotify.com/artist/0G8zjE6SsFTlbglCkU8pm3) | [Four To The Floor](https://open.spotify.com/album/6UXbFDhwOmwxVBFJPC0L3x) | 4:40 |
 | 34 | [Manila](https://open.spotify.com/track/6V2QgOIMT94HhsfeIVbbZm) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits Outtakes](https://open.spotify.com/album/49I1SKAgPZiPQ02ySZ5aUd) | 3:12 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 50 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
 | 51 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
 | 52 | [Suntoucher](https://open.spotify.com/track/4OUvfa7eO5jvFMIMOU7MTb) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Goodbye Country \(Hello Nightclub\)](https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6) | 6:31 |
-| 53 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
-| 54 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
+| 53 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
+| 54 | [It Feels So Good](https://open.spotify.com/track/4Y8q64VnhD0vFYy9g2WFpi) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Hear My Cry](https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff) | 4:00 |
 | 55 | [Kids in Love \(feat\. The Night Game\)](https://open.spotify.com/track/5nmHl233yo8XJvaNfdKAWU) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 4:23 |
 | 56 | [Feather](https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 4:53 |
 | 57 | [With You Forever](https://open.spotify.com/track/3wRSZvxk09S0Tvuwg1L69N) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [PNAU](https://open.spotify.com/album/6BtdVFxMhcOb0gkD53KogE) | 3:34 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 61 | [Spellbound \(feat\. Veba\)](https://open.spotify.com/track/1qs0vlA9FdaV5NkPBR4Urg) | [Rae & Christian](https://open.spotify.com/artist/75WMfaHMMwtiMW8tfR92Pn), [Veba](https://open.spotify.com/artist/6j2ae9lkLM3apxccKUu5dJ) | [Northern Sulphuric Soul](https://open.spotify.com/album/75yPpdG1AXCXQf2E2jFfj9) | 5:44 |
 | 62 | [Bentley's Gonna Sort You Out](https://open.spotify.com/track/2GLl5SfGDhAEztVvEVRimA) | [Bentley Rhythm Ace](https://open.spotify.com/artist/28EZh7WvdbWwfOrf5lkvCk) | [BRA](https://open.spotify.com/album/5M9gDsoePB0kpZfBDfrL3O) | 5:07 |
 | 63 | [Sun Is Shining](https://open.spotify.com/track/7mUTI3eMg0issonjzaVGDw) | [Funkstar De Luxe](https://open.spotify.com/artist/1R5R9EyBe8MxRuD3BIXaV2) | [Sun Is Shining \(Remixes\)](https://open.spotify.com/album/4l8hxXnWvWObUZEuyWzyjs) | 4:10 |
-| 64 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
-| 65 | [In My Arms](https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 3:46 |
+| 64 | [In My Arms](https://open.spotify.com/track/11oHw0rlJ9A5TR8GUoe32Q) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 3:46 |
+| 65 | [Starlight \- Radio Edit](https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY) | [The Supermen Lovers](https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA), [Mani Hoffman](https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw) | [Starlight](https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX) | 3:54 |
 | 66 | [Steamworks](https://open.spotify.com/track/4STp2ydjOO3OfSaRUa4n6Z) | [The Presets](https://open.spotify.com/artist/1zTAQ6zkGz2L2i6lfR30EX) | [Beams \(Deluxe\)](https://open.spotify.com/album/6ivvGq9dhnlDHoEdHrWzsQ) | 4:35 |
 | 67 | [Raindrops](https://open.spotify.com/track/7KwhOs8qcEWcXJP0eKR4Bm) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Scars](https://open.spotify.com/album/1pDAZ6iRky6Vmv9xDJezoc) | 4:09 |
 | 68 | [Ordinary Pleasure](https://open.spotify.com/track/5MhdCkaa1vj51vaFTc3qia) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/1k6jh0c0c0mMCXPGT5D8LY) | 3:03 |
-| 69 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
-| 70 | [Drop The Pressure](https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:15 |
+| 69 | [Drop The Pressure](https://open.spotify.com/track/4ctPexpFIKzjWl4sI7pxeR) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll](https://open.spotify.com/album/4bmRs1mbIqoZXpxAzCRQ7E) | 4:15 |
+| 70 | [Kota](https://open.spotify.com/track/1hHswNRFdwR5HZSBKdVEOs) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:24 |
 
 Snapshot ID: `AAAAALd6n5s4SYFpSrBgc+SVsvZrrhkP`

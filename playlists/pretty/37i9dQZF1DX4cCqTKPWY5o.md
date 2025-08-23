@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,258 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,267 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 34 | [The Loco\-Motion \- Remastered 2002](https://open.spotify.com/track/0PxYWaGiwWtcuL1VIMiEW4) | [Grand Funk Railroad](https://open.spotify.com/artist/0qEcf3SFlpRcb3lK3f2GZI) | [Shinin' On \(Expanded Edition\)](https://open.spotify.com/album/4Z0J6OrdQQjFXtqBW0XXsA) | 2:45 |
 | 35 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 |
 | 36 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 |
-| 37 | [Hot Potato \- The Wiggles Sound System Remix](https://open.spotify.com/track/3Az7KofEhlRCdlWm3H7BKk) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [The Wiggles Sound System: Rave of Innocence](https://open.spotify.com/album/1ZZnrkjq3sKWHwEkvtHLdp) | 1:21 |
+| 37 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 |
 | 38 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 |
-| 39 | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/track/1bxa0TPdBMHPeZFHe0adCw) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Don't Slack \(from Trolls World Tour\)](https://open.spotify.com/album/40Obfin2HVz6rEL5kIqstb) | 2:54 |
+| 39 | [Hot Potato \- The Wiggles Sound System Remix](https://open.spotify.com/track/3Az7KofEhlRCdlWm3H7BKk) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [The Wiggles Sound System: Rave of Innocence](https://open.spotify.com/album/1ZZnrkjq3sKWHwEkvtHLdp) | 1:21 |
 | 40 | [Better When I'm Dancin'](https://open.spotify.com/track/3Jui3TOVXgDCYeVa3sS28C) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Peanuts Movie \- Original Motion Picture Soundtrack](https://open.spotify.com/album/0V5n3Ch2vFwxT5pVztog3t) | 2:56 |
 | 41 | [Last Dance](https://open.spotify.com/track/0YKpv4IxAD40AkWAmBII1N) | [Qai Qai](https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv) | [Last Dance](https://open.spotify.com/album/1YMGrhRO05Gzcm030DLrpJ) | 2:20 |
 | 42 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 |

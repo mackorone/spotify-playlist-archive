@@ -2,7 +2,7 @@
 
 ### [Top Brasil](https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W)
 
-> Guilherme & Benuto, Grupo Menos É Mais, Matheus Fernandes e os maiores hits do país\. O que tá bombando tá aqui.
+> Rafa e Junior, Hugo & Guilherme, DJ Ari SL e os maiores hits do país\. O que tá bombando tá aqui.
 
 619 songs - 1 day 6 hr 53 min
 

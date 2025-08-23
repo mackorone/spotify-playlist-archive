@@ -1,12 +1,12 @@
 {
   "description": "This is Los Rieleros Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 64800,
+  "num_followers": 64814,
   "original_name": "This Is Los Rieleros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADoNMPKrcewXTHw8lKMCeKY",
+  "snapshot_id": "aKZhgAAAAADSbzPByfpwcke94GMO9fTc",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+        "name": "De Lo Bueno Lo Mejor",
+        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 181960,
-      "name": "Ay\u00fadame A Olvidarte",
-      "url": "https://open.spotify.com/track/694ISCxj0nirQhsAn830hu"
+      "duration_ms": 217373,
+      "name": "No Me Hagas Menos",
+      "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Lo Bueno Lo Mejor",
-        "url": "https://open.spotify.com/album/3GpaL6ZqUdaCxaGrGYOA54"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 217373,
-      "name": "No Me Hagas Menos",
-      "url": "https://open.spotify.com/track/5CpAD6mT0lOdUkZHIqPGCq"
+      "duration_ms": 181960,
+      "name": "Ay\u00fadame A Olvidarte",
+      "url": "https://open.spotify.com/track/694ISCxj0nirQhsAn830hu"
     },
     {
       "added_at": null,
@@ -199,22 +199,6 @@
       "duration_ms": 170693,
       "name": "Noches Eternas",
       "url": "https://open.spotify.com/track/7k11lO5JBXkkQfKBExqVGh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Mi Amor No Lo Mereces",
-      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Mi Amor No Lo Mereces",
+      "url": "https://open.spotify.com/track/0ocdFIkMTHJrGEGnph6g94"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Adi\u00f3s",
         "url": "https://open.spotify.com/album/4ATrBIMw7I0J3gC0Kw4bWt"
       },
@@ -263,22 +263,6 @@
       "duration_ms": 166343,
       "name": "El Adi\u00f3s",
       "url": "https://open.spotify.com/track/10pbScHlHAc2ztQHECUqGy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 156640,
-      "name": "El Invencible",
-      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
     },
     {
       "added_at": null,
@@ -315,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 156640,
+      "name": "El Invencible",
+      "url": "https://open.spotify.com/track/43lAvFigqX6LF678oVPCBN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo M\u00e1s Escuchado De",
         "url": "https://open.spotify.com/album/0ZcH1RKyQNBj1GoV2HwGqk"
       },
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+        "name": "Aventura Pasada",
+        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Golondrina Viajera",
-      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
+      "duration_ms": 155440,
+      "name": "Aventura Pasada",
+      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aventura Pasada",
-        "url": "https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx"
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 155440,
-      "name": "Aventura Pasada",
-      "url": "https://open.spotify.com/track/5JchHTsognfG0pbnOVOGwU"
+      "duration_ms": 218373,
+      "name": "Golondrina Viajera",
+      "url": "https://open.spotify.com/track/43p1EAcsehfb4eT6oSWhJs"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Desde la Otra Mesa",
-      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/4qXhBQtBKHJwwK91QLPVoJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 202573,
       "name": "Las Rejas No Matan",
       "url": "https://open.spotify.com/track/0wxflEn0aQ8VQ5fKZPJVjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Tus Manos",
+        "url": "https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Desde la Otra Mesa",
+      "url": "https://open.spotify.com/track/69Bh0aSF1LS2C7c0OyCKiI"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAApg+Fl/84+6B7LtULUNp8b",
+  "snapshot_id": "aKZhgAAAAAB9pQhIaE2iCheFYLapFEuI",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAYMAKER PT.2",
-        "url": "https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN"
-      },
-      "artists": [
-        {
-          "name": "CNG",
-          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 165719,
-      "name": "PLAYMAKER PT.2",
-      "url": "https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ramon Ayala (feat. Bo Bundy)",
         "url": "https://open.spotify.com/album/3vnDhhtNSKthBW9tdgpRps"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 167766,
       "name": "Ramon Ayala (feat. Bo Bundy)",
       "url": "https://open.spotify.com/track/0jvWZVacv8dIM8KOXCGocz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAYMAKER PT.2",
+        "url": "https://open.spotify.com/album/15wZIGdnEszokWI7R8knwN"
+      },
+      "artists": [
+        {
+          "name": "CNG",
+          "url": "https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 165719,
+      "name": "PLAYMAKER PT.2",
+      "url": "https://open.spotify.com/track/1tP8v0BZQCnag97DnzLWII"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
-      },
-      "artists": [
-        {
-          "name": "N.E Mafio",
-          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 199414,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nino de Oro",
         "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },
@@ -555,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpaca Hearts",
-        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
       },
       "artists": [
+        {
+          "name": "N.E Mafio",
+          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 198164,
-      "name": "Alpaca Hearts",
-      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
+      "duration_ms": 199414,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
     },
     {
       "added_at": null,
@@ -591,6 +575,22 @@
       "duration_ms": 160000,
       "name": "Big Chains",
       "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alpaca Hearts",
+        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 198164,
+      "name": "Alpaca Hearts",
+      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
-      },
-      "artists": [
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "E30",
         "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Devu\u00e9lveme a Mi Chica",
-        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "Devu\u00e9lveme a Mi Chica",
-      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 253714,
       "name": "Riding On 6's",
       "url": "https://open.spotify.com/track/4zZAnmtU2XVTrBpn4BPpH4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devu\u00e9lveme a Mi Chica",
+        "url": "https://open.spotify.com/album/1Z9h282dcQ3BZeDERBrXb8"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "Devu\u00e9lveme a Mi Chica",
+      "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
       "duration_ms": 30459,
       "name": "BBS Interlude",
       "url": "https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RESERVADO",
-        "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
-      },
-      "artists": [
-        {
-          "name": "JR Reyes",
-          "url": "https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 151071,
-      "name": "RESERVADO",
-      "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
     },
     {
       "added_at": null,
@@ -859,6 +839,26 @@
       "duration_ms": 226528,
       "name": "EL RODEO",
       "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RESERVADO",
+        "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
+      },
+      "artists": [
+        {
+          "name": "JR Reyes",
+          "url": "https://open.spotify.com/artist/7h7UDjLtEniodFyDaoUFJN"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 151071,
+      "name": "RESERVADO",
+      "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
     },
     {
       "added_at": null,

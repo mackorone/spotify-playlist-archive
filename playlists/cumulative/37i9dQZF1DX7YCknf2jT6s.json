@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Charles Lloyd Delta Trio",
+  "description": "New jazz for open minds. Cover: Pino Palladino & Blake Mills",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 250000,
       "name": "Alchemy",
       "url": "https://open.spotify.com/track/1UuwA62t7oWjSj7RYewQ04"
@@ -3096,6 +3096,24 @@
       "duration_ms": 302323,
       "name": "Averti Tra Le Braccia",
       "url": "https://open.spotify.com/track/0X6iM5oQxj3NViTcdGb7vL"
+    },
+    {
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199013,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38"
     },
     {
       "album": {
@@ -5024,7 +5042,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 268972,
       "name": "Blues Symphony: V. Big City Breaks",
       "url": "https://open.spotify.com/track/0jLXzDk25xRg9EGe2ATfG1"
@@ -6214,7 +6232,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 320120,
       "name": "Ceathair",
       "url": "https://open.spotify.com/track/2vOMRmQ3Jlh5iA7krw6uXS"
@@ -7352,7 +7370,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 196898,
       "name": "Contour",
       "url": "https://open.spotify.com/track/1OYmAuQqcCYYNc3LEHCUb2"
@@ -13253,6 +13271,24 @@
     },
     {
       "album": {
+        "name": "Giant Steps",
+        "url": "https://open.spotify.com/album/2kiuMHoju1gOv7UvmxnQKQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Mayo",
+          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210391,
+      "name": "Giant Steps",
+      "url": "https://open.spotify.com/track/4D4zIxi8ewbVKh82AhRIWF"
+    },
+    {
+      "album": {
         "name": "Gift Of The Moon",
         "url": "https://open.spotify.com/album/17bW569C6S8uBK3rww1Alh"
       },
@@ -14889,6 +14925,28 @@
     },
     {
       "album": {
+        "name": "Humble Magic, Vol. 1",
+        "url": "https://open.spotify.com/album/6bM1rkXosXS8eTskGnonY0"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328328,
+      "name": "Humble Magic (feat. Trombone Shorty)",
+      "url": "https://open.spotify.com/track/4DVZ3uXWQwaJcTnnfGoNVf"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/4s1FfyvuF0u8WntCqgTdn8"
       },
@@ -15827,6 +15885,24 @@
     },
     {
       "album": {
+        "name": "Way out West",
+        "url": "https://open.spotify.com/album/7yJQ95dteUprEQuLkSISbo"
+      },
+      "artists": [
+        {
+          "name": "Woody Jackson",
+          "url": "https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208128,
+      "name": "Illustration of Agitation",
+      "url": "https://open.spotify.com/track/7liwz4Ow5bKU8K44kmwMu0"
+    },
+    {
+      "album": {
         "name": "Images Suite",
         "url": "https://open.spotify.com/album/4y60knjdgbCL08FwRADhy6"
       },
@@ -15954,6 +16030,36 @@
       "duration_ms": 259444,
       "name": "Impulse",
       "url": "https://open.spotify.com/track/3MxGr232aSJIzlObNN5Kw7"
+    },
+    {
+      "album": {
+        "name": "In Black",
+        "url": "https://open.spotify.com/album/2LOqB7Cvlulwy6M1uAJZrq"
+      },
+      "artists": [
+        {
+          "name": "Shingo Suzuki",
+          "url": "https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf"
+        },
+        {
+          "name": "\u6e21\u8fba\u7fd4\u592a",
+          "url": "https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr"
+        },
+        {
+          "name": "\u5b88\u771f\u4eba",
+          "url": "https://open.spotify.com/artist/7gtghq8vuSIih3yaQHgrbB"
+        },
+        {
+          "name": "\u5bfa\u4e45\u4fdd\u4f36\u77e2",
+          "url": "https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211541,
+      "name": "In Black",
+      "url": "https://open.spotify.com/track/1SC5TgnTmwJHNsdgSnquYw"
     },
     {
       "album": {
@@ -24092,7 +24198,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 331047,
       "name": "Olive Branch",
       "url": "https://open.spotify.com/track/0Tu3PCVFQ2xl0ojwPoGUEQ"
@@ -27111,6 +27217,24 @@
     },
     {
       "album": {
+        "name": "Rediscovery",
+        "url": "https://open.spotify.com/album/5RQharMeQ0J23ZUNRYkUvL"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "Rediscovery",
+      "url": "https://open.spotify.com/track/03TAdY8JtsBzNEwXk3ogX7"
+    },
+    {
+      "album": {
         "name": "Reflection Eternal",
         "url": "https://open.spotify.com/album/7flx6vvh3i9bDRUYwRf11Z"
       },
@@ -29077,6 +29201,24 @@
     },
     {
       "album": {
+        "name": "Shared Stories of Rivals II",
+        "url": "https://open.spotify.com/album/5fpyfXxzsIAgM9PmRu7kJ3"
+      },
+      "artists": [
+        {
+          "name": "Chief Adjuah",
+          "url": "https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324851,
+      "name": "Shared Stories of Rivals II",
+      "url": "https://open.spotify.com/track/1Xx70YYSc3RNGIXsBTVtet"
+    },
+    {
+      "album": {
         "name": "Be-Bop!",
         "url": "https://open.spotify.com/album/3Iq2Xv9Gsp18CytuKVtOWJ"
       },
@@ -30282,6 +30424,28 @@
       "duration_ms": 255480,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0maP9hHUwdSArRsD3EI76E"
+    },
+    {
+      "album": {
+        "name": "That Wasn't A Dream",
+        "url": "https://open.spotify.com/album/5pDATa5kjuLPlh1zALzCrl"
+      },
+      "artists": [
+        {
+          "name": "Pino Palladino",
+          "url": "https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8"
+        },
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229592,
+      "name": "Somnambulista",
+      "url": "https://open.spotify.com/track/7wS7nAElI8Ju0MKrphRI9W"
     },
     {
       "album": {
@@ -31558,7 +31722,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 246527,
       "name": "Summer Storm",
       "url": "https://open.spotify.com/track/4MavE9rVfFnxO1sNDd238T"
@@ -32078,7 +32242,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 217054,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/2amICKrgBb2dOBrbdkV6eL"
@@ -35258,7 +35422,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 515249,
       "name": "Though My Eyes Go To Sleep, My Heart Does Not Forget You",
       "url": "https://open.spotify.com/track/1dnou2LA1vOfvmtnX4BLK3"
@@ -37130,6 +37294,28 @@
       "duration_ms": 148629,
       "name": "Ventura",
       "url": "https://open.spotify.com/track/6Te6TByygnONS4JyJC0ruN"
+    },
+    {
+      "album": {
+        "name": "Verdadeiro Sentimento",
+        "url": "https://open.spotify.com/album/1s8b8LHGtqDRMeZGTCZcVY"
+      },
+      "artists": [
+        {
+          "name": "Carlos Daf\u00e9",
+          "url": "https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211603,
+      "name": "Verdadeiro Sentimento",
+      "url": "https://open.spotify.com/track/5qZmEGqFlumW7mtMFw0kcx"
     },
     {
       "album": {
@@ -39504,7 +39690,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 367966,
       "name": "Zatto",
       "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"

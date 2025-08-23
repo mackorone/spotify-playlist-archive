@@ -2,9 +2,9 @@
 
 ### [Esto es Pop](https://open.spotify.com/playlist/37i9dQZF1DWYf9NHV7zfs7)
 
-> y nada más que pop ✨✨✨<br/>📷  Paz Carrara
+> y nada más que pop ✨✨✨<br/>📷  Luciano Pereyra & David Bisbal
 
-364 songs - 19 hr 34 min
+366 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 | 2023-10-23 | 2024-05-06 |
 | [Ay!](https://open.spotify.com/track/6QHXNpWsOKagtV3scwkaoQ) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Ay!](https://open.spotify.com/album/4g4VfRvjKDjOXyeTXHX1uO) | 2:55 | 2024-08-23 | 2024-09-07 |
 | [AYER TE VI \(feat\. Zoe Gotusso\)](https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ENCHASTRE](https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7) | 3:29 | 2023-10-23 |  |
-| [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 | 2023-10-23 |  |
+| [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 | 2023-10-23 | 2025-08-23 |
 | [Bad Omens](https://open.spotify.com/track/2ovVwEXwcRYuIfnfJedGnQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/26uA5pGrTovBLxikRsMQJ4) | 3:35 | 2023-07-14 | 2023-10-24 |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2023-07-14 | 2023-10-24 |
 | [Baum Baum](https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI DELUXE](https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A) | 2:34 | 2023-12-15 | 2024-10-26 |
@@ -167,7 +167,7 @@
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2023-07-14 | 2023-10-24 |
 | [La Vida Baila](https://open.spotify.com/track/26tkAeyQlch0s77x0tazYQ) | [SER](https://open.spotify.com/artist/5Tk3cLiTSfgrMC4BxInpO9), [Salo](https://open.spotify.com/artist/017ABXmkLtlACQrBeTdvlV) | [La Vida Baila](https://open.spotify.com/album/0dICtEXAGHGIB7F2umpmLm) | 3:31 | 2024-05-24 | 2024-07-19 |
 | [La última canción](https://open.spotify.com/track/38tkHGzTz7zkSWtdih973H) | [Agus Bernasconi](https://open.spotify.com/artist/6lhAYV5B7sbYlDLsahcXmS), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [La última canción](https://open.spotify.com/album/5mv9TLj5uCgoyApnPbQct5) | 3:01 | 2025-06-27 |  |
-| [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 | 2025-01-31 |  |
+| [La Última Noche \- con Estopa](https://open.spotify.com/track/5mEaEudI2haVc63YfQsJxW) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [La Última Noche \(con Estopa\)](https://open.spotify.com/album/2YVsgpiHQi6Gz3LKmyTYV7) | 3:49 | 2025-01-31 | 2025-08-23 |
 | [Lamento Boliviano \(Acoustic Sessions\)](https://open.spotify.com/track/4fBWeFKXhBjpqMynPoSVkd) | [Victoria Bernardi](https://open.spotify.com/artist/7lpsX3627bQJTo9nQjHuAp) | [Sesiones Solo Sé](https://open.spotify.com/album/0Ak3jCp6wVF2fuM7OFH69b) | 4:26 | 2023-10-23 | 2023-11-26 |
 | [Lara](https://open.spotify.com/track/3mR6x2dlGh2w2bDpsa3m5K) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Lara](https://open.spotify.com/album/3EjNrGYV82jkbxCOYMD7D6) | 3:18 | 2024-10-04 | 2024-11-29 |
 | [Las Flores \(feat\. Los Auténticos Decadentes\)](https://open.spotify.com/track/6HOoeolSylzuUcPXLlbPtK) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 3:33 | 2023-10-23 |  |
@@ -327,6 +327,7 @@
 | [Te odio](https://open.spotify.com/track/1csfEev85ozpIotuiYixPe) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:33 | 2023-10-23 | 2023-12-03 |
 | [Te Prestaria Mis Ojos](https://open.spotify.com/track/6k9ClcpERuAh9cKRdz0jsG) | [Juli Savioli](https://open.spotify.com/artist/3S6Z3tddsHqoza4wkqYiQf) | [Te Prestaria Mis Ojos](https://open.spotify.com/album/1bm6sB9SntraTrvK5PL6K7) | 3:13 | 2024-08-16 | 2024-08-24 |
 | [Te Quise Tanto](https://open.spotify.com/track/0AtlvKnsA1bUsupXEcze0S) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Te Quise Tanto](https://open.spotify.com/album/56ZCaH9J7ZcU2bWtk6yr7k) | 2:32 | 2025-06-20 |  |
+| [Te Sigo Amando](https://open.spotify.com/track/56cW4aGMUfORDPGZ1ULknD) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Te Sigo Amando](https://open.spotify.com/album/36SZ9ohqiisWRZJrmqsZiE) | 3:12 | 2025-08-22 |  |
 | [Te Soñaba](https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Salvando las Distancias](https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt) | 3:55 | 2024-07-26 | 2024-11-30 |
 | [Te Vas](https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Te Vas](https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d) | 2:38 | 2023-11-17 | 2024-01-23 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2023-07-14 | 2023-10-24 |
@@ -345,6 +346,7 @@
 | [Tu Sonrisa](https://open.spotify.com/track/2fvS1uq09HxUdb5TacY4af) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Momentos](https://open.spotify.com/album/4otpESFklCmaNyfdxaRueD) | 3:36 | 2024-05-24 | 2024-09-14 |
 | [Tus Horas Mágicas](https://open.spotify.com/track/1Qqe3XZRmmhqu53349GmCB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Hola Mundo](https://open.spotify.com/album/2vOG6M8f7AgiER72EjEdRd) | 2:40 | 2023-10-23 |  |
 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 | 2024-04-26 | 2024-06-19 |
+| [Un Milagro](https://open.spotify.com/track/1jcht9cNMIiEEdiFY0iIm8) | [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [Un Milagro](https://open.spotify.com/album/6s7yLvsFsWrKHgrjaAyMDD) | 5:11 | 2025-08-22 |  |
 | [Una Cancion](https://open.spotify.com/track/1fwiCqRIR32fXZr3a78pBX) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Una Cancion](https://open.spotify.com/album/240UoUKdTS8jOLXb8Mmigt) | 2:58 | 2024-04-26 | 2024-06-01 |
 | [Una Lágrima y Un Beso](https://open.spotify.com/track/1WKQltJAgWGgBi038RjysV) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Una Lágrima y Un Beso](https://open.spotify.com/album/5rnUwBTdluUlt8sJIxyRCS) | 3:20 | 2023-10-23 | 2024-02-03 |
 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2023-07-14 | 2023-10-24 |

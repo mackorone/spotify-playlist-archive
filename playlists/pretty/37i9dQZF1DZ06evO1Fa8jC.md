@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,402 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,423 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 12 | [Este Jardín](https://open.spotify.com/track/5UgPN09gWrOMI9zC2io8yC) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:43 |
 | 13 | [Secreto mío](https://open.spotify.com/track/5NHiMB5NKyNseGSdUAPqn3) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:12 |
 | 14 | [Imposible \- Versión 25 Años](https://open.spotify.com/track/3MNAqtaZyWQjwRjoup22BU) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 5:16 |
-| 15 | [Viento](https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Viento](https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML) | 4:54 |
-| 16 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
+| 15 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
+| 16 | [Viento](https://open.spotify.com/track/7teQAzSEf3wAM4VMI4jBxW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Viento](https://open.spotify.com/album/3XS34tvsxuuFBAATKDndML) | 4:54 |
 | 17 | [Órbita](https://open.spotify.com/track/3Ki4G6890ziJUHEV8aOaWn) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:44 |
 | 18 | [Una Perla en Mi Vida \- Versión 25 Años](https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:40 |
 | 19 | [Waitin en Vano](https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Espejitos](https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ) | 5:14 |
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 27 | [Woman](https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:36 |
 | 28 | [Alas Canciones](https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:09 |
 | 29 | [A Pesar](https://open.spotify.com/track/4Mhl9Xa2PL0OKHuF7jLQrj) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 3:43 |
-| 30 | [Acho Puñeta \(feat\. Los Cafres\) \- Reggae Remix](https://open.spotify.com/track/0KJTkSrpMYnMHLmKj8JMIu) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \[Reggae Remix\]](https://open.spotify.com/album/3RNjEoqfIvrq4K5RY3bz0t) | 4:52 |
-| 31 | [Es la Música \- Versión 25 Años \[Live\]](https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:18 |
-| 32 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
-| 33 | [Loco](https://open.spotify.com/track/0yWSrApKh3AgJ5rzbIwtRG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:32 |
-| 34 | [La receta](https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:47 |
-| 35 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
-| 36 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
-| 37 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
+| 30 | [Es la Música \- Versión 25 Años \[Live\]](https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:18 |
+| 31 | [Acho Puñeta \(feat\. Los Cafres\) \- Reggae Remix](https://open.spotify.com/track/0KJTkSrpMYnMHLmKj8JMIu) | [Gomba Jahbari](https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acho Puñeta \(feat\. Los Cafres\) \[Reggae Remix\]](https://open.spotify.com/album/3RNjEoqfIvrq4K5RY3bz0t) | 4:52 |
+| 32 | [Loco](https://open.spotify.com/track/0yWSrApKh3AgJ5rzbIwtRG) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:32 |
+| 33 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
+| 34 | [Sólo un Pensamiento \- Versión 25 Años](https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:31 |
+| 35 | [La receta](https://open.spotify.com/track/1h33O6bsMRrKWlBzbylA0t) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Instinto](https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0) | 3:47 |
+| 36 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
+| 37 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
 | 38 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
 | 39 | [Quedándote O Yéndote](https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:25 |
-| 40 | [Prefiero](https://open.spotify.com/track/3i6m98djJi8AJnyCWyhXWV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 3:28 |
-| 41 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
+| 40 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
+| 41 | [Prefiero](https://open.spotify.com/track/3i6m98djJi8AJnyCWyhXWV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 3:28 |
 | 42 | [Acto Salvaje](https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acto Salvaje](https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ) | 4:08 |
 | 43 | [Mientras tanto](https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:14 |
 | 44 | [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Boys Don't Cry](https://open.spotify.com/track/4E2RRctYO1FJwBK3u36xQr) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 2:48 |
 | 50 | [El Romano](https://open.spotify.com/track/4t9t3jfS4WpRh487OxpgwW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 3:47 |
 
-Snapshot ID: `aKO+gAAAAADnQmI6tzhUHT5vjmhkmgUD`
+Snapshot ID: `aKZhgAAAAADlT6y3ZnDRrX+IJfghmaIv`

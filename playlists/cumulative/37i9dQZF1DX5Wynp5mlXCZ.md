@@ -4,10 +4,11 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: TVORCHI & The Maneken
 
-399 songs - 20 hr 1 min
+399 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/5VGwXtLOgMWnAwDPf3enFT) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/34ePrRcSKMbg0oshvKitV3) | 0:00 | 2025-08-14 |  |
 | [\#AllEyesOnKids](https://open.spotify.com/track/6UAxAHMb6z2U7St2ylVSgm) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#AllEyesOnKids](https://open.spotify.com/album/3tWufi9zYoFWsZKCzFvK0T) | 2:37 | 2024-08-30 | 2024-09-14 |
 | [10 разів](https://open.spotify.com/track/4dAuvPHdQazF5XfO4KRWuC) | [temstime](https://open.spotify.com/artist/2EKtYTgQP4Lu1PFE6yzEUi) | [10 разів](https://open.spotify.com/album/1j6iDmoFGrP1GYt6z68dQM) | 2:08 | 2024-09-07 | 2024-10-26 |
 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 | 2024-11-14 | 2024-12-20 |
@@ -123,7 +124,6 @@
 | [Manuscript](https://open.spotify.com/track/19uuIw82xrHu7afEOddYiI) | [Carpetman](https://open.spotify.com/artist/3zzOs4npAwsNSmwFYDzdHx) | [Manuscript](https://open.spotify.com/album/2UFEgo5YwtYx502nAOv1z2) | 3:48 | 2025-08-14 |  |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-02 |  |
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-08 | 2025-05-16 |
-| [MINE](https://open.spotify.com/track/5VGwXtLOgMWnAwDPf3enFT) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [MINE](https://open.spotify.com/album/34ePrRcSKMbg0oshvKitV3) | 2:52 | 2025-08-14 |  |
 | [Momma Song](https://open.spotify.com/track/2TOEn8TnvwiQgwZdqVtfH5) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Momma Song](https://open.spotify.com/album/6kJgAmZWR69446e3gVZbxE) | 3:17 | 2025-05-22 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-10-04 | 2024-11-15 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 |  |

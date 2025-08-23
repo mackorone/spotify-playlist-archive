@@ -4,7 +4,7 @@
 
 > pearl of the week ✨Florence + The Machine✨
 
-1,999 songs - 4 day 11 hr 55 min
+2,000 songs - 4 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Baby You're A Star](https://open.spotify.com/track/5zhjQ18PepzPDl9uTz2NH2) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Baby You're A Star](https://open.spotify.com/album/476j0mz4vinyAeVJEZ5S8a) | 2:21 | 2023-12-08 | 2024-01-05 |
 | [Babyface Maniacs](https://open.spotify.com/track/5jAgJyYGFg75DpIyEGxomh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Babyface Maniacs](https://open.spotify.com/album/4t9pNaVyoEp5W1eVLARj0x) | 3:41 | 2025-03-27 | 2025-05-16 |
 | [Babymoma](https://open.spotify.com/track/6G2mLd5ZXnqlOyqSbTl6FP) | [Felix Sandman](https://open.spotify.com/artist/2M6dCv6FDYMum9nPnNB5Vy) | [Babymoma](https://open.spotify.com/album/4nqeoUwXIwq0mGuUUa4oxv) | 2:52 | 2024-05-23 | 2024-07-27 |
+| [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 | 2025-08-22 |  |
 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 | 2023-08-11 | 2024-01-05 |
 | [Back On 74](https://open.spotify.com/track/2xC3aQCmwgsW7ChDlJxLca) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Back On 74](https://open.spotify.com/album/3aZ2yYaBf9BDh1KO7f0S1s) | 3:29 | 2023-07-27 | 2023-08-14 |
 | [Back On 74 \- Full Crate Remix](https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Back on 74 \(Full Crate Remix\)](https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD) | 2:54 | 2024-02-22 | 2024-06-21 |
@@ -1070,6 +1071,7 @@
 | [Lost In Memories](https://open.spotify.com/track/4Gug166DkIrDlolvyvM7LS) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Broken Wings Still Fly](https://open.spotify.com/album/0YWUqVKNh1DG1s7gVme7Tb) | 3:25 | 2024-05-02 | 2024-07-27 |
 | [Lost Track / Chasing Potential](https://open.spotify.com/track/24c4bwReo7nCVAHR7thVq9) | [Regina Amado](https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5) | [Lost Track / Chasing Potential](https://open.spotify.com/album/0MkVpPKM0BA5zL3Y58nWlE) | 3:33 | 2024-10-31 | 2025-01-03 |
 | [Loud with you \(Angel\)](https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [Loud with you \(Angel\)](https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W) | 3:16 | 2025-01-16 | 2025-03-14 |
+| [Loud with you \(Angel\) \(MASAKA Remix\)](https://open.spotify.com/track/71rMOEY3MpLXXqU3r5dHUG) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [See what heaven looks like now \(Versions\)](https://open.spotify.com/album/01xAG2CKbmzcu1TfWap8lC) | 3:22 | 2025-08-21 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 | 2025-02-28 |
 | [Love Is A Trap](https://open.spotify.com/track/1C8oiysXkAycdB30Kd22Et) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Love Is A Trap](https://open.spotify.com/album/60z4drZtyVUax17b1P9mUm) | 3:24 | 2024-04-11 | 2024-05-24 |
 | [Love Is My Condition](https://open.spotify.com/track/5b8JmtL7IhN8GF6wHgCzmt) | [Tasha Angela](https://open.spotify.com/artist/55icKM7WkjXWnyfvCTlqbk) | [Love Is My Condition](https://open.spotify.com/album/1Gybu76KwSDNNyK2K13PlK) | 3:08 | 2022-11-03 | 2022-11-05 |
@@ -1807,7 +1809,6 @@
 | [Tough Love](https://open.spotify.com/track/0jeU42hx3LbPJAytAQEEPV) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [Kick Off](https://open.spotify.com/album/0iqFXdG1HoyHOYgXPhIiOo) | 4:16 | 2024-01-11 | 2024-04-19 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-11-18 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-08-07 |  |
-| [Track 7](https://open.spotify.com/track/71rMOEY3MpLXXqU3r5dHUG) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t), [MASAKA](https://open.spotify.com/artist/6tn3C5xHZDyUoqd0yTPawY) | [See what heaven looks like now \(Versions\)](https://open.spotify.com/album/01xAG2CKbmzcu1TfWap8lC) | 0:00 | 2025-08-21 |  |
 | [Treat Each Other Right](https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Treat Each Other Right](https://open.spotify.com/album/4eLKazdPS6o3AFEtoIZS1B) | 4:00 | 2024-06-06 | 2024-08-02 |
 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 | 2025-04-10 | 2025-06-20 |
 | [TRENCH](https://open.spotify.com/track/3eYJ0WYNccALQAYoTZyidU) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TRENCH](https://open.spotify.com/album/1nKbVqSp1GqpI3ggyihitK) | 3:13 | 2023-11-23 | 2023-12-15 |

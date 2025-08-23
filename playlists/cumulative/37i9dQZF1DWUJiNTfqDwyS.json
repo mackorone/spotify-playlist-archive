@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 226800,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 246857,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7eosa57Y6VlIv4pR3Km0VD"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 276306,
       "name": "King Of Pain",
       "url": "https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW"
@@ -2987,6 +2987,28 @@
     },
     {
       "album": {
+        "name": "Still Waiting",
+        "url": "https://open.spotify.com/album/0Ha1jsS1Y0BZwiOK1mgWOc"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        },
+        {
+          "name": "FRANK ZUMMO",
+          "url": "https://open.spotify.com/artist/7xN9WPokBDyU1yTL2nxmjz"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160312,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4omQCDK1Q3ypzkKHZmQaPt"
+    },
+    {
+      "album": {
         "name": "Stinkfist",
         "url": "https://open.spotify.com/album/7cJIfNBzbMq45PrmEfRes5"
       },
@@ -3132,6 +3154,46 @@
       "duration_ms": 321040,
       "name": "Take A Look Around",
       "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+    },
+    {
+      "album": {
+        "name": "Take on Me (Musora Session)",
+        "url": "https://open.spotify.com/album/1Y7yz5tBAwDJIpkEnGCbuS"
+      },
+      "artists": [
+        {
+          "name": "Leprous",
+          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
+        },
+        {
+          "name": "Musora",
+          "url": "https://open.spotify.com/artist/60Qtnm46ynKnGaaMjOjogW"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288361,
+      "name": "Take on Me - Musora Session",
+      "url": "https://open.spotify.com/track/4kXXgjWfmCgK0uR1kSqvFb"
+    },
+    {
+      "album": {
+        "name": "The Boys Of Summer",
+        "url": "https://open.spotify.com/album/0U8Ty5IZvoZ1BydK9JXfkD"
+      },
+      "artists": [
+        {
+          "name": "Brainstorm",
+          "url": "https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308352,
+      "name": "The Boys of Summer",
+      "url": "https://open.spotify.com/track/4cGm59Q3dinKH3QBcJi5iT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > The women whose music and influence rock our world\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,849 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,848 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 47 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:39 |
 | 48 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
 | 49 | [Not Hell, Not Heaven](https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 3:01 |
-| 50 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
-| 51 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 50 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
+| 51 | [catalogue](https://open.spotify.com/track/5VizV1ual1LIaf30Fx2yBD) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 3:14 |
 | 52 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
 | 53 | [Down to be wrong](https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Down to be wrong](https://open.spotify.com/album/4C5577NRnfQm2EpHvb17dW) | 4:09 |
 | 54 | [All Comes Crashing](https://open.spotify.com/track/4XRvI0XtqdOGYeC36VkbwA) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 4:23 |
@@ -86,17 +86,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 76 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
 | 77 | [T&A](https://open.spotify.com/track/7IpWpWnpsFPqZwc1ADfEwI) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [T&A](https://open.spotify.com/album/7flMmwfHZibsaY5ifPWKm2) | 3:45 |
 | 78 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
-| 79 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
-| 80 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
+| 79 | [the kids aren't alright](https://open.spotify.com/track/2tA1gvbmEhQ1nBtslqibFR) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [Love Me Forever](https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB) | 3:16 |
+| 80 | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [TEETHSUCKER \(YEA3x\)](https://open.spotify.com/album/3pS5fcf4omfdgFP14wvmqJ) | 2:18 |
 | 81 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
 | 82 | [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 |
 | 83 | [CRIMINAL](https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [CRIMINAL](https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5) | 3:47 |
 | 84 | [Carsick](https://open.spotify.com/track/0KJWZbtuvIdjal4URuxuPX) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/0prx7NS9nlNwrWVicNOXQS) | 2:44 |
 | 85 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |
 | 86 | [Lemonade](https://open.spotify.com/track/7yrYMaKFnsQlTvCUrxeLmQ) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Lemonade](https://open.spotify.com/album/2x24KNzED4B4Js3uXY8ZKE) | 3:26 |
-| 87 | [GREED](https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [GREED](https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u) | 2:50 |
-| 88 | [POPSICLE](https://open.spotify.com/track/7oJoH5blsIb8n7aU9eBGRT) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [POPSICLE](https://open.spotify.com/album/0YLrEQbq0MLYmDsqRWn4fA) | 3:35 |
-| 89 | [Sink Ya Teeth](https://open.spotify.com/track/0ABr9J6PURfUMOGwP8LI3h) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Afraid of Tomorrows](https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G) | 3:27 |
+| 87 | [POPSICLE](https://open.spotify.com/track/7oJoH5blsIb8n7aU9eBGRT) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [POPSICLE](https://open.spotify.com/album/0YLrEQbq0MLYmDsqRWn4fA) | 3:35 |
+| 88 | [Sink Ya Teeth](https://open.spotify.com/track/0ABr9J6PURfUMOGwP8LI3h) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Afraid of Tomorrows](https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G) | 3:27 |
+| 89 | [GREED](https://open.spotify.com/track/5qpCWNd0ueIuJUC3O2Y2bx) | [Royale Lynn](https://open.spotify.com/artist/7dvWKl1x7kPPPiDDBibQaK) | [GREED](https://open.spotify.com/album/6mhAQVkvHxd3DJPu0iVp7u) | 2:50 |
 | 90 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
 | 91 | [blindspot](https://open.spotify.com/track/0SqZvFpQbApABMTzwQ4rXh) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:27 |
 | 92 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 |

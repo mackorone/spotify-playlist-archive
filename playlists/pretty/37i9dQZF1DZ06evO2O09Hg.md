@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,649,659 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,649,725 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 22 | [Flaws And Sins](https://open.spotify.com/track/0flSGzqHO12p9fU9kqaHGE) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:38 |
 | 23 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 |
 | 24 | [The Way \(with XXXTENTACION\)](https://open.spotify.com/track/2k9rPIll2pIHTfwD87Ssbh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Legends Never Die \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5BabrsTZzvGJQgrAfLMM18) | 3:50 |
-| 25 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |
-| 26 | [Hurt Me](https://open.spotify.com/track/3XRQT7EoS4U87rUuJwg5P3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:02 |
+| 25 | [Hurt Me](https://open.spotify.com/track/3XRQT7EoS4U87rUuJwg5P3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 2:02 |
+| 26 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/7pOwvbmszmfUmKlZoiMnGh) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/3hHy7rbqe1OvUZ1B2qvJ59) | 3:16 |
 | 27 | [Legends](https://open.spotify.com/track/6BjtaWm1T4kDWAqHrf8vEi) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:12 |
 | 28 | [Suicidal \(feat\. Juice WRLD\) \- Remix](https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Suicidal \(Remix\) \[feat\. Juice WRLD\]](https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH) | 3:45 |
-| 29 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 |
-| 30 | [Black & White](https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:06 |
+| 29 | [Black & White](https://open.spotify.com/track/1fCeXjoRExPP2qwSBh2aST) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:06 |
+| 30 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 |
 | 31 | [Bandit \(with YoungBoy Never Broke Again\)](https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:09 |
 | 32 | [Misfit](https://open.spotify.com/track/4oFhT5d5TDTJnkc22hiczk) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends 2.0](https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph) | 2:39 |
 | 33 | [Cigarettes](https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 49 | [Blastoff \(feat\. Juice WRLD\)](https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 50 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 |
 
-Snapshot ID: `aKO+gAAAAABjGJMCmRw268tdCO7Hn6Bq`
+Snapshot ID: `aKZhgAAAAAA8+NiRZBWKmmCO4yGK2fZR`

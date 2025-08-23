@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 
 > Música refrescante, para vencer el calor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,220 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,232 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxHKfMUcVv1.md) - [plain]
 | 26 | [Tus Ojos No Me Ven \- feat\. Joewell y Randy](https://open.spotify.com/track/09xnGXVrbniWV4mLTgGyD5) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Tus Ojos No Me Ven \(feat\. Jowell y Randy and El Gorila\)](https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn) | 4:39 |
 | 27 | [La Mami Que Mas Quiero](https://open.spotify.com/track/0GFknDDycu3HvtlFlBK5h6) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:24 |
 | 28 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 |
-| 29 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
+| 29 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
 | 30 | [Quiero!](https://open.spotify.com/track/6uUEOBVkxDJZpcDGRnTPRq) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Agua Para El Mar](https://open.spotify.com/album/5INujTECiddlYoZWh72FGZ) | 3:05 |
-| 31 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 |
+| 31 | [A Tu Lado](https://open.spotify.com/track/4CB6Ih8Zuj8XqA9Z0dv0dw) | [Flou](https://open.spotify.com/artist/0YubN7dhD1kcJe7KtALAHk) | [Tácito](https://open.spotify.com/album/4AmKPsiZ7EfXD753LkqFj3) | 4:03 |
 | 32 | [El Solo](https://open.spotify.com/track/06CeEkSJ834D9jTT3posh6) | [Revolber](https://open.spotify.com/artist/2s7biaf5EUXCa08iWBL3Kn) | [Kaimonomacaco](https://open.spotify.com/album/2U1Nf26RYrUngfJxeyszk1) | 4:27 |
 | 33 | [Soy De Mi Tierra](https://open.spotify.com/track/74DxLHmbHDSsUQhs3v8kqI) | [Pablo Benegas](https://open.spotify.com/artist/1w3h0mrPhK98mFPP6eiMgp) | [Canciones Rotas](https://open.spotify.com/album/0gzoNPu1co0CfO6Bmoz2yM) | 3:30 |
 | 34 | [En Las Calles](https://open.spotify.com/track/5xeWKH7GcUCKM6aLtzkSm5) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [En Las Calles](https://open.spotify.com/album/03dGvr1nMBKbUUlTAEDgFF) | 2:41 |

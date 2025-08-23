@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. The essential tracks, all in one playlist.",
-  "num_followers": 155253,
+  "num_followers": 155270,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADuN3BvOGExoGZPpsX3nUA2",
+  "snapshot_id": "aKZhgAAAAACwXJ5a4hx5jQUCvcKQP4d9",
   "tracks": [
     {
       "added_at": null,
@@ -327,6 +327,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
+        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        }
+      ],
+      "duration_ms": 173984,
+      "name": "terminei recentemente",
+      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -419,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Sou Santo Mas N\u00e3o Sou Bandido",
-        "url": "https://open.spotify.com/album/0SLQorSjD7PmKDMcP9H9ml"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        }
-      ],
-      "duration_ms": 173984,
-      "name": "terminei recentemente",
-      "url": "https://open.spotify.com/track/32Pnch1VwRe5aEubdr5SaH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -459,6 +459,38 @@
       "duration_ms": 216435,
       "name": "N\u00e3o Mente Pra Mentiroso",
       "url": "https://open.spotify.com/track/2KPe2njS3gPm5yjGhl58lw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "442",
+        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 125760,
+      "name": "Vida Rasa",
+      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
     },
     {
       "added_at": null,
@@ -511,38 +543,6 @@
       "duration_ms": 682816,
       "name": "Poesia Ac\u00fastica #10 Recome\u00e7ar",
       "url": "https://open.spotify.com/track/2F2f4Bg37EB6vCoRIcyzCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "442",
-        "url": "https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 125760,
-      "name": "Vida Rasa",
-      "url": "https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG"
     },
     {
       "added_at": null,
@@ -971,6 +971,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 317340,
+      "name": "BEM MELHOR",
+      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberdade",
         "url": "https://open.spotify.com/album/6vFQ9dJq1sFwBm9SvKirzi"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 225365,
       "name": "AK de Bip\u00e9",
       "url": "https://open.spotify.com/track/45AGZPv5djNJj0CH6sEjjp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 317340,
-      "name": "BEM MELHOR",
-      "url": "https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b"
     },
     {
       "added_at": null,
@@ -1111,22 +1111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confia: Sonho de Cria - Trilha Sonora",
-        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 206309,
-      "name": "Blindado por Deus",
-      "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUITA ONDA",
         "url": "https://open.spotify.com/album/2WMPOyfjd59nxbXmLlo4n4"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 150508,
       "name": "NA ONDA",
       "url": "https://open.spotify.com/track/4IavDOfEOKg8zzdfCx9TmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confia: Sonho de Cria - Trilha Sonora",
+        "url": "https://open.spotify.com/album/7hK2s7g8yU1a8ULW4AuVBf"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 206309,
+      "name": "Blindado por Deus",
+      "url": "https://open.spotify.com/track/4O1JF5Yngbc9jc7doenL4n"
     },
     {
       "added_at": null,
@@ -1199,26 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ainda",
         "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 207104,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3lbkPMBvM2hmgx4nDqLqvb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
     },
     {
       "added_at": null,
@@ -1275,6 +1275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 170432,
+      "name": "depois da meia noite",
+      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Cara do Crime 2 (Cansou de Playboy)",
         "url": "https://open.spotify.com/album/40CPfMR1GrVD0KHUBqpKD0"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 265411,
       "name": "A Cara do Crime 2 (Cansou de Playboy)",
       "url": "https://open.spotify.com/track/7KPhwNko8V9vYBIN653hSO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 170432,
-      "name": "depois da meia noite",
-      "url": "https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI"
     },
     {
       "added_at": null,

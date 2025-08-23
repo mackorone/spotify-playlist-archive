@@ -743,6 +743,24 @@
     },
     {
       "album": {
+        "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/53mtO02lIp0MrMv3zccDYB"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165022,
+      "name": "Spit XXV",
+      "url": "https://open.spotify.com/track/4XXmMpTVgc0tZYmGVnnRRL"
+    },
+    {
+      "album": {
         "name": "Spit",
         "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
       },

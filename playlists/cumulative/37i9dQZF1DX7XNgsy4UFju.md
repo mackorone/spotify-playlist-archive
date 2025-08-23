@@ -2,7 +2,7 @@
 
 ### [Indie All Stars](https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju)
 
-> The best indie tracks of the moment\. Cover: Mac Demarco
+> The best indie tracks of the moment\. Cover: Mac DeMarco
 
 2,430 songs - 5 day 23 hr 16 min
 
@@ -2181,7 +2181,7 @@
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-16 | 2022-09-03 |
 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 | 2025-05-23 | 2025-06-21 |
 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 | 2022-09-09 | 2022-10-22 |
-| [Too Loud \(feat\. Phantogram\)](https://open.spotify.com/track/1KyLeMC2u5BboI2Il5B59a) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Too Loud \(feat\. Phantogram\)](https://open.spotify.com/album/3nvBtn93xogbmzrl72QUOE) | 2:50 | 2025-08-22 |  |
+| [Too Loud \(feat\. Phantogram\)](https://open.spotify.com/track/1KyLeMC2u5BboI2Il5B59a) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Too Loud](https://open.spotify.com/album/3nvBtn93xogbmzrl72QUOE) | 2:50 | 2025-08-22 |  |
 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 | 2024-02-09 | 2024-05-03 |
 | [Too Much](https://open.spotify.com/track/2FZ2Mz0gZHQkwYP8yJ2bqs) | [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [Star People](https://open.spotify.com/album/42MsLv5bRCtL7fnZuilczx) | 2:46 | 2025-02-21 | 2025-05-24 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-07 | 2025-05-31 |

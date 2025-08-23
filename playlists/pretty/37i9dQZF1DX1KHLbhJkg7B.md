@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Brooks & Dunn
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,246 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,287 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 76 | [I Swear](https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Love Songs](https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i) | 4:22 |
 | 77 | [This Land Is Your Land](https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [This Land Is Your Land \(From Bright: The Album\)](https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS) | 2:34 |
 | 78 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
-| 79 | [Wicked Game](https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Wicked Game](https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ) | 6:11 |
-| 80 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 |
+| 79 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 |
+| 80 | [Wicked Game](https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Wicked Game](https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ) | 6:11 |
 | 81 | [From Now On](https://open.spotify.com/track/12Vx40wfME4VOq5D4qHFu5) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [From Now On](https://open.spotify.com/album/0J6JXu3o3jApCFVcJmLa7p) | 4:02 |
 | 82 | [Chasing Cars](https://open.spotify.com/track/5ysaeGRQwnO01L6OjXq8PA) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Chasing Cars](https://open.spotify.com/album/1eY89cApAgmtGED00mXrhQ) | 4:25 |
 | 83 | [Lookin' for Love](https://open.spotify.com/track/1VmR7aU6sK05IrpiPpyXRB) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Odies But Goodies](https://open.spotify.com/album/4MLVZbUTUhuLlkosego64Q) | 3:30 |

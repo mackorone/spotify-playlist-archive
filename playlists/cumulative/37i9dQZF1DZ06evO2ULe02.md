@@ -4,7 +4,7 @@
 
 > This is Aidan Bissett\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 48 min
+37 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2024-01-10 |  |
 | [People Pleaser](https://open.spotify.com/track/23poOrvCs7LgiluX0Bcye0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:10 | 2024-01-10 |  |
 | [Planet](https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova \(Extended\)](https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu) | 3:06 | 2024-02-24 |  |
-| [reading into it](https://open.spotify.com/track/1EcAOOemRpWOmCxk0ebTW7) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:00 | 2025-07-27 |  |
+| [reading into it](https://open.spotify.com/track/1EcAOOemRpWOmCxk0ebTW7) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:00 | 2025-07-27 | 2025-08-23 |
+| [reading into it](https://open.spotify.com/track/5ApnrwxpgMOETU50C9JjzM) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/1foP3pzYC5Y8aND9ahImLY) | 3:00 | 2025-08-23 |  |
 | [ricochet](https://open.spotify.com/track/3AEUeL7mrkKR2g7Sv6YiZp) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [ricochet](https://open.spotify.com/album/0j1LBrdQ3rD8z0xtTdny71) | 3:07 | 2025-05-07 |  |
 | [ricochet](https://open.spotify.com/track/76xzDSAEc0bnRykhiOaekb) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [ricochet](https://open.spotify.com/album/1OTf7RvlqRhUqLHnzeFBEV) | 3:07 | 2025-04-06 | 2025-05-07 |
 | [Sick](https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Sick](https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J) | 2:16 | 2024-01-10 |  |
@@ -40,7 +41,7 @@
 | [Tripping Over Air](https://open.spotify.com/track/7mzPAftljnsFmU6131Pqcd) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Tripping Over Air](https://open.spotify.com/album/6ZJonF00gkXNSTSI2PwyrC) | 3:02 | 2024-01-10 |  |
 | [Twenty Something](https://open.spotify.com/track/0sClb4tEbII8qmV2KOwGLj) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Twenty Something](https://open.spotify.com/album/0KcHTndjLUNgMX6oZEZdO6) | 3:09 | 2024-01-10 |  |
 | [Ultraviolet](https://open.spotify.com/track/32FPFLjaoYds78ZWldtYW0) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Ultraviolet](https://open.spotify.com/album/5Jc95FMhIKOJSdUUvqFMJc) | 3:25 | 2024-01-10 |  |
-| [weak end](https://open.spotify.com/track/1P7cPzx1YZeDctDcxq7apL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:25 | 2025-07-27 |  |
+| [weak end](https://open.spotify.com/track/1P7cPzx1YZeDctDcxq7apL) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [shut up and love me](https://open.spotify.com/album/6VOWZUUnwIG6L1nl02Fpks) | 3:25 | 2025-07-27 | 2025-08-23 |
 | [Wish It Was Me](https://open.spotify.com/track/502J28cZ41J5fP3UTx9cOp) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [How’s It Gonna End? Tour Setlist](https://open.spotify.com/album/7csEaA2IcLhGNi4vQ5RjFv) | 2:33 | 2024-05-17 | 2024-06-26 |
 | [Wish It Was Me](https://open.spotify.com/track/5znIh3KjSph3m7wCJsGgRY) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 2:33 | 2024-01-10 |  |
 | [Worst Girls of All Time](https://open.spotify.com/track/5DhTYNLmJUP04UgLtEVr6P) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Worst Girls Of All Time](https://open.spotify.com/album/3XAiXgEEpeHacZxAgbL6Hm) | 2:53 | 2024-01-10 |  |

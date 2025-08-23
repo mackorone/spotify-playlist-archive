@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 97251,
+  "num_followers": 97267,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "PWOTEJE M",
+        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "duration_ms": 174216,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Ti Sesi Ti Sela",
         "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 173113,
       "name": "Ti Sesi Ti Sela",
       "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "PWOTEJE M",
-        "url": "https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        }
-      ],
-      "duration_ms": 174216,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ha\u00eftian Troubadours, Vol. 1",
-        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
-      },
-      "artists": [
-        {
-          "name": "Roberto Martino",
-          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
-        }
-      ],
-      "duration_ms": 363533,
-      "name": "Tu me touches",
-      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Bizou",
         "url": "https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 176363,
       "name": "Bizou",
       "url": "https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ha\u00eftian Troubadours, Vol. 1",
+        "url": "https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y"
+      },
+      "artists": [
+        {
+          "name": "Roberto Martino",
+          "url": "https://open.spotify.com/artist/1LlAEA6FVwu1yktITg19c3"
+        }
+      ],
+      "duration_ms": 363533,
+      "name": "Tu me touches",
+      "url": "https://open.spotify.com/track/2S8l6VV2CgrJaF5EEKRaOF"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Destine",
         "url": "https://open.spotify.com/album/6Flf2DOsPulbPU1RhIPce2"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 211000,
       "name": "Destine",
       "url": "https://open.spotify.com/track/0QkRbTovjKCtXILFF3FJD7"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "SIWO",
-        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 229491,
-      "name": "SIWO",
-      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "White Flower",
         "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "SIWO",
+        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 229491,
+      "name": "SIWO",
+      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Tou Limen",
-      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "LAKAY",
         "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Tou Limen",
+      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
-      },
-      "artists": [
-        {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
-        }
-      ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Say It Like",
         "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 174720,
       "name": "Say It Like",
       "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
     },
     {
       "added_at": "2025-07-25 04:00:50",

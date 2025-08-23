@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-245 songs - 14 hr 57 min
+246 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Kind Of Confession \- Male Version](https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s) | [Kwak jineon](https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD) | [My Liberation Notes OST Part 9](https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV) | 3:56 | 2022-06-20 |  |
 | [A Trivial Story](https://open.spotify.com/track/057qC3IXkjXt12NAkhkCpf) | [Jeon Jin Hee](https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg) | [Without Anyone Knowing](https://open.spotify.com/album/5oRAyWl80nzViSRTuCoO6A) | 3:32 | 2024-04-09 |  |
 | [Abnormal Climate](https://open.spotify.com/track/67dt4RsTHDhCTbnrqKzhX9) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/0XHinGNkFWk58KpzLxU5QF) | 4:06 | 2022-06-20 | 2022-08-10 |
+| [After the rain](https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Law and The City, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/5jw9rhuN8Obf3JXzDvtYER) | 3:27 | 2025-08-12 |  |
 | [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 | 2023-08-23 |
 | [alarm](https://open.spotify.com/track/3rLJg6e2JKJBaQL1LTBHJO) | [saeneok](https://open.spotify.com/artist/0HFyqg6Dwupd1p9SbNDEzL) | [tinge](https://open.spotify.com/album/6PzWM3WP8bBlBlY1a90vjT) | 6:12 | 2022-07-04 | 2022-07-09 |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 |  |
@@ -78,7 +79,7 @@
 | [Fool to love \(feat\. RIPLEY\)](https://open.spotify.com/track/4wHCW3I1Q6DO2oKVsK0ZYV) | [KozyPop](https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ) | [Seoul Vibes, Pt\. 1](https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL) | 2:44 | 2022-07-22 | 2022-08-03 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-20 | 2022-07-05 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-09-05 |  |
-| [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 | 2022-06-20 |  |
+| [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 | 2022-06-20 | 2025-08-23 |
 | [Full Moon](https://open.spotify.com/track/0TVNwwR03yg6MvkDn12Oy3) | [kimujoo](https://open.spotify.com/artist/73uqvuVKEZuS1oWupN2Btf) | [When I'm With You](https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp) | 4:34 | 2022-06-29 | 2022-07-20 |
 | [girl in red](https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [girl in red](https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC) | 2:39 | 2022-07-13 | 2022-08-14 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2022-06-20 | 2022-07-05 |

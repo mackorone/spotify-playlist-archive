@@ -4,12 +4,12 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-480 songs - 1 day 2 hr 45 min
+481 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2023-08-12 |
-| [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 | 2022-01-07 |  |
+| [911](https://open.spotify.com/track/2JdhkE7xcEhfk7B646bdG8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [911](https://open.spotify.com/album/0GxclqIrIal5mWf9vrxnv4) | 2:46 | 2022-01-07 | 2025-08-23 |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 | 2024-04-19 |
 | [a million pieces](https://open.spotify.com/track/0d3tToV7ij5cyyuhgH7i9d) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [a million pieces](https://open.spotify.com/album/3qIVcwsotrVvUQ2VaT7OQN) | 2:47 | 2020-11-13 | 2022-03-26 |
 | [A Spike Lee Jawn](https://open.spotify.com/track/1mVwiaFemt52tNFQJLOpN2) | [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP), [Krystal Metcalfe](https://open.spotify.com/artist/6ctaYEvBlm9mw2Sr0fADf7) | [A Spike Lee Jawn](https://open.spotify.com/album/7JOKRvAKfLJ8sIBD3b1mCA) | 4:11 | 2021-09-21 | 2022-04-22 |
@@ -435,6 +435,7 @@
 | [trouble](https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD) | [Dylan Reese](https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy) | [trouble](https://open.spotify.com/album/2vJVkhXPsDQNXlnrMXPNNj) | 2:51 | 2020-11-27 | 2022-03-23 |
 | [Trust the Change](https://open.spotify.com/track/5dP49R640BUhgm94Q2jcwR) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Trust the change](https://open.spotify.com/album/26RHkcqDWEtACz7jzUERXu) | 3:21 | 2022-10-14 | 2023-01-12 |
 | [Turn Me Up](https://open.spotify.com/track/7KKB3IMxdBwiAvayp6m8DE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Turn Me Up](https://open.spotify.com/album/42PxlWO8vKHRzGRquHvhhy) | 3:53 | 2020-11-13 | 2022-01-05 |
+| [Turn This Love Around](https://open.spotify.com/track/1NTMY22seuV6Rvvt8BYTnN) | [Mondo Freaks](https://open.spotify.com/artist/5Bb3BN9iluGrIHhDcpuKiL) | [Turn This Love Around](https://open.spotify.com/album/6QaL165e30ANBH3oj5X7Ll) | 5:16 | 2025-08-22 |  |
 | [Turn Up](https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [The Futuristics](https://open.spotify.com/artist/0qiu2HDyU3u01mZXg5zS7t) | [Turn Up](https://open.spotify.com/album/0LPcMt88koQMtVEhy3aS85) | 2:21 | 2022-05-27 | 2024-02-03 |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2021-09-21 | 2023-02-18 |
 | [Twilight](https://open.spotify.com/track/16IKV5rIM4hwmIhPsYOScC) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Jayy Starr](https://open.spotify.com/artist/17GrFxi33siNMnj43wG3lv) | [Happiness](https://open.spotify.com/album/5b0Hzsa9VcJDfDlycOLjBc) | 2:36 | 2022-04-22 | 2023-11-04 |

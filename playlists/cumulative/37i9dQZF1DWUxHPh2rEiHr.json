@@ -1373,6 +1373,28 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY BEHAVIOR",
+        "url": "https://open.spotify.com/album/1dz5ClokzJAs3O52DN56GW"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "BIRTHDAY BEHAVIOR",
+      "url": "https://open.spotify.com/track/0yJrDAac79G2AJcqobXqyu"
+    },
+    {
+      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -3965,6 +3987,28 @@
     },
     {
       "album": {
+        "name": "Gabriela (with Young Miko) [Young Miko Remix]",
+        "url": "https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198809,
+      "name": "Gabriela (with Young Miko) - Young Miko Remix",
+      "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
+    },
+    {
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -4144,7 +4188,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 189090,
       "name": "Girl of Your Dreams",
       "url": "https://open.spotify.com/track/7AVZ2T5nku3TKyZlPPXLEd"
@@ -4892,7 +4936,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 123692,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/6XTU69FaoVOajBXBOP6WhG"
@@ -5092,7 +5136,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 196524,
       "name": "iPod Touch",
       "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
@@ -5872,7 +5916,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-14",
+      "date_removed": null,
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
@@ -5952,7 +5996,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 158993,
       "name": "LE LE LE",
       "url": "https://open.spotify.com/track/3v3tsNFYDbiv0SzFFT6FcA"
@@ -6028,7 +6072,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
@@ -6054,6 +6098,28 @@
       "duration_ms": 159819,
       "name": "LET'S GET CRAZY! (Mambo Drop)",
       "url": "https://open.spotify.com/track/4q5pdsB1bsZRu9BgewM7j9"
+    },
+    {
+      "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "Kevin Abstract",
+          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205881,
+      "name": "LIAR?",
+      "url": "https://open.spotify.com/track/6AOQxwQWLrsG6wBZuRF4K4"
     },
     {
       "album": {
@@ -7298,7 +7364,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
@@ -8396,7 +8462,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -9090,7 +9156,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 167180,
       "name": "Papasito",
       "url": "https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t"
@@ -9148,7 +9214,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 204695,
       "name": "Paro",
       "url": "https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi"
@@ -10916,13 +10982,13 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         },
         {
-          "name": "Moliy",
+          "name": "MOLIY",
           "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         }
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-22",
+      "date_removed": null,
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
@@ -11690,7 +11756,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
@@ -12320,7 +12386,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 183374,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
@@ -12368,7 +12434,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 161506,
       "name": "Tek Tek (feat. MHD)",
       "url": "https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1"
@@ -13039,6 +13105,24 @@
     },
     {
       "album": {
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110495,
+      "name": "TU VAS SIN (fav)",
+      "url": "https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR"
+    },
+    {
+      "album": {
         "name": "Tubar\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
       },
@@ -13493,6 +13577,28 @@
     },
     {
       "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+    },
+    {
+      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -13548,6 +13654,28 @@
       "duration_ms": 176898,
       "name": "Vent",
       "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "album": {
+        "name": "Tropicoqueta",
+        "url": "https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210047,
+      "name": "Verano Rosa",
+      "url": "https://open.spotify.com/track/0nafF9MxcXJBQWv3BTKtdF"
     },
     {
       "album": {

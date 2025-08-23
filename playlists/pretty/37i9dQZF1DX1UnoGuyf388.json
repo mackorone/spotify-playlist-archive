@@ -1,13 +1,45 @@
 {
   "description": "Pop music driving the current, every week.  Cover: 24kGoldn",
-  "num_followers": 36712,
+  "num_followers": 36734,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO1dhi6MLwZo00WpB3Xc3TA0JStu",
+  "snapshot_id": "AAAAAIKs8Q04GukcLQFzk8I7uEV4Deh5",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:35",
+      "album": {
+        "name": "Jealous Type",
+        "url": "https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 163647,
+      "name": "Jealous Type",
+      "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
+    },
+    {
+      "added_at": "2025-08-22 04:00:35",
+      "album": {
+        "name": "Monochrome: The White Album",
+        "url": "https://open.spotify.com/album/1aL1EchZPlpRwY07pJ6Zub"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "duration_ms": 156896,
+      "name": "SUPERSONIC",
+      "url": "https://open.spotify.com/track/3xaw7lWf3dmYsl7RZ8iMDn"
+    },
     {
       "added_at": "2025-07-25 04:15:26",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/15ioRljMDBXZUYkaZMIOgj"
     },
     {
+      "added_at": "2025-08-22 04:00:35",
+      "album": {
+        "name": "Rock A Bye Baby",
+        "url": "https://open.spotify.com/album/0qeaBZwHMVi9JEJFy7OWuy"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 170579,
+      "name": "Rock A Bye Baby",
+      "url": "https://open.spotify.com/track/2Y0fvcpV5pfIuXlgRgZimn"
+    },
+    {
       "added_at": "2025-08-08 04:00:41",
       "album": {
         "name": "BLACK STAR",
@@ -39,6 +87,22 @@
       "duration_ms": 220167,
       "name": "Fineshyt",
       "url": "https://open.spotify.com/track/0uYNYSkMBQzU0UmVh20BzW"
+    },
+    {
+      "added_at": "2025-08-22 04:00:35",
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/3fKYHJgBUoEnjmiTzzuhb4"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 205978,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/5SkXIcRHzkOcR3E1iRpyEA"
     },
     {
       "added_at": "2025-08-08 04:00:41",
@@ -123,6 +187,26 @@
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
+    },
+    {
+      "added_at": "2025-08-22 04:00:35",
+      "album": {
+        "name": "spark",
+        "url": "https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO"
+      },
+      "artists": [
+        {
+          "name": "Jewel Owusu",
+          "url": "https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW"
+        },
+        {
+          "name": "Cydnee with a C",
+          "url": "https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU"
+        }
+      ],
+      "duration_ms": 188657,
+      "name": "spark",
+      "url": "https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb"
     },
     {
       "added_at": "2025-07-18 04:00:34",

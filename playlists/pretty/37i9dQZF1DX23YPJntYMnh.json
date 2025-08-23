@@ -1,13 +1,37 @@
 {
   "description": "Funk. But heavier. Cover: Red Hot Chili Peppers",
-  "num_followers": 477058,
+  "num_followers": 477059,
   "original_name": "Funk Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO6r+WDORqvDbNm/SA8XuR7UQa9V",
+  "snapshot_id": "AAAAAIBfCcP92whJM9nYG71QX9WpsiY5",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:23",
+      "album": {
+        "name": "MOTIVES",
+        "url": "https://open.spotify.com/album/09BBUL2bTQhYexSTh6IZ9P"
+      },
+      "artists": [
+        {
+          "name": "Sam Pounds",
+          "url": "https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        },
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 185941,
+      "name": "ELECTRIC CAR",
+      "url": "https://open.spotify.com/track/6p3tSAq6u71YgvlBeLQaWB"
+    },
     {
       "added_at": "2025-04-11 04:00:17",
       "album": {
@@ -1155,22 +1179,6 @@
       "duration_ms": 227160,
       "name": "Tahitian Moon",
       "url": "https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr"
-    },
-    {
-      "added_at": "2022-02-04 05:02:00",
-      "album": {
-        "name": "Mas Borracho",
-        "url": "https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH"
-      },
-      "artists": [
-        {
-          "name": "Infectious Grooves",
-          "url": "https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9"
-        }
-      ],
-      "duration_ms": 277173,
-      "name": "Please Excuse This Funk Up",
-      "url": "https://open.spotify.com/track/2RPs5rAbwaMrjlguUC9jux"
     },
     {
       "added_at": "2022-02-25 05:02:00",

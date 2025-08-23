@@ -1,13 +1,53 @@
 {
-  "description": "Featuring that new vintage. Cover: Stacey Ryan",
-  "num_followers": 415539,
+  "description": "Featuring that new vintage. Cover: Jon Batiste",
+  "num_followers": 415514,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ1GDDmnATktdABafpwrV8GTIK2S",
+  "snapshot_id": "AAAAALQGr8tK1tSPLtTYkNnBDTh3pWsT",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "BIG MONEY",
+        "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 251502,
+      "name": "LEAN ON MY LOVE (feat. Andra Day)",
+      "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
+    },
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "Lake Street Dive & Lawrence: The City Winery Sessions",
+        "url": "https://open.spotify.com/album/4JXSKZu11Q1h5ilBzP44Ay"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        },
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Good Together - The City Winery Sessions",
+      "url": "https://open.spotify.com/track/32xRyR7TB4hM6GuNIFf9gk"
+    },
     {
       "added_at": "2025-08-15 04:00:07",
       "album": {
@@ -23,6 +63,22 @@
       "duration_ms": 160869,
       "name": "The Good Ones",
       "url": "https://open.spotify.com/track/2NUn1Hn7bCY4ez5UC80yu8"
+    },
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "Flash in the Pan!",
+        "url": "https://open.spotify.com/album/4HRUvJFnGre9wrv6K5NswS"
+      },
+      "artists": [
+        {
+          "name": "Samantha Gongol",
+          "url": "https://open.spotify.com/artist/6TMM7uR24St1X9c3oGcJ8y"
+        }
+      ],
+      "duration_ms": 176665,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/7z8q60XsLfBVsYOtRtJ5YK"
     },
     {
       "added_at": "2025-08-15 04:00:07",
@@ -609,22 +665,6 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-06-03 18:25:24",
-      "album": {
-        "name": "Family Business",
-        "url": "https://open.spotify.com/album/4kRZDysdXZ5yeaRFxq84io"
-      },
-      "artists": [
-        {
-          "name": "Lawrence",
-          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Family Business",
-      "url": "https://open.spotify.com/track/5n9pyX45eekUCi7BjqQlMg"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "One Life",
@@ -763,22 +803,6 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Better Not Tell You",
-        "url": "https://open.spotify.com/album/07N07mwMao3iOtwMjw5OtH"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 192285,
-      "name": "Better Not Tell You",
-      "url": "https://open.spotify.com/track/5mafSoMbFyCx7vFq0ckArX"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -1451,22 +1475,6 @@
       "duration_ms": 191012,
       "name": "When You Lose Someone (Acoustic)",
       "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Heaven Knows",
-        "url": "https://open.spotify.com/album/1Y9V7wuiJFJGZe5eGuMuMb"
-      },
-      "artists": [
-        {
-          "name": "Mica Millar",
-          "url": "https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Flashlights",
-      "url": "https://open.spotify.com/track/4QChFDoSayiY4DxxMjDNOf"
     },
     {
       "added_at": "2022-09-02 04:01:00",

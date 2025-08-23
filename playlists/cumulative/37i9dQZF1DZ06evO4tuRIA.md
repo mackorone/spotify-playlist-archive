@@ -4,7 +4,7 @@
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-102 songs - 4 hr 57 min
+104 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,11 +70,12 @@
 | [La Madrugada](https://open.spotify.com/track/1YjkB7y1ab01bX0e7YtE9Q) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [La Madrugada](https://open.spotify.com/album/6bcJJPXLOd0mpMc3eV6NYv) | 2:57 | 2025-03-16 |  |
 | [La Pantera \(En Vivo\)](https://open.spotify.com/track/2vSDe7NmcUKevlHqhz59EX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Legado 7 En Vivo Desde OK Corral](https://open.spotify.com/album/1bNnwGGHLOIhfx3Qn3bsAP) | 3:11 | 2024-01-29 | 2025-04-23 |
 | [Las Caravanas](https://open.spotify.com/track/3geTjtaleLUKu8yIkj3A14) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Las Caravanas](https://open.spotify.com/album/2nYuw5IYnD73NmPzjL0vjP) | 3:17 | 2024-01-29 | 2024-08-27 |
-| [LOKO](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LOKO](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 | 2025-02-02 |  |
+| [LOKO](https://open.spotify.com/track/2ULfDRz0Ik8E8M9RzWV2LZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:11 | 2025-08-23 |  |
+| [LOKO](https://open.spotify.com/track/3lTjESpDlyIwNihI8bvAvA) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [LOKO](https://open.spotify.com/album/1KL3SxgCaWbUpPErlkDydx) | 2:11 | 2025-02-02 | 2025-08-23 |
 | [LOS ESPAÑOLES](https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:39 | 2025-05-30 |  |
 | [Los Recuerdos \(feat\. Arsenal Efectivo\)](https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 3:49 | 2024-01-29 | 2024-04-03 |
 | [MAKABELICOS](https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MAKABELICOS](https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei) | 3:07 | 2024-04-15 |  |
-| [ME VALE LO QUE DIGAN](https://open.spotify.com/track/21iCh1TEu9d6Q4y2eWklHQ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:09 | 2025-04-23 |  |
+| [ME VALE LO QUE DIGAN](https://open.spotify.com/track/21iCh1TEu9d6Q4y2eWklHQ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:09 | 2025-04-23 | 2025-08-23 |
 | [MI LEGADO](https://open.spotify.com/track/0xBYSGk94rSLjMKYCQgAXZ) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:30 | 2025-04-24 | 2025-05-17 |
 | [Mi Talento](https://open.spotify.com/track/5AXJJsYCu7WafYOqM9gPom) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:29 | 2024-08-31 | 2025-02-04 |
 | [MIKE TYSON](https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:48 | 2025-04-20 |  |
@@ -85,6 +86,7 @@
 | [On D Gas](https://open.spotify.com/track/2HSqF98IZ3OIGVUHHUwGdV) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Kane Rodriguez](https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:21 | 2024-08-25 |  |
 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 | 2024-01-29 |  |
 | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/track/0PXsTgZLZkpEJepjyZAGTS) | [Jaime Y Fernando](https://open.spotify.com/artist/6hd4yoO98vmwUq150wB5gm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Paso En Culiacan \(En Vivo\)](https://open.spotify.com/album/6dWQ03bpI9ODThTAlqKWbP) | 4:00 | 2024-01-29 | 2024-06-22 |
+| [Pateando Latas](https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2) | 3:11 | 2025-08-23 |  |
 | [Pateando Latas](https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4q02YCUCtiUpDcUZ75D561) | 3:11 | 2024-01-29 | 2025-04-25 |
 | [Plata](https://open.spotify.com/track/1nmmWHhizEQ742gaAgnTjB) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Redención](https://open.spotify.com/album/0L0WsHBFK6x1FdsobtH9Ko) | 2:54 | 2025-05-11 |  |
 | [Poncho Conos](https://open.spotify.com/track/6L2ugDskedkgyiLYztaFj8) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 2:46 | 2024-08-28 | 2025-04-24 |

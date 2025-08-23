@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 242268,
+  "num_followers": 242340,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADy1dTI5ih8PZwo/Fz06/RA",
+  "snapshot_id": "aKZhgAAAAACfyoBp+QJuSoM1vnJKb4Fi",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eros (Spanish Version)",
-        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "Cuanto Amor Me Das",
-      "url": "https://open.spotify.com/track/4gmrjSmunlRmIOWq9JtzSe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuovi Eroi [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/2f5XCS5aYFMyxzIz7uKcMU"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 251893,
       "name": "Una storia importante - Remastered 2021",
       "url": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eros (Spanish Version)",
+        "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "Cuanto Amor Me Das",
+      "url": "https://open.spotify.com/track/4gmrjSmunlRmIOWq9JtzSe"
     },
     {
       "added_at": null,
@@ -559,22 +559,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Vida",
-        "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        },
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 210626,
-      "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
-      "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
+      "duration_ms": 253053,
+      "name": "Una Historia Importante - Remastered 2021",
+      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
     },
     {
       "added_at": null,
@@ -595,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+        "name": "Hay Vida",
+        "url": "https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC"
       },
       "artists": [
         {
           "name": "Eros Ramazzotti",
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 253053,
-      "name": "Una Historia Importante - Remastered 2021",
-      "url": "https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX"
+      "duration_ms": 210626,
+      "name": "Por Las Calles Las Canciones (feat. Luis Fonsi)",
+      "url": "https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "Ahora Tu - Remastered 2021",
+      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Ogni Senso",
         "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 240760,
-      "name": "Ahora Tu - Remastered 2021",
-      "url": "https://open.spotify.com/track/777VmtueWDFtUTs0HwvKLD"
+      "duration_ms": 253240,
+      "name": "Yo sin ti - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 220120,
       "name": "Cancion para Ella - Remastered 2021",
       "url": "https://open.spotify.com/track/3UABn4DBSTTvdyKFZVg9BW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Hay M\u00fasica [25th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/6Ehi90u12vQ0UZbSeXysbo"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Yo sin ti - Remastered 2021",
-      "url": "https://open.spotify.com/track/4gXHMiZ4MXRo6nRWzu8oLq"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "9 (Spanish Version)",
-        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 276920,
-      "name": "Un Segundo de Paz",
-      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vita Ce N'\u00e8",
         "url": "https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 191013,
       "name": "Vita Ce N'\u00e8",
       "url": "https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "9 (Spanish Version)",
+        "url": "https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 276920,
+      "name": "Un Segundo de Paz",
+      "url": "https://open.spotify.com/track/6lB4izeAPef18J2djGVbyD"
     },
     {
       "added_at": null,

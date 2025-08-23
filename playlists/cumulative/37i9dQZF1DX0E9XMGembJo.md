@@ -4,7 +4,7 @@
 
 > a serotonin forward glow
 
-713 songs - 1 day 14 hr 53 min
+714 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [damn Right](https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast](https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb) | 2:44 | 2022-04-01 | 2022-04-16 |
 | [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2022-07-26 |
 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 | 2022-03-28 | 2022-04-17 |
+| [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 | 2025-08-22 |  |
 | [dancing in the kitchen](https://open.spotify.com/track/7yw1S0euAJViNQ6cEUXuEh) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [dancing in the kitchen](https://open.spotify.com/album/7Ge6ILkZgdQoNavqhPU0Wa) | 2:57 | 2022-04-14 | 2022-06-20 |
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2022-03-25 | 2024-05-04 |
 | [Dandelion](https://open.spotify.com/track/4NexTaCZZ7Ehnf03A6SVjt) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Dandelion](https://open.spotify.com/album/6YPTwr9e07jNzBJgXbmoQZ) | 2:20 | 2021-12-29 | 2022-05-31 |
@@ -303,7 +304,7 @@
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2022-03-28 |  |
 | [Heybb!](https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Heybb!](https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8) | 2:28 | 2022-03-25 | 2022-04-21 |
 | [High](https://open.spotify.com/track/1xF4jrICj7AgpCD8b7oSHI) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [High](https://open.spotify.com/album/0mfSM4OpXYzHfOkathaNd5) | 2:22 | 2023-01-06 | 2023-01-21 |
-| [high like heaven](https://open.spotify.com/track/3meres0DABX79jyb2DX37O) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [high like heaven](https://open.spotify.com/album/0yN3ErS7WzyswjZGpzuRHk) | 2:11 | 2025-08-15 |  |
+| [high like heaven](https://open.spotify.com/track/3meres0DABX79jyb2DX37O) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [high like heaven](https://open.spotify.com/album/0yN3ErS7WzyswjZGpzuRHk) | 2:11 | 2025-08-15 | 2025-08-23 |
 | [Hip Hop Hooray](https://open.spotify.com/track/1w29UTa5uUvIri2tWtZ12Y) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [19 Naughty III](https://open.spotify.com/album/4OEP9VlZWOCt1QcOzX0oXF) | 4:27 | 2022-04-01 | 2022-04-11 |
 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 | 2022-03-25 | 2022-04-19 |
 | [Ho Hey](https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW) | 2:43 | 2024-03-08 | 2024-04-19 |

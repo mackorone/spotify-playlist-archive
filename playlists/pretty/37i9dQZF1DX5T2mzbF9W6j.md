@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,957 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,952 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 57 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 58 | [Małgośka](https://open.spotify.com/track/1rTIdJlLHR60adzUKtjjAr) | [Maryla Rodowicz](https://open.spotify.com/artist/1IYFJPQcbXYjgkyebYs1w6), [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Małgośka](https://open.spotify.com/album/65Y5MXSN1X3WekMpUGkGlL) | 3:22 |
 | 59 | [Little Dreaming](https://open.spotify.com/track/02B3AyjVkk7Z5Ktom1eH0q) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Little Dreaming](https://open.spotify.com/album/6FJ9yGyRou6MzvOePLeIJe) | 3:23 |
-| 60 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 |
+| 60 | [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 |
 
 Snapshot ID: `AAAAAGTEmgWuYL7v2dJ32LF6HJtV7GWC`

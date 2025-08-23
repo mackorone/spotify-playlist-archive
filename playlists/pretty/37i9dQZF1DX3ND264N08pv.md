@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,193 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,223 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 18 | [Burn](https://open.spotify.com/track/0ZXq43rBFfRBAhynZeVChZ) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Burn](https://open.spotify.com/album/2f3JjQYimC9ZWI7KwJVZrN) | 2:36 |
 | 19 | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/track/7gZEZc68gYpSPK2GvPPChc) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Temple Of Resonance \(Official Masters Of Hardcore 2025 Anthem\)](https://open.spotify.com/album/6IVbGHJN8o7BNTuXlaoRfG) | 4:33 |
 | 20 | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/track/1lfvrXoptVANYD3sR0X00b) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Oh My \(Dimitri K Remix\)](https://open.spotify.com/album/1KZRqlmGwcZzO0FsBGTrTF) | 2:33 |
-| 21 | [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 |
-| 22 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
+| 21 | [Major Bounce](https://open.spotify.com/track/4navRQxjT9m1dWVAgsuNoE) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Major Bounce](https://open.spotify.com/album/1Tf496iXXOtZHRyptj3hVB) | 2:35 |
+| 22 | [Trip to Portugal](https://open.spotify.com/track/4FueSt96r79ab1s9AK95sP) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7) | [Trip to Portugal](https://open.spotify.com/album/35PMqwTfdUgfuCrpAaEvOY) | 3:32 |
 | 23 | [Rip City](https://open.spotify.com/track/7rggyxZ37OUE7DNwRwnrXU) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Rip City](https://open.spotify.com/album/7lH9jaY4KTBHnQBWEd5UDh) | 2:41 |
 | 24 | [Blast Your Stereo](https://open.spotify.com/track/30C1mHFD8gnf2Q4i177DcQ) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Blast Your Stereo](https://open.spotify.com/album/6hLniqxTHOc1OOIesBdfZE) | 2:11 |
 | 25 | [Hate Destroyer](https://open.spotify.com/track/1UAN6xmk080TVBfGlRyNA0) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Hate Destroyer](https://open.spotify.com/album/7xAeX8mHtj2AadeIX856Mb) | 2:55 |

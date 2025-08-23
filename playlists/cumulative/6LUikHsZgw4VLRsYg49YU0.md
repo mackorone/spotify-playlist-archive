@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-269 songs - 15 hr 32 min
+271 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Might\*U](https://open.spotify.com/track/3YfBeHLGH9EhRPVHYaQMyD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Heroes Rising \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2SOxXWhi3EzFeaf2xnBwgk) | 6:29 | 2022-12-09 | 2024-05-25 |
 | [MILK](https://open.spotify.com/track/79OMXTBrebFiqORTMCrg4A) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Roger Montgomery](https://open.spotify.com/artist/6UNOdAM6iXIPKgJlRNJrjm) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 2:41 | 2022-02-18 | 2022-12-10 |
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2023-01-13 | 2024-10-12 |
+| [Momentum In My Veins \(feat\. Lotus Juice\)](https://open.spotify.com/track/0MZQyncNsp7m4AWXxidLPG) | [Taku Iwasaki](https://open.spotify.com/artist/4E0I7rDFoLnOLb76hcdJ0v), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf) | [Gachiakuta \(Original Series Soundtrack EP\)](https://open.spotify.com/album/3LNi04s4bX39q84ZJpJS40) | 3:08 | 2025-08-22 |  |
 | [MoonPhase; Cycle 1; War](https://open.spotify.com/track/1zcRyoI7ZvTDabUc20DPdj) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Bye Bye, Earth \- Vol\. 2 \(Original Anime Series Soundtrack\)](https://open.spotify.com/album/7fYxDdaH0b60xo3xBB2wYe) | 2:42 | 2024-09-20 |  |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-12-08 | 2025-07-26 |
 | [Mugen Houyou](https://open.spotify.com/track/1SdzoDBs56t9qWZGyvDQSA) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 5:24 | 2023-01-27 | 2023-02-11 |
@@ -167,6 +168,7 @@
 | [Skechers](https://open.spotify.com/track/2alc8VZAzDgdAsL2QMk3hu) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV) | [Skechers](https://open.spotify.com/album/4a50hfH6HJQywmghPYnRRW) | 1:46 | 2022-02-18 | 2022-12-10 |
 | [slash](https://open.spotify.com/track/7ecWzYoWecy0fiUu6FKZ3T) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [slash](https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3) | 3:58 | 2023-04-14 | 2025-04-12 |
 | [Smells Blood](https://open.spotify.com/track/6ZRxnIHvjN0qTVRwz3PLtO) | [Kensuke Ushio](https://open.spotify.com/artist/4L0gz16xuM1as1OgYzh1SR) | [DEVILMAN crybaby \(Original Soundtrack\)](https://open.spotify.com/album/05xPgo0O1tujgg6eDzIfxV) | 1:49 | 2022-12-09 | 2024-01-06 |
+| [SOLO LEVELING WORKOUT \- DARK ARIA/4eVR Remix by Yuki Tsujimura](https://open.spotify.com/track/1zJB2hhtU9vpTXxfFONOh6) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [辻村有記](https://open.spotify.com/artist/2usd39DBTQFC0bzU8vVlAA) | [SOLO LEVELING WORKOUT \(DARK ARIA/4eVR Remix by Yuki Tsujimura\)](https://open.spotify.com/album/1fGtRPm1cUjYDDAb8FxpEy) | 5:46 | 2025-08-22 |  |
 | [Soul's Refrain](https://open.spotify.com/track/1vHysww8KxCBVFEzqMY7jP) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [EVANGELION: DEATH \(Original Soundtrack\)](https://open.spotify.com/album/5IG0NoQJ5IwyeaNRGhDPcd) | 5:17 | 2023-02-10 | 2025-04-12 |
 | [SOUVENIR](https://open.spotify.com/track/7qOsSOpiL3R8RKyiBtIYNQ) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [SOUVENIR](https://open.spotify.com/album/62Rk2K7V2le9NBC75ANiX7) | 4:24 | 2023-01-13 | 2023-12-14 |
 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 | 2023-12-08 | 2025-07-26 |

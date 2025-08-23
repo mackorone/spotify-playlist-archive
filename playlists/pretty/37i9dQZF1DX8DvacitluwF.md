@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Lia Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,249 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,256 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 46 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 | 47 | [Venting](https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Venting](https://open.spotify.com/album/0ayCbGIRjdC1f84McDwNHE) | 3:26 |
 | 48 | [FEEL SOMETHING](https://open.spotify.com/track/6oOuCS6uz4Vw54CGexK57j) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [FEEL SOMETHING](https://open.spotify.com/album/1IdkBIdxlY0c4mEIC4xfL0) | 2:32 |
-| 49 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 |
-| 50 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 |
+| 49 | [Taste](https://open.spotify.com/track/158aKdyaVs7HS3OfDZHANh) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Taste](https://open.spotify.com/album/5bKb1kHsa2aTQ5ymqLQ7DK) | 2:44 |
+| 50 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/4x87U8mTjl1irG9XK0Jr4z) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/album/0pE2DNeBk3xGNrYkKgR8ai) | 3:10 |
 
 Snapshot ID: `AAAAAA0rU9WASR1b8dAL925MD4tjTipu`

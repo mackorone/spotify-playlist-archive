@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-305 songs - 19 hr 57 min
+308 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aisumasen \(I'm Sorry\) \- Ultimate Mix](https://open.spotify.com/track/4LJsW2Db80OBypNtD79n7k) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Aisumasen \(I’m Sorry\) \[Ultimate Mix\]](https://open.spotify.com/album/7rW2fNXFic1t1SYz88c9nY) | 4:39 | 2024-06-28 |  |
 | [All](https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [All](https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp) | 4:18 | 2024-08-16 |  |
 | [All I Ever Am \- Mura Masa Remix](https://open.spotify.com/track/36H5mG7pK0cGhldOuqDIk5) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Mixes Of A Lost World](https://open.spotify.com/album/2OlRb9ISy8xZku7ImTV9n8) | 6:39 | 2025-06-13 |  |
+| [All I See \(feat\. CUBE\)](https://open.spotify.com/track/1eMiPD93vPUOHgcjp6Lq6y) | [Molly Johnson](https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU), [CUBE](https://open.spotify.com/artist/1r3YnMSGcT7Hnm76aStA3r) | [All I See \(feat\. CUBE\)](https://open.spotify.com/album/2oz5Hw97W29S2iIVpnmsLw) | 4:19 | 2025-08-22 |  |
 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 | 2023-10-16 |  |
 | [All These Things That I've Done](https://open.spotify.com/track/5vollujufHY0jMZxx77VWr) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 5:01 | 2023-10-16 | 2024-05-24 |
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-27 |  |
@@ -84,6 +85,7 @@
 | [Electric Love](https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 3:38 | 2023-10-16 | 2024-05-24 |
 | [Endsong \- Orbital Remix](https://open.spotify.com/track/0tFdxLhgh3KJubwOCKo3Y6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Endsong \(Orbital Remix\)](https://open.spotify.com/album/44AYABVfrU96YXOxhtVRjp) | 6:23 | 2025-05-16 |  |
 | [Every Breath You Take \- Demo](https://open.spotify.com/track/7lJ4MkFMFmaMfCbFdkMyMA) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take \(Demo\)](https://open.spotify.com/album/1k2V6pFwOwjH923AM1wAIy) | 4:00 | 2024-07-26 |  |
+| [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-22 |  |
 | [Everybody Talks](https://open.spotify.com/track/2iUmqdfGZcHIhS3b9E9EWq) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Picture Show](https://open.spotify.com/album/0uRFz92JmjwDbZbB7hEBIr) | 2:57 | 2023-10-16 | 2024-05-24 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-05-23 |  |
 | [Eyes Without A Face \- Poolside Remix](https://open.spotify.com/track/5lVkie1tVUwswcx83M3xYZ) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Rebel Yell \(Expanded Edition\)](https://open.spotify.com/album/7toLJZQWTgBbSFE07O2s9D) | 5:37 | 2024-08-12 |  |
@@ -119,6 +121,7 @@
 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 | 2024-07-05 |  |
 | [I Gotta Feeling \- The Best Of The E.N.D\. Version](https://open.spotify.com/track/1eU4VxUQAcITRYEnkGlY2m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Boom Boom Beats: Kids Mix](https://open.spotify.com/album/5I3jxZBcD0iSfTsjBHM1MD) | 4:49 | 2025-04-18 |  |
 | [I Just Fall In Love Again](https://open.spotify.com/track/6aBiU9lFd3BhtggI7aeqBI) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling](https://open.spotify.com/album/7lzKMo3MHAz8Xuc0LBA4tG) | 2:51 | 2025-04-04 |  |
+| [I Just Fall In Love Again \- Instrumental Version](https://open.spotify.com/track/3M2uTKf3SIdwI1SYU3XrWC) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [New Kind Of Feeling \(ANNEversary Deluxe Edition\)](https://open.spotify.com/album/10tmBt046htwWaNiwCDsAx) | 2:46 | 2025-08-22 |  |
 | [I Just Wanna Have Something To Do \- 2024 Remaster](https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [I Just Wanna Have Something To Do / Betcha \(2024 Remaster\)](https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG) | 2:25 | 2024-05-23 |  |
 | [I Miss You](https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:47 | 2023-10-16 | 2024-05-24 |
 | [I Miss You, Don't Call Me](https://open.spotify.com/track/3xbiVkfxjHIpd1CVEtrJ8R) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:20 | 2024-07-19 |  |

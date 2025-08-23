@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 
 > Canciones de cuna relajantes con arpa y guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,131 likes - 75 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,227 likes - 75 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 7 | [Come Closer](https://open.spotify.com/track/3drg97tEblG5Eyh6TuNZJI) | [Simon Bogren](https://open.spotify.com/artist/3lK0whVtl6Q068FFOzf2AH) | [Come Closer](https://open.spotify.com/album/6HV3QOczmlOBqL44lI6SKv) | 3:20 |
 | 8 | [Babyland at Midnight](https://open.spotify.com/track/35560AAxB8V0LOWlWr04Ar) | [Coby Carr](https://open.spotify.com/artist/5UoHb7itTIsmL4OgsBybqa) | [Babyland at Midnight](https://open.spotify.com/album/7rlNIkNmndsQUR9ftzEWOo) | 1:31 |
 | 9 | [Come Thou Fount of Every Blessing](https://open.spotify.com/track/1y3DFR31VUJWC7D9k3QIxr) | [Victor Campbell](https://open.spotify.com/artist/47EkMlUolyXWUVsn7EsiQO) | [Come Thou Fount of Every Blessing](https://open.spotify.com/album/0q6WdbZ4VFt9qqdhUAcVTD) | 1:26 |
-| 10 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Suavidad unida](https://open.spotify.com/artist/0eGCjjaZERJhnbzrQhxskq) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 |
+| 10 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 |
 | 11 | [When You Wish Upon A Star](https://open.spotify.com/track/6GyQot0rZameLKzOHMWM0Z) | [Aleeza May](https://open.spotify.com/artist/6n4NX7cBWbkXX0uCKjfMl0) | [When You Wish Upon A Star](https://open.spotify.com/album/3reSPIKtrzOegRrfHyNQXU) | 1:52 |
 | 12 | [Mother Goose](https://open.spotify.com/track/7k3F1tSxvWlsnV5R2yh4Z6) | [Divine Dana](https://open.spotify.com/artist/42avXwk7bYkSv0b9NBOhhm) | [Mother Goose](https://open.spotify.com/album/4QuURgbIIO6T3F2xmGlG9d) | 1:27 |
 | 13 | [Cai Cai Balão](https://open.spotify.com/track/1pPCs58FyrQKuAUaxvx4GV) | [Pipo and Roy](https://open.spotify.com/artist/2D6uOhkI97JwoLo1GGgmGS) | [Cai Cai Balão](https://open.spotify.com/album/1lPJowoAoyvvbOUfo2CpM8) | 1:13 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dC34O2dxyM.md) - [plain]
 | 16 | [Auld Lang Syne](https://open.spotify.com/track/4erta4Bwop9S1LjYfj1m4d) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Auld Lang Syne](https://open.spotify.com/album/7MUEjk5ICnjjZlLLjTkeN9) | 1:28 |
 | 17 | [Skidamarink](https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Skidamarink](https://open.spotify.com/album/5879evWEXNX6qW2PEVdif0) | 2:01 |
 | 18 | [My Lovely Teddybear](https://open.spotify.com/track/0Snqqrusf0KJMb4kaOdxfI) | [Travers Yates](https://open.spotify.com/artist/6NaBJxSpp6FfNqpLkfHuNN) | [My Lovely Teddybear](https://open.spotify.com/album/1UkWtJfevcLWaqX8dhuo8u) | 1:41 |
-| 19 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
+| 19 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
 | 20 | [Tender](https://open.spotify.com/track/1YaHbmqnxhnh5WkIr75zzh) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Tender](https://open.spotify.com/album/4dN7XzCVKgS9BrQ7KbIJKy) | 2:55 |
 | 21 | [Goodnight My Dear](https://open.spotify.com/track/2bIuhwI23JeCLwEqSc691N) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Goodnight My Dear](https://open.spotify.com/album/332oRpZfPfknTFtL995tAL) | 1:11 |
 | 22 | [Stay Here](https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Stay Here](https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam) | 1:33 |

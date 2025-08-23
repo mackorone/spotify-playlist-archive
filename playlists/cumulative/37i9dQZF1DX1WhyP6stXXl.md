@@ -2,7 +2,7 @@
 
 ### [Pop Brandneu](https://open.spotify.com/playlist/37i9dQZF1DX1WhyP6stXXl)
 
-> Neues aus der Welt des Pop\. Cover: Zara Larsson
+> Neues aus der Welt des Pop\. Cover: Doja Cat
 
 1,365 songs - 2 day 20 hr 55 min
 

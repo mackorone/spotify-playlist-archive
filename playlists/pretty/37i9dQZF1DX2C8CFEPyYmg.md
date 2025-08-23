@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 
 > Soothing strings for our sleepy little ones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,103 likes - 115 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,093 likes - 115 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 21 | [Quiet Stars, Gentle Strums](https://open.spotify.com/track/5Z1pFUx2YyiQ02GPItTgQC) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Quiet Stars, Gentle Strums](https://open.spotify.com/album/6lDyqibXUO1LIbywkvJSZP) | 2:13 |
 | 22 | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/track/6EPgYJrkrl8f228tEXhKcf) | [Divine Dana](https://open.spotify.com/artist/42avXwk7bYkSv0b9NBOhhm) | [A Dream Is a Wish Your Heart Makes](https://open.spotify.com/album/5spi6T2rtCXbrIZDIYHfyq) | 1:48 |
 | 23 | [Auld Lang Syne](https://open.spotify.com/track/4erta4Bwop9S1LjYfj1m4d) | [The Harp Players](https://open.spotify.com/artist/51gWjFUuvRVjXQctDzFCIj) | [Auld Lang Syne](https://open.spotify.com/album/7MUEjk5ICnjjZlLLjTkeN9) | 1:28 |
-| 24 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
+| 24 | [I Like It Here](https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [I Like It Here](https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ) | 1:27 |
 | 25 | [Babyland at Midnight](https://open.spotify.com/track/35560AAxB8V0LOWlWr04Ar) | [Coby Carr](https://open.spotify.com/artist/5UoHb7itTIsmL4OgsBybqa) | [Babyland at Midnight](https://open.spotify.com/album/7rlNIkNmndsQUR9ftzEWOo) | 1:31 |
 | 26 | [While I Sleep](https://open.spotify.com/track/1rYmWELviQxlDWEbDtdSbE) | [Joen Brahe](https://open.spotify.com/artist/2gtqUlH6q4j2Pc7uVQsaoV) | [While I Sleep](https://open.spotify.com/album/13zLJYwseg0Ee680sKFCi0) | 1:35 |
 | 27 | [My Lovely Teddybear](https://open.spotify.com/track/0Snqqrusf0KJMb4kaOdxfI) | [Travers Yates](https://open.spotify.com/artist/6NaBJxSpp6FfNqpLkfHuNN) | [My Lovely Teddybear](https://open.spotify.com/album/1UkWtJfevcLWaqX8dhuo8u) | 1:41 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C8CFEPyYmg.md) - [plain]
 | 64 | [Little Sweet Pea](https://open.spotify.com/track/7mHPGfKUJ4U3NOgjpjYUFf) | [Little Miles](https://open.spotify.com/artist/4FMHVjDrLWpdPYQ7Q6pcUT) | [Little Sweet Pea](https://open.spotify.com/album/3szc0c6V9Akfus5LsIWOiO) | 1:59 |
 | 65 | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/track/6yVSSd8L2UKvKuw15ZQYTt) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Fais dodo, Colas mon p'tit frère](https://open.spotify.com/album/4qct7a9JlnQI8Sr1zhiNLW) | 2:06 |
 | 66 | [Somewhere over the Rainbow](https://open.spotify.com/track/2snEtWNsyYbWVxhxh2CA2s) | [Sasha Zimmerman](https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM) | [Somewhere over the Rainbow](https://open.spotify.com/album/5R5DbLz5aDyRLXpkAqvEp0) | 1:51 |
-| 67 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Suavidad unida](https://open.spotify.com/artist/0eGCjjaZERJhnbzrQhxskq) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 |
+| 67 | [Tippie Tippie Turnip](https://open.spotify.com/track/0ftJjGs3003e9zst0OyyX9) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [Tippie Tippie Turnip](https://open.spotify.com/album/1ILNEcImEvLKqQGYmfnpAH) | 1:30 |
 | 68 | [Five Little Monkeys](https://open.spotify.com/track/0QQ4BTJR6sylRCSOgcwhKs) | [Roly\-Poly](https://open.spotify.com/artist/5a9O7IJkApBb6B35ldcalw) | [Five Little Monkeys](https://open.spotify.com/album/3HRkbBG3qmjPJY6XO3nV6S) | 2:05 |
 | 69 | [Lasse Liten](https://open.spotify.com/track/4Hircyze1eiZO45tba9YHl) | [Stig Speleman](https://open.spotify.com/artist/6TaqXDgR9ZFZmXJgNmSpqR) | [Lasse Liten](https://open.spotify.com/album/5khtPLTjCIc9f8xQHq1nZX) | 1:37 |
 | 70 | [Too\-Ra\-Loo\-Ra\-Loo\-](https://open.spotify.com/track/4IrWLFVlYt4g6kAX4oFOCk) | [Björnes Hörna](https://open.spotify.com/artist/2zqtBq44AqBBXf2Fk9ZLZE) | [Too\-Ra\-Loo\-Ra\-Loo\-Ral](https://open.spotify.com/album/3gpqrTKYg6sy2dqsG8yQI5) | 2:13 |

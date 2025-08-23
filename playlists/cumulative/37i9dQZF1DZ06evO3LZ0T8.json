@@ -252,10 +252,28 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 215284,
       "name": "Breakout",
       "url": "https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM"
+    },
+    {
+      "album": {
+        "name": "Breakout",
+        "url": "https://open.spotify.com/album/6Gg8LNciD3pXvcRlwdF3Yt"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215284,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/6JrC9b4IXceXMOPWu9N7qv"
     },
     {
       "album": {

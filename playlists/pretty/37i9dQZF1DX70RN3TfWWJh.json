@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4777690,
+  "num_followers": 4777328,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-01-03 20:42:39",
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2025-01-03 20:42:39",
+      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
-    },
-    {
-      "added_at": "2025-01-03 20:42:39",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2025-07-18 04:00:31",
@@ -749,22 +749,6 @@
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
-      "added_at": "2025-06-20 04:00:49",
-      "album": {
-        "name": "MAYHEM",
-        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 238886,
-      "name": "How Bad Do U Want Me",
-      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
-    },
-    {
       "added_at": "2025-01-03 20:42:39",
       "album": {
         "name": "Lover",
@@ -779,6 +763,22 @@
       "duration_ms": 190360,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+    },
+    {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 238886,
+      "name": "How Bad Do U Want Me",
+      "url": "https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY"
     },
     {
       "added_at": "2025-01-03 20:42:39",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
-      "added_at": "2025-06-20 04:00:49",
-      "album": {
-        "name": "Sue me",
-        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
-      },
-      "artists": [
-        {
-          "name": "Audrey Hobert",
-          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Sue me",
-      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
-    },
-    {
       "added_at": "2025-01-03 20:42:39",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
@@ -1207,6 +1191,22 @@
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8"
+    },
+    {
+      "added_at": "2025-06-20 04:00:49",
+      "album": {
+        "name": "Sue me",
+        "url": "https://open.spotify.com/album/73xv206EqdQ3iDNjpiSkkq"
+      },
+      "artists": [
+        {
+          "name": "Audrey Hobert",
+          "url": "https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Sue me",
+      "url": "https://open.spotify.com/track/6ah4mee54hPyycKICthl5B"
     },
     {
       "added_at": "2025-07-25 04:00:42",
@@ -1709,6 +1709,22 @@
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
+      "added_at": "2025-08-15 13:55:20",
+      "album": {
+        "name": "Greetings From Your Hometown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
+    },
+    {
       "added_at": "2025-01-03 20:42:39",
       "album": {
         "name": "Las Mujeres Ya No Lloran",
@@ -1727,22 +1743,6 @@
       "duration_ms": 181666,
       "name": "Punter\u00eda",
       "url": "https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc"
-    },
-    {
-      "added_at": "2025-08-15 13:55:20",
-      "album": {
-        "name": "Greetings From Your Hometown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6RIoTRFwyMIV2a2zUb3mpR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/1upNZOegt0VXUqsVfBw6CG"
     },
     {
       "added_at": "2025-01-03 20:42:39",

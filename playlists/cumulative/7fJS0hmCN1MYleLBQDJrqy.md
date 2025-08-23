@@ -4,7 +4,7 @@
 
 > De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
 
-76 songs - 3 hr 19 min
+77 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Anne\-Fleur Vakantie](https://open.spotify.com/track/5PhFazpNDN19EWPeoq9K1m) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Anne\-Fleur Vakantie](https://open.spotify.com/album/5c0Eslobav8E6jG2MyJb5B) | 2:54 | 2025-07-18 |  |
 | [Barcelona](https://open.spotify.com/track/7rNwcIxVtLAw9QjyOYGu0M) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Barcelona](https://open.spotify.com/album/01jXI3xgHJ0JJJmriDYfHe) | 2:46 | 2025-07-18 | 2025-08-09 |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-18 |  |
+| [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-22 |  |
 | [Benauwd Door Jou](https://open.spotify.com/track/4xrPpK5uZxJxXDl3FbX4m7) | [Lustrum Philotes](https://open.spotify.com/artist/2clKstdUMkAZHVHSdklnr5), [Veroordeeld](https://open.spotify.com/artist/5uC7d5NCPiwcwK57KFkm4z) | [Benauwd Door Jou](https://open.spotify.com/album/2xgXhQvGfrRVeLiu4Gcl43) | 2:27 | 2025-07-18 |  |
 | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/track/0jm8p2ErwB4u3uvxc7vxGy) | [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk) | [Blind Op Zoek \(Trapagas\)](https://open.spotify.com/album/44ODNi0Z8Bh70aourII7wk) | 2:22 | 2025-07-18 |  |
 | [Blindelings](https://open.spotify.com/track/24Kh86Io6xp1jLwCRjjK4m) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Blindelings](https://open.spotify.com/album/61PY2ypsRLJBYM4lbAilWK) | 2:40 | 2025-07-18 |  |
@@ -37,7 +38,7 @@
 | [Fluitend naar Huis](https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 2:12 | 2025-07-18 |  |
 | [Ga Dan!](https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Ga Dan!](https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv) | 2:17 | 2025-07-18 |  |
 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2025-07-18 |  |
-| [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 | 2025-07-18 |  |
+| [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 | 2025-07-18 | 2025-08-23 |
 | [Guilty Pleasure](https://open.spotify.com/track/2TXDgE4nZbwdbfAW7Tr6Ll) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Mama I Made It](https://open.spotify.com/album/1XPgbgeD9VSzx5Ww6mWlMj) | 2:39 | 2025-07-18 |  |
 | [Hard Times](https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:02 | 2025-07-18 |  |
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-18 |  |

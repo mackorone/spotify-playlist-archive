@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop tracks, updated weekly! Cover: Drake
 
-423 songs - 21 hr 32 min
+424 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Did It](https://open.spotify.com/track/0GVm96bQVgjUEcEm5C7NNH) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Did It](https://open.spotify.com/album/3g4pu5GNFWgYWwBlq0sfSt) | 2:44 | 2024-09-20 | 2025-04-12 |
 | [Did It First \(with Central Cee\)](https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Did It First \(with Central Cee\)](https://open.spotify.com/album/1SiWjniEb94wSFZ5YjZDHr) | 1:58 | 2024-07-12 | 2025-04-12 |
 | [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 |  |
+| [Different Species \(feat\. Gunna\)](https://open.spotify.com/track/7H5Bv8j9chJ4CWTuoXF4EK) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:04 | 2025-08-22 |  |
 | [Dirty Revolver](https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:03 | 2024-11-29 | 2025-06-08 |
 | [DO YO SHIT](https://open.spotify.com/track/1hgON5RjrZGMwcIJNkuwzj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:43 | 2024-09-27 |  |
 | [DONE TRYING](https://open.spotify.com/track/4VAUreKDY2xyhXW7nu5nJG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [GHETTO SUPERSTAR: \(THE INTRO\)](https://open.spotify.com/album/1EAlURUEewGlp9AvY6I767) | 3:08 | 2024-05-03 | 2024-09-10 |

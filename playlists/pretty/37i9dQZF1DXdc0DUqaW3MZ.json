@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 370731,
+  "num_followers": 370748,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "dear dialE",
+        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
+      },
+      "artists": [
+        {
+          "name": "dialE",
+          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
+        }
+      ],
+      "duration_ms": 115041,
+      "name": "AOT",
+      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "Fantasy (feat. Franc Moody)",
         "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 212922,
       "name": "Fantasy (feat. Franc Moody)",
       "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "dear dialE",
-        "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
-      },
-      "artists": [
-        {
-          "name": "dialE",
-          "url": "https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB"
-        }
-      ],
-      "duration_ms": 115041,
-      "name": "AOT",
-      "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -551,6 +551,26 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "The Road To Hell Is Paved With Good Intentions",
+        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "L\u00e9a Sen",
+          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
+        }
+      ],
+      "duration_ms": 174579,
+      "name": "Turn Me Inside",
+      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "The Road To Hell Is Paved With Good Intentions",
-        "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        },
-        {
-          "name": "L\u00e9a Sen",
-          "url": "https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX"
-        }
-      ],
-      "duration_ms": 174579,
-      "name": "Turn Me Inside",
-      "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -763,30 +763,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Tom\u00e1s",
-        "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Tom\u00e1s",
-      "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
+        "name": "Tom\u00e1s",
+        "url": "https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Tom\u00e1s",
+      "url": "https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -875,6 +875,26 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "Dancing While Falling",
+        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 211590,
+      "name": "Morning Light (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "Dancing While Falling",
-        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 211590,
-      "name": "Morning Light (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 218308,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu"
       },
@@ -1031,26 +1051,6 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "Deafened (feat. Family Habits)",
-        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Family Habits",
-          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Deafened (feat. Family Habits)",
-      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
         "name": "Cactus Water",
         "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
       },
@@ -1067,22 +1067,22 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+        "name": "Deafened (feat. Family Habits)",
+        "url": "https://open.spotify.com/album/6M7RWJ6fmwKh8AqoAb5SYy"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         },
         {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+          "name": "Family Habits",
+          "url": "https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y"
         }
       ],
-      "duration_ms": 218308,
-      "name": "Keep On",
-      "url": "https://open.spotify.com/track/1ruhhrEi0Co4bkUe0ak1bT"
+      "duration_ms": 201626,
+      "name": "Deafened (feat. Family Habits)",
+      "url": "https://open.spotify.com/track/1uQGRe4JpJqKqYvMRkeOtV"
     },
     {
       "added_at": "2025-07-03 16:15:48",
@@ -1355,6 +1355,30 @@
     {
       "added_at": "2025-07-03 16:15:48",
       "album": {
+        "name": "Daydreaming (Sgt Slick Remix)",
+        "url": "https://open.spotify.com/album/0pb2S4bdo6TTYa1cYGSsT6"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        },
+        {
+          "name": "Sgt Slick",
+          "url": "https://open.spotify.com/artist/64rqoVt9ShRtUCU0bPKQll"
+        }
+      ],
+      "duration_ms": 184497,
+      "name": "Daydreaming - Sgt Slick Remix",
+      "url": "https://open.spotify.com/track/1FCBtlxyee0yiZn0EnxtTk"
+    },
+    {
+      "added_at": "2025-07-03 16:15:48",
+      "album": {
         "name": "LOVER/LOSER",
         "url": "https://open.spotify.com/album/6eyDpYxgYybNKcClV9pPyy"
       },
@@ -1371,26 +1395,6 @@
       "duration_ms": 183700,
       "name": "LOVER/LOSER",
       "url": "https://open.spotify.com/track/4uerIOfWoTb2Hxudx3IeYw"
-    },
-    {
-      "added_at": "2025-07-03 16:15:48",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma"
-      },
-      "artists": [
-        {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
-        },
-        {
-          "name": "AVA LAV\u00c1",
-          "url": "https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP"
     }
   ],
   "unique_name": "Soultronic",

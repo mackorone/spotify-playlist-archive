@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Meja Kunta
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,745 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,769 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 64 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |
 | 65 | [Siyo Shida Zangu](https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Siyo Shida Zangu](https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI) | 3:59 |
 | 66 | [Wapambe](https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl) | [Elisha](https://open.spotify.com/artist/7beQHnSg083MMXTbHMN4yi), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Wapambe](https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie) | 4:00 |
-| 67 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
-| 68 | [Wee Wee](https://open.spotify.com/track/1ViX2vdIpIAnDYOJs6agc3) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Wee Wee](https://open.spotify.com/album/0aoFdkqRzD37EHINWBLAeL) | 3:48 |
-| 69 | [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 |
+| 67 | [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 |
+| 68 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
+| 69 | [Wee Wee](https://open.spotify.com/track/1ViX2vdIpIAnDYOJs6agc3) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Wee Wee](https://open.spotify.com/album/0aoFdkqRzD37EHINWBLAeL) | 3:48 |
 | 70 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 |
 | 71 | [Shemeji](https://open.spotify.com/track/5nFg4Fk4GtDV9N7cjUN6A6) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Shemeji](https://open.spotify.com/album/47v6siumRINvjj2CzonVxx) | 3:15 |
 | 72 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 |
-| 73 | [Pisi](https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Pisi](https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq) | 3:40 |
-| 74 | [Singeli Jungles](https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy) | [MC Palakata](https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7), [Tom Blip](https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x) | [Singeli Jungles](https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n) | 4:40 |
+| 73 | [Kupendwa Raha](https://open.spotify.com/track/6twtsEF7xRByZqBBpkqmgU) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Dogo Jully](https://open.spotify.com/artist/1jX3XpeCyG71h63b4ZCnqJ) | [Kupendwa Raha](https://open.spotify.com/album/0rDfncO3eaAeEdGKdX8uWI) | 5:04 |
+| 74 | [Pisi](https://open.spotify.com/track/1tb1zxPaAkmFtvH1YFLKDH) | [Anjella](https://open.spotify.com/artist/1lcK1UQbscJsiUpPC69kls) | [Pisi](https://open.spotify.com/album/3JPjYrhhQPdx30W3bgvAFq) | 3:40 |
 | 75 | [Honey Wangu](https://open.spotify.com/track/3K0L27WGjjeQzJOm4tyhSh) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Honey Wangu](https://open.spotify.com/album/3oA5qxRsp7AVPPeYNBczNt) | 3:59 |
 
 Snapshot ID: `AAAAAMEWRk0n5m9CntBSmDXaJJRwih6a`

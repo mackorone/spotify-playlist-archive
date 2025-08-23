@@ -10887,6 +10887,24 @@
     },
     {
       "album": {
+        "name": "Upendo",
+        "url": "https://open.spotify.com/album/1112N3GxCGKwDeJY2dd42W"
+      },
+      "artists": [
+        {
+          "name": "Beka Flavour",
+          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Upendo",
+      "url": "https://open.spotify.com/track/6qRTFjQCkdfQKgY68QQr96"
+    },
+    {
+      "album": {
         "name": "Upendo (feat. Zuchu)",
         "url": "https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra"
       },

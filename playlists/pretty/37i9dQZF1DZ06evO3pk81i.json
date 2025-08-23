@@ -1,18 +1,18 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8338,
+  "num_followers": 8350,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAADQWphAAa9anBv51IRQcKJK",
+  "snapshot_id": "aKZhgAAAAABff70OdBXzuT6Dgn2Uzh5J",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 200061,
       "name": "No Es Mentira (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/5U6rulJvT2kOzG2WY98G4Y"
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
     },
     {
       "added_at": null,
@@ -43,38 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 143231,
-      "name": "Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/4kZcBWTNaSwRSh9HFUTbsG"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "AMOR DE SUBIDA",
-      "url": "https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poes\u00edas",
         "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
@@ -91,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beso - Spotify Singles",
+        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 143231,
+      "name": "Beso - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO TE HUBIERA BESADO",
         "url": "https://open.spotify.com/album/2plPejGZIWWggruY0NizsL"
       },
@@ -103,26 +87,6 @@
       "duration_ms": 139894,
       "name": "NO TE HUBIERA BESADO",
       "url": "https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor De Lejos",
-        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "3 AM",
-      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
     },
     {
       "added_at": null,
@@ -147,6 +111,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/4kZcBWTNaSwRSh9HFUTbsG"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "AMOR DE SUBIDA",
+      "url": "https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Lejos",
+        "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "3 AM",
+      "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Vas a Hacer (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz"
       },
@@ -163,6 +163,22 @@
       "duration_ms": 174210,
       "name": "Que Vas a Hacer (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/6BqyOf8ofcTaeSEuPDntIc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 144981,
+      "name": "No Hay Soluci\u00f3n",
+      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
     },
     {
       "added_at": null,
@@ -187,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "CUANDO PIENSO EN TI",
+        "url": "https://open.spotify.com/album/5OH5uSG2KcwFb4OJODn0NQ"
       },
       "artists": [
         {
@@ -196,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 144981,
-      "name": "No Hay Soluci\u00f3n",
-      "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
+      "duration_ms": 142695,
+      "name": "CUANDO PIENSO EN TI",
+      "url": "https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61"
     },
     {
       "added_at": null,
@@ -223,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUANDO PIENSO EN TI",
-        "url": "https://open.spotify.com/album/5OH5uSG2KcwFb4OJODn0NQ"
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
       },
       "artists": [
         {
@@ -232,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 142695,
-      "name": "CUANDO PIENSO EN TI",
-      "url": "https://open.spotify.com/track/6oWk1racmeCi2tKfg97S61"
+      "duration_ms": 212013,
+      "name": "Quiero Ser (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
     },
     {
       "added_at": null,
@@ -259,18 +275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
       "artists": [
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 212013,
-      "name": "Quiero Ser (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
+      "duration_ms": 146659,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
     },
     {
       "added_at": null,
@@ -291,26 +311,6 @@
       "duration_ms": 198639,
       "name": "Baby (Version Norte\u00f1a)",
       "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 146659,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
-        }
-      ],
-      "duration_ms": 250240,
-      "name": "Labios Rojos (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loko",
         "url": "https://open.spotify.com/album/59SSpxu6Lau67i21tUvswt"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 128739,
       "name": "Loko",
       "url": "https://open.spotify.com/track/6MsbMIHQL3ZM6RUWb2F8tU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 250240,
+      "name": "Labios Rojos (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 141811,
-      "name": "Esta Noche (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vicio Mi Adicci\u00f3n",
         "url": "https://open.spotify.com/album/5Uvhi2I4A8dVMbkOKLfDpQ"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 139685,
       "name": "Mi Vicio Mi Adicci\u00f3n",
       "url": "https://open.spotify.com/track/79Vmx38rbjcS3BEykrir2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 141811,
+      "name": "Esta Noche (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
       "duration_ms": 170150,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 140755,
+      "name": "Una Noche Nomas",
+      "url": "https://open.spotify.com/track/1qND5NqKyn93Y6rOxuDYzR"
     },
     {
       "added_at": null,
@@ -551,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Te Quiero a Ti (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailando (Live)",
         "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
@@ -587,6 +583,26 @@
       "duration_ms": 189867,
       "name": "Bailando - Live",
       "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Te Quiero a Ti (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/1iu43Iufwvx3tk4svcNKxZ"
     },
     {
       "added_at": null,
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Sigue Igual",
-        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 208641,
-      "name": "Nada Sigue Igual",
-      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 146688,
       "name": "Mejor Que Tu Ex",
       "url": "https://open.spotify.com/track/4KBvA8HUBHiQKtbFJBcNms"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Sigue Igual",
+        "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 208641,
+      "name": "Nada Sigue Igual",
+      "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 176359,
       "name": "Solita Bailando",
       "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marc\u00e1ndote",
-        "url": "https://open.spotify.com/album/3ZxRpyYUN1tEAusn7aG3N1"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Marc\u00e1ndote",
-      "url": "https://open.spotify.com/track/0rtoh7bC7nW9clwmnCTeAe"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

@@ -13402,7 +13402,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 155189,
       "name": "Charger",
       "url": "https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ"
@@ -13462,7 +13462,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 155248,
       "name": "Charger",
       "url": "https://open.spotify.com/track/3yXwdtQVgBMLFG24Ez63LZ"
@@ -15274,6 +15274,28 @@
       "duration_ms": 167386,
       "name": "Con La Brisa",
       "url": "https://open.spotify.com/track/2LSsSV7V33wM9EKQA2xjGS"
+    },
+    {
+      "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
     },
     {
       "album": {
@@ -72212,7 +72234,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 157924,
       "name": "The Happy Song",
       "url": "https://open.spotify.com/track/6snoOAATGyud5oaIT9gwws"
@@ -75170,7 +75192,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
@@ -75206,7 +75228,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 208525,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/5aMKqn3eGVgx0PyfKr7oSU"

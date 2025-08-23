@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: AC/ES
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,357 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,366 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 23 | [Mint](https://open.spotify.com/track/2KHCWfzscQH15hCiLMpaCi) | [Drumfish](https://open.spotify.com/artist/2K1niaGIMquSzoja4NOr9s) | [Mint](https://open.spotify.com/album/05HKFvTsatEAM8DUtF62H6) | 4:17 |
 | 24 | [TREAT HIM LIKE A BABY](https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [TREAT HIM LIKE A BABY](https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h) | 2:29 |
 | 25 | [Jeug](https://open.spotify.com/track/1WOluYxkKcWZd9gudM8NAD) | [Wolkbrein](https://open.spotify.com/artist/0zIoYTFy3fLQpmw4m0fKRs) | [Jeug](https://open.spotify.com/album/1gpL0MBYSECCpNrwqkU4ry) | 3:12 |
-| 26 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
-| 27 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
+| 26 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
+| 27 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
 | 28 | [Sinnelose Koor](https://open.spotify.com/track/4WN5F07bbeFiyXlgeONn8z) | [Ouderdoos](https://open.spotify.com/artist/3ul7KWGY5Vh7MbbiEDYwDo) | [Sinnelose Koor](https://open.spotify.com/album/2kZucdsdbVO6zrSZkcSXFz) | 4:29 |
 | 29 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 30 | [DIE SONDE LÊ EN LOER](https://open.spotify.com/track/2pVV2Zf3CsqQdH8HPQEhqN) | [Francis Na Die Maan](https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL) | [JOHANNA VAN ARK](https://open.spotify.com/album/6kjUzzGUQm3eK7Zqr0cwr7) | 3:12 |

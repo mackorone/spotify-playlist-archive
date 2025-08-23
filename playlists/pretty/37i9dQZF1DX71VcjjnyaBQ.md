@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,290 likes - 100 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,435 likes - 100 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [Spring of Life](https://open.spotify.com/track/3nUUfXsd26KdFoBmw8swNW) | [Daniel García Trio](https://open.spotify.com/artist/6utaOlREmKr4nbVWA0z6eP) | [Spring of Life](https://open.spotify.com/album/5X4sm4vwBez9dc90iX0cy3) | 3:35 |
 | 100 | [Velvet Gloves & Spit](https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Velvet Gloves & Spit](https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK) | 2:43 |
 
-Snapshot ID: `AAAAACQMEJzv+SeKWDKZPoDc8PO3wWLj`
+Snapshot ID: `AAAAAEugyvq3ypU5y6EZTZh5hi+dE3kl`

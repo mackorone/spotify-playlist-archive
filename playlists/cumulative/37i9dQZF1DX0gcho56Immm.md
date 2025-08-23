@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: haloplus+
 
-160 songs - 9 hr 5 min
+164 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Ethereal Security Guard](https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Ethereal Security Guard](https://open.spotify.com/album/2DM184JFwecL8z2s8F2moi) | 6:36 | 2025-05-22 |  |
 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 |  |
 | [Feisty](https://open.spotify.com/track/7Laa4tXNvO1QC63Qac53Gp) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Feisty](https://open.spotify.com/album/50u0hKlOJF0MNT1tqe8Gmd) | 2:40 | 2025-05-01 |  |
+| [Fight](https://open.spotify.com/track/28NU3RGCD3Lh8waZdx2OTG) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5) | [Fight](https://open.spotify.com/album/5iZOZJjvOq5jNJE3RaEkli) | 2:38 | 2025-08-22 |  |
 | [Flames shards goo](https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb) | [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Suntub](https://open.spotify.com/album/6IjtDhIvMy3I8xORtWAVax) | 3:48 | 2025-03-13 |  |
 | [follow your nature](https://open.spotify.com/track/5lyvMhPSs4Lz9XVT9Vyhi4) | [great area](https://open.spotify.com/artist/2RZuX5qzl7vZSxlX5T2hBj) | [Follow Your Nature](https://open.spotify.com/album/7jcUICqffbjaDdPpDT7Yxt) | 2:16 | 2025-03-13 |  |
 | [Forget her](https://open.spotify.com/track/5Pf5FOgGfEyKK9zizL2UtA) | [EERA](https://open.spotify.com/artist/1kr9ySHpN45SVd5nJVbIbc) | [Forget her](https://open.spotify.com/album/7wEFFT8ha9xLJ4w5uAZvlz) | 3:37 | 2025-07-04 |  |
@@ -61,6 +62,7 @@
 | [Formula 1](https://open.spotify.com/track/6BHkkOCflCQjyTcGl0jaMi) | [Richard Orofino](https://open.spotify.com/artist/3xXUZ2bPGudLudm2eBE7I0), [Melody English](https://open.spotify.com/artist/681ANzmKTyqMjgPffPiFPp) | [Formula 1](https://open.spotify.com/album/5b5V1qr0RiJzLBAeEe5VOY) | 3:09 | 2025-05-15 |  |
 | [G\-LIP](https://open.spotify.com/track/6F8GWMveksAfUHPjisf7MD) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:17 | 2025-08-08 |  |
 | [Galloping Chest](https://open.spotify.com/track/0sW23ZyfB2RrAFFsA0YGXz) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Galloping Chest](https://open.spotify.com/album/33T7RKYfkC9zIsq2gX3hob) | 3:30 | 2025-06-06 |  |
+| [Gilded](https://open.spotify.com/track/2nxEJwcb0pxBohg1fKKmHe) | [Mr\. Beale](https://open.spotify.com/artist/7IXaHCboVc1IOzBqdHmQ1v) | [Gilded](https://open.spotify.com/album/1QvGemln6o7k5hGaYFpDZ6) | 3:01 | 2025-08-22 |  |
 | [Girls Like Me Belong in Bed, Curled](https://open.spotify.com/track/0byjD8soqql3yBdhOFWjKI) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 4:04 | 2025-03-13 |  |
 | [Good Stuff \- Edit](https://open.spotify.com/track/6BZC33mJ7fbt7lHQDHnKyf) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh), [Wild Pink](https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ) | [Good Stuff \(Edit\)](https://open.spotify.com/album/3qNVaqCijxUA03OYFh88ul) | 3:29 | 2025-04-03 |  |
 | [Gown](https://open.spotify.com/track/7rRXZr2yNxk4HTIIdPfkRe) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Gown](https://open.spotify.com/album/76LdvzNH2xn7aBiohbRBrC) | 3:15 | 2025-07-22 |  |
@@ -81,6 +83,7 @@
 | [I could](https://open.spotify.com/track/5EmtveGyjsE023P8atahBQ) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [I could](https://open.spotify.com/album/1vea1LG3TmBnFdUP4H0K0B) | 2:36 | 2025-04-24 |  |
 | [I'm Only Boggin'](https://open.spotify.com/track/5yqFZvV4aUF6rMHhlcDcGG) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [café LIFE](https://open.spotify.com/album/0vbzPGDQWtxOroyhwC3rck) | 1:27 | 2025-03-13 | 2025-08-09 |
 | [I'm Ready for Love](https://open.spotify.com/track/6bAHE9IuISQLImsUMO6Jgw) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [I'm Ready for Love](https://open.spotify.com/album/0IEWIBmD1A5asUlxclmrX5) | 3:38 | 2025-04-03 |  |
+| [Idea.2](https://open.spotify.com/track/6MElKOLK2nXBHRYNTJTHdr) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Idea.2](https://open.spotify.com/album/5GeAunzkiBxeRx118tj1Jg) | 6:01 | 2025-08-22 |  |
 | [Intangible](https://open.spotify.com/track/5pL2gkDSOm5iEPLqZ7d8p8) | [Baby In Vain](https://open.spotify.com/artist/20khGbiJWINJJibuMzT8yr) | [Afterlife](https://open.spotify.com/album/2fUyFlZitgarYBNLIOhg47) | 3:16 | 2025-03-31 |  |
 | [Intentions](https://open.spotify.com/track/4wqfSOT2MTlVwfrDvXyXWP) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Acopia](https://open.spotify.com/album/4GPuQErhhqHW8xVgOVyhjb) | 2:47 | 2025-03-13 | 2025-08-09 |
 | [Isolation Tank](https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk) | [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [Isolation Tank](https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG) | 2:17 | 2025-03-13 |  |
@@ -127,6 +130,7 @@
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 | 2025-08-09 |
 | [Silent But For Joy](https://open.spotify.com/track/2JqhEPBaV1pPRgrqlTmsNn) | [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Montalvo](https://open.spotify.com/album/5hb0lF7BfVsxwkTP8W7Agr) | 3:36 | 2025-08-08 |  |
 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 | 2025-04-03 |  |
+| [Skeletons Coupling](https://open.spotify.com/track/3AjfZFzMkI6jr4r1JKAOd0) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Skeletons Coupling](https://open.spotify.com/album/5cPMW5JjKembPp2CJBKPHu) | 3:27 | 2025-08-22 |  |
 | [Sky Writing](https://open.spotify.com/track/5KeFtENdNGpvvsdXq9lddW) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Sky Writing](https://open.spotify.com/album/2UrkYjEt3aCRtfY5yXQ2EL) | 3:05 | 2025-05-16 | 2025-07-19 |
 | [Sliver](https://open.spotify.com/track/5lf3g8dIqwCATObOI3sWMz) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Sliver](https://open.spotify.com/album/2ubi5gA5HBQnq4FbJYN1Hi) | 2:36 | 2025-08-18 |  |
 | [Sober Love](https://open.spotify.com/track/68sQfgn2MTUxMwo5iXOxWK) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Sober Love](https://open.spotify.com/album/34Y7XtOzScB4f6B7bXyPrF) | 2:30 | 2025-06-19 |  |

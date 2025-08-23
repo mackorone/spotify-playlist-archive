@@ -4,7 +4,7 @@
 
 > Tiakola x La Mano 1.9 au top de la première playlist de rap français.
 
-351 songs - 17 hr 58 min
+352 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,11 +188,12 @@
 | [Laisse tomber](https://open.spotify.com/track/2I09PaS6In9XUCrREVo4C6) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Racines](https://open.spotify.com/album/6yVw74sZZ2lDyvVVnWPTRc) | 3:11 | 2022-06-09 | 2022-07-29 |
 | [Laisse tomber](https://open.spotify.com/track/7se1NifxbOkGCvwwq4Ca7V) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Laisse tomber](https://open.spotify.com/album/0IGKWLGZBR7EqrRxkrK4jn) | 3:11 | 2022-07-28 | 2022-11-18 |
 | [Laisse\-moi tranquille.](https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 3:36 | 2024-11-28 | 2025-02-14 |
+| [Le P'tit](https://open.spotify.com/track/2LwX4RESg60WS043x1ohD3) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Le P'tit](https://open.spotify.com/album/3W9RcU9NZt2GyHNsJjD1YT) | 2:04 | 2025-08-21 |  |
 | [LE PLAN](https://open.spotify.com/track/0U7UH2iu2X4pWdlmyY3kSm) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE PLAN](https://open.spotify.com/album/6y8p3yTNrEfThZXb4KaRLB) | 2:48 | 2025-01-09 | 2025-05-16 |
 | [Leo Messi](https://open.spotify.com/track/3YZdPvENFPytMyrnkRWm1B) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Leo Messi](https://open.spotify.com/album/4bsIuKDMHdl0MbCI9QMwml) | 1:45 | 2022-01-06 | 2022-03-04 |
 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 | 2023-11-09 | 2024-01-19 |
 | [Les gentils bandits](https://open.spotify.com/track/3Xw6c0oby7C6d7eAjyb1oD) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Les gentils bandits / Focus](https://open.spotify.com/album/1NceKqfVz9ruY8YxMcknlv) | 3:40 | 2022-03-10 | 2022-08-12 |
-| [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 | 2025-05-29 |  |
+| [Les jolies filles](https://open.spotify.com/track/4wKQWRd9lH5ARBu95Oj0Q0) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [RAHMA](https://open.spotify.com/album/2foF38pscwjlBO1GLZnZOh) | 2:35 | 2025-05-29 | 2025-08-23 |
 | [LIF](https://open.spotify.com/track/1bQzTUxeGELwCbWIan83V3) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:14 | 2022-11-24 | 2023-03-18 |
 | [LIF](https://open.spotify.com/track/5L6inxcqOemJI2utN8lvBs) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [LIF](https://open.spotify.com/album/5G40PCwbFMnEL1CyW0e5Rw) | 3:14 | 2022-11-03 | 2022-11-25 |
 | [Link in the Ends](https://open.spotify.com/track/6LaiBYDgJ0nTGAldMQeg9Y) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Link in the Ends](https://open.spotify.com/album/13OEJkAAM0iIfcKJTaP0up) | 2:48 | 2022-11-24 | 2023-02-10 |

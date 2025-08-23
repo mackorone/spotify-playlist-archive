@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 
 > Beautiful classical Indian Ragas to soundtrack your Yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,543 likes - 52 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,555 likes - 52 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEkuDLe92in.md) - [plain]
 | 30 | [Santoor Yaman](https://open.spotify.com/track/1KZkbtEiFUbyisNfS0AhUh) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:16 |
 | 31 | [Love \(alap\)](https://open.spotify.com/track/3NtO6vGj5BjIHT9Fq9FRZH) | [Pandit Shivkumar Sharma & Pandit Hariprasad Chaurasia](https://open.spotify.com/artist/1nJHIxlczWcRhAGZLY1qom) | [The Valley Recalls \- Peace, Love & Harmony](https://open.spotify.com/album/2B5qYV1Iqjwsn8AIHVf9d9) | 5:56 |
 | 32 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
-| 33 | [Raga Shahana Bahar \- Raga Sahana Bahar \- Tala Teentaal](https://open.spotify.com/track/3HvE4bxVaiWN8JR02yJjiO) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL) | [The Master Flautist](https://open.spotify.com/album/7yE4DYn4gX6Ix4vFKdSINv) | 12:12 |
+| 33 | [Raga Shahana Bahar \- Raga Sahana Bahar \- Tala Teentaal](https://open.spotify.com/track/3HvE4bxVaiWN8JR02yJjiO) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Pandit Anindo Chatterjee](https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL) | [The Master Flautist](https://open.spotify.com/album/7yE4DYn4gX6Ix4vFKdSINv) | 12:12 |
 | 34 | [Raga Kirwani \- Alap](https://open.spotify.com/track/68zB5Hx9Lk23S3CvqeQdFK) | [Ken Zuckerman](https://open.spotify.com/artist/0Qlqyvs4Clg3MhIRwxx5ku) | [Salon de Musique](https://open.spotify.com/album/2qGpTMsaE3KL0SsmtcbxQX) | 6:01 |
 | 35 | [Sarod Kirwani](https://open.spotify.com/track/4XYiWAs6052ibYaYPaGJOj) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 3:15 |
 | 36 | [Dhun in Misra Anandi](https://open.spotify.com/track/3p7Z5jTeZLjDk7bruuPVs6) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA) | [Traditional Indian Ragas for Yoga, Deep Meditation, And Relaxation](https://open.spotify.com/album/2OgurzMcXr4zLdFCjhflQx) | 8:19 |

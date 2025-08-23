@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Punjabi hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,919 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,040 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 4 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 |
 | 5 | [Shikari](https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Shikari](https://open.spotify.com/album/5nnfRcMzQF2qSl3XhAS9CK) | 2:48 |
 | 6 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
-| 7 | [5 Goliya](https://open.spotify.com/track/1gYzYz5QwLSW29CEQo1jvy) | [PATHAN](https://open.spotify.com/artist/6ZovwTuFyxarrAz7BWaitv), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [5 Goliya](https://open.spotify.com/album/5UBGakWYeuKkA3YaPsn37p) | 2:21 |
+| 7 | [2 DUNI 4](https://open.spotify.com/track/6nNO0odUyjf1nMz0SJJ7ig) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 DUNI 4](https://open.spotify.com/album/7lnZBuZ4OFMvVXhTFFDBKm) | 2:42 |
 | 8 | [K Million](https://open.spotify.com/track/2PF5MO5PEtJ3K40bacZACB) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Nav Prince](https://open.spotify.com/artist/43hVKGJyBP3vWbbMZKLQfF) | [K Million](https://open.spotify.com/album/07yt4l5Xw6qh1PIA39tC42) | 2:48 |
 | 9 | [Gandasa](https://open.spotify.com/track/6GG4lSyFgj1i2OO9AVgsd7) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Gandasa](https://open.spotify.com/album/0KWSoiZauWkXFzIyikODKF) | 2:28 |
 | 10 | [Next Level](https://open.spotify.com/track/1GJGtsMN2KNtNhPnLHT7jp) | [WARAS](https://open.spotify.com/artist/2CbmLxUseLRT1t12lZe4Wo), [Prodbyastxr](https://open.spotify.com/artist/2bFsfFrihUTO1ypyCnOluc) | [Next Level](https://open.spotify.com/album/30zVXH1VErRNFK8g6PdyKX) | 2:09 |
-| 11 | [2 DUNI 4](https://open.spotify.com/track/6nNO0odUyjf1nMz0SJJ7ig) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 DUNI 4](https://open.spotify.com/album/7lnZBuZ4OFMvVXhTFFDBKm) | 2:42 |
+| 11 | [5 Goliya](https://open.spotify.com/track/1gYzYz5QwLSW29CEQo1jvy) | [PATHAN](https://open.spotify.com/artist/6ZovwTuFyxarrAz7BWaitv), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [5 Goliya](https://open.spotify.com/album/5UBGakWYeuKkA3YaPsn37p) | 2:21 |
 | 12 | [Superstar](https://open.spotify.com/track/7eQoMQdE4JqngwYDOqLBU0) | [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [Rita Kim](https://open.spotify.com/artist/5Xtuk7kRz7Y5qVOlaB7kml) | [ONE FROM THE CROWD](https://open.spotify.com/album/5KOxI4N3j6nWS1OiEUm8Ab) | 3:01 |
 | 13 | [Thaapi](https://open.spotify.com/track/6CYUm0BYIkhY1KO1d0JuFw) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Thaapi](https://open.spotify.com/album/5OKBJ2waZdITplxdgSuyh9) | 2:48 |
 | 14 | [Pistol](https://open.spotify.com/track/3WPIRfYHtn5REB8Ydp9PhO) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Advisory](https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 | 50 | [Majhail](https://open.spotify.com/track/4U9gsMBTcBwMosyBxJC9Al) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Majhail](https://open.spotify.com/album/51nwNRYw6uBFk7n4GVanoB) | 2:44 |
 
-Snapshot ID: `AAAAAFNgO6xhPz91mPYgtmkrVtPQa3Jy`
+Snapshot ID: `AAAAANsIJF6K6+hzc1sFvh+TmLUTjJXL`

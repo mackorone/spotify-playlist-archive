@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,319,681 likes - 150 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,319,535 likes - 150 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Sway](https://open.spotify.com/track/2u4ugBC7qiil1W02UTXPJU) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Let Yourself Free](https://open.spotify.com/album/3EEUq4UWicsmDfWWkmImGE) | 2:15 |
 | 150 | [Talk is Cheap](https://open.spotify.com/track/45DFMibGGTU5cqIi1cU1EZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 |
 
-Snapshot ID: `AAAAAKUZEf286mqaJVLKuA/A8XC2f6op`
+Snapshot ID: `AAAAACdlmHa+W5Jd8YcysSoAn/fjeGYV`

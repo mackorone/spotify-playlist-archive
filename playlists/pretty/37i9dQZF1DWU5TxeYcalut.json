@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Azymuth",
-  "num_followers": 163376,
+  "num_followers": 163374,
   "original_name": "Jazz BR",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "A Ma\u00e7\u00e3",
+        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
+      },
+      "artists": [
+        {
+          "name": "Carlos Buzelin",
+          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
+        }
+      ],
+      "duration_ms": 225184,
+      "name": "Porto Rio",
+      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "A Pegada Agora \u00c9 Essa (The Sway Now)",
         "url": "https://open.spotify.com/album/4GaKzRdEl4lIcJdiCOsRvH"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 303750,
       "name": "Lamento de um Perplexo",
       "url": "https://open.spotify.com/track/3fyjwGSehpTJVUvnDJd9Qc"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "A Ma\u00e7\u00e3",
-        "url": "https://open.spotify.com/album/5C6P51oL3rfqLLG9Ve3S1H"
-      },
-      "artists": [
-        {
-          "name": "Carlos Buzelin",
-          "url": "https://open.spotify.com/artist/3LRki4zLTVbYzI6R1kwcsB"
-        }
-      ],
-      "duration_ms": 225184,
-      "name": "Porto Rio",
-      "url": "https://open.spotify.com/track/4cju6IU8utozhyEHYrPua9"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Varanda",
+        "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
+      },
+      "artists": [
+        {
+          "name": "Noa Stroeter",
+          "url": "https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg"
+        }
+      ],
+      "duration_ms": 345319,
+      "name": "Varanda",
+      "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "April Child",
         "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 424404,
       "name": "April Child",
       "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Varanda",
-        "url": "https://open.spotify.com/album/2LZJ1jHPIhZS28j6HDXJnT"
-      },
-      "artists": [
-        {
-          "name": "Noa Stroeter",
-          "url": "https://open.spotify.com/artist/47Dgmd16sHCg8VgX8jpyGg"
-        }
-      ],
-      "duration_ms": 345319,
-      "name": "Varanda",
-      "url": "https://open.spotify.com/track/2PP9G7eHdEKrf0EYWkDlJV"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -835,6 +835,26 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Sobrevoo",
+        "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
+        },
+        {
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
+        }
+      ],
+      "duration_ms": 382919,
+      "name": "Fluxo",
+      "url": "https://open.spotify.com/track/6OAwPPmQ6b50DdqzfMgGwZ"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "Su\u00edte Amer\u00edndia",
         "url": "https://open.spotify.com/album/1GDeC6yrxqWKX75FSn8nkg"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 840973,
       "name": "Su\u00edte Amer\u00edndia",
       "url": "https://open.spotify.com/track/50i63kSRpuJXi9tAgrpDQF"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Sobrevoo",
-        "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        }
-      ],
-      "duration_ms": 382919,
-      "name": "Fluxo",
-      "url": "https://open.spotify.com/track/6OAwPPmQ6b50DdqzfMgGwZ"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
+      },
+      "artists": [
+        {
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "If\u00e8",
         "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 317986,
       "name": "Mem\u00f3rias",
       "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
-      },
-      "artists": [
-        {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1087,38 +1087,6 @@
       "duration_ms": 202026,
       "name": "Costa da Mina",
       "url": "https://open.spotify.com/track/6jYmO2yig7sEPtIFPsAVTM"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "M\u00fasica Disfar\u00e7ada de Gente",
-        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
-      },
-      "artists": [
-        {
-          "name": "GUANDUO",
-          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
-        },
-        {
-          "name": "Eduardo Pinheiro",
-          "url": "https://open.spotify.com/artist/3VBwwahcVJNw3KPxFGCiDG"
-        },
-        {
-          "name": "Juliano Camara",
-          "url": "https://open.spotify.com/artist/5VPgvDAJTw0h4t9bAaPhtn"
-        },
-        {
-          "name": "M\u00e1rcio Bahia",
-          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
-        },
-        {
-          "name": "Pedro Franco",
-          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
-        }
-      ],
-      "duration_ms": 313880,
-      "name": "Francamente",
-      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1159,6 +1127,38 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "M\u00fasica Disfar\u00e7ada de Gente",
+        "url": "https://open.spotify.com/album/7E0MGmfOTV3l0UOSnYib5r"
+      },
+      "artists": [
+        {
+          "name": "GUANDUO",
+          "url": "https://open.spotify.com/artist/00MF73V9qT6c5DkFyTgI12"
+        },
+        {
+          "name": "Eduardo Pinheiro",
+          "url": "https://open.spotify.com/artist/3VBwwahcVJNw3KPxFGCiDG"
+        },
+        {
+          "name": "Juliano Camara",
+          "url": "https://open.spotify.com/artist/5VPgvDAJTw0h4t9bAaPhtn"
+        },
+        {
+          "name": "M\u00e1rcio Bahia",
+          "url": "https://open.spotify.com/artist/459tuZRjLSRk5TqSKlEGEw"
+        },
+        {
+          "name": "Pedro Franco",
+          "url": "https://open.spotify.com/artist/4F1Nh4ePuhI8bNvmS8z7nc"
+        }
+      ],
+      "duration_ms": 313880,
+      "name": "Francamente",
+      "url": "https://open.spotify.com/track/07eg0ksM1tEVextuGzUfd8"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "Plural",
         "url": "https://open.spotify.com/album/7yhJD2xhtcfAterNjKzUI5"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 492946,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/2Q7LRFy26mBMhpMNjV3u31"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "From Rio",
+        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
+      },
+      "artists": [
+        {
+          "name": "Marcio Riscado",
+          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
+        }
+      ],
+      "duration_ms": 126647,
+      "name": "From Rio",
+      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1207,24 +1223,8 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "From Rio",
-        "url": "https://open.spotify.com/album/5wZW0ZTI1uORDNbCJTyoM8"
-      },
-      "artists": [
-        {
-          "name": "Marcio Riscado",
-          "url": "https://open.spotify.com/artist/2LGbQV6JqYUFfbrZNr5tST"
-        }
-      ],
-      "duration_ms": 126647,
-      "name": "From Rio",
-      "url": "https://open.spotify.com/track/5ZIksEAchH5o7N1uAz0cat"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Gunnarssons",
-        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
       },
       "artists": [
         {
@@ -1232,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
         }
       ],
-      "duration_ms": 251417,
-      "name": "Gunnarssons",
-      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
-        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
-      },
-      "artists": [
-        {
-          "name": "Mano a Mano Trio",
-          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
-        }
-      ],
-      "duration_ms": 244074,
-      "name": "Cobra Criada",
-      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Mirada Pervertida (Bossa Guitar)",
         "url": "https://open.spotify.com/album/1FOofSDQ5Vcy7LF5TS3ZPP"
       },
@@ -1295,6 +1279,82 @@
       "duration_ms": 218174,
       "name": "Nadie Tiene El Alma Pura",
       "url": "https://open.spotify.com/track/4GxOPQmmCLZ393WupYhhlQ"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Mano a Mano Trio Toca Jo\u00e3o Bosco",
+        "url": "https://open.spotify.com/album/61W48IvRqMEkSGTmg6KbWP"
+      },
+      "artists": [
+        {
+          "name": "Mano a Mano Trio",
+          "url": "https://open.spotify.com/artist/13q3nLjAg1Nn29qsdqa8CI"
+        }
+      ],
+      "duration_ms": 244074,
+      "name": "Cobra Criada",
+      "url": "https://open.spotify.com/track/2w8B70jJCeITnYLDPaQiJh"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Kurukere",
+        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
+      },
+      "artists": [
+        {
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+        },
+        {
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+        },
+        {
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+        }
+      ],
+      "duration_ms": 352329,
+      "name": "Kurukere",
+      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Gunnarssons",
+        "url": "https://open.spotify.com/album/7vxhs47gBZsB7xf2KUAPjm"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 251417,
+      "name": "Gunnarssons",
+      "url": "https://open.spotify.com/track/34W8m3rNw7pqYieF2mVxe2"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Someone To Watch Over Me (Meet Tetel)",
+        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
+      },
+      "artists": [
+        {
+          "name": "Tetel Di Babuya",
+          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
+        },
+        {
+          "name": "Daniel Grajew",
+          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Someone To Watch Over Me - Meet Tetel",
+      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1335,42 +1395,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Someone To Watch Over Me (Meet Tetel)",
-        "url": "https://open.spotify.com/album/28z8cVf1apcyRfvVflv4rq"
-      },
-      "artists": [
-        {
-          "name": "Tetel Di Babuya",
-          "url": "https://open.spotify.com/artist/5cPY99VZsIVVJzYcTutgEJ"
-        },
-        {
-          "name": "Daniel Grajew",
-          "url": "https://open.spotify.com/artist/4ef0QbgppvhWK6xEH9gb5t"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Someone To Watch Over Me - Meet Tetel",
-      "url": "https://open.spotify.com/track/5SnHGVR4rSZzUdPrV8Qxp2"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "Experimento 1",
         "url": "https://open.spotify.com/album/7kpMqU9gIfdNoCPaSKIhzr"
       },
@@ -1391,30 +1415,6 @@
       "duration_ms": 576170,
       "name": "Experimento 1",
       "url": "https://open.spotify.com/track/2htZhUGpBaF6kkdXmRka0t"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Kurukere",
-        "url": "https://open.spotify.com/album/5wDaxoRCIWH7wWDmwQQSKL"
-      },
-      "artists": [
-        {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
-        },
-        {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
-        },
-        {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
-        }
-      ],
-      "duration_ms": 352329,
-      "name": "Kurukere",
-      "url": "https://open.spotify.com/track/7KRa4kuRagWi0aGJL06CxB"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "Factotum",
         "url": "https://open.spotify.com/album/1KgnJrYa8yeHxILCZT8xS0"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 396106,
       "name": "Factotum",
       "url": "https://open.spotify.com/track/0u59iLhNCn8r6lKuENwSVz"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
-        "name": "Sidiel Vieira Quinteto",
-        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
-      },
-      "artists": [
-        {
-          "name": "Sidiel Vieira Quinteto",
-          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
-        }
-      ],
-      "duration_ms": 506440,
-      "name": "Atrevido",
-      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
         "name": "MOA",
         "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 259320,
       "name": "Sete Coisas",
       "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
+        "name": "Sidiel Vieira Quinteto",
+        "url": "https://open.spotify.com/album/40kFVEyjAWxy0Gwa1aLruk"
+      },
+      "artists": [
+        {
+          "name": "Sidiel Vieira Quinteto",
+          "url": "https://open.spotify.com/artist/6OgPrPmCJxWOgJPks16inx"
+        },
+        {
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+        }
+      ],
+      "duration_ms": 506440,
+      "name": "Atrevido",
+      "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
     },
     {
       "added_at": "2025-07-11 05:44:48",
@@ -1811,6 +1811,26 @@
     {
       "added_at": "2025-07-11 05:44:48",
       "album": {
+        "name": "Entroncamento",
+        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
+      },
+      "artists": [
+        {
+          "name": "Julio Borba",
+          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
+        },
+        {
+          "name": "Santiago Beis",
+          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
+        }
+      ],
+      "duration_ms": 253167,
+      "name": "Nos Dias de Hoje",
+      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
+    },
+    {
+      "added_at": "2025-07-11 05:44:48",
+      "album": {
         "name": "Boa Not\u00edcia",
         "url": "https://open.spotify.com/album/23rv5VhO6TwM24YCe74SYj"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 261073,
       "name": "L\u00e2mina",
       "url": "https://open.spotify.com/track/78lwAylCLHLfhC21j96FGt"
-    },
-    {
-      "added_at": "2025-07-11 05:44:48",
-      "album": {
-        "name": "Entroncamento",
-        "url": "https://open.spotify.com/album/5qaCctJXbwVrDFfTtAvos8"
-      },
-      "artists": [
-        {
-          "name": "Julio Borba",
-          "url": "https://open.spotify.com/artist/3TkBma5TBJFpZtQJdyebg3"
-        },
-        {
-          "name": "Santiago Beis",
-          "url": "https://open.spotify.com/artist/3IRcEtiCBca4XC0EtHXehO"
-        }
-      ],
-      "duration_ms": 253167,
-      "name": "Nos Dias de Hoje",
-      "url": "https://open.spotify.com/track/1VYiUSDJG4a5JMcs6slKH8"
     },
     {
       "added_at": "2025-07-11 05:44:48",

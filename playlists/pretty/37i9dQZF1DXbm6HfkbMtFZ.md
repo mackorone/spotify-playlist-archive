@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,513 likes - 115 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,568 likes - 115 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 54 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
 | 55 | [Take What's Given](https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What's Given](https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F) | 2:54 |
 | 56 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 |
-| 57 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
-| 58 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
+| 57 | [Smoke Machine](https://open.spotify.com/track/0YwaIqzVJcWsFHqT7oaiVq) | [Jesse Woods](https://open.spotify.com/artist/0yCYrNUvVe4VVz7xSZ1xei) | [Autoflower](https://open.spotify.com/album/2qqhR0nwfpeIM5TX4h3bAJ) | 3:04 |
+| 58 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
 | 59 | [Ride with Me](https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:52 |
 | 60 | [Next to Normal](https://open.spotify.com/track/32hyjj6HoeylRLJDEwLRPM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/23rODwWw3dylrLEzUW1tIw) | 3:10 |
 | 61 | [All I Really Wanna Do](https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [All I Really Wanna Do](https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks) | 3:42 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 82 | [Red Wine](https://open.spotify.com/track/5SHQrtKT1jddKhh8HuGRx8) | [Grapetooth](https://open.spotify.com/artist/2JcgT3bbIW7SctN6eQI2eh) | [Grapetooth](https://open.spotify.com/album/7fmC3GwiybC7nUfPZg4oWI) | 3:59 |
 | 83 | [Off to the Side](https://open.spotify.com/track/23I5jM64mGFDmYAUpcYBO4) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Tako Tsubo \(Extended\)](https://open.spotify.com/album/5TzIufkUkIyyDmWse36b9p) | 4:28 |
 | 84 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
-| 85 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
-| 86 | [Sun & Moon](https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Sun & Moon](https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g) | 2:45 |
+| 85 | [Sun & Moon](https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Sun & Moon](https://open.spotify.com/album/1K2NwUvkvc6EL8pwmD332g) | 2:45 |
+| 86 | [Favorite Kind of People](https://open.spotify.com/track/0ZNFlOHQag4iWB7xeJ4DTz) | [Jaco Jaco](https://open.spotify.com/artist/6r8q8GAOrshD9tuwY2rWwL) | [Favorite Kind of People](https://open.spotify.com/album/2g1spSyk5dA2ka1YziVMZm) | 3:04 |
 | 87 | [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 |
 | 88 | [Slippin](https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Quadron](https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ) | 4:32 |
 | 89 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 107 | [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 |
 | 108 | [You Make Me Smile](https://open.spotify.com/track/3fITA64OY8dVQwOV0ZvjPp) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mamalarky](https://open.spotify.com/album/1WPpQqTb8cajcwwpSiqJ43) | 3:36 |
 | 109 | [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 |
-| 110 | [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 |
-| 111 | [Play Pretend](https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Play Pretend](https://open.spotify.com/album/4gk7cTFVAi1cvhsGJSP6IT) | 3:24 |
+| 110 | [Play Pretend](https://open.spotify.com/track/5Bd2BRtzcEEm0G1ZU2JwLo) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Play Pretend](https://open.spotify.com/album/4gk7cTFVAi1cvhsGJSP6IT) | 3:24 |
+| 111 | [Born Too Late](https://open.spotify.com/track/2f79cCVgumma4V11XQEhAu) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Warm Blanket](https://open.spotify.com/album/15PX5VAhMxwfD2wt6KZGVS) | 4:41 |
 | 112 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 |
 | 113 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 |
 | 114 | [I'm Late](https://open.spotify.com/track/6KV7F3IPwbTiPQ4mA7maO2) | [KERA](https://open.spotify.com/artist/0ZLjlul3kXdLihVJqJn0PR), [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [I'm Late](https://open.spotify.com/album/2qSWLEtkcSZ5ljd7zxaFR1) | 2:39 |

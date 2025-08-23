@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Peer Kusiv
 
-5,792 songs - 20 day 5 hr 9 min
+5,792 songs - 20 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Answer](https://open.spotify.com/track/4RHSOhJYoftx7lLglL74Rm) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Hard Work EP](https://open.spotify.com/album/4Hd7GPsHrEs18SL70She2c) | 3:05 | 2025-06-26 | 2025-07-11 |
 | [Answers](https://open.spotify.com/track/0CeWgXXROIiSlo9Zywi9Mn) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Answers](https://open.spotify.com/album/2qxyJ00UY5ALSTacmzjzb7) | 4:13 | 2025-02-06 | 2025-02-21 |
 | [Answers](https://open.spotify.com/track/3O9u7F1dv9WVskCVlcLWmv) | [Paradoks](https://open.spotify.com/artist/0wKUDx34qpJqHSSGOFSAkf) | [Answers](https://open.spotify.com/album/6aLGXRE7kVWMS3zVjnfF2X) | 3:19 | 2025-07-10 | 2025-08-01 |
+| [Ant Club](https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z) | [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [Good Trip](https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC) | 5:04 | 2025-08-21 |  |
 | [Antagonistic Radiance](https://open.spotify.com/track/3IV5p7uGNCAIKAUJnlhEcJ) | [Joone](https://open.spotify.com/artist/1cwiFXVpO0awE541K7EZEV) | [Antagonistic Radiance](https://open.spotify.com/album/1DFBrY5DFg8mW2GFTuiK8g) | 6:45 | 2024-09-05 | 2024-09-27 |
 | [Anti Loudness](https://open.spotify.com/track/6PzOxGPjYjr6tQfHrdru8D) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Anti Loudness](https://open.spotify.com/album/5zlA8GY98ZO5SnCHeGVvZv) | 6:23 | 2024-01-18 | 2024-02-09 |
 | [Antinomy \- NIHILS Remix](https://open.spotify.com/track/2bphTEgQTMolqpBSOEV2en) | [Teho](https://open.spotify.com/artist/7uZckwZIIL89Paj8E1GEFO), [NIHILS](https://open.spotify.com/artist/0O7NhieDairfQvi9jr66Cx) | [Antinomy \(NIHILS Remix\)](https://open.spotify.com/album/5yvWI51I7yXhjUsOcXOkfN) | 5:40 | 2024-06-20 | 2024-07-12 |
@@ -5216,7 +5217,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z) | [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [Good Trip](https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC) | 0:00 | 2025-08-21 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Train to Utogi](https://open.spotify.com/track/14wCCWEzzUsjRl8BPosbPc) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Wasabi Syndrome](https://open.spotify.com/album/1iFX3SJw4IfpLzIb8YMrhh) | 6:22 | 2023-04-20 | 2023-05-05 |

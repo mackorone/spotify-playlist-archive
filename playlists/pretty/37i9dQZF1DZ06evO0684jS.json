@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 889023,
+  "num_followers": 889077,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABmm78dC7bz2gLOZL3HKGzS",
+  "snapshot_id": "aKZhgAAAAAAY9YSHx/v/Dq4r53Gx0ki+",
   "tracks": [
     {
       "added_at": null,
@@ -503,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Love (Remix)",
+        "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
+      },
+      "artists": [
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DUMMY BOY (Revised)",
         "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 179404,
       "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Love (Remix)",
-        "url": "https://open.spotify.com/album/7ghSWpMQsrdOH8icfRKsk9"
-      },
-      "artists": [
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/7ewfvLrlI0VNht4vEnoTMh"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kissing Strangers",
+        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
+      },
+      "artists": [
+        {
+          "name": "DNCE",
+          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Kissing Strangers",
+      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -755,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kissing Strangers",
-        "url": "https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R"
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
       },
       "artists": [
         {
-          "name": "DNCE",
-          "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 202480,
-      "name": "Kissing Strangers",
-      "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
+      "duration_ms": 234333,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
     },
     {
       "added_at": null,
@@ -791,26 +811,6 @@
       "duration_ms": 199073,
       "name": "AGATS2 (Insecure) [with Nicki Minaj]",
       "url": "https://open.spotify.com/track/2iVpUQJaQjOWGja05zyIj9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 189706,
       "name": "Love More (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2MDueMvPkUTpU6Xkmeinln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-507 songs - 1 day 1 hr 51 min
+508 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Back of Car](https://open.spotify.com/track/12VUzFFZktld3iDJjjD8ao) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:48 | 2023-10-25 | 2023-12-13 |
 | [BACKLASH](https://open.spotify.com/track/0xc2yPEA9mijAN6T1Jq4Z3) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [BACKLASH](https://open.spotify.com/album/2RkPZfb697jIKJlwWXEiMM) | 3:13 | 2025-04-25 |  |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-08 | 2024-04-26 |
+| [Badmashi](https://open.spotify.com/track/3TYVCSBKBdsH43nDPeCvyT) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Vseer](https://open.spotify.com/artist/2AuQm2EBaiXKWeow1jC6ZY) | [Badmashi](https://open.spotify.com/album/32i949gdo7zX8V6qDhsbYe) | 4:05 | 2025-08-22 |  |
 | [Bakamaal](https://open.spotify.com/track/0dcwP39qbjJu3eBKb0pTcm) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Jadugarriya](https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO) | 2:27 | 2024-02-06 | 2024-02-23 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-09-16 | 2024-06-01 |
 | [Ballin](https://open.spotify.com/track/50DTcDWX1U6AEKvPZkXhwS) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 2:16 | 2025-02-28 | 2025-05-03 |
@@ -405,7 +406,7 @@
 | [Shikari](https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Shikari](https://open.spotify.com/album/5nnfRcMzQF2qSl3XhAS9CK) | 2:48 | 2025-05-02 | 2025-05-24 |
 | [Shinin'](https://open.spotify.com/track/1qrAgbcxQpeaDv4ptgjl9e) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Shinin'](https://open.spotify.com/album/5cFE6guiFfiFRHNxhkWTEv) | 3:15 | 2022-05-29 | 2023-08-01 |
 | [Shoes Off](https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Shoes Off](https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH) | 3:49 | 2025-07-11 |  |
-| [Showstopper](https://open.spotify.com/track/64mInfKzmJIbuTvcnhRgfW) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Showstopper](https://open.spotify.com/album/1KVirmPrDEhMyG54GfSSWz) | 2:26 | 2023-08-30 |  |
+| [Showstopper](https://open.spotify.com/track/64mInfKzmJIbuTvcnhRgfW) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Showstopper](https://open.spotify.com/album/1KVirmPrDEhMyG54GfSSWz) | 2:26 | 2023-08-30 | 2025-08-23 |
 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 | 2024-11-05 | 2025-05-17 |
 | [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2022-06-01 | 2022-06-26 |
 | [Silicone](https://open.spotify.com/track/3UeV0FgtxsChvX6rlX8loZ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Silicone](https://open.spotify.com/album/7o8vQPQ3JQVz3g2hjvmC2u) | 3:26 | 2023-08-23 | 2023-11-10 |

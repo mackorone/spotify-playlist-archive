@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 71564,
+  "num_followers": 71571,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
+        "name": "The Fountain OST",
+        "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Together We Will Live Forever",
+      "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
         "name": "Young and Foolish",
         "url": "https://open.spotify.com/album/4QDQ3rOy6os0Xm8BdM2TJ0"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 138823,
       "name": "Never Blame The Young Ones",
       "url": "https://open.spotify.com/track/09VtFwk3q69c5JQQAHUTKt"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
-        "name": "The Fountain OST",
-        "url": "https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3"
-      },
-      "artists": [
-        {
-          "name": "Clint Mansell",
-          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Together We Will Live Forever",
-      "url": "https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "5th Avenue",
-        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
-      },
-      "artists": [
-        {
-          "name": "Kyrie Barnes",
-          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
-        }
-      ],
-      "duration_ms": 146006,
-      "name": "5th Avenue",
-      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
         "name": "As The Years Go By",
         "url": "https://open.spotify.com/album/5aeUh8jEe9W9IUQJU0Q3Bd"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 152746,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/4JX3QGip45EV6Ne0uvV9NK"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
+        "name": "5th Avenue",
+        "url": "https://open.spotify.com/album/6gEkpwgILVtUfADGu1x6dl"
+      },
+      "artists": [
+        {
+          "name": "Kyrie Barnes",
+          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
+        }
+      ],
+      "duration_ms": 146006,
+      "name": "5th Avenue",
+      "url": "https://open.spotify.com/track/3O2f2ELDsXkhISN0b1Ge6A"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
-      },
-      "artists": [
-        {
-          "name": "Jules Pierre Gardot",
-          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
+      },
+      "artists": [
+        {
+          "name": "Jules Pierre Gardot",
+          "url": "https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
+      },
+      "artists": [
+        {
+          "name": "Moldoveanu",
+          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
+        }
+      ],
+      "duration_ms": 125308,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
         "name": "Don't Go To Strangers",
         "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 194637,
       "name": "Behind The Jalousie",
       "url": "https://open.spotify.com/track/39YCja6W45q9EtAtztQImq"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE"
-      },
-      "artists": [
-        {
-          "name": "Moldoveanu",
-          "url": "https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O"
-        }
-      ],
-      "duration_ms": 125308,
-      "name": "Luminous",
-      "url": "https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "Eeny Meeny Miny Moe",
-        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
-      },
-      "artists": [
-        {
-          "name": "Peter Ehrlichmann",
-          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
-        }
-      ],
-      "duration_ms": 68250,
-      "name": "Eeny Meeny Miny Moe",
-      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
         "name": "The Secret Piano",
         "url": "https://open.spotify.com/album/7axzWd20YVmQ4BVmOA6TpA"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 269000,
       "name": "The Music Of The Night",
       "url": "https://open.spotify.com/track/19SbG4LbAtPp6rrc54ZZVS"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
+        "name": "Eeny Meeny Miny Moe",
+        "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
+      },
+      "artists": [
+        {
+          "name": "Peter Ehrlichmann",
+          "url": "https://open.spotify.com/artist/4i2t5SSw1MoiBLrD1Lrslx"
+        }
+      ],
+      "duration_ms": 68250,
+      "name": "Eeny Meeny Miny Moe",
+      "url": "https://open.spotify.com/track/4E0b1oXvrPoxHc9Mh3bYzZ"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "A Perceptual Process",
-        "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
-      },
-      "artists": [
-        {
-          "name": "Dominique Marais",
-          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
-        }
-      ],
-      "duration_ms": 113820,
-      "name": "A Perceptual Process",
-      "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/4hfn002VS0oDKJHiJKs2CM"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+        "name": "A Perceptual Process",
+        "url": "https://open.spotify.com/album/0bJgueNYLGic54wJ7wRoLl"
       },
       "artists": [
         {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+          "name": "Dominique Marais",
+          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
         }
       ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+      "duration_ms": 113820,
+      "name": "A Perceptual Process",
+      "url": "https://open.spotify.com/track/4bG7TSO7x8s5eKOjSxMIet"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1099,6 +1083,22 @@
       "duration_ms": 170783,
       "name": "Kiss the Rain",
       "url": "https://open.spotify.com/track/6jtGgmzqjtQA2tDDmcc7QI"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+      },
+      "artists": [
+        {
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
         "name": "Reggimi",
         "url": "https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
       "artists": [
         {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
         }
       ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
+      "duration_ms": 184389,
+      "name": "Grounded Mind",
+      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+        "name": "Variante Alta",
+        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
       },
       "artists": [
         {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+          "name": "Flavio Apicella",
+          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
         }
       ],
-      "duration_ms": 184389,
-      "name": "Grounded Mind",
-      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+      "duration_ms": 232934,
+      "name": "Variante Alta",
+      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1243,22 +1259,6 @@
       "duration_ms": 178000,
       "name": "Afterhours",
       "url": "https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
-        "name": "Variante Alta",
-        "url": "https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K"
-      },
-      "artists": [
-        {
-          "name": "Flavio Apicella",
-          "url": "https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v"
-        }
-      ],
-      "duration_ms": 232934,
-      "name": "Variante Alta",
-      "url": "https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "Pour Vous",
-        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
-      },
-      "artists": [
-        {
-          "name": "Pamela Goldings",
-          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Pour Vous",
-      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
         "name": "Murray's Moon",
         "url": "https://open.spotify.com/album/2k8AhvhXJX6vMHCNxauuHW"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 127000,
       "name": "Murray's Moon",
       "url": "https://open.spotify.com/track/1Xsd98cpIUDSobvr1hkSNo"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
+        "name": "Pour Vous",
+        "url": "https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD"
+      },
+      "artists": [
+        {
+          "name": "Pamela Goldings",
+          "url": "https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Pour Vous",
+      "url": "https://open.spotify.com/track/0yBjtQdUb2T281UIF5hUMU"
     },
     {
       "added_at": "2025-08-11 01:55:40",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-08-11 01:55:40",
       "album": {
-        "name": "Beautiful Love",
-        "url": "https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD"
-      },
-      "artists": [
-        {
-          "name": "Jacques Liti",
-          "url": "https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59"
-        }
-      ],
-      "duration_ms": 178016,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu"
-    },
-    {
-      "added_at": "2025-08-11 01:55:40",
-      "album": {
         "name": "A Gift To Share",
         "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 143240,
       "name": "Children Will Listen",
       "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
+    },
+    {
+      "added_at": "2025-08-11 01:55:40",
+      "album": {
+        "name": "Beautiful Love",
+        "url": "https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD"
+      },
+      "artists": [
+        {
+          "name": "Jacques Liti",
+          "url": "https://open.spotify.com/artist/51OyTDCWeHCnapSMbkLU59"
+        }
+      ],
+      "duration_ms": 178016,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/1Kgket0KgTt2KE0zbmLCDu"
     },
     {
       "added_at": "2025-08-11 01:55:40",

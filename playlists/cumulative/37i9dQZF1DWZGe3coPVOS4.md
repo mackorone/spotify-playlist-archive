@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-108 songs - 5 hr 15 min
+109 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Dance The Night](https://open.spotify.com/track/0uP9i8YhU9T1ngD21zcca7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Dance The Night](https://open.spotify.com/album/1ABqWB0UfHZ6EHntUk6q8F) | 2:56 | 2023-09-22 | 2024-07-16 |
 | [Dance The Night](https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:56 | 2024-07-15 |  |
 | [DtMF](https://open.spotify.com/track/0muMwfNspNKBqNgWD3Jzzy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 51](https://open.spotify.com/album/52n9wKwAlgUCQWBasQICQ9) | 2:47 | 2025-07-20 |  |
-| [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-06-09 |  |
+| [Dynamite](https://open.spotify.com/track/1SjPz95ZuP97C64qP7Whvx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 3:17 | 2023-06-09 | 2025-08-23 |
 | [Ella Baila Sola](https://open.spotify.com/track/6o23AeNrj2mfYAkuEcyz2B) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:18 | 2024-01-22 | 2024-07-16 |
 | [End of Beginning](https://open.spotify.com/track/1rrYeJowAbOZDC01qXuLHv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [End of Beginning](https://open.spotify.com/album/1uS4K4InEf7LIC6uPcsB70) | 2:39 | 2024-06-28 |  |
 | [Espresso](https://open.spotify.com/track/11i0KY6i16UtY5y9WhuJfu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Espresso](https://open.spotify.com/album/1MFBWJ5Z6fjffYj41aKtzX) | 2:34 | 2024-08-02 |  |
@@ -84,6 +84,7 @@
 | [Not My Fault](https://open.spotify.com/track/4WDqDsYVuUJxWNRVosvuqf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 1:23 | 2024-07-15 |  |
 | [Old Town Road](https://open.spotify.com/track/07cQIm99dnNSKs6skathg0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 1:50 | 2023-06-09 |  |
 | [On My Love](https://open.spotify.com/track/30n5DvInhiaeSQKvovJEln) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:43 | 2024-07-15 |  |
+| [Ordinary](https://open.spotify.com/track/1kpyrSrztFItjIK2rIeynv) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Ordinary](https://open.spotify.com/album/3nti4U2l0xqKTSbvMJz9az) | 3:04 | 2025-08-22 |  |
 | [Padam Padam](https://open.spotify.com/track/3lfZuAGAbPxh5VHR63ANtP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:46 | 2024-01-22 |  |
 | [Part Of Your World](https://open.spotify.com/track/1CJPgxgocqsMojhp1oELbZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Part Of Your World](https://open.spotify.com/album/6A9Na8Ss430ANHFWXzR6cn) | 3:00 | 2023-06-09 | 2024-07-16 |
 | [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 | 2023-06-09 | 2024-08-24 |

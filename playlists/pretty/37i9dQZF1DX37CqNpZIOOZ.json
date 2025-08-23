@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 25846,
+  "num_followers": 25849,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -287,30 +287,6 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
-        "name": "R. Strauss & Wagner: Lieder",
-        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Adrianne Pieczonka",
-          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
-        },
-        {
-          "name": "Brian Zeger",
-          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
-      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
-    },
-    {
-      "added_at": "2025-07-01 11:16:25",
-      "album": {
         "name": "Marc, Alessandra: Arias (Opera Gala) -Bellini, V. / Donizetti, G. / Hofmannsthal, H. / Barber, S. / Puccini, G.",
         "url": "https://open.spotify.com/album/0eBBqRUksRqE0JWjvRsFNQ"
       },
@@ -339,6 +315,30 @@
       "duration_ms": 311840,
       "name": "Die Agyptische Helena, Op. 75, TrV 255, Act II: Zweite Brautnacht! Zaubernacht",
       "url": "https://open.spotify.com/track/6iKuENO12ch6vV1wZXjPK1"
+    },
+    {
+      "added_at": "2025-07-01 11:16:25",
+      "album": {
+        "name": "R. Strauss & Wagner: Lieder",
+        "url": "https://open.spotify.com/album/1NmpagLKKKQRweZly1Jmjd"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Adrianne Pieczonka",
+          "url": "https://open.spotify.com/artist/0i7wTrA2VeXFoVT8AsEmIj"
+        },
+        {
+          "name": "Brian Zeger",
+          "url": "https://open.spotify.com/artist/34c8ESHUzusi6jHnk1GEvB"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "5 Kleine Lieder, Op. 69, TrV 237: No. 3, Einerlei",
+      "url": "https://open.spotify.com/track/7DUQ9zWONU1BI36B71pdnW"
     },
     {
       "added_at": "2025-07-01 11:16:25",
@@ -411,6 +411,30 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
+        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
+        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Herbert Blomstedt",
+          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
+        }
+      ],
+      "duration_ms": 1735253,
+      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
+      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
+    },
+    {
+      "added_at": "2025-07-01 11:16:25",
+      "album": {
         "name": "Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
       },
@@ -455,30 +479,6 @@
       "duration_ms": 264040,
       "name": "Ein Heldenleben, Op. 40: I. Der Held - Live",
       "url": "https://open.spotify.com/track/0PNYkBH06gRTUKvQiIMyCm"
-    },
-    {
-      "added_at": "2025-07-01 11:16:25",
-      "album": {
-        "name": "Richard Strauss: Ein Heldenleben; Metamorphosen",
-        "url": "https://open.spotify.com/album/62VGguKuvagOIk4Kchw6U7"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "San Francisco Symphony",
-          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
-        },
-        {
-          "name": "Herbert Blomstedt",
-          "url": "https://open.spotify.com/artist/3H5lFsmGtr8CoZexz2rznB"
-        }
-      ],
-      "duration_ms": 1735253,
-      "name": "Metamorphosen for 23 Solo Strings, TrV 290",
-      "url": "https://open.spotify.com/track/2UYLk84jqqkHRv29UmTczU"
     },
     {
       "added_at": "2025-07-01 11:16:25",
@@ -647,8 +647,8 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
-        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
-        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
+        "name": "Strauss, R.: Ariadne auf Naxos",
+        "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
       },
       "artists": [
         {
@@ -656,17 +656,25 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+          "name": "Edita Gruberova",
+          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
         },
         {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+          "name": "Julia Varady",
+          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
         }
       ],
-      "duration_ms": 207080,
-      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
-      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
+      "duration_ms": 228106,
+      "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
+      "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
     },
     {
       "added_at": "2025-07-01 11:16:25",
@@ -723,8 +731,8 @@
     {
       "added_at": "2025-07-01 11:16:25",
       "album": {
-        "name": "Strauss, R.: Ariadne auf Naxos",
-        "url": "https://open.spotify.com/album/3pz0mxP92d3SscSdnxHDLk"
+        "name": "Strauss: Metamorphosis & An Alpine Symphony, Op. 64",
+        "url": "https://open.spotify.com/album/4bkr77Tbm5Z8pW7YG8jHkN"
       },
       "artists": [
         {
@@ -732,25 +740,41 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Edita Gruberova",
-          "url": "https://open.spotify.com/artist/4aw3cyJIyf0IPkncPBsSS0"
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
         },
         {
-          "name": "Julia Varady",
-          "url": "https://open.spotify.com/artist/75dN1x42c0LtoRuBOz2huI"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Kurt Masur",
-          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
         }
       ],
-      "duration_ms": 228106,
-      "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
-      "url": "https://open.spotify.com/track/3a2gb3AuL7q5mKJRJULWBk"
+      "duration_ms": 207080,
+      "name": "Strauss, R: An Alpine Symphony, Op. 64: I. Night",
+      "url": "https://open.spotify.com/track/4VFfjSKlobyKBdizYMveG7"
+    },
+    {
+      "added_at": "2025-07-01 11:16:25",
+      "album": {
+        "name": "Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Tr\u00e4umerei Am Kamin",
+        "url": "https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Orchestre Philharmonique De Strasbourg",
+          "url": "https://open.spotify.com/artist/6ovcFUr31ei4FmtLIXtyNa"
+        },
+        {
+          "name": "Marc Albrecht",
+          "url": "https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9"
+        }
+      ],
+      "duration_ms": 442720,
+      "name": "Intermezzo, Op. 72, TrV 246a, 4 Symphonic Interludes: Intermezzo, Op. 72, TrV 246a: Tr\u00e4umerei am Kamin (Dreaming by the Fireside)",
+      "url": "https://open.spotify.com/track/4AiYhSzQDhfVKK5uLdvX8d"
     },
     {
       "added_at": "2025-07-01 11:16:25",
@@ -795,30 +819,6 @@
       "duration_ms": 369720,
       "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
       "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2025-07-01 11:16:25",
-      "album": {
-        "name": "Strauss, R.: Till Eulenspiegel / Don Juan / Tod Und Verklarung / Intermezzo: Tr\u00e4umerei Am Kamin",
-        "url": "https://open.spotify.com/album/4dLOrutCy7MKCjheFSpQFJ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Orchestre Philharmonique De Strasbourg",
-          "url": "https://open.spotify.com/artist/6ovcFUr31ei4FmtLIXtyNa"
-        },
-        {
-          "name": "Marc Albrecht",
-          "url": "https://open.spotify.com/artist/0IIxwqFzJDIOqRQe0q9Dl9"
-        }
-      ],
-      "duration_ms": 442720,
-      "name": "Intermezzo, Op. 72, TrV 246a, 4 Symphonic Interludes: Intermezzo, Op. 72, TrV 246a: Tr\u00e4umerei am Kamin (Dreaming by the Fireside)",
-      "url": "https://open.spotify.com/track/4AiYhSzQDhfVKK5uLdvX8d"
     },
     {
       "added_at": "2025-07-01 11:16:25",

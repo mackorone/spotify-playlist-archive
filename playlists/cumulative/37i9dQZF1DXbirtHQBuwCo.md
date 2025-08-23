@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: <br/>JUNNY\(주니\)\)
 
-852 songs - 1 day 21 hr 7 min
+853 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -602,7 +602,7 @@
 | [Point \(feat\. Loopy\)](https://open.spotify.com/track/1mKvuX59nIvGwGpypwAy7k) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:13 | 2022-07-07 | 2022-07-11 |
 | [Point, Line, Plane](https://open.spotify.com/track/0pfMdkCAZVThhpzOkassXJ) | [LLANO](https://open.spotify.com/artist/61vo1oAMWvmdRIJYdeCzrd) | [duL](https://open.spotify.com/album/1cloUGhbWriqDkuh5mm7wW) | 3:33 | 2022-04-19 | 2022-04-21 |
 | [Ponytail \(Feat\. Sik\-K\)](https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [Ponytail](https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0) | 3:25 | 2023-01-03 | 2023-08-18 |
-| [POP \(feat\. BIBI\)](https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc) | [THE NEED](https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [POP \(feat\. BIBI\)](https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN) | 2:20 | 2025-08-12 |  |
+| [POP \(feat\. BIBI\)](https://open.spotify.com/track/5Nj7MttRXIb3zui4jfhhnc) | [THE NEED](https://open.spotify.com/artist/1Fiav0wxfiy9DWTlshBV1Z), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [POP \(feat\. BIBI\)](https://open.spotify.com/album/3GdOrZTkwHELcx3ad5ABRN) | 2:20 | 2025-08-12 | 2025-08-23 |
 | [Popo \(How deep is our love?\)](https://open.spotify.com/track/5XAJzwa0B2Hf8Rb1q0rowN) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/4wQwYHzJSgqbqU7YWioU1A) | 4:31 | 2022-04-19 | 2022-07-29 |
 | [POV](https://open.spotify.com/track/6FWq2bYylayWao7hUzT4zc) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [96](https://open.spotify.com/album/2kAA71fuWIvHSJ2FfD2Pjg) | 2:45 | 2025-04-07 | 2025-05-15 |
 | [PRADA](https://open.spotify.com/track/0baJx4nGlfhylHDSlzj4bM) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [PRADA](https://open.spotify.com/album/7bNkxJREqmOfu6Mz4SNIHS) | 2:34 | 2022-04-19 | 2022-04-21 |
@@ -643,6 +643,7 @@
 | [Rush Hour \(Feat\. j\-hope of BTS\)](https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Rush Hour](https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R) | 2:57 | 2022-09-22 |  |
 | [Salang Salang](https://open.spotify.com/track/1DEJaWgi8ZKdStRO0iUX6e) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 | 2022-04-22 | 2022-07-21 |
 | [Sandfunk \(feat\. ELO\)](https://open.spotify.com/track/0vM0bCUmKNGAGTmie7yv13) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [ELO](https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1) | [COLOUR](https://open.spotify.com/album/5NuA284oIw8Badg4oHaIOe) | 3:13 | 2022-11-23 | 2022-12-10 |
+| [Scared of Love](https://open.spotify.com/track/1fCdHI0EBnGabru914ap2f) | [민지운](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Pink, then grey](https://open.spotify.com/album/7m7Z7Qi4enLFgn1s8vgYgh) | 2:37 | 2025-08-22 |  |
 | [Scaredy Cat](https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 2:50 | 2022-04-19 |  |
 | [Scent](https://open.spotify.com/track/1neROuQxafANebAEXLRFWf) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Scent](https://open.spotify.com/album/3xgGdTJNMCDOb2KpqL5ul0) | 2:08 | 2023-01-18 | 2023-02-15 |
 | [Scott and Zelda](https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 3:13 | 2025-05-14 |  |

@@ -4,7 +4,7 @@
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Anıl Emre Daldal
 
-407 songs - 23 hr 35 min
+408 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Gecenin Ahı Var](https://open.spotify.com/track/4Jr2bc5VPBIqH6Aj974Dt6) | [Kırık Pena](https://open.spotify.com/artist/2UyRbOa0I0umGFcrQks3pv) | [Gecenin Ahı Var](https://open.spotify.com/album/7mDZ6noLAbe2zRW2BwtxFQ) | 3:49 | 2025-07-31 | 2025-08-15 |
 | [Gecenin En Güzeli](https://open.spotify.com/track/4siCOv70WIGB1EuMrLyIZO) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Gecenin En Güzeli](https://open.spotify.com/album/5sEPycIdKlDyklOgFPnuem) | 3:55 | 2024-06-28 | 2025-07-11 |
 | [geceyarısı, sisli deniz...](https://open.spotify.com/track/3aTiHsSzAcDWYOdPNwVxYr) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [geceyarısı, sisli deniz...](https://open.spotify.com/album/11M134hfwvHBQqUFA6D9L1) | 2:49 | 2025-06-26 | 2025-07-18 |
+| [Gel , Gör](https://open.spotify.com/track/29SdEZyJaPhtKor5wW0L5q) | [emirhko](https://open.spotify.com/artist/10N3BhQ90pZ1YS2G6Zq94F) | [Gel , Gör](https://open.spotify.com/album/1iU2Zdiubupk44kQ3oaxeb) | 2:14 | 2025-08-21 |  |
 | [Geldik Sonuna Kadar](https://open.spotify.com/track/77Du8sUBRgjR83eothYqYI) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Geldik Sonuna Kadar](https://open.spotify.com/album/2gHEO73NdamYaN8gPLYhTE) | 3:52 | 2024-09-12 | 2024-10-23 |
 | [Gelemedim Üstesinden](https://open.spotify.com/track/5AUtuBa4jhXS0SxRfjaVmy) | [Daha İki Durak Var](https://open.spotify.com/artist/5BsDr7OodfKCA4NhJTkva9) | [Gelemedim Üstesinden](https://open.spotify.com/album/4pnZjPOawn9r4Qw3wFoioT) | 3:31 | 2025-08-21 |  |
 | [Gelir Üstüne](https://open.spotify.com/track/7MAcuxNWQtDbBzL2x5ErSz) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gelir Üstüne](https://open.spotify.com/album/091gjsc4g4C1d7Um7FsHWD) | 2:09 | 2024-11-14 | 2024-12-13 |

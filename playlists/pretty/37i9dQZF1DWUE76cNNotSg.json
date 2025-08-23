@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes \ud83c\udf1e the music you need at golden hour ",
-  "num_followers": 689609,
+  "num_followers": 689675,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANrpSnbLd8/SUBaiN6WdKAGKm/BO",
+  "snapshot_id": "AAAAAFKAXOe6V8rIU6zfIcQ/nlRye91G",
   "tracks": [
     {
       "added_at": "2025-08-15 04:00:18",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2025-08-15 04:00:18",
       "album": {
-        "name": "Oyster Jam",
-        "url": "https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        },
-        {
-          "name": "Levi Hayes",
-          "url": "https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu"
-        }
-      ],
-      "duration_ms": 157723,
-      "name": "Oyster Jam",
-      "url": "https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre"
-    },
-    {
-      "added_at": "2025-08-15 04:00:18",
-      "album": {
         "name": "S\u00e9quences (Remixes)",
         "url": "https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 265800,
       "name": "S\u00e9quences - Parcels Remix",
       "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
+    },
+    {
+      "added_at": "2025-08-15 04:00:18",
+      "album": {
+        "name": "Oyster Jam",
+        "url": "https://open.spotify.com/album/33ck38114QxEyYRCdZuS1b"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        },
+        {
+          "name": "Levi Hayes",
+          "url": "https://open.spotify.com/artist/1W84rz8zMui22NIJufLweu"
+        }
+      ],
+      "duration_ms": 157723,
+      "name": "Oyster Jam",
+      "url": "https://open.spotify.com/track/1uUig8GbfDdTSkyKzUnGre"
     },
     {
       "added_at": "2025-08-15 04:00:18",

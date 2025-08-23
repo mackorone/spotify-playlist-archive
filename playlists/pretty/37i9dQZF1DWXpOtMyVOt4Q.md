@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > chill vibes to soundtrack your gaming session 🎮 👾
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,836 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,855 likes - 50 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 29 | [Pebbles](https://open.spotify.com/track/0OL92n7zIj1up8vY7DQFHg) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Pebbles](https://open.spotify.com/album/1vCG1uGoUIoFeCILsbmq3U) | 1:36 |
 | 30 | [staring contest](https://open.spotify.com/track/5X3KZZrT6nBpwSBr0SY26L) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy) | [don't look down](https://open.spotify.com/album/0pIgfIY5VrYdzAlliFnWdl) | 1:25 |
 | 31 | [Train Delays](https://open.spotify.com/track/27fserVzR1RsJ0FBkQIzSu) | [BeatsDotCom](https://open.spotify.com/artist/5Qly1NvJNo9y2GcL2AmRwc) | [Train Delays](https://open.spotify.com/album/4bWbawDFa9DwvPjS8tdNr6) | 2:00 |
-| 32 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
-| 33 | [an endless spring](https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [an endless spring](https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa) | 1:52 |
+| 32 | [an endless spring](https://open.spotify.com/track/0XIFV4GDAm0eGSpzDQgU5o) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [an endless spring](https://open.spotify.com/album/0EYe6j5EaDj1E4pi2XkYLa) | 1:52 |
+| 33 | [Smooth Fields](https://open.spotify.com/track/2MKtFmktpp2kMGKm4oaOcH) | [Harvest Emotions](https://open.spotify.com/artist/53JNLKdwnvLY8F2tA6T22K) | [Smooth Fields](https://open.spotify.com/album/3NzRqlA8AJyFqDQUdcT9ht) | 2:50 |
 | 34 | [Drifting](https://open.spotify.com/track/6SD1pxax8w0mb4HKFMHB6g) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q), [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA) | [Drifting](https://open.spotify.com/album/4PgWB31QuLC06bxsG8HXEa) | 2:55 |
 | 35 | [Insomnia Dream](https://open.spotify.com/track/4rtJXaHdYeaSOlWnka0xnP) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/4FANqNso2mEWdYcc2Ji4H3) | 2:42 |
 | 36 | [Keys](https://open.spotify.com/track/0ItIy3UqYx2Fark9GZVd2s) | [Ambivvalante](https://open.spotify.com/artist/6X73FARXq8LTDYVQiS1b4i) | [Keys](https://open.spotify.com/album/7z3Lvzo6c1bOLArHy76UOF) | 2:08 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 41 | [Destination Unknown](https://open.spotify.com/track/5h6cmdZwbtZKRq9fW0upt6) | [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Oblivion](https://open.spotify.com/album/32oTot2l5dFqJuxHX3pqyX) | 2:52 |
 | 42 | [memories](https://open.spotify.com/track/2Vj1OMtjDCPlYIMmvak2Iq) | [.diedlonely](https://open.spotify.com/artist/2LbjW13j6rNtFgYcPjR2ur), [Jay Karin](https://open.spotify.com/artist/1MaQRDI7QUo8lm9vwWrBfL) | [memories](https://open.spotify.com/album/1FlMizTLU44bh37i6tAKh1) | 1:49 |
 | 43 | [4pm naps](https://open.spotify.com/track/5i1GoRGX8ZauNcxWZx1oPb) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [4pm naps](https://open.spotify.com/album/1HTKBNjdgZM5otxolfrjci) | 1:54 |
-| 44 | [Flights](https://open.spotify.com/track/5MBQzDJGmntPw0kI2wJm1W) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Flights](https://open.spotify.com/album/3THQrWkSD0kxlat1aVfefp) | 2:29 |
-| 45 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
-| 46 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
+| 44 | [requiem](https://open.spotify.com/track/3gXDFlnam4GzGwYqtA2KZS) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [requiem](https://open.spotify.com/album/0o5zePNJzfWgFGNLwynGl3) | 2:06 |
+| 45 | [Alone Forever](https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0), [Ryan Celsius Sounds](https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR) | [Isolation](https://open.spotify.com/album/1LZl9LkihImKLeAVcq3NbA) | 1:20 |
+| 46 | [Grace](https://open.spotify.com/track/3tG3JitYn7tpZE1pUm1Koa) | [Kasper Lindmark](https://open.spotify.com/artist/0h3zSsjkg9w9CuuKFwIlyq) | [While You Were Away](https://open.spotify.com/album/7jhoI2ehjpvBPLK3E9myQh) | 0:52 |
 | 47 | [star struck](https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC) | [alixe.](https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn) | [star struck](https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr) | 1:36 |
 | 48 | [for B.](https://open.spotify.com/track/4eqYoFG2SGQqMFCvKrjtiu) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [for B.](https://open.spotify.com/album/3l3JcGx513fCNPY6nGarLk) | 1:29 |
-| 49 | [requiem](https://open.spotify.com/track/3gXDFlnam4GzGwYqtA2KZS) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [requiem](https://open.spotify.com/album/0o5zePNJzfWgFGNLwynGl3) | 2:06 |
+| 49 | [Flights](https://open.spotify.com/track/5MBQzDJGmntPw0kI2wJm1W) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR) | [Flights](https://open.spotify.com/album/3THQrWkSD0kxlat1aVfefp) | 2:29 |
 | 50 | [Dreaming of Her](https://open.spotify.com/track/6Nhc3IxUqXw0Tw7o3kGA27) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [Dreaming of Her](https://open.spotify.com/album/2fLyl1cNveM2ZbWZYwvoIg) | 1:25 |
 
 Snapshot ID: `AAAAAGwh/tRzTIuWvubg/hA+o7rM8MzH`

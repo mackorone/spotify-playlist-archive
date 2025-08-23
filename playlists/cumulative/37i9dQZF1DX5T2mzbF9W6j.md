@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-247 songs - 12 hr 19 min
+248 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Good Things](https://open.spotify.com/track/7nV0ORUyLQBj1J8LGKh1IW) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Good Things](https://open.spotify.com/album/1oagZBKRheVpkMCJ81O9x0) | 2:57 | 2024-06-28 | 2024-09-21 |
 | [Gravedigger](https://open.spotify.com/track/3logNIIMhLuY9A70jyChjD) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Gravedigger](https://open.spotify.com/album/2TEdyZ0ZfaUWts1U1PBoLr) | 2:44 | 2024-07-26 | 2024-11-30 |
 | [Green Light](https://open.spotify.com/track/1faWRLfWyFcabrwMS1ko3S) | [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [No Rest](https://open.spotify.com/album/6IPt61m263ft5wDo3T5Zu6) | 2:47 | 2025-02-07 | 2025-04-02 |
-| [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 | 2025-05-19 |  |
+| [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 | 2025-05-19 | 2025-08-23 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-02-07 | 2025-07-05 |
 | [Halfway There](https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Halfway There](https://open.spotify.com/album/3uFPkuJLDLRpugR3itMBZY) | 3:15 | 2024-06-28 | 2024-07-06 |
 | [halo](https://open.spotify.com/track/2xpUYyFHwcdOQW5r6SKqsr) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs), [Vixen](https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO) | [halo](https://open.spotify.com/album/3QtXjZUmQ1Zk8mTHIfoqwg) | 3:29 | 2024-10-17 | 2024-11-09 |
@@ -252,6 +252,7 @@
 | [Zombie Lady](https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:08 | 2025-05-19 |  |
 | [Zwierciadło](https://open.spotify.com/track/129TCiLRD80ck8JcEu0JmC) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui) | [Zwierciadło](https://open.spotify.com/album/2E941hH81YIOPLEnu5YsaQ) | 2:36 | 2025-01-17 | 2025-01-25 |
 | [Zwierzęta nocy](https://open.spotify.com/track/4sm9aqtnU1HiTghXMt860R) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3), [Mela Koteluk](https://open.spotify.com/artist/5GTjrNnnlOPxOgi3JAW2Eq) | [Zwierzęta nocy](https://open.spotify.com/album/1xegt40rCILT80WwVFDBcg) | 3:55 | 2024-09-27 | 2024-10-08 |
+| [ZŁY](https://open.spotify.com/track/5ryN2m8kIwAofh31Hafej6) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [lekko](https://open.spotify.com/album/6JsrQGjRiVxAFW9p5WMHYQ) | 2:38 | 2025-08-08 |  |
 | [Łapię się na myślach](https://open.spotify.com/track/5NbwPBOEFXAYHRZ4GIFYgb) | [Marcelina](https://open.spotify.com/artist/4kKbItPBdKcK8wQ8A9LXMt) | [Łapię się na myślach](https://open.spotify.com/album/656f6gOTWmdjW65Xy7KPHE) | 3:48 | 2024-06-28 | 2024-07-06 |
 | [Śrubka](https://open.spotify.com/track/42HCLyg66bqYWCPU3wqyMS) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Śrubka](https://open.spotify.com/album/2i4XVKYPGzTpFiesqiGpDj) | 4:10 | 2024-06-28 | 2024-09-07 |
 | [🏡](https://open.spotify.com/track/0JSROfzwG7hb0eravi43wZ) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [🏡](https://open.spotify.com/album/1XucMSxaVRKeXu8bRlZv7d) | 2:02 | 2025-03-07 | 2025-03-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 205351,
+  "num_followers": 205370,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAACqYeoZ4q/bgFrjWNdeGi5",
+  "snapshot_id": "aKZhgAAAAAAh6RD0Seiyr9TTkQ+8N1Qd",
   "tracks": [
     {
       "added_at": null,
@@ -27,30 +27,6 @@
       "duration_ms": 420019,
       "name": "The Church - Live",
       "url": "https://open.spotify.com/track/6AJXSUyRgduRgdIYHWi2Ok"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oh Lord My God (Live)",
-        "url": "https://open.spotify.com/album/6wERrqNraEFizfG869iOV5"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Noah Paul Harrison",
-          "url": "https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 352479,
-      "name": "Oh Lord My God - Live",
-      "url": "https://open.spotify.com/track/533v8HEqGZiTx7rgqTmP0h"
     },
     {
       "added_at": null,
@@ -355,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Water",
         "url": "https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf"
       },
@@ -379,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 452520,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Victory (Live)",
         "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
@@ -419,6 +395,38 @@
       "duration_ms": 304813,
       "name": "Living Hope (Live)",
       "url": "https://open.spotify.com/track/54vnh4BHgSlzMkNnWhK2Sd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Church",
+        "url": "https://open.spotify.com/album/2b0Xkrw10KJ9B670g13SUX"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Abbie Gamboa",
+          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 301650,
+      "name": "The Church",
+      "url": "https://open.spotify.com/track/6QqFXtYklJRgk1UGGFpugh"
     },
     {
       "added_at": null,
@@ -483,38 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Church",
-        "url": "https://open.spotify.com/album/2b0Xkrw10KJ9B670g13SUX"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Abbie Gamboa",
-          "url": "https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 301650,
-      "name": "The Church",
-      "url": "https://open.spotify.com/track/6QqFXtYklJRgk1UGGFpugh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We Must Respond (Live)",
         "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
       },
@@ -531,6 +507,26 @@
       "duration_ms": 465379,
       "name": "Center - Live",
       "url": "https://open.spotify.com/track/1yu6UKfMvbFZ0esY29yYlT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+        }
+      ],
+      "duration_ms": 347566,
+      "name": "Reign Above It All (Live)",
+      "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
     },
     {
       "added_at": null,
@@ -575,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
-        }
-      ],
-      "duration_ms": 347566,
-      "name": "Reign Above It All (Live)",
-      "url": "https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For the Sake of the World",
         "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
       },
@@ -611,26 +587,6 @@
       "duration_ms": 408826,
       "name": "Our Father",
       "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have It All (Live)",
-        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 280762,
-      "name": "Lion and the Lamb (Live)",
-      "url": "https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy"
     },
     {
       "added_at": null,
@@ -655,6 +611,26 @@
       "duration_ms": 434745,
       "name": "Holy Hands - Live",
       "url": "https://open.spotify.com/track/1CRnlPeWgRyep3kfulcaVp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Have It All (Live)",
+        "url": "https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 280762,
+      "name": "Lion and the Lamb (Live)",
+      "url": "https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy"
     },
     {
       "added_at": null,
@@ -1055,6 +1031,30 @@
       "duration_ms": 339870,
       "name": "Pieces (Live)",
       "url": "https://open.spotify.com/track/00p3FEGzWCIrBfRPYAYyAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oh Lord My God (Live)",
+        "url": "https://open.spotify.com/album/6wERrqNraEFizfG869iOV5"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Noah Paul Harrison",
+          "url": "https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 352479,
+      "name": "Oh Lord My God - Live",
+      "url": "https://open.spotify.com/track/533v8HEqGZiTx7rgqTmP0h"
     }
   ],
   "unique_name": "This Is Bethel Music",

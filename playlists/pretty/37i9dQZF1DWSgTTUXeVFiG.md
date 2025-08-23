@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,350 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,405 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 6 | [Vivir Sin Ella \(feat\. Tito Nieves, Luis Enrique & Eddie Santiago\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/6AahARlIuyeOb4cyK3AjHe) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [40..\. y Contando \(En Vivo Desde Puerto Rico\)](https://open.spotify.com/album/1oftR2h20tzZjMEiesBPJp) | 7:48 |
 | 7 | [Aguanile \- Live Version](https://open.spotify.com/track/5HOX67EERSs8OXmuD8uWvH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 6:28 |
 | 8 | [He Tratado \- Live Version](https://open.spotify.com/track/1s6V4WG5Vmqm4Ryd8bV3vR) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 8:01 |
-| 9 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
-| 10 | [De Mi Enamórate \- Live Version](https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:30 |
+| 9 | [De Mi Enamórate \- Live Version](https://open.spotify.com/track/6U5U7lmwo7oP4eQ8ro3V7q) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 4:30 |
+| 10 | [Bemba Colorá \- Live](https://open.spotify.com/track/1qROMoGOaag7LrXhukbDRZ) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Live At Yankee Stadium Vol\. 2](https://open.spotify.com/album/0d6RjmRe2vGol76MdPtlLE) | 11:52 |
 | 11 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
 | 12 | [Salsa Caliente del Japón \- Live Version](https://open.spotify.com/track/5p7HPyHbMdOV7ytBzS9J2r) | [Orquesta De La Luz](https://open.spotify.com/artist/4UHqyF418ynCEjB7fdRhLm) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
 | 13 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |

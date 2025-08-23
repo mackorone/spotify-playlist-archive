@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Serena Brancale
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,150 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,152 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

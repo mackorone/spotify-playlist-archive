@@ -4,7 +4,7 @@
 
 > Listen to Women at Full Volume\. Cover: Tissa Biani.
 
-2,564 songs - 5 day 21 hr 42 min
+2,565 songs - 5 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1290,6 +1290,7 @@
 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 | 2023-10-04 | 2024-11-07 |
 | [Love, Today](https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Don't Look Down!](https://open.spotify.com/album/6DEAfTTihu0p1nNkti8Bn0) | 3:26 | 2022-09-07 | 2022-10-05 |
 | [Lover](https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:41 | 2024-10-16 | 2024-11-07 |
+| [Lover Girl](https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time](https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv) | 2:44 | 2025-08-22 |  |
 | [Loverboy](https://open.spotify.com/track/5L2qd1EBfNQJBW0FivYmXj) | [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Loverboy](https://open.spotify.com/album/4RYhipPJtMStS2RvU6iWML) | 2:37 | 2022-02-02 | 2022-03-09 |
 | [Lovin Myself](https://open.spotify.com/track/2ttIodvY52FYgod5qrcQHN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lovin Myself](https://open.spotify.com/album/5vWfr5gSeCbqFwutBK7sDp) | 2:56 | 2025-06-04 | 2025-07-03 |
 | [Lugar I](https://open.spotify.com/track/3vr8cHRHlN4mUD6zgy5rJd) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [!!](https://open.spotify.com/album/582zyWb4tjdsnszlCwBXRK) | 3:00 | 2023-07-05 | 2023-08-03 |
@@ -1339,7 +1340,7 @@
 | [Mama, Dolly, Jesus](https://open.spotify.com/track/7zggetlqMBzNpdCM0mdfzS) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 2:45 | 2023-01-04 | 2023-02-02 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2023-03-01 | 2023-04-06 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-10-02 | 2024-10-17 |
-| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-06-04 |  |
+| [Man Of The Year](https://open.spotify.com/track/1hoeP1oPYlhcv6iRCtB7pT) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Man Of The Year](https://open.spotify.com/album/1QSIGmlbg2zqpGbWXJNJeW) | 3:00 | 2025-06-04 | 2025-08-23 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2022-09-07 | 2022-10-05 |
 | [Man's World](https://open.spotify.com/track/6qbuTJchJw2MeEAvjWAhNj) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Bitches brauchen Rap](https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp) | 2:47 | 2021-12-11 | 2022-01-06 |
 | [Manchild](https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Manchild](https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic) | 3:33 | 2025-06-18 | 2025-08-07 |

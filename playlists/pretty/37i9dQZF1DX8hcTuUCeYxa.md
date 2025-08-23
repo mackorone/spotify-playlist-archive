@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Sharktank
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,907 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,935 likes - 90 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 30 | [The Closest We'll Get](https://open.spotify.com/track/02r8AjfVEkKG8wGRwkLumR) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [The Closest We'll Get](https://open.spotify.com/album/2DTTLwc7lSkN1tx9JocORp) | 3:56 |
 | 31 | [In Your Head](https://open.spotify.com/track/6NiY0H0vJ02M15deAmtiu8) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [In Your Head](https://open.spotify.com/album/03o8zTYnuEgkvZaWQvUlMC) | 4:56 |
 | 32 | [Vandalize](https://open.spotify.com/track/4crNNdsHFw7cjyQYf2QFLJ) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Vandalize](https://open.spotify.com/album/1JmIZlhFe4CEkaLASSKaD5) | 3:37 |
-| 33 | [Track 8](https://open.spotify.com/track/3RAc6WEloFUawo9I5wpIx0) | [Elio Ricca](https://open.spotify.com/artist/78ayznpvXNYPFmJ6BoNMLH) | [Emotional Hardcore](https://open.spotify.com/album/5AjxejcfxIbUEdVrLoJPfh) | 0:00 |
+| 33 | [Sometimes I Dream Up Places](https://open.spotify.com/track/3RAc6WEloFUawo9I5wpIx0) | [Elio Ricca](https://open.spotify.com/artist/78ayznpvXNYPFmJ6BoNMLH) | [Emotional Hardcore](https://open.spotify.com/album/5AjxejcfxIbUEdVrLoJPfh) | 2:33 |
 | 34 | [Carousel](https://open.spotify.com/track/1idx8nJ9zOYESkIDfNY8PP) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Carousel](https://open.spotify.com/album/27SQ1lQQbBcj8laS9fCiDf) | 3:52 |
 | 35 | [Ride Or Die](https://open.spotify.com/track/3yB8L0RGUIGZdvfFwYFn0C) | [palffi](https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC) | [Ride Or Die](https://open.spotify.com/album/6396rY2oG82nMH6GhC6C6n) | 3:20 |
 | 36 | [The Clouds Today](https://open.spotify.com/track/4rKZQ98kVrTNEXm7o8f2x2) | [Mink](https://open.spotify.com/artist/021q1fOEcfqxtlCtJs868v) | [The Clouds Today](https://open.spotify.com/album/6aDHPoVGVtIiOQDxtllZk4) | 2:44 |

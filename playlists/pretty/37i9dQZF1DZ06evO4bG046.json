@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35263,
+  "num_followers": 35268,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACFbe/NFdvRl/S2RxyI7pmX",
+  "snapshot_id": "aKZhgAAAAADujISxR+8Lb6Vp68Hf7Yr6",
   "tracks": [
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palomita Blanca",
-        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Verg\u00fcenza Ajena",
-      "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
+      "duration_ms": 249186,
+      "name": "Un Mar de Gente",
+      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 249186,
-      "name": "Un Mar de Gente",
-      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
+      "duration_ms": 170160,
+      "name": "Verg\u00fcenza Ajena",
+      "url": "https://open.spotify.com/track/22hoEbYLW89hUGsaQMQOqg"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas",
         "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 479186,
       "name": "Guajira Cosmica",
       "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
     },
     {
       "added_at": null,
@@ -574,15 +574,11 @@
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 361533,
-      "name": "Indio Hermano (Versi\u00f3n 1996)",
-      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
     },
     {
       "added_at": null,
@@ -642,11 +638,15 @@
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+      "duration_ms": 361533,
+      "name": "Indio Hermano (Versi\u00f3n 1996)",
+      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
     },
     {
       "added_at": null,

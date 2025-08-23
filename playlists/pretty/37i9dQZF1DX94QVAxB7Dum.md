@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music from the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,559 likes - 69 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,677 likes - 69 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 39 | [I Forgot To Be Your Lover](https://open.spotify.com/track/1yPWD2ZQ8kLPYJtuIWHpa6) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Very Best Of William Bell](https://open.spotify.com/album/0JyBAA6AYVPsJc2KWj4x3D) | 2:20 |
 | 40 | [I Was Made To Love Her](https://open.spotify.com/track/0mOqAlDRU2Awz65hdK2glS) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Stevie Wonder The Definitive Collection 2002](https://open.spotify.com/album/4mNzjWEClFHn0UTFzYsVyk) | 2:35 |
 | 41 | [War](https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [Motown Remixed & Unmixed](https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc) | 3:23 |
-| 42 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/0Yz3xt0hGPgkj8aZ2aAnDi) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Profiles \- The Staple Singers](https://open.spotify.com/album/4GYZ7sTGIp9H5sSeh9Teml) | 4:29 |
-| 43 | [River Deep, Mountain High](https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Proud Mary: The Best Of Ike & Tina Turner](https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47) | 3:27 |
+| 42 | [River Deep, Mountain High](https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Proud Mary: The Best Of Ike & Tina Turner](https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47) | 3:27 |
+| 43 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/0Yz3xt0hGPgkj8aZ2aAnDi) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Stax Profiles \- The Staple Singers](https://open.spotify.com/album/4GYZ7sTGIp9H5sSeh9Teml) | 4:29 |
 | 44 | [Your Precious Love \- Stereo Version](https://open.spotify.com/track/62CNdmc3n7hdddhqVXilEz) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [Marvin Gaye '50' \(International Version\)](https://open.spotify.com/album/6dP88Q6t9UMPowre0Gaywa) | 3:02 |
 | 45 | [Groove Me](https://open.spotify.com/track/32aSj7Bo0rl3s5fwppu5VP) | [King Floyd](https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz) | [We Are Marshall Soundtrack](https://open.spotify.com/album/72gsfXVb92BPzas9adrQ1x) | 3:01 |
 | 46 | [Hercules](https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Anthology](https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO) | 4:11 |

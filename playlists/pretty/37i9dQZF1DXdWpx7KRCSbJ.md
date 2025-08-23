@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 
 > Pronto pra pool party? Vem com a gente!
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,026 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,995 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 34 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 35 | [Isso Que é Vida](https://open.spotify.com/track/1dKYlw6v9wofuqb7EXSvPn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Cantini](https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3) | [Isso Que é Vida](https://open.spotify.com/album/7wXkUm13tvmKQ9LJjmkkfm) | 2:39 |
 | 36 | [Inquilina \- Ao Vivo](https://open.spotify.com/track/0XwpOHWnRid52uc7IHSAot) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Xperience Na Praia \(ao Vivo\)](https://open.spotify.com/album/04wtAfOnYEQvi7i6Iu9tA5) | 4:05 |
-| 37 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 |
-| 38 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 37 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
+| 38 | [Pode Me Bloquear](https://open.spotify.com/track/0ijk36AtPKhLldqqkHC94H) | [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Batidão Do Playboy 2](https://open.spotify.com/album/1QrmFHBDzz7BbVdKVw6Uxn) | 3:08 |
 | 39 | [Coladinha em Mim \- Ao Vivo](https://open.spotify.com/track/2lN3l0jHCjVulwdPX6NvUn) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Coladinha em Mim \(Ao Vivo\)](https://open.spotify.com/album/5PxAPT3Nvu4ChOHzBrj0CA) | 2:50 |
 | 40 | [Cobaia](https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Cobaia](https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd) | 3:39 |
 | 41 | [Assalto Perigoso](https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ) | [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Assalto Perigoso](https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs) | 2:35 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWpx7KRCSbJ.md) - [plain]
 | 67 | [Pagodão in the Usa](https://open.spotify.com/track/0innc8nhrzOD2So8Chekvi) | [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF), [DJ Nardini](https://open.spotify.com/artist/1zGxPsrLbk8aVWBRmdQD9E) | [Quarenight](https://open.spotify.com/album/3LEo6WorscdkYEUYBedWud) | 2:32 |
 | 68 | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/track/0z9sgzZsUAXmbSHSxRleUZ) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Deixa Eu Te Fazer Feliz](https://open.spotify.com/album/16r3bOihSt87DuMoUTZs5X) | 2:41 |
 | 69 | [Deixe\-Me Ir \- Kiko Franco e Woak Remix](https://open.spotify.com/track/19kNNsdVTF4Bq06Oxv8WhT) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb) | [Deixe\-Me Ir \(Kiko Franco e Woak Remix\)](https://open.spotify.com/album/6zG3uIr7njYZBzXe2s2juU) | 3:34 |
-| 70 | [Pirata e tesouro \- Dennis DJ Remix](https://open.spotify.com/track/4sWnjmKdn0tIq5HJnZTMv5) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Pirata e tesouro \(Dennis DJ Remix\)](https://open.spotify.com/album/5XZ7oNNlWoYuklWxIjBsqD) | 3:46 |
+| 70 | [Qualidade De Vida \- Ao Vivo](https://open.spotify.com/track/5Wmg5LPPJnbMsKA9fthM3l) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Qualidade De Vida \(Ao Vivo\)](https://open.spotify.com/album/2zfqph70lkdj2EXP6IzrZq) | 2:34 |
 
 Snapshot ID: `AAAAAPtqpGLdm337e1SuoLgrpVEs868Q`

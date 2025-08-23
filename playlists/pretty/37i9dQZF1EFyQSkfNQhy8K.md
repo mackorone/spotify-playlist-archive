@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,616 likes - 168 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,615 likes - 168 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 118 | [Parece](https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [¿Quién trae las cornetas?](https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3) | 3:38 |
 | 119 | [SINTIGO](https://open.spotify.com/track/2xOuv7kfN1luCeosa8O6h9) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu), [Mazzarri](https://open.spotify.com/artist/5oMID6T6cW3OhZrWIDW3I9) | [SINTIGO](https://open.spotify.com/album/0wqFd2OdyY5NgnDlTzhDZi) | 3:37 |
 | 120 | [FLASHBACK \(feat\. ELENA ROSE\)](https://open.spotify.com/track/2xr5g6oX9oNatnf176Ry2m) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:25 |
-| 121 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
-| 122 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 |
+| 121 | [Me Lo Merezco \- Versión Acústica \- En Las Nubes](https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco \- Versión Acústica \(En Las Nubes\)](https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD) | 3:14 |
+| 122 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
 | 123 | [LALALA](https://open.spotify.com/track/0PJxFBDLYshklE1ZhAHp7N) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/4sHSMqIoMhxDZUBhZ8Jg4q) | 2:42 |
 | 124 | [Gadejo](https://open.spotify.com/track/1u490Fsf4X6W3Tr1QssTrO) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Gadejo](https://open.spotify.com/album/5cky2nIsUXhnvnqMaPecAv) | 2:13 |
 | 125 | [BORRACHA](https://open.spotify.com/track/0UgEClHQLTnJtDX00L1wlA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:37 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 167 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 168 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `Ab6H6gAAAACJRvfzcvg03CnpVoOrKan2`
+Snapshot ID: `Ab6NlAAAAAA4eyGIhxQv4eULvuTUZQYr`

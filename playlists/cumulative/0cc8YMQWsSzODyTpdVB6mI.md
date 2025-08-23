@@ -4,7 +4,7 @@
 
 > Dive into Kitsuné’s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.☀️🎶
 
-150 songs - 8 hr 37 min
+151 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,11 +152,12 @@
 | [We Are Shadows](https://open.spotify.com/track/6vpb43NMPkwvX4znUepjhD) | [PRESSYES](https://open.spotify.com/artist/35RtE46owXOQK7XjE1Sxop) | [We Are Shadows](https://open.spotify.com/album/6f9UikQyxUq3sYTc6TY2aX) | 3:39 | 2022-07-15 | 2022-10-08 |
 | [Weekend \- Jai Wolf Remix](https://open.spotify.com/track/6GXSZaHXyN3QJ7QeoMQSw3) | [Mocki](https://open.spotify.com/artist/5Xrk8HKFWj76Jonuerfupw), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kitsuné: Weekend](https://open.spotify.com/album/1tBXDuJ2OXb7Z2khIAbMlp) | 4:09 | 2021-11-05 |  |
 | [What You Say](https://open.spotify.com/track/1V0dAOscqHP7NDqisz5BxL) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [What You Say](https://open.spotify.com/album/5s3IVczOcSEXVTsnNIbHvx) | 3:40 | 2025-06-03 |  |
+| [What You Say \- Yamagucci Remix](https://open.spotify.com/track/2i5UgE1uYmpeDdXdBSGKOn) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [What You Say \(Remix\)](https://open.spotify.com/album/2DV99rB1aRNM8GyV9EvWZF) | 5:04 | 2025-08-22 |  |
 | [When You Feel the Time Is Right](https://open.spotify.com/track/4JHElYfJ3qF519oMLAE9Co) | [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [When You Feel the Time Is Right](https://open.spotify.com/album/2Fj82JqIzSk23RRkCpw5x0) | 5:40 | 2023-05-30 |  |
 | [Why Do?](https://open.spotify.com/track/1HutpfzBYz0KdSo4TUiaRx) | [We Are Neurotic](https://open.spotify.com/artist/6Md8JmF20ZQgz6g54LqdIA) | [Why Do?](https://open.spotify.com/album/0kXuLvPHLYV2OsvqWcdPxh) | 5:48 | 2022-11-11 | 2023-05-31 |
 | [Willow Tree](https://open.spotify.com/track/7HyQKWEzycUMPaKnPWcZet) | [Frances Baker](https://open.spotify.com/artist/5ANQ3S3Wf5JRqJaEwlOUnw) | [Willow Tree](https://open.spotify.com/album/1ZpdgCDupRZoCP6STmmwcb) | 3:27 | 2022-09-02 | 2022-11-29 |
 | [Worship](https://open.spotify.com/track/7bNJSUTF1XreWJYN11YnuY) | [Pecas](https://open.spotify.com/artist/6EWKuUzmkUekywt78dM2oU) | [Worship](https://open.spotify.com/album/5RjcxA4BGTJfkcVK2bPyDF) | 4:26 | 2022-07-08 | 2022-10-06 |
-| [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 |  |
+| [You \- Mixed](https://open.spotify.com/track/6EjgpCbSTdNMjFiBVCQwxt) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Café Kitsuné Mixed by Fabich](https://open.spotify.com/album/3MlhqxDLKTzmEHpHlQFBFS) | 4:42 | 2021-11-05 | 2025-08-23 |
 | [You and I](https://open.spotify.com/track/3vulAtIt4ZWhugoTDpD7ak) | [LLOYD PAUL](https://open.spotify.com/artist/2SjfyRr3Jg4w0DL4kKmxTH), [BRUNAJ](https://open.spotify.com/artist/7j9wSYmlFpmTjMOEvBQsrk) | [You and I](https://open.spotify.com/album/3NdL9odlpnHutVVFlPtIfZ) | 3:03 | 2022-08-01 | 2022-10-29 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

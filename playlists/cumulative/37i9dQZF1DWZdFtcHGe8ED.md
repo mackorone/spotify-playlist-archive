@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-450 songs - 1 day 7 hr 47 min
+452 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Indoctrinate](https://open.spotify.com/track/0YG3IZcxzcr2ore9vV6zey) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59) | [Indoctrinate](https://open.spotify.com/album/5znqQUUxyrHcr4nLEmNLjo) | 5:39 | 2021-12-17 |  |
 | [Indoctrination](https://open.spotify.com/track/5rJglpSmC76KMRYiFZUKwo) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Indoctrination](https://open.spotify.com/album/1V5uNa855jGZi4TqoTA9VU) | 3:10 | 2021-12-17 | 2022-07-24 |
 | [Inexorable Darkness](https://open.spotify.com/track/5rWhMFUhgeGFgiLLu4vZAv) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Beyond the Wall of Desolation](https://open.spotify.com/album/4szLMEwiYzD3QC4jI7ClZA) | 4:57 | 2021-12-17 |  |
+| [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
 | [Insane](https://open.spotify.com/track/0EussHoROH1wsSg3qhN0WO) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Insane](https://open.spotify.com/album/7DlA2Vm8witrWKt7mZEGyQ) | 3:02 | 2021-12-17 |  |
 | [Institutionalized](https://open.spotify.com/track/7G83ZwD2msTtFaBQExc8QB) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Suicidal Tendencies](https://open.spotify.com/album/4hLSbWJ8HL8MUfIwrTP2EO) | 3:49 | 2022-12-15 | 2024-06-28 |
 | [Interface with the Infinite](https://open.spotify.com/track/3DVcZjs38AN1yyV6919IWb) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [V](https://open.spotify.com/album/0Fkj9N2dzhtukOFYnauPO0) | 4:02 | 2021-12-17 |  |
@@ -338,7 +339,7 @@
 | [Roots Bloody Roots](https://open.spotify.com/track/6ursmCnbc9oDRGa2yHKkoZ) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Roots](https://open.spotify.com/album/5JjnPCfpp6redrkKpXZAs8) | 3:32 | 2022-12-15 |  |
 | [Running Blind](https://open.spotify.com/track/3rklHnrprJJG0Wrkp1LMI4) | [Flaming Wrekage](https://open.spotify.com/artist/4fHy7P549XE4UE9G1rsqlw) | [Running Blind](https://open.spotify.com/album/0C137r86CegBzGyC2o3mXA) | 5:22 | 2021-12-17 | 2022-07-29 |
 | [Sacred Slaughter](https://open.spotify.com/track/2Wf1aYlPLSVga0eyAuayxO) | [Iron Angel](https://open.spotify.com/artist/50aVB5l90oifKXt0LDzanR) | [Sacred Slaughter](https://open.spotify.com/album/0H2MErtPyCzvxqjI89BKUf) | 4:22 | 2021-12-17 | 2022-07-16 |
-| [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 |  |
+| [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 | 2021-12-17 | 2025-08-23 |
 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 | 2021-12-17 |  |
 | [Sea Savage](https://open.spotify.com/track/3Gwcz0OK7mFE87P7CjVG0W) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/3Yu6Zmjf6pqtg7BAKHlyCM) | 3:57 | 2021-12-17 | 2022-07-28 |
 | [Semtex Revolution](https://open.spotify.com/track/6ZpcI3ZJtbbONbJ6LQm1XO) | [Coroner](https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV) | [Mental Vortex](https://open.spotify.com/album/56gqMPiLXiyHNUCPnVeoX9) | 5:30 | 2023-06-27 | 2024-04-19 |
@@ -391,6 +392,7 @@
 | [The Deed Is Done](https://open.spotify.com/track/2OmbIUAJVoLXfTYlR4XOcM) | [Swarm](https://open.spotify.com/artist/5d8OStxcQdgHwfEEK3GcxG) | [Anathema](https://open.spotify.com/album/2QG6SBbsJ9FPUJHx6OkGvz) | 3:23 | 2021-12-17 | 2022-03-01 |
 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 | 2021-12-17 | 2025-05-03 |
 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 | 2021-12-17 |  |
+| [The Evil Order](https://open.spotify.com/track/48TmBJGVr5l6jvpSsivK1m) | [Violator](https://open.spotify.com/artist/0lFI9B2QSbFVqS6gAZzg1a) | [The Evil Order](https://open.spotify.com/album/6ounycR6CwdkgvJRH3ecUq) | 5:28 | 2025-08-22 |  |
 | [The Eye](https://open.spotify.com/track/3CoID3xVaER6TcbcbUqkBm) | [Domination Inc.](https://open.spotify.com/artist/6vdbsYEmWHcM0iWJumU52a) | [The Eye](https://open.spotify.com/album/2D87yEOlqff04pWgnzN4Cx) | 4:09 | 2021-12-17 | 2022-02-27 |
 | [The Fall](https://open.spotify.com/track/7rpwaUJdxfcu2TNHbWjmcf) | [Dead Heat](https://open.spotify.com/artist/19iuui5P7sEZs1T7IX5Uh8) | [The Fall](https://open.spotify.com/album/3ce3udHx7koDVwheaUjXd1) | 2:20 | 2021-12-17 | 2022-07-26 |
 | [The Four Horsemen \(Remastered\)](https://open.spotify.com/track/4YPgTCGJWAlHQ5g6eWoM8r) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 7:12 | 2022-07-13 | 2024-04-19 |
@@ -452,7 +454,7 @@
 | [World in a World](https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ) | [Crisix](https://open.spotify.com/artist/3xGTWSIlxvBUSaKs8hCA9s) | [Crisix Session \# 1: American Thrash](https://open.spotify.com/album/6kUbRggyg1IbfV8bL6Beaf) | 4:16 | 2021-12-17 |  |
 | [Wrath \(Bring Fire\)](https://open.spotify.com/track/3BWtsGjISgoXVesKCpEA8Q) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [Wrath \(Bring Fire\)](https://open.spotify.com/album/2ZzijYl8kDv92rHYPXu1dc) | 3:33 | 2025-05-02 |  |
 | [Wrecking Crew](https://open.spotify.com/track/6fawOM1jHIuzdiMITZAnwG) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Taking Over](https://open.spotify.com/album/5o5qYy6hUQwHP2zSqqRC8N) | 4:32 | 2022-07-13 |  |
-| [WWIII](https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:48 | 2021-12-17 |  |
+| [WWIII](https://open.spotify.com/track/0XnV89hrJWQxPkddqWtIln) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 4:48 | 2021-12-17 | 2025-08-23 |
 | [Year of the Goat](https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Year of the Goat](https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb) | 3:26 | 2024-01-12 | 2024-04-29 |
 | [Ympyrä sulkeutuu](https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Myrsky](https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1) | 3:30 | 2024-03-08 |  |
 | [You Can't Bring Me Down](https://open.spotify.com/track/203xxdlledLFnkqrUleD72) | [Suicidal Tendencies](https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC) | [Lights...Camera...Revolution](https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT) | 5:48 | 2022-12-15 |  |

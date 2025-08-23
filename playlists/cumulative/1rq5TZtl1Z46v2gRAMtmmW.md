@@ -4,7 +4,7 @@
 
 > 
 
-435 songs - 1 day 4 hr 57 min
+436 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Girls \- Acid Version](https://open.spotify.com/track/1nOuBXHufQO1vTC8lNliCf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Azaleas \(Alan Dixon Remix\) / Girls \(Acid Version\)](https://open.spotify.com/album/55lkgxuJzMjRsUQ5cPjvLX) | 5:26 | 2025-02-06 | 2025-02-22 |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-17 | 2023-07-19 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-14 | 2023-03-02 |
+| [Gnawa](https://open.spotify.com/track/7BXa6HC5lF5HsZsWvOfTll) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Prophet and The Madman](https://open.spotify.com/album/15qVqwTKsJtJ0dsES8TXof) | 7:15 | 2025-08-22 |  |
 | [go! \- George Daniel Remix](https://open.spotify.com/track/0wtbc9t9qvEX5ELtUHJNJX) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT) | [go! \(George Daniel Remixes\)](https://open.spotify.com/album/7ItBR9lQlb3LNXeiSy25IG) | 3:41 | 2024-09-19 | 2025-01-25 |
 | [Gold](https://open.spotify.com/track/643aAUhE0s5JNaK1Rn50Q7) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Gold](https://open.spotify.com/album/02OvGMtilHmYxr56GTph7M) | 3:12 | 2023-05-24 | 2023-10-17 |
 | [Gone](https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [Gone](https://open.spotify.com/album/2fSm1YvQwa77zAQ7PRBUnI) | 2:14 | 2024-06-11 | 2024-08-28 |

@@ -4,7 +4,7 @@
 
 > Fcukers on the cover bby
 
-268 songs - 16 hr 42 min
+269 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Mosquito](https://open.spotify.com/track/2aIEqZvD0MNvXVPamBkbif) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:12 | 2023-04-14 | 2023-04-27 |
 | [Mothers](https://open.spotify.com/track/7HwsHnOYth2MsW25gDEGWV) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Mothers](https://open.spotify.com/album/2gRso3E2lJR6xOBFuJqVH6) | 3:12 | 2023-04-14 | 2023-04-27 |
 | [Motor](https://open.spotify.com/track/155t0i7MddhDV4l1KzXgdj) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Total](https://open.spotify.com/album/5WXzljd68vlJL83jHUFcCo) | 4:03 | 2023-04-14 | 2023-04-27 |
+| [Mr\. God Amongst Men](https://open.spotify.com/track/67aKQPEqR8MGQHH85EL96P) | [Ruby Red](https://open.spotify.com/artist/2f0NSj1t2L6JowHINXCFb6) | [Solar 9 Fender](https://open.spotify.com/album/125JIiqXApC9orYUT1tb1h) | 3:06 | 2025-08-22 |  |
 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 | 2023-09-05 | 2025-07-26 |
 | [My Dick](https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:00 | 2023-09-05 |  |
 | [My Girl](https://open.spotify.com/track/4jnzloLGQNJy7sYjabVSaZ) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Girl](https://open.spotify.com/album/5sFj47dMyRaQo3sVoElik2) | 2:45 | 2024-08-30 |  |
@@ -211,7 +212,7 @@
 | [Romantic Rights \- Erol Alkan's Love from Below Re\-Edit](https://open.spotify.com/track/5a0tGlatEgcfoOmDFg0moo) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Romance Bloody Romance](https://open.spotify.com/album/42hKf3qzo84IsuSAjT6xJq) | 6:20 | 2023-04-14 | 2023-04-27 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2023-12-04 |  |
 | [Root Canal](https://open.spotify.com/track/2ZApMdEJTXJ97h6bRw4ZvL) | [Mother Cell](https://open.spotify.com/artist/3risBr1IVWlfdA4TIFMPBc) | [Powerhouse](https://open.spotify.com/album/26LcXJfjgtI5JHj2AJplln) | 3:42 | 2023-04-14 | 2023-04-27 |
-| [Round and Round](https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J) | 5:08 | 2023-09-05 |  |
+| [Round and Round](https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J) | 5:08 | 2023-09-05 | 2025-08-23 |
 | [S is For](https://open.spotify.com/track/2Tkeegscxs2qdrYGrqNjFj) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56) | [S is For](https://open.spotify.com/album/42rRciPqF6XnsDQUvVESKW) | 2:43 | 2025-05-02 |  |
 | [Sad Sad City](https://open.spotify.com/track/26T7C1NMXKE7hCWhKH2l0o) | [Ghostland Observatory](https://open.spotify.com/artist/2waNUwuthEgcBTFvYo26vo) | [Paparazzi Lightning](https://open.spotify.com/album/2ZNqGfW6cwMGAX5Bu0A92s) | 3:05 | 2023-09-05 |  |
 | [Save Me](https://open.spotify.com/track/1lKOLGBssrtcgxE47Hou5K) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Save Me](https://open.spotify.com/album/0PIBhidWmPmdMusP5rWdzQ) | 3:00 | 2024-08-08 | 2024-08-15 |

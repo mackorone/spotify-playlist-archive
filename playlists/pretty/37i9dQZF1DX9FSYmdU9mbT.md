@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Caetano & Bethânia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,882 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,157 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 3 | [Acenda o farol](https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Brazilian Café](https://open.spotify.com/album/5U7NjzLEWV6OtAdaKrwfIg) | 3:12 |
 | 4 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 |
 | 5 | [Relicário \- Ao Vivo](https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1) | [Cássia Eller](https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI) | 4:06 |
-| 6 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
-| 7 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
+| 6 | [Quem de nós Dois \(La Mia Storia Tra Le Dita\)](https://open.spotify.com/track/2yQMmtem48vOjB1OXAvbKD) | [Ana Carolina](https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN) | [Ana Rita Joana Iracema Carolina](https://open.spotify.com/album/4EeOCRFhVMUClJ50RquRwK) | 5:05 |
+| 7 | [Lança Perfume](https://open.spotify.com/track/0rAX31FT5w3ZQbQMUSkxy8) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Hits](https://open.spotify.com/album/7i4l4zXrbUuK3sL3K99J27) | 2:07 |
 | 8 | [Samba De Verão](https://open.spotify.com/track/1vt0n3GcAYrsSMue1C6OtC) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 3:07 |
 | 9 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 |
 | 10 | [É Preciso Dar Um Jeito, Meu Amigo](https://open.spotify.com/track/1V1taPaEp2dntrUKCAnnw5) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [Carlos, Erasmo \[Versão Com Bônus \(1971\)\]](https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M) | 3:47 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 66 | [Canta Canta, Minha Gente \(Minha Gente, Canta Canta\)](https://open.spotify.com/track/2zqT92v0e1lvs5paCOfxwm) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Violões e Cavaquinhos](https://open.spotify.com/album/4kjig7c8AIa2fdt6syvbRh) | 3:11 |
 | 67 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 |
 | 68 | [Sabiá \- Ao Vivo](https://open.spotify.com/track/629DheUXpR6hplX51EWdiw) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Caravanas Ao Vivo](https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE) | 3:04 |
-| 69 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
-| 70 | [Canto de Ossanha](https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Os Primeiros Anos](https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC) | 2:02 |
+| 69 | [Canto de Ossanha](https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Os Primeiros Anos](https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC) | 2:02 |
+| 70 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 |
 | 71 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 |
 | 72 | [Casa No Campo \- Remastered 2021](https://open.spotify.com/track/0dQfSf8Fxh5npCsCv6R6iQ) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Elis \(Remastered\)](https://open.spotify.com/album/4ooDii6hWTA1jKM5dBW4je) | 2:51 |
 | 73 | [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 |

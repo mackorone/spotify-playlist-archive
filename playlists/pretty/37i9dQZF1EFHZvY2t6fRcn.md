@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 147 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 620 likes - 147 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 65 | [Tell Me \(feat\. Vic Mensa\)](https://open.spotify.com/track/4wMBHhPp9eHO0xJ1mmAFmb) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Fireside](https://open.spotify.com/album/6EZJiq22sPeZK7fz1LYLVV) | 2:54 |
 | 66 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 |
 | 67 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 |
-| 68 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 |
-| 69 | [WHEN THE NIGHT ENDS](https://open.spotify.com/track/7GXr0fdO5T1Jkn8VeAP08Z) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [SAVIOR](https://open.spotify.com/album/2afZJyF23lPcludJxSR8Tg) | 3:10 |
+| 68 | [WHEN THE NIGHT ENDS](https://open.spotify.com/track/7GXr0fdO5T1Jkn8VeAP08Z) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [SAVIOR](https://open.spotify.com/album/2afZJyF23lPcludJxSR8Tg) | 3:10 |
+| 69 | [No Love](https://open.spotify.com/track/6dm3UF8yk4Xq64e0u96Tsb) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:33 |
 | 70 | [Contact](https://open.spotify.com/track/1tBIQgGTfEzZVLLcKK8wIp) | [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Contact](https://open.spotify.com/album/69zHpPx9IkCA2V3WkjrG87) | 3:42 |
 | 71 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 |
 | 72 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 101 | [Body](https://open.spotify.com/track/5VyjnK3NmjFjSUoG4qbqLy) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 3:18 |
 | 102 | [Don't Sweat It](https://open.spotify.com/track/4cWPQXwN7p0RKihlUlcOUf) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Don't Sweat It](https://open.spotify.com/album/5BuwJcN3VVB8p7jpcytX0W) | 2:47 |
 | 103 | [When It's Too Good](https://open.spotify.com/track/70LHZbkrT4kOBcyICCJ0xJ) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [When It's Too Good](https://open.spotify.com/album/1B2ei3s6f1IoGv4E392XlL) | 2:28 |
-| 104 | [我愛](https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [1212](https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8) | 3:46 |
-| 105 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
+| 104 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
+| 105 | [我愛](https://open.spotify.com/track/0pm2Rm1YKgBQecvDw6c2Mm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [1212](https://open.spotify.com/album/0VL0WIykCkgOboLrdL8iM8) | 3:46 |
 | 106 | [Butterflies](https://open.spotify.com/track/0Ns9MYv0gL70HRkyiBSNgZ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:00 |
 | 107 | [Stay In Bed](https://open.spotify.com/track/6tmA6I8aay97Aj0F0mRA2f) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:35 |
 | 108 | [WHEREVER YOU ARE](https://open.spotify.com/track/56UFnN1OLTcOiH1hjquSZe) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 3:45 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 130 | [All the Way](https://open.spotify.com/track/4EKw1hTrMpJqa0R8ndbQbD) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Mantra Songs](https://open.spotify.com/album/3o5fIfq58YkADC9gkFEfDE) | 3:30 |
 | 131 | [Vitamin P](https://open.spotify.com/track/3VayoJ5USdqDiA7aMve5Mg) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Vitamin P](https://open.spotify.com/album/1BY3L8DqvUpT1x58yRSRB9) | 2:33 |
 | 132 | [Happen](https://open.spotify.com/track/3lieXczavxShuM9SDEtPnD) | [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Happen](https://open.spotify.com/album/356K0xUK0Y8SiSBwybol9s) | 3:20 |
-| 133 | [DLT](https://open.spotify.com/track/02ibTlP8OopGchPa4UNLDL) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 3:46 |
-| 134 | [Mile High](https://open.spotify.com/track/2mrJgi1rm64SVje5CdHYhL) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [Stephen Kirk](https://open.spotify.com/artist/6i7BAJYLVDj8TW3eU8ZS6R) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:52 |
+| 133 | [Mile High](https://open.spotify.com/track/2mrJgi1rm64SVje5CdHYhL) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [Stephen Kirk](https://open.spotify.com/artist/6i7BAJYLVDj8TW3eU8ZS6R) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 1:52 |
+| 134 | [DLT](https://open.spotify.com/track/02ibTlP8OopGchPa4UNLDL) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3), [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [Early Hours](https://open.spotify.com/album/2QTjE4fU8S5krkRDcjKtZj) | 3:46 |
 | 135 | [Day by Day](https://open.spotify.com/track/2BDcrDFs5IsOvCNEKLKnjK) | [Hitmakers \- Cast](https://open.spotify.com/artist/3fNTCHGonSwV0Ggu2MiTW1), [Trey Campbell](https://open.spotify.com/artist/05S2PVQNMDOsTxQGwmCp6U) | [Hitmakers \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6LqvgTehNhoDiCE691qIt2) | 2:47 |
 | 136 | [Blind To The Blonde](https://open.spotify.com/track/2OEcST3YKixTHWrUJl8Sab) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 2:38 |
 | 137 | [Conscious](https://open.spotify.com/track/3rsdgWUSYPD9YiWtieunao) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:27 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 146 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 147 | [You, Me, & The Truth](https://open.spotify.com/track/5gjKNC4A0ktJzwPk3VbLG2) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [You, Me, and The Truth](https://open.spotify.com/album/4Vw09wOdC6FASovZr6l9Uj) | 2:55 |
 
-Snapshot ID: `Ab6H9AAAAAAIVVsFX6ZZuE3KLYAWsm8H`
+Snapshot ID: `Ab6NlAAAAAAgRETv7PC/+pCbHmKUoKXH`

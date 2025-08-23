@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Ariana Grande
 
-274 songs - 15 hr 10 min
+275 songs - 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Azizam \- Acoustic](https://open.spotify.com/track/2IQz2JtlZ4GjMuXcusYF2i) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Azizam \(Acoustic\)](https://open.spotify.com/album/4vsBt7vutpoO2ebjuTinkn) | 2:40 | 2025-05-23 |  |
 | [Bad \- Acoustic](https://open.spotify.com/track/3nIOj4RC4F6FcaALZKVLWB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bad \(Acoustic\)](https://open.spotify.com/album/6dxCR3nNb2InDCZslFNmhD) | 2:51 | 2022-01-28 | 2024-03-16 |
 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 | 2022-01-28 | 2023-09-02 |
-| [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 | 2022-01-28 |  |
+| [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 | 2022-01-28 | 2025-08-23 |
 | [Beautiful Things \- Acoustic](https://open.spotify.com/track/7rJkmoGkKjLMIPI9qUQnSy) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things \(Alternate Versions\)](https://open.spotify.com/album/5KZ5cuVY1oLvHI1ecqoUJP) | 3:21 | 2024-02-23 |  |
 | [Before You Go \- Guitar Acoustic](https://open.spotify.com/track/27829SWtwhWUANViVTEpol) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Before You Go EP](https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa) | 3:38 | 2022-01-28 | 2023-07-01 |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-27 |  |
@@ -172,6 +172,7 @@
 | [Love Story](https://open.spotify.com/track/60rRxW2Doq3KCzpendU4Yz) | [Here At Last](https://open.spotify.com/artist/2xu9qA4dq2UK1f0hDCZb2O) | [Love Story](https://open.spotify.com/album/1RyLhITh6rdqAgtZcL5G4z) | 3:48 | 2024-02-16 |  |
 | [Lover \- First Dance Remix](https://open.spotify.com/track/2msvOEbkK50foYf9BMXr2X) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover \(First Dance Remix\)](https://open.spotify.com/album/6Ou4LWiU2Vu2V7KdHzw9At) | 3:53 | 2022-01-28 |  |
 | [Loverboy \- Acoustic](https://open.spotify.com/track/6EdlzHYryob6RgNPuxVCeI) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy \(Acoustic\)](https://open.spotify.com/album/0RbC7QVHD6RKZfFNjM3FnM) | 3:35 | 2022-01-28 | 2022-08-06 |
+| [Man On The Moon](https://open.spotify.com/track/6uiKhAx3xG1ZsgyzcIbbf2) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Man On The Moon](https://open.spotify.com/album/67WkCx7zCcaJzM0tqZQDKx) | 3:20 | 2025-08-21 |  |
 | [Matchbox](https://open.spotify.com/track/0wXFG6Mp60kQn4MA5DdBrw) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Matchbox](https://open.spotify.com/album/0qt1he5UlLF3ZBtwmcPzif) | 3:31 | 2023-08-25 |  |
 | [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-19 | 2023-07-01 |
 | [Mine \- Stripped Version](https://open.spotify.com/track/5GbX3kHPKh1tZhDzUbHqcf) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Mine \(Stripped Version\)](https://open.spotify.com/album/2djoKJZLB1vXSGxVOLhl5b) | 2:58 | 2022-01-28 | 2023-04-15 |

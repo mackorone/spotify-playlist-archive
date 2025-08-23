@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2780961,
+  "num_followers": 2781109,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAABDVgUyPwQqgn9GcFblH3Hc",
+  "snapshot_id": "aKZhgAAAAACmvy6Xa/Kl+39TT/P7HSUr",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Feeling Whitney",
+      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 245266,
       "name": "Die For Me (feat. Future & Halsey)",
       "url": "https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 257265,
-      "name": "Feeling Whitney",
-      "url": "https://open.spotify.com/track/35r28RDot7nPE7y9K9H7l0"
     },
     {
       "added_at": null,

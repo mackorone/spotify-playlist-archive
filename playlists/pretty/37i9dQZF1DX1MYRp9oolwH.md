@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Andhra King Taluka
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,884 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,933 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

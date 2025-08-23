@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-473 songs - 1 day 3 hr 18 min
+474 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Onyeka \(Baby\)](https://open.spotify.com/track/5gsvgZuxT41OWmH03SBT8J) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:22 | 2020-11-24 | 2022-07-27 |
 | [Organise](https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:03 | 2022-09-09 | 2025-03-20 |
 | [Oshey](https://open.spotify.com/track/7086QbyiN4ITmlngO7XwgA) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Moelogo](https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D), [Siza](https://open.spotify.com/artist/3x0DVcPHpcYV9qi1Z8ppdp) | [Ojekoo](https://open.spotify.com/album/71BxXDL7H2LPzKZ0iKUksI) | 4:30 | 2019-10-07 | 2022-04-19 |
+| [Oulala \- II](https://open.spotify.com/track/3zPZIfGDRXOeo6k0qdooo5) | [Kocee](https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Oulala \(II\)](https://open.spotify.com/album/2QN5pmtN6C2psqCjpU0Evi) | 2:25 | 2025-08-22 |  |
 | [Outside](https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Outside](https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6) | 3:11 | 2021-09-10 | 2023-11-17 |
 | [Outside \(Abonten\) \[Extended\]](https://open.spotify.com/track/15xPCOhHu3sSpj7xdqvErV) | [DJ Breezy](https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Outside \(Abonten\)](https://open.spotify.com/album/2GFPzaH4f3glj2zeZGTcvD) | 4:01 | 2022-04-21 | 2022-05-14 |
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 | 2023-12-14 | 2025-03-20 |
@@ -447,7 +448,7 @@
 | [Waist Drop](https://open.spotify.com/track/0pq7v5FzfN7pv4qVk173a5) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Waist Drop](https://open.spotify.com/album/2bXMxsnq3X6PgRx4Oucn3H) | 2:47 | 2022-07-07 | 2022-11-04 |
 | [WAKA WAKA](https://open.spotify.com/track/3IriOnjl5WTuREfvzDPjJ4) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [WAKA WAKA](https://open.spotify.com/album/7f2AMUr6ZW0OIfRzg7fsk3) | 3:32 | 2022-08-26 | 2022-09-02 |
 | [Walangolo](https://open.spotify.com/track/1rgPaNbruePcgLEX3rse9j) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Walangolo](https://open.spotify.com/album/3WaqErXkH8eSyHNWSFAk76) | 3:44 | 2022-04-07 | 2022-06-13 |
-| [wande's bop \(feat\. SPINALL\)](https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:43 | 2024-08-30 |  |
+| [wande's bop \(feat\. SPINALL\)](https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:43 | 2024-08-30 | 2025-08-23 |
 | [Want](https://open.spotify.com/track/6vcL12JWIzSjpxxqFPmh9L) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Want](https://open.spotify.com/album/46ZtJ3n0Z1Ux2BhcaGqfKQ) | 2:59 | 2022-06-09 | 2022-06-25 |
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-06-21 |  |
 | [We Outside](https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [We Outside](https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe) | 2:35 | 2022-08-26 | 2023-03-04 |

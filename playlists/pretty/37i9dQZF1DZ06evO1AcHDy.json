@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37726,
+  "num_followers": 37723,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAB1XiKE7Rm5D0fNOgqE6YK",
+  "snapshot_id": "aKZhgAAAAAA2kX4Ii26Os5EeFDlceure",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/4SB9fBomwBWpM0Zqz75Y1V"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 177564,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/0b8RxOVECQKVtkkdi47Cvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 244078,
-      "name": "Alterlife",
-      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Enter Sandman",
         "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 333880,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 244078,
+      "name": "Alterlife",
+      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
     },
     {
       "added_at": null,

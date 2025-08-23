@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women who open up the pit\. Cover: Courtney LaPlante of Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,054 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,133 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 93 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 |
 | 94 | [Jinnslammer](https://open.spotify.com/track/2AjEKcRXkntPkujLXp6hGD) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Jinnslammer](https://open.spotify.com/album/6W3LQ5tl5c3srkHOjfG7N9) | 4:39 |
 | 95 | [Killstar \(The Cold World\)](https://open.spotify.com/track/6YfN3vWabEAmOAbZgub44o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 4:41 |
-| 96 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
-| 97 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
+| 96 | [Fallen Angel](https://open.spotify.com/track/21uc6y1U0VojXe4MN1A5YO) | [Lucifer](https://open.spotify.com/artist/4fqjeVEalB6iB3BhKu5HwZ) | [Lucifer V](https://open.spotify.com/album/25AfzUCFletNF8W67nZdWu) | 3:09 |
+| 97 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
 | 98 | [Better Without You](https://open.spotify.com/track/6nFt6XgvvCRweKbD2B3aPa) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Better Without You](https://open.spotify.com/album/7rhu8SK2H2Fya2bWx8yPjG) | 4:05 |
 | 99 | [Freedom \- The Wolves Within\-](https://open.spotify.com/track/5hSnN8wtaGNRgdERMeQIx1) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Freedom \- The Wolves Within](https://open.spotify.com/album/3MVad7SlfyPymJjJ1g6yk9) | 5:37 |
 | 100 | [Eternal December](https://open.spotify.com/track/39ejkjUIw8yzIJ1WP4mj83) | [Lake Malice](https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO) | [Eternal December](https://open.spotify.com/album/0NSRVjbWJXMr0X2cv54szI) | 3:49 |

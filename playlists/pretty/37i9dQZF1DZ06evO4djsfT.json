@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27400,
+  "num_followers": 27407,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACnk2NOZPqA8D9PPOmuzf+D",
+  "snapshot_id": "aKZhgAAAAADMwnkw7h6Le2RGjpgirLsy",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 196132,
+      "name": "10K",
+      "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 179527,
       "name": "Yes",
       "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 196132,
-      "name": "10K",
-      "url": "https://open.spotify.com/track/6RSQJWAsHqCAqhH9cgStE5"
     },
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "King Jesus",
-      "url": "https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -223,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "King Jesus",
+      "url": "https://open.spotify.com/track/1o6Rm46dLxydQtmOw233jX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keanu's Song",
         "url": "https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo"
       },
@@ -239,26 +239,6 @@
       "duration_ms": 152911,
       "name": "Keanu's Song",
       "url": "https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 161856,
-      "name": "Miracles",
-      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
     },
     {
       "added_at": null,
@@ -295,6 +275,26 @@
       "duration_ms": 245133,
       "name": "COUNT 'EM (REMIX)",
       "url": "https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 161856,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Today We Rebel",
-        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Andy Mineo",
-          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
-        }
-      ],
-      "duration_ms": 246545,
-      "name": "Not Today Satan",
-      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 259328,
       "name": "Let It Reign (feat. Bizzle)",
       "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Today We Rebel",
+        "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246545,
+      "name": "Not Today Satan",
+      "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Be The Glory (Remix)",
-        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 228705,
-      "name": "God Be The Glory (Remix)",
-      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Epilogue.",
         "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 173179,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Be The Glory (Remix)",
+        "url": "https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "God Be The Glory (Remix)",
+      "url": "https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 237496,
+      "name": "Undefeated (feat. KB)",
+      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Good Life",
         "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
       },
@@ -863,42 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship in the Moshpit",
-        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Worship in the Moshpit",
-      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 237496,
-      "name": "Undefeated (feat. KB)",
-      "url": "https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow We Live",
         "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
     },
     {
       "added_at": null,

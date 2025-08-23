@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19137,
+  "num_followers": 19142,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACue95kv+VcnAlSIW7Hg0mk",
+  "snapshot_id": "aKZhgAAAAAC45mxz+mt5yqeaGmbM5BGc",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 1125226,
-      "name": "Endless Horizon",
-      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 535946,
       "name": "Traveling the Stars",
       "url": "https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 1125226,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Illumination of the Heart",
-        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 458373,
-      "name": "Tonglen",
-      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Empty Sky",
-        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 386840,
-      "name": "Surfing the Clouds",
-      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
       "duration_ms": 807853,
       "name": "Sea and Silence",
       "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Time",
+        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 367046,
+      "name": "Moving Seagrass",
+      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Time",
-        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 367046,
-      "name": "Moving Seagrass",
-      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+      "duration_ms": 406586,
+      "name": "Moon-Silvered Clouds",
+      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 406586,
-      "name": "Moon-Silvered Clouds",
-      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystery of Light",
-        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 324426,
-      "name": "Memories of an Angel",
-      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "East of the Full Moon",
         "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 204320,
       "name": "Marfa Lights 2",
       "url": "https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 324426,
+      "name": "Memories of an Angel",
+      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reiki Hands of Light",
-        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 727933,
-      "name": "Healing Circle",
-      "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Earth Blue",
         "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 381066,
       "name": "The Source",
       "url": "https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 727933,
+      "name": "Healing Circle",
+      "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
     },
     {
       "added_at": null,

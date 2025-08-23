@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más escuchado del pop\. Foto: Emilia.
 
-462 songs - 23 hr 2 min
+464 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -327,6 +327,7 @@
 | [paladar](https://open.spotify.com/track/6u6mp12wioT53HAvOyakcq) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [paladar](https://open.spotify.com/album/33uR9L3WrJoBCcmAa8AkwA) | 3:12 | 2024-11-29 | 2024-12-27 |
 | [PARA AMARTE A TI](https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [PARA AMARTE A TI](https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT) | 3:35 | 2023-05-12 | 2024-01-20 |
 | [PARA AMARTE A TI \(TT VERSION\)](https://open.spotify.com/track/6gqPH0SaOdiUEcstZrc5m0) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Luisa](https://open.spotify.com/artist/3iOiMcmKYGm8kOxlBjTo0w), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:18 | 2024-01-12 | 2024-03-23 |
+| [Para Dos](https://open.spotify.com/track/2e3MtRI15mTOqByB2DYrFb) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Para Dos](https://open.spotify.com/album/4ozt7jSOX2L8lp7yH1M4Uo) | 2:56 | 2025-08-22 |  |
 | [Pasado Mañana](https://open.spotify.com/track/1gUf12HGllfBJdGlM7Vk04) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Pasado Mañana](https://open.spotify.com/album/467IwAn2Dtwex8TLMnHiBM) | 2:17 | 2024-02-16 | 2024-03-02 |
 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-09-27 | 2024-10-19 |
 | [pasarella 👠](https://open.spotify.com/track/67vjKw6LVD5wewFuoC1215) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [pasarella 👠](https://open.spotify.com/album/0DVus7APZKK2eIUkjkt0Md) | 2:42 | 2025-07-11 |  |
@@ -419,6 +420,7 @@
 | [TENGO CELOS](https://open.spotify.com/track/5lwPKH5nmro0uXGs8PiAQq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [ISLAND BOYZ](https://open.spotify.com/album/3YC3UkufiKRSwdBA1BDfHj) | 3:31 | 2025-07-18 |  |
 | [Tenso](https://open.spotify.com/track/6qjVwfPtN73Rj7vSAaAuF2) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:50 | 2023-05-12 | 2023-06-02 |
 | [The Door \(Tiago PZK Version\)](https://open.spotify.com/track/4yq8Oc51K2mgLfo9BjU3Rr) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [The Door \(Tiago PZK Version\)](https://open.spotify.com/album/7KZQ4RX8Eqcx36FAWgCpx2) | 3:32 | 2024-06-14 |  |
+| [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-22 |  |
 | [tinta 90](https://open.spotify.com/track/4eiXf3HZDlrMxDNB1ahhpa) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:46 | 2024-05-10 | 2025-02-05 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-24 | 2024-07-13 |
 | [Toy en el Mic](https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:17 | 2023-10-05 | 2023-11-25 |

@@ -4,12 +4,13 @@
 
 > Todos los cumbieros con las manos bien arriba haciendo palmas 💃🏾🕺🏾🏝
 
-285 songs - 16 hr 9 min
+286 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Entre Paréntesis\)](https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:48 | 2024-03-27 | 2024-06-08 |
 | [20 Rosas](https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:14 | 2023-04-05 | 2023-08-12 |
+| [7 VIDAS](https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [7 VIDAS](https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB) | 2:24 | 2025-08-22 |  |
 | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [A Donde Vas Si Te Vas \| CROSSOVER \#6](https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C) | 3:04 | 2024-09-02 | 2025-01-06 |
 | [A un Milimetro de Ti](https://open.spotify.com/track/1LYg2z0u1niiFCcFxizVv1) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [A un Milimetro de Ti](https://open.spotify.com/album/67zw0XqpbrT1memQeMDO8K) | 3:53 | 2024-05-03 | 2024-08-14 |
 | [Abusadora](https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:39 | 2023-01-30 |  |

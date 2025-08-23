@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > C'est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,833 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,819 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 21 | [Pale Blue Eyes](https://open.spotify.com/track/4aK4bJInGOV0Skp8uYrWuE) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pale Blue Eyes](https://open.spotify.com/album/2LnTh8KbcYBW8C8WmVS46D) | 3:09 |
 | 22 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
 | 23 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 |
-| 24 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
-| 25 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
-| 26 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
+| 24 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
+| 25 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 |
+| 26 | [It's Not Just Me, It's Everybody](https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:16 |
 | 27 | [Old Man](https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Old Man](https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5) | 3:27 |
 | 28 | [\*\*GOLIATH\*\*](https://open.spotify.com/track/62Z5rlfm5y3VU8Q3QXceLT) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [GOLIATH](https://open.spotify.com/album/58WQafW2FPSWC3LDe0Jh90) | 3:05 |
 | 29 | [Yours Or Mine](https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Yours Or Mine](https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2) | 3:50 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 33 | [Drink the Ocean \(feat\. Oracle Sisters\)](https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn), [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [La femme aux yeux de sel](https://open.spotify.com/album/5PiHQMN9NyN8vIVVMhNj5s) | 3:52 |
 | 34 | [Mornin Dew](https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy) | [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Satin Psicodelic](https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W) | 5:24 |
 | 35 | [Beautiful Thingz](https://open.spotify.com/track/1y4h1ZxF2sI36abMmFjGiH) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [Beautiful Thingz](https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ) | 3:28 |
-| 36 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
-| 37 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
+| 36 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
+| 37 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 |
 | 38 | [Brown Eyes](https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Brown Eyes](https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE) | 3:17 |
 | 39 | [sunflower ‘24](https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [postcard season](https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q) | 2:52 |
 | 40 | [Les Anges](https://open.spotify.com/track/5qftMKQEhmvZTeP1zWXs1d) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider \(Deluxe\)](https://open.spotify.com/album/1ttdXNBRHGq9ASHdeA36cI) | 2:38 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 54 | [The Eyes Of Cécilia](https://open.spotify.com/track/7cQ2BmsLbPSapjBmo8tku4) | [Charles Pasi](https://open.spotify.com/artist/4OFX3Dy0inpClzZcq8lJl0) | [The Eyes Of Cécilia](https://open.spotify.com/album/0jNSfn0ePvYRkY3AofwJSt) | 3:25 |
 | 55 | [The Bed Unfold](https://open.spotify.com/track/2JaYsCEgBJyaPlKV2t91Jd) | [Penelope Antena](https://open.spotify.com/artist/78AWqSH5GCoOrI5zqNqHsH) | [Joy Will Find Its Way](https://open.spotify.com/album/1mkFngvOZTjjUkDBhtqFAc) | 3:20 |
 | 56 | [Give Me That Feeling](https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN) | 4:14 |
-| 57 | [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 |
-| 58 | [Us](https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf) | 3:56 |
-| 59 | [Slow Steps in the Snow](https://open.spotify.com/track/5OlRXnce75LJjS29TGnY3Z) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Slow Steps in the Snow](https://open.spotify.com/album/5Q5CFyu9wtBeBEErBLGbrg) | 3:33 |
-| 60 | [Invisible](https://open.spotify.com/track/4TNYkZIUEw1t5PwVg3M3Mv) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Invisible](https://open.spotify.com/album/4MY5Blpziq5SMoqSkBuApe) | 2:45 |
+| 57 | [Phantom](https://open.spotify.com/track/6Dj5lEggc3Jq3pJbKrSAut) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Phantom](https://open.spotify.com/album/2TQtvkf52D9sOjUyKpMIlh) | 1:50 |
+| 58 | [What A Night](https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0) | [Malted Milk](https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0) | [What A Night](https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB) | 4:01 |
+| 59 | [Us](https://open.spotify.com/track/7FW2ySkiy0xaE9GdZAFOxy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/0trDWegHEv7XseWBMfZapf) | 3:56 |
+| 60 | [Slow Steps in the Snow](https://open.spotify.com/track/5OlRXnce75LJjS29TGnY3Z) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Slow Steps in the Snow](https://open.spotify.com/album/5Q5CFyu9wtBeBEErBLGbrg) | 3:33 |
 
 Snapshot ID: `AAAAAFk4lp29bjCHTMM89C4DGNOMgfbq`

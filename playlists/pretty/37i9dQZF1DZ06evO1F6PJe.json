@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 108075,
+  "num_followers": 108080,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAAAoasG6KFhvCLwEywq/zMnu",
+  "snapshot_id": "aKZhgAAAAAAi4awQxqBPnGlG1xez6lvQ",
   "tracks": [
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 243733,
-      "name": "The Valley Runs Low",
-      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We're All In This Together",
         "url": "https://open.spotify.com/album/2bJmqY2kvocUFcDa1tEaDw"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 477173,
       "name": "We're All In This Together",
       "url": "https://open.spotify.com/track/2FIoA2HXo95j29Do5jg9jq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 243733,
+      "name": "The Valley Runs Low",
+      "url": "https://open.spotify.com/track/5NvVaWVoHEUKe2Sau3iLdT"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ballad of John Henry",
-        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 400333,
-      "name": "Happier Times",
-      "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 232933,
       "name": "Long Distance Blues",
       "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ballad of John Henry",
+        "url": "https://open.spotify.com/album/0H8c4DhrLk4mtFaiYt43GN"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 400333,
+      "name": "Happier Times",
+      "url": "https://open.spotify.com/track/4iEHQSpgBrclLwErcU5Lwj"
     },
     {
       "added_at": null,
@@ -623,42 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Of Desperation",
-        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 333333,
-      "name": "What I've Known For A Very Long Time",
-      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 297106,
-      "name": "Train (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sloe Gin",
         "url": "https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy"
       },
@@ -671,6 +635,22 @@
       "duration_ms": 207386,
       "name": "Ball Peen Hammer",
       "url": "https://open.spotify.com/track/3jSj1k7V0y3JmahnH8YM4m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues Of Desperation",
+        "url": "https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 333333,
+      "name": "What I've Known For A Very Long Time",
+      "url": "https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R"
     },
     {
       "added_at": null,
@@ -711,38 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S.O.S. 4: Blues For Your Soul",
-        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
       "artists": [
         {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 246306,
-      "name": "When Will I Let Her Go",
-      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tales Of Time (Live)",
-        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 511933,
-      "name": "The Heart That Never Waits (Live)",
-      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+      "duration_ms": 297106,
+      "name": "Train (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/43BXkw7iKGoSYY2mDIFhSj"
     },
     {
       "added_at": null,
@@ -763,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dust Bowl",
-        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
       },
       "artists": [
         {
@@ -772,9 +736,9 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 254133,
-      "name": "Black Lung Heartache",
-      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
     },
     {
       "added_at": null,
@@ -792,9 +756,25 @@
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 213826,
-      "name": "Driving Wheel",
-      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
+      "duration_ms": 246306,
+      "name": "When Will I Let Her Go",
+      "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dust Bowl",
+        "url": "https://open.spotify.com/album/4J2xuF936SVnrgLtbRLbxM"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Black Lung Heartache",
+      "url": "https://open.spotify.com/track/4WPB8sqL2RayXfI9mcz0WM"
     },
     {
       "added_at": null,
@@ -831,22 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartbreak City",
-        "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
+        "name": "S.O.S. 4: Blues For Your Soul",
+        "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
       "artists": [
         {
-          "name": "Larry McCray",
-          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
         },
         {
           "name": "Joe Bonamassa",
           "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 280360,
-      "name": "I Know What I've Done",
-      "url": "https://open.spotify.com/track/54eHBjp3SBOGXqP2gdJhWa"
+      "duration_ms": 213826,
+      "name": "Driving Wheel",
+      "url": "https://open.spotify.com/track/4Lvby06863caCqrmISPYp3"
     },
     {
       "added_at": null,
@@ -863,6 +843,26 @@
       "duration_ms": 357093,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/0Q8IxQDgQ1Yyz7rBP8dUHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heartbreak City",
+        "url": "https://open.spotify.com/album/6069Q408vtPl0pcne5egPX"
+      },
+      "artists": [
+        {
+          "name": "Larry McCray",
+          "url": "https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "I Know What I've Done",
+      "url": "https://open.spotify.com/track/54eHBjp3SBOGXqP2gdJhWa"
     }
   ],
   "unique_name": "This Is Joe Bonamassa",

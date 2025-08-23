@@ -4,7 +4,7 @@
 
 > Songs, die deine Sehnsucht nach dem Sommer teilen.
 
-323 songs - 17 hr 14 min
+324 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,13 +162,14 @@
 | [Locksmith](https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Locksmith](https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl) | 2:44 | 2023-07-26 |  |
 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 | 2023-09-15 | 2024-07-02 |
 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 | 2023-07-26 | 2024-12-07 |
-| [loslassen](https://open.spotify.com/track/684DYzMh67ioLQQ9wJAfpm) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [loslassen](https://open.spotify.com/album/0dYAetAdTEU9qtAvtIQO2v) | 2:19 | 2024-09-06 |  |
+| [loslassen](https://open.spotify.com/track/684DYzMh67ioLQQ9wJAfpm) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [loslassen](https://open.spotify.com/album/0dYAetAdTEU9qtAvtIQO2v) | 2:19 | 2024-09-06 | 2025-08-23 |
 | [LOVE AGAIN](https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [LOVE AGAIN](https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8) | 2:26 | 2023-07-26 |  |
 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-08-01 |  |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2024-06-22 | 2025-03-25 |
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-02-19 |  |
 | [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2025-02-19 |  |
 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-17 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-22 |  |
 | [Mangos mit Chili](https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Mangos mit Chili](https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM) | 2:14 | 2023-07-26 | 2023-10-10 |
 | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/album/2X5tbY4Yam5ir3dG8eJSHa) | 2:54 | 2023-10-20 | 2023-10-28 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/0Q06bNL4pMTlkilvL88nda) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/42CbU2pxKCYf1fPhBsZpwj) | 1:54 | 2023-07-28 | 2024-01-28 |

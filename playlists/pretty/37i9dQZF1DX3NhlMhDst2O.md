@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Sintoniza los éxitos románticos del siglo pasado 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,765 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,909 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 72 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |
 | 73 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
 | 74 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
-| 75 | [Anoche Me Enamore](https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc) | [Polo Y Los Apson](https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV) | [15 Exitos Del Recuerdo](https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2) | 2:21 |
-| 76 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
+| 75 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
+| 76 | [Anoche Me Enamore](https://open.spotify.com/track/5j77X30tIIWhpAyHjc5msc) | [Polo Y Los Apson](https://open.spotify.com/artist/5W7PxrygHGHSs7N3MSI5KV) | [15 Exitos Del Recuerdo](https://open.spotify.com/album/2iLHBOWBH9SVsSgvEaqIc2) | 2:21 |
 | 77 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
 | 78 | [Al ritmo de la lluvia \- Rhythm of the Rain](https://open.spotify.com/track/52C4jG5kIhSZbAGErim8nr) | [Los Sleepers](https://open.spotify.com/artist/2cCeAySrR6BOPhRJWeoZBN) | [El Ultimo Beso](https://open.spotify.com/album/4gUAghEji9OTewhzSEUZBo) | 2:20 |
 | 79 | [Triángulo](https://open.spotify.com/track/24VnFu3wCGaUYsR8LyBgIi) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:10 |
@@ -125,12 +125,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 115 | [Ni Tu Amigo, Ni Tu Amante](https://open.spotify.com/track/5YPwHHqFhj44Lv0OcPROSj) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [35 Aniversario](https://open.spotify.com/album/1I7toj699MjUv6YIAhX6FT) | 3:00 |
 | 116 | [Navidad Sin Ti](https://open.spotify.com/track/0BgKO3jvcTWhJ8Y8egyAn1) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 4:14 |
 | 117 | [Sólo una Vez](https://open.spotify.com/track/68XwQafl8rl0LzrfNaPqoM) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Bajo el Signo de Leo](https://open.spotify.com/album/2LEmmxRWFxOp5ygRQ9K9vJ) | 2:27 |
-| 118 | [Deja De Llorar Chiquilla](https://open.spotify.com/track/5tPNtzaWcxqPKZIp4CJoTU) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [En México](https://open.spotify.com/album/0Dwx2FDxz0puFHQGATzOiZ) | 3:40 |
+| 118 | [Viviras](https://open.spotify.com/track/7fhkGd7BHMhf8tLSolEsBM) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Viviras](https://open.spotify.com/album/3pXxiwjoWdrXWLVWiJYDee) | 3:35 |
 | 119 | [Hay cosas inolvidables](https://open.spotify.com/track/5Hjuu63Z7WiQ6hUYx9nTXl) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:52 |
 | 120 | [Soy Yo](https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | ["Gold"](https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0) | 3:33 |
 | 121 | [Falso Amor](https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Falso Amor](https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr) | 2:56 |
 | 122 | [Yo Sé Que No Es Feliz](https://open.spotify.com/track/7JRJrFh2ZupDLQ9R1blNY3) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:25 |
-| 123 | [Viviras](https://open.spotify.com/track/7fhkGd7BHMhf8tLSolEsBM) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Viviras](https://open.spotify.com/album/3pXxiwjoWdrXWLVWiJYDee) | 3:35 |
+| 123 | [Deja De Llorar Chiquilla](https://open.spotify.com/track/5tPNtzaWcxqPKZIp4CJoTU) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [En México](https://open.spotify.com/album/0Dwx2FDxz0puFHQGATzOiZ) | 3:40 |
 | 124 | [Hoy](https://open.spotify.com/track/5nJhKycfoC8g3ENqwUfj4O) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/60fB7zLRVwboTovQaN1GhG) | 2:34 |
 | 125 | [El](https://open.spotify.com/track/23fzU7JXLsFE0c7UUkdkcr) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [20 Super Exitos](https://open.spotify.com/album/3G8ZrnPcNB8SB0Uy3l68Yj) | 3:08 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 34760,
+  "num_followers": 34766,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACmtNCKM/QCcMQ64MLcO2S+",
+  "snapshot_id": "aKZhgAAAAABiqq4ekGiBgTc3ZQxRB1YV",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limitless Jazz, Vol. 32",
+        "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Django Reinhardt",
         "url": "https://open.spotify.com/album/1Vwmuhs09XeFjA3cefRLBP"
       },
@@ -791,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limitless Jazz, Vol. 32",
-        "url": "https://open.spotify.com/album/7Lc8bN9NtL0xk539MNQhDf"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
         }
       ],
-      "duration_ms": 153693,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/48UyiTaUgNPuIMorC6GgMS"
+      "duration_ms": 167573,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/14LDEd78pWNCYjRA5ApR0K"
     },
     {
       "added_at": null,
@@ -855,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/5CWvYQgJZhqRZrHLXvTOmw"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/14LDEd78pWNCYjRA5ApR0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Djangologie Vol7 / 1937 - 1938",
         "url": "https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F"
       },
@@ -887,6 +887,38 @@
       "duration_ms": 194400,
       "name": "Farewell Blues",
       "url": "https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Out of Nowhere",
+      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Indispensible Django Reinhardt (1949-1950)",
+        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "Beyond The Sea (La Mer)",
+      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
     },
     {
       "added_at": null,
@@ -911,38 +943,6 @@
       "duration_ms": 154548,
       "name": "Swing from Paris",
       "url": "https://open.spotify.com/track/1dZsuN8xSTM4cbuFQ1ypsf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Indispensible Django Reinhardt (1949-1950)",
-        "url": "https://open.spotify.com/album/54zVMnxFehPybXYXA5WXFH"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "Beyond The Sea (La Mer)",
-      "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Out of Nowhere",
-      "url": "https://open.spotify.com/track/5Qwm8Ghl2c3aYVRjPDUtuB"
     },
     {
       "added_at": null,
@@ -995,6 +995,42 @@
       "duration_ms": 193573,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/1CXMkdwJV9TL20PBIUiWHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Django: Radio Recordings 1947",
+        "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Maurice Meunier",
+          "url": "https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru"
+        },
+        {
+          "name": "Eddie Bernard",
+          "url": "https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww"
+        },
+        {
+          "name": "Eug\u00e8ne V\u00e9es",
+          "url": "https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX"
+        },
+        {
+          "name": "Emmanuel Soudieux",
+          "url": "https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh"
+        },
+        {
+          "name": "Jacques Martinon",
+          "url": "https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7"
+        }
+      ],
+      "duration_ms": 181009,
+      "name": "Viper's Dream",
+      "url": "https://open.spotify.com/track/16AtEXnYcCDJxVHQvoDbwl"
     }
   ],
   "unique_name": "This Is Django Reinhardt",

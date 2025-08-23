@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,640 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,674 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 99 | [Son Of A \(Acoustic\)](https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A \(Acoustic\)](https://open.spotify.com/album/3DfnUMdSb5KMIpsJE7BQb3) | 3:16 |
 | 100 | [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 |
 
-Snapshot ID: `AAAAABTz9Q8fYI0D/7XgBwb7J5zLOGDW`
+Snapshot ID: `AAAAANw11Ene3rUzlgdysTOJhm46uT3V`

@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Tăng Duy Tân
+> Bạn thuộc hệ<a href="https://open.spotify.com/presents/vietspirit"> mãi tươi</a> <br/>như Tăng Duy Tân?
 
 415 songs - 1 day 1 hr 6 min
 

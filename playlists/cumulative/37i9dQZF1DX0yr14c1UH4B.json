@@ -611,6 +611,24 @@
     },
     {
       "album": {
+        "name": "There, I Said It",
+        "url": "https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3"
+      },
+      "artists": [
+        {
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201183,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK"
+    },
+    {
+      "album": {
         "name": "Basis of a Pinky Promise",
         "url": "https://open.spotify.com/album/0TnTMllFI5ghhyJGTI5GTM"
       },
@@ -2550,6 +2568,24 @@
       "duration_ms": 217000,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/2Yk73K05ZGxI6pZBOG6lS4"
+    },
+    {
+      "album": {
+        "name": "Bigger Picture",
+        "url": "https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grace",
+          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244750,
+      "name": "Glorious World",
+      "url": "https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv"
     },
     {
       "album": {
@@ -7834,42 +7870,6 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
-    },
-    {
-      "album": {
-        "name": "Bigger Picture",
-        "url": "https://open.spotify.com/album/6OpF3WOwR0HbljyaeJ1AQT"
-      },
-      "artists": [
-        {
-          "name": "Hannah Grace",
-          "url": "https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB"
-        }
-      ],
-      "date_added": "2025-08-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/13sSRrR9Kbo9XomAgh6Iyv"
-    },
-    {
-      "album": {
-        "name": "There, I Said It",
-        "url": "https://open.spotify.com/album/52vbgK7rvikopkFq3GYoX3"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "date_added": "2025-08-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0zBapdwpLXHoqARf1KykdK"
     },
     {
       "album": {

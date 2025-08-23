@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Katy Lied",
+        "url": "https://open.spotify.com/album/12N6IsuqIJzbTXdIrJnc9b"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199960,
+      "name": "Bad Sneakers",
+      "url": "https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ"
+    },
+    {
+      "album": {
         "name": "Big String Theory",
         "url": "https://open.spotify.com/album/3tIxkOHOrWdOTsIsCrJDhZ"
       },
@@ -8579,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "\u85e4\u5b50",
+        "url": "https://open.spotify.com/album/2Q0FCN53I8xAbnOi0P0WPp"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u53e3\u6587",
+          "url": "https://open.spotify.com/artist/2trWL7YWxfnXWQPoQXZLha"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262482,
+      "name": "Plateau",
+      "url": "https://open.spotify.com/track/4GQUf8dRIfX79OZtYZAEEH"
+    },
+    {
+      "album": {
         "name": "Lost Hits From Milwaukee's First Family Of Powerpop 1979-82",
         "url": "https://open.spotify.com/album/3UJIHfRGlXH7BRKzosUVNI"
       },
@@ -11958,7 +11994,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 319280,
       "name": "Voices (From \"The Beach\")",
       "url": "https://open.spotify.com/track/6mSzYWvicve9JYLFv0JFIf"

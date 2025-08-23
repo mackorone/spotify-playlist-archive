@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 
 > A selection of Islamic Duaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,412 likes - 35 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,409 likes - 35 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 10 | [Allahoma Eny Asalok Alafia](https://open.spotify.com/track/1hZyGewLBDK4YHiFDQGrNp) | [Haroon Al Rasheed](https://open.spotify.com/artist/2nniJ5inYBrjj4v1VzFalt) | [Duaa Sayed Al Estegfaar](https://open.spotify.com/album/5Lw1gg3Vn3W4ChUnqEoOZr) | 0:48 |
 | 11 | [دعاء ختم القران ١](https://open.spotify.com/track/5wa6Xknf6waXXlLcf13jOn) | [احمد السعيد مندور](https://open.spotify.com/artist/1sni2CLdOh54hNoDnNJyIr) | [ادعية اسلامية](https://open.spotify.com/album/25d8GxHD0iumD0INN9T4Tf) | 5:45 |
 | 12 | [اللهم متعنا براحة البال](https://open.spotify.com/track/6OZ7lMcMghUPXqBDjjfsNX) | [حمزه بوديب](https://open.spotify.com/artist/2txtDMgMD7i5ylXsdxpNX4) | [روائع الدعاء :: الجزء الاول](https://open.spotify.com/album/2hOXi5SGw9fXblvYAhfPJh) | 2:33 |
-| 13 | [اعينا على طاعتك](https://open.spotify.com/track/4b9ePeY7n2SSPUqU2hVXqI) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:41 |
+| 13 | [الحمد لله الذي هدانا لهذا](https://open.spotify.com/track/5Dzjoi4D3XphLfyXmMGVQF) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:17 |
 | 14 | [سبحان من بكت من خشيته العيون](https://open.spotify.com/track/7gyj5EGikfdWa2Waygjocc) | [Edres Abkar](https://open.spotify.com/artist/37MfCJQQ9aE323lqRTIgju) | [سبحان من بكت من خشيته العيون](https://open.spotify.com/album/3B33Pn8l3w6EMDlHydn4wj) | 3:28 |
 | 15 | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/track/2ple70bGnZPJh2sppFGYby) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [دعاء اللهم اجعل لي نصيباً من الخير](https://open.spotify.com/album/0c8Kbb1MTtLsvwaZc2BuBj) | 0:39 |
 | 16 | [\( Live \) اللهم صلي على جميع الملائكة والمرسلين](https://open.spotify.com/track/36LZfcKCa9dIatXNNrP7ck) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
 | 17 | [اللهم بلغنا رمضان](https://open.spotify.com/track/51EX5abEEaT9vThqP2B9Md) | [حمزه بوديب](https://open.spotify.com/artist/2txtDMgMD7i5ylXsdxpNX4) | [روائع الدعاء :: الجزء الاول](https://open.spotify.com/album/2hOXi5SGw9fXblvYAhfPJh) | 4:46 |
-| 18 | [الحمد لله الذي هدانا لهذا](https://open.spotify.com/track/5Dzjoi4D3XphLfyXmMGVQF) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:17 |
+| 18 | [اعينا على طاعتك](https://open.spotify.com/track/4b9ePeY7n2SSPUqU2hVXqI) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:41 |
 | 19 | [دعاء كل يوم في شهر رمضان](https://open.spotify.com/track/11jpKKK9qpz8AKTFjcU7xa) | [أبو أيمن](https://open.spotify.com/artist/2y3dfldORxkOXdixRoM64Y) | [أدعية شهر رمضان](https://open.spotify.com/album/4jVYVEL9E8Il4N62eEMwu9) | 1:44 |
 | 20 | [اللهم اعنا على الصيام](https://open.spotify.com/track/5MlLAqk4nqOYbISXGUJOkB) | [Nour al Houda](https://open.spotify.com/artist/2kvtOCzGgeWCgQTUovLF33) | [ادعية رمضان](https://open.spotify.com/album/1iwEVWsnYgm3lThBhamg5H) | 1:58 |
 | 21 | [\( Live \) اللهم أصلح لنا ديننا](https://open.spotify.com/track/5n5cx2fWiuQM4oInnKmuBT) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pcshwfgXFN.md) - [plain]
 | 28 | [الحمد لله الذي فضلنا على كثير من عباده](https://open.spotify.com/track/6UGM6qnYm0z3AI61YFPNT9) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:24 |
 | 29 | [سورة النجم](https://open.spotify.com/track/1XUTm7niP4gDEaymlQCIe7) | [Sheikh Raad Al Kurdi](https://open.spotify.com/artist/7AflKiIRBursuADYrUWbvL) | [تلاوات رمضانية](https://open.spotify.com/album/3lasvalpXz3Q2sifkROjxk) | 3:16 |
 | 30 | [الحمد لله رب العالمين ..\. اللهم انت ربي](https://open.spotify.com/track/7iji8hIa2jkYy0UxbSZP2N) | [Sheikh Mohamed Metwally Al Shaarawy](https://open.spotify.com/artist/7ilS6CVz4sDnhD5zUHGYGF) | [ادعية الشيخ محمد متولي الشعراوي](https://open.spotify.com/album/18rGXF8PO28jmrvnSOuXSU) | 1:37 |
-| 31 | [\( Live \) اللهم أعنا على ذكرك وشكرك](https://open.spotify.com/track/45E5YuOCi5euPZKrnDmH1w) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 1:00 |
+| 31 | [\( Live \) ربنا تقبل منا](https://open.spotify.com/track/6mTU4E7wnvMH2q7dEc9NvN) | [الشيخ عبد الباسط عبد الصمد](https://open.spotify.com/artist/5FfOEBsqp3x1bpsNr73KLa) | [أدعية شهر رمضان](https://open.spotify.com/album/2tOnxcvLJkNfE0uh5ADKbj) | 0:56 |
 | 32 | [Duaa 07](https://open.spotify.com/track/1crJtPUs6JClhwiUhuUr7e) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 07](https://open.spotify.com/album/38Dfhk8B62t8Pt9P9HzCvU) | 2:06 |
 | 33 | [Duaa 03](https://open.spotify.com/track/1kvFQLIRqdjC7mLlGeSxTL) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 03](https://open.spotify.com/album/5opMjcbsUJaBWcfplJt7pt) | 2:33 |
 | 34 | [Duaa 13](https://open.spotify.com/track/5bCvtfbE6Rbz92WqqS5c2s) | [Al Sheikh Saad Al Ghamidi](https://open.spotify.com/artist/1CGHWaiCXY5Z1K7tZzoaTf) | [Duaa 13](https://open.spotify.com/album/4gbUx4AiwZOzGu5M0dlX4J) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,103 likes - 45 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,108 likes - 45 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 11 | [acha que a vida é um morango](https://open.spotify.com/track/7l7NzgtELvaxXi4H9yT2Nw) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:36 |
 | 12 | [geada](https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [geada](https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5) | 2:34 |
 | 13 | [Molho](https://open.spotify.com/track/0vnMKXdO0LsTXTjI5gjeu0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Molho](https://open.spotify.com/album/0H7TgZyBTY2DNBx7mwHWUX) | 2:47 |
-| 14 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
-| 15 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/2jTzEkoOmhRWG8DWUMQ7de) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/0ICuS46DawFjbPKYXZE1Gp) | 2:00 |
+| 14 | [me dá dinheiro ou me faz gozar](https://open.spotify.com/track/2jTzEkoOmhRWG8DWUMQ7de) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [me dá dinheiro ou me faz gozar](https://open.spotify.com/album/0ICuS46DawFjbPKYXZE1Gp) | 2:00 |
+| 15 | [Potranca](https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Gostosa Posturada](https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF) | 3:36 |
 | 16 | [Mete Ficha](https://open.spotify.com/track/5qrjKcKr5Xgxw5dIVSrcZL) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Dr\. Ace](https://open.spotify.com/artist/1ViYB3Neu32Mi6vBZFjl1d) | [Malvatrem](https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh) | 2:01 |
 | 17 | [14 Sem Vaselina](https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:22 |
 | 18 | [GODZILLA](https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [GODZILLA](https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq) | 2:31 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 44 | [Sucessagem](https://open.spotify.com/track/2U22KViUCpahk7mmxuY2av) | [Digital Mafia Corp.](https://open.spotify.com/artist/11VRIA8tgoHvWaCEGGBTKn), [Putodiparis](https://open.spotify.com/artist/6EovSgXkFoczi75DiOsn4b), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Sucessagem](https://open.spotify.com/album/542zPHlOv8RRuc5JzRj7Jt) | 2:33 |
 | 45 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
 
-Snapshot ID: `aKO+gAAAAADBk29ExpNVwtX7qwOORNkC`
+Snapshot ID: `aKZhgAAAAAAd7/YcSVfT2j5tlXHbledH`

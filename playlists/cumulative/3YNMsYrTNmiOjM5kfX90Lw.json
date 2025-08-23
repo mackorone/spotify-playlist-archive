@@ -478,7 +478,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 164840,
       "name": "Ain't No Money To Me",
       "url": "https://open.spotify.com/track/0dkUmCcsXnKflxBVSMl8vf"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 214177,
       "name": "Big Shit",
       "url": "https://open.spotify.com/track/33ABawsXB7kQr5pNr6TJkl"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 308297,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/0pTmH1pcEnoP2DJpYDWYEL"
@@ -2346,7 +2346,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 228340,
       "name": "Creed",
       "url": "https://open.spotify.com/track/7hPenGR0AKp8RgsuM01udu"
@@ -2462,7 +2462,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 220316,
       "name": "Daily",
       "url": "https://open.spotify.com/track/1ecMwAuEwHDVaqdj1Hwc2t"
@@ -3418,7 +3418,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 342857,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0szyootmNHZeYFlUS032rx"
@@ -3546,7 +3546,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 209162,
       "name": "Face Lift",
       "url": "https://open.spotify.com/track/4Pa1rpJAKx0c9PgM9TPqoH"
@@ -3796,7 +3796,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 171428,
       "name": "Floatin Back",
       "url": "https://open.spotify.com/track/6iwSRhpO9Pi6cccFzb3cCL"
@@ -4404,7 +4404,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 161906,
       "name": "Grace",
       "url": "https://open.spotify.com/track/1Lbk2D1067QeJL0Vxg3LxX"
@@ -4731,6 +4731,24 @@
     },
     {
       "album": {
+        "name": "SevenTray",
+        "url": "https://open.spotify.com/album/0yoUyXVfzE7weUl4Xd156p"
+      },
+      "artists": [
+        {
+          "name": "7eventray",
+          "url": "https://open.spotify.com/artist/4i4AKWzw4z8W3Ifpsggbvg"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203023,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1oV0utSTu36StGLpXQjRTV"
+    },
+    {
+      "album": {
         "name": "##loveletter2u",
         "url": "https://open.spotify.com/album/0x8lGAa470CAmXKsyi9IT5"
       },
@@ -4958,7 +4976,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 131362,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1oPA8J9IytAMdaxnTYr903"
@@ -5726,7 +5744,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-12",
+      "date_removed": null,
       "duration_ms": 147487,
       "name": "Juiced",
       "url": "https://open.spotify.com/track/0Qyee97v31Z2UwHs0L3VwX"
@@ -7084,7 +7102,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 172251,
       "name": "Metal On The Seat",
       "url": "https://open.spotify.com/track/0o6F53CZrybFJlqpy7FBpL"
@@ -7816,7 +7834,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 119040,
       "name": "No Mo",
       "url": "https://open.spotify.com/track/6PjU3fk35C41MZLHhjrE0c"
@@ -8254,7 +8272,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 209303,
       "name": "On them",
       "url": "https://open.spotify.com/track/11v4njemAXDVcqBIMdPJld"
@@ -8848,7 +8866,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-03",
+      "date_removed": null,
       "duration_ms": 177424,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/6dwGO4erTuRXY9sAdKajkd"
@@ -9097,6 +9115,24 @@
     },
     {
       "album": {
+        "name": "Rich & Reach",
+        "url": "https://open.spotify.com/album/1fZavQZJZ9OyGCwqL1w3Ks"
+      },
+      "artists": [
+        {
+          "name": "SOUNDMIRA",
+          "url": "https://open.spotify.com/artist/1FUFWe0FSaEIwq8fqAPlGS"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "Rich & Reach",
+      "url": "https://open.spotify.com/track/1qMLPKaRTZl1sTo11bjOUG"
+    },
+    {
+      "album": {
         "name": "Richard Mille",
         "url": "https://open.spotify.com/album/6PZmkfvP8TzzPGYPixft9i"
       },
@@ -9250,6 +9286,28 @@
       "duration_ms": 108148,
       "name": "RUTYNA",
       "url": "https://open.spotify.com/track/1bU1OjxOQHjIRJJlldYDuF"
+    },
+    {
+      "album": {
+        "name": "Rxtx",
+        "url": "https://open.spotify.com/album/1eGe4ROvLtNR5jOL7aXnLr"
+      },
+      "artists": [
+        {
+          "name": "General YS",
+          "url": "https://open.spotify.com/artist/5M9qFeoglnZW9H6UvAsge9"
+        },
+        {
+          "name": "Young Studio",
+          "url": "https://open.spotify.com/artist/0cfpg50LaCbHgjALErlWQC"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185418,
+      "name": "Rxtx",
+      "url": "https://open.spotify.com/track/04BdKRfsYz4MG6kXvXaH69"
     },
     {
       "album": {
@@ -9941,6 +9999,24 @@
     },
     {
       "album": {
+        "name": "Stacks on Stacks (Bloodline Beats VIP Mix)",
+        "url": "https://open.spotify.com/album/2CaLo8PJAcH1rwTJz2NA4o"
+      },
+      "artists": [
+        {
+          "name": "E-SKREEZ-E",
+          "url": "https://open.spotify.com/artist/3JyVO8w1fQNZp6wxdJjD2v"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109920,
+      "name": "Stacks on Stacks - Bloodline Beats VIP Mix",
+      "url": "https://open.spotify.com/track/7bEMzhIoVgsWTvokLqiCmj"
+    },
+    {
+      "album": {
         "name": "Clock In Trapped Out",
         "url": "https://open.spotify.com/album/6h0paFA3DFhZb03EiE3o0D"
       },
@@ -9952,7 +10028,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 163440,
       "name": "Stand On Ten",
       "url": "https://open.spotify.com/track/0e5rBnURTB3PTEJGvXw0zn"
@@ -10220,7 +10296,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 246857,
       "name": "Super H\u00e9ros",
       "url": "https://open.spotify.com/track/5tOnvReGGDw5mzv8niZoCG"
@@ -10260,7 +10336,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 207504,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/6xusUfCiFkFb91WXULdSly"
@@ -11130,7 +11206,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 235543,
       "name": "Tough Phase In Canada",
       "url": "https://open.spotify.com/track/6okqp3JQZyz5pW03xZGPcz"
@@ -12084,6 +12160,24 @@
       "duration_ms": 225824,
       "name": "Whip Hard",
       "url": "https://open.spotify.com/track/7xTAIkcBGrbyI2KY56l7Jg"
+    },
+    {
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/1ZuiTiuD8ymuTdHEgQ6dOB"
+      },
+      "artists": [
+        {
+          "name": "King kenny",
+          "url": "https://open.spotify.com/artist/56Gne1A58Xuyk371qTmZY9"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186734,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/2OkUMDqZZsI3TANO6aM4oK"
     },
     {
       "album": {

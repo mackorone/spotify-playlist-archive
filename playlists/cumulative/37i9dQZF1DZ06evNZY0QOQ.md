@@ -4,7 +4,7 @@
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-50 songs - 2 hr 33 min
+51 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [oliver kahn \(feat\. Boj\)](https://open.spotify.com/track/3eUi4fK8AxqpuAt086XBUv) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:52 | 2025-08-13 |  |
 | [permit me](https://open.spotify.com/track/0UdlBInYiNqclTU4bGm7dN) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:55 | 2025-08-13 |  |
 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 | 2025-08-13 |  |
+| [RIDE OR DIE?](https://open.spotify.com/track/2Tf0nTcooiuOWxflvDI3oI) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:01 | 2025-08-23 |  |
 | [samson and delilah \(feat\. Mayra Andrade\)](https://open.spotify.com/track/0grBASdhUSTmeDA0ejensM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:14 | 2025-08-13 |  |
 | [say no more](https://open.spotify.com/track/6b6KwJ5Ig1SmOKM9cD3Bem) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:40 | 2025-08-13 |  |
 | [Shakara](https://open.spotify.com/track/5XeMITYsLdefeCB0Q1RVOU) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:20 | 2025-08-13 |  |
@@ -53,7 +54,7 @@
 | [Skoin Skoin \(feat\. Bianca Costa\)](https://open.spotify.com/track/55Rnsl2V2IjPf7wiwCyEFq) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:53 | 2025-08-13 |  |
 | [tey tey](https://open.spotify.com/track/2rnfU3akycNpzV0hSXdkGG) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The Second](https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf) | 2:52 | 2025-08-13 |  |
 | [Trumpet](https://open.spotify.com/track/3Q3cmIGrJM7fDpXdo0gEPG) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 3:08 | 2025-08-13 |  |
-| [VANITY \(Feat\. Olamide\)](https://open.spotify.com/track/1kE0EBcPWWrYuA3uv4E8p8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:28 | 2025-08-13 |  |
+| [VANITY \(Feat\. Olamide\)](https://open.spotify.com/track/1kE0EBcPWWrYuA3uv4E8p8) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:28 | 2025-08-13 | 2025-08-23 |
 | [WAHALA \(feat\. Olamide\)](https://open.spotify.com/track/0bkq8SCKDRY1RBFKIADCQK) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 2:50 | 2025-08-13 |  |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 5:05 | 2025-08-13 |  |
 | [Wayeh \(feat\. CKay\) \- Remix](https://open.spotify.com/track/4Q0JF3miNPe7vYj3MPQo9t) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Wayeh \(feat\. CKay\) \[Remix\]](https://open.spotify.com/album/3heqtgQOgtvpVvTQomcBAo) | 2:30 | 2025-08-13 |  |

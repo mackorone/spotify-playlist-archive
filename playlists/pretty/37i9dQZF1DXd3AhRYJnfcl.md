@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 > أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف:  تووليت
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,697 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,058 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 46 | [يا قلبي مين](https://open.spotify.com/track/4mcgWfZFzMIy27RJqVjvkH) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [يا قلبي مين](https://open.spotify.com/album/34YHpsLorhfJDkBPS2bEyk) | 3:02 |
 | 47 | [Ta3ala Adalla3ak](https://open.spotify.com/track/3LXPZvEHf0vhgFKs4giHSS) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 3:31 |
 | 48 | [Emshy](https://open.spotify.com/track/1VQx8TpKEv8uWQ1awwPX5f) | [Tommy Gun](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l), [Rally](https://open.spotify.com/artist/61suwIK2ayrvQ9awCNEKfy) | [El Rwaya](https://open.spotify.com/album/2uoPClqaphvHQd6zqtF8M2) | 3:11 |
-| 49 | [توأمي](https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [توأمي](https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu) | 3:34 |
-| 50 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
-| 51 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 |
+| 49 | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/track/72QK9YQ9EFco9G9eGTaHlA) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF), [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [لوحدي في المكان من فيلم ٦ أيام](https://open.spotify.com/album/358XYlavUBk8EpZfU65SrP) | 4:04 |
+| 50 | [أول حب](https://open.spotify.com/track/6m686JPy4eKbumXZ3Unf4n) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [أول حب](https://open.spotify.com/album/63ataOFd510uJ8XnLyW1WF) | 3:52 |
 
 Snapshot ID: `AAAAANLqSS3YAxOWfoUADIBqfXlzbPuS`

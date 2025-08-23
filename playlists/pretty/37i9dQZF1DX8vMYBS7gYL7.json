@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 55408,
+  "num_followers": 55450,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
         "name": "God's Project",
         "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 307933,
       "name": "Ciego De Amor - Featuring Anthony Santos",
       "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
     },
     {
       "added_at": "2024-09-06 21:17:56",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-09-06 21:17:56",
       "album": {
-        "name": "Generation Next",
-        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Cuando Volveras",
-      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
-    },
-    {
-      "added_at": "2024-09-06 21:17:56",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 286466,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl"
+    },
+    {
+      "added_at": "2024-09-06 21:17:56",
+      "album": {
+        "name": "Generation Next",
+        "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Cuando Volveras",
+      "url": "https://open.spotify.com/track/7vXKZJy7buchKnncu1meOh"
     },
     {
       "added_at": "2024-09-06 21:17:56",

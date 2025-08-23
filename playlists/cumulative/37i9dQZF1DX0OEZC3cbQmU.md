@@ -2,7 +2,7 @@
 
 ### [Sucessos Gospel](https://open.spotify.com/playlist/37i9dQZF1DX0OEZC3cbQmU)
 
-> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Israel Salazar
+> A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
 182 songs - 19 hr 5 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: 정우\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,007 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,034 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 24 | [Dear](https://open.spotify.com/track/2ryzy7LSXUDFg5G05znHsL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [3rd Mini Album 'In a million noises, I'll be your harmony'](https://open.spotify.com/album/1kOSueM1uqixinJjvk6ivV) | 3:22 |
 | 25 | [She's In The Rain](https://open.spotify.com/track/43NeZM2TbrQr6djoAnDyVo) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Dawn](https://open.spotify.com/album/4Zd5O0llwgfmpJoZOeKWiQ) | 3:57 |
 | 26 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 |
-| 27 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
-| 28 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
+| 27 | [Shoot Me](https://open.spotify.com/track/5XZ4yL24BLKkysf4muf4yQ) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/2dYvMxAaLu8LBiHjwQElcg) | 2:55 |
+| 28 | [To Reach You](https://open.spotify.com/track/20QI1DhCFz7pN8rATkNguv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [To Reach You](https://open.spotify.com/album/6cSbfbsVtQpnvFcRsYru1P) | 2:38 |
 | 29 | [Awake](https://open.spotify.com/track/3gxNkvcP8scSzL6mGznTn3) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Wings](https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF) | 3:46 |
 | 30 | [Sorry](https://open.spotify.com/track/7w4uUETSzQHNItfRI8w2MA) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Void](https://open.spotify.com/album/7MVDBgukYtYUtFA9a5QKYn) | 3:35 |
 | 31 | [Farewell for now!](https://open.spotify.com/track/4N9ges2SfrZcvO7J1zj2EH) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Episode 25](https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx) | 3:27 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 42 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 |
 | 43 | [Zombie](https://open.spotify.com/track/0vPLEyGAlxDAMxFvnwHgUB) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/6nLZ4KhjJSdxag9cDIFHhJ) | 3:29 |
 | 44 | [WAY 4 LUV](https://open.spotify.com/track/1T6xi2QrnmwaebXGvWAjLg) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 3:39 |
-| 45 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 45 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
 | 46 | [O](https://open.spotify.com/track/3znyY1uJaVlB8DBypreIhP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [WRLD](https://open.spotify.com/album/3TCF95qK3XaMBjmEuXwQHQ) | 4:42 |
-| 47 | [STAY](https://open.spotify.com/track/1dR5StkkOjZEXEgrC7AlVY) | [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [ENTITY](https://open.spotify.com/album/0aEUnGgi7O8zqqrH8ADg7E) | 2:53 |
-| 48 | [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 |
+| 47 | [Forever Has Always Been](https://open.spotify.com/track/3tbHqU6PKS2bIGWx9cn082) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Forever Has Always Been](https://open.spotify.com/album/4zbGo5oU2rocTxouxbt6Df) | 3:57 |
+| 48 | [Escape to Me](https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Fermata](https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX) | 3:07 |
 | 49 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 |
-| 50 | [Escape to Me](https://open.spotify.com/track/4TpP0C0g138XLBytuduE0m) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Fermata](https://open.spotify.com/album/3v1d74UUOHYRVZV01vvuhX) | 3:07 |
+| 50 | [D\-DAY](https://open.spotify.com/track/6NmLAub5n0Ol4hwYlGVdiw) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Head over Heels, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/1gCYdqywMDYyYLn9xZh6Df) | 3:11 |
 
 Snapshot ID: `AAAAAAPDFT7RRgn7jJR/x+2Z48BnyXNE`

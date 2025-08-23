@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: Deftones
 
-1,078 songs - 2 day 12 hr 5 min
+1,079 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-01-13 | 2023-04-28 |
 | [Groundhog Day](https://open.spotify.com/track/2ko8dvhLWtjJLpVRP0MsSy) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Groundhog Day](https://open.spotify.com/album/2ex4Ft73QrAjK7oFwwejjH) | 1:50 | 2023-02-24 | 2023-04-14 |
 | [Guided Tour](https://open.spotify.com/track/5libQaNWi39sL1255ivVwK) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/2EPW5FoYv2KNrlR58Shsnl) | 4:25 | 2024-10-17 | 2025-02-07 |
+| [Guiding Lights](https://open.spotify.com/track/65QPpi3wnDr1MPBd6OXxLM) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Inertia](https://open.spotify.com/album/0ABVcWFqeuzlCL1feJjPjs) | 4:24 | 2025-08-22 |  |
 | [Guilt Trip](https://open.spotify.com/track/57NzBTMEV8fY1woLsZ6Tkz) | [The Reytons](https://open.spotify.com/artist/3RHoFGKe6KE3LLml7ujPKJ) | [Guilt Trip](https://open.spotify.com/album/2G8GjoWQ6B8GFsbpQgkNAk) | 3:10 | 2025-07-17 | 2025-08-08 |
 | [Ha Ha Ha](https://open.spotify.com/track/13psHLwbqlx8k9OHmBVL58) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [The Haar](https://open.spotify.com/album/6vIAztJq10ISkgZFTFHAnH) | 3:44 | 2025-03-07 | 2025-06-20 |
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2023-03-08 | 2023-03-09 |
@@ -795,7 +796,7 @@
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-07 | 2025-06-13 |
 | [Saturation Diver](https://open.spotify.com/track/79HEZpg8JmxYG8C0qqe8rM) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [IV](https://open.spotify.com/album/413WyMq0ASr1awKpaZ017l) | 3:37 | 2025-08-07 |  |
 | [Save Me](https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Save Me](https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh) | 3:34 | 2024-05-23 | 2024-06-14 |
-| [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-29 |  |
+| [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-29 | 2025-08-23 |
 | [Save Yourself](https://open.spotify.com/track/6WzCxOM8cWenEYQBP6uBXs) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Fear Life For A Lifetime](https://open.spotify.com/album/0HifEAI3ySV5P2O8LhAkzy) | 3:24 | 2024-07-12 | 2024-10-18 |
 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-22 | 2024-11-15 |
 | [Scars](https://open.spotify.com/track/3NS2fGOYcpn4gBGiCHSIRN) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Scars](https://open.spotify.com/album/65VaYUp0OcM5me4nEsWet0) | 3:35 | 2024-04-25 | 2024-06-01 |

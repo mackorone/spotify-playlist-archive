@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,011 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,026 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 90 | [Meneaito](https://open.spotify.com/track/4Cy1wIbi2TGoiCBXE9qBID) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Meneaito](https://open.spotify.com/album/7nAYBo6ma8p4sGj9cig5Bb) | 2:39 |
 | 91 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 | 92 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
-| 93 | [Iarta\-ma Mamo](https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Iarta\-ma Mamo](https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL) | 2:31 |
-| 94 | [Îmi place când \- From "Situationship"](https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Îmi place când \(From "Situationship"\)](https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT) | 2:26 |
-| 95 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
+| 93 | [Ancora](https://open.spotify.com/track/1f10V97lhKIRK5rW2aS6iH) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Ancora](https://open.spotify.com/album/0jqONN6IGgRduCbg0Oyuan) | 3:25 |
+| 94 | [Iarta\-ma Mamo](https://open.spotify.com/track/2i0DSjfHPgz3dQUcRbMhag) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Iarta\-ma Mamo](https://open.spotify.com/album/3s7obFL6LtELRmf9XTpHxL) | 2:31 |
+| 95 | [Îmi place când \- From "Situationship"](https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Îmi place când \(From "Situationship"\)](https://open.spotify.com/album/0GRF58upfhbiVSc3OnNOPT) | 2:26 |
 | 96 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
-| 97 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
-| 98 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 |
+| 97 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:29 |
+| 98 | [Vorba Francezului \- From "Buzz House" The Movie](https://open.spotify.com/track/1lb1SBZXMocgE9O93dfxRr) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Sheik](https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW) | [Vorba Francezului \(From "Buzz House" The Movie\)](https://open.spotify.com/album/5JAP6CrNvHpfmD29ml9wB6) | 2:39 |
 | 99 | [Să nu uiți cât te\-am iubit](https://open.spotify.com/track/5On1Z1lSOxRzTQ2N0aOTd6) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Să nu uiți cât te\-am iubit](https://open.spotify.com/album/2n4MW7lUkeIxZx5P4BmWQS) | 3:16 |
 | 100 | [Love Is The Answer](https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Love Is The Answer](https://open.spotify.com/album/6E0StAsD48K97p78ytR0yD) | 3:32 |
 

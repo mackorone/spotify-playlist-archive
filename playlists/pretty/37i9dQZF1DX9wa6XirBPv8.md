@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849,425 likes - 125 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,849,674 likes - 125 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 45 | [Cute Without The 'E' \(Cut From The Team\)](https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:31 |
 | 46 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
 | 47 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
-| 48 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
-| 49 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
+| 48 | [Smile In Your Sleep](https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:13 |
+| 49 | [A Boy Brushed Red Living In Black And White](https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:28 |
 | 50 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 |
-| 51 | [Smile In Your Sleep](https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:13 |
+| 51 | [The Great Escape](https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68) | 3:26 |
 | 52 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
 | 53 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |
 | 54 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
@@ -126,12 +126,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 116 | [I Want To Hear You Sad](https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [For All Of This](https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk) | 3:30 |
 | 117 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
 | 118 | [Art Is Hard](https://open.spotify.com/track/2WaPENhrq1MEy1qk6iKnCh) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [The Ugly Organ](https://open.spotify.com/album/3ZoVW62G8g8GC0yzpXOcKz) | 2:46 |
-| 119 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 |
-| 120 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
+| 119 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
+| 120 | [Aside](https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Left and Leaving](https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe) | 3:21 |
 | 121 | [Match & Tinder](https://open.spotify.com/track/1M5F0iablulCzXqiFSyRHI) | [You Blew It!](https://open.spotify.com/artist/3jvWpZJpokYCoT0QV4OJg0) | [Keep Doing What You're Doing](https://open.spotify.com/album/6CIF1X6UWZeUzsOEv1GzpH) | 2:39 |
 | 122 | [Summer](https://open.spotify.com/track/6IJPRTfpS3CkUy67iNCnIg) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Maybe This Place Is The Same And We're Just Changing](https://open.spotify.com/album/15hosvWOCdHKAhXNomH9Ln) | 3:21 |
 | 123 | [Coffee](https://open.spotify.com/track/3kfAwtNyAYduUt1jhxDKZQ) | [Copeland](https://open.spotify.com/artist/31HpswGOiF0Mc2wm11sIoN) | [Beneath Medicine Tree](https://open.spotify.com/album/2A3RTuMZ7RgGmcvTSpRe6A) | 4:46 |
 | 124 | [Is This Thing On?](https://open.spotify.com/track/5dgyKLZKxfreuDaDQwEj9U) | [The Promise Ring](https://open.spotify.com/artist/5li5GfWFVl73vu7r2bGitu) | [Nothing Feels Good](https://open.spotify.com/album/3jnvo99sNDXcVdlJmrDXOO) | 3:37 |
 | 125 | [The Season](https://open.spotify.com/track/67mSnPBrCNWevJjLplCW66) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [The Season](https://open.spotify.com/album/2mWwk4gv1U8BneOTqlgQTT) | 3:35 |
 
-Snapshot ID: `AAAAAN0LyohAmWUJNQNvFhLGuMkiFO0p`
+Snapshot ID: `AAAAABvu73wcKV8xDTt7sp9Ln+W5hT2h`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,298 likes - 69 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,313 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 27 | [Drinkee \- Radio Edit](https://open.spotify.com/track/1hWN9FB6Lxnqt2ij8uPH8V) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Drinkee \(Radio Edit\)](https://open.spotify.com/album/1e2Fq1cdld2yJJC0aMPkOK) | 3:11 |
 | 28 | [Yesteryear](https://open.spotify.com/track/1sTLwB34FW4Yqvjsz5tset) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 |
 | 29 | [In Her Eyes](https://open.spotify.com/track/4JtbUXLuBb8C7q1x7B54ZY) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [In Her Eyes](https://open.spotify.com/album/3R5YCyAaqLEI3UOT38l5ik) | 2:54 |
-| 30 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 |
-| 31 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
+| 30 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
+| 31 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 |
 | 32 | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng) | 3:25 |
 | 33 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 34 | [Se Eu Soubesse](https://open.spotify.com/track/0T7iwFLmkeKuKvFdtUTKGe) | [Viratempo](https://open.spotify.com/artist/4UAqPe3DNOIDTa8bEGWPwL) | [Cura](https://open.spotify.com/album/36gSxdh6pbt9G4D4SofNIt) | 3:37 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 36 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
 | 37 | [Las Vegas](https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Las Vegas](https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc) | 4:16 |
 | 38 | [El Big Bang](https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Big Bang](https://open.spotify.com/album/21sw5hm7AanjSg7mZrBYxz) | 4:03 |
-| 39 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 |
+| 39 | [Estrella](https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Estrella](https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8) | 3:18 |
 | 40 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/1GKuPo0TX5QNB7allLYSa1) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/1mGTbl8vSVXxpMJPD6OEfo) | 4:29 |
 | 41 | [Los Buenos Tiempos](https://open.spotify.com/track/6mSzSTjVWDsXEsUuCEqKWF) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Juan Astronauta](https://open.spotify.com/artist/4pcBzfDpLQElWkjEif8BI3), [Solo Valencia](https://open.spotify.com/artist/2ZDmVE82uDUSsXwPnjr2xH) | [Máquina Yin Yang](https://open.spotify.com/album/3to9oi39PyJrayxZ3MuY5x) | 4:34 |
 | 42 | [Algo De Verdad](https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Algo De Verdad](https://open.spotify.com/album/7CqpPvnqNYpAXsGI9YkdkV) | 2:27 |
 | 43 | [Eleuthera \- Catching Flies Remix](https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd) | 4:23 |
-| 44 | [Estrella](https://open.spotify.com/track/5Em20E8sYoTYD5EwWu5g6i) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Estrella](https://open.spotify.com/album/3Lm2jXx9QAGyyIrmcawSU8) | 3:18 |
+| 44 | [Viento](https://open.spotify.com/track/10YxtMOKTJzbeNITBrgjTT) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Viento](https://open.spotify.com/album/4cat7GFdLkaz3H8oQ6KkY9) | 2:48 |
 | 45 | [THREE STRIKES \(feat\. Khalid\) \- TSHA remix](https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f) | 4:26 |
 | 46 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
 | 47 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |

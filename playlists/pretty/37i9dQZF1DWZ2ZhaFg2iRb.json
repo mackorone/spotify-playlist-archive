@@ -1,12 +1,12 @@
 {
   "description": "Hity, kter\u00e9 t\u011b povzbud\u00ed a nalad\u00ed na vlnu dobr\u00e9 n\u00e1lady.",
-  "num_followers": 36160,
+  "num_followers": 36242,
   "original_name": "Vlna Radosti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIgwTf+inCSSDp4q3mbjjOfvgGI7",
+  "snapshot_id": "AAAAAJmBUKL4w5U5xuTTC4Hv+QZnbUSe",
   "tracks": [
     {
       "added_at": "2025-08-07 05:25:47",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-08-07 05:25:47",
       "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+    },
+    {
+      "added_at": "2025-08-07 05:25:47",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2025-08-07 05:25:47",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2025-08-07 05:25:47",

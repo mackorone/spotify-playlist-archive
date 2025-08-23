@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Chance The Rapper",
+  "description": "The Midwest is always on time. Cover: LUCKI",
   "name": "CST",
   "tracks": [
     {
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 192883,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/4jKQqFAzMOHzI6VpNUuiXJ"
@@ -4702,7 +4702,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 148297,
       "name": "Certified Shit Talker",
       "url": "https://open.spotify.com/track/3u8k6ipVAwvWJItJ9IcQor"
@@ -6046,7 +6046,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 149711,
       "name": "Diamond Stitching",
       "url": "https://open.spotify.com/track/1cVDuG58Cj3RGe8ySKwY6i"
@@ -6690,7 +6690,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 118569,
       "name": "Eat",
       "url": "https://open.spotify.com/track/1JSIir6wqai8WnWhgN8sca"
@@ -10255,6 +10255,28 @@
     },
     {
       "album": {
+        "name": "Samurai DX",
+        "url": "https://open.spotify.com/album/63I6z4nAbUE4Q3sMiJjJAG"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        },
+        {
+          "name": "Luv Moore",
+          "url": "https://open.spotify.com/artist/705QcQplV3yNmmRIBOpjnS"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235432,
+      "name": "High Note (feat. Luv Moore)",
+      "url": "https://open.spotify.com/track/41Z9lE5UD4SW09lpHiY358"
+    },
+    {
+      "album": {
         "name": "HIMSKI",
         "url": "https://open.spotify.com/album/4a9GRSayEVRnjUjqnnS95F"
       },
@@ -11028,6 +11050,28 @@
       "duration_ms": 91076,
       "name": "I Did It",
       "url": "https://open.spotify.com/track/2MJhqFTUvDko02kknVHYFA"
+    },
+    {
+      "album": {
+        "name": "I Don't Care...",
+        "url": "https://open.spotify.com/album/1utha3BJLakow5UUB8fdYM"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215031,
+      "name": "I Don't Care...",
+      "url": "https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq"
     },
     {
       "album": {
@@ -12126,7 +12170,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 119363,
       "name": "It's On",
       "url": "https://open.spotify.com/track/1GtDmafziV59p2jElR2SqJ"
@@ -12748,6 +12792,28 @@
       "duration_ms": 177230,
       "name": "KNIGHT CRAWLER (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w"
+    },
+    {
+      "album": {
+        "name": "FENDI VS FENDO (Expanded)",
+        "url": "https://open.spotify.com/album/7dfrnYZPwVv7ZBq3JQFwsP"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "Myaap",
+          "url": "https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Knock Knock (feat. Myaap)",
+      "url": "https://open.spotify.com/track/5FNwEb8ZcavTVtTBt0OVF1"
     },
     {
       "album": {
@@ -15498,7 +15564,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 127799,
       "name": "Naw Yea Fr",
       "url": "https://open.spotify.com/track/68hUboJxMi6wXspgEndXx3"
@@ -16753,6 +16819,24 @@
     },
     {
       "album": {
+        "name": "Onnat Biz",
+        "url": "https://open.spotify.com/album/7akwVNiCbePQQgvLdFShGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129149,
+      "name": "Onnat Biz",
+      "url": "https://open.spotify.com/track/1FEdqLSnstw0OSGjvrjy4q"
+    },
+    {
+      "album": {
         "name": "Oowop Guwop",
         "url": "https://open.spotify.com/album/1VfRutyYv8Y25TmcfeUP9i"
       },
@@ -16790,6 +16874,24 @@
       "duration_ms": 130632,
       "name": "Opera",
       "url": "https://open.spotify.com/track/7vClKaQbBBJAmkuw3bkx3x"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3yIoR95GUrZRdQr4HujvaF"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176369,
+      "name": "Opiate",
+      "url": "https://open.spotify.com/track/2vIxd21sesIFNmCR86rFtm"
     },
     {
       "album": {
@@ -19250,6 +19352,24 @@
       "duration_ms": 222311,
       "name": "Road Dogg Skuba James",
       "url": "https://open.spotify.com/track/5PWGnJaH63jarICHqLK2Mp"
+    },
+    {
+      "album": {
+        "name": "Road Rage",
+        "url": "https://open.spotify.com/album/4UZaJMw7AoQluQdKEOMxZW"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "Road Rage",
+      "url": "https://open.spotify.com/track/4IBvIxCINrMNLyy8RUdAB3"
     },
     {
       "album": {
@@ -21991,6 +22111,24 @@
     },
     {
       "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/3MuRctZWy2X7cmPS9BFEAS"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134479,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/0vPT0Xkj7mdlXWELEhAKJ2"
+    },
+    {
+      "album": {
         "name": "Step 1",
         "url": "https://open.spotify.com/album/5FK1c1mPSV1qVlrP3STXYf"
       },
@@ -22502,7 +22640,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 126467,
       "name": "Super P",
       "url": "https://open.spotify.com/track/7h1vyu38eNzLsqq4u9bBRa"

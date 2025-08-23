@@ -2,9 +2,9 @@
 
 ### [Volume Máximo](https://open.spotify.com/playlist/37i9dQZF1DX4908CEYEdlz)
 
-> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Simple Plan
+> Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Twenty One Pilots
 
-378 songs - 23 hr 6 min
+380 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ballyhoo](https://open.spotify.com/track/6Gfxs9YRSHZH6g53mcsHRZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Ballyhoo](https://open.spotify.com/album/4YgpNAv2LjHEcPX2L4rtV3) | 2:45 | 2025-05-02 | 2025-05-17 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2022-01-14 | 2022-10-01 |
 | [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 | 2023-11-03 | 2024-04-19 |
-| [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-05-19 |  |
+| [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-05-19 | 2025-08-23 |
 | [Bitter](https://open.spotify.com/track/5dpaPvjs0mo0DGtpl2PzRJ) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE) | [Bitter](https://open.spotify.com/album/0Aw2OPlsqTl8LSXIB7q1BI) | 3:05 | 2022-09-02 | 2024-01-27 |
 | [Bitterness](https://open.spotify.com/track/570zBdab8qenUWMccosa9R) | [Mandragora](https://open.spotify.com/artist/2AJTjZn2L77z1FSxBasjhM) | [Nocturnal Rites](https://open.spotify.com/album/6v9DaYjPOaUgzIZtZtQ42q) | 7:16 | 2022-05-27 | 2022-10-15 |
 | [Black Lungs](https://open.spotify.com/track/1nIw3ohgilArczHubneGxD) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Black Lungs](https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE) | 3:51 | 2022-01-14 | 2022-06-04 |
@@ -99,6 +99,7 @@
 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 | 2023-09-15 | 2024-11-23 |
 | [Dregs of the Wine](https://open.spotify.com/track/1NLuc6L2PhmFiSJK1zoFb6) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Dregs of the Wine](https://open.spotify.com/album/7AqFnCeN3Q3wvSuw36cAfD) | 3:29 | 2022-09-09 | 2022-10-29 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 | 2023-09-30 |
+| [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-22 |  |
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-03-04 | 2022-03-26 |
 | [Dulcería](https://open.spotify.com/track/52beyXaBj0xcpTbwMPH8dN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Dulcería / Far Too Near](https://open.spotify.com/album/56AxTub06lzDBhqADOsGD7) | 4:53 | 2022-01-14 | 2022-04-29 |
 | [Dummy \(with Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 2:22 | 2022-07-01 | 2022-08-27 |
@@ -144,7 +145,7 @@
 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 | 2022-01-14 | 2025-06-28 |
 | [Frenzy](https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Frenzy](https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk) | 3:00 | 2022-10-28 | 2023-07-22 |
 | [Fuck Off](https://open.spotify.com/track/52L8TAHmnao8FWoMiOj9hZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/6j1TdmSs8ROkx7pDBwSJrO) | 2:03 | 2025-05-23 |  |
-| [Fuck Off \- FIDLAR Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 | 2025-06-06 |  |
+| [Fuck Off \- FIDLAR Alt Mix](https://open.spotify.com/track/65yJ2gJrgy5cCR6LAPhbac) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Saviors \(édition de luxe\)](https://open.spotify.com/album/1igXRGGxaDbShzcMrfzRCp) | 2:09 | 2025-06-06 | 2025-08-23 |
 | [future](https://open.spotify.com/track/1Tu1eZLylyidCJgUPcVqwj) | [Far From Alaska](https://open.spotify.com/artist/1ztNPX8z169arfAY0TWFLB), [Yung Buda](https://open.spotify.com/artist/34JhhuxlkDFSA5ek4AuZOp) | [future](https://open.spotify.com/album/3DVz85WINTS7vaNXLtOQb4) | 2:16 | 2023-03-10 | 2023-04-01 |
 | [game](https://open.spotify.com/track/4m3yaLdrw9E8cfpXmYiUM9) | [Odeon](https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt) | [game](https://open.spotify.com/album/5vOHcm81OJgROOZP0B0fe2) | 3:22 | 2022-01-14 | 2022-01-29 |
 | [Generais De Fralda](https://open.spotify.com/track/1Zyl4XBTV72Ip1d9Xocrk4) | [Mukeka di Rato](https://open.spotify.com/artist/2WEABapGGzYET6Dq5tmIDi) | [Generais de Fralda](https://open.spotify.com/album/7qykDoupr9TCpy0Yx46679) | 1:14 | 2025-05-16 | 2025-07-12 |
@@ -177,6 +178,7 @@
 | [I'd Rather Die Than Let You In](https://open.spotify.com/track/1fufYQ0Tz8QOXMGQ3MEyot) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [I'd Rather Die Than Let You In](https://open.spotify.com/album/6u34jktTRXSNEWTJgqU8L9) | 3:10 | 2022-01-14 | 2022-02-19 |
 | [Iconic](https://open.spotify.com/track/7oTImlbBuKpTLi8hokqYR1) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:05 | 2022-05-06 | 2022-07-02 |
 | [In Situ](https://open.spotify.com/track/7LVck898vegWlmM0Rwc81Z) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Alpha Games](https://open.spotify.com/album/12I46H1wjhsfOdf8iEETlB) | 2:55 | 2022-04-29 | 2022-06-11 |
+| [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-22 |  |
 | [It's good to be back \- Metronomy x Panic Shack](https://open.spotify.com/track/7cmv2VrzPsqGopOhAWseUq) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [It's good to be back](https://open.spotify.com/album/7jOycXVNmMBrsJHjjxBhEr) | 3:15 | 2022-11-11 | 2023-03-11 |
 | [Jaded](https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif) | 4:22 | 2023-09-15 | 2023-11-18 |
 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 | 2023-11-17 | 2024-02-17 |

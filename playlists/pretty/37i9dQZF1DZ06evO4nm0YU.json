@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 178496,
+  "num_followers": 178545,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACZzzRbUR9w64nI9B7e74xi",
+  "snapshot_id": "aKZhgAAAAACtCMrGvJkBBFUFyjItp21B",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hustler",
-        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+        "name": "Revent\u00f3",
+        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
       "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 317813,
-      "name": "Eso Se Baila As\u00ed",
-      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+      "duration_ms": 387600,
+      "name": "D\u00e9jala Que Siga",
+      "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
     },
     {
       "added_at": null,
@@ -671,8 +667,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revent\u00f3",
-        "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
+        "name": "The Hustler",
+        "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 317813,
+      "name": "Eso Se Baila As\u00ed",
+      "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 387600,
-      "name": "D\u00e9jala Que Siga",
-      "url": "https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9"
+      "duration_ms": 282800,
+      "name": "Plato De Segunda Mesa",
+      "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 316680,
       "name": "Pira\u00f1a",
       "url": "https://open.spotify.com/track/2SdrV0mPzc8UZ89a3Eg1z6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 282800,
-      "name": "Plato De Segunda Mesa",
-      "url": "https://open.spotify.com/track/0urCMoVOripqfDJYQbdNAq"
     },
     {
       "added_at": null,
@@ -839,38 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "Para\u00edso De Dulzura",
-      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 163440,
-      "name": "Consejo De Oro",
-      "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 337680,
       "name": "No Me Llores M\u00e1s",
       "url": "https://open.spotify.com/track/74SLiN21pdSJEktbjyjO5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2qGOhy0tSbvClnQhgBkkoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 163440,
+      "name": "Consejo De Oro",
+      "url": "https://open.spotify.com/track/4q602p7jJb8JLto5BAhRwa"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 402120,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/0sIS4B5SgYURmXGvYOZYKH"
+      "duration_ms": 211200,
+      "name": "Comedia",
+      "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

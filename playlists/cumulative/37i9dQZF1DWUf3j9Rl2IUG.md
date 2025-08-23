@@ -2,9 +2,9 @@
 
 ### [Gbedu](https://open.spotify.com/playlist/37i9dQZF1DWUf3j9Rl2IUG)
 
-> Afrobeats' hottest singles\. Cover: D'Banj, DJ Maphorisa, Dj Obi
+> Afrobeats' hottest singles\. Cover: Blaqbonez
 
-541 songs - 1 day 1 hr 36 min
+543 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Dupe](https://open.spotify.com/track/2fFMt9ZyCKbKu6ykv2VMlD) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ) | [Dupe](https://open.spotify.com/album/7FP7FNxXOiZGu4EMvislxE) | 2:21 | 2023-02-03 | 2023-02-10 |
 | [Ebelebe](https://open.spotify.com/track/7mDVlwNJ0pY6xOmDn7D7u3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Skiibii](https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Ebelebe](https://open.spotify.com/album/2EViC0HI5jyqtpa6kpqhpY) | 2:52 | 2024-02-23 | 2024-03-01 |
 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 | 2023-05-19 | 2024-07-12 |
+| [Eburuje](https://open.spotify.com/track/2V5Hp9bz45xa7tlXmt35PB) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Eburuje](https://open.spotify.com/album/1EuuhTGEwwuq77GKhiBgYX) | 2:15 | 2025-08-22 |  |
 | [EFCC](https://open.spotify.com/track/5qFSNLIxAPu80gaunwvUpk) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Mamapiano](https://open.spotify.com/album/70HZ6HLsOmoGKYGhit4Frr) | 3:18 | 2023-12-15 | 2024-01-16 |
 | [Egopiano](https://open.spotify.com/track/26YBTrjCLaPr5avB5N5z8n) | [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Egopiano](https://open.spotify.com/album/3iZ46zFRy42LAYtMP6yL0A) | 2:31 | 2023-11-10 | 2023-12-08 |
 | [EGOWO](https://open.spotify.com/track/6gdDLIe1QvzRWccKs2CrJ9) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm) | [EGOWO](https://open.spotify.com/album/7d5X7Gd0UecwGxuoEIT5Zh) | 2:39 | 2024-07-26 | 2024-09-10 |
@@ -172,6 +173,7 @@
 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 | 2025-06-23 |  |
 | [Escaladizzy II](https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Escaladizzy II](https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu) | 3:33 | 2025-08-08 |  |
 | [Escape](https://open.spotify.com/track/2syWCWxrwfqBqBLKMRCb1N) | [Novemba](https://open.spotify.com/artist/2Eiiy3N1dxC8elC8kIkoHJ) | [Escapade](https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke) | 3:14 | 2023-02-03 | 2023-03-03 |
+| [Everlasting Taker](https://open.spotify.com/track/4fuLcIzYkc6MtFc09GG1mZ) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Everlasting Taker](https://open.spotify.com/album/2KDt3GJumWApNjXbGBaWH6) | 1:58 | 2025-08-22 |  |
 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 | 2024-05-03 | 2025-04-01 |
 | [Everything](https://open.spotify.com/track/4zqRu31aWCiHeYMw9GptOO) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Everything](https://open.spotify.com/album/1WxjIKagr1Vgwk6XTxYh7X) | 2:46 | 2024-02-09 | 2024-11-16 |
 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-12 | 2024-06-28 |
@@ -350,10 +352,10 @@
 | [Most Wanted](https://open.spotify.com/track/5rFZHAhav5kGsSAKtQHRHq) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Most Wanted](https://open.spotify.com/album/1PVWEuIW46WKRMtBnNu0Hv) | 2:22 | 2025-04-07 | 2025-07-30 |
 | [Move](https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Move](https://open.spotify.com/album/3Nt7p3GrkB4QeT1AKONY8U) | 2:30 | 2022-06-09 | 2023-01-28 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-25 |  |
-| [Mr Caesar](https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Big Fearless](https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO) | [Mr Caesar](https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1) | 2:19 | 2025-03-07 |  |
+| [Mr Caesar](https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [Big Fearless](https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO) | [Mr Caesar](https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1) | 2:19 | 2025-03-07 | 2025-08-23 |
 | [Mukutu](https://open.spotify.com/track/71d4wliLLDL2fhUcwalp11) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Mukutu](https://open.spotify.com/album/4Q2pEBNlOZAhdIDdtOZI2Z) | 2:35 | 2025-04-11 | 2025-07-05 |
 | [Mumu](https://open.spotify.com/track/05bS6TTT5lXiDfOS4dcAc4) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Mumu](https://open.spotify.com/album/4veZM4ncERJNqsXZ6ASWeU) | 2:53 | 2023-10-13 | 2024-03-01 |
-| [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 |  |
+| [Mwah!](https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Mwah!](https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ) | 2:08 | 2025-04-11 | 2025-08-23 |
 | [My Amigo](https://open.spotify.com/track/06ANwmMgiOcgBtaxFiPuKk) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [My Amigo](https://open.spotify.com/album/4qoO1TD2bb8DHOeB2EArUj) | 2:40 | 2025-07-04 |  |
 | [My Brother](https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [My Brother](https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6) | 2:38 | 2023-10-17 | 2024-01-26 |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-04-02 |  |

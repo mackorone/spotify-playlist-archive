@@ -2,7 +2,7 @@
 
 ### [New Ambient](https://open.spotify.com/playlist/37i9dQZF1DX9c7yCloFHHL)
 
-> The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Jefre Cantu\-Ledesma
+> The cutting edge in new and contemporary Ambient, Atmospheric and Neo\-Classical\. On cover: Malibu
 
 1,518 songs - 4 day 23 hr 29 min
 

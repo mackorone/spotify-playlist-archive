@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Stripped back vibes. Cover: Alex Isley",
+  "description": "Stripped back vibes. Cover:  Lekan",
   "name": "Acoustic Soul",
   "tracks": [
     {
@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Make It Right - Acoustic",
+      "url": "https://open.spotify.com/track/7i9u3HorlfNKlLNrgG0k7J"
+    },
+    {
+      "album": {
         "name": "Make the Most (Live)",
         "url": "https://open.spotify.com/album/1bGkar5XcMRqcs4sxp02sF"
       },
@@ -3130,7 +3148,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-23",
       "duration_ms": 211696,
       "name": "Mine to Lose",
       "url": "https://open.spotify.com/track/4bSJKYB1tRDWMSGRqWR9P3"
@@ -5166,7 +5184,7 @@
       },
       "artists": [
         {
-          "name": "Majo",
+          "name": "sickoftheinternet",
           "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
         }
       ],

@@ -1,13 +1,77 @@
 {
-  "description": "The best in blues right now. Cover: Kirk Fletcher",
-  "num_followers": 140714,
+  "description": "The best in blues right now. Cover: Robert Finley",
+  "num_followers": 140740,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACRu46gZhantrkEGDr5l5pBdwZEK",
+  "snapshot_id": "AAAAAOqnqtFKUco9qSjX29r2Z//uywfM",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "Holy Ghost Party",
+        "url": "https://open.spotify.com/album/40C7e9RzNO5Ayqp4bCiEpa"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 203482,
+      "name": "Holy Ghost Party",
+      "url": "https://open.spotify.com/track/4pR0BUUDQrgWMmGhNXyv9F"
+    },
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "Texas Headhunters",
+        "url": "https://open.spotify.com/album/2vP7ttK02EcmaTWmtE7isq"
+      },
+      "artists": [
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        },
+        {
+          "name": "Ian Moore",
+          "url": "https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz"
+        },
+        {
+          "name": "Johnny Moeller",
+          "url": "https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk"
+        }
+      ],
+      "duration_ms": 235253,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/7425NoOizrwarYeXxxUseQ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:12",
+      "album": {
+        "name": "Our Time To Ride",
+        "url": "https://open.spotify.com/album/5nMScSlk7ZTSYFQELSnIi4"
+      },
+      "artists": [
+        {
+          "name": "Chambers DesLauriers",
+          "url": "https://open.spotify.com/artist/1arcq3eCE5lXEA9XwOhj72"
+        },
+        {
+          "name": "Annika Chambers",
+          "url": "https://open.spotify.com/artist/4wHfKN1JrTybnWW4cK82SJ"
+        },
+        {
+          "name": "Paul Deslauriers",
+          "url": "https://open.spotify.com/artist/241SeN4DdAtszd339F7xMh"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Our Time To Ride",
+      "url": "https://open.spotify.com/track/1GdpT28JvW3dX4E4ICCt0I"
+    },
     {
       "added_at": "2025-08-15 04:00:05",
       "album": {
@@ -187,30 +251,6 @@
       "duration_ms": 227000,
       "name": "Voodoo Charm",
       "url": "https://open.spotify.com/track/68dgcG0PJyYarPW4LLDaK9"
-    },
-    {
-      "added_at": "2025-07-18 04:00:10",
-      "album": {
-        "name": "Gimme Some Love",
-        "url": "https://open.spotify.com/album/3gSJR6soD64gCKCcwG2AQ5"
-      },
-      "artists": [
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        },
-        {
-          "name": "Ian Moore",
-          "url": "https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz"
-        },
-        {
-          "name": "Johnny Moeller",
-          "url": "https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk"
-        }
-      ],
-      "duration_ms": 195757,
-      "name": "Gimme Some Love",
-      "url": "https://open.spotify.com/track/3J9pJHnWiLGo8B77z82pEY"
     },
     {
       "added_at": "2025-07-04 04:00:17",
@@ -435,30 +475,6 @@
       "duration_ms": 319127,
       "name": "Ain't It Hell",
       "url": "https://open.spotify.com/track/7wK2n5iRdQL53EboRMgp2y"
-    },
-    {
-      "added_at": "2025-06-13 04:00:32",
-      "album": {
-        "name": "Kathleen",
-        "url": "https://open.spotify.com/album/1o0gqB1ldEORbKpXKAbEWR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        },
-        {
-          "name": "Ian Moore",
-          "url": "https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz"
-        },
-        {
-          "name": "Johnny Moeller",
-          "url": "https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk"
-        }
-      ],
-      "duration_ms": 257989,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/1wd8LmiJpY9t5OsGqPOCyY"
     },
     {
       "added_at": "2025-05-23 04:00:36",
@@ -1739,22 +1755,6 @@
       "duration_ms": 274081,
       "name": "Dear Mr. Fantasy",
       "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Black Bayou",
-        "url": "https://open.spotify.com/album/642WUw47i5QRd5iN0l4rho"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 214572,
-      "name": "Waste Of Time",
-      "url": "https://open.spotify.com/track/6hN0tXlbsFFPJ3rADk48hk"
     },
     {
       "added_at": "2023-10-06 04:01:00",

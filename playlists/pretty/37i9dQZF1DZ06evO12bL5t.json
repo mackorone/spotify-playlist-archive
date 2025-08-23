@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 137407,
+  "num_followers": 137450,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKO+gAAAAACiVz2MUOt8dtQn8G9rU1pB",
+  "snapshot_id": "aKZhgAAAAADlIqXWRsdyRWih9w9CbqNL",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mustang 65'",
-        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+        "name": "Corazon Tumbado",
+        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 194100,
-      "name": "Feria en el Sobre",
-      "url": "https://open.spotify.com/track/65C6XLTjQ1sbmldzcUVNi1"
+      "duration_ms": 192842,
+      "name": "El Capitan",
+      "url": "https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk"
     },
     {
       "added_at": null,
@@ -199,22 +195,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corazon Tumbado",
-        "url": "https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc"
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
           "name": "Herencia de Patrones",
           "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 192842,
-      "name": "El Capitan",
-      "url": "https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk"
+      "duration_ms": 194100,
+      "name": "Feria en el Sobre",
+      "url": "https://open.spotify.com/track/65C6XLTjQ1sbmldzcUVNi1"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Las Vibras",
+        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 241785,
+      "name": "Distinta Movida",
+      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Se Motiven",
         "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 145375,
       "name": "Seguimos Dando Lata",
       "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Las Vibras",
-        "url": "https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 241785,
-      "name": "Distinta Movida",
-      "url": "https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Va Pa' Largo",
-        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 164925,
-      "name": "Cupcake Factory",
-      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 157909,
       "name": "De La Calle (Remix)",
       "url": "https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Va Pa' Largo",
+        "url": "https://open.spotify.com/album/7yHaEWts81Kl1U14CjXSlV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 164925,
+      "name": "Cupcake Factory",
+      "url": "https://open.spotify.com/track/16enfjOIe90HZuYBS2NJ1U"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 152433,
-      "name": "Buena Vida Mala Fama",
-      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Line Up",
         "url": "https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 188481,
       "name": "Vara Alta",
       "url": "https://open.spotify.com/track/6IPni1a6mvyZrG1JR7Au22"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Va Pa Largo 2",
+        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
+      },
+      "artists": [
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "NO VAN A PODER",
+      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 152433,
+      "name": "Buena Vida Mala Fama",
+      "url": "https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo, Billetes y Damas (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/54UMtaPgBFFOUwqr0QKBTG"
       },
@@ -735,22 +755,6 @@
       "duration_ms": 209911,
       "name": "Yo, Billetes y Damas",
       "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa' las Vibras 2",
-        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 266346,
-      "name": "Siempre Activo",
-      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
     },
     {
       "added_at": null,
@@ -787,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa' las Vibras 2",
+        "url": "https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 266346,
+      "name": "Siempre Activo",
+      "url": "https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 137769,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0peDp43dtDzI4I5599gG02"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Andaban",
-        "url": "https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 219562,
-      "name": "Donde Andaban",
-      "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
     },
     {
       "added_at": null,
@@ -859,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donde Andaban",
+        "url": "https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 219562,
+      "name": "Donde Andaban",
+      "url": "https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bien Pilas",
         "url": "https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 165458,
       "name": "Bien Pilas",
       "url": "https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Va Pa Largo 2",
-        "url": "https://open.spotify.com/album/2hUFEj13uquBzCLjj7zlAB"
-      },
-      "artists": [
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "NO VAN A PODER",
-      "url": "https://open.spotify.com/track/2sera6DORQyNvftXa0UhDL"
     },
     {
       "added_at": null,

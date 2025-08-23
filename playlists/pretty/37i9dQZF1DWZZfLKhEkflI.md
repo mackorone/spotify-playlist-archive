@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,409 likes - 75 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,438 likes - 75 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 28 | [Lester Left Town \- Remastered 2005](https://open.spotify.com/track/2gezUgQGPcgKwReH1Wb87V) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 6:25 |
 | 29 | [Charcoal Blues \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 6:54 |
 | 30 | [The Cat Walk \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/5MyQwsO0ktOmdRxg9bmFeW) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 6:40 |
-| 31 | [Gary's Notebook \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 6:10 |
-| 32 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
-| 33 | [Funk\-Cosity \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/4hme7npk4H6RFPaGtPnZIR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 8:25 |
+| 31 | [Funk\-Cosity \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/4hme7npk4H6RFPaGtPnZIR) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 8:25 |
+| 32 | [Gary's Notebook \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/00dDsLgxoPzhbPD3owDfwT) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 6:10 |
+| 33 | [Blues For Brenda \- 1997 Remastered](https://open.spotify.com/track/1z0PVtIa2c2ydASf2CqEYd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Goin' Up](https://open.spotify.com/album/0NU6BhJliKCq8jTPvFsTdP) | 6:59 |
 | 34 | [Back To The Tracks](https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Back To The Tracks](https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE) | 8:03 |
 | 35 | [Johnny's Blue](https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 9:12 |
 | 36 | [Blue Minor \- Remastered](https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Cool Struttin’](https://open.spotify.com/album/2yWj7slAmHfBohXn40HKVU) | 10:17 |

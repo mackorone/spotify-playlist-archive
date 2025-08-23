@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> The new wave of Latin pop 🌊 Cover: Ela Taubert
+> The new wave of Latin pop 🌊 Cover: Joaquina
 
-1,027 songs - 2 day 3 hr 20 min
+1,029 songs - 2 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Alma](https://open.spotify.com/track/38DHJSK0GixJXoE1C9zexl) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Alma](https://open.spotify.com/album/0U7ClpISKlwmQCVVtnn9Cn) | 3:16 | 2024-08-09 | 2024-10-05 |
 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 | 2024-10-18 | 2025-01-25 |
 | [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 | 2022-08-11 | 2022-10-29 |
+| [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 | 2025-08-22 |  |
 | [Amaya Papaya \(No Me Digas Bebé\)](https://open.spotify.com/track/1JYCqTzn5vXmTOAF0Ptg6D) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Amaya Papaya \(No Me Digas Bebé\)](https://open.spotify.com/album/769CJdpfN03cloNudEloUh) | 2:46 | 2025-08-15 |  |
 | [Amigos \(con Andry Kiddos\)](https://open.spotify.com/track/5w7KnO18gZntBOxIiubPOa) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [DESGENERADOS MIXTAPE](https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R) | 2:27 | 2023-07-21 | 2023-08-12 |
 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-16 | 2023-10-14 |
@@ -421,6 +422,7 @@
 | [IDK Y](https://open.spotify.com/track/5mz9ccLx1kUEiUeGqULgkG) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [IDK Y](https://open.spotify.com/album/4caBV0z6cphDZ7HyRYSMq6) | 2:41 | 2022-12-16 | 2023-01-14 |
 | [Igual de gris](https://open.spotify.com/track/4cScSwuQMKmvAsJmwQt4E0) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Igual de gris](https://open.spotify.com/album/01ue76B6p752PENdJ6eurO) | 3:16 | 2024-09-06 | 2024-12-14 |
 | [Igual Que Un Ángel \(with Peso Pluma\)](https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 4:20 | 2024-01-19 | 2024-04-06 |
+| [Igual que yo](https://open.spotify.com/track/7ymzpxwJtVeC9vt7Uu890D) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Igual que yo](https://open.spotify.com/album/4ErW4eTL9tL7Gmhczo9F9T) | 4:06 | 2025-08-22 |  |
 | [III\. OJALÁ!](https://open.spotify.com/track/7Js0AmjsKvj3QPSlm9oiXE) | [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [III\. OJALÁ!](https://open.spotify.com/album/1TNeG7LKpVphlcckdl8Zcz) | 2:50 | 2025-03-28 | 2025-05-31 |
 | [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 | 2023-07-21 | 2024-01-13 |
 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 | 2024-11-08 | 2025-02-08 |
