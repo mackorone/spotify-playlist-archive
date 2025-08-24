@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,783 likes - 170 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,772 likes - 170 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 17 | [Lonyo!](https://open.spotify.com/track/0oJtICIgw8eoJkMOriYjAP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Lonyo!](https://open.spotify.com/album/19Me956UK4tz4kL1KKbOeE) | 3:35 |
 | 18 | [Quiero Verte Bailar](https://open.spotify.com/track/3VFuA7YsxBKrSNxk9nT71j) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW) | [Fidget Spinner EP](https://open.spotify.com/album/5PiNrjLl5nIgkgsjMwWdm1) | 3:25 |
 | 19 | [Shake Me Down](https://open.spotify.com/track/0wzHx71gdoviBlRDMLMwkj) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Shake Me Down](https://open.spotify.com/album/16S6tmVTLjRnfzJSskXFGP) | 3:36 |
-| 20 | [Mondo Cane](https://open.spotify.com/track/4wEzHmpxAikurdMoViYOhV) | [Preservation](https://open.spotify.com/artist/71Xm18ZYTMYSbLUXMiRt4k), [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [Benjamin Brooker](https://open.spotify.com/artist/5KuwzaWG15X9njFJtgQozv) | [Sortilège](https://open.spotify.com/album/1bCNxc0JieFCXBhtgZUIXX) | 4:06 |
+| 20 | [Mondo Cane](https://open.spotify.com/track/4wEzHmpxAikurdMoViYOhV) | [Preservation](https://open.spotify.com/artist/71Xm18ZYTMYSbLUXMiRt4k), [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Sortilège](https://open.spotify.com/album/1bCNxc0JieFCXBhtgZUIXX) | 4:06 |
 | 21 | [my man](https://open.spotify.com/track/12STQE6jL68yjGk63UCmPn) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 3:59 |
 | 22 | [Penthouse Samba](https://open.spotify.com/track/0GQA5sHHPC3cX3JEJQYFTS) | [Marina Zispin](https://open.spotify.com/artist/4eDyyrcE0ztmLfCdwCiC2o) | [Now You See Me, Now You Don't](https://open.spotify.com/album/2DlJlWjvi1XNl3n0DnJgtS) | 4:10 |
 | 23 | [Couldn't Get Back](https://open.spotify.com/track/5HX20vkFmDyyMPp5aNNDQZ) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Like A Ribbon \(Deluxe\)](https://open.spotify.com/album/2ifCu57pDvXzOE4AkAR3Dp) | 2:27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Yokkorio
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,540 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,551 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 39 | [最好的朋友](https://open.spotify.com/track/3uD9D4Gw9hxhvVQWBx3Ehd) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX), [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY) | [最好的朋友](https://open.spotify.com/album/0gUEh0gO3nDqiWwWHh7bMS) | 3:52 |
 | 40 | [擁抱着你我](https://open.spotify.com/track/0guaz0DOMaP7liIhPdWD71) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9), [Manson 張進翹](https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX) | [擁抱着你我](https://open.spotify.com/album/1VlZ2S8jnSHqhByQa5TX9X) | 4:15 |
 | 41 | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi) | 3:25 |
-| 42 | [Fantasy,Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
+| 42 | [Fantasy, Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
 | 43 | [Take You to the Universe](https://open.spotify.com/track/0RICMzzz6s43MgbTsuTIQQ) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [A Room in Brockley](https://open.spotify.com/album/6N2xKkzQQK9wz6On1LDKWW) | 3:47 |
 | 44 | [安心感](https://open.spotify.com/track/70m08rlTetr9oHanlQThW1) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [安心感](https://open.spotify.com/album/7hHtQKNYZoLRCQ4tDtNLFv) | 3:32 |
 | 45 | [VILLAIN](https://open.spotify.com/track/250HLl9eVRQABw1oIjOGkx) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [VILLAIN](https://open.spotify.com/album/1gdAhXMSsFtOCfW9T6f5el) | 3:26 |

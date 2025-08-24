@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "(I've Got) Beginner's Luck",
+      "url": "https://open.spotify.com/track/6aPqzx06H4yFkO4GnPv21e"
+    },
+    {
+      "album": {
         "name": "Gershwin: 3 Preludes",
         "url": "https://open.spotify.com/album/46lElo61ARwjjn9DVR6vNP"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 222693,
       "name": "I've Got Beginner's Luck",
       "url": "https://open.spotify.com/track/3MMRJk3OyIvwnSiNsqjX0D"

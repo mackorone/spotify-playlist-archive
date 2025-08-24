@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,953 likes - 130 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,088 likes - 130 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 129 | [The Oracle](https://open.spotify.com/track/1ZKUeb4VShKVUSmf9EQTT9) | [Warren Deep](https://open.spotify.com/artist/1VeB0gDzrF52WT55s8rSG6), [Takue SBT](https://open.spotify.com/artist/5YDzSHHcPzdA9RdEgi3g2U) | [The Oracle](https://open.spotify.com/album/7woygLyit8Van2Bgpngekf) | 6:15 |
 | 130 | [Touka](https://open.spotify.com/track/2cnfVL8gMttR4Yx9917L1Y) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Touka](https://open.spotify.com/album/2vuYLe08XivkO24nICqlCh) | 3:42 |
 
-Snapshot ID: `AAAAABEdamUAP7CjmxvW25aqbwplVDHW`
+Snapshot ID: `AAAAAJsPT89uZqDwbfzV7d2l5/9UaXXK`

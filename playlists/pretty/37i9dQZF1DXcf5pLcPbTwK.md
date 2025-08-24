@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf5pLcPbTwK.md) - [plain]
 
 > Enter WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,359,475 likes - 19 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,359,449 likes - 19 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

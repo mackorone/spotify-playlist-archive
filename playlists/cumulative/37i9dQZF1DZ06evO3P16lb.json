@@ -93,6 +93,40 @@
     },
     {
       "album": {
+        "name": "Beautiful City",
+        "url": "https://open.spotify.com/album/3Fb5AZkT4XuFHctZ07Kvor"
+      },
+      "artists": [
+        {
+          "name": "Ana Victoria",
+          "url": "https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5"
+        },
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Pablo Hurtado",
+          "url": "https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54"
+        },
+        {
+          "name": "Daniel Willy",
+          "url": "https://open.spotify.com/artist/717Rj9LBr7WCA2knqxbl90"
+        },
+        {
+          "name": "The Silver Lake Chorus",
+          "url": "https://open.spotify.com/artist/5cHNjijphFOJ54tYw4Dv1c"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259150,
+      "name": "Beautiful City",
+      "url": "https://open.spotify.com/track/1pGyDZVBQCBKCC8JfO92iR"
+    },
+    {
+      "album": {
         "name": "Amor Como en las Pel\u00edculas de Antes",
         "url": "https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW"
       },

@@ -4037,6 +4037,24 @@
     },
     {
       "album": {
+        "name": "How Can I Forget?",
+        "url": "https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        }
+      ],
+      "date_added": "2025-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198668,
+      "name": "How Can I Forget?",
+      "url": "https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm"
+    },
+    {
+      "album": {
         "name": "H\u00fcrt No More",
         "url": "https://open.spotify.com/album/1sIpZ7SsKtuVTf0QvwUxhM"
       },
@@ -5968,7 +5986,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 164210,
       "name": "Made Me Glad",
       "url": "https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p"

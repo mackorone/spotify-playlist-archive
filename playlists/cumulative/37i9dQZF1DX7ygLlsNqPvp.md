@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Kwaku DMC
 
-254 songs - 12 hr 46 min
+255 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Masha Allah](https://open.spotify.com/track/3SVsLxJOFjScmApPu7yvk2) | [Idowest](https://open.spotify.com/artist/6wvs9JYsh1UZvGe0qIGwbB) | [Masha Allah](https://open.spotify.com/album/3dPBRWvUgsd4I09kZMaTAs) | 2:01 | 2024-01-19 | 2024-03-01 |
 | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Chicogod](https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E), [City Boy](https://open.spotify.com/artist/2ppps0iwSdww4cfepGnscr) | [Masherita \(feat\. Skyface SDW, CHICOGOD & City Boy\)](https://open.spotify.com/album/2cng5y9rfb7QCbcjakftV5) | 3:08 | 2022-06-09 |  |
 | [Me & You](https://open.spotify.com/track/5j9UwAnVUvntvKzLjbvVsT) | [G\-Migos](https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN) | [Me & You](https://open.spotify.com/album/7KhQhMmRKgHNSx37JkF37Q) | 4:00 | 2023-04-20 | 2023-06-10 |
-| [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 | 2024-09-20 |  |
+| [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/track/66RYCW347hwspDLHzDSnIG) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Me Baby \(feat\. AratheJay\)](https://open.spotify.com/album/1Poa1A7jmMyLw05HbZFolK) | 2:05 | 2024-09-20 | 2025-08-24 |
 | [Misbehavior](https://open.spotify.com/track/0n3tva9XBW73ijgXuUHOgB) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Misbehavior](https://open.spotify.com/album/00hiuIxViGMdmYoAKigUbd) | 3:00 | 2024-01-19 | 2024-03-15 |
 | [Mmaa Bi](https://open.spotify.com/track/1PAGCXCR9aefQcyIAlbTiN) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Sokka Sdw](https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Mmaa Bi](https://open.spotify.com/album/7rno9y2FHbFVye2fN7w8Y8) | 2:48 | 2024-07-26 | 2024-09-28 |
 | [Mmerepa](https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:06 | 2024-05-24 | 2024-06-21 |
@@ -257,6 +257,7 @@
 | [Yedi Dollars \(feat\. Kweku Smoke\)](https://open.spotify.com/track/3OkBH5Ig7JnIoeIcWwc6Ih) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [TRAVIS](https://open.spotify.com/album/4rG7WTMDTAvPMQlcFzTDVz) | 2:58 | 2024-06-07 | 2024-06-28 |
 | [YEDIN](https://open.spotify.com/track/6rdL3EDLxPR4Tq8WJIJ5xC) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [YEDIN](https://open.spotify.com/album/31qXzB7kKOSW6ItiKDN8YA) | 3:10 | 2024-07-19 |  |
 | [Yenda](https://open.spotify.com/track/1abFIyT0fh4LV15Wsa9mFo) | [Kay T](https://open.spotify.com/artist/65KHsymx2SxbuY1uaFZ2Rr), [MEDIKAL](https://open.spotify.com/artist/1HCBjtUbCVE4NasMBXZwuE), [Qv](https://open.spotify.com/artist/4RCEQmuBR1ZdMNJjZrNMl8) | [Yenda](https://open.spotify.com/album/1baZLRUcO2HmEXWrxoG5Mp) | 3:51 | 2022-09-30 | 2023-01-14 |
+| [Yes or No](https://open.spotify.com/track/2PtzVdWUTNIIPh8CzDiwqS) | [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9) | [Yes or No](https://open.spotify.com/album/01kinPXkQnRT4vrElW8YUX) | 3:20 | 2025-08-22 |  |
 | [Yesu](https://open.spotify.com/track/20a7Vi2E3huh83U2FwT6hW) | [Alhaji Bull](https://open.spotify.com/artist/6kSEocure6XDB5TaHsCmHh), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Yesu](https://open.spotify.com/album/7FtVWBnm7FXUdYt3TL6RLG) | 3:52 | 2025-02-21 | 2025-02-28 |
 | [YIMAYƐ](https://open.spotify.com/track/03yfaEQV3q5aTgViBWgvy7) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [YIMAYƐ](https://open.spotify.com/album/4dMSrWK0gFXU0T1787xfXl) | 2:50 | 2025-08-01 |  |
 | [Yipi Yoo](https://open.spotify.com/track/4aI9GatG1DzBNeDFvjcAPs) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T) | [Yipi Yoo](https://open.spotify.com/album/48dXq5BuUwJ1ItMzGyTge2) | 2:36 | 2025-02-28 |  |

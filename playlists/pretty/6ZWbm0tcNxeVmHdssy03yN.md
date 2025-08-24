@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,485 likes - 107 songs - 5 hr 35 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 48,511 likes - 107 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 20 | [starry eyes](https://open.spotify.com/track/2vuPWK9yuwham9fHGwBTsv) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [starry eyes](https://open.spotify.com/album/683ySJtpExE3r2ZPPtpdw9) | 3:45 |
 | 21 | [Rabbit](https://open.spotify.com/track/10Q3Qw090m9WRgCVCzrQf8) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [RABBIT](https://open.spotify.com/album/33NPHkIV6Vh0dfe8OpyhXW) | 2:35 |
 | 22 | [Drapetomania \(feat\. BabyChiefDoit\)](https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 2:52 |
-| 23 | [Mondo Cane](https://open.spotify.com/track/4wEzHmpxAikurdMoViYOhV) | [Preservation](https://open.spotify.com/artist/71Xm18ZYTMYSbLUXMiRt4k), [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [Benjamin Brooker](https://open.spotify.com/artist/5KuwzaWG15X9njFJtgQozv) | [Sortilège](https://open.spotify.com/album/1bCNxc0JieFCXBhtgZUIXX) | 4:06 |
+| 23 | [Mondo Cane](https://open.spotify.com/track/4wEzHmpxAikurdMoViYOhV) | [Preservation](https://open.spotify.com/artist/71Xm18ZYTMYSbLUXMiRt4k), [Gabe 'Nandez](https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [Sortilège](https://open.spotify.com/album/1bCNxc0JieFCXBhtgZUIXX) | 4:06 |
 | 24 | [Avianca \(feat\. Boobie Lootaveli\)](https://open.spotify.com/track/4BMOfhj0iUrG3ntpo0PaK9) | [Bry Hill](https://open.spotify.com/artist/0ZlXD1EUOhMcjnRdE2AE6h), [Boobie Lootaveli](https://open.spotify.com/artist/6f4aJlAHj8LX3yAytAmWlu) | [Avianca \(feat\. Boobie Lootaveli\)](https://open.spotify.com/album/0LimeDgVPowppBFSqjFWsK) | 1:45 |
 | 25 | [MY SOUL](https://open.spotify.com/track/2Fef2S4viehsoIRRsGFZvu) | [Chayuta](https://open.spotify.com/artist/4nXhFLBJ3zVZ9MAyUMbV6r), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [MY SOUL](https://open.spotify.com/album/5OF2j24aSFySoqK5om2fQ1) | 2:20 |
 | 26 | [Northside Bongos](https://open.spotify.com/track/0iYINVctc4H4eMHOvONeBQ) | [yus.f](https://open.spotify.com/artist/3BP0ajc24RHUECcBWBJrvF) | [Northside Bongos](https://open.spotify.com/album/2hApP3fonKGhiE1HUv18o1) | 7:04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,565 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,560 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [Castigo](https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Castigo](https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB) | 2:31 |
 | 41 | [Bonita](https://open.spotify.com/track/0Z30id45qXbQPlBFMAMsmK) | [Milky Dolly](https://open.spotify.com/artist/55FMUrZOO1qeugFN7tYVZq), [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [BIMBO DREAMS](https://open.spotify.com/album/5DT3ZKAsp9HxeNgVGUGmWA) | 1:54 |
 | 42 | [PERRA AVENTURERA](https://open.spotify.com/track/5OcP5Bu1v2UD5gnYvejRmi) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 3:15 |
-| 43 | [UN ÁNGEL](https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [UN ÁNGEL](https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl) | 2:54 |
+| 43 | [MIAU](https://open.spotify.com/track/3GqpNTyCPu51DQ9PhIxzfj) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [PUSSY IN BOOTS](https://open.spotify.com/album/4KEENGkcm3QiCAdSZLoGkf) | 0:36 |
 | 44 | [morbo](https://open.spotify.com/track/5tLFDcj9NOB7wZq1uCldyt) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [a todo el mundo le pasa](https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X) | 2:23 |
-| 45 | [MIAU](https://open.spotify.com/track/3GqpNTyCPu51DQ9PhIxzfj) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [PUSSY IN BOOTS](https://open.spotify.com/album/4KEENGkcm3QiCAdSZLoGkf) | 0:36 |
+| 45 | [UN ÁNGEL](https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [UN ÁNGEL](https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl) | 2:54 |
 | 46 | [Distraída](https://open.spotify.com/track/3RNhZYgS35qZ0ixOAvjHq9) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Farsanta](https://open.spotify.com/album/7MG0GGt2sOTz7lOxExwhQv) | 2:42 |
 | 47 | [ya fue](https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [ya fue](https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR) | 3:22 |
 | 48 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/0ZDZn77Dhb58H7QAuc0NUL) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |

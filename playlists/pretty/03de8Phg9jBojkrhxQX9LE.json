@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 21587,
+  "num_followers": 21602,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAJzXaq6DXxnwT5Udy0quWgJek5ECIg",
+  "snapshot_id": "AAAJzmIlJ2Amomrud9E1XHMyLPI+cJwv",
   "tracks": [
     {
       "added_at": "2025-08-22 19:18:19",
@@ -371,6 +371,22 @@
       "duration_ms": 193542,
       "name": "Disappear",
       "url": "https://open.spotify.com/track/7m4kAkVUzGxvYJwRlxDZPI"
+    },
+    {
+      "added_at": "2025-08-23 22:16:34",
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/7JvpbeaYonIXD4CgRKrpLY"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "duration_ms": 162906,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/1bqYPHgLbs6alzEXoRGc99"
     },
     {
       "added_at": "2025-08-22 19:18:19",

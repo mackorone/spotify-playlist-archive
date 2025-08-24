@@ -1,42 +1,32 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: Three Man Down](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: SB19](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> Where soaring melodies meet raw emotion\. Cover: Three Man Down
+> WYAT? Right here, counting down to concert night\. Cover: SB19
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,343 likes - 30 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,323 likes - 20 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ตอนไม่ได้เจอ](https://open.spotify.com/track/0sl4DbtRM7XLG3TrSgGedh) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ตอนไม่ได้เจอ \- Single](https://open.spotify.com/album/5zUz7qxo80xqKQ1A4NMste) | 3:21 |
-| 2 | [ผ่านตา \(Everyday\)](https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ผ่านตา \(Everyday\) \- Single](https://open.spotify.com/album/2QE4fCSdTvnUSratEyFmjU) | 3:21 |
-| 3 | [ปล่อยให้เวลา \(Broken Clock\)](https://open.spotify.com/track/7AcomvHhlYUB0m9tIX4aC8) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ปล่อยให้เวลา \(Broken Clock\) \- Single](https://open.spotify.com/album/5hN6ebTHczsMaw9t0ijTXG) | 2:49 |
-| 4 | [ความรักทำให้คนตาบอด \(ซนซน 40 ปี GMM GRAMMY\)](https://open.spotify.com/track/7A5BmNylYVApHmE17oI0uY) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ความรักทำให้คนตาบอด \(ซนซน 40 ปี GMM GRAMMY\) \- Single](https://open.spotify.com/album/7DQgnVgKVYcKMRYyPRTvsS) | 4:16 |
-| 5 | [28](https://open.spotify.com/track/4HzhoYLI9jjjZlQeghGZbN) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [28](https://open.spotify.com/album/1JoLyRW5GCIukeAEcpq5nj) | 1:10 |
-| 6 | [วันเกิดฉันปีนี้ \(HBD to me\)](https://open.spotify.com/track/6oRAJWe2BTdEEghmRRxDHg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [วันเกิดฉันปีนี้ \(HBD to me\) \- Single](https://open.spotify.com/album/0Gvuww93YULBSk2BsRd5qp) | 4:11 |
-| 7 | [หมดไอจี](https://open.spotify.com/track/0nrq7lyKNY0O9cd1ViOM4g) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 2:23 |
-| 8 | [เก็บไว้ในใจไม่พอ](https://open.spotify.com/track/0hdVaCnCS5d5puPAN2tQ25) | [Maiyarap](https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M), [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [Popstar](https://open.spotify.com/album/46bPZgDz1psyr7QOgu36lE) | 4:26 |
-| 9 | [เมา \(Drunk in Love\)](https://open.spotify.com/track/7i4J6fYvmIMZpB7q8rgdZJ) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เมา \(Drunk in Love\) \- Single](https://open.spotify.com/album/7dfhcNiXpD3u9lEFGPyvXf) | 2:43 |
-| 10 | [ข้างกัน \(City\)](https://open.spotify.com/track/2XDCs8vAubxRe8mO1A0eTa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [feat\. ออม TELExTELEXs](https://open.spotify.com/artist/205wJyIv1vglYP2l428PAJ) | [ข้างกัน \(City\) \- Single](https://open.spotify.com/album/61V9QCyJm3LPEUHrm84AIj) | 4:56 |
-| 11 | [คุยคนเดียวเก่ง](https://open.spotify.com/track/4DqaFHKqAsnBn9DfLWhRpW) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:22 |
-| 12 | [อยากฟัง](https://open.spotify.com/track/37IUHh3GBGFRthKySON0g7) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [อยากฟัง \- Single](https://open.spotify.com/album/3L1d6jgpiqgqDBLKoBspAp) | 3:26 |
-| 13 | [ไม่อยากชิน \(Don’t Wanna Get Used to It\)](https://open.spotify.com/track/1kt2sT4Tlkv1u7ft52FMUt) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [28](https://open.spotify.com/album/1JoLyRW5GCIukeAEcpq5nj) | 4:12 |
-| 14 | [This City Won’t Be Lonely Anymore](https://open.spotify.com/track/6gv5tHmAlWokKWCe8NZCty) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 1:11 |
-| 15 | [ทีมรอเธอ](https://open.spotify.com/track/1H5J12MhFZUNMHIRJWaNXu) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ทีมรอเธอ \- Single](https://open.spotify.com/album/1XIOTle9I0JGpiMNNYVCxY) | 4:07 |
-| 16 | [ไม่อยากให้เธอไม่สบาย \(You\)](https://open.spotify.com/track/41gOavqVGct6Yl7WSaIJ7O) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่อยากให้เธอไม่สบาย \(You\) \- Single](https://open.spotify.com/album/1FJhwr3tbJgaciU31oHgzC) | 4:30 |
-| 17 | [ไปเถอะเธอ](https://open.spotify.com/track/2qoGS6iKkE7A3gPnfMcfMb) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไปเถอะเธอ \- Single](https://open.spotify.com/album/7bC7MsuPoOQRfBORAqWVZF) | 3:56 |
-| 18 | [Time Zone](https://open.spotify.com/track/2usM29GjnReuh6Xxj8NQQc) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 4:38 |
-| 19 | [น้อง \(Nong\)](https://open.spotify.com/track/0unRRE5iY2faIR2HV2aGpF) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [น้อง \(Nong\) \- Single](https://open.spotify.com/album/0RC8Xjy8pOsrbVHqqHn5OT) | 3:08 |
-| 20 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม \- Single](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 |
-| 21 | [เปิดตัวเขา \(Rebound\)](https://open.spotify.com/track/0gfAnUVd4sH8IiCWvF3j9P) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เปิดตัวเขา \(Rebound\) \- Single](https://open.spotify.com/album/0iHxB2tlyR3yg65fsniAdS) | 3:38 |
-| 22 | [คนใหม่ \(Someone New\)](https://open.spotify.com/track/68Hlv7QYxJpyvAyp8UGOQv) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [28](https://open.spotify.com/album/1JoLyRW5GCIukeAEcpq5nj) | 3:34 |
-| 23 | [เดาไม่เก่ง](https://open.spotify.com/track/69ObIA8E8GIlcOu9wVQQKN) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เดาไม่เก่ง \- Single](https://open.spotify.com/album/59BIShANBFMpz8sF8MVmWw) | 3:06 |
-| 24 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/6IitkM7xiuKhDXzshXUnRa) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เลือกคนที่เขารักเรา \- Single](https://open.spotify.com/album/7rZXyGJlUbCdQIlwMaQmnq) | 3:46 |
-| 25 | [เด็กเกินไป \(Too Young\)](https://open.spotify.com/track/48qHdp4mhFenZIBhejBqGU) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [เด็กเกินไป \(Too Young\) \- Single](https://open.spotify.com/album/67cqHFhyafs48bApZD1xZW) | 3:44 |
-| 26 | [วิธีไม่เสียใจ \(How to Not Be Sad\)](https://open.spotify.com/track/7rAJuFH1GUazQQUsCO76Ay) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [28](https://open.spotify.com/album/1JoLyRW5GCIukeAEcpq5nj) | 3:34 |
-| 27 | [ฝันถึงแฟนเก่า](https://open.spotify.com/track/1PnEuhdX2pFIQUAESQB4wm) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝันถึงแฟนเก่า \- Single](https://open.spotify.com/album/6naatIZxeYHjguN9j7skZL) | 4:01 |
-| 28 | [ไหนบอกเลิกแล้ว \(In My Bed\)](https://open.spotify.com/track/1Fs20RsWqb8I510IkvwcqL) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไหนบอกเลิกแล้ว \(In My Bed\) \- Single](https://open.spotify.com/album/24vyAn4mArLobmLat8MCOL) | 3:39 |
-| 29 | [ไม่เคยมีดาวในเมืองใหญ่](https://open.spotify.com/track/0RXgvqA7aCM5zPcU6HbLoF) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:55 |
-| 30 | [ถ้าเธอรักฉันจริง](https://open.spotify.com/track/2vA7CHG08LDzeMDAuPnUQg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ถ้าเธอรักฉันจริง \- Single](https://open.spotify.com/album/1bDTHuznOFJ3s3fZEqEaGp) | 4:00 |
+| 1 | [What?](https://open.spotify.com/track/4sYZHEiueAYM5klpUbVNyk) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [What?](https://open.spotify.com/album/18g914rk7rcJP0o4uhz8uE) | 4:30 |
+| 2 | [Mana](https://open.spotify.com/track/0EtkP3TUHvTeDIgrpgMS8m) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:03 |
+| 3 | [GENTO](https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [GENTO](https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o) | 3:52 |
+| 4 | [Moonlight](https://open.spotify.com/track/1xAYG31LamC5qlykRhbWxd) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [Terry Zhong](https://open.spotify.com/artist/6gmZPYIcqdjmkauB2krvSg) | [Moonlight](https://open.spotify.com/album/3JUFjVKXhpkbChyYQ49w8R) | 2:48 |
+| 5 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
+| 6 | [golden hour \- SB19 Remix](https://open.spotify.com/track/6ZUSwmLViVASwgHkYWyc3Z) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [golden hour \(SB19 Remix\)](https://open.spotify.com/album/4MlxypmQ2qaVCoHLiFUKfD) | 2:35 |
+| 7 | [WYAT \(Where You At\)](https://open.spotify.com/track/1z50Hub2XCsAPWo8zgoePu) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [WYAT \(Where You At\)](https://open.spotify.com/album/2KNLbEBtNGRbVGXH74zOcW) | 3:38 |
+| 8 | [DUNGKA!](https://open.spotify.com/track/7mqsPvhSR1CtY6PkTf1YVy) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:35 |
+| 9 | [Bazinga](https://open.spotify.com/track/5QZw4F3N3PvuKNKHm9L20b) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:22 |
+| 10 | [8TonBall](https://open.spotify.com/track/7AqrfyOdFWPnjQrgzWzcUz) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:28 |
+| 11 | [CRIMZONE](https://open.spotify.com/track/5GcS9zT4iIL7l0JrqZeG6O) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:49 |
+| 12 | [Nyebe](https://open.spotify.com/track/6aLjE6peuaJQRWRgfjxrRw) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Nyebe](https://open.spotify.com/album/2tvPG66C3mOLIHEdxPzC0F) | 5:46 |
+| 13 | [Time](https://open.spotify.com/track/1OvE4CwaIZJ89Eq0qXGCEF) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:44 |
+| 14 | [ILAW](https://open.spotify.com/track/4zoqT3f80GyytJvnhVHgEl) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 4:52 |
+| 15 | [Quit](https://open.spotify.com/track/7oIQWmbKShhEt2yTSBxNpu) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 4:43 |
+| 16 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 |
+| 17 | [Shooting for the Stars](https://open.spotify.com/track/6q3qzeZgWgoFrV6DmaZr1R) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Simula at Wakas](https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ) | 3:56 |
+| 18 | [FREEDOM](https://open.spotify.com/track/2CuYpdcx2f9XbMZhc3ST8E) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:31 |
+| 19 | [SLMT](https://open.spotify.com/track/0AbJoAxuqYgMrmXvtFOc0K) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 3:19 |
+| 20 | [DAM](https://open.spotify.com/track/1NNsL6tYk06TqTea3mKB9P) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [DAM](https://open.spotify.com/album/612lgzG3p1PYJCxZFFLztN) | 3:29 |
 
-Snapshot ID: `AAAAAPJEh7yh04nMmD6+IJ/8+7YAb0yO`
+Snapshot ID: `AAAAALOblUg7HJ5IIetUiLcem0MkHoP/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Flo Milli, Offset, 2 Chainz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,814 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,909 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 10 | [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/track/4bv07aSDDXJsDI7VUDRZW8) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR), [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [Ridin' With That \(feat\. Chuckyy\)](https://open.spotify.com/album/6BZ8PR1CCa58Zoz2rwlA73) | 2:22 |
 | 11 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 |
 | 12 | [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 |
-| 13 | [Immigrante](https://open.spotify.com/track/6Fte3nbq7ZtSyrJVvFbYgR) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [MB Pee](https://open.spotify.com/artist/3zxYVbRi94MyvwXuMTORi0) | [Immigrante](https://open.spotify.com/album/6UT2L77GRqTyzzryMY6yQV) | 3:22 |
+| 13 | [Inmigrante](https://open.spotify.com/track/6Fte3nbq7ZtSyrJVvFbYgR) | [BashfortheWorld](https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4), [MB Pee](https://open.spotify.com/artist/3zxYVbRi94MyvwXuMTORi0) | [Inmigrante](https://open.spotify.com/album/6UT2L77GRqTyzzryMY6yQV) | 3:22 |
 | 14 | [Show Out](https://open.spotify.com/track/4GYVkw6lLBURyBzUBwNv0O) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Show Out](https://open.spotify.com/album/4RgnSp5ognxdDa4NGE3iOh) | 2:35 |
 | 15 | [swang](https://open.spotify.com/track/6efXHIArlmVOJJm5N6V4yn) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [swang](https://open.spotify.com/album/2mt7lOSwHDU1i8Gde3CjGi) | 2:07 |
 | 16 | [3 Peat \(feat\. VonOff1700 & 1900Rugrat\)](https://open.spotify.com/track/4h9R9yWOO9lLyFV5bv50x1) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [3 Peat \(feat\. VonOff1700 & 1900Rugrat\)](https://open.spotify.com/album/2siLnmdCfsiTISzlzRtuTP) | 2:08 |

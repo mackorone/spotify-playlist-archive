@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, FBC, Rogerio Flausino",
-  "num_followers": 369995,
+  "num_followers": 369976,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Sexta-feira",
         "url": "https://open.spotify.com/album/0FFW6UeLV3QjAclxcWO0UL"
       },
@@ -219,22 +235,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/1O3n8W9MEOE5whPw9Ay4Cm"
       },
@@ -255,22 +255,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
-      },
-      "artists": [
-        {
-          "name": "Rico Dalasam",
-          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Sacode",
         "url": "https://open.spotify.com/album/7KS5hWrJWVF1hJMBcutjHz"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 150187,
       "name": "Sacode",
       "url": "https://open.spotify.com/track/2p2StS2NPYe7T5oTPbXf1Z"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
+      },
+      "artists": [
+        {
+          "name": "Rico Dalasam",
+          "url": "https://open.spotify.com/artist/5nbaj9RaJdFNlS5ZxoqN97"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Cadela",
+        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+      },
+      "artists": [
+        {
+          "name": "MARIA MIRANDA",
+          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+        }
+      ],
+      "duration_ms": 197414,
+      "name": "Cadela",
+      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "SOBRECARGA (ALTA TENS\u00c3O DELUXE)",
         "url": "https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Cadela",
-        "url": "https://open.spotify.com/album/4JUoSnqGilwi1dk1HTQlUX"
+        "name": "livre",
+        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
       },
       "artists": [
         {
-          "name": "MARIA MIRANDA",
-          "url": "https://open.spotify.com/artist/7179j5OUXPbeXiLXEHtNe3"
+          "name": "Braga",
+          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
         }
       ],
-      "duration_ms": 197414,
-      "name": "Cadela",
-      "url": "https://open.spotify.com/track/2SnRx1PETbpkY7vDPSP78n"
+      "duration_ms": 63239,
+      "name": "livre",
+      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -603,22 +619,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "livre",
-        "url": "https://open.spotify.com/album/2S44KPi02GbKAartH6tddN"
-      },
-      "artists": [
-        {
-          "name": "Braga",
-          "url": "https://open.spotify.com/artist/7dO3FozNKSxFlBbh4U08ng"
-        }
-      ],
-      "duration_ms": 63239,
-      "name": "livre",
-      "url": "https://open.spotify.com/track/5vEuL3BuofCXaCyj937taV"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "quanto tempo tem o tempo?",
         "url": "https://open.spotify.com/album/7b1YzXAPmBZQA7ygrtQueI"
       },
@@ -631,30 +631,6 @@
       "duration_ms": 206037,
       "name": "quanto tempo tem o tempo?",
       "url": "https://open.spotify.com/track/0VR6QaLSjKMJ2GHN8TCPER"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -683,6 +659,30 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
         "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 186223,
       "name": "CHUVA DE VER\u00c3O",
       "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "BiKE (blv)",
-        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "BiKE (blv)",
-      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -739,6 +723,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "BiKE (blv)",
+        "url": "https://open.spotify.com/album/5KLhuJliJVdg4Tvwg6FDmJ"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 180065,
+      "name": "BiKE (blv)",
+      "url": "https://open.spotify.com/track/5iowd80YnJK6WFNcI2oen3"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 150094,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Sideral",
+        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
+      },
+      "artists": [
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 169701,
+      "name": "Sideral",
+      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -807,22 +823,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Reciprocidade",
-        "url": "https://open.spotify.com/album/3kzmj1Cu5XejlviFxgX048"
-      },
-      "artists": [
-        {
-          "name": "RAFA LISB\u00d4A",
-          "url": "https://open.spotify.com/artist/1ey4lNNgzj5f2V8gStWWN3"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Primeira Vista",
-      "url": "https://open.spotify.com/track/47MFfoaBdRS68GewmH0sNg"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/7xTL4bMMZ0HvIiFPLvCkVQ"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 187636,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/0z5nXBt1jlEdBZR4ZlqtfQ"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Reciprocidade",
+        "url": "https://open.spotify.com/album/3kzmj1Cu5XejlviFxgX048"
+      },
+      "artists": [
+        {
+          "name": "RAFA LISB\u00d4A",
+          "url": "https://open.spotify.com/artist/1ey4lNNgzj5f2V8gStWWN3"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Primeira Vista",
+      "url": "https://open.spotify.com/track/47MFfoaBdRS68GewmH0sNg"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1099,26 +1115,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Pra todo mundo que \u00e9 emocionado",
-        "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
+        "name": "Bem Bem",
+        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
       },
       "artists": [
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "EXQUE\u00c7A TUDO PAPAI",
-          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
         }
       ],
-      "duration_ms": 171585,
-      "name": "Pra todo mundo que \u00e9 emocionado",
-      "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
+      "duration_ms": 136089,
+      "name": "Bem Bem",
+      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1159,18 +1167,26 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Bem Bem",
-        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
+        "name": "Pra todo mundo que \u00e9 emocionado",
+        "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
       "artists": [
         {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "EXQUE\u00c7A TUDO PAPAI",
+          "url": "https://open.spotify.com/artist/5jNs5i0CPbgCqc2ns08z3D"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
         }
       ],
-      "duration_ms": 136089,
-      "name": "Bem Bem",
-      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
+      "duration_ms": 171585,
+      "name": "Pra todo mundo que \u00e9 emocionado",
+      "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1215,6 +1231,26 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Sagitariano",
+        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        }
+      ],
+      "duration_ms": 141125,
+      "name": "Sagitariano",
+      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Leoa do Asfalto",
         "url": "https://open.spotify.com/album/0UxqYcrRyinpMMf0osL6YJ"
       },
@@ -1239,22 +1275,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Sagitariano",
-        "url": "https://open.spotify.com/album/3iD9CHDt1bW7Umxxhy9en9"
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
       },
       "artists": [
         {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+          "name": "Hiosaki",
+          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
         }
       ],
-      "duration_ms": 141125,
-      "name": "Sagitariano",
-      "url": "https://open.spotify.com/track/3XyJIhLqnHdWi3VPRf0yyZ"
+      "duration_ms": 179256,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1271,22 +1303,6 @@
       "duration_ms": 180000,
       "name": "Assome",
       "url": "https://open.spotify.com/track/0NZWoFnMcmLxEK1zENu1dR"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/13o9DKnXs54uIwP1Rpv51S"
-      },
-      "artists": [
-        {
-          "name": "Hiosaki",
-          "url": "https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY"
-        }
-      ],
-      "duration_ms": 179256,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/4j15iyB0zfr6GVapJRJreF"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1447,22 +1463,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Ainda Tenho F\u00e9",
-        "url": "https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Lopes",
-          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
-        }
-      ],
-      "duration_ms": 109333,
-      "name": "Ainda Tenho F\u00e9",
-      "url": "https://open.spotify.com/track/66YWu9JvG60I365bc87wWo"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "\"bb, que tal?\"",
         "url": "https://open.spotify.com/album/5SpFsFkCPoLkW2a5VzqAQN"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 141030,
       "name": "Ela \u00e9 de Escorpi\u00e3o",
       "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Ainda Tenho F\u00e9",
+        "url": "https://open.spotify.com/album/1fvpViBj5r2t6BDOqWdLFZ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Lopes",
+          "url": "https://open.spotify.com/artist/70p8zOZeaAh5bskcL0dCtH"
+        }
+      ],
+      "duration_ms": 109333,
+      "name": "Ainda Tenho F\u00e9",
+      "url": "https://open.spotify.com/track/66YWu9JvG60I365bc87wWo"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1663,22 +1679,6 @@
       "duration_ms": 169911,
       "name": "Vim de Longe",
       "url": "https://open.spotify.com/track/7ycoelWSebToQHOQScwFdv"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Sideral",
-        "url": "https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ"
-      },
-      "artists": [
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
-        }
-      ],
-      "duration_ms": 169701,
-      "name": "Sideral",
-      "url": "https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF"
     }
   ],
   "unique_name": "Palco POP",

@@ -1193,6 +1193,28 @@
     },
     {
       "album": {
+        "name": "THE ROCK",
+        "url": "https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168058,
+      "name": "THE ROCK",
+      "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
+    },
+    {
+      "album": {
         "name": "CHILD OF GOD",
         "url": "https://open.spotify.com/album/2xADl5pnbmSpdGiWR6CHfb"
       },

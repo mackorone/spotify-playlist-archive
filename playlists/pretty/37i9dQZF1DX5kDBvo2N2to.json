@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60069,
+  "num_followers": 60075,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
+        "name": "Backspegeln",
+        "url": "https://open.spotify.com/album/2GRF1ZqmwNykbINiXkCzT2"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 226745,
+      "name": "Backspegeln",
+      "url": "https://open.spotify.com/track/5zgTMnEwglRFL8ghv9Y7AY"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6YSni14WiEq5mIihve4u3V"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 207349,
       "name": "Bl\u00e5ljus",
       "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "Inte bra i grupp",
-        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 169785,
-      "name": "Inte bra i grupp",
-      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -359,6 +359,22 @@
       "duration_ms": 146352,
       "name": "Leyla",
       "url": "https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "Inte bra i grupp",
+        "url": "https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 169785,
+      "name": "Inte bra i grupp",
+      "url": "https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -459,38 +475,6 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
-        "name": "Camels",
-        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
-      },
-      "artists": [
-        {
-          "name": "Paine Galletto",
-          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Camels",
-      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
         "name": "Regn \u00f6ver Zinken",
         "url": "https://open.spotify.com/album/7KBJwS8O2z8ZslnjQONpgb"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 244733,
       "name": "Regn \u00f6ver Zinken",
       "url": "https://open.spotify.com/track/5vNdZIUXEMgcTt46CuhA7C"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "Camels",
+        "url": "https://open.spotify.com/album/19rY6ztabf3ENfAonVHeDa"
+      },
+      "artists": [
+        {
+          "name": "Paine Galletto",
+          "url": "https://open.spotify.com/artist/5zpiEJeMC7CraPBvE9MqkY"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Camels",
+      "url": "https://open.spotify.com/track/1t30x389swdoiG08U2X2fz"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -535,6 +535,38 @@
       "duration_ms": 160601,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -591,38 +623,6 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
-        "name": "Dina fula skor",
-        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
-      },
-      "artists": [
-        {
-          "name": "Theo",
-          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
-        }
-      ],
-      "duration_ms": 138187,
-      "name": "Dina fula skor",
-      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "02:30",
-        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "02:30",
-      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
         "name": "Som i en dr\u00f6m",
         "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 145568,
       "name": "Fr\u00e5n & med nu",
       "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "Dina fula skor",
+        "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
+      },
+      "artists": [
+        {
+          "name": "Theo",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "duration_ms": 138187,
+      "name": "Dina fula skor",
+      "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -675,6 +691,22 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
+        "name": "RING MIG 112!!?",
+        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "RING MIG 112!!?",
+      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
       },
@@ -703,22 +735,6 @@
       "duration_ms": 141058,
       "name": "More",
       "url": "https://open.spotify.com/track/4zPLEDkXJ2Yc3IiGDuuskj"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "RING MIG 112!!?",
-        "url": "https://open.spotify.com/album/2NSfq8TfMOrTjGyzhHTpxt"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "RING MIG 112!!?",
-      "url": "https://open.spotify.com/track/4XOPm2rZy1MZLhxLdqVYcH"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -787,6 +803,22 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
+        "name": "More To Life",
+        "url": "https://open.spotify.com/album/1qyll2DNY9P9C0JWw8hyCn"
+      },
+      "artists": [
+        {
+          "name": "J\u00c1NA",
+          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
+        }
+      ],
+      "duration_ms": 168565,
+      "name": "More To Life",
+      "url": "https://open.spotify.com/track/2V0IwUfEQaDvVYlUAsz3nk"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
         "name": "i miss you",
         "url": "https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J"
       },
@@ -815,22 +847,6 @@
       "duration_ms": 164089,
       "name": "Gatorna i Bor\u00e5s",
       "url": "https://open.spotify.com/track/3m7fpG1kdxzRHvyNXqsEPg"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "More To Life",
-        "url": "https://open.spotify.com/album/1qyll2DNY9P9C0JWw8hyCn"
-      },
-      "artists": [
-        {
-          "name": "J\u00c1NA",
-          "url": "https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F"
-        }
-      ],
-      "duration_ms": 168565,
-      "name": "More To Life",
-      "url": "https://open.spotify.com/track/2V0IwUfEQaDvVYlUAsz3nk"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
-        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
-      },
-      "artists": [
-        {
-          "name": "Felicia Takman",
-          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
-      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
         "name": "Tom Cruisin'",
         "url": "https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 187097,
       "name": "Blundar F\u00f6r En Stund",
       "url": "https://open.spotify.com/track/2tVyDrg1bbOzHnYAZxcOcO"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+        "url": "https://open.spotify.com/album/0yaCpQvJffjcBuD4JFbXzI"
+      },
+      "artists": [
+        {
+          "name": "Felicia Takman",
+          "url": "https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Ikv\u00e4ll m\u00e5ste n\u00e5nting h\u00e4nda",
+      "url": "https://open.spotify.com/track/2jaXOhm7dmmsokJjj2DsUA"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2025-08-21 22:00:19",
       "album": {
-        "name": "Tro",
-        "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
-      },
-      "artists": [
-        {
-          "name": "Tim Lidman",
-          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
-        }
-      ],
-      "duration_ms": 136593,
-      "name": "Tro",
-      "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
         "name": "Murphy",
         "url": "https://open.spotify.com/album/0ifp69iIhsMylu8xPLA4Ya"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 153618,
       "name": "Vem fan \u00e4r Murphy?",
       "url": "https://open.spotify.com/track/2yjEaP19UXnBIqPUNfkjeT"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "Tro",
+        "url": "https://open.spotify.com/album/45kllyUpXALGQ3casrPGZ6"
+      },
+      "artists": [
+        {
+          "name": "Tim Lidman",
+          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
+        }
+      ],
+      "duration_ms": 136593,
+      "name": "Tro",
+      "url": "https://open.spotify.com/track/1YJGpZL9eDOrbHCxszX9D2"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -1323,6 +1339,22 @@
       "duration_ms": 146778,
       "name": "F\u00f6rst\u00f6raren",
       "url": "https://open.spotify.com/track/5vUyKrknRb2sYddxO6oUHI"
+    },
+    {
+      "added_at": "2025-08-21 22:00:19",
+      "album": {
+        "name": "t-shirt",
+        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 152629,
+      "name": "t-shirt",
+      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -1371,22 +1403,6 @@
       "duration_ms": 186900,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1pLf4NG5vTnEUxYr9kZOpk"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "t-shirt",
-        "url": "https://open.spotify.com/album/2aQapySjt6qoKV0r62NkjD"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 152629,
-      "name": "t-shirt",
-      "url": "https://open.spotify.com/track/1u5B8XNodVpXjwz5VIr7qo"
     },
     {
       "added_at": "2025-08-21 22:00:19",
@@ -1475,22 +1491,6 @@
       "duration_ms": 164583,
       "name": "Lasse & hunden",
       "url": "https://open.spotify.com/track/2ugliGsPZth0lK3QKinrRy"
-    },
-    {
-      "added_at": "2025-08-21 22:00:19",
-      "album": {
-        "name": "FEST",
-        "url": "https://open.spotify.com/album/6RFdmjcp933i8S0OXyOJG3"
-      },
-      "artists": [
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "FEST",
-      "url": "https://open.spotify.com/track/3BdpyEsZnbnjRnIeJ9vNw8"
     }
   ],
   "unique_name": "p\u00e5 repeat",

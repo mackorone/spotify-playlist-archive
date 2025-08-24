@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Danny Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,611 likes - 183 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,623 likes - 183 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 16 | [GLOSS DIOR](https://open.spotify.com/track/4SZwDzN1qzgyDjvIHjakgu) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [GLOSS DIOR](https://open.spotify.com/album/2T0f2VwtKaFnqoqzJWjs0f) | 2:27 |
 | 17 | [Polvora \(feat\. Baby Johnny, Juliito\)](https://open.spotify.com/track/5Vrl6IcsieRi52qu69p8zZ) | [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W), [Baby Johnny](https://open.spotify.com/artist/16yTBMwXmeW9MQgfcHZgA7), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Polvora \(feat\. Baby Johnny, Juliito\)](https://open.spotify.com/album/4jcZJTXQ9vibwU0xDCakyV) | 5:29 |
 | 18 | [FIRE](https://open.spotify.com/track/0OIKfpoILjgIyAuOl7N7dB) | [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu) | [FIRE](https://open.spotify.com/album/4yncxbDiei50iRgylAbRAs) | 3:46 |
-| 19 | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/track/0FAwelV4vwA5RwT4CUCEdG) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [FLAME](https://open.spotify.com/artist/2EjmiR9Vr7vBP0vBpjhiCc) | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/album/2zqlo6rcXROJxaMQ2GVpVo) | 2:24 |
+| 19 | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/track/0FAwelV4vwA5RwT4CUCEdG) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/album/2zqlo6rcXROJxaMQ2GVpVo) | 2:24 |
 | 20 | [TOTO](https://open.spotify.com/track/5zf8azI8zglZOYlIvHTS0E) | [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [TOTO](https://open.spotify.com/album/4gvs0WJCjzvW3VXJzgZHlD) | 2:02 |
 | 21 | [Conmigo se besa](https://open.spotify.com/track/62pDcEBEXqadENE9XsTAfz) | [Pablito Mix](https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3), [Pauli](https://open.spotify.com/artist/3irBvLCmrjx4CGMXHzwCCC), [Criss Booy](https://open.spotify.com/artist/5r7LnmO117VyBpJIl681AL) | [Conmigo se besa](https://open.spotify.com/album/2ebfxiapf8VV37XETgCsEx) | 2:21 |
 | 22 | [FAYA](https://open.spotify.com/track/4w9Lbv2E3kuXF1zMz71xh7) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [BASSYY](https://open.spotify.com/artist/7yFmnMMffSULby54UYhD1b), [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs) | [FAYA](https://open.spotify.com/album/7iZyITUW27dx2NUzOzU4j4) | 3:37 |

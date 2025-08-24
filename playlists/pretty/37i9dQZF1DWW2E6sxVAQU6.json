@@ -1,6 +1,6 @@
 {
   "description": "Italia amore mio \ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
-  "num_followers": 12949,
+  "num_followers": 12950,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
+        "name": "Vivo Da Re",
+        "url": "https://open.spotify.com/album/0wi7XZKr9NQXnzCZ5gFqyA"
+      },
+      "artists": [
+        {
+          "name": "Decibel",
+          "url": "https://open.spotify.com/artist/0wSk7M2UXea9whwjDzmK4R"
+        }
+      ],
+      "duration_ms": 183541,
+      "name": "Contessa",
+      "url": "https://open.spotify.com/track/7maFmvGprAIpXY7OL8sdTl"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
         "name": "50 Successi",
         "url": "https://open.spotify.com/album/4gTvWdF8R0ZytI47sFL3Ej"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 266026,
       "name": "Caff\u00e8 nero bollente",
       "url": "https://open.spotify.com/track/7Mbuzp7QeQH35dHQeQDUz0"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/7MYiYMWEBcJ4q62TuijwyP"
-      },
-      "artists": [
-        {
-          "name": "Danny Losito",
-          "url": "https://open.spotify.com/artist/3su0bqQsPT32tMf1Yp76Yf"
-        }
-      ],
-      "duration_ms": 211190,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/5ssL9O1Hs8d6vGOzXkCCRc"
     }
   ],
   "unique_name": "Sanremo: Schegge Impazzite",

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u5bb6\u4e3b Yanushi",
-  "num_followers": 64330,
+  "num_followers": 64339,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "MOVE MOVE",
-        "url": "https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 216368,
-      "name": "MOVE MOVE",
-      "url": "https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
         "name": "Grown Too Old",
         "url": "https://open.spotify.com/album/7KEgeAWjuoXPE1MI2UwJp8"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 192452,
       "name": "Grown Too Old",
       "url": "https://open.spotify.com/track/5CnVGklaBKXORSogUbieCp"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
+        "name": "MOVE MOVE",
+        "url": "https://open.spotify.com/album/2y2XVJGL0hihtyKQJLq1UR"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 216368,
+      "name": "MOVE MOVE",
+      "url": "https://open.spotify.com/track/2XFGQmZxs3nFoTvYOhufgO"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "LUMINOUS",
-        "url": "https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe"
-      },
-      "artists": [
-        {
-          "name": "\u30d5\u30ec\u30f3\u30ba",
-          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "\u65b0\u3057\u3044summer",
-      "url": "https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
         "name": "\u71d5",
         "url": "https://open.spotify.com/album/685yIpLHwzuyHX3TepAVir"
       },
@@ -1051,22 +1035,34 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "Glow Within",
-        "url": "https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9"
+        "name": "LUMINOUS",
+        "url": "https://open.spotify.com/album/4BIg3nLUNfpYZek0Wn7nYe"
       },
       "artists": [
         {
-          "name": "Cornelius",
-          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
-        },
-        {
-          "name": "HERALBONY",
-          "url": "https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P"
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
         }
       ],
-      "duration_ms": 298181,
-      "name": "Glow Within",
-      "url": "https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U"
+      "duration_ms": 189600,
+      "name": "\u65b0\u3057\u3044summer",
+      "url": "https://open.spotify.com/track/6VEY90G2QKRGB9b3bOO2XD"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
+        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
+        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+      },
+      "artists": [
+        {
+          "name": "People In The Box",
+          "url": "https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5"
+        }
+      ],
+      "duration_ms": 221506,
+      "name": "\u30df\u30fc\u30f3\u30b9\u30c8\u30ea\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6Ecc1MqVM3N88cDw2xzulw"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -1091,6 +1087,26 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
+        "name": "Glow Within",
+        "url": "https://open.spotify.com/album/6tOKRNZZb6EkSPjO9dI0s9"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        },
+        {
+          "name": "HERALBONY",
+          "url": "https://open.spotify.com/artist/6E8a7I5oEUeIDmkteBzc5P"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Glow Within",
+      "url": "https://open.spotify.com/track/0YnClRQnKQYzPr8QNlxc4U"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
         "name": "Can we do it again?",
         "url": "https://open.spotify.com/album/0q1ONmYW3OMq8ZfkIOm3Yr"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "sekisei inko",
-        "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
-      },
-      "artists": [
-        {
-          "name": "kurayamisaka",
-          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
-        }
-      ],
-      "duration_ms": 207745,
-      "name": "sekisei inko",
-      "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
         "name": "\u3044\u3044\u6e6f\u3060\u306a",
         "url": "https://open.spotify.com/album/0qXghzym42Q92oFUYoaIRU"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 161000,
       "name": "\u3044\u3044\u6e6f\u3060\u306a",
       "url": "https://open.spotify.com/track/0PNpawYL4XnzIvlmeLNrY7"
+    },
+    {
+      "added_at": "2025-08-19 17:30:08",
+      "album": {
+        "name": "sekisei inko",
+        "url": "https://open.spotify.com/album/0g29LUL1xGSveMd5C3dCT9"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "duration_ms": 207745,
+      "name": "sekisei inko",
+      "url": "https://open.spotify.com/track/4FHOYNRL2EylpvuE8J27KQ"
     },
     {
       "added_at": "2025-08-19 17:30:08",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "Sono nanika in my daze",
-        "url": "https://open.spotify.com/album/2DUMtRtFsfGvAPYCOGGa5j"
-      },
-      "artists": [
-        {
-          "name": "Age Factory",
-          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
-        }
-      ],
-      "duration_ms": 308256,
-      "name": "Sono nanika in my daze",
-      "url": "https://open.spotify.com/track/4Z3y4fJl1IuWCejj32HDPZ"
-    },
-    {
-      "added_at": "2025-08-19 17:30:08",
-      "album": {
         "name": "WINDSDAY",
         "url": "https://open.spotify.com/album/5KxnDsf7kuoEg9MhcXIMoh"
       },
@@ -1195,34 +1195,38 @@
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "ART-SCHOOL 25th Anniversary Tribute Album\u300eDreams Never End\u300f",
-        "url": "https://open.spotify.com/album/3JVPn8YllpHpIPqXOelcWc"
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/62VYNbqs7tU9s02uTQDjbi"
       },
       "artists": [
         {
-          "name": "People In The Box",
-          "url": "https://open.spotify.com/artist/07PkYuHKeec24az6lKeUS5"
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        },
+        {
+          "name": "\u4f50\u702c\u60a0\u8f14",
+          "url": "https://open.spotify.com/artist/2rHvOrwt4sRZeoAgAbCs9A"
         }
       ],
-      "duration_ms": 221506,
-      "name": "\u30df\u30fc\u30f3\u30b9\u30c8\u30ea\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/6Ecc1MqVM3N88cDw2xzulw"
+      "duration_ms": 262228,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/5kqBCNBfB2kgHop6ZJ1luD"
     },
     {
       "added_at": "2025-08-19 17:30:08",
       "album": {
-        "name": "Who's in My House?",
-        "url": "https://open.spotify.com/album/3Ak37Feu5PK03x4hjujdnf"
+        "name": "Sono nanika in my daze",
+        "url": "https://open.spotify.com/album/2DUMtRtFsfGvAPYCOGGa5j"
       },
       "artists": [
         {
-          "name": "DYGL",
-          "url": "https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs"
+          "name": "Age Factory",
+          "url": "https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo"
         }
       ],
-      "duration_ms": 401871,
-      "name": "Who's In My House?",
-      "url": "https://open.spotify.com/track/4oVrSD7yk8GkmegkMpGoj0"
+      "duration_ms": 308256,
+      "name": "Sono nanika in my daze",
+      "url": "https://open.spotify.com/track/4Z3y4fJl1IuWCejj32HDPZ"
     },
     {
       "added_at": "2025-08-19 17:30:08",

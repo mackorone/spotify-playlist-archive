@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAPZrgFbHt8xwLnh9gz10NC",
+  "snapshot_id": "AAAAAAAAAACeiRfce+OaRhk45hEDaNZt",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "Drum Show",
+        "url": "https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Drum Show",
+      "url": "https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX"
+    },
     {
       "added_at": "2025-08-22 04:00:00",
       "album": {
@@ -67,46 +83,26 @@
     {
       "added_at": "2025-08-22 04:00:00",
       "album": {
-        "name": "Run With The Pack",
-        "url": "https://open.spotify.com/album/1QOPG3TVzW2tUlgl2JhuWd"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/0lubSwzZxCwYlnmsXU5GOW"
       },
       "artists": [
         {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+          "name": "Kelly Moonstone",
+          "url": "https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj"
         },
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "MARCO PLUS",
+          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
         },
         {
-          "name": "Paul Rodgers",
-          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
-        },
-        {
-          "name": "Brann Dailor",
-          "url": "https://open.spotify.com/artist/6VaynR6YaIKy3mS57FAmKK"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Run With The Pack",
-      "url": "https://open.spotify.com/track/6teWp7mrOpFhpHzyXmQ4Hq"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Supreme Clientele 2",
-        "url": "https://open.spotify.com/album/0SHlsKruygN9cOfAnaLxvM"
-      },
-      "artists": [
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 123173,
-      "name": "Iron Man",
-      "url": "https://open.spotify.com/track/3isstW9QHdzIrD0vDDpZLA"
+      "duration_ms": 212653,
+      "name": "Seagulls",
+      "url": "https://open.spotify.com/track/6U9AeAoKT0qx9QjjH2Dz1r"
     },
     {
       "added_at": "2025-08-22 04:00:00",
@@ -147,146 +143,6 @@
     {
       "added_at": "2025-08-22 04:00:00",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/0lubSwzZxCwYlnmsXU5GOW"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moonstone",
-          "url": "https://open.spotify.com/artist/5TVQ1g9iOkpZUJrWgu21kj"
-        },
-        {
-          "name": "MARCO PLUS",
-          "url": "https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 212653,
-      "name": "Seagulls",
-      "url": "https://open.spotify.com/track/6U9AeAoKT0qx9QjjH2Dz1r"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Toute la musique que j'aime",
-        "url": "https://open.spotify.com/album/3WAp24xqtlkkJCpLpTg3Xe"
-      },
-      "artists": [
-        {
-          "name": "Greg Zlap",
-          "url": "https://open.spotify.com/artist/3OLp4KhWh6toFAwiPWxbxX"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Le Ranchero",
-      "url": "https://open.spotify.com/track/243f2sswBT5Fmt7kyviKqK"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/6vJINmyqW0bqkFodTBHB7B"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "PEACH MARTINE",
-          "url": "https://open.spotify.com/artist/4xX9jZuIg4O1Cc59vjt0EP"
-        },
-        {
-          "name": "secs on the beach",
-          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
-        }
-      ],
-      "duration_ms": 145502,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4XIZ4mlqK6HGwbZETHImR6"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "UNICORN",
-        "url": "https://open.spotify.com/album/4vqrATZFn3wvQlwsuoED8k"
-      },
-      "artists": [
-        {
-          "name": "Base Hollow",
-          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Still Standin'",
-      "url": "https://open.spotify.com/track/5XUBT66wwP1UZzxBwv0K5x"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Rap de la Paradoja de los Gemelos",
-        "url": "https://open.spotify.com/album/5ACSfPyXbT9VdKjcH3L9UL"
-      },
-      "artists": [
-        {
-          "name": "Odd Future",
-          "url": "https://open.spotify.com/artist/5xpkLC1MxiPRiIJUDEzuVm"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Rap de la Paradoja de los Gemelos",
-      "url": "https://open.spotify.com/track/0syqWexetdaz4FcrmxFmnv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Reconstruction",
-        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 221894,
-      "name": "Headphones",
-      "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
         "name": "98",
         "url": "https://open.spotify.com/album/42HvaaoLjx3ouHux7eUZZi"
       },
@@ -323,6 +179,110 @@
     {
       "added_at": "2025-08-22 04:00:00",
       "album": {
+        "name": "Run With The Pack",
+        "url": "https://open.spotify.com/album/1QOPG3TVzW2tUlgl2JhuWd"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        },
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        },
+        {
+          "name": "Paul Rodgers",
+          "url": "https://open.spotify.com/artist/2gaWNB3YrlTc0KRlHNqhol"
+        },
+        {
+          "name": "Brann Dailor",
+          "url": "https://open.spotify.com/artist/6VaynR6YaIKy3mS57FAmKK"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Run With The Pack",
+      "url": "https://open.spotify.com/track/6teWp7mrOpFhpHzyXmQ4Hq"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "UNICORN",
+        "url": "https://open.spotify.com/album/4vqrATZFn3wvQlwsuoED8k"
+      },
+      "artists": [
+        {
+          "name": "Base Hollow",
+          "url": "https://open.spotify.com/artist/6uCVgNjivQ4Cwbi1uhohXV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Still Standin'",
+      "url": "https://open.spotify.com/track/5XUBT66wwP1UZzxBwv0K5x"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/6vJINmyqW0bqkFodTBHB7B"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "PEACH MARTINE",
+          "url": "https://open.spotify.com/artist/4xX9jZuIg4O1Cc59vjt0EP"
+        },
+        {
+          "name": "secs on the beach",
+          "url": "https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM"
+        }
+      ],
+      "duration_ms": 145502,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4XIZ4mlqK6HGwbZETHImR6"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "Toute la musique que j'aime",
+        "url": "https://open.spotify.com/album/3WAp24xqtlkkJCpLpTg3Xe"
+      },
+      "artists": [
+        {
+          "name": "Greg Zlap",
+          "url": "https://open.spotify.com/artist/3OLp4KhWh6toFAwiPWxbxX"
+        },
+        {
+          "name": "MC Solaar",
+          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Le Ranchero",
+      "url": "https://open.spotify.com/track/243f2sswBT5Fmt7kyviKqK"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
         "name": "The Prophet and The Madman",
         "url": "https://open.spotify.com/album/15qVqwTKsJtJ0dsES8TXof"
       },
@@ -339,6 +299,62 @@
       "duration_ms": 435654,
       "name": "Gnawa",
       "url": "https://open.spotify.com/track/7BXa6HC5lF5HsZsWvOfTll"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "Supreme Clientele 2",
+        "url": "https://open.spotify.com/album/0SHlsKruygN9cOfAnaLxvM"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 123173,
+      "name": "Iron Man",
+      "url": "https://open.spotify.com/track/3isstW9QHdzIrD0vDDpZLA"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "Reconstruction",
+        "url": "https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 221894,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "Rap del Gato de Schr\u00f6dinger",
+        "url": "https://open.spotify.com/album/36GrUBrWaZYhP3luHPQTq1"
+      },
+      "artists": [
+        {
+          "name": "Odd Future",
+          "url": "https://open.spotify.com/artist/5xpkLC1MxiPRiIJUDEzuVm"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Rap del Gato de Schr\u00f6dinger",
+      "url": "https://open.spotify.com/track/1BiPi48tR2IFXmaWozbFfB"
     },
     {
       "added_at": "2025-08-22 04:00:00",
@@ -443,26 +459,6 @@
     {
       "added_at": "2025-08-22 04:00:00",
       "album": {
-        "name": "Is It a Crime",
-        "url": "https://open.spotify.com/album/7jafwvgoGHW0JJGxQMgOci"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 181334,
-      "name": "Is It a Crime",
-      "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
         "name": "STAR LINE (Clean)",
         "url": "https://open.spotify.com/album/3JIQgXeFbirc0gDsToXBt6"
       },
@@ -479,38 +475,6 @@
       "duration_ms": 293050,
       "name": "No More Old Men (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/2Jtia4fDcSP17h2UkAhg9E"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Covers Only, Vol. 1",
-        "url": "https://open.spotify.com/album/0CVnhwtOpdoIkOatkGcVwO"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 215959,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/00VC6GkMdbFBaxLVNvByYY"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "BISCUS",
-        "url": "https://open.spotify.com/album/4VBpC8iaPOiZcAi3VFISoc"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 136646,
-      "name": "BISCUS",
-      "url": "https://open.spotify.com/track/4a1RdwoOS3EGn86t6G1Fcw"
     },
     {
       "added_at": "2025-08-22 04:00:00",
@@ -535,22 +499,34 @@
     {
       "added_at": "2025-08-22 04:00:00",
       "album": {
-        "name": "Survive",
-        "url": "https://open.spotify.com/album/7v9yB3BnZdvZrgyeCEUJFm"
+        "name": "BISCUS",
+        "url": "https://open.spotify.com/album/4VBpC8iaPOiZcAi3VFISoc"
       },
       "artists": [
         {
-          "name": "Murkemz",
-          "url": "https://open.spotify.com/artist/6GndH44hnFqySPvGrUQowx"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
         }
       ],
-      "duration_ms": 154511,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/7JqKGUaipBzwxv9mVDUl7n"
+      "duration_ms": 136646,
+      "name": "BISCUS",
+      "url": "https://open.spotify.com/track/4a1RdwoOS3EGn86t6G1Fcw"
+    },
+    {
+      "added_at": "2025-08-22 04:00:00",
+      "album": {
+        "name": "The Cowboy (Small Texas Town)",
+        "url": "https://open.spotify.com/album/6ujwz0aQ3W27tPwwEsJNTt"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "duration_ms": 140017,
+      "name": "The Cowboy (Small Texas Town)",
+      "url": "https://open.spotify.com/track/5sHo6fTSPtbxDYAzIaWvz4"
     },
     {
       "added_at": "2025-08-22 04:00:00",
@@ -587,22 +563,6 @@
       "duration_ms": 153026,
       "name": "Legerdemain",
       "url": "https://open.spotify.com/track/4OZNwiE7J6iVDg1qYr3VVm"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "The Cowboy (Small Texas Town)",
-        "url": "https://open.spotify.com/album/6ujwz0aQ3W27tPwwEsJNTt"
-      },
-      "artists": [
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "The Cowboy (Small Texas Town)",
-      "url": "https://open.spotify.com/track/5sHo6fTSPtbxDYAzIaWvz4"
     },
     {
       "added_at": "2025-08-22 04:00:00",
@@ -719,26 +679,6 @@
       "duration_ms": 129250,
       "name": "HER",
       "url": "https://open.spotify.com/track/6fzuc9fVDLgRIFW1Y858NX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:00",
-      "album": {
-        "name": "Hatchlings From Circa 2010s",
-        "url": "https://open.spotify.com/album/2YOtiJL6rCuaVBJN9SZNGF"
-      },
-      "artists": [
-        {
-          "name": "The Magical Ducklings",
-          "url": "https://open.spotify.com/artist/4OytQe4qOX2OGYD8LxpjGa"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 221951,
-      "name": "Rains In Space",
-      "url": "https://open.spotify.com/track/1ZgJdiztRQKOpIJ3mP69eE"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

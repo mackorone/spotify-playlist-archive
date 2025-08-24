@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 
 > Ascultă la volum maxim vocile feminine din România și descoperă piesele lor alese de editorii noștri\.  Cover: Alina Eremia
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,351 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,353 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gMlVj1A7Ml.md) - [plain]
 | 49 | [Nu sunt pentru tine](https://open.spotify.com/track/6avmIaZ2gUxkHDL0ZVOZXP) | [Diana Brescan](https://open.spotify.com/artist/4Mj8rIeUUjTiP4Q5XOgNZb) | [Nu sunt pentru tine](https://open.spotify.com/album/3SCAlYVVyoSnqsIChkwqQc) | 2:22 |
 | 50 | [Costa Rica](https://open.spotify.com/track/22wTpV5gXeNBbDHOWPSa6e) | [Melisa](https://open.spotify.com/artist/72kAbjEa2m1ewSAHg3BZxg) | [Costa Rica](https://open.spotify.com/album/7DLqZoO6rJWGuXvtOOKmUP) | 2:33 |
 
-Snapshot ID: `AAAAAG8dka+O1ctkNAg86NDqMxD8re1m`
+Snapshot ID: `AAAAAPCgU+hv1QkY/0P7E1E1NbL02n8P`

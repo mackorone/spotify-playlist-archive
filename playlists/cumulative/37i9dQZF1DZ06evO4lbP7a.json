@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "KO3",
+          "url": "https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "Downtown\uff08KO3 Remix\uff09",
+      "url": "https://open.spotify.com/track/6k0x26ArU4vrM5XSWcnTBV"
+    },
+    {
+      "album": {
         "name": "Ever",
         "url": "https://open.spotify.com/album/7x0EC8RQn7L2ZghQDGZ7qe"
       },
@@ -803,6 +825,28 @@
     },
     {
       "album": {
+        "name": "doku",
+        "url": "https://open.spotify.com/album/4F1u2KnQwfVR9Rb8sd7v8P"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        },
+        {
+          "name": "Carpainter",
+          "url": "https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257566,
+      "name": "\u30af\u30ea\u30fc\u30e0\uff08Carpainter Remix\uff09",
+      "url": "https://open.spotify.com/track/0OXyGJI74UjtCd86Dgr0GX"
+    },
+    {
+      "album": {
         "name": "\u9ebb\u75fa",
         "url": "https://open.spotify.com/album/2xrjmxY15z5drRavtSB07f"
       },
@@ -1078,7 +1122,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 226440,
       "name": "\u4e16\u754c\u306f\u7f8e\u3057\u3044\u306f\u305a\u306a\u3093\u3060",
       "url": "https://open.spotify.com/track/5eOEqeLIkfbj6lFQ7a4mmZ"
@@ -1418,7 +1462,7 @@
       ],
       "date_added": "2025-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 184436,
       "name": "\u6625\u3092\u544a\u3052\u308b\uff08\u2606Taku Takahashi Remix\uff09",
       "url": "https://open.spotify.com/track/7bUd6EGBZSeMJnTT92QktK"

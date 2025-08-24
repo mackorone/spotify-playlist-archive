@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house and techno ⛏️⛏️ <br/>with Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,196 likes - 115 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,260 likes - 115 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 18 | [Take One](https://open.spotify.com/track/0RnfuyifJlc2fVMHIy5Wuc) | [Job De Jong](https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI) | [Take One](https://open.spotify.com/album/2o8CMJmoJ5K7Pr0XyXmwq2) | 2:59 |
 | 19 | [Ride](https://open.spotify.com/track/4ID69VKnJ3UGZiHr1t90sc) | [Retrouve](https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb) | [Ride](https://open.spotify.com/album/3nLXHCGf1DPSLl05o26TYJ) | 3:47 |
 | 20 | [My Wave](https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [My Wave](https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7) | 2:30 |
-| 21 | [All This Funk \(Funk You Want\)](https://open.spotify.com/track/2iFkMro9CTblN8I1pZMDK6) | [Hugo Godfroy](https://open.spotify.com/artist/0AWbqZ44vP8SlNJrNOeLb0) | [All This Funk \(Funk You Want\)](https://open.spotify.com/album/6mNjtyRXMsLNj1zohZI54z) | 2:30 |
+| 21 | [All This Funk \(Funk You Want\)](https://open.spotify.com/track/2iFkMro9CTblN8I1pZMDK6) | [Hugo Godfroy](https://open.spotify.com/artist/0AWbqZ44vP8SlNJrNOeLb0), [Austen Godfroy](https://open.spotify.com/artist/7eIH0tM8qjeOwaUjk6O90L) | [All This Funk \(Funk You Want\)](https://open.spotify.com/album/6mNjtyRXMsLNj1zohZI54z) | 2:30 |
 | 22 | [Terrace Trip](https://open.spotify.com/track/0eys2ljlnxUE3kIW62nq2J) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Terrace Trip](https://open.spotify.com/album/4R1Ff4SMeCTUCFk2IH7VfW) | 3:16 |
 | 23 | [Versatile](https://open.spotify.com/track/2CX8w6jrSDujqcnkxDMJw0) | [L.P\. Rhythm](https://open.spotify.com/artist/3K5qBiy5EHwb270817Cy6e) | [Versatile](https://open.spotify.com/album/3ktHqT8RfFWsosodNUfvB0) | 3:14 |
 | 24 | [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 |

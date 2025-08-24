@@ -4,12 +4,13 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 46 min
+87 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#WHERESTHELOVE](https://open.spotify.com/track/61pl7NmpG9R2KamTBAy5Yo) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [\#WHERESTHELOVE](https://open.spotify.com/album/2RiLLqGSyYhC3QMk8F0wUu) | 5:25 | 2023-07-28 | 2025-08-01 |
-| [Alive](https://open.spotify.com/track/6R1E3mgWYUgXsEIYrRnZoA) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 5:03 | 2023-07-28 |  |
+| [Alive](https://open.spotify.com/track/1nSW1IymbwqNrdk1LAf8P6) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 5:03 | 2025-08-24 |  |
+| [Alive](https://open.spotify.com/track/6R1E3mgWYUgXsEIYrRnZoA) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 5:03 | 2023-07-28 | 2025-08-24 |
 | [Anxiety](https://open.spotify.com/track/716wcEhWeq3N1Id3L9mp6f) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:38 | 2023-07-28 |  |
 | [AUDIOS](https://open.spotify.com/track/4kkbe9uszaUnNY1b4xUfzs) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:40 | 2023-07-28 | 2023-11-11 |
 | [BAILAR CONTIGO](https://open.spotify.com/track/2GdHCkeAycTJ1RgMlptaRE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BAILAR CONTIGO](https://open.spotify.com/album/0WzsZzwIw15yVvkBHx3XRG) | 3:43 | 2023-07-28 |  |

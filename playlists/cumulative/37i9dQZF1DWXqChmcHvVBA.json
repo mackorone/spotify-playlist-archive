@@ -659,6 +659,32 @@
     },
     {
       "album": {
+        "name": "Bendita",
+        "url": "https://open.spotify.com/album/6YGzLLFtdmTtWIPEJ1OuHR"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172147,
+      "name": "Bendita",
+      "url": "https://open.spotify.com/track/6RXkCfAPX7azEaAP0SuRHi"
+    },
+    {
+      "album": {
         "name": "rkt 420",
         "url": "https://open.spotify.com/album/5KOBZxsUb0UsFCqN85GEBX"
       },
@@ -696,7 +722,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 141075,
       "name": "BLUNTED 5 - Remix",
       "url": "https://open.spotify.com/track/27t4JURZ1Tv7a3zMfPneAw"
@@ -1138,7 +1164,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 192000,
       "name": "Combi Nueva",
       "url": "https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p"
@@ -1206,6 +1232,32 @@
       "duration_ms": 181800,
       "name": "Con Tu Amiga",
       "url": "https://open.spotify.com/track/0YEEjKSnpzboTA5kKhIaF0"
+    },
+    {
+      "album": {
+        "name": "Conmigo se besa",
+        "url": "https://open.spotify.com/album/2ebfxiapf8VV37XETgCsEx"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Pauli",
+          "url": "https://open.spotify.com/artist/3irBvLCmrjx4CGMXHzwCCC"
+        },
+        {
+          "name": "Criss Booy",
+          "url": "https://open.spotify.com/artist/5r7LnmO117VyBpJIl681AL"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Conmigo se besa",
+      "url": "https://open.spotify.com/track/62pDcEBEXqadENE9XsTAfz"
     },
     {
       "album": {
@@ -1996,6 +2048,32 @@
       "duration_ms": 192000,
       "name": "GAFITA Y CHOMBA",
       "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
+    },
+    {
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/6N5kBzIhWktzPBIbl3Xe2G"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168056,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/5vAVoVtGAAGsB4wEvtr4kO"
     },
     {
       "album": {
@@ -3544,7 +3622,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 191124,
       "name": "Pa Tra Rkt",
       "url": "https://open.spotify.com/track/1CpRJLarXSUho5AopXxNQj"

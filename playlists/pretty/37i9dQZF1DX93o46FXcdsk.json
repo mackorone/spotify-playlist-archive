@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 47493,
+  "num_followers": 47514,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Lange Nachten, Korte Dagen",
+        "url": "https://open.spotify.com/album/5zGatNPECcHQZyLwSLEFDN"
+      },
+      "artists": [
+        {
+          "name": "Diggy Dex",
+          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
+        },
+        {
+          "name": "Eva De Roovere",
+          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Slaap Lekker (Fantastig Toch)",
+      "url": "https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Alle 40 Goed - Hollandse Hits",
         "url": "https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub"
       },
@@ -743,22 +763,6 @@
       "duration_ms": 236493,
       "name": "Ik Wou Dat Ik Jou Was",
       "url": "https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Verschil Moet Er Zijn",
-        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
-      },
-      "artists": [
-        {
-          "name": "Brainpower",
-          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Dansplaat",
-      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -795,6 +799,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Verschil Moet Er Zijn",
+        "url": "https://open.spotify.com/album/37GnjH1ZVf52e4JXMsoPxT"
+      },
+      "artists": [
+        {
+          "name": "Brainpower",
+          "url": "https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Dansplaat",
+      "url": "https://open.spotify.com/track/5dX8kUF1ugdikFb8A6FnlQ"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Allennig II",
         "url": "https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 208160,
       "name": "Hier Kom Ik Weg",
       "url": "https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Lange Nachten, Korte Dagen",
-        "url": "https://open.spotify.com/album/5zGatNPECcHQZyLwSLEFDN"
-      },
-      "artists": [
-        {
-          "name": "Diggy Dex",
-          "url": "https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA"
-        },
-        {
-          "name": "Eva De Roovere",
-          "url": "https://open.spotify.com/artist/1GJOgIYZ4zZtey6Ev14sjD"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Slaap Lekker (Fantastig Toch)",
-      "url": "https://open.spotify.com/track/0zVNMXvvuzVCHWAO4qU0rC"
     },
     {
       "added_at": "2020-02-10 14:27:21",

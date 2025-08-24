@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "BANDROOM SESSIONS EPISODE 1",
+        "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
+      },
+      "artists": [
+        {
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Alipin",
+      "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
+    },
+    {
+      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/22ykUNFfBrxQJcNBZyvXgh"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 250000,
       "name": "Ayaw Baya",
       "url": "https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS"
@@ -2450,7 +2468,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 221904,
       "name": "Misfire",
       "url": "https://open.spotify.com/track/7M4gmJjc8JUDY1OVOIUQL3"
@@ -2709,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Ogie Alcasid",
+        "url": "https://open.spotify.com/album/6ir6gGTgtccvdRg0gEDCHb"
+      },
+      "artists": [
+        {
+          "name": "Ogie Alcasid",
+          "url": "https://open.spotify.com/artist/1vlz5PDUCNuZJeuJoufQkN"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249106,
+      "name": "Nandito Ako",
+      "url": "https://open.spotify.com/track/4hu0C0is1mnAhSdOCgn8Ms"
+    },
+    {
+      "album": {
         "name": "Nang Tahimik",
         "url": "https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA"
       },
@@ -2814,6 +2850,24 @@
       "duration_ms": 258396,
       "name": "New Dimensions",
       "url": "https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5"
+    },
+    {
+      "album": {
+        "name": "Ngalan mo",
+        "url": "https://open.spotify.com/album/5K20pRwZSozWqH2xn7GSha"
+      },
+      "artists": [
+        {
+          "name": "Yden",
+          "url": "https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174945,
+      "name": "Ngalan Mo",
+      "url": "https://open.spotify.com/track/7vkINABNJgMl0K7xRUrIhp"
     },
     {
       "album": {
@@ -3742,7 +3796,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 211658,
       "name": "Sabihin Lang (Kung Ayaw Mo)",
       "url": "https://open.spotify.com/track/56SW6kPw7xMoFt7kBoegP5"

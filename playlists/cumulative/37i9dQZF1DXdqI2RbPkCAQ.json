@@ -149,6 +149,32 @@
     },
     {
       "album": {
+        "name": "Baba Mimoun",
+        "url": "https://open.spotify.com/album/5C9O9I0jKtC0EWBNIsxP1W"
+      },
+      "artists": [
+        {
+          "name": "Omary",
+          "url": "https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs"
+        },
+        {
+          "name": "Hind Ennaira",
+          "url": "https://open.spotify.com/artist/1dJaBie9mXTkH6iHV46h1Y"
+        },
+        {
+          "name": "Gnawatronic",
+          "url": "https://open.spotify.com/artist/5e1QfTkZLHe5voCnBhgv1P"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276578,
+      "name": "Baba Mimoun - Radio Edit",
+      "url": "https://open.spotify.com/track/7KaATu6SKJa1clpEO06LSK"
+    },
+    {
+      "album": {
         "name": "Baian\u00e1 (Boa Noite)",
         "url": "https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7"
       },
@@ -1244,7 +1270,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 517695,
       "name": "NGWINO",
       "url": "https://open.spotify.com/track/6R3ew6CXW4vi59YLYcLHRi"

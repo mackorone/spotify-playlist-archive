@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Pihlaja.
 
-671 songs - 1 day 9 hr 25 min
+672 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Momentti \(feat\. Costi\)](https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Momentti \(feat\. Costi\)](https://open.spotify.com/album/38LoMU82Rqtj2TjjtGEnNW) | 3:13 | 2024-08-15 | 2024-09-20 |
 | [Mosquito](https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Mosquito](https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0) | 2:24 | 2025-07-03 | 2025-08-13 |
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-25 | 2024-08-10 |
+| [MRR](https://open.spotify.com/track/02j2u9s24LGD6PPyJCiQuQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [MRR](https://open.spotify.com/album/4L0n2ZsIcJFEL75hPJASJ9) | 1:51 | 2025-08-23 |  |
 | [Ms\. Bad](https://open.spotify.com/track/4CNnv8cGfLUKpuvSysGbbm) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Ms\. Bad](https://open.spotify.com/album/0zA9UqxUrEQ2NpI9LkzsdZ) | 3:00 | 2025-07-10 |  |
 | [Muija skarppaa](https://open.spotify.com/track/23qTMUI6zApeIGwhAYCLEt) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Muija skarppaa](https://open.spotify.com/album/0Mw1F00lrPsAQORXl8YMbK) | 2:48 | 2025-06-05 | 2025-06-27 |
 | [Muistan kesän](https://open.spotify.com/track/2kgB86SH8fCymAFqT9StVf) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG) | [Muistan kesän](https://open.spotify.com/album/1Zzjq5kVUff5M60FyTqaaw) | 3:12 | 2025-06-19 |  |

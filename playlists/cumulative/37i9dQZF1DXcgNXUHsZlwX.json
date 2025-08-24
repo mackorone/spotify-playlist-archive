@@ -2221,6 +2221,24 @@
     },
     {
       "album": {
+        "name": "Father Time",
+        "url": "https://open.spotify.com/album/1YC0JBMSbLwt2d62Vw1C3D"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183306,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/4N3p4meY9s1eVWvZ0IIgHP"
+    },
+    {
+      "album": {
         "name": "Feeling Like A Plant",
         "url": "https://open.spotify.com/album/02KDbCTfvENyYrGJxOFyK5"
       },
@@ -7270,7 +7288,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 171546,
       "name": "Qui a mis le feu",
       "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"

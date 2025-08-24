@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 
 > Les plus grands hits français des années 2000\. Photo : Diam's
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,965 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,114 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvv6VnIb3i0.md) - [plain]
 | 59 | [C'est une belle journée](https://open.spotify.com/track/5S7mQHUAKFYsEQOrtTKMth) | [Mylène Farmer](https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD) | [Les mots](https://open.spotify.com/album/5Rc8dzu798sibwLHrk8oDB) | 4:16 |
 | 60 | [Il y a trop de gens qui t'aiment](https://open.spotify.com/track/1fxXW27caC5yWWt1vFTqnF) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 4:27 |
 
-Snapshot ID: `AAAAAP1acABD8lMgKDm8uJt0htKq+Yvm`
+Snapshot ID: `AAAAAGdw1svCNtCym0Fm04+xITBqMk/j`

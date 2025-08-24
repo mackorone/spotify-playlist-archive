@@ -2081,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "Marvelous (Live)",
+        "url": "https://open.spotify.com/album/7MC0d2DF0kSt5stF1ce58g"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Hannah Waters",
+          "url": "https://open.spotify.com/artist/4ikD0yzW2w4xoY6xBla98L"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525690,
+      "name": "Marvelous - Live",
+      "url": "https://open.spotify.com/track/7yGFqQLgDpHmSetmzyWX94"
+    },
+    {
+      "album": {
         "name": "Bethel Music en Espa\u00f1ol (Live)",
         "url": "https://open.spotify.com/album/6vwX3cU4LYtzNsltDuKBqn"
       },
@@ -2306,7 +2328,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 352479,
       "name": "Oh Lord My God - Live",
       "url": "https://open.spotify.com/track/533v8HEqGZiTx7rgqTmP0h"

@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-474 songs - 1 day 3 hr 32 min
+475 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Keep It On The Low \- bullet tooth Remix](https://open.spotify.com/track/6sM5o7qIFUlZqsnql8tLdb) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Keep It On The Low \(bullet tooth Remix\)](https://open.spotify.com/album/3H77xp1GTVFsO5nPzp37RA) | 3:16 | 2023-10-06 | 2024-06-01 |
 | [Kill The Lights](https://open.spotify.com/track/0hHhW734Vnq3DLVd4ApagF) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Kill The Lights](https://open.spotify.com/album/78TdVwMH4fR6fMKgETEBUV) | 2:34 | 2023-10-20 | 2024-08-03 |
 | [Killamanjaro](https://open.spotify.com/track/3TV6mC42yaxfmJNNaup61G) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Killamanjaro](https://open.spotify.com/album/4h8n2kBOltdmxBg5t4kmIr) | 2:58 | 2024-07-25 | 2024-12-16 |
-| [Killamanjaro \- Voltage Remix](https://open.spotify.com/track/70Sy9XUSLLnYIlmuLVypJc) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Killamanjaro \(Voltage Remix\)](https://open.spotify.com/album/3mWRFylYBWDD6ymLHGBEm8) | 3:21 | 2025-05-08 |  |
+| [Killamanjaro \- Voltage Remix](https://open.spotify.com/track/70Sy9XUSLLnYIlmuLVypJc) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Killamanjaro \(Voltage Remix\)](https://open.spotify.com/album/3mWRFylYBWDD6ymLHGBEm8) | 3:21 | 2025-05-08 | 2025-08-24 |
 | [KNOCKIN](https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [KNOCKIN](https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN) | 2:17 | 2025-01-10 | 2025-08-23 |
 | [Know My Name](https://open.spotify.com/track/1JeM2RHVfWP3S4mKE3akNf) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Know My Name](https://open.spotify.com/album/4u3WpX3v5gyBHFqfH5JObW) | 3:03 | 2022-09-30 | 2023-03-02 |
 | [Know What It Means](https://open.spotify.com/track/0RQuLXr0cWjAombfMjdvc3) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Know What It Means](https://open.spotify.com/album/3IexPXzS8noVX2EpbQx5Ds) | 2:40 | 2023-01-25 | 2023-05-19 |
@@ -446,6 +446,7 @@
 | [UFO](https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [UFO](https://open.spotify.com/album/4RDCwwCBcoC2Pv4vOYo7sT) | 2:34 | 2024-07-25 | 2024-09-19 |
 | [Underground Supply](https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM) | [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC), [Molecular](https://open.spotify.com/artist/69dILXHVwcYRPfoOhmd0uj) | [Underground Supply](https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj) | 4:12 | 2024-11-22 | 2025-07-04 |
 | [V2](https://open.spotify.com/track/1aoyPNzIdM7lqaBoaV64Bn) | [DJ Hazard](https://open.spotify.com/artist/04rhebO91K6xoiXE0XuDkh) | [DJ Hazard \- Dub Pack 2](https://open.spotify.com/album/28us1YbeaTvohpPaK5mNAn) | 4:07 | 2024-10-03 | 2024-10-06 |
+| [Vandal](https://open.spotify.com/track/1v0y0o1IDEmUaK40ciELYk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Vandal](https://open.spotify.com/album/3rUMO4nrAab1mOKqZCabml) | 2:41 | 2025-08-22 |  |
 | [Vertigo](https://open.spotify.com/track/2nthNUBMT1nrgZII1mopKM) | [SIREN](https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Vertigo](https://open.spotify.com/album/5OFYWIaj2LruCihkQipBgQ) | 3:46 | 2025-06-12 |  |
 | [Vibe Check](https://open.spotify.com/track/3AqTWTr5ZZ2dic1HaC9Jzs) | [René LaVice](https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v), [Jasmine Knight](https://open.spotify.com/artist/62dzcTsEV21nYVDa3ViUEh) | [Vibe Check](https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra) | 3:10 | 2025-01-10 | 2025-07-04 |
 | [Vibration \(feat\. AR/CO\)](https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Evolve](https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y) | 4:02 | 2023-05-19 | 2024-07-27 |

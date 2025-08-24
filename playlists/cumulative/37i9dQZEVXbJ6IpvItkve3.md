@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,262 songs - 2 day 23 hr 5 min
+1,263 songs - 2 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Auntie Diaries](https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:41 | 2022-05-14 | 2022-05-17 |
 | [AURA](https://open.spotify.com/track/5345G7vEjOT2CvaECkqJiS) | [Adil C](https://open.spotify.com/artist/7x3MbA2lRnl8xXFc9A9uUq) | [AURA](https://open.spotify.com/album/1pCT0io3SFeP6eW228ovUs) | 2:25 | 2023-11-18 | 2023-11-22 |
 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 | 2025-06-15 | 2025-08-19 |
+| [back to friends](https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:19 | 2025-08-23 |  |
 | [BACK TO ME](https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:55 | 2024-02-12 | 2024-02-14 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-05 | 2022-11-07 |
 | [Bad Blood \(Taylor's Version\)](https://open.spotify.com/track/64FzgoLZ3oXu2SriZblHic) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:31 | 2023-10-28 | 2023-10-30 |
@@ -580,7 +581,7 @@
 | [ZITTI E BUONI](https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 3:14 | 2021-05-25 | 2021-06-13 |
 | [Évidemment](https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Évidemment](https://open.spotify.com/album/1V6nmlYGcUbCOfzfhofGPI) | 3:01 | 2023-05-15 | 2023-05-19 |
 | [אבא](https://open.spotify.com/track/3PqHflY0wAwmSAt0pIZRT7) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [לילה כיום יאיר](https://open.spotify.com/album/6MTaG6ouyHqSauq4Xks8E7) | 4:29 | 2023-04-26 | 2023-04-28 |
-| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 |  |
+| [אבא](https://open.spotify.com/track/3DTHsQnfuQVESYAYv0fybQ) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אבא](https://open.spotify.com/album/3zdvjrkYyFilN9XdVwJvYZ) | 3:22 | 2024-10-07 | 2025-08-24 |
 | [אבות ובנים](https://open.spotify.com/track/0LAPb9g7pvLmHgiVVmzyME) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/3b7OPwVWZgm4ifO1iRW5Nk) | 3:52 | 2022-05-05 | 2023-04-28 |
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2023-06-16 | 2025-01-06 |
@@ -1115,7 +1116,7 @@
 | [על מה בנות חושבות בלילה](https://open.spotify.com/track/7LegYLbISvXJFtAr4xDljO) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Doli & Penn](https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3) | [על מה בנות חושבות בלילה](https://open.spotify.com/album/462wpJ2OhZmO2cdcgcwpyq) | 3:14 | 2021-03-27\* | 2021-08-04 |
 | [עם ישראל חי](https://open.spotify.com/track/31HDrKLG70d8SY6UU4sl9l) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [עם ישראל חי](https://open.spotify.com/album/432qmy3EY5mh8NWpwFRYfD) | 3:30 | 2024-04-16 | 2024-05-17 |
 | [עם ישראל חי](https://open.spotify.com/track/5oi46p5BbFdvgI0bAeu1rX) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [עם ישראל חי](https://open.spotify.com/album/6I7n9Q1PmQ7zNQEU4DA51N) | 3:30 | 2023-10-20 | 2024-04-17 |
-| [עקבים וג'ינס](https://open.spotify.com/track/3d1AKnEKf2LBXn7wQUH21B) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:44 | 2025-06-11 |  |
+| [עקבים וג'ינס](https://open.spotify.com/track/3d1AKnEKf2LBXn7wQUH21B) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 3:44 | 2025-06-11 | 2025-08-24 |
 | [ערק](https://open.spotify.com/track/0hOEW1DOcq5pQdoSguJklk) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [ערק](https://open.spotify.com/album/3pT7uVEW2U3A9fKDGihOd8) | 3:21 | 2023-02-03 | 2023-03-05 |
 | [עת הלבנה](https://open.spotify.com/track/3n6kfT0sbKCbHSCmnzTD6w) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Michal Lotan](https://open.spotify.com/artist/7hWv5SCvt8UqC5weIaf4XU) | [הדרך לשביל הזהב](https://open.spotify.com/album/2LxdQMZNXkbyCJm83GltRy) | 3:32 | 2025-01-11 | 2025-01-19 |
 | [פאפי](https://open.spotify.com/track/4uZxeONVzM7MLQqlMmTHMz) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פאפי](https://open.spotify.com/album/1pDWvr5Yc28TEAVgRbU4NO) | 2:14 | 2025-06-30 |  |
@@ -1141,7 +1142,7 @@
 | [פרי גנך](https://open.spotify.com/track/5NtnjAmjgrQnpaIDBLtVZ8) | [Aviva Avidan](https://open.spotify.com/artist/02lzslgWuwHAt9319f49Tc) | [יהיה בסדר](https://open.spotify.com/album/1uaPbHeFNFNSlKjzz4UL9Q) | 5:22 | 2022-05-05 | 2023-04-28 |
 | [פרימיטיבי](https://open.spotify.com/track/3yrRbZeS9ZKLRi2QDRXyrc) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [פרימיטיבי](https://open.spotify.com/album/6OLfMd1jTe6EbfWoknNPzt) | 3:25 | 2022-08-03 | 2022-08-21 |
 | [פרפר](https://open.spotify.com/track/1VHwRD9MZUk5mEx93HeFAP) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [פרפר](https://open.spotify.com/album/5I8SMaiCdvlbSGq0pKR5AG) | 3:53 | 2025-05-23 | 2025-05-31 |
-| [פרפרים](https://open.spotify.com/track/2OhunYlfKcvrwQBStJD5u8) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פרפרים](https://open.spotify.com/album/3cj1pHM00kWJLfzGnpvlXw) | 2:55 | 2025-03-07 | 2025-08-23 |
+| [פרפרים](https://open.spotify.com/track/2OhunYlfKcvrwQBStJD5u8) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פרפרים](https://open.spotify.com/album/3cj1pHM00kWJLfzGnpvlXw) | 2:55 | 2025-03-07 |  |
 | [פרצופים](https://open.spotify.com/track/09PZuKctf7D3RAdaegN7zu) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [פרצופים](https://open.spotify.com/album/4AQtxbh9BLct9Al6PotQlw) | 2:46 | 2021-04-24 | 2021-10-12 |
 | [צ'יק צ'ק](https://open.spotify.com/track/78FrkrO3KgizjXDObyFvzW) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [צ'יק צ'ק](https://open.spotify.com/album/6CPaapRNDzWiDB80rxJ2cn) | 2:12 | 2024-09-15 | 2025-06-02 |
 | [צוחקת ובוכה](https://open.spotify.com/track/2fewVF6oOGKux69rHGbPMq) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [צוחקת ובוכה](https://open.spotify.com/album/7qXbCrX1yBx5FvlchNFCGx) | 3:56 | 2024-01-31 | 2025-07-20 |

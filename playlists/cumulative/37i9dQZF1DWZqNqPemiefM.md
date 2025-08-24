@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-815 songs - 2 day 14 hr 45 min
+816 songs - 2 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [\(Sanity / Vanity\)](https://open.spotify.com/track/2T0DCUfEoHR8eqychnVHxR) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Liberty](https://open.spotify.com/album/0XI6VPGDpg8pW1FxdcoLIw) | 1:03 | 2022-04-16 | 2022-07-19 |
 | [\(T\)here](https://open.spotify.com/track/2UjzRHZRrMPIWmdYdiFwAG) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [\(T\)here](https://open.spotify.com/album/4KcNlLNqndMo3PpJbnYdlh) | 3:07 | 2022-03-31 | 2022-04-09 |
 | [\(Vanity / Sanity\)](https://open.spotify.com/track/20FLPUYREnPl907lQ8MhgV) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Liberty](https://open.spotify.com/album/0XI6VPGDpg8pW1FxdcoLIw) | 1:31 | 2022-04-28 | 2022-06-16 |
-| [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 | 2024-12-10 |  |
+| [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 | 2024-12-10 | 2025-08-24 |
 | [02](https://open.spotify.com/track/50KO4uVeDiQ0XzYNKg3nJv) | [Takashi Ueno](https://open.spotify.com/artist/4LwtyvuBsI2hn1UkgnoZ3K) | [Smoke Under the Water](https://open.spotify.com/album/1Vj1XAkWkjvxCkjEd2lgug) | 10:06 | 2022-03-31 | 2022-04-14 |
 | [14:31](https://open.spotify.com/track/31NqxiLbyEYuH2voZoHk61) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/0CCYU4pfINH3Lt5krDd9JO) | 14:31 | 2024-02-08 | 2024-07-13 |
 | [190306\-11](https://open.spotify.com/track/04P0ErOc0W13SliezFing8) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [草稿](https://open.spotify.com/album/7vnmFoClimIW1xxjyorJJ4) | 2:35 | 2025-03-21 |  |
@@ -271,6 +271,7 @@
 | [Glistering](https://open.spotify.com/track/3tRDHIpV1DVg06HC3LPWRj) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [Lighthouse](https://open.spotify.com/album/2ElcwSiB2mzqR4ducfcsmy) | 4:23 | 2022-04-07 | 2022-07-12 |
 | [Glossolalia \- Kuniyuki Takahashi Remix](https://open.spotify.com/track/1GfYgS7njWsRNxD9LDM3OH) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi), [Kuniyuki Takashi](https://open.spotify.com/artist/7wUWRraZ6MqAnzYgwZeUmk) | [Glossolalia](https://open.spotify.com/album/3YcCFFo4zwo2tjwwXAUDBX) | 5:07 | 2025-03-21 | 2025-04-05 |
 | [glow](https://open.spotify.com/track/4asmbPIUcSXwpZiEfYPZKr) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [glow](https://open.spotify.com/album/1XWY27sxEstsUPRZpEFk6a) | 2:41 | 2025-06-12 | 2025-07-12 |
+| [Glow Echoes](https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Glow Echoes](https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3) | 2:26 | 2025-08-20 |  |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2024-02-08 | 2024-07-13 |
 | [godorkura](https://open.spotify.com/track/4AFFfAFknO8itVzuYspbf7) | [kentaleaux nakajima](https://open.spotify.com/artist/06YnkMNkelZsBFOd85RjcR) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 6:10 | 2022-06-23 | 2022-07-28 |
 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 | 2022-04-07 | 2024-02-09 |

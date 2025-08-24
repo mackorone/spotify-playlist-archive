@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-602 songs - 1 day 13 hr 11 min
+603 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Fou \- Poolside Remix](https://open.spotify.com/track/1HWuPD9JjXtRBp1xqX9KNC) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Fou \(Poolside Remix\)](https://open.spotify.com/album/6ofU9bwcQ8kflxyn5Nc088) | 4:41 | 2020-12-22 | 2022-04-14 |
 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 | 2023-08-11 | 2024-01-27 |
 | [Free \- Folamour Remix](https://open.spotify.com/track/16zYjPEcLGYCOsJOAvwNhn) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Day/Night Remixed](https://open.spotify.com/album/3dYicMi9AWSw7ZO56J8ehf) | 4:42 | 2023-12-01 | 2024-01-13 |
-| [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2024-02-13 |  |
+| [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2024-02-13 | 2025-08-24 |
 | [Freeway Crush \(Edit\)](https://open.spotify.com/track/5fUunJssU1UfTAQpFRdbno) | [Nutrition](https://open.spotify.com/artist/7lAeHqMt2kZ5A81tT9767x) | [Freeway Crush \(Edit\)](https://open.spotify.com/album/24uUEwVT99eWD8IDNMqxUA) | 5:35 | 2020-12-22 | 2022-04-21 |
 | [Friends](https://open.spotify.com/track/7oEO6TfBGcyJw8ZpP8e8i2) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Friends](https://open.spotify.com/album/4jStOidSdXoVBPdgVUj0po) | 3:26 | 2020-12-22 | 2022-04-21 |
 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 | 2020-12-22 | 2022-11-13 |
@@ -390,6 +390,7 @@
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/01W0uSuNffDSC2RT8Cjha3) | 6:11 | 2020-12-22 | 2022-04-20 |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/3qOuySPLpVyBXLuTNMgbRj) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/1KwcjMbLdbmGBvHFRjNWCo) | 6:11 | 2020-12-22 | 2024-01-27 |
 | [One Day at a Time](https://open.spotify.com/track/1xt9Nzh3Gc7oFdNIIbbvJr) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [One Day at a Time](https://open.spotify.com/album/0cFFxwnLmAYZhMwHSYPAkA) | 3:12 | 2023-11-17 | 2023-12-02 |
+| [One Day I'll Get It Right](https://open.spotify.com/track/3NPZBNLQQmH9Onvsqn4xgd) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [One Day I'll Get It Right](https://open.spotify.com/album/5c5yABhJKhAueZ0kkWbfBD) | 3:41 | 2025-08-22 |  |
 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 | 2023-12-08 | 2024-03-02 |
 | [Onewish](https://open.spotify.com/track/4gQMYhluJXtB10cEXdymYL) | [Michael David](https://open.spotify.com/artist/5C1YLUNAIIJEU0Zrl251QX) | [Onewish](https://open.spotify.com/album/7A7W44SGbNRuJjzSO8FXXy) | 5:57 | 2020-12-22 | 2022-07-29 |
 | [Only](https://open.spotify.com/track/0A9fNzuRa0WqaCmxY7FOLK) | [Patrick Baker](https://open.spotify.com/artist/73PTYegu3D1i5vRERzcBhT) | [Only](https://open.spotify.com/album/1XuuSIOYNqPcZSlgkl9H06) | 4:23 | 2020-12-22 | 2022-04-21 |

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Marius",
+        "url": "https://open.spotify.com/album/24eMqW97PMSCAhtfqEpQKf"
+      },
+      "artists": [
+        {
+          "name": "Mokado",
+          "url": "https://open.spotify.com/artist/7HcpL1hlldlRNiycXgJrAw"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233173,
+      "name": "1968",
+      "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
+    },
+    {
+      "album": {
         "name": "Stalk 2 (Original Series Soundtrack - Saison 2)",
         "url": "https://open.spotify.com/album/1dfdXUFKcVdzDIXhn8Y46S"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Instrumental Version",
       "url": "https://open.spotify.com/track/5qqgnwZq7WRgk2vWNLPlDY"
@@ -164,7 +182,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-25",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "ALMA",
       "url": "https://open.spotify.com/track/7gh7yT4rhI3E51byIWhgjM"
@@ -204,7 +222,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
@@ -287,6 +305,28 @@
     },
     {
       "album": {
+        "name": "Bloom In The Cold",
+        "url": "https://open.spotify.com/album/02OyJh302Y5RUnrI1GqeKX"
+      },
+      "artists": [
+        {
+          "name": "KIDS\u00d8",
+          "url": "https://open.spotify.com/artist/7qJHwvMJBW2Da8kt79uexr"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263575,
+      "name": "Bloom In The Cold",
+      "url": "https://open.spotify.com/track/3VH1pgtGlayAWg2s19IDed"
+    },
+    {
+      "album": {
         "name": "Bodhisattva",
         "url": "https://open.spotify.com/album/01qjZq4TnAS62xtvaUwuph"
       },
@@ -352,7 +392,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 122401,
       "name": "Colours of Arps",
       "url": "https://open.spotify.com/track/4lzPDJEyZFpw7K8h5m2OWG"
@@ -388,7 +428,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "crush as you burn",
       "url": "https://open.spotify.com/track/5t6uN7HfHFlooRP005c5pi"
@@ -450,7 +490,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 221317,
       "name": "DIA - Birrd Rework",
       "url": "https://open.spotify.com/track/3P6EZuulylLhdPtyP6x8LN"
@@ -468,7 +508,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 465833,
       "name": "Die Dunkle Biene",
       "url": "https://open.spotify.com/track/1o4fh5viAo0ajgYs1IpqCP"
@@ -946,7 +986,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 397216,
       "name": "In Between (Memories and Dreams)",
       "url": "https://open.spotify.com/track/5drR4fvdJgyGW6qxvErptp"
@@ -1304,7 +1344,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "Open",
       "url": "https://open.spotify.com/track/3c6bmhP5BWJmggel5FF1Lz"
@@ -1592,7 +1632,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 169189,
       "name": "Sirene",
       "url": "https://open.spotify.com/track/3T2oIu6ppEekNvlYQHL8y2"
@@ -1610,7 +1650,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 140485,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5r65zQZEupyuEO0HxPOIyn"
@@ -1664,7 +1704,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 472698,
       "name": "Space Bunny",
       "url": "https://open.spotify.com/track/1FTpgO7f4gWEpKwSUo7tHE"
@@ -1682,7 +1722,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 282464,
       "name": "Space Race",
       "url": "https://open.spotify.com/track/0xwdddgB2jZ93gUE2MmLQY"
@@ -1718,7 +1758,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 230005,
       "name": "Suicul",
       "url": "https://open.spotify.com/track/6iUUDX6KuKKv0DUSUgmLjU"
@@ -1794,7 +1834,7 @@
       ],
       "date_added": "2025-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-16",
+      "date_removed": null,
       "duration_ms": 280312,
       "name": "there is nothing to be afraid of",
       "url": "https://open.spotify.com/track/3hHbItjQktd8Ycyam2TZIJ"
@@ -1866,7 +1906,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 259303,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1kL9Mo5YH37e2POJpqR5Ui"
@@ -1902,7 +1942,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 245706,
       "name": "Void Loop",
       "url": "https://open.spotify.com/track/67PhsJ3qXCLORv16JTniDM"
@@ -2014,7 +2054,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 489523,
       "name": "White Clouds",
       "url": "https://open.spotify.com/track/4NJvhKZO5KNkfuB05HTWb0"
@@ -2050,7 +2090,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 280357,
       "name": "Wind Runner",
       "url": "https://open.spotify.com/track/6uobAqU4RKxlHkFJ7aH3XJ"
@@ -2090,7 +2130,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 300687,
       "name": "You Know (We Won't Remember)",
       "url": "https://open.spotify.com/track/15W32cDfIWtXMxcywcUlhF"

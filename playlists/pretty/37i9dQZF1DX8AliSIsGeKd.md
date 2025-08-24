@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Peer Kusiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,884 likes - 90 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,156 likes - 90 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 24 | [Ant Club](https://open.spotify.com/track/6p5NYIVQufj7KWZX4a3n6z) | [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [Good Trip](https://open.spotify.com/album/6bbXH0S4ph4Vkpd47OuNxC) | 5:04 |
 | 25 | [Think About Me](https://open.spotify.com/track/0D7oxsjjyFV8qjSUgRt8LL) | [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O), [Intara](https://open.spotify.com/artist/3wpZISujzbcdOqC3OYArcy) | [Think About Me](https://open.spotify.com/album/3b4HODIwJDhwdtrJt3UNTW) | 4:12 |
 | 26 | [Innelvisun](https://open.spotify.com/track/47egdrS9XNxSjaH98PjXMI) | [MMYYLO](https://open.spotify.com/artist/0SbN9MjYIRrGSpHoXjJtIB) | [Innelvisun](https://open.spotify.com/album/738evR2smzlNzsIHe7JPBI) | 6:08 |
-| 27 | [Lost in Space](https://open.spotify.com/track/2RXyYe1ixle95O0ZycRLdS) | [AANN](https://open.spotify.com/artist/11n2xcTaJR5Ynum6tvN9AS), [Anchi](https://open.spotify.com/artist/0ZhsFRPe9Q1Bjs3Am6JMnj) | [Lost In Space](https://open.spotify.com/album/5Bl0sY9c2gGNMEYXpqOVxN) | 4:03 |
+| 27 | [Lost in Space](https://open.spotify.com/track/2RXyYe1ixle95O0ZycRLdS) | [AANN](https://open.spotify.com/artist/11n2xcTaJR5Ynum6tvN9AS), [Anchi](https://open.spotify.com/artist/40jW9AJ9CtZTTKIORVPSR2) | [Lost In Space](https://open.spotify.com/album/5Bl0sY9c2gGNMEYXpqOVxN) | 4:03 |
 | 28 | [Gloria](https://open.spotify.com/track/2DKEkN8RzIpKUzvNYjduuQ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f) | [Gloria](https://open.spotify.com/album/5RrtetFG914M55NGHsR1W3) | 3:01 |
 | 29 | [EVOLV3](https://open.spotify.com/track/6s1cLsWYtrpVlz6sEKIo4Y) | [Agustina Aliaga](https://open.spotify.com/artist/79V45UnKkn86CxN6jfi6Lk) | [EVOLV3](https://open.spotify.com/album/4IXqGfqOQImUWBZbxLpSPg) | 4:07 |
 | 30 | [Acid Ghost \- Original Mix](https://open.spotify.com/track/1SqcCCfw1EtOhHzAcv3mMI) | [LEVT](https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn), [Avis Vox](https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc) | [Acid Ghost \(Original Mix\)](https://open.spotify.com/album/04NDgQQvEOzsZc55GsfUuZ) | 4:58 |

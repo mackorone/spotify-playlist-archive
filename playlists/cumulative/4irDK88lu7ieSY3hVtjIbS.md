@@ -4,7 +4,7 @@
 
 > Degeneracy at its finest!
 
-79 songs - 3 hr 21 min
+80 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [The Bad Touch](https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG) | [Bloodhound Gang](https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh) | [Hooray For Boobies](https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh) | 4:20 | 2024-12-07 |  |
 | [Welcome to the Cum Zone](https://open.spotify.com/track/71uOI9EXy6Se81tMIxjPgU) | [Disterio](https://open.spotify.com/artist/41kP8XzWKKaF6Y7VEw6N6I) | [Welcome to the Cum Zone](https://open.spotify.com/album/4PGOnnwwYmohuNNap2nOLd) | 3:41 | 2024-09-19 |  |
 | [where my balls at?](https://open.spotify.com/track/4yETQkdPKF1GyuxaLDT9Gt) | [SKULL BASH!](https://open.spotify.com/artist/0uXJO1Yg2Mpa4sSsLWug7B), [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0), [CrabMaster69](https://open.spotify.com/artist/36HhEob5fxekAR20FUppPj), [pink\-o](https://open.spotify.com/artist/4NEKwBy2lOXiHREvywQ5hp), [DEMGOZÉ](https://open.spotify.com/artist/7fHmilC3fxa1zHn9KpNUBm) | [neurotypical](https://open.spotify.com/album/7G9udxNfTrY3lb3pZgboSm) | 2:08 | 2024-01-09 |  |
+| [Wooden Ships \- 2005 Remaster](https://open.spotify.com/track/39m6vOwUEgjErRnsm93wu2) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 5:26 | 2025-08-23 |  |
 | [YINZFUR](https://open.spotify.com/track/386dEt6rsPRRZ0THPDACG2) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [YINZFUR](https://open.spotify.com/album/6vPiRMWwAw89a06PyJvKdl) | 2:33 | 2025-05-16 |  |
 | [Your Cum Won't Last](https://open.spotify.com/track/4LHNsxVAQIFhICivNE9bOC) | [TabbyGarf](https://open.spotify.com/artist/2xm78YzOaTYiABpd8mLrkM) | [Apocalypse 1.2](https://open.spotify.com/album/61hzq6ebaUMZuQb4zm0iY7) | 1:40 | 2024-01-08 |  |
 

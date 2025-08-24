@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Stray Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,865 likes - 136 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,859 likes - 136 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

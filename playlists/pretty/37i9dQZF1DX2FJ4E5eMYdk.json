@@ -1,6 +1,6 @@
 {
   "description": "groovy.",
-  "num_followers": 188075,
+  "num_followers": 188105,
   "original_name": "Psych & Groove",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-05 19:49:15",
       "album": {
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
+      },
+      "artists": [
+        {
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
+        }
+      ],
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
+    },
+    {
+      "added_at": "2024-07-05 19:49:15",
+      "album": {
         "name": "Althea",
         "url": "https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 219226,
       "name": "Far Out Feeling",
       "url": "https://open.spotify.com/track/6CzVJHTzNbvxdb6wwH4WiQ"
-    },
-    {
-      "added_at": "2024-07-05 19:49:15",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     }
   ],
   "unique_name": "Psych & Groove",

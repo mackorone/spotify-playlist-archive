@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Billy Porter
 
-317 songs - 19 hr 33 min
+318 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Like You Do](https://open.spotify.com/track/63QhzuRjv4CwRiS5S2jbnd) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Like You Do](https://open.spotify.com/album/0C6DTs2pX6d1DOV4OS6a9g) | 5:23 | 2022-11-18 | 2023-04-09 |
 | [Lilliputian Chop](https://open.spotify.com/track/7ugZBeWH6nrtgPeP0vnoEB) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Lilliputian Chop](https://open.spotify.com/album/345QsP4NPgD3FMDtgjkCvQ) | 3:37 | 2024-08-09 |  |
 | [Lionel Richie](https://open.spotify.com/track/12NoB9QOi50RHQl6C5xg3F) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/1onqdmFxHDk2sMBhYATWX3) | 4:27 | 2022-10-14 | 2024-04-19 |
-| [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 |  |
+| [Lionel Richie](https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf) | [The Jack Moves](https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp) | [Cruiserweight](https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI) | 4:27 | 2022-10-14 | 2025-08-24 |
 | [Living the Fantasy \- Edit](https://open.spotify.com/track/1YpxUaqkz9YOscGXTjkd5i) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ) | [Living the Fantasy](https://open.spotify.com/album/3CcdvFekEwCCuFAuIF683D) | 4:42 | 2022-04-29 | 2023-04-09 |
 | [Lost & Found](https://open.spotify.com/track/0t333Rq2na4uyt29VfXU1s) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/4ASxmYeXQfUMcaDAxAgx2a) | 3:59 | 2022-11-25 | 2024-03-23 |
 | [Lost & Found](https://open.spotify.com/track/6A7HqsKxJMFhu445YhVEes) | [LOU'ANA](https://open.spotify.com/artist/6bmZe9cAGCwdOgriWbhhy7) | [Lost & Found](https://open.spotify.com/album/3HZENo8xClrt9dUyFubNrl) | 3:59 | 2022-11-25 | 2023-07-27 |
@@ -299,6 +299,7 @@
 | [Tunnel Vision](https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Tunnel Vision](https://open.spotify.com/album/44Dfv0I0KJuoKnN9wvctkV) | 3:45 | 2023-05-26 |  |
 | [Tunnel Vision](https://open.spotify.com/track/7E8AOsIgNo1KKzmD21d21h) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Art of Loving You](https://open.spotify.com/album/4DWsGZrf8adwrx0FFR5kWx) | 3:45 | 2023-05-26 | 2024-01-12 |
 | [Turn Back Time \(feat\. Alexandra Prince\)](https://open.spotify.com/track/5ZPVXbxtab4liZabBCMiUV) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Blurry Dreams Of You](https://open.spotify.com/album/5dimhizjBzHvYXDbc9IQpf) | 3:22 | 2021-07-16 | 2022-09-03 |
+| [Turn This Love Around](https://open.spotify.com/track/1NTMY22seuV6Rvvt8BYTnN) | [Mondo Freaks](https://open.spotify.com/artist/5Bb3BN9iluGrIHhDcpuKiL) | [Turn This Love Around](https://open.spotify.com/album/6QaL165e30ANBH3oj5X7Ll) | 5:16 | 2025-08-22 |  |
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 | 2023-07-15 |
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 | 2022-07-15 | 2023-05-27 |

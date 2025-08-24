@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BqCYCcGsrh.md) - [plain]
 
 > 日本のロック・シーンの中でも特異な進化と深化を続けるRADWIMPSのオール・タイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,484 likes - 88 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,530 likes - 88 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

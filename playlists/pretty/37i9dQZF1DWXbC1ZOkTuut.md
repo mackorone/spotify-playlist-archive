@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Los Primos del Este
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,897 likes - 182 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,923 likes - 182 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

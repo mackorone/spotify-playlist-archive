@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-322 songs - 19 hr 13 min
+323 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [AZA](https://open.spotify.com/track/5lUfB7ag3yKU1zaRJTfhiz) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Rupali Moghe](https://open.spotify.com/artist/3quVbB0VVwzGIU1FRBWpX0) | [AZA](https://open.spotify.com/album/5ErDBmsvIr2COs3r227aWc) | 2:40 | 2024-07-12 | 2024-08-02 |
 | [Baari Baari](https://open.spotify.com/track/3JzOgUOqUKgkWwlb7rpg1J) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Baari Baari](https://open.spotify.com/album/1O4Niv4qNjk0c5nAvklHQb) | 2:31 | 2025-06-18 | 2025-07-08 |
 | [Baazi](https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Baazi](https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs) | 3:28 | 2022-05-13 | 2023-02-11 |
+| [Badli Si Hawa Hai \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/track/725XQXb7uj7EYSBFQdbq8d) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Badli Si Hawa Hai \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/album/3qzI19MclIFnlrND2lEEf6) | 4:01 | 2025-08-23 |  |
 | [Badtameez Dil](https://open.spotify.com/track/4eu27jAU2bbnyHUC3G75U8) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Shefali Alvares](https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:12 | 2025-01-08 |  |
 | [Balam Pichkari](https://open.spotify.com/track/18e3XXYCv4Tx8uUl1mP3CN) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 4:48 | 2023-09-11 |  |
 | [Bam Bam Bhole \- From "Sikandar"](https://open.spotify.com/track/5fRN1ylOoNE3p85zwksuwf) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH) | [Bam Bam Bhole \(From "Sikandar"\)](https://open.spotify.com/album/39rvScfuks8QH4LvfB8rmk) | 3:38 | 2025-03-11 | 2025-04-15 |

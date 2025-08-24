@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Remission",
+        "url": "https://open.spotify.com/album/1aQZecM7d2R3SvPs2HNNIA"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Where Strides the Behemoth",
+      "url": "https://open.spotify.com/track/5bH8p7BIFSZg5OBPJpOhgC"
+    },
+    {
+      "album": {
         "name": "Medium Rarities",
         "url": "https://open.spotify.com/album/3xeGtowrXCRjPOmZahNAoW"
       },

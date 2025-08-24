@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,510 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,532 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 17 | [Jumpin' \- Wh0 Remix](https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Martha Wash](https://open.spotify.com/artist/7htVGwGw3uAa7Axft4MTnx), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Jumpin' \(Wh0 Remix\)](https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P) | 2:59 |
 | 18 | [Hi Life](https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Hi Life](https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB) | 2:09 |
 | 19 | [Tell Me What You Want](https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Tell Me What You Want](https://open.spotify.com/album/4rd5c66hQdMosQrB7O7zHi) | 2:40 |
-| 20 | [One More Time \- Radio Edit](https://open.spotify.com/track/1weWf5tPY5j9a5WfUW8J00) | [Janika Tenn](https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC) | [One More Time](https://open.spotify.com/album/3KCYjWy3k62TkT7kSJKyn9) | 2:50 |
+| 20 | [One More Time](https://open.spotify.com/track/1weWf5tPY5j9a5WfUW8J00) | [Janika Tenn](https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC) | [One More Time](https://open.spotify.com/album/3KCYjWy3k62TkT7kSJKyn9) | 2:50 |
 | 21 | [Freedom \- Todd Terry Edit Mix](https://open.spotify.com/track/2O1EEwAr3Pr7biGE2BgZ4g) | [Block & Crown](https://open.spotify.com/artist/5jO3o2nsu0GTQBc8Lgcna7), [Pretty Poison](https://open.spotify.com/artist/4Xe7UmOgczT2GMm5uK8Axu), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Freedom](https://open.spotify.com/album/1iScW5oD6zz2cCUCptDupi) | 3:01 |
 | 22 | [Feel Real Good](https://open.spotify.com/track/2TCRA9ufgB5ThqH61P59X2) | [Smokin Jo](https://open.spotify.com/artist/2j0rweTjMkl2QBiRdRpnkp), [James Hurr](https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL) | [Feel Real Good](https://open.spotify.com/album/5slCoZ4927sCporlUw7NCy) | 3:10 |
 | 23 | [The Night Train](https://open.spotify.com/track/3DyYmX2eWjne3ZyTdqs88h) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft), [Kadoc](https://open.spotify.com/artist/6irsncmHuDIN0daWPyEZ6Y) | [The Night Train](https://open.spotify.com/album/6ZJvxl2omjO1bZsRLPh5If) | 2:55 |

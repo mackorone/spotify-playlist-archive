@@ -1,12 +1,12 @@
 {
   "description": "The hottest music from the hottest desert. Cover: Tinariwen.",
-  "num_followers": 445294,
+  "num_followers": 445380,
   "original_name": "Sahara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANFFtxiQC6Xibv1eO8XSKWDyPcLF",
+  "snapshot_id": "AAAAAEH1SCn7JOtCrjgLafllDYCG+Avp",
   "tracks": [
     {
       "added_at": "2025-08-06 07:18:28",
@@ -915,26 +915,18 @@
     {
       "added_at": "2025-08-06 07:18:28",
       "album": {
-        "name": "3 MA (Madagascar, Mali, Maroc)",
-        "url": "https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2"
+        "name": "Samba",
+        "url": "https://open.spotify.com/album/4nMZahJAJVwPJxFT8d9rbN"
       },
       "artists": [
         {
-          "name": "Rajery",
-          "url": "https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB"
-        },
-        {
-          "name": "Ballak\u00e9 Sissoko",
-          "url": "https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY"
-        },
-        {
-          "name": "Driss El Maloumi",
-          "url": "https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB"
+          "name": "Vieux Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze"
         }
       ],
-      "duration_ms": 88360,
-      "name": "Taxi Brousse",
-      "url": "https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi"
+      "duration_ms": 338292,
+      "name": "Bonheur",
+      "url": "https://open.spotify.com/track/5kViRh5yrBIftTjX44FMwJ"
     }
   ],
   "unique_name": "Sahara",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > solo rolitas que son un vibe ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,834 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,830 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 99 | [arrancame los labios](https://open.spotify.com/track/3xmjxQo1eSqn8ouPs9o5vV) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [MAYDAY](https://open.spotify.com/album/2K7GpirzWntlt2T0EthNF1) | 1:53 |
 | 100 | [hits!](https://open.spotify.com/track/7xVFMrKbLhX9nQZdaqkQq1) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Ya no quiero quererte](https://open.spotify.com/album/5kydA38VJT7FC4ena12GQa) | 2:54 |
 
-Snapshot ID: `AAAAABLcx3ZSSHcG/E/7skvV9HCU8aam`
+Snapshot ID: `AAAAALiJ6Ulzt6Jso+Xepps7HZYzJJmQ`

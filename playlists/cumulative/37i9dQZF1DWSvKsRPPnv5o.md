@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: Kalan.FrFr
 
-1,342 songs - 2 day 14 hr 23 min
+1,344 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Clicc House](https://open.spotify.com/track/7ogR6xU6rvruSU26LHCnN7) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Tha Clicc House](https://open.spotify.com/album/3mCfrb3ilfikG8SeCJ953i) | 2:29 | 2024-05-31 | 2024-06-15 |
 | [Clip In A Tray \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/1Bs02vi750lAWnoGquizgR) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [The Alchemist Sandwich](https://open.spotify.com/album/17tk2ot2eZqzhlF1nlcFPa) | 3:03 | 2022-12-16 | 2023-02-04 |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-02-11 | 2022-03-05 |
+| [Co\-Pilot](https://open.spotify.com/track/5Ey5CuWqFess69m5vi1Hvt) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [California Player](https://open.spotify.com/album/0sZWaBtpP7HSbfR0GZdjJ0) | 1:34 | 2025-08-22 |  |
 | [Cold Stepper](https://open.spotify.com/track/4Pamq0oEC8imWMOwWT3v8D) | [Rowdy Racks](https://open.spotify.com/artist/5fyorxDaYqaub7fnjYYgFe) | [The Kick Off](https://open.spotify.com/album/6iPRyGEo3zvY1u7gepOjp5) | 2:41 | 2024-03-15 | 2024-04-06 |
 | [Collective](https://open.spotify.com/track/1zW1v0vbAA8g8OGgXjBmsW) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [SOUTH CENTRAL](https://open.spotify.com/album/4TE5jvK6ZRAhPmeUuvRV67) | 2:52 | 2022-12-16 | 2023-04-09 |
 | [Color Blind](https://open.spotify.com/track/1XkYQTEznERxX1SF7fIRBQ) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs) | [Color Blind](https://open.spotify.com/album/5yjH7hdMgbNp0eVOFjrK0j) | 2:34 | 2023-10-13 | 2023-10-28 |
@@ -1236,7 +1237,7 @@
 | [Too Much](https://open.spotify.com/track/5qSi7lvjqNhdf8UHrY4rih) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Too Much](https://open.spotify.com/album/4BH9HVBkiLDccalFGviYm2) | 2:32 | 2025-06-06 | 2025-06-14 |
 | [Tootsies](https://open.spotify.com/track/0OQPugEZknTG0zpU92AsOr) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 2:40 | 2022-07-01 | 2022-10-01 |
 | [Top](https://open.spotify.com/track/3qINPOfejlN331MAmdz0XK) | [Baby Stone Gorillas](https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3), [Gotdamnitdupri](https://open.spotify.com/artist/5JPm0OhnoxswDh5mxZ0JYs), [Saviii 3rd](https://open.spotify.com/artist/2Xs5d841h62itOX9RuPjk2) | [GOTDAMNIT BABYSTONES 2](https://open.spotify.com/album/2KUliAiO3UiJtDspsSXexx) | 2:36 | 2023-08-25 | 2024-06-15 |
-| [Top 1 Freestyle](https://open.spotify.com/track/3HeDy7wLYehNNY4yB8bjOV) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Top 1 Freestyle](https://open.spotify.com/album/3crXt1nlPt7kAvTupH24z7) | 2:10 | 2025-08-08 |  |
+| [Top 1 Freestyle](https://open.spotify.com/track/3HeDy7wLYehNNY4yB8bjOV) | [Drexthejoint](https://open.spotify.com/artist/7hT5GQVXlvbKUy8tWa5Vkl) | [Top 1 Freestyle](https://open.spotify.com/album/3crXt1nlPt7kAvTupH24z7) | 2:10 | 2025-08-08 | 2025-08-24 |
 | [Top 5](https://open.spotify.com/track/1B6chnMd2pBfcf3UpicYuV) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Fired Up](https://open.spotify.com/album/2UylDKg266I7XJOxubaRte) | 3:17 | 2025-06-13 | 2025-06-28 |
 | [TOPLESS](https://open.spotify.com/track/4nMXpLZYke89xP4MV9ClGB) | [Devin Malik](https://open.spotify.com/artist/3mhGKo6sIMtVoPUu3t9p16), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [DEADSTOCK: ALT ENDING](https://open.spotify.com/album/0VoMhVda2RvI7rwOAPzyv3) | 3:00 | 2024-12-09 | 2025-02-15 |
 | [Touch Down](https://open.spotify.com/track/4K4GL5CVZrkQFj1xb22gRP) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Back In Bidness](https://open.spotify.com/album/4HSp7P3k3jmgx4jsycE7of) | 3:23 | 2025-04-04 |  |
@@ -1331,6 +1332,7 @@
 | [Work](https://open.spotify.com/track/0qtj507DWXEbfJpIxAMtB9) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Work](https://open.spotify.com/album/2UyogKVq8SYD2OBXZo6fdG) | 2:15 | 2024-06-21 | 2025-04-05 |
 | [Work Hard Play Hard](https://open.spotify.com/track/0MWlasabRTIdgdgiL6X0kL) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Work Hard Play Hard](https://open.spotify.com/album/7K5QF7IKkpiwp3dxncldp1) | 3:31 | 2023-06-23 | 2023-10-14 |
 | [Wrist Cold](https://open.spotify.com/track/4y2LMDSuLaSpuyvNti2XtK) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Wrist Cold](https://open.spotify.com/album/4461MJpUXZJAxldXTcD5CY) | 2:38 | 2023-08-04 | 2024-05-18 |
+| [WTF](https://open.spotify.com/track/4YNZUAr2uWtTvrya5frlMc) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [California Player](https://open.spotify.com/album/0sZWaBtpP7HSbfR0GZdjJ0) | 2:49 | 2025-08-22 |  |
 | [WTF](https://open.spotify.com/track/2ejZLWVTTr39e67FWxfWig) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [WTF](https://open.spotify.com/album/5OaohkvXwsVZXcBy7uhAdW) | 2:07 | 2022-02-18 | 2022-04-23 |
 | [XXL Letterman](https://open.spotify.com/track/0ly2UTtr5CVIGU9OGEYNeh) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [XXL Letterman](https://open.spotify.com/album/6tbgR4I7I1ROBVXlcABgXY) | 1:56 | 2023-11-03 | 2023-11-11 |
 | [Ya Feel Me](https://open.spotify.com/track/6vYcahYlvDglD2q1xAoMOa) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Ya Feel Me](https://open.spotify.com/album/0qlOJtCUJ7rJKjbxjIzlLI) | 3:44 | 2025-07-04 | 2025-07-12 |

@@ -4,7 +4,7 @@
 
 > This is Rico Nasty\. The essential tracks, all in one playlist.
 
-56 songs - 2 hr 31 min
+57 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [IPHONE](https://open.spotify.com/track/2dMvqE5MHPH7Ksd5pQqFmL) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IPHONE](https://open.spotify.com/album/3W1t0g3DKrT0G3vXsr7CA3) | 2:38 | 2025-06-11 |  |
 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 | 2025-06-11 |  |
 | [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/0cTXMFCmkA6t8bSpX16K6Q) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USB](https://open.spotify.com/album/0KtLq4mTF0Qoz4rVTcHeg7) | 3:33 | 2025-07-18 | 2025-08-05 |
-| [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jungle \(Rico Nasty Remix\)](https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2) | 3:33 | 2025-07-09 |  |
+| [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/1c4R7VEZSRIqO2eGR9LKXX) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jungle \(Rico Nasty Remix\)](https://open.spotify.com/album/6dEwlsUtkc8WRN8oYejxH2) | 3:33 | 2025-07-09 | 2025-08-24 |
+| [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/51ZdiAjVcjhGGHO83nyYwv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 3:33 | 2025-08-24 |  |
 | [Jungle \- Rico Nasty Remix](https://open.spotify.com/track/3ycgBFWvzxjLtY2YJuQMms) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 3:33 | 2025-06-11 | 2025-07-09 |
 | [Key Lime OG](https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Sugar Trap 2](https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt) | 3:01 | 2025-06-11 |  |
 | [Let It Out](https://open.spotify.com/track/1VFUkBoMOP4og0qandDdXC) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL) | 2:28 | 2025-06-11 |  |

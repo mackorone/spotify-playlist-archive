@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 7473,
+  "num_followers": 7476,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKZhgAAAAAACjI+0zErKmxT7jGmalWcQ",
+  "snapshot_id": "aKezAAAAAAC11i4BGHkElbCcQv7Jij4g",
   "tracks": [
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Terry Da Rapman",
-          "url": "https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I"
-        }
-      ],
-      "duration_ms": 256417,
-      "name": "Bother You (feat. Terry Da Rapman)",
-      "url": "https://open.spotify.com/track/6YI8BQfLb1QdlTjB4lduCK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mad Over Hills",
         "url": "https://open.spotify.com/album/7JRmK6GrPkncTiyNiA8TAH"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 154529,
       "name": "Mad Over Hills",
       "url": "https://open.spotify.com/track/4GmccSWLJaFOeoH8JATCHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Terry Da Rapman",
+          "url": "https://open.spotify.com/artist/2c3cCZQWFnwXnnZRhlvK5I"
+        }
+      ],
+      "duration_ms": 256417,
+      "name": "Bother You (feat. Terry Da Rapman)",
+      "url": "https://open.spotify.com/track/6YI8BQfLb1QdlTjB4lduCK"
     },
     {
       "added_at": null,
@@ -983,26 +983,6 @@
       "duration_ms": 210840,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 199650,
-      "name": "Suffer Head",
-      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
     }
   ],
   "unique_name": "This Is 2Baba",

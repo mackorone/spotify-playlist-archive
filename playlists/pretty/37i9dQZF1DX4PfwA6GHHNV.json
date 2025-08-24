@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 21637,
+  "num_followers": 21638,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,30 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
         "name": "Comme Avant",
         "url": "https://open.spotify.com/album/03VKPUdiQKZkV1Gzv74jIi"
       },
@@ -443,22 +467,6 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
-      },
-      "artists": [
-        {
-          "name": "Low Jay",
-          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "ENCORE",
-      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
         "name": "Change Your Mind (feat. Shaboozey)",
         "url": "https://open.spotify.com/album/0R7h1dcOEezYPOnjsVD10M"
       },
@@ -475,6 +483,22 @@
       "duration_ms": 148705,
       "name": "Change Your Mind (feat. Shaboozey)",
       "url": "https://open.spotify.com/track/7LMIWqg2QKLqGYRExvPBTC"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/022Ky25HgtR8oMa8mzrCSD"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ENCORE",
+      "url": "https://open.spotify.com/track/2x9HB7pnBoOd876fwH0ukU"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -499,26 +523,6 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "Repare",
-        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Repare",
-      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
         "name": "1001 Noites",
         "url": "https://open.spotify.com/album/3ztMzheeiFr2sy4Ttp85Fz"
       },
@@ -539,22 +543,46 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
-        "name": "O Sil\u00eancio Que Grita",
-        "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
+        "name": "Repare",
+        "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
       },
       "artists": [
         {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
         },
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
         }
       ],
-      "duration_ms": 218881,
-      "name": "Direito de Amar",
-      "url": "https://open.spotify.com/track/1R2iq7PUBIgp2BP0FZSHiu"
+      "duration_ms": 202245,
+      "name": "Repare",
+      "url": "https://open.spotify.com/track/5GDYaL3iDyvpIIGdnyYS1R"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
+        "name": "Baile Em Chamas",
+        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "DJ 2L da Rocinha",
+          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Baile Em Chamas",
+      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -571,6 +599,26 @@
       "duration_ms": 129806,
       "name": "Repara",
       "url": "https://open.spotify.com/track/7v35WhMHnJr31gQUvU6I1a"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
+        "name": "O Sil\u00eancio Que Grita",
+        "url": "https://open.spotify.com/album/6dyzdn5KrBgmmQnznQI1PO"
+      },
+      "artists": [
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 218881,
+      "name": "Direito de Amar",
+      "url": "https://open.spotify.com/track/1R2iq7PUBIgp2BP0FZSHiu"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -639,6 +687,26 @@
     {
       "added_at": "2025-08-22 17:11:08",
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150094,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
+    },
+    {
+      "added_at": "2025-08-22 17:11:08",
+      "album": {
         "name": "Dengo",
         "url": "https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L"
       },
@@ -659,26 +727,6 @@
       "duration_ms": 245841,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150094,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
     },
     {
       "added_at": "2025-08-22 17:11:08",
@@ -1203,54 +1251,6 @@
       "duration_ms": 144000,
       "name": "Natureza",
       "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-08-22 17:11:08",
-      "album": {
-        "name": "Baile Em Chamas",
-        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "DJ 2L da Rocinha",
-          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Baile Em Chamas",
-      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
     }
   ],
   "unique_name": "pique afrobeats",

@@ -1471,6 +1471,24 @@
     },
     {
       "album": {
+        "name": "Crosby, Stills & Nash",
+        "url": "https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326293,
+      "name": "Wooden Ships - 2005 Remaster",
+      "url": "https://open.spotify.com/track/39m6vOwUEgjErRnsm93wu2"
+    },
+    {
+      "album": {
         "name": "YINZFUR",
         "url": "https://open.spotify.com/album/6vPiRMWwAw89a06PyJvKdl"
       },

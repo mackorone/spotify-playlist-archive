@@ -1,12 +1,12 @@
 {
   "description": "This is Charli xcx. The essential tracks, all in one playlist.",
-  "num_followers": 175375,
+  "num_followers": 175451,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKZhgAAAAACIBSGCYhT/7K+IEWeatPiH",
+  "snapshot_id": "aKezAAAAAAD1wf+xfw8IFZLNKhXSSVhh",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
+        "url": "https://open.spotify.com/album/1CnfThuhzI0hf4b6CJd5rq"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 187457,
+      "name": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
+      "url": "https://open.spotify.com/track/0GjWvVr7TZzceNwdSDRuXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 126105,
       "name": "2 die 4 (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/7lvfYYQXH6fxP7JAiY1tjz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
-        "url": "https://open.spotify.com/album/1CnfThuhzI0hf4b6CJd5rq"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 187457,
-      "name": "Dream Glow (BTS World Original Soundtrack) (Pt. 1)",
-      "url": "https://open.spotify.com/track/0GjWvVr7TZzceNwdSDRuXy"
     },
     {
       "added_at": null,

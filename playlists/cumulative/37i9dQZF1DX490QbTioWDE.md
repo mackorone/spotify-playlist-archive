@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-587 songs - 1 day 11 hr 46 min
+589 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,7 +242,7 @@
 | [La Fiesta](https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Fiesta](https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0) | 2:50 | 2025-04-18 | 2025-05-24 |
 | [La Hija del Doctor](https://open.spotify.com/track/6xeWe38Z70YXx9k7zTbVC8) | [Megatrack](https://open.spotify.com/artist/5VqFyx1HDLsbf0bAK0K7Oa) | [La Hija del Doctor](https://open.spotify.com/album/2FUEEh2NoXMZtrBHAqasMJ) | 4:41 | 2021-12-24 | 2022-06-10 |
 | [La Langosta \- En Vivo](https://open.spotify.com/track/3hLGtxS0zLnQrdbCibycFI) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/74mSEDvYetzjvZjzoJkYH2) | 5:01 | 2021-12-24 | 2022-07-27 |
-| [La Luna](https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Antologia Carlitos La Mona Jimenez](https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg) | 4:05 | 2021-12-24 |  |
+| [La Luna](https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Antologia Carlitos La Mona Jimenez](https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg) | 4:05 | 2021-12-24 | 2025-08-24 |
 | [La mano de Dios \(Homenaje a Diego Maradona\)](https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Rodrigo \- La mano de dios](https://open.spotify.com/album/4932NIvwgNL5iUY6Vx5xG5) | 5:44 | 2022-01-07 | 2023-03-25 |
 | [La Mejor Version de Mí \(En Vivo\)](https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [10 Años Con Amigos \(En Vivo\)](https://open.spotify.com/album/6v5d0NrtAi1ysFnI9eZYL6) | 3:56 | 2022-07-22 | 2024-04-19 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/0ENwGxhmqnrC4lvApPNxLD) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Grandes Éxitos](https://open.spotify.com/album/07NUFiMBFam0TEQC06vm5t) | 3:56 | 2021-12-24 | 2022-07-29 |
@@ -275,7 +275,7 @@
 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 | 2021-12-24 | 2022-10-21 |
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
-| [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 | 2024-03-15 |  |
+| [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 | 2024-03-15 | 2025-08-24 |
 | [Luna](https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Luna](https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3) | 3:05 | 2024-03-29 |  |
 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 | 2024-06-07 | 2024-10-20 |
 | [Luna \- Prohibidox](https://open.spotify.com/track/08IZLOrhHD4jfqkguITnZT) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Luna \- Prohibidox](https://open.spotify.com/album/7gsdyNDBaBgt9eWZW8x7Nq) | 4:28 | 2024-06-07 | 2024-06-22 |
@@ -436,7 +436,9 @@
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-03-22 | 2024-07-27 |
 | [Que Te Olvide](https://open.spotify.com/track/7gOtGWLuClM1P9L2tXq9BG) | [El Ramy](https://open.spotify.com/artist/71GI3crYM00yVUTgsyfcgt), [El Turco Julio](https://open.spotify.com/artist/4EMjageaWU23LtyVfVjVW1), [Cuarteto del Bueno](https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor) | [Que Te Olvide](https://open.spotify.com/album/7v89rqv4mitRs99q08Fa4M) | 4:11 | 2022-01-07 | 2022-05-29 |
 | [Que Te Vuelva Amor](https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Que Te Vuelva Amor](https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB) | 2:30 | 2024-11-01 |  |
+| [Que vamos a hacer](https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU) | [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Que vamos a hacer](https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR) | 2:56 | 2025-08-22 |  |
 | [Que Vuelvas](https://open.spotify.com/track/5bDhPNr7GEnWgkIhJJlufs) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Que Vuelvas](https://open.spotify.com/album/1SsytdtyKIfoOH7ziFfmjY) | 2:23 | 2023-04-24 | 2023-05-06 |
+| [Quedate con Ella](https://open.spotify.com/track/4tj4LLbIKEUVXDsuvlRR0z) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [Quedate con Ella](https://open.spotify.com/album/4YxUOtzmTjWM6oCQ3s5Kvr) | 2:33 | 2025-08-22 |  |
 | [Quien Se Tomó Todo el Vino](https://open.spotify.com/track/0KZLWOKEM38ZYSV78Z6na1) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [El Bailarín](https://open.spotify.com/album/7pZrZlBBwfs5SrK6pmMyNP) | 5:09 | 2022-01-14 | 2022-05-07 |
 | [Quiereme](https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi) | [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Nominado](https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7) | 3:39 | 2021-12-24 |  |
 | [Quiero](https://open.spotify.com/track/4ZVTz5LdINDFrBoUnDy8VK) | [Diego Olmos](https://open.spotify.com/artist/0HhAQGZNZAvnu9RZQOTetx) | [Quiero](https://open.spotify.com/album/7uPZWrXpKKSwyPvK9peRyh) | 2:47 | 2022-08-26 | 2022-09-10 |

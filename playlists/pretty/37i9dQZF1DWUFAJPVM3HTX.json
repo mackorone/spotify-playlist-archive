@@ -1,6 +1,6 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9?si=2DiYZCTNTL62Z9jXR0epyg\"> Nali</a>. Updates every Wednesday.",
-  "num_followers": 270611,
+  "num_followers": 270678,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,426 @@
   },
   "snapshot_id": "AAAAANSJ/Zo6qKXogbvfT+nIOghoUltD",
   "tracks": [
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "I Love Nali",
+        "url": "https://open.spotify.com/album/3bPF5QY7iX3RGJqTWwN8iy"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "journal entry",
+      "url": "https://open.spotify.com/track/6fVae9WgDQHYQonCnTn3xz"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Make It Right",
+        "url": "https://open.spotify.com/album/79dXpc0J7PolTmt2xaLIoq"
+      },
+      "artists": [
+        {
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Make It Right - Acoustic",
+      "url": "https://open.spotify.com/track/7i9u3HorlfNKlLNrgG0k7J"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Took A Turn",
+        "url": "https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 292923,
+      "name": "Took A Turn",
+      "url": "https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "patience",
+        "url": "https://open.spotify.com/album/5NxgjMkkpJi9PlDyBhkVLU"
+      },
+      "artists": [
+        {
+          "name": "Kent Jamz",
+          "url": "https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "patience",
+      "url": "https://open.spotify.com/track/4L4aMsBGqpOehg2jOXw4wv"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/6tIPprBFkgVJVIT2EBeUqb"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        }
+      ],
+      "duration_ms": 159725,
+      "name": "tough guy",
+      "url": "https://open.spotify.com/track/3OkdBa6PhTPxOEl2LqGy3L"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "The Way You Move",
+        "url": "https://open.spotify.com/album/61quv4YYzbubnaozMSdMNZ"
+      },
+      "artists": [
+        {
+          "name": "JayDon",
+          "url": "https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "The Way You Move",
+      "url": "https://open.spotify.com/track/3Eu9tmJEAEMmnD2WxUbHHi"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Just Me And You",
+        "url": "https://open.spotify.com/album/2dhMAmNMdTQkljHnkoQnjk"
+      },
+      "artists": [
+        {
+          "name": "Twelve'len",
+          "url": "https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 133283,
+      "name": "Just Me And You",
+      "url": "https://open.spotify.com/track/5bcVnBEuNfYYqnYWx5qkuV"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/02CKaa8B9TcUkFhBffT3dY"
+      },
+      "artists": [
+        {
+          "name": "Peyton",
+          "url": "https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV"
+        }
+      ],
+      "duration_ms": 209990,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/1vzJVXvOInLHJYeWqPwsic"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/1mWfshnzSoBdptjg2WjmBj"
+      },
+      "artists": [
+        {
+          "name": "Felicia Temple",
+          "url": "https://open.spotify.com/artist/0F3X6Fta17Df58PeXnaUAv"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/1dT8081zonRYVJjB7powau"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "I'll Never Say No",
+        "url": "https://open.spotify.com/album/4v62Z1xy3JgUDdkSX1o5uR"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        },
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "duration_ms": 159581,
+      "name": "I'll Never Say No",
+      "url": "https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Please Don't Talk To Me",
+        "url": "https://open.spotify.com/album/0Yi9RyDt6GQYM5xFOG4Rxs"
+      },
+      "artists": [
+        {
+          "name": "Sophia Galat\u00e9",
+          "url": "https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Please Don't Talk To Me",
+      "url": "https://open.spotify.com/track/0uU9rnZxlXWi8chK2buYTe"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "PDA",
+        "url": "https://open.spotify.com/album/1klgvQ9nNaE8qsP59m5lDb"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6nt Lee",
+          "url": "https://open.spotify.com/artist/3LgLAfUhyG05PIkoRiBeqH"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "PDA",
+      "url": "https://open.spotify.com/track/0Zu0PcSKC26QXdVYYaYMnr"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "thugg it",
+        "url": "https://open.spotify.com/album/3lwtcl9mHihx7dwjMFoj5N"
+      },
+      "artists": [
+        {
+          "name": "Brandz",
+          "url": "https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "thugg it",
+      "url": "https://open.spotify.com/track/7c9BNVQDINuqzdopI2iOHb"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "skip!",
+        "url": "https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "skip!",
+      "url": "https://open.spotify.com/track/4ncEJ67Xn1yjaURi2X7aTy"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/5aEBuEDRC1iW3LmdzRCBQl"
+      },
+      "artists": [
+        {
+          "name": "H33RA",
+          "url": "https://open.spotify.com/artist/1NHGoS1F3ejgcKg5sE95LM"
+        }
+      ],
+      "duration_ms": 153479,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/2VjP3ieExGpLXOAUrrLzJj"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "I Love Nali",
+        "url": "https://open.spotify.com/album/3bPF5QY7iX3RGJqTWwN8iy"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        }
+      ],
+      "duration_ms": 111844,
+      "name": "all day",
+      "url": "https://open.spotify.com/track/6mo4tHSZ4cI0TpAy7Pum7Y"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/6IIF2AAkkMH5heL4Iu6gI9"
+      },
+      "artists": [
+        {
+          "name": "Ron E",
+          "url": "https://open.spotify.com/artist/0NzaWuALv0Wr2gcdSbQ5zn"
+        },
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "duration_ms": 156595,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/5JayyteGG2vb9xEmAuwPfB"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/11jxNLPRRRS43Fbv2MFe1K"
+      },
+      "artists": [
+        {
+          "name": "Jordan Astra",
+          "url": "https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/2qKXQjN3b2igYZXNFZ6eu0"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "november like u",
+        "url": "https://open.spotify.com/album/0TgM6cu7SHmkdDK4cuihel"
+      },
+      "artists": [
+        {
+          "name": "Halima",
+          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
+        }
+      ],
+      "duration_ms": 126962,
+      "name": "november like u",
+      "url": "https://open.spotify.com/track/5rMQE7C9ieavsRi0RJTzPN"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Snakes In The Grass",
+        "url": "https://open.spotify.com/album/1FQbikVSBDRO2G7Bv36qFe"
+      },
+      "artists": [
+        {
+          "name": "Alex Mali",
+          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
+        },
+        {
+          "name": "Abby Jasmine",
+          "url": "https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "Snakes In The Grass",
+      "url": "https://open.spotify.com/track/75n7zKuicDa6OnG99ZptJS"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "For The Night",
+        "url": "https://open.spotify.com/album/5Bw9CuVKepxtv9PIZJrLbU"
+      },
+      "artists": [
+        {
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "For The Night",
+      "url": "https://open.spotify.com/track/67QY3XW2sDheXvAAXMVLif"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/4so6qANYFWEpIOlkpyzg4l"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 195452,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/4wWbF4x2EOt0GZpcjwHPoa"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "Pink Tape II",
+        "url": "https://open.spotify.com/album/6ph2Ss34NchcNw6VLWva89"
+      },
+      "artists": [
+        {
+          "name": "Jay Cortez",
+          "url": "https://open.spotify.com/artist/7AmQF9UoipK13r5vcXAVyu"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "that girl",
+      "url": "https://open.spotify.com/track/5iTcmCZaHmk1wo5fBl8efX"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "stupid",
+        "url": "https://open.spotify.com/album/06LBTOaHXz1vjHpfcURK5A"
+      },
+      "artists": [
+        {
+          "name": "Dylan Reese",
+          "url": "https://open.spotify.com/artist/6m3JhzmHaGOTO2XKns88fy"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "stupid",
+      "url": "https://open.spotify.com/track/6x8VDYHfivGahiTVI7buIw"
+    },
+    {
+      "added_at": "2025-08-22 10:17:53",
+      "album": {
+        "name": "SHEGO",
+        "url": "https://open.spotify.com/album/6nEF05ATsPYq8XaQV7bF5G"
+      },
+      "artists": [
+        {
+          "name": "Blession",
+          "url": "https://open.spotify.com/artist/45c0zrANgdnOB4oelXQ4kA"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "SHEGO",
+      "url": "https://open.spotify.com/track/2TnJTootkXwYJ3xk5ruk72"
+    },
     {
       "added_at": "2025-08-15 07:39:51",
       "album": {

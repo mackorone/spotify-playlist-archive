@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 22169,
+  "num_followers": 22186,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKZhgAAAAAA+WYVj25mWjJAkt93BL2Lm",
+  "snapshot_id": "aKezAAAAAAAR+9BnJfADi750tL3tyVNB",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zimmer Frei",
+        "url": "https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Immer Hansi",
+          "url": "https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH"
+        },
+        {
+          "name": "Jody Bernal",
+          "url": "https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa"
+        }
+      ],
+      "duration_ms": 173988,
+      "name": "Zimmer Frei",
+      "url": "https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Das Armas",
         "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
       },
@@ -855,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zimmer Frei",
-        "url": "https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5"
+        "name": "KUTMUZIEK",
+        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
       },
       "artists": [
         {
@@ -864,17 +888,13 @@
           "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
         },
         {
-          "name": "Immer Hansi",
-          "url": "https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH"
-        },
-        {
-          "name": "Jody Bernal",
-          "url": "https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa"
+          "name": "NZG\u00dbL",
+          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
         }
       ],
-      "duration_ms": 173988,
-      "name": "Zimmer Frei",
-      "url": "https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia"
+      "duration_ms": 150000,
+      "name": "KUTMUZIEK",
+      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
     },
     {
       "added_at": null,
@@ -895,26 +915,6 @@
       "duration_ms": 200620,
       "name": "Never Die",
       "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KUTMUZIEK",
-        "url": "https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "NZG\u00dbL",
-          "url": "https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "KUTMUZIEK",
-      "url": "https://open.spotify.com/track/12hnvrted7ORllAafrUiao"
     },
     {
       "added_at": null,

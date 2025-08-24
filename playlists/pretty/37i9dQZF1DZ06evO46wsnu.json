@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 174582,
+  "num_followers": 174595,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKZhgAAAAAC23uTsMnKqQi6aG+8Bjy/W",
+  "snapshot_id": "aKezAAAAAAD3pU0KXB73+rbIWD1d/4rH",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rpm10",
+        "url": "https://open.spotify.com/album/7jZsALpP2VGqgwUadT8mIj"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Like the Angel",
+      "url": "https://open.spotify.com/track/3c5UAJcthT8XGntybmty8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Black Market",
         "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 232933,
       "name": "Nowhere Generation",
       "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rpm10",
-        "url": "https://open.spotify.com/album/7jZsALpP2VGqgwUadT8mIj"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Like the Angel",
-      "url": "https://open.spotify.com/track/3c5UAJcthT8XGntybmty8Z"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Plantschen, Eis & Freibadpommes.",
-  "num_followers": 53727,
+  "num_followers": 53740,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADFgmeuq1iBYajYlKLngJMVD5GrX",
+  "snapshot_id": "AAAAAL879AKLjxguEczm31TUV8oBj77n",
   "tracks": [
     {
       "added_at": "2025-08-08 05:42:25",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 147375,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
         "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
@@ -587,22 +571,38 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
       },
       "artists": [
         {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 147375,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Giraffenaffen 2",
+        "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Jones",
+          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
         },
         {
           "name": "Giraffenaffen",
           "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+      "duration_ms": 187946,
+      "name": "Probiers mal mit Gem\u00fctlichkeit",
+      "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -631,6 +631,26 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
         "name": "Das Gelbe vom Schwamm",
         "url": "https://open.spotify.com/album/6tnWalBmzvZ4PlMyG2WUNT"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 210333,
       "name": "In den Urlaub",
       "url": "https://open.spotify.com/track/3N84t07BWwkHopG8rQB4qc"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
-        "name": "Giraffenaffen 2",
-        "url": "https://open.spotify.com/album/5vrbcnXTiRb9xoO61FYHp6"
-      },
-      "artists": [
-        {
-          "name": "Jupiter Jones",
-          "url": "https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 187946,
-      "name": "Probiers mal mit Gem\u00fctlichkeit",
-      "url": "https://open.spotify.com/track/2zdRMua6yTKFlmtcxwJ6ld"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -743,18 +743,22 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
-        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
+        "name": "Schmetterlingskacke",
+        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Sukini",
+          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
+        },
+        {
+          "name": "Saskia Lavaux",
+          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
         }
       ],
-      "duration_ms": 126232,
-      "name": "Ab in den Urlaub",
-      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
+      "duration_ms": 182213,
+      "name": "Glitzer",
+      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -835,22 +839,18 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Schmetterlingskacke",
-        "url": "https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0"
+        "name": "Kinderlieder f\u00fcr den Urlaub - EP",
+        "url": "https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0"
       },
       "artists": [
         {
-          "name": "Sukini",
-          "url": "https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4"
-        },
-        {
-          "name": "Saskia Lavaux",
-          "url": "https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ"
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 182213,
-      "name": "Glitzer",
-      "url": "https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE"
+      "duration_ms": 126232,
+      "name": "Ab in den Urlaub",
+      "url": "https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -939,18 +939,18 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+        "name": "Lern- und Spa\u00dflieder",
+        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
       },
       "artists": [
         {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 116826,
-      "name": "Das Lied Vom Sommer",
-      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
+      "duration_ms": 186000,
+      "name": "Das Farbenlied",
+      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Lern- und Spa\u00dflieder",
-        "url": "https://open.spotify.com/album/3kTGJmOVMtSQYWhASUsaxL"
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
       "artists": [
         {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Das Farbenlied",
-      "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
+      "duration_ms": 116826,
+      "name": "Das Lied Vom Sommer",
+      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
+        "name": "Sommertag",
+        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
       },
       "artists": [
         {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
         }
       ],
-      "duration_ms": 122506,
-      "name": "F\u00fchl Mich So Gut",
-      "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
+      "duration_ms": 128444,
+      "name": "Sommertag",
+      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Sommertag",
-        "url": "https://open.spotify.com/album/7MOstpjqCCqLl5QFufgSdf"
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
       "artists": [
         {
-          "name": "Lichterkinder",
-          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
         }
       ],
-      "duration_ms": 128444,
-      "name": "Sommertag",
-      "url": "https://open.spotify.com/track/0t7JGT6MizSIbMGBGJCwd3"
+      "duration_ms": 122506,
+      "name": "F\u00fchl Mich So Gut",
+      "url": "https://open.spotify.com/track/3HB4OsFD8whlTFsTIlMNrJ"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Wenn ich den See seh'",
-        "url": "https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR"
-      },
-      "artists": [
-        {
-          "name": "3Berlin",
-          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
-        }
-      ],
-      "duration_ms": 143053,
-      "name": "Wenn ich den See seh'",
-      "url": "https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Disco Kinder",
         "url": "https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 169773,
       "name": "Disco Kinder (Minis Maxis)",
       "url": "https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Wenn ich den See seh'",
+        "url": "https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR"
+      },
+      "artists": [
+        {
+          "name": "3Berlin",
+          "url": "https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Wenn ich den See seh'",
+      "url": "https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Kinderdisco - Das Original",
-        "url": "https://open.spotify.com/album/34PrK0cbxMsYRunUvZ5m9y"
+        "name": "Tanzfieber!",
+        "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
         }
       ],
-      "duration_ms": 117720,
-      "name": "Urlaubskoffer",
-      "url": "https://open.spotify.com/track/5TAxZVVxlQTZWzZSQhkuQ7"
+      "duration_ms": 207466,
+      "name": "Schokoladeneis",
+      "url": "https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Tanzfieber!",
-        "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
+        "name": "Kinderdisco - Das Original",
+        "url": "https://open.spotify.com/album/34PrK0cbxMsYRunUvZ5m9y"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf"
         }
       ],
-      "duration_ms": 207466,
-      "name": "Schokoladeneis",
-      "url": "https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW"
+      "duration_ms": 117720,
+      "name": "Urlaubskoffer",
+      "url": "https://open.spotify.com/track/5TAxZVVxlQTZWzZSQhkuQ7"
     },
     {
       "added_at": "2025-08-08 05:42:25",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-08-08 05:42:25",
       "album": {
-        "name": "Sommerbrille",
-        "url": "https://open.spotify.com/album/42Zwv4MVwF55fo7GAjPtgO"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 156450,
-      "name": "Sommerbrille",
-      "url": "https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C"
-    },
-    {
-      "added_at": "2025-08-08 05:42:25",
-      "album": {
         "name": "Unter meinem Bett 7",
         "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
+    },
+    {
+      "added_at": "2025-08-08 05:42:25",
+      "album": {
+        "name": "Sommerbrille",
+        "url": "https://open.spotify.com/album/42Zwv4MVwF55fo7GAjPtgO"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 156450,
+      "name": "Sommerbrille",
+      "url": "https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C"
     },
     {
       "added_at": "2025-08-08 05:42:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Anuv Jain, Pawandeep Rajanand more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,456 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,482 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 37 | [Barkha](https://open.spotify.com/track/2PJMOVA7wEwvLXJxiyqjLA) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Barkha](https://open.spotify.com/album/5uCaRM1VtiVhAmHJr9VT3p) | 4:25 |
 | 38 | [Morni](https://open.spotify.com/track/72YcTplgzfw4We9PciCEHs) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Morni](https://open.spotify.com/album/5MCB0PiQwZxKOy1o3RFaV0) | 3:17 |
 | 39 | [Haaniya](https://open.spotify.com/track/6usB8w6q62tom1OqRk8LEX) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Haaniya](https://open.spotify.com/album/6y6urc9ONRjVs4xiW7Jm9b) | 3:08 |
-| 40 | [Last Love](https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT) | [Last Love](https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7) | 3:36 |
+| 40 | [Last Love](https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Last Love](https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7) | 3:36 |
 | 41 | [Bolo Bolo](https://open.spotify.com/track/4Aqd89LSf5OnqWGeKO9mP9) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Bolo Bolo](https://open.spotify.com/album/6n1ZzFVuQoI2NZLxQTxRUD) | 3:57 |
 | 42 | [Maahi Mereya](https://open.spotify.com/track/5LcXyhSx0YgSNlYu9CVHWK) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Maahi Mereya](https://open.spotify.com/album/34T30mccgzk8UWBIuaWhyO) | 3:10 |
 | 43 | [Tu Kahan](https://open.spotify.com/track/38bSMMJFb4y9kNDhYNvBgy) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tu Kahan](https://open.spotify.com/album/3gi4YVLjOIkmDzQoUAVoWs) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring SONIKKU
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,186 likes - 159 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,175 likes - 159 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

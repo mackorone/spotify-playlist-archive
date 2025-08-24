@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Claydee, Katerina
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,914 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,917 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Ekdoxi](https://open.spotify.com/track/2YgXfudmeCpYNWwvpqDdz5) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok) | [Tha Grapsoume Istoria](https://open.spotify.com/album/4nGB4DVaULjQR7xYQ9JPVI) | 3:42 |
 | 50 | [Diafanis](https://open.spotify.com/track/0cJQO2o81NwOtjlJOJiEGV) | [Demy](https://open.spotify.com/artist/12muvykhaMY3RlVrJQ2ApM), [Theo Evan](https://open.spotify.com/artist/0jzej24m4tFBjGwKwsoYvj) | [Diafanis](https://open.spotify.com/album/3s9yB9xtjDn6NGLHpwpEvS) | 2:55 |
 
-Snapshot ID: `AAAAAMbKwrOmzj6IElSU4Xrk12kFiluh`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

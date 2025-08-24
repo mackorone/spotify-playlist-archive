@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TbM1BxdqS.md) - [plain]
 
 > Remembering the showman Raj Kapoor with his biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,289 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,301 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TbM1BxdqS.md) - [plain]
 | 39 | [O Mere Sanam](https://open.spotify.com/track/49AuPmipQ4GlXLDYxCqINv) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Sangam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05FkcIZOaGV3YBpiANIehV) | 4:28 |
 | 40 | [Sajanwa Bairi Ho Gayi Hamar](https://open.spotify.com/track/1pHou1xFBTKda4sgqqjEGr) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Teesri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4LxagNeGWgdaUmcgJjyWLe) | 3:51 |
 | 41 | [Sapnon Ka Saudagar Aaya](https://open.spotify.com/track/20us7nxIXzyzMRLdbHWkjL) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Sapnon Ka Saudagar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6e2fNshqyxiwUZIcRDooLw) | 5:26 |
-| 42 | [Duniya Ki Sair Kar Lo](https://open.spotify.com/track/3XxuWVHnHxRvrICbmwSRWv) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Sharada](https://open.spotify.com/artist/7JJVcuvolJuhwfzHDcINfr) | [Around the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4UY81SdU0aQla6azXgZusF) | 6:17 |
+| 42 | [Duniya Ki Sair Kar Lo](https://open.spotify.com/track/3XxuWVHnHxRvrICbmwSRWv) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e), [Sharda](https://open.spotify.com/artist/7JJVcuvolJuhwfzHDcINfr) | [Around the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4UY81SdU0aQla6azXgZusF) | 6:17 |
 | 43 | [Mera Naam Raju](https://open.spotify.com/track/34iL48sDR0n2V8maXGiIAJ) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Jis Desh Men Ganga Behti Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1UZm1OmRDrEymqw3XSrbAz) | 3:17 |
 | 44 | [Nee Baliye Rut Hai Bahar Ki](https://open.spotify.com/track/6L0SroMsE51181IhiAr64I) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Kanhaiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/35AMPX9WeDUquMcGl9rflP) | 5:04 |
 | 45 | [Dil Laga Kar Aap Se](https://open.spotify.com/track/5Cu7AlXUHA9nrMcwBOVsMD) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Around the World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4UY81SdU0aQla6azXgZusF) | 3:46 |

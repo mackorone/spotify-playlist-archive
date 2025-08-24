@@ -1,6 +1,6 @@
 {
   "description": "A new take on a classic sound. Cover: Billy Porter",
-  "num_followers": 143768,
+  "num_followers": 143823,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAJNdd5nZOhmJwCHwYRW8Ba9a+9Vx",
   "tracks": [
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Turn This Love Around",
+        "url": "https://open.spotify.com/album/6QaL165e30ANBH3oj5X7Ll"
+      },
+      "artists": [
+        {
+          "name": "Mondo Freaks",
+          "url": "https://open.spotify.com/artist/5Bb3BN9iluGrIHhDcpuKiL"
+        }
+      ],
+      "duration_ms": 316133,
+      "name": "Turn This Love Around",
+      "url": "https://open.spotify.com/track/1NTMY22seuV6Rvvt8BYTnN"
+    },
     {
       "added_at": "2025-08-15 04:00:08",
       "album": {
@@ -1875,22 +1891,6 @@
       "duration_ms": 201904,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Cruiserweight",
-        "url": "https://open.spotify.com/album/50Yah9QKupPNZNyvbwb5pI"
-      },
-      "artists": [
-        {
-          "name": "The Jack Moves",
-          "url": "https://open.spotify.com/artist/6QR60hk0TiNHphDexqZ6Pp"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Lionel Richie",
-      "url": "https://open.spotify.com/track/1EfF2gJNuksJeHXLevKoFf"
     }
   ],
   "unique_name": "Nu-Disco",

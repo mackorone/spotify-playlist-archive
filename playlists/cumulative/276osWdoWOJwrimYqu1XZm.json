@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "Kein Vorbei",
+        "url": "https://open.spotify.com/album/1SsdgkBgBWFdxQEAwFq8oi"
+      },
+      "artists": [
+        {
+          "name": "Ben Techy",
+          "url": "https://open.spotify.com/artist/2ZxU6WNgBLwqif2Bkf6bbT"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Alles Zerf\u00e4llt",
+      "url": "https://open.spotify.com/track/3Z2DU1Dy4u9HxCwcXnJ0j0"
+    },
+    {
+      "album": {
         "name": "Amnesiac",
         "url": "https://open.spotify.com/album/47x8rEoFX1EGr2R73g9Dce"
       },

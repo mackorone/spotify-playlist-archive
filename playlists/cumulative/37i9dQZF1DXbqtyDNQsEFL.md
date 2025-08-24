@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Ada Ehi
 
-588 songs - 2 day 6 hr 8 min
+589 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Holy Spirit](https://open.spotify.com/track/0vdwSEcvTdrbfa58Q9RR7r) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Worship SZN](https://open.spotify.com/album/1SvsQPNDkO6zaFmFrSp6EI) | 7:29 | 2024-01-26 | 2024-02-09 |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 |  |
 | [Hosanna](https://open.spotify.com/track/6z88SI2wZE4YmS7IgzSbQ6) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Songs from the Place of Prayer](https://open.spotify.com/album/2u8rAcqeoemQsK3E66P1JC) | 2:42 | 2023-12-05 | 2023-12-11 |
+| [How Can I Forget?](https://open.spotify.com/track/5qKnVUFrx6xwuaPFs0eUhm) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [How Can I Forget?](https://open.spotify.com/album/4AHvbn1Co6cKRVGVf0k8is) | 3:18 | 2025-06-27 |  |
 | [Hürt No More](https://open.spotify.com/track/1NmECnzMQgwvXuXmxmjkY9) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI), [Xay Hill](https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6), [QweenK](https://open.spotify.com/artist/7jDg7F05o4YlzDFaN32hIR) | [Hürt No More](https://open.spotify.com/album/1sIpZ7SsKtuVTf0QvwUxhM) | 2:50 | 2023-12-01 | 2024-01-11 |
 | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [I Believe It \(The Life of Jesus\)](https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj) | 3:45 | 2024-04-05 |  |
 | [I Decree \- Live](https://open.spotify.com/track/4daFIen6VNnemOUgvzAThq) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [I Decree \(Live\)](https://open.spotify.com/album/4MwqnWVW9SNkQ6GZJ4Bjli) | 6:06 | 2025-08-01 |  |
@@ -296,7 +297,7 @@
 | [Love Language II](https://open.spotify.com/track/2AwBNdS7kL5iaIZ6ulWMdD) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [Love Language II](https://open.spotify.com/album/5NFigtPBVaS8cWruLLuXtc) | 3:00 | 2025-08-22 |  |
 | [Maberumo \(This Is Morning\)](https://open.spotify.com/track/2OHmueqAp9USbKTxRfxwAa) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Maberumo \(This Is Morning\)](https://open.spotify.com/album/0iFZYlC4A0jHonYR3HpU8Y) | 4:04 | 2025-07-25 |  |
 | [Made A Way](https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 9:51 | 2022-06-09 |  |
-| [Made Me Glad](https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Made Me Glad](https://open.spotify.com/album/1O5MNGC6A0szwSEcMfvCQd) | 2:44 | 2025-06-20 |  |
+| [Made Me Glad](https://open.spotify.com/track/5bOzP0pJX3zTS5KnuZ5S3p) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Made Me Glad](https://open.spotify.com/album/1O5MNGC6A0szwSEcMfvCQd) | 2:44 | 2025-06-20 | 2025-08-24 |
 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 | 2024-08-16 | 2024-09-23 |
 | [MAJO](https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [MAJO](https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec) | 2:53 | 2023-12-15 | 2024-01-15 |
 | [Majority](https://open.spotify.com/track/29YFxm0ePejDJSUhSz7NyX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Majority](https://open.spotify.com/album/7AfoR2ubwnYDyWKID7rkHD) | 3:21 | 2024-12-31 | 2025-01-07 |

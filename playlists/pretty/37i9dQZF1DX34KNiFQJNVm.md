@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grupo Menos É Mais com NATTAN, MC Hariel, LUDMILLA, Pabllo Vittar e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,140,488 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,140,614 likes - 77 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 41 | [Desce Vai Novinha](https://open.spotify.com/track/6OvIqA8lJuOMbC4l9mNDx6) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Tchakabum](https://open.spotify.com/artist/7iJl63aJyNd8C6NZlMv6kp), [Mc Nito](https://open.spotify.com/artist/1LSFOIywgpcU48YxZX3PgT) | [Desce Vai Novinha](https://open.spotify.com/album/7bUVGtct4TvJIvhoS8nzAL) | 1:48 |
 | 42 | [Site Laranja](https://open.spotify.com/track/5xWB0nkOwQq9kZiPxWVnsP) | [MK no Beat](https://open.spotify.com/artist/7HJI3KV7QYdzMHYM9WC1LC), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p) | [Site Laranja](https://open.spotify.com/album/4PSp4arUGBO1W6VzVJmAE3) | 2:07 |
 | 43 | [171 \- Ao Vivo](https://open.spotify.com/track/7yjlMizUXN5b0K5L6INwIG) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Quebra\-Cabeça \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1wbbZ6OA7LXLQspeyOwHuZ) | 2:51 |
-| 44 | [Se eu Morrer de Beber \- Ao Vivo \- No Caminhão do Vaqueiro](https://open.spotify.com/track/7Ie6XwWNO90Qo6hmzmonZL) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7), [Helismar Souza](https://open.spotify.com/artist/3K6rQcq2loX0o1CcAwcrro) | [Se Eu Morrer de Beber \(Ao Vivo \- No Caminhão do Vaqueiro\)](https://open.spotify.com/album/5yKwr1878VofOU8hIqykpR) | 3:11 |
+| 44 | [Se eu Morrer de Beber \- Ao Vivo \- No Caminhão do Vaqueiro](https://open.spotify.com/track/7Ie6XwWNO90Qo6hmzmonZL) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [Se Eu Morrer de Beber \(Ao Vivo \- No Caminhão do Vaqueiro\)](https://open.spotify.com/album/5yKwr1878VofOU8hIqykpR) | 3:11 |
 | 45 | [TBTZÃO](https://open.spotify.com/track/0iIpkKHYS1kiFrGwPG6b7G) | [Luana Matos](https://open.spotify.com/artist/6RispJuVd8HTD7tYm1nkDe), [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [TBTZÃO](https://open.spotify.com/album/2qm4ybNWNGKLjvhhF5ETaE) | 3:19 |
 | 46 | [Saudade Oculta](https://open.spotify.com/track/2r8Xo2DkCkd4iFC4IGRWxj) | [Ramon no Beat](https://open.spotify.com/artist/6QgjsRpJsdeFhDV5SG42Vu), [Mikael Santos](https://open.spotify.com/artist/08ENfxilk9sXoIQLmns8M2) | [Saudade Oculta](https://open.spotify.com/album/6uAZpMA990tEqWlk7Y4YIf) | 2:42 |
 | 47 | [Quando a Gente Ama, Sorria](https://open.spotify.com/track/1Yl2mSnoHBdKyCYNqo0Ama) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq) | [Quando a Gente Ama, Sorria](https://open.spotify.com/album/1MKHWNwNCfOfWhp4Mfyrn8) | 7:49 |

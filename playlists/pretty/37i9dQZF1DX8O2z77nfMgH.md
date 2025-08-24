@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada:  Joaquina
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,296 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,114 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 45 | [Menina de ouro \(Piano\)](https://open.spotify.com/track/1oud7J5ybASg86rEoU66tr) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E) | [Sonho \- Ao Vivo](https://open.spotify.com/album/0NGinrsYOAMG9yOSyvBtsk) | 2:35 |
 | 46 | [Hoy Te Vi](https://open.spotify.com/track/5q22HvTZwC9ARWwH7229LE) | [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk), [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Hoy Te Vi](https://open.spotify.com/album/62FcgUYbVAMW0lQg9l4cu2) | 3:39 |
 | 47 | [Only You](https://open.spotify.com/track/2YMgkizK2XjUuAHPIfHucP) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Only You](https://open.spotify.com/album/659rLipBW7qj02JHvuVpuz) | 3:41 |
-| 48 | [FIERITA](https://open.spotify.com/track/4qEbMTQnv5sP7T5XpfLGEC) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La FIERITA](https://open.spotify.com/album/4Cb8tn4gaMLTwSnyQiAzGG) | 3:02 |
+| 48 | [La FIERITA](https://open.spotify.com/track/4qEbMTQnv5sP7T5XpfLGEC) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La FIERITA](https://open.spotify.com/album/4Cb8tn4gaMLTwSnyQiAzGG) | 3:02 |
 | 49 | [Quererte En Serio](https://open.spotify.com/track/4lGNvYHTxPPAMDjWFqPFM1) | [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq) | [Quererte En Serio](https://open.spotify.com/album/267NOKVtAx0YkxtWf9vDvH) | 2:19 |
 | 50 | [Crush](https://open.spotify.com/track/1WlwdaBBBa43PYMwoKyzO4) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sinners Club](https://open.spotify.com/album/54tbMXotxjF1LYEZ7nDYSJ) | 3:30 |
 | 51 | [Lloviendo En Cali](https://open.spotify.com/track/4wFoCwmVI3cK6rmzlSUeKy) | [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [FineSound Music](https://open.spotify.com/artist/5AdCHSf1t2Z3WpMUvfkWXh), [Joule](https://open.spotify.com/artist/48cjgOUxzprBgV51hGuMOU) | [EPISODIO I \- CUANDO LLUEVE EN EL ALMA](https://open.spotify.com/album/6BbwLfxUptDD3F7IhELFfL) | 2:13 |
-| 52 | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/track/0FAwelV4vwA5RwT4CUCEdG) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [FLAME](https://open.spotify.com/artist/2EjmiR9Vr7vBP0vBpjhiCc) | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/album/2zqlo6rcXROJxaMQ2GVpVo) | 2:24 |
+| 52 | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/track/0FAwelV4vwA5RwT4CUCEdG) | [Young Fatty](https://open.spotify.com/artist/2v2UIkZpgupzvSNS9wicgV), [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [LAS PUTAS ESCUCHAN TRAP](https://open.spotify.com/album/2zqlo6rcXROJxaMQ2GVpVo) | 2:24 |
 | 53 | [Amiga](https://open.spotify.com/track/1jD9DnCk5hml26bVYv1KXS) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22) | [Amiga](https://open.spotify.com/album/4dBPXRaQ9ltORsNRqSQHZ9) | 2:54 |
 | 54 | [MOR](https://open.spotify.com/track/0UZDuaHy3NuX6FK0MQfT0n) | [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3), [LA M RECORDS](https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X) | [SouthSide Vol 1](https://open.spotify.com/album/7LaFuqqm0g2GWDCU6a7mkZ) | 2:37 |
 | 55 | [meteoro](https://open.spotify.com/track/51B1Ud21Dqhx1l6xgjlnDR) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [no somos iguales](https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI) | 2:29 |

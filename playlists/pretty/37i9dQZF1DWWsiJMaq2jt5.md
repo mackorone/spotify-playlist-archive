@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:6Em3ZrtfeNlVv8kyJcHcZt">Yana Couto</a>, <a href="spotify:artist:5O11auA9UW7ZBACNBMBsBu">OS.SO</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,129 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,128 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

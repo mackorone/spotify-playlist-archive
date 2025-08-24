@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,542 likes - 158 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,554 likes - 158 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 20 | [We Are Golden](https://open.spotify.com/track/7j91Me4PB3CLhuL4PKH9G8) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [The Boy Who Knew Too Much](https://open.spotify.com/album/0kWIUG0jqOsKQCcDJZQ9G0) | 3:58 |
 | 21 | [C’est la Vie](https://open.spotify.com/track/3pGnZWHOC5CFzr8Wu334oQ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Que ta tête fleurisse toujours](https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u) | 3:28 |
 | 22 | [60’s Cardin](https://open.spotify.com/track/7fzBV8gzOUbO8doR1utLVA) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Haute Couture](https://open.spotify.com/album/3NsnHek3g4wvCSQQNQwCeg) | 3:18 |
-| 23 | [Good Times](https://open.spotify.com/track/6jtahhWFnTocDmYgyJzS1k) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams](https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv) | 3:24 |
-| 24 | [Sunkissed](https://open.spotify.com/track/2vUM4XXl7wHyPmYcZCmesz) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams](https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv) | 2:34 |
+| 23 | [Good Times](https://open.spotify.com/track/6jtahhWFnTocDmYgyJzS1k) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams 01](https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv) | 3:24 |
+| 24 | [Sunkissed](https://open.spotify.com/track/2vUM4XXl7wHyPmYcZCmesz) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [X\-Dreams 01](https://open.spotify.com/album/7loYu7kad3nWDIgGbqewqv) | 2:34 |
 | 25 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
 | 26 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 |
 | 27 | [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 |

@@ -4983,6 +4983,24 @@
     },
     {
       "album": {
+        "name": "Tell Me Something True",
+        "url": "https://open.spotify.com/album/0OZ6vbt3LimtMq25vui5iS"
+      },
+      "artists": [
+        {
+          "name": "Signe Marie Rustad",
+          "url": "https://open.spotify.com/artist/23JSMmZOW1mgd7UhYDk4iJ"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202423,
+      "name": "Tell Me Something True",
+      "url": "https://open.spotify.com/track/5Qz3uuOwAOe8gK36J11VUr"
+    },
+    {
+      "album": {
         "name": "Tennessee",
         "url": "https://open.spotify.com/album/2s2VJj5SNBnkUuBZlzoP7s"
       },
@@ -6364,7 +6382,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 323386,
       "name": "Wild Geese, Wild Love",
       "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"

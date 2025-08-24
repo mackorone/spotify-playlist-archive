@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 
 > Best of Malayalam Hip\-Hop! <br/>Cover :  NJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,416 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,419 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OdFBus1U8c.md) - [plain]
 | 2 | [Fight The Night \(From "Nellikkampoyil Night Riders"\)](https://open.spotify.com/track/141moUhb2xgUVbGpznbqa3) | [GABRI](https://open.spotify.com/artist/4NPVKDDjJUl4qJX0soxyng), [Yakzan Gary Pereira](https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Fight The Night \(From "Nellikkampoyil Night Riders"\)](https://open.spotify.com/album/3IsNr1RuFz6W2jEGJ3EU7O) | 2:36 |
 | 3 | [GARJANAM](https://open.spotify.com/track/7sYRyWAq0f3yBHhsz3rY6G) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Ribin Richard](https://open.spotify.com/artist/0Ojbc9kF43BrPCBPe04v8C) | [GARJANAM](https://open.spotify.com/album/581k5aL9ISpsHuGdolHimw) | 3:19 |
 | 4 | [AARA?](https://open.spotify.com/track/04T0gu2e2r7yTFA2sGC6e8) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [AARA?](https://open.spotify.com/album/33p98nR4AQlS3qNkbd4Yhv) | 2:34 |
-| 5 | [UYARPPU](https://open.spotify.com/track/3SRFYTRnN4TCegho4LASWz) | [Lai](https://open.spotify.com/artist/0n6xLR3MIcp902HmC7vLJR), [DVINK](https://open.spotify.com/artist/2x9jdwtYVohDTTyCU7kslQ) | [UYARPPU](https://open.spotify.com/album/34E8S3JBBNgEaeeeGznOvQ) | 3:36 |
+| 5 | [UYARPPU](https://open.spotify.com/track/3SRFYTRnN4TCegho4LASWz) | [Lai](https://open.spotify.com/artist/0n6xLR3MIcp902HmC7vLJR), [D Vink](https://open.spotify.com/artist/7d0pLabCoe50EPQuQLAbiv) | [UYARPPU](https://open.spotify.com/album/34E8S3JBBNgEaeeeGznOvQ) | 3:36 |
 | 6 | [IRUL](https://open.spotify.com/track/4l56MJKTSqd8Q99uuQwZJx) | [Aadhi](https://open.spotify.com/artist/62LkuWN34h9wWrFQaAvO74), [Maddy Magnet](https://open.spotify.com/artist/3zL0bqMfwpxN8hsov07V46), [baba\_g](https://open.spotify.com/artist/4WDTYKXrQ0uY9CJN1tk7Zc) | [IRUL](https://open.spotify.com/album/70rwJ005HMdiMERWmW5bch) | 2:39 |
 | 7 | [bayaan](https://open.spotify.com/track/3mXFWIg6BbFFlcWscFPmLr) | [Farsin Sidhu](https://open.spotify.com/artist/37fg491wY02CS172sygshu) | [bayaan](https://open.spotify.com/album/4cgkJF4lojTqAdh1rGlHC5) | 2:08 |
 | 8 | [TARARIRIRARIRA](https://open.spotify.com/track/0cG9L7OhvwHIzi3QxL3WIv) | [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic) | [TARARIRIRARIRA](https://open.spotify.com/album/686AcaEPcyXHZbx17LyuZA) | 4:23 |

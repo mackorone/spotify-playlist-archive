@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie, med Genom Natten.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,861 likes - 182 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,855 likes - 182 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

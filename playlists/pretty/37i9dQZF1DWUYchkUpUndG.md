@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Folabi Nuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,023 likes - 97 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,037 likes - 97 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

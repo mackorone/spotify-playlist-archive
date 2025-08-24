@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Fcukers
 
-351 songs - 21 hr 51 min
+352 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Dream](https://open.spotify.com/track/1zQ3aaipEmoZ4tHtwIR28a) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Dream](https://open.spotify.com/album/5RRxkgSIBJ02AUEUf9pi9d) | 2:44 | 2025-08-07 |  |
 | [Each Night \- Boys’ Shorts Remix](https://open.spotify.com/track/5N8HrWOayG5SXsmdG11xcy) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU), [Boys' Shorts](https://open.spotify.com/artist/3nRPgO6HGmq7u7sj3KyEgx) | [Each Night \(Boys’ Shorts Remix\)](https://open.spotify.com/album/02kabmkVaejBXqVISYt6SK) | 2:59 | 2024-03-22 | 2025-01-17 |
 | [Ease My Mind](https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Ease My Mind](https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h) | 3:11 | 2025-02-14 |  |
-| [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-06-21 |  |
+| [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-06-21 | 2025-08-24 |
 | [Electric Cutz](https://open.spotify.com/track/398h6HYx7uGMbRXLycgBF9) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/0tsWEz8VVlBdKypM4IlKAk) | 4:49 | 2024-02-23 | 2024-07-19 |
 | [Electric Cutz](https://open.spotify.com/track/3z8EQNPQwj5VZ7hTimCqZQ) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Electric Cutz](https://open.spotify.com/album/61skTfvokQQ3sSQHKVl0K5) | 4:49 | 2024-02-23 | 2024-04-08 |
 | [Electric Cutz](https://open.spotify.com/track/4P07CYinzfgW5xAITGydS1) | [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO) | [Teach Me](https://open.spotify.com/album/2Q8i6Dq90LD7yKXI0lkHme) | 4:49 | 2024-03-22 | 2024-04-19 |
@@ -249,6 +249,7 @@
 | [Questions](https://open.spotify.com/track/37dmaWoFI8PEM0T7O0BCiP) | [Slum Sociable](https://open.spotify.com/artist/0J626PVezyRujeAfXAssnH) | [Questions](https://open.spotify.com/album/2IKzJwdIzDW8TOiHVf6J2H) | 3:19 | 2021-10-28 | 2024-04-12 |
 | [Rafters](https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Rafters](https://open.spotify.com/album/2Mycw8jnB4YUQyxejVx8Ov) | 3:07 | 2024-07-26 | 2025-03-14 |
 | [Rapture in Blue](https://open.spotify.com/track/4VU2zt6DdkIQFGbLCLFIdX) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Rapture in Blue](https://open.spotify.com/album/3YDpRt2ZLKsClfoRc4mFRC) | 4:13 | 2025-07-24 | 2025-08-23 |
+| [REARRANGE YOURSELF](https://open.spotify.com/track/3DUf1zmIEzJ71RVKCCOZWb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [REARRANGE YOURSELF](https://open.spotify.com/album/6SrZ9IvPllHz1BrhCajg5f) | 3:41 | 2025-08-22 |  |
 | [RED](https://open.spotify.com/track/6zczxg1gPQ28v8yGjy6fq9) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [RED](https://open.spotify.com/album/4Fj5dzZtzeM2ihL1lsIVJq) | 2:41 | 2025-03-21 | 2025-06-23 |
 | [Red Flashing Lights](https://open.spotify.com/track/7olPKz81JZoeIWZnSUkN8S) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB) | [Red Flashing Lights](https://open.spotify.com/album/7ER0D6S1r91Ts0TCnZ8DhO) | 2:46 | 2021-10-28 | 2024-04-12 |
 | [Regret The Morning](https://open.spotify.com/track/4Sj4ZeOPAcdAhYplVbezI0) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Mali\-Koa](https://open.spotify.com/artist/45Dc572GdbJ6Guc8X3UW24) | [Regret The Morning](https://open.spotify.com/album/6tU5eRh9yr1IOBr5vUdx4D) | 2:46 | 2024-02-23 | 2024-07-27 |

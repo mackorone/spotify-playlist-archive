@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,890 likes - 115 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,889 likes - 115 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 10 | [忍住不撥](https://open.spotify.com/track/33T2dvJqZkaLBR0n5vhYqs) | [MinChen](https://open.spotify.com/artist/03TjpiMEGAvMzsprcxBL6f) | [忍住不撥](https://open.spotify.com/album/6Q4ja1Zy6Rfkp6oCiQKhZD) | 3:41 |
 | 11 | [空荡荡](https://open.spotify.com/track/6D7hDhCq07RCcdFGKHgI61) | [Zhou Shen](https://open.spotify.com/artist/0BezPR1Hn38i8qShQKunSD) | [空荡荡](https://open.spotify.com/album/0BdQiX1nyvrJ9sbfEOL6vb) | 3:28 |
 | 12 | [窮寡婦](https://open.spotify.com/track/6qy6gCMrhqjONOx6CsUnLL) | [Elim 以琳](https://open.spotify.com/artist/4Y9qG7S2ijwe068wxqn8pY), [Mini Liu](https://open.spotify.com/artist/1QHPn0LAG1uvkPzOyRXeaw), [雅博渡口](https://open.spotify.com/artist/608mwVFOr4eUD1H3oXxx6e) | [窮寡婦](https://open.spotify.com/album/3f2lOCACYLp8iGq0pAVnEw) | 2:51 |
-| 13 | [Fantasy,Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
+| 13 | [Fantasy, Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
 | 14 | [be the 1](https://open.spotify.com/track/4u5YsHMdaAhtF1rf3Hm7D2) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [be the 1](https://open.spotify.com/album/3WpzpmVQbtFu8tol6pL3M8) | 3:39 |
 | 15 | [這世的名字](https://open.spotify.com/track/3azT0WPu4HFzCHEIQU1n8N) | [Jeff Chang](https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu) | [屬於](https://open.spotify.com/album/7JMO4guKNK7pExuRXISAow) | 4:32 |
 | 16 | [我是真的相信過愛情](https://open.spotify.com/track/1jzf9hHC4ADMmQMWvKdhbg) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [我是真的相信過愛情](https://open.spotify.com/album/7cpBnzeIAjRomRz6QFpUbK) | 4:41 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-176 songs - 8 hr 57 min
+177 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Immer wieder](https://open.spotify.com/track/7JOxQdjkLecM210GYk1dPk) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Treppenhaus](https://open.spotify.com/album/1L2yFZquYx9fjAPYWGWwZQ) | 2:26 | 2024-01-29 |  |
 | [Immun](https://open.spotify.com/track/1xxFRYZ68bCQTxaJwplW17) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:41 | 2024-01-29 |  |
 | [In the Nighttime](https://open.spotify.com/track/2KLtagJpuQJqAYV4QgJLn7) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [In the Nighttime](https://open.spotify.com/album/4CVG8NxpYGgML937xZTH1J) | 2:28 | 2025-08-14 |  |
-| [Intro](https://open.spotify.com/track/6hldgiGWnYgDHBc1HDPJQ2) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/1vhbrbKabLC7JggnGXxM5K) | 2:12 | 2024-01-29 |  |
+| [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 | 2025-08-23 |  |
+| [Intro](https://open.spotify.com/track/6hldgiGWnYgDHBc1HDPJQ2) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/1vhbrbKabLC7JggnGXxM5K) | 2:12 | 2024-01-29 | 2025-08-24 |
 | [Irgendwann](https://open.spotify.com/track/3UK9tCRXD4icuyiegXTy5A) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei](https://open.spotify.com/album/5pKFqWVE4YFUINqUeRPypU) | 3:11 | 2024-01-29 |  |
 | [Jedes Mal](https://open.spotify.com/track/1RGO7qy0nZgDy5ylWfqoql) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:36 | 2024-01-29 |  |
 | [Kampfgeist 4](https://open.spotify.com/track/0zMeFmqknbN5k9UKxPMfcX) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Sie wollten Wasser doch kriegen Benzin](https://open.spotify.com/album/4m9FP8NlqLQfEEwtRIRP5x) | 2:56 | 2024-01-29 |  |

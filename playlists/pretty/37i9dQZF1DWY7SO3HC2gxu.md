@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music across Africa\. Cover: Tina Ardor
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,283 likes - 98 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,290 likes - 98 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 19 | [Away](https://open.spotify.com/track/7BM311QgIRlXRTZsPCIsQP) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Away](https://open.spotify.com/album/32uPiN6yCNSZI6AJ5BmylD) | 3:58 |
 | 20 | [Spirit Rise](https://open.spotify.com/track/36WRarjQdF4MUozZjHkS2Z) | [Foozak](https://open.spotify.com/artist/6bVBQCuQEyT0vgyycuRA4I), [Leo Guardo](https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD) | [Spirit Rise](https://open.spotify.com/album/5ovY3ZLLig25v5qnRRq0Nv) | 5:59 |
 | 21 | [All I Need](https://open.spotify.com/track/0QV64AFrLfAkExawq7QPsO) | [Rammor](https://open.spotify.com/artist/73147xL7gw2ilXfbVPzTuw), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [All I Need](https://open.spotify.com/album/59SSlA8rAV2ZAanVp77jrS) | 2:35 |
-| 22 | [Zaya](https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Chalee](https://open.spotify.com/artist/0xzRmxhRFrntOd4byFb4FY) | [Zaya](https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j) | 7:39 |
+| 22 | [Zaya](https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Zaya](https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j) | 7:39 |
 | 23 | [Rejea](https://open.spotify.com/track/3MjZ6n10mT0wTcPo5vzvU1) | [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Big Nyagz](https://open.spotify.com/artist/4xukSlub7BM65K97FD4EAF), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Rejea](https://open.spotify.com/album/4rs8VykAwag9z1bLgt62FQ) | 5:24 |
 | 24 | [Kiwache Kisonge \- Radio Edit](https://open.spotify.com/track/25czmtF57DG14NOvibExz1) | [Iborian](https://open.spotify.com/artist/36mP4oRFl8IveYlzp9SwGR), [Jemedari](https://open.spotify.com/artist/4bNK3KE81iSO3uXXUhH0UI) | [Kiwache Kisonge](https://open.spotify.com/album/7xFYBWsymEnAg5qfehKMTQ) | 3:40 |
 | 25 | [Vika La Vika](https://open.spotify.com/track/3xjsBZ53Pth6e37ughLZma) | [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Vika La Vika](https://open.spotify.com/album/2gB3i2gOMU2Mn3S6INjyPX) | 5:25 |

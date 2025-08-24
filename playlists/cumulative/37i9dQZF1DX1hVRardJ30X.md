@@ -4,7 +4,7 @@
 
 > New music by Sofia Reyes & Luíza Sonza, Feid, Blessd & Anuel AA and more! Updates every Friday.
 
-10,318 songs - 22 day 9 hr 54 min
+10,319 songs - 22 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6558,6 +6558,7 @@
 | [No Te Vayas](https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [No Te Vayas](https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb) | 3:26 | 2024-01-26 | 2024-02-03 |
 | [No Te Vayas](https://open.spotify.com/track/4qK3gTV5sDdp8MSoh3WYrn) | [Servando & Florentino](https://open.spotify.com/artist/2sU7vdIXtvChlnXIcUliVe), [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [No Te Vayas](https://open.spotify.com/album/3LUThmGH76h0Onpmvrxjcv) | 4:05 | 2025-04-11 | 2025-04-19 |
 | [No Te Vayas](https://open.spotify.com/track/79qUXgmHVqcxNfMOScd9jw) | [Teo Bok](https://open.spotify.com/artist/54HTLyYHg8qHdZTPLtAo7r) | [No Te Vayas](https://open.spotify.com/album/4GpxwlvpcrEV0vwDy7CmFH) | 2:50 | 2022-09-23 | 2022-10-01 |
+| [No te vayas](https://open.spotify.com/track/68kYARF6sl0S2lPa9e7gOO) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE) | [No te vayas](https://open.spotify.com/album/3p6dEKng72YaPVW2xRGrTc) | 2:20 | 2025-08-22 |  |
 | [No Te Veo](https://open.spotify.com/track/02wnMiBlKzoF3E3H5z7EeL) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [No Te Veo](https://open.spotify.com/album/2mvZ7NBq9CllcTzQB5d338) | 2:35 | 2023-09-29 | 2023-10-07 |
 | [No Te Vires](https://open.spotify.com/track/55isUVgoGajzCufq8FJp3v) | [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Tuny D](https://open.spotify.com/artist/0L5AaZ94npT6FbdTGNGdFH) | [No Te Vires](https://open.spotify.com/album/4L2Uyj9MGhj4MLsN2xGjy0) | 2:48 | 2023-11-03 | 2023-11-11 |
 | [No Tenemos La Culpa](https://open.spotify.com/track/70gwSrZmNuuIPLIioB5aaW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [MONÁCO](https://open.spotify.com/artist/5mrZpUB8oFSOMkyyhW0rmH) | [No Tenemos La Culpa](https://open.spotify.com/album/0NX3kzOlPddKsWUCJZg2YR) | 2:52 | 2022-05-06 | 2022-05-14 |

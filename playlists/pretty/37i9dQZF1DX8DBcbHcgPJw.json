@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Bauti Mascia & Amigo de Artistas.",
-  "num_followers": 1153854,
+  "num_followers": 1153727,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,26 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
+        "name": "Te extra\u00f1o bb",
+        "url": "https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Te extra\u00f1o bb",
+      "url": "https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
         "name": "Romantiko",
         "url": "https://open.spotify.com/album/5KIYECOBzod8OthSA2dEkh"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
-        "name": "Te extra\u00f1o bb",
-        "url": "https://open.spotify.com/album/2zGo1N5ktB9y6qvupvosWC"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 212435,
-      "name": "Te extra\u00f1o bb",
-      "url": "https://open.spotify.com/track/2lx4ERMUBS5XH9FSEf2RX0"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "Amor Sincero",
-        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH"
       },
       "artists": [
         {
-          "name": "Maxi Espindola",
-          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 187956,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
+      "duration_ms": 140645,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1151,22 +1155,18 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/33dMDftJA5fKYj5StW5iPH"
+        "name": "Amor Sincero",
+        "url": "https://open.spotify.com/album/6mkYsDQfFm1H4YYGk6lo4X"
       },
       "artists": [
         {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Maxi Espindola",
+          "url": "https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v"
         }
       ],
-      "duration_ms": 140645,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0ODI7RMIbX8XFMos7JnMa7"
+      "duration_ms": 187956,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/35Tg6HJcUghZgeCJq64OOt"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
+        "name": "No Se",
+        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 160689,
+      "name": "No Se",
+      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
-        "name": "No Se",
-        "url": "https://open.spotify.com/album/6NJlOO58BXDL9pDfc4kuqb"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 160689,
-      "name": "No Se",
-      "url": "https://open.spotify.com/track/0tTkyk0axNyWRHzPBgRb8l"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "Ya no me duele :,)",
-        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Cele Arrabal",
-          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
-        }
-      ],
-      "duration_ms": 157021,
-      "name": "Ya no me duele :,)",
-      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
         "name": "Que Locura Fue Enamorarme de Ti (Remix)",
         "url": "https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 141453,
       "name": "Que Locura Fue Enamorarme de Ti (Remix)",
       "url": "https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
+        "name": "Ya no me duele :,)",
+        "url": "https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Cele Arrabal",
+          "url": "https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl"
+        }
+      ],
+      "duration_ms": 157021,
+      "name": "Ya no me duele :,)",
+      "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "CUANDO SALE EL SOL",
-        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "CUANDO SALE EL SOL",
-      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
         "name": "Noche de Party",
         "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
+        "name": "CUANDO SALE EL SOL",
+        "url": "https://open.spotify.com/album/4RumX1vBmnP74qE5h0ZayI"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "CUANDO SALE EL SOL",
+      "url": "https://open.spotify.com/track/2cxOBgPSWMgtJtAqNVOqra"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
+        "name": "Mi Ex",
+        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "Fer Vazquez",
+          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
+        }
+      ],
+      "duration_ms": 141978,
+      "name": "Mi Ex",
+      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1763,26 +1783,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
-        "name": "Mi Ex",
-        "url": "https://open.spotify.com/album/6nGWuOZQFss6GnMweIXvsj"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "Fer Vazquez",
-          "url": "https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB"
-        }
-      ],
-      "duration_ms": 141978,
-      "name": "Mi Ex",
-      "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/60rNhUilqoMluUK1skNtPg"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/58Bus8hzPubXFBYelGrVMZ"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/60rNhUilqoMluUK1skNtPg"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/58Bus8hzPubXFBYelGrVMZ"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "Si Te Vuelvo a Llamar",
-        "url": "https://open.spotify.com/album/5Yv7F7ivWnR8Xxryuv1bHG"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 159396,
-      "name": "Si Te Vuelvo a Llamar",
-      "url": "https://open.spotify.com/track/70B2wI5RkccQVGhq0PEJQi"
-    },
-    {
-      "added_at": "2025-08-22 03:00:12",
-      "album": {
         "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
         "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 356261,
       "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
       "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
+    },
+    {
+      "added_at": "2025-08-22 03:00:12",
+      "album": {
+        "name": "Si Te Vuelvo a Llamar",
+        "url": "https://open.spotify.com/album/5Yv7F7ivWnR8Xxryuv1bHG"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 159396,
+      "name": "Si Te Vuelvo a Llamar",
+      "url": "https://open.spotify.com/track/70B2wI5RkccQVGhq0PEJQi"
     },
     {
       "added_at": "2025-08-22 03:00:12",
@@ -2015,22 +2015,18 @@
     {
       "added_at": "2025-08-22 03:00:12",
       "album": {
-        "name": "Por Que Te Vas",
-        "url": "https://open.spotify.com/album/4fOw7oDBIX0p35fWZlw2XP"
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "El Joan",
-          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Por Que Te Vas",
-      "url": "https://open.spotify.com/track/3ygcJRUQlV2SqiB6pBFkQB"
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat AHTI ja Behm, Pihlaja, Arppa, sombr, Ava Max ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,620 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,631 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 41 | [MALEFIKA](https://open.spotify.com/track/38KIzV28jPFwf8j84Hoz2x) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [DESDE EL COMA](https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR) | 2:33 |
 | 42 | [You Give My Heart A Home](https://open.spotify.com/track/5YP3ueFpicbyM440ZWv6Al) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30), [ay\-Mill](https://open.spotify.com/artist/6GyEey05kfps6PpzxapBcY), [Paul Hawksworth](https://open.spotify.com/artist/4q9uCyxOn2JJ7zoujkdCgv), [Garnic](https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi) | [You Give My Heart A Home](https://open.spotify.com/album/5dPmW3YmCbHGDitLP56BNW) | 2:10 |
 | 43 | [Up At Night](https://open.spotify.com/track/5cwO8XtcnqTmXodqBbkKi0) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Up At Night](https://open.spotify.com/album/0K347ayQtQ5dMyag0pFpRe) | 2:29 |
-| 44 | [Samat samat sanat](https://open.spotify.com/track/7ekJfWBoJkTZHQTZB0kd8C) | [Pimu](https://open.spotify.com/artist/710DcajqmuzFfH7Qzy3fib), [SIMBV](https://open.spotify.com/artist/5EJOjEMJnXiSiZsD5RDyCy) | [Samat samat sanat](https://open.spotify.com/album/367pZI334GXKRxPjMS1NZg) | 2:43 |
+| 44 | [Samat samat sanat](https://open.spotify.com/track/7ekJfWBoJkTZHQTZB0kd8C) | [Pimu](https://open.spotify.com/artist/710DcajqmuzFfH7Qzy3fib), [SIMBV](https://open.spotify.com/artist/5hyxOxGctZsgTHirgLlMr3) | [Samat samat sanat](https://open.spotify.com/album/367pZI334GXKRxPjMS1NZg) | 2:43 |
 | 45 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
 | 46 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 |
 | 47 | [Kesäkuvii](https://open.spotify.com/track/3Daip7QheN5lh8W8vRMKwd) | [Yläkerta](https://open.spotify.com/artist/0UwzZ8f2k52kAfePQRcmmL) | [Kesäkuvii](https://open.spotify.com/album/3eDG3DsU2S8hhaEnmApsb8) | 3:04 |

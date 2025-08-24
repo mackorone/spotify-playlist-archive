@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-3,352 songs - 7 day 19 hr 55 min
+3,353 songs - 7 day 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2328,6 +2328,7 @@
 | [Psycho](https://open.spotify.com/track/7lx4RfYCIoZvieFHASRg2l) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Psycho](https://open.spotify.com/album/3vrOFDMruVgZr1Cvlutbfk) | 2:09 | 2025-06-27 | 2025-08-02 |
 | [Psychosis](https://open.spotify.com/track/2VTpMLEAkRwy1fpokBElm6) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [Psychosis](https://open.spotify.com/album/3LjPEsUdZeRAVxTBjdgm5z) | 4:02 | 2024-02-16 | 2024-03-16 |
 | [Puddlz](https://open.spotify.com/track/5dQLVtqWS4miOdbARYLsUS) | [Ethanplus](https://open.spotify.com/artist/6BjkYyzfLLbbHn8SBpjh6s) | [Puddlz](https://open.spotify.com/album/3JoOlgaZWCsH9M4Z0nBPiJ) | 2:11 | 2024-10-04 | 2024-11-02 |
+| [PULL UP](https://open.spotify.com/track/1bqYPHgLbs6alzEXoRGc99) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [PULL UP](https://open.spotify.com/album/7JvpbeaYonIXD4CgRKrpLY) | 2:42 | 2025-08-23 |  |
 | [Pull Up](https://open.spotify.com/track/7pIeTocmZUoqW9HWakeWSI) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Pull Up](https://open.spotify.com/album/4AzsiPM6LkbOdGy8FR9wlE) | 2:32 | 2024-05-24 | 2024-06-22 |
 | [Pull Up](https://open.spotify.com/track/4saRjwihATVCpaphNwC5QR) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Pull Up](https://open.spotify.com/album/6SWDIQ7ig3uipY6NYAY6Pi) | 3:28 | 2024-10-04 | 2024-11-02 |
 | [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-11-17 | 2023-12-16 |

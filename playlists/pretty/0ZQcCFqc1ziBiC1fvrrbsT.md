@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,540 likes - 22 songs - 1 hr 29 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 12,547 likes - 22 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 5 | [Fundraiser](https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Fundraiser](https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID) | 3:39 |
 | 6 | [White Noise](https://open.spotify.com/track/50L12RKdUmS0Zk52W7zUZg) | [Shopping](https://open.spotify.com/artist/1UgRlUUZBwiGwqMFHA4Puf) | [White Noise](https://open.spotify.com/album/1Di7T9tKGotnbmqmgh3hq3) | 3:18 |
 | 7 | [i think about you all the time](https://open.spotify.com/track/0M5NH22uVXHSXjSi5SXTXM) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 4:08 |
-| 8 | [Reject All and Submit](https://open.spotify.com/track/4HKNKEs7SUYcM7ukNEiy17) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Dylan Walker](https://open.spotify.com/artist/4WVV9N6h8QJkzZ5PQUwWtw) | [Dreams of Being Dust](https://open.spotify.com/album/37rtDNzByPWuMoaA9Mg5r7) | 3:38 |
+| 8 | [Reject All and Submit](https://open.spotify.com/track/4HKNKEs7SUYcM7ukNEiy17) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip), [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz) | [Dreams of Being Dust](https://open.spotify.com/album/37rtDNzByPWuMoaA9Mg5r7) | 3:38 |
 | 9 | [Nights in Armor](https://open.spotify.com/track/3IYWwBHxGyTZLh5OYaH7Ow) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Nights in Armor](https://open.spotify.com/album/3f917jelqPH0JoeRu7bcEQ) | 3:09 |
 | 10 | [Lazy](https://open.spotify.com/track/3TIzEHCMvagUXDej3ycZKr) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Lazy](https://open.spotify.com/album/2LtmpUPxf53HsvZxO7JIyz) | 4:08 |
 | 11 | [New Earth Time](https://open.spotify.com/track/6B9FH9oGQkjAlmaBkYfVr5) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [New Earth Time](https://open.spotify.com/album/7q9XglyVKCywFzOcnd1aZz) | 4:05 |

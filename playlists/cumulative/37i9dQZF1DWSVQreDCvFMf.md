@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Mark Carpio
 
-495 songs - 1 day 6 hr 55 min
+500 songs - 1 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Hardin](https://open.spotify.com/track/1WVHEZbUfXIR0pvyVn3aAf) | [Luna and Apollo](https://open.spotify.com/artist/3lGTdR80bbZBncRYdXOwy8), [Fred Engay](https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb) | [Hardin](https://open.spotify.com/album/6AiYfAPOpO10WD6Rnu6lEl) | 5:43 | 2025-05-30 |  |
 | [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 | 2024-11-23 |
 | [Hayy](https://open.spotify.com/track/5Nc8J2Ie4eXi7l12C083GD) | [BLASTER](https://open.spotify.com/artist/34KLaW82VNor4hhKXMyXJ9) | [Last Fool Show](https://open.spotify.com/album/7gF385mKDnOQEXQNrvBgD3) | 3:45 | 2025-05-23 |  |
+| [Headlines](https://open.spotify.com/track/5060fEQEvAIywQ8NMLJeOi) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Headlines](https://open.spotify.com/album/3pIxnSDUJ0I9KHdrahOC1s) | 2:19 | 2025-08-23 |  |
 | [Hele](https://open.spotify.com/track/16CAfglFpGKN9U8n1VoaF4) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Hele](https://open.spotify.com/album/2uWlw4sPVjH267Jw7UQt61) | 4:51 | 2025-05-09 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
 | [hindi mo dapat](https://open.spotify.com/track/1TdpAIyqK8WMkmrJx40axG) | [Hicci](https://open.spotify.com/artist/3nEqPCHcNEUY3XeLQo7YuS) | [hindi mo dapat](https://open.spotify.com/album/0a4idFB60DBCdd3Nn5RYoZ) | 3:36 | 2025-05-23 |  |
@@ -311,6 +312,7 @@
 | [Napagod Na](https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Napagod Na](https://open.spotify.com/album/5JMLaYvckd8WSXZnC2uLeN) | 2:27 | 2024-07-02 | 2024-07-09 |
 | [Nasan Na Ba Ako?](https://open.spotify.com/track/71wEGMZkYzllZd7P8u2FES) | [SSUNN](https://open.spotify.com/artist/1GkXuyf7W9WnQhHuBov71K) | [Nasan Na Ba Ako?](https://open.spotify.com/album/4hxtD2eFMJH1rSQXXwH4YN) | 4:50 | 2025-08-08 |  |
 | [Nasusunog \(Pants On Fire\)](https://open.spotify.com/track/49DurUInR305YE8CU5MU6h) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Nasusunog \(Pants On Fire\)](https://open.spotify.com/album/2yeuyBcLVYn3PldayVr91O) | 2:50 | 2025-05-23 |  |
+| [Never Ever](https://open.spotify.com/track/4acuAxO3HX8gnG0cPoHdY3) | [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU), [Shanice](https://open.spotify.com/artist/7d0Wq0KsjId0JcqsDg02l2) | [Never Ever](https://open.spotify.com/album/4Kgp0O7onWFiBSFfw3Fadq) | 4:07 | 2025-08-23 |  |
 | [New Dimensions](https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Traveller Across Dimensions](https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY) | 4:18 | 2024-11-29 | 2025-05-12 |
 | [Ngalan Mo](https://open.spotify.com/track/7vkINABNJgMl0K7xRUrIhp) | [Yden](https://open.spotify.com/artist/3TrbbmtvHwXSKbBc1tClSV) | [Ngalan mo](https://open.spotify.com/album/5K20pRwZSozWqH2xn7GSha) | 2:54 | 2025-07-21 |  |
 | [Nilalang](https://open.spotify.com/track/7eMn5OCApyTgqrPPoLJWBq) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Nilalang](https://open.spotify.com/album/7vTwHNQJy2vVhbhDfmF6NY) | 3:29 | 2024-07-19 | 2024-11-21 |
@@ -444,6 +446,7 @@
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-08 | 2025-02-13 |
 | [Tagpi\-Tagping Piraso](https://open.spotify.com/track/2Wo8XWGAdfVKY0cArDMo8L) | [Ely Buendia](https://open.spotify.com/artist/5C8exBHLifsjZxzVErjRpn) | [Tagpi\-Tagping Piraso](https://open.spotify.com/album/1sZHJjzmRCPByEp5LvqOqq) | 4:46 | 2024-10-18 | 2025-02-01 |
 | [Tahanan](https://open.spotify.com/track/34ftCMquXUGlSVFrbNmlvB) | [ONSE](https://open.spotify.com/artist/6k0cB0PRw6pUa351Cr72Ix) | [Tahanan](https://open.spotify.com/album/58sYRua7cGvoT6MgwIzd8F) | 3:28 | 2025-08-01 |  |
+| [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/track/6C6T5FSG8AZXgKPwZgVcNx) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Tahimik Na Buhay Kapiling Ka](https://open.spotify.com/album/49bkCXhFHLjlxxNzCDmZ5U) | 4:45 | 2025-08-23 |  |
 | [tama na](https://open.spotify.com/track/7LRPZzicTkzOJ4OyFgajxT) | [Cuatro](https://open.spotify.com/artist/4dg2z4ZmSNpkBGRSSBs3Q0) | [tama na](https://open.spotify.com/album/0Q30UaqNvSu4F2zeBm1pHF) | 4:01 | 2024-11-20 | 2025-02-06 |
 | [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 | 2025-04-22 | 2025-06-21 |
 | [Tanga](https://open.spotify.com/track/2PJkC7PGVqKRqM2W98n14r) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Tanga](https://open.spotify.com/album/0yb8i6UokYXrBfPVIpFwyh) | 3:03 | 2025-08-08 |  |
@@ -479,11 +482,13 @@
 | [Twenties](https://open.spotify.com/track/0NzTdXtgZLKP6IcyFyGytS) | [Tripov](https://open.spotify.com/artist/7EAQd1uHunanyGbZenLe6h) | [Twenties](https://open.spotify.com/album/376cAL4mCqmNTi7nRlz2v2) | 3:21 | 2025-06-20 |  |
 | [twin flames](https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [twin flames](https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1) | 2:53 | 2024-07-26 | 2024-11-09 |
 | [U & I](https://open.spotify.com/track/0fCu02teDBZyrhIygrStO6) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [U & I](https://open.spotify.com/album/5FGn83gWhrhfPlES1nbcuC) | 3:03 | 2025-06-06 |  |
+| [U Were Never Mine](https://open.spotify.com/track/5NOKWEXX4ZjCJuici3jkzy) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [U Were Never Mine](https://open.spotify.com/album/3BWq5rbJpBJo57U0f73lYj) | 3:27 | 2025-08-23 |  |
 | [U\-Belt](https://open.spotify.com/track/1Sb17ULI2TTxIDKiqKV2zv) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [U\-Belt](https://open.spotify.com/album/5xcsBVV2LTMRt8CQpzOmZL) | 3:32 | 2025-01-31 | 2025-05-20 |
 | [Ulan](https://open.spotify.com/track/4qOxd97yhYwqUBCgMlSTM9) | [Tothapi](https://open.spotify.com/artist/2AcrkelR47hApTQirQhv6F) | [Ulan](https://open.spotify.com/album/2iMYePZaZrbmXUagNQxDI5) | 4:41 | 2025-05-30 |  |
 | [Umaaligid](https://open.spotify.com/track/5XYYmsZJG5qIBAniny4bHe) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Umaaligid](https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd) | 3:40 | 2025-08-01 |  |
 | [Umawit Ka \(Pop Version\) \(Original Soundtrack\)](https://open.spotify.com/track/5uD6smGeHScNdKLFfhnUno) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ), [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Umawit Ka \(Pop Version\) \(Original Soundtrack\)](https://open.spotify.com/album/2NICWxMflnTaDHfWzVxPax) | 2:31 | 2025-04-16 | 2025-06-21 |
 | [Umayos Ka](https://open.spotify.com/track/7gOF9CLCcGiEeqXx8VXkjM) | [Joema Lauriano](https://open.spotify.com/artist/55V6iD1PB8ijRT7VS1VbGJ) | [Umayos Ka](https://open.spotify.com/album/6gnBtAHsfwMsuJ9HzmyUw0) | 3:23 | 2024-07-02 | 2024-07-13 |
+| [Unang Halik](https://open.spotify.com/track/5ndlclTMoJemP6lO8hfBex) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Unang Halik](https://open.spotify.com/album/65hq8YKIAlYgzNicSYJeEG) | 4:11 | 2025-08-23 |  |
 | [Walang Humpay](https://open.spotify.com/track/1ViEbFEyP4VLQ9cBGOeGuj) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [Walang Humpay](https://open.spotify.com/album/5vucmfHLuYtE44OtczpUwz) | 3:24 | 2024-07-26 | 2024-11-09 |
 | [wanted you](https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi) | [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [wanted you](https://open.spotify.com/album/0ckTkTRmAJ2RTka6bybDGW) | 2:44 | 2024-07-19 | 2024-11-05 |
 | [Wasabi](https://open.spotify.com/track/1hk8R3dc6pJsyZcngDWa3i) | [figvres](https://open.spotify.com/artist/4ShxxebL6hOdEveQSOVZkV) | [Wasabi](https://open.spotify.com/album/3n6ghEbNvbPQvJskAGcLHB) | 3:13 | 2025-08-08 |  |

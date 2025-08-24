@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Manny Montes, Jinys & Guerrero De Cristo
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,346 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,345 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 38 | [Honestidad](https://open.spotify.com/track/1SfZqeVwQEEIsJVSaAB8v0) | [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Lutek](https://open.spotify.com/artist/62e4UXxMpqNGBJFfyP7xk4) | [Honestidad](https://open.spotify.com/album/36gBZBhwd8WUf6gMox6Nrb) | 3:45 |
 | 39 | [Preocupado Por Quién?](https://open.spotify.com/track/6yFmXt81sn9MfwkNHUYo6e) | [Harold Velazquez](https://open.spotify.com/artist/7whnCG4xTRqrIsagRrrjLj) | [El Nene](https://open.spotify.com/album/1Y394HV6hXzZpJml9gqGXL) | 3:54 |
 | 40 | [Hopetober 6](https://open.spotify.com/track/1413d1BEPIgAZD7Rw83MHV) | [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj) | [Hopetober 6](https://open.spotify.com/album/7MlbKa9IDgAJSORtuB1PVb) | 2:52 |
-| 41 | [O N L Y G O D](https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Joe Lee](https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Jere](https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd) | [O N L Y G O D](https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7) | 4:28 |
+| 41 | [O N L Y G O D](https://open.spotify.com/track/03XBK5XMwgPoAPRURgS4bW) | [Jay Changer](https://open.spotify.com/artist/7cXH8pSV3AYABFqSIB4AvX), [Joe Lee](https://open.spotify.com/artist/6vNgiQRTbOJbe4MnQob1Wd), [Vianca "The Grace"](https://open.spotify.com/artist/3Xekr22iZIFUAb6eMOPNxP), [Sseven](https://open.spotify.com/artist/33IMnaNU9SaQ0iLQQkhsbw), [Jere](https://open.spotify.com/artist/7EfoVv5dszq2vZNoVETZDd) | [O N L Y G O D](https://open.spotify.com/album/52bQkBTwgi7s2vctmGXVB7) | 4:28 |
 | 42 | [Clutch](https://open.spotify.com/track/1AKjplLFqJOpaTBKVwFUB4) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78) | [Clutch](https://open.spotify.com/album/1fEvT8OQmew6frgOWJF7jR) | 2:36 |
 | 43 | [Otro Día](https://open.spotify.com/track/0Bq7UQv3bdHZX7NhNKlJCJ) | [Reywil Alexander](https://open.spotify.com/artist/1ULs4RG7vSXsSF8gbFQBEc), [Norci Morales](https://open.spotify.com/artist/6FvOeMMM4g8hr3fixOV5mh), [Stidlmusic](https://open.spotify.com/artist/0xLrCvJATAv6Zw5ealVQlH) | [Otro Día](https://open.spotify.com/album/6ppseCFXwrpt9z8Zt2mmjY) | 2:29 |
 | 44 | [HIJOS DEL KING](https://open.spotify.com/track/1HAmbPro7ax6aQNmbKc505) | [Caleb](https://open.spotify.com/artist/0PWnks3CTlHQY2LJFCLSHC), [Creyente.7](https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs) | [HIJOS DEL KING](https://open.spotify.com/album/5KjFL5afDuUfy4ET4JuN54) | 2:43 |

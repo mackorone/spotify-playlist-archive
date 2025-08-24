@@ -8427,6 +8427,24 @@
     },
     {
       "album": {
+        "name": "Hell Hath No Fury",
+        "url": "https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE"
+      },
+      "artists": [
+        {
+          "name": "Clipse",
+          "url": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Hello New World",
+      "url": "https://open.spotify.com/track/5yQrDTZQWPbhbpGW7acvmm"
+    },
+    {
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },

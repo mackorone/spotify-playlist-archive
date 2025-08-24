@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Caetano & Beth\u00e2nia",
-  "num_followers": 1434157,
+  "num_followers": 1434429,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Djavan \"Ao Vivo\"",
+        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Meu Bem-Querer (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 212933,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0C13P4IghHNFPjt4zIJ8vX"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
-        "name": "Djavan \"Ao Vivo\"",
-        "url": "https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Meu Bem-Querer (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 235533,
-      "name": "O Mundo \u00c9 Um Moinho",
-      "url": "https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Mem\u00f3rias (2001) - Ao Vivo",
         "url": "https://open.spotify.com/album/3nUrkarTlEKsV56TgJ5PQK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 200820,
       "name": "Amor I Love You (feat. Arnaldo Antunes) - Ao Vivo",
       "url": "https://open.spotify.com/track/5x5z1Agy0vAlPqqJQL6VQK"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 235533,
+      "name": "O Mundo \u00c9 Um Moinho",
+      "url": "https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Mentiras (Ao Vivo)",
         "url": "https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf"
       },
@@ -1003,6 +987,22 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
         "name": "Solo Contigo (ao Vivo) - Deluxe Edition",
         "url": "https://open.spotify.com/album/5hJLWVGCXTXdZb6kvC4Cgh"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Que Tal Um Samba? (Ao Vivo)",
         "url": "https://open.spotify.com/album/38cyb88pRnyy49dDSuETpO"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 251250,
       "name": "Dr\u00e3o",
       "url": "https://open.spotify.com/track/6BMzeMqNHmMtU5ucEWvbW9"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
-        "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 192062,
-      "name": "Paisagem da Janela - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Caravanas Ao Vivo",
         "url": "https://open.spotify.com/album/23D3QyvWb50hK2AYNCtpyE"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Os Primeiros Anos",
-        "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
+        "name": "T\u00eanis + Clube - Ao Vivo No Circo Voador",
+        "url": "https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
         }
       ],
-      "duration_ms": 122760,
-      "name": "Canto de Ossanha",
-      "url": "https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT"
+      "duration_ms": 192062,
+      "name": "Paisagem da Janela - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1179,6 +1163,22 @@
       "duration_ms": 311745,
       "name": "Dr\u00e3o - Remasterizado",
       "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Os Primeiros Anos",
+        "url": "https://open.spotify.com/album/5CtT0oNeHpOhP10uyBORnC"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        }
+      ],
+      "duration_ms": 122760,
+      "name": "Canto de Ossanha",
+      "url": "https://open.spotify.com/track/5N8wA5SKIlFk2gtQR7NGqT"
     },
     {
       "added_at": "2025-05-30 05:19:13",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-05-30 05:19:13",
       "album": {
-        "name": "Unplugged (Ao vivo)",
-        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "A Paz - Ao Vivo",
-      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
-    },
-    {
-      "added_at": "2025-05-30 05:19:13",
-      "album": {
         "name": "Prazer De Viver",
         "url": "https://open.spotify.com/album/31X7O3CHeltLrDAz0P9AOS"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 225691,
       "name": "Prazer De Viver (Barra)",
       "url": "https://open.spotify.com/track/59m7uvS0rKWgJw8x3Z8Pw3"
+    },
+    {
+      "added_at": "2025-05-30 05:19:13",
+      "album": {
+        "name": "Unplugged (Ao vivo)",
+        "url": "https://open.spotify.com/album/525oSOShPTFiuHE1DIZttf"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "A Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/5jKg6K5LjLH4RkVpxXqO6W"
     },
     {
       "added_at": "2025-05-30 05:19:13",

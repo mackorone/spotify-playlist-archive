@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-289 songs - 18 hr 44 min
+290 songs - 18 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [I've Never Been In Love Before](https://open.spotify.com/track/4spNUk1Fj62kbBQibFAHpu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:42 | 2022-08-29 | 2022-09-01 |
 | [I've Never Been In Love Before](https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:42 | 2022-08-29 | 2022-10-13 |
 | [If I Had You](https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI) | 4:21 | 2023-06-20 | 2024-04-19 |
-| [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-09-08 |  |
+| [If I Had You](https://open.spotify.com/track/7hqudcHQ5fULbiEXOuHo2P) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/3a6KzdXSmRbx5EAhYkSA6p) | 4:21 | 2022-09-08 | 2025-08-24 |
 | [If It Was](https://open.spotify.com/track/0JQTyfPaUcW0xt2jdsi3KA) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 3:41 | 2023-05-18 | 2024-04-19 |
 | [If It Was](https://open.spotify.com/track/0WzwQNa3Nn5VxNiFL46XMx) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:41 | 2023-03-23 | 2023-04-20 |
 | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF), [Jóel Pálsson](https://open.spotify.com/artist/01hW0ABfVzBMOl7o9fOnLB) | [If It Was \(feat\. Jóel Pálsson\)](https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ) | 3:41 | 2022-04-14 | 2025-06-28 |
@@ -138,6 +138,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/2pNIQGq9PBvaRUnk4AsUtM) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [From This Moment On](https://open.spotify.com/album/5KeVVIp7Fffz1S9gkpTyFj) | 3:28 | 2022-09-08 | 2022-10-08 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/5ZfhrMkluDMI7eMyCqqR7O) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Make Someone Happy](https://open.spotify.com/album/4n4OIAks8f10DuIhb4aLlm) | 3:36 | 2021-12-21 |  |
 | [It's A Wonderful Time For Love](https://open.spotify.com/track/5oPWYCHejJF8Jwj3hiaTeh) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Day Breaks](https://open.spotify.com/album/7ampUMuhfCx0briKjYNKRQ) | 3:53 | 2022-09-08 | 2022-11-13 |
+| [It's Magic](https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT) | [Stella Cole](https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR) | [It's Magic](https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42) | 3:39 | 2025-08-22 |  |
 | [It's Oh So Quiet](https://open.spotify.com/track/0HRkVSOxjs9qdvAUKc603s) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK), [WDR Funkhausorchester](https://open.spotify.com/artist/24dGgI2Wdq3EF0oqq3lhM9) | [It's Oh So Quiet](https://open.spotify.com/album/6C6nBYHDXsWFUAp7D45Pwv) | 3:48 | 2021-12-21 |  |
 | [It's the Talk of the Town](https://open.spotify.com/track/5vXDA2Sqm05uQaoayLGKQJ) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv) | [It's the Talk of the Town](https://open.spotify.com/album/7Gq2fHvO6W7MF4H5H1wdub) | 7:04 | 2021-12-21 |  |
 | [I´m a Fool to Want You](https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ), [Marcelo Kimura](https://open.spotify.com/artist/17SALfRouyrGDGbjJBcZF3), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP) | [I´m a Fool to Want You](https://open.spotify.com/album/0SzmD3ohQtsXaTVh7VSbJ5) | 4:06 | 2021-12-21 |  |

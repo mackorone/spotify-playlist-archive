@@ -4,7 +4,7 @@
 
 > 
 
-7,654 songs - 19 day 18 hr 12 min
+7,656 songs - 19 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -833,6 +833,7 @@
 | [Bonfire](https://open.spotify.com/track/25ypHCQpDX2nrDFly7eZLZ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Camp](https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh) | 3:12 | 2024-12-14 |  |
 | [Boogie Nights \- 12" Disco Version](https://open.spotify.com/track/6IcuQClYqCygoNNX439RI7) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot to Handle \(Expanded Edition\)](https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8) | 4:38 | 2025-01-03 |  |
 | [Boogieman](https://open.spotify.com/track/0SunFlwqT44E0BU0yrgM7u) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 3:36 | 2024-12-14 |  |
+| [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 | 2025-08-23 |  |
 | [BOP](https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:39 | 2024-12-14 |  |
 | [bop it up!](https://open.spotify.com/track/06yhr4JeQjIcyDZwEwjGcm) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [bop it up!](https://open.spotify.com/album/2N0mrM0E67bgXuOkeuEHjC) | 2:46 | 2025-01-04 |  |
 | [border](https://open.spotify.com/track/0WQRZ27WJLYTZVcNkH12no) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Pink Moon \-](https://open.spotify.com/album/2jGthHZFI99DykepNSeGvw) | 4:24 | 2024-12-14 |  |
@@ -5995,6 +5996,7 @@
 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 5:34 | 2024-12-14 |  |
 | [Time for the moon night](https://open.spotify.com/track/3LLhE8SrCkXGLjZOFwEhVC) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Time for the moon night](https://open.spotify.com/album/07UE7o0HnOk4Q5atpU07VC) | 3:46 | 2025-07-19 |  |
 | [Time for the moon night](https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 6th Mini Album <Time for the moon night>](https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP) | 3:46 | 2025-03-24 |  |
+| [Time Is Valuable](https://open.spotify.com/track/1B442kz353ko365zwIhMLg) | [Tae Retro](https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0) | [Time Is Valuable](https://open.spotify.com/album/518e4YitDkMyhijAOjxwAa) | 2:15 | 2025-08-23 |  |
 | [Time of Our Lives](https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:49 | 2025-01-15 |  |
 | [Time To Make History](https://open.spotify.com/track/26kZFCP0awbGC7IIjx6bY2) | [平田志穂子](https://open.spotify.com/artist/4PYEhkeRZkSSGCrurjzDrX) | [ペルソナ4 ザ・ゴールデン オリジナル・サウンドトラック](https://open.spotify.com/album/5ONLnFM7dW4eZ7irUTvwhK) | 2:31 | 2025-04-20 |  |
 | [Timeless](https://open.spotify.com/track/5nfb7IPrj9awskmLFSykWr) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [SG Wanna Be＋](https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs) | 3:57 | 2025-01-15 |  |

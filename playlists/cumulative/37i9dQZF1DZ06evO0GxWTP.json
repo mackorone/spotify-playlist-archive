@@ -41,6 +41,28 @@
     },
     {
       "album": {
+        "name": "Ben Je Morgen Vrij?",
+        "url": "https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Ben Je Morgen Vrij?",
+      "url": "https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz"
+    },
+    {
+      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 裘德 \(Jude Chiu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,589 likes - 152 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,586 likes - 152 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 140 | [织 \(新传媒戏剧《活出好命来》主题曲\)](https://open.spotify.com/track/6bIihgrFglCFsQzBoBxfD9) | [石康钧](https://open.spotify.com/artist/6nm407v04NzMuUrci7SxNP) | [新传媒戏剧《活出好命来》原声带](https://open.spotify.com/album/4mXSLJz5LJSDUtyJ2vGs88) | 4:40 |
 | 141 | [BISH!](https://open.spotify.com/track/0qwDpzQyLQNEdLVGnxug4P) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [BISH!](https://open.spotify.com/album/5DBKUrlxeljVzXqpU2nlhV) | 2:05 |
 | 142 | [WHAT U WANT? \- 錯頻沒在稿 OFF THE RECORD \- DEMO](https://open.spotify.com/track/6syIizOArNJgImtJJ8hk97) | [錯頻 Error Frequency](https://open.spotify.com/artist/1lDwoY702Ym4H79WGuGzCI), [黃右年 ASSKiD](https://open.spotify.com/artist/6cNYPNxGCZowUuJo1qRJGl), [大寶 DaBao](https://open.spotify.com/artist/0ytI9GGwgB4YfaH4SQkvDr), [Andrew Su](https://open.spotify.com/artist/4oIhsb4tPloa7dQH0TQfhu), [\#asskidindahood](https://open.spotify.com/artist/3E0PqQ0ZQQaWE72E76ht3s) | [WHAT U WANT? \- 錯頻沒在稿 OFF THE RECORD \(DEMO\)](https://open.spotify.com/album/6U1GpBzCEKBwnLXtzenPKp) | 2:34 |
-| 143 | [Fantasy,Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
+| 143 | [Fantasy, Maybe](https://open.spotify.com/track/2WX3xcNTqMQmPIsq6iJxwV) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [Olin MattiBlue](https://open.spotify.com/artist/2E5pDM8XRBqBVdALkdcgcH) | [Fantasy, Maybe](https://open.spotify.com/album/1pAnGCGa1HgbvUioXdHC0C) | 3:10 |
 | 144 | [SWING DANCE（動畫《妖果小學》片尾曲）](https://open.spotify.com/track/3AuNMzZZqB83zl8DlaLkHY) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [SWING DANCE（動畫《妖果小學》片尾曲）](https://open.spotify.com/album/0qxdaSXF0Z9DlF0Kqa3peT) | 2:12 |
 | 145 | [Whole Gang](https://open.spotify.com/track/1RK41DclmzoPbjNqEl8nhN) | [孤兒收容所](https://open.spotify.com/artist/20uCl90Tgun1Kz0V3mlrKe), [JosH](https://open.spotify.com/artist/4FazSwdxqGVLQ1EeEyipup), [REYAN](https://open.spotify.com/artist/1V8WYjrUs6NMo3pQbrXhYo), [PumpZ](https://open.spotify.com/artist/66PBhLgF6VRGW8CQt4oFCE) | [Log In : Basement Party](https://open.spotify.com/album/6mQ6tzgfir0dcXxzCXMNii) | 2:26 |
 | 146 | [Pali Pali \(feat\. Hanji & 謝帝\)](https://open.spotify.com/track/7ynCrqmV8TJ5j4TQhyxJLw) | [Barry Chen](https://open.spotify.com/artist/45sDYsh1i1bXB3IRi04MTz), [hanji](https://open.spotify.com/artist/34LtqGxoxAN0Ii2mzT30zs), [謝帝](https://open.spotify.com/artist/7jOnsZvumeYDyGhbqoZcTx) | [Pali Pali \(feat\. Hanji & 謝帝\)](https://open.spotify.com/album/2uiAC4kYuit8rJlFsTfXwe) | 4:00 |

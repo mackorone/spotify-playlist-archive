@@ -4,7 +4,7 @@
 
 > Neue Musik von sombr, Jazeek, Doja Cat, Florence + The Machine und mehr!
 
-5,980 songs - 12 day 5 hr 5 min
+5,983 songs - 12 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Babyface Maniacs](https://open.spotify.com/track/5jAgJyYGFg75DpIyEGxomh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Babyface Maniacs](https://open.spotify.com/album/4t9pNaVyoEp5W1eVLARj0x) | 3:41 | 2025-03-27 | 2025-04-04 |
 | [Babygirl](https://open.spotify.com/track/6Yi0pzHS82XDFhbb0m5A5N) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Babygirl](https://open.spotify.com/album/3LZ3I3omuVyAWhl2xSrHqa) | 2:40 | 2025-07-10 | 2025-07-18 |
 | [Baccarat](https://open.spotify.com/track/3qTIWCS4FRBCgO36huOUaq) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Baccarat](https://open.spotify.com/album/6pFdsURt1GsWw2gV7WDyu2) | 2:52 | 2025-08-07 | 2025-08-16 |
+| [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 | 2025-08-22 |  |
 | [Back 2 Me](https://open.spotify.com/track/4ZWwOIi4ZaXe3abTVLkedj) | [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Back 2 Me](https://open.spotify.com/album/1G5zOiwudBZj9NdVsGjnXi) | 2:41 | 2024-11-07 | 2024-11-15 |
 | [Back Again](https://open.spotify.com/track/1Vm3VpRkzkx3NnUL29dAi8) | [RIKU RAJAMAA](https://open.spotify.com/artist/4hsmFru7NH14y1rtw59tsX), [Stanfour](https://open.spotify.com/artist/0Ku9jFTJvPANO4LBOyJoWv) | [Back Again](https://open.spotify.com/album/5D3a4nPCdILKo1q7L33oHH) | 3:00 | 2025-02-13 | 2025-02-21 |
 | [back from the dead \(with mxmtoon\)](https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [back from the dead](https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x) | 2:38 | 2024-05-16 | 2024-05-24 |
@@ -479,7 +480,7 @@
 | [Back To You](https://open.spotify.com/track/3CyrVEkcaJdSh8cM8IcRdD) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Back To You](https://open.spotify.com/album/5fVmQPX1qAqAq42Sl3ho89) | 3:30 | 2024-10-24 | 2024-11-01 |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-08 | 2024-08-16 |
 | [background check](https://open.spotify.com/track/0h7ZuS3cgicu9Ku0Eax7r4) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [happy worstday](https://open.spotify.com/album/4gL18Qzv6bMtLV2zYw7K9J) | 2:34 | 2024-06-20 | 2024-06-28 |
-| [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-08-22 |  |
+| [Backseat](https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Backseat](https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu) | 6:23 | 2025-08-22 | 2025-08-24 |
 | [Backslide](https://open.spotify.com/track/62aSL7D64td5wr09L6iFiV) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Backslide](https://open.spotify.com/album/4bwNLICcbpG5VpFGG1J2pD) | 3:00 | 2024-04-26 | 2024-05-03 |
 | [BAD](https://open.spotify.com/track/3sIG4gEXMRxPch5b19h7Ne) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [BAD](https://open.spotify.com/album/2wfOvIfJuM6YC9WzNKdKvC) | 2:44 | 2024-10-10 | 2024-10-18 |
 | [Bad As The Rest](https://open.spotify.com/track/5PbieFqXACejDMorBL0DVH) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Bad As The Rest](https://open.spotify.com/album/1vhBeb2mjo9gjGkdbNJTz9) | 3:02 | 2025-07-10 | 2025-07-18 |
@@ -1861,6 +1862,7 @@
 | [Forward](https://open.spotify.com/track/1GxD4INh9N4VbkK876YSL5) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [Forward](https://open.spotify.com/album/0UC6tVQ142Xf5VwJ15jq0v) | 3:43 | 2025-05-15 | 2025-05-23 |
 | [fotodump juli](https://open.spotify.com/track/6milFlu3HMXJ5KLTZbBn9B) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [fotodump juli](https://open.spotify.com/album/0UuIEJWPSSlsw3CCjWB73Q) | 2:20 | 2025-08-14 | 2025-08-23 |
 | [Found Our Way](https://open.spotify.com/track/74nKlOcMkFvXPEz7VPFmeu) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Found Our Way](https://open.spotify.com/album/2JCdBDNMNbS7lAmK9HvXdR) | 2:42 | 2024-09-05 | 2024-09-13 |
+| [found u/me](https://open.spotify.com/track/5LzTzcMwn1YhzPSLkYlNnX) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [found u/me](https://open.spotify.com/album/2GFo9R1vPgwrkWxRPwvz6p) | 2:49 | 2025-08-22 |  |
 | [Found You First](https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Found You First](https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk) | 2:43 | 2024-06-20 | 2024-06-28 |
 | [Four Days](https://open.spotify.com/track/7kK7MqlnMM4CZC2mUoKZm5) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [Four Days](https://open.spotify.com/album/7kj53vSUBllGgQE0uuixLd) | 3:39 | 2024-04-26 | 2024-05-03 |
 | [Fovame \- Spotify Singles](https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Fovame \- Spotify Singles](https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf) | 2:48 | 2025-05-09 | 2025-05-16 |
@@ -4170,6 +4172,7 @@
 | [Polari](https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Polari](https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId) | 1:27 | 2024-11-21 | 2024-11-29 |
 | [Polarität](https://open.spotify.com/track/2McjdvztjQZyJQT3bYsSkq) | [KIALA](https://open.spotify.com/artist/4zABHPQ2hWIUwHPv7Zhqdq) | [Polarität](https://open.spotify.com/album/3yfk9gv4M8GP3AJfP99ZBq) | 2:10 | 2025-05-29 | 2025-06-06 |
 | [Pole Dance](https://open.spotify.com/track/67gESpBbdx0duQfJrR2S5D) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Pole Dance](https://open.spotify.com/album/0yRJlNI1sT5b58S1ItIGv8) | 2:15 | 2025-06-19 | 2025-06-27 |
+| [Politix](https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Politix](https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy) | 4:32 | 2025-08-22 |  |
 | [Polvo de tu Vida](https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Polvo de tu Vida](https://open.spotify.com/album/0zhd9N8ctbIgV58nd5OmGh) | 2:52 | 2024-06-06 | 2024-06-14 |
 | [Ponytail](https://open.spotify.com/track/2VWVM1DrUhAAXfqAz524JU) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Ponytail](https://open.spotify.com/album/1O9u91ve7siaRfy2pDg873) | 4:03 | 2024-12-12 | 2024-12-20 |
 | [Pookie](https://open.spotify.com/track/6vw9OTw8rBhatDSdlxVIuF) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Day & Night](https://open.spotify.com/album/087SnCtQCK0szSftQ2KYTF) | 2:32 | 2025-05-01 | 2025-05-10 |

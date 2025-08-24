@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,728 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,719 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [if only i knew](https://open.spotify.com/track/08Kfu6wPy0HWceUM4XQL6G) | [Mark O'Donnell](https://open.spotify.com/artist/7ig6M7wpIZxUBQxEXmvkGn) | [if only i knew](https://open.spotify.com/album/0jbpjBdZOOtwic77ocqtui) | 3:20 |
 | 80 | [Darkside](https://open.spotify.com/track/15t2iqFhnbDl9zgggMlpam) | [Joe Butler](https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw) | [Darkside](https://open.spotify.com/album/5R317VA16WWT6pfr9Xskn4) | 1:38 |
 
-Snapshot ID: `AAAAAPv4LarWh/I5qctYOcAZoi9PKQx5`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

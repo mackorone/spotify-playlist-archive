@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Florence + The Machine, Wolf Alice, sombr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,100 likes - 122 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,136 likes - 122 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 116 | [Secrets](https://open.spotify.com/track/6hawTk0rC1XZ3Q85VPxNdz) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Secrets](https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo) | 4:41 |
 | 117 | [New Best Thing](https://open.spotify.com/track/0KSGNnUHEejayydnSp003m) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [New Best Thing](https://open.spotify.com/album/71080jMxvV033m7QV4CGto) | 2:49 |
 | 118 | [SUPERMODEL](https://open.spotify.com/track/2kL8ODCljqnpCs5uBKYbWs) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [SUPERMODEL](https://open.spotify.com/album/6YUofntZAwZ6Zyciwggnb1) | 2:56 |
-| 119 | [All This Funk \(Funk You Want\)](https://open.spotify.com/track/2iFkMro9CTblN8I1pZMDK6) | [Hugo Godfroy](https://open.spotify.com/artist/0AWbqZ44vP8SlNJrNOeLb0) | [All This Funk \(Funk You Want\)](https://open.spotify.com/album/6mNjtyRXMsLNj1zohZI54z) | 2:30 |
+| 119 | [All This Funk \(Funk You Want\)](https://open.spotify.com/track/2iFkMro9CTblN8I1pZMDK6) | [Hugo Godfroy](https://open.spotify.com/artist/0AWbqZ44vP8SlNJrNOeLb0), [Austen Godfroy](https://open.spotify.com/artist/7eIH0tM8qjeOwaUjk6O90L) | [All This Funk \(Funk You Want\)](https://open.spotify.com/album/6mNjtyRXMsLNj1zohZI54z) | 2:30 |
 | 120 | [Bodybag](https://open.spotify.com/track/19sGQ6WfU3WfXz3SxwXLdT) | [My First Time](https://open.spotify.com/artist/2YCAJa2kGotOZAe5lWC4D0) | [Bodybag](https://open.spotify.com/album/3DhOmDWOlr3f4mFTZmtJek) | 2:57 |
 | 121 | [ALL NIGHT](https://open.spotify.com/track/4RX1CzSuGOXpxylSUAB80N) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [ALL NIGHT](https://open.spotify.com/album/1hCgx8kvRloNzxwdxvO1ze) | 3:41 |
 | 122 | [spark](https://open.spotify.com/track/0nKImb6fIYwQu149jAwEIb) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [spark](https://open.spotify.com/album/1NxHLyPjIKj423JWJfXdEO) | 3:08 |

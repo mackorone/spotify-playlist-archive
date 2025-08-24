@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Uchu Yurei \(Hong Kong\)
 
-2,137 songs - 5 day 9 hr 19 min
+2,138 songs - 5 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,6 +491,7 @@
 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 | 2022-06-02 | 2025-06-20 |
 | [dream paralysis](https://open.spotify.com/track/2Aw6pipb4EHOxtckYZmEnT) | [Astor Walk](https://open.spotify.com/artist/6eCaI5ppOeDrr7zs2VZtVg) | [dream paralysis](https://open.spotify.com/album/62vgaPPxPdECe2GD5nTisS) | 2:42 | 2024-11-15 | 2024-12-21 |
 | [dream\. \(좋은 분위기\)](https://open.spotify.com/track/5WmamrCOl3XGANufD9WmOe) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [dream\. \(좋은 분위기\)](https://open.spotify.com/album/0LAesrqOEXIjs2285IXVis) | 3:06 | 2025-02-06 | 2025-06-20 |
+| [Dreamland \(with Job Kurian\)](https://open.spotify.com/track/2QpHILkZW7abDg8IoV1jjX) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl), [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Dreamland \(with Job Kurian\)](https://open.spotify.com/album/4rnfubshdaVkF3HfzJ0bdk) | 3:22 | 2025-08-23 |  |
 | [Dreams \(feat\. Mandark\)](https://open.spotify.com/track/31AwtIYfVZv7ujPcMEktvR) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Dreams \(feat\. Mandark\)](https://open.spotify.com/album/2aMVUEYp4SKsWiVlUaOWUJ) | 4:28 | 2023-04-13 | 2023-06-02 |
 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 | 2023-04-27 | 2024-08-02 |
 | [Drunk Robot](https://open.spotify.com/track/5GhLzR4jwHgqPXk4Vouet1) | [Robot Swing](https://open.spotify.com/artist/75MsybpGuMiLCp76Ou0LTV) | [Drunk Robot](https://open.spotify.com/album/2AunDWNxmLGruN4PF9aD7z) | 5:12 | 2024-05-09 | 2024-05-24 |

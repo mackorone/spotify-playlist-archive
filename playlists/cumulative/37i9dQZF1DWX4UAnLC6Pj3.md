@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Banda MS de Sergio Lizárraga en portada 📸
 
-511 songs - 1 day 3 hr 5 min
+512 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Aquí En Mi Corazón Tú Mandas](https://open.spotify.com/track/1uu9o9tf7eLW7mCQMPwZ0h) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Mi Historia](https://open.spotify.com/album/50qG3psl4Jm5CxyfwNrLop) | 2:16 | 2023-08-04 | 2023-09-23 |
 | [Aquí Hay Para Llevar](https://open.spotify.com/track/5Lz26MOU0fyTS1vEThTaUf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aquí Hay Para Llevar](https://open.spotify.com/album/3KJItKYr9JhxYjYI4U5J7E) | 2:59 | 2024-11-15 |  |
 | [Aquí No Es \(En Vivo\)](https://open.spotify.com/track/0gZfDl5FgtHVhwDSjhJxB5) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Puras Pa' Pistear \(En Vivo\)](https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N) | 3:49 | 2023-01-20 | 2024-10-05 |
-| [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3Z6U51tUSNL2exhjJj2o3g) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 3:19 | 2024-03-22 |  |
+| [Aquí No Se Termina \(En Vivo\)](https://open.spotify.com/track/3Z6U51tUSNL2exhjJj2o3g) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Desde Mazatlán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW) | 3:19 | 2024-03-22 | 2025-08-24 |
 | [Así Es la Vida](https://open.spotify.com/track/3tDVsiVNkTklWmPb0KdGBN) | [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Así Es la Vida](https://open.spotify.com/album/32I7mJQL9TjGakh9EXyAhT) | 3:01 | 2024-06-07 | 2024-07-27 |
 | [Así Poco A Poquito](https://open.spotify.com/track/45vrzTbDUWLtnZYJq8spMr) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Así Poco A Poquito](https://open.spotify.com/album/2SV8LPbkfoi0mTFOZHAZdf) | 2:16 | 2023-09-22 | 2023-11-13 |
 | [Aunque Tiren Hate](https://open.spotify.com/track/0HXjgTtxw4ADoeeuE76YAh) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Aunque Tiren Hate](https://open.spotify.com/album/5qpJ2TpMxSZIzsGrNROo5S) | 2:57 | 2025-06-06 |  |
@@ -242,6 +242,7 @@
 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 | 2022-08-26 |  |
 | [La Supuesta Cita](https://open.spotify.com/track/6haNQCMAN9p6y8AWGQJ7fF) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:05 | 2024-01-12 |  |
 | [La Ultima M](https://open.spotify.com/track/0RMu8AlxI3YUSuDYld8HxY) | [Tony Montoya](https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [La Ultima M](https://open.spotify.com/album/5ouXM6FaBR9vMf6ZLK3fZr) | 3:13 | 2023-08-25 | 2023-11-24 |
+| [La Vida Es Pa'Gozarla](https://open.spotify.com/track/3xTxEPMbPbzsibWUYjvHAX) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Evolución](https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be) | 3:17 | 2025-08-22 |  |
 | [Las Cosas Como Son](https://open.spotify.com/track/6SO2cvqHgdo6bIglV3TDOZ) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Banda Reclutada](https://open.spotify.com/artist/6t2N5GqVasKcT1ddOHZ7dj) | [Las Cosas Como Son](https://open.spotify.com/album/0xfQ4uUDo7SLP639JDVaN8) | 3:08 | 2023-01-06 | 2023-01-28 |
 | [Las Cuentas Claras \(En Vivo\)](https://open.spotify.com/track/1i8JsWOM8aTj1Ipal837yE) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Las Cuentas Claras \(En Vivo\)](https://open.spotify.com/album/0lfkJKe0DQ4RHtJxUNFTZB) | 4:07 | 2023-01-06 | 2023-01-14 |
 | [Las Edades \(En Vivo\)](https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Las Edades \(En Vivo\)](https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF) | 2:51 | 2022-07-01 | 2023-12-16 |

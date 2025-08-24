@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: A$AP Rocky
 
-1,703 songs - 3 day 5 hr 6 min
+1,705 songs - 3 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,7 +458,7 @@
 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 | 2021-10-29 | 2022-02-05 |
 | [Duffy](https://open.spotify.com/track/28hADNot8bPcCVrN536PZ7) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Duffy](https://open.spotify.com/album/6ATQjKvOPzjrNfzOFAdUmn) | 2:24 | 2022-04-15 | 2022-05-07 |
 | [DUI](https://open.spotify.com/track/4Bhdiu8zhwQR3tXy8YMbCj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:14 | 2023-04-07 | 2023-06-10 |
-| [dui II](https://open.spotify.com/track/5F0HJmKGP9wf4XysHtFPT3) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [dui II](https://open.spotify.com/album/5Ub9cqVhkUrFcww9oBZ6XR) | 1:51 | 2025-08-08 |  |
+| [dui II](https://open.spotify.com/track/5F0HJmKGP9wf4XysHtFPT3) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [dui II](https://open.spotify.com/album/5Ub9cqVhkUrFcww9oBZ6XR) | 1:51 | 2025-08-08 | 2025-08-24 |
 | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [DUMB \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/3eYKjONrNl5fAsOTGogSNL) | 2:26 | 2023-02-17 | 2023-04-22 |
 | [Dummy Ummy](https://open.spotify.com/track/3nSWujJAiDBsDK80pagDBV) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dummy Ummy](https://open.spotify.com/album/5ZO8kA1XhkGlf3fZZYgIZ3) | 1:51 | 2022-03-11 | 2022-04-23 |
 | [Dunk Contest](https://open.spotify.com/track/4GP9jcPbHlpu9v1lezfi8V) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Dunk Contest](https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF) | 3:16 | 2024-01-29 | 2024-08-24 |
@@ -647,6 +647,7 @@
 | [Gun for Gun](https://open.spotify.com/track/6HD02KC4uZSGDOlzbUXfbx) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [Gun for Gun](https://open.spotify.com/album/65xUGIszcBbbpBRpoAEiLu) | 1:48 | 2023-12-01 | 2023-12-09 |
 | [Gunshot \(feat\. BEAM\)](https://open.spotify.com/track/0KlJg8lNDghpEnxDHNQjF2) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Hitmaka](https://open.spotify.com/artist/1VeOsE6gNwoBsIAinCAb3l), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Gunshot \(feat\. BEAM\)](https://open.spotify.com/album/0Vi6fedojqQltaJpwgv5nj) | 2:10 | 2022-10-21 | 2023-01-21 |
 | [GYAT](https://open.spotify.com/track/5yxtr4bxgYePGbACS82nrq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Y2K! \(Bonus\)](https://open.spotify.com/album/7kkWu2etRnJCM6HX7JzhuK) | 1:54 | 2024-08-02 | 2024-08-08 |
+| [GYN](https://open.spotify.com/track/11uFNK7jwFcuss2rUGYTgu) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [GYN](https://open.spotify.com/album/4WbIcsTfdM8kVA0lRkY9vK) | 2:27 | 2025-08-22 |  |
 | [Had That](https://open.spotify.com/track/1KSqxLVzXSggmkhY1sg0Aj) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Had That](https://open.spotify.com/album/4AMMPaAY5oGzkAxR70ULQB) | 2:14 | 2025-05-16 | 2025-05-24 |
 | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/track/2H01cB8CXFLRc4TriH5UYW) | [Al\-Doms](https://open.spotify.com/artist/2SjTz6It0TjopEYQjJMxqb), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [HAHA \(feat\. Pusha T\)](https://open.spotify.com/album/01dfvcwL8PhZ9IDlzjBO4M) | 2:09 | 2022-06-17 | 2022-07-09 |
 | [Half The Plot](https://open.spotify.com/track/3zAWhIscp6ehzXv3KHorwb) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:45 | 2025-06-13 |  |
@@ -777,6 +778,7 @@
 | [Jasmine's \(feat\. Westside Gunn\)](https://open.spotify.com/track/35hGl7DgWqK0ozlmGcd1aO) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Daringer](https://open.spotify.com/artist/1P0AVHyHvAhFwpDNHiPtcE), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Summertime Butch 2](https://open.spotify.com/album/15Coiav9QHvI7TRvfouPXn) | 3:52 | 2025-07-18 |  |
 | [Jason's Plan](https://open.spotify.com/track/7smYD8LZk6bdMw0ShtLaEG) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Jason's Plan](https://open.spotify.com/album/1Euhw5xCTnG74dCxdNyWWj) | 3:15 | 2024-11-22 | 2024-12-14 |
 | [JAT](https://open.spotify.com/track/70P4w3bgH61ZSt4gGFd0r2) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [JAT](https://open.spotify.com/album/7z4bsG5rL2zTJcsamh1c4r) | 2:37 | 2025-05-09 | 2025-06-07 |
+| [JAT \(Remix\) \[with Stunna Sandy\]](https://open.spotify.com/track/3vn4cW1r3BWVWv0NamDIP3) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [JAT \(Remix\)](https://open.spotify.com/album/203AygGNtkJz0KlK73sw0k) | 2:37 | 2025-08-22 |  |
 | [Jenn Jenn Jenn](https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Jenn Jenn Jenn](https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg) | 2:00 | 2023-09-22 | 2024-03-23 |
 | [Jersey](https://open.spotify.com/track/64N9KtlllLauUx5WalP7Up) | [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Jersey](https://open.spotify.com/album/1pet8zfJAT7A9feHj1FfSR) | 2:47 | 2024-12-13 | 2024-12-21 |
 | [jersey luv](https://open.spotify.com/track/50kWigrg0O9DFUzzbgJMZO) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/6z30pC8bxK3JIWRhLLbXwr) | 3:51 | 2023-10-20 | 2024-04-19 |

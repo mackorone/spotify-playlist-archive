@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Cheluis
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,499 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,516 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 49 | [El Amor De Mamá](https://open.spotify.com/track/21YUOidOnVi8jmrFctotK2) | [JOSHUA LEON](https://open.spotify.com/artist/4dOGYsFmdEli6BqeORqyIs) | [El Amor De Mamá](https://open.spotify.com/album/3ie3gkJPDv75R1EE6aqzpI) | 3:50 |
 | 50 | [Te Vas](https://open.spotify.com/track/78VvnSI0Xe6Lu9t6KZFNCC) | [Diana Araujo](https://open.spotify.com/artist/2gddhtroO8YVORZShAjf2O) | [Te Vas](https://open.spotify.com/album/0t8J2Qp5zxPiPT26SKJKKM) | 3:16 |
 
-Snapshot ID: `AAAAACweCdK7+R70JZtr5+0tzbSAJo8u`
+Snapshot ID: `AAAAAPxYX8/V18p6pTQfkuVnZxxs6dtj`

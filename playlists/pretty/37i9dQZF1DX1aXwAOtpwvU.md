@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover:  <a href="spotify:artist:14RpuKZYyyikmsRU3zPoWz">maks.tachasiuk</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,812 likes - 106 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,815 likes - 106 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 105 | [nerw](https://open.spotify.com/track/1QmsVzgzMlwACIaI1HFV0d) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki) | [sama](https://open.spotify.com/album/2vOFQJoljyC9qp7E3g162l) | 3:46 |
 | 106 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 
-Snapshot ID: `AAAAAJTR/4OcJCkCXqGWEqmQpBMIK+kL`
+Snapshot ID: `AAAAAD/MGqtutvMUzh/umc7QmsR77td7`

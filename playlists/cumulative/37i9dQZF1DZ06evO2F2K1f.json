@@ -440,7 +440,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 172180,
       "name": "Braces And Boots",
       "url": "https://open.spotify.com/track/3PHxReooWvWGZltpiM8MJN"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 181977,
       "name": "Cool Cruiser",
       "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 139653,
       "name": "Days of Orange Squash",
       "url": "https://open.spotify.com/track/2qoCKiFr4ndUP54Cx0Cyr5"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 170873,
       "name": "Fuel Injection",
       "url": "https://open.spotify.com/track/3mjnC1wLLjX8pzQbv1IQgM"
@@ -1868,6 +1868,32 @@
       "duration_ms": 165826,
       "name": "Mini Micro",
       "url": "https://open.spotify.com/track/0u73vKHv8oGyRjAxcSLd1q"
+    },
+    {
+      "album": {
+        "name": "Misty Collage",
+        "url": "https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD"
+      },
+      "artists": [
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Dave Richmond",
+          "url": "https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227366,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4uoQFBGMaFE0hMRa5VKYgy"
     },
     {
       "album": {
@@ -3300,6 +3326,32 @@
       "duration_ms": 152266,
       "name": "Warm Hearts",
       "url": "https://open.spotify.com/track/2pzAgXmj2nYGs012lGc5PP"
+    },
+    {
+      "album": {
+        "name": "Misty Collage",
+        "url": "https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD"
+      },
+      "artists": [
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Dave Richmond",
+          "url": "https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200617,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/2csqOHK4bCCxAJnSB2xeyS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,584 songs - 19 day 14 hr 21 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 7,586 songs - 19 day 14 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -7592,5 +7592,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 7582 | [Gamma \(need the <3\)](https://open.spotify.com/track/3KH2Gs1noFVM6AELjq03vc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 2:00 |
 | 7583 | [Static](https://open.spotify.com/track/2zksWgfSYzhTq9YGOBS2HP) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 1:22 |
 | 7584 | [Heavy Metal aka ejecto seato!](https://open.spotify.com/track/6mxO6T82rU5bfVA6inlfDq) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Live Laugh Love](https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR) | 3:06 |
+| 7585 | [Boom Clap](https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SUCKER](https://open.spotify.com/album/5Ws5ktkIUJFpaIImvH3tYU) | 2:49 |
+| 7586 | [Time Is Valuable](https://open.spotify.com/track/1B442kz353ko365zwIhMLg) | [Tae Retro](https://open.spotify.com/artist/4nlZaWXDymf9NB5loJOko0) | [Time Is Valuable](https://open.spotify.com/album/518e4YitDkMyhijAOjxwAa) | 2:15 |
 
-Snapshot ID: `AAAIaqrHQXI1gMJTmLR7j8OPZ5hgkryn`
+Snapshot ID: `AAAIbHhqtiJjhgJUhByZB0r+LpQuVs8G`

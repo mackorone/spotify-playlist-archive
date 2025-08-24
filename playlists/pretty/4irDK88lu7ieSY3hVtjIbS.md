@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 
 > Degeneracy at its finest!
 
-[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,076 likes - 78 songs - 3 hr 19 min
+[Taq](https://open.spotify.com/user/tq31kjm7qcf5hloq4iqqfabut) - 2,082 likes - 79 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,6 @@ pretty - [cumulative](/playlists/cumulative/4irDK88lu7ieSY3hVtjIbS.md) - [plain]
 | 76 | [PASS THAT POOLTOY](https://open.spotify.com/track/0EEm7WqTGLXQoFrDM3bYIx) | [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [FURFAG](https://open.spotify.com/album/6LyPH9oyTnCrTQHwhedPF0) | 2:42 |
 | 77 | [YINZFUR](https://open.spotify.com/track/386dEt6rsPRRZ0THPDACG2) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [YINZFUR](https://open.spotify.com/album/6vPiRMWwAw89a06PyJvKdl) | 2:33 |
 | 78 | [BET UNCU\(N\)T](https://open.spotify.com/track/5fcknHYAGKzdaKE4TISCzR) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [GLITTERMUTT](https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp) | [BET UNCU\(N\)T](https://open.spotify.com/album/4zEz2gi2w0EJ1nTaScS3Co) | 2:02 |
+| 79 | [Wooden Ships \- 2005 Remaster](https://open.spotify.com/track/39m6vOwUEgjErRnsm93wu2) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 5:26 |
 
-Snapshot ID: `AAAAdwWMPFdrbMU7FrCOs/TkMOWzBga1`
+Snapshot ID: `AAAAeP5JzSQN0YHWai5AAx4hmuLmG4ou`

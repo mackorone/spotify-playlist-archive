@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! day2k en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,130 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,131 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 3 | [Valijiando](https://open.spotify.com/track/7yOmUc9vQGMVpODQFxCEwq) | [Mañas Ru\-Fino](https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Valijiando](https://open.spotify.com/album/0s5v8uBi6uubTC5hnYphpM) | 3:22 |
 | 4 | [Catatumbo](https://open.spotify.com/track/1Bnpm9R8jYaEK7GEyNBGP3) | [Union Fatal](https://open.spotify.com/artist/7ANYm0dRVIAIwNmWw0kWzj) | [Catatumbo](https://open.spotify.com/album/0efUmK8Mh0Era00htLNbYI) | 3:51 |
 | 5 | [Solo Quiero Fumar](https://open.spotify.com/track/1p3DpWXR6VHlSWtAsC31vO) | [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t), [ZIGO CREW MX](https://open.spotify.com/artist/6xfdFN91GDBrGzDdSILDK8), [Cristo PG](https://open.spotify.com/artist/5XCd31rAUJuItHDGe7ckcd), [PP Villanueva](https://open.spotify.com/artist/4f0VIy72HFXM01RsNghBaf), [Young Cza](https://open.spotify.com/artist/6ETvcLfKNzbsfeNOCXhSkh) | [Zigo Crew Mx Vol\. 1](https://open.spotify.com/album/7IfruAPJN5XyEFDpdLP3MQ) | 4:09 |
-| 6 | [FIERITA](https://open.spotify.com/track/4qEbMTQnv5sP7T5XpfLGEC) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La FIERITA](https://open.spotify.com/album/4Cb8tn4gaMLTwSnyQiAzGG) | 3:02 |
+| 6 | [La FIERITA](https://open.spotify.com/track/4qEbMTQnv5sP7T5XpfLGEC) | [Realidad Mental](https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La FIERITA](https://open.spotify.com/album/4Cb8tn4gaMLTwSnyQiAzGG) | 3:02 |
 | 7 | [Solitario Muisca](https://open.spotify.com/track/2x54zSkJ3xjObunjhQ3NFd) | [El Muisca](https://open.spotify.com/artist/4x8wZfPrrPnfariwleEnr5), [Solitario Soldado](https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG), [Ramzes Buda](https://open.spotify.com/artist/4amX3vjSNlR0ZC0hGm18H8) | [Solitario Muisca](https://open.spotify.com/album/6J3afVqWbgjPfIjvAJ0zrv) | 3:02 |
 | 8 | [CEREZA](https://open.spotify.com/track/3b2Av4XhMCtWqxsxQ91lbf) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [FUNKDEALER](https://open.spotify.com/artist/1dep4q9uwrqErXp3hugZmD) | [CEREZA](https://open.spotify.com/album/3oQtXji7oU1vhpLMaE7niz) | 3:18 |
 | 9 | [A Través del Tiempo \(333\)](https://open.spotify.com/track/70ghyLL6s6OWjx7d5jJkg1) | [Soul AM](https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA), [Komba](https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc) | [A Través del Tiempo \(333\)](https://open.spotify.com/album/0cA2LE93luLAxzYCKYF0RR) | 3:27 |

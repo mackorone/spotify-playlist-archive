@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,250 songs - 12 day 5 hr 39 min
+5,252 songs - 12 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1034,6 +1034,7 @@
 | [Cryin Shame](https://open.spotify.com/track/6WIVT5BTx5c9WfM26KIUDa) | [Jim Duff](https://open.spotify.com/artist/77cRDwBbdRfGLuDnw6bkyN) | [Send My Soul to Texas](https://open.spotify.com/album/52AaBhUOJUYDEHvxcnCqBu) | 3:31 | 2024-03-07 | 2024-03-16 |
 | [Crying for Freedom](https://open.spotify.com/track/4sxkWnUDOclgn2NA80DYa9) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Crying for Freedom](https://open.spotify.com/album/3mZKdzqzsX1OqnwTAv89h3) | 3:58 | 2023-06-22 | 2023-07-09 |
 | [Crystal Clear](https://open.spotify.com/track/1dDAEPmDEYFPDkxuHEX4gQ) | [Alex Lynch](https://open.spotify.com/artist/4zt0I7b6j2O0HYrPSW6gpX) | [Crystal Clear](https://open.spotify.com/album/6YHZWaeGeVYu8m76N5ZLVv) | 3:11 | 2025-04-29 | 2025-05-11 |
+| [Cuddle Season \- Radio Edit](https://open.spotify.com/track/3lTiIzGTwNElDXxvy94yqx) | [Ntrēgue](https://open.spotify.com/artist/6lQ2lwY3u8CeLcovKsJ5LC) | [Cuddle Season \(Radio Edit\)](https://open.spotify.com/album/7bvYcnBJQYvZcpNj4d9iRe) | 4:50 | 2025-08-23 |  |
 | [Cuddle Season \- Soulful Sax Mix](https://open.spotify.com/track/3SttiywwIl086jqIUbvnrx) | [Stanley Dre](https://open.spotify.com/artist/0pLqQntz9Q7jNnAK9NXNeU) | [Cuddle Season \(Soulful Sax Mix\)](https://open.spotify.com/album/2JOrylfSzY4t3kTur5BssY) | 4:50 | 2025-02-03 | 2025-02-15 |
 | [Culo](https://open.spotify.com/track/1UkeCYS4ooH0xXrqDq3Imm) | [Claydee](https://open.spotify.com/artist/2rcsCDLsJw6erBukvjEsrP) | [Elevate](https://open.spotify.com/album/2mNRSuIT614toL2BRjhnty) | 2:22 | 2021-07-10 | 2021-07-25 |
 | [Cumbarrio](https://open.spotify.com/track/1MMZ3NZOi3wCInkvfjxBRD) | [Randomized Coffee](https://open.spotify.com/artist/7KzNtHVcFbaZoGufsX1Jj0), [Noel GC](https://open.spotify.com/artist/0Lh1YzhAgTeHmXP7BFox6g), [Owem\-G](https://open.spotify.com/artist/3hkWJA2RzyurjnzAFqfbRj) | [Cumbarrio](https://open.spotify.com/album/2DwRZ9L78Z7IRP7POuzMcE) | 3:49 | 2022-11-27 | 2022-12-21 |
@@ -1770,6 +1771,7 @@
 | [GIRL LIKE ME](https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:42 | 2020-07-04 | 2020-08-20 |
 | [Girl Next Door](https://open.spotify.com/track/3pmUlOm2bpXVJ40ByeGSMA) | [JISKA](https://open.spotify.com/artist/268qNUnQJ9p3pV2O8gYUcN) | [Girl Next Door](https://open.spotify.com/album/3mXNOCqDeqB8M5Z1QzYoaH) | 3:33 | 2022-05-31 | 2022-06-17 |
 | [Girl, I Know A Guy](https://open.spotify.com/track/21Vy8ApM1WXLPRNnwhetX3) | [Alex Miller](https://open.spotify.com/artist/2O6mQU9DIRojQ3mtDuqb4S) | [Girl, I Know A Guy](https://open.spotify.com/album/18ps4Zg1TZveN0oPI9cbhl) | 3:24 | 2023-12-22 | 2024-01-10 |
+| [GIRLS GIRLS](https://open.spotify.com/track/1CDNquzBCY7VPkeajRLv18) | [Chase Mvsic](https://open.spotify.com/artist/5fsRbeNqh4oBtH3Bik1tI9) | [GIRLS GIRLS](https://open.spotify.com/album/1lwFBI1H9YE9wj7xc0MKST) | 2:47 | 2025-08-23 |  |
 | [Girls just wanna have fun](https://open.spotify.com/track/4ZLGQgIjdP1ZK1vNHnohX7) | [A.M.](https://open.spotify.com/artist/1WyCOHn0eTA609ZDpTWhdd) | [Girls just wanna have fun](https://open.spotify.com/album/3B9Ur66orDWDBD1wSe0Q3O) | 3:33 | 2024-03-16 | 2024-03-24 |
 | [Give It Away](https://open.spotify.com/track/0orUx6JWMyUgqrvNkGgh4D) | [Nightfreaks](https://open.spotify.com/artist/3maJmnKDZEvUet333wFYd3), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Pop Hitz \(15\)](https://open.spotify.com/album/6HvtSVJncaNYnCiecaRn3Q) | 3:03 | 2023-08-18 | 2023-09-26 |
 | [Give It To Me](https://open.spotify.com/track/7rxfBEkP1isdJ5YzdoM1Ts) | [Eila](https://open.spotify.com/artist/3QgHVqOGDEvvWFr5fI2DTW) | [Give It To Me](https://open.spotify.com/album/7dvjFjjlTFQ0sDsLNufUBf) | 3:18 | 2021-06-12 | 2021-06-27 |

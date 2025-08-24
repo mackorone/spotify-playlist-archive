@@ -2,7 +2,7 @@
 
 ### [Global X](https://open.spotify.com/playlist/37i9dQZF1DWUxHPh2rEiHr)
 
-> Discover rhythmic crossover hits from cultures around the world\. Cover: DJ Snake & J Balvin
+> Discover rhythmic crossover hits from cultures around the world\. Cover: BIA & Young Miko
 
 676 songs - 1 day 11 hr 0 min
 

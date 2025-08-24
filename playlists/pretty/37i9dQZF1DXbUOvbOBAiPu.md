@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Doja Cat, sombr, Florence + The Machine, Netsky & Bebe Rexha and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,065 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,066 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 19 | [Moto noire](https://open.spotify.com/track/7DXvM5JL6S5KeXnaa8jR6q) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moto noire](https://open.spotify.com/album/1swmSjiCQnwOJJOURzC6yH) | 2:58 |
 | 20 | [Like It Like That](https://open.spotify.com/track/5zlJMdPyfd6p3Tw1IAS5r0) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Like It Like That](https://open.spotify.com/album/25oCUC8YL51Tak2f2qZrP6) | 2:47 |
 | 21 | [Multiplication](https://open.spotify.com/track/4ELWbLz1gnJWiXQyI5SD91) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [CLONED VOL\. 1](https://open.spotify.com/album/3QOx2V3zoPYCZBiJPhBtOL) | 3:07 |
-| 22 | [Dame Un Grrr](https://open.spotify.com/track/5PBuwFeYlopeLT5PXXaZLB) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Dame Un Grrr](https://open.spotify.com/album/7lI67g4PfO5pZ43qKxHEOW) | 2:30 |
+| 22 | [Dame Un Grrr \- Dr\. Yaro Version](https://open.spotify.com/track/5PBuwFeYlopeLT5PXXaZLB) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Dame Un Grrr \(Dr\. Yaro Version\)](https://open.spotify.com/album/7lI67g4PfO5pZ43qKxHEOW) | 2:30 |
 | 23 | [Safari](https://open.spotify.com/track/7coAfP1dXtU6PQI3wVzziv) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Chiara Meloni](https://open.spotify.com/artist/5xF4ia5WWdSPbkKl9m5Nrq), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1) | [Safari](https://open.spotify.com/album/7u3JHl7wCi2xAejkIV7CCh) | 2:58 |
 | 24 | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X) | 2:06 |
 | 25 | [Nights Like These \(with Rag'n'Bone Man\)](https://open.spotify.com/track/4UQRLiHGpLcQt5O1TyBCie) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [RUDIM3NTAL](https://open.spotify.com/album/4jcfyx9nXciFXqyh5zHQ20) | 3:27 |

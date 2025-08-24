@@ -4,7 +4,7 @@
 
 > marrakech season
 
-88 songs - 5 hr 49 min
+89 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 | 2025-06-27 |  |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2025-06-27 |  |
 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2025-06-27 | 2025-07-04 |
+| [Baba Mimoun \- Radio Edit](https://open.spotify.com/track/7KaATu6SKJa1clpEO06LSK) | [Omary](https://open.spotify.com/artist/48GVswDvtF7GVEfiAg5KLs), [Hind Ennaira](https://open.spotify.com/artist/1dJaBie9mXTkH6iHV46h1Y), [Gnawatronic](https://open.spotify.com/artist/5e1QfTkZLHe5voCnBhgv1P) | [Baba Mimoun](https://open.spotify.com/album/5C9O9I0jKtC0EWBNIsxP1W) | 4:36 | 2025-08-23 |  |
 | [Baianá \(Boa Noite\)](https://open.spotify.com/track/0NHGXHQmePSle25VYMKSfT) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baianá \(Boa Noite\)](https://open.spotify.com/album/0Xu7TN9uxfemlly1T7SJs7) | 3:17 | 2025-08-13 |  |
 | [Baianá \- Prince Kaybee Remix](https://open.spotify.com/track/13c5BYcCJk6myBN6xQh6Uj) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C) | [Baianá \(Prince Kaybee Remix\)](https://open.spotify.com/album/2mgkU8XWQ2sE53YXIoZknG) | 3:54 | 2025-06-27 |  |
 | [Basquiat \- AUGUSTE Remix](https://open.spotify.com/track/6i6qKFqRA3ZBYtAWAv4Ikf) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [AUGUSTE](https://open.spotify.com/artist/4iS5S3n4kI5QvnYV2dNziq) | [Basquiat \(AUGUSTE Remix\)](https://open.spotify.com/album/4L2URj3cmZSUveSqooeDqD) | 3:49 | 2025-06-27 | 2025-08-14 |
@@ -60,7 +61,7 @@
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2025-06-27 |  |
 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 | 2025-06-27 |  |
 | [My Neck, My Back \(Lick It\)](https://open.spotify.com/track/0kTVwwt7g7OR5BAYmJvUue) | [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [My Neck, My Back \(Lick It\)](https://open.spotify.com/album/3vTbXNxh4aurW6b8WWSXOV) | 6:16 | 2025-06-27 |  |
-| [NGWINO](https://open.spotify.com/track/6R3ew6CXW4vi59YLYcLHRi) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a) | [NGWINO](https://open.spotify.com/album/1O3Yzl0awm3N6kATjTwQgs) | 8:37 | 2025-06-27 |  |
+| [NGWINO](https://open.spotify.com/track/6R3ew6CXW4vi59YLYcLHRi) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a) | [NGWINO](https://open.spotify.com/album/1O3Yzl0awm3N6kATjTwQgs) | 8:37 | 2025-06-27 | 2025-08-24 |
 | [No Bad Vibes](https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7) | [No Bad Vibes](https://open.spotify.com/album/0fniUtJNAYz6eSOE9HJe32) | 2:42 | 2025-08-13 |  |
 | [Nobody Like You](https://open.spotify.com/track/1SDhiSzYZcx1ElXLuYtv28) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [Nobody Like You](https://open.spotify.com/album/4vOmPK3WJS2G5uK8h6kKDi) | 3:42 | 2025-06-27 |  |
 | [Out In The Streets](https://open.spotify.com/track/2uxqdKyl1zTx1KGv9FUZ0w) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J) | [Out In The Streets](https://open.spotify.com/album/7d194iurh335XjLVGe0IRq) | 3:16 | 2025-06-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 59856,
+  "num_followers": 59980,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKZhgAAAAABYp2ZWhtuMx7liE7Q3ETqE",
+  "snapshot_id": "aKezAAAAAADRF87zCXzn0yotuwJk25ao",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,30 @@
       "duration_ms": 159173,
       "name": "Safer",
       "url": "https://open.spotify.com/track/2sghtIUWplVFKBRIHsVmFu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape Room",
+        "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "Pum Pum Jump (feat. Jill Scott & Tyla)",
+      "url": "https://open.spotify.com/track/6slFpFRzS8WJPbr25ega3p"
     },
     {
       "added_at": null,

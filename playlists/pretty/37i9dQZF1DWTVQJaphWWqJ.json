@@ -1,6 +1,6 @@
 {
   "description": "S\u00f3lo cl\u00e1sicos tropicales.",
-  "num_followers": 16617,
+  "num_followers": 16632,
   "original_name": "Salsa, Vallenato & Merengue",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
+        "name": "Best Of The Best",
+        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
+      },
+      "artists": [
+        {
+          "name": "Oro Solido",
+          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "La Tanga",
+      "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
+    },
+    {
+      "added_at": "2024-06-25 16:18:42",
+      "album": {
         "name": "Homenaje",
         "url": "https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Siempre Peleando",
-        "url": "https://open.spotify.com/album/4vTMGP0L4QfPIhdEdI7nTR"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 259657,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S"
-    },
-    {
-      "added_at": "2024-06-25 16:18:42",
-      "album": {
         "name": "30 Mejores",
         "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-06-25 16:18:42",
       "album": {
-        "name": "Best Of The Best",
-        "url": "https://open.spotify.com/album/16GgLICbOKpyo2XH4Dmbcs"
+        "name": "Siempre Peleando",
+        "url": "https://open.spotify.com/album/4vTMGP0L4QfPIhdEdI7nTR"
       },
       "artists": [
         {
-          "name": "Oro Solido",
-          "url": "https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 266760,
-      "name": "La Tanga",
-      "url": "https://open.spotify.com/track/3LaiCiYtMqNvspJ6kXyfSa"
+      "duration_ms": 259657,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/4WCQuqYrqCVyIKKdZQRe2S"
     },
     {
       "added_at": "2024-06-25 16:18:42",

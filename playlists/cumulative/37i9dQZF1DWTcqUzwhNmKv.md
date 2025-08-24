@@ -4,7 +4,7 @@
 
 > Deftones are on top of today's best Metal playlist.
 
-1,066 songs - 2 day 21 hr 43 min
+1,067 songs - 2 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Doubt Me](https://open.spotify.com/track/6dxTJRZFB3mU9MvuX7OqJ0) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Doubt Me](https://open.spotify.com/album/4BzqS85ljr08WHx0Qiy5rl) | 3:10 | 2023-09-01 | 2023-10-15 |
 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-30 | 2025-01-18 |
 | [Dragged Through Glass](https://open.spotify.com/track/6JDNppd5JDF7UNwVRpuPE7) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Dragged Through Glass](https://open.spotify.com/album/3UuqCrn6qLccmSbYEeTkdU) | 3:03 | 2025-04-18 |  |
-| [Drain The Blood](https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Drain The Blood](https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg) | 2:50 | 2025-06-20 |  |
+| [Drain The Blood](https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Drain The Blood](https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg) | 2:50 | 2025-06-20 | 2025-08-24 |
 | [Dreadbringer](https://open.spotify.com/track/2w5EUUiQUnbgWe3kwZAh4n) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Dreadbringer](https://open.spotify.com/album/0jSVZMYKV2kaI2mePVHF1v) | 5:30 | 2024-02-23 | 2024-03-23 |
 | [Dreadbringer](https://open.spotify.com/track/4IjuJAVn8Hd71r2Ja2371A) | [Aborted](https://open.spotify.com/artist/1XRhUgCyzIdeT8d9KMfeDR), [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Vault Of Horrors](https://open.spotify.com/album/7yEhJNdsi60V7iBxHiVAWE) | 5:30 | 2024-03-22 | 2024-08-10 |
 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 | 2024-08-09 | 2024-10-26 |
@@ -352,6 +352,7 @@
 | [Float](https://open.spotify.com/track/4x2N9zX9zXSPYxMI2wGDOx) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB) | [Float](https://open.spotify.com/album/1l68UqPVxqR3h91Mg1pI8g) | 3:43 | 2025-06-27 |  |
 | [Flood](https://open.spotify.com/track/2N4qPl1Nuq1xVopkvJmf7m) | [Outrun the Fall](https://open.spotify.com/artist/6U70wG368rrDhQXmAfa4lP) | [Flood](https://open.spotify.com/album/5tUFQmv76ZpirBKax54jrw) | 3:09 | 2021-12-20 | 2022-03-18 |
 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 | 2024-09-13 | 2025-03-01 |
+| [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 | 2025-08-23 |  |
 | [For You](https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [For You](https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1) | 2:52 | 2025-04-18 | 2025-08-23 |
 | [Forced Diet Reassignment](https://open.spotify.com/track/4nEoIlbBdiSAqyYfBNBKdP) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Forced Diet Reassignment](https://open.spotify.com/album/4yp2qYIqYnKMKcgqdV90FV) | 1:38 | 2025-02-21 | 2025-03-15 |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2022-12-17 |

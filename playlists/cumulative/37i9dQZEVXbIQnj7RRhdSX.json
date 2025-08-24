@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 140669,
       "name": "A me mi piace",
       "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 140816,
       "name": "a me mi piace (feat. Manu Chao)",
       "url": "https://open.spotify.com/track/7oJtUqvumujVKarcXa1SPj"
@@ -4650,10 +4650,28 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
       "album": {
@@ -6872,7 +6890,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 200214,
       "name": "BRAVI A CADERE - I polmoni",
       "url": "https://open.spotify.com/track/5eSC7faDYHxnklPjcxZjD6"
@@ -9676,7 +9694,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 217613,
       "name": "CHIAMO IO CHIAMI TU",
       "url": "https://open.spotify.com/track/7dLecVXQzVbesjot2h55Rc"
@@ -26258,7 +26276,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 268280,
       "name": "La Nuova Stella Di Broadway - Remastered 2019",
       "url": "https://open.spotify.com/track/74fH2e2XNsBt35U0lfhI47"
@@ -28696,7 +28714,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 159999,
       "name": "M A Y B A C H",
       "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
@@ -29434,7 +29452,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 155307,
       "name": "Maledetta Rabbia",
       "url": "https://open.spotify.com/track/0GeIXUfthmnfMLfPRdDiVt"
@@ -40678,7 +40696,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-22",
+      "date_removed": null,
       "duration_ms": 177120,
       "name": "PRONTO COME VA",
       "url": "https://open.spotify.com/track/6CvJtmzjDkWCeGt4nT2l1O"
@@ -54113,6 +54131,24 @@
     },
     {
       "album": {
+        "name": "NESSUNO",
+        "url": "https://open.spotify.com/album/3DF9iGNevd923pLf3rnAp6"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "YAMAL",
+      "url": "https://open.spotify.com/track/4haEJXWUw7uyrHBBvJGool"
+    },
+    {
+      "album": {
         "name": "YAMAL",
         "url": "https://open.spotify.com/album/49EEeGx2No1LAqcPsKVwlg"
       },
@@ -54124,7 +54160,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-24",
       "duration_ms": 127384,
       "name": "YAMAL",
       "url": "https://open.spotify.com/track/5OUW8dccdPD4bAmQHXa4Dy"

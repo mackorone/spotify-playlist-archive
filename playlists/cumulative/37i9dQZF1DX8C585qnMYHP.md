@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists\. <a href="spotify:artist:5qK8WYVzvkaBcoe4CDfuyY">KUNTARI</a> on cover\. Artwork by Thami Nabil
 
-2,082 songs - 6 day 18 hr 4 min
+2,083 songs - 6 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Escape Cape](https://open.spotify.com/track/0UAbqQRMrMVXR9lPcpWS7w) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Escape Cape](https://open.spotify.com/album/4AlhGQZ7T7U1NuwUXGGyI0) | 4:25 | 2022-01-12 | 2022-03-21 |
 | [Et quart](https://open.spotify.com/track/0qDsMkTla75n5Drd78ERc5) | [Simone Provencher](https://open.spotify.com/artist/1irk8yesuKyeCxWRrhbHxw) | [Et quart](https://open.spotify.com/album/7A2EPBRqLNWRT02uLFj7Hv) | 2:35 | 2021-03-17 | 2021-03-23 |
 | [Eternal Whisper](https://open.spotify.com/track/5s0F9AmiXVvzqMpFP4XaTI) | [C O N T X T](https://open.spotify.com/artist/0HCS1dsUZDmjB8lSAMaYjW) | [Lone Memory](https://open.spotify.com/album/6g6FwKH02JkWomYFdVZnno) | 4:39 | 2023-05-17 | 2023-08-31 |
-| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 |  |
+| [Ethos](https://open.spotify.com/track/4olzx0OYnHcaN9wv3OqeYE) | [Anna Bielli](https://open.spotify.com/artist/4ZgUYtmvFXJHo55dH5clmo), [Silvia Olivier](https://open.spotify.com/artist/3v2jSQQAGfj0oiFW7V4Anv) | [Ethos](https://open.spotify.com/album/2KjLTXmmnuc32xO2X0N68y) | 3:00 | 2025-05-07 | 2025-08-24 |
 | [Ett visst fängelse](https://open.spotify.com/track/40qQK6EwccUHakM0Cdn2uQ) | [VED](https://open.spotify.com/artist/2gJZDY6Eow1T1T4Cb9cVYm) | [Ett visst fängelse](https://open.spotify.com/album/3mOCn0GyjEJBVfp9MyM1BP) | 4:37 | 2021-04-15 | 2021-06-24 |
 | [Eurybia](https://open.spotify.com/track/507fLAOWKOut8biyt9mGyX) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/5e1pTFakXmZhCi18qt3IBm) | 6:02 | 2022-05-18 | 2022-08-04 |
 | [Eve](https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf) | [Floatleaf](https://open.spotify.com/artist/6PuTsxqrk5XNswCXYWNr5r) | [Eve](https://open.spotify.com/album/6L7J405BwZ5hxM5Px7iyOe) | 3:00 | 2022-08-24 | 2022-10-05 |
@@ -1386,6 +1386,7 @@
 | [Pressure](https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [Lost Album](https://open.spotify.com/album/3dQUZig6JH9AP8kj96lpNv) | 9:36 | 2021-06-04 | 2021-08-05 |
 | [Pretty Pigs](https://open.spotify.com/track/0a90WjCTgyJ28YzHvzhO9l) | [Pyramids](https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6) | [Pythagoras](https://open.spotify.com/album/2FPcePdkU5QkMJG2NbU0gk) | 5:14 | 2025-05-16 |  |
 | [Pretty Pigs](https://open.spotify.com/track/1gM1Y42gJZUXt7DbNxzc3V) | [Pyramids](https://open.spotify.com/artist/4GdgXfdII3qkUcLZqBGSk6) | [Pretty Pigs](https://open.spotify.com/album/5iJggTNrwx7UimBmi0myIQ) | 5:14 | 2025-04-30 | 2025-05-16 |
+| [PREY](https://open.spotify.com/track/6i4S0r1lpnCfvm5WvxIOGF) | [SZARY](https://open.spotify.com/artist/3hVzRHaqJWJvSg9DY4Y0Ca) | [PREY](https://open.spotify.com/album/380gcA5tfacYgprsHQVWrU) | 4:24 | 2025-08-21 |  |
 | [Prithee](https://open.spotify.com/track/5WwKfaTLFUsVyskww7NYcB) | [Louise Bock](https://open.spotify.com/artist/6XxCAYpTFwc5Nje9moTmVn) | [Sketch for WinterVII \- Abyss: For Cello](https://open.spotify.com/album/3ZTTkaDD4BeNLjtgIWfaTE) | 6:35 | 2020-10-30\* | 2021-01-15 |
 | [Privilegiada](https://open.spotify.com/track/5ZKItiErHMCGPXKc7PqI9Y) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Privilegiada](https://open.spotify.com/album/1n1ZI4cFUVeTGOD9wpnQ5A) | 2:09 | 2024-08-07 | 2024-09-12 |
 | [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 | 2024-03-06 | 2024-05-02 |

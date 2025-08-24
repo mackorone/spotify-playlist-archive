@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Danny Felix & Oscar Ortiz
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,373 likes - 124 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,429 likes - 124 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

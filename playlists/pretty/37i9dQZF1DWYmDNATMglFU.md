@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > new gen alt ⛓ ft\. mgk
 
-[Spotify](https://open.spotify.com/user/spotify) - 513,674 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,659 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 99 | [politix](https://open.spotify.com/track/4hZYlamBpLerJCoFjJ6BBq) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [politix](https://open.spotify.com/album/3siWh7rJo3ncwWHq8SjnFq) | 2:45 |
 | 100 | [That Ass!](https://open.spotify.com/track/6H79VxoWSdAh6pGDDBgdSl) | [Sofia Gobbi](https://open.spotify.com/artist/1F68L6nlubo92LxyyITibv) | [That Ass!](https://open.spotify.com/album/5OrJbuWr4tHiGx37U7gu0B) | 2:17 |
 
-Snapshot ID: `AAAAAOz+oXFCz9WxndlfbZxJl/1EiF5N`
+Snapshot ID: `AAAAAJUA/aVGPlqQbXaY6p2mgxwyaEKu`

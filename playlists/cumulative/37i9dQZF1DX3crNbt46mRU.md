@@ -4,7 +4,7 @@
 
 > This week's top new releases, including sombr, Trauffer, and more.
 
-19,023 songs - 39 day 9 hr 44 min
+19,024 songs - 39 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4648,6 +4648,7 @@
 | [Drugs](https://open.spotify.com/track/4XUvxZgvrvAoIpeEdzt9mi) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Drugs](https://open.spotify.com/album/0VG3DB6vKYfJ9cRBeDcsrk) | 3:47 | 2023-09-28 | 2023-10-06 |
 | [Drugs & Moneystacks](https://open.spotify.com/track/1Li3igwW1ixFmNr0OloaGk) | [Ryan87](https://open.spotify.com/artist/6BzPt6ue95AG1kg9TaJ4LJ), [Lexi](https://open.spotify.com/artist/6fUcsPIL6XSD0kwI04ikc2) | [Drugs & Moneystacks](https://open.spotify.com/album/1it1Vlr100BZ7uUTXpci9n) | 2:51 | 2024-04-18 | 2024-04-26 |
 | [Drum \(feat\. Lena Sue\)](https://open.spotify.com/track/0PaxddTF3iYgbPBHitXX6V) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Drum \(feat\. Lena Sue\)](https://open.spotify.com/album/0F0sDw76LcnHECLfxr0TUV) | 2:49 | 2024-11-08 | 2024-11-15 |
+| [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 | 2025-08-22 |  |
 | [Drumroll Please](https://open.spotify.com/track/4lIeR1zvv0J8lEVRVI58NQ) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [GRAVEDGR](https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj) | [Drumroll Please](https://open.spotify.com/album/2qoUIOVBI5xG8NqBziLCYd) | 2:19 | 2024-07-26 | 2024-08-02 |
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-05 | 2023-10-13 |
 | [Drunk](https://open.spotify.com/track/0hd4HXtAwtIQq4kAlJySa0) | [Fabiana Palladino](https://open.spotify.com/artist/1ZzqxDkqNDAJVaNO1xue3P) | [Drunk](https://open.spotify.com/album/55DFqfotSUPU7MSv6NuK8m) | 3:22 | 2024-10-31 | 2024-11-08 |
@@ -5718,7 +5719,7 @@
 | [Fire To The Sky](https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Fire To The Sky](https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl) | 2:45 | 2025-05-15 | 2025-05-23 |
 | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 | 2023-12-14 | 2023-12-22 |
 | [Firebabe](https://open.spotify.com/track/0IkcOWI1DIFM2L6kIukxr4) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Firebabe](https://open.spotify.com/album/4VKvqrfZFcNM28kXsbTwcz) | 3:40 | 2022-11-10 | 2022-11-18 |
-| [Firebomber](https://open.spotify.com/track/1orZXri2IguSEjN9XjT9TZ) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Firebomber](https://open.spotify.com/album/32xYgM74LVRhx5rAl2dJ5c) | 4:13 | 2025-08-21 |  |
+| [Firebomber](https://open.spotify.com/track/1orZXri2IguSEjN9XjT9TZ) | [B.G.](https://open.spotify.com/artist/36HvjE9pV91jEjO1qBRidS), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Firebomber](https://open.spotify.com/album/32xYgM74LVRhx5rAl2dJ5c) | 4:13 | 2025-08-21 | 2025-08-24 |
 | [Fireflies](https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Fireflies](https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM) | 2:23 | 2023-11-23 | 2023-12-01 |
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-12 | 2022-05-20 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-29 | 2023-07-07 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=IDV6FFKHTZqZY6esFdH2\-A">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,806 likes - 61 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,828 likes - 61 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 |
 | 2 | [VAR](https://open.spotify.com/track/72V7ipYJNBUkLWc2ZR49z0) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Finally Famous Too](https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9) | 6:32 |
 | 3 | [Nzara \- CLARAA Remix](https://open.spotify.com/track/68LffvHeeRRrd4wnuiauCk) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Gino Brown](https://open.spotify.com/artist/7hAFqypJQMJwOYdidATue1), [Ruvimbo](https://open.spotify.com/artist/0H9hyTkCwELLroC9zTODuz), [CLARAA](https://open.spotify.com/artist/0hzvjvnzkOTFNgVrLTwiM4) | [Nzara \(CLARAA Remix\)](https://open.spotify.com/album/3NeEeOpMtzzobn9EZQ8OVA) | 6:47 |
-| 4 | [Zaya](https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Chalee](https://open.spotify.com/artist/0xzRmxhRFrntOd4byFb4FY) | [Zaya](https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j) | 7:39 |
+| 4 | [Zaya](https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Zaya](https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j) | 7:39 |
 | 5 | [Cries Of The Motherland](https://open.spotify.com/track/2k46iqHrhqENRkHSukPpD4) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Sam K](https://open.spotify.com/artist/48bm9IjMTyMQjNmcFnqcBn) | [First Impressions](https://open.spotify.com/album/1Po1pJ8v81cEzbfxCk52Dm) | 7:22 |
 | 6 | [Milele \- Extended Mix](https://open.spotify.com/track/0LHKVAolLXwlR6ASumS9N4) | [Francolino](https://open.spotify.com/artist/7C4O4Dtxbj1RXexjkHO70A), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Milele](https://open.spotify.com/album/6Nchf02NjGIWGNg4qEKq5V) | 6:19 |
 | 7 | [Abo Malume \- Beat Up Mix](https://open.spotify.com/track/5zrjK2Yb9IbEn94oL8l0ni) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [NenaHalena](https://open.spotify.com/artist/23iRCK9958IO0IMtIvAAJq) | [Abo Malume \(Edits\)](https://open.spotify.com/album/3LbRc6ExQ48yQ7a4HR31Cl) | 6:56 |

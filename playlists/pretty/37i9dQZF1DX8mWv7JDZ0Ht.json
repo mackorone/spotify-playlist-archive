@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto: Doral",
-  "num_followers": 437524,
+  "num_followers": 437522,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "MACIA BAHIA",
-        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "MACIA BAHIA",
-      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "assim",
         "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 171000,
       "name": "assim",
       "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "MACIA BAHIA",
+        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "MACIA BAHIA",
+      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -527,6 +527,26 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Acordar Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Acordar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Caso eu Case",
         "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
@@ -559,58 +579,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Acordar Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
-      },
-      "artists": [
-        {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Acordar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Poder Amar",
-      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "tonteira",
-        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
-      },
-      "artists": [
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 147812,
-      "name": "tonteira",
-      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Fica De Dengo",
         "url": "https://open.spotify.com/album/45jbjZjY9vnS9qVEWaxKkJ"
       },
@@ -631,22 +599,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
+        "name": "tonteira",
+        "url": "https://open.spotify.com/album/03gegOJ6g2aZSaOlG7VykS"
       },
       "artists": [
         {
-          "name": "BRAZA",
-          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
-        },
-        {
-          "name": "Josyara",
-          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 206779,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+      "duration_ms": 147812,
+      "name": "tonteira",
+      "url": "https://open.spotify.com/track/3OqtduCMGaMtAlzusSznBv"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -672,37 +636,17 @@
       "added_at": "2025-08-22 03:00:09",
       "album": {
         "name": "Ombro Amigo",
-        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
+        "url": "https://open.spotify.com/album/2Il8w4yHLl0VAm1u7EFz4H"
       },
       "artists": [
         {
           "name": "Zecca Gomes",
           "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
         }
       ],
-      "duration_ms": 175176,
-      "name": "Ombro Amigo",
-      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+      "duration_ms": 174817,
+      "name": "Poder Amar",
+      "url": "https://open.spotify.com/track/4kziItHb5Bm1u00TVspx1R"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -723,6 +667,42 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
+      },
+      "artists": [
+        {
+          "name": "BRAZA",
+          "url": "https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn"
+        },
+        {
+          "name": "Josyara",
+          "url": "https://open.spotify.com/artist/39ta5eWDuRNCloJ4oJRJMC"
+        }
+      ],
+      "duration_ms": 206779,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/2mQRVgy18O2NlngYrBNfrP"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 153714,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Ombro Amigo",
+        "url": "https://open.spotify.com/album/263D0HrDdi0sXLFYdrroKu"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 175176,
+      "name": "Ombro Amigo",
+      "url": "https://open.spotify.com/track/4Ccw1mBahaNYSSAxvqoqJu"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Vamos de Viagem",
-        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 238604,
-      "name": "Vamos de Viagem",
-      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Partir",
         "url": "https://open.spotify.com/album/28blWY8Yr3w6LBtZru0uIR"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
-        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+        "name": "Vamos de Viagem",
+        "url": "https://open.spotify.com/album/0bV6zqy93k54Cm6qUyZEZM"
       },
       "artists": [
         {
-          "name": "GABI LINS",
-          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
         }
       ],
-      "duration_ms": 186223,
-      "name": "CHUVA DE VER\u00c3O",
-      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+      "duration_ms": 238604,
+      "name": "Vamos de Viagem",
+      "url": "https://open.spotify.com/track/0YG5T2jnHun0NKOwd0OkZw"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -859,6 +843,22 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
+        "name": "TR\u00d3PICO 96 (Edi\u00e7\u00e3o de Ver\u00e3o)",
+        "url": "https://open.spotify.com/album/4VqaMQC992nJjlkOVDlmyJ"
+      },
+      "artists": [
+        {
+          "name": "GABI LINS",
+          "url": "https://open.spotify.com/artist/6AntiZOHajTmgPhdLGKYNm"
+        }
+      ],
+      "duration_ms": 186223,
+      "name": "CHUVA DE VER\u00c3O",
+      "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
         "name": "me chama",
         "url": "https://open.spotify.com/album/4NnpkK3fq5tFtrwB36gQ8R"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "Mar\u00e9 Alta",
-        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 186363,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 160000,
       "name": "Me Deixa Ser S\u00f3 Teu",
       "url": "https://open.spotify.com/track/7BbvwwfefoDf88vcb1YKJq"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "Mar\u00e9 Alta",
+        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "\u00c1udios Antigos",
-        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
-      },
-      "artists": [
-        {
-          "name": "Zant",
-          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
-        }
-      ],
-      "duration_ms": 204731,
-      "name": "\u00c1udios Antigos",
-      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "Eu Gosto Assim",
         "url": "https://open.spotify.com/album/5DvuhmNaehNZmnunhlJEYd"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 206505,
       "name": "Eu Gosto Assim",
       "url": "https://open.spotify.com/track/4MpU9fEDiK6ziHyDwbJzAv"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "\u00c1udios Antigos",
+        "url": "https://open.spotify.com/album/10DYcvq0MTzufwjFSbjiq9"
+      },
+      "artists": [
+        {
+          "name": "Zant",
+          "url": "https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8"
+        }
+      ],
+      "duration_ms": 204731,
+      "name": "\u00c1udios Antigos",
+      "url": "https://open.spotify.com/track/1kZQCUtByD5aLmQuPy5uAb"
     },
     {
       "added_at": "2025-08-22 03:00:09",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2025-08-22 03:00:09",
       "album": {
-        "name": "P E R T O",
-        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
-      },
-      "artists": [
-        {
-          "name": "S\u00e1vio",
-          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
-    },
-    {
-      "added_at": "2025-08-22 03:00:09",
-      "album": {
         "name": "G\u00e9rbera + Na Proa da Saudade",
         "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 216747,
       "name": "Na Proa da Saudade",
       "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
+    },
+    {
+      "added_at": "2025-08-22 03:00:09",
+      "album": {
+        "name": "P E R T O",
+        "url": "https://open.spotify.com/album/2yZsWNbI68GdHoFr8e9LwF"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1vio",
+          "url": "https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/7hM8V71vwDG1FsuJSsiPX3"
     },
     {
       "added_at": "2025-08-22 03:00:09",

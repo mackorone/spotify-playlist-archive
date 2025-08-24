@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: Bad Omens
 
-1,519 songs - 3 day 18 hr 48 min
+1,520 songs - 3 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [All Down Hill from Here](https://open.spotify.com/track/7x6FlXOGhl9xaynFFbPwBx) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [All Down Hill from Here](https://open.spotify.com/album/2vHbDoCINCZlcI6ZGX5yF3) | 4:37 | 2021-08-20 | 2022-03-12 |
 | [All I Really Know](https://open.spotify.com/track/5JjTtaOLyq48joyhVX3ksj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone \(Deluxe\)](https://open.spotify.com/album/7pRVr7VwQCl5ocbCVIqsXz) | 3:34 | 2021-12-10 | 2022-04-16 |
 | [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 | 2024-08-30 | 2024-10-26 |
-| [All My Friends](https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:01 | 2025-03-21 |  |
+| [All My Friends](https://open.spotify.com/track/2wdqcce0DKklq4aSD8zADU) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Big Ole Album Vol\. 1](https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg) | 3:01 | 2025-03-21 | 2025-08-24 |
 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-07 | 2025-01-25 |
 | [All The Love Is Gone](https://open.spotify.com/track/5YSEFmTZBt1Ne3p0S9ZQMr) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [All The Love Is Gone](https://open.spotify.com/album/3ak5P45tjuLYZehqjruTez) | 3:02 | 2025-02-14 | 2025-08-02 |
 | [All Things Must Change](https://open.spotify.com/track/6ZbOtXOG3ZA1c12r1KAOyT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival \(Deluxe\)](https://open.spotify.com/album/4gTXzawhT3uxfHY64KAqSq) | 3:35 | 2023-08-25 | 2023-11-05 |
@@ -457,6 +457,7 @@
 | [Fait Accompli](https://open.spotify.com/track/2WVIffmLGZUz96nOsNgFHP) | [Capital Theatre](https://open.spotify.com/artist/4ISF1JXAPlRrDtZu9EgIcv) | [A Hero's Journey](https://open.spotify.com/album/5tupOm4z6F3B4UMmfliBi3) | 4:48 | 2022-06-24 | 2022-10-08 |
 | [Fake](https://open.spotify.com/track/4vSo9CwLjLiD6R5q1K8TZ1) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Fake](https://open.spotify.com/album/2uyn0c1NkN0OQvQLPTjJt8) | 3:11 | 2022-04-08 | 2022-04-29 |
 | [Fake Ass Friends](https://open.spotify.com/track/5t3X72EbaFti38zPMlqeTC) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Fake Ass Friends](https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv) | 2:18 | 2024-03-01 | 2024-05-18 |
+| [Fallen Days](https://open.spotify.com/track/52rb0gxBOFwaJ18bzQLRC4) | [Tron Austin](https://open.spotify.com/artist/4FgvnCh0V8RBjdXVwIHwwL) | [Fallen Days](https://open.spotify.com/album/5I7qfSaAYnagmKpkN8xMLD) | 3:16 | 2025-08-22 |  |
 | [Fallout](https://open.spotify.com/track/07GYummphjTwkCjNfJvIca) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/63xLdGlrDV5QJuwtQlGqL4) | 3:14 | 2022-04-01 | 2022-07-29 |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-07-22 | 2022-11-05 |
 | [Fallout](https://open.spotify.com/track/2RrDkTF6bgjgYsYN5HaaFB) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paper Hearts](https://open.spotify.com/album/4di62gnBZPDefkKwMBLXPb) | 3:17 | 2024-03-08 | 2024-08-03 |

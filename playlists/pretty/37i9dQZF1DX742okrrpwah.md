@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Doja Cat, M\. Pokora, Joé Dwèt Filé et sombr au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,529 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,498 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 8 | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/track/0OItrStw62ofKZD6x857Fp) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD), [Boumidjal X](https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK) | [MONEY \(feat\. Boumidjal X\)](https://open.spotify.com/album/0eVA46YM5CygKRbBECdo2X) | 2:06 |
 | 9 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
 | 10 | [Drum Show](https://open.spotify.com/track/4rPl7ezxtoqshKnI1kk3dX) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drum Show](https://open.spotify.com/album/2ua0DTF9uqI0AugOvNrumo) | 3:23 |
-| 11 | [Dame Un Grrr](https://open.spotify.com/track/5PBuwFeYlopeLT5PXXaZLB) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Dame Un Grrr](https://open.spotify.com/album/7lI67g4PfO5pZ43qKxHEOW) | 2:30 |
+| 11 | [Dame Un Grrr \- Dr\. Yaro Version](https://open.spotify.com/track/5PBuwFeYlopeLT5PXXaZLB) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Dame Un Grrr \(Dr\. Yaro Version\)](https://open.spotify.com/album/7lI67g4PfO5pZ43qKxHEOW) | 2:30 |
 | 12 | [Set Me Free](https://open.spotify.com/track/1tIYTeCrLtHTbZwmKXh625) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Set Me Free](https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF) | 3:09 |
 | 13 | [King](https://open.spotify.com/track/74nKgofkBmR9TB8d3FM7bA) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D) | [King](https://open.spotify.com/album/5dxN5vkznBTe9RPPiyqYn9) | 2:16 |
 | 14 | [Like 1](https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Like 1](https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO) | 3:06 |

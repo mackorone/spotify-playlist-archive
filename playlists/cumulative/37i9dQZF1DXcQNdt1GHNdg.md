@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-259 songs - 12 hr 24 min
+260 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bad Company](https://open.spotify.com/track/30zRC8Lm6rXgCauxTnazbc) | [Jodha](https://open.spotify.com/artist/4lW5ng5q45zXLg4FeGwcFs), [ITS VIBEE](https://open.spotify.com/artist/1UZc3uZyScqHHUTRrzbbVB) | [Bad Company](https://open.spotify.com/album/0rsXdSK6e9S9YT5DjZPaLC) | 3:08 | 2024-10-04 | 2024-10-23 |
 | [Badmashi](https://open.spotify.com/track/3TYVCSBKBdsH43nDPeCvyT) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Vseer](https://open.spotify.com/artist/2AuQm2EBaiXKWeow1jC6ZY) | [Badmashi](https://open.spotify.com/album/32i949gdo7zX8V6qDhsbYe) | 4:05 | 2025-08-07 |  |
 | [Badnaam \(From "Badnaam"\)](https://open.spotify.com/track/1tO5Ncd2g5UpFMhjhuV2QC) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w) | [Badnaam \(From "Badnaam"\)](https://open.spotify.com/album/7aVYsNPnL4OupDTab0uqek) | 2:43 | 2025-02-05 | 2025-04-17 |
+| [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 | 2025-08-23 |  |
 | [Balle Jatta](https://open.spotify.com/track/3TMub7U6GmZ9RIaQpQerbZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Balle Jatta](https://open.spotify.com/album/5TSOrVokaOvXbRXJOkJ1b5) | 3:32 | 2023-07-18 | 2024-07-02 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-07-18 | 2024-09-12 |
 | [Bande 4](https://open.spotify.com/track/1eCJkMId2CBCWpukvmVHk2) | [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm), [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Bande 4](https://open.spotify.com/album/7MtkRxJx2PFFHSzjRLda38) | 3:04 | 2025-02-05 |  |
@@ -207,7 +208,7 @@
 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 | 2023-07-18 | 2024-04-19 |
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-06 | 2025-02-19 |
 | [Reckless](https://open.spotify.com/track/4nzpmVBjHny6Iw42ZO1AvL) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:38 | 2025-01-22 | 2025-04-26 |
-| [Reign](https://open.spotify.com/track/1116nfUXzoKZ4zyjEVAC0U) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Starting Over](https://open.spotify.com/album/4OiXXyu7zq7VdI49tDxKoe) | 2:45 | 2025-08-11 |  |
+| [Reign](https://open.spotify.com/track/1116nfUXzoKZ4zyjEVAC0U) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Starting Over](https://open.spotify.com/album/4OiXXyu7zq7VdI49tDxKoe) | 2:45 | 2025-08-11 | 2025-08-24 |
 | [Revenge](https://open.spotify.com/track/7uSpLsbpnwk0XTC1nLlpG2) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Isajan](https://open.spotify.com/artist/1ZAwMkiDj1MgIGdtEjf0xv) | [Revenge](https://open.spotify.com/album/5BPoxXx4RiQ9jIV2XdA5Xg) | 2:55 | 2025-03-26 | 2025-05-07 |
 | [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 | 2024-08-23 | 2024-10-25 |
 | [RODE COLLEGE \- From "Rode College"](https://open.spotify.com/track/3YacK9PyNjxmYWkTDg4N1R) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Matte Ala](https://open.spotify.com/artist/7kFGiiWwaSc4lu1C22TH7a), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [RODE COLLEGE \(From "Rode College"\)](https://open.spotify.com/album/1thGIzOKI2h1OLyQLN9RzB) | 2:52 | 2024-06-03 | 2024-06-11 |
