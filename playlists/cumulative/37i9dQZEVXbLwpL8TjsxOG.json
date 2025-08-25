@@ -2390,6 +2390,24 @@
     {
       "album": {
         "name": "KARMA",
+        "url": "https://open.spotify.com/album/5ULZLn7Vv8TCeIpe0Uh2hO"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "CEREMONY",
+      "url": "https://open.spotify.com/track/1GfRjLG3DivFZEr85b6k7G"
+    },
+    {
+      "album": {
+        "name": "KARMA",
         "url": "https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc"
       },
       "artists": [
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 164026,
       "name": "CEREMONY",
       "url": "https://open.spotify.com/track/62xU1NllqWBCbkZFTXEqzF"
@@ -7510,7 +7528,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
@@ -13796,7 +13814,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/19GxfaRs5KdurzPKLVX3Cq"
@@ -13814,7 +13832,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 180293,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
       "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
@@ -15582,7 +15600,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 183226,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
@@ -18972,7 +18990,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 224513,
       "name": "\u5ca9\u5dc9",
       "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
@@ -22208,7 +22226,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 252000,
       "name": "\u7a7a\u7121\u4e4b\u5730",
       "url": "https://open.spotify.com/track/2DL4gdIataq0FWEreuh8LP"
@@ -23729,6 +23747,28 @@
     },
     {
       "album": {
+        "name": "Processing",
+        "url": "https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh"
+      },
+      "artists": [
+        {
+          "name": "JACE",
+          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
+        },
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2021-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "\u9694\u96e2 - Studio Live Duet",
+      "url": "https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW"
+    },
+    {
+      "album": {
         "name": "\u9694\u96e2 (Studio Live Duet)",
         "url": "https://open.spotify.com/album/3I3I0AHGrv1daEtREWB1VA"
       },
@@ -23748,28 +23788,6 @@
       "duration_ms": 248382,
       "name": "\u9694\u96e2 - Studio Live Duet",
       "url": "https://open.spotify.com/track/4xL01OuFjqizPDclF8gDpl"
-    },
-    {
-      "album": {
-        "name": "Processing",
-        "url": "https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh"
-      },
-      "artists": [
-        {
-          "name": "Jace Chan",
-          "url": "https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa"
-        },
-        {
-          "name": "Terence Lam",
-          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
-        }
-      ],
-      "date_added": "2021-05-16",
-      "date_added_asterisk": false,
-      "date_removed": "2022-09-29",
-      "duration_ms": 250000,
-      "name": "\u9694\u96e2 - Studio Live Duet",
-      "url": "https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW"
     },
     {
       "album": {
@@ -24300,7 +24318,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

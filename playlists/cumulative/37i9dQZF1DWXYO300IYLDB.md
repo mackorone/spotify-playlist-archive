@@ -4,7 +4,7 @@
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-538 songs - 1 day 7 hr 59 min
+539 songs - 1 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [almost happy](https://open.spotify.com/track/06SnkMUvEOai4zY9lGvuky) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [almost happy](https://open.spotify.com/album/3IISfQ5BRf3a5wNRf7CX0K) | 2:17 | 2024-12-26 | 2025-01-02 |
 | [Alone With You](https://open.spotify.com/track/4QrqR0jGwhhnGi8IPyyvnV) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Alone With You](https://open.spotify.com/album/2HkPoPfr3EynrPWKamNn8j) | 3:49 | 2024-01-18 | 2024-11-29 |
 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 | 2025-02-06 | 2025-06-27 |
+| [Ambivalence](https://open.spotify.com/track/5VPnV3cj5awKANUS936zdj) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Ambivalence](https://open.spotify.com/album/2dRFudjIAnXpASi3YCZHb9) | 4:32 | 2025-08-21 |  |
 | [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2023-09-28 |  |
 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2022-10-20 | 2024-11-08 |
 | [Angels](https://open.spotify.com/track/1RVpxxW4Rpy9sEMAUSZ64Y) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist \(Deluxe Edition\)](https://open.spotify.com/album/1pWbq3uze6romelU3eWtwC) | 2:51 | 2022-11-22 | 2022-12-14 |
@@ -493,7 +494,7 @@
 | [You Could Start A Cult \- Live from Spotify Studios](https://open.spotify.com/track/2fWqTX6zcIHCfhJjLA5pxR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Live from Spotify Studios](https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh) | 2:56 | 2024-02-13 | 2025-02-07 |
 | [Your House My House](https://open.spotify.com/track/0FBvAV5khV9zgmPm71VjQS) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:17 | 2023-11-14 | 2024-02-28 |
 | [Your Song \- Bonus Track](https://open.spotify.com/track/1a9hBnJodCsNcp0HoJAObp) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights \(Lights Re\-pack / Bonus Version\)](https://open.spotify.com/album/64Pv36CiG9rBcyvKnud02V) | 3:11 | 2023-03-14 | 2024-01-03 |
-| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 |  |
+| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2025-07-10 | 2025-08-25 |
 | [いつものこと](https://open.spotify.com/track/2dguw4nUUpg0Lxu9pd2w3L) | [小野雄大](https://open.spotify.com/artist/0e20MJY2rEAHyJN6CNBkzr) | [いつものこと](https://open.spotify.com/album/3Vb5JKrWeF9pGhSIHmCcmO) | 4:00 | 2024-02-06 | 2024-11-08 |
 | [きみといっしょ](https://open.spotify.com/track/5fEF7RXefUrSj6cHI2RFMX) | [宗藤竜太](https://open.spotify.com/artist/0SbD2ebnqKRmC6FrmC8VHS) | [きみといっしょ](https://open.spotify.com/album/1OhwpPbEkZToBKMzKKasb4) | 3:27 | 2024-02-20 | 2024-03-08 |
 | [さいなら](https://open.spotify.com/track/647oMB0in42klUaC4cDcFI) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [さいなら](https://open.spotify.com/album/6GlJfGrISS0My3OtiunCH7) | 2:39 | 2025-03-20 | 2025-04-04 |

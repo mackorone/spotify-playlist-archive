@@ -4,7 +4,7 @@
 
 > This is Dolly Parton\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 36 min
+85 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 | 2024-03-09 |  |
 | [9 to 5](https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:00 | 2024-03-09 |  |
 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2024-03-09 | 2024-03-31 |
+| [9 to 5 to 9](https://open.spotify.com/track/2DLFn13j0WNHueDMPek6RH) | [Sabyn](https://open.spotify.com/artist/1geCS7rYoQEuOd12s72Qa1), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Halfway There](https://open.spotify.com/album/792LVq55bRYsXZtoX8LhuC) | 3:51 | 2025-08-25 |  |
 | [A Better Place \(with Dolly Parton\)](https://open.spotify.com/track/0YCzc9CQkXubeYtLLLAJYK) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Glen Campbell Duets: Ghost On The Canvas Sessions](https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw) | 1:53 | 2024-04-23 | 2024-07-16 |
 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 | 2024-03-09 |  |
 | [Applejack](https://open.spotify.com/track/44H8pO6AOXOcsp3mikoTgq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 3:25 | 2024-03-24 | 2024-08-31 |
@@ -36,7 +37,7 @@
 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 | 2024-03-09 |  |
 | [Home Sweet Home \- feat\. Dolly Parton](https://open.spotify.com/track/7GR0aUEo30gZ76VoE9jfeh) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Home Sweet Home \(feat\. Dolly Parton\)](https://open.spotify.com/album/5D2sUOxr3YervvarowmK5I) | 3:51 | 2025-06-22 |  |
 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 | 2024-03-09 |  |
-| [I Will Always Love You](https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Songs of Cinema](https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw) | 3:36 | 2024-12-08 |  |
+| [I Will Always Love You](https://open.spotify.com/track/3wTEtCLPMrXkw2bovFIVNO) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Songs of Cinema](https://open.spotify.com/album/7I6nVGkWC7IUrgyaMZiHUw) | 3:36 | 2024-12-08 | 2025-08-25 |
 | [I Will Know](https://open.spotify.com/track/4C38L9FS2EMoBulFdt0Cnr) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rachel Parton George](https://open.spotify.com/artist/1Ty8mSkLkDPYD3oZYqoQTj), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [I Will Know](https://open.spotify.com/album/7FgodvjlG90dx6szFtITzG) | 2:12 | 2024-09-21 | 2024-11-10 |
 | [If You Hadn’t Been There](https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [If You Hadn’t Been There](https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD) | 3:28 | 2025-03-09 |  |
 | [In the Ghetto](https://open.spotify.com/track/6GZ6O0bHsDndSAmqnxXMjn) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [My Blue Ridge Mountain Boy](https://open.spotify.com/album/54uwPrcHfWW7KVtZCfc6f7) | 2:48 | 2024-10-29 |  |

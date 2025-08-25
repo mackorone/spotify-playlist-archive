@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 243882,
+  "num_followers": 243896,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADaLXtF4jhvv8/gHbTjJEEY",
+  "snapshot_id": "aKkEgAAAAACAk+Bjd0D4sPGa9/6ViLw/",
   "tracks": [
     {
       "added_at": null,
@@ -263,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sobrevolando",
-        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
       },
       "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 283315,
-      "name": "Llevarte All\u00ed",
-      "url": "https://open.spotify.com/track/4YtADLDDktCAdzN2pbPABB"
+      "duration_ms": 235466,
+      "name": "S\u00f3lo Por Ti",
+      "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
     },
     {
       "added_at": null,
@@ -295,22 +299,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/6JUteqYW61MphFHmJe5AAU"
+        "name": "Sobrevolando",
+        "url": "https://open.spotify.com/album/35WTHfJvAnPS1fXKY4qc8G"
       },
       "artists": [
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        },
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 235466,
-      "name": "S\u00f3lo Por Ti",
-      "url": "https://open.spotify.com/track/58ujE3lNtea4uCKJ05gUvg"
+      "duration_ms": 283315,
+      "name": "Llevarte All\u00ed",
+      "url": "https://open.spotify.com/track/4YtADLDDktCAdzN2pbPABB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-3,353 songs - 7 day 19 hr 58 min
+3,354 songs - 7 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2649,6 +2649,7 @@
 | [Slow Down](https://open.spotify.com/track/6V5bzHJ2Azp5LjUurVI0pF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Slow Down](https://open.spotify.com/album/5XMsC7wGd38x4wmcHC6lEW) | 2:50 | 2024-03-29 | 2024-04-27 |
 | [Slow Motion](https://open.spotify.com/track/2WtJS2zwWmGVJr07XLhQDC) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [Slow Motion](https://open.spotify.com/album/366r6mv4J4Qsv5EunUmu9Z) | 3:15 | 2024-07-19 | 2024-08-17 |
 | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/track/7FCsancbnLoZrmL6bX6Yti) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Carey Washington](https://open.spotify.com/artist/1o69wyMnma62W8juhb8gAH) | [SLUT ME OUT 3 \(feat\. Carey Washington\)](https://open.spotify.com/album/1OIvMyu96Ba38Mpb2rjdn9) | 2:22 | 2024-09-13 | 2024-10-12 |
+| [Smack It](https://open.spotify.com/track/0s0Jo9cGwzLhGuxTLTVU2e) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Smack It](https://open.spotify.com/album/3vJMYGdkdMm6mwklUjhw58) | 2:56 | 2025-08-24 |  |
 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 | 2024-06-28 | 2024-07-27 |
 | [Smoak & Sip](https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Smoak & Sip](https://open.spotify.com/album/7wc12zgtkHjbtZ7EoFgQrb) | 3:42 | 2024-02-23 | 2024-03-23 |
 | [Smoke](https://open.spotify.com/track/0BG9DCOLFP5CWzxfaq9E4R) | [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Smoke](https://open.spotify.com/album/169tlI7lFL8WkVKEjoybZf) | 2:50 | 2024-05-03 | 2024-06-01 |

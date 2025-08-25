@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Humour
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,437 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,440 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Lil' Horse](https://open.spotify.com/track/6rmGnb6OgWimjTZSlvHY50) | [Kissing on Camera](https://open.spotify.com/artist/06yv1oYDbg9T8Ei42l9YOU) | [Lil' Horse](https://open.spotify.com/album/5YO2PLIdJCAFVaOYcKCHyJ) | 2:14 |
 | 80 | [four\-o\-five](https://open.spotify.com/track/13N8GJbUVL8x7PhiwGRrV3) | [green star](https://open.spotify.com/artist/35CQyx6pBd8bt19LYBmVOe) | [four\-o\-five](https://open.spotify.com/album/03PVDTBeHRD41alH9tt5OP) | 3:30 |
 
-Snapshot ID: `AAAAAAQ0A9ALRU4t4D09vZ4TbfoSrS+7`
+Snapshot ID: `AAAAALIX9hLYrYBvKvTTIg4os1eXoyij`

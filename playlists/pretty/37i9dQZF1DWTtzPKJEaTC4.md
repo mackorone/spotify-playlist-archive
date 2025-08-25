@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:0uZRjholJ0fVC2J9EvnYnj">Meshell Ndegeocello</a> shares her jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,309 likes - 35 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,321 likes - 35 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

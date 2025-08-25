@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "Mood Indigo",
+        "url": "https://open.spotify.com/album/5sAlnk7GmDC5KRE1sKudIX"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Afro-Bossa",
+      "url": "https://open.spotify.com/track/7AONTENNNhbwr55248rPTq"
+    },
+    {
+      "album": {
         "name": "And His Mother Called Him Bill",
         "url": "https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 119687,
+  "num_followers": 119697,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABYMND8KgKvkGfHgE8rjVY9",
+  "snapshot_id": "aKkEgAAAAACCQE240fP79Xe7OZQ8E05C",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amar o Morir",
+        "url": "https://open.spotify.com/album/2q4m9TbU7rnvsC3thQ004u"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 252266,
+      "name": "Brindo por ti",
+      "url": "https://open.spotify.com/track/4T2O4SWChk3uKN8Tvyxzic"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ska a La Carta",
         "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 236346,
       "name": "Inspiracional",
       "url": "https://open.spotify.com/track/6rpuI5wb7070I1ZpMvRpzh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 223146,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo por ti (Sonando desde el Auditorio Nacional)",
-        "url": "https://open.spotify.com/album/6jhwA4nrC2k3K4CzFwQPW9"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Brindo por ti - Sonando desde el Auditorio Nacional",
-      "url": "https://open.spotify.com/track/3W8oqGTpqbVhDoikGdOkln"
+      "duration_ms": 223146,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/4XMGgtLvkOOfNzS3PNcsvY"
     },
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Ara\u00f1a Ska",
-      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+      "duration_ms": 239333,
+      "name": "Desatinos",
+      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Blanco y Negro",
+        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 239333,
-      "name": "Desatinos",
-      "url": "https://open.spotify.com/track/0Hr6yaFqBNiDi05aVGGbMM"
+      "duration_ms": 154897,
+      "name": "Ara\u00f1a Ska",
+      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
     },
     {
       "added_at": null,

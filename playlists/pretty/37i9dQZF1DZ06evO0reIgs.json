@@ -1,13 +1,37 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 82035,
+  "num_followers": 82030,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABdmk0ekMcHxHplQt8UaRrR",
+  "snapshot_id": "aKkEgAAAAAAo2Ms/CFUWgZ/Lq8V2DFd/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Praia do Rosa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        }
+      ],
+      "duration_ms": 256523,
+      "name": "Praia do Rosa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
+    },
     {
       "added_at": null,
       "album": {
@@ -55,30 +79,6 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica #11 Nada Mudou",
       "url": "https://open.spotify.com/track/0BiXrraKIkkc4Qj2lcgVUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Praia do Rosa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        }
-      ],
-      "duration_ms": 256523,
-      "name": "Praia do Rosa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF"
     },
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Pior Disco do Ano",
+        "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 210517,
+      "name": "Lament\u00e1vel, Pt. III",
+      "url": "https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -203,26 +223,6 @@
       "duration_ms": 614615,
       "name": "Poesia Ac\u00fastica #8 Amor e SambaCan\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/229GXUzH1baYzaLgqc3PDo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Pior Disco do Ano",
-        "url": "https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 210517,
-      "name": "Lament\u00e1vel, Pt. III",
-      "url": "https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG"
     },
     {
       "added_at": null,
@@ -547,34 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Passando de Fase",
-      "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beira Mar",
         "url": "https://open.spotify.com/album/1cp33YxpxZBcnc8RpoHLYX"
       },
@@ -627,6 +599,34 @@
       "duration_ms": 240000,
       "name": "Inverno",
       "url": "https://open.spotify.com/track/0yzMbAtm2RKslDyKNkOViZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/4PU8IuvEkh0gu8DnCR1EK6"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Passando de Fase",
+      "url": "https://open.spotify.com/track/4ByxsdnhZPrxPqic935TJ0"
     },
     {
       "added_at": null,
@@ -975,26 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Culpa \u00c9 Minha",
-        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
-      },
-      "artists": [
-        {
-          "name": "Matheusinho",
-          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 197114,
-      "name": "A Culpa \u00c9 Minha",
-      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afetropia",
         "url": "https://open.spotify.com/album/5PlDJYNDZLhOdsvhYUatQc"
       },
@@ -1015,6 +995,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Culpa \u00c9 Minha",
+        "url": "https://open.spotify.com/album/3m4DBImxvg7UHFGL34BAmO"
+      },
+      "artists": [
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 197114,
+      "name": "A Culpa \u00c9 Minha",
+      "url": "https://open.spotify.com/track/5eMlIxqhVlYkmQo24csFUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Culpa \u00c9 das Igrejas / Sinais",
         "url": "https://open.spotify.com/album/7iye7Sbx4EQfqyvEofLy9W"
       },
@@ -1031,26 +1031,6 @@
       "duration_ms": 247975,
       "name": "A Culpa \u00c9 das Igrejas / Sinais",
       "url": "https://open.spotify.com/track/5wUkG5QrjYbsCTi0TQmrFp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Dalsin",
-          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
-        }
-      ],
-      "duration_ms": 157006,
-      "name": "Por Aqui",
-      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
     },
     {
       "added_at": null,
@@ -1115,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
       },
       "artists": [
         {
@@ -1124,17 +1104,13 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
         }
       ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+      "duration_ms": 157006,
+      "name": "Por Aqui",
+      "url": "https://open.spotify.com/track/4piSBeJX7t6OOK636pTxnD"
     },
     {
       "added_at": null,
@@ -1203,6 +1179,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sol",
         "url": "https://open.spotify.com/album/2BAJGWOgcjDYz9b3tGPuNo"
       },
@@ -1243,8 +1243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciclo Vicioso (Deluxe)",
-        "url": "https://open.spotify.com/album/01PAv8YYPcmmkTG8NDo73a"
+        "name": "Do Caos ao Nirvana",
+        "url": "https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43"
       },
       "artists": [
         {
@@ -1252,13 +1252,17 @@
           "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         },
         {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 175135,
-      "name": "Eu To Mudada",
-      "url": "https://open.spotify.com/track/0h69bhGYL2mgspLIVfaNSD"
+      "duration_ms": 225000,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/2cAsgavVid3IoFYfiUgHzi"
     }
   ],
   "unique_name": "This Is Cynthia Luz",

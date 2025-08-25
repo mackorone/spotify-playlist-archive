@@ -1,60 +1,60 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1n0bry0Ebl>Zo\u00e9</a>, <a href=spotify:playlist:37i9dQZF1EIWZkskSkwQ9P>Spacey Jane</a>, <a href=spotify:playlist:37i9dQZF1EIYbMAD732Dl2>The Beatles</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIWmirmzMYQiV>Fracta Aurea</a>, <a href=spotify:playlist:37i9dQZF1EIX7AzDG44w4y>Kyle Hume</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABrKCbqvPRiMfA4MaFiEg49",
+  "snapshot_id": "AAAAAAAAAABI5v5ybUUTIOao/Qu0u1gK",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Programaton",
-        "url": "https://open.spotify.com/album/3UZ0vtpq3mGcr4J0kjveSD"
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 224320,
-      "name": "Andr\u00f3meda",
-      "url": "https://open.spotify.com/track/3lA87gnTdcPDkH3toSDMAm"
+      "duration_ms": 320400,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes Everybody",
-        "url": "https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER"
+        "name": "Arcticano",
+        "url": "https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V"
       },
       "artists": [
         {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+          "name": "Fracta Aurea",
+          "url": "https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL"
         }
       ],
-      "duration_ms": 196533,
-      "name": "Lots of Nothing",
-      "url": "https://open.spotify.com/track/2WtFN7eLf5gvhJNgwBvGP6"
+      "duration_ms": 164500,
+      "name": "Arcticano",
+      "url": "https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Kyle Hume",
+          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
         }
       ],
-      "duration_ms": 105933,
-      "name": "I Will - Remastered 2009",
-      "url": "https://open.spotify.com/track/09x9v1o51dbqi5H0u7UGfp"
+      "duration_ms": 133365,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
     },
     {
       "added_at": null,

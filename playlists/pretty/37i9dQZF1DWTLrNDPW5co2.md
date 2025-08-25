@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Cover: JIALING
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,075 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,080 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 8 | [Freak It](https://open.spotify.com/track/1e8DRAVSxGDPd9hgxcppP2) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Freak It](https://open.spotify.com/album/58eyKa5DMA7R8NeuBeJciy) | 3:05 |
 | 9 | [My Little Secret Nasty Habit](https://open.spotify.com/track/0QpH7QcHJL9zFfO8vfAdKN) | [Miqui Brightside](https://open.spotify.com/artist/3Ej5fhuE6M1aEsPq9L5FlQ), [Demmy Sober](https://open.spotify.com/artist/0x8PisLbUrf8zKy4qIs3NS) | [My Little Secret Nasty Habit](https://open.spotify.com/album/3PozzkfYyjwLEyGEfV7IPO) | 3:44 |
 | 10 | [ATTENTION!](https://open.spotify.com/track/3roiUw3YFNlKE3u8qMmVmw) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [ATTENTION!](https://open.spotify.com/album/0pS9ssUJeUKdOD3hTrRhUM) | 3:28 |
-| 11 | [DUMB \(feat\. Cortisa Star\)](https://open.spotify.com/track/0MjEo1XEsPYgvQt47omDGh) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [DUMB \(feat\. Cortisa Star\)](https://open.spotify.com/album/0JvzjSnr0WNFbUlhSGkK0W) | 2:22 |
+| 11 | [DUMB](https://open.spotify.com/track/0MjEo1XEsPYgvQt47omDGh) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [Cortisa Star](https://open.spotify.com/artist/7oM0bObDNv5Uv1TNyDoqEG) | [DUMB](https://open.spotify.com/album/0JvzjSnr0WNFbUlhSGkK0W) | 2:22 |
 | 12 | [Just Not Cute](https://open.spotify.com/track/6Lr9s4byjOdhwLYDPxshHD) | [LOVEFOXY](https://open.spotify.com/artist/11pW7chJfzATeandApxMBo) | [Just Not Cute](https://open.spotify.com/album/2QoBgE08gFPMieaebjr8D8) | 6:34 |
 | 13 | [Smoking section](https://open.spotify.com/track/3S53THByW096a79eIXnsXz) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Smoking section](https://open.spotify.com/album/714PQIsdn0zzDfSaGEWiX5) | 2:42 |
 | 14 | [Bikini](https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Bikini](https://open.spotify.com/album/2SgvSyaCqdi5w8pGbJOfME) | 2:39 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 35 | [SATISFY](https://open.spotify.com/track/3yHwfHQn3qU1WLTLSw7VL8) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SATISFY](https://open.spotify.com/album/6pTszhm2TxKPaAplNDzdtM) | 2:45 |
 | 36 | [Expression](https://open.spotify.com/track/6w2zYfgGelViF375QM0mQr) | [Baby Weight](https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T) | [Expression](https://open.spotify.com/album/7Lo2WFhRHf96MDvvndLOEB) | 4:12 |
 | 37 | [Keep on Running](https://open.spotify.com/track/2FGWNqM9aTN5PlOwpey5fZ) | [That bb](https://open.spotify.com/artist/1EeNood6FrkpWHqrHUNMGF) | [Keep on Running](https://open.spotify.com/album/0oroBUC0YcUls05T561WSG) | 3:19 |
-| 38 | [HUNNY \(feat\. DETO BLACK\)](https://open.spotify.com/track/0uuK5w5Ym5JZYhaVfKtNPd) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [HUNNY \(feat\. DETO BLACK\)](https://open.spotify.com/album/4VTaRbDTMWZT7hwby9VdYK) | 2:54 |
+| 38 | [HUNNY](https://open.spotify.com/track/0uuK5w5Ym5JZYhaVfKtNPd) | [Only Fire](https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [HUNNY](https://open.spotify.com/album/4VTaRbDTMWZT7hwby9VdYK) | 2:54 |
 | 39 | [BIG ONE](https://open.spotify.com/track/0p1odhs9JGRwTbvq1XBH9m) | [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI) | [BIG ONE](https://open.spotify.com/album/0RpkjLVRhce7TPTpaCAFvb) | 1:54 |
 | 40 | [Marsha’s rocknroll \- Edit](https://open.spotify.com/track/31UzKLiV2YQQBmKsZOPuvM) | [Cherry Lee](https://open.spotify.com/artist/0bV3bttNRkvIYyjKqmGPFn) | [Marsha’s rocknroll \(Edit\)](https://open.spotify.com/album/43DzOnjBZpUUgkeYkCfrk8) | 3:56 |
 | 41 | [Juicy Juice \(feat\. Marie Davidson\)](https://open.spotify.com/track/1EAadJeM4oPkNIYMjG8zDH) | [deBasement](https://open.spotify.com/artist/76Hqz0xVLDA9UwwqKR1JVl), [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF) | [deBasement](https://open.spotify.com/album/2HRRp7VG6cv6KAE1AlL981) | 3:00 |

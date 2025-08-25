@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 
 > This is Hyperanhas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,323 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,324 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nAAzD.md) - [plain]
 | 46 | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \- Acústico](https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Casluh](https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [DaPaz](https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI) | [Luazul \#2: Deixa a Vida Levar \(feat\. MC Vinny e DaPaz\) \[Acústico\]](https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA) | 8:17 |
 | 47 | [Gelo no Copo \- Remix](https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63) | [Cufe](https://open.spotify.com/artist/5x7TPxozTWALMsXrBeA4BX), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Gelo no Copo \(Remix\)](https://open.spotify.com/album/5NCBnLl7vt3z5loG6kDcqM) | 2:50 |
 | 48 | [Decolar](https://open.spotify.com/track/1niFof33T1bYI9lU26mIg9) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Decolar](https://open.spotify.com/album/5qErOgyiAC2liZZ9PATIMi) | 3:16 |
-| 49 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 |
-| 50 | [O Que Vai Ser de Mim](https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [O Que Vai Ser de Mim](https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk) | 3:45 |
+| 49 | [O Que Vai Ser de Mim](https://open.spotify.com/track/4ED0k4V55pOO64ShvYnvKc) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [O Que Vai Ser de Mim](https://open.spotify.com/album/3lJs7qtSqbET4XrQW2FUkk) | 3:45 |
+| 50 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 |
 
-Snapshot ID: `aKezAAAAAACraHIzAwTRInxmGDZC7BMc`
+Snapshot ID: `aKkEgAAAAABKGTWxdaaFKq0uSCLSGwTS`

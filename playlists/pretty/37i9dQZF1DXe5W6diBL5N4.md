@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JOY\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,440 likes - 117 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,515 likes - 117 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 116 | [Curly](https://open.spotify.com/track/0aBfkNCRt0TU02jsGIa6b3) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Curly](https://open.spotify.com/album/1hUZdWtwrPXlrsF6wSOUy6) | 2:41 |
 | 117 | [iLy](https://open.spotify.com/track/4L43LBtfaYIFH1ECv3Xxyz) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [iLy](https://open.spotify.com/album/3fbsZjl86xqxaDmuXCDmV0) | 3:03 |
 
-Snapshot ID: `AAAAAJdB3VeaZwXYDS2YTp0DVx/WkEy6`
+Snapshot ID: `AAAAAGHL/Lcn3ZDCuo8qkR3iZgwjD1lb`

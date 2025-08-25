@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,307 songs - 2 day 17 hr 43 min
+1,308 songs - 2 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [BASKIN \(feat\. Ceza & Gazapizm\)](https://open.spotify.com/track/6Cccs46H9lvssHSKypNe3D) | [DJ Sivo](https://open.spotify.com/artist/6hBbagFZrwC44AclzbxWvU), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI), [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [Griot](https://open.spotify.com/album/0gFN1g60cmnD4HPFgujZVe) | 3:29 | 2021-07-11 | 2021-08-20 |
 | [Batık Gemi](https://open.spotify.com/track/00GZFsd16gSMedK2jHATQ4) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/4ugxmdGNXaqVHPuID09bs8) | 4:20 | 2023-12-16 | 2023-12-23 |
 | [Batık Gemi](https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 4:20 | 2023-12-22 | 2024-08-11 |
-| [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-18 |  |
+| [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-18 | 2025-08-25 |
 | [BAYBAY](https://open.spotify.com/track/2QYc9Z0vdqsDgcRKHvg9qR) | [revient](https://open.spotify.com/artist/518ZNbTEeb6RifRfWNQ224), [JSON](https://open.spotify.com/artist/5AQ95bS3im8uXwX56pGVC2) | [BAYBAY](https://open.spotify.com/album/39ijDsCEuVWnVSi8Rnb8U3) | 3:11 | 2023-03-19 | 2023-03-21 |
 | [Bağışla](https://open.spotify.com/track/43Kpm3kz8904r3DCvrCx5h) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Bağışla](https://open.spotify.com/album/2se3g3MA4orPR1OI5TjWOP) | 3:37 | 2025-01-10 | 2025-04-20 |
 | [Başa Sar](https://open.spotify.com/track/0oTjuMN99JNRIj2CUdT3g7) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Başa Sar](https://open.spotify.com/album/7reVX131NVuP74udQg1LPs) | 2:41 | 2021-04-13 | 2021-05-08 |
@@ -245,6 +245,7 @@
 | [Bir Şehri Sevmek](https://open.spotify.com/track/6jDRPXjvUv2N9ACBXR6sTh) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ozan Bayraşa](https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X), [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Bir Şehri Sevmek](https://open.spotify.com/album/4I9V8wfMcG9u2ZF4h7E4GC) | 3:15 | 2024-03-02 | 2024-03-10 |
 | [Birader](https://open.spotify.com/track/3MlvEOpAgoyTx3wIx3Qdbl) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Birader](https://open.spotify.com/album/7BkXqpxNDF88chpCD4OdOS) | 3:24 | 2022-04-08 | 2022-09-03 |
 | [Birtanem \- Night Club Mix](https://open.spotify.com/track/7tbD2Rl5Rxs7836NFZBQxM) | [Yaşar](https://open.spotify.com/artist/50AOA3aPd6tc928KEYaljF) | [Divane](https://open.spotify.com/album/07yiI9ScrZV7DXiObRz6Sp) | 3:22 | 2025-06-12 | 2025-06-23 |
+| [Bİ RÜYAYMIŞ](https://open.spotify.com/track/7FOZIuEo0JruWYzpovmlkN) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Bİ RÜYAYMIŞ](https://open.spotify.com/album/3WNeWneU5fYDv0jxJTNRt7) | 2:03 | 2025-08-24 |  |
 | [BİLDİRİMLER KAPALI](https://open.spotify.com/track/3Pyy3y16EesdzWOfVSQesl) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [BİLDİRİMLER KAPALI](https://open.spotify.com/album/77j2RhU8nPDGqfOzYxYVzA) | 2:32 | 2022-01-29 | 2022-01-31 |
 | [BİTMİYOR](https://open.spotify.com/track/4gqiqccm2NNQcdIUkEDEiM) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [BİTMİYOR](https://open.spotify.com/album/3iakmZwZXRumlipk4r5D1S) | 3:24 | 2025-01-22 | 2025-06-10 |
 | [Bla Bla Bla Bla](https://open.spotify.com/track/6fhcwrfGQCBT0VpbtjMRIm) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:39 | 2022-06-04 | 2022-06-17 |

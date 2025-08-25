@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "Cuentas",
+        "url": "https://open.spotify.com/album/3XAOrLINutXAkXdcyStfv0"
+      },
+      "artists": [
+        {
+          "name": "Obzesion",
+          "url": "https://open.spotify.com/artist/38b0HYhJsCesXvtdCbRCRS"
+        },
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168958,
+      "name": "Cuentas",
+      "url": "https://open.spotify.com/track/3xh8cHnjy5JJneaF46jCag"
+    },
+    {
+      "album": {
         "name": "Damas y Placeres",
         "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
       },

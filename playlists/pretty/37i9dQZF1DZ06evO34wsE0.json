@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 250798,
+  "num_followers": 250806,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACE++MzcqwiXKD4wQHUVwsE",
+  "snapshot_id": "aKkEgAAAAAAg2N1oi25CUfdB/5qlvxT/",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Red and Blue Versions)",
-        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 199466,
-      "name": "It Only Hurts When I'm Breathing - Red Version",
-      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 219693,
       "name": "Black Eyes, Blue Tears",
       "url": "https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Red and Blue Versions)",
+        "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 199466,
+      "name": "It Only Hurts When I'm Breathing - Red Version",
+      "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+        "name": "Queen Of Me",
+        "url": "https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 168933,
-      "name": "You Lay A Whole Lot Of Love On Me",
-      "url": "https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs"
+      "duration_ms": 159382,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7o8JK3VT39xu90cTJTV2uT"
     }
   ],
   "unique_name": "This Is Shania Twain",

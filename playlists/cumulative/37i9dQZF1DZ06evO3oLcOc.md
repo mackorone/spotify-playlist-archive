@@ -4,7 +4,7 @@
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 35 min
+110 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 | 2023-06-07 | 2023-09-19 |
 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:20 | 2023-09-18 |  |
 | [Comfortable \- Remix](https://open.spotify.com/track/5pkYVjstaM5ggccn417pzg) | [Behani](https://open.spotify.com/artist/7vvFgDuVPeMioTFO7acxy0), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Comfortable \(Remix\)](https://open.spotify.com/album/0boACLdefRAXstqsLWMAhT) | 2:49 | 2024-09-16 | 2024-11-06 |
+| [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 | 2025-08-25 |  |
 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 | 2023-06-07 | 2023-08-01 |
 | [Dennis Rodman \(feat\. Tyga\)](https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 3:18 | 2023-06-07 | 2023-09-19 |
 | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Desce Pro Play \(PA PA PA\)](https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV) | 2:48 | 2023-06-07 |  |
@@ -91,7 +92,7 @@
 | [Rubber Band Man](https://open.spotify.com/track/6D4HaQHb9fWjDn60o98rTO) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Hit Me When U Leave The Klub: The Playlist](https://open.spotify.com/album/46ewpqal8NF1SSkarlK7FZ) | 2:32 | 2023-11-10 | 2023-12-14 |
 | [Run \(feat\. Tyga, 21 Savage & BIA\)](https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Run](https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv) | 3:57 | 2023-06-07 | 2023-08-07 |
 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-03 | 2024-07-24 |
-| [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 | 2023-06-07 |  |
+| [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 | 2023-06-07 | 2025-08-25 |
 | [Skechers \(feat\. Tyga\) \- Remix](https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS) | [DripReport](https://open.spotify.com/artist/3O5HD95HTEPgoPFOjAb7yV), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Skechers \(feat\. Tyga\) \[Remix\]](https://open.spotify.com/album/4y9V5m70YgbZTYNZBsiXBM) | 2:43 | 2023-12-13 | 2024-07-15 |
 | [Slave](https://open.spotify.com/track/00EaMoyrJXANohlIJkSrqb) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Slave](https://open.spotify.com/album/4Amt9V6mNrtNv6DnEiuWTf) | 2:18 | 2024-12-08 | 2025-04-11 |
 | [soak city \(feat\. OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/1Drdj1A2fmtweiAZdpCF6c) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [nights and weekends](https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ) | 4:04 | 2025-02-15 |  |

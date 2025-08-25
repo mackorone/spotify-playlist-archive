@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 17858,
+  "num_followers": 17874,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAASGwmFj5j+S+82NF+gYA5C",
+  "snapshot_id": "aKkEgAAAAAB2A/gGfGD/isCwHldTNc+y",
   "tracks": [
     {
       "added_at": null,
@@ -555,30 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
-        "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Mariachi Sol De Mexico De Jose Hernandez",
-          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
-      "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico Mi Amor",
         "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 162146,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
+        "url": "https://open.spotify.com/album/7FfsjZ8fUGczsKen6ThyDV"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Mariachi Sol De Mexico De Jose Hernandez",
+          "url": "https://open.spotify.com/artist/0MnQvecFg1VbNkiFcPnsaG"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
+      "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tik Tik Tik",
-        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Tik Tik Tik",
-      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tu Lado (En Vivo)",
         "url": "https://open.spotify.com/album/4pYSMP0E5pP9Yd2kgJtZ44"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 293266,
       "name": "A Tu Lado - En Vivo",
       "url": "https://open.spotify.com/track/3mIHpW3Nqu8BAXJJlGdAvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tik Tik Tik",
+        "url": "https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Tik Tik Tik",
+      "url": "https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd"
     },
     {
       "added_at": null,

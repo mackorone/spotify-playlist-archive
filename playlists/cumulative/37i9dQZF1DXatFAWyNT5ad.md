@@ -4,7 +4,7 @@
 
 > Let's mix it.
 
-882 songs - 1 day 21 hr 19 min
+884 songs - 1 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,12 +197,13 @@
 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 | 2023-07-28 |  |
 | [Dance Of The Clairvoyants](https://open.spotify.com/track/3Y1q37A7ecFEdR5IAMWodA) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dance Of The Clairvoyants](https://open.spotify.com/album/2J2ZoKPtJneBtFoSkl8yJy) | 4:25 | 2022-03-24 | 2022-04-21 |
 | [Dancing in the Mirror](https://open.spotify.com/track/4h0lirk2bZfueiTWUQ0UYh) | [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Dancing in the Mirror](https://open.spotify.com/album/2LXpyMZDLUB9IcrIhHWWBB) | 3:04 | 2022-03-24 | 2022-04-21 |
+| [Dark Blue \(Strings Attached Version\)](https://open.spotify.com/track/5449HN9URNirAUgZKMDpgF) | [Jack's Mannequin](https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD) | [Everything In Transit: Strings Attached](https://open.spotify.com/album/7JJXHjsryD8ZX05Wub4OnE) | 4:21 | 2025-08-22 |  |
 | [Daughter of the Night](https://open.spotify.com/track/17rEsItWTUyfOQ0eOwIVjb) | [Kelsy Karter & The Heroines](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Love Made Me Do It](https://open.spotify.com/album/3OguoIAR3We4ayjdap0Ri1) | 3:01 | 2025-02-04 |  |
 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 | 2023-10-06 |  |
 | [Daydream](https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Daydream](https://open.spotify.com/album/1FsnruavnbrVGEesSSiKEE) | 2:30 | 2022-03-24 | 2022-04-20 |
 | [Daydreams](https://open.spotify.com/track/7d0zWiniNwO2Bsex8jRDYa) | [Walden](https://open.spotify.com/artist/7IspetvXSZ5EjAymJEGJTF) | [Daydreams](https://open.spotify.com/album/1j79OR9z9uQarwcxPOBTcw) | 3:52 | 2022-03-24 | 2022-04-15 |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-26 |  |
-| [Dead To Me](https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Dead To Me](https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H) | 2:37 | 2024-04-19 |  |
+| [Dead To Me](https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Dead To Me](https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H) | 2:37 | 2024-04-19 | 2025-08-25 |
 | [Death Grip](https://open.spotify.com/track/6uU6HSA2QLqNy6OIyaCbkb) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM), [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Death Grip](https://open.spotify.com/album/1J71Jvi9ZrCg1prlKhtMOI) | 3:11 | 2024-06-21 |  |
 | [death wish](https://open.spotify.com/track/5YOPTy4ENCgM0JZnJrkXXF) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [death wish](https://open.spotify.com/album/17QnupwzhTXpi5H00qtPvE) | 3:17 | 2022-03-17 | 2022-07-28 |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-03-24 | 2023-05-06 |
@@ -352,6 +353,7 @@
 | [Habitual](https://open.spotify.com/track/5q8dOqEprhcGuQorkRIWXZ) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Retrovision](https://open.spotify.com/album/4IiWkF0yCGFHGudJ98hV7f) | 2:45 | 2023-07-28 | 2024-04-20 |
 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 | 2023-05-05 | 2025-02-15 |
 | [Half Your Age](https://open.spotify.com/track/0yTlrnue3pJTJd7h7d43mk) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Half Your Age](https://open.spotify.com/album/6iOJJNrHS1pPSPjcTQC3Xr) | 3:29 | 2022-03-24 | 2022-04-07 |
+| [Hangman](https://open.spotify.com/track/7vzKoO0kUTgtlz8JZAW3EB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Hangman](https://open.spotify.com/album/4O0Qhuvq81QyLuM1lwQmjz) | 3:00 | 2025-08-22 |  |
 | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/0UNDrAptMY5glGrcdr93Kx) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Happier \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/album/4Xkn1QDxrQQAp1IiK94PcV) | 3:24 | 2023-11-17 |  |
 | [Happy](https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Happy](https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2) | 2:42 | 2024-02-20 | 2025-08-10 |
 | [Happy Again](https://open.spotify.com/track/6wSXqExVRDg4BgJf7zooC4) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Happy Again](https://open.spotify.com/album/0hcoDAsIEi5LIVe5AKNJ6b) | 3:17 | 2023-03-24 | 2024-04-21 |
@@ -541,7 +543,7 @@
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-25 |  |
 | [Moderation](https://open.spotify.com/track/72S5jajFBvcVzkiPBjn680) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Moderation](https://open.spotify.com/album/7H6kvlUzMf4bOfZXYySE6U) | 2:17 | 2022-03-17 | 2023-05-23 |
 | [Moments](https://open.spotify.com/track/1jQl9VPQjB3FsEQAUnPgWU) | [Carpark North](https://open.spotify.com/artist/6v8pFbihIDnlV6freVYMmZ) | [Moments](https://open.spotify.com/album/70IiZhyldR4WR88Nyudi3P) | 3:35 | 2022-03-24 | 2022-04-21 |
-| [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-23 |  |
+| [Mona Lisa On A Mattress](https://open.spotify.com/track/29Q5VwxDRc00hgwPpHzFKV) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Mona Lisa On A Mattress](https://open.spotify.com/album/0jT4krLJjbFjxhSPEd6ru3) | 2:49 | 2024-08-23 | 2025-08-25 |
 | [Moneymaker](https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Moneymaker](https://open.spotify.com/album/1K8g8sM4GzVOWBfYrlh41Y) | 2:17 | 2024-03-08 | 2025-08-16 |
 | [Monica Lewinsky](https://open.spotify.com/track/5pz38Kxq8O8fnCY7PAWkoQ) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Monica Lewinsky](https://open.spotify.com/album/6tXPymDqi4qhgSo9topFTt) | 2:12 | 2022-05-20 | 2022-06-17 |
 | [Monster](https://open.spotify.com/track/6Wl7eKrZdQtobWOYbLI47J) | [Casey Lowry](https://open.spotify.com/artist/6g01TPprAdALKCjAwBYPH1) | [Nervous](https://open.spotify.com/album/7gK6jXAO3V7f3nDcQM2Wlf) | 3:01 | 2022-03-24 | 2022-04-18 |

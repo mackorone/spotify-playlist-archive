@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-122 songs - 6 hr 51 min
+125 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Billy Not Really](https://open.spotify.com/track/6dxm3Z8U4lOJTWo6cGVDCR) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Powers That B](https://open.spotify.com/album/5Y04ylQjDWsawOUJXzY4YO) | 3:48 | 2025-03-10 |  |
 | [black samuarai.](https://open.spotify.com/track/16JrfiRjHTFahRTV6fPKqQ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 2:54 | 2025-05-02 |  |
 | [BLOOD.](https://open.spotify.com/track/1n4jwRVXdkK2U34nBDUKKT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 1:58 | 2025-04-21 |  |
+| [BMF](https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 3:00 | 2025-08-24 |  |
 | [Breathe In Breathe Out](https://open.spotify.com/track/4KFY4EEv9CN6ivrzD6vEvg) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 4:06 | 2025-08-16 |  |
 | [Caskets](https://open.spotify.com/track/17vv44Grd1z9E78FkUoSsG) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 4:51 | 2025-02-05 |  |
 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 | 2025-03-22 | 2025-05-06 |
@@ -37,6 +38,7 @@
 | [Deep Fried Frenz](https://open.spotify.com/track/4q71zOiiFoDaVQCQcE6jcp) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 4:59 | 2025-04-21 |  |
 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 | 2023-10-05 |  |
 | [Drink N Dance](https://open.spotify.com/track/0SdpzQRdK8BdSV57rn6AZZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:40 | 2025-02-16 | 2025-05-29 |
+| [Drive](https://open.spotify.com/track/2xCb1jIzhLMm8DYcAVK6UY) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/1Q5WON8dw2JFLP5JVQXu1e) | 3:05 | 2025-08-24 |  |
 | [DUCKWORTH.](https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:08 | 2025-07-30 |  |
 | [E\. Coli \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/3GXSywNvYLAVUCtjMHkKDh) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Bread](https://open.spotify.com/album/6HB5Nq7lSjvTs3gJom6BXI) | 2:12 | 2025-02-05 |  |
 | [Eh](https://open.spotify.com/track/5pNYiMbnXm7UkewX2KhmyK) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [Bottomless Pit](https://open.spotify.com/album/4dIPUQHheyH9e6ioplvNT2) | 2:52 | 2025-03-10 |  |
@@ -107,6 +109,7 @@
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2025-07-14 |  |
 | [Sentry \(feat\. MIKE\)](https://open.spotify.com/track/48gtujiZ77wSZ29aWZe84V) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:16 | 2025-02-06 |  |
 | [Shattered Dreams](https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 2:21 | 2025-02-06 | 2025-04-21 |
+| [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2025-08-24 |  |
 | [So Alone](https://open.spotify.com/track/7ipXhX6JfiiTsWsG4nS7Xr) | [Nehruviandoom](https://open.spotify.com/artist/0ZWQOiDsRVjQXoSljCxraD) | [NEHRUVIANDOOM](https://open.spotify.com/album/152CETYdkMTfchUyFtCDZu) | 2:37 | 2025-02-06 |  |
 | [Sofa King](https://open.spotify.com/track/3bPqgo3RO3ZESEpyCdNsnr) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 2:57 | 2025-03-04 |  |
 | [Space Hos](https://open.spotify.com/track/3VSnfhbaNKZzvmNQilWcZ6) | [DANGERDOOM](https://open.spotify.com/artist/0b3fYxnG6tlR0zLtBJd8DF), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [THE MOUSE & THE MASK](https://open.spotify.com/album/6TgkNOiJxeSkVVbXV720B1) | 3:29 | 2025-03-04 |  |

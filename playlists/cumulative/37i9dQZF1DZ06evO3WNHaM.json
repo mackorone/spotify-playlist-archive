@@ -1168,7 +1168,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 370020,
       "name": "souvenir",
       "url": "https://open.spotify.com/track/3NiHREOAU07SizAdSTMOFX"
@@ -1262,6 +1262,24 @@
       "duration_ms": 211146,
       "name": "You've Seen the Butcher",
       "url": "https://open.spotify.com/track/0oHj2DHtNVWEgBqOa1bejc"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182828,
+      "name": "~metal dream",
+      "url": "https://open.spotify.com/track/1HuuFLjgjIfzMFgGuZjv4Z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WNHaM"

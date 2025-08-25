@@ -1,6 +1,6 @@
 {
   "description": "This week's best new <a href=\"spotify:genre:edm_dance\">dance and electronic releases</a> from ANOTR,  Sammy Virji + Chris Lake, Flume, & more!",
-  "num_followers": 539723,
+  "num_followers": 539742,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -2553,30 +2553,6 @@
       "url": "https://open.spotify.com/track/6VuhTKDDOfRDySMag7Rr96"
     },
     {
-      "added_at": "2025-08-22 04:00:20",
-      "album": {
-        "name": "Kiveti (Tefo Foxx Remix)",
-        "url": "https://open.spotify.com/album/3qFoGXCg0q7l99LJkHUJyD"
-      },
-      "artists": [
-        {
-          "name": "Native P.",
-          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        },
-        {
-          "name": "Tefo Foxx",
-          "url": "https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh"
-        }
-      ],
-      "duration_ms": 262531,
-      "name": "Kiveti - Tefo Foxx Remix",
-      "url": "https://open.spotify.com/track/1elJM7cko9obdm2ZwNXqCd"
-    },
-    {
       "added_at": "2025-08-22 19:50:56",
       "album": {
         "name": "Party Sober",
@@ -2599,6 +2575,30 @@
       "duration_ms": 221653,
       "name": "Party Sober",
       "url": "https://open.spotify.com/track/17t4JqO8MOdvKd17yPhlSE"
+    },
+    {
+      "added_at": "2025-08-22 04:00:20",
+      "album": {
+        "name": "Kiveti (Tefo Foxx Remix)",
+        "url": "https://open.spotify.com/album/3qFoGXCg0q7l99LJkHUJyD"
+      },
+      "artists": [
+        {
+          "name": "Native P.",
+          "url": "https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Tefo Foxx",
+          "url": "https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh"
+        }
+      ],
+      "duration_ms": 262531,
+      "name": "Kiveti - Tefo Foxx Remix",
+      "url": "https://open.spotify.com/track/1elJM7cko9obdm2ZwNXqCd"
     }
   ],
   "unique_name": "All New Dance",

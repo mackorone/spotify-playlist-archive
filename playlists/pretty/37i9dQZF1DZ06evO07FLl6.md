@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 
 > This is Miles Davis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,336 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,333 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl6.md) - [plain]
 | 49 | [Get On \- Sentient Version](https://open.spotify.com/track/2CFOwoetNMZ83IN8oJIatO) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Paolo Rustichelli](https://open.spotify.com/artist/7wYQ8tcOhI6j5UxejVnOuD) | [Sentient](https://open.spotify.com/album/5S2j2NLZrW2MzY5bj7YvZY) | 4:05 |
 | 50 | [My Funny Valentine \- Remastered](https://open.spotify.com/track/6zbHM6vwsLgUe9t2luekJj) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [The Only One and Fantastic..\. Miles Davis \(Remastered\)](https://open.spotify.com/album/2YbApvKnTuUh6izzrgG0h6) | 5:57 |
 
-Snapshot ID: `aKezAAAAAADUztLUDEOeynygxJVTh2zW`
+Snapshot ID: `aKkEgAAAAAAnpO/cw4gv+MTS3VIGXfag`

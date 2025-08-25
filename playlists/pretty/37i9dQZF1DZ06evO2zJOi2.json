@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 722914,
+  "num_followers": 723151,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABqeMPob10O3crRSD2uQ2qk",
+  "snapshot_id": "aKkEgAAAAACaBeEc71jZdXwyIBRacxjI",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 185138,
-      "name": "TN",
-      "url": "https://open.spotify.com/track/7lq4b3sYM9cYSnCMxCafKe"
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/5mAGsieQbw180sYdL3RMKk"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "This Bar",
+      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Know Me",
         "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 197253,
       "name": "Up Down (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/2RfYofkWwN77WJjR1rpena"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/3CoVYVQdyWAVkI0LRdxKRZ"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "This Bar",
-      "url": "https://open.spotify.com/track/1ltyaGgSDbnvBSvATZ2J1v"
     },
     {
       "added_at": null,

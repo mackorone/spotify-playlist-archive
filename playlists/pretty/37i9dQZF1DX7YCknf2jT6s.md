@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Pino Palladino & Blake Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,556 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,543 likes - 100 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 2 | [Humble Magic \(feat\. Trombone Shorty\)](https://open.spotify.com/track/4DVZ3uXWQwaJcTnnfGoNVf) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Humble Magic, Vol\. 1](https://open.spotify.com/album/6bM1rkXosXS8eTskGnonY0) | 5:28 |
 | 3 | [Away](https://open.spotify.com/track/1Rzz5Oo9yowqNcAWmEIj38) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Away](https://open.spotify.com/album/0K5Di4MYfcuJHuQtpst26t) | 3:19 |
 | 4 | [Shared Stories of Rivals II](https://open.spotify.com/track/1Xx70YYSc3RNGIXsBTVtet) | [Chief Adjuah](https://open.spotify.com/artist/6bUn0KZqvqp4Ep0Lj9ihM1) | [Shared Stories of Rivals II](https://open.spotify.com/album/5fpyfXxzsIAgM9PmRu7kJ3) | 5:24 |
-| 5 | [Illustration of Agitation](https://open.spotify.com/track/7liwz4Ow5bKU8K44kmwMu0) | [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Way out West](https://open.spotify.com/album/7yJQ95dteUprEQuLkSISbo) | 3:28 |
+| 5 | [Illustration of Agitation](https://open.spotify.com/track/7liwz4Ow5bKU8K44kmwMu0) | [Woody Jackson](https://open.spotify.com/artist/6VYtpsmVgSqOFf3ttfqnVX) | [Way Out West](https://open.spotify.com/album/7yJQ95dteUprEQuLkSISbo) | 3:28 |
 | 6 | [Figure In Blue, memories of Duke](https://open.spotify.com/track/1Va193NLv7i6UA9aGvVkYV) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Figure In Blue, memories of Duke](https://open.spotify.com/album/0PDj0RSnbT8qdgwvSZsBFb) | 7:13 |
 | 7 | [Verdadeiro Sentimento](https://open.spotify.com/track/5qZmEGqFlumW7mtMFw0kcx) | [Carlos Dafé](https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Verdadeiro Sentimento](https://open.spotify.com/album/1s8b8LHGtqDRMeZGTCZcVY) | 3:31 |
 | 8 | [Rediscovery](https://open.spotify.com/track/03TAdY8JtsBzNEwXk3ogX7) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Rediscovery](https://open.spotify.com/album/5RQharMeQ0J23ZUNRYkUvL) | 4:22 |

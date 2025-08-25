@@ -884,6 +884,24 @@
     {
       "album": {
         "name": "New Chic",
+        "url": "https://open.spotify.com/album/6Ihk1ZxI4q045l0qLo9uo8"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179070,
+      "name": "New Chic",
+      "url": "https://open.spotify.com/track/4V69w339JdXeJqkxzhvhhY"
+    },
+    {
+      "album": {
+        "name": "New Chic",
         "url": "https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy"
       },
       "artists": [
@@ -894,7 +912,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 179070,
       "name": "New Chic",
       "url": "https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y"

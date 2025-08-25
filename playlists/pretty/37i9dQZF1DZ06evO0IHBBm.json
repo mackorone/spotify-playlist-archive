@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31059,
+  "num_followers": 31058,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABalh0JpGVFfYXXEZbOB5EC",
+  "snapshot_id": "aKkEgAAAAABv5WpN5Pss27dzelpxcWpc",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         },
         {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 297058,
-      "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
-      "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
+      "duration_ms": 278000,
+      "name": "Tudo Isso Vai Passar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
       },
       "artists": [
         {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Tudo Isso Vai Passar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5VW9A5WyBDcWcGIpggzuA6"
+      "duration_ms": 297058,
+      "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
+      "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
     },
     {
       "added_at": null,

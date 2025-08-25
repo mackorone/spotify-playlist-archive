@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 12 min
+72 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Celebrate \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7uxbabRF4omY1MhmIgaZ6Y) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 3:12 | 2024-09-07 |  |
 | [Come Thru](https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Come Thru](https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X) | 4:00 | 2024-09-07 |  |
 | [Daddy](https://open.spotify.com/track/2UDvJRFkOFCXbsnf9CsMbe) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Summer Sampler](https://open.spotify.com/album/236GZxcyha7tPOExcuFFBK) | 3:59 | 2024-09-07 |  |
-| [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 | 2024-09-07 |  |
+| [Daily Bread](https://open.spotify.com/track/2q8w0FVUapLrSuOMtZ5Evh) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Daily Bread](https://open.spotify.com/album/2AzQFWR0a5KE3ZpI1rfPvq) | 2:51 | 2024-09-07 | 2025-08-25 |
 | [Dark Shades](https://open.spotify.com/track/196ikT8qi1dsuhfG9Hmejf) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula \- Reloaded](https://open.spotify.com/album/3d6AohullgUBSkExjKWHf0) | 2:15 | 2024-09-11 | 2024-09-14 |
 | [Differences](https://open.spotify.com/track/19hXBFseJdqMKlNwFwZ8AC) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:57 | 2025-03-23 |  |
 | [Differences](https://open.spotify.com/track/7sqH8Bncc1UFyhgPwVPnIb) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In \- Reloaded](https://open.spotify.com/album/7HXAggzDfYkYdZoc7sUjcd) | 3:57 | 2024-09-07 | 2025-03-23 |
@@ -54,6 +54,7 @@
 | [Never Made Love \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/7MmJgTnnl1Rgeu1PlYBx52) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Slime Season 2](https://open.spotify.com/album/4N6sTUH8VjSMJrMLseaNWz) | 4:36 | 2024-12-27 |  |
 | [New Atlanta \(feat\. Rich Homie Quan, Young Thug, Jermain Dupri\)](https://open.spotify.com/track/2X9QYkO7p7M6AMag1eupdR) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 4:40 | 2024-09-07 | 2024-09-21 |
 | [No Way](https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 4:41 | 2024-09-07 |  |
+| [One of Quan](https://open.spotify.com/track/6p6pqAuoA9xDuyenxpzojG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/41w5rKjLxKI735hBuQ8RAs) | 3:08 | 2025-08-25 |  |
 | [One of Quan](https://open.spotify.com/track/70SqOG5NhnhH5HJQCgqTUO) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 3:08 | 2024-10-09 | 2025-04-21 |
 | [Private Room](https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Tony Michael](https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Private Room \(feat\. Rich Homie Quan\) \- Single](https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ) | 3:17 | 2024-09-07 |  |
 | [RedBone](https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 4:13 | 2024-10-03 |  |

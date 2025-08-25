@@ -10423,6 +10423,32 @@
     },
     {
       "album": {
+        "name": "Eu T\u00f4 Fazendo uma M\u00e1gica",
+        "url": "https://open.spotify.com/album/5lOW4YHylAtV72h5dpmjdu"
+      },
+      "artists": [
+        {
+          "name": "Gordinho Bolado",
+          "url": "https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77"
+        },
+        {
+          "name": "Felipe Original",
+          "url": "https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi"
+        },
+        {
+          "name": "Bolado na Base",
+          "url": "https://open.spotify.com/artist/2RL3LwofYTX5hz0xZjnVXP"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151270,
+      "name": "Eu T\u00f4 Fazendo uma M\u00e1gica",
+      "url": "https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz"
+    },
+    {
+      "album": {
         "name": "euphoria",
         "url": "https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN"
       },
@@ -14658,7 +14684,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -26728,6 +26754,24 @@
     {
       "album": {
         "name": "SETEADORA",
+        "url": "https://open.spotify.com/album/2hggjr2zzxII9TYGL5sS60"
+      },
+      "artists": [
+        {
+          "name": "LAJA",
+          "url": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137012,
+      "name": "SETEADORA",
+      "url": "https://open.spotify.com/track/33YJrpYKyng8yWSdsrRF7L"
+    },
+    {
+      "album": {
+        "name": "SETEADORA",
         "url": "https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq"
       },
       "artists": [
@@ -26738,7 +26782,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 137012,
       "name": "SETEADORA",
       "url": "https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J"

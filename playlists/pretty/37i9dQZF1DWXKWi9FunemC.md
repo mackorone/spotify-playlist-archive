@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,608 likes - 150 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,720 likes - 150 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 131 | [Something More](https://open.spotify.com/track/5Zd5tcPT5fm3BXpitpi05s) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Something More](https://open.spotify.com/album/3cNNhQQsOEaM7hF7iKLgw4) | 3:38 |
 | 132 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
 | 133 | [how great thou art](https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R) | [Andrew Osenga](https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4) | [25th floor of a reservation casino](https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF) | 4:32 |
-| 134 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 |
-| 135 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 |
+| 134 | [You Are God, Be Glorified](https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr) | [Danny O'Callaghan](https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj) | [You Are God, Be Glorified](https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb) | 4:27 |
+| 135 | [Christ Be In My Heart](https://open.spotify.com/track/32JyRObJ2CHIa3DBveoHLH) | [Sam McCabe](https://open.spotify.com/artist/4a2FGrms04r82vmfpN3iij), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Christ Be In My Heart](https://open.spotify.com/album/5pS5ILMbBzeVWrIXc5VP8L) | 4:48 |
 | 136 | [On Christ \(House Church\)](https://open.spotify.com/track/7cLvP0zD6nwFhdaxBfpIk9) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [On Christ \(House Church\)](https://open.spotify.com/album/44eE0gE1CPQpBKeAscz6Tw) | 4:24 |
 | 137 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
 | 138 | [ILY](https://open.spotify.com/track/4ApkZY3507VSE1ZXrVO9oT) | [Tommy Iceland](https://open.spotify.com/artist/74sn7pCztQtjNGeaIoRPtU) | [ILY](https://open.spotify.com/album/3nSpXaQTtT0JMU6JRT0J05) | 2:13 |

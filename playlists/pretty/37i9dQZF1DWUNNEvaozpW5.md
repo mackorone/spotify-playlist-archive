@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como La Fuga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,528 likes - 120 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,484 likes - 120 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

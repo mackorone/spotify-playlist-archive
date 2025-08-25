@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 209011,
+  "num_followers": 209009,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACZ0jBOFo39iwDxro3fi2+A",
+  "snapshot_id": "aKkEgAAAAABJM+tvRSU4/cD2cOln9uXV",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O MENINO QUE QUERIA SER DEUS",
+        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 212170,
+      "name": "CAN\u00c7\u00c3O PRO MEU FILHO",
+      "url": "https://open.spotify.com/track/7Duqg6O18CTST0bJX3RQWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 222280,
       "name": "Castelo de Areia",
       "url": "https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "url": "https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 212170,
-      "name": "CAN\u00c7\u00c3O PRO MEU FILHO",
-      "url": "https://open.spotify.com/track/7Duqg6O18CTST0bJX3RQWQ"
     },
     {
       "added_at": null,

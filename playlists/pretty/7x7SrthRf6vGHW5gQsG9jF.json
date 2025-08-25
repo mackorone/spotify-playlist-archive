@@ -6,7 +6,7 @@
     "name": "dio",
     "url": "https://open.spotify.com/user/1ph1ewkwxtpfwzf6jygqxad1i"
   },
-  "snapshot_id": "AAAFaSZRRM26uJwaa0coMawIVtfG9zjV",
+  "snapshot_id": "AAAFboDzOaWQueue8K+tbqhYWjlwvkR3",
   "tracks": [
     {
       "added_at": "2023-10-19 14:38:14",
@@ -12913,22 +12913,6 @@
       "url": "https://open.spotify.com/track/3wJNSzdInoRvl5rJ18fVLR"
     },
     {
-      "added_at": "2024-12-05 11:56:56",
-      "album": {
-        "name": "kachi mamire",
-        "url": "https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW"
-      },
-      "artists": [
-        {
-          "name": "Ze",
-          "url": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "greed - Instrumental",
-      "url": "https://open.spotify.com/track/7rIVAacGusNbgEhFPeLT9l"
-    },
-    {
       "added_at": "2024-12-05 12:09:55",
       "album": {
         "name": "HAKATOMO",
@@ -12979,26 +12963,6 @@
       "duration_ms": 210000,
       "name": "M\u014c-MO-KU",
       "url": "https://open.spotify.com/track/09roQtP6TDLn94xMMXaMYk"
-    },
-    {
-      "added_at": "2024-12-13 03:36:51",
-      "album": {
-        "name": "\u4e00\u4e16\u98a8\u9761",
-        "url": "https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u8b5c",
-          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
-        },
-        {
-          "name": "Hoshimachi Suisei",
-          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
-        }
-      ],
-      "duration_ms": 191733,
-      "name": "\u4e00\u4e16\u98a8\u9761",
-      "url": "https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW"
     },
     {
       "added_at": "2024-12-22 16:52:55",
@@ -15051,6 +15015,58 @@
       "duration_ms": 158500,
       "name": "Shirley",
       "url": "https://open.spotify.com/track/562R2Qhkk98stqCUsQV8EB"
+    },
+    {
+      "added_at": "2025-08-24 18:47:24",
+      "album": {
+        "name": "TulPa",
+        "url": "https://open.spotify.com/album/0j1o5aEIPecvVAyIsAZHo3"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hsiao",
+          "url": "https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "TulPa",
+      "url": "https://open.spotify.com/track/2zSLpjKzviAO09AWgBRZD7"
+    },
+    {
+      "added_at": "2025-08-24 18:47:40",
+      "album": {
+        "name": "\u5982\u679c\u6211\u4e5f\u80fd\u611b\u4e0a\u9019\u500b\u4e16\u754c\u90a3\u5c31\u597d\u4e86",
+        "url": "https://open.spotify.com/album/3nyQSAuzDWCn74FFSe0hFn"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hsiao",
+          "url": "https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia"
+        }
+      ],
+      "duration_ms": 250105,
+      "name": "\u5982\u679c\u6211\u4e5f\u80fd\u611b\u4e0a\u9019\u500b\u4e16\u754c\u90a3\u5c31\u597d\u4e86",
+      "url": "https://open.spotify.com/track/3BlLqDMNvSIvLvUuv2yGpT"
+    },
+    {
+      "added_at": "2025-08-24 19:13:18",
+      "album": {
+        "name": "kachi mamire",
+        "url": "https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW"
+      },
+      "artists": [
+        {
+          "name": "Ze",
+          "url": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
+        },
+        {
+          "name": "KOEDA",
+          "url": "https://open.spotify.com/artist/6drKzR8msTvMFqwzcKUWyF"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "greed (feat. Koeda)",
+      "url": "https://open.spotify.com/track/1v8gcuRYtwh0pHITfbVI2o"
     }
   ],
   "unique_name": "japan",

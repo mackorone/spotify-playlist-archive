@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Scott Evans x Rehmahz
 
-1,224 songs - 2 day 18 hr 3 min
+1,225 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [No Be Small Thing \(NBST\)](https://open.spotify.com/track/2BUTKXCwPMKgnA750CEsbK) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [No Be Small Thing \(NBST\)](https://open.spotify.com/album/6JvtgUbwHF2tKlWxxOslkB) | 3:09 | 2024-01-26 | 2024-02-23 |
 | [No Be Your Mate](https://open.spotify.com/track/5uTwH5K8MDtCWrWyZe0Jfm) | [De\-Ola](https://open.spotify.com/artist/4DLgeYOFCpK8Eo27gVdhhy), [Agent Snypa](https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [No Be Your Mate](https://open.spotify.com/album/6fszLTs3Hu9WCXaGPXqqev) | 4:06 | 2024-06-07 | 2024-07-27 |
 | [No Distractions](https://open.spotify.com/track/4Lb7GCURnLKzLllifdE5DI) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [No Distractions](https://open.spotify.com/album/2otbsOuVe9QSa1ydGLHpEH) | 2:56 | 2024-08-16 | 2024-09-27 |
+| [No Escape](https://open.spotify.com/track/7isRXcjiOCqwM24s9rEeFe) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [No Escape](https://open.spotify.com/album/2hz6ssT01FHOrHK3318jh4) | 2:41 | 2025-08-24 |  |
 | [No Greater Love](https://open.spotify.com/track/03RrQuBjBUuSDsYFLzv0tX) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [No Greater Love](https://open.spotify.com/album/0QOPcLOzyKusIibJ3l7KlQ) | 3:24 | 2025-04-19 | 2025-05-02 |
 | [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 | 2024-08-23 | 2025-03-28 |
 | [No Holiday](https://open.spotify.com/track/1jKUNqbrslxUJ1aNIyPFxA) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [METANOIA](https://open.spotify.com/album/6DZgMfVrDgyAKdvTHsMEUH) | 2:32 | 2025-04-11 | 2025-06-06 |
@@ -1190,7 +1191,7 @@
 | [YHWH](https://open.spotify.com/track/56POh3uI9bPlFjkBVmnquW) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [YHWH](https://open.spotify.com/album/13TTcQfEUBrC6wCO41qDLV) | 2:02 | 2024-11-15 | 2024-12-27 |
 | [YHWH \(Yahweh\)](https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [YHWH \(Yahweh\)](https://open.spotify.com/album/1zyNau9ajBHupq144myNG7) | 2:28 | 2024-09-06 | 2024-11-15 |
 | [Yield](https://open.spotify.com/track/7od8yfgeek0bgg349QrybQ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Yield](https://open.spotify.com/album/1BCCh3sxzfuSAEx7noSaLX) | 2:52 | 2024-11-15 | 2025-01-03 |
-| [You](https://open.spotify.com/track/6kG2ntaZOpL797wjs5UUjF) | [Freyama Asham](https://open.spotify.com/artist/5Ob7esJzcooLYAE6CdFa9p) | [You](https://open.spotify.com/album/67TfJVlQ7YrCZUI3ZtbCFg) | 3:09 | 2025-06-27 |  |
+| [You](https://open.spotify.com/track/6kG2ntaZOpL797wjs5UUjF) | [Freyama Asham](https://open.spotify.com/artist/5Ob7esJzcooLYAE6CdFa9p) | [You](https://open.spotify.com/album/67TfJVlQ7YrCZUI3ZtbCFg) | 3:09 | 2025-06-27 | 2025-08-25 |
 | [You](https://open.spotify.com/track/4jP9BprqNUmsG7xnb0tyHC) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Spirit & Life Collective](https://open.spotify.com/artist/0hplB8E1h8iFQvA949bI2q) | [You](https://open.spotify.com/album/5yveYWC5QD8qO0fYR5MPS1) | 2:23 | 2024-10-18 | 2024-11-15 |
 | [You](https://open.spotify.com/track/2Q6WliuKomF2fN9ZkVhrdh) | [Wiffi Drips](https://open.spotify.com/artist/0t33ew007YWe1ufwvV1yX7), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [You](https://open.spotify.com/album/51NwLDEhcBwt9dYWN07i8T) | 3:15 | 2023-06-23 | 2023-07-07 |
 | [You & I](https://open.spotify.com/track/3UlWPQHAlgn62eZUuiMaNB) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [You & I](https://open.spotify.com/album/3c1EAtqsXXiKpBRHJ9pdjh) | 2:27 | 2024-10-25 | 2024-11-16 |

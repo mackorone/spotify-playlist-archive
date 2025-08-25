@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,375 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,565 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 87 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
 | 88 | [Rulay](https://open.spotify.com/track/38gBBDbIi41rYkZZrwD1cw) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt), [Mydoz](https://open.spotify.com/artist/0U1dlnhyX0WtKuJqPbNeXb), [Zairah](https://open.spotify.com/artist/6zM7zqk0dutYW0BbtnaD8b) | [Rulay](https://open.spotify.com/album/1kEPi6brGvWW5y2ryQPwgN) | 2:45 |
 | 89 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
-| 90 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
-| 91 | [Al Ritmo](https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Al Ritmo](https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY) | 3:19 |
+| 90 | [Al Ritmo](https://open.spotify.com/track/6SCzCASlPjjoMifPZlxfpL) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Allan Piziano](https://open.spotify.com/artist/5OfRvW5SYGif5Q8LrklFjV) | [Al Ritmo](https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY) | 3:19 |
+| 91 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
 | 92 | [Wataki](https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu) | [Wataki](https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU) | 3:38 |
 | 93 | [El Baile](https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [Fonsa](https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU) | [El Baile](https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM) | 2:54 |
 | 94 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 |
-| 95 | [HER NAME IS JUANA](https://open.spotify.com/track/1G7W43KfjMY8nl0N8t68WF) | [FLAKO STIK](https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff) | [HER NAME IS JUANA](https://open.spotify.com/album/37pTwGQwsoSHEBrauJMVcq) | 3:45 |
-| 96 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 |
-| 97 | [Muévete](https://open.spotify.com/track/4K1RBpUlnpZkNZjNu8ixAZ) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [En Color](https://open.spotify.com/album/39OFnvsH9sXnFjfFVuPWR7) | 2:03 |
+| 95 | [Magalenha](https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx) | [Magalenha](https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K) | 2:35 |
+| 96 | [HER NAME IS JUANA](https://open.spotify.com/track/1G7W43KfjMY8nl0N8t68WF) | [FLAKO STIK](https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff) | [HER NAME IS JUANA](https://open.spotify.com/album/37pTwGQwsoSHEBrauJMVcq) | 3:45 |
+| 97 | [O Cajado](https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Aycond](https://open.spotify.com/artist/1ACtC12c3ceV8I49mlX4YO) | [O Cajado](https://open.spotify.com/album/6ltI3dn0un01Y9qS6NxAX9) | 3:13 |
 | 98 | [Fuego](https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Morry](https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u) | [Fuego](https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a) | 2:00 |
-| 99 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
-| 100 | [Bololo](https://open.spotify.com/track/4op2ZW6vThbjHQsuF98pZh) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Bololo](https://open.spotify.com/album/3lAXuWE03SI0lL0n0Y6fnV) | 2:57 |
+| 99 | [Muévete](https://open.spotify.com/track/4K1RBpUlnpZkNZjNu8ixAZ) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [En Color](https://open.spotify.com/album/39OFnvsH9sXnFjfFVuPWR7) | 2:03 |
+| 100 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 |
 
 Snapshot ID: `AAAAANTcVA86PbFfGR6511K4FuXMwxKH`

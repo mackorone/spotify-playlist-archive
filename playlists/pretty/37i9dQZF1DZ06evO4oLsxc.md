@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 778 likes - 37 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 779 likes - 37 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 20 | [Artist of the Century](https://open.spotify.com/track/0IRtsYqlZrATSdxuRS90Ip) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Showbiz!](https://open.spotify.com/album/3M1PhSsHmAlh79bAz9jBZs) | 2:53 |
 | 21 | [U think Maybe? \(feat\. Liv.e and Venna\)](https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 2:29 |
 | 22 | [Tam Tam](https://open.spotify.com/track/7FSDdDPjsoZKdTXDyK8vm6) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Tam Tam](https://open.spotify.com/album/0RICZt0FIkBcLYZ9Z9Mqhx) | 3:32 |
-| 23 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 |
-| 24 | [Aroma](https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 2:24 |
-| 25 | [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 |
+| 23 | [so simple](https://open.spotify.com/track/6cxiPW3AEDukD6zBwlyRw5) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [nag champa](https://open.spotify.com/album/5l8rGjeehGlrv6nxrRAvkj) | 2:52 |
+| 24 | [Hizuki](https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 4:10 |
+| 25 | [Aroma](https://open.spotify.com/track/7yS7PlmXpEQGGcJInMMuow) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 2:24 |
 | 26 | [2011 \(feat\. Venna\)](https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Patience \(Deluxe Edition\)](https://open.spotify.com/album/1QEyTusbAcW5xMGGvWQkyC) | 2:50 |
-| 27 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
-| 28 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 |
+| 27 | [Misty](https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Misty](https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3) | 3:38 |
+| 28 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
 | 29 | [The Last Poets](https://open.spotify.com/track/2VHMxsaWF7okBa3fKuRqP8) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:14 |
 | 30 | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/track/0rpSppwgJjbbeYEmM7uujk) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Sam Wise](https://open.spotify.com/artist/4CCjWYtowoZyWAl03Iih5P), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Vibes \(feat\. Sam Wise & Venna\)](https://open.spotify.com/album/7ED4oWJ38EyR2VkSIAQ9kc) | 3:12 |
 | 31 | [july \(feat\. Tiana Major9 & Venna\)](https://open.spotify.com/track/2eRYY2aDP2VOWwL6bIcakY) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [BARE SUGAR](https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD) | 2:44 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 36 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 | 37 | [MIMI NA WEWE](https://open.spotify.com/track/1LlUvm9OLfD0Dir1a6Ewo8) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [WAPOA SZN 2](https://open.spotify.com/album/1fqPbWsw6XZdjVaVDxG16R) | 2:19 |
 
-Snapshot ID: `aKezAAAAAACf8X8DwJ56VuIgAE2ohn69`
+Snapshot ID: `aKkEgAAAAADalKoLur5WTWEWJkKfkc57`

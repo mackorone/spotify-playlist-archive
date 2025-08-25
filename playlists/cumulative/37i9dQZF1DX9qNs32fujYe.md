@@ -4,7 +4,7 @@
 
 > Remembering Brent Hinds
 
-1,116 songs - 3 day 9 hr 23 min
+1,117 songs - 3 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [A Statue of the King](https://open.spotify.com/track/6onJXFCCG302XlD7j0puR8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Avatar Country](https://open.spotify.com/album/4n3K2YQ2TYUppYdXN2xDFY) | 3:44 | 2022-03-22 | 2022-04-20 |
 | [A Thousand Shades \(feat\. Jeff Beck\)](https://open.spotify.com/track/35OjKODzqSMrllo8vFFJZz) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9](https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb) | 4:26 | 2023-03-10 | 2023-07-17 |
 | [A Visceral Retch](https://open.spotify.com/track/7BlvPctRnjjJUjBnrySJ7b) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [A Visceral Retch](https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N) | 4:05 | 2024-09-13 |  |
-| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 | 2025-08-24 |
+| [A.F\. Day](https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA) | [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [A.F\. Day](https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO) | 3:47 | 2024-05-17 |  |
 | [A.N.G.S.T.](https://open.spotify.com/track/2pyjEyfm9ZTlYJwmq1m3xZ) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [A.N.G.S.T](https://open.spotify.com/album/2jxI0Ma0GPmKiGoRlrQOLe) | 5:08 | 2025-01-31 | 2025-03-12 |
 | [Absinthe Children](https://open.spotify.com/track/1sLuebUQL26k6N47EE7lD7) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [Ruins](https://open.spotify.com/album/7ddNWr43lXlo6LbFZgOLdf) | 5:31 | 2022-01-28 | 2022-07-26 |
 | [Abyss](https://open.spotify.com/track/45NROGUYtGuOJzO7NTlgx9) | [Mind Riot](https://open.spotify.com/artist/1TfGMeYSHRoSmgkNqhPdRw) | [Abyss](https://open.spotify.com/album/5LHQvwBOHoHQb45ss15KkH) | 3:49 | 2021-12-17 | 2022-04-20 |
@@ -311,6 +311,7 @@
 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Eye of the Storm](https://open.spotify.com/track/5GKkwG5vl13DHxcUxFBSTm) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 4:26 | 2022-07-08 | 2023-03-11 |
 | [Eye to Eye](https://open.spotify.com/track/3ojlZUEkinb7XA4tZuvx3y) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Eye to Eye](https://open.spotify.com/album/1qzFtzzRawXfGTKHCgaCBG) | 4:15 | 2021-12-17 | 2022-07-29 |
+| [Eyes On Six](https://open.spotify.com/track/0Z9CGuKtGy0eF79lAFTiGU) | [Biohazard](https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1) | [Eyes On Six](https://open.spotify.com/album/6qMN9ETlfgvBj746O6q0Ng) | 3:20 | 2025-08-23 |  |
 | [Eyes Wide Open](https://open.spotify.com/track/3W5VyYUtZtQKCYfeJtbO20) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Eyes Wide Open](https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp) | 3:53 | 2024-03-08 | 2024-07-27 |
 | [Face of a Stranger](https://open.spotify.com/track/5YAsSHVStxtvvwV00I5YS1) | [Dirkschneider & The Old Gang](https://open.spotify.com/artist/73DIu6RIaKNp8t620RoMmX), [U.D.O.](https://open.spotify.com/artist/2aWjaq32aRQo58dw0w8NM6) | [Face of a Stranger](https://open.spotify.com/album/2dCDKEr7baSxy6M8ougCDx) | 4:57 | 2021-12-17 | 2022-07-27 |
 | [Fall In Line](https://open.spotify.com/track/7ftpyir5ygZkv92mbZMFqi) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Fall in Line](https://open.spotify.com/album/7ru1OonrDxyPDGx3zi6MqT) | 4:44 | 2024-06-21 | 2025-05-01 |
@@ -359,7 +360,7 @@
 | [Full Disclosure](https://open.spotify.com/track/3Bx0xPAkXZSkMj9ctFxrAm) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Gawdzillionaire](https://open.spotify.com/album/3XLrBPM5CFxXULuFuNwskK) | 3:16 | 2023-10-27 | 2025-05-10 |
 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 | 2022-09-23 | 2022-10-08 |
 | [Gateways](https://open.spotify.com/track/5JxyDHWj4XMRgvuRzWd9JK) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Abrahadabra](https://open.spotify.com/album/1lAP0ZWj2nDXDHcChtDzSO) | 5:10 | 2022-08-19 | 2024-04-19 |
-| [Genghis Khan \(feat\. Orden Ogan\)](https://open.spotify.com/track/6bU8aqYu560gwdcg2oPJ4f) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Genghis Khan](https://open.spotify.com/album/60BpGQ5Ddo6wIgFfzS80De) | 3:27 | 2025-05-09 |  |
+| [Genghis Khan \(feat\. Orden Ogan\)](https://open.spotify.com/track/6bU8aqYu560gwdcg2oPJ4f) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E), [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [Genghis Khan](https://open.spotify.com/album/60BpGQ5Ddo6wIgFfzS80De) | 3:27 | 2025-05-09 | 2025-08-25 |
 | [Get a Grip](https://open.spotify.com/track/2tGrdc5Hryxq2dIiSS1egV) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Evil Eye / Get a Grip](https://open.spotify.com/album/0lPpOFL64VeHLt2wx1E2RF) | 4:01 | 2024-05-31 | 2024-07-12 |
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-10 | 2022-11-13 |
 | [Get The Funk Out](https://open.spotify.com/track/1Q92pr5ZjhaOfNTvrjYLnE) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 4:24 | 2022-08-19 | 2022-08-27 |
@@ -486,7 +487,7 @@
 | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time \(feat\. Ash Costello\)](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 | 2024-11-04 | 2025-01-11 |
 | [In the Name of the Father](https://open.spotify.com/track/3xQSG1eYo06kXI3JkPKllf) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [In the Name of the Father](https://open.spotify.com/album/7ln0zD3JhrEECP9um8u1ui) | 3:47 | 2025-05-16 |  |
 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 | 2022-03-22 | 2024-04-19 |
-| [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 |  |
+| [In Waves](https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves](https://open.spotify.com/album/5NDxdsUG2cpD3jJRqHbgic) | 5:02 | 2024-04-05 | 2025-08-25 |
 | [Inertia](https://open.spotify.com/track/7ojDrvflVkMCy5UErZxi8s) | [Scar Of The Sun](https://open.spotify.com/artist/771ZPlgDeS8Q3y35hm1wAk) | [Inertia](https://open.spotify.com/album/0DnGqEqHsg66rpYia3hrmQ) | 3:50 | 2022-01-07 | 2022-07-15 |
 | [Infanticide A.I.](https://open.spotify.com/track/59gHi5YTMV2DMf6FOQ7lLh) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Infanticide A.I.](https://open.spotify.com/album/4HxvJvHmd0KWqTXvWgudMe) | 3:27 | 2025-08-22 |  |
 | [Insatiable](https://open.spotify.com/track/1ttxIAucUPrVzeEILspoe0) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [Insatiable](https://open.spotify.com/album/7f0BnKdZMy902smde28brF) | 2:59 | 2023-10-06 | 2023-10-30 |

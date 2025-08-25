@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 545917,
+  "num_followers": 545930,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Blast Tyrant (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 325026,
+      "name": "The Regulator",
+      "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Only a Suggestion",
         "url": "https://open.spotify.com/album/3AwAKd4dprx8qAeNc70k9K"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 318023,
       "name": "(If You Want the Smoke) Be the Fire",
       "url": "https://open.spotify.com/track/0kEBeGMX8HgjATVTHFh9Kh"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Blast Tyrant (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5KxVwhPQ9d0qp4iuQcAkgR"
-      },
-      "artists": [
-        {
-          "name": "Clutch",
-          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
-        }
-      ],
-      "duration_ms": 325026,
-      "name": "The Regulator",
-      "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
     },
     {
       "added_at": "2024-07-19 04:00:00",

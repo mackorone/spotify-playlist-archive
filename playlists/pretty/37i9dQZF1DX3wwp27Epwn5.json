@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 228505,
+  "num_followers": 228581,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
+        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Zinda",
+      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
+    },
+    {
+      "added_at": "2025-08-18 04:25:31",
+      "album": {
         "name": "Band Baaja Baaraat",
         "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 267624,
       "name": "Ainvayi Ainvayi",
       "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
-    },
-    {
-      "added_at": "2025-08-18 04:25:31",
-      "album": {
-        "name": "Bhaag Milkha Bhaag (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3m5FIubiCHr9mH3BU7ngY4"
-      },
-      "artists": [
-        {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Zinda",
-      "url": "https://open.spotify.com/track/7vZz8oJ5qAqB9MghufRK5k"
     },
     {
       "added_at": "2025-08-18 04:25:31",
@@ -519,30 +519,22 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
       },
       "artists": [
         {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+          "name": "Ved Sharma",
+          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
         },
         {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
         }
       ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
+      "duration_ms": 287374,
+      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
+      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
     },
     {
       "added_at": "2025-08-18 04:25:31",
@@ -575,22 +567,30 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
-        "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-        "url": "https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy"
+        "name": "Coca Cola (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
       },
       "artists": [
         {
-          "name": "Ved Sharma",
-          "url": "https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z"
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
         },
         {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
-      "duration_ms": 287374,
-      "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
-      "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
+      "duration_ms": 179225,
+      "name": "Coca Cola (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2025-08-18 04:25:31",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
+        "name": "Nawabzaade",
+        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "duration_ms": 179099,
+      "name": "High Rated Gabru",
+      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
+    },
+    {
+      "added_at": "2025-08-18 04:25:31",
+      "album": {
         "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
         "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 220312,
       "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
       "url": "https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk"
-    },
-    {
-      "added_at": "2025-08-18 04:25:31",
-      "album": {
-        "name": "Nawabzaade",
-        "url": "https://open.spotify.com/album/5cExHIssPauI1CN9fwxkOk"
-      },
-      "artists": [
-        {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "High Rated Gabru",
-      "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
     },
     {
       "added_at": "2025-08-18 04:25:31",
@@ -1139,22 +1139,26 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
-        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
+        "name": "Mitron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
       },
       "artists": [
         {
-          "name": "Neeraj Shridhar",
-          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
         },
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        },
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Aai Paapi",
-      "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
+      "duration_ms": 251640,
+      "name": "Kamariya",
+      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
     },
     {
       "added_at": "2025-08-18 04:25:31",
@@ -1195,26 +1199,22 @@
     {
       "added_at": "2025-08-18 04:25:31",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+        "name": "Kismat Konnection (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N"
       },
       "artists": [
         {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+          "name": "Neeraj Shridhar",
+          "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        },
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+      "duration_ms": 260053,
+      "name": "Aai Paapi",
+      "url": "https://open.spotify.com/track/7Bw56mGeOVbBBWBSLg356s"
     },
     {
       "added_at": "2025-08-18 04:25:31",

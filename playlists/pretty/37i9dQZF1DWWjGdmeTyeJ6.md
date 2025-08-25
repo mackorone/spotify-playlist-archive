@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Cover: Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,598 likes - 250 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,627 likes - 250 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

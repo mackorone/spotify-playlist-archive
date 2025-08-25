@@ -3686,11 +3686,33 @@
         {
           "name": "Ze",
           "url": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
+        },
+        {
+          "name": "KOEDA",
+          "url": "https://open.spotify.com/artist/6drKzR8msTvMFqwzcKUWyF"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "greed (feat. Koeda)",
+      "url": "https://open.spotify.com/track/1v8gcuRYtwh0pHITfbVI2o"
+    },
+    {
+      "album": {
+        "name": "kachi mamire",
+        "url": "https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW"
+      },
+      "artists": [
+        {
+          "name": "Ze",
+          "url": "https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD"
         }
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 236920,
       "name": "greed - Instrumental",
       "url": "https://open.spotify.com/track/7rIVAacGusNbgEhFPeLT9l"
@@ -9953,6 +9975,24 @@
     },
     {
       "album": {
+        "name": "TulPa",
+        "url": "https://open.spotify.com/album/0j1o5aEIPecvVAyIsAZHo3"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hsiao",
+          "url": "https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "TulPa",
+      "url": "https://open.spotify.com/track/2zSLpjKzviAO09AWgBRZD7"
+    },
+    {
+      "album": {
         "name": "Points",
         "url": "https://open.spotify.com/album/2W1crAgwVRfF17ha4C7v53"
       },
@@ -13656,7 +13696,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 191733,
       "name": "\u4e00\u4e16\u98a8\u9761",
       "url": "https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW"
@@ -14756,6 +14796,24 @@
       "duration_ms": 236186,
       "name": "\u592a\u967d\u3068\u66ae\u3089\u3057\u3066\u304d\u305f",
       "url": "https://open.spotify.com/track/6m1IMazLwvpjeL24LUIw2g"
+    },
+    {
+      "album": {
+        "name": "\u5982\u679c\u6211\u4e5f\u80fd\u611b\u4e0a\u9019\u500b\u4e16\u754c\u90a3\u5c31\u597d\u4e86",
+        "url": "https://open.spotify.com/album/3nyQSAuzDWCn74FFSe0hFn"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hsiao",
+          "url": "https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250105,
+      "name": "\u5982\u679c\u6211\u4e5f\u80fd\u611b\u4e0a\u9019\u500b\u4e16\u754c\u90a3\u5c31\u597d\u4e86",
+      "url": "https://open.spotify.com/track/3BlLqDMNvSIvLvUuv2yGpT"
     },
     {
       "album": {

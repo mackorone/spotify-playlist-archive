@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWYsgyHOmKQo>Le\u00f3n Larregui</a>, <a href=spotify:playlist:37i9dQZF1EIY11jSnMDqNt>Flatsound</a>, <a href=spotify:playlist:37i9dQZF1EIWxJte1LNd1v>Kubilay Kar\u00e7a</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWZsYkeM4kEO>Nosstress</a>, <a href=spotify:playlist:37i9dQZF1EIXMeL3314OeN>Au/Ra</a>, <a href=spotify:playlist:37i9dQZF1EIVhQyYFsE2oJ>BTS</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "FACE YOURSELF",
+        "url": "https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323360,
+      "name": "Crystal Snow",
+      "url": "https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL"
+    },
+    {
+      "album": {
         "name": "C\u00f3seme",
         "url": "https://open.spotify.com/album/15cuoWMWNCfdat2sN392Yt"
       },
@@ -3882,7 +3900,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 211500,
       "name": "Geceleri Ald\u0131m Senden",
       "url": "https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ"
@@ -4806,7 +4824,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 314500,
       "name": "I Exist I Exist I Exist",
       "url": "https://open.spotify.com/track/0nO25NiPrKX64oy7lz5ZaJ"
@@ -8251,6 +8269,24 @@
     },
     {
       "album": {
+        "name": "Panic Room",
+        "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237772,
+      "name": "Panic Room",
+      "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
+    },
+    {
+      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/3Qq4kVfHPrs8xPKIYKmctl"
       },
@@ -9940,7 +9976,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 239120,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/2pb0aDEgDJ3PfWW1clmvSS"
@@ -11358,6 +11394,24 @@
       "duration_ms": 210816,
       "name": "Tu Si Eres Real",
       "url": "https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ"
+    },
+    {
+      "album": {
+        "name": "Tunjukkan Cintamu",
+        "url": "https://open.spotify.com/album/46jp728sMcelvfQkvcZhnt"
+      },
+      "artists": [
+        {
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139208,
+      "name": "Tunjukkan Cintamu",
+      "url": "https://open.spotify.com/track/1BsZS470FaEidqkZUPOwXN"
     },
     {
       "album": {

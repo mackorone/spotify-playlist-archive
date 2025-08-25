@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,638 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,648 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 47 | [Coragem](https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1) | [Nega](https://open.spotify.com/artist/2pGDMwn7Intxxu6tbrOGF8), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2), [Jaxonethebeat](https://open.spotify.com/artist/0Ud3CAwnzGV2OYCuTwRuJU), [Jaxz Bond](https://open.spotify.com/artist/5ekHzRx0U0hsDgja4ydH7X) | [Coragem](https://open.spotify.com/album/3EdUtzzp9mYM7NIp5pnzrv) | 3:02 |
 | 48 | [Soul da Noite.](https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [LilBoy Bruce](https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn) | [Guetto Wave’s](https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C) | 3:13 |
 | 49 | [Doce Veneno](https://open.spotify.com/track/73VG4EZb2v50fEBaPRUzO0) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Doce Veneno](https://open.spotify.com/album/5iXkUK9zcCF4NbBY2GkRvm) | 2:15 |
-| 50 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
-| 51 | [Me Conta](https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Me Conta](https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs) | 3:16 |
+| 50 | [Me Conta](https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Me Conta](https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs) | 3:16 |
+| 51 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
 | 52 | [Tobogã](https://open.spotify.com/track/44iMcueuRgLXnR1VfjXxcl) | [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f), [PMM](https://open.spotify.com/artist/3eWxQW2OossK1uJMMb927J) | [Tobogã](https://open.spotify.com/album/6K65JC2hkUGVCUIDRgkzzD) | 2:46 |
 | 53 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |
 | 54 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 
 > Editor's picks:  The best R&B songs of 2024\.  Cover: Muni Long, Bryson Tiller, and Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,898 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,902 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSC8oOed07w.md) - [plain]
 | 56 | [R e a l W o m a n](https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:14 |
 | 57 | [Want 2](https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 2:26 |
 | 58 | [worst behaviour](https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [worst behaviour](https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh) | 2:58 |
-| 59 | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6LACK\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 |
+| 59 | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Take Your Time \(feat\. 6lack\)](https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6) | 3:55 |
 | 60 | [Centigrade\. \(feat\. Nao\)](https://open.spotify.com/track/3cQLR1SFDxoJ8LTHYmFALQ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Centigrade\. \(feat\. Nao\)](https://open.spotify.com/album/3U6jOiUiOZS7q8WAZmt2H3) | 3:54 |
 | 61 | [feel like home](https://open.spotify.com/track/621IGHgSNd3ntx0NxdAw6E) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Pointy Heights](https://open.spotify.com/album/7KonH0i4kmFvTrYbeIQts2) | 2:40 |
 | 62 | [IS IT WORTH IT](https://open.spotify.com/track/7rckmmrLq6kvvkliw7goas) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [CRYBABY](https://open.spotify.com/album/5ixcAtS032Nfn3Begu5I1y) | 3:40 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 5992,
+  "num_followers": 6002,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAAIdNuUsd7rxKHYNTaH2m5V",
+  "snapshot_id": "aKkEgAAAAABMEqbICxWU8D3SlUNxxCjy",
   "tracks": [
     {
       "added_at": null,
@@ -155,34 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Help Is On The Way",
-        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
-      },
-      "artists": [
-        {
-          "name": "Kellylivinglarge",
-          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Priddy Prince",
-          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
-        },
-        {
-          "name": "Brainyboi",
-          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
-        }
-      ],
-      "duration_ms": 176183,
-      "name": "Living Life",
-      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EZIOKWU",
         "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
@@ -227,6 +199,34 @@
       "duration_ms": 236068,
       "name": "Cash App",
       "url": "https://open.spotify.com/track/66OmUVUiuja0zp423wGqhr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Help Is On The Way",
+        "url": "https://open.spotify.com/album/7nHPB32iLkDSs1AynldxtT"
+      },
+      "artists": [
+        {
+          "name": "Kellylivinglarge",
+          "url": "https://open.spotify.com/artist/2VXi61GH3BDAynEArgnUZo"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Priddy Prince",
+          "url": "https://open.spotify.com/artist/4bu4SCyKHSPbk0s1vSI5Hh"
+        },
+        {
+          "name": "Brainyboi",
+          "url": "https://open.spotify.com/artist/2J82OYSkjUpIGcdzshmAl2"
+        }
+      ],
+      "duration_ms": 176183,
+      "name": "Living Life",
+      "url": "https://open.spotify.com/track/22vwTjakdrSsColpKdcDQa"
     },
     {
       "added_at": null,
@@ -303,6 +303,30 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": null,
@@ -407,30 +431,6 @@
       "duration_ms": 204000,
       "name": "Grind - Remix",
       "url": "https://open.spotify.com/track/2irYlw9LMULXI1E8qnnpl7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PAY ME",
-        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 210574,
-      "name": "PAY ME (feat. Stormzy and Zlatan)",
-      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
     },
     {
       "added_at": null,
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marleba The EP",
-        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
-      },
-      "artists": [
-        {
-          "name": "DaBlixx Osha",
-          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Drey Spencer",
-          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
-        }
-      ],
-      "duration_ms": 144993,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 200973,
       "name": "Only Fan",
       "url": "https://open.spotify.com/track/69yAyXc2pJCvgdAaCLUYqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marleba The EP",
+        "url": "https://open.spotify.com/album/1GK1RmZ99aeo1SIZEyREmQ"
+      },
+      "artists": [
+        {
+          "name": "DaBlixx Osha",
+          "url": "https://open.spotify.com/artist/4UEd35ednarHmXoGK3DoMx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Drey Spencer",
+          "url": "https://open.spotify.com/artist/4Tqm5NHRTaIgVF97MMrC12"
+        }
+      ],
+      "duration_ms": 144993,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/7ddbe1q1JdBYe4OHZRvrPz"
     },
     {
       "added_at": null,

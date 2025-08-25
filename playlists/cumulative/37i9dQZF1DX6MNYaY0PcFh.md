@@ -4,7 +4,7 @@
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Jorja Smith
 
-299 songs - 16 hr 55 min
+300 songs - 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Doubt](https://open.spotify.com/track/7uQJer8Iyw9DxpwexyeCLV) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [132.00FM](https://open.spotify.com/album/748lnO8zQNczVL8qTGXFBL) | 3:24 | 2023-06-08 | 2024-04-19 |
 | [Dream Theme](https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Dream Theme / How We Feelin' \(In The Party\)](https://open.spotify.com/album/22cv1K8eWKAdgXYOp1tVva) | 3:34 | 2024-03-15 | 2024-06-01 |
 | [Dreaming](https://open.spotify.com/track/0nO2WPTc3UY51COGw27Dls) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [MIST](https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq) | [Dreaming](https://open.spotify.com/album/4wK0QQxpdnLH7BO64lMYZ5) | 3:29 | 2022-11-25 | 2024-02-09 |
-| [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 | 2024-10-24 |  |
+| [DUWML](https://open.spotify.com/track/2YCA9NMxmRoQJkBF4DqkqF) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [DUWML](https://open.spotify.com/album/29pDC4gf09gtuQRsQrVHd1) | 3:10 | 2024-10-24 | 2025-08-25 |
 | [Empty](https://open.spotify.com/track/0geLfVS9vrNQhDPFJBqsL8) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH) | [Love Me Not](https://open.spotify.com/album/0FYjV1mYKYhQqxrPSJWaLi) | 3:21 | 2025-04-17 | 2025-07-25 |
 | [Endless Sky](https://open.spotify.com/track/6yx9SdXE5O69efsGQqNiLp) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 2:39 | 2023-10-06 | 2024-09-13 |
 | [Everybody Over](https://open.spotify.com/track/4No1alSr6ux0ttjJqjAx8A) | [Lu.Re](https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN) | [Everybody Over](https://open.spotify.com/album/5efKfj820nvc1oQ71S43YC) | 2:46 | 2025-07-03 |  |
@@ -306,6 +306,7 @@
 | [words](https://open.spotify.com/track/0MjMYoSWmtVYAhv1Uj3zQO) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [words](https://open.spotify.com/album/4BmDulVoVXieakGP3ZrJqn) | 3:09 | 2022-11-25 | 2024-02-09 |
 | [Work](https://open.spotify.com/track/30FR1uCgYGTJLUm7MXoequ) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Farsight](https://open.spotify.com/artist/2gTyZstDbbmkkohxLNchlj), [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra) | [Work](https://open.spotify.com/album/3xjnPsjWTutgkdpwSenz4v) | 4:03 | 2025-06-19 | 2025-07-25 |
 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 | 2024-07-25 | 2025-07-05 |
+| [XTZY](https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr) | [FULLCLIP](https://open.spotify.com/artist/1WEgIPUvIq0ruHxECA7tR9), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [XTZY](https://open.spotify.com/album/6tRhAkDXXNQgHUpy00cGZo) | 2:47 | 2025-08-15 |  |
 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 | 2024-01-03 | 2024-08-16 |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

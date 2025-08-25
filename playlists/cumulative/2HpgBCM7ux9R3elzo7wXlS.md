@@ -4,7 +4,7 @@
 
 > All of it
 
-934 songs - 2 day 10 hr 10 min
+937 songs - 2 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [catching my tears](https://open.spotify.com/track/3Vqyx6twD6N0V9TafhwP4x) | [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [catching my tears](https://open.spotify.com/album/2u94rUNHDcOZZM9rmYsn6H) | 1:42 | 2025-07-30 |  |
 | [CELLZ](https://open.spotify.com/track/0fsO8vN1CSYiUo7vcEPI01) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Charles Bukowski](https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH) | [BORN LIKE THIS](https://open.spotify.com/album/5i7JM6qlMK5x2gY6Tkv56h) | 4:21 | 2025-06-02 |  |
 | [Center Earth](https://open.spotify.com/track/6vCoSDtk2xp7vk1PtO1qs5) | [Spry](https://open.spotify.com/artist/7tn3JgSrLIuv2778sq3aAX) | [Center Earth](https://open.spotify.com/album/13qPCjVES80SSGmlVOgHoS) | 2:08 | 2025-06-02 |  |
+| [CEREMONY \(English Version\)](https://open.spotify.com/track/4E0Qaiv0Fqm2DnIdigQTod) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [KARMA](https://open.spotify.com/album/3wqskwruUGJHC4yHbo7nxc) | 2:44 | 2025-08-24 |  |
 | [Ceux qui rêvent](https://open.spotify.com/track/7as88HhLbDLgobaSbJrVBs) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [À peu près](https://open.spotify.com/album/65JwIioaq6D5ExpRdtYpCM) | 1:58 | 2025-06-02 |  |
 | [Chamber Of Reflection](https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Salad Days](https://open.spotify.com/album/2sij95QgjmgrhNv33achzn) | 3:51 | 2025-06-02 |  |
 | [CHAMPAIN & VACAY](https://open.spotify.com/track/5wNIHa6wvCCKP6fWgo3UAh) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:04 | 2025-08-08 |  |
@@ -348,6 +349,7 @@
 | [Hold My Liquor](https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Yeezus](https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK) | 5:26 | 2025-06-02 |  |
 | [Hole in the Wall](https://open.spotify.com/track/4OJXqQnjWwTni3rVLvMTwi) | [Moses Gunn Collective](https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o) | [Mercy Mountain](https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT) | 3:39 | 2025-06-02 |  |
 | [Holy Wars...The Punishment Due](https://open.spotify.com/track/0bM9c5A7CterSOEssmWqAa) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Rust In Peace](https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv) | 6:36 | 2025-06-02 |  |
+| [Home](https://open.spotify.com/track/5jUTUtASaCSvod7opmnTlH) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 2:11 | 2025-08-24 |  |
 | [Homecoming](https://open.spotify.com/track/2ovQ5MCx91XVjgVWEPfvks) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chris Martin](https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2) | [Graduation](https://open.spotify.com/album/5fPglEDz9YEwRgbLRvhCZy) | 3:23 | 2025-06-02 |  |
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2025-06-02 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2025-06-02 |  |
@@ -601,6 +603,7 @@
 | [Pearls](https://open.spotify.com/track/57R1nBluakXaayH9EzgwZa) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:33 | 2025-06-02 |  |
 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 | 2025-06-02 |  |
 | [Pez Dorado](https://open.spotify.com/track/3egp2XXVJqXsUDXCitx4Tf) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/7vc7yVbrVGVAT22WbtLSyd) | 4:56 | 2025-06-22 |  |
+| [Phantom](https://open.spotify.com/track/5A6xiYvuRA76qdjr5fjjGw) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Guitar](https://open.spotify.com/album/2T7O7QJnesN3l3iPX1NAZY) | 1:50 | 2025-08-24 |  |
 | [Phantom Island](https://open.spotify.com/track/4poGq0eUVXKaCRI8aqNnqI) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:14 | 2025-06-02 |  |
 | [PHILLY \(with Travis Scott\)](https://open.spotify.com/track/5SIvP6TdWc9DNvKbENjnYc) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:05 | 2025-06-02 |  |
 | [Piano Man](https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man \(Legacy Edition\)](https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL) | 5:39 | 2025-06-02 |  |

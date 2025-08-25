@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > most popular tiktok phonk \- best phonk 2025 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,024,820 likes - 120 songs - 5 hr 20 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,024,707 likes - 120 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 46 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 |
 | 47 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 |
 | 48 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
-| 49 | [Smoke](https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE) | [Cowbell Cult](https://open.spotify.com/artist/39M7VBSU9jF9IpmkNQeycY), [Joehdah](https://open.spotify.com/artist/7pZPHbnazpBvpdAG51TuxQ) | [Cowbell Cult, Vol\. 1](https://open.spotify.com/album/78dlN8ziXrEeDNHIxt8u4o) | 1:54 |
+| 49 | [Smoke](https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE) | [Cowbell Cult](https://open.spotify.com/artist/7FfHiQkwzx9vZPflBBtk6F), [Joehdah](https://open.spotify.com/artist/7pZPHbnazpBvpdAG51TuxQ) | [Cowbell Cult, Vol\. 1](https://open.spotify.com/album/78dlN8ziXrEeDNHIxt8u4o) | 1:54 |
 | 50 | [La Espada](https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [La Espada](https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R) | 2:57 |
 | 51 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 |
 | 52 | [Acid](https://open.spotify.com/track/7KbwMogIfW0pTAa0LxpnDJ) | [Ritual X](https://open.spotify.com/artist/6E5bq6vsJiLD9Z0hLX8XNT) | [Acid](https://open.spotify.com/album/53BexTehgiBBDzIAZx2DXC) | 5:06 |

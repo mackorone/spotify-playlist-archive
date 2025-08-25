@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3923288,
+  "num_followers": 3923118,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        }
-      ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
+        "name": "Above Ground",
+        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
+      },
+      "artists": [
+        {
+          "name": "Klaverson",
+          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
+        }
+      ],
+      "duration_ms": 208524,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 258517,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
-        "name": "Above Ground",
-        "url": "https://open.spotify.com/album/6g2Kkgl27P6CjSFenP7vKl"
-      },
-      "artists": [
-        {
-          "name": "Klaverson",
-          "url": "https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr"
-        }
-      ],
-      "duration_ms": 208524,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7BtBDYrdtBmGEXCuPOSf98"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "1973",
-        "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        },
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        }
-      ],
-      "duration_ms": 285595,
-      "name": "1973",
-      "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 227069,
       "name": "Here Again",
       "url": "https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
+        "name": "1973",
+        "url": "https://open.spotify.com/album/3WROI0h7GqcwLS3KlxAwxV"
+      },
+      "artists": [
+        {
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
+        },
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        }
+      ],
+      "duration_ms": 285595,
+      "name": "1973",
+      "url": "https://open.spotify.com/track/3fCowMGKkshKs0iwAdxZBd"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1527,26 +1527,18 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
       },
       "artists": [
         {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "OCULA",
-          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
-        },
-        {
-          "name": "Madeline Megery",
-          "url": "https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
         }
       ],
-      "duration_ms": 313064,
-      "name": "Sunrise (feat. Madeline Megery)",
-      "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1567,18 +1559,26 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1sF7sruZ4NXlCi4YKRZAka"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "OCULA",
+          "url": "https://open.spotify.com/artist/2VzzhmEHXT4nGim8nBw4ij"
+        },
+        {
+          "name": "Madeline Megery",
+          "url": "https://open.spotify.com/artist/100CRSnhxRou1w0lao9HmD"
         }
       ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
+      "duration_ms": 313064,
+      "name": "Sunrise (feat. Madeline Megery)",
+      "url": "https://open.spotify.com/track/4z1r9dfqoUNCa0vA4n9ymL"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
-    },
-    {
-      "added_at": "2025-08-15 04:00:15",
-      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -1687,22 +1671,34 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5"
       },
       "artists": [
         {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        },
-        {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
         }
       ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
+      "duration_ms": 217617,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy"
+    },
+    {
+      "added_at": "2025-08-15 04:00:15",
+      "album": {
+        "name": "Slow Bloom",
+        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
+      },
+      "artists": [
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Slow Bloom",
+      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
     },
     {
       "added_at": "2025-08-15 04:00:15",
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2025-08-15 04:00:15",
       "album": {
-        "name": "Slow Bloom",
-        "url": "https://open.spotify.com/album/4OGPBLRY51SJyMEEaNNWhN"
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
       "artists": [
         {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        },
+        {
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
         }
       ],
-      "duration_ms": 196640,
-      "name": "Slow Bloom",
-      "url": "https://open.spotify.com/track/0pHLg1MHxHwQJpHT6xKlVy"
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2025-08-15 04:00:15",

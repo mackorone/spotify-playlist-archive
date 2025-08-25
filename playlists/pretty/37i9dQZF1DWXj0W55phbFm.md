@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,035 likes - 100 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,065 likes - 100 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 93 | [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 |
 | 94 | [Blowin up Breeze](https://open.spotify.com/track/4t0O1w9kJ0ihfwxfkTcti0) | [Hot Lips Page](https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz) | [Mr After Hours](https://open.spotify.com/album/5FQV4leqcgCPXfbesBn420) | 2:43 |
 | 95 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 |
-| 96 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
-| 97 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
+| 96 | [Tin Roof Blues](https://open.spotify.com/track/195426YTXn9COJncZ3b94u) | [Kenny Ball](https://open.spotify.com/artist/0QyB38XO00qX8Zc0EFzN4w) | [Why Not](https://open.spotify.com/album/3ayg5NSGUKMF1bdLRoVWnh) | 4:07 |
+| 97 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
 | 98 | [You're Getting to Be a Habit with Me](https://open.spotify.com/track/1whYRIGLVb0zN3QBEXKGQ7) | [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Wonder Why](https://open.spotify.com/album/3A7xzxjHJeC3q51MpRpBvp) | 6:52 |
 | 99 | [Just in Time](https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2) | [Cootie Williams](https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o) | [Where or When](https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN) | 3:31 |
 | 100 | [From Boogie To Funk: The Boogie \- Part 2](https://open.spotify.com/track/6UOQDhoXLJbJ2H3quqOUX8) | [Bill Coleman](https://open.spotify.com/artist/0TaAmD65PFHhE3a2JBxfRU) | [The Paris Album](https://open.spotify.com/album/1sGpVsIBbzgOPgbNxEQOuV) | 9:46 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 11243,
+  "num_followers": 11245,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADqjBGN3OJbN043USCy3y4i",
+  "snapshot_id": "aKkEgAAAAADHBmRcsx4QFvH4PVolyO4u",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Billy's Back Home",
+      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 255053,
       "name": "This Is Your Life",
       "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Billy's Back Home",
-      "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 335693,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
+      "duration_ms": 302733,
+      "name": "Everybody's Breakin' Up",
+      "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
     },
     {
       "added_at": null,
@@ -611,42 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sandra de S\u00e1 (1988)",
-        "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        },
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 325053,
-      "name": "Amanh\u00e3 (feat. Billy Paul)",
-      "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 196493,
-      "name": "One Man's Junk",
-      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
         "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
       },
@@ -671,6 +635,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335693,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sandra de S\u00e1 (1988)",
+        "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 325053,
+      "name": "Amanh\u00e3 (feat. Billy Paul)",
+      "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+        "name": "Feelin' Good at the Cadillac Club",
+        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 191600,
-      "name": "My Head's On Straight",
-      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
+      "duration_ms": 155760,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 302733,
-      "name": "Everybody's Breakin' Up",
-      "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
+      "duration_ms": 196493,
+      "name": "One Man's Junk",
+      "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feelin' Good at the Cadillac Club",
-        "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 155760,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
+      "duration_ms": 191600,
+      "name": "My Head's On Straight",
+      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
     },
     {
       "added_at": null,

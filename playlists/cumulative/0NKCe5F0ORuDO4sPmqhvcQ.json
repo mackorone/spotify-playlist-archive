@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 204217,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 300996,
       "name": "Afterglows",
       "url": "https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82"
@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4EcmsY4avimrHEiYWgJxSD"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128142,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/54myGd3cApYi3ZSSXseWmr"
+    },
+    {
+      "album": {
         "name": "Elysian",
         "url": "https://open.spotify.com/album/4TUygYUS1Y4TSIjBw63FVe"
       },
@@ -742,6 +760,32 @@
       "duration_ms": 180400,
       "name": "ambien",
       "url": "https://open.spotify.com/track/21KwCo6dkh83CypNslVwG1"
+    },
+    {
+      "album": {
+        "name": "Ambrosia",
+        "url": "https://open.spotify.com/album/4fiXGGJrQhJFpCc5L6daOA"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        },
+        {
+          "name": "ChiChi",
+          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
+        },
+        {
+          "name": "REYSHA RAMI",
+          "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209198,
+      "name": "Ambrosia",
+      "url": "https://open.spotify.com/track/3ZKaBjZPXDakQ1P2AZ4gsb"
     },
     {
       "album": {
@@ -928,7 +972,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 216888,
       "name": "Aries (Mean Something 2 U)",
       "url": "https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl"
@@ -1384,7 +1428,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 159706,
       "name": "Bikini",
       "url": "https://open.spotify.com/track/31CzWV6WdEgqsdYqO7d7Ik"
@@ -1948,7 +1992,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 182225,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
@@ -2214,7 +2258,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 229253,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/5ZQByqMsu8cb3X79WWRljG"
@@ -2420,7 +2464,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 215250,
       "name": "Confidence (feat. Jon Waltz) - Slow Magic Remix",
       "url": "https://open.spotify.com/track/1Rvd0fDecFF3UToXYp8oE9"
@@ -2662,7 +2706,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 242446,
       "name": "Crush Me",
       "url": "https://open.spotify.com/track/6KV155X0T39sg7oDqi3G4L"
@@ -2724,7 +2768,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 151384,
       "name": "Dance and Fall in Love",
       "url": "https://open.spotify.com/track/6bMzjurIUwP0ieEJcT8AFU"
@@ -3032,7 +3076,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 196829,
       "name": "Different Way",
       "url": "https://open.spotify.com/track/163F0Xyv6BaZrACQIwMrcr"
@@ -3666,7 +3710,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 173432,
       "name": "Edge Of The World (feat. Nu-La)",
       "url": "https://open.spotify.com/track/2zfWwqiWzmXRsyICIDbwGW"
@@ -4546,7 +4590,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 160357,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4aonFWNn1hriqeEtXmMIRy"
@@ -4660,7 +4704,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 156108,
       "name": "FIYA SELECTA (feat. Toya Delazy)",
       "url": "https://open.spotify.com/track/0CkYrIQRRCQKxV1EmN6JxK"
@@ -6140,7 +6184,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 147906,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/6UXqR3MQtiW0pX6Ozl43KY"
@@ -6198,7 +6242,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 157434,
       "name": "i'll be there",
       "url": "https://open.spotify.com/track/2oRO0TDoMyhowADpRKqexD"
@@ -6504,6 +6548,24 @@
       "duration_ms": 190195,
       "name": "intothedeep",
       "url": "https://open.spotify.com/track/0rEe4czu55DQ8sHtWRnaci"
+    },
+    {
+      "album": {
+        "name": "iPod Touch",
+        "url": "https://open.spotify.com/album/61txUE2reB1kl38f7GDiPq"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196524,
+      "name": "iPod Touch",
+      "url": "https://open.spotify.com/track/3pkXNBtkg8E2xRAKrnu43s"
     },
     {
       "album": {
@@ -8104,7 +8166,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 200872,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/2tinYknqBborA5kYv07aKX"
@@ -8814,7 +8876,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 164451,
       "name": "One More Night - feat. Flume",
       "url": "https://open.spotify.com/track/4tAms1KMqptEzmO59cULhS"
@@ -9076,6 +9138,24 @@
       "duration_ms": 128695,
       "name": "PARTY",
       "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
+    },
+    {
+      "album": {
+        "name": "Party Monster",
+        "url": "https://open.spotify.com/album/1AMTkFoROS3COqpJ7FW57d"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211544,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6Ce4yaLUyw8CO1Tp8AMjgm"
     },
     {
       "album": {
@@ -9590,7 +9670,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 170823,
       "name": "Rally Girl 2000",
       "url": "https://open.spotify.com/track/2cYIHZbP6KlmZBoNkwtMah"
@@ -10188,7 +10268,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 230975,
       "name": "Sacredly",
       "url": "https://open.spotify.com/track/4TxZCE5SQEpPkHv20S4zMa"
@@ -10268,7 +10348,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 214588,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/2QZ6EczO3HbVdo2V8MMTTR"
@@ -10308,7 +10388,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 211384,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/6QsDAv7zJO62zgtG10qyPO"
@@ -10534,7 +10614,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 188739,
       "name": "Shout It Out",
       "url": "https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm"
@@ -11850,7 +11930,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 175570,
       "name": "Tear It to Pieces",
       "url": "https://open.spotify.com/track/1YTuRRXO1J0u2CLngDnlP9"
@@ -12774,7 +12854,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 240200,
       "name": "USE ME",
       "url": "https://open.spotify.com/track/1Bm2rN43nD3zuRZvpyq2vR"
@@ -12942,7 +13022,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 298161,
       "name": "Waited 4 U - Phantoms Remix",
       "url": "https://open.spotify.com/track/4lcZem7ukoYTe16y5Egcrc"
@@ -12982,7 +13062,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 221555,
       "name": "Waiting...",
       "url": "https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE"
@@ -13664,7 +13744,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 140625,
       "name": "Without",
       "url": "https://open.spotify.com/track/6cfxLLMqy1bvqY9kq7ov72"
@@ -13946,7 +14026,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 197111,
       "name": "Yours",
       "url": "https://open.spotify.com/track/4YuZXJDmHNtliF8N5TVMH8"

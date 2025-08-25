@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 290018,
+  "num_followers": 290082,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABjQ+LPGIgbvHAS1wYD3LHk",
+  "snapshot_id": "aKkEgAAAAAA1Zir3s3UiJlJXqKAQjopK",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensando en Ti",
-        "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 201952,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CRISTIAN",
         "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 227911,
       "name": "LLEVARTE",
       "url": "https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pensando en Ti",
+        "url": "https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 201952,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 320551,
-      "name": "Biscochologo",
-      "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No S\u00e9 Que Pas\u00f3",
         "url": "https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 216058,
       "name": "No S\u00e9 Que Pas\u00f3",
       "url": "https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 320551,
+      "name": "Biscochologo",
+      "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 530280,
-      "name": "A Su Vato Enga\u00f1a",
-      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Mi Zona",
         "url": "https://open.spotify.com/album/06lnEElRpfWIv4Tvf3wWg8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 204800,
       "name": "Por Mi Zona",
       "url": "https://open.spotify.com/track/0OSnalMNoPOjkMOFE7I4C3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 530280,
+      "name": "A Su Vato Enga\u00f1a",
+      "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 264176,
-      "name": "El Borracho Y La Ruca",
-      "url": "https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 245562,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "El Borracho Y La Ruca",
+      "url": "https://open.spotify.com/track/7aEhagyhf38ZE6PiLKbya3"
     },
     {
       "added_at": null,

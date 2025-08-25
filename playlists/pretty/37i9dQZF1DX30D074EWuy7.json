@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Il Mago del Gelato \ud83c\udf49",
-  "num_followers": 33235,
+  "num_followers": 33234,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-08-07 22:01:30",
       "album": {
+        "name": "Kair\u00f2s",
+        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
+      },
+      "artists": [
+        {
+          "name": "Amalafede",
+          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
+        }
+      ],
+      "duration_ms": 255441,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
+    },
+    {
+      "added_at": "2025-08-07 22:01:30",
+      "album": {
         "name": "Moon Kin",
         "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 226693,
       "name": "Jazz Carnival",
       "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
-    },
-    {
-      "added_at": "2025-08-07 22:01:30",
-      "album": {
-        "name": "Kair\u00f2s",
-        "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
-      },
-      "artists": [
-        {
-          "name": "Amalafede",
-          "url": "https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0"
-        }
-      ],
-      "duration_ms": 255441,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/5kB1hOGw1bqN98jbheIwA7"
     },
     {
       "added_at": "2025-08-07 22:01:30",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2025-08-07 22:01:30",
       "album": {
+        "name": "Under Italian Skies",
+        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
+      },
+      "artists": [
+        {
+          "name": "Roberta Gambarini",
+          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
+        },
+        {
+          "name": "Andrea Donati",
+          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
+        }
+      ],
+      "duration_ms": 323533,
+      "name": "Impronte",
+      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2025-08-07 22:01:30",
+      "album": {
         "name": "Rushin'",
         "url": "https://open.spotify.com/album/4MMwzcfiGiwNwocLjnsEER"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 217280,
       "name": "Song for Django",
       "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
-    },
-    {
-      "added_at": "2025-08-07 22:01:30",
-      "album": {
-        "name": "Under Italian Skies",
-        "url": "https://open.spotify.com/album/5SxQviRKSPWbCJwgTGf737"
-      },
-      "artists": [
-        {
-          "name": "Roberta Gambarini",
-          "url": "https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS"
-        },
-        {
-          "name": "Andrea Donati",
-          "url": "https://open.spotify.com/artist/0NZCNObxYB5k1IDkSNZyc0"
-        }
-      ],
-      "duration_ms": 323533,
-      "name": "Impronte",
-      "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
     },
     {
       "added_at": "2025-08-07 22:01:30",

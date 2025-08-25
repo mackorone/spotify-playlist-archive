@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Madharaasi
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,898 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,925 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vazhiyiren \(From "Madharaasi"\)](https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kwame Fyah](https://open.spotify.com/artist/120SM3yXyZdzqUaqhTE0tc), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Vazhiyiren \(From "Madharaasi"\)](https://open.spotify.com/album/6AQI3YTESLAAFD5XWgyY14) | 3:55 |
+| 1 | [Vazhiyiraen \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kwame Fyah](https://open.spotify.com/artist/120SM3yXyZdzqUaqhTE0tc), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Vazhiyiraen \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/album/6AQI3YTESLAAFD5XWgyY14) | 3:55 |
 | 2 | [Pottala Muttaye \- From "Thalaivan Thalaivii"](https://open.spotify.com/track/5uoFuhKbCzo5cET3kn3pSv) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Pottala Muttaye \(From "Thalaivan Thalaivii"\)](https://open.spotify.com/album/2nYkbP3CzuoC54BcSKUjak) | 3:46 |
 | 3 | [Muththa Mazhai \(Reprise\)](https://open.spotify.com/track/0nrJ7jsUFR0pDHV6NvKJje) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Siva Ananth](https://open.spotify.com/artist/5fZe0ixZMgYwu5BLCNvMDC) | [Thug Life \(Tamil\)](https://open.spotify.com/album/1q6GzjsUS9kyQmEDH7D1Ak) | 4:00 |
 | 4 | [Enna Sugam \(From "Idli Kadai"\)](https://open.spotify.com/track/5eapD8IF5Ha70315fHiwbK) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Enna Sugam \(From "Idli Kadai"\)](https://open.spotify.com/album/3aUkyC2xD3z5NeGQnUJWCc) | 3:42 |

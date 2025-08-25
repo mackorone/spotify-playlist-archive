@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-697 songs - 1 day 17 hr 1 min
+701 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [black wings](https://open.spotify.com/track/2VVIzZiJg5Rhnf4wd657lZ) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 4:05 | 2024-04-13 | 2024-05-16 |
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 | 2024-05-16 |
 | [Blimps Go 90](https://open.spotify.com/track/6HuETBwV7SXoJueNMWVMBE) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:40 | 2025-04-30 | 2025-07-04 |
+| [Blue \- 2021 Remaster](https://open.spotify.com/track/4Nz3VaVwFS48p6CYILxebB) | [Rain Parade](https://open.spotify.com/artist/1e9cOgMYTLJ0KFOjmTx13F) | [Explosions In the Glass Palace](https://open.spotify.com/album/7rOxe97IzTolDCSCXIdiSa) | 2:54 | 2025-08-24 |  |
 | [Body's In Trouble](https://open.spotify.com/track/15Edy9um1W2jrCb9MVaIBV) | [Mary Margaret O'Hara](https://open.spotify.com/artist/7d4LXGxrBM99Ayu2MkcMWo) | [Miss America](https://open.spotify.com/album/7EorEag88teTV1CevBYuMV) | 5:01 | 2025-05-01 | 2025-07-04 |
 | [Boer Farmstead](https://open.spotify.com/track/4ThB3AtztuqdKxPHdjeta7) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Rustic Houses, Forlorn Valleys](https://open.spotify.com/album/4GF3M8xZKRJySoqqksltcG) | 4:53 | 2025-08-18 |  |
 | [Bonbon sucre](https://open.spotify.com/track/7LisFV8edSWfOvm9XKJjA9) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:44 | 2025-06-12 | 2025-07-04 |
@@ -346,6 +347,7 @@
 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 | 2024-05-20 | 2024-07-12 |
 | [Lady Blue Eyes](https://open.spotify.com/track/1valXXXGvoolnKX4BbW6ae) | [American Flyer](https://open.spotify.com/artist/2KkFIF79ZjJaNd28LPAtOB) | [American Flyer](https://open.spotify.com/album/3vIOBE6E8vda2ByDObnzjV) | 3:14 | 2025-06-25 | 2025-07-04 |
 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 | 2024-08-08 | 2024-09-08 |
+| [Last Cloud Home](https://open.spotify.com/track/4VX2InnR8V5UvN5pSNTCg4) | [Orange Bicycle](https://open.spotify.com/artist/402ndP5t1fKcS2if8Vw3lD) | [Orange Bicycle](https://open.spotify.com/album/6CRJ3KiM8fPHqhd1k0QTzQ) | 3:05 | 2025-08-24 |  |
 | [Late November](https://open.spotify.com/track/16Y0Ubjxap4dcD5elBeFVJ) | [Sandy Denny](https://open.spotify.com/artist/1kYd37riIExqdm9g0juqGJ) | [The North Star Grassman And The Ravens \(Remastered\)](https://open.spotify.com/album/6svGCFgSQDt8ooH5x0BrD7) | 4:29 | 2025-02-26 | 2025-03-02 |
 | [Laugh Now \- Re\-Issue](https://open.spotify.com/track/7x2ZsDLoIWvCulm9pJqdtN) | [Little Wings](https://open.spotify.com/artist/0Z6hyoqGpchajBS8Gt3c0l) | [Magic Wand](https://open.spotify.com/album/2L5aLYeqqcdmPpF6es6XhP) | 4:51 | 2025-04-15 | 2025-05-09 |
 | [Laugh, Laugh](https://open.spotify.com/track/66V3speCvzVe6lUnIezZ0J) | [The Beau Brummels](https://open.spotify.com/artist/4DQj1q0unpi9KF8jO1Wqks) | [Introducing The Beau Brummels](https://open.spotify.com/album/3qWJ6R8Wg3PPCAOToluwPJ) | 2:56 | 2024-10-18 | 2024-11-14 |
@@ -387,6 +389,7 @@
 | [Mario's Flaming Whiskers III](https://open.spotify.com/track/3Bktyrnmrdw05133ofR9Dl) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Breakup Song](https://open.spotify.com/album/5JunU3flt52yhYBKhmUnM1) | 2:30 | 2024-08-02 | 2024-09-08 |
 | [May Sun](https://open.spotify.com/track/19JUTxqb12ibfHLhFuyYod) | [Tomasz Stanko Quintet](https://open.spotify.com/artist/58Ieh2itn2s2DnnTA3mwTE) | [Dark Eyes](https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd) | 2:47 | 2025-07-14 |  |
 | [Me and My Arrow](https://open.spotify.com/track/5KjRITicSHJM88w3U9LwLM) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [The Point!](https://open.spotify.com/album/6Y7Or7kCbTUjnzv40TyU63) | 2:05 | 2024-11-13 | 2025-01-12 |
+| [Me, On The Beach](https://open.spotify.com/track/6bBBvE0Us9U5ivMDOyEIu9) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [Dream Sounds](https://open.spotify.com/album/3f9ZJ1QEyP5acU787crDml) | 6:45 | 2025-08-24 |  |
 | [Mean girls](https://open.spotify.com/track/1qKCO2Tocwg8CbepJ9uDtd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:09 | 2024-06-14 | 2024-07-12 |
 | [Memory Foam](https://open.spotify.com/track/30RssVq7KiJHl7E6cFDdre) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 3:44 | 2025-04-20 | 2025-05-09 |
 | [Microtronics 20](https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Microtronics \- Volumes 1 & 2](https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx) | 1:35 | 2024-04-18 | 2024-05-16 |
@@ -617,6 +620,7 @@
 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 | 2024-06-24 | 2024-07-12 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |
 | [The Ruling Class](https://open.spotify.com/track/1Jmn7GHrsf7qjgzsCcj6Do) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Born Again In The USA](https://open.spotify.com/album/1aH9XaImGgHo9OYSSk9gYs) | 3:35 | 2024-08-08 | 2024-09-08 |
+| [The Sailboat Song](https://open.spotify.com/track/5epBt5MByagXURhyKl2diz) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [Stoned Soul Picnic](https://open.spotify.com/album/5prYrujbU18XFdkMkjnJGX) | 2:52 | 2025-08-24 |  |
 | [The Scholars and the Travellers](https://open.spotify.com/track/7B9BrHMWhdZMkipl4ktznK) | [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [The Electricity in Your House Wants to Sing](https://open.spotify.com/album/3DbqxV708R452k79cUg7zy) | 4:02 | 2025-01-11 | 2025-03-02 |
 | [The Sky Is So Blue](https://open.spotify.com/track/0FnQJbknnZXdKnhiU6qxdp) | [Jane Siberry](https://open.spotify.com/artist/5JQT7pvJY4ojWOl2QuzdvG) | [Jane Siberry](https://open.spotify.com/album/7xkYpBDmWmSu9Axfd43cM3) | 4:04 | 2025-01-25 | 2025-03-02 |
 | [The Sweetest Gift](https://open.spotify.com/track/6r9jhN0mryXMDKIol3XhO8) | [Sulah Jordan](https://open.spotify.com/artist/2g57r5gsJqgHbLSJ21yy1o) | [The Sweetest Gift](https://open.spotify.com/album/3EaNsumSSiHJvXIN371vuA) | 3:33 | 2024-05-26 | 2024-07-12 |

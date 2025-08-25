@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,412 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,407 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [God Speed](https://open.spotify.com/track/4LAXqhv4DfNMICQKEWw8dC) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [We Belong](https://open.spotify.com/album/2m6yXR1LYIwvoKH4fpdKKS) | 2:57 |
 | 50 | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/track/0CxeoWn9H79Jt1Q0kVpwtL) | [Reconcile](https://open.spotify.com/artist/205ryRzLS0HTtASNep0wUm), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [My Hope is Hard to Kill \(feat\. KB\)](https://open.spotify.com/album/2LBGi7L7GGArjVIl7qhEyr) | 3:53 |
 
-Snapshot ID: `aKezAAAAAADEjw6YUQwFvfcUKrfq3gyR`
+Snapshot ID: `aKkEgAAAAAD5f1o6R2MZUmXTXohdIEM8`

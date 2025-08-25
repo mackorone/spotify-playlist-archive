@@ -7845,6 +7845,24 @@
     },
     {
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX"
+      },
+      "artists": [
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158470,
+      "name": "Deixa Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO"
+    },
+    {
+      "album": {
         "name": "Josu\u00e9 Bom de Faixa",
         "url": "https://open.spotify.com/album/7czmWB0X3OOf9VWgHGSfDw"
       },
@@ -9659,6 +9677,24 @@
     },
     {
       "album": {
+        "name": "Magia das Estrelas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5z3VxPxXmWi61ArzkvvWWJ"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183288,
+      "name": "Dubai - Ao Vivo",
+      "url": "https://open.spotify.com/track/4OC93ORgqsUsio3xgAdLHP"
+    },
+    {
+      "album": {
         "name": "D\u00f3i",
         "url": "https://open.spotify.com/album/23xCMjuFXyFuQ2k1Q4EXyx"
       },
@@ -10320,7 +10356,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-09",
+      "date_removed": null,
       "duration_ms": 190276,
       "name": "Entregador de Flor - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/5aMgTcyBPH90hWHhbNKTwR"
@@ -15704,7 +15740,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -19030,7 +19066,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 146204,
       "name": "MEXE",
       "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
@@ -19566,7 +19602,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
@@ -22712,7 +22748,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -23678,7 +23714,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 171797,
       "name": "Pelo Bem da Minha Saudade",
       "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"
@@ -25562,7 +25598,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 178203,
       "name": "P\u00e9 na Areia",
       "url": "https://open.spotify.com/track/2Ki2eKWyUq0a75yDNlreQA"
@@ -30972,7 +31008,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 201230,
       "name": "Tipo Nino Vs Kabrinha",
       "url": "https://open.spotify.com/track/1jxQFCC0ukN7AaUwXWK0N8"
@@ -31784,7 +31820,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao Vivo",
       "url": "https://open.spotify.com/track/5QbtKOsjbEGkx0GMiQGBZt"
@@ -33756,6 +33792,28 @@
       "duration_ms": 154662,
       "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
       "url": "https://open.spotify.com/track/4P7IXYPAkinTdZrBF5bGWp"
+    },
+    {
+      "album": {
+        "name": "VOC\u00ca E SUA AMIGUINHA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6g1n2b3e96epFqZUJLuNh7"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145962,
+      "name": "VOC\u00ca E SUA AMIGUINHA - Ao Vivo",
+      "url": "https://open.spotify.com/track/4D4QZPjQjISno3Qagl5SRv"
     },
     {
       "album": {

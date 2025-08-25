@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 103345,
+  "num_followers": 103352,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACI1CGywNS5KbQHw5EO8hp9",
+  "snapshot_id": "aKkEgAAAAADyj4eNUSo++DXDbEObPll2",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Ain't Giving Up",
-      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra (feat. Craig David)",
         "url": "https://open.spotify.com/album/25HU17CmFd3aQkRHEU4Ek5"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 155076,
       "name": "Abracadabra (Feat. Craig David)",
       "url": "https://open.spotify.com/track/19quyzgfIQzGM8K71UgMhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/3mkJigBxWd5DJUsRuwHG3f"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Like This",
-        "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
-      },
-      "artists": [
-        {
-          "name": "Blonde",
-          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 183645,
-      "name": "Nothing Like This",
-      "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
         "url": "https://open.spotify.com/album/1AgWojXgktMU5PEnxJOivQ"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 167796,
       "name": "Abracadabra, Pt. 2 (Feat. Craig David)",
       "url": "https://open.spotify.com/track/3zgJsdpKe6HTU2A7bZVvqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Like This",
+        "url": "https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr"
+      },
+      "artists": [
+        {
+          "name": "Blonde",
+          "url": "https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 183645,
+      "name": "Nothing Like This",
+      "url": "https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA"
     },
     {
       "added_at": null,

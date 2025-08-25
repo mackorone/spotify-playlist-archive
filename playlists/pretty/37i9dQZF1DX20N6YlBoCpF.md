@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met ROUX, Appel,  Venter, Demarie en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,170 likes - 116 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,185 likes - 116 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

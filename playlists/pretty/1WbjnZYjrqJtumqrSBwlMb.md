@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,115 songs - 2 day 20 hr 38 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,116 songs - 2 day 20 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1123,5 +1123,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1113 | [Sunflower \- Live at Radio City Music Hall](https://open.spotify.com/track/3xz5n1xyi3DOMIb8vodsZm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Live at Radio City Music Hall](https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz) | 6:24 |
 | 1114 | [Loopholes](https://open.spotify.com/track/1e9pLNa0QLKB2yyVr4dDVo) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [A Repeat Wouldn't Go A Miss](https://open.spotify.com/album/6XlZwlX5aehMBVfutAKxJY) | 2:34 |
 | 1115 | [Stargazing](https://open.spotify.com/track/5hSKm3XMa07Gi6mCOLktxU) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 2:55 |
+| 1116 | [Yasmina \- Session 1](https://open.spotify.com/track/3nms49xECe91KkKsixqFZN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 4:00 |
 
-Snapshot ID: `AAAJSxJFQqeP50C0ys7Cv93aoTjoCwc2`
+Snapshot ID: `AAAJTBDFybHof3PK/EOV2cRrYf8xDrq/`

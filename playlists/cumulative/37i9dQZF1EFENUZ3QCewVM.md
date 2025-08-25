@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B8HeZBBeDVFkRnWhSTgTN">Delacey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 8 hr 19 min
+158 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,8 @@
 | [Lipstick](https://open.spotify.com/track/5foCAV6LkMOuD9KX2Ox0NL) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/08rpf5AHpxiAbye9mD7hoN) | 3:16 | 2025-07-20 |  |
 | [Little White Lie](https://open.spotify.com/track/2W9nB27fIUYTXxH8m6hgd0) | [Filipa](https://open.spotify.com/artist/0qLIVG05oC1d125MrkKZk7) | [Little White Lie](https://open.spotify.com/album/6ZHdsxehEzq0ByQoEyavkr) | 3:24 | 2024-02-27 |  |
 | [Lost Your Faith](https://open.spotify.com/track/4j5vH33ipS1ulVxbwtYkpm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith](https://open.spotify.com/album/3YwyFBiVp38ZenPHy04LRd) | 3:13 | 2025-03-13 | 2025-04-21 |
-| [Lost Your Faith](https://open.spotify.com/track/3f7tDOrVlqeyqIvanQuSbw) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith \(SONIKKU Remix\)](https://open.spotify.com/album/40H1SwsED1PpLUENraHydm) | 3:14 | 2025-04-20 |  |
+| [Lost Your Faith](https://open.spotify.com/track/0woU394Kw2pKlrkQy1JdZQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 3:14 | 2025-08-24 |  |
+| [Lost Your Faith](https://open.spotify.com/track/3f7tDOrVlqeyqIvanQuSbw) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith \(SONIKKU Remix\)](https://open.spotify.com/album/40H1SwsED1PpLUENraHydm) | 3:14 | 2025-04-20 | 2025-08-25 |
 | [Man On The Moon](https://open.spotify.com/track/4QT5MJy3tXY2A3K7J4BnyF) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/0gTBH7DCc5DccWDhB97kR7) | 3:18 | 2024-02-27 | 2025-08-08 |
 | [Man On The Moon](https://open.spotify.com/track/4nmhLIhYamo2c79buPgJE1) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 3:18 | 2025-08-07 |  |
 | [Manly Man](https://open.spotify.com/track/3W8tRjkiC0TQZuUq0wA5zI) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Manly Man](https://open.spotify.com/album/79topiJ4Bj0SRE5XiBkpuH) | 3:30 | 2024-02-27 |  |

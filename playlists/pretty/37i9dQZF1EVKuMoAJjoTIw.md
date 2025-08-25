@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIWYsgyHOmKQo>León Larregui</a>, <a href=spotify:playlist:37i9dQZF1EIY11jSnMDqNt>Flatsound</a>, <a href=spotify:playlist:37i9dQZF1EIWxJte1LNd1v>Kubilay Karça</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIWZsYkeM4kEO>Nosstress</a>, <a href=spotify:playlist:37i9dQZF1EIXMeL3314OeN>Au/Ra</a>, <a href=spotify:playlist:37i9dQZF1EIVhQyYFsE2oJ>BTS</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Souvenir](https://open.spotify.com/track/2pb0aDEgDJ3PfWW1clmvSS) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/4XcN90lFiibqCHpuQyzfAR) | 3:59 |
-| 2 | [I Exist I Exist I Exist](https://open.spotify.com/track/0nO25NiPrKX64oy7lz5ZaJ) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [Scotland, I Wish You Had Stayed.](https://open.spotify.com/album/7yryHYhtqvwPWSAOpcQ08v) | 5:14 |
-| 3 | [Geceleri Aldım Senden](https://open.spotify.com/track/5pCpGzPoGgkGyLSEk8EeZJ) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Geceleri Aldım Senden](https://open.spotify.com/album/79bx4sLIm1zNUvWLKI9n5C) | 3:31 |
+| 1 | [Tunjukkan Cintamu](https://open.spotify.com/track/1BsZS470FaEidqkZUPOwXN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Tunjukkan Cintamu](https://open.spotify.com/album/46jp728sMcelvfQkvcZhnt) | 2:19 |
+| 2 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 |
+| 3 | [Crystal Snow](https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [FACE YOURSELF](https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t) | 5:23 |
 | 4 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 |
 | 5 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 6 | [The Night We Met](https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 49 | [Jakarta Hari Ini](https://open.spotify.com/track/6AyBbSvcR2ZwTeR30I4jb9) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Perayaan Patah Hati \- Babak 1](https://open.spotify.com/album/6E4sl58YgjMqfUBNGOfAUa) | 3:41 |
 | 50 | [Bernafas Tanpamu](https://open.spotify.com/track/1imyB3ufkQTtOnD2PYUSuu) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Surat Cinta Untuk Starla](https://open.spotify.com/album/2psuiIqSvW4pk4bJojGWfR) | 4:55 |
 
-Snapshot ID: `AAAAAAAAAACMu5svCZgQTy3fmqrsQ5Ay`
+Snapshot ID: `AAAAAAAAAABqVVF9o9kXXM8TZiKtz0uv`

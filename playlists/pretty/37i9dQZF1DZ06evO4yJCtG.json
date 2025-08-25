@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 152434,
+  "num_followers": 152452,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADlfNGbD7GUP+rnL8zkz1Ge",
+  "snapshot_id": "aKkEgAAAAAApijSo6xsTo3t3MvA07cZq",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
       },
@@ -379,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs"
       },
       "artists": [
         {
@@ -388,9 +372,25 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 208120,
-      "name": "Hide",
-      "url": "https://open.spotify.com/track/7DKxuRKGTrk7HGT83Oo2E1"
+      "duration_ms": 199833,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/0yRitNCPCHtBwOuHh88rzf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 191981,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
         }
       ],
-      "duration_ms": 191981,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
+      "duration_ms": 208120,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/7DKxuRKGTrk7HGT83Oo2E1"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
       "duration_ms": 230240,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/6d1fGqMtdUEuHqFSDMlR0N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "READY",
         "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 210825,
       "name": "Makes Me Wonder",
       "url": "https://open.spotify.com/track/4zwZhQnqJTr1rQ9wRY3nNr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Power Of A Woman",
-      "url": "https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb"
     },
     {
       "added_at": null,
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "Power Of A Woman",
+      "url": "https://open.spotify.com/track/1dDy8IYSA4NH8JtpGLhcMb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -579,22 +579,6 @@
       "duration_ms": 211880,
       "name": "Sex Memories (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/4L1ssURf09bPAfPhhOgy56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0AoPcGhCHaz9K96DoJoKlu"
       },
@@ -647,26 +647,6 @@
       "duration_ms": 89443,
       "name": "Old Dog, New Bitch",
       "url": "https://open.spotify.com/track/6Bh16kDql5jGWA8WhinbdR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 233826,
-      "name": "A Mess (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
     },
     {
       "added_at": null,
@@ -711,6 +691,26 @@
       "duration_ms": 226479,
       "name": "One Bad Decision - feat. Ella Mai & Roddy Ricch",
       "url": "https://open.spotify.com/track/1dId0BBASxqAz45lE0201A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "A Mess (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm"
     },
     {
       "added_at": null,

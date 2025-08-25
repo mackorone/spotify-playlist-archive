@@ -1,12 +1,12 @@
 {
   "description": "Selection of soul music for the perfect dinner.",
-  "num_followers": 140996,
+  "num_followers": 140997,
   "original_name": "Soul Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKm3kvPxAKuNSR/8yLI7Ipi28YwI",
+  "snapshot_id": "AAAAAJmDnhuO65Rtz6DoPBtrpt4Cuj4N",
   "tracks": [
     {
       "added_at": "2025-08-08 09:33:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Baby Huey Story: The Living Legend",
-        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
-      },
-      "artists": [
-        {
-          "name": "Baby Huey",
-          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Hard Times",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Everything Is Everything",
         "url": "https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 413773,
       "name": "The Ghetto",
       "url": "https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Baby Huey Story: The Living Legend",
+        "url": "https://open.spotify.com/album/2lTfjZPS0xFQE3cbGZf92T"
+      },
+      "artists": [
+        {
+          "name": "Baby Huey",
+          "url": "https://open.spotify.com/artist/3YFP5QHEKv8RZZsPminjdv"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Remember the Rain",
-        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
-      },
-      "artists": [
-        {
-          "name": "Kadhja Bonet",
-          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
-        }
-      ],
-      "duration_ms": 280062,
-      "name": "Remember the Rain",
-      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/7jueDf9uaDOwCSQOfM9rFs"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 289173,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/7KsXSnQc8qdeBSOnTM5Vvn"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "Rhythm Of Life",
+      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/0AXqyNdhstfyZyVjjJMszO"
+        "name": "Remember the Rain",
+        "url": "https://open.spotify.com/album/7yAsGlw9DqLpC6dICnIqtg"
       },
       "artists": [
         {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+          "name": "Kadhja Bonet",
+          "url": "https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF"
         }
       ],
-      "duration_ms": 259666,
-      "name": "Rhythm Of Life",
-      "url": "https://open.spotify.com/track/3jOwA8XZplvTVsV0SdLWhc"
+      "duration_ms": 280062,
+      "name": "Remember the Rain",
+      "url": "https://open.spotify.com/track/3bPlMzfHJMYqdAC80NLPTb"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Stand By Your Man",
-        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
-      },
-      "artists": [
-        {
-          "name": "Candi Staton",
-          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Inspiration Information/ Wings Of Love",
         "url": "https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 252200,
       "name": "Inspiration Information",
       "url": "https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/5FSETqzUj1EAlIVvPYmv5r"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/3zIiZrCROmhS9ERPdEHXYa"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Honey If You're Extra",
-        "url": "https://open.spotify.com/album/3HLS6Pg4ECrKa8Ng1LGGEE"
-      },
-      "artists": [
-        {
-          "name": "Yufu",
-          "url": "https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Honey If You're Extra",
-      "url": "https://open.spotify.com/track/1FJpKwCOsAjtvEvAbHXilY"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Rejuvenation",
         "url": "https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 318800,
       "name": "People Say",
       "url": "https://open.spotify.com/track/746CCMLis8SK64lLVXMF1d"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Honey If You're Extra",
+        "url": "https://open.spotify.com/album/3HLS6Pg4ECrKa8Ng1LGGEE"
+      },
+      "artists": [
+        {
+          "name": "Yufu",
+          "url": "https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "Honey If You're Extra",
+      "url": "https://open.spotify.com/track/1FJpKwCOsAjtvEvAbHXilY"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Just Being Myself",
-        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "You're Gonna Need Me",
-      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Meaning To Tell Ya",
         "url": "https://open.spotify.com/album/72m72nAelaKn2ONWk9nSV0"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 293453,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/5lpoNwYR4ZIUEHiWSWdzmJ"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Just Being Myself",
+        "url": "https://open.spotify.com/album/4Pusa4MZ3mEmXKOOWE9nFs"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "You're Gonna Need Me",
+      "url": "https://open.spotify.com/track/5ezYm2LkW25YhkkTp7bC9u"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Complete Calla, Port and Roulette Recordings",
-        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Tellin' It",
         "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 178280,
       "name": "Come to Mama",
       "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "The Complete Calla, Port and Roulette Recordings",
+        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Baltimore",
         "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 298000,
       "name": "The Family",
       "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 243426,
       "name": "Tender",
       "url": "https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "Seven Days in Sunny June",
-      "url": "https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
         "name": "Be Thankful for What You Got",
         "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 429371,
       "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
       "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2587,6 +2587,26 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
       },
@@ -2619,6 +2639,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
+        "name": "Beach Diggin', Vol. 3",
+        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Houston",
+          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
+        }
+      ],
+      "duration_ms": 186617,
+      "name": "I Want to Make It with You",
+      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
+    },
+    {
+      "added_at": "2025-08-08 09:33:38",
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU"
       },
@@ -2639,22 +2675,22 @@
     {
       "added_at": "2025-08-08 09:33:38",
       "album": {
-        "name": "The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now (Featuring Teddy Pendergrass) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6"
+        "name": "Soul Messin",
+        "url": "https://open.spotify.com/album/24msxYdYJGlhXZhbMdz9iY"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         },
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Kylie Auldist",
+          "url": "https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4"
         }
       ],
-      "duration_ms": 205573,
-      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA"
+      "duration_ms": 224000,
+      "name": "This Girl (feat. Kylie Auldist)",
+      "url": "https://open.spotify.com/track/5rjPINVemhJJL3JUiXLeV1"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2719,22 +2755,6 @@
       "duration_ms": 237626,
       "name": "How Come You Don't Call Me",
       "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Beach Diggin', Vol. 3",
-        "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
-      },
-      "artists": [
-        {
-          "name": "Bobbie Houston",
-          "url": "https://open.spotify.com/artist/4i975rT2vHNcwrOqEm6laa"
-        }
-      ],
-      "duration_ms": 186617,
-      "name": "I Want to Make It with You",
-      "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
     },
     {
       "added_at": "2025-08-08 09:33:38",
@@ -2887,26 +2907,6 @@
       "duration_ms": 308933,
       "name": "What Kind of Cool - Will We Think of Next",
       "url": "https://open.spotify.com/track/2zjiWPb1i2SWu9Cco49vkO"
-    },
-    {
-      "added_at": "2025-08-08 09:33:38",
-      "album": {
-        "name": "Soul Messin",
-        "url": "https://open.spotify.com/album/24msxYdYJGlhXZhbMdz9iY"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kylie Auldist",
-          "url": "https://open.spotify.com/artist/3CSpwE5QPsrPT9KgtG3BF4"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "This Girl (feat. Kylie Auldist)",
-      "url": "https://open.spotify.com/track/5rjPINVemhJJL3JUiXLeV1"
     },
     {
       "added_at": "2025-08-08 09:33:38",

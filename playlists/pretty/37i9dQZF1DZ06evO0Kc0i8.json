@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 849990,
+  "num_followers": 850117,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACZquMkpWg8QoukTPvdplvb",
+  "snapshot_id": "aKkEgAAAAAC6zuMq6CIOOTcxi23vGXor",
   "tracks": [
     {
       "added_at": null,
@@ -803,30 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forni",
-        "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
-      },
-      "artists": [
-        {
-          "name": "Los Ballers",
-          "url": "https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY"
-        },
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "Forni",
-      "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 367680,
       "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forni",
+        "url": "https://open.spotify.com/album/6vhQ99LYb0p4wNzGYSL7nj"
+      },
+      "artists": [
+        {
+          "name": "Los Ballers",
+          "url": "https://open.spotify.com/artist/5P6cHh4NtlZIaRKDHji2fY"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Forni",
+      "url": "https://open.spotify.com/track/5gQETwG8CDF63RZx91nO2Z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy summer 2025 ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,222 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,228 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 59 | [You Have To Have A Goal](https://open.spotify.com/track/1C7Vnu1mLDXALJyDwGOW1E) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [You Have To Have A Goal](https://open.spotify.com/album/5lOT9PhbKreAqABpYg8mVX) | 2:13 |
 | 60 | [Care For You](https://open.spotify.com/track/0JonhpHYNgsCjQzjlpbsS1) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Care For You](https://open.spotify.com/album/049MSquEgIYBZtSUx8Bhzy) | 3:14 |
 
-Snapshot ID: `AAAAAIGAjeZZpD5g+nrJ+ZyXDkjd3f9n`
+Snapshot ID: `AAAAAGcn8wTvu9zuy2OUFqua2lEl2mGJ`

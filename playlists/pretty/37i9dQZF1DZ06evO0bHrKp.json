@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 209890,
+  "num_followers": 209918,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAAe3jbGKIOm9Oy7cS0dMuO8",
+  "snapshot_id": "aKkEgAAAAACRwdHqW4WzoK/MQ6z9ZwMs",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 230806,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
+      "duration_ms": 178826,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 178826,
-      "name": "Rhythms",
-      "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"
+      "duration_ms": 230806,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "No Brains",
-      "url": "https://open.spotify.com/track/0pvUdDg7RELxs2XBz956r2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "No Brains",
+      "url": "https://open.spotify.com/track/0pvUdDg7RELxs2XBz956r2"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198358,
-      "name": "A Death In The Family",
-      "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 122693,
       "name": "My Direction",
       "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198358,
+      "name": "A Death In The Family",
+      "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 230184,
-      "name": "The New Sensation",
-      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming Bloody Murder",
         "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 204586,
       "name": "Skumf*k",
       "url": "https://open.spotify.com/track/0SQWxG33k9aRva3V3V9b66"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 230184,
+      "name": "The New Sensation",
+      "url": "https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs"
     },
     {
       "added_at": null,

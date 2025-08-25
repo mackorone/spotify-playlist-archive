@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1090887,
+  "num_followers": 1091662,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
+        "name": "Alligator Bites Never Heal (Extended)",
+        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 249302,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2025-08-18 07:22:07",
+      "album": {
         "name": "Sajni (From \"Laapataa Ladies\")",
         "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 170044,
       "name": "Sajni (From \"Laapataa Ladies\")",
       "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
-    },
-    {
-      "added_at": "2025-08-18 07:22:07",
-      "album": {
-        "name": "Alligator Bites Never Heal (Extended)",
-        "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 249302,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
     },
     {
       "added_at": "2025-08-18 07:22:07",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
-        "name": "Husn",
-        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Husn",
-      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
-    },
-    {
-      "added_at": "2025-08-18 07:22:07",
-      "album": {
         "name": "Winning Speech",
         "url": "https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
+    },
+    {
+      "added_at": "2025-08-18 07:22:07",
+      "album": {
+        "name": "Husn",
+        "url": "https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Husn",
+      "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
     },
     {
       "added_at": "2025-08-18 07:22:07",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
+        "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Mudassar Aziz",
+          "url": "https://open.spotify.com/artist/4iWWK7e1vOl68fqH2FDAuc"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        }
+      ],
+      "duration_ms": 294751,
+      "name": "Aashiq Tera",
+      "url": "https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG"
+    },
+    {
+      "added_at": "2025-08-18 07:22:07",
+      "album": {
         "name": "Chambal K Dakku",
         "url": "https://open.spotify.com/album/49ZD2Qc6wbbLeA4rC2FLsW"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 227654,
       "name": "Chambal K Dakku",
       "url": "https://open.spotify.com/track/4MtsPGGUTIs4qFD8gOSJ3D"
-    },
-    {
-      "added_at": "2025-08-18 07:22:07",
-      "album": {
-        "name": "Happy Bhag Jayegi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms"
-      },
-      "artists": [
-        {
-          "name": "Sohail Sen",
-          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
-        },
-        {
-          "name": "Mudassar Aziz",
-          "url": "https://open.spotify.com/artist/4iWWK7e1vOl68fqH2FDAuc"
-        },
-        {
-          "name": "Altamash Faridi",
-          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
-        }
-      ],
-      "duration_ms": 294751,
-      "name": "Aashiq Tera",
-      "url": "https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG"
     },
     {
       "added_at": "2025-08-18 07:22:07",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
-        "name": "Zaroor",
-        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
-      },
-      "artists": [
-        {
-          "name": "Aparshakti Khurana",
-          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
-        },
-        {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Zaroor",
-      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
-    },
-    {
-      "added_at": "2025-08-18 07:22:07",
-      "album": {
         "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
         "url": "https://open.spotify.com/album/7FiRTB1EBLdaarSWkxjvqC"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 247792,
       "name": "Tu Hain Toh Main Hoon (From \"Sky Force\")",
       "url": "https://open.spotify.com/track/4Lo6I7kkHWgAVRmdILLhig"
+    },
+    {
+      "added_at": "2025-08-18 07:22:07",
+      "album": {
+        "name": "Zaroor",
+        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Zaroor",
+      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
     },
     {
       "added_at": "2025-08-18 07:22:07",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
-        "name": "Jugraafiya (From \"Super 30\")",
-        "url": "https://open.spotify.com/album/3D4OuBfCaBO8FnY5RiZVIj"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 274352,
-      "name": "Jugraafiya - From \"Super 30\"",
-      "url": "https://open.spotify.com/track/2TYxwTH2HhL6OLVkZlsDLV"
-    },
-    {
-      "added_at": "2025-08-18 07:22:07",
-      "album": {
         "name": "Dil Tu Jaan Tu",
         "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
       },
@@ -1431,38 +1411,22 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
-        "name": "Jhol",
-        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+        "name": "Jugraafiya (From \"Super 30\")",
+        "url": "https://open.spotify.com/album/3D4OuBfCaBO8FnY5RiZVIj"
       },
       "artists": [
         {
-          "name": "Maanu",
-          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         },
         {
-          "name": "Annural Khalid",
-          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
-      "duration_ms": 265817,
-      "name": "Jhol",
-      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
-    },
-    {
-      "added_at": "2025-08-18 07:22:07",
-      "album": {
-        "name": "Desi Kalakaar",
-        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 253352,
-      "name": "Desi Kalakaar",
-      "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
+      "duration_ms": 274352,
+      "name": "Jugraafiya - From \"Super 30\"",
+      "url": "https://open.spotify.com/track/2TYxwTH2HhL6OLVkZlsDLV"
     },
     {
       "added_at": "2025-08-18 07:22:07",
@@ -1487,18 +1451,38 @@
     {
       "added_at": "2025-08-18 07:22:07",
       "album": {
-        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+        "name": "Desi Kalakaar",
+        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
       },
       "artists": [
         {
-          "name": "Mitraz",
-          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         }
       ],
-      "duration_ms": 171147,
-      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
+      "duration_ms": 253352,
+      "name": "Desi Kalakaar",
+      "url": "https://open.spotify.com/track/7m4CgL81VVIHaaiSxyH922"
+    },
+    {
+      "added_at": "2025-08-18 07:22:07",
+      "album": {
+        "name": "Jhol",
+        "url": "https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        }
+      ],
+      "duration_ms": 265817,
+      "name": "Jhol",
+      "url": "https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m"
     },
     {
       "added_at": "2025-08-18 07:22:07",
@@ -1551,6 +1535,22 @@
       "duration_ms": 232568,
       "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
       "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
+    },
+    {
+      "added_at": "2025-08-18 07:22:07",
+      "album": {
+        "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+        "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
+      },
+      "artists": [
+        {
+          "name": "Mitraz",
+          "url": "https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX"
+        }
+      ],
+      "duration_ms": 171147,
+      "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+      "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
       "added_at": "2025-08-18 07:22:07",

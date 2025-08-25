@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 298711,
+  "num_followers": 298729,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABXXKHQ/eAxahEoV8TFZAHU",
+  "snapshot_id": "aKkEgAAAAACW3rp4feQYZZNf+k6iSAlI",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
-        "url": "https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 324589,
-      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
-      "url": "https://open.spotify.com/track/6FSwV4KcUqDbI4ezdtJi7i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Clearly Quite Absurd (20th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/2HRy0wUf6WzybWC8rPIBuZ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324589,
+      "name": "Clearly Quite Absurd - 20th Anniversary Remix",
+      "url": "https://open.spotify.com/track/6FSwV4KcUqDbI4ezdtJi7i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Taste The Band: 35th Anniversary Edition",
-        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "You Keep On Moving - 2010 Digital Remaster",
-      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 448333,
       "name": "Mistreated - Remastered 2004",
       "url": "https://open.spotify.com/track/34RISamoO5iubsOanSlpQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Taste The Band: 35th Anniversary Edition",
+        "url": "https://open.spotify.com/album/6zleJIShCZ0opG8jGuOGMy"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "You Keep On Moving - 2010 Digital Remaster",
+      "url": "https://open.spotify.com/track/7CsEBPiG2z6gR3S0fstZ1T"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The House Of Blue Light",
-        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "Bad Attitude",
-      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 280466,
       "name": "Might Just Take Your Life - Remastered 2004",
       "url": "https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 286733,
+      "name": "Bad Attitude",
+      "url": "https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Portable Door",
-      "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 260466,
       "name": "Lay Down, Stay Down - Remastered 2004",
       "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/5nDq7sWv4ORqTKKvLNl9Oe"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 231160,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209200,
       "name": "Into the Fire - 1995 Remaster",
       "url": "https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Pictures of You",
+      "url": "https://open.spotify.com/track/6vS3Tx1vR80vXENELsLv79"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "=1",
-        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Lazy Sod",
-      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purpendicular",
         "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 256626,
       "name": "Vavoom: Ted The Mechanic",
       "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "=1",
+        "url": "https://open.spotify.com/album/4wSHMlOxOpLLs1boWeAteq"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Lazy Sod",
+      "url": "https://open.spotify.com/track/227uVURfzGhYMJlKUMfPjT"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep Purple",
-        "url": "https://open.spotify.com/album/4vjBkjJeJByK2swq4DnuPc"
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 305773,
-      "name": "Lalena - 2000 Remaster",
-      "url": "https://open.spotify.com/track/4mBXB13NhpYnPqP7TepGsl"
+      "duration_ms": 205973,
+      "name": "You Can't Do It Right - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/719mZpNNAbExUe4Wzzdzaz"
     }
   ],
   "unique_name": "This Is Deep Purple",

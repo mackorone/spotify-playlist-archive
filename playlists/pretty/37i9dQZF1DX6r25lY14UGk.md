@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: The Tree of Wisdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,366 likes - 161 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,431 likes - 161 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

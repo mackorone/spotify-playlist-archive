@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from ANOTR,  Sammy Virji + Chris Lake, Flume, & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,723 likes - 130 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,742 likes - 130 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,7 +136,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 126 | [Perks Of The Roll](https://open.spotify.com/track/6EwCKx9aRcjTw6x25OmT8t) | [Sam Curran](https://open.spotify.com/artist/4BBFBtFx8apgzn34zfXIdA), [Harry Unsworth](https://open.spotify.com/artist/1cS0sZXi7K2blpbendbE2A) | [Perks Of The Roll EP](https://open.spotify.com/album/7tsWvqK1vEqmT59vtufFQH) | 2:57 |
 | 127 | [All Night](https://open.spotify.com/track/035Wl8b1RmLhAcSP7lAQth) | [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [All Night](https://open.spotify.com/album/2y47mDP88xXAWvBdX68YOg) | 3:48 |
 | 128 | [Broadcastyl](https://open.spotify.com/track/6VuhTKDDOfRDySMag7Rr96) | [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [The Answer Breaks](https://open.spotify.com/album/2MCmFPT7F9GiuR6glc4XPU) | 5:33 |
-| 129 | [Kiveti \- Tefo Foxx Remix](https://open.spotify.com/track/1elJM7cko9obdm2ZwNXqCd) | [Native P.](https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Tefo Foxx](https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh) | [Kiveti \(Tefo Foxx Remix\)](https://open.spotify.com/album/3qFoGXCg0q7l99LJkHUJyD) | 4:22 |
-| 130 | [Party Sober](https://open.spotify.com/track/17t4JqO8MOdvKd17yPhlSE) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [Vampire Sex](https://open.spotify.com/artist/2qP2zz3K0jWe9OP7v7KLVV), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Party Sober](https://open.spotify.com/album/3nzNoXLp9hdvpsm6u6A7zK) | 3:41 |
+| 129 | [Party Sober](https://open.spotify.com/track/17t4JqO8MOdvKd17yPhlSE) | [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5), [Vampire Sex](https://open.spotify.com/artist/2qP2zz3K0jWe9OP7v7KLVV), [Mood Child](https://open.spotify.com/artist/1LVqAYTWun2fwHqr91UdOm) | [Party Sober](https://open.spotify.com/album/3nzNoXLp9hdvpsm6u6A7zK) | 3:41 |
+| 130 | [Kiveti \- Tefo Foxx Remix](https://open.spotify.com/track/1elJM7cko9obdm2ZwNXqCd) | [Native P.](https://open.spotify.com/artist/5L3T44EFiAzvsqmpFMFhSr), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Tefo Foxx](https://open.spotify.com/artist/4lbSJYKEwAaBPoQNIjdljh) | [Kiveti \(Tefo Foxx Remix\)](https://open.spotify.com/album/3qFoGXCg0q7l99LJkHUJyD) | 4:22 |
 
 Snapshot ID: `AAAAAIerEsWYAt+5u5La29K/wRv6lNXX`

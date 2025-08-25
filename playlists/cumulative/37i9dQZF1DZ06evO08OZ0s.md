@@ -4,7 +4,7 @@
 
 > This is Kelli\-Leigh\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 6 min
+80 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Never Be](https://open.spotify.com/track/7JJGKSAOyyewFxFnqvrX7D) | [Tim Mason](https://open.spotify.com/artist/5GehdPjguGOCZifnKNrXi9), [Capa \(Official\)](https://open.spotify.com/artist/2RGj10V2dzEJO92R6v7eGA), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Be](https://open.spotify.com/album/0dKWkIUNQvqI3KOT0D8PcA) | 3:45 | 2024-05-14 |  |
 | [Never Dance Again](https://open.spotify.com/track/1F1z4H6hVC4wXSsPZKm8hV) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3FOC9lnnk67fAMm7g3MO38) | 3:12 | 2025-08-19 | 2025-08-23 |
 | [Never Dance Again](https://open.spotify.com/track/3EcT70jEwuYlpKIFbncIoR) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Never Dance Again](https://open.spotify.com/album/3KcKrqVnhRUsdN1EVt1BNh) | 3:12 | 2024-05-14 | 2025-08-19 |
-| [New Chic](https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy) | 2:59 | 2024-05-14 |  |
+| [New Chic](https://open.spotify.com/track/4V69w339JdXeJqkxzhvhhY) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/6Ihk1ZxI4q045l0qLo9uo8) | 2:59 | 2025-08-25 |  |
+| [New Chic](https://open.spotify.com/track/5ser5Jd8vRDXUxBz7X9r0Y) | [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [New Chic](https://open.spotify.com/album/5TETwfZ53g6uLajO5wNfMy) | 2:59 | 2024-05-14 | 2025-08-25 |
 | [Nightales](https://open.spotify.com/track/2dI3EvlV1W8XWRrmlKWiif) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Nightales](https://open.spotify.com/album/2PZJvrn7vNFz9pFeQZdwZx) | 3:15 | 2025-02-25 |  |
 | [Nightales](https://open.spotify.com/track/4r0zC8FXAyB7ElkqrnMzF3) | [Redfield](https://open.spotify.com/artist/2cW1LUTqGx2JMe0oAGx9OV), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Nightales](https://open.spotify.com/album/5kPhV5VRedNjMpsJx9XkvI) | 3:15 | 2024-05-14 | 2025-02-25 |
 | [No More Chances \(If You Really Love Somebody\)](https://open.spotify.com/track/2cIdK8ARSHQzVHB1y8AaSB) | [Wilson](https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1), [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [No More Chances \(If You Really Love Somebody\)](https://open.spotify.com/album/52abydu94tscxlsziY2dX5) | 3:09 | 2024-05-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 62 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 63 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 20 | [Him Too](https://open.spotify.com/track/1jC4rFGFCNK1CqODO7xe3i) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/3t5VFTO58tnYpZVeJYGQhD) | 3:09 |
 | 21 | [Limbo](https://open.spotify.com/track/6eOrihTpiGhyDNP4w0HEjI) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Falling Into Place](https://open.spotify.com/album/6kiNbfqDF1N0OVOc58W2EQ) | 3:03 |
 | 22 | [In a Way](https://open.spotify.com/track/2716XnQDivAHzu3nAae4zz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 2:36 |
-| 23 | [Meet Me](https://open.spotify.com/track/5Gz4NzVpyj2ijHbmZtRmfA) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/6ehpo5SkVrdRaNdiaTHhJY) | 3:14 |
+| 23 | [Meet Me](https://open.spotify.com/track/4uSBMtugk4a1CFPuXjUyQ4) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Pain and Paradise](https://open.spotify.com/album/6ksW47wezzWZiHcQbSYTAJ) | 3:14 |
 | 24 | [For Sport](https://open.spotify.com/track/1oxThJ5QQGQE3HyKxypz5U) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [For Sport](https://open.spotify.com/album/03HklFofKBkibQz7t0SPzt) | 2:26 |
 | 25 | [Under My Skin](https://open.spotify.com/track/290neMpuBxv2NHCSHvH50Q) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Peace and Offerings](https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy) | 3:18 |
 | 26 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 |
@@ -55,20 +55,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKk3TLwZn2ny.md) - [plain]
 | 45 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 |
 | 46 | [I'm Different](https://open.spotify.com/track/1KWEKSKgk6EyocPJpFwiny) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different](https://open.spotify.com/album/1W96GSCp4z2S8Mt5NA2Is2) | 2:55 |
 | 47 | [The Middle](https://open.spotify.com/track/6ZdEk3NpGOn0pk8AcYoksu) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Syd B](https://open.spotify.com/artist/3DjOPWwOPmmhNMGpRlmnzb) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:30 |
-| 48 | [Humble](https://open.spotify.com/track/1nPaowh2oLfNSAjvizZPIe) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 3:22 |
-| 49 | [Tongues](https://open.spotify.com/track/1aOby6ZVZfJ1LWUftHYgAa) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:45 |
-| 50 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
-| 51 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
-| 52 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
-| 53 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
-| 54 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
-| 55 | [Don't I Know It](https://open.spotify.com/track/1x9oYJbwtUZMBckVuOMxOO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp) | [Hiding](https://open.spotify.com/album/23B2wzAEcAqJ4g8ttTR8U6) | 3:28 |
-| 56 | [Green Light](https://open.spotify.com/track/7fhdizjor9wMZ5J0rIbMWA) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Ay Em](https://open.spotify.com/artist/1IiTy72Esd2mIfGuvsvdQB) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:03 |
-| 57 | [Lonely](https://open.spotify.com/track/70YQBlE7bPLaCm1nbEHDvU) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely](https://open.spotify.com/album/4N5rLXDGNp8TK3ujskFMzF) | 2:29 |
-| 58 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
-| 59 | [Ever Since You Said I'm Leaving](https://open.spotify.com/track/5pn6tvCHNJknDG9J6wiHWp) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Ever Since You Said I'm Leaving](https://open.spotify.com/album/5VYr0zSGsVUiyXpO8DiH84) | 2:29 |
-| 60 | [Tempo](https://open.spotify.com/track/68Dp3Ha2XlXoX3jM3mc00M) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Tempo](https://open.spotify.com/album/3cHeKy1rYx7jySSS09uQ22) | 1:56 |
-| 61 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
-| 62 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
+| 48 | [Not There Yet](https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Not There Yet](https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c) | 3:33 |
+| 49 | [Humble](https://open.spotify.com/track/1nPaowh2oLfNSAjvizZPIe) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Austin Brown](https://open.spotify.com/artist/2RvMNd0SA3vRFlHm20fn13) | [Capacity to Love](https://open.spotify.com/album/5UuzlicJ7sCYpVezzHdIHK) | 3:22 |
+| 50 | [Tongues](https://open.spotify.com/track/1aOby6ZVZfJ1LWUftHYgAa) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Jalen Santoy](https://open.spotify.com/artist/41DGOfz7IFMVvf9wKAzeZS) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:45 |
+| 51 | [Exes](https://open.spotify.com/track/27eQYc8ciIqL6INwL5HGSr) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Exes](https://open.spotify.com/album/3glkrvhiY036qvl2pyqXTK) | 2:44 |
+| 52 | [trust](https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [trust](https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu) | 3:09 |
+| 53 | [Give It To](https://open.spotify.com/track/2XpitGhV7RNORaO2x07e2s) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [High My Name Is](https://open.spotify.com/album/1b9Zonmd4gMhp2BILQ9DiV) | 2:50 |
+| 54 | [Gone Clear](https://open.spotify.com/track/1ZplhzEGuHphc8Flf8cggm) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Gone Clear](https://open.spotify.com/album/4EZYAiMj5DV0w7jd7dG8UF) | 3:51 |
+| 55 | [keep](https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 3:06 |
+| 56 | [Don't I Know It](https://open.spotify.com/track/1x9oYJbwtUZMBckVuOMxOO) | [Michael Christmas](https://open.spotify.com/artist/1POk07q5vJ4NcdOgkLyPzp) | [Hiding](https://open.spotify.com/album/23B2wzAEcAqJ4g8ttTR8U6) | 3:28 |
+| 57 | [Green Light](https://open.spotify.com/track/7fhdizjor9wMZ5J0rIbMWA) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [Ay Em](https://open.spotify.com/artist/1IiTy72Esd2mIfGuvsvdQB) | [Deep End](https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq) | 3:03 |
+| 58 | [Lonely](https://open.spotify.com/track/70YQBlE7bPLaCm1nbEHDvU) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely](https://open.spotify.com/album/4N5rLXDGNp8TK3ujskFMzF) | 2:29 |
+| 59 | [Wait For Me](https://open.spotify.com/track/60PG0vmgD0iaOyCviT6Y93) | [Asha Gold](https://open.spotify.com/artist/1sXQIRMGgEwmQktIO4XpWm) | [Wait For Me](https://open.spotify.com/album/59c1N6sNmrTW3aoVzmQvXE) | 3:08 |
+| 60 | [Ever Since You Said I'm Leaving](https://open.spotify.com/track/5pn6tvCHNJknDG9J6wiHWp) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Ever Since You Said I'm Leaving](https://open.spotify.com/album/5VYr0zSGsVUiyXpO8DiH84) | 2:29 |
+| 61 | [Tempo](https://open.spotify.com/track/68Dp3Ha2XlXoX3jM3mc00M) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Tempo](https://open.spotify.com/album/3cHeKy1rYx7jySSS09uQ22) | 1:56 |
+| 62 | [take 7](https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR) | [Izabel](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [SCENARIOS](https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO) | 1:53 |
+| 63 | [Cherryade](https://open.spotify.com/track/4THRgFPO27hQxYi672AI8q) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM), [JD\. REID](https://open.spotify.com/artist/7qKjoXJornKJBClL7kucsZ) | [Dead Sweet](https://open.spotify.com/album/4VQdvEIuUSQsIVrRahezeH) | 3:19 |
 
-Snapshot ID: `Ab6TKgAAAABCkSJ2F4NTr+3iNClWNXuE`
+Snapshot ID: `Ab6YygAAAAD2+M2KbsVeHBy/A4FL5S6U`

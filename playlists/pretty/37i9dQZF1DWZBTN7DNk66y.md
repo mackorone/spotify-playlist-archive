@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,508 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,517 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 | 77 | [V13](https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [V13](https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ) | 2:55 |
 | 78 | [¿QUÉ VES?](https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Vieto Sound System](https://open.spotify.com/artist/2TQQUkzXXK2JfkKl2Vxkys) | [¿QUÉ VES?](https://open.spotify.com/album/4q51LFiTNCS7zV1FMSSQVF) | 5:06 |
 | 79 | [Yo te nombro libertad \- Banda Sonora Original de "El don absoluto"](https://open.spotify.com/track/36EM8dPAucgz0PsA4wHgin) | [Catalina Claro](https://open.spotify.com/artist/2aEyU3giSY5pof6HDleTvy), [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Yo te nombro libertad \(Banda Sonora Original de "El don absoluto"\)](https://open.spotify.com/album/2wFi5fSoYU4R7Nj15jwa33) | 3:51 |
-| 80 | [Así Sea](https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Así Sea](https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB) | 3:36 |
-| 81 | [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 |
+| 80 | [Quién da Más?](https://open.spotify.com/track/0QOBCqqydSvpeapa87Edzw) | [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Quién da Más?](https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk) | 4:32 |
+| 81 | [Así Sea](https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Así Sea](https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB) | 3:36 |
 | 82 | [Tequila](https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ), [La Nueva Imperial](https://open.spotify.com/artist/77ACTvw7McpnqutCOJx4o5) | [Tequila](https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV) | 3:22 |
 | 83 | [configuracionesonduladas\_17.11.23\_nicetoclub\_bsas](https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Las Luces Que Estaban Ocultas \[en vivo\]](https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo) | 5:24 |
 | 84 | [LLORAR](https://open.spotify.com/track/3CHdlTAY8Lf7ldc0pJeIEf) | [Magdalena Matthey](https://open.spotify.com/artist/0Dz64lyAnwZJDpF98j0ntV), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [LLORAR](https://open.spotify.com/album/6TO1yAkdzT3CRVhJ32BZ3M) | 3:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 186321,
+  "num_followers": 186376,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADTnqNek/C/CW4LagJ9ghEp",
+  "snapshot_id": "aKkEgAAAAABYeBeeaCcLtU+x/2J5DSwf",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Me Olvidaste",
-      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Mas Ranchero De...",
         "url": "https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 195506,
       "name": "Y Que Ganaste",
       "url": "https://open.spotify.com/track/58f8H6UCND0m4Isp1NufSH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Me Olvidaste",
+      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
     },
     {
       "added_at": null,

@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-21",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -4512,7 +4512,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 126600,
       "name": "Buen Tipo",
       "url": "https://open.spotify.com/track/1ITyoiqlLwTl9GeIfKltYt"
@@ -6835,6 +6835,28 @@
     },
     {
       "album": {
+        "name": "Confess Your Love",
+        "url": "https://open.spotify.com/album/2PtCXk5zuZ1vuMfWGfZyyO"
+      },
+      "artists": [
+        {
+          "name": "Jiandro",
+          "url": "https://open.spotify.com/artist/7cRE1zBQ5riXZrsoU8Z8Re"
+        },
+        {
+          "name": "ola.wav",
+          "url": "https://open.spotify.com/artist/1KJ9LBSLbpUb7rHAUdgV5I"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131253,
+      "name": "Confess Your Love",
+      "url": "https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q"
+    },
+    {
+      "album": {
         "name": "Confortas Pero Da\u00f1as",
         "url": "https://open.spotify.com/album/0pokgIdya1JBKlYSaF7R3X"
       },
@@ -9139,6 +9161,28 @@
     },
     {
       "album": {
+        "name": "DOORS LIGHT FUNK",
+        "url": "https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV"
+      },
+      "artists": [
+        {
+          "name": "DJ VTTT77",
+          "url": "https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X"
+        },
+        {
+          "name": "DJ VYZ",
+          "url": "https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103495,
+      "name": "DOORS LIGHT FUNK - SLOWED",
+      "url": "https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR"
+    },
+    {
+      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -9238,7 +9282,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 180373,
       "name": "Driving with My Darling",
       "url": "https://open.spotify.com/track/5HlRJ3ZIO1fOPXqKNAWrmT"
@@ -12044,7 +12088,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -14906,7 +14950,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 171892,
       "name": "Insuperable",
       "url": "https://open.spotify.com/track/1ivbpcbZlCnqjvv6UjUDTe"
@@ -18140,7 +18184,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 122125,
       "name": "MamaZota",
       "url": "https://open.spotify.com/track/4jFmNWISldJaPH8EA23gxb"
@@ -27778,7 +27822,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 158480,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
@@ -28630,7 +28674,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -31886,7 +31930,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -34017,6 +34061,24 @@
     },
     {
       "album": {
+        "name": "El Kuko Esta En La Kalle",
+        "url": "https://open.spotify.com/album/6oldAaJRR8kCE1o0wJ8aBL"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Vuelve Mami",
+      "url": "https://open.spotify.com/track/10kW99HEY6jT0FUwvVAlM9"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -34504,7 +34566,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 203333,
       "name": "WEEKND",
       "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
@@ -35764,7 +35826,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"

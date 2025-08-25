@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,252 songs - 12 day 5 hr 47 min
+5,253 songs - 12 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5147,6 +5147,7 @@
 | [WORST THING](https://open.spotify.com/track/5bzAPG8jGfPLN77q49FvMQ) | [Veldor](https://open.spotify.com/artist/0HeG2fU31u2dMh2K82WqLc) | [WORST THING](https://open.spotify.com/album/4qApsma8HyCAnJ27LbSuIM) | 2:09 | 2024-10-08 | 2024-10-21 |
 | [Worth It](https://open.spotify.com/track/5WUimXXg0VCx2HhhRk5hnX) | [The Fantasy Exchange](https://open.spotify.com/artist/6tLYl2lVuJWyAoglaNd9eL), [Nick Hagelin](https://open.spotify.com/artist/4uzUAkAnJ15k3cBrI8Op9W), [tilde](https://open.spotify.com/artist/2cSdQ45t0UV2O2y527yKox), [Kell](https://open.spotify.com/artist/1IjifYOYo6VDWn4St9OM29) | [Worth It](https://open.spotify.com/album/3xncuNtIfCjGqQTfZLzKEZ) | 3:35 | 2022-09-21 | 2022-10-09 |
 | [Worth Your While](https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9) | [Freedust](https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5) | [Worth Your While](https://open.spotify.com/album/7gU4XM3CXcvvgGLjwvPrAe) | 3:18 | 2023-04-20 | 2023-05-09 |
+| [WORTHY](https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5) | [Omari Dreams](https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3) | [WORTHY](https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG) | 2:09 | 2025-08-24 |  |
 | [Worthy](https://open.spotify.com/track/2osmujeHiS4OlPSOnHR5Hp) | [Rina Chanel](https://open.spotify.com/artist/3Vxlbac46VEnaZ360knkHu) | [Worthy](https://open.spotify.com/album/5kIKa0G1CyhSMAECu1uwiI) | 4:50 | 2020-12-09 | 2021-01-02 |
 | [Would You Stop Loving Me](https://open.spotify.com/track/7x1X6BsAZf5EC81hheT3Ro) | [Matthew Carter](https://open.spotify.com/artist/0SN2AUrCuJIdliVkrds7Po) | [Trip Hop Fun](https://open.spotify.com/album/5UmrBkAg1mVP7e54wbawMs) | 2:47 | 2025-05-17 | 2025-06-01 |
 | [wouldn't it be nice?](https://open.spotify.com/track/611Bd4ADYITpDyU9tapWNw) | [Brett Castro](https://open.spotify.com/artist/7KiNjNQ66cfEJEgXCmIuYe) | [wouldn't it be nice?](https://open.spotify.com/album/2Ylo6MCaKM6wMtH6WX4B0B) | 2:31 | 2022-12-30 | 2023-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Inkandescencia con Laura Dsk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,591 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,589 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 90 | [Esta es una Noche de Rock & Roll](https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Esta es una Noche de Rock & Roll](https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D) | 3:00 |
 | 91 | [Enamorado de la Muerte](https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp) | [RIP](https://open.spotify.com/artist/4P40mhKEotTwKd3cFNtwG4) | [No Te Muevas y Zona Especial Norte](https://open.spotify.com/album/37R9s562KSQPqUm2TYWe7h) | 3:46 |
 | 92 | [Anda y Que Te Den](https://open.spotify.com/track/57BAY5EGsMU0halCvHCsW6) | [Arpaviejas](https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA) | [Anda y Que Te Den](https://open.spotify.com/album/7tQsgIINdbedrPBaQctcy2) | 3:44 |
-| 93 | [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 |
-| 94 | [Resistiré](https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF) | 3:47 |
+| 93 | [Resistiré](https://open.spotify.com/track/4QDnW7sOmrPtgkQEQ1ZHIh) | [Los Muertos de Cristo](https://open.spotify.com/artist/3kB55UDQKH1NV9TLKWgE8p) | [Bienvenidos al Infierno \(En Directo\)](https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF) | 3:47 |
+| 94 | [Amanece](https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli) | [Chicharrica](https://open.spotify.com/artist/0EO3PTObTjjtwoSowPSOpy) | [Quiero Romper](https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI) | 3:32 |
 | 95 | [Las Drogas](https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS) | 2:22 |
 | 96 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
-| 97 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
+| 97 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
 | 98 | [Su Falso Mundo \- original](https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [No Hay Agua](https://open.spotify.com/album/1apZlul36uZlJunetvaxoq) | 3:18 |
-| 99 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
+| 99 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 |
 | 100 | [Vieja Guardia](https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Vieja Guardia](https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl) | 2:50 |
 
 Snapshot ID: `AAAAAGscRUW9568YlH47hNlvfocdsGWZ`

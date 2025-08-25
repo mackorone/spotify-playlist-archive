@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! We are one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,099,415 likes - 111 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,099,395 likes - 111 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

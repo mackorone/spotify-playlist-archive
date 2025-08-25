@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,285 likes - 150 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,346 likes - 150 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,9 +137,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 127 | [La Vida Es Fría](https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa) | [Jason Joshua](https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn) | [La Vida Es Fría](https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp) | 3:22 |
 | 128 | [I Love You for All Seasons](https://open.spotify.com/track/03DQO1cC5RzTWRxJLzJCgy) | [The Fuzz](https://open.spotify.com/artist/052NpRSiz4SQTsFnvwMP6t) | [Sisters of Soul; the Sweeter Voices of Soul](https://open.spotify.com/album/6VRBMd2t0mc6Kmsc0Cw86l) | 3:04 |
 | 129 | [Earth Angel \- Stereo](https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP) | [Johnny Maestro](https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw), [The Crests](https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U) | [For Collectors Only](https://open.spotify.com/album/56XCkJo7HtVwYmGSrt2vHo) | 2:43 |
-| 130 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
+| 130 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |
 | 131 | [Sweet Thing](https://open.spotify.com/track/1YvNzsK7eD8Bu7JShCjD90) | [Nick Wilkins](https://open.spotify.com/artist/1yHR6PFBi6LIe4hsleZDDS), [Adonai Melodías](https://open.spotify.com/artist/5GdCwsX6wfVlTWdv76aUzI), [Scott Griffin](https://open.spotify.com/artist/7rt6LADzZyTTDxwjsM4ASJ), [Aléjandra Soleil](https://open.spotify.com/artist/6Qpj6XaX9rQr4XXOgFfntn) | [Sweet Thing](https://open.spotify.com/album/4UDP4rLKDeLOFxzPPyoNI9) | 3:08 |
-| 132 | [Always and Forever \- Edit](https://open.spotify.com/track/0fKDnkXdfJwk0DEW9W83VY) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Heatwave's Greatest Hits](https://open.spotify.com/album/3eZkKm4IbRjyHqbdLm7qDr) | 4:47 |
+| 132 | [Nobody's Clown](https://open.spotify.com/track/1NK4DqwYCKBZV6WmRNY3pV) | [Los Yesterdays](https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq) | [Nobody's Clown](https://open.spotify.com/album/7mrdqSpq1zbwIFRUWosuFQ) | 3:29 |
 | 133 | [Tired Of Being Alone](https://open.spotify.com/track/6d9rNfRFOQ0XmsUwJ8C5J0) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 2:43 |
 | 134 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Best Of The Gap Band](https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL) | 6:16 |
 | 135 | [Between the Sheets](https://open.spotify.com/track/53HL9X1ZFXUvN8OS7HsHCX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between The Sheets](https://open.spotify.com/album/3c6YALUwfrJ1wIW5pWjpUc) | 5:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,359 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,368 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [One Light \(feat\. Yung Bleu\) \- Remix](https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA) | [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [One Light \(feat\. Yung Bleu\) \[Remix\]](https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g) | 3:15 |
 | 50 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 
-Snapshot ID: `aKezAAAAAAD81YytBojd7HlZzHlf7+YG`
+Snapshot ID: `aKkEgAAAAAD6rC5G/R7zozVmBOiJCBrE`

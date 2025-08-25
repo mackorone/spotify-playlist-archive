@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,945 likes - 150 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,993 likes - 150 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 119 | [16 Days](https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT) | [Whiskeytown](https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem) | [Strangers Almanac \[Deluxe Edition\]](https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX) | 3:54 |
 | 120 | [It Ain't Over Yet](https://open.spotify.com/track/1fB28ISF5QwsPu2nqAPRSV) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [It Ain't Over Yet](https://open.spotify.com/album/4mb6UF8cOjSY9pEB3gB1EL) | 5:14 |
 | 121 | [Canola Fields](https://open.spotify.com/track/1ik1NCsVOJsp5g0ZLKGCXI) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Canola Fields](https://open.spotify.com/album/5KvJY1u6NhPHkOR3F5iWue) | 4:49 |
-| 122 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
-| 123 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 |
+| 122 | [Mother, Son and Holy Ghost](https://open.spotify.com/track/04W1XNbJ9PLJYxBfK6X0jQ) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [For the Birds](https://open.spotify.com/album/0zlwp5cQIZ9xBetIjjLyyH) | 5:38 |
+| 123 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 | 124 | [The City of New Orleans \- Original Version](https://open.spotify.com/track/7jbb0XkDk6cuif7AVu3gdW) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Hobo's Lullaby \(remastered 2004\)](https://open.spotify.com/album/513P0CXEvPuSG4MCOGHt0y) | 4:34 |
 | 125 | [The Muse](https://open.spotify.com/track/2WKY4USjFOT36XpRD8SD6X) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 3:21 |
 | 126 | [Frankie Please](https://open.spotify.com/track/7iL3tEPfvqOnZ6glFtWhRm) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Tarpaper Sky](https://open.spotify.com/album/2VkipAw4rgbFGAUyI4cdph) | 2:43 |

@@ -6063,6 +6063,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -13354,6 +13372,28 @@
       "duration_ms": 119413,
       "name": "Contando",
       "url": "https://open.spotify.com/track/6bzQkBLxfsiBUT3mtWpDSY"
+    },
+    {
+      "album": {
+        "name": "Vilo",
+        "url": "https://open.spotify.com/album/3jd4u3feW4XgLKcNiVMuix"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        },
+        {
+          "name": "Paolo Aolo",
+          "url": "https://open.spotify.com/artist/7MQqiBD73usjKnSIpejBi5"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245722,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2UXMLGd6fHLu2oNhK73qT9"
     },
     {
       "album": {
@@ -28532,7 +28572,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 133535,
       "name": "iGO",
       "url": "https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz"
@@ -34470,7 +34510,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 404213,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz"

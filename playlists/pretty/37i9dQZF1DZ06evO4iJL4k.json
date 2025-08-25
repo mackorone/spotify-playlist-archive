@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 310869,
+  "num_followers": 310947,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADB1rMikpY7w33Wgt6nOCiK",
+  "snapshot_id": "aKkEgAAAAAAhaFymJoz4M5uRXOAkCsL8",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAOS DLX",
-        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
       },
       "artists": [
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "IbraBeats",
+          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
         }
       ],
-      "duration_ms": 154751,
-      "name": "DISCOVERY",
-      "url": "https://open.spotify.com/track/1FdjZ2MUFy1wj9cULYN1Ux"
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
     },
     {
       "added_at": null,
@@ -371,26 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+        "name": "CAOS DLX",
+        "url": "https://open.spotify.com/album/4F0IyhC2CjV5DtBK0uo5eM"
       },
       "artists": [
         {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        },
+        {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "IbraBeats",
-          "url": "https://open.spotify.com/artist/30Ynhg2u321yVxT0Qa8D8D"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
         }
       ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR"
+      "duration_ms": 154751,
+      "name": "DISCOVERY",
+      "url": "https://open.spotify.com/track/1FdjZ2MUFy1wj9cULYN1Ux"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 296122,
+      "name": "Isso Que \u00c9 Vida",
+      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 611076,
       "name": "Poesia Ac\u00fastica #9 Melhor Forma",
       "url": "https://open.spotify.com/track/0Qm3FcWgkif9MeY6lgcX11"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 296122,
-      "name": "Isso Que \u00c9 Vida",
-      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
     },
     {
       "added_at": null,
@@ -962,15 +962,11 @@
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 210943,
-      "name": "Louco Pra Voltar",
-      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
+      "duration_ms": 227681,
+      "name": "Fa\u00e7a Voc\u00ea Mesmo",
+      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
     },
     {
       "added_at": null,
@@ -1070,11 +1066,15 @@
         {
           "name": "Filipe Ret",
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
         }
       ],
-      "duration_ms": 227681,
-      "name": "Fa\u00e7a Voc\u00ea Mesmo",
-      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
+      "duration_ms": 210943,
+      "name": "Louco Pra Voltar",
+      "url": "https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc"
     },
     {
       "added_at": null,

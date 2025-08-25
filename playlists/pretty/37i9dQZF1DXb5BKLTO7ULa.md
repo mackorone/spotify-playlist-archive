@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Doja Cat, sombr, Florence + The Machine, Bankzitters & Ronnie Flex en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,731 likes - 87 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,719 likes - 87 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

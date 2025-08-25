@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 232407,
+  "num_followers": 232423,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABhUjBcRQ+XkXgmRagdGvIE",
+  "snapshot_id": "aKkEgAAAAADg27JuRgsfY/3/9HtbG17V",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tres Veces Tres",
+        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Busc\u00e1ndote (Paraguayito Dub)",
+      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cari\u00f1ito (Mexican Institute of Sound Mix)",
         "url": "https://open.spotify.com/album/6pvQhpi3DJpo6OBf1QootJ"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 183040,
       "name": "Cari\u00f1ito - Mexican Institute of Sound Mix",
       "url": "https://open.spotify.com/track/2wwGmqiQTfr92XB7Lkx5i8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Veces Tres",
-        "url": "https://open.spotify.com/album/6kDnUJJlq5qQmUwJqPKYtS"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Busc\u00e1ndote (Paraguayito Dub)",
-      "url": "https://open.spotify.com/track/3APFukPC9NZHmBxbNf3u0n"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Una Vez",
-        "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 228360,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
+      "duration_ms": 179160,
+      "name": "El Lado Oscuro",
+      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "Si Una Vez",
+        "url": "https://open.spotify.com/album/1p8yftJjT6mj2K9dcZ5ht0"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 179160,
-      "name": "El Lado Oscuro",
-      "url": "https://open.spotify.com/track/4LHCmlYZJ9LGQa62C2kolH"
+      "duration_ms": 228360,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/7ljTI8Yt1JkumFmjTcvnGf"
     },
     {
       "added_at": null,
@@ -623,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+        "name": "Ofrenda",
+        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 260666,
-      "name": "Cumbia del Olvido",
-      "url": "https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr"
+      "duration_ms": 192560,
+      "name": "Cuando Estoy Contigo (feat. Flavio Cianciarulo)",
+      "url": "https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak"
     },
     {
       "added_at": null,
@@ -659,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ofrenda",
-        "url": "https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97"
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
       "artists": [
         {
           "name": "Panteon Rococo",
           "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 192560,
-      "name": "Cuando Estoy Contigo (feat. Flavio Cianciarulo)",
-      "url": "https://open.spotify.com/track/0donCfhuT3BIjytI3Nqsak"
+      "duration_ms": 260666,
+      "name": "Cumbia del Olvido",
+      "url": "https://open.spotify.com/track/3OJ9kFQsKJxyx4aqFXZuHr"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 258098,
+  "num_followers": 258073,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAA6p2q0hikG9Mb9lwX3FMt5",
+  "snapshot_id": "aKkEgAAAAABaMdO5sQYcV92h1cSlZjer",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls",
         "url": "https://open.spotify.com/album/0UvjTChu7cW8uJ6Cwp8173"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 198400,
       "name": "girls",
       "url": "https://open.spotify.com/track/04OSnqlwlBJMvidYccraVz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Música refrescante, para vencer el calor.
 
-94 songs - 5 hr 27 min
+95 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Mis Noches Sin Ti](https://open.spotify.com/track/1qwQffK92BNbtQj8GSqLGD) | [Paiko](https://open.spotify.com/artist/4UErGdtNcywYiueyB9CTpd) | [Mis Noches Sin Ti](https://open.spotify.com/album/3G8XztonLrjIsct6j2MqfU) | 3:25 | 2024-04-05 |  |
 | [Máquina Del Tiempo](https://open.spotify.com/track/6wJ8znKpoOz9IGhWB7g2b5) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Invencible \(El Patrón\)](https://open.spotify.com/album/2D1fN7Gqs5lUtqkU2NdMfS) | 3:56 | 2023-11-24 | 2024-04-19 |
 | [Nena Buena](https://open.spotify.com/track/6mVv3xXy1P398JJcJwaFTq) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Nena Buena](https://open.spotify.com/album/68GJuJAXjGNo1XXa726aUR) | 2:33 | 2024-01-12 | 2024-04-19 |
-| [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 | 2023-11-24 |  |
+| [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:11 | 2023-11-24 | 2025-08-25 |
 | [No Llores por Mí](https://open.spotify.com/track/7BZSJ9WnmFStbcwSv6j0In) | [Chapa C](https://open.spotify.com/artist/6x87eYql5aUn7gBRe1KEKb) | [I Will Be: Like Big Stars!](https://open.spotify.com/album/502vjSngsd5WnCtyK1gxjn) | 3:37 | 2024-04-05 |  |
 | [No Me Importa](https://open.spotify.com/track/53ysAoMfLuAcThnhxhFwNk) | [Los Rehenes](https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8) | [Verdades Que Duelen](https://open.spotify.com/album/5ydJDyrELkgYhHuZx6xytA) | 2:53 | 2023-11-24 |  |
 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/0XWWn8bfpir8M3YHq1h7uJ) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 5:00 | 2023-11-24 | 2024-04-19 |
@@ -100,6 +100,7 @@
 | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/track/62bl9t4TYgy7aFeyADxUpT) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf) | [Vallenatos para el Cora: Obsesion Mi Estrella Niña Bonita](https://open.spotify.com/album/0xGrd5MsHHFwZQurYMKbSr) | 4:39 | 2024-04-05 |  |
 | [Verano ´99](https://open.spotify.com/track/18NgnGTlHgdKnjq0FKXvoe) | [VILLAGRÁN](https://open.spotify.com/artist/7j4EDoy89FLUbaeJuV1gNY), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Verano ´99](https://open.spotify.com/album/4rFyWkT6MhskGdHSAiNd0A) | 2:43 | 2024-04-05 |  |
 | [Vienes y Te Vas](https://open.spotify.com/track/4L81kjuMNo9Gg6h1Bkyi0F) | [Grupo Ternura](https://open.spotify.com/artist/1f8KqVQNiSJ95tiWLjTevq) | [El Rey del Norte](https://open.spotify.com/album/3AtBWO9bJ7HzPoVXkfrVKf) | 3:18 | 2023-11-24 |  |
+| [Viernes De Peña](https://open.spotify.com/track/7easQ2fN3J7Ph6gXRYSpVl) | [Marcelo Gabriel](https://open.spotify.com/artist/20QPpARaho6RDmUVyzScvf), [Sol Codas](https://open.spotify.com/artist/0Kb2kX8II2Z8VU2zNmTeIt) | [Viernes De Peña](https://open.spotify.com/album/6xNtvyCKqphtq5wssq4OUc) | 3:23 | 2025-03-14 |  |
 | [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 | 2023-11-24 | 2024-06-23 |
 | [Él Soy Yo](https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Al Rojo Vivo](https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8) | 3:17 | 2024-01-12 | 2024-04-19 |
 

@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/2ZkuQPH67wewBcOwlg04Jk"
       },
@@ -7196,7 +7214,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 166923,
       "name": "Daddy (feat. Joey Moe)",
       "url": "https://open.spotify.com/track/14FIVmmiVMKMohxBHvl8TJ"
@@ -13814,7 +13832,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 193678,
       "name": "F\u00f8rste dag",
       "url": "https://open.spotify.com/track/1MriMVVs0upyrXtArsWep5"
@@ -17410,7 +17428,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 176059,
       "name": "How It\u2019s Done",
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
@@ -21022,7 +21040,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 144032,
       "name": "K Flow (feat. wicky)",
       "url": "https://open.spotify.com/track/4ieFtpbjZ75P1f5Er1zsXi"
@@ -31146,7 +31164,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 169421,
       "name": "Rene Hjerter",
       "url": "https://open.spotify.com/track/1A90dHXPAXFRrUJWdID0jJ"

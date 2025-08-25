@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,864 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,967 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Junior's Eyes \- 2009 Remaster](https://open.spotify.com/track/0hDOC0xEIdIlNCpqEFntqq) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Never Say Die!](https://open.spotify.com/album/3L6ss776rbc4BlupPEDOLw) | 6:41 |
 | 50 | [I \- 2011 Remaster](https://open.spotify.com/track/3OuUBpO1YAUmRESoJuq3a6) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Dehumanizer](https://open.spotify.com/album/3QCq4xwC3SZp38Y2cBsHdI) | 5:10 |
 
-Snapshot ID: `aKezAAAAAAARvevsfRHMrHKnbpZmNs4I`
+Snapshot ID: `aKkEgAAAAAAPEw3R/hBCiclRERBrgF0W`

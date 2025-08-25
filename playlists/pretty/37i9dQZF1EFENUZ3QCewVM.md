@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 41 | [Destiny](https://open.spotify.com/track/29ovbgjQ0pnjA7wE5tWeqs) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL), [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Watch The World](https://open.spotify.com/album/1f6kyzMUyeVkp7si9VGNVo) | 3:47 |
 | 42 | [Aww](https://open.spotify.com/track/2ScqDQj39xCVINvUwT5oqk) | [Baby Ariel](https://open.spotify.com/artist/3ggXjUaLzPuY775WFABpXe) | [Aww](https://open.spotify.com/album/5a4Vx9H8AezpyQxqs2Gywr) | 2:40 |
 | 43 | [Almost Forgot](https://open.spotify.com/track/0htezQjIT0FNJQoZb6EJql) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Past Lives](https://open.spotify.com/album/2OmHMlPVPmSWV77JxiDaYA) | 3:28 |
-| 44 | [Lost Your Faith](https://open.spotify.com/track/3f7tDOrVlqeyqIvanQuSbw) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Lost Your Faith \(SONIKKU Remix\)](https://open.spotify.com/album/40H1SwsED1PpLUENraHydm) | 3:14 |
+| 44 | [Lost Your Faith](https://open.spotify.com/track/0woU394Kw2pKlrkQy1JdZQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 3:14 |
 | 45 | [My Man](https://open.spotify.com/track/5T2N2zNtnspdHNKe4badyR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 3:23 |
 | 46 | [That Feeling When](https://open.spotify.com/track/3Va1sFKlIYxo36JTdWDg6I) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [That Feeling When](https://open.spotify.com/album/4yfNr3vVl5nDjhkE0xzK55) | 3:22 |
 | 47 | [Waste](https://open.spotify.com/track/79cH8EYScu6oy4jchIKT5Z) | [Katemale](https://open.spotify.com/artist/0Rth3Qh5ir5RzlPwRpKYqp) | [Waste](https://open.spotify.com/album/1u0G8aMkahjuKzDOjpZdPy) | 3:29 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 120 | [SPEAK NOW OR FOREVER HOLD YOUR PEACE](https://open.spotify.com/track/0SBQhZMv2SyknHAHUH9Izp) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb), [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [HONEYMOONERS](https://open.spotify.com/album/6f72tk8GQHj4QxSirrSuaY) | 0:46 |
 | 121 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 
-Snapshot ID: `Ab6TKgAAAABX1zAzf0BRT04hz+64vOem`
+Snapshot ID: `Ab6YygAAAACHL+WsBsfeQljqIZH8s6gK`

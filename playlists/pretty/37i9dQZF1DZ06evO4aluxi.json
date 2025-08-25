@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18658,
+  "num_followers": 18663,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAANMLJq48YLJ1HJzUAHJxmc",
+  "snapshot_id": "aKkEgAAAAAAhho/+ZzA42cjl8sYkTGbz",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Sing Your Praise To The Lord",
-      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 300560,
       "name": "I Will Remember You",
       "url": "https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Sing Your Praise To The Lord",
+      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 213733,
+      "name": "Every Heartbeat",
+      "url": "https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Worship Forever (Live)",
         "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
       },
@@ -279,38 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
       "artists": [
         {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "Every Heartbeat",
-      "url": "https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unsung Hero (The Inspired By Soundtrack)",
-        "url": "https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 202360,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh"
+      "duration_ms": 262031,
+      "name": "Scars In Heaven",
+      "url": "https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo"
     },
     {
       "added_at": null,
@@ -331,22 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lifesongs: A Celebration of the First 20 Years",
-        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+        "name": "Unsung Hero (The Inspired By Soundtrack)",
+        "url": "https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 262031,
-      "name": "Scars In Heaven",
-      "url": "https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo"
+      "duration_ms": 202360,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unguarded",
-        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Everywhere I Go",
-      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 156346,
       "name": "All I Ever Have To Be",
       "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     }
   ],
   "unique_name": "This Is Amy Grant",

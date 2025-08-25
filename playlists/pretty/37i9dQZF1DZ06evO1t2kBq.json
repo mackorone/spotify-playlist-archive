@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 82615,
+  "num_followers": 82621,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAD8JEzufTyn0G0OXMMmscCv",
+  "snapshot_id": "aKkEgAAAAACR9TeZaN3ZfGMK/Gcou2Mr",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranger Than Fiction",
-        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Incomplete",
-      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 177680,
       "name": "All There Is",
       "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 84026,
-      "name": "Turn On the Light",
-      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
     },
     {
       "added_at": null,

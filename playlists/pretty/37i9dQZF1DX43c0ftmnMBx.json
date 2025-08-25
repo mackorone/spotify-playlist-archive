@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 260127,
+  "num_followers": 260163,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
         "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
         "url": "https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 256253,
       "name": "Ayer Me Llam\u00f3 Mi Ex \u2013 Remix",
       "url": "https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
     },
     {
       "added_at": "2024-08-23 04:59:00",

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 931105,
+  "num_followers": 930982,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2025-08-22 04:00:29",
+      "album": {
         "name": "Smash The Disco",
         "url": "https://open.spotify.com/album/2EYCno5OfWCya6X0zXX5SN"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 181875,
       "name": "Smash The Disco",
       "url": "https://open.spotify.com/track/2dkF1yfMyvfaRMhIpA9iLA"
-    },
-    {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "Poison Ivy",
-        "url": "https://open.spotify.com/album/3aRfCgXhT54GQq2UxxFdYB"
-      },
-      "artists": [
-        {
-          "name": "SubDocta",
-          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
-        },
-        {
-          "name": "Wreckno",
-          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
-        }
-      ],
-      "duration_ms": 243932,
-      "name": "Poison Ivy",
-      "url": "https://open.spotify.com/track/68DQ6HkS9A7WxDnAobzeIC"
-    },
-    {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
+    },
+    {
+      "added_at": "2025-08-22 04:00:29",
+      "album": {
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1487,22 +1487,22 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+        "name": "Poison Ivy",
+        "url": "https://open.spotify.com/album/3aRfCgXhT54GQq2UxxFdYB"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
         },
         {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+          "name": "Wreckno",
+          "url": "https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N"
         }
       ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
+      "duration_ms": 243932,
+      "name": "Poison Ivy",
+      "url": "https://open.spotify.com/track/68DQ6HkS9A7WxDnAobzeIC"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1751,6 +1751,26 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
+    },
+    {
+      "added_at": "2025-08-22 04:00:29",
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/62FE6CAsHHKN3E2UxwLHCi"
       },
@@ -1775,62 +1795,38 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/3EzveG4GtcBRVCdsIYmZgp"
+        "name": "Hey You",
+        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
         }
       ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/1P8mmV6llhUuj8sz3By1q1"
+      "duration_ms": 141860,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
     },
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
       },
       "artists": [
         {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
-    },
-    {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
         },
         {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Rory Hope",
-          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
         }
       ],
-      "duration_ms": 159090,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1855,22 +1851,34 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/4bq8jTnpZ8HrQ29TpE0URG"
       },
       "artists": [
         {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
         }
       ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+      "duration_ms": 169090,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/63ypuogvE15L0ju8wCGJDx"
+    },
+    {
+      "added_at": "2025-08-22 04:00:29",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1899,18 +1907,26 @@
     {
       "added_at": "2025-08-22 04:00:29",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja"
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/1viRLvWGXRMCmZwSwnd1dF"
       },
       "artists": [
         {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
         }
       ],
-      "duration_ms": 166954,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02"
+      "duration_ms": 159090,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/2bI6cO5Aunv8O50kJQ3Ai0"
     },
     {
       "added_at": "2025-08-22 04:00:29",
@@ -1931,22 +1947,6 @@
       "duration_ms": 146769,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/2pLjWO7lYfFOJYXZOWJUS1"
-    },
-    {
-      "added_at": "2025-08-22 04:00:29",
-      "album": {
-        "name": "Hey You",
-        "url": "https://open.spotify.com/album/01TNCjTnEhlr60BNeLShO5"
-      },
-      "artists": [
-        {
-          "name": "NOME.",
-          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
-        }
-      ],
-      "duration_ms": 141860,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/064ax84zHUqkFIcSvhlLZh"
     }
   ],
   "unique_name": "Shuffle Syndrome",

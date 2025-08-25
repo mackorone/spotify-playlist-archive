@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,694 likes - 125 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,742 likes - 125 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

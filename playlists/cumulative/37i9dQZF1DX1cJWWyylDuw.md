@@ -4,7 +4,7 @@
 
 > A mix of the best modern Deathcore tracks\. Cover: Lorna Shore
 
-703 songs - 1 day 21 hr 22 min
+704 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Ghost](https://open.spotify.com/track/1gmmAEHwxXEVqZWnG4bwh8) | [Nylist](https://open.spotify.com/artist/6Khtg7KAJoWt4mTccR2Lqw), [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Ghost](https://open.spotify.com/album/76qxkxWRoQMbqg1jQnNQIN) | 3:19 | 2025-08-15 |  |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-06-16 |  |
 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 | 2022-01-28 | 2023-06-15 |
+| [Go Ask Alice](https://open.spotify.com/track/1IAkmmhG1HSYtRQxBU1HuE) | [Soulkeeper](https://open.spotify.com/artist/6sg8lduBgtJr5l4jMJBxLq) | [Go Ask Alice](https://open.spotify.com/album/148Xiywsm1Qx94EyvTtuGw) | 2:43 | 2025-08-22 |  |
 | [God Complex](https://open.spotify.com/track/1RoFyfpfq5sLrAvt0Mqfin) | [SHIVA](https://open.spotify.com/artist/1yO2jcxDN0jGO6aaSGvYSj), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Infested Entrails](https://open.spotify.com/artist/2UV4oVKHXKT84RWBo942Ll) | [God Complex](https://open.spotify.com/album/48S8NpnkxAlOZykfu5AtV8) | 4:46 | 2022-06-17 | 2022-08-26 |
 | [God Ends Here](https://open.spotify.com/track/6uG7YeW7ICjTkp3L53upI9) | [Aeon](https://open.spotify.com/artist/3thZAdDkh3yDo21gLptJTc) | [God Ends Here](https://open.spotify.com/album/114qJpgmWt1wMJY51Da9zw) | 4:44 | 2022-01-14 | 2022-07-27 |
 | [God Knows](https://open.spotify.com/track/3idDCx8VXTkqPL6UQTK4bl) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [A Tear in the Fabric of Life](https://open.spotify.com/album/2Tm8ZMDLg4DVijCkvhKxJl) | 3:34 | 2023-01-23 | 2025-06-18 |
@@ -577,7 +578,7 @@
 | [Spiteful Nature](https://open.spotify.com/track/6bLT2cXYDuDuaHcgQcXjep) | [I Shall Devour](https://open.spotify.com/artist/0FucnPgykhKoPTybQL5Qkm) | [The Misanthropist](https://open.spotify.com/album/3OlDPRhqOBpxp9JNxLFj3w) | 3:37 | 2021-12-17 | 2022-02-02 |
 | [Stained In Rot](https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Stained In Rot](https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu) | 4:14 | 2022-10-27 | 2024-08-24 |
 | [Stay Out of My Swamp](https://open.spotify.com/track/7puhKmQVgOl50FiOOYXgZH) | [The Ogre Packet Slammers](https://open.spotify.com/artist/7zSuK84B2D61DFzsOPQrev), [Tre' Perdue](https://open.spotify.com/artist/3Y82rXGkKUgvWCkGA8qpHR) | [Giant Green Destruction](https://open.spotify.com/album/2oXcYDIhZg7GSqqYHLeMnP) | 3:04 | 2021-12-17 | 2025-05-18 |
-| [Still Cursed](https://open.spotify.com/track/6BwZxpDoAYIENRvYzylLnK) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Still Cursed](https://open.spotify.com/album/57ivOO39SjDCEFHpcQFLKP) | 3:04 | 2024-10-18 |  |
+| [Still Cursed](https://open.spotify.com/track/6BwZxpDoAYIENRvYzylLnK) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Still Cursed](https://open.spotify.com/album/57ivOO39SjDCEFHpcQFLKP) | 3:04 | 2024-10-18 | 2025-08-25 |
 | [Sub\-Zero](https://open.spotify.com/track/1UWb4Kbsax46Xuf1lZmkhC) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Fault](https://open.spotify.com/album/3j0OEnLwmAxsrhjdTLC848) | 3:09 | 2022-07-08 | 2023-04-29 |
 | [Sub\-Zero](https://open.spotify.com/track/3SyPQjd6eabSThIx1Ylfal) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Sub\-Zero](https://open.spotify.com/album/6Ybz3YCMwMNTbg03fnRPKu) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [Subsistence](https://open.spotify.com/track/6ifbaBmTWX9cjzuq9qGELQ) | [Together in Tragedy](https://open.spotify.com/artist/4QbAK8ShoFElp2EABLWzSc) | [Memoriam](https://open.spotify.com/album/6eDQh4ZnNdjf1rqrt9L69l) | 3:42 | 2022-01-14 | 2022-05-26 |

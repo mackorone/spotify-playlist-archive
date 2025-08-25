@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,868 likes - 103 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,877 likes - 103 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 102 | [Kids](https://open.spotify.com/track/1qSGTNIYe8LaHkGzLEsFOI) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Brian "Head" Welch](https://open.spotify.com/artist/4Dd4L5XTvf8rjyfxhCdwsu), [JR BAREIS](https://open.spotify.com/artist/5e5GBpRbTYHRxXoos9gUzF) | [Kids](https://open.spotify.com/album/79xV1m2C1DUk0dqGN2J6ym) | 3:49 |
 | 103 | [Initiation](https://open.spotify.com/track/1l9KPR4NXVR1Ny7vyPYwHw) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Initiation / Protection](https://open.spotify.com/album/1L3sLTg8ElmheG3Ftu90Su) | 4:05 |
 
-Snapshot ID: `AAAAAKsMgr5sLFHf+3x5j15enzbWtYjz`
+Snapshot ID: `AAAAAEuoNEPJheMz6BHISTnSI7tNR/Ml`

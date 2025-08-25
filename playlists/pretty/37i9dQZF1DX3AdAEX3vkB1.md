@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,573 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,677 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 118 | [Bus Stop](https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:54 |
 | 119 | [Gimme Some Lovin' \- Single Mix](https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [Keep On Running](https://open.spotify.com/album/3Z0XNzsJC1cY6szFkxVE1h) | 2:53 |
 | 120 | [Runaway \(Rerecorded\)](https://open.spotify.com/track/0E59YEu2gtTp8MoEWV8KFk) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [\#1 Hits of the 60's](https://open.spotify.com/album/6Mio3JCszE0BTyjTmfYsLY) | 2:27 |
-| 121 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
-| 122 | [If I Had a Hammer](https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Rhino Hi\-Five: Trini Lopez](https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI) | 2:59 |
+| 121 | [If I Had a Hammer](https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Rhino Hi\-Five: Trini Lopez](https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI) | 2:59 |
+| 122 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 123 | [It's Not Unusual](https://open.spotify.com/track/67csrS6po7IyXfwds4azjr) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Along Came Tom Jones](https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g) | 1:59 |
 | 124 | [My Boy Lollipop](https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [Trojan Presents: Mod Ska](https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq) | 2:02 |
 | 125 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
@@ -137,9 +137,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 127 | [I Only Want To Be With You](https://open.spotify.com/track/0FlITClPKfKqQxVHzFD3iF) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Mad Men: A Musical Companion \(1960\-1965\)](https://open.spotify.com/album/5zLIEvoMI7H5c3TmS4afrt) | 2:34 |
 | 128 | [I'm A Man](https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [I'm A Man / I Can't Get Enough Of It](https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb) | 2:56 |
 | 129 | [Twist And Shout](https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J) | 2:35 |
-| 130 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6DfAdJWkHIRUiYsuYoAfim) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Gold \(International Version\)](https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx) | 2:40 |
+| 130 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
 | 131 | [Papa's Got A Brand New Bag \- Pt\. 1](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 |
-| 132 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
+| 132 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6DfAdJWkHIRUiYsuYoAfim) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Gold \(International Version\)](https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx) | 2:40 |
 | 133 | [Waterloo Sunset \- Stereo Mix](https://open.spotify.com/track/6i6vTovzDTGf6AQp96YwZK) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else By The Kinks \(Bonus Track Edition\)](https://open.spotify.com/album/3M3JjcA8YcJDKl0ktMOPQW) | 3:13 |
 | 134 | [Luck Be A Lady](https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv) | 5:14 |
 | 135 | [Carrie Anne](https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:55 |

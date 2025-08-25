@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143037,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
+    },
+    {
+      "album": {
         "name": "Die Hits der Schl\u00fcmpfe",
         "url": "https://open.spotify.com/album/5GDFUh4vZFYXzUtoOb93VS"
       },
@@ -3924,6 +3946,24 @@
       "duration_ms": 226880,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311"
+    },
+    {
+      "album": {
+        "name": "CiCi",
+        "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162143,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO"
     },
     {
       "album": {

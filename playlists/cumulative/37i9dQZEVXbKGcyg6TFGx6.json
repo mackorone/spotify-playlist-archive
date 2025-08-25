@@ -216,7 +216,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -18609,6 +18609,24 @@
     },
     {
       "album": {
+        "name": "Fiyah",
+        "url": "https://open.spotify.com/album/3eBWAFcnhHTSvo0v27STMB"
+      },
+      "artists": [
+        {
+          "name": "El-Shaddai",
+          "url": "https://open.spotify.com/artist/3LU0QZRwagZ0CaGr4sOsgt"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147408,
+      "name": "Fiyah",
+      "url": "https://open.spotify.com/track/7cNjcCD7XMGaIClFja82BT"
+    },
+    {
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/3WZCmBlviCfRO1d5MDBvvt"
       },
@@ -26164,7 +26182,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 163647,
       "name": "Jealous Type",
       "url": "https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa"
@@ -34886,7 +34904,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/2ipIPsgrgd0j2beDf4Ki70"
@@ -36790,6 +36808,24 @@
       "duration_ms": 145652,
       "name": "OCEAN",
       "url": "https://open.spotify.com/track/3n0ZmUTXK4GXf5Ymc1OCpg"
+    },
+    {
+      "album": {
+        "name": "Off A Dose",
+        "url": "https://open.spotify.com/album/6BsgFoWw6caanB9c0rqQLx"
+      },
+      "artists": [
+        {
+          "name": "Reik2x",
+          "url": "https://open.spotify.com/artist/6xQj1fJqqB2Off9AOar1Ey"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129505,
+      "name": "Off A Dose",
+      "url": "https://open.spotify.com/track/1xFhFnncsYcShraakLe3IR"
     },
     {
       "album": {
@@ -44502,7 +44538,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 183550,
       "name": "Seven (feat. Latto) (Explicit Ver.)",
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
@@ -50276,7 +50312,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"

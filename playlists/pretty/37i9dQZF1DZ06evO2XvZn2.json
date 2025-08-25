@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15590,
+  "num_followers": 15592,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABMm40f3f/2LL3UvCYCtpQj",
+  "snapshot_id": "aKkEgAAAAAB/MtDJnUftzBA21GjO1VXu",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
         "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 177626,
       "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
       "url": "https://open.spotify.com/track/0cgb32JvDvltNqTOe3kLi8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
     },
     {
       "added_at": null,

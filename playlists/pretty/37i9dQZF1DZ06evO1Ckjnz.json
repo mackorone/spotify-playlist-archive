@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABVtoGjtGSP1eTTSpRIs2Wf",
+  "snapshot_id": "aKkEgAAAAAB+BMWvAslN9psGqUO2nfwg",
   "tracks": [
     {
       "added_at": null,
@@ -903,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Trap 2",
-        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "+/-",
         "url": "https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 228005,
       "name": "Girl Crush (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/6Z81mZN4nLr179FrIl37dq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Trap 2",
+        "url": "https://open.spotify.com/album/0If7SkCVQTTQh4TYCNxpDt"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 181796,
+      "name": "Key Lime OG",
+      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
     },
     {
       "added_at": null,

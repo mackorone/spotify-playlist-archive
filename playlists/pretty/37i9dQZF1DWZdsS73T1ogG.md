@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Danny Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,623 likes - 183 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,631 likes - 183 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

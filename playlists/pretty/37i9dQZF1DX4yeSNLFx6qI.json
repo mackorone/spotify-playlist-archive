@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1736647,
+  "num_followers": 1736371,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,26 @@
     {
       "added_at": "2025-08-22 04:00:26",
       "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 170081,
+      "name": "Saberte Querer",
+      "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
+    },
+    {
+      "added_at": "2025-08-22 04:00:26",
+      "album": {
         "name": "sorry por esta canci\u00f3n (Londres)",
         "url": "https://open.spotify.com/album/65x1sUS2zqKdDzA3VB9nlB"
       },
@@ -815,22 +835,6 @@
       "duration_ms": 107320,
       "name": "50/50",
       "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2025-08-22 04:00:26",
-      "album": {
-        "name": "C\u00d3MO EST\u00c1S?",
-        "url": "https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 147559,
-      "name": "C\u00d3MO EST\u00c1S?",
-      "url": "https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr"
     }
   ],
   "unique_name": "sad latino",

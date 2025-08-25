@@ -935,6 +935,28 @@
     },
     {
       "album": {
+        "name": "Love19",
+        "url": "https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "Dard",
+      "url": "https://open.spotify.com/track/6bXrlIITUgU0qnmmTnzrXW"
+    },
+    {
+      "album": {
         "name": "Desi Kalakaar",
         "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
       },
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 230000,
       "name": "Illegal Weapon",
       "url": "https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA"

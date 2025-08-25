@@ -4,7 +4,7 @@
 
 > 
 
-2,244 songs - 5 day 0 hr 34 min
+2,245 songs - 5 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1538,6 +1538,7 @@
 | [positions](https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:52 | 2021-08-05 |  |
 | [POSSESSION](https://open.spotify.com/track/3TC2oGtntEwVC1Gk1npHFI) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 3:09 | 2021-08-05 |  |
 | [Post Rave Maximalist](https://open.spotify.com/track/39yRcZYyAxUsb4S7kQBpJB) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 2:28 | 2022-06-11 |  |
+| [poster boy](https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [2](https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv) | 2:01 | 2025-08-24 |  |
 | [pov](https://open.spotify.com/track/3UoULw70kMsiVXxW0L3A33) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 3:21 | 2021-08-05 |  |
 | [Prada](https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:43 | 2021-12-30 |  |
 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 | 2021-08-05 |  |

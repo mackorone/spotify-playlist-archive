@@ -1,12 +1,12 @@
 {
   "description": "This is Dominic Fike. The essential tracks, all in one playlist.",
-  "num_followers": 94236,
+  "num_followers": 94268,
   "original_name": "This Is Dominic Fike",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACEwRKorH0xmKGvj0m3CP43",
+  "snapshot_id": "aKkEgAAAAAABjoWTCQiV2gL2JzQJl2QO",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here are the first 3 songs from my mixtape, Rocket",
-        "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 146107,
-      "name": "All Hands on Deck",
-      "url": "https://open.spotify.com/track/2V1d53nRhAzKos82tt8kJs"
+      "duration_ms": 89894,
+      "name": "One Glass",
+      "url": "https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr"
     },
     {
       "added_at": null,
@@ -259,6 +259,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Here are the first 3 songs from my mixtape, Rocket",
+        "url": "https://open.spotify.com/album/32NRfr2m329D9kAL1GTMX4"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 146107,
+      "name": "All Hands on Deck",
+      "url": "https://open.spotify.com/track/2V1d53nRhAzKos82tt8kJs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 139775,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -271,6 +303,22 @@
       "duration_ms": 107280,
       "name": "Westcoast Collective",
       "url": "https://open.spotify.com/track/7rNun2AyLu4u4rQpRt0iS9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunburn",
+        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 186066,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc"
     },
     {
       "added_at": null,
@@ -291,6 +339,22 @@
       "duration_ms": 209970,
       "name": "Photo ID (with Dominic Fike)",
       "url": "https://open.spotify.com/track/1F35Dmog9pekyCVnH1eQpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 82823,
+      "name": "$500 Fine",
+      "url": "https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci"
     },
     {
       "added_at": null,
@@ -318,27 +382,15 @@
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 186066,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
+        },
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 89894,
-      "name": "One Glass",
-      "url": "https://open.spotify.com/track/5cm8sMvF8qskWFUrDdDIhr"
+      "duration_ms": 222839,
+      "name": "Think Fast (feat. Weezer)",
+      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
     },
     {
       "added_at": null,
@@ -355,6 +407,22 @@
       "duration_ms": 133560,
       "name": "She Wants My Money",
       "url": "https://open.spotify.com/track/0IajnzlicUA89rZSkqfLPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 140318,
+      "name": "Quite the Opposite",
+      "url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw"
     },
     {
       "added_at": null,
@@ -382,31 +450,11 @@
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 222839,
-      "name": "Think Fast (feat. Weezer)",
-      "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 139775,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/1z5DpJzA5Jse2EHp7jVoOi"
+      "duration_ms": 124504,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
     },
     {
       "added_at": null,
@@ -431,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 151202,
+      "name": "Upset & Aggressive",
+      "url": "https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What Could Possibly Go Wrong",
         "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
       },
@@ -447,38 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunburn",
-        "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 124504,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 82823,
-      "name": "$500 Fine",
-      "url": "https://open.spotify.com/track/0clJFOmJeMiQ1LtUn0CPci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Forget About Me, Demos",
         "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
@@ -491,22 +523,6 @@
       "duration_ms": 194360,
       "name": "King of Everything",
       "url": "https://open.spotify.com/track/0lO1yt6M1l1OAs80M3vEfM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 150620,
-      "name": "Wurli",
-      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
     },
     {
       "added_at": null,
@@ -536,9 +552,25 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 140318,
-      "name": "Quite the Opposite",
-      "url": "https://open.spotify.com/track/52001S5hssoZCucIE15ALw"
+      "duration_ms": 193146,
+      "name": "David Lyons",
+      "url": "https://open.spotify.com/track/5WYvKxhWLl1z78Jw6WgYTz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 150620,
+      "name": "Wurli",
+      "url": "https://open.spotify.com/track/5MSshyHGM9ajWSEoBcR0jv"
     },
     {
       "added_at": null,
@@ -563,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What Could Possibly Go Wrong",
-        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 126465,
-      "name": "Double Negative (Skeleton Milkshake)",
-      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "McCartney III Imagined",
         "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
@@ -599,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
       },
       "artists": [
         {
@@ -608,9 +624,25 @@
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 151202,
-      "name": "Upset & Aggressive",
-      "url": "https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj"
+      "duration_ms": 108533,
+      "name": "Falling Asleep",
+      "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What Could Possibly Go Wrong",
+        "url": "https://open.spotify.com/album/1BubKJqf6Uc4fNae5kLJJ7"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 126465,
+      "name": "Double Negative (Skeleton Milkshake)",
+      "url": "https://open.spotify.com/track/7ACT6YaXbYvl7hRWEOOEHQ"
     },
     {
       "added_at": null,
@@ -635,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 108533,
-      "name": "Falling Asleep",
-      "url": "https://open.spotify.com/track/4Q09JEsHAZhHOIPTqDGeB2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 161608,
       "name": "hi grace",
       "url": "https://open.spotify.com/track/0zikWa6k06uycAkRB8CsXA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "David Lyons",
-      "url": "https://open.spotify.com/track/5WYvKxhWLl1z78Jw6WgYTz"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 121630,
-      "name": "1.23.23",
-      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A\u00e7a\u00ed Bowl",
         "url": "https://open.spotify.com/album/20mfnTTQTPZ4MHVOg0R83D"
       },
@@ -751,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa"
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
       "artists": [
-        {
-          "name": "Kevin Abstract",
-          "url": "https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE"
-        },
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 209830,
-      "name": "Maroon",
-      "url": "https://open.spotify.com/track/4BzIyYvpCYzMW4Q8eF4fwq"
+      "duration_ms": 121630,
+      "name": "1.23.23",
+      "url": "https://open.spotify.com/track/4w1esviQOM4f8uZ6RuAjyY"
     },
     {
       "added_at": null,

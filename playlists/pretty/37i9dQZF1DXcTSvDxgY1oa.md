@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 
 > Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten\. Cover: Trxnz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,840 likes - 94 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,841 likes - 94 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 25 | [Dom Doen](https://open.spotify.com/track/6fWOe3X6TtsOcBjmE38bSk) | [Hiltje](https://open.spotify.com/artist/7IzRpPjjOsoCkhctY8lAb8) | [Dom Doen](https://open.spotify.com/album/2WMtQfA6ZHRhdVTYL904tq) | 2:06 |
 | 26 | [The Tide](https://open.spotify.com/track/0cobsIdBv0wXtk6Shpubm5) | [Anouk Wolf](https://open.spotify.com/artist/2HABYmyNHmN6fSxwx88rO8) | [The Tide](https://open.spotify.com/album/5dflX4qm13gP4b2Bh4pK7T) | 3:06 |
 | 27 | [Dopamine](https://open.spotify.com/track/6twfj64yWVPf00VvpVnQQc) | [Warbuhl](https://open.spotify.com/artist/4hR2ws3f1xK79lADUBCc38) | [Dopamine](https://open.spotify.com/album/5ss71IJPLmogSbrXmI9bV4) | 2:55 |
-| 28 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 |
-| 29 | [Chew](https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm) | [Bad Luck Baby](https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn) | [Burn It](https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM) | 3:49 |
-| 30 | [Hare In The Haze](https://open.spotify.com/track/2NXbXfOzOH2Xnrpgd0mb9e) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [Hare In The Haze](https://open.spotify.com/album/3s6HKOzR1fLxr6HGHGeXzJ) | 4:05 |
+| 28 | [Chew](https://open.spotify.com/track/24r65v6VdvwF0Z2AydcQlm) | [Bad Luck Baby](https://open.spotify.com/artist/3NKtYkwEEyBGEWkKpWatHn) | [Burn It](https://open.spotify.com/album/2yF1tzB40xenNqjCZLZwtM) | 3:49 |
+| 29 | [Hare In The Haze](https://open.spotify.com/track/2NXbXfOzOH2Xnrpgd0mb9e) | [Baba Pen & The Bim Bam Band](https://open.spotify.com/artist/7dgG65gGVMpNVSdRbMabx9) | [Hare In The Haze](https://open.spotify.com/album/3s6HKOzR1fLxr6HGHGeXzJ) | 4:05 |
+| 30 | [Iemand Anders](https://open.spotify.com/track/6ZzjjOoKAw3QGQmODzplnK) | [REINDIER](https://open.spotify.com/artist/7B8bcaveMV31zAvok466cK) | [Iemand Anders](https://open.spotify.com/album/6saWoM2nRMWq4QIrKo3GGL) | 3:50 |
 | 31 | [The Puppet](https://open.spotify.com/track/7naZ7ZEhzqvBjvte3J15aw) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [The Puppet](https://open.spotify.com/album/5iTusNNEq8cTdJeWktMfdO) | 2:42 |
 | 32 | [Muurvast](https://open.spotify.com/track/5zN47NfLOAxBfWoE0tIvqT) | [Grote Geelstaart](https://open.spotify.com/artist/4KebXdedNLEtwiS4T1SAR1) | [Muurvast](https://open.spotify.com/album/2YZPcDxaUMzrNCvn4FovNq) | 5:46 |
 | 33 | [UGLY ROTTEN GRRRL!!!](https://open.spotify.com/track/4z2WEioJIb98az9xlcEBAs) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [UGLY ROTTEN GRRRL!!!](https://open.spotify.com/album/4jB6ahAyo6HdrRN59Ju2Ku) | 3:02 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 36 | [Oh Baby Please](https://open.spotify.com/track/6SZlairyNEuEv03oZRdwu6) | [Laplander](https://open.spotify.com/artist/4zjkhcJpqrtUWrY71xZvk0) | [Oh Baby Please](https://open.spotify.com/album/5N5UWwnk0a1Dd6I1XpMEom) | 3:34 |
 | 37 | [Superficial Girl](https://open.spotify.com/track/68ODURPoZdrI92TjFMe6cZ) | [Jackie & The Facts](https://open.spotify.com/artist/4Q8G8g6rH2LHLPJLS1tOLf) | [Superficial Girl](https://open.spotify.com/album/7kCM6kZYqbxgSFx9XuheSY) | 2:49 |
 | 38 | [Gore Gozers](https://open.spotify.com/track/6J3FJIq8q1ps0kBv2RoDOv) | [CLITTEBAND](https://open.spotify.com/artist/1mdpsox66qFgKuJIzvPpFv) | [Kattekwaad](https://open.spotify.com/album/6SD0ruH583DtucRVb8bk4y) | 2:32 |
-| 39 | [Vampire Boyfriend](https://open.spotify.com/track/5wfvU5tNqMouNJIJiuy6pM) | [Vampire Boyfriend](https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1) | [Vampire Boyfriend](https://open.spotify.com/album/4GTt6arX6Zpzdhp5pPJDOn) | 4:53 |
-| 40 | [Use Me, Darling](https://open.spotify.com/track/7fBRooTzTLU4OMfZTA09pv) | [Dear Omen](https://open.spotify.com/artist/3jZaVUML78O4diJtPEmPbP) | [The S Tapes](https://open.spotify.com/album/5CTp9d48vHsPdjGLWt4VTZ) | 3:57 |
+| 39 | [Use Me, Darling](https://open.spotify.com/track/7fBRooTzTLU4OMfZTA09pv) | [Dear Omen](https://open.spotify.com/artist/3jZaVUML78O4diJtPEmPbP) | [The S Tapes](https://open.spotify.com/album/5CTp9d48vHsPdjGLWt4VTZ) | 3:57 |
+| 40 | [Vampire Boyfriend](https://open.spotify.com/track/5wfvU5tNqMouNJIJiuy6pM) | [Vampire Boyfriend](https://open.spotify.com/artist/0vRyNBqxpHa4QQXBndRHH1) | [Vampire Boyfriend](https://open.spotify.com/album/4GTt6arX6Zpzdhp5pPJDOn) | 4:53 |
 | 41 | [Corner](https://open.spotify.com/track/5BcafRViQAKUv3E1zpzDlC) | [Death Sells](https://open.spotify.com/artist/46RqXRTuw8zLluwycbGQG7) | [Corner](https://open.spotify.com/album/1pblLSMlz2fxr8XSc5CUEd) | 1:51 |
 | 42 | [Judith Judith](https://open.spotify.com/track/6D19JQFTor3GaXKoRkQ11p) | [My Girlfriend](https://open.spotify.com/artist/2Qw9ThbCvZhVIBNSexO6I2) | [Judith Judith](https://open.spotify.com/album/0xNIOrJI537lnWQ0vXw9mj) | 3:39 |
 | 43 | [Purge](https://open.spotify.com/track/31vaGk9YGSuqQK5LpwjJNS) | [Inherited](https://open.spotify.com/artist/6sExtUwI4txxfCTJM0tp02) | [No Regrets](https://open.spotify.com/album/46WpjJrm3eIQkXF1lSggCg) | 2:32 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 83 | [CAPSAICINA](https://open.spotify.com/track/2eNEduHKEjdyD7uDhWGoa8) | [Eigen Risico](https://open.spotify.com/artist/11wm7DCgeKiysJPg0tpN2E) | [EIGEN RISICO 3](https://open.spotify.com/album/3elHSIIOjgCb8mYc3yZO65) | 3:12 |
 | 84 | [Conditioned](https://open.spotify.com/track/7x76FmoY7VlJ2daAqpSjLw) | [Gallamesh](https://open.spotify.com/artist/5nhUfUVXvd3Pjd9OkKBcEV) | [Conditioned](https://open.spotify.com/album/4pyuzuTYsOra7Q9JULxf4t) | 2:43 |
 | 85 | [Aşkım Benim](https://open.spotify.com/track/45nk1gm67eO6KZimMZyFzK) | [Kemal](https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5) | [Aşkım Benim](https://open.spotify.com/album/20ZtTOtyoQCE9XJnatqIKI) | 3:08 |
-| 86 | [If/When](https://open.spotify.com/track/3mhKG8cpVd13TWOlhixHUa) | [Flora Sophi](https://open.spotify.com/artist/6uQxXBGiZTiuUJm0oFd4LS) | [If/When](https://open.spotify.com/album/2BpntQ9nmdqzdx5qLM7ncM) | 4:36 |
-| 87 | [Miss Trutti Finally Found Her Gem](https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u) | [FAST DE](https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR) | [Sight Inside](https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra) | 3:36 |
+| 86 | [Miss Trutti Finally Found Her Gem](https://open.spotify.com/track/5XxgTHZaOe04u9fmiwNR5u) | [FAST DE](https://open.spotify.com/artist/1mPTqlPMcf8FZFVrEj9TbR) | [Sight Inside](https://open.spotify.com/album/23B33mwDhnWQcwXUZbc2ra) | 3:36 |
+| 87 | [If/When](https://open.spotify.com/track/3mhKG8cpVd13TWOlhixHUa) | [Flora Sophi](https://open.spotify.com/artist/6uQxXBGiZTiuUJm0oFd4LS) | [If/When](https://open.spotify.com/album/2BpntQ9nmdqzdx5qLM7ncM) | 4:36 |
 | 88 | [FIG\. 1](https://open.spotify.com/track/6ICmQGDSTamENZuRIZ4mHK) | [Figi](https://open.spotify.com/artist/73HGx0Dd0nECcObZ70vtTx) | [Fig\. 1](https://open.spotify.com/album/2MSI3nQKHjmwpMlDJOfr9m) | 4:38 |
 | 89 | [Bust a Move](https://open.spotify.com/track/7bt9uAKb8aTgxkQuXjX1n7) | [STROOMSTOOT](https://open.spotify.com/artist/10UDvTwIuvIIZmDbyGxOCi) | [Bust a Move](https://open.spotify.com/album/24ksVM6aYcWH9xEHnqTHka) | 2:57 |
 | 90 | [What a Wonderful World](https://open.spotify.com/track/1hnXiW3Lh7SPqcH3MeEJcp) | [Mara Mandeau](https://open.spotify.com/artist/6KAZIEBYwN4L1GIQdxN0AZ) | [One Night Off \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/43FSaLI1u2FKReuoCWN2ew) | 2:55 |

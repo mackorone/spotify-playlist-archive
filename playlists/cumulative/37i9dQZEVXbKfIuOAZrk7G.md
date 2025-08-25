@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-4,197 songs - 9 day 6 hr 10 min
+4,198 songs - 9 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1317,7 +1317,8 @@
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-04-02 | 2024-05-10 |
 | [Get Jiggy](https://open.spotify.com/track/55NuTxRk1TyKzpgD8dC1IY) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Get Jiggy](https://open.spotify.com/album/1y8KPFWhfmZ3LGeLDf4AOu) | 1:58 | 2025-03-18 | 2025-04-18 |
 | [Get Lost](https://open.spotify.com/track/14B0uhjPvP2pJHm7HfbTAr) | [Awhimai Fraser](https://open.spotify.com/artist/2DNKXy48ZK0pKgLpjRXozJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2YhhgjB9TychuTpq3vsN9y) | 3:04 | 2024-12-10 | 2025-01-08 |
-| [GET NAKED](https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GET NAKED](https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh) | 2:06 | 2025-06-25 |  |
+| [GET NAKED](https://open.spotify.com/track/11OC9PhLvyWEecG8D4S2Un) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GET NAKED](https://open.spotify.com/album/7oJfx3XcoiXKfczOGMrmxP) | 2:06 | 2025-08-24 |  |
+| [GET NAKED](https://open.spotify.com/track/69TzPRfWMOoGywNFxNLCRJ) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GET NAKED](https://open.spotify.com/album/17aMf9YdX5Pdyt0RyfU3Jh) | 2:06 | 2025-06-25 | 2025-08-25 |
 | [Get Wid Lemonade](https://open.spotify.com/track/5pJK4zHDOdUxAZDEXx8dDO) | [\[Kyle Davis\]](https://open.spotify.com/artist/1nyfRqThs0v4NQUi5vW6Of) | [Get Wid Lemonade](https://open.spotify.com/album/3qc0kwSgoyl7ZT0wjxdzkY) | 2:16 | 2024-04-10 | 2024-05-09 |
 | [Get Wid Lemonade](https://open.spotify.com/track/66D6nQk8THVR6SE5v7HCFd) | [Aurbley](https://open.spotify.com/artist/3CfTeHuZzeWePQMnsdEI7f) | [Get Wid Lemonade](https://open.spotify.com/album/5NAl4CDSMrYg02jmZOusRL) | 2:16 | 2024-04-29 | 2024-05-02 |
 | [Gethsemane](https://open.spotify.com/track/29JLgNBcOky7QB68OrvYxO) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Even In Arcadia](https://open.spotify.com/album/1lS7FeRcSUuIGqyg99UGpj) | 6:23 | 2025-05-27 | 2025-06-04 |

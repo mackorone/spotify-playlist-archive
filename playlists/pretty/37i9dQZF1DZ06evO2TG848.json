@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
-  "num_followers": 23151,
+  "num_followers": 23153,
   "original_name": "This Is Gustavo Santaolalla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABkiwSmf6OsIfrYRUWpM85Q",
+  "snapshot_id": "aKkEgAAAAAAYTi7MbybC+qN1TLkMebv6",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
       },
       "artists": [
         {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 374243,
-      "name": "Ecstasy (feat. Gustavo Santaolalla)",
-      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
+      "duration_ms": 170919,
+      "name": "Yarar\u00e1",
+      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SUR",
-        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
         },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 170919,
-      "name": "Yarar\u00e1",
-      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+      "duration_ms": 374243,
+      "name": "Ecstasy (feat. Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/4siJiqVmN1sO5bZDDQSawE"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Fleeting",
-      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 224280,
       "name": "Seguir",
       "url": "https://open.spotify.com/track/3vBLmHQcr0z5D7ObTCqfVu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 180306,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/78kwoqFcDxUyrNThLywZlp"
     },
     {
       "added_at": null,
@@ -947,18 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
       "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 120554,
-      "name": "Remembrance",
-      "url": "https://open.spotify.com/track/0DEW6NlEqz5hiJ9Wxf8u2G"
+      "duration_ms": 240333,
+      "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
     },
     {
       "added_at": null,
@@ -999,22 +1003,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+        "name": "The Last of Us: Season 2 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/6Wxzdufl0XfxujiYcW0NOv"
       },
       "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
         {
           "name": "Gustavo Santaolalla",
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 240333,
-      "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
-      "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
+      "duration_ms": 120554,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/0DEW6NlEqz5hiJ9Wxf8u2G"
     }
   ],
   "unique_name": "This Is Gustavo Santaolalla",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 
 > Your music taste matches the character on the playlist cover! Listen to the playlist and discover music curated by director James Gunn for each character in Superman\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,252 likes - 198 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,376 likes - 198 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GTMwCv2RBA.md) - [plain]
 | 87 | [bestfriends girl](https://open.spotify.com/track/5z20DkZvTsPejzPFHs3aI0) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [bestfriends girl](https://open.spotify.com/album/2ypBYf95W9pRjbMuOFJJBE) | 2:31 |
 | 88 | [We 3](https://open.spotify.com/track/5KaNUggshY1SJ3xaRmXjNl) | [Soul Asylum](https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm) | [And The Horse They Rode In On](https://open.spotify.com/album/6NEI41JNiWUVuOdZS8Vbrb) | 4:08 |
 | 89 | [Different Drum](https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6) | [Stone Poneys](https://open.spotify.com/artist/2X9nnux4eS3CFBDSjcnoBQ), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Evergreen, Vol.2](https://open.spotify.com/album/2FrEXjdS2mZO6sx6pA5MbY) | 2:39 |
-| 90 | [Wild it the wind](https://open.spotify.com/track/1Rv4seAZ1ZRw6Lx44iyQ6V) | [The Second Band](https://open.spotify.com/artist/6dDv5qojGMN9JnCdUvQ5Xb) | [Your dark side is on the phone](https://open.spotify.com/album/6A2FcgLclLWZAdYMeE4s4s) | 3:23 |
+| 90 | [Wild is the wind](https://open.spotify.com/track/1Rv4seAZ1ZRw6Lx44iyQ6V) | [The Second Band](https://open.spotify.com/artist/6dDv5qojGMN9JnCdUvQ5Xb) | [Your dark side is on the phone](https://open.spotify.com/album/6A2FcgLclLWZAdYMeE4s4s) | 3:23 |
 | 91 | [He's a Whore](https://open.spotify.com/track/3FTK6lNkjUXM7mRpkrqlp0) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Cheap Trick](https://open.spotify.com/album/3S08tRd0eIuzunVl2nR2xd) | 2:42 |
 | 92 | [Brandy \(You're a Fine Girl\)](https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA) | [Looking Glass](https://open.spotify.com/artist/5jJN1nmKXzRjodMl1THQeI) | [Looking Glass](https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs) | 3:06 |
 | 93 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |

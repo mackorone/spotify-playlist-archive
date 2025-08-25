@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,898 likes - 41 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,916 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 38 | [Enta W Thamrak](https://open.spotify.com/track/14x0OIi2vtEr4ElXWTgNM4) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Enta W Thamrak](https://open.spotify.com/album/7AjsDQughvx6uMOpPW3d3z) | 3:46 |
 | 39 | [Wahdek Ya Eani](https://open.spotify.com/track/7FJ5peqeu1dUXMXi0d9ntB) | [Ali Alsalem](https://open.spotify.com/artist/1YH6doLlnZd6Vjd4ylnBjP) | [Wahdek Ya Eani](https://open.spotify.com/album/3JJKAeLguFFnEVYMbS64hr) | 2:32 |
 | 40 | [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 |
-| 41 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
+| 41 | [Asaad Lel Goumar](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Asaad Lel Goumar](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
 
 Snapshot ID: `AAAAAIz7iO9SkXiPZXCL/JWjvhmBW+4P`

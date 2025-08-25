@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen\. K4OS en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,560 likes - 62 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,561 likes - 62 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 40 | [Castigo](https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Castigo](https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB) | 2:31 |
 | 41 | [Bonita](https://open.spotify.com/track/0Z30id45qXbQPlBFMAMsmK) | [Milky Dolly](https://open.spotify.com/artist/55FMUrZOO1qeugFN7tYVZq), [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [BIMBO DREAMS](https://open.spotify.com/album/5DT3ZKAsp9HxeNgVGUGmWA) | 1:54 |
 | 42 | [PERRA AVENTURERA](https://open.spotify.com/track/5OcP5Bu1v2UD5gnYvejRmi) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PERRA AVENTURERA](https://open.spotify.com/album/71gBgX8BzzynhkRWJGmLwb) | 3:15 |
-| 43 | [MIAU](https://open.spotify.com/track/3GqpNTyCPu51DQ9PhIxzfj) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [PUSSY IN BOOTS](https://open.spotify.com/album/4KEENGkcm3QiCAdSZLoGkf) | 0:36 |
+| 43 | [UN ÁNGEL](https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [UN ÁNGEL](https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl) | 2:54 |
 | 44 | [morbo](https://open.spotify.com/track/5tLFDcj9NOB7wZq1uCldyt) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [a todo el mundo le pasa](https://open.spotify.com/album/5WrnLgPUnxsbfbMHv8Nh5X) | 2:23 |
-| 45 | [UN ÁNGEL](https://open.spotify.com/track/1CesKAz7ez91UJs4sWLSKs) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [UN ÁNGEL](https://open.spotify.com/album/6ovx98ZTYBsmHDSsk1Hjbl) | 2:54 |
+| 45 | [MIAU](https://open.spotify.com/track/3GqpNTyCPu51DQ9PhIxzfj) | [Fiah](https://open.spotify.com/artist/6UKNGNdyAMQo1SepZHMzH5) | [PUSSY IN BOOTS](https://open.spotify.com/album/4KEENGkcm3QiCAdSZLoGkf) | 0:36 |
 | 46 | [Distraída](https://open.spotify.com/track/3RNhZYgS35qZ0ixOAvjHq9) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Farsanta](https://open.spotify.com/album/7MG0GGt2sOTz7lOxExwhQv) | 2:42 |
 | 47 | [ya fue](https://open.spotify.com/track/0PSpvHrkjz8edmbH8XGsBm) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [ya fue](https://open.spotify.com/album/4vu9tJE0kcOA9EWT2ciKQR) | 3:22 |
 | 48 | [Papi](https://open.spotify.com/track/7xq8QM5WqLHEaVA3JKSYhm) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [Chita](https://open.spotify.com/artist/0ZDZn77Dhb58H7QAuc0NUL) | [Papi](https://open.spotify.com/album/4yTkZSHc8RTwoREgGKzB5L) | 2:13 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 51 | [Te Gusta lo Mío](https://open.spotify.com/track/63xOm2OcMeu1l0CyWJc1Nu) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX) | [Te Gusta lo Mío](https://open.spotify.com/album/6QFFWWqcEsgplGK2aEu1Xm) | 2:43 |
 | 52 | [no es amor](https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [La Finesse](https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A) | [no es amor](https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm) | 3:14 |
 | 53 | [Hijo de Puta](https://open.spotify.com/track/57scDcITcx6puXDWHzZpPY) | [Mala Juarez](https://open.spotify.com/artist/7hOkDEegx8SLLfYzRHfPqb), [MYMBA malabú](https://open.spotify.com/artist/57AL7Z2zCAfyq7KQNfneGS) | [Hijo de Puta](https://open.spotify.com/album/0OZDFzXBcH8stCmtz7I7cC) | 3:03 |
-| 54 | [El Beso](https://open.spotify.com/track/4VnTn9sIxQ705y1akD7ndm) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:13 |
-| 55 | [Drama](https://open.spotify.com/track/4cvviKvcAJ0xHCcaBeo971) | [Cornuda Posting](https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D) | [Drama](https://open.spotify.com/album/5blrHcFmGcYSgb3oLz4bdk) | 2:13 |
+| 54 | [Drama](https://open.spotify.com/track/4cvviKvcAJ0xHCcaBeo971) | [Cornuda Posting](https://open.spotify.com/artist/6S55BI9rMcZJFtBnCvyg5D) | [Drama](https://open.spotify.com/album/5blrHcFmGcYSgb3oLz4bdk) | 2:13 |
+| 55 | [El Beso](https://open.spotify.com/track/4VnTn9sIxQ705y1akD7ndm) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 2:13 |
 | 56 | [CREMA \- Ice Burz Remix](https://open.spotify.com/track/6Ln6sq8t3yoetTNeVNZBsS) | [baby cashy](https://open.spotify.com/artist/0brMkFToopZg9JuMOhGeYR), [Ice Burz](https://open.spotify.com/artist/6SsObOdnJiemnnXen3whsm) | [CREMA \(Ice Burz Remix\)](https://open.spotify.com/album/07h1cXSpgELXBD8aYrjl9F) | 1:48 |
 | 57 | [Puta](https://open.spotify.com/track/1Ckm84P3YA0OHp4fgOrGDQ) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Puta](https://open.spotify.com/album/3OgATgCeOhZICDDVyX1cLK) | 2:03 |
 | 58 | [Sirviendo](https://open.spotify.com/track/23ots7LHKlxar4csIjEeNy) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Sirviendo](https://open.spotify.com/album/4f2fxSEPnxFcbIIgUVKkfT) | 2:45 |
 | 59 | [namorada brasileira](https://open.spotify.com/track/2LbocN89t2oWloRNFeipMJ) | [Vera Frod](https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX), [musica gratis](https://open.spotify.com/artist/4wVcG4AqJ5gyqs9mAYcV9G) | [namorada brasileira](https://open.spotify.com/album/29I1x4sSkFhv9pDIB5SjT7) | 2:00 |
-| 60 | [Condena](https://open.spotify.com/track/02NtOIiNaOxvZEMsv0bm3g) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Http](https://open.spotify.com/artist/5RYwJweQOBFMR2sQZmN4WW) | [Condena](https://open.spotify.com/album/32wxeMJVIzkuOJ8aOW3HIo) | 2:34 |
-| 61 | [Ficción](https://open.spotify.com/track/0oKxlcsVtxwNl7SNKQ8MDH) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 4:06 |
+| 60 | [Ficción](https://open.spotify.com/track/0oKxlcsVtxwNl7SNKQ8MDH) | [La Maurette](https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI) | [ALTER EGO](https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG) | 4:06 |
+| 61 | [Condena](https://open.spotify.com/track/02NtOIiNaOxvZEMsv0bm3g) | [Greta Dumont](https://open.spotify.com/artist/7tv9QbpVwlv9mWG6Rt77Mk), [Http](https://open.spotify.com/artist/5RYwJweQOBFMR2sQZmN4WW) | [Condena](https://open.spotify.com/album/32wxeMJVIzkuOJ8aOW3HIo) | 2:34 |
 | 62 | [Distraída](https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E) | [Faraonika](https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk), [Coghlan](https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg) | [Distraída](https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ) | 2:42 |
 
 Snapshot ID: `AAAAAE1hvlbndTHoscubYpdRzM42eTXK`

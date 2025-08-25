@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-347 songs - 20 hr 8 min
+349 songs - 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 | 2024-02-07 |  |
 | [Damn](https://open.spotify.com/track/6eLephqDNlNZAMOLZonDSO) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 3:43 | 2024-02-07 | 2024-08-19 |
 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 | 2024-02-07 |  |
+| [Dance With Me](https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:23 | 2025-08-24 |  |
 | [Der Schlumpfenbeat](https://open.spotify.com/track/21l8z5LyBjT0nfynKJfvtX) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Die Hits der Schlümpfe](https://open.spotify.com/album/5GDFUh4vZFYXzUtoOb93VS) | 3:13 | 2024-02-07 |  |
 | [Die Without You](https://open.spotify.com/track/4wD7iI8HPEjq4XfQFH4XQo) | [Candice Glover](https://open.spotify.com/artist/1rHf7vRCsDRBkbA1XGT9e1) | [Music Speaks](https://open.spotify.com/album/47mWsvx5dcJMenKsgvSURG) | 4:04 | 2024-02-07 | 2024-08-19 |
 | [Do Me](https://open.spotify.com/track/3wrFwkYDq5PgXNAFuHHhsT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Clarity](https://open.spotify.com/album/6c1WrLJYc4Ytl4zqzEpVz2) | 3:32 | 2024-02-07 |  |
@@ -203,6 +204,7 @@
 | [Low Key](https://open.spotify.com/track/2Ui4ILTEvOdy0tlBeXHoqk) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/37B5Zjn3VTORs1APCtOsRY) | 3:29 | 2025-01-09 | 2025-04-12 |
 | [Lucky Me](https://open.spotify.com/track/0C5H6V1zp6rdH5AoVttoLt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Graffiti \(Expanded Edition\)](https://open.spotify.com/album/20aDO05QIgZMY7BcKKI44D) | 5:10 | 2024-02-07 |  |
 | [Lullaby](https://open.spotify.com/track/1EIhpG65DWoQDPSxwGu311) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 3:46 | 2024-02-07 |  |
+| [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 | 2025-08-24 |  |
 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 | 2024-02-07 |  |
 | [Make Up \(feat\. Chloe Angelides\)](https://open.spotify.com/track/37k7igIs7IrMVUadwWKHJ6) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:26 | 2024-02-07 |  |
 | [Makeup](https://open.spotify.com/track/1yVsXwUiSuINsTBXIhAhCk) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:51 | 2024-02-07 |  |

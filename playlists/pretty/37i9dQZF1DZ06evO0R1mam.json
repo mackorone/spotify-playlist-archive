@@ -1,12 +1,12 @@
 {
   "description": "This is Tye Tribbett. The essential tracks, all in one playlist.",
-  "num_followers": 11955,
+  "num_followers": 11957,
   "original_name": "This Is Tye Tribbett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAB8VW4qaH3ZMPokkA2NC4Gm",
+  "snapshot_id": "aKkEgAAAAADrq5DgSZ2hG3IsaqYAkPs9",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 100354,
-      "name": "My Worship - Live",
-      "url": "https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Covered: Alive In Asia (Deluxe Version)",
         "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 372760,
       "name": "Chasing Me Down (feat. Tye Tribbett)",
       "url": "https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greater Than (Live)",
+        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 334186,
+      "name": "Nobody - Live",
+      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greater Than (Live)",
-        "url": "https://open.spotify.com/album/4PbHCckGALCndisP6NsETF"
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
         }
       ],
-      "duration_ms": 334186,
-      "name": "Nobody - Live",
-      "url": "https://open.spotify.com/track/3vzBiQcnpn27wXF2uI7Atr"
+      "duration_ms": 100354,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things New (Live In Orlando)",
-        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 199725,
-      "name": "Same God - Live",
-      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things New (Live In Orlando)",
+        "url": "https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 199725,
+      "name": "Same God - Live",
+      "url": "https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo"
     },
     {
       "added_at": null,

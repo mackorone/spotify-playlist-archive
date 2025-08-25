@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,497 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,514 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 90 | [La Roseraie](https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Sans oublier](https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c) | 2:50 |
 | 91 | [artclubdiscotheque](https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [artclubdiscotheque](https://open.spotify.com/album/6ul0Pt65txKgpSJN4I4Lig) | 5:35 |
 | 92 | [Life Drummer](https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD) | [Vanishing Twin](https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5) | [Life Drummer](https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ) | 2:38 |
-| 93 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
-| 94 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
+| 93 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
+| 94 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |
 | 95 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
 | 96 | [Processional](https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Are You There God? It’s Me, @](https://open.spotify.com/album/3yH4aVY5yxzxaijksQOOJk) | 3:14 |
 | 97 | [An Embroidery](https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [An Embroidery](https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy) | 4:09 |

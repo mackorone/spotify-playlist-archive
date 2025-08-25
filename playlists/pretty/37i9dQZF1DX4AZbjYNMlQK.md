@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,527 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,493 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 50 | [El Tamborilero](https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl), [MON SIERRA](https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK) | [Villancicos](https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb) | 4:20 |
 | 51 | [All I Want For Christmas Is You](https://open.spotify.com/track/4C2WMkrsgCgLHG9wH41rZN) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:56 |
 | 52 | [Diciembre](https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Diciembre](https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi) | 2:40 |
-| 53 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
-| 54 | [Diciembre](https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc), [Romo One](https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs) | [Diciembre](https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4) | 3:35 |
+| 53 | [Diciembre](https://open.spotify.com/track/78x8wenPIjaph6FFWYiJvM) | [Ander](https://open.spotify.com/artist/3Kpk0TqikcOr9YZqJMSWcc), [Romo One](https://open.spotify.com/artist/4OEsDqpSFPP8IJHMuKvOQs) | [Diciembre](https://open.spotify.com/album/5CD8YKCvtjjIvdCkpDIUP4) | 3:35 |
+| 54 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 |
 | 55 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
 | 56 | [Otro año +](https://open.spotify.com/track/6CdGYJox8uUXEVxLsOHijj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Otro año +](https://open.spotify.com/album/3M0Uo7RvBBh6FhY9b0Ivob) | 1:40 |
 | 57 | [Diciembre Frío](https://open.spotify.com/track/2BZjqkq3Og5q8Mf76Tp14p) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Diciembre Frío](https://open.spotify.com/album/1DanZPzGDbBYuMeFVgloC5) | 2:56 |

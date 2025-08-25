@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Lauren Daigle
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,746 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,938 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [MIRACLES](https://open.spotify.com/track/5LRnK1IzrREnAycQGONQrP) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Kevin Winebarger](https://open.spotify.com/artist/0Mihk33hOz5pYMIDALdiFG), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MIRACLES](https://open.spotify.com/album/2EqVaWGnejlGEO6XEqy7Cw) | 2:32 |
 | 80 | [Superpowers](https://open.spotify.com/track/3ZNHrPveoYFrzPK2VYjbqn) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri) | [Superpowers](https://open.spotify.com/album/1WeWNF52veaOmfcAagyUr7) | 3:37 |
 
-Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`
+Snapshot ID: `AAAAAEaZlQoVl2hVSFYI26BU4A5tTjN9`

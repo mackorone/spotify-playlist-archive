@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 
 > ¡Y qué retumbe la bandona, pariente! Espinoza Paz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,927 likes - 150 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,956,079 likes - 150 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5O5m2ypWiqa.md) - [plain]
 | 135 | [Me Cansé de Morir por Tu Amor](https://open.spotify.com/track/2OA5ilVM3BrvNntoVLnYSa) | [Chalino y Adán](https://open.spotify.com/artist/2e7Lvf2PX98QIDBa23ik3l) | [Los Sánchez Mano a Mano](https://open.spotify.com/album/1B8zrDGa7z8hk7YvkHR4Vu) | 3:38 |
 | 136 | [La Noche Perfecta](https://open.spotify.com/track/7cQu1Br0VrCs193cn3eyTO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:07 |
 | 137 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
-| 138 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
-| 139 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
-| 140 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
+| 138 | [Reencuentro](https://open.spotify.com/track/2shZC1aewiGkuHbpWBZ5lS) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:46 |
+| 139 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
+| 140 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
 | 141 | [Borracho de Amor](https://open.spotify.com/track/2xjxGXr3eASzCvo9MUHk0w) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [De Monterrey a Sinaloa](https://open.spotify.com/album/6M9upytZn0KVS3JvlhbSYE) | 3:24 |
 | 142 | [Cuál Adiós](https://open.spotify.com/track/3WWOgwKCsqi5GCO5eRoen0) | [Banda Clave Nueva](https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R) | [Ya No Vives En Mí](https://open.spotify.com/album/3GcFU0ICHxdr3rkWoRXcfE) | 3:29 |
 | 143 | [En Peligro de Extinción](https://open.spotify.com/track/45sVRPegWSGpIcsrDoaaCY) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [En Peligro de Extinción](https://open.spotify.com/album/4wVjFDQvkAMizWIlA4gTdp) | 3:54 |
 | 144 | [La Buena y la Mala](https://open.spotify.com/track/17IiqbqbVVWMlq6j7xrQaD) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [De Lo Bueno, Lo Mejor](https://open.spotify.com/album/6I9xsd5xis4wg41FQCHsvV) | 3:24 |
 | 145 | [El Que Te Amó](https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Que Te Amó](https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n) | 3:04 |
-| 146 | [Cuatro Rosas](https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver A Verte](https://open.spotify.com/album/7aEMpk1yvAh8MA6dgpMuQ2) | 4:08 |
-| 147 | [La Cuichi](https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p) | [Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/artist/7sDRPHDNEOmnPgyfYWUITM) | [Me Gusta Todo De Ti](https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO) | 2:00 |
-| 148 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/3d4nvqVHxsY2czibr9SXu9) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j) | 3:26 |
-| 149 | [Mi Enemigo El Amor](https://open.spotify.com/track/3YLZE6B8KTT0kYHL3ovVwA) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/6ZNWvaqKZSS9JLSmkC2Iop) | 3:52 |
-| 150 | [Una Noche Mas Contigo](https://open.spotify.com/track/0Uee9J71CUB05o9os8oplV) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Exitos De Mariano Barba](https://open.spotify.com/album/6RnB5pAjCcesyT2Q9uGEPp) | 4:10 |
+| 146 | [Perdóname](https://open.spotify.com/track/4bjemSdlRBzNqP86omaKbq) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Archivos de Mi Vida](https://open.spotify.com/album/2c8uOIhjcq07kzV7isc3JB) | 3:19 |
+| 147 | [Cuatro Rosas](https://open.spotify.com/track/5a53BoBNOKSUW6n4lEZOAk) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Volver A Verte](https://open.spotify.com/album/7aEMpk1yvAh8MA6dgpMuQ2) | 4:08 |
+| 148 | [Broche de Oro](https://open.spotify.com/track/35oKShiPehjQg7y1iTIQ0E) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/0zo3LNmIZJr5BeQujgCB2Y) | 3:36 |
+| 149 | [La Cuichi](https://open.spotify.com/track/5MJWoHFH5pOemxZuObv42p) | [Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/artist/7sDRPHDNEOmnPgyfYWUITM) | [Me Gusta Todo De Ti](https://open.spotify.com/album/4hvGomO1PrVwRkfBZqigSO) | 2:00 |
+| 150 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/3d4nvqVHxsY2czibr9SXu9) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/0XQIEnBFAUvoYyW6V1Ph6j) | 3:26 |
 
 Snapshot ID: `AAAAABWuWZRSMmneZIQPNsiwgXp1QmSd`

@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 17241,
+  "num_followers": 17249,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,30 @@
     {
       "added_at": "2025-08-22 06:30:01",
       "album": {
+        "name": "PAY ME",
+        "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 210574,
+      "name": "PAY ME (feat. Stormzy and Zlatan)",
+      "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
+    },
+    {
+      "added_at": "2025-08-22 06:30:01",
+      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -443,26 +467,6 @@
     {
       "added_at": "2025-08-22 06:30:01",
       "album": {
-        "name": "Lifestyle",
-        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 144657,
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
-    },
-    {
-      "added_at": "2025-08-22 06:30:01",
-      "album": {
         "name": "So it Goes",
         "url": "https://open.spotify.com/album/5NcIQDB0iObPQx5U3K0OoC"
       },
@@ -479,6 +483,26 @@
       "duration_ms": 223585,
       "name": "So it Goes",
       "url": "https://open.spotify.com/track/2dZ0GjY40Y2OYzRaiD8yYq"
+    },
+    {
+      "added_at": "2025-08-22 06:30:01",
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 144657,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
     },
     {
       "added_at": "2025-08-22 06:30:01",
@@ -527,22 +551,6 @@
     {
       "added_at": "2025-08-22 06:30:01",
       "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
-    },
-    {
-      "added_at": "2025-08-22 06:30:01",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -559,6 +567,22 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2025-08-22 06:30:01",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2025-08-22 06:30:01",
@@ -699,22 +723,6 @@
     {
       "added_at": "2025-08-22 06:30:01",
       "album": {
-        "name": "Unconditional",
-        "url": "https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 171247,
-      "name": "unconditional",
-      "url": "https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj"
-    },
-    {
-      "added_at": "2025-08-22 06:30:01",
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
       },
@@ -727,6 +735,22 @@
       "duration_ms": 144026,
       "name": "Rhythm & Blues",
       "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
+    },
+    {
+      "added_at": "2025-08-22 06:30:01",
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/3Xhu2pzTBMZeX89QTMx8eX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 171247,
+      "name": "unconditional",
+      "url": "https://open.spotify.com/track/5AdS5p0hYS4dlKbJz0tMwj"
     },
     {
       "added_at": "2025-08-22 06:30:01",
@@ -1011,6 +1035,26 @@
     {
       "added_at": "2025-08-22 06:30:01",
       "album": {
+        "name": "DACHIBA KOUMGBA TCHAIBA",
+        "url": "https://open.spotify.com/album/3cRm4UhrSxRKTS1f3T0QQo"
+      },
+      "artists": [
+        {
+          "name": "Himra",
+          "url": "https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "TIENS MA MONEY (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/6S46LxjNxiMLQLS352CFib"
+    },
+    {
+      "added_at": "2025-08-22 06:30:01",
+      "album": {
         "name": "Do You Know?",
         "url": "https://open.spotify.com/album/3vdbIdFkySktuYEYiJtgA0"
       },
@@ -1191,26 +1235,6 @@
     {
       "added_at": "2025-08-22 06:30:01",
       "album": {
-        "name": "EMIKO",
-        "url": "https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3"
-      },
-      "artists": [
-        {
-          "name": "KJ Spio",
-          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 179005,
-      "name": "EMIKO",
-      "url": "https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2"
-    },
-    {
-      "added_at": "2025-08-22 06:30:01",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1227,6 +1251,26 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
+    },
+    {
+      "added_at": "2025-08-22 06:30:01",
+      "album": {
+        "name": "EMIKO",
+        "url": "https://open.spotify.com/album/7t75CKqylx2aO3IjNW7Hl3"
+      },
+      "artists": [
+        {
+          "name": "KJ Spio",
+          "url": "https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 179005,
+      "name": "EMIKO",
+      "url": "https://open.spotify.com/track/2pDz8CxpjxguRg1SXplkG2"
     },
     {
       "added_at": "2025-08-22 06:30:01",
@@ -1495,46 +1539,6 @@
       "duration_ms": 174439,
       "name": "PROBLEM",
       "url": "https://open.spotify.com/track/4IIGJVSF111kujLOqb0bgQ"
-    },
-    {
-      "added_at": "2025-08-22 06:30:01",
-      "album": {
-        "name": "DEM DEAD",
-        "url": "https://open.spotify.com/album/4IXcahdFQyLYFIEyiTprGR"
-      },
-      "artists": [
-        {
-          "name": "Drela",
-          "url": "https://open.spotify.com/artist/3ajvYzyRAl54iNmwsuQMHN"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 187090,
-      "name": "DEM DEAD",
-      "url": "https://open.spotify.com/track/7wmS3bLdObs5EKPlRSKqst"
-    },
-    {
-      "added_at": "2025-08-22 06:30:01",
-      "album": {
-        "name": "TOFFEE",
-        "url": "https://open.spotify.com/album/2w0uS5c01bbICce8aD9thW"
-      },
-      "artists": [
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Xlimkid",
-          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Toffee",
-      "url": "https://open.spotify.com/track/4qncFa5abNWOljfJ6atPcZ"
     }
   ],
   "unique_name": "Troski Rhythms",

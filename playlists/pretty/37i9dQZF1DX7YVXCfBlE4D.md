@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,650 likes - 170 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,793 likes - 170 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,8 +162,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 152 | [María Bonita](https://open.spotify.com/track/23WfbJPkKmCBLbUlYpSuNP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Serie Platino](https://open.spotify.com/album/3a3julBZ8GV0rUf7JYWOt1) | 3:20 |
 | 153 | [Perdon](https://open.spotify.com/track/2IsKqcHOJlVJskX7UhILXU) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv) | 3:12 |
 | 154 | [Escándalo](https://open.spotify.com/track/5lZywXgwtOeARqo0dFdyJG) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [20 Exitos Originales](https://open.spotify.com/album/5h4kOd0HM71sQx52xaAHl4) | 2:35 |
-| 155 | [Cerca del Mar](https://open.spotify.com/track/6hnQVccXurK7ZHJzIyJHNx) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Brillantes\- Los Dandys](https://open.spotify.com/album/7KkgaKrYkx8qdqDTuCA5vp) | 3:00 |
-| 156 | [Caribe Soy](https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Reminiscencias](https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG) | 2:46 |
+| 155 | [Caribe Soy](https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Reminiscencias](https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG) | 2:46 |
+| 156 | [Cerca del Mar](https://open.spotify.com/track/6hnQVccXurK7ZHJzIyJHNx) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Brillantes\- Los Dandys](https://open.spotify.com/album/7KkgaKrYkx8qdqDTuCA5vp) | 3:00 |
 | 157 | [Tu Voz](https://open.spotify.com/track/2DXFZTUFzahoZ1F8dJMeSZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/4gJvY3r9i45vsDiInQL01D) | 3:10 |
 | 158 | [Lamento Borincano](https://open.spotify.com/track/0qGZt9ERdHTEMIWc9J2WyB) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Lamento Borincano](https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv) | 4:47 |
 | 159 | [Besame Mucho](https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7) | [Consuelo Velázquez](https://open.spotify.com/artist/3LXU2rvQWxMGvbmnoAqRMU) | [Boleros para Enamorarse, Vol\. 2](https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ) | 3:01 |

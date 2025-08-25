@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqjEVD8TBr9.md) - [plain]
 
 > Play the <a href="https://open.spotify.com/presents/skzstaydium"> STAYdium Champions Quiz!</a><br/>Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,644 likes - 237 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,556 likes - 237 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

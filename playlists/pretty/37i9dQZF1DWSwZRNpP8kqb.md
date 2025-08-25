@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,312 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,326 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 80 | [La Olvidada](https://open.spotify.com/track/45x0aUyqgT2M6EpeEh04xi) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [La Olvidada](https://open.spotify.com/album/3cFXvG8oDY9H3jYEfIukyQ) | 2:34 |
 | 81 | [La Marejada](https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [La Charo](https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8) | 3:27 |
 | 82 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
-| 83 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
-| 84 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
+| 83 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
+| 84 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
 | 85 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 |
 | 86 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
-| 87 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
-| 88 | [Podrás](https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Podrás](https://open.spotify.com/album/4oLTyOU9M8aUWnqibV7eff) | 4:01 |
+| 87 | [Podrás](https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Podrás](https://open.spotify.com/album/4oLTyOU9M8aUWnqibV7eff) | 4:01 |
+| 88 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
 | 89 | [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 |
 | 90 | [Guitarra, Dímelo Tú](https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9) | [Suma Paz](https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe) | [Canto de Nadie](https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE) | 3:10 |
 | 91 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 96 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
 | 97 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
 | 98 | [Esa Musiquita](https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v) | [Marilí Machado](https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI) | [A Mercedes, Vol\. II](https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7) | 3:22 |
-| 99 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
-| 100 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
+| 99 | [Guanuqueando](https://open.spotify.com/track/13tpe4n5GEWvQF4yrxppVa) | [Suna Rocha](https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf) | [Guanuqueando](https://open.spotify.com/album/1ws4M2yQPoxKbQ1x9mwMAB) | 4:19 |
+| 100 | [Lavandera Chaguanca](https://open.spotify.com/track/4uiEqRKRJxswSeqsXbnS4s) | [Luna Monti](https://open.spotify.com/artist/1ujuID79Vnw9o2AQFfLPPd) | [Dentro, El Silencio](https://open.spotify.com/album/4Cba7B2IzOrJ76Eqi8mXkw) | 5:20 |
 
 Snapshot ID: `AAAAAIP0ewj4QujXyLKZGcfTQTRzG1QR`

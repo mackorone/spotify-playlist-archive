@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,493 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,525 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 77 | [Mary Sol](https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5) | [Papi Perez](https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo), [Chirimoyo](https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3) | [Mary Sol](https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh) | 4:10 |
 | 78 | [Dios](https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Dios](https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w) | 3:13 |
 | 79 | [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 |
-| 80 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 |
-| 81 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
+| 80 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
+| 81 | [Paleta](https://open.spotify.com/track/3XdIv0nuZqbsnOLNyRsk8k) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:40 |
 | 82 | [La Era del GigaHertz](https://open.spotify.com/track/7pUESHJMBtBRcUkls9wbvT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [La Era del GigaHertz](https://open.spotify.com/album/6DPCgGaRIPO5BJUXlVlOhZ) | 5:06 |
 | 83 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
 | 84 | [Con Otros Ojos](https://open.spotify.com/track/2pqg6LbsUiHdEvNkQHD8H5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Con Otros Ojos](https://open.spotify.com/album/6Kh8aI3eYi6mqHdVg4HXf7) | 3:40 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 89 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 |
 | 90 | [Porrovía](https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Porrovía](https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g) | 3:27 |
 | 91 | [Chucha](https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chucha](https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ) | 2:27 |
-| 92 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |
-| 93 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
-| 94 | [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 |
+| 92 | [Solo Yo](https://open.spotify.com/track/3Lf3G3HoYLbs3pt0FhecEj) | [Buyepongo](https://open.spotify.com/artist/1HmiqLEbQr8UGX7aEMM3c0) | [Solo Yo](https://open.spotify.com/album/2nkdmiUVwlv0Smw9e6fgW9) | 8:12 |
+| 93 | [Capricornio: Ven a mi amor](https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte) | [Sonido Desconocido 2](https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA) | [Capricornio: Ven a mi amor](https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF) | 2:50 |
+| 94 | [Sonido Yoryi](https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Sonido Yoryi](https://open.spotify.com/album/0tbKSUNuPamYlrj6xs2WIe) | 4:40 |
 | 95 | [Voy de Aquí Pa'allá](https://open.spotify.com/track/34Tcii0RhnwUaWc5tupCoZ) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo) | [Levante la Mano](https://open.spotify.com/album/2iQK6aPZQDGsoayymfySUJ) | 3:08 |
 | 96 | [Cumbia OceaÌnica](https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H) | [Amaru Tribe](https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu) | [Amaru Tribe](https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc) | 6:41 |
 | 97 | [Sonaja y Tambor](https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA) | [Salterio Marsupial](https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI), [Líber Terán](https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p) | [Sonaja y Tambor](https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL) | 3:57 |
 | 98 | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Cuando tengo fiebre veo la cabeza de un leopardo magnífico](https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU) | 3:54 |
-| 99 | [Paso Palante](https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Paso Palante](https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu) | 4:05 |
-| 100 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
+| 99 | [Cumbia del Pichamán](https://open.spotify.com/track/5w2PSLjp8dGHTCoA2cb4Cp) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia Siglo XXI](https://open.spotify.com/album/6XFHs9bsqazGHLuIokrDmR) | 3:17 |
+| 100 | [Paso Palante](https://open.spotify.com/track/7EEz3CM1J6OEuWyGrhnIut) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Paso Palante](https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu) | 4:05 |
 
 Snapshot ID: `AAAAAFahO5Si2B9C+r2sOII9W17MQI/5`

@@ -384,7 +384,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
@@ -5591,6 +5591,24 @@
     },
     {
       "album": {
+        "name": "Eyes On Six",
+        "url": "https://open.spotify.com/album/6qMN9ETlfgvBj746O6q0Ng"
+      },
+      "artists": [
+        {
+          "name": "Biohazard",
+          "url": "https://open.spotify.com/artist/3nhxXtHwC2TookQyqQlFK1"
+        }
+      ],
+      "date_added": "2025-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200609,
+      "name": "Eyes On Six",
+      "url": "https://open.spotify.com/track/0Z9CGuKtGy0eF79lAFTiGU"
+    },
+    {
+      "album": {
         "name": "Eyes Wide Open",
         "url": "https://open.spotify.com/album/6J8NO4P9dHdKmYzw24nmKp"
       },
@@ -6490,7 +6508,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 207680,
       "name": "Genghis Khan (feat. Orden Ogan)",
       "url": "https://open.spotify.com/track/6bU8aqYu560gwdcg2oPJ4f"
@@ -8832,7 +8850,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/4B5hrpQjHTLfGMcTgpatUs"

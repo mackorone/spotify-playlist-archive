@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 8431,
+  "num_followers": 8432,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAByA0JGqARXU8EtSquh5BrA",
+  "snapshot_id": "aKkEgAAAAAD9sa8CqLsR/Uy2enJs8q1x",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
+      "duration_ms": 161684,
+      "name": "The Mood",
+      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 161684,
-      "name": "The Mood",
-      "url": "https://open.spotify.com/track/6gHUiXF4BiJ9d7biTNmdKR"
+      "duration_ms": 183529,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0q9OFZHgEZUAi5bVge9nbk"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 158320,
-      "name": "Buru",
-      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/3LH7ME7Kjs9x6qDkbF5mWS"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 203280,
       "name": "Dance",
       "url": "https://open.spotify.com/track/7nNrIS6JuS2YEhmfmZwEuf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 158320,
+      "name": "Buru",
+      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Terry G",
-          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
-        }
-      ],
-      "duration_ms": 190266,
-      "name": "Malonogede",
-      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ODESHI",
         "url": "https://open.spotify.com/album/6aR4VQKmUaCTJOTrTtnYQL"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 192053,
       "name": "ODESHI",
       "url": "https://open.spotify.com/track/1Zae5Z1JWyufFUaoi7PBbA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA"
+        }
+      ],
+      "duration_ms": 190266,
+      "name": "Malonogede",
+      "url": "https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2"
     },
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
-        "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
-      },
-      "artists": [
-        {
-          "name": "Kolaboy",
-          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 194871,
-      "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
-      "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kom Kom",
         "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
       },
@@ -487,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "To U",
-        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
+        "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
+        "url": "https://open.spotify.com/album/4TWNyfcpzx6KpslXS6tbsa"
       },
       "artists": [
+        {
+          "name": "Kolaboy",
+          "url": "https://open.spotify.com/artist/6RY4M12pquQEV6wgI6yAeR"
+        },
         {
           "name": "Timaya",
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 224444,
-      "name": "To U",
-      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
+      "duration_ms": 194871,
+      "name": "Kolapiano Vol. 2 (Isakaba) [Remix]",
+      "url": "https://open.spotify.com/track/52ElzQdgioD0OfBYqFe9RM"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 157500,
       "name": "SWEET US",
       "url": "https://open.spotify.com/track/56lY57uPh4k8yw8TkQgwNZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To U",
+        "url": "https://open.spotify.com/album/6tkSO3PtZ5RixzZCym2Kj9"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "To U",
+      "url": "https://open.spotify.com/track/5maDUHK9DBDs9m7Bkkzedr"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Bom Bom",
+      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bam Bam",
         "url": "https://open.spotify.com/album/1wpspq0ag31exULhDaG16S"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 220235,
       "name": "Bam Bam",
       "url": "https://open.spotify.com/track/6ZDCQ5POJp2ijoguRxqYRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Bom Bom",
-      "url": "https://open.spotify.com/track/4krZBMENG6coQYEaZkVvHP"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Chulo Bother Nobody",
+      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man on Duty",
         "url": "https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 215640,
       "name": "Man on Duty",
       "url": "https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Chulo Bother Nobody",
-      "url": "https://open.spotify.com/track/3az51Ci3EiUmX1Hf1x5y9w"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "Sexy Ladies",
-      "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gratitude",
         "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 199546,
       "name": "Iberibe",
       "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "Sexy Ladies",
+      "url": "https://open.spotify.com/track/7eEsqGqIlG8dliuPYEg89g"
     },
     {
       "added_at": null,

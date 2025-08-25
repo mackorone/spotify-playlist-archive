@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Folabi Nuel
 
-6,049 songs - 18 day 8 hr 57 min
+6,051 songs - 18 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3592,6 +3592,7 @@
 | [Naamini Kwako Bwana](https://open.spotify.com/track/1xqmMfkjQSGUgGF93wSbyE) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Naamini Kwako Bwana](https://open.spotify.com/album/1jExfezqunAy4F3tQP9IZf) | 6:20 | 2024-12-20 | 2025-01-10 |
 | [Nagala](https://open.spotify.com/track/6QuDtnCvgDhjBNEC8IKNdX) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Nagala](https://open.spotify.com/album/1IoZ8ND1b35ZDQqKhC9ule) | 4:36 | 2023-12-15 | 2023-12-30 |
 | [Nagode](https://open.spotify.com/track/4V1VuUpMdMtymv5Bdem25j) | [Jed da Fotis](https://open.spotify.com/artist/1Q1f69ym1M2IqNq79I7JlB) | [Nagode](https://open.spotify.com/album/3tYw7Q1w1IlBb3coAp3IXJ) | 3:13 | 2024-02-02 | 2024-02-16 |
+| [NAGODE](https://open.spotify.com/track/4cARVWtIpLcRQ3zG7ScpoJ) | [Mcmuzik](https://open.spotify.com/artist/4HaXYGwMsB25MF1XiLexzD) | [NAGODE](https://open.spotify.com/album/4oZcmQjig5aAj64Y09eciR) | 3:04 | 2025-08-24 |  |
 | [Naikoselesha](https://open.spotify.com/track/3ZznA1x0BJGWqTw6KuoiYE) | [Christine Nkole](https://open.spotify.com/artist/2coJ6dDm1YoltAWYmax9tZ) | [Naikoselesha](https://open.spotify.com/album/112wB0Yg5yv2GRLuai0ALx) | 7:53 | 2024-12-20 | 2025-01-10 |
 | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Zoe](https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg) | [Nakupa Utukufu \(feat\. Zoe\)](https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0) | 3:17 | 2024-09-06 | 2024-09-20 |
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 | 2023-09-22 |
@@ -3744,6 +3745,7 @@
 | [No dey Shame \(Igbagbo\)](https://open.spotify.com/track/5ONIRzoDH9srk0J49B8TRM) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V), [Tariee](https://open.spotify.com/artist/5SoIX1tmK5I0xpS06fHKEW) | [No dey Shame \(igbagbo\)](https://open.spotify.com/album/46z8nwJaiYWqk2SRLvuhjh) | 2:36 | 2025-03-20 | 2025-03-28 |
 | [No dey taya](https://open.spotify.com/track/7BvNh4qb2bZ26zQ5k2k4rp) | [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ) | [No dey taya](https://open.spotify.com/album/3bdFaRKOFEssqJNaJfyyL3) | 3:00 | 2023-07-28 | 2023-08-11 |
 | [No Distractions](https://open.spotify.com/track/4Lb7GCURnLKzLllifdE5DI) | [Lekan Salamii](https://open.spotify.com/artist/2S8pBLSlvmEiRPl2SMPfPB), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [No Distractions](https://open.spotify.com/album/2otbsOuVe9QSa1ydGLHpEH) | 2:56 | 2024-08-16 | 2024-08-30 |
+| [No Escape](https://open.spotify.com/track/7isRXcjiOCqwM24s9rEeFe) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [No Escape](https://open.spotify.com/album/2hz6ssT01FHOrHK3318jh4) | 2:41 | 2025-08-24 |  |
 | [No Evil](https://open.spotify.com/track/0hq3GZQuuT1UloYb6OfoPu) | [Garth Brown](https://open.spotify.com/artist/77Cs84lBhoUxp6OenSCJKR) | [No Evil](https://open.spotify.com/album/6JAFPCZianmczWBDs1Srqf) | 4:08 | 2024-07-19 | 2024-07-27 |
 | [No Fear](https://open.spotify.com/track/3q87cSa0b6fnsRbgpJoHDT) | [Tissann](https://open.spotify.com/artist/0oXiDrLAR9O9986SCXZj8X), [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [No Fear](https://open.spotify.com/album/6K7oPX3N5pIy0AfQdYUIFC) | 2:46 | 2025-05-30 | 2025-06-06 |
 | [NO FRIENDS](https://open.spotify.com/track/4pO8nHaEVElP4C5ZOJgyzA) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp), [Waade](https://open.spotify.com/artist/1w7KM84lLHQcG62Eokbqqy) | [NO FRIENDS](https://open.spotify.com/album/6fURBnCAR0aPY5d7NDxaMe) | 3:02 | 2024-09-06 | 2024-09-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,632 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,723 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 72 | [Te Dejo Ganar](https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P) | 3:21 |
 | 73 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 |
 | 74 | [Quiero Conocer a Jesús \(Yeshua\) / Nuestro Dios](https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Fernando Ramos](https://open.spotify.com/artist/5MJzy9qF9CL7CWapio7IPv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 11:55 |
-| 75 | [Jesucristo basta](https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Somos Iglesia](https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T) | 4:48 |
-| 76 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
+| 75 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 |
+| 76 | [Jesucristo basta](https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Somos Iglesia](https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T) | 4:48 |
 | 77 | [Gracias](https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW) | 5:05 |
 | 78 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 79 | [Todo Lo Haces Nuevo](https://open.spotify.com/track/6dbNKCUB2HwCdAB7aGgyu4) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 10:12 |
-| 80 | [Mi Esperanza Está en Jesús \- Live](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
-| 81 | [Gracia Sublime Es](https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU) | 5:15 |
+| 80 | [Gracia Sublime Es](https://open.spotify.com/track/5y5o4CayTLb3nMtrGkGko6) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2KjcElLTluwudvzcVTTkAU) | 5:15 |
+| 81 | [Mi Esperanza Está en Jesús \- Live](https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Bethel Music en Español \(Live\)](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 4:51 |
 | 82 | [Jesús Eres Mi Buen Pastor](https://open.spotify.com/track/5DLOY3NkSG3wgZHHQHLwVs) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Enciende una Luz](https://open.spotify.com/album/7n2yPfXkNLfY5jU1LyutYE) | 6:50 |
 | 83 | [Tu Amor](https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI) | [Generación Gracia Música](https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Tu Amor](https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES) | 7:48 |
 | 84 | [Tu Me Compraste](https://open.spotify.com/track/47tS4Ocwk0OYLJTJ5L1e7c) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [Lugar Secreto](https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa) | 6:16 |

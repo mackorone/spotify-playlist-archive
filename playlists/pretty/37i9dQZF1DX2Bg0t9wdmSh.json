@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 15166,
+  "num_followers": 15171,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Collection One",
-        "url": "https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        }
-      ],
-      "duration_ms": 173610,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3mRlFZHUyvJbPTlkzg4LyJ"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "You\u2019re Mines Still (feat. Drake)",
         "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 226220,
       "name": "You\u2019re Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Collection One",
+        "url": "https://open.spotify.com/album/6SInUyQqx0RZaVTSEioHkD"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        }
+      ],
+      "duration_ms": 173610,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3mRlFZHUyvJbPTlkzg4LyJ"
     }
   ],
   "unique_name": "Justin Laboy's Taste",

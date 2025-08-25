@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,533 likes - 125 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,816 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,17 +121,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaA14YcUIMA.md) - [plain]
 | 111 | [Nuestra Canción](https://open.spotify.com/track/5o4hMBr9ovkytff8TBHreg) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:23 |
 | 112 | [Tiernas Mentiras](https://open.spotify.com/track/6YjOZqhnGjY73u8cY1p4gl) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 |
 | 113 | [Fotos Y Recuerdos](https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:37 |
-| 114 | [Del Signo Libra](https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn) | 3:26 |
-| 115 | [Morena De 15 Años](https://open.spotify.com/track/0ZTOUnF9SYd4fjnPMwLRpK) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [15 Exitos \- Felinos](https://open.spotify.com/album/1WINkjIcYmvV3TGG3ezQfd) | 2:42 |
+| 114 | [Esa Mujer](https://open.spotify.com/track/5T3CGyN8uwq3lfwMhEEZ3I) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Grandes Exitos](https://open.spotify.com/album/0j51KX0YG6HivxxPVwGzby) | 3:40 |
+| 115 | [Del Signo Libra](https://open.spotify.com/track/0GoWigGnnKfjXYU8iDsviy) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/05qNlGhxctPIeB93r3k6zn) | 3:26 |
 | 116 | [Me Duele Estar Solo](https://open.spotify.com/track/1zEGq2ScBI7ecxAKh7K0Qt) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:27 |
-| 117 | [Hola Como Estas](https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T) | 3:24 |
-| 118 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 |
-| 119 | [A Mentir A La Calle](https://open.spotify.com/track/7mGWklhUXaOYARbuq7woAQ) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy) | 3:30 |
-| 120 | [Morena](https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Morena](https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH) | 3:46 |
+| 117 | [Morena De 15 Años](https://open.spotify.com/track/0ZTOUnF9SYd4fjnPMwLRpK) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [15 Exitos \- Felinos](https://open.spotify.com/album/1WINkjIcYmvV3TGG3ezQfd) | 2:42 |
+| 118 | [Hola Como Estas](https://open.spotify.com/track/04iLS6kaGO7lrFGMI2C0fa) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Amor Vendido, Vol\. 4](https://open.spotify.com/album/7JJG7BywhJnVF9vMHKIk8T) | 3:24 |
+| 119 | [En Realidad](https://open.spotify.com/track/3BQTmcsZ9DNNJ1qkEraTBm) | [Grupo Abracadabra](https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O) | [Te Quiero Todavía](https://open.spotify.com/album/0ExehBI8RodvaibxLOlkXK) | 3:41 |
+| 120 | [A Mentir A La Calle](https://open.spotify.com/track/7mGWklhUXaOYARbuq7woAQ) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy) | 3:30 |
 | 121 | [Cómo Me Duele Amor](https://open.spotify.com/track/5Uhu2xCFVq74wvaat8Eu0I) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [Tesoros De Coleccion](https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda) | 3:09 |
-| 122 | [Frio de Ausencia](https://open.spotify.com/track/1fpRDxobYnQsp8wgHOCncv) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [15 Éxitos de Oro](https://open.spotify.com/album/14CGdvyatc8A1qzeNJ01wi) | 3:53 |
-| 123 | [Y Me Dijo Eres Tu](https://open.spotify.com/track/2AHpYjJ5seLjktGggmewW6) | [Los Rodarte](https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj) | [Los Exitos Que Hicieron Epoca](https://open.spotify.com/album/2cFOulFGyrUM38u1DnDnhv) | 3:11 |
-| 124 | [Esa Mujer](https://open.spotify.com/track/5T3CGyN8uwq3lfwMhEEZ3I) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Grandes Exitos](https://open.spotify.com/album/0j51KX0YG6HivxxPVwGzby) | 3:40 |
-| 125 | [Lapiz Labial](https://open.spotify.com/track/78fAwRGXgvQc63QWyueWkq) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Los Felinos](https://open.spotify.com/album/5Ki8lDeDg86PikGgAiC2oQ) | 2:52 |
+| 122 | [Morena](https://open.spotify.com/track/2Ex6KBFe5oIelTpbAiPm64) | [Felinos](https://open.spotify.com/artist/0QE0OwxiJZ9i51N8zIS1Yy) | [Morena](https://open.spotify.com/album/523QDgDypNcjORHyfCuxdH) | 3:46 |
+| 123 | [Frio de Ausencia](https://open.spotify.com/track/1fpRDxobYnQsp8wgHOCncv) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [15 Éxitos de Oro](https://open.spotify.com/album/14CGdvyatc8A1qzeNJ01wi) | 3:53 |
+| 124 | [Y Me Dijo Eres Tu](https://open.spotify.com/track/2AHpYjJ5seLjktGggmewW6) | [Los Rodarte](https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj) | [Los Exitos Que Hicieron Epoca](https://open.spotify.com/album/2cFOulFGyrUM38u1DnDnhv) | 3:11 |
+| 125 | [El Regalo](https://open.spotify.com/track/0bjkoyF3RtjVwYVoWnr9ae) | [Los Dueños Del Sol](https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d) | [El Regalo](https://open.spotify.com/album/5LuhrZx5mjU9UQsscVdS2n) | 3:27 |
 
 Snapshot ID: `AAAAALjahysSjIjqIb9+T9ii9ND/5vgr`

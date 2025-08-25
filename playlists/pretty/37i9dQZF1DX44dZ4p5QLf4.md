@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > New releases in modern soul\. Cover: GeeJay
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,286 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,276 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 79 | [The Water](https://open.spotify.com/track/6mFtRPwwIHSFfmrRChicDx) | [Bel Tempo](https://open.spotify.com/artist/4pJRvcgbeXo78Lne0j9uKJ), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [The Water](https://open.spotify.com/album/51qnnj0KfsTbijLYHTy0ox) | 3:00 |
 | 80 | [What Am I Made Of](https://open.spotify.com/track/2WWBmP6Q7Mozr6OqbGHDjC) | [Noha Saré](https://open.spotify.com/artist/2r3TXsrjx7eICwgL0Bk2l7) | [What Am I Made Of](https://open.spotify.com/album/3iTbbYphM44HAQZRfPNoYt) | 3:15 |
 
-Snapshot ID: `AAAAAJOhAw8QEX6Y05D20e3bD9Yt5rDT`
+Snapshot ID: `AAAAAKzYPsenK//3fahs35gba+oDc3/s`

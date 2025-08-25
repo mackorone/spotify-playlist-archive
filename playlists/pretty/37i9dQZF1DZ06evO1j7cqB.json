@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 11067,
+  "num_followers": 11071,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADid4AiFp4jbJYIzFSoHFXk",
+  "snapshot_id": "aKkEgAAAAACeuwloKPMFkU/Q84WRp25f",
   "tracks": [
     {
       "added_at": null,
@@ -339,18 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
         }
       ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+      "duration_ms": 190493,
+      "name": "Godzilla (feat. Serj Tankian)",
+      "url": "https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Godzilla: King of the Monsters (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4"
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
         }
       ],
-      "duration_ms": 190493,
-      "name": "Godzilla (feat. Serj Tankian)",
-      "url": "https://open.spotify.com/track/7cY7jiKLnE6a2pLmv840dm"
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War (PlayStation Soundtrack)",
+        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Lullaby of the Giants",
+      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
       },
@@ -603,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
-        }
-      ],
-      "duration_ms": 213163,
-      "name": "Holding On (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Blood of My Blood (Season 1 Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
       },
@@ -643,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War (PlayStation Soundtrack)",
-        "url": "https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Lullaby of the Giants",
-      "url": "https://open.spotify.com/track/5spc9JVbY13Gbhvf69ae6v"
+      "duration_ms": 213163,
+      "name": "Holding On (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L"
     },
     {
       "added_at": null,
@@ -766,11 +766,15 @@
         {
           "name": "Bear McCreary",
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Julie Fowlis",
+          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
         }
       ],
-      "duration_ms": 169423,
-      "name": "A Destiny of Our Own Making",
-      "url": "https://open.spotify.com/track/0klsOQMJzc9MOySibkwqQJ"
+      "duration_ms": 201432,
+      "name": "The Ellen and Brian Theme (feat. Julie Fowlis)",
+      "url": "https://open.spotify.com/track/3aZEnt7Ylz19DWLb0UmIsF"
     },
     {
       "added_at": null,
@@ -815,42 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 86546,
-      "name": "Foundation Main Title",
-      "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Blood of My Blood (Season 1 Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Julie Fowlis",
-          "url": "https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k"
-        }
-      ],
-      "duration_ms": 201432,
-      "name": "The Ellen and Brian Theme (feat. Julie Fowlis)",
-      "url": "https://open.spotify.com/track/3aZEnt7Ylz19DWLb0UmIsF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outlander: Season 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4qBiXsf6Xa71EmjOjG4iHT"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 219293,
       "name": "War Is Inevitable",
       "url": "https://open.spotify.com/track/3K1n95TTbn9CLvReR9MyYc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outlander: Blood of My Blood (Season 1 Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Fcsq7NjnNNe8pAi9qVGd6"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 169423,
+      "name": "A Destiny of Our Own Making",
+      "url": "https://open.spotify.com/track/0klsOQMJzc9MOySibkwqQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foundation: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 86546,
+      "name": "Foundation Main Title",
+      "url": "https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau"
     },
     {
       "added_at": null,

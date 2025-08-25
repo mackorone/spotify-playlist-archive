@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAA3BEqVTlZrPNCN4JhlIINm",
+  "snapshot_id": "aKkEgAAAAAClnn+5KgAiWMwTOcwW4K8G",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puppet Stringers",
-        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 169659,
-      "name": "Puppet Stringers",
-      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Nice!",
         "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 225340,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puppet Stringers",
+        "url": "https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 169659,
+      "name": "Puppet Stringers",
+      "url": "https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playmate Of The Year",
-        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 217401,
       "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
       "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playmate Of The Year",
+        "url": "https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk the Plank",
-        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 190013,
-      "name": "Save Your Breath",
-      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Have Mixed Drinks About Feelings",
         "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 176344,
       "name": "I Have Mixed Drinks About Feelings",
       "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walk the Plank",
+        "url": "https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 190013,
+      "name": "Save Your Breath",
+      "url": "https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA"
     },
     {
       "added_at": null,

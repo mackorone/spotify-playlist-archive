@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,845 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,859 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,17 +84,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 74 | [Verboden Vruchten](https://open.spotify.com/track/4EAzFow27dcGBbLyuEMa1e) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:47 |
 | 75 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
 | 76 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
-| 77 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |
+| 77 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |
 | 78 | [Schemering \(Wanneer De Zon Verkleurt Tot Oranje\) \- Remastered](https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Favorieten Expres](https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl) | 2:38 |
-| 79 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |
+| 79 | [Dans met mij](https://open.spotify.com/track/5MHLaWXrjk9cBAckEY3MfY) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollands Glorie](https://open.spotify.com/album/5wF0HLp8MOoEkaF7HW0bzK) | 2:39 |
 | 80 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
 | 81 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
-| 82 | [Mona Lisa](https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollandse Sterren](https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs) | 2:39 |
-| 83 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
-| 84 | [Vader Is De Dader \- Bonus Track](https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Kom Uit De Bedstee Mijn Liefste \(Bonus Track\)](https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo) | 3:47 |
+| 82 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
+| 83 | [Vader Is De Dader \- Bonus Track](https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Kom Uit De Bedstee Mijn Liefste \(Bonus Track\)](https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo) | 3:47 |
+| 84 | [Mona Lisa](https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollandse Sterren](https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs) | 2:39 |
 | 85 | [Jij Alleen](https://open.spotify.com/track/6Fa3DamR01xXEz7tB0rrf6) | [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [De Gert Timmerman Show No\. 2](https://open.spotify.com/album/0riKMv34shrO6OSwiSkAHC) | 2:01 |
-| 86 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
-| 87 | [Een Pikketanussie](https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt) | [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [Hollandse Sterren Collectie](https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0) | 2:14 |
+| 86 | [Een Pikketanussie](https://open.spotify.com/track/7tSM6TsdJHWbjpm6dQtHdt) | [Johnny Jordaan](https://open.spotify.com/artist/0tlvzmFmhfItI4bdwby03e) | [Hollandse Sterren Collectie](https://open.spotify.com/album/5zPZnVIgLNyJqfSV7fCyr0) | 2:14 |
+| 87 | [Suzanne \- Original Version](https://open.spotify.com/track/1q6BHWlhkW6suda3M1s8G2) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [Herman Van Veen I & II](https://open.spotify.com/album/0YSFiNXQAS9JDztNj5Lyfl) | 3:49 |
 | 88 | [Mexico](https://open.spotify.com/track/00LS9wY7MHuurmWfefavb9) | [Zangeres Zonder Naam](https://open.spotify.com/artist/6m9EYPGGPleNS457wrg9p9) | [Alle 40 Goed](https://open.spotify.com/album/7E0mYawKN4S3u4gK0mwq88) | 3:36 |
 | 89 | [Ritme Van De Regen](https://open.spotify.com/track/2cFbNx5telDan1xACG9Ts8) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [Rob 100](https://open.spotify.com/album/314xNPZisq3G6ZLlBU938T) | 2:28 |
 | 90 | [Vaarwel Ik Zal Geen Traan Meer Om Je Laten](https://open.spotify.com/track/5B3Ks1FRxvLRFcFEnV79BD) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [60 Hits](https://open.spotify.com/album/18JsD3oxq36xy7uEIzya6B) | 3:32 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Thudarum
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,118 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,170 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
+| 1 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [Harinarayanan](https://open.spotify.com/artist/2s8sAbINES1BaWVyuP8drc) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
 | 2 | [Minnalvala \(From "Narivetta"\)](https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Minnalvala \(From "Narivetta"\)](https://open.spotify.com/album/2TGMDuoU4JVIrFOFH77GGH) | 4:59 |
 | 3 | [Panjara Punch \- From "Alappuzha Gymkhana"](https://open.spotify.com/track/2ogcJnC4TJ6DBkBsR2KU1y) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Suhail Koya](https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv) | [Panjara Punch \(From "Alappuzha Gymkhana"\)](https://open.spotify.com/album/6ywvIVJG0pksUvqqTDUf33) | 2:45 |
 | 4 | [Mandharapoove](https://open.spotify.com/track/3PYUbRTcQ2aXvPJaZ6A6H9) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Aavani Malhar](https://open.spotify.com/artist/2UhFPsbFyTC38N0EAv7cRG) | [Mandharapoove \(From "Kumari"\)](https://open.spotify.com/album/3KJipat0D3NkRxQRXATByo) | 4:00 |

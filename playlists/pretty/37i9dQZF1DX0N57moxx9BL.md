@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Kutless
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,286 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,401 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [What Are You Waiting For](https://open.spotify.com/track/0Nu0KWmS8h2QRV2vhCzE3S) | [Futur](https://open.spotify.com/artist/4Z9WYkdvygjmT03fH7syx9) | [What Are You Waiting For](https://open.spotify.com/album/5FFS881QSIWbv9oxbAMFK9) | 3:19 |
 | 75 | [They See \- Live In Pomona](https://open.spotify.com/track/76g9TZlz0vfqFjLr2w8pvJ) | [HolyName](https://open.spotify.com/artist/70dru8oehK8CwnNzANx6CJ), [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [They See \(Live in Pomona\)](https://open.spotify.com/album/0ZUNh3WGZfdLe4UUgO4c48) | 4:00 |
 
-Snapshot ID: `AAAAANR2CrjJsxMXTYoePtqRQ/LPX/01`
+Snapshot ID: `AAAAANYHKJNJdtVzibDZgAVvmICxxYzH`

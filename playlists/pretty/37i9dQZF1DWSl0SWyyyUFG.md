@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,058 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,270 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 98 | [Sufriendo Por Ti](https://open.spotify.com/track/41zxFE1IROf6He43b0RwUd) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Cada Amanecer](https://open.spotify.com/album/71OF2FGR7cCkrrwvHrOZmf) | 2:59 |
 | 99 | [Bandido De Amores](https://open.spotify.com/track/51oukvakolz61ebuXR3iIh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Bandido De Amores](https://open.spotify.com/album/3G7KElUeUivI9GZEPvxKpR) | 2:58 |
 | 100 | [Ya No Me Mires Asi](https://open.spotify.com/track/2hByNHBX8JSkzB8wvbs5E0) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Acuerdate De Mi](https://open.spotify.com/album/2dZ3eYCNrkuz29ogLHVUey) | 3:05 |
-| 101 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 |
-| 102 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 101 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 102 | [Solo Esta Vez](https://open.spotify.com/track/3yMJkJfWoJW1vo2vVmW23J) | [Banda Cana Verde](https://open.spotify.com/artist/6eRFjQRMNrNU18rz8OPNyC) | [Solo Esta Vez](https://open.spotify.com/album/3nQLgjWf79JfcowiGMQWZr) | 3:20 |
 | 103 | [El Domingo Se Casa](https://open.spotify.com/track/5HPIaNpIPbZYlSzIuTcwND) | [Banda San Miguel](https://open.spotify.com/artist/3t9TbuyBScRR9dOG4Yo7CG) | [La Gran Historia Vol\. 1](https://open.spotify.com/album/3AjDSQHKqkrHMgv44Esfen) | 2:37 |
 | 104 | [Provócame](https://open.spotify.com/track/6NoG8gvg44g2IWaWt3bBfE) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/2hKjSZ3fbwKYWpYr5xTuTN) | 3:00 |
 | 105 | [Como Sufro](https://open.spotify.com/track/0GrltzfS9xVSjcEny6LxUi) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/4ZC8tvvAKlOY0XCu3QLjgD) | 2:53 |

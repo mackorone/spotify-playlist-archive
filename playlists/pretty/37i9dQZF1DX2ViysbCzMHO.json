@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 173706,
+  "num_followers": 173743,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Friends Like That (feat. Jason Aldean - Stripped)",
-        "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "John Morgan",
-          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
-        },
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Friends Like That - feat. Jason Aldean - Stripped",
-      "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -439,18 +435,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+        "name": "Friends Like That (feat. Jason Aldean - Stripped)",
+        "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        },
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+      "duration_ms": 180800,
+      "name": "Friends Like That - feat. Jason Aldean - Stripped",
+      "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -751,6 +751,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Rollin' Stone (Piano Version)",
+        "url": "https://open.spotify.com/album/7awUV0bXWwwla9GrLnTyUl"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "duration_ms": 164375,
+      "name": "Rollin' Stone - Piano Version",
+      "url": "https://open.spotify.com/track/2KOpMKWHkiPmWIyBBT9KTH"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Bluebird (Acoustic)",
         "url": "https://open.spotify.com/album/3ZYGeA6u23IIgrUtT8U3OB"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "All I Know About Girls",
-        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "All I Know About Girls",
-      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Burn It Down (Live Acoustic)",
         "url": "https://open.spotify.com/album/0njPZgMRssflpa2zicNaWf"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 226600,
       "name": "Burn It Down - Live Acoustic",
       "url": "https://open.spotify.com/track/1zOFqMnCN7DUpwJmuc7GV1"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "All I Know About Girls",
+        "url": "https://open.spotify.com/album/6znifmY5YCopX4SrEb3dxR"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "All I Know About Girls",
+      "url": "https://open.spotify.com/track/07Jhq6iNvTWXFShXK3kXHy"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -831,18 +847,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "We Got History (Acoustic)",
-        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
         }
       ],
-      "duration_ms": 216551,
-      "name": "We Got History - Acoustic",
-      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -863,22 +879,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "Tucson Too Late (Live Acoustic)",
         "url": "https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 186368,
       "name": "Tucson Too Late - Live Acoustic",
       "url": "https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "We Got History (Acoustic)",
+        "url": "https://open.spotify.com/album/235wcifaFyXotSmzYY3SDa"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "We Got History - Acoustic",
+      "url": "https://open.spotify.com/track/643yEYN8gyrA16lvif9XZf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -975,22 +991,6 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Little More Be Alright",
-        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        }
-      ],
-      "duration_ms": 215721,
-      "name": "Little More Be Alright",
-      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
         "name": "What He Didn't Do (Acoustic)",
         "url": "https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9"
       },
@@ -1003,6 +1003,22 @@
       "duration_ms": 189555,
       "name": "What He Didn't Do - Acoustic",
       "url": "https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
+        "name": "Little More Be Alright",
+        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "duration_ms": 215721,
+      "name": "Little More Be Alright",
+      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1303,6 +1319,22 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+    },
+    {
+      "added_at": "2025-08-22 04:00:28",
+      "album": {
         "name": "Some Girls (Acoustic)",
         "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
       },
@@ -1319,18 +1351,18 @@
     {
       "added_at": "2025-08-22 04:00:28",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
       "artists": [
         {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
         }
       ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1351,22 +1383,6 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2025-08-22 04:00:28",
@@ -1643,22 +1659,6 @@
       "duration_ms": 196591,
       "name": "Son Of A (Acoustic)",
       "url": "https://open.spotify.com/track/6dUVnXkXzVlv9UfxRoJtYN"
-    },
-    {
-      "added_at": "2025-08-22 04:00:28",
-      "album": {
-        "name": "Made (Wedding Version)",
-        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
-      },
-      "artists": [
-        {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
-        }
-      ],
-      "duration_ms": 215227,
-      "name": "Made (Wedding Version)",
-      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
     }
   ],
   "unique_name": "Nashville Stripped",

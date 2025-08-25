@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Coolie
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,262 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,356 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Powerhouse](https://open.spotify.com/track/3JC5Xx48KqzYYlbTr6weCv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Coolie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1) | 3:26 |
-| 2 | [Vazhiyiren \(From "Madharaasi"\)](https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kwame Fyah](https://open.spotify.com/artist/120SM3yXyZdzqUaqhTE0tc), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Vazhiyiren \(From "Madharaasi"\)](https://open.spotify.com/album/6AQI3YTESLAAFD5XWgyY14) | 3:55 |
+| 2 | [Vazhiyiraen \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/track/467iUE97xBb5IlQXZFNbUS) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Kwame Fyah](https://open.spotify.com/artist/120SM3yXyZdzqUaqhTE0tc), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Vazhiyiraen \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/album/6AQI3YTESLAAFD5XWgyY14) | 3:55 |
 | 3 | [Monica](https://open.spotify.com/track/7MrdHOL2aoWfT16CncgNei) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sublahshini](https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Coolie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3roEiD2gUP1LHPHwUPbXs1) | 3:37 |
 | 4 | [Salambala \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/track/6Hf4OJWW7YAwsrnJ8d0XcE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Super Subu](https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0) | [Salambala \(From "Madharaasi"\) \(Tamil\)](https://open.spotify.com/album/0uPX3t1nPedZmaRY5w8ylG) | 3:27 |
 | 5 | [Verappa \- From "Karuppu"](https://open.spotify.com/track/3watEGWsGyrEgd6GxkeGSI) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Arun Srinivasan](https://open.spotify.com/artist/6zk7r7UylV6GHjWmhCDw9K) | [Verappa \(From "Karuppu"\)](https://open.spotify.com/album/6iVvpTmL1btiBTQVw9yf7b) | 1:40 |

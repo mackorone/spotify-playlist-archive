@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
+    },
+    {
+      "album": {
         "name": "Bounce EP",
         "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
       },
@@ -1352,7 +1374,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 188385,
       "name": "Buss Up Di Dance",
       "url": "https://open.spotify.com/track/6VILMfZ2ZQg9uii2M8Inlx"
@@ -1534,6 +1556,24 @@
       "duration_ms": 227555,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/28hoG2GXoRBN8xcK9IPW9c"
+    },
+    {
+      "album": {
+        "name": "Champion Ting / Mouse Trap",
+        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202971,
+      "name": "Champion Ting",
+      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
     },
     {
       "album": {
@@ -7755,6 +7795,24 @@
     },
     {
       "album": {
+        "name": "Royalties and Loyalties",
+        "url": "https://open.spotify.com/album/1qIvbtMe37FM7JfAZY9o9p"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130444,
+      "name": "Royalties & Loyalties",
+      "url": "https://open.spotify.com/track/25rivsEvf6kh1XwgyR4CUr"
+    },
+    {
+      "album": {
         "name": "Rubber Dub",
         "url": "https://open.spotify.com/album/2jk4LHprmTfFc6zb0fOqht"
       },
@@ -9214,7 +9272,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 266339,
       "name": "That's Right",
       "url": "https://open.spotify.com/track/0pT4ArwWdG1LqPRa2u8CX2"
@@ -9894,7 +9952,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 194571,
       "name": "Watch the Ride",
       "url": "https://open.spotify.com/track/1XtObqji9kF7IbXN1IdMai"

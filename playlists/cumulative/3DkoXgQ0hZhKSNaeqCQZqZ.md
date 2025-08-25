@@ -4,7 +4,7 @@
 
 > Made for furs, by furs\.  Check out FurryRadio.com
 
-380 songs - 20 hr 11 min
+384 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [ember](https://open.spotify.com/track/12ItWZIjCZ62hZJEtow1YT) | [ghostsocial](https://open.spotify.com/artist/6ex1miCpb3Krg4TYoG4yAN) | [mutt county](https://open.spotify.com/album/4Jc4ExxRw4sMNLJWfgRzZr) | 1:39 | 2025-01-25 |  |
 | [EM⓪CEANS](https://open.spotify.com/track/6yHqbAh2nYOTJFsS5cgEKE) | [ZeWei](https://open.spotify.com/artist/5Lo7AznRQVZur2qhDwg2OA) | [⎳fliCkERiNG⎲](https://open.spotify.com/album/2gZWvlmFnQ9TTGeVGeXkOQ) | 2:48 | 2024-05-28 |  |
 | [enby](https://open.spotify.com/track/7hqHsQlwymS7BIT53hzi9L) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [enby](https://open.spotify.com/album/708Sdmpbu2yG1BmXiEX2Yu) | 2:17 | 2024-07-22 |  |
+| [Energy Drink](https://open.spotify.com/track/6T8KeH4lZDTnQeaxRkTwTn) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs), [MetaArchion](https://open.spotify.com/artist/7CvkeLyEIzGdsUNPet1l2P), [Kaito Fox](https://open.spotify.com/artist/2AlBONFADL42MfVe9yFCpF) | [SDM 01: The Beginning](https://open.spotify.com/album/2jzBQjYGit8ZthH6LAPLjp) | 2:42 | 2025-08-24 |  |
 | [ENJOY THE MOMENT!](https://open.spotify.com/track/59mcok7es5pAOcQGU2RSqU) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [FAIRY](https://open.spotify.com/album/3el8ORbUoeVju2nQVCpnv4) | 2:23 | 2023-06-14 |  |
 | [Enough](https://open.spotify.com/track/3AuyWBT0bkOuD1YFXySUi3) | [Scratch21](https://open.spotify.com/artist/3WCGPWxaTtnBgGQj4w7LEW) | [Enough](https://open.spotify.com/album/6RQs4kCyXo5B4SoFiYIEiq) | 4:13 | 2023-06-14 |  |
 | [Everything Stays](https://open.spotify.com/track/6YwumfxAPcsXIAbx6DVimv) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [Data Soup Demos](https://open.spotify.com/album/5CWYFxQJrUcIJGCCyLVszB) | 1:27 | 2023-12-19 |  |
@@ -204,6 +205,7 @@
 | [lucid dreaming](https://open.spotify.com/track/5T7Wxzl5SqOdt2KUrPdrm5) | [TWYLIGHT](https://open.spotify.com/artist/4T0Dnr9Bf9u7Pg8Kd4QtnO) | [lucid dreaming](https://open.spotify.com/album/2Q7AbsDOy0tshyjnOmqs3n) | 3:30 | 2025-02-22 |  |
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-01-23 |  |
 | [Machine](https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA) | [YxFF](https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ), [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Machine](https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD) | 2:43 | 2025-01-23 |  |
+| [Magnetic](https://open.spotify.com/track/2XSi3EMeKsCUbI9HLgk5JP) | [Reivan](https://open.spotify.com/artist/0lzsri3l2WQEnAi9o7JEe0) | [Magnetic](https://open.spotify.com/album/3enpfoY39g32QfaS4zs2n9) | 3:02 | 2025-08-24 |  |
 | [Magnum Bullets a Capella Cover](https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD) | [Danno GSD](https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN) | [Magnum Bullets a Capella Cover](https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS) | 3:56 | 2023-08-10 |  |
 | [MAK 2](https://open.spotify.com/track/5182eSwZytleUce3d5qbmA) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [MAK 2](https://open.spotify.com/album/0dHHz0rhgonxIFtnXZvMd9) | 2:03 | 2025-06-06 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
@@ -318,6 +320,7 @@
 | [So Right](https://open.spotify.com/track/1BJ4cnNwfJx1N9TQ1V7EcW) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [See This Day Come](https://open.spotify.com/album/5IzQnzMlWwLsjYxdlKSw4y) | 2:56 | 2025-08-01 |  |
 | [SOLO SO LONG!](https://open.spotify.com/track/1Z8ZEL5VBsrv3isNOiGVXu) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [SOLO SO LONG!](https://open.spotify.com/album/53bry5BJ4ftArb1VROy0fu) | 2:23 | 2024-11-18 |  |
 | [SOLO SO LONG!](https://open.spotify.com/track/7v80olCrhPZNuaERNfhAQW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:23 | 2025-02-03 |  |
+| [Solstice](https://open.spotify.com/track/0pvk4XW3NGJ0lXZvt1r5Qx) | [Bandit the Raccoon](https://open.spotify.com/artist/23hVrr6FU5ODEaCMZ7b2pM), [Jaiko](https://open.spotify.com/artist/7begZdMXA61zMi6hUFE21R) | [Solstice \(EP\)](https://open.spotify.com/album/3eWGxKezdmD5OD759iM9Fn) | 3:58 | 2025-08-24 |  |
 | [someone special](https://open.spotify.com/track/67s2DeBt7fAQ7RqAIP99tD) | [Blueberry](https://open.spotify.com/artist/0YojyCH6OZsxIXzNMRY12Z) | [someone special](https://open.spotify.com/album/77AJxNfFKAwpTiNyDVLjYV) | 2:54 | 2024-05-28 |  |
 | [something new](https://open.spotify.com/track/0JtDlZYd3rcmJNAT5JWeA8) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL), [mopearound](https://open.spotify.com/artist/0XzFJD8UCjI0vkRofftT8Y), [Exobolt](https://open.spotify.com/artist/5FdGHOu3JjJbZ5jcPcI9Km) | [something new](https://open.spotify.com/album/3ngY5oSa4mUFC6ThZk2cdc) | 5:35 | 2024-06-09 |  |
 | [something to hold](https://open.spotify.com/track/3XGmJg7p3an829jy9GqwtQ) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [partners](https://open.spotify.com/album/6ZiZe0XmjcnIycBJCYynbo) | 2:12 | 2025-01-25 |  |
@@ -382,6 +385,7 @@
 | [World of Everything](https://open.spotify.com/track/76lFf0HFsdi6tCh8xA1PTF) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [World of Everything](https://open.spotify.com/album/2ieB64E9yWOez0VDgP2Mvo) | 2:55 | 2023-11-10 |  |
 | [Worms](https://open.spotify.com/track/4fl81glI9CLw1yViHUEhtN) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Worms](https://open.spotify.com/album/7AGBkxuwEykGu6mQqBX85j) | 3:36 | 2024-11-18 |  |
 | [X \(Bury It\)](https://open.spotify.com/track/5ScdZyIJtYlFUafW4zsiI3) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS) | [Knives](https://open.spotify.com/album/3YhBp1Hp4TNNnVlFYtXFr8) | 4:02 | 2024-04-03 |  |
+| [Xenia](https://open.spotify.com/track/4aVaL6jY0gwmzbpwFf0Wnu) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [Baby Trans](https://open.spotify.com/album/3ScDRn8pt2TV2KNKCAgmiC) | 2:29 | 2025-08-24 |  |
 | [Y2K](https://open.spotify.com/track/7wWqdXBLZMxdCWphYfln9a) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:18 | 2024-12-06 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2024-01-03 |  |
 | [you get me fucked](https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d) | [lambcatz](https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t) | [you get me fucked](https://open.spotify.com/album/6E0Tj9BcRkX42CXonRWktp) | 1:22 | 2025-01-23 |  |

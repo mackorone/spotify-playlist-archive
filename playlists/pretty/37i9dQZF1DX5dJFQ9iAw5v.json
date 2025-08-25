@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33344,
+  "num_followers": 33340,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Studio 2",
+        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 327520,
+      "name": "Acu\u00e1tico",
+      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 276640,
       "name": "Viernes 3AM",
       "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Studio 2",
-        "url": "https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 327520,
-      "name": "Acu\u00e1tico",
-      "url": "https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Rata",
-        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 395117,
       "name": "Chacafrik",
       "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Querido Bill : Tributo a Bill Evans",
+        "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Remus",
+          "url": "https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3"
+        },
+        {
+          "name": "Manuel Fraga",
+          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
+        },
+        {
+          "name": "Oscar Giunta",
+          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
+        }
+      ],
+      "duration_ms": 490280,
+      "name": "Billie's Bounce",
+      "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -1207,46 +1231,6 @@
       "duration_ms": 572278,
       "name": "Estate",
       "url": "https://open.spotify.com/track/15lMmbejFNbJJFuq8Q0U2N"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Querido Bill : Tributo a Bill Evans",
-        "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Remus",
-          "url": "https://open.spotify.com/artist/61rgv0cssjbKKpkESSnup3"
-        },
-        {
-          "name": "Manuel Fraga",
-          "url": "https://open.spotify.com/artist/1AR4weKRSJg1NswV2HUjm8"
-        },
-        {
-          "name": "Oscar Giunta",
-          "url": "https://open.spotify.com/artist/26CnXYQlwCWtgIaYpiix6P"
-        }
-      ],
-      "duration_ms": 490280,
-      "name": "Billie's Bounce",
-      "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Las Tardecitas de Miton's",
-        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
-      },
-      "artists": [
-        {
-          "name": "Adrian Iaies Trio",
-          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
-        }
-      ],
-      "duration_ms": 368586,
-      "name": "Cafetin de Buenos Aires",
-      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Las Tardecitas de Miton's",
+        "url": "https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4"
+      },
+      "artists": [
+        {
+          "name": "Adrian Iaies Trio",
+          "url": "https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje"
+        }
+      ],
+      "duration_ms": 368586,
+      "name": "Cafetin de Buenos Aires",
+      "url": "https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -1303,26 +1303,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+        "name": "Cosa Panicosa",
+        "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
       },
       "artists": [
         {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+          "name": "La Mujer Barbuda",
+          "url": "https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM"
         }
       ],
-      "duration_ms": 495746,
-      "name": "Cabrera's Blues",
-      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
+      "duration_ms": 388265,
+      "name": "Cosa Panicosa",
+      "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1347,18 +1339,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Cosa Panicosa",
-        "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
       "artists": [
         {
-          "name": "La Mujer Barbuda",
-          "url": "https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM"
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
         }
       ],
-      "duration_ms": 388265,
-      "name": "Cosa Panicosa",
-      "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
+      "duration_ms": 495746,
+      "name": "Cabrera's Blues",
+      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2025-04-14 14:58:34",

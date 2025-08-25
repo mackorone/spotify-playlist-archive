@@ -1,68 +1,60 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIVHGgSjaZ6jT>Aitana</a>, <a href=spotify:playlist:37i9dQZF1EIZcKCC9tgT7k>MAX</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVQP79ZrHO0S>Birdy</a>, <a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIVa0xETmLu3I>Hayd</a> and more",
   "num_followers": 0,
   "original_name": "Pop Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAE0FJI82IeiWCfgJgW0mMg",
+  "snapshot_id": "AAAAAAAAAAAeEao+pHS7iogP9f9Z64QD",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
+        "name": "Beautiful Lies (Deluxe)",
+        "url": "https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 211626,
-      "name": "Nobody Compares",
-      "url": "https://open.spotify.com/track/4SRYGZsbHrmH7E9xMVz4Wm"
+      "duration_ms": 208395,
+      "name": "Keeping Your Head Up",
+      "url": "https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4"
     },
     {
       "added_at": null,
       "album": {
-        "name": "CUARTO AZUL",
-        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+        "name": "eternal sunshine deluxe: brighter days ahead (instrumental version)",
+        "url": "https://open.spotify.com/album/7saicsozAZSsKEVQh4WAig"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 202713,
-      "name": "HOY ES TU CUMPLEA\u00d1OS",
-      "url": "https://open.spotify.com/track/4gQUdvZbxu7G9G7NlREw21"
+      "duration_ms": 161252,
+      "name": "intro (end of the world) - extended",
+      "url": "https://open.spotify.com/track/33cRPtUHTjMG90FZV76S8T"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LOVE IN STEREO",
-        "url": "https://open.spotify.com/album/2YyHBng4US9HBUJKpICmny"
+        "name": "Changes - EP",
+        "url": "https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt"
       },
       "artists": [
         {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Hayd",
+          "url": "https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ"
         }
       ],
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
+      "duration_ms": 184559,
+      "name": "Head In The Clouds",
+      "url": "https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B"
     },
     {
       "added_at": null,

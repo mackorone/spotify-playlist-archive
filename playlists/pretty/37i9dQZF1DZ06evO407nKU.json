@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54455,
+  "num_followers": 54462,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAACfBUFPEEhTQojCW9krGym",
+  "snapshot_id": "aKkEgAAAAABuv83yVaw7lRfE8lcLgv6x",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dariel El Sabroso",
-        "url": "https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Dariel El Sabroso",
-      "url": "https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00e9jame Ser",
         "url": "https://open.spotify.com/album/7qd53L8tRnHFSnkB6ExtFU"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 205664,
       "name": "D\u00e9jame Ser",
       "url": "https://open.spotify.com/track/5I70KB5no6a1ecaVbbXc4d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dariel El Sabroso",
+        "url": "https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Dariel El Sabroso",
+      "url": "https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb"
     },
     {
       "added_at": null,

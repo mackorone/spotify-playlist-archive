@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA Cover: <a href="https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5?si=ebIfzPG0Tvu\_hf\_yQae2Bg">Doja Cat</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,475 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,483 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

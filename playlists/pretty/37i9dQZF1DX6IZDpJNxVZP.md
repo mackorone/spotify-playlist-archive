@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,181 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,169 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 62 | [Jill the Witch](https://open.spotify.com/track/2l58hQ0SVmdP0nu6J8WC0x) | [Little Angel](https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn) | [Little Angel Halloween](https://open.spotify.com/album/6tn0VGiyGcraJxBK16snAK) | 3:01 |
 | 63 | [Dracula Spectacular](https://open.spotify.com/track/6gwDeVwI15lBvjmwD8DDJy) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo), [John Bayne](https://open.spotify.com/artist/0ZoZ7pugjYl61hJRsq78AE) | [Dracula Spectacular](https://open.spotify.com/album/1rtVFcWEp7y8OvgRaszQHc) | 2:29 |
 | 64 | [A Haunted House on Halloween Night](https://open.spotify.com/track/2RAGtit059yqjKXWI7c0hh) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes, Vol\. 8: Children's Sing Along Songs](https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs) | 2:22 |
-| 65 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
-| 66 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
+| 65 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
+| 66 | [Where's the Werewolf Pack?](https://open.spotify.com/track/6teAuLc042zZe8CXnxRRzH) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Monster Music! Kids Halloween Songs](https://open.spotify.com/album/3tHFVWLOo2nQSsxQEPgfCE) | 2:13 |
 | 67 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 |
 | 68 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
 | 69 | [Shake Your Bones](https://open.spotify.com/track/1Mew11one8wgUBsWt8EOGl) | [Marco Marinangeli](https://open.spotify.com/artist/3zBZ1VgB4jgPW5KYDJIOL9) | [Songs and Story: Mickey's Spooky Night](https://open.spotify.com/album/47wubYxmxmSDCMiemvOyQr) | 2:41 |

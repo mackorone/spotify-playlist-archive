@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, classically reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,386 likes - 179 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,501 likes - 179 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 4 | [What Was I Made For? \(from "Barbie"\)](https://open.spotify.com/track/2BaHD2OcWV9R8Lz4v7t8N7) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \(from "Barbie"\)](https://open.spotify.com/album/7whqDx4K2CC2wB3WnThTyT) | 3:44 |
 | 5 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
 | 6 | [Cheap Thrills](https://open.spotify.com/track/5sVPpYTMUQuKL0jC4lQWWO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:28 |
-| 7 | [Zombie \- from "Wednesday: Season 2"](https://open.spotify.com/track/066b8lHH03cSlTFES2jMre) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Christian Almiron](https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 2:24 |
+| 7 | [Zombie \- \(Soundtrack Version\) from "Wednesday: Season 2"](https://open.spotify.com/track/066b8lHH03cSlTFES2jMre) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Christian Almiron](https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 2:24 |
 | 8 | [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 |
 | 9 | [Ordinary \- Solo Piano Version](https://open.spotify.com/track/1ee3ZlT2VQEUuNdsd4jiI9) | [The Piano Guys](https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI) | [Ordinary](https://open.spotify.com/album/7JbHdiHzFR2tdz7s7DiZhr) | 3:23 |
 | 10 | [How You Like That](https://open.spotify.com/track/6FUe1Kgy6poQC8AXy2F9Tk) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs BLACKPINK](https://open.spotify.com/album/6ZuOjRxh4TX7wx1QPo9EuK) | 3:00 |

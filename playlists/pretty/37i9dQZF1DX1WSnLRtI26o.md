@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,710 likes - 194 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,716 likes - 194 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,9 +191,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WSnLRtI26o.md) - [plain]
 | 181 | [F\*\*kin' Perfect](https://open.spotify.com/track/37Veo3TsREFZKvfZ0CaI4S) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/2tUn9E3nHXhUIJ47yv6ePD) | 3:33 |
 | 182 | [A Second to Midnight](https://open.spotify.com/track/3YY9Yu1JsgVfF1lOXEenq9) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Second to Midnight](https://open.spotify.com/album/6kp91tuVBPtw7HvwTJjDHr) | 3:27 |
 | 183 | [Better Days](https://open.spotify.com/track/2vCKQ9NNCTXoAF8ltW0Zv9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ) | 3:18 |
-| 184 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
-| 185 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 |
-| 186 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 |
+| 184 | [Virtual Insanity \- Remastered](https://open.spotify.com/track/3rpeUtH3p22qBhJRpKxrW6) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [High Times \- Singles 1992\-2006](https://open.spotify.com/album/0H0vrl0pFZ2u8CrSeuPCLO) | 3:49 |
+| 185 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 |
+| 186 | [Move](https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC), [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Move](https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK) | 2:45 |
 | 187 | [Ho Hey](https://open.spotify.com/track/2tw76iTsjl2SwMZJCqDFHm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/28ya0mzqImptc7CPEA6a2D) | 2:43 |
 | 188 | [Hands To Myself](https://open.spotify.com/track/7jGpa7ynADyaSmcprXgO7I) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival](https://open.spotify.com/album/3qsdWsIePeTOvpsRJV5yQB) | 3:20 |
 | 189 | [SING](https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [SING](https://open.spotify.com/album/1o3sKhWeAePQIl0DQegPla) | 3:11 |

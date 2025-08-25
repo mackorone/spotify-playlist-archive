@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 40182,
+  "num_followers": 40194,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABZlbNLCp7N9ytz7lc+DA4Q",
+  "snapshot_id": "aKkEgAAAAAC9YE+rIRwzSW8n7OQMlDPn",
   "tracks": [
     {
       "added_at": null,
@@ -975,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "De Otro Planeta",
+      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo (Remix)",
         "url": "https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 160573,
       "name": "Solo - Remix",
       "url": "https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "De Otro Planeta",
-      "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
     },
     {
       "added_at": null,

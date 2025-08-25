@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 176752,
+  "num_followers": 176767,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -603,8 +603,8 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
-        "name": "\u96e2\u5a5a\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
+        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 162960,
-      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
-      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
+      "duration_ms": 235914,
+      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
+      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
     },
     {
       "added_at": "2025-08-19 15:00:19",
@@ -687,8 +687,8 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
-        "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-        "url": "https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV"
+        "name": "\u96e2\u5a5a\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 235914,
-      "name": "\u307e\u308b\u3067\u5929\u4f7f\u3055",
-      "url": "https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l"
+      "duration_ms": 162960,
+      "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
     },
     {
       "added_at": "2025-08-19 15:00:19",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
-        "name": "VS",
-        "url": "https://open.spotify.com/album/1CNntUhNcB7ubvHncuVDcu"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "suisoh",
-          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
-        },
-        {
-          "name": "Gimgigam",
-          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
-        }
-      ],
-      "duration_ms": 165913,
-      "name": "VS",
-      "url": "https://open.spotify.com/track/1q0kEuBTOCmRJ2B7o4sESz"
-    },
-    {
-      "added_at": "2025-08-19 15:00:19",
-      "album": {
         "name": "SPECTRUM - Night Tempo presents The Showa Groove",
         "url": "https://open.spotify.com/album/0WH8xgSC0iLQiFvmxb0NAU"
       },
@@ -1151,6 +1127,30 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
+        "name": "VS",
+        "url": "https://open.spotify.com/album/1CNntUhNcB7ubvHncuVDcu"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "suisoh",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        },
+        {
+          "name": "Gimgigam",
+          "url": "https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY"
+        }
+      ],
+      "duration_ms": 165913,
+      "name": "VS",
+      "url": "https://open.spotify.com/track/1q0kEuBTOCmRJ2B7o4sESz"
+    },
+    {
+      "added_at": "2025-08-19 15:00:19",
+      "album": {
         "name": "\u767d\u7121\u57a2",
         "url": "https://open.spotify.com/album/0QyNQAjr0iOZOp4n5EeyiB"
       },
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
-        "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
-        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 208981,
-      "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
-      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
-    },
-    {
-      "added_at": "2025-08-19 15:00:19",
-      "album": {
         "name": "Every One Minute",
         "url": "https://open.spotify.com/album/3sDjurxUTAqtbB41ZwROge"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 259615,
       "name": "\u541b\u3068drive",
       "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
+    },
+    {
+      "added_at": "2025-08-19 15:00:19",
+      "album": {
+        "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
+        "url": "https://open.spotify.com/album/4n8v2qy6CaAySJN7yJ9gW7"
+      },
+      "artists": [
+        {
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 208981,
+      "name": "\u305a\u308b\u304f\u306a\u3044\uff1f",
+      "url": "https://open.spotify.com/track/4alL49g2nf50xegCcGqDZt"
     },
     {
       "added_at": "2025-08-19 15:00:19",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
+    },
+    {
+      "added_at": "2025-08-19 15:00:19",
+      "album": {
         "name": "\u30d6\u30eb\u30fc\u30e9\u30a4\u30c8",
         "url": "https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu"
       },
@@ -1619,18 +1635,18 @@
     {
       "added_at": "2025-08-19 15:00:19",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+        "name": "READY",
+        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
       },
       "artists": [
         {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+          "name": "MONONKVL",
+          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
         }
       ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
+      "duration_ms": 227951,
+      "name": "READY",
+      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
     },
     {
       "added_at": "2025-08-19 15:00:19",
@@ -1663,22 +1679,6 @@
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"
-    },
-    {
-      "added_at": "2025-08-19 15:00:19",
-      "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/00uQzIjKyIV5GEzBXIb5Os"
-      },
-      "artists": [
-        {
-          "name": "MONONKVL",
-          "url": "https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM"
-        }
-      ],
-      "duration_ms": 227951,
-      "name": "READY",
-      "url": "https://open.spotify.com/track/5oXVRN6QDQCXRnKeR1NAXm"
     },
     {
       "added_at": "2025-08-19 15:00:19",

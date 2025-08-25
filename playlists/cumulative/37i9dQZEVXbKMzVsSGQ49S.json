@@ -296,7 +296,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 163750,
       "name": "10 \u00de\u00daSUND",
       "url": "https://open.spotify.com/track/64QhlrzSmL75MnvEvWzGs6"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 256466,
       "name": "A Cautionary Tale",
       "url": "https://open.spotify.com/track/00k7tsWaAJXGJ4rZZxd6bM"
@@ -5640,7 +5640,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-12",
+      "date_removed": null,
       "duration_ms": 187939,
       "name": "Bleikur Range Rover",
       "url": "https://open.spotify.com/track/0i4AOhWJqkedl62X2uxq4k"
@@ -7588,7 +7588,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 199800,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/1f1v2sHXpFFtjxB8KVKypW"
@@ -7686,7 +7686,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 153666,
       "name": "Castle in Hollywood",
       "url": "https://open.spotify.com/track/3zTnSPti5JjNsowJH4SS3u"
@@ -8422,7 +8422,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 155200,
       "name": "Clean Air",
       "url": "https://open.spotify.com/track/5vUwvYW5fpHrwHfirVpkHn"
@@ -8440,7 +8440,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 150866,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/1zOXs9kBDCGVYZXbxCR3eu"
@@ -9344,7 +9344,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 219533,
       "name": "Cuckoo Ballet (Interlude)",
       "url": "https://open.spotify.com/track/1ehtfi1UGjXbObPwJTCCvX"
@@ -16822,7 +16822,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -22292,7 +22292,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 163687,
       "name": "Hver Er S\u00e1 Besti",
       "url": "https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN"
@@ -29045,6 +29045,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "Lover Girl",
+      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i"
+    },
+    {
+      "album": {
         "name": "Lover Girl",
         "url": "https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS"
       },
@@ -29056,7 +29074,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
@@ -29168,7 +29186,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 253472,
       "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
       "url": "https://open.spotify.com/track/1Nsjktpk26QZqCMKgHV4Fl"
@@ -31940,7 +31958,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 155000,
       "name": "Mr. Eclectic",
       "url": "https://open.spotify.com/track/0gBlPhTZaqY06DHCL9V7W5"
@@ -33247,6 +33265,28 @@
     },
     {
       "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -34108,7 +34148,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -39650,7 +39690,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 162857,
       "name": "R\u00d3A",
       "url": "https://open.spotify.com/track/1YnOwWvV1bQevRqJMCbYJz"
@@ -39914,7 +39954,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 214600,
       "name": "Sabotage",
       "url": "https://open.spotify.com/track/1fUp9sWmy3EiZzPGbJmR4W"
@@ -41304,10 +41344,28 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 197533,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/4kfXaAAZlfBrimPJYHlCEM"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
     },
     {
       "album": {
@@ -42371,6 +42429,24 @@
     },
     {
       "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Snow White",
+      "url": "https://open.spotify.com/track/1AZwVoUx3UF5JbkUeMSUGe"
+    },
+    {
+      "album": {
         "name": "Snow White",
         "url": "https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL"
       },
@@ -42382,7 +42458,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN"
@@ -42640,7 +42716,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -46062,7 +46138,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-13",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -46292,7 +46368,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-10",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -48436,7 +48512,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 233600,
       "name": "Too Little, Too Late",
       "url": "https://open.spotify.com/track/6zEg4KEgz6RGhCPmDKplYf"
@@ -48792,7 +48868,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
@@ -50960,7 +51036,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 183311,
       "name": "Vildi Bara Segja",
       "url": "https://open.spotify.com/track/6eT593LOWtnVYyfb9QeGHE"
@@ -53072,7 +53148,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 210813,
       "name": "Win win",
       "url": "https://open.spotify.com/track/1uPjJDIpFRnkhr84AQS1on"
@@ -56274,7 +56350,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

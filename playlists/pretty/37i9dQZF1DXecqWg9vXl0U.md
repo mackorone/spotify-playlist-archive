@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Valsian ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,410 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,419 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 55 | [Stuck in California](https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Stuck in California](https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt) | 2:06 |
 | 56 | [Natural](https://open.spotify.com/track/5kXAfm5Ua6ZbF5umkLVNsy) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q), [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [Natural](https://open.spotify.com/album/7J189Nq9zcZmkkb0A8BqW7) | 2:59 |
 | 57 | [Fantasma](https://open.spotify.com/track/415oY7i4j1QVBVa5BM09nK) | [Azul Aimé](https://open.spotify.com/artist/2RK7ej33rvNMfEAqlWUqyY), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Fantasma](https://open.spotify.com/album/3Gwfk6hLAx66DXTW8xqJjo) | 3:21 |
-| 58 | [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 |
-| 59 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
+| 58 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
+| 59 | [Nostalgia](https://open.spotify.com/track/11n4UOH94ShxTVmlaW32lc) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Nostalgia](https://open.spotify.com/album/6UHRHe7c80O8jC2vPNS6Bu) | 2:54 |
 | 60 | [100m](https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [100m](https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY) | 2:20 |
 | 61 | [Último Intento](https://open.spotify.com/track/5wXBavPSFmy6ImZdeTxPAt) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Último Intento](https://open.spotify.com/album/6cLORSZVsdonI0tYVUEK0d) | 2:54 |
 | 62 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |

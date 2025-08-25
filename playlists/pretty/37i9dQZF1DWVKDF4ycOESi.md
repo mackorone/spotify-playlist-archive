@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Le migliori uscite delle ultime due settimane! Novità di Eros Ramazzotti, Doja Cat, Big Fish, Florence + The Machine e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,336 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,332 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

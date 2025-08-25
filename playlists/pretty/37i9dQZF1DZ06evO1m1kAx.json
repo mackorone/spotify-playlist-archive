@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAC11i4BGHkElbCcQv7Jij4g",
+  "snapshot_id": "aKkEgAAAAAACt+geq4c0MFhG69MjmsBK",
   "tracks": [
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Holy",
-        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 267318,
-      "name": "Holy Holy",
-      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KUKU GOOGLE AM",
         "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 210250,
       "name": "KUKU GOOGLE AM",
       "url": "https://open.spotify.com/track/2KRAQNY4WrlkrhZUg205co"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Holy Holy",
+        "url": "https://open.spotify.com/album/1oP1d81iy9iuRQZQjtX1jS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 267318,
+      "name": "Holy Holy",
+      "url": "https://open.spotify.com/track/6DnvcwVVayZ4xfMuBn8ZfK"
     },
     {
       "added_at": null,
@@ -719,22 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Iworiwo",
-        "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
       },
       "artists": [
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Sound Sultan",
+          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Iworiwo",
-      "url": "https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa"
+      "duration_ms": 261276,
+      "name": "Enter the Place (feat. Sound Sultan)",
+      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
     },
     {
       "added_at": null,
@@ -759,22 +759,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+        "name": "Iworiwo",
+        "url": "https://open.spotify.com/album/0ILFTgu6ivf2nIzqckeoel"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
-          "name": "Sound Sultan",
-          "url": "https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg"
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 261276,
-      "name": "Enter the Place (feat. Sound Sultan)",
-      "url": "https://open.spotify.com/track/7LQqNZ9DA4TxqXqg2vlGXr"
+      "duration_ms": 242400,
+      "name": "Iworiwo",
+      "url": "https://open.spotify.com/track/0RiVIkA5HT68LJ4keelVqa"
     },
     {
       "added_at": null,
@@ -795,6 +795,42 @@
       "duration_ms": 266490,
       "name": "Rainbow (feat. T-Pain)",
       "url": "https://open.spotify.com/track/5JP8TwUpsWlSJQda6Ev67o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 236564,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
+          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Thank U Lord",
+      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
     },
     {
       "added_at": null,
@@ -823,42 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.",
-          "url": "https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Thank U Lord",
-      "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 236564,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/5tLWNKddPYlrtTnQTeKQrz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chairman",
         "url": "https://open.spotify.com/album/4CyMWcn79EcDbYi8MgSOKM"
       },
@@ -879,6 +879,26 @@
       "duration_ms": 347085,
       "name": "Human Being (feat. 2Face & Sound Sultan)",
       "url": "https://open.spotify.com/track/5S9hSYitsTwmhBYKjsDOEC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNSTOPPABLE",
+        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Ehi Idibia",
+          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
+        }
+      ],
+      "duration_ms": 230191,
+      "name": "Free (feat. Ehi Idibia)",
+      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
     },
     {
       "added_at": null,
@@ -931,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSTOPPABLE",
-        "url": "https://open.spotify.com/album/3ghUzNnAH7IbY9PU4wxSPu"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Ehi Idibia",
-          "url": "https://open.spotify.com/artist/3BtU6F2V0CPbEQ9ST6IAix"
-        }
-      ],
-      "duration_ms": 230191,
-      "name": "Free (feat. Ehi Idibia)",
-      "url": "https://open.spotify.com/track/7FWf2BCUz8MjggZpSvXTa1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Officially Blind",
         "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
       },
@@ -983,6 +983,26 @@
       "duration_ms": 210840,
       "name": "Nwa Baby",
       "url": "https://open.spotify.com/track/1Jj6LFf6awzpOkt2z1V06Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 199650,
+      "name": "Suffer Head",
+      "url": "https://open.spotify.com/track/7pZV7r4cRLHoUe4UcVBkb9"
     }
   ],
   "unique_name": "This Is 2Baba",

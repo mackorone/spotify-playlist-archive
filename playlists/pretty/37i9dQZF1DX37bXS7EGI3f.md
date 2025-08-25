@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,189 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,257 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 67 | [Heavy Metal Viking](https://open.spotify.com/track/1cENvf4W2SC8HyZgjzXOzz) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Heavy Metal Viking](https://open.spotify.com/album/6iUaSm8AsBSW5Hb8IXsR2J) | 3:51 |
 | 68 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 69 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
-| 70 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
-| 71 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 |
+| 70 | [Heroes](https://open.spotify.com/track/2PlPpcspUIj23Jh1chR46K) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Heroes](https://open.spotify.com/album/2nFATbGbMdVWFd9OdtLLsN) | 3:45 |
+| 71 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 |
 | 72 | [The Endless Shore](https://open.spotify.com/track/1MmecgkGmAS0dpJtF0k4Is) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Ulli Perhonen](https://open.spotify.com/artist/5sVlAjN68bza0JFzEbagzH), [Nils Courbaron](https://open.spotify.com/artist/5TXDrJYFMZU5x7DqNnJcR4) | [The Endless Shore](https://open.spotify.com/album/7KnfUdPa3pZ37r3GQe6yz7) | 4:58 |
 | 73 | [IRIDE](https://open.spotify.com/track/17UbjWjl5deZmzN8tHGkrw) | [NanowaR of Steel](https://open.spotify.com/artist/7jw9vF1hFRp1k8dDRNRiC5) | [IRIDE](https://open.spotify.com/album/59HFcHsw1hu9xIVWPXLfHb) | 4:33 |
 | 74 | [Tales from the North](https://open.spotify.com/track/2h1nhjGCI0otQYmkp0f4gw) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Tales from the North](https://open.spotify.com/album/2oFRy2lPJVJ9wiOxaVRXsg) | 5:39 |
@@ -95,14 +95,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 85 | [An Ocean Of Strange Islands](https://open.spotify.com/track/7HLmjUIFeeCxiJKASRqltT) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [An Ocean Of Strange Islands](https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV) | 9:26 |
 | 86 | [Interrogativa Cantilena](https://open.spotify.com/track/6oQaYzijl3xEoX1a8P7Foz) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy), [Kevin Ridley](https://open.spotify.com/artist/0Z1PQIOw4Hq35PcvDFEbR3) | [Interrogativa Cantilena](https://open.spotify.com/album/5DAq7mFDpXPw7dKZDKfetl) | 3:48 |
 | 87 | [We Stand Tall](https://open.spotify.com/track/5QzqN7q15pDPjoCe71PlOx) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Stand Tall](https://open.spotify.com/album/5uPWEMknhc046i4PVUhO3u) | 3:03 |
-| 88 | [Warriors Of The Sea](https://open.spotify.com/track/4v43w0RfWBs2dPUAHaiTf7) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Warriors Of The Sea](https://open.spotify.com/album/4cxENbFoE4iuayIPsz8MSo) | 4:20 |
-| 89 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 88 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 89 | [Warriors Of The Sea](https://open.spotify.com/track/4v43w0RfWBs2dPUAHaiTf7) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [Warriors Of The Sea](https://open.spotify.com/album/4cxENbFoE4iuayIPsz8MSo) | 4:20 |
 | 90 | [1066](https://open.spotify.com/track/5z2tpy6GLge3PpEWvYF1E7) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [1066](https://open.spotify.com/album/6KlZ4W0dd9A2JCJxynKXhe) | 4:32 |
 | 91 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
 | 92 | [Fire](https://open.spotify.com/track/6a4hIHS9wtWf2O0e8XgHGl) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Fire](https://open.spotify.com/album/72cGpjiwjdPTwcrPMnaFNX) | 3:28 |
 | 93 | [Dance Till We Sink](https://open.spotify.com/track/5RJTbctfEPvxAWa4ejPwDm) | [A Wildheart's Tale](https://open.spotify.com/artist/7rs9jSwkWMCtMgth8HUNNb) | [Dance Till We Sink](https://open.spotify.com/album/7DyG3F5Y3igBwH4WuRIlmt) | 2:58 |
-| 94 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
-| 95 | [Winter Storm Vigilantes](https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm Vigilantes](https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs) | 5:12 |
+| 94 | [Winter Storm Vigilantes](https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm Vigilantes](https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs) | 5:12 |
+| 95 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 | 96 | [Vita Nova](https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Vita Nova](https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops) | 6:04 |
 | 97 | [World on Fire](https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj) | 4:26 |
 | 98 | [Retrospectator](https://open.spotify.com/track/35NBugSe2B3myDG6iY2huT) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Sorrowbreaker](https://open.spotify.com/album/1WrNIfj3IqN4dUo6lKQi7Q) | 2:57 |

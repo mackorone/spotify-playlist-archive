@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Wizkid and Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,422 likes - 99 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,451 likes - 99 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

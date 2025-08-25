@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207720,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
+    },
+    {
+      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
@@ -360,7 +378,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 220173,
       "name": "COLORS -New Mix-",
       "url": "https://open.spotify.com/track/2yId85aVejyO6B22sjQSYj"

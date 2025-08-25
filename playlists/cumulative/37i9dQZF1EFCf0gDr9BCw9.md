@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-203 songs - 15 hr 16 min
+204 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Lonely CoEd](https://open.spotify.com/track/05D9j2TH4OAXUkgEJwGBz4) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 3:18 | 2022-09-08 | 2025-01-30 |
 | [A Train](https://open.spotify.com/track/5eXSfxJEQ97wabK59E4Q8V) | [The Bob Florence Limited Edition](https://open.spotify.com/artist/1j9ZcAj2ccKF0T05WIOtSZ) | [Legendary](https://open.spotify.com/album/12a7QFo0wpphi58Ad18Mk3) | 9:06 | 2022-09-08 |  |
 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 | 2022-09-08 |  |
+| [Afro\-Bossa](https://open.spotify.com/track/7AONTENNNhbwr55248rPTq) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Mood Indigo](https://open.spotify.com/album/5sAlnk7GmDC5KRE1sKudIX) | 3:05 | 2025-08-24 |  |
 | [After All](https://open.spotify.com/track/17TOKPQ8GTh4u7Jov572By) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:47 | 2022-09-08 |  |
 | [All Day Long](https://open.spotify.com/track/0DIbeVbiZSFHuM7dey6Z5Q) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 2:56 | 2022-09-08 |  |
 | [All Heart \- Rehearsal](https://open.spotify.com/track/3JLVhKzTndT5TDFUq7xnXU) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book \(Expanded Edition\)](https://open.spotify.com/album/6a0SKcnVuX1Y3dp1jjjmle) | 4:02 | 2022-09-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 39698,
+  "num_followers": 39695,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACLojtx1yGto8lxaX9PcBK8",
+  "snapshot_id": "aKkEgAAAAADA13UgFhC3/R/zJ0zSX4pg",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lundi M\u00e9chant",
         "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
@@ -735,8 +719,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
-        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+        "name": "Heartlands / Thorns",
+        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 382889,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
       "artists": [
         {
@@ -744,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 204658,
-      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
-      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -767,22 +771,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heartlands / Thorns",
-        "url": "https://open.spotify.com/album/1NnzB8wGIoN04CjEjL9fo6"
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
       },
       "artists": [
-        {
-          "name": "Kofi Stone",
-          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
-        },
         {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 382889,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4Grrun3ZnHh9qzPuasmTl3"
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 276605,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm A Dream",
         "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
       },
@@ -843,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
       },
       "artists": [
         {
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 276605,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+      "duration_ms": 158124,
+      "name": "Black N White",
+      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
       "duration_ms": 294227,
       "name": "Dear Simone",
       "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 158124,
-      "name": "Black N White",
-      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
     },
     {
       "added_at": null,

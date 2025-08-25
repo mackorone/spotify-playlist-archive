@@ -3690,7 +3690,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/6eIzQCYExfnNeM7KOlE3lE"
@@ -15864,7 +15864,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 232375,
       "name": "i wish i knew how to quit you",
       "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
@@ -16628,7 +16628,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 196449,
       "name": "Ilman sua",
       "url": "https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n"
@@ -23836,7 +23836,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 156110,
       "name": "Leima (feat. Turisti)",
       "url": "https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV"
@@ -28488,6 +28488,24 @@
       "duration_ms": 155041,
       "name": "Min\u00e4 Sinua",
       "url": "https://open.spotify.com/track/3jL8yROkyz0IY5ZrJuNLbO"
+    },
+    {
+      "album": {
+        "name": "Kroketti",
+        "url": "https://open.spotify.com/album/4f7660RsgvuUEnkgPyCErS"
+      },
+      "artists": [
+        {
+          "name": "Ultra Bra",
+          "url": "https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "Min\u00e4 Suojelen Sinua Kaikelta",
+      "url": "https://open.spotify.com/track/3kCfILjLsow1AGSTp4apIz"
     },
     {
       "album": {
@@ -41200,6 +41218,24 @@
       "duration_ms": 284516,
       "name": "Sin\u00e4 l\u00e4hdet, min\u00e4 j\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/2UIHqdjuY00JNF4BgUL1hn"
+    },
+    {
+      "album": {
+        "name": "Kroketti",
+        "url": "https://open.spotify.com/album/4f7660RsgvuUEnkgPyCErS"
+      },
+      "artists": [
+        {
+          "name": "Ultra Bra",
+          "url": "https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Sin\u00e4 L\u00e4hdit Pois",
+      "url": "https://open.spotify.com/track/1Letc5Trec4Fu39usKQt1Q"
     },
     {
       "album": {

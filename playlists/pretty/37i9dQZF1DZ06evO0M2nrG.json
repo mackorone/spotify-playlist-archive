@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 68407,
+  "num_followers": 68405,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAADutHYrRdAeo/xkL8clW4It",
+  "snapshot_id": "aKkEgAAAAAABXzRJSvdQU5qUC9Cj/99n",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "La Indocumentada",
+      "url": "https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "La Indocumentada",
-      "url": "https://open.spotify.com/track/6d0ffzIcbMVvzIqhaonSlT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Si Dios Fuera Poeta",
-      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALIDOSA",
         "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158217,
       "name": "Hola Mi Amor",
       "url": "https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Si Dios Fuera Poeta",
+      "url": "https://open.spotify.com/track/0UHtz5TdWehAXurroIfemG"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 174263,
+      "name": "Cha Cha - Bandera Blanca",
+      "url": "https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 200547,
       "name": "Ropa Interior (feat. Be\u00e9le)",
       "url": "https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CALIDOSA",
-        "url": "https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 174263,
-      "name": "Cha Cha - Bandera Blanca",
-      "url": "https://open.spotify.com/track/6TnIcW5IzJFr9lqvHmZWDP"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 179501,
-      "name": "Navegando",
-      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
         "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 182926,
       "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
       "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 179501,
+      "name": "Navegando",
+      "url": "https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh"
     },
     {
       "added_at": null,

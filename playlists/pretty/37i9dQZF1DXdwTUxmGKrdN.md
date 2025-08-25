@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,619 likes - 150 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,638 likes - 150 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 131 | [Something About You](https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Something About You](https://open.spotify.com/album/1DAKxl6tghAvbXoGWtEixv) | 5:13 |
 | 132 | [JJ's Strut \(Radio Single\)](https://open.spotify.com/track/7m0H1Tri64Gs7ndu2giQXI) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [JJ's Strut \(Radio Single\)](https://open.spotify.com/album/7cFYasV6tFxybojZKXm4sN) | 4:11 |
 | 133 | [Tried and True](https://open.spotify.com/track/2vqG2hLwzZQhTQ3sNs8QY5) | [Dee Lucas](https://open.spotify.com/artist/2QD4KsUc6Dyg2JMNWXSdgb), [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [The Time Is Now](https://open.spotify.com/album/7DRR47Neht8KT2DvnqDlgE) | 3:46 |
-| 134 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 |
-| 135 | [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 |
+| 134 | [Business As Usual](https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc) | [Sean U](https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE) | [Business As Usual](https://open.spotify.com/album/6H9GZBSACCRi8fVk8Wp2F5) | 3:36 |
+| 135 | [Driftin'](https://open.spotify.com/track/1HvNKIGfKzR5I26EuLXDwv) | [Earl Klugh](https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY) | [The Spice Of Life](https://open.spotify.com/album/142E2CAmo6Cnr5LXmIozky) | 3:48 |
 | 136 | [Sky Watcher](https://open.spotify.com/track/6fL5Bg8dzMTnmYz9NVnFGf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Out Of A Dream](https://open.spotify.com/album/6zHqMQut7wD5vAnyDf78pt) | 4:02 |
 | 137 | [Valentin Dream \(feat\. Bob Baldwin\)](https://open.spotify.com/track/1wugADbCBtcDPbd0D7NtX0) | [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Quantum Drive](https://open.spotify.com/album/43yX6oV0cDl7E6KEJ3cyb1) | 4:20 |
 | 138 | [Steppin' Out](https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt) | 4:05 |

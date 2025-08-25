@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 467725,
+  "num_followers": 467808,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABYUiicCGWSdRajaGMMdFbj",
+  "snapshot_id": "aKkEgAAAAABsxiZYjPabAU8/9Zagq285",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Present Past",
-        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 264724,
-      "name": "Threat of Joy",
-      "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
+      "duration_ms": 203240,
+      "name": "Taken for a Fool",
+      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+        "name": "Future Present Past",
+        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Taken for a Fool",
-      "url": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7"
+      "duration_ms": 264724,
+      "name": "Threat of Joy",
+      "url": "https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
       "duration_ms": 208133,
       "name": "Razorblade",
       "url": "https://open.spotify.com/track/4UF1eupXP9Zz5GpYepyOxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 255240,
+      "name": "Life Is Simple in the Moonlight",
+      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
       "duration_ms": 222360,
       "name": "Tap Out",
       "url": "https://open.spotify.com/track/2ThdB23G9Rgf1ExndFGEEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 255240,
-      "name": "Life Is Simple in the Moonlight",
-      "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 298613,
-      "name": "80's Comedown Machine",
-      "url": "https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 179200,
       "name": "Gratisfaction",
       "url": "https://open.spotify.com/track/69YCkfZS0aOjEUPwQ4zCZ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 298613,
+      "name": "80's Comedown Machine",
+      "url": "https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2"
     },
     {
       "added_at": null,

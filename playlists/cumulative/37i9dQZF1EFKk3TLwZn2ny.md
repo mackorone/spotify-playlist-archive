@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5firUEQ9rQDghlz87ntiQD">Monro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-72 songs - 3 hr 40 min
+74 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,11 +42,13 @@
 | [Lonely](https://open.spotify.com/track/70YQBlE7bPLaCm1nbEHDvU) | [Monro](https://open.spotify.com/artist/4YMEiK7wphIlHHtrMi0jmM) | [Lonely](https://open.spotify.com/album/4N5rLXDGNp8TK3ujskFMzF) | 2:29 | 2025-08-05 |  |
 | [Makings of a Man](https://open.spotify.com/track/0OpJOkPJtkrx3sF7NpJFwn) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Fisticuffs](https://open.spotify.com/artist/4vm80uLtL6Q7IQ4FoGJKRD) | [CLARITY](https://open.spotify.com/album/0YcNqzZTQRHJRTXgevruWS) | 1:51 | 2025-01-09 | 2025-04-12 |
 | [Meet Me](https://open.spotify.com/track/3FrJCNsmxAlrZm20OgMf4x) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/1aTv29hsfv6RFSTgdiNARV) | 3:14 | 2024-03-16 | 2025-06-21 |
-| [Meet Me](https://open.spotify.com/track/5Gz4NzVpyj2ijHbmZtRmfA) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/6ehpo5SkVrdRaNdiaTHhJY) | 3:14 | 2025-06-20 |  |
+| [Meet Me](https://open.spotify.com/track/4uSBMtugk4a1CFPuXjUyQ4) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Pain and Paradise](https://open.spotify.com/album/6ksW47wezzWZiHcQbSYTAJ) | 3:14 | 2025-08-24 |  |
+| [Meet Me](https://open.spotify.com/track/5Gz4NzVpyj2ijHbmZtRmfA) | [Janine](https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM) | [Meet Me](https://open.spotify.com/album/6ehpo5SkVrdRaNdiaTHhJY) | 3:14 | 2025-06-20 | 2025-08-25 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2024-01-29 |  |
 | [MONEY DANCE](https://open.spotify.com/track/6ttiYv0BKaW7spulWhKQqj) | [Ktlyn](https://open.spotify.com/artist/6FaLegXtqjGZBH5VFrOlwG) | [MONEY DANCE](https://open.spotify.com/album/2Hb6Kf0KAyBBmVB5BowSBx) | 2:15 | 2025-05-03 |  |
 | [My Little Alien \- From 'SCOOB!' The Album](https://open.spotify.com/track/5OOilaEpdWL5f6LtbPJZoG) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [My Little Alien](https://open.spotify.com/album/3iQxgtiisxFuz2wb6MoSbh) | 3:05 | 2024-01-29 |  |
 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 | 2025-04-25 |  |
+| [Not There Yet](https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz) | [LULU.](https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch) | [Not There Yet](https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c) | 3:33 | 2025-08-24 |  |
 | [On Job](https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP) | [WAY2LATE](https://open.spotify.com/artist/3hIp8uy0RH7L4N3EQ9Nz8a), [Keeya Keys](https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [On Job](https://open.spotify.com/album/1EHQ7OMBWdPpDDme9JpnXJ) | 2:01 | 2024-09-18 |  |
 | [Outro](https://open.spotify.com/track/3dl4BReGC1noYe4tdKuF9e) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 2:39 | 2024-01-29 |  |
 | [Party No Dey Stop](https://open.spotify.com/track/4xkhgMlowgA7zSSsRryQRQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6dqEsoNlj6Qi5LnuYirXA5) | 2:47 | 2024-01-30 | 2024-02-02 |

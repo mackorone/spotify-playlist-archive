@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4wmgHQAAzg3gbnQWSyoMZp">Pharrell Williams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-960 songs - 2 day 13 hr 8 min
+961 songs - 2 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [California Roll](https://open.spotify.com/track/6SpilLnQpsuDQ1zFOips4C) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [California Roll \(Video\)](https://open.spotify.com/album/3xlLIB5BJvsP7bZ6JUD96K) | 5:47 | 2024-01-29 | 2024-02-01 |
 | [California Roll \(feat\. Stevie Wonder\)](https://open.spotify.com/track/3wO19rAQ7aya5YFPQ6Ts0A) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [BUSH](https://open.spotify.com/album/3UesepjW7Scwi8DV62Qqyn) | 4:12 | 2024-01-31 |  |
 | [Call My Bluff](https://open.spotify.com/track/1oFYibU1RzB4OKE5iI3SyR) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [It's Almost Dry](https://open.spotify.com/album/6o38CdD7CUlZDCFhjZYLDH) | 2:48 | 2024-09-28 |  |
-| [Call The Ambulance \(feat\. Rampage\)](https://open.spotify.com/track/1goiH0GybS0mJsb4PvgQxQ) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t) | [It Ain't Safe No More](https://open.spotify.com/album/5fAccYiIVKadFTQvgAbo8z) | 3:50 | 2024-06-20 |  |
+| [Call The Ambulance \(feat\. Rampage\)](https://open.spotify.com/track/1goiH0GybS0mJsb4PvgQxQ) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t) | [It Ain't Safe No More](https://open.spotify.com/album/5fAccYiIVKadFTQvgAbo8z) | 3:50 | 2024-06-20 | 2025-08-25 |
+| [Call The Ambulance \(feat\. Rampage\)](https://open.spotify.com/track/6hAwAvkbt9unifcDgg7NzG) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/1DXLebGGKvd7uKBxdDwqAa) | 3:50 | 2025-08-24 |  |
 | [Can I Have It Like That](https://open.spotify.com/track/73Ijn0pKw1YJVP4OO4jUl7) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [In My Mind](https://open.spotify.com/album/2AYyw0FbE1GXlNHnx2Gj4a) | 3:55 | 2024-01-29 |  |
 | [Can't Be](https://open.spotify.com/track/4yUO1e7xzJs7hMw7PXxct7) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Can't Be](https://open.spotify.com/album/42ETzNLU96on2wUJcIVvyr) | 2:02 | 2024-09-12 | 2025-01-10 |
 | [Can't Bring Me Down](https://open.spotify.com/track/3FEyTktnU2N2vRshFC7yZ6) | [Awreeoh](https://open.spotify.com/artist/39Bg21BFWDcT8vHpTIGUl0) | [Dope: Music From The Motion Picture](https://open.spotify.com/album/10hGeHsDksNsVI5pj7pnnO) | 2:54 | 2024-09-12 |  |

@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-330 songs - 18 hr 15 min
+331 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Curvature](https://open.spotify.com/track/4YjO6S1cg24DllgkHWqhxq) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Curvature](https://open.spotify.com/album/0P0SDDB0i2Whu1bWrpxcd5) | 2:33 | 2022-10-07 |  |
 | [Cynnes](https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Cynnes](https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4) | 5:24 | 2023-04-14 | 2025-04-09 |
 | [Dance In The Sunlight](https://open.spotify.com/track/3ipy5ap1gVSdERpF5ays6F) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Dance In The Sunlight](https://open.spotify.com/album/3ITR6LlbWdAuHID9WYvP78) | 2:47 | 2025-03-28 |  |
-| [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-02-17 |  |
+| [Day Drinks](https://open.spotify.com/track/2OQnwmOFax26FgqnqO1JPK) | [Sonic](https://open.spotify.com/artist/77NlgotgHiVpi79fpChUZc) | [Day Drinks](https://open.spotify.com/album/4BiO9E6GC7knxkuqwnnpFn) | 2:17 | 2023-02-17 | 2025-08-25 |
 | [Daylight](https://open.spotify.com/track/2hyIrhwVGf7IfEScxcRqXV) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/3MEbVJqtzpPpayuDN4zq8G) | 2:32 | 2021-12-09 | 2023-03-15 |
 | [Daylight](https://open.spotify.com/track/7GmDdBXzfYeAVyJYLY6jIj) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [Daylight](https://open.spotify.com/album/1IhOWa7QWhUGCX3Okplir7) | 2:32 | 2023-02-17 | 2024-04-19 |
 | [Demurity](https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O) | [Plomb](https://open.spotify.com/artist/5lJ2OEJIZ8QdAGyCKq307r) | [Demurity](https://open.spotify.com/album/7gbIdhCtu55lkHnIKYFk3v) | 2:46 | 2021-12-09 | 2023-04-27 |
@@ -100,6 +100,7 @@
 | [Fall In Love](https://open.spotify.com/track/2nJ2lKCSKBUjqrEUlTyi9c) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/5BVxHRFGDTzrpeer3z5BHP) | 2:55 | 2022-03-11 | 2023-03-06 |
 | [Fall In Love](https://open.spotify.com/track/7mFoG00rX2eKIxlR8vrw3u) | [sunsets & sandals](https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA), [Harry Cho](https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q) | [Fall In Love](https://open.spotify.com/album/4FbR2nqgnUqfLrZsLVkoe0) | 2:55 | 2023-02-17 | 2024-04-19 |
 | [Feel Good](https://open.spotify.com/track/3BOcy4WD4qgILGC3D9SyUH) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Feel Good](https://open.spotify.com/album/4O2cQ8Oz8v2TMm7kGXlHfy) | 3:50 | 2021-12-09 | 2023-09-14 |
+| [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/track/75Cei2laQOJAmSr6QVKjyi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Feelings Gone \(feat\. London Grammar\)](https://open.spotify.com/album/2HK1KxDzWdcKGM6U9Lm2F7) | 4:58 | 2025-08-22 |  |
 | [Five Points](https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo) | [Lo & Fozzi](https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW) | [Five Points](https://open.spotify.com/album/2YQst9sLvIkUD9ti0UWAp6) | 3:14 | 2021-12-09 | 2022-07-28 |
 | [Floating In Space](https://open.spotify.com/track/4iUX9qCWkcwLkZCH8AFzCc) | [Nicolello](https://open.spotify.com/artist/7IWbQLZ91NbHT6EiaF5l9V) | [Floating In Space](https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb) | 2:32 | 2021-12-09 |  |
 | [Flow](https://open.spotify.com/track/4pkzg9DB6sDxbPYnakbVVd) | [Pool Blue](https://open.spotify.com/artist/1voJnUcEoYhOptkLklUsVL) | [Flow](https://open.spotify.com/album/4RC9dw4Z50A93u9VA3ZV67) | 1:56 | 2021-12-09 |  |

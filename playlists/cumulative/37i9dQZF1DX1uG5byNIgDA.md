@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-455 songs - 1 day 0 hr 44 min
+456 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [CHERRY](https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO’ COMPLETE](https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef) | 3:30 | 2021-12-06 | 2022-07-27 |
 | [Cherry On Top](https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [Cherry On Top](https://open.spotify.com/album/7sEDri9xLbg6a27CPoD1v2) | 2:28 | 2021-12-06 | 2022-07-29 |
 | [Chocolate](https://open.spotify.com/track/0vt3kA21CNUpJq5RT24z9W) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Want More 19 Part.1](https://open.spotify.com/album/1DDc6qbKF8Utom7maoljP5) | 3:16 | 2022-03-23 | 2022-07-12 |
+| [CLOSER](https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:38 | 2025-08-21 |  |
 | [Cloud](https://open.spotify.com/track/2WdgZcToOXFt3ZKlT5PW6P) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [The Beauty Inside Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4XZOS3rxwwrG4EVDJ3LdLf) | 3:03 | 2022-03-23 | 2022-04-15 |
 | [cocoa](https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [cocoa](https://open.spotify.com/album/48noekM4ZHegrDo2v0t3ki) | 3:07 | 2021-12-06 | 2022-07-29 |
 | [Coin Wash](https://open.spotify.com/track/6S8USpSfSRY2Cd2SOBjJLT) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [Jacoby](https://open.spotify.com/artist/7xNGZ0xM6gxBr9og1RE5wF) | [Coin Wash](https://open.spotify.com/album/2Eiiaxoi26LGN4XIQpqwkt) | 3:31 | 2022-04-04 | 2022-07-19 |
@@ -137,7 +138,7 @@
 | [First Love Two](https://open.spotify.com/track/0WLVjvta2gELFIN5mqSFpa) | [SUNNYSIDEMJ](https://open.spotify.com/artist/50hc5LTdbu0RKvf8IuOrLq) | [Love Tape](https://open.spotify.com/album/6A8Dj6IhOrpOHfWwgh4YBw) | 3:27 | 2022-03-23 | 2022-04-17 |
 | [Flow and Flow](https://open.spotify.com/track/0xtFlh7zuV3MwwBVoiQuSf) | [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI), [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [To You, We Flow](https://open.spotify.com/album/2s5izSOE9U3Af3cCyM2EOJ) | 3:11 | 2022-03-08 | 2022-04-21 |
 | [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2024-03-27 | 2024-04-19 |
-| [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-03-27 |  |
+| [FLOWER](https://open.spotify.com/track/0bC7GKnxh9W9JIvJ6HVWxc) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/2xvV55nQYyhozbXtbqwPql) | 2:54 | 2024-03-27 | 2025-08-25 |
 | [Fly Up](https://open.spotify.com/track/61JHSyyzMfvBfcB2ZK0HLI) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/07cUjKdLcgmnABNKKb4rGQ) | 2:58 | 2025-05-30 | 2025-06-29 |
 | [For Some Reason 왠지 그냥](https://open.spotify.com/track/4b4pXJlphTv6xkOAhnSCgY) | [DANWU](https://open.spotify.com/artist/3hqxXifdUAzAQIKdKqda6t), [KIMEUNJI 김은지](https://open.spotify.com/artist/04gKJbZ1iABO8Azq4C9aAt) | [For Some Reason 왠지 그냥](https://open.spotify.com/album/1zlxiFx9csY1rp7of7RIiV) | 3:58 | 2022-03-23 | 2022-03-31 |
 | [For You](https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [For You](https://open.spotify.com/album/2eR6McDzZsDA7K7DWibT6k) | 4:04 | 2022-03-23 | 2022-05-28 |

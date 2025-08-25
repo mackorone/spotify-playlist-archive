@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX717gvXLoUJP.md) - [plain]
 
 > <a href="spotify:artist:1oZmFNkGAT93yD1xX4vTRE">Nina Kraviz</a>' favorite tracks\. Updated regularly\. Curated by Nina Kraviz\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,364 likes - 54 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,367 likes - 54 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bailando \- nk & david löhlein version](https://open.spotify.com/track/565TiLHB3IpPOIclhnIxDO) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE), [David Löhlein](https://open.spotify.com/artist/2RibmjRGf8SiwxdCQZ9N1C) | [Bailando](https://open.spotify.com/album/3BXLwBdR7yPrGFiENcDxAi) | 5:42 |
 | 2 | [remote flow dynamics](https://open.spotify.com/track/22dKI9jDDP6nFO8BJOgWm2) | [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [all his decisions](https://open.spotify.com/album/1Aohl1B7uvIe666oWkybrq) | 4:12 |
 | 3 | [Shake What Your Momma Gave Ya](https://open.spotify.com/track/0oFaGC7765v7K8SZjMXO99) | [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [Let Me Bang](https://open.spotify.com/album/1sYe9BWYElIO0F4HBFbMk6) | 3:59 |
-| 4 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/0xqTHxXphPeLQgShl2REz7) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 |
+| 4 | [Fock Music](https://open.spotify.com/track/0LKqm7QTZ9IViOZzDX8fSG) | [Pantomiman](https://open.spotify.com/artist/4YY17UFbIA2EXhF78H6UDP), [Fungus Funk](https://open.spotify.com/artist/5Y8YSfghuMVuVgkS37Ispt) | [No Jokes](https://open.spotify.com/album/1QmTzcOVQqbxc9QZkflZLI) | 7:42 |
 | 5 | [Bass Drop](https://open.spotify.com/track/53fCTlSygBP4mlHKqww3h3) | [DJ Godfather](https://open.spotify.com/artist/0cKrM2XKF7wxyfEQDauvyQ), [Lil Mz\. 313](https://open.spotify.com/artist/0xwgxtAxlR2y2C3ijPKwzG) | [This Detroit Thing of Ours](https://open.spotify.com/album/6lZGZf3CQPvT1UBPIZFPAZ) | 1:42 |
 | 6 | [Mouth to Mouth](https://open.spotify.com/track/4qyrnoNWsxeq3POMPtsxtE) | [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8) | [Audion X](https://open.spotify.com/album/7jGVgwUEdvpmJ5unw2tmb9) | 12:54 |
 | 7 | [Logitech](https://open.spotify.com/track/35CcZt5cYMvkXLaQoUCCxm) | [Leather Forecast](https://open.spotify.com/artist/3BfE19Tmu1EWW9TKSw8xgZ) | [Blizzard People](https://open.spotify.com/album/1NJht446o33kGyPLc27U0l) | 3:57 |

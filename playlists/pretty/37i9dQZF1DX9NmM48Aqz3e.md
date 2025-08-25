@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Melanie C & Bryan Adams
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,554 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,559 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 26 | [Ahead By A Century](https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Trouble At The Henhouse](https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn) | 3:43 |
 | 27 | [You Don't Know What It's Like](https://open.spotify.com/track/50mKGx40EqwIekEwWpC47m) | [Econoline Crush](https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE) | [Brand New History](https://open.spotify.com/album/4vRTFlSocgxhJUISM8P2s3) | 4:06 |
 | 28 | [Northern Touch \(feat\. Kardinal Offishall, Thrust, Choclair & Checkmate\)](https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG) | [Rascalz](https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Thrust](https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk), [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS), [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT) | [Cash Crop + Bonus Track](https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM) | 4:07 |
-| 29 | [It's All Been Done](https://open.spotify.com/track/1VBRdl1sT4DGckQaTzKEB9) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 3:26 |
+| 29 | [It's All Been Done](https://open.spotify.com/track/1VBRdl1sT4DGckQaTzKEB9) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Stunt \(20th Anniversary Edition\)](https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY) | 3:26 |
 | 30 | [So Into You](https://open.spotify.com/track/3c6afiysmB7OnxQzzSqRfD) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Tamia](https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV) | 4:21 |
 | 31 | [Arriba](https://open.spotify.com/track/0FVEvj81mfiDR9JtSvj5cu) | [Joee](https://open.spotify.com/artist/7lnyytg8R4MiLIjfcjJrLZ) | [Joee](https://open.spotify.com/album/7GpHwRMWnmwKj9BZ98T9CY) | 3:55 |
 | 32 | [Thank You](https://open.spotify.com/track/66LF1QOqyKHGXgNvOZjh9j) | [McMaster & James](https://open.spotify.com/artist/4oa4N3nyfhhCcORi5rFg6j) | [McMaster & James](https://open.spotify.com/album/4mqY9kJPz1XnVih5taFudM) | 3:56 |

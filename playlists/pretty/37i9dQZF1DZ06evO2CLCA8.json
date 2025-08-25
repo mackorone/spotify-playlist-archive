@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAC/OuNukiZ49uCp5qDg/Oxf",
+  "snapshot_id": "aKkEgAAAAADi7MxLooUnQAEn32gDIx6X",
   "tracks": [
     {
       "added_at": null,
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Casa Dega",
-      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
+      "duration_ms": 264453,
+      "name": "Shadow Of A Doubt (A Complex Kid)",
+      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
     },
     {
       "added_at": null,
@@ -760,25 +760,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 264453,
-      "name": "Shadow Of A Doubt (A Complex Kid)",
-      "url": "https://open.spotify.com/track/0uV5j1LuzRS5HglBLKmwM0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hypnotic Eye",
-        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 251853,
-      "name": "U Get Me High",
-      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
+      "duration_ms": 215800,
+      "name": "Casa Dega",
+      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hypnotic Eye",
+        "url": "https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 251853,
+      "name": "U Get Me High",
+      "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tom Petty And The Heartbreakers",
         "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Live Anthology",
-        "url": "https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh"
+        "name": "I Won't Back Down (Live at the Fillmore, 1997)",
+        "url": "https://open.spotify.com/album/0OmDmOf0kDHw2RXxjeaMLf"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 341680,
-      "name": "Friend of the Devil - Live",
-      "url": "https://open.spotify.com/track/4BhTu6NjUUBOn62QnbQZGA"
+      "duration_ms": 222436,
+      "name": "I Won't Back Down - Live at the Fillmore, 1997",
+      "url": "https://open.spotify.com/track/0IXin8XHw7ikscCycdCZwa"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

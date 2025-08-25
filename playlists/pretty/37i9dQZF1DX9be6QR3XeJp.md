@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: chi
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,022 likes - 249 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,018 likes - 249 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

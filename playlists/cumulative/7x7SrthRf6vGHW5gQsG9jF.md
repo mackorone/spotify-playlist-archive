@@ -4,7 +4,7 @@
 
 > mostly rock
 
-941 songs - 2 day 12 hr 10 min
+944 songs - 2 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [Goodbye answer](https://open.spotify.com/track/5Ojv9TjdiBAAUMhh4Lhm4c) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [THE NEWEST JOKE](https://open.spotify.com/album/5TFRZe0LbMgAIzG7aDlHRo) | 2:54 | 2023-08-07 |  |
 | [gray](https://open.spotify.com/track/3zDfnorew8B8SMSUwVrMSZ) | [sajou no hana](https://open.spotify.com/artist/014bW80BPmy5WVcFBoHwNq) | [memosepia / gray](https://open.spotify.com/album/090bgQZzZVsYNCj9FnwG17) | 3:43 | 2023-05-15 |  |
 | [Great Distance](https://open.spotify.com/track/0KlkZx5ytNch56UTjxbKuv) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Great Distance](https://open.spotify.com/album/7iWL8AA04u4u7jFT3Irgei) | 4:33 | 2024-08-17 |  |
-| [greed \- Instrumental](https://open.spotify.com/track/7rIVAacGusNbgEhFPeLT9l) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [kachi mamire](https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW) | 3:56 | 2024-12-05 |  |
+| [greed \(feat\. Koeda\)](https://open.spotify.com/track/1v8gcuRYtwh0pHITfbVI2o) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD), [KOEDA](https://open.spotify.com/artist/6drKzR8msTvMFqwzcKUWyF) | [kachi mamire](https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW) | 3:56 | 2025-08-24 |  |
+| [greed \- Instrumental](https://open.spotify.com/track/7rIVAacGusNbgEhFPeLT9l) | [Ze](https://open.spotify.com/artist/4ESeNxZTeBCnVm0DyGz8yD) | [kachi mamire](https://open.spotify.com/album/5StoqTIha7huqbM0qM15MW) | 3:56 | 2024-12-05 | 2025-08-25 |
 | [Greedy Survive](https://open.spotify.com/track/5B5tOVgCyxONGNMkI6QtIb) | [zenbukiminoseida.](https://open.spotify.com/artist/5gfATgktAUsKbaCwifP3h5) | [Arumumei](https://open.spotify.com/album/4ZBMWl0VYMwS36XV3KFuPb) | 3:07 | 2024-09-01 |  |
 | [Guide and Devote](https://open.spotify.com/track/6TBGoqXlsyvs7Mq7yWQQ1e) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Guide and Devote](https://open.spotify.com/album/1p5iDrsIRRadjrIvk6dK7Q) | 3:21 | 2023-12-28 |  |
 | [Guilty](https://open.spotify.com/track/2xmupo1jbudKDN4hSSKpXM) | [d0tc0mmie](https://open.spotify.com/artist/6boy2t2W04GPkMipXjavCM), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [0401+](https://open.spotify.com/album/6g6IhKiigPjKmPOmxkc91S) | 2:11 | 2025-06-12 |  |
@@ -544,6 +545,7 @@
 | [Trapped in the past](https://open.spotify.com/track/5cGTr7yx9wo6NkgQV4eqdW) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Trapped in the past](https://open.spotify.com/album/4BG97uWNo2Dloxbg1Bwa5M) | 3:49 | 2023-06-06 |  |
 | [Triton](https://open.spotify.com/track/4AxPYeNMCbkvx6qir5mHkU) | [VELTPUNCH](https://open.spotify.com/artist/5pGkTQuHNVgzBgX4d9pFsc) | [GOLD ALBUM 1997\-2012](https://open.spotify.com/album/5rtMlhUkyKWl7OgrPBBEUb) | 5:27 | 2024-02-18 |  |
 | [Tsubasa](https://open.spotify.com/track/29fFAKTm2Bvw9KwyxGtYgV) | [ナナホシ\(CV:若山詩音\)](https://open.spotify.com/artist/3MdRFCCJU0zkW9cS6jnx42) | [Tsubasa](https://open.spotify.com/album/6T1Vpf17MhgF2wGseup9PZ) | 4:33 | 2025-08-18 |  |
+| [TulPa](https://open.spotify.com/track/2zSLpjKzviAO09AWgBRZD7) | [Lionel Hsiao](https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia) | [TulPa](https://open.spotify.com/album/0j1o5aEIPecvVAyIsAZHo3) | 3:42 | 2025-08-24 |  |
 | [Two Diaries](https://open.spotify.com/track/7446hSnkNCAy0t8UHVEn7I) | [.........](https://open.spotify.com/artist/6pwR1E7p5tJacVqGv22CFs) | [Points](https://open.spotify.com/album/2W1crAgwVRfF17ha4C7v53) | 4:39 | 2024-04-25 |  |
 | [umm](https://open.spotify.com/track/1FbzY2eXzyKQmpj9I1mWWQ) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [downt](https://open.spotify.com/album/7kL1y5uLmTTHf5Tsz7YrOD) | 1:23 | 2024-02-15 |  |
 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 | 2023-06-11 |  |
@@ -742,7 +744,7 @@
 | [ロンググッドバイ](https://open.spotify.com/track/4xxMvmFyA9f7cKfQiDuIw0) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [ロンググッドバイ](https://open.spotify.com/album/2qqwUNewGqmBiV7jUdqqQd) | 3:09 | 2023-09-06 |  |
 | [ローファイ・タイムズ](https://open.spotify.com/track/5XqF1sxBaXK2klFf0C0PrZ) | [Doctrine Doctrine](https://open.spotify.com/artist/4Oj5eE3XxUZkyXxWA3rQkn) | [Darlington](https://open.spotify.com/album/0GQQ6r5JSABPSFJMaACcsP) | 3:34 | 2023-04-06 |  |
 | [ヴァージン・スーサイド](https://open.spotify.com/track/124yhXmfewTTdLWcT9F0p8) | [Kinokoteikoku](https://open.spotify.com/artist/61H9d7hbIfFNxJJQmIL9AJ) | [フェイクワールドワンダーランド](https://open.spotify.com/album/13xXU66oGXokggAEHnUcfR) | 3:40 | 2023-08-18 |  |
-| [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 | 2024-12-13 |  |
+| [一世風靡](https://open.spotify.com/track/6O5iGVPLJyW227b7ud0GpW) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [一世風靡](https://open.spotify.com/album/2F8TZUNB27uEObl5i0ONos) | 3:11 | 2024-12-13 | 2025-08-25 |
 | [不死鳥](https://open.spotify.com/track/61LaFXwgfNfGZLmqVeeNVI) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [ENTERTAINMENT](https://open.spotify.com/album/7J9IuxWGge23Amv8msKGtF) | 5:45 | 2024-08-07 |  |
 | [中庭の少女たち](https://open.spotify.com/track/1YrU8ExqF04ygegVoOOoFU) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 3](https://open.spotify.com/album/0uCP0Uel2GPuxjaV3s67AB) | 5:10 | 2023-07-21 |  |
 | [丸の内サディスティック](https://open.spotify.com/track/6PDL4t1R5m3kYN2qIumKc1) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [Love & Groove Delivery](https://open.spotify.com/album/2ybDbV5RhfXim6vLWH2ymt) | 4:03 | 2023-07-28 |  |
@@ -803,6 +805,7 @@
 | [天使倶楽部](https://open.spotify.com/track/2xXYrKZlXm3pqYCLLlXFTI) | [是](https://open.spotify.com/artist/3QtuwUR04rBoKf5W4orppt), [夢ノ結唱 POPY](https://open.spotify.com/artist/2vjP6SAC2Urw3pl7s1aTOJ) | [天使倶楽部](https://open.spotify.com/album/3kANunXP417JsKjwwXvCIV) | 2:52 | 2024-10-06 |  |
 | [太陽とイーリス](https://open.spotify.com/track/43kkbhLbi8KmmCbC3fwuyd) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [SUNDOGS](https://open.spotify.com/album/7sEDZ39OypzfXPYbQStTMe) | 4:05 | 2023-07-28 |  |
 | [太陽と暮らしてきた](https://open.spotify.com/track/6m1IMazLwvpjeL24LUIw2g) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [祈りでは届かない距離](https://open.spotify.com/album/5rVIDVX0PcdDAkkSTZ4gor) | 3:56 | 2023-09-30 |  |
+| [如果我也能愛上這個世界那就好了](https://open.spotify.com/track/3BlLqDMNvSIvLvUuv2yGpT) | [Lionel Hsiao](https://open.spotify.com/artist/7Jva80kAaicgR3vZ69ojia) | [如果我也能愛上這個世界那就好了](https://open.spotify.com/album/3nyQSAuzDWCn74FFSe0hFn) | 4:10 | 2025-08-24 |  |
 | [宙でおやすみ](https://open.spotify.com/track/3suBTF60wmknRkISYx34Wp) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Yuka Nagase](https://open.spotify.com/artist/4eEVWfAuVUPgwMXWQiD4zX) | [宙でおやすみ](https://open.spotify.com/album/2M3mhpAbzgjgjh6hWNixca) | 2:45 | 2024-08-01 |  |
 | [寄り酔い](https://open.spotify.com/track/7Hj7PMdrx3bKse1hhL7qv4) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [青二才](https://open.spotify.com/album/2Tv54fqQpFKlykCpAECxI8) | 3:39 | 2025-05-09 |  |
 | [寄り酔い \- 羽生まゐご Remix](https://open.spotify.com/track/6chuWbcZQLlzDiNHyv77Nb) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [Maigo Hanyuu](https://open.spotify.com/artist/1IYW6az2BfL10WNlNlRcRc) | [寄り酔い \(羽生まゐご Remix\)](https://open.spotify.com/album/77ZCrLec5SYBQ0U3gPVHAK) | 3:29 | 2023-06-12 |  |

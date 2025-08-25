@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 30968,
+  "num_followers": 30978,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAD6FtW9M5iTK+NOpU3HiKS5",
+  "snapshot_id": "aKkEgAAAAAATa7hOoZy1Frv9wCDZR1MY",
   "tracks": [
     {
       "added_at": null,
@@ -871,38 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
-      },
-      "artists": [
-        {
-          "name": "The Highwaymen",
-          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 153493,
-      "name": "One Too Many Mornings",
-      "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boulder To Birmingham (Live)",
         "url": "https://open.spotify.com/album/01TfnbqEmjUZO7WlGGqWOr"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 241640,
       "name": "Boulder To Birmingham - Live",
       "url": "https://open.spotify.com/track/7BdOM9rzbOeyo7T1qZPMgQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/3FikwA24sO6znBB98WYUs5"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "One Too Many Mornings",
+      "url": "https://open.spotify.com/track/1zmpQ1aJBqpB35G8BDNgwt"
     },
     {
       "added_at": null,
@@ -1235,6 +1235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Natural Act",
         "url": "https://open.spotify.com/album/2IvMbmUbKiExapaqMn3EWc"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 249520,
       "name": "Loving You Was Easier",
       "url": "https://open.spotify.com/track/13cL4LLa5jGliVReET6GRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -1371,8 +1371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
       },
       "artists": [
         {
@@ -1380,9 +1380,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 182106,
-      "name": "When I Loved Her",
-      "url": "https://open.spotify.com/track/7BgZt5aRKMlKB3BnFdxvf7"
+      "duration_ms": 209066,
+      "name": "Who's to Bless and Who's to Blame",
+      "url": "https://open.spotify.com/track/3iHeBDBH9aObEBPZWL7HFN"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

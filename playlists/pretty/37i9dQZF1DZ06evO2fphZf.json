@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12345,
+  "num_followers": 12348,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAA3SdWOSYaXTpoOvbPOcPV9",
+  "snapshot_id": "aKkEgAAAAAAzQVhWSNlIgQlCUoFat04y",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "wings",
+        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "cloud 11",
+      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "close with desires (feat. thuy)",
         "url": "https://open.spotify.com/album/5O9Y71opTaQDJffFJAUDID"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 205750,
       "name": "close with desires (feat. thuy)",
       "url": "https://open.spotify.com/track/40mxgmFEtNKcgKRiiHmlHf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wings",
-        "url": "https://open.spotify.com/album/46jYkyZi8Ql9jfuJ2IQ8vF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "cloud 11",
-      "url": "https://open.spotify.com/track/0Hs4LMUEMw6xsJNAX9fgiz"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 166155,
+      "name": "dumb luck",
+      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 168000,
       "name": "x's & o's (feat. DCMBR)",
       "url": "https://open.spotify.com/track/7bhTH2uW2wSAl4xDEXFjCA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 166155,
-      "name": "dumb luck",
-      "url": "https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Waiting on You",
+        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167088,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/1QCQwiN7l0upZdEEPNzeqR"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 218754,
       "name": "Love Songs",
       "url": "https://open.spotify.com/track/3iteYn3YCU3hd4sOQA7aRY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waiting on You",
-        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167088,
-      "name": "Waiting on You",
-      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
     },
     {
       "added_at": null,

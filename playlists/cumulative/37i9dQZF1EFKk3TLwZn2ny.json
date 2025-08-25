@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Pain and Paradise",
+        "url": "https://open.spotify.com/album/6ksW47wezzWZiHcQbSYTAJ"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/4k3yrCOPB5wp2ne8R9MQoM"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194670,
+      "name": "Meet Me",
+      "url": "https://open.spotify.com/track/4uSBMtugk4a1CFPuXjUyQ4"
+    },
+    {
+      "album": {
         "name": "Meet Me",
         "url": "https://open.spotify.com/album/6ehpo5SkVrdRaNdiaTHhJY"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-25",
       "duration_ms": 194670,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/5Gz4NzVpyj2ijHbmZtRmfA"
@@ -748,6 +766,24 @@
       "duration_ms": 200746,
       "name": "My My My",
       "url": "https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii"
+    },
+    {
+      "album": {
+        "name": "Not There Yet",
+        "url": "https://open.spotify.com/album/7odsdzRoh6pWISrnS1kY9c"
+      },
+      "artists": [
+        {
+          "name": "LULU.",
+          "url": "https://open.spotify.com/artist/65hPbr4xlxQ3jLfAqKv0Ch"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213190,
+      "name": "Not There Yet",
+      "url": "https://open.spotify.com/track/5H3RnXcjdpMAXI9XqFmSmz"
     },
     {
       "album": {

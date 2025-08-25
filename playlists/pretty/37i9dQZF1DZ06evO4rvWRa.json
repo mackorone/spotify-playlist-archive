@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1641518,
+  "num_followers": 1641474,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAABnLJqvA0g8YT5aedSkHK/n",
+  "snapshot_id": "aKkEgAAAAABx3PWKat1qaLaNjFdpq0WU",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 175271,
       "name": "Hero",
       "url": "https://open.spotify.com/track/7rFuXulG4qi129VYAREBf2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": null,
@@ -931,22 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Walker: Rise of the Drones",
-        "url": "https://open.spotify.com/album/0PHq0BdCCbKN12Ps1JGzK8"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "World of Walker: Rise of the Drones",
-      "url": "https://open.spotify.com/track/1TKw1hYnvbe2i55er8Oc9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerverse Pt. I & II",
         "url": "https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9"
       },
@@ -963,6 +947,42 @@
       "duration_ms": 191098,
       "name": "Somebody Like U",
       "url": "https://open.spotify.com/track/5CkNcNcocnAWbshrLuCl2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Walker: Rise of the Drones",
+        "url": "https://open.spotify.com/album/0PHq0BdCCbKN12Ps1JGzK8"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "World of Walker: Rise of the Drones",
+      "url": "https://open.spotify.com/track/1TKw1hYnvbe2i55er8Oc9X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
     },
     {
       "added_at": null,
@@ -999,26 +1019,6 @@
       "duration_ms": 178013,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "IS\u00c1K",
-          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G"
     },
     {
       "added_at": null,

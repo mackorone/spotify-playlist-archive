@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2016. Cover: AURORA",
-  "num_followers": 113281,
+  "num_followers": 113336,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 224481,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 227366,
       "name": "Flame",
       "url": "https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Teens of Denial",
-        "url": "https://open.spotify.com/album/26DseQO366JfXwIP7dIgQj"
-      },
-      "artists": [
-        {
-          "name": "Car Seat Headrest",
-          "url": "https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "Drunk Drivers/Killer Whales",
-      "url": "https://open.spotify.com/track/2os0aK782bakCPmjow0SU0"
     }
   ],
   "unique_name": "Best of Indie 2016",

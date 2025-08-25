@@ -4,7 +4,7 @@
 
 > Sad songs 4 sad days.
 
-303 songs - 17 hr 17 min
+304 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2024-05-16 |  |
 | [cómo acaba](https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:44 | 2023-01-06 | 2024-05-17 |
 | [Cómo Decirle](https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Limonada](https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA) | 4:01 | 2021-12-06 | 2024-05-17 |
-| [CÓMO ESTÁS?](https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [CÓMO ESTÁS?](https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I) | 2:27 | 2025-03-28 |  |
+| [CÓMO ESTÁS?](https://open.spotify.com/track/3MiWPPBu5PQ6Oamd3KxrAr) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [CÓMO ESTÁS?](https://open.spotify.com/album/5cMvIB5lKlbQtBoKd13p2I) | 2:27 | 2025-03-28 | 2025-08-25 |
 | [Cómo te echo de menos](https://open.spotify.com/track/0NyKC0PAeUgx2aCRnTWtQX) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva](https://open.spotify.com/album/15ekeDURPa31t2v89AI8ef) | 3:59 | 2022-05-19 | 2024-05-17 |
 | [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 | 2021-12-06 | 2022-07-29 |
 | [d Bien a MaL](https://open.spotify.com/track/0iUtQ1lOf6eGpbNnBIG34A) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [d Bien a MaL](https://open.spotify.com/album/7Kuza1T3fYUXZ266uv2HbG) | 3:02 | 2022-03-16 | 2022-03-18 |
@@ -227,6 +227,7 @@
 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 | 2024-05-16 | 2025-06-10 |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2024-05-16 |  |
 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 | 2021-12-06 | 2023-01-07 |
+| [Saberte Querer](https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [IDGAF ERA](https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V) | 2:50 | 2025-08-22 |  |
 | [Saturno](https://open.spotify.com/track/2oKjjRzItVu8JZScrpzFTx) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Saturno](https://open.spotify.com/album/5pkBUqB9eV83AF7BmNGAs6) | 4:13 | 2021-12-06 | 2024-05-17 |
 | [Se Me Olvidó Olvidarte](https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ), [Lucero Mijares](https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW) | [Se Me Olvidó Olvidarte](https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW) | 3:54 | 2021-12-06 | 2024-05-17 |
 | [Se Supone](https://open.spotify.com/track/5Lhlma8CbXwj3ptne7H6DF) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Se Supone](https://open.spotify.com/album/3G0nsurU2QSdw4439JcbhT) | 4:06 | 2021-12-06 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,161 songs - 2 day 23 hr 16 min
+1,162 songs - 2 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1156,6 +1156,7 @@
 | [Y.B.P\. \(feat\. Bruiser Wolf\)](https://open.spotify.com/track/5BQHxZ7dOoyS2Vh9X02ows) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Bruiser Wolf](https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67) | [Quaranta](https://open.spotify.com/album/2aswMmRN4vXGalI39pDsMb) | 2:56 | 2024-01-22 |  |
 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 | 2024-06-17 |  |
 | [Yasmina](https://open.spotify.com/track/6tb3A0m5gtwNAeTkOMtmeR) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 3:45 | 2024-10-25 |  |
+| [Yasmina \- Session 1](https://open.spotify.com/track/3nms49xECe91KkKsixqFZN) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 4:00 | 2025-08-24 |  |
 | [Yikes](https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:08 | 2022-04-14 |  |
 | [Yoko Ono](https://open.spotify.com/track/05tlX1Wz6IjUBNOJ1EKUxF) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW), [Makana XO](https://open.spotify.com/artist/72Skr9uHuQfIT7ezeKuvt1) | [Blush](https://open.spotify.com/album/1aUFNUsjLeUwhJZjBZpoKa) | 2:59 | 2025-06-26 |  |
 | [You and Your Friends](https://open.spotify.com/track/1p65J6pUtctKgmftkWkMRI) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [You and Your Friends](https://open.spotify.com/album/3Vk0be2qEuqARxrC6U5ZV3) | 3:56 | 2022-06-29 |  |

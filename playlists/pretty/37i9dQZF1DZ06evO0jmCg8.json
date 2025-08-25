@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 78700,
+  "num_followers": 78712,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAACaz1IpOtnvEmp6E6gCFF3+",
+  "snapshot_id": "aKkEgAAAAAAE2z9MNeemH1PHLiFJBp66",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 225840,
-      "name": "A Million Suns",
-      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
+      "duration_ms": 288853,
+      "name": "Illuminate the Path",
+      "url": "https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 288853,
-      "name": "Illuminate the Path",
-      "url": "https://open.spotify.com/track/5Wo7Z56JrHk7noeiQ8EAb0"
+      "duration_ms": 225840,
+      "name": "A Million Suns",
+      "url": "https://open.spotify.com/track/0RXtkfxtmUFb7kcDTXQfYk"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Covered In Blood",
-        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
+        "name": "Wages of Sin",
+        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 285213,
-      "name": "Shout - cover version",
-      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
+      "duration_ms": 233000,
+      "name": "Dead Bury Their Dead",
+      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wages of Sin",
-        "url": "https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ"
+        "name": "Covered In Blood",
+        "url": "https://open.spotify.com/album/7LfAQgQQISJJRTfgcDxVQS"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Dead Bury Their Dead",
-      "url": "https://open.spotify.com/track/3DrLHrmq5E0wEJlPw5Q1yJ"
+      "duration_ms": 285213,
+      "name": "Shout - cover version",
+      "url": "https://open.spotify.com/track/4iXZ643ujlB8soiF34XTZG"
     },
     {
       "added_at": null,

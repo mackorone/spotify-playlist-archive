@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKezAAAAAAAsKwvJ80FxjJvk56GnHeks",
+  "snapshot_id": "aKkEgAAAAABEKnKVJVL1jDr4cmlvDzWg",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COLORS",
-        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 93786,
-      "name": "COLORS -CODE GEASS OPENING MIX-",
-      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 261546,
       "name": "Howling",
       "url": "https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 93786,
+      "name": "COLORS -CODE GEASS OPENING MIX-",
+      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Moon",
-        "url": "https://open.spotify.com/album/0tC9E3xjkn39oZRsKqPYQV"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 224066,
-      "name": "White Moon",
-      "url": "https://open.spotify.com/track/6MGJHSYSQRZzthnP7tsAs3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE BEST \u301cSingle Collection\u301c",
         "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 192000,
       "name": "\u8d08\u308b\u8a00\u8449 (single version)",
       "url": "https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Moon",
+        "url": "https://open.spotify.com/album/0tC9E3xjkn39oZRsKqPYQV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 224066,
+      "name": "White Moon",
+      "url": "https://open.spotify.com/track/6MGJHSYSQRZzthnP7tsAs3"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TRIBALYTHM",
-        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "PENDULUM",
-      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BLACK & WHITE",
         "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
       },
@@ -599,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "INNOSENSE Special Edition",
-        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
       },
       "artists": [
         {
@@ -608,9 +592,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 242373,
-      "name": "INNOSENSE",
-      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
     },
     {
       "added_at": null,
@@ -627,6 +611,22 @@
       "duration_ms": 214773,
       "name": "CALLING",
       "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "INNOSENSE Special Edition",
+        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "INNOSENSE",
+      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u70c8\u706b",
-        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "\u70c8\u706b",
-      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LOUDER",
         "url": "https://open.spotify.com/album/2OPyZxXVTaOUDfLPE3XLT9"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 269693,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/70M4Ld9pUnFHcTissTRfUF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u70c8\u706b",
+        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "\u70c8\u706b",
+      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOST",
-        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 243134,
-      "name": "LOST",
-      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Howling",
         "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 243640,
       "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
       "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 243134,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DICE (Complete Edition)",
-        "url": "https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q"
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 220173,
-      "name": "COLORS -New Mix-",
-      "url": "https://open.spotify.com/track/2yId85aVejyO6B22sjQSYj"
+      "duration_ms": 207720,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/7LXqkSIXTDs1D4GLA0GTHE"
     }
   ],
   "unique_name": "This Is FLOW",

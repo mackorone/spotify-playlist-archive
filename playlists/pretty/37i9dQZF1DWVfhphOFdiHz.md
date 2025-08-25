@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Bops and LGBTQIA+ artists only\. Cover: Big Freedia
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,510 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,516 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 99 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
 | 100 | [Mr\. Man \(feat\. Miya Folick\)](https://open.spotify.com/track/68O2VV2eloAmNFjI4fEaz0) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Mr\. Man \(feat\. Miya Folick\)](https://open.spotify.com/album/0tkJFpgUaHur4wKSJhJQWD) | 2:24 |
 
-Snapshot ID: `AAAAAEpxhWUdBW3IuF7vNbBeKBL0zopz`
+Snapshot ID: `AAAAAE+ueoto4r94TX4YzA7BMMvWh1Bj`

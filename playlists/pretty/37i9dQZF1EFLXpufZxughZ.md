@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076 likes - 125 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 125 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 43 | [Footprints](https://open.spotify.com/track/3FRwUvm669IOURF8TXqLum) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:13 |
 | 44 | [Poppin Bottles](https://open.spotify.com/track/2pwPtne9zCNTsyYZDLHxDf) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Mercy](https://open.spotify.com/album/6LGR2plk2Yk4A33CAktJN3) | 5:20 |
 | 45 | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Up Now \(feat\. G\-Eazy and Rich The Kid\)](https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI) | 3:18 |
-| 46 | [• TEMPTED](https://open.spotify.com/track/7pQi9lwATNWDfNwtyMXUtm) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 3:42 |
-| 47 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
+| 46 | [Runnin'](https://open.spotify.com/track/0lgVoUJ2uVH9dwCFPJ3VI6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt) | [Lace Up \(Deluxe\)](https://open.spotify.com/album/5NzdnPboXcqvuvyEH1wSEJ) | 2:47 |
+| 47 | [• TEMPTED](https://open.spotify.com/track/7pQi9lwATNWDfNwtyMXUtm) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 3:42 |
 | 48 | [Shy Ronnie 2: Ronnie & Clyde](https://open.spotify.com/track/1JT55KoXuhtYy5BeKNAeC0) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:26 |
 | 49 | [deep end](https://open.spotify.com/track/3LYSQacvVpDkPkxzuWEBUc) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [so sad so sexy](https://open.spotify.com/album/28AjCPTvrM4gQIiwo0CEOE) | 3:05 |
 | 50 | [Can’t Decide](https://open.spotify.com/track/7xEVy3xCkmRSbYavgefnsI) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:40 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 124 | [No More \- Instrumental](https://open.spotify.com/track/3yE6B9IbyI1zDQmEvGvM0K) | [New Boyz](https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs) | [Skinny Jeanz and a Mic \(Instrumental\)](https://open.spotify.com/album/1VbN8kbddayHzCw4oYTw0K) | 3:55 |
 | 125 | [Hard to Breathe](https://open.spotify.com/track/2h4Tn7GeqjoaecdelWzQg3) | [Nathan Hammah](https://open.spotify.com/artist/0VO2sPJm8C90oOPHjrEOtg), [Hooks](https://open.spotify.com/artist/2kz5a2KrH2NBXBv1TgEmz6), [Monique](https://open.spotify.com/artist/11IltqNFT9YGgvsGmE1TOr) | [Hard to Breathe](https://open.spotify.com/album/3m7SNrSb4xYrO8t4pF6zq8) | 3:23 |
 
-Snapshot ID: `Ab6TKgAAAAASUWX3NQ2Hxx15bGMG+K6I`
+Snapshot ID: `Ab6YygAAAABB0c0AMK8A5HuqSA2IlvWD`

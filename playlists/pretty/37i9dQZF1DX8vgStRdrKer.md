@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,655 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,688 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 37 | [Olodumare](https://open.spotify.com/track/5WEuQzrRJIY319WGxTQzap) | [THETIMO](https://open.spotify.com/artist/4ocXP9f57pHcTw7XdvB1VK) | [Olodumare](https://open.spotify.com/album/3kv2UzzY6XJo3L4DyXC1m8) | 5:21 |
 | 38 | [Jesus Reigns \(Remix\) \(feat\. Khaya Mthethwa\)](https://open.spotify.com/track/2ghE8KoNrcqUUTBERLTdQP) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Adoration](https://open.spotify.com/album/3YK4Pkalw9PrD92s6Kmjdk) | 6:33 |
 | 39 | [I Pray](https://open.spotify.com/track/18sXWlWwcfdxDDxgZq3sUj) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa) | [I Pray](https://open.spotify.com/album/0JhI4lsVwhpUFdpiwjdY3m) | 3:41 |
-| 40 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 |
-| 41 | [Everyday](https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Everyday](https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE) | 3:31 |
+| 40 | [Everyday](https://open.spotify.com/track/2IyLPEJDhUiZA4rq9JS4MT) | [Dr Roy](https://open.spotify.com/artist/3qbsAfTm5D4X18LtG11RdL), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Everyday](https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE) | 3:31 |
+| 41 | [IDINMA \(Mercy Prevails\) \- Live](https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [IDINMA \(Mercy Prevails\) \[Live\]](https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA) | 11:55 |
 | 42 | [Jesus Revealed \(No Eye Has Seen\)](https://open.spotify.com/track/4mZfvZBI8J9tyf58elL9Bc) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Jesus Revealed \(No Eye Has Seen\)](https://open.spotify.com/album/3IIA8smPWhZuEzG52CxVnE) | 9:20 |
 | 43 | [Hallelujah](https://open.spotify.com/track/5edBgYe6nAPm24nNmitptV) | [Tamará](https://open.spotify.com/artist/5yWup2QHnXNBHR418cQl0m) | [Hallelujah](https://open.spotify.com/album/3yOxLm70FSd2aCA9MtO3NR) | 4:16 |
 | 44 | [Pentecost](https://open.spotify.com/track/43OP3itAcQyyBOQO7TtROL) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Pentecost](https://open.spotify.com/album/5S4SZSu82ZBbdb4eyfOSAx) | 11:23 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 57 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 |
 | 58 | [Radical for Jesus](https://open.spotify.com/track/7FsjqcvezLOeKRza3YLEfL) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Radical for Jesus](https://open.spotify.com/album/2xa6oSpyhIzuxQOxTkNjBK) | 4:27 |
 | 59 | [Sovereign God](https://open.spotify.com/track/1AcvZk7j2wZC5dFaT6RwTM) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Tehillah](https://open.spotify.com/album/4C3nUIRgCsTUu56ukpyuOO) | 8:02 |
-| 60 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 |
-| 61 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 |
-| 62 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
-| 63 | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/track/5yCCJK8o5g7vAPBGVNlJ2V) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/album/4OT93FOVowh9DWBoXdb6i5) | 5:59 |
+| 60 | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/track/5yCCJK8o5g7vAPBGVNlJ2V) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [I Fear No Evil \(Grace Idowu Rendition\)](https://open.spotify.com/album/4OT93FOVowh9DWBoXdb6i5) | 5:59 |
+| 61 | [Rise Again](https://open.spotify.com/track/4QslrJv6HTxAvbVuGbGAzD) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Rise Again](https://open.spotify.com/album/4Jz256xiPaijzGdNvMS7V8) | 2:33 |
+| 62 | [You Are The Reason](https://open.spotify.com/track/3D2Q41aYlsxIeVVNZelWkd) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [You Are The Reason](https://open.spotify.com/album/0J0hZeitQaKoLa5RPW8ob2) | 3:50 |
+| 63 | [Worship Chant](https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Chant](https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI) | 4:32 |
 | 64 | [I Praise You](https://open.spotify.com/track/3nS3Ftk7rYR8YdWMOscr6E) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [I Praise You](https://open.spotify.com/album/7GhfXdzDRQt4jgAlu6RAYI) | 8:24 |
 | 65 | [Adonai](https://open.spotify.com/track/3TEHgvwiuZ2NsGfKohjOlF) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Adonai](https://open.spotify.com/album/124CGwgNr7JQ2ZRerZ8tba) | 2:07 |
 | 66 | [Blessed](https://open.spotify.com/track/7fgogLsPWxBlvCK9SBcMKn) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd), [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Blessed](https://open.spotify.com/album/4lSKv0ZqMxMwRyvSGWWT9A) | 2:48 |

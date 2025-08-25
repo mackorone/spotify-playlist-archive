@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-1,647 songs - 3 day 15 hr 5 min
+1,649 songs - 3 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Estrellas de Rock](https://open.spotify.com/track/0f99yjjcNpd91Uq9u29XKz) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Ahora es Religión](https://open.spotify.com/album/202mSKQoBuHqKMtm2X1qDo) | 2:35 | 2024-08-06 | 2024-08-11 |
 | [ETA \- RMX](https://open.spotify.com/track/3YrTrs2hJbLklaBdhr4TrH) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Private Suite \(Vol\. 2\)](https://open.spotify.com/album/07Rj5RQ0ZRrq11wiajvRv9) | 7:42 | 2024-12-24 | 2025-03-05 |
 | [eternal sunshine](https://open.spotify.com/track/3RwWW7KeVhHGayYJgUL5eZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:30 | 2024-03-26 | 2024-04-03 |
+| [Eu Tô Fazendo uma Mágica](https://open.spotify.com/track/4bK0eX2k4XvwLTNm0xoinz) | [Gordinho Bolado](https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [Bolado na Base](https://open.spotify.com/artist/2RL3LwofYTX5hz0xZjnVXP) | [Eu Tô Fazendo uma Mágica](https://open.spotify.com/album/5lOW4YHylAtV72h5dpmjdu) | 2:31 | 2025-08-24 |  |
 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-21 | 2024-05-27 |
 | [Europapa](https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Europapa](https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS) | 2:40 | 2024-05-17 | 2024-05-29 |
 | [Everything is romantic](https://open.spotify.com/track/5sMEEjviCkH6Rp5X2ZvIIc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2024-06-25 | 2024-07-03 |
@@ -705,7 +706,7 @@
 | [Johnny Glamour](https://open.spotify.com/track/4YZhsgOBQtKvxZWjVuJD9H) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Las Ketchup](https://open.spotify.com/artist/1e8GEl48ktvfDpruMKB6Oe) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 2:21 | 2025-06-10 | 2025-06-26 |
 | [JOYRIDE](https://open.spotify.com/track/7HUhMOrlvwBPfBq3c0ajh0) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [JOYRIDE](https://open.spotify.com/album/145ynqxpTLjXrU5qvER4ea) | 2:30 | 2024-07-23 | 2024-08-01 |
 | [Jugo de Tomate](https://open.spotify.com/track/0agzpJR3jRbfLKhG5nWxx3) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 2:46 | 2025-05-08 | 2025-05-18 |
-| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-29 |  |
+| [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-29 | 2025-08-25 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-30 | 2024-08-21 |
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-09-10 | 2024-11-27 |
 | [Juntala Seco \- Municiones](https://open.spotify.com/track/1tD17M0QjBybDHl9NWSxVN) | [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Juntala Seco \- Municiones](https://open.spotify.com/album/76GCZDTPOw3wGc732QnnG4) | 2:21 | 2024-03-29 | 2024-04-10 |
@@ -1273,7 +1274,8 @@
 | [September](https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September \(sped up + slowed\)](https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI) | 3:36 | 2024-09-23 | 2024-09-30 |
 | [Serenidad](https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Serenidad](https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV) | 3:28 | 2024-10-09 | 2024-10-23 |
 | [Session Guaratech \#1 Kid Wazi](https://open.spotify.com/track/5tpAZ8fZGlFTFBZ4cUuzGB) | [Martin Moreno](https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA), [kid wazi](https://open.spotify.com/artist/3IDSgsRz0ONWsEd56qsaK6) | [Session Guaratech \#1 Kid Wazi](https://open.spotify.com/album/2q4lw0CQ0Na9MWPCPjaUSw) | 2:08 | 2025-08-16 |  |
-| [SETEADORA](https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb) | [SETEADORA](https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq) | 2:17 | 2025-08-16 |  |
+| [SETEADORA](https://open.spotify.com/track/33YJrpYKyng8yWSdsrRF7L) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb) | [SETEADORA](https://open.spotify.com/album/2hggjr2zzxII9TYGL5sS60) | 2:17 | 2025-08-24 |  |
+| [SETEADORA](https://open.spotify.com/track/7DprNQSiwC4jBV7bwY761J) | [LAJA](https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb) | [SETEADORA](https://open.spotify.com/album/52NbDHSGAaS67ows7hTgaq) | 2:17 | 2025-08-16 | 2025-08-25 |
 | [seu carinho](https://open.spotify.com/track/7ilPm2UECerc207US1aEst) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [le tengo miedo a las alturas](https://open.spotify.com/album/2TU2lOLZzS9XstxnIiZBmz) | 2:38 | 2025-08-12 | 2025-08-16 |
 | [Sexo Seguro](https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 3:38 | 2025-04-13 | 2025-05-08 |
 | [Sexo Seguro](https://open.spotify.com/track/6UulhuFnVh60zaE2q4tavZ) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Reggaeton Viejo](https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An) | 3:40 | 2025-05-07 | 2025-05-09 |

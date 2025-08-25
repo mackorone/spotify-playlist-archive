@@ -55247,6 +55247,24 @@
     },
     {
       "album": {
+        "name": "Smack It",
+        "url": "https://open.spotify.com/album/3vJMYGdkdMm6mwklUjhw58"
+      },
+      "artists": [
+        {
+          "name": "Starya",
+          "url": "https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176641,
+      "name": "Smack It",
+      "url": "https://open.spotify.com/track/0s0Jo9cGwzLhGuxTLTVU2e"
+    },
+    {
+      "album": {
         "name": "SMACK TALK",
         "url": "https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc"
       },

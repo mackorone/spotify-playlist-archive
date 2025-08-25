@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 
 > Woe, what a playlist! Listen to music from and inspired by Wednesday, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,229 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,694 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyvJ0pcthaD.md) - [plain]
 | 21 | [Ain't That A Kick In The Head](https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:27 |
 | 22 | [Dream Weaver](https://open.spotify.com/track/74DrA5fFoGSy4xgkZarZtP) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Dream Weaver](https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp) | 4:16 |
 | 23 | [All By Myself](https://open.spotify.com/track/0AQqrtK1pULuwZUXhwaaDz) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/3Faeb8KPVk4ntMz0GBGlJO) | 7:10 |
-| 24 | [Zombie \- from "Wednesday: Season 2"](https://open.spotify.com/track/066b8lHH03cSlTFES2jMre) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Christian Almiron](https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 2:24 |
+| 24 | [Zombie \- \(Soundtrack Version\) from "Wednesday: Season 2"](https://open.spotify.com/track/066b8lHH03cSlTFES2jMre) | [Wednesday Addams](https://open.spotify.com/artist/0h0S5V5afI4lTHFvRn6P03), [Nevermore Academy Orchestra](https://open.spotify.com/artist/1em4ruyJ7B0SOpI9b9MbpU), [Christian Almiron](https://open.spotify.com/artist/4NlXWXY8H25aVWM7oIfr6d) | [Wednesday: Season 2, Vol\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78ToM82qjizHnfqLWHozBJ) | 2:24 |
 | 25 | [Scene D'Amour](https://open.spotify.com/track/2Yr3ZqmT6Au2SrUZyLEw8i) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Vertigo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1TbuwdZdsSuvfrL6YKozgU) | 5:08 |
 | 26 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 |
 | 27 | [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 |

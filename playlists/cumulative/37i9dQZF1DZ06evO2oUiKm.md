@@ -4,12 +4,13 @@
 
 > This is Cynthia Erivo\. The essential tracks, all in one playlist.
 
-74 songs - 4 hr 35 min
+75 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Window](https://open.spotify.com/track/188okkDkaxhuwQyNOiqr07) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:40 | 2024-12-14 |  |
 | [Alive](https://open.spotify.com/track/3nKmSupO0qbI35eDTA5zjI) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:32 | 2024-12-14 |  |
+| [All We Got to Say](https://open.spotify.com/track/0tDVQfAbyFyF7RUFNxIAgl) | [Isaiah Johnson](https://open.spotify.com/artist/7MYNM3h4lEjuKcOqiqNVhB), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Rema Webb](https://open.spotify.com/artist/4hz2WQEgpITP9Vc5V5IZE0), [Bre Jackson](https://open.spotify.com/artist/6QMQjnb2HOtEVeAm56eyTk), [Carrie Compere](https://open.spotify.com/artist/55XOsJlznC8Fmi5hr1T4xf) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 0:56 | 2025-08-25 |  |
 | [Alright](https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Freedom \- EP](https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J) | 3:49 | 2024-12-14 |  |
 | [Always / Goodnight](https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 7:43 | 2024-12-14 | 2025-06-10 |
 | [Anything Worth Holding On To](https://open.spotify.com/track/3SOIpvBhXfCeqSQti8mlj8) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 4:44 | 2024-12-14 |  |
@@ -51,7 +52,7 @@
 | [Push and Pull](https://open.spotify.com/track/1R00ByLf1CY6EagkfPylxp) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:20 | 2025-06-09 | 2025-07-30 |
 | [Replay](https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Replay](https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc) | 3:40 | 2025-03-02 |  |
 | [Save Me From You](https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:35 | 2025-06-08 |  |
-| [She Said](https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 2:43 | 2025-06-08 | 2025-08-10 |
+| [She Said](https://open.spotify.com/track/2uJ8sLJW0otjZ33RjMfwuP) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 2:43 | 2025-06-08 |  |
 | [Si Pudiera Leer Tus Sueños](https://open.spotify.com/track/1ZPFEGzfCOQP8qaEhRVNKm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Singing You Home \- Children's Songs for Family Reunification](https://open.spotify.com/album/4J65ICYdG58WI6HMlPVbyv) | 2:37 | 2024-12-14 |  |
 | [Somebody Gonna Love You](https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 1:17 | 2024-12-14 |  |
 | [Something Bad](https://open.spotify.com/track/5E2ASK5znLzoizBy4njhM4) | [Peter Dinklage](https://open.spotify.com/artist/0pHTIdyC4DAsoMhpSufQaz), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 1:48 | 2024-12-14 | 2024-12-22 |
@@ -79,7 +80,7 @@
 | [Why \- Interlude](https://open.spotify.com/track/6ZKb3UNC7IvVCtYzT3vS3q) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 0:41 | 2025-06-08 |  |
 | [Worst Of Me](https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 3:27 | 2025-08-03 |  |
 | [Worst Of Me](https://open.spotify.com/track/7yfQOi8LvjmD3VzemRuVVF) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Worst Of Me](https://open.spotify.com/album/4W9y8UUM7suAX2a8eYIWsb) | 3:27 | 2025-04-13 | 2025-08-02 |
-| [You First](https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:29 | 2025-06-08 |  |
+| [You First](https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:29 | 2025-06-08 | 2025-08-25 |
 | [You're Not Alone](https://open.spotify.com/track/4ZbjHd0YJJCjT5Koi5Ubwq) | [Oliver Tompsett](https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ), [Scott Alan](https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy) | [Cynthia Erivo and Oliver Tompsett Sing Scott Alan](https://open.spotify.com/album/7kdMcZRveWqWsQARQDRQAt) | 3:36 | 2024-12-14 | 2025-04-27 |
 | [You’re Not Here](https://open.spotify.com/track/4kxDgHQrOP9EraTWTh3lwk) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 5:14 | 2024-12-14 |  |
 

@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-341 songs - 21 hr 42 min
+342 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Sun Goin' Down](https://open.spotify.com/track/72HlJqRtpQDwOt3H15UHyE) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Worried Blues](https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz) | 5:18 | 2024-08-25 | 2024-09-29 |
 | [Sun is Going Down](https://open.spotify.com/track/7GNYIh5d0K6nGnO0KXisLu) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:48 | 2023-03-26 | 2025-07-16 |
 | [Sun Is Going Down](https://open.spotify.com/track/7b1dQA6NAMQBuowo40iTHw) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:20 | 2024-10-29 | 2024-12-23 |
-| [Swingin' Blues](https://open.spotify.com/track/4ODW8sWXGEHR7YaGFXC8CH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Some People Play Guitar..\. Like A Lotta People Don't](https://open.spotify.com/album/3lPkCcqFjhYxXJQmAtBdCh) | 4:13 | 2022-11-15 |  |
+| [Swingin' Blues](https://open.spotify.com/track/4ODW8sWXGEHR7YaGFXC8CH) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Some People Play Guitar..\. Like A Lotta People Don't](https://open.spotify.com/album/3lPkCcqFjhYxXJQmAtBdCh) | 4:13 | 2022-11-15 | 2025-08-25 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/3gHermfYjYNnjhUTyMgtpV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/5isJaTPlAr6VIv9z24DYF3) | 1:38 | 2022-11-04 | 2022-11-09 |
 | [Teaching The Audience The Next Song \- Live in Seattle, WA](https://open.spotify.com/track/75BCBXpg4Rfn3gNbl44oS1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Let Us Get Together](https://open.spotify.com/album/4OPoyVzXoRk0B4d8J3dYPu) | 1:38 | 2024-01-03 | 2024-07-06 |
 | [The Angel's Message To Me](https://open.spotify.com/track/4ERDmgImi44amVKVAfKg7J) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:09 | 2022-05-25 |  |
@@ -316,6 +316,7 @@
 | [Two\-Step](https://open.spotify.com/track/56WKvciu3HfYsOAeV4QWfK) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 3:41 | 2023-01-31 | 2025-04-02 |
 | [United States March \(Soldier's Drill\) \- Instrumental](https://open.spotify.com/track/5VnTgyxelyGYKapBOhfCr7) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 6:29 | 2022-05-26 | 2022-10-13 |
 | [Untitled](https://open.spotify.com/track/3DynlpWV4bRvn5uw4DYUp1) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 0:43 | 2022-11-15 | 2025-07-05 |
+| [Virgin Mary](https://open.spotify.com/track/4ck6n7L7nLMenLdgeZZxiV) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 4:03 | 2025-08-25 |  |
 | [Virgin Mary](https://open.spotify.com/track/6fEuRUSi77hQJLS8LUrq51) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 4:03 | 2022-10-12 | 2023-03-09 |
 | [Walkin' Dog Blues](https://open.spotify.com/track/7lbpKUAARDWewV06pN8mOb) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 5:10 | 2022-05-27 | 2022-12-24 |
 | [Walkin' the Dog](https://open.spotify.com/track/0MDgr4uOTLgpZrn5qF9gSx) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [See What the Lord Has Done for Me](https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x) | 2:31 | 2023-05-29 | 2023-06-01 |

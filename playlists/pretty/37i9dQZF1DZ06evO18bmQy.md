@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,011 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,009 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 21 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
 | 22 | [FOME](https://open.spotify.com/track/0jpNOSKOUgnYCbRUQxW6Re) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 3:42 |
 | 23 | [em quase tudo](https://open.spotify.com/track/26EFuKUDqQKLc4BStNDnHh) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Filiph Neo](https://open.spotify.com/artist/5CrfWOM93nq6YMF6lvWuLv) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:17 |
-| 24 | [Castelo de Areia](https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 3:42 |
-| 25 | [CANÇÃO PRO MEU FILHO](https://open.spotify.com/track/7Duqg6O18CTST0bJX3RQWQ) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:32 |
+| 24 | [CANÇÃO PRO MEU FILHO](https://open.spotify.com/track/7Duqg6O18CTST0bJX3RQWQ) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:32 |
+| 25 | [Castelo de Areia](https://open.spotify.com/track/2vEjbBAGrX9Ygj5DzcWTCr) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/0TfnU1Dup2Gu3KU1hnkQ3A) | 3:42 |
 | 26 | [QQ CÊ QUER AQUI ?](https://open.spotify.com/track/4tOb014LgTxMvkm6cHXkXK) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B) | [Quanto Mais Eu Como, Mais Fome Eu Sinto !](https://open.spotify.com/album/5t78IIG7tiWQ9RUYApAJFG) | 2:53 |
 | 27 | [HAT TRICK](https://open.spotify.com/track/44OcWyg9TzCFc4uirVKiBe) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM) | 4:18 |
 | 28 | [A Pior Música do Ano](https://open.spotify.com/track/4jT1MGqV0EHR9AGis0L4CG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [A Pior Música do Ano](https://open.spotify.com/album/2Ff61nFXs7yOOhHMHJFEVV) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [Santa Ceia](https://open.spotify.com/track/1NFfZNNGAl0pbjiK9NuHsW) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k), [Yodabren](https://open.spotify.com/artist/2m8hZOT5QUrECPyIHd1ZrQ) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 4:39 |
 | 50 | [até sua alma](https://open.spotify.com/track/7CW1spLNtlpsLXpxpZu78C) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 5:00 |
 
-Snapshot ID: `aKezAAAAAACZ0jBOFo39iwDxro3fi2+A`
+Snapshot ID: `aKkEgAAAAABJM+tvRSU4/cD2cOln9uXV`

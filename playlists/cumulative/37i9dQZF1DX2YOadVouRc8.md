@@ -4,7 +4,7 @@
 
 > afrobeats: best served chill
 
-664 songs - 1 day 8 hr 12 min
+665 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [PAMI \(feat\. Wizkid, Adekunle Gold & Omah Lay\)](https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q) | 3:33 | 2022-06-09 | 2023-09-29 |
 | [Paper](https://open.spotify.com/track/5iDL1aQUFK6FKZwe6DZGgB) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Paper](https://open.spotify.com/album/6BYMwiHM9xRKLt2ouagWvr) | 2:51 | 2023-11-03 | 2023-11-10 |
 | [Patient](https://open.spotify.com/track/7LxVI3obU50YFurUYGp3ih) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Patient](https://open.spotify.com/album/2d1a8MNe12RsPe3rhZpGvb) | 2:59 | 2022-06-09 | 2022-10-01 |
+| [PAY ME \(feat\. Stormzy and Zlatan\)](https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [PAY ME](https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5) | 3:30 | 2025-08-22 |  |
 | [Peace of Mind](https://open.spotify.com/track/0sDY8QicmHzSA209oyINBy) | [Phizbarz](https://open.spotify.com/artist/07PoOuz1igSIxz9IlHMTX9), [J\. Brown](https://open.spotify.com/artist/2EUGkQxJXfpkTMTZ3xQplb) | [Peace of Mind](https://open.spotify.com/album/03vkzwvqbc8JQFoURzmqRA) | 2:19 | 2023-03-03 | 2023-03-15 |
 | [Peace Of Mind](https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Peace Of Mind](https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP) | 3:28 | 2022-06-09 | 2024-02-09 |
 | [Peace Of Mind](https://open.spotify.com/track/7MtCDjLbhZH0gHGN9N5nDb) | [Txby](https://open.spotify.com/artist/0gHlO5VwVKWZ1jG3QMSiRc) | [Peace Of Mind](https://open.spotify.com/album/3ZTeNM3gG8l7HmshN53KXy) | 2:56 | 2023-01-27 | 2023-03-04 |
@@ -470,7 +471,7 @@
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 | 2023-04-15 |
 | [Reckless](https://open.spotify.com/track/3QUVHCwlFqJoSrXHW2fxnC) | [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [Reckless](https://open.spotify.com/album/5Co4noDLhf4orLDekiGioX) | 2:56 | 2022-06-09 | 2023-12-15 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-12-02 |
-| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 |  |
+| [Reflection Station](https://open.spotify.com/track/2FVeGN6UivfGO0NgkQJoVU) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Reflection Station](https://open.spotify.com/album/1oMi1a907xnUtyMm7RxmSk) | 2:45 | 2025-04-04 | 2025-08-25 |
 | [Rehab](https://open.spotify.com/track/5pBNVube1fnDWddcpbTj2v) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rehab](https://open.spotify.com/album/1uLzGmzkrwjdbtw76STH6B) | 2:53 | 2025-06-20 | 2025-07-20 |
 | [RELOAD](https://open.spotify.com/track/2HFLoomeTmyQK94ud7XHIb) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RELOAD X NO CAP](https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv) | 2:27 | 2023-05-19 | 2023-05-27 |
 | [Repercussions](https://open.spotify.com/track/69kEVA5svAeoREFoNVeumH) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Repercussions](https://open.spotify.com/album/2Hp6RUBiRKNzXUy6jZfFlu) | 3:00 | 2023-08-03 | 2023-09-29 |
