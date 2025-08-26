@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Jervis Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,855 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,972 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 74 | [helene](https://open.spotify.com/track/1FuCyCo2fSlg7rH3aWtrdE) | [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN) | [helene](https://open.spotify.com/album/74aOAsFh3S4a3oH2xFvpnN) | 3:02 |
 | 75 | [Window](https://open.spotify.com/track/6uaxr5V1uqwMiqXjqvvpm1) | [Liturgical Folk](https://open.spotify.com/artist/5OhGNb4thJQ6YlKt8So8B9) | [Fought & Fallen](https://open.spotify.com/album/0Jp6bLkVkFiJtYdmCQemAw) | 5:36 |
 
-Snapshot ID: `AAAAAPK5hLJGDOnEw+7y2I1KrWKM7hsf`
+Snapshot ID: `AAAAAGgFUlcWs3HsmWtJEDPuQdYN+4kn`

@@ -4,7 +4,7 @@
 
 > Enjoy the best of acoustic, easy listening pop, and singer\-songwriter music for work, study or relaxing with a cup of coffee or tea\. Warm melodies to create the perfect mood for your lovely day\. Best coffee lounge background music 2025\. Koffie \| Koffiehuis \| Musique de café \| música ambiente de café
 
-283 songs - 15 hr 42 min
+284 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 | 2025-07-18 | 2025-08-23 |
 | [Nostalgia](https://open.spotify.com/track/2efi0WZFFNF41nmC2DMlkr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 | 2025-07-18 |  |
 | [not my job anymore](https://open.spotify.com/track/51RvOW8yfIQriPwXWlQPZW) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:08 | 2025-07-18 |  |
+| [Not the One](https://open.spotify.com/track/4MLmchSA5LdynGpnWPuTuN) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Not the One](https://open.spotify.com/album/1EcFLIT8Qu1ElLGFM1VHSz) | 3:00 | 2025-08-25 |  |
 | [Not Us Anymore](https://open.spotify.com/track/4413S20MlTBkUkRvmxKkDq) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [The Panic Years](https://open.spotify.com/album/0M3xqVe90FoHmnvTOrn02W) | 3:16 | 2025-07-18 |  |
 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 | 2025-07-18 |  |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2025-07-18 |  |

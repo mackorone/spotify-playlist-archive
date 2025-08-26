@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIWmirmzMYQiV>Fracta Aurea</a>, <a href=spotify:playlist:37i9dQZF1EIX7AzDG44w4y>Kyle Hume</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZuxNm0o6kU8>Beny Jr</a>, <a href=spotify:playlist:37i9dQZF1EIUBWv23W5bJ1>Lorien Testard</a>, <a href=spotify:playlist:37i9dQZF1EIUpaKzSbGp7E>Quebonafide</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -840,7 +840,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 164500,
       "name": "Arcticano",
       "url": "https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR"
@@ -3149,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Anti Social Cool Kid",
+        "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156694,
+      "name": "Dime si t\u00fa me quieres ver? - Part 2",
+      "url": "https://open.spotify.com/track/5Uz5WvNiUyAsAr0grkasfE"
+    },
+    {
+      "album": {
         "name": "Convergence",
         "url": "https://open.spotify.com/album/6i3wEWPHYHA9LcJpEZ8gc3"
       },
@@ -4917,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Clair Obscur: Expedition 33 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc"
+      },
+      "artists": [
+        {
+          "name": "Lorien Testard",
+          "url": "https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Gustave",
+      "url": "https://open.spotify.com/track/0orrgD76lIubUjB1fg6o5I"
+    },
+    {
+      "album": {
         "name": "G\u00c5",
         "url": "https://open.spotify.com/album/5Njrlb7mYyn3pQY5fVbwxV"
       },
@@ -5026,7 +5062,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 133365,
       "name": "Happy",
       "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
@@ -6426,7 +6462,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 320400,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
@@ -9298,6 +9334,36 @@
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/3vQ4T78TTMOjQXGfXVKQJo"
+    },
+    {
+      "album": {
+        "name": "Refren troch\u0119 jak Lana Del Rey",
+        "url": "https://open.spotify.com/album/6ZOivoC0hhmnauIIsyJ9FY"
+      },
+      "artists": [
+        {
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Ka-Meal",
+          "url": "https://open.spotify.com/artist/7htKxTVi444ObFAOU0ahS9"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        },
+        {
+          "name": "SecretiveSuicide",
+          "url": "https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289742,
+      "name": "Refren troch\u0119 jak Lana Del Rey",
+      "url": "https://open.spotify.com/track/0bJPQcJGw4G8ffS3VIjHWI"
     },
     {
       "album": {

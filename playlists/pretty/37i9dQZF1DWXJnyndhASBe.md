@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Kaz Bałagane, Quebonafide
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,287 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,339 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [TO NIE MA ZNACZENIA](https://open.spotify.com/track/5Z1HsKTp6rmCOYu54nfKji) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Oki](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [TRAP OR DIE](https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS) | 2:56 |
 | 50 | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb) | [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3), [Zippy Ogar](https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU), [Shelast](https://open.spotify.com/artist/7K7hYrJz4X6lkVPp8kWX7o), [matiorzel](https://open.spotify.com/artist/7k77M3ebwl8FbsAWbquOMN), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [W co ja się wjebałem \- Nowe Rozdanie \| S1](https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8) | 3:06 |
 
-Snapshot ID: `AAAAAImGArMnEGgLcN2ZKSTi5zjk/GS9`
+Snapshot ID: `AAAAABuuTTQgi121y1esqSaVlflD4KUX`

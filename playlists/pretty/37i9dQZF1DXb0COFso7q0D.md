@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The playlist sin fronteras elevando a la Música Mexicana\. Cover: Armenta, Tito Double P
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,348,887 likes - 63 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,348,351 likes - 63 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

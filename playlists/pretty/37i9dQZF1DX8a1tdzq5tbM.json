@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1723303,
+  "num_followers": 1723548,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1011,30 +1011,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Bunkka",
-        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Toys Are Nuts Remixes",
         "url": "https://open.spotify.com/album/5V2OID9LYLcd84BGiCYHhx"
       },
@@ -1059,6 +1035,30 @@
       "duration_ms": 306000,
       "name": "Toys Are Nuts - Hardwell & Rehab Remix",
       "url": "https://open.spotify.com/track/7fvkfIQ4AsdNxDd45yR02F"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Bunkka",
+        "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 228493,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/6A4Kuy7JL0Znab3Skgloiv"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
+      },
+      "artists": [
+        {
+          "name": "Kim Leoni",
+          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
+        }
+      ],
+      "duration_ms": 169893,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Bunkka",
         "url": "https://open.spotify.com/album/1BQDmCJj6OB3liNY2pU4j3"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 253933,
       "name": "Ready Steady Go - Extended Mix",
       "url": "https://open.spotify.com/track/595nqFsvxhQ6CO2YG65W2D"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/5EsmdhzhjPlDZDtEH2FFey"
-      },
-      "artists": [
-        {
-          "name": "Kim Leoni",
-          "url": "https://open.spotify.com/artist/5ngBlJ3qFfmBqLm7a9aK8b"
-        }
-      ],
-      "duration_ms": 169893,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7jI6ZgxuIsMniEf31TaeD9"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Top 100 Greatest Dance Hits",
+        "url": "https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 238759,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Top 100 Greatest Dance Hits",
-        "url": "https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 238759,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Cry for You",
+        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
+      },
+      "artists": [
+        {
+          "name": "September",
+          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Cry for You",
+      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Western Dream",
         "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 401360,
       "name": "World, Hold On",
       "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Cry for You",
-        "url": "https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD"
-      },
-      "artists": [
-        {
-          "name": "September",
-          "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Cry for You",
-      "url": "https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Heartbroken",
         "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 178613,
       "name": "Heartbroken - Edit",
       "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3SvVvqBTl3M5AftNbcSLdn"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/2DBZoeYzOGURGY3nj8XpC7"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Orbital 2",
         "url": "https://open.spotify.com/album/1T7efw93w96udljrPyL44G"
       },
@@ -1731,6 +1747,22 @@
       "duration_ms": 567106,
       "name": "Halcyon and On and On",
       "url": "https://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Back 2 House",
+        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
+      },
+      "artists": [
+        {
+          "name": "Modjo",
+          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1779,38 +1811,6 @@
       "duration_ms": 217000,
       "name": "Go",
       "url": "https://open.spotify.com/track/2EQA1eRfXvbHKMjSnzUtFD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Back 2 House",
-        "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
-      },
-      "artists": [
-        {
-          "name": "Modjo",
-          "url": "https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0"
-        }
-      ],
-      "duration_ms": 211853,
-      "name": "Lady (Hear Me Tonight)",
-      "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1975,22 +1975,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Destination Calabria",
-        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
       },
       "artists": [
         {
-          "name": "Alex Gaudino",
-          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
-        },
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Those Usual Suspects",
+          "url": "https://open.spotify.com/artist/7c6YXSeV5AremzaZGh7SWB"
         }
       ],
-      "duration_ms": 180906,
-      "name": "Destination Calabria - Radio Edit",
-      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
+      "duration_ms": 202053,
+      "name": "Shadows - Inpetto Edit",
+      "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2015,18 +2011,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/095xxX1IyCyEwPA1DndWpY"
+        "name": "Destination Calabria",
+        "url": "https://open.spotify.com/album/4XtnIwvXWrgmrvZNxUEOE1"
       },
       "artists": [
         {
-          "name": "Those Usual Suspects",
-          "url": "https://open.spotify.com/artist/7c6YXSeV5AremzaZGh7SWB"
+          "name": "Alex Gaudino",
+          "url": "https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d"
+        },
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
         }
       ],
-      "duration_ms": 202053,
-      "name": "Shadows - Inpetto Edit",
-      "url": "https://open.spotify.com/track/3KqXPyaLysWraUSi4PuSnz"
+      "duration_ms": 180906,
+      "name": "Destination Calabria - Radio Edit",
+      "url": "https://open.spotify.com/track/4IES3nsUkICyjj3sfznczq"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -2099,26 +2099,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Another Place",
-        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
-      },
-      "artists": [
-        {
-          "name": "Mischa Daniels",
-          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
-        },
-        {
-          "name": "Crown",
-          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Another Place - Radio Edit",
-      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Love Has Gone (Remixes)",
         "url": "https://open.spotify.com/album/11gfmVEBzhaF8V9gnrbKwp"
       },
@@ -2139,6 +2119,26 @@
       "duration_ms": 401373,
       "name": "Love Has Gone - Fonzerelli Remix",
       "url": "https://open.spotify.com/track/4DAELRHy3hEpRwxLDOCqfq"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Another Place",
+        "url": "https://open.spotify.com/album/3mGGdn4qdx5tKnxKy55XBw"
+      },
+      "artists": [
+        {
+          "name": "Mischa Daniels",
+          "url": "https://open.spotify.com/artist/2gsLJqpNYgfkAQJU9LJMuX"
+        },
+        {
+          "name": "Crown",
+          "url": "https://open.spotify.com/artist/3n3WhGxNxXpKbjhKuVTSEc"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Another Place - Radio Edit",
+      "url": "https://open.spotify.com/track/1PJaIi4b7JV4QhBy6Obqoy"
     },
     {
       "added_at": "2024-07-12 15:40:20",

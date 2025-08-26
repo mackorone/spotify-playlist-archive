@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 97295,
+  "num_followers": 97308,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Tous Ces D\u00e9tails",
-        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
-      },
-      "artists": [
-        {
-          "name": "Durkheim",
-          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
-        }
-      ],
-      "duration_ms": 144371,
-      "name": "Aidez Moi",
-      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Ti Sesi Ti Sela",
         "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173113,
       "name": "Ti Sesi Ti Sela",
       "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Tous Ces D\u00e9tails",
+        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
+      },
+      "artists": [
+        {
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
+        }
+      ],
+      "duration_ms": 144371,
+      "name": "Aidez Moi",
+      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -915,26 +915,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "F\u00f2s",
-        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Desire",
-          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
-        },
-        {
-          "name": "Wendyyy",
-          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
-        }
-      ],
-      "duration_ms": 234248,
-      "name": "Crush la",
-      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Loyita (feat. Thattoo Love)",
         "url": "https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "F\u00f2s",
+        "url": "https://open.spotify.com/album/4vdLW8X1NRUrlBrbamczWX"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Desire",
+          "url": "https://open.spotify.com/artist/6xVcovJKcJRop6h8Ik9DIa"
+        },
+        {
+          "name": "Wendyyy",
+          "url": "https://open.spotify.com/artist/1NrqtKwAa1VXMWxREFlPPB"
+        }
+      ],
+      "duration_ms": 234248,
+      "name": "Crush la",
+      "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Ban Mwen Love",
-        "url": "https://open.spotify.com/album/6HExK0uNeuhH4iNWQWuxie"
-      },
-      "artists": [
-        {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        },
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 278213,
-      "name": "Ban Mwen Love",
-      "url": "https://open.spotify.com/track/1XbnEgnpIsAefXxNuiNH3X"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1019,6 +999,26 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ban Mwen Love",
+        "url": "https://open.spotify.com/album/6HExK0uNeuhH4iNWQWuxie"
+      },
+      "artists": [
+        {
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 278213,
+      "name": "Ban Mwen Love",
+      "url": "https://open.spotify.com/track/1XbnEgnpIsAefXxNuiNH3X"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
-      },
-      "artists": [
-        {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
-        }
-      ],
-      "duration_ms": 102466,
-      "name": "Imamou Lele",
-      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Map Rap Ak Ke Kontan",
         "url": "https://open.spotify.com/album/09TYeIwUMxcDZjqv52Xdl1"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 138333,
       "name": "Veye Priye",
       "url": "https://open.spotify.com/track/3tIi3d8WRYlSb1aPs9Ro8H"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv"
+      },
+      "artists": [
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+        }
+      ],
+      "duration_ms": 102466,
+      "name": "Imamou Lele",
+      "url": "https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Bal Tout",
         "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 191067,
       "name": "Bal Tout",
       "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "SIWO",
-        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
+        "name": "Regr\u00e8",
+        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
       },
       "artists": [
         {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+          "name": "Wood Terrib",
+          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
         }
       ],
-      "duration_ms": 229491,
-      "name": "SIWO",
-      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
+      "duration_ms": 229998,
+      "name": "Regr\u00e8",
+      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Regr\u00e8",
-        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
+        "name": "SIWO",
+        "url": "https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr"
       },
       "artists": [
         {
-          "name": "Wood Terrib",
-          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
         }
       ],
-      "duration_ms": 229998,
-      "name": "Regr\u00e8",
-      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
+      "duration_ms": 229491,
+      "name": "SIWO",
+      "url": "https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 227142,
+      "name": "Tou Limen",
+      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "LAKAY",
         "url": "https://open.spotify.com/album/38ScE9rpyWOTkJtkqRlMTM"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 171272,
       "name": "LAKAY",
       "url": "https://open.spotify.com/track/6YmqgbqLuqpwlnAZ7YAPTg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Tou Limen",
-      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "BIDIBAM",
         "url": "https://open.spotify.com/album/0m5LrWTafT6BEg1BPe8jYI"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 190143,
       "name": "BIDIBAM",
       "url": "https://open.spotify.com/track/0nPPHiRNgQjCdzpot8Itgf"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
-        {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Rasanbleman (Red Moon)",
-        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 400388,
-      "name": "Ayizan",
-      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1875,18 +1875,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7"
       },
       "artists": [
         {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+          "name": "KeyAra",
+          "url": "https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6"
+        },
+        {
+          "name": "KOLO",
+          "url": "https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
         }
       ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+      "duration_ms": 197999,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD"
     }
   ],
   "unique_name": "Haitian Heat",

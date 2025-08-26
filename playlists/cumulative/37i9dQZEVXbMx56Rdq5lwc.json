@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 200021,
       "name": "Anglys",
       "url": "https://open.spotify.com/track/5KFfyKZiV1fLf2zMsqaJWC"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 265423,
       "name": "Ber\u017eas (feat. Monika Liu)",
       "url": "https://open.spotify.com/track/5GY1DG6DwtqCv7au849YRu"
@@ -5112,7 +5112,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 205419,
       "name": "Bum ajajai",
       "url": "https://open.spotify.com/track/4MYXiDm8WZlxVYmt1pdZjv"
@@ -6402,7 +6402,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 228075,
       "name": "Cirkas",
       "url": "https://open.spotify.com/track/61Ri0FdXdSxWshM78pQMAb"
@@ -8320,7 +8320,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/3kPNkracUxYvwpzkdpHMQQ"
@@ -8342,7 +8342,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 169159,
       "name": "Dior (feat. Chrystal)",
       "url": "https://open.spotify.com/track/6PTgSuFz9JqQ1o0jTYOuvX"
@@ -9500,7 +9500,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 174339,
       "name": "D\u0117l Tav\u0119s",
       "url": "https://open.spotify.com/track/1CoPFeke35DJySiGTZNSrx"
@@ -17264,7 +17264,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -21256,7 +21256,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 183636,
       "name": "Man Patinka Taip Gyvent",
       "url": "https://open.spotify.com/track/4Sutb29y41vsYKsMdmMbXu"
@@ -30412,7 +30412,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 218146,
       "name": "rockstar (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt"
@@ -31380,7 +31380,7 @@
       ],
       "date_added": "2025-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 263996,
       "name": "Saugok \u0161ird\u012f",
       "url": "https://open.spotify.com/track/6aNCsReAOapFAxx43eTBlH"
@@ -32472,6 +32472,24 @@
       "duration_ms": 171750,
       "name": "sidabrin\u0117 \u017eiurk\u0117",
       "url": "https://open.spotify.com/track/2PsZp4QKddxWH68EuOxhxI"
+    },
+    {
+      "album": {
+        "name": "Sijon\u0117lis (JBC)",
+        "url": "https://open.spotify.com/album/35L9bcLCXg0WRiqeRDmXDx"
+      },
+      "artists": [
+        {
+          "name": "Senos Geros",
+          "url": "https://open.spotify.com/artist/3kDh8NjDRChHKIIG7qR4DU"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215783,
+      "name": "Sijon\u0117lis (JBC)",
+      "url": "https://open.spotify.com/track/5dGoDPZWOI5UCTlEn5IMGH"
     },
     {
       "album": {
@@ -38800,7 +38818,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-07",
+      "date_removed": null,
       "duration_ms": 162320,
       "name": "Vaikyst\u0117s Stogas",
       "url": "https://open.spotify.com/track/1PGihkGGcCzhRcPJNPRmdY"
@@ -41600,7 +41618,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
@@ -42026,7 +42044,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 156000,
       "name": "\u0160okam L\u0117tai",
       "url": "https://open.spotify.com/track/0woi2knxQucSRKtrX6a7eC"
@@ -42084,7 +42102,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 183111,
       "name": "\u0160okame Kartu",
       "url": "https://open.spotify.com/track/6dSmO4o03GRVsyZ4uAsVh8"

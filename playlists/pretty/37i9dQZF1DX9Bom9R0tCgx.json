@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 432905,
+  "num_followers": 432948,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 187394,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "This Is The Life",
         "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 131388,
       "name": "This Is The Life",
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/4g4GBQonQG0zVjMWIPfxuy"
-      },
-      "artists": [
-        {
-          "name": "BENNETT",
-          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
-        }
-      ],
-      "duration_ms": 187394,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/67aNGns9ZH1jm6nruyzBGU"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -851,26 +851,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Tell Me Why (Maddix Remix)",
-        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
-      },
-      "artists": [
-        {
-          "name": "Supermode",
-          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Tell Me Why - Maddix Remix",
-      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Mamma Mia (feat. Mentissa) [Techno Mix]",
         "url": "https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 200683,
       "name": "Mamma Mia (feat. Mentissa) - Techno Mix",
       "url": "https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Tell Me Why (Maddix Remix)",
+        "url": "https://open.spotify.com/album/30GbdnnaB9AfEGBw3sVWBe"
+      },
+      "artists": [
+        {
+          "name": "Supermode",
+          "url": "https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Tell Me Why - Maddix Remix",
+      "url": "https://open.spotify.com/track/5D8Z0KkFce9ir2yak7uj5C"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "MIRAGE",
-        "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
-      },
-      "artists": [
-        {
-          "name": "DJSM",
-          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
-        },
-        {
-          "name": "Samuel Moriero",
-          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
-        }
-      ],
-      "duration_ms": 165049,
-      "name": "MIRAGE",
-      "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "TABU.",
         "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "MIRAGE",
+        "url": "https://open.spotify.com/album/6Q4F5AMGnzaZz4vQblwwHb"
+      },
+      "artists": [
+        {
+          "name": "DJSM",
+          "url": "https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx"
+        },
+        {
+          "name": "Samuel Moriero",
+          "url": "https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI"
+        }
+      ],
+      "duration_ms": 165049,
+      "name": "MIRAGE",
+      "url": "https://open.spotify.com/track/3McrQoWYs6qGmuWEAVnRSJ"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1195,26 +1195,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Day 'N' Nite",
-        "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
+        "name": "Bel Mercy (Techno)",
+        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
-        },
-        {
-          "name": "Badjack",
-          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
-        },
-        {
-          "name": "Acid Boyz",
-          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
+          "name": "Paayne",
+          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Day 'N' Nite",
-      "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
+      "duration_ms": 112500,
+      "name": "Bel Mercy - Techno",
+      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1243,18 +1235,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Bel Mercy (Techno)",
-        "url": "https://open.spotify.com/album/4zPAFjqZfO21DoTXeuQV2H"
+        "name": "Day 'N' Nite",
+        "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
       },
       "artists": [
         {
-          "name": "Paayne",
-          "url": "https://open.spotify.com/artist/2JyzPRPN5YKvt0QuxwUsLO"
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "Acid Boyz",
+          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
         }
       ],
-      "duration_ms": 112500,
-      "name": "Bel Mercy - Techno",
-      "url": "https://open.spotify.com/track/4OFnxq4XLc9aMLQRudehEC"
+      "duration_ms": 133000,
+      "name": "Day 'N' Nite",
+      "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hellfire",
-        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
-      },
-      "artists": [
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "Hellfire",
-      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Bass Boys",
         "url": "https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6"
       },
@@ -1383,22 +1363,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/2mSXxOqVfVf855Yops9kAs"
       },
       "artists": [
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
         },
         {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         }
       ],
-      "duration_ms": 209032,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+      "duration_ms": 183600,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/5qq6MmZYOHvU3fICNggSCW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1vrQiLeLfUNq4IshXfqg9R"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/34AodtfpGFMvlxpKFrNxvY"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Stumblin' In (Sonny Wern Remix)",
         "url": "https://open.spotify.com/album/4eJ2IuNXx5vnIKS6tYV3PY"
       },
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Balling (L\u00c4UFF Remix)",
         "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 260689,
       "name": "Balling - L\u00c4UFF Remix",
       "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1647,26 +1647,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Paint It Red",
-        "url": "https://open.spotify.com/album/4IbeCtmBfrUUKQMApQhHI4"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
         }
       ],
-      "duration_ms": 165569,
-      "name": "Paint It Red",
-      "url": "https://open.spotify.com/track/1I3YPOEyTzpPp3zlYfO99o"
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1695,18 +1687,50 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+        "name": "Paint It Red",
+        "url": "https://open.spotify.com/album/4IbeCtmBfrUUKQMApQhHI4"
       },
       "artists": [
         {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
         }
       ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+      "duration_ms": 165569,
+      "name": "Paint It Red",
+      "url": "https://open.spotify.com/track/1I3YPOEyTzpPp3zlYfO99o"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "My Mama Dropped LSD in the 90's",
+        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "DJ Daddy Trance",
+          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+        },
+        {
+          "name": "blazey",
+          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
+        }
+      ],
+      "duration_ms": 176817,
+      "name": "My Mama Dropped LSD in the 90's",
+      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1755,30 +1779,6 @@
       "duration_ms": 124828,
       "name": "Candy",
       "url": "https://open.spotify.com/track/1aPzuS8Aw7XJbQG2hT2X3J"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "My Mama Dropped LSD in the 90's",
-        "url": "https://open.spotify.com/album/0X12iWSZ0DQrn35GgTEjrT"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
-        },
-        {
-          "name": "blazey",
-          "url": "https://open.spotify.com/artist/66Vn5izERxqMuZz9QB5Dyh"
-        }
-      ],
-      "duration_ms": 176817,
-      "name": "My Mama Dropped LSD in the 90's",
-      "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",

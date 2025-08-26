@@ -4,7 +4,7 @@
 
 > she’s back \(what i&\#x27;m listening to july\-aug 2025\)
 
-701 songs - 1 day 17 hr 16 min
+705 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [4 DEGREES](https://open.spotify.com/track/3IDQXyHYuX2rdLnNfVzT3g) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [HOPELESSNESS](https://open.spotify.com/album/6zrFK6ltxpZZ0HmMgfOwbw) | 3:51 | 2024-10-22 | 2024-11-14 |
 | [400 & 57](https://open.spotify.com/track/1KlSberDtUJKrXQsEujQr3) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [In Solarium](https://open.spotify.com/album/13ZC7qriL0nNYB04lK4CXB) | 3:56 | 2024-10-25 | 2024-11-14 |
 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 | 2025-03-06 | 2025-05-09 |
+| [9 2 5](https://open.spotify.com/track/6IzuJx4beJwcP9ImbZsKYd) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:29 | 2025-08-25 |  |
 | [901](https://open.spotify.com/track/3oSjnnvc8y5DpNQfC81Zsk) | [Jack Zade](https://open.spotify.com/artist/1vEOK6baiByvx1AahjR5yN) | [901](https://open.spotify.com/album/64zc56nx8LGS7s6jMu3bqT) | 2:49 | 2025-05-14 | 2025-07-04 |
 | [A Better Life Since](https://open.spotify.com/track/28EkO7bqzJ86Lqgbmuyv17) | [Southpacific](https://open.spotify.com/artist/5eeXcEsflXi3q0GiIw1mCL) | [Constance](https://open.spotify.com/album/4w29IA02Wl4V54uD8bXbry) | 1:49 | 2024-05-16 | 2024-07-12 |
 | [A Dance By Any Other Name](https://open.spotify.com/track/4g5W3uhv3EOXit1ErfWjgc) | [Mice Parade](https://open.spotify.com/artist/08dFdlVj0Hm0pD8sE61RR6) | [The True Meaning Of Boodleybaye](https://open.spotify.com/album/3JAFVahFip29mMAYNsAWX8) | 7:42 | 2025-07-09 |  |
@@ -229,6 +230,7 @@
 | [Golden Crown](https://open.spotify.com/track/3qQjTYIMfjcVCy6gzorgAx) | [The Clean](https://open.spotify.com/artist/6LRmgzRManplPQghd2BMqz) | [Getaway \(Deluxe 2016 Remaster\)](https://open.spotify.com/album/04dY16TGKjm8gvgKwcQI0C) | 1:39 | 2024-09-27 | 2024-11-14 |
 | [Golden Strings](https://open.spotify.com/track/4UZ2MsSsWkC4OVBEtqDN8g) | [Randall Stephens](https://open.spotify.com/artist/01BmrzkVMRWt1E1cz9XFZ7) | [The Music I Love Is Gospel](https://open.spotify.com/album/6JGJnMmSSKer4cE5H2Rsbs) | 3:26 | 2025-05-08 | 2025-07-04 |
 | [Good For Me](https://open.spotify.com/track/0la9WOK8JlpmfDEJiFsVCl) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Tri\-State](https://open.spotify.com/album/7oGejxIa9yVGrUvwt74OPU) | 5:42 | 2024-06-14 | 2024-07-12 |
+| [Good House](https://open.spotify.com/track/3lVJWIGigp1gP69EAY24Ts) | [Deakin](https://open.spotify.com/artist/6JSybS5o47NUTNFQauvxUY) | [Sleep Cycle](https://open.spotify.com/album/3koPfjNNoh3JJ0AD6WnKtT) | 7:01 | 2025-08-25 |  |
 | [Goodbye](https://open.spotify.com/track/4wbDALtjwuwBxtMgjuumoi) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Blind](https://open.spotify.com/album/2MyaP2JXodfEY2Lh7YLa5J) | 4:44 | 2024-12-12 | 2025-01-12 |
 | [Goodnight Jade](https://open.spotify.com/track/7g8Y5pf5It0GrxpjsVScqZ) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Feed Me Weird Things \(Remastered\)](https://open.spotify.com/album/3RJcXXVLIQxLlppvvM6xLR) | 2:45 | 2025-01-11 | 2025-03-02 |
 | [Goodnight Tonight](https://open.spotify.com/track/5AD7iwvIzbiABVsMndAmez) | [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Wingspan](https://open.spotify.com/album/0gOV46yCRVgdehR1SnFtuy) | 4:20 | 2024-02-28 | 2024-03-10 |
@@ -643,6 +645,7 @@
 | [Tomorrow is Perfect](https://open.spotify.com/track/3LY1CZhWdfHezDSmZSLfrC) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Tomorrow is Perfect](https://open.spotify.com/album/7gVnv19lJakKUMCTYZ7BXq) | 6:21 | 2025-05-21 | 2025-07-04 |
 | [Top of Morning](https://open.spotify.com/track/0UfIarGCDsKojnn6p4LvTx) | [The Hang\-Ups](https://open.spotify.com/artist/16YEyKB4T5ayo9Ss0QvI9V) | [So We Go](https://open.spotify.com/album/70t2UqAkgVrD68eEPq4q7V) | 2:41 | 2024-04-01 | 2024-05-16 |
 | [Topknot](https://open.spotify.com/track/1bxv3sjiuqgmkgNkjN59Tc) | [Cornershop](https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF) | [Cornershop & The Double 'O' Groove Of](https://open.spotify.com/album/2xBCzmHtb0SuHcUmTYim64) | 3:39 | 2024-07-29 | 2024-09-08 |
+| [Tossed Away](https://open.spotify.com/track/7vNMpCeU4hQSU94pdcmdr0) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [The Passionate Ones](https://open.spotify.com/album/5Y3SsoA0yibZh5946vXgKS) | 4:50 | 2025-08-25 |  |
 | [Towards the Light](https://open.spotify.com/track/5Hfek3OCEOxOVeywQjK1aK) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [Everything's Alright Forever](https://open.spotify.com/album/6HyyVAjYEHdjSjFDAU86Gx) | 1:41 | 2024-01-09 | 2024-03-10 |
 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2025-03-01 | 2025-05-09 |
 | [Tristan in der Bar](https://open.spotify.com/track/4vu7aSR61LyBlrF8MoppoF) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Curiosum](https://open.spotify.com/album/2CaEJCDIN1DCOw0naWrhd8) | 2:55 | 2024-07-12 | 2024-09-08 |
@@ -668,6 +671,7 @@
 | [Walking and Falling](https://open.spotify.com/track/0jV8lPEbz6mVI6Q34Ru0ym) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 2:13 | 2025-04-20 | 2025-05-09 |
 | [Warm Canto](https://open.spotify.com/track/24US80Wtwk4KmaqktZW8VZ) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp), [Booker Ervin](https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy) | [The Quest](https://open.spotify.com/album/7AFeyZd2N1i4LTzIZ2V8u1) | 5:40 | 2025-06-14 | 2025-07-04 |
 | [Was That Love](https://open.spotify.com/track/4Cu7qmICfQ3fXSzhEt9k1C) | [Ryan Power](https://open.spotify.com/artist/1Q3vyHmUHwacqnLGstlLMS) | [World of Wonder](https://open.spotify.com/album/4uel1amT8AA4wHOsju2kCS) | 3:50 | 2024-06-20 | 2024-07-12 |
+| [Water in Motion \- 2006 Remaster](https://open.spotify.com/track/2PnTIpGlHPY1FZkwDMlsnr) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Shoot the Moon \(2006 Remaster\)](https://open.spotify.com/album/1KhMx9peEp1gHJE8uSNsxN) | 3:41 | 2025-08-26 |  |
 | [Water Table](https://open.spotify.com/track/5KLMheJDladX9Rt5gNULKh) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Deep in View](https://open.spotify.com/album/6xCiTaBETJXjbRP68e7g0P) | 4:03 | 2024-01-10 | 2024-03-10 |
 | [Welcome to My World](https://open.spotify.com/track/1GWNIRq2QFmVuIpwVONWhY) | [Curly Chalker](https://open.spotify.com/artist/4KBTL6pJ0paCrhVG3kUxM7) | [Big Hits on Big Steel](https://open.spotify.com/album/2ASp6kSw8vM2bwg9lazZZU) | 2:30 | 2025-06-16 | 2025-07-04 |
 | [Well I Know You're Shy](https://open.spotify.com/track/2t1PBeyHtPyGaHvxh3lLoY) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 3:29 | 2025-02-16 | 2025-03-02 |

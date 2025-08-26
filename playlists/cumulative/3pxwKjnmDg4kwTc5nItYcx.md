@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-844 songs - 1 day 21 hr 20 min
+845 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Dollar](https://open.spotify.com/track/6dXVbkS1t7jQs3maRSM9pW) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Dollar](https://open.spotify.com/album/7fE9LJLsMa5TUZu5lQJwcq) | 3:28 | 2019-08-27\* | 2020-02-12 |
 | [Domino \(feat\. Foley\)](https://open.spotify.com/track/54XnWb1lT3je2rua7OoEls) | [Pacific Heights](https://open.spotify.com/artist/0Yty2T0fXIPw6hAzEGV9mK), [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Domino \(feat\. Foley\)](https://open.spotify.com/album/3d706IAFJBe84i9nZwlGOv) | 3:06 | 2021-07-17 |  |
 | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/track/5tMQmJaBpnZ8EJhQJwkok6) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Don't Believe the Things They Tell You \(They Lie\)](https://open.spotify.com/album/0fIOZUDWUws5WWxLQkD6BA) | 3:05 | 2019-09-20 | 2020-02-12 |
+| [Don't Get Me Wrong](https://open.spotify.com/track/67bf9SCCZjfCQEE8DeAdFx) | [Kingston Sound System](https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc), [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Classic Hits In A Reggae Groove](https://open.spotify.com/album/42zRQ7Gr6lrJEa8mC85LlY) | 3:14 | 2025-08-26 |  |
 | [Don't Go Changing](https://open.spotify.com/track/0dNN5wjTkbJnQkOnzh9WUH) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Ylona Garcia](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR) | [Don't Go Changing](https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF) | 3:09 | 2021-09-17 |  |
 | [Don't Let Me Bleed](https://open.spotify.com/track/5ap7pmbQXRpsPXsuR8dwxZ) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [Don't Let Me Bleed](https://open.spotify.com/album/1eMUfvVRda9Yv3nSyHIBnH) | 3:35 | 2023-06-02 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-04-21 |  |

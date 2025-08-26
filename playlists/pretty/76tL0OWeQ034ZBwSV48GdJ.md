@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 226 songs - 21 hr 33 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 228 songs - 21 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,5 +234,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 224 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 |
 | 225 | [Waited All Night \- Solomun Remix v11](https://open.spotify.com/track/4L1aEaKu4CBMFjiXsWn8Hw) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Waited All Night \(Solomun Remixes\)](https://open.spotify.com/album/5QJY0JMXrzkYm3lBpzgSNx) | 4:54 |
 | 226 | [Veränderung spüren](https://open.spotify.com/track/67JAkwflqz0Fg1AHFfUN3t) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Veränderung spüren](https://open.spotify.com/album/2LDAxwcSumPYcUmTTILfAB) | 3:38 |
+| 227 | [1, 2 Step \- DJ HEARTSTRING Remix](https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [1, 2 Step \(DJ HEARTSTRING Remix\)](https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5) | 3:05 |
+| 228 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 |
 
-Snapshot ID: `AAABCS6/pS1mlejOUEbZZb4loWFmSPWA`
+Snapshot ID: `AAABC9lOBE6YGXAXPZjR7TvpKp48etnw`

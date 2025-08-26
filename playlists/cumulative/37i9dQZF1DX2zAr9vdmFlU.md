@@ -4,7 +4,7 @@
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-281 songs - 17 hr 43 min
+282 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Naranjo En Flor](https://open.spotify.com/track/4cAHUruX1d4Ukw7rkPrJQ9) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/27biw4fIpaTxPJqrSbL7ZM) | 4:38 | 2023-03-07 | 2023-03-25 |
 | [No Pasa Na](https://open.spotify.com/track/0cKW32XAo7QfBJdP5indaf) | [Karina Daza](https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [No Pasa Na](https://open.spotify.com/album/1qDELsYjk55AV4cF3Ekvtp) | 3:50 | 2023-04-28 | 2024-07-10 |
 | [No Se Vale](https://open.spotify.com/track/5Q1MSdJ56O9BxB6wIvjsXY) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:00 | 2024-02-09 |  |
-| [No Sé Que Hacer](https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB) | [Harissa](https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo) | 3:03 | 2024-05-17 |  |
+| [No Sé Que Hacer](https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB) | [Harissa](https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo) | 3:03 | 2024-05-17 | 2025-08-26 |
 | [Nobreza](https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [Nobreza](https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq) | 3:21 | 2021-12-09 |  |
 | [Outra Vez](https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [The Music of Brazil / Elizeth Cardoso, Vol\. 1 / Recordings 1955 \- 1957](https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt) | 1:55 | 2024-04-05 |  |
 | [Oye Como Va](https://open.spotify.com/track/5XNixCaiTFx88y5wLhVMQR) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5) | [Oye Como Va](https://open.spotify.com/album/4GXh6a6jVejKsYyCcymtUN) | 3:05 | 2021-12-09 | 2023-03-08 |
@@ -278,6 +278,7 @@
 | [Virgencita \- Happy Colors Remix](https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Happy Colors](https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Calentura: Global Bassment](https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu) | 3:16 | 2022-01-01 | 2024-04-19 |
 | [Viva tu](https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Viva tu](https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU) | 3:08 | 2024-05-31 |  |
 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 | 2023-09-01 |  |
+| [White Wine](https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [White Wine](https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP) | 3:12 | 2025-08-25 |  |
 | [Ya Llego \(Captain Planet Remix\)](https://open.spotify.com/track/3ofJQlyeMIigLD3hSJUyME) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Global Bassment](https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP) | 4:04 | 2022-01-01 | 2022-07-29 |
 | [Ya Llegó \- Captain Planet Remix](https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Toque \(Captain Planet Remixes\)](https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz) | 4:04 | 2022-01-01 | 2024-02-09 |
 | [Yo La Vi](https://open.spotify.com/track/3Gc1LdChaPOVxFbGUuW8sq) | [Compass: Mexican Institute Of Sound + Toy Selectah](https://open.spotify.com/artist/4SXKAjs2uxonZB8OEZt8hm), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Toy Selectah](https://open.spotify.com/artist/6iruqoplIhH7VmvMQV1wDM), [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Compass](https://open.spotify.com/album/2SJKC7sZ0uS1m43oNarZHA) | 4:08 | 2021-12-09 |  |

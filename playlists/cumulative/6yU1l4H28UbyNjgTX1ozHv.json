@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Arthur's Theme (Best That You Can Do)",
+        "url": "https://open.spotify.com/album/5DlRpjorDGkHQPmWJYceGq"
+      },
+      "artists": [
+        {
+          "name": "Plamina",
+          "url": "https://open.spotify.com/artist/7x6A8huMVnPZ5wAzlw6HSp"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Arthur's Theme (Best That You Can Do)",
+      "url": "https://open.spotify.com/track/1SF2bj3uabmtHL3l6kpUjY"
+    },
+    {
+      "album": {
         "name": "As Long As You Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/6LqspkIxvToYsWW9H8vGxH"
       },
@@ -1825,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "I Believe In a Thing Called Love",
+        "url": "https://open.spotify.com/album/1OICp5zBy4IZYY5pm8q90t"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171805,
+      "name": "I Believe In a Thing Called Love",
+      "url": "https://open.spotify.com/track/7tXNzsd2BAJPrirQ8ryh7V"
+    },
+    {
+      "album": {
         "name": "I Can See Clearly Now (Acoustic)",
         "url": "https://open.spotify.com/album/0zjfhd9DvlA6v3owHzL54D"
       },
@@ -2422,7 +2458,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 193493,
       "name": "I\u2019d Do Anything for Love (But I Won\u2019t Do That) - Acoustic",
       "url": "https://open.spotify.com/track/6FwHlZaHRx2q6d9p3m2mzo"
@@ -3736,6 +3772,24 @@
       "duration_ms": 187419,
       "name": "Saint-Tropez",
       "url": "https://open.spotify.com/track/0nSmOh6YkXuGl3foA78AUi"
+    },
+    {
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/7vswlMKsrPbYGpT3rtsPmi"
+      },
+      "artists": [
+        {
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163965,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/2Awz54bm5w4F6M3M7a0rpb"
     },
     {
       "album": {
@@ -5256,7 +5310,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 190271,
       "name": "You Get What You Give - Acoustic",
       "url": "https://open.spotify.com/track/3ZRRjUNc1OIGRBPz65VyxH"

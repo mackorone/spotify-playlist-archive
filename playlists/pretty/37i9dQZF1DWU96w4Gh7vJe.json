@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 581667,
+  "num_followers": 581697,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "Byahe",
-        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
-      },
-      "artists": [
-        {
-          "name": "John Roa",
-          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Dati (feat. Skusta Clee)",
-      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
-    },
-    {
-      "added_at": "2025-08-08 02:10:48",
-      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 260000,
       "name": "Gusto feat. Al James",
       "url": "https://open.spotify.com/track/6t4krDdBmRmcRH7mb8wPRL"
+    },
+    {
+      "added_at": "2025-08-08 02:10:48",
+      "album": {
+        "name": "Byahe",
+        "url": "https://open.spotify.com/album/6GkdhbqD0GxO1YMan6eK2b"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Dati (feat. Skusta Clee)",
+      "url": "https://open.spotify.com/track/7pa4kToAE3b6Gtk7fWrsLl"
     },
     {
       "added_at": "2025-08-08 02:10:48",
@@ -615,18 +615,22 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "Pasulong",
-        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
       "artists": [
         {
-          "name": "Alamat",
-          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+          "name": "Side A",
+          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
+        },
+        {
+          "name": "Jun Reyes",
+          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
         }
       ],
-      "duration_ms": 210782,
-      "name": "Maharani",
-      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
+      "duration_ms": 273493,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
     },
     {
       "added_at": "2025-08-08 02:10:48",
@@ -651,26 +655,6 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
-      },
-      "artists": [
-        {
-          "name": "Side A",
-          "url": "https://open.spotify.com/artist/31oMMIBDMM2Z1RQO7u8irE"
-        },
-        {
-          "name": "Jun Reyes",
-          "url": "https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u"
-        }
-      ],
-      "duration_ms": 273493,
-      "name": "Set You Free",
-      "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
-    },
-    {
-      "added_at": "2025-08-08 02:10:48",
-      "album": {
         "name": "Panata",
         "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 275893,
       "name": "Panata",
       "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
+    },
+    {
+      "added_at": "2025-08-08 02:10:48",
+      "album": {
+        "name": "Pasulong",
+        "url": "https://open.spotify.com/album/6AdDhvJCm1PxzwqYzS1uE2"
+      },
+      "artists": [
+        {
+          "name": "Alamat",
+          "url": "https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW"
+        }
+      ],
+      "duration_ms": 210782,
+      "name": "Maharani",
+      "url": "https://open.spotify.com/track/6KAnNItOZJ85PT3s0KqMgT"
     },
     {
       "added_at": "2025-08-08 02:10:48",
@@ -855,18 +855,18 @@
     {
       "added_at": "2025-08-08 02:10:48",
       "album": {
-        "name": "Curiosity Killed the Cat",
-        "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
+        "name": "Mula sa Malayo",
+        "url": "https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z"
       },
       "artists": [
         {
-          "name": "HEY JUNE!",
-          "url": "https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq"
+          "name": "Migs",
+          "url": "https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8"
         }
       ],
-      "duration_ms": 185018,
-      "name": "Asan Ang Gana Ko",
-      "url": "https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr"
+      "duration_ms": 164093,
+      "name": "Mula sa Malayo",
+      "url": "https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW"
     }
   ],
   "unique_name": "Relax Tayo",

@@ -1,6 +1,6 @@
 {
   "description": "Megapark bis Bierk\u00f6nig - Malle ist nur einmal im Jahr!",
-  "num_followers": 474212,
+  "num_followers": 474285,
   "original_name": "Malle Party 2025",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
       },
@@ -315,26 +331,6 @@
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "So Bist Du",
-        "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
-      },
-      "artists": [
-        {
-          "name": "Oli. P",
-          "url": "https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU"
-        },
-        {
-          "name": "Felix Harrer",
-          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "So Bist Du",
-      "url": "https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -355,18 +351,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+        "name": "So Bist Du",
+        "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
       "artists": [
         {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+          "name": "Oli. P",
+          "url": "https://open.spotify.com/artist/4SP3LwSvQscEr8Fs3HfesU"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
         }
       ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+      "duration_ms": 209135,
+      "name": "So Bist Du",
+      "url": "https://open.spotify.com/track/0O1aY7nPePS7BBPGEqQ31J"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -463,30 +463,6 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Fliesentisch Romantik 2",
-        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI"
-        }
-      ],
-      "duration_ms": 150413,
-      "name": "Easy Peasy",
-      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -507,6 +483,30 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/2bdRWQiJL18iqUjSiPNBUI"
+        }
+      ],
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -639,6 +639,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Chaos im Kopf",
         "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 168750,
       "name": "Chaos im Kopf",
       "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Mozart (Ciao Niveau)",
+        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 172637,
+      "name": "Mozart (Ciao Niveau)",
+      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Tag X (Geiles Leben Edition)",
         "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Mozart (Ciao Niveau)",
-        "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 172637,
-      "name": "Mozart (Ciao Niveau)",
-      "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Zum Greifen nah",
         "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 246433,
-      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
-      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -947,6 +947,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Die Nacht von Freitag auf Montag",
+        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "duration_ms": 178578,
+      "name": "Die Nacht von Freitag auf Montag",
+      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 133898,
       "name": "Mallelelele",
       "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Die Nacht von Freitag auf Montag",
-        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
-      },
-      "artists": [
-        {
-          "name": "Peter Wackel",
-          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
-        }
-      ],
-      "duration_ms": 178578,
-      "name": "Die Nacht von Freitag auf Montag",
-      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Erwischt",
-        "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Erwischt",
-      "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
+        "name": "Erwischt",
+        "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Erwischt",
+      "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
-        "name": "Du Bist Mein Gl\u00fcck",
-        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Du bist mein Gl\u00fcck",
-      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
         "name": "Ich liebe das Leben (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
+        "name": "Du Bist Mein Gl\u00fcck",
+        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Du bist mein Gl\u00fcck",
+      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
     },
     {
       "added_at": "2025-08-08 07:02:50",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-08-08 07:02:50",
       "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2025-08-08 07:02:50",
+      "album": {
         "name": "Midnight Lady",
         "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 207554,
       "name": "Midnight Lady",
       "url": "https://open.spotify.com/track/0CbNz8F2OUOfxOnZyV6pDJ"
-    },
-    {
-      "added_at": "2025-08-08 07:02:50",
-      "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2025-08-08 07:02:50",

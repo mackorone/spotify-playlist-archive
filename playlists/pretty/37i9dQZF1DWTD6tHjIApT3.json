@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover:CENT",
-  "num_followers": 131276,
+  "num_followers": 131290,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-08-19 16:57:04",
       "album": {
-        "name": "\u3068\u304d\u306f\u306a\u3066\uff01",
-        "url": "https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3057\u30e1\u30ed",
-          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
-        }
-      ],
-      "duration_ms": 225931,
-      "name": "\u3068\u304d\u306f\u306a\u3066\uff01",
-      "url": "https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny"
-    },
-    {
-      "added_at": "2025-08-19 16:57:04",
-      "album": {
         "name": "\u5b9f\u9a13\u4e2d / \u767d\u65e5\u306e\u3082\u3068",
         "url": "https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 210000,
       "name": "\u767d\u65e5\u306e\u3082\u3068",
       "url": "https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d"
+    },
+    {
+      "added_at": "2025-08-19 16:57:04",
+      "album": {
+        "name": "\u3068\u304d\u306f\u306a\u3066\uff01",
+        "url": "https://open.spotify.com/album/5VUOIuIKEMn26nUczsVSB9"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3057\u30e1\u30ed",
+          "url": "https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy"
+        }
+      ],
+      "duration_ms": 225931,
+      "name": "\u3068\u304d\u306f\u306a\u3066\uff01",
+      "url": "https://open.spotify.com/track/21Wgqu00gOXzmnycUnF1Ny"
     },
     {
       "added_at": "2025-08-19 16:57:04",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-08-19 16:57:04",
       "album": {
+        "name": "\u5c0f\u3055\u306a\u6b4c",
+        "url": "https://open.spotify.com/album/2HuGmEr5rvSsstHh20Z7OQ"
+      },
+      "artists": [
+        {
+          "name": "JUJU",
+          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "\u5c0f\u3055\u306a\u6b4c",
+      "url": "https://open.spotify.com/track/2nxPOeZcwqV29ZYmSikhqC"
+    },
+    {
+      "added_at": "2025-08-19 16:57:04",
+      "album": {
         "name": "\u5149\u306e\u3059\u307f\u304b",
         "url": "https://open.spotify.com/album/7ALtibHvNP1NCGtGcGrsAF"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 195891,
       "name": "\u5149\u306e\u3059\u307f\u304b",
       "url": "https://open.spotify.com/track/419PzQnfr2Mod7zwdX7hvo"
-    },
-    {
-      "added_at": "2025-08-19 16:57:04",
-      "album": {
-        "name": "\u307c\u304f\u306e\u30d9\u30ac",
-        "url": "https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x"
-      },
-      "artists": [
-        {
-          "name": "Regallily",
-          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "\u307c\u304f\u306e\u30d9\u30ac",
-      "url": "https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x"
     },
     {
       "added_at": "2025-08-19 16:57:04",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2025-08-19 16:57:04",
       "album": {
-        "name": "\u5c0f\u3055\u306a\u6b4c",
-        "url": "https://open.spotify.com/album/2HuGmEr5rvSsstHh20Z7OQ"
+        "name": "\u307c\u304f\u306e\u30d9\u30ac",
+        "url": "https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x"
       },
       "artists": [
         {
-          "name": "JUJU",
-          "url": "https://open.spotify.com/artist/5VLVogbPeBgFHXQPZQzBej"
+          "name": "Regallily",
+          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
         }
       ],
-      "duration_ms": 315666,
-      "name": "\u5c0f\u3055\u306a\u6b4c",
-      "url": "https://open.spotify.com/track/2nxPOeZcwqV29ZYmSikhqC"
+      "duration_ms": 212346,
+      "name": "\u307c\u304f\u306e\u30d9\u30ac",
+      "url": "https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x"
     },
     {
       "added_at": "2025-08-19 16:57:04",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-08-19 16:57:04",
       "album": {
-        "name": "\u50d5\u306e\u3053\u3068",
-        "url": "https://open.spotify.com/album/6l3sHHI137hEPvNJfYkWIj"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 323200,
-      "name": "\u50d5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/5jB5lvz2gTTO1XtxS090LE"
-    },
-    {
-      "added_at": "2025-08-19 16:57:04",
-      "album": {
         "name": "LUCKY",
         "url": "https://open.spotify.com/album/5n23bJMXQyVCVVkKWumfEg"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 209514,
       "name": "LUCKY",
       "url": "https://open.spotify.com/track/5EutOJtNnuuIiyKsI1PfLi"
+    },
+    {
+      "added_at": "2025-08-19 16:57:04",
+      "album": {
+        "name": "\u50d5\u306e\u3053\u3068",
+        "url": "https://open.spotify.com/album/6l3sHHI137hEPvNJfYkWIj"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 323200,
+      "name": "\u50d5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/5jB5lvz2gTTO1XtxS090LE"
     },
     {
       "added_at": "2025-08-19 16:57:04",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2025-08-19 16:57:04",
       "album": {
-        "name": "\u8292\u306b\u6708",
-        "url": "https://open.spotify.com/album/14Mamzg3Id7WcUtkbT3umL"
+        "name": "\u6708\u8755",
+        "url": "https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
         }
       ],
-      "duration_ms": 209000,
-      "name": "\u677e\u306b\u9db4",
-      "url": "https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf"
+      "duration_ms": 197720,
+      "name": "\u6708\u8755",
+      "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
     },
     {
       "added_at": "2025-08-19 16:57:04",
@@ -1595,18 +1595,34 @@
     {
       "added_at": "2025-08-19 16:57:04",
       "album": {
-        "name": "\u6708\u8755",
-        "url": "https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC"
+        "name": "\u8292\u306b\u6708",
+        "url": "https://open.spotify.com/album/14Mamzg3Id7WcUtkbT3umL"
       },
       "artists": [
         {
-          "name": "krage",
-          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
         }
       ],
-      "duration_ms": 197720,
-      "name": "\u6708\u8755",
-      "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
+      "duration_ms": 209000,
+      "name": "\u677e\u306b\u9db4",
+      "url": "https://open.spotify.com/track/32eU3Iod2SBL0C7sJaIdYf"
+    },
+    {
+      "added_at": "2025-08-19 16:57:04",
+      "album": {
+        "name": "\u305f\u3086\u305f\u3046\u307e\u307e\u306b",
+        "url": "https://open.spotify.com/album/0UMRde9b3pNBHXTXUKDS3K"
+      },
+      "artists": [
+        {
+          "name": "\u307f\u3055\u304d",
+          "url": "https://open.spotify.com/artist/48XWQ7slyWKPTKAHY4qYtU"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "\u305f\u3086\u305f\u3046\u307e\u307e\u306b",
+      "url": "https://open.spotify.com/track/0CChuQNcBctCFFC17znqRd"
     },
     {
       "added_at": "2025-08-19 16:57:04",
@@ -1623,22 +1639,6 @@
       "duration_ms": 282320,
       "name": "\u30e1\u30ed\u30c7\u30a3\u30fc",
       "url": "https://open.spotify.com/track/1TALo6TJ6VkhHWYNgU0xGe"
-    },
-    {
-      "added_at": "2025-08-19 16:57:04",
-      "album": {
-        "name": "\u541b\u304c\u304f\u308c\u305f\u3082\u306e",
-        "url": "https://open.spotify.com/album/1WfM9Ij6F3f8KM7aV01FeV"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 167410,
-      "name": "\u541b\u304c\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/67Mp5KEtqshjg2k8pUyPlN"
     }
   ],
   "unique_name": "Women's Voice",

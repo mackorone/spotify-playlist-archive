@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -23816,7 +23816,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 163822,
       "name": "KUHU KADUS STEN?",
       "url": "https://open.spotify.com/track/63YH4W1jfTXbuS9LNSCTXB"
@@ -28860,6 +28860,28 @@
     {
       "album": {
         "name": "One More Love",
+        "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"
+    },
+    {
+      "album": {
+        "name": "One More Love",
         "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
       },
       "artists": [
@@ -28874,7 +28896,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 210093,
       "name": "Memories (feat. Kid Cudi)",
       "url": "https://open.spotify.com/track/7fLzbEOBOae9lUnOwr7Tse"
@@ -30192,7 +30214,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-19",
+      "date_removed": null,
       "duration_ms": 252306,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/5c7Mswm6Ueq0nKlgH3rTwQ"
@@ -31208,7 +31230,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 195652,
       "name": "Mustrid",
       "url": "https://open.spotify.com/track/2tD631MTRgTWLOXQdJJ8W2"
@@ -32770,7 +32792,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 90067,
       "name": "Nope your too late i already died",
       "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G"
@@ -36172,7 +36194,7 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 275235,
       "name": "PISARAD",
       "url": "https://open.spotify.com/track/0IDsFsjysmIHDJujdbPfFo"
@@ -40598,7 +40620,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/2dGxjfhFXDIUX9h5ImyKkE"
@@ -41090,7 +41112,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"

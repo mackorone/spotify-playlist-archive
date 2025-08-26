@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: frytz
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,586 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,592 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [24h](https://open.spotify.com/track/3HM9AnMuan4N9nWUsgxMjP) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [24h](https://open.spotify.com/album/1vQsWETIxFwtbb4gM4Xqew) | 2:28 |
-| 2 | [Ich werde still](https://open.spotify.com/track/0OzMJwdfsGawWlErbtUHEb) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Ich werde still](https://open.spotify.com/album/0DNhEhFOa8cEIJNIZ9U7hb) | 1:31 |
-| 3 | [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 |
-| 4 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 |
-| 5 | [99 Sorgen](https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [99 Sorgen](https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX) | 2:38 |
+| 2 | [Fucked Up feat\. makko](https://open.spotify.com/track/4oASO8jyg0Qh7cUeve1bEA) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [makko](https://open.spotify.com/artist/6ARKr2ZoLf9TDoQiZarJMt) | [Fucked Up feat\. makko](https://open.spotify.com/album/39KDXJu8pbaQvqlUIzDnTs) | 2:53 |
+| 3 | [dior sauvage](https://open.spotify.com/track/3a2r3BiCyrIJrjQ48GYXvH) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [dior sauvage](https://open.spotify.com/album/6mglQLvNF6toJrkOQId9zs) | 2:27 |
+| 4 | [Sommerpoesie](https://open.spotify.com/track/6OkEpZUV4b7QXXH1QinBK7) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Sommerpoesie](https://open.spotify.com/album/6AfJ2WbGmvxkuPNf3AhE3l) | 3:26 |
+| 5 | [Ich werde still](https://open.spotify.com/track/0OzMJwdfsGawWlErbtUHEb) | [RAR](https://open.spotify.com/artist/0ms1soCPtzKiqFMK198lya) | [Ich werde still](https://open.spotify.com/album/0DNhEhFOa8cEIJNIZ9U7hb) | 1:31 |
 | 6 | [Kein Schlaf](https://open.spotify.com/track/15ZgdKMbbFRVBmd1GQq046) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Kein Schlaf](https://open.spotify.com/album/6ezFaJAHSuBP3wsEVuRFaA) | 2:37 |
-| 7 | [Sommerpoesie](https://open.spotify.com/track/6OkEpZUV4b7QXXH1QinBK7) | [Heavent](https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV) | [Sommerpoesie](https://open.spotify.com/album/6AfJ2WbGmvxkuPNf3AhE3l) | 3:26 |
-| 8 | [Jetzt oder Skigebiet](https://open.spotify.com/track/3ybfVOzDMpcJiSorQLatvn) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Jetzt oder Skigebiet](https://open.spotify.com/album/2V1sjh2fexDY71oafyQKZj) | 2:23 |
-| 9 | [vorbei](https://open.spotify.com/track/26KYKHhaezkO3A5cPsTs45) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [vorbei](https://open.spotify.com/album/2QYjrH3ZR6dNDMNZ90eQW1) | 3:36 |
-| 10 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
+| 7 | [Jetzt oder Skigebiet](https://open.spotify.com/track/3ybfVOzDMpcJiSorQLatvn) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Jetzt oder Skigebiet](https://open.spotify.com/album/2V1sjh2fexDY71oafyQKZj) | 2:23 |
+| 8 | [vorbei](https://open.spotify.com/track/26KYKHhaezkO3A5cPsTs45) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [vorbei](https://open.spotify.com/album/2QYjrH3ZR6dNDMNZ90eQW1) | 3:36 |
+| 9 | [Räuber](https://open.spotify.com/track/7FlD4gnVO1DVl4QDwjwW71) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Räuber](https://open.spotify.com/album/5rKwLPSnTXWRh5vimce5NW) | 2:20 |
+| 10 | [Atme ein](https://open.spotify.com/track/4M2NtmBf4aTy0QiZBCOcgD) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Atme ein](https://open.spotify.com/album/24jXLC04EwMVNMpg3PQint) | 2:21 |
 | 11 | [steh nicht auf](https://open.spotify.com/track/0GHPOb9kflv0RIQNK46lcq) | [ELEF](https://open.spotify.com/artist/5LjNJvBglFTGsAYikefcvH) | [steh nicht auf](https://open.spotify.com/album/1m9ELcRGqbAjGZePawnsgq) | 2:15 |
 | 12 | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/track/6IxHTDUOlZpozmf2HkSpKi) | [Kraftklub](https://open.spotify.com/artist/0MZ55DwuMQ1B2TXq9lcrE4) | [Wenn ich tot bin, fang ich wieder an](https://open.spotify.com/album/38KsuTCAeC7HCnR3yYChUx) | 2:56 |
-| 13 | [Atme ein](https://open.spotify.com/track/4M2NtmBf4aTy0QiZBCOcgD) | [BRUCHBUDE](https://open.spotify.com/artist/1qmBzZ6fokNBJqlPxrID7U) | [Atme ein](https://open.spotify.com/album/24jXLC04EwMVNMpg3PQint) | 2:21 |
-| 14 | [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 |
-| 15 | [So lang gewartet](https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [So lang gewartet](https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo) | 2:48 |
+| 13 | [Marmeladenglas](https://open.spotify.com/track/0zfEbXO9ZbjVeBhry6BFfU) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Marmeladenglas](https://open.spotify.com/album/5lejtK4NAGjPhhXpY3JP4w) | 2:06 |
+| 14 | [So lang gewartet](https://open.spotify.com/track/1EUV51UFVKj090bXZB3MQo) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [So lang gewartet](https://open.spotify.com/album/6psGGbFWYFEkE4e9H97KUo) | 2:48 |
+| 15 | [99 Sorgen](https://open.spotify.com/track/7e7jAWZmn3z6gA12Kf22m1) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [99 Sorgen](https://open.spotify.com/album/54QrE9SBzlYHpWIDhO0TyX) | 2:38 |
 | 16 | [Nur bei mir](https://open.spotify.com/track/3YcZKKhe100rWxpzSr9KiP) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Nur bei mir](https://open.spotify.com/album/0H0UYnNzX59q2fiuGRxuVw) | 2:16 |
 | 17 | [Ohne Dich](https://open.spotify.com/track/1Bz1Ftugqs9AyrP4Hykm1h) | [FREDRIK](https://open.spotify.com/artist/4q6dFbIncP8SWxdy18XhPT) | [Ohne Dich](https://open.spotify.com/album/0JkGj98qkR4JeTkF029D5M) | 2:44 |
 | 18 | [weiter](https://open.spotify.com/track/1wwlaWfHwaLyEGgN9OBXir) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [weiter](https://open.spotify.com/album/7uGyrhdX7Ur8pR9ohGTwwg) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Baby](https://open.spotify.com/track/2K8LotZ71D5sK93rEYYMyF) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Baby](https://open.spotify.com/album/2ojwkJeYa4FCVmqKMK4XTo) | 2:15 |
 | 75 | [Rennrad\-Romantik](https://open.spotify.com/track/5IJ9Vcm4d3bTm5tbEeZBaQ) | [Ein Rosenkavalier](https://open.spotify.com/artist/2BFWX84vhL1lWdNvGdvssw) | [Rennrad\-Romantik](https://open.spotify.com/album/3m06s1EvynziPZd37mhO3l) | 2:24 |
 
-Snapshot ID: `AAAAADaSLW/5IZsMBfXLBlAkdbXa6gEG`
+Snapshot ID: `AAAAAJNm0hsjZzTugh1D/uBNIE18ApAM`

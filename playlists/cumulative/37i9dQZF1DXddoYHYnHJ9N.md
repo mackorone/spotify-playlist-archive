@@ -4,10 +4,11 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: Manuel
 
-132 songs - 6 hr 33 min
+134 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 to 12](https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 4:02 | 2025-08-25 |  |
 | [45 Primo](https://open.spotify.com/track/1iJSUAeT5x2fooS8jFg7cy) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [IGAZIAKÉRT](https://open.spotify.com/album/79TxTooMGOIBxL57zgx6n1) | 2:36 | 2024-07-01 | 2024-10-22 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-10 | 2025-06-10 |
 | [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2024-07-01 |  |
@@ -67,7 +68,7 @@
 | [KETTŐ/KETTŐ](https://open.spotify.com/track/5kYCuv93MHR0w7Gs3CG5F6) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [KETTŐ/KETTŐ](https://open.spotify.com/album/5slcrNg1ERALgUDkdwYiRk) | 2:57 | 2025-04-07 |  |
 | [Kimaradás](https://open.spotify.com/track/6ij2MtTi05Tpghcvp4i64m) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Ferike](https://open.spotify.com/artist/5jL6bZFXh0g5zists9pECZ) | [Kimaradás](https://open.spotify.com/album/06yuxkFSMGASGQOnQdSiBI) | 2:15 | 2025-08-11 |  |
 | [LEVÉL](https://open.spotify.com/track/1wYyJvMvmVUpCi7MA41HB8) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [LEVÉL](https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh) | 2:37 | 2024-12-30 |  |
-| [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 | 2025-04-28 |  |
+| [Libikóka](https://open.spotify.com/track/66FSHBlaFjgUBE7AKVRxmj) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Libikóka](https://open.spotify.com/album/6BKsMwAE9c1NM5moE808Yb) | 4:01 | 2025-04-28 | 2025-08-26 |
 | [Lidokain](https://open.spotify.com/track/2lQkm39mnvJWhEABSRduHx) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA), [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [Lidokain](https://open.spotify.com/album/0epDJ4zO5ZSQtLYcqJ8Z2b) | 2:57 | 2024-08-19 |  |
 | [Loca](https://open.spotify.com/track/4VXiDjCRkKHvXFhSX7OEri) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv), [KÚTVÖLGYI SÁRA](https://open.spotify.com/artist/2HFVT3TbcVZW8lWVE4eIka) | [Loca](https://open.spotify.com/album/2nKNusskARBW5lMEt3996z) | 1:54 | 2024-07-01 |  |
 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 | 2024-07-01 | 2025-05-06 |
@@ -85,6 +86,7 @@
 | [No Woman No Cry](https://open.spotify.com/track/3AwRMZhguWChK8Vvdu4ebG) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [No Woman No Cry](https://open.spotify.com/album/5w7pVxcVHoXWs6By2NEDbQ) | 2:38 | 2024-07-01 | 2025-08-20 |
 | [Nosztalgia](https://open.spotify.com/track/33FPGRObmoMXs2oWY9H9lk) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 3\)](https://open.spotify.com/album/7xDuQfy7GG77mu9BGwQT04) | 3:09 | 2025-02-10 |  |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-15 | 2024-10-22 |
+| [OHMAMMA](https://open.spotify.com/track/2oKmNG8j56GqcX4XxyYcax) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N) | [OHMAMMA](https://open.spotify.com/album/0FI47MJzrv0dDT38VZaJEu) | 2:48 | 2025-08-25 |  |
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-03-31 |  |
 | [Orgonabokor](https://open.spotify.com/track/0I76u5NBRWclnf3KEnS33v) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Orgonabokor \(Part 1\)](https://open.spotify.com/album/19gTH12mvxBSHgiSjOfdpq) | 3:35 | 2025-01-13 | 2025-05-06 |
 | [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 | 2024-07-01 | 2024-12-17 |
@@ -130,7 +132,7 @@
 | [The First Time](https://open.spotify.com/track/7ETIZFr7163zFcz3RxKk5O) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:38 | 2025-05-26 | 2025-07-15 |
 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 | 2024-07-01 | 2025-02-11 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-07-01 | 2024-09-17 |
-| [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 | 2025-05-05 |  |
+| [Túl szép](https://open.spotify.com/track/4MEOjiTkrNxNs160x45p2p) | [Hien](https://open.spotify.com/artist/427eVj50XeC8tmsHm51euv) | [Játék Az Egész](https://open.spotify.com/album/4qu3S2E48nwRyOuxoMovm1) | 3:20 | 2025-05-05 | 2025-08-26 |
 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 | 2024-07-01 | 2025-02-25 |
 | [VERSENY](https://open.spotify.com/track/3Ej9MaTXoEHlAclVCtccA2) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [VERSENY](https://open.spotify.com/album/7BoGRMEz5YVBClZMGzn3Sv) | 2:21 | 2025-03-31 | 2025-06-03 |
 | [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-21 |  |

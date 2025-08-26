@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Awesome City Club
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Mega Shinnosuke
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,445 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,447 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Coastline](https://open.spotify.com/track/2Or2rAuyRobNiq1SCprmeq) | [Newspeak](https://open.spotify.com/artist/3eaUqC1a64Qk1pjNBv5L71) | [Glass Door](https://open.spotify.com/album/6jlLByMar1909FTwFfFL8q) | 3:37 |
 | 80 | [Old Blood](https://open.spotify.com/track/0xm04V0lvOLxTtuTjw4qGO) | [yahyel](https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo) | [In Amber](https://open.spotify.com/album/3bnPVtrsRNF1zsPMngDHDN) | 5:11 |
 
-Snapshot ID: `AAAAAFOlkzQg7/78GpqbuD81dZyEIO/Q`
+Snapshot ID: `AAAAALPpQcLY17hnS/oRCNcda1nRfEnU`

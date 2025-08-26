@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 149395,
+  "num_followers": 149410,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Papas Da L\u00edngua",
-        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
       "artists": [
         {
-          "name": "Papas Da L\u00edngua",
-          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
         }
       ],
-      "duration_ms": 298453,
-      "name": "Blusinha Branca",
-      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
+      "duration_ms": 325024,
+      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -439,18 +439,18 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+        "name": "Papas Da L\u00edngua",
+        "url": "https://open.spotify.com/album/4z5x9CgcV35w6akZkl9H4q"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+          "name": "Papas Da L\u00edngua",
+          "url": "https://open.spotify.com/artist/5q4N33QzlyTfRRNq4T1gH9"
         }
       ],
-      "duration_ms": 325024,
-      "name": "Reggae do Manero - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0VaMFkBz3QsRAuaek4jYR5"
+      "duration_ms": 298453,
+      "name": "Blusinha Branca",
+      "url": "https://open.spotify.com/track/1VHjjOOllU87VRa8B2EWiX"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -575,18 +575,22 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
+        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 215847,
-      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
+      "duration_ms": 191664,
+      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -655,22 +659,18 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
-        "name": "Solst\u00edcio de Ver\u00e3o (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw"
+        "name": "Casa de Praia Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0FXWVgacZM1Me0aWimzzeE"
       },
       "artists": [
         {
           "name": "Gabriel Elias",
           "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         }
       ],
-      "duration_ms": 191664,
-      "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
+      "duration_ms": 215847,
+      "name": "Cravo e Canela - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7EyY1Ho77ywcjzsh6KxBSu"
     },
     {
       "added_at": "2025-08-15 15:30:35",
@@ -779,6 +779,22 @@
     {
       "added_at": "2025-08-15 15:30:35",
       "album": {
+        "name": "Na Cidade",
+        "url": "https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt"
+      },
+      "artists": [
+        {
+          "name": "Acustico Reggae",
+          "url": "https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh"
+        }
+      ],
+      "duration_ms": 199826,
+      "name": "A Verdade",
+      "url": "https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu"
+    },
+    {
+      "added_at": "2025-08-15 15:30:35",
+      "album": {
         "name": "Ac\u00fastico Helio Bentes",
         "url": "https://open.spotify.com/album/0dChJJpi23nrGBsdTiIRrh"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 176920,
       "name": "Estar Com Voc\u00ea - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6RhGK2a9CBRBhkM8IrAbFy"
-    },
-    {
-      "added_at": "2025-08-15 15:30:35",
-      "album": {
-        "name": "Na Cidade",
-        "url": "https://open.spotify.com/album/6PazpBG8UxyQNrf2GFFpSt"
-      },
-      "artists": [
-        {
-          "name": "Acustico Reggae",
-          "url": "https://open.spotify.com/artist/7FcAQCTYtDwaJxuImpe7Wh"
-        }
-      ],
-      "duration_ms": 199826,
-      "name": "A Verdade",
-      "url": "https://open.spotify.com/track/2bYnxpCsu0GOPCH0VG98mu"
     },
     {
       "added_at": "2025-08-15 15:30:35",

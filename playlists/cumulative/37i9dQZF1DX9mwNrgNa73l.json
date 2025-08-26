@@ -2529,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Mee Raqsam",
+        "url": "https://open.spotify.com/album/0UyC4LKCF25GCYj6R9MKqZ"
+      },
+      "artists": [
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303749,
+      "name": "Mee Raqsam",
+      "url": "https://open.spotify.com/track/1szkFgc12IkhomwVaXLGdP"
+    },
+    {
+      "album": {
         "name": "Mera Khuda",
         "url": "https://open.spotify.com/album/6TVa0BaHhcqzANHOm0bxhw"
       },

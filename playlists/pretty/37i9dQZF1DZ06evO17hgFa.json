@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 145951,
+  "num_followers": 145972,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAABJl9SjRcKLVKtb7FKqxT1t",
+  "snapshot_id": "aKpWAAAAAAC26leg7YTDZ0Fu/qas/Fi4",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Billie Holiday On Verve 1945 - 1959",
-        "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "P.S. I Love You",
-      "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lady Sings",
         "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 195586,
       "name": "I'll Look Around",
       "url": "https://open.spotify.com/track/1wAURZCIA0k5RNwaJN3dH3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Billie Holiday On Verve 1945 - 1959",
+        "url": "https://open.spotify.com/album/0IDzonuhaUBQp0zB03t6tC"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "P.S. I Love You",
+      "url": "https://open.spotify.com/track/7vmC7JVs2lGtdaE3vg8aPp"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 179640,
       "name": "Foolin' Myself (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/3nIpFMbuhstntUZT4FpuPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billie Holiday's Greatest Hits",
         "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/2ACx6c851YfpUQygrASE6v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lover Man",
         "url": "https://open.spotify.com/album/7tsBTgXE5wZggdmh5qBhZH"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 179453,
       "name": "There Is No Greater Love",
       "url": "https://open.spotify.com/track/2fSlY7Sv6ZKcTOkp1ki9xL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Evening With Billie Holiday",
+        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "He's Funny That Way",
+      "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
       "duration_ms": 200466,
       "name": "My Sweet Hunk O' Trash - Single Version",
       "url": "https://open.spotify.com/track/7vVu4cjI5zfOMlQk4EuCwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Evening With Billie Holiday",
-        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "He's Funny That Way",
-      "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
     },
     {
       "added_at": null,

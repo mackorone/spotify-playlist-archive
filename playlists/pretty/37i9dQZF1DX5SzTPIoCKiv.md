@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Forrest Frank
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,916 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,660 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 49 | [Canyon](https://open.spotify.com/track/0AmKjCIxl7leZzlVbHeAmO) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Canyon](https://open.spotify.com/album/1BSzjovh9NjjdoxfSVyjbV) | 3:40 |
 | 50 | [To Save My Life](https://open.spotify.com/track/3ztqayRkNjhDgsJ3fKwu3P) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [My Foundation](https://open.spotify.com/album/5aHy0vrK4u7BtrGkUwMa0q) | 3:20 |
 
-Snapshot ID: `AAAAAGww29rx4dX2LgFj6Au1Kl88ITKm`
+Snapshot ID: `AAAAAN/prSISAivmqC/mPXAE4MDsS//b`

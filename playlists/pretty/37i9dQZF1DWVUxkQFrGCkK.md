@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Peak IBZ szn has arrived!
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,126 likes - 321 songs - 20 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,210 likes - 321 songs - 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 16 | [Drift](https://open.spotify.com/track/3tzBmEfFb4ob5vmrJRQIBG) | [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Drift](https://open.spotify.com/album/0YdGP0C4vuR4dSYSVfWiRe) | 2:42 |
 | 17 | [Hyped](https://open.spotify.com/track/0o8QAt7ztcKvzbqfiWw0N8) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Hyped](https://open.spotify.com/album/0sGOtCrhUlvM6coCJmS6GR) | 2:59 |
 | 18 | [Kuon Bel](https://open.spotify.com/track/4F9jIGLQQEbcEAEFsm81gH) | [Shang Jal](https://open.spotify.com/artist/17rEk43TKuof1RFTJbZA9S), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm), [MANU \(UK\)](https://open.spotify.com/artist/7GHIqxeRBx0oXdgxwkPbu5) | [Kuon Bel](https://open.spotify.com/album/56VkRNeOvrVXIQOnUrI7Gx) | 4:38 |
-| 19 | [Pop Pop](https://open.spotify.com/track/3AUs97dQW2Q0TmwLB5J8st) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [KZ](https://open.spotify.com/artist/1sGcmg6f9i6z6yvqmj5tsP) | [Pop Pop](https://open.spotify.com/album/3kpVIHgmQMRTRar6CPP84t) | 3:00 |
+| 19 | [Pop Pop](https://open.spotify.com/track/3AUs97dQW2Q0TmwLB5J8st) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [KZ](https://open.spotify.com/artist/1sGcmg6f9i6z6yvqmj5tsP) | [Pop Pop](https://open.spotify.com/album/3kpVIHgmQMRTRar6CPP84t) | 3:00 |
 | 20 | [Leave The World Behind](https://open.spotify.com/track/1ZGs1UN56boDca814jara3) | [A.M.R \(DE\)](https://open.spotify.com/artist/3wTOYGr5OFMhLhbbZGYCBD), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Leave The World Behind](https://open.spotify.com/album/2yuvGs4SvCvDzdr9btBErf) | 4:20 |
 | 21 | [Ego](https://open.spotify.com/track/5L4og0sQG7Y8dfvOthDvnZ) | [Cincity](https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Ego](https://open.spotify.com/album/4guAQvmy00NA8CqeeZOLE9) | 3:41 |
 | 22 | [Take A Chance \- GROSSOMODDO Remix](https://open.spotify.com/track/4Z09mBFsJFE6yOe1macRk8) | [PLS&TY](https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq), [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [Take A Chance \(GROSSOMODDO Remix\)](https://open.spotify.com/album/7285R1kwxkVBfIuijS48gK) | 3:19 |

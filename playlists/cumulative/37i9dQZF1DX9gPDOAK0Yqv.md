@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-778 songs - 2 day 11 hr 5 min
+779 songs - 2 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 | 2022-12-28 | 2023-01-06 |
 | [Cold](https://open.spotify.com/track/0qqWTIRNpo9z2HMx6eyp5N) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY) | [Cold](https://open.spotify.com/album/3HDyEWSeGWRADU4tzJqVxV) | 2:23 | 2024-05-31 | 2024-06-07 |
 | [Collide](https://open.spotify.com/track/4PaBwFv5dmdOcgMlWXPFjb) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae), [Lucy Dye](https://open.spotify.com/artist/43ExVtoWEweRa8s1SlFZUj) | [Collide](https://open.spotify.com/album/0W3ydXnmAlPbadePFzbYaQ) | 3:49 | 2024-10-17 |  |
-| [collide](https://open.spotify.com/track/4ZiRO3AgPASOA3t5Jad3oJ) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [collide](https://open.spotify.com/album/5GdP1B6qEllUcmClyHMLh2) | 2:35 | 2025-07-18 |  |
+| [collide](https://open.spotify.com/track/4ZiRO3AgPASOA3t5Jad3oJ) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [collide](https://open.spotify.com/album/5GdP1B6qEllUcmClyHMLh2) | 2:35 | 2025-07-18 | 2025-08-26 |
 | [Colossal](https://open.spotify.com/track/3so70hAlmiYsFhAcbLjIfc) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72), [Sideral](https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b) | [Colossal](https://open.spotify.com/album/3anbwyAI9TgmLyFTBjPTiY) | 4:00 | 2024-07-19 | 2025-01-17 |
 | [Come Alive](https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-05-05 | 2023-06-02 |
 | [Come Alive \- Matchy Remix Edit](https://open.spotify.com/track/7CyU6DNSJuvWLyiQyOllTx) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Matchy](https://open.spotify.com/artist/5BF9eGIdwa9gt4RAXP8w1n) | [Come Alive \(Matchy Remix Edit\)](https://open.spotify.com/album/32OBA5txZoa5beJwW1clIm) | 3:41 | 2024-04-25 | 2024-05-03 |
@@ -766,6 +766,7 @@
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/3XgtRplaKaBn8lxBCAhfwI) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/album/5T23uxAysoGW9w9blVWTi5) | 4:05 | 2023-06-09 | 2023-08-14 |
 | [Welcome To The Opera \(with Grimes\)](https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 4:05 | 2023-08-11 | 2023-12-01 |
 | [Wet](https://open.spotify.com/track/5zrAR15AflURH6qd9QhLra) | [Testpilot](https://open.spotify.com/artist/4KZ2CyWpeORBTUd4vBAqnN), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Wet](https://open.spotify.com/album/6GQv5oaFsol421ygVYu5aW) | 8:45 | 2024-07-12 | 2025-05-11 |
+| [What Else Is There? \- andhim Remix](https://open.spotify.com/track/5pnfsK4ixUVbd1hHxxhopo) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP), [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [What Else Is There? \(andhim Remix\)](https://open.spotify.com/album/5Gub6wHosCUhHM8Cx3LVTT) | 3:52 | 2025-08-22 |  |
 | [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 | 2024-07-02 | 2025-04-25 |
 | [Where I'm From](https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz), [Belladonna \(ofc\) ](https://open.spotify.com/artist/1ECGFhfV6SJLbKnTvBFsaQ) | [Where I'm From](https://open.spotify.com/album/71N6oT6Vtqs5xjn9b1xxYK) | 3:22 | 2025-03-13 |  |
 | [WHISPERS](https://open.spotify.com/track/0f6oK62DN8UqVHZzR2JKwr) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [AGAP](https://open.spotify.com/artist/6JKXFtwnMLqYtM1pEP8JL6) | [WHISPERS](https://open.spotify.com/album/66MXIQMytwsMQdYtXSlG1C) | 3:31 | 2024-06-06 | 2025-01-17 |

@@ -2,7 +2,7 @@
 
 ### [Tamil Romance](https://open.spotify.com/playlist/37i9dQZF1DWYfvJNWU1bKi)
 
-> The best in romantic tunes from Tamil cinema.<br/>Cover : Lubber Pandhu
+> The best in romantic tunes from Tamil cinema.<br/>Cover : Thalaivan Thalaivii
 
 179 songs - 13 hr 3 min
 

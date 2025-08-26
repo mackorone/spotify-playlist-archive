@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Barakin",
+        "url": "https://open.spotify.com/album/6R9XnKxka0nN1Kpet39x5u"
+      },
+      "artists": [
+        {
+          "name": "Lazaro",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Barakin",
+      "url": "https://open.spotify.com/track/4E313AQkPCIPASvQZvHbvN"
+    },
+    {
+      "album": {
         "name": "Basta",
         "url": "https://open.spotify.com/album/65JXgsLC8qe5l2p2m5QMQr"
       },
@@ -920,6 +938,28 @@
       "duration_ms": 162222,
       "name": "Daba Daba",
       "url": "https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo"
+    },
+    {
+      "album": {
+        "name": "Darba Darba",
+        "url": "https://open.spotify.com/album/0P72qr4PKTN88LnSn42YCM"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        },
+        {
+          "name": "badr ouabi",
+          "url": "https://open.spotify.com/artist/2JYV7Jmi2njyq5FxTK6NFQ"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234078,
+      "name": "Darba Darba",
+      "url": "https://open.spotify.com/track/1a9hlVgb6t0YoizhheNSuf"
     },
     {
       "album": {
@@ -2394,7 +2434,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 187500,
       "name": "Mali Hakda",
       "url": "https://open.spotify.com/track/5XC6SzFNy3aYjkHGkp0C9X"
@@ -2546,6 +2586,24 @@
       "duration_ms": 198595,
       "name": "Mimti",
       "url": "https://open.spotify.com/track/6MZ3lIqUARBkZEDERr6tlF"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/4gpSrE8EvFGfjwEV8ILzTX"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/7eSOy2Wb3xE76X1u03lTQm"
     },
     {
       "album": {
@@ -2770,7 +2828,7 @@
       ],
       "date_added": "2025-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 201186,
       "name": "PENALTY",
       "url": "https://open.spotify.com/track/6K98YuYoefShCK5qIsPybL"
@@ -2846,7 +2904,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 185555,
       "name": "Riwayti",
       "url": "https://open.spotify.com/track/4XQkwvPiEGYEBMcWc5aHSl"

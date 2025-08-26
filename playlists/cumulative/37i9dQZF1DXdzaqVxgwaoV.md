@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-314 songs - 19 hr 9 min
+315 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Macondo](https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Macondo](https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E) | 3:57 | 2023-02-03 | 2024-09-02 |
 | [Maldita Traicion](https://open.spotify.com/track/1vBkb5uekLodTDjvHWwnm4) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:08 | 2023-02-03 | 2024-09-02 |
 | [Mar de Emociones](https://open.spotify.com/track/5Ocn6dZ3BJFPWh4ylwFXtn) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv) | [Historia Músical \- 40 Éxitos](https://open.spotify.com/album/08HcNFrvSVdG8h1zOJj7nO) | 3:34 | 2023-12-20 | 2024-04-19 |
-| [Mar de Emociones](https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv), [Jorge Juan Mejía](https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN) | [Afrosound](https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF) | 3:35 | 2024-09-01 |  |
+| [Mar de Emociones](https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4) | [Afrosound](https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv), [Jorge Juan Mejía](https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN) | [Afrosound](https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF) | 3:35 | 2024-09-01 | 2025-08-26 |
 | [María Teresa](https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:36 | 2023-11-09 |  |
 | [Matemos las Ganas](https://open.spotify.com/track/0bID0lGh8aR5jc6PkiyPUN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos las Ganas](https://open.spotify.com/album/4F9KrbhXKsZaHMv5R0zmom) | 3:02 | 2023-02-03 |  |
 | [Me Bebí Tu Recuerdo](https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Me Bebi Tu Recuerdo](https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS) | 3:19 | 2023-02-03 | 2024-09-02 |
@@ -255,6 +255,7 @@
 | [Que Sufra, Que Chupe y Que Llore](https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [La Voz Popular de América](https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ) | 3:35 | 2023-02-03 | 2024-09-02 |
 | [Quien Piensa En Ti](https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 7](https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN) | 4:38 | 2024-09-01 |  |
 | [Quiero Que Sepas](https://open.spotify.com/track/3rKAnW24I1KT8uoKllBB8B) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [Los Exitazos De Lupe Y Polo](https://open.spotify.com/album/4L3qgi5ztCfcWmT1aN3znS) | 2:30 | 2023-02-03 | 2024-09-02 |
+| [Quiero Ser Feliz](https://open.spotify.com/track/2vyiAiog5grnWpiHXfrX5n) | [Los Black Star](https://open.spotify.com/artist/1Sj1R6x4FGlNFfdGG2fpnL) | [A Mover el Esqueleto Con 3 Grandes](https://open.spotify.com/album/0YWIrrISo3DyXAXsjKheUy) | 4:21 | 2024-11-01 |  |
 | [Quiéreme en Vida](https://open.spotify.com/track/6UjYl2kpMdvVDu02OGmiz6) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:08 | 2023-02-03 | 2024-09-02 |
 | [Qué Haré Sin Ti](https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Grandes Éxitos Grupo Caneo, Vol\. 7](https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN) | 4:26 | 2024-09-01 |  |
 | [Qué Sera de Mí](https://open.spotify.com/track/2YO7dZYb0jsf93BH2GtlNY) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:37 | 2023-11-09 | 2024-04-19 |

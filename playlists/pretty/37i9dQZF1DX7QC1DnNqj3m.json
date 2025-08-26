@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 528896,
+  "num_followers": 528881,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "onmyradio",
-        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 291133,
-      "name": "sobeautiful",
-      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
-    },
-    {
-      "added_at": "2025-04-25 11:32:20",
-      "album": {
         "name": "Greatest Motown Hits",
         "url": "https://open.spotify.com/album/1tW5QSPVGeD5U0WzPFGTAX"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 175693,
       "name": "What Becomes Of The Brokenhearted",
       "url": "https://open.spotify.com/track/09Nlhtnn087cbbhMzuInxy"
+    },
+    {
+      "added_at": "2025-04-25 11:32:20",
+      "album": {
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
     },
     {
       "added_at": "2025-04-25 11:32:20",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2025-04-25 11:32:20",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD"
+        "name": "For The Deported",
+        "url": "https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY"
       },
       "artists": [
         {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD"
+      "duration_ms": 218150,
+      "name": "Open Light",
+      "url": "https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h"
     }
   ],
   "unique_name": "Sweet Soul Sunday",

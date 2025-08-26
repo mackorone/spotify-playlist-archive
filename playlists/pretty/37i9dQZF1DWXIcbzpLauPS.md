@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Devil Wears Prada
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,209 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,176 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,13 +93,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 83 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 |
 | 84 | [Violent Nature](https://open.spotify.com/track/6SqFv0vK5tw9cTUZHOq5MT) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Zenith](https://open.spotify.com/album/6t8DxeLhrL2wq9MQLppgYb) | 3:55 |
 | 85 | [Blood Upon The Ashes](https://open.spotify.com/track/6gj0BlbkoBTW4ZVmHCciLd) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Blood Upon The Ashes](https://open.spotify.com/album/24BF7eMmRX9P6ngEmMltZx) | 3:44 |
-| 86 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 |
-| 87 | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31) | 3:40 |
-| 88 | [Where Were You..?](https://open.spotify.com/track/6tJh9RTchQIH2hUxWRwsni) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Where Were You..?](https://open.spotify.com/album/2vQ5bsqYqpGNNVlfIBe16T) | 3:04 |
-| 89 | [Dance!](https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Dance!](https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL) | 3:06 |
-| 90 | [Drowning Therapy](https://open.spotify.com/track/60QCZRnLWQVvFBCzLY2dvR) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [a piece of me i never let you find.](https://open.spotify.com/album/1yh863utXtpMuPlIbzM2Uh) | 3:31 |
-| 91 | [mallxcore](https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [mallxcore](https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu) | 3:09 |
-| 92 | [Eyes Above](https://open.spotify.com/track/2XB2Hp4JtKMUAqRHh6DNZc) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Eyes Above](https://open.spotify.com/album/1Kr1QMlJz1cTjg64SApE74) | 4:21 |
+| 86 | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31) | 3:40 |
+| 87 | [Where Were You..?](https://open.spotify.com/track/6tJh9RTchQIH2hUxWRwsni) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Where Were You..?](https://open.spotify.com/album/2vQ5bsqYqpGNNVlfIBe16T) | 3:04 |
+| 88 | [Dance!](https://open.spotify.com/track/70GR0y0UQoWDOzApauQqpN) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Dance!](https://open.spotify.com/album/4SDP4cjecVJyK4Y7dJSRHL) | 3:06 |
+| 89 | [Drowning Therapy](https://open.spotify.com/track/60QCZRnLWQVvFBCzLY2dvR) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [a piece of me i never let you find.](https://open.spotify.com/album/1yh863utXtpMuPlIbzM2Uh) | 3:31 |
+| 90 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 |
+| 91 | [Eyes Above](https://open.spotify.com/track/2XB2Hp4JtKMUAqRHh6DNZc) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Eyes Above](https://open.spotify.com/album/1Kr1QMlJz1cTjg64SApE74) | 4:21 |
+| 92 | [mallxcore](https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [mallxcore](https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu) | 3:09 |
 | 93 | [STORM ABLAZE](https://open.spotify.com/track/4wRUMIwbXP75C8487sR4v5) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [STORM ABLAZE](https://open.spotify.com/album/7kYVmzEQvLY4GHnqlNARHU) | 3:29 |
 | 94 | [I Believe](https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [I Believe](https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA) | 3:54 |
 | 95 | [Inner Sanctum](https://open.spotify.com/track/3LEIp7OkTqbGS6WBeivfv3) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Inner Sanctum](https://open.spotify.com/album/7xrJWJieuZYcqyW4vvtM2L) | 3:49 |
@@ -117,9 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 107 | [If It's All The Same To You](https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [If It's All The Same To You](https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG) | 4:14 |
 | 108 | [Murder8](https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [Jamey Jasta](https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL) | [Murder8](https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G) | 3:48 |
 | 109 | [ONE HIT WONDER](https://open.spotify.com/track/13EORAL3cSWZmSRgRmEGI5) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [ONE HIT WONDER](https://open.spotify.com/album/2vgVnJmeHSZFOun6qyr0oH) | 3:06 |
-| 110 | [Take Me Too](https://open.spotify.com/track/4nRvqP1Ip6VrCHPlNyowwe) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Take Me Too](https://open.spotify.com/album/7E36DHRprkuvs8rQ35noJD) | 3:26 |
+| 110 | [Heaven](https://open.spotify.com/track/5iOaHX0UqdLWfxQLgTn40E) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Heaven](https://open.spotify.com/album/5SxcBzH9KLImpRk2xxY13X) | 4:21 |
 | 111 | [FiftyFive](https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [FiftyFive](https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K) | 3:24 |
-| 112 | [Heaven](https://open.spotify.com/track/5iOaHX0UqdLWfxQLgTn40E) | [Adept](https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu) | [Heaven](https://open.spotify.com/album/5SxcBzH9KLImpRk2xxY13X) | 4:21 |
+| 112 | [Take Me Too](https://open.spotify.com/track/4nRvqP1Ip6VrCHPlNyowwe) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Take Me Too](https://open.spotify.com/album/7E36DHRprkuvs8rQ35noJD) | 3:26 |
 | 113 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 |
 | 114 | [RAINBOWS](https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5) | 4:22 |
 | 115 | [wake up](https://open.spotify.com/track/0VOwatDTO6LFwZQgsUMY8N) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [Limerence](https://open.spotify.com/album/0motcONJsfhElYdP1r0hcQ) | 4:05 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 147 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 |
 | 148 | [Nails](https://open.spotify.com/track/7aGxbkuTFkAF7HP0DNnuIT) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS), [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Nails](https://open.spotify.com/album/1ajwTG2LVOTs6AZkb19mUR) | 3:26 |
 | 149 | [Death Shall Have No Dominion](https://open.spotify.com/track/1GIyLChtekB5A7o2zNtQdC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death Shall Have No Dominion](https://open.spotify.com/album/3iTGGhdy2wjqk4T4aP9g58) | 4:48 |
-| 150 | [Silver Swarm](https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Silver Swarm](https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz) | 4:33 |
+| 150 | [EARN YOUR FLOWERS](https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m) | 3:04 |
 
 Snapshot ID: `AAAAACBiom0QMYAu52TM13joBJjYRZy8`

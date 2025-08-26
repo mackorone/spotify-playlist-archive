@@ -32931,6 +32931,24 @@
     },
     {
       "album": {
+        "name": "Understanding",
+        "url": "https://open.spotify.com/album/74JlV5gZRP7dTAsZ2ZzoyP"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60262,
+      "name": "Understanding",
+      "url": "https://open.spotify.com/track/6j1CYkMrn87gIvLyNKF0wI"
+    },
+    {
+      "album": {
         "name": "Unending Moment",
         "url": "https://open.spotify.com/album/5cEALCyLTDhYuXkh5mvmLB"
       },

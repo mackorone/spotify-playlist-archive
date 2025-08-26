@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WqLn0X0AyN.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0EEbHnHvCvomjaPszMvJxL?si=SyuRhRzGRsisgugnfbIUdQ">Dope Caesar</a>'s favorite tracks\. Updated regularly\. Curated by Dope Caesar\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,976 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,049 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

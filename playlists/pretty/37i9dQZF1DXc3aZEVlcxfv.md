@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > I am blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,672 likes - 110 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,680 likes - 110 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 95 | [Celebration](https://open.spotify.com/track/7qcZTkaE3dXKI1pSKvAGfv) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Celebration](https://open.spotify.com/album/6Ol3vEyWQcgUkV28aWGBcB) | 2:54 |
 | 96 | [Ayeekoo](https://open.spotify.com/track/27djjwmWNZzAHmO7n7zrCL) | [Sefaaji Jenner](https://open.spotify.com/artist/7gY4XO6P6jBPXZVUt74lfF), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b) | [Ayeekoo](https://open.spotify.com/album/1XsDcKwWr5Iqb1PgabdgM8) | 2:42 |
 | 97 | [GOOD TO ME](https://open.spotify.com/track/5RCZQWLzAK4hGwtFEZJ5aG) | [MUNGU FENI](https://open.spotify.com/artist/28jInFXJyrUOt031oBINu9) | [GOOD TO ME](https://open.spotify.com/album/60D5KfAsnacCxd6iDcjzia) | 2:43 |
-| 98 | [Cover Me](https://open.spotify.com/track/6iBAbMB5ryUQKBFGTj7bvK) | [JohnTenkahkee](https://open.spotify.com/artist/037tuw882iye1AipqgleEN), [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [Cover Me](https://open.spotify.com/album/4a28YXcjrN5sHEiz488fMJ) | 2:17 |
+| 98 | [Cover Me](https://open.spotify.com/track/6iBAbMB5ryUQKBFGTj7bvK) | [MAKAMA](https://open.spotify.com/artist/4eBsXvGgVaTR199EPQUOec), [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [Cover Me](https://open.spotify.com/album/4a28YXcjrN5sHEiz488fMJ) | 2:17 |
 | 99 | [JESUS \- Acoustic Version](https://open.spotify.com/track/697RxMNB5lPeOqASJ8a9Um) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [JESUS \(Acoustic Version\)](https://open.spotify.com/album/1MLCsznCAwcFzLRuzQFuix) | 4:36 |
 | 100 | [So Grateful](https://open.spotify.com/track/4kbqk8gpGdGt5L0oNVQ6fS) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [So Grateful](https://open.spotify.com/album/2s3CMn5sVGIeR4E3gWj2fl) | 2:52 |
 | 101 | [You Never Leave](https://open.spotify.com/track/04ohrXlXa64ePcux7TyNM0) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [You Never Leave](https://open.spotify.com/album/4OZv2AKjptecJZI9G7tVzH) | 2:43 |

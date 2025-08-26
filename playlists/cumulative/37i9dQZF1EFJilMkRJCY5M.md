@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-158 songs - 8 hr 13 min
+159 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Baby Blue](https://open.spotify.com/track/2dVY0aLXcsN3eKCvcgs3MQ) | [Grace Lee](https://open.spotify.com/artist/5H9MaaK15IDsYf0UE64Kzh) | [Baby Blue](https://open.spotify.com/album/5GIRmKFCucH40zEWxHkwDQ) | 2:59 | 2022-05-29 |  |
 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 | 2022-05-29 |  |
 | [Better](https://open.spotify.com/track/10OTwttB9ioc2P7UlClFNg) | [Brenna Bone](https://open.spotify.com/artist/0L79xgZmjcUCraxgHJoTek) | [Better](https://open.spotify.com/album/0qmGuUwu9ql6avlCA1ShFV) | 3:24 | 2025-07-24 | 2025-07-31 |
+| [Blond](https://open.spotify.com/track/7sif8MyTwCcd4iiYeBdG1v) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Blond](https://open.spotify.com/album/4UC9EKAqCblrz1YhAuJ5HN) | 2:07 | 2025-08-25 |  |
 | [Boots to the Club](https://open.spotify.com/track/3Owpgh1KoJVeUfRUuVdaJX) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Commitment Issues](https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w) | 2:49 | 2024-05-17 |  |
 | [Both/And](https://open.spotify.com/track/3MyHVOLCrWtItxITiaJvAy) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [Goodbye To All Of That, 2023](https://open.spotify.com/album/5rJqKtbGfVUH8glGRtPVic) | 2:54 | 2023-03-12 |  |
 | [Break It](https://open.spotify.com/track/0eNjytL6q0F5N6S2OV23pj) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Break It](https://open.spotify.com/album/5Y8IvesNHyIUGuPzPy6St8) | 3:05 | 2022-05-29 | 2022-08-15 |

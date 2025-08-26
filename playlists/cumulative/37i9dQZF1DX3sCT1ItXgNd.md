@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Juan Magán, Abraham Mateo
 
-777 songs - 1 day 14 hr 58 min
+778 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-04 | 2023-08-22 |
 | [Copita Champagne](https://open.spotify.com/track/3xvnCTCFA6Ntd5gKLfKnmW) | [Mireya Rivas](https://open.spotify.com/artist/2eYwxBc6FsGFC45eWrEgps), [Chema Rivas](https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ) | [Copita Champagne](https://open.spotify.com/album/6u333hTQgleC2pzoNvBKcU) | 2:43 | 2023-07-04 | 2024-06-18 |
 | [CORAZONES ROTOS](https://open.spotify.com/track/7r5QwyDzxyikU1Kbkfz6FM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [CORAZONES ROTOS](https://open.spotify.com/album/28V2AlGwC1tF5Ph9f5WGy4) | 3:50 | 2023-03-13 | 2023-09-19 |
-| [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 | 2025-08-05 |  |
+| [Corazón](https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Babylon Club](https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj) | 2:43 | 2025-08-05 | 2025-08-26 |
 | [CORAZÓN PARTÍO \- Spotify Singles](https://open.spotify.com/track/7IOYWDbBjwMvOEwQQ89DoF) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spotify Singles](https://open.spotify.com/album/5ecHiU1k8hCfy61X3Q5W7T) | 4:13 | 2025-05-13 | 2025-06-24 |
 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 | 2024-03-18 | 2024-05-14 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-26 | 2023-09-22 |
@@ -750,6 +750,7 @@
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-10 | 2023-08-15 |
 | [VEINTIPICO](https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [VEINTIPICO](https://open.spotify.com/album/6YW7PgtKhCjphEhYgOpS9Q) | 2:26 | 2025-05-19 | 2025-05-27 |
 | [Veneno](https://open.spotify.com/track/2toy3ciZldadGuBSYTdbS4) | [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Veneno](https://open.spotify.com/album/17rC9nsqSsJkHeT04DPi8E) | 3:48 | 2025-01-13 | 2025-03-28 |
+| [Viajando Por El Mundo](https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 4:28 | 2025-08-25 |  |
 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-03-28 | 2023-04-11 |
 | [Viento](https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Viento](https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s) | 2:20 | 2024-06-17 | 2024-10-22 |
 | [Viernes](https://open.spotify.com/track/2tx7mEfR9lXzTi2Sbags7T) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Viernes](https://open.spotify.com/album/4r1Zyd80QdexPl8wan52t3) | 2:46 | 2025-06-30 | 2025-07-09 |

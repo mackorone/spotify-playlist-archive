@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 
 > Instrumental beats to lock\-in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,086 likes - 200 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,531 likes - 200 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,9 +116,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 106 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 |
 | 107 | [Catnip](https://open.spotify.com/track/2Nk8JO0n5Juw1ibgXcnHcY) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Catnip](https://open.spotify.com/album/7hhoLPGJppGrXyAK2h3bES) | 2:21 |
 | 108 | [Through The Garden](https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Through The Garden](https://open.spotify.com/album/7fl4nfQ0Sxav2ovfUWOLhC) | 2:06 |
-| 109 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 |
-| 110 | [benchside](https://open.spotify.com/track/1O2SCulKc5Yf6yKJwkz2oV) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [benchside](https://open.spotify.com/album/3NrrgGz64V2xLxJyuICCGX) | 2:10 |
-| 111 | [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 |
+| 109 | [benchside](https://open.spotify.com/track/1O2SCulKc5Yf6yKJwkz2oV) | [Lawrence Dor](https://open.spotify.com/artist/4jDRoLRaGCgYu9XplUNEMC) | [benchside](https://open.spotify.com/album/3NrrgGz64V2xLxJyuICCGX) | 2:10 |
+| 110 | [Chrome](https://open.spotify.com/track/69jaSWaSMN8g90yrPBBgbV) | [Mother Keem](https://open.spotify.com/artist/1URTwMVukB95vRmJwK9cWS) | [Chrome](https://open.spotify.com/album/0iMllOANJGQu2WNyZgpLIb) | 1:52 |
+| 111 | [Newfoundland](https://open.spotify.com/track/0LfVn0YGjq376wVwJo4THd) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Newfoundland](https://open.spotify.com/album/2Qc4mA0oXvPM20LnxiYAwH) | 2:49 |
 | 112 | [4you to just love](https://open.spotify.com/track/2u7BaomZDkHMx1xfth3d5s) | [The Easy Breeze](https://open.spotify.com/artist/5MpwtWtFfapulpKEjAeU81) | [4you to just love](https://open.spotify.com/album/7yMLFLuzDknKgARBtrIQqq) | 2:34 |
 | 113 | [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 |
 | 114 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 123 | [Honey and Spice](https://open.spotify.com/track/5ENIpwHxPVyKEp1JUGxZt8) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [Honey and Spice](https://open.spotify.com/album/3TsuK7dDF9d0Ab7VwMuqsw) | 2:08 |
 | 124 | [dream keeper](https://open.spotify.com/track/6xFrBq4Jo0rZup2nygCVSG) | [Chekkerz](https://open.spotify.com/artist/4ymqiB3DtTzSICNZMScTKz) | [dream keeper](https://open.spotify.com/album/4f15Bwm2AMymAQrn1Li3Kj) | 2:24 |
 | 125 | [Slick As A Swan](https://open.spotify.com/track/0Mka9kWv6P518Cz1ga626I) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [Slick As A Swan](https://open.spotify.com/album/5u9gRxKr2hwPFFtWDepX2o) | 2:12 |
-| 126 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 |
-| 127 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 |
+| 126 | [Simple Solitude](https://open.spotify.com/track/6QRsJz7vfDqWmX2YT64yqn) | [Chilou](https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8) | [Simple Solitude](https://open.spotify.com/album/7ji5s1oKZ0d1Vj8I9WJR5p) | 2:33 |
+| 127 | [Rododendron](https://open.spotify.com/track/7bPT9pBJaTdl5L4J5SfAI5) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Tripping At The Amusement Park Vol\. 2](https://open.spotify.com/album/7aUrSHxhKcltENe45QHYkG) | 2:09 |
 | 128 | [Arena](https://open.spotify.com/track/4kvzTLQ4uDH5ZY62jkRfK1) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Sundown](https://open.spotify.com/album/3ZZpzASMpDWcNRFizv5oUT) | 1:50 |
 | 129 | [don\`t go](https://open.spotify.com/track/2J8z3PEgZDhBf2pkXyCvXO) | [faux kitsune](https://open.spotify.com/artist/77wxmMCyAJ6Nvkw8isSUNv) | [don\`t go](https://open.spotify.com/album/1Lo7F3bCn4kHzTYywmNJyY) | 2:10 |
 | 130 | [human anatomy](https://open.spotify.com/track/4UL6Rt5I5des7YDW4nwrUD) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [human anatomy](https://open.spotify.com/album/4X5yOQEfWCZZlPnXPPYQAK) | 2:20 |
@@ -155,10 +155,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 145 | [crimeage](https://open.spotify.com/track/0tFutaV60AviDnHLPWoViG) | [Meringuemanic](https://open.spotify.com/artist/1erELVAyuBVTCgtSx6Yfjn) | [crimeage](https://open.spotify.com/album/1l2lkRiQHM1qvb43BEsMdp) | 2:04 |
 | 146 | [Nightlie](https://open.spotify.com/track/1BtS1rydHXYKyGyIrrrfph) | [Mos Becka](https://open.spotify.com/artist/2OlHuqEXZbePEmtsVP9Xlk) | [Nightlie](https://open.spotify.com/album/0GC1DNI4n7wFxDEEGSpuqC) | 2:14 |
 | 147 | [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 |
-| 148 | [choose to do](https://open.spotify.com/track/4CxeDRUKuzvFOOAvfq2jhe) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [choose to do](https://open.spotify.com/album/0bK9IWuEvpKjnrc3MOqFTy) | 2:20 |
-| 149 | [a second chance](https://open.spotify.com/track/5gyEE8Eaik6ujxqW4sRqqw) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [a second chance](https://open.spotify.com/album/4I83UWtTiNcDqVhoo0srKV) | 1:49 |
-| 150 | [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 |
-| 151 | [river](https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [river](https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1) | 2:19 |
+| 148 | [river](https://open.spotify.com/track/1Dp2tG4TB0StQ7N2b4ZM85) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [river](https://open.spotify.com/album/6r8swcvvedkHutO8AKvGl1) | 2:19 |
+| 149 | [choose to do](https://open.spotify.com/track/4CxeDRUKuzvFOOAvfq2jhe) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [choose to do](https://open.spotify.com/album/0bK9IWuEvpKjnrc3MOqFTy) | 2:20 |
+| 150 | [a second chance](https://open.spotify.com/track/5gyEE8Eaik6ujxqW4sRqqw) | [slowburn](https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo) | [a second chance](https://open.spotify.com/album/4I83UWtTiNcDqVhoo0srKV) | 1:49 |
+| 151 | [supajam](https://open.spotify.com/track/0EJPiTVZZJ4LIrfQcQpDlI) | [Camden Clown](https://open.spotify.com/artist/56yn1U5TaMjH6ENhDdlWfM) | [supajam](https://open.spotify.com/album/2qoWl3DKNFoKvMQSv79tl0) | 2:00 |
 | 152 | [Expected Events](https://open.spotify.com/track/7e2CntkyYlYKlTufrSOCGl) | [Poof Tricks](https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q) | [Expected Events](https://open.spotify.com/album/0Pa7yL0dq62qlO7Y54mShy) | 2:36 |
 | 153 | [industrial revolution](https://open.spotify.com/track/3BqQdX1CO7lrCmqJ9HgQUc) | [the tofu paradigm](https://open.spotify.com/artist/3Ux7jaAusHBJAKgdzZ1RCe) | [industrial revolution](https://open.spotify.com/album/1WLilNxc6z5tubDILatlZz) | 1:31 |
 | 154 | [jamaica water](https://open.spotify.com/track/5jeuCbfP5AhszbtUcVHPqa) | [rollinsmpls](https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois) | [jamaica water](https://open.spotify.com/album/2t020FCabBHFBWwEVpuxWN) | 2:34 |
@@ -201,9 +201,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbwlv3Vmtr.md) - [plain]
 | 191 | [Tranquil Twilight](https://open.spotify.com/track/22zMUlKVs4jOX5BBPrftUc) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Tranquil Twilight](https://open.spotify.com/album/3PZQWTZ50FwGQfJczPcDlA) | 2:00 |
 | 192 | [oldkeys](https://open.spotify.com/track/6Dle7iZGTOyVzbxpvsKTi1) | [Analogue Alf](https://open.spotify.com/artist/4FVJdMWSQhn3zO1NKxMHAi) | [oldkeys](https://open.spotify.com/album/2OcgzCWKFUbQ1jnY8Rlaw0) | 2:05 |
 | 193 | [something to say](https://open.spotify.com/track/3Qm51QkXVVZhYTXyff8vg2) | [low pines](https://open.spotify.com/artist/0vVUkxt48ozguY3xh3ntKg) | [something to say](https://open.spotify.com/album/6wZihhPEPzi459A9AnWfDZ) | 1:51 |
-| 194 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 |
-| 195 | [Soil](https://open.spotify.com/track/39c6fk5gs2W6HISF6qLzvD) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Soil](https://open.spotify.com/album/4oeMTjcfFglYvN5oX5iRUx) | 2:22 |
-| 196 | [Piped Up Lately](https://open.spotify.com/track/48CjGSOWBdZ11IOiMAwD0K) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Piped Up Lately](https://open.spotify.com/album/7zRzz2vXolxYUzP8sLQ88g) | 2:20 |
+| 194 | [Soil](https://open.spotify.com/track/39c6fk5gs2W6HISF6qLzvD) | [Mellow Moose](https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR) | [Soil](https://open.spotify.com/album/4oeMTjcfFglYvN5oX5iRUx) | 2:22 |
+| 195 | [Piped Up Lately](https://open.spotify.com/track/48CjGSOWBdZ11IOiMAwD0K) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Piped Up Lately](https://open.spotify.com/album/7zRzz2vXolxYUzP8sLQ88g) | 2:20 |
+| 196 | [Oboe on Jupiter](https://open.spotify.com/track/23NfXr1s9xe0xzAquqGmq5) | [LILCHI](https://open.spotify.com/artist/55rKNBzTkThc5PPCc1kbRn) | [Oboe on Jupiter](https://open.spotify.com/album/6Z5TzNSKzXC8LC6tpnZ5fO) | 2:11 |
 | 197 | [fresh socks](https://open.spotify.com/track/70HIq56xbtA2E4HaGjxkdk) | [muun lite](https://open.spotify.com/artist/0JLWWTf1gMwZA4OOA9TM38) | [fresh socks](https://open.spotify.com/album/0r8pUJwgmbpFc2Nxzjea1e) | 1:48 |
 | 198 | [City Street Lights](https://open.spotify.com/track/1decUBYIaNKNnM3wsglx9L) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3) | [City Street Lights](https://open.spotify.com/album/1eG90XHoCRt8GvAeR8UYQg) | 2:56 |
 | 199 | [Playing Games](https://open.spotify.com/track/146qfyDUejihj8VFaRoBEn) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Playing Games](https://open.spotify.com/album/13RxZdwcC88Ol3E1pyUO1o) | 2:00 |

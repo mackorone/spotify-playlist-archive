@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 229381,
+  "num_followers": 229400,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAADWooUlW2wndY5tx2s4+fWm",
+  "snapshot_id": "aKpWAAAAAAAbriba0AdLcc17I533WMgx",
   "tracks": [
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 220493,
-      "name": "I've Found Someone",
-      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
     },
     {
       "added_at": null,
@@ -755,30 +755,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pavarotti - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
       },
       "artists": [
         {
-          "name": "Peter Sterling Radcliffe",
-          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
-        },
-        {
-          "name": "Tony Sepe",
-          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
-        },
-        {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         }
       ],
-      "duration_ms": 267106,
-      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
-      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
+      "duration_ms": 270653,
+      "name": "Put Me In Your Mix - Single Version",
+      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
     },
     {
       "added_at": null,
@@ -815,18 +803,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
+        "name": "Pavarotti - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
       },
       "artists": [
         {
+          "name": "Peter Sterling Radcliffe",
+          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
+        },
+        {
+          "name": "Tony Sepe",
+          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
+        },
+        {
           "name": "Barry White",
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
         }
       ],
-      "duration_ms": 270653,
-      "name": "Put Me In Your Mix - Single Version",
-      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
+      "duration_ms": 267106,
+      "name": "You're The First, The Last, My Everything - Live in Modena, 2001",
+      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
     },
     {
       "added_at": null,

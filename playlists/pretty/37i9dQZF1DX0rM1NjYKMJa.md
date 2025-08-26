@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Get ready for Notting Hill Carnival 2025\. The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,794 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,096 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 24 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 25 | [Buss a Whine](https://open.spotify.com/track/6UQLhEkY7ZfpMbctfg490g) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Leftside](https://open.spotify.com/artist/187qoiisjzqvj3wsBWLotr), [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Buss a Whine](https://open.spotify.com/album/2O7NFz737LgCjAmqWdswst) | 2:27 |
 | 26 | [Good Spirits](https://open.spotify.com/track/1rRL1mufcX09teyeTfnARC) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC) | [Big Links Riddim](https://open.spotify.com/album/6oBm444tAXTcotzXvJ2hWg) | 3:20 |
-| 27 | [It Bend Like Banana](https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [It Bend Like Banana](https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu) | 2:54 |
+| 27 | [It Bend Like Banana](https://open.spotify.com/track/4L7x3yl710OFAJCUpoRVUy) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [It Bend Like Banana](https://open.spotify.com/album/1T8WjqpvrKIJUG6TO1zjqu) | 2:54 |
 | 28 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
 | 29 | [8:00 PM](https://open.spotify.com/track/6cN5twf94UTiHitcAXgrwk) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [WIKID LUV](https://open.spotify.com/album/4vlG5UeeD2cq1LLsgWiPjF) | 2:46 |
 | 30 | [IKATION](https://open.spotify.com/track/2zsJpyPVy1aMMeciBm29r8) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [IKATION](https://open.spotify.com/album/20RTlNHHXFY3AZTaGiOl2R) | 3:03 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 41 | [NY Girls](https://open.spotify.com/track/4yh9WYjFLCSMZ6gTh3MTlE) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w), [cjthechemist](https://open.spotify.com/artist/6RDY4LRYno0UwPMHsxOKAe) | [NY Girls](https://open.spotify.com/album/6qU0YxBfZ50I8w3kivpZtZ) | 3:01 |
 | 42 | [Nursery Rhymes](https://open.spotify.com/track/0l7DsApSOJ4G7vPzFXMszj) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Nursery Rhymes](https://open.spotify.com/album/0CHcleLL9nuyElanBqucCX) | 2:24 |
 | 43 | [GANGSTA](https://open.spotify.com/track/5jeq1BKLWLG7RLIzAiM6j1) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [MUSE](https://open.spotify.com/album/2ZpWc0l8um4MjOYt7eKx3D) | 2:36 |
-| 44 | [Body Tea](https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Dan Sky](https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad) | [Body Tea](https://open.spotify.com/album/3R7DhMn2171sTQ4D4R4Y5T) | 2:57 |
-| 45 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
+| 44 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
+| 45 | [Body Tea](https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Dan Sky](https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad) | [Body Tea](https://open.spotify.com/album/3R7DhMn2171sTQ4D4R4Y5T) | 2:57 |
 | 46 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 |
 | 47 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
 | 48 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 |
 | 49 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
-| 50 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/11pzZVbS8g6g2tfgSQR4uG) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 4:05 |
+| 50 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 
 Snapshot ID: `AAAAAFQdJOtW6328uuAosj6k7SrgnCwo`

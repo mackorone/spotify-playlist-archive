@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Aug 03:06 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Aug 08:07 UTC.
 
-5,384 songs - 12 day 12 hr 16 min
+5,385 songs - 12 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2989,7 +2989,7 @@
 | [Messy \(From F1® The Movie\)](https://open.spotify.com/track/6Wobsw9uZ0D0xkfOjxXSq9) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Messy \(From F1® The Movie\)](https://open.spotify.com/album/0k428U1kVhDaxhqBP7PbGr) | 2:59 | 2025-05-08 | 2025-05-18 |
 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 | 2025-04-29 | 2025-05-08 |
 | [Metamorphosis](https://open.spotify.com/track/7dZ6blFv8nY9zBCzusS8uA) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Metamorphosis](https://open.spotify.com/album/3wlXdkFn2Sx8XKZJxhsKdH) | 3:40 | 2024-09-09 | 2024-09-12 |
-| [Metaphysics](https://open.spotify.com/track/7EzsnOBUZSwc5ZbsTM1JtI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Metaphysics](https://open.spotify.com/album/0xZSnkdlyLJzIKZcop3uPh) | 2:40 | 2025-08-15 |  |
+| [Metaphysics](https://open.spotify.com/track/7EzsnOBUZSwc5ZbsTM1JtI) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Metaphysics](https://open.spotify.com/album/0xZSnkdlyLJzIKZcop3uPh) | 2:40 | 2025-08-15 | 2025-08-26 |
 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-05-03 | 2024-05-06 |
 | [methamphetamine blues](https://open.spotify.com/track/4jhBliatdMbdwYQZlrnvKi) | [Scrim](https://open.spotify.com/artist/5VKvqCyBxqbaXUp8eK0aUy) | [methamphetamine blues](https://open.spotify.com/album/0mh5I0PSuJU9iMch88OzbN) | 3:12 | 2025-04-11 | 2025-04-23 |
 | [METHANAL DOLL](https://open.spotify.com/track/6WUcQtvI1kqS8KQ34CfB2w) | [Pharmakon](https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO) | [METHANAL DOLL](https://open.spotify.com/album/6K9BMoBuSNqO0NGeNNMM3O) | 5:20 | 2024-09-10 | 2024-09-13 |
@@ -4903,6 +4903,7 @@
 | [Underground](https://open.spotify.com/track/3S0aN2k0WlUrHgDoiUkcxA) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Underground](https://open.spotify.com/album/3QobEXKuMPBaNz23tet7qW) | 2:46 | 2024-12-20 | 2025-01-09 |
 | [Underground \- Doss Remix](https://open.spotify.com/track/7kcenCX8zfNnpL2haQHZmH) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Underground \(Doss Remix\)](https://open.spotify.com/album/5ZZ8sBsyhlFmja2DMR5dSi) | 2:52 | 2024-08-07 | 2024-08-09 |
 | [Underwater Reflection](https://open.spotify.com/track/1RgGi33UgdVP5a1lWPcK8x) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Underwater Reflection](https://open.spotify.com/album/21dQzuC2gzIxEQhwKwapgq) | 6:28 | 2024-12-01 | 2024-12-06 |
+| [undone by fate](https://open.spotify.com/track/3DTWvFHmvgeJ2k6jisAxbX) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [undone by fate](https://open.spotify.com/album/2MEa1VAnklDAvxvu2CjUTC) | 5:12 | 2025-08-25 |  |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-26 | 2025-04-01 |
 | [unexpectedly](https://open.spotify.com/track/1Ll7BWpVg6OO03I22kNJRk) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [unexpectedly](https://open.spotify.com/album/4HH8GOfTaukMZ8r0FuCnWZ) | 2:28 | 2024-11-08 | 2024-11-12 |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-18 | 2025-05-24 |

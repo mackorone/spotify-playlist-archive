@@ -4,7 +4,7 @@
 
 > 
 
-7,656 songs - 19 day 18 hr 17 min
+7,657 songs - 19 day 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -531,6 +531,7 @@
 | [Baby Be Mine](https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:20 | 2025-08-12 |  |
 | [BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:09 | 2024-12-16 |  |
 | [Baby Boy](https://open.spotify.com/track/5xaZtThStjYVrv7vCs6mSQ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 6:22 | 2024-12-14 |  |
+| [Baby Come Back](https://open.spotify.com/track/2eRYuzlSOBk3HlMsCSOLPJ) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Late Night Tales: Music For Pleasure](https://open.spotify.com/album/0GPZjIWU4sF8wmdNv67Ukc) | 3:34 | 2025-08-25 |  |
 | [Baby I Need You](https://open.spotify.com/track/4KU23Zay3Q1W0c0yJCNczH) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Pole Dance](https://open.spotify.com/album/2PYqZxuc86lS0DtCCh1sB7) | 3:21 | 2025-04-20 |  |
 | [Baby I'm Bleeding](https://open.spotify.com/track/5pUudDDuJgIpgKIGk2zmxv) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [Veteran](https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco) | 2:32 | 2025-01-03 |  |
 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 | 2024-12-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Aswell",
-  "num_followers": 45872,
+  "num_followers": 45879,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,18 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "AIR FORCE BLANCHE",
-        "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
+        "name": "Adriano",
+        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 186000,
-      "name": "AIR FORCE BLANCHE",
-      "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
+      "duration_ms": 142122,
+      "name": "Adriano",
+      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
     },
     {
       "added_at": "2025-08-15 00:01:33",
@@ -143,18 +139,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Adriano",
-        "url": "https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi"
+        "name": "AIR FORCE BLANCHE",
+        "url": "https://open.spotify.com/album/61QF4MUk8qSxpaXlsxjjKQ"
       },
       "artists": [
         {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 142122,
-      "name": "Adriano",
-      "url": "https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX"
+      "duration_ms": 186000,
+      "name": "AIR FORCE BLANCHE",
+      "url": "https://open.spotify.com/track/6bcDH1OOwuKzfsByqsQKhH"
     },
     {
       "added_at": "2025-08-07 20:30:24",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "COM\u00c8TE",
-        "url": "https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "COM\u00c8TE",
-      "url": "https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "Zota (feat. Tayc)",
         "url": "https://open.spotify.com/album/42MNxx6I0NSs8kG5aZxx2V"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 142640,
       "name": "Zota (feat. Tayc)",
       "url": "https://open.spotify.com/track/5xStlzvowA4B6DyglYKJoj"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "COM\u00c8TE",
+        "url": "https://open.spotify.com/album/2zQQAxnFJsYXAIP23v516s"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "COM\u00c8TE",
+      "url": "https://open.spotify.com/track/4PsXJ6y2MN1zSqdDV4XJbX"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Un, Dos, Tres",
+        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
+      },
+      "artists": [
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Un, Dos, Tres",
+      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "BANGER",
         "url": "https://open.spotify.com/album/4sMQGSSRPJmxdxFka8AwGP"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 159545,
       "name": "SELEK",
       "url": "https://open.spotify.com/track/53y07MqtAQLofrh8d0fIca"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Un, Dos, Tres",
-        "url": "https://open.spotify.com/album/1LqnFWJLZkTxQEGQf8QwmG"
-      },
-      "artists": [
-        {
-          "name": "Kendji Girac",
-          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Un, Dos, Tres",
-      "url": "https://open.spotify.com/track/3r3HsVpmp5jXT6o8CV8Z43"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
-      },
-      "artists": [
-        {
-          "name": "Houari",
-          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
-        },
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 156274,
-      "name": "Tana",
-      "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
         "name": "J'ai ce qu'il faut",
         "url": "https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 201786,
       "name": "J'ai ce qu'il faut",
       "url": "https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/2uurVfRTEefeoaMYulDTGU"
+      },
+      "artists": [
+        {
+          "name": "Houari",
+          "url": "https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 156274,
+      "name": "Tana",
+      "url": "https://open.spotify.com/track/2n39DVdBByJDt3CJNtEcwN"
     },
     {
       "added_at": "2025-08-01 04:00:28",
@@ -851,6 +851,22 @@
     {
       "added_at": "2025-08-01 04:00:28",
       "album": {
+        "name": "Mille vagues",
+        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
+      },
+      "artists": [
+        {
+          "name": "Feu! Chatterton",
+          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Mille vagues",
+      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
+    },
+    {
+      "added_at": "2025-08-01 04:00:28",
+      "album": {
         "name": "Tout g\u00e2cher",
         "url": "https://open.spotify.com/album/0xMLWu80LwMltST4xEXahv"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 126191,
       "name": "Tout g\u00e2cher",
       "url": "https://open.spotify.com/track/2CvcJUV3IRsCZd59WOEgok"
-    },
-    {
-      "added_at": "2025-08-01 04:00:28",
-      "album": {
-        "name": "Mille vagues",
-        "url": "https://open.spotify.com/album/2klx6aMB66dmleKHxAkvgf"
-      },
-      "artists": [
-        {
-          "name": "Feu! Chatterton",
-          "url": "https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Mille vagues",
-      "url": "https://open.spotify.com/track/43VsszB1Wgi751cjEXII9B"
     },
     {
       "added_at": "2025-08-01 04:00:28",

@@ -1,6 +1,6 @@
 {
   "description": "\u9670\u30ad\u30e3\u3067\u3082\u3044\u3044\u3002\u96c6\u56e3\u306b\u306a\u3058\u3081\u306a\u304f\u3066\u3082\u3044\u3044\u3002\u3072\u3068\u308a\u3067\u904e\u3054\u3059\u6642\u9593\u306b\u3082\u3001\u97f3\u697d\u306f\u305d\u3063\u3068\u5bc4\u308a\u6dfb\u3063\u3066\u304f\u308c\u308b\u3002 Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 31175,
+  "num_followers": 31183,
   "original_name": "\u5b64\u72ec\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u6674\u308b",
-        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 270705,
-      "name": "\u6674\u308b",
-      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "\u590f\u306e\u5f71",
         "url": "https://open.spotify.com/album/3kvf1IGbcVYzN5nGnExNx9"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 247426,
       "name": "\u590f\u306e\u5f71",
       "url": "https://open.spotify.com/track/3hp4ZggkNMsre9cutCSnLK"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u6674\u308b",
+        "url": "https://open.spotify.com/album/4O53dhmIctih3p2suAAgga"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 270705,
+      "name": "\u6674\u308b",
+      "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -123,18 +123,18 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "glisten",
-        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+        "name": "\u30c0\u30fc\u30ea\u30f3",
+        "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
       },
       "artists": [
         {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 169973,
-      "name": "all the kids are depressed",
-      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
+      "duration_ms": 280666,
+      "name": "\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -155,18 +155,18 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u30c0\u30fc\u30ea\u30f3",
-        "url": "https://open.spotify.com/album/0lohqaCPMY89Sh4tDLby9u"
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
         }
       ],
-      "duration_ms": 280666,
-      "name": "\u30c0\u30fc\u30ea\u30f3",
-      "url": "https://open.spotify.com/track/62x4EMPyCFF2Ohv7qDjalp"
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -219,18 +219,18 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+        "name": "\u5929\u56fd",
+        "url": "https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 222813,
-      "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
+      "duration_ms": 323665,
+      "name": "\u5929\u56fd",
+      "url": "https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u5929\u56fd",
-        "url": "https://open.spotify.com/album/4G8BinCuBHYrwGLjsBqKg3"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 323665,
-      "name": "\u5929\u56fd",
-      "url": "https://open.spotify.com/track/2eKEFanCoyAlSPc5XPSkrj"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "BOOTLEG",
         "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 243813,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/7AqUE5AY514dbzeOAfJRa0"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u30a2\u30dd\u30ea\u30a2",
-        "url": "https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo"
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 230209,
-      "name": "\u30a2\u30dd\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -363,18 +363,18 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "more than words",
-        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+        "name": "\u30a2\u30dd\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/4AucYbX9MX5phmTpawxEfo"
       },
       "artists": [
         {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 289720,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
+      "duration_ms": 230209,
+      "name": "\u30a2\u30dd\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "Subtitle",
-        "url": "https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 305509,
-      "name": "Subtitle",
-      "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "Soranji",
         "url": "https://open.spotify.com/album/62yXiiuhWiIwgurRnXC16V"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 341443,
       "name": "Soranji",
       "url": "https://open.spotify.com/track/6O4twzzHHIM6mmTqPpJNYE"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "Subtitle",
+        "url": "https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 305509,
+      "name": "Subtitle",
+      "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "\u56f3\u9451",
-        "url": "https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY"
-      },
-      "artists": [
-        {
-          "name": "SEKAI NO OWARI",
-          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
-        }
-      ],
-      "duration_ms": 241064,
-      "name": "\u56f3\u9451",
-      "url": "https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "\u7d75\u753b / \u3053\u305f\u3048\u3042\u308f\u305b",
         "url": "https://open.spotify.com/album/2bvMqLZrtpJ3tLbOTLSzUJ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 250106,
       "name": "\u7d75\u753b",
       "url": "https://open.spotify.com/track/5aOOHwpcSGL9gHc5dEv6wg"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "\u56f3\u9451",
+        "url": "https://open.spotify.com/album/43cFv2lcXn7r3ioo5gnuLY"
+      },
+      "artists": [
+        {
+          "name": "SEKAI NO OWARI",
+          "url": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK"
+        }
+      ],
+      "duration_ms": 241064,
+      "name": "\u56f3\u9451",
+      "url": "https://open.spotify.com/track/7kPvvkyojfKon0YxZtWzss"
     },
     {
       "added_at": "2025-08-20 01:10:44",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-20 01:10:44",
       "album": {
-        "name": "12:45 (Stripped)",
-        "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
-      },
-      "artists": [
-        {
-          "name": "Etham",
-          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "12:45 - Stripped",
-      "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
-    },
-    {
-      "added_at": "2025-08-20 01:10:44",
-      "album": {
         "name": "\u611b\u3068U",
         "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 202535,
       "name": "\u611b\u3068U",
       "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+    },
+    {
+      "added_at": "2025-08-20 01:10:44",
+      "album": {
+        "name": "12:45 (Stripped)",
+        "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
+      },
+      "artists": [
+        {
+          "name": "Etham",
+          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "12:45 - Stripped",
+      "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
     },
     {
       "added_at": "2025-08-20 01:10:44",

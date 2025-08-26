@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Descubre lo más nuevo y lo más cool de la semana en compañía de La Maestra Pecas, LOOJANCITO y Yeri Mua
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,039,947 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,039,998 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 71 | [sistemu](https://open.spotify.com/track/2eZ4UueTIiww52lJSUFHCE) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam), [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [RIVVAA](https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5) | [sistemu](https://open.spotify.com/album/2SUfo7fFqTi6ZXITvJWrvc) | 3:04 |
 | 72 | [flamingos](https://open.spotify.com/track/44NLrDVuOPH1ehp3fY7YVB) | [Diego Toledo](https://open.spotify.com/artist/5xIlXjINBEFEcCj7h7RThX), [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n) | [flamingos](https://open.spotify.com/album/5GfbQJrvpv1O3B4ptKN6Dx) | 3:15 |
 | 73 | [10mil mariposas](https://open.spotify.com/track/3BkGLp35J2olBfyAM2l1gN) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [10mil mariposas](https://open.spotify.com/album/2wYQWA9oYmL4BI4tDwPEW1) | 2:06 |
-| 74 | [Que te lleve la tristeza](https://open.spotify.com/track/5yY0QNiRkrEJcciGcScpJR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7) | [Que te lleve la tristeza](https://open.spotify.com/album/0U8YiBJJzjH1LixVaqPFOC) | 3:28 |
+| 74 | [QUE TE LLEVE LA TRISTEZA](https://open.spotify.com/track/5yY0QNiRkrEJcciGcScpJR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7) | [QUE TE LLEVE LA TRISTEZA](https://open.spotify.com/album/0U8YiBJJzjH1LixVaqPFOC) | 3:28 |
 | 75 | [GUASAVE](https://open.spotify.com/track/0CcrCbifGpD6peI0ToiaaC) | [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc), [Rafa López](https://open.spotify.com/artist/2p7TDgWQS2yxNNSbc62RpW) | [GUASAVE](https://open.spotify.com/album/36fTBHyuvwY7Lj3JGfZR6O) | 2:08 |
 
 Snapshot ID: `AAAAAN1Z1Y0f5g7UDuNEWEEk1cqEsdUq`

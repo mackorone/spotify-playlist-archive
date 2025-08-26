@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 209009,
+  "num_followers": 209022,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAABJM+tvRSU4/cD2cOln9uXV",
+  "snapshot_id": "aKpWAAAAAAAYQvyMHaNFVTK6HujP9wa+",
   "tracks": [
     {
       "added_at": null,
@@ -1007,30 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Preto Rico, Nunca Liso!",
-      "url": "https://open.spotify.com/track/0ZXfo727MxNxotmJXIqaG4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hist\u00f3rias da Minha \u00c1rea",
         "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 197600,
       "name": "Todo Errado",
       "url": "https://open.spotify.com/track/540aOl7XanLFQPAxc9uDBd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Preto Rico, Nunca Liso!",
+      "url": "https://open.spotify.com/track/0ZXfo727MxNxotmJXIqaG4"
     },
     {
       "added_at": null,

@@ -6,8 +6,25 @@
     "name": "Digster Nederland",
     "url": "https://open.spotify.com/user/digsternl"
   },
-  "snapshot_id": "AAAbVT7WCfZ7Lc+XNTmfBF/LgT1sbCE5",
-  "tracks": [],
+  "snapshot_id": "AAAbVuzfvsYLH3pPXjQw9y/aBETJn2ZS",
+  "tracks": [
+    {
+      "added_at": "2025-08-25 08:13:20",
+      "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "duration_ms": 150340,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
+    }
+  ],
   "unique_name": "Nederlandse Hits 2025 | Best of Nederland | Top songs Netherlands",
   "url": "https://open.spotify.com/playlist/064PXW3a66042BjmZEu3Rv"
 }

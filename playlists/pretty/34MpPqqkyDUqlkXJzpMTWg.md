@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/34MpPqqkyDUqlkXJzpMTWg.md) - [plain]
 
 > Them: So sad Summer is over..\. Me: Listening to Autumn music all day
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,023 likes - 79 songs - 4 hr 24 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 27,022 likes - 79 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

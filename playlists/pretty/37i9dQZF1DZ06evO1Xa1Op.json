@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 21761,
+  "num_followers": 21763,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAAASjTiUpUC6W5rifJHubGg3",
+  "snapshot_id": "aKpWAAAAAABEmsWVzgDE3tia3z+z49yO",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Pieter Botha",
-      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 289120,
       "name": "Beto",
       "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Pieter Botha",
+      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
     },
     {
       "added_at": null,

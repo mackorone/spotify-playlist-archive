@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-570 songs - 1 day 8 hr 33 min
+571 songs - 1 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Loved You Better \(with Dean Lewis\)](https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 2:37 | 2025-08-14 |  |
 | [Magic](https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories](https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr) | 4:45 | 2023-02-23 | 2023-04-07 |
 | [Make More Sound](https://open.spotify.com/track/1wshSNJUeTN1TYmNiljSJ5) | [Jacqueline Govaert](https://open.spotify.com/artist/7LTI9KZLhnMbrDojlJK7Li), [David Boucher](https://open.spotify.com/artist/63Jl5AavWHBgiamzO0yPd2) | [Make More Sound](https://open.spotify.com/album/3Mtoiv4oQVGLCuS3J7oMuC) | 3:05 | 2023-02-23 |  |
+| [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-25 |  |
 | [Marry Me](https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:25 | 2023-02-23 | 2024-02-24 |
 | [Mary Jane](https://open.spotify.com/track/2sWnooZMi993GOD2W4gFIK) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Morning Sun](https://open.spotify.com/album/4lZQfyBIn3XizXrLZ5jB14) | 3:55 | 2023-02-23 | 2024-04-19 |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2023-06-06 | 2023-06-15 |
@@ -507,7 +508,7 @@
 | [Thrill Of It All](https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Thrill Of It All](https://open.spotify.com/album/23tZRrcxog6733FrjhknAi) | 3:23 | 2023-02-23 | 2023-04-13 |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2023-02-23 | 2024-04-19 |
 | [Through The Looking Glass](https://open.spotify.com/track/7j2TJXhcE1aAzB6Evmgvm0) | [DI\-RECT](https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q) | [Through The Looking Glass](https://open.spotify.com/album/5F9Y7Rx1ILWqQQXVilf0KN) | 3:49 | 2024-07-26 | 2025-06-21 |
-| [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 | 2023-02-23 |  |
+| [Till The River Runs Dry](https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [Till The River Runs Dry](https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ) | 2:48 | 2023-02-23 | 2025-08-26 |
 | [Tilted](https://open.spotify.com/track/5dwMQwZvaPo9QzPqRF3aaR) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Chaleur Humaine \(Deluxe Edition\)](https://open.spotify.com/album/3jc4mNSSIjakdzeD63qpQt) | 3:53 | 2023-02-23 |  |
 | [To Tomorrow](https://open.spotify.com/track/0FMz7ipH6rTAolvWIKzU9i) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend Of The Goldkimono](https://open.spotify.com/album/6TNsj78Lj0L3nuZbBoSrER) | 3:24 | 2023-11-02 | 2024-03-27 |
 | [To Tomorrow](https://open.spotify.com/track/4GfPkTIFaiI8wmc0lgTDzi) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [The Legend of the Goldkimono](https://open.spotify.com/album/6665kTeQp9goEiA3wZAxm8) | 3:24 | 2023-02-23 | 2023-11-17 |

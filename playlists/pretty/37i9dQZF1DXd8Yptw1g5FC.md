@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Aleyna Tilki ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,307 likes - 136 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,300 likes - 136 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

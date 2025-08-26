@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 34635,
+  "num_followers": 34641,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAACZTgzn7cpWMULj7sXUhMgL",
+  "snapshot_id": "aKpWAAAAAAC03OkPrDy5QgtskoMI0uAU",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+        "name": "Rookie Of The Year",
+        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
       },
       "artists": [
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 128951,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
+      "duration_ms": 175729,
+      "name": "Onna Come Up (feat. G Herbo) [Remix]",
+      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rookie Of The Year",
-        "url": "https://open.spotify.com/album/6RJcigjcQHiRUfoIhxCRcB"
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
       },
       "artists": [
-        {
-          "name": "Lil Eazzyy",
-          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
-        },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 175729,
-      "name": "Onna Come Up (feat. G Herbo) [Remix]",
-      "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+      "duration_ms": 128951,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Racks In Class (Lunch Break Freestyle)",
-        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
-      },
-      "artists": [
-        {
-          "name": "Lyrical Lemonade",
-          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193359,
-      "name": "Racks In Class (Lunch Break Freestyle)",
-      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Untreated Trauma",
         "url": "https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 168000,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Racks In Class (Lunch Break Freestyle)",
+        "url": "https://open.spotify.com/album/4ltHWzQkshb9juFQtaMDyh"
+      },
+      "artists": [
+        {
+          "name": "Lyrical Lemonade",
+          "url": "https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 193359,
+      "name": "Racks In Class (Lunch Break Freestyle)",
+      "url": "https://open.spotify.com/track/6Ds5mkgbe5I2glwpSIHm44"
     },
     {
       "added_at": null,
@@ -679,42 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleuski",
-        "url": "https://open.spotify.com/album/6cMxW6Nfs0feHiFNZZGl2D"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 203424,
-      "name": "Trim (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/1rRR6qwjIA268I8VpznRU9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Swervin",
-        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 148239,
-      "name": "Wilt Chamberlin",
-      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stress Relief (with G Herbo)",
         "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
       },
@@ -735,22 +699,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luka Troncic 2",
-        "url": "https://open.spotify.com/album/3t2W1mEvbZEhZvu0q0vMKp"
+        "name": "Still Swervin",
+        "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
       "artists": [
         {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 148239,
+      "name": "Wilt Chamberlin",
+      "url": "https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleuski",
+        "url": "https://open.spotify.com/album/6cMxW6Nfs0feHiFNZZGl2D"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         },
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 192622,
-      "name": "Chase The Money",
-      "url": "https://open.spotify.com/track/04l41AFdSZ57Gbt3pjr9T7"
+      "duration_ms": 203424,
+      "name": "Trim (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1rRR6qwjIA268I8VpznRU9"
     },
     {
       "added_at": null,
@@ -767,6 +747,26 @@
       "duration_ms": 196659,
       "name": "Cap Guns",
       "url": "https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luka Troncic 2",
+        "url": "https://open.spotify.com/album/3t2W1mEvbZEhZvu0q0vMKp"
+      },
+      "artists": [
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 192622,
+      "name": "Chase The Money",
+      "url": "https://open.spotify.com/track/04l41AFdSZ57Gbt3pjr9T7"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humble Beast (Deluxe)",
-        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Man Now",
-      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 198400,
       "name": "Ridin Wit It",
       "url": "https://open.spotify.com/track/4qgiNIcSGkBy2AQe6ueIRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Humble Beast (Deluxe)",
+        "url": "https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Man Now",
+      "url": "https://open.spotify.com/track/6e8qzxdh2JPbPqGCUXva59"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welcome to Fazoland (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 153329,
+      "name": "Still Dangerous",
+      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Fly",
         "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 184541,
       "name": "Swerve (with G Herbo)",
       "url": "https://open.spotify.com/track/6Pi7DDPcJuWoZnb5GFsTUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1xUgmXMX6ojx1Tum5FbL26"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 153329,
-      "name": "Still Dangerous",
-      "url": "https://open.spotify.com/track/5vc2kF0dDGa4zJ3bKFR6LP"
     },
     {
       "added_at": null,

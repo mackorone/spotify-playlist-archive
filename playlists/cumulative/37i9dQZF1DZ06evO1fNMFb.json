@@ -807,6 +807,28 @@
     },
     {
       "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176642,
+      "name": "Subho Shaam",
+      "url": "https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF"
+    },
+    {
+      "album": {
         "name": "Subho Shaam",
         "url": "https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ"
       },
@@ -822,7 +844,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 176642,
       "name": "Subho Shaam",
       "url": "https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk"

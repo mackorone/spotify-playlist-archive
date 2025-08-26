@@ -4,7 +4,7 @@
 
 > Warm acoustic covers of your favourite Christmas songs to get cozy, shop, wrap, cook or study to.
 
-54 songs - 2 hr 49 min
+55 songs - 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,11 @@
 | [Christmas Lights](https://open.spotify.com/track/7sUfg0BcS3pGncoUrMHDr9) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Christmas Lights](https://open.spotify.com/album/1VvZOKh7uLLsZXH3pgAbcR) | 3:36 | 2024-10-17 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/0znloYDHukXNo0kJD6HjGB) | [Regina Costa](https://open.spotify.com/artist/5HTYfcxPnPgnplg9GvUIEr) | [Christmas Wrapping](https://open.spotify.com/album/4Usa4HGlOlSHX8831oNS0c) | 5:44 | 2024-10-17 |  |
 | [Come Thou Fount](https://open.spotify.com/track/4FuMgG920Za5GiUklVbz5k) | [Chase & Co.](https://open.spotify.com/artist/51QbzvHA7CzMBA9CwWL46n) | [Come Thou Fount](https://open.spotify.com/album/5xSJ1iI6wsN5fZvglyIYBT) | 2:56 | 2024-10-17 | 2024-12-21 |
+| [Do They Know It's Christmas](https://open.spotify.com/track/0Mlv2PQsXoSGzBVb06UYM3) | [The Local Bros.](https://open.spotify.com/artist/2eArGWvPUKX6H63vH4w0bZ) | [Do They Know It's Christmas](https://open.spotify.com/album/2QRW3nUC5J3Fd3aaZ4KkpZ) | 2:54 | 2024-12-20 |  |
 | [driving home for christmas](https://open.spotify.com/track/4QQsFGPVZpzl6B9W0ghX99) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [driving home for christmas](https://open.spotify.com/album/1ZYbSe0svgGtxXY3qOynAj) | 3:57 | 2024-10-17 |  |
 | [Father Christmas](https://open.spotify.com/track/5iI2rZDnITXBEUN7VqbFdm) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Father Christmas](https://open.spotify.com/album/4m71bdFHBVGHbrvTizqnl7) | 4:57 | 2024-10-17 |  |
 | [Frosty](https://open.spotify.com/track/3zQ1sEr7c5fo16jROROwuP) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Frosty](https://open.spotify.com/album/5D4U9V0OiEJdhjBsywmCiI) | 3:16 | 2024-10-17 |  |
-| [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 | 2024-10-17 |  |
+| [Give Love On Christmas Day](https://open.spotify.com/track/1fdhf6xSxzMJMuPlua1i0m) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Give Love On Christmas Day](https://open.spotify.com/album/6NgUaJKXTR2N2H2aSfj0Of) | 2:47 | 2024-10-17 | 2025-08-26 |
 | [Go Tell It On The Mountain](https://open.spotify.com/track/167NLVx6ZmZfIBe8GK3sSv) | [Praytell](https://open.spotify.com/artist/20QoRE4MEXGJpQwRktZ0LJ), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [It's Almost Christmas, Vol\. 3](https://open.spotify.com/album/48Ds43jzKqDa2IDAPPGBHN) | 3:11 | 2024-10-17 |  |
 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6k4ay4fFySwUAIbfHnT4FK) | [Mark Jacobsen](https://open.spotify.com/artist/5KxXsQXx6s5DeW4oUaiqBR) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/1nfSsAZndSGQM4pMXV5qEV) | 2:55 | 2024-10-17 |  |
 | [Green Grows The Holly](https://open.spotify.com/track/3rmZq65IMXxP3jE2h0aIjJ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Green Grows The Holly](https://open.spotify.com/album/66syYpRnwqFrK5EEiPOtYw) | 4:32 | 2024-10-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1861486,
+  "num_followers": 1861152,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2025-07-18 04:00:13",
       "album": {
+        "name": "Afuera Del Planeta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
+      },
+      "artists": [
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 261376,
+      "name": "Afuera Del Planeta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
+    },
+    {
+      "added_at": "2025-07-18 04:00:13",
+      "album": {
         "name": "So\u00f1\u00e9 Contigo",
         "url": "https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 211935,
       "name": "So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU"
-    },
-    {
-      "added_at": "2025-07-18 04:00:13",
-      "album": {
-        "name": "Afuera Del Planeta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/19DNQdTzFuC9krn1bpvwfh"
-      },
-      "artists": [
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 261376,
-      "name": "Afuera Del Planeta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0vwACLG2ywcWZtLZyIxf1e"
     },
     {
       "added_at": "2025-07-18 04:00:13",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-07-18 04:00:13",
       "album": {
+        "name": "La Llave De Mi Corazon",
+        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Si Tu No Bailas Conmigo",
+      "url": "https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH"
+    },
+    {
+      "added_at": "2025-07-18 04:00:13",
+      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 184000,
       "name": "Maquillaje (Acoustic)",
       "url": "https://open.spotify.com/track/7qDIPO5RwLqLv3kVqhgeLH"
-    },
-    {
-      "added_at": "2025-07-18 04:00:13",
-      "album": {
-        "name": "La Llave De Mi Corazon",
-        "url": "https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Si Tu No Bailas Conmigo",
-      "url": "https://open.spotify.com/track/1Cbw6WMknPdct4PeOuUzJH"
     },
     {
       "added_at": "2025-07-18 04:00:13",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-07-18 04:00:13",
       "album": {
-        "name": "Am\u00e9 (demo original)",
-        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
-      },
-      "artists": [
-        {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
-        }
-      ],
-      "duration_ms": 205197,
-      "name": "Am\u00e9 - demo original",
-      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
-    },
-    {
-      "added_at": "2025-07-18 04:00:13",
-      "album": {
         "name": "Te acuerdas?",
         "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 183265,
       "name": "Te acuerdas?",
       "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2025-07-18 04:00:13",
+      "album": {
+        "name": "Am\u00e9 (demo original)",
+        "url": "https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE"
+      },
+      "artists": [
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        }
+      ],
+      "duration_ms": 205197,
+      "name": "Am\u00e9 - demo original",
+      "url": "https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH"
     },
     {
       "added_at": "2025-07-18 04:00:13",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-07-18 04:00:13",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2025-07-18 04:00:13",
-      "album": {
         "name": "Quer\u00e1monos lento",
         "url": "https://open.spotify.com/album/4Hnnvyr62Z0q2ksKjqHO4z"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 139852,
       "name": "Quer\u00e1monos lento",
       "url": "https://open.spotify.com/track/2GZvRXUFYY1EMJTP4nnVhW"
+    },
+    {
+      "added_at": "2025-07-18 04:00:13",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
     },
     {
       "added_at": "2025-07-18 04:00:13",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2025-07-18 04:00:13",
       "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 195917,
-      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
-      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
-    },
-    {
-      "added_at": "2025-07-18 04:00:13",
-      "album": {
         "name": "Dimos Tanto",
         "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 189437,
       "name": "Dimos Tanto",
       "url": "https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9"
+    },
+    {
+      "added_at": "2025-07-18 04:00:13",
+      "album": {
+        "name": "V\u00e9rtigo",
+        "url": "https://open.spotify.com/album/3rMqrzAwB0tLlsA9Zrd46L"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 195917,
+      "name": "Si hubieras querido - Versi\u00f3n ac\u00fastica",
+      "url": "https://open.spotify.com/track/4yskXqxwdX1zcFb7AvRUB0"
     },
     {
       "added_at": "2025-07-18 04:00:13",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-07-18 04:00:13",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
-      },
-      "artists": [
-        {
-          "name": "Ale Z\u00e9guer",
-          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
-        }
-      ],
-      "duration_ms": 186966,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
-    },
-    {
-      "added_at": "2025-07-18 04:00:13",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 210848,
       "name": "Underdog - Acoustic Version",
       "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+    },
+    {
+      "added_at": "2025-07-18 04:00:13",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/20ji0T35I0L4g3OIrEsUOn"
+      },
+      "artists": [
+        {
+          "name": "Ale Z\u00e9guer",
+          "url": "https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ"
+        }
+      ],
+      "duration_ms": 186966,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/4Xr2q5L69U9NQAvLs4FAqi"
     },
     {
       "added_at": "2025-07-18 04:00:13",

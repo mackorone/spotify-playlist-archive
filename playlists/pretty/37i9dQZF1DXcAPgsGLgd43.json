@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 95565,
+  "num_followers": 95766,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Rintintin",
+        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
+      },
+      "artists": [
+        {
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Rintintin",
+      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Ta Sendo",
         "url": "https://open.spotify.com/album/1U5VUUBn4JpuEIgUyfHYs8"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 203809,
       "name": "Ta Sendo",
       "url": "https://open.spotify.com/track/4HkEvRh46mXU9ZTIW8uhvx"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Rintintin",
-        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
-      },
-      "artists": [
-        {
-          "name": "M\u00cbSTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Rintintin",
-      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1567,26 +1587,6 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Capitale",
         "url": "https://open.spotify.com/album/0huwDj81jiBTRF1dWOKjfo"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 203520,
       "name": "Capitale",
       "url": "https://open.spotify.com/track/6SeZObDDZZiJmzY4qgfh57"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1899,6 +1899,26 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "Morry",
+          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+        }
+      ],
+      "duration_ms": 120120,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Magalenha",
         "url": "https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 193562,
       "name": "O Cajado",
       "url": "https://open.spotify.com/track/5oswPbBFrxkOjbGW2J4lLu"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        },
-        {
-          "name": "Morry",
-          "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
-        }
-      ],
-      "duration_ms": 120120,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
     },
     {
       "added_at": "2025-08-22 04:00:25",

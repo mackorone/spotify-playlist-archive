@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 466330,
+  "num_followers": 466336,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -185,22 +185,6 @@
       "url": "https://open.spotify.com/track/2VXRVqJ02WMnUlxTvwdtoz"
     },
     {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Chicken Garaage",
-        "url": "https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa"
-      },
-      "artists": [
-        {
-          "name": "Objekt",
-          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Chicken Garaage",
-      "url": "https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ"
-    },
-    {
       "added_at": "2024-08-16 19:23:44",
       "album": {
         "name": "nothing",
@@ -223,6 +207,22 @@
       "duration_ms": 210750,
       "name": "Weird Moments",
       "url": "https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Chicken Garaage",
+        "url": "https://open.spotify.com/album/60vxrbii465Dp2fdM3IiAa"
+      },
+      "artists": [
+        {
+          "name": "Objekt",
+          "url": "https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Chicken Garaage",
+      "url": "https://open.spotify.com/track/4voWFU5XAE1s13LheHhrhJ"
     },
     {
       "added_at": "2024-03-19 03:30:26",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
+      "added_at": "2024-07-05 04:07:56",
+      "album": {
+        "name": "Data Passenger EP",
+        "url": "https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 307278,
+      "name": "Data Passenger",
+      "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
+    },
+    {
       "added_at": "2024-01-28 13:35:19",
       "album": {
         "name": "Us, In Between The Blinded",
@@ -355,22 +371,6 @@
       "duration_ms": 231195,
       "name": "BET YOU NEVER",
       "url": "https://open.spotify.com/track/1jhXnfRck8f08uzcFU21nh"
-    },
-    {
-      "added_at": "2024-07-05 04:07:56",
-      "album": {
-        "name": "Data Passenger EP",
-        "url": "https://open.spotify.com/album/3K4cvowbf3loJkuPneBRia"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 307278,
-      "name": "Data Passenger",
-      "url": "https://open.spotify.com/track/2L52S4jeIP7AHrb24v0cZv"
     },
     {
       "added_at": "2024-06-27 18:24:15",
@@ -469,22 +469,6 @@
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
-      "added_at": "2022-02-25 03:39:39",
-      "album": {
-        "name": "Exotic Contents / Pulse at the Centre of Being",
-        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
-      },
-      "artists": [
-        {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
-        }
-      ],
-      "duration_ms": 346588,
-      "name": "Exotic Contents",
-      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
-    },
-    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -499,6 +483,22 @@
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
+    },
+    {
+      "added_at": "2022-02-25 03:39:39",
+      "album": {
+        "name": "Exotic Contents / Pulse at the Centre of Being",
+        "url": "https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 346588,
+      "name": "Exotic Contents",
+      "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
       "added_at": "2024-08-14 17:52:43",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
+      "added_at": "2023-11-08 01:35:05",
+      "album": {
+        "name": "Zan",
+        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
+      },
+      "artists": [
+        {
+          "name": "Max Graef",
+          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
+        }
+      ],
+      "duration_ms": 285000,
+      "name": "Zan",
+      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
+    },
+    {
       "added_at": "2022-08-19 02:33:31",
       "album": {
         "name": "Order",
@@ -777,38 +793,6 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
-      "added_at": "2023-11-08 01:35:05",
-      "album": {
-        "name": "Zan",
-        "url": "https://open.spotify.com/album/2eyvj3p4GzodK91J7lPwub"
-      },
-      "artists": [
-        {
-          "name": "Max Graef",
-          "url": "https://open.spotify.com/artist/4AflEeXdD0VohMzZvOGo55"
-        }
-      ],
-      "duration_ms": 285000,
-      "name": "Zan",
-      "url": "https://open.spotify.com/track/1JVboyYVrqt0BBTqoUwvyn"
-    },
-    {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -827,6 +811,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
       "added_at": "2023-07-18 19:12:42",

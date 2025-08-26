@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125035,
+  "num_followers": 125029,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUgQPC+BsWqlm8c/zMmbdBrIp3AqB+",
+  "snapshot_id": "AAAUgiMWb0lCNuQKmOBwA0+jbVq5u3RI",
   "tracks": [
+    {
+      "added_at": "2025-08-25 14:09:51",
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe"
+    },
     {
       "added_at": "2025-08-22 14:11:18",
       "album": {

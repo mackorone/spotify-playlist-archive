@@ -4,7 +4,7 @@
 
 > The future hits of today\. <br/>Cover: Taves
 
-481 songs - 22 hr 13 min
+482 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Ifineme](https://open.spotify.com/track/6U6usyI67RBLnGxL2MWGKC) | [Morravey](https://open.spotify.com/artist/7CIv1IE8oNZQwpeQGHDofV) | [Ifineme X Upstandin](https://open.spotify.com/album/1lyDMxu8Hr76pVQveFi3Yk) | 2:59 | 2024-10-14 | 2025-03-07 |
 | [Imagination](https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa) | [Konstance](https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [In The Beginning](https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K) | 2:32 | 2024-08-25 | 2024-11-16 |
 | [Imagine](https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Intergalactic Dreams](https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S) | 2:04 | 2025-04-04 | 2025-07-05 |
+| [In Love with You](https://open.spotify.com/track/22ChegU5K3Yv2BOE5Il3QO) | [BIG BANJU](https://open.spotify.com/artist/5SiinrhJnoLQv6buf3IQwp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Who Is Big Banju](https://open.spotify.com/album/7yIj6m5wHxmHxk2Lmgue2m) | 2:52 | 2025-08-25 |  |
 | [In You](https://open.spotify.com/track/6eXJJ8cGBTTIJFXC3Wn9Sq) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Semzi](https://open.spotify.com/artist/2aWCLZqio9v0uUZEATR1Rv) | [With The Most & Friends \(Vol 1\)](https://open.spotify.com/album/4pjFTm9bnvxBIhdhWcUxR8) | 2:33 | 2024-11-29 | 2025-03-29 |
 | [Informate \(FYI\)](https://open.spotify.com/track/1O4QnFa5ykCLcOfebOlGUY) | [The Therapist](https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2), [Magicsticks](https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz) | [Informate \(FYI\)](https://open.spotify.com/album/0eddBpoJ9TV5Efg85aBhXQ) | 2:48 | 2024-11-08 | 2024-11-29 |
 | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Innocent \(feat\. Fireboy DML\)](https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA) | 2:52 | 2024-11-15 | 2025-03-29 |
@@ -457,7 +458,7 @@
 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 | 2024-06-28 | 2024-07-27 |
 | [Wavy](https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Dj 4kerty](https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG) | [Pawon Boy Vol.1](https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6) | 2:15 | 2024-11-29 | 2025-03-29 |
 | [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 | 2025-08-22 |  |
-| [WHAT CAN WE DO?](https://open.spotify.com/track/2b4elKTFnT6cpDqpGsj8p6) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr), [Hollerdotun](https://open.spotify.com/artist/28enztbjcicO6gDgNROB8p), [Banging beats](https://open.spotify.com/artist/2sGkNuYqxsaYdeCmyX7d06) | [WHAT CAN WE DO](https://open.spotify.com/album/1NAuPMofsg6e2OchlOh54L) | 2:51 | 2025-05-09 |  |
+| [WHAT CAN WE DO?](https://open.spotify.com/track/2b4elKTFnT6cpDqpGsj8p6) | [Fitzy West](https://open.spotify.com/artist/77nPExxF79dZnp7LDXsZEr), [Hollerdotun](https://open.spotify.com/artist/28enztbjcicO6gDgNROB8p), [Banging beats](https://open.spotify.com/artist/2sGkNuYqxsaYdeCmyX7d06) | [WHAT CAN WE DO](https://open.spotify.com/album/1NAuPMofsg6e2OchlOh54L) | 2:51 | 2025-05-09 | 2025-08-26 |
 | [WHAT HAVE YOU DONE](https://open.spotify.com/track/7s7kxVXd3l1vDHrBe8YtYC) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [WHEN NOBODY IS WATCHING](https://open.spotify.com/album/7wupiYO6dV8M4Ghs3dWljJ) | 2:38 | 2025-05-09 |  |
 | [Where You Dey](https://open.spotify.com/track/3OW8TTRWkCNbwvALsZorvy) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU), [Spykida](https://open.spotify.com/artist/1U5h2Q7PpusNlSlG0CRgSK) | [Where You Dey](https://open.spotify.com/album/0OjiJY0YtOMsNDdQxeivYD) | 2:52 | 2025-02-14 | 2025-02-22 |
 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 | 2024-12-06 | 2025-02-22 |

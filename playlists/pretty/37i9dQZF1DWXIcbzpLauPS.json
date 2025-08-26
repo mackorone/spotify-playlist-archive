@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore. where brutality and technicality collide. Cover: The Devil Wears Prada",
-  "num_followers": 945209,
+  "num_followers": 945176,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-08-22 04:00:07",
       "album": {
-        "name": "TECHNIUM",
-        "url": "https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX"
-      },
-      "artists": [
-        {
-          "name": "Fit For A King",
-          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
-        },
-        {
-          "name": "The Plot In You",
-          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
-        }
-      ],
-      "duration_ms": 184994,
-      "name": "TECHNIUM",
-      "url": "https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB"
-    },
-    {
-      "added_at": "2025-08-22 04:00:07",
-      "album": {
         "name": "Bad Dreams (feat. Of Virtue)",
         "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
@@ -1543,18 +1523,22 @@
     {
       "added_at": "2025-08-22 04:00:07",
       "album": {
-        "name": "mallxcore",
-        "url": "https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu"
+        "name": "TECHNIUM",
+        "url": "https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX"
       },
       "artists": [
         {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+          "name": "Fit For A King",
+          "url": "https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx"
+        },
+        {
+          "name": "The Plot In You",
+          "url": "https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF"
         }
       ],
-      "duration_ms": 189933,
-      "name": "mallxcore",
-      "url": "https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc"
+      "duration_ms": 184994,
+      "name": "TECHNIUM",
+      "url": "https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB"
     },
     {
       "added_at": "2025-08-22 04:00:07",
@@ -1571,6 +1555,22 @@
       "duration_ms": 261000,
       "name": "Eyes Above",
       "url": "https://open.spotify.com/track/2XB2Hp4JtKMUAqRHh6DNZc"
+    },
+    {
+      "added_at": "2025-08-22 04:00:07",
+      "album": {
+        "name": "mallxcore",
+        "url": "https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "mallxcore",
+      "url": "https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc"
     },
     {
       "added_at": "2025-08-22 04:00:07",
@@ -1867,18 +1867,18 @@
     {
       "added_at": "2025-08-22 04:00:07",
       "album": {
-        "name": "Take Me Too",
-        "url": "https://open.spotify.com/album/7E36DHRprkuvs8rQ35noJD"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/5SxcBzH9KLImpRk2xxY13X"
       },
       "artists": [
         {
-          "name": "Dead Eyes",
-          "url": "https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2"
+          "name": "Adept",
+          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Take Me Too",
-      "url": "https://open.spotify.com/track/4nRvqP1Ip6VrCHPlNyowwe"
+      "duration_ms": 261135,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5iOaHX0UqdLWfxQLgTn40E"
     },
     {
       "added_at": "2025-08-22 04:00:07",
@@ -1899,18 +1899,18 @@
     {
       "added_at": "2025-08-22 04:00:07",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/5SxcBzH9KLImpRk2xxY13X"
+        "name": "Take Me Too",
+        "url": "https://open.spotify.com/album/7E36DHRprkuvs8rQ35noJD"
       },
       "artists": [
         {
-          "name": "Adept",
-          "url": "https://open.spotify.com/artist/1TsgX8DlUvpk9mrUqxmOZu"
+          "name": "Dead Eyes",
+          "url": "https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2"
         }
       ],
-      "duration_ms": 261135,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5iOaHX0UqdLWfxQLgTn40E"
+      "duration_ms": 206000,
+      "name": "Take Me Too",
+      "url": "https://open.spotify.com/track/4nRvqP1Ip6VrCHPlNyowwe"
     },
     {
       "added_at": "2025-08-22 04:00:07",
@@ -2527,18 +2527,18 @@
     {
       "added_at": "2025-08-22 04:00:07",
       "album": {
-        "name": "Silver Swarm",
-        "url": "https://open.spotify.com/album/63vRBmBbzmkCoXRvkggsvz"
+        "name": "CYNICAL SAVIOR",
+        "url": "https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m"
       },
       "artists": [
         {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+          "name": "Monument Of A Memory",
+          "url": "https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ"
         }
       ],
-      "duration_ms": 273524,
-      "name": "Silver Swarm",
-      "url": "https://open.spotify.com/track/5HJ9vyLx0HbezfxzKQkEDR"
+      "duration_ms": 184000,
+      "name": "EARN YOUR FLOWERS",
+      "url": "https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB"
     }
   ],
   "unique_name": "The Core",

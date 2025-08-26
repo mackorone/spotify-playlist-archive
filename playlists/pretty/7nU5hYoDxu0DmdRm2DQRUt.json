@@ -1,13 +1,29 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7689,
+  "num_followers": 7690,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAOA+koQh83lpok1BY9YosY/vKSXRZT",
+  "snapshot_id": "AAAOBco8PEAg9WzlARQt6SXmM5kNoDat",
   "tracks": [
+    {
+      "added_at": "2025-08-25 09:53:58",
+      "album": {
+        "name": "Panorama X-Press",
+        "url": "https://open.spotify.com/album/58SohyalgUv1s6xjbsuq9x"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "duration_ms": 325198,
+      "name": "Panorama X-Press",
+      "url": "https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP"
+    },
     {
       "added_at": "2025-08-21 11:04:28",
       "album": {

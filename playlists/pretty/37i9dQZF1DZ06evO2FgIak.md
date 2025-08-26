@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,970 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,976 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Gypsy Woman](https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:36 |
 | 50 | [When I'm With You](https://open.spotify.com/track/0pkICgml5grZoS3Sxx6TtL) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [D! Williams](https://open.spotify.com/artist/5BiWdJOs69IQUk4J3rGYIF), [Mike Settle](https://open.spotify.com/artist/3nONeBwPCQfjzWhp4ph4Cl), [Preston Foster](https://open.spotify.com/artist/3h2wJi6uqXuhC0YPBd1P03) | [Sternstunden](https://open.spotify.com/album/4G7bjZ0EeL3tG1quahiidj) | 3:17 |
 
-Snapshot ID: `aKkEgAAAAABP74ZYFWkv7tY//KZUkSiy`
+Snapshot ID: `aKpWAAAAAAA1LcgTFLB8e74GsJYaZ1h1`

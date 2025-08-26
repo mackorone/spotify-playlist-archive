@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-772 songs - 1 day 8 hr 28 min
+775 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,8 +395,10 @@
 | [Lost Love](https://open.spotify.com/track/2hP4GZx9KdKM60p8hG9u9o) | [Soheil Bostani](https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9) | [The End of a Dream](https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY) | 2:15 | 2023-10-29 | 2024-02-15 |
 | [Lostnd](https://open.spotify.com/track/1BmWYDuPj0DHvOUYuTPUCv) | [Thayer](https://open.spotify.com/artist/1GAHD2clwrr7wsSgUqHw5b) | [Lostnd](https://open.spotify.com/album/6IuOikqXsrRldxQfVnkbgy) | 3:50 | 2024-10-23 |  |
 | [Love Letter](https://open.spotify.com/track/3TfP7ypayc5KCEI1zlcIrf) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Love Letter](https://open.spotify.com/album/5zIBORMYIZQshskLp9GG7p) | 2:15 | 2024-04-13 |  |
-| [love song](https://open.spotify.com/track/7MF2wgf4zXyva3w3ntYm4X) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/7f6ek2nZdtjSQCce6L3jSn) | 2:05 | 2025-04-21 |  |
-| [love story](https://open.spotify.com/track/3hiiDp2Wb8ljCRFUZfZg3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/7vWxv01MBk7Ln8cLbli2HG) | 1:34 | 2025-07-14 |  |
+| [love song](https://open.spotify.com/track/2H8VEt9t6fTApmR2WdI4PR) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/5DcrbNHusW1DQRuugdLdgV) | 2:05 | 2025-08-25 |  |
+| [love song](https://open.spotify.com/track/7MF2wgf4zXyva3w3ntYm4X) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/7f6ek2nZdtjSQCce6L3jSn) | 2:05 | 2025-04-21 | 2025-08-26 |
+| [love story](https://open.spotify.com/track/0b8aXwsq9zeyOzHZ9ZP1Nx) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw) | 1:34 | 2025-08-25 |  |
+| [love story](https://open.spotify.com/track/3hiiDp2Wb8ljCRFUZfZg3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/7vWxv01MBk7Ln8cLbli2HG) | 1:34 | 2025-07-14 | 2025-08-26 |
 | [Loves](https://open.spotify.com/track/6cvAbImWeu3AwErvxMsoU1) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Noah Klein](https://open.spotify.com/artist/0vIlNpYXMDWEBxpvlqTD8o), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Loves](https://open.spotify.com/album/7pnjndOuZeyanOxlZr1WFC) | 1:41 | 2023-10-29 | 2024-04-14 |
 | [Loving Touch](https://open.spotify.com/track/2AWeIgRcR4uRlLk2nPIOXU) | [midnight static](https://open.spotify.com/artist/6NAAEIThA5OpNwZrkLLfE8) | [Dreaming of Stars](https://open.spotify.com/album/53jitbAKPwfFZbPn0sY3SZ) | 2:05 | 2025-01-10 |  |
 | [Lull](https://open.spotify.com/track/1f7I7MLurWVnw73GlXU1zr) | [Jackson Blais](https://open.spotify.com/artist/35LO1ZhXPK0W02dTqBh2WU) | [Still](https://open.spotify.com/album/5pxoxaMsN5ceSQvMpXDrVq) | 1:30 | 2025-03-01 |  |
@@ -437,7 +439,8 @@
 | [Mountain](https://open.spotify.com/track/5Su45ChaUmXoWwv2rNSyQa) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Mountain](https://open.spotify.com/album/6dRCYw839gM4HbUJWMyNcN) | 3:03 | 2025-06-02 |  |
 | [Moving Day At Her Third Floor Walk Up](https://open.spotify.com/track/28emNUpv5CbA8uKvCI68vT) | [Tom Eaton](https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5) | [Snapshots](https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI) | 1:05 | 2023-10-29 | 2024-05-03 |
 | [Moving Mountains](https://open.spotify.com/track/0ujllOMqSfFVDWsL5ONpUX) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ross Christopher](https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614) | [Moving Mountains](https://open.spotify.com/album/1rfXJKYCzO9AeH6wL2nGaR) | 4:35 | 2024-07-12 | 2025-03-02 |
-| [Muse](https://open.spotify.com/track/6pqXCTbA18qyvSCF7NYpOF) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Muse](https://open.spotify.com/album/1EMv4htba5a2zITh5S46B0) | 1:58 | 2025-01-31 |  |
+| [Muse](https://open.spotify.com/track/6pqXCTbA18qyvSCF7NYpOF) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Muse](https://open.spotify.com/album/1EMv4htba5a2zITh5S46B0) | 1:58 | 2025-01-31 | 2025-08-26 |
+| [Muse](https://open.spotify.com/track/7EX9F48g8x02wHoLXv84ig) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Muse](https://open.spotify.com/album/1PdozTVsnm6w5IHHDwGEyK) | 2:00 | 2025-08-25 |  |
 | [My Favorite Creek](https://open.spotify.com/track/6vfGX7wYYLJELZXSEh9J5Q) | [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [My Favorite Creek](https://open.spotify.com/album/3l78Jr5YV3lZa9B4mPDNGg) | 2:09 | 2023-10-29 | 2024-11-16 |
 | [My Favourite Human \- Revisited](https://open.spotify.com/track/3ZR3OaIbX8R3C0Q6w4EuRz) | [Roberto Piano](https://open.spotify.com/artist/64PyEZBdsO6sou3vLai7jA) | [My Favourite Human \- Revisited](https://open.spotify.com/album/4IJ3LbDbQWOBf55h5ireaV) | 4:24 | 2024-12-27 |  |
 | [My Own Worst Enemy](https://open.spotify.com/track/4u0kIagvyrIDsG1gB7ZZ0h) | [Eliza Ukko](https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn) | [My Own Worst Enemy](https://open.spotify.com/album/7uJSG7TlzndNZfWXBGYHOj) | 2:24 | 2024-01-24 | 2024-10-24 |

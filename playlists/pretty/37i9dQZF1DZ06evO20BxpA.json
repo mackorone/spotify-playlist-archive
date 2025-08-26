@@ -1,12 +1,12 @@
 {
   "description": "This is Steven Price. The essential tracks, all in one playlist.",
-  "num_followers": 1538,
+  "num_followers": 1540,
   "original_name": "This Is Steven Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAACByuRkwlMLL9Aii4qg0SOa",
+  "snapshot_id": "aKpWAAAAAAAkefgyPujAPOPkGep5IyRT",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 103186,
-      "name": "Aurora Borealis",
-      "url": "https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx"
+      "duration_ms": 371200,
+      "name": "Shenzou",
+      "url": "https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
         }
       ],
-      "duration_ms": 371200,
-      "name": "Shenzou",
-      "url": "https://open.spotify.com/track/2wvbsitBWJOWgbYoijHbWy"
+      "duration_ms": 103186,
+      "name": "Aurora Borealis",
+      "url": "https://open.spotify.com/track/5g9NzypcJDL0NTzJqpS3lx"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
-        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 55920,
-      "name": "The Seasonal Seas",
-      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Eternal Sky",
         "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
       },
@@ -479,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coastal Seas (Episode 4 / Soundtrack From The Netflix Original Series \"Our Planet\")",
+        "url": "https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 55920,
+      "name": "The Seasonal Seas",
+      "url": "https://open.spotify.com/track/2unzEGoGb2MvAwm3CMP2hD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heads of State (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s"
       },
@@ -491,22 +491,6 @@
       "duration_ms": 251266,
       "name": "Heads of State",
       "url": "https://open.spotify.com/track/3Njp6CLh7QFtb4MAXvnlEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 141386,
-      "name": "Dear Mr. Killian",
-      "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
     },
     {
       "added_at": null,
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 141386,
+      "name": "Dear Mr. Killian",
+      "url": "https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hunt",
         "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 191480,
       "name": "Fueled Up and Headed South",
       "url": "https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ophelia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 190840,
-      "name": "My Beloved Spake",
-      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ophelia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 190840,
+      "name": "My Beloved Spake",
+      "url": "https://open.spotify.com/track/47H8iYq8d9XQLJAJ4EwNlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Our Eternal Sky",
         "url": "https://open.spotify.com/album/12v7b7y08KYzVtrm9Xe697"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 197933,
       "name": "Magdelana Bay",
       "url": "https://open.spotify.com/track/14EGEC0fZ9xFEXL3UG71cN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Assassin (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 273720,
-      "name": "Katrina",
-      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Assassin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 273720,
+      "name": "Katrina",
+      "url": "https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ophelia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS"
       },
@@ -667,6 +667,38 @@
       "duration_ms": 232306,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/0Yrl0rfS7BQL8tG487RsIO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heads of State (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "False Alliances",
+      "url": "https://open.spotify.com/track/3HGLYQ2Qb3qCIDTyDehcg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "duration_ms": 123640,
+      "name": "It is My Great Hope",
+      "url": "https://open.spotify.com/track/0YuygtIxt3dYhprMPhx4ZS"
     },
     {
       "added_at": null,
@@ -707,38 +739,6 @@
       "duration_ms": 214093,
       "name": "Is This Mercy?",
       "url": "https://open.spotify.com/track/543gCwDA6Ad6qndc6JdsmQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ocean with David Attenborough (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6r5k4eaS3nnzASBRwMYp3l"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 123640,
-      "name": "It is My Great Hope",
-      "url": "https://open.spotify.com/track/0YuygtIxt3dYhprMPhx4ZS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heads of State (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61b7iSyfyBA8twfr3PPg7s"
-      },
-      "artists": [
-        {
-          "name": "Steven Price",
-          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "False Alliances",
-      "url": "https://open.spotify.com/track/3HGLYQ2Qb3qCIDTyDehcg1"
     },
     {
       "added_at": null,

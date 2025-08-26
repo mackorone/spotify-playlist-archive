@@ -4,7 +4,7 @@
 
 > As heard on the FYP\.  Cover: Asake
 
-860 songs - 2 day 0 hr 6 min
+861 songs - 2 day 0 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -418,7 +418,7 @@
 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 | 2023-03-13 | 2023-06-13 |
 | [Ka Esi Le Onye Isi Oche](https://open.spotify.com/track/6PImXg1PaRBpFVdCAnSdUS) | [Gentleman Mike Ejeagha & His Trio](https://open.spotify.com/artist/4JE96Bah2CDN05PLwVa9rp) | [Akuko N'egwu Original Vol.1](https://open.spotify.com/album/6VzoCVgO5TJ2abzeDnbGWs) | 16:56 | 2024-07-23 | 2024-10-19 |
 | [Kai!](https://open.spotify.com/track/0C3zMmE4yo1qBq6MGfkwX0) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:57 | 2025-07-04 |  |
-| [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq) | 1:49 | 2025-06-27 |  |
+| [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/track/0aYHK8Wn3Sp04Gjel2vtz3) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/1L3QZIjUTCAx3hRWmo2Mtq) | 1:49 | 2025-06-27 | 2025-08-26 |
 | [Kat Slater \- Native Remedies Remix](https://open.spotify.com/track/0lkEQmDMMgoNIKL7drwOzA) | [Tim Duzit](https://open.spotify.com/artist/4piDtKqW65wHWGs0TW2T8T) | [Kat Slater \(Native Remedies Remix\)](https://open.spotify.com/album/29VAIC1Ua4Vyw15jBe8fiU) | 1:49 | 2025-08-22 |  |
 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 | 2024-06-14 | 2025-02-07 |
 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 | 2025-08-01 | 2025-08-12 |
@@ -797,6 +797,7 @@
 | [Upgrade U \(feat\. Jay\-Z\)](https://open.spotify.com/track/6V1nOgkrGmr6Wx1x4RQ6Bc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [B'Day](https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO) | 4:32 | 2023-07-06 | 2023-11-23 |
 | [US](https://open.spotify.com/track/1xonJzRr8OL83dQdxMOqRU) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es) | [US](https://open.spotify.com/album/0ESCKKZ7PjrVPaKeP3too3) | 1:16 | 2025-04-07 | 2025-06-28 |
 | [US](https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [US](https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X) | 2:19 | 2025-06-20 | 2025-07-05 |
+| [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 | 2025-08-25 |  |
 | [Uyavala](https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Uyavala](https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ) | 5:48 | 2023-06-26 | 2023-07-07 |
 | [Uzizwa Kanjan](https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a) | [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [Uzizwa Kanjan](https://open.spotify.com/album/6XBxAPLYWGJ1QOhKuZqDhZ) | 7:47 | 2025-06-27 | 2025-07-05 |
 | [Valentine is Coming \- Verse 5](https://open.spotify.com/track/2FzGairEDfMJZQA3lzMTQz) | [Kabusa Oriental Choir](https://open.spotify.com/artist/4YrSRLOhFdbVvToiE2nlpj) | [Valentine Is Coming \(Verse 5\)](https://open.spotify.com/album/4mXfTrLboHjAtZVpUjnOTZ) | 1:29 | 2025-01-31 | 2025-02-22 |

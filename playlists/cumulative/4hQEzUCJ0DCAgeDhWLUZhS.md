@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-523 songs - 1 day 6 hr 41 min
+524 songs - 1 day 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Good Times Bad Times](https://open.spotify.com/track/2Y9vBlthOtlpUkafR9jRAE) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Good Times Bad Times](https://open.spotify.com/album/6quGCuC6rPXfMAN9UT2ZAU) | 2:49 | 2021-11-12 | 2025-05-28 |
 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 | 2025-06-25 |  |
 | [Graveyard Love](https://open.spotify.com/track/6CxSCda7mkSetFnBpFpZ8f) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Graveyard Love](https://open.spotify.com/album/02vvZsSjHWwJ6FDOTNb6NN) | 3:14 | 2022-07-08 | 2025-06-04 |
+| [Grief](https://open.spotify.com/track/0dNHARb1Sa96bnjLsMqDVz) | [No Apologies](https://open.spotify.com/artist/4puLBE4XPuXZBpF6lZmcxt), [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [Grief](https://open.spotify.com/album/4ccdjRpjZ6JyiazYgUslAB) | 2:34 | 2025-08-26 |  |
 | [Grow Wings and Fly](https://open.spotify.com/track/6hQDM3GCZ1mxV0jLyUpoyd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Grow Wings and Fly](https://open.spotify.com/album/1nNQXEVoIOeQ2lvGItoB8c) | 5:08 | 2025-06-03 |  |
 | [Growing Up](https://open.spotify.com/track/01MGjcd27q8hqHiv3jztV3) | [Alex the Astronaut](https://open.spotify.com/artist/42NjRVKqEGe2DkGvlUd5qM) | [Growing Up](https://open.spotify.com/album/3Edg3KMG3X3IqQUvO2tQEl) | 4:50 | 2021-11-19 | 2025-05-28 |
 | [Guilt](https://open.spotify.com/track/31mA7LoZx6ot2Jkg1ro5IA) | [Somber Hills](https://open.spotify.com/artist/32ERIC9nktHUbxT63ML95P) | [Guilt](https://open.spotify.com/album/2siQNet39SgvMihAHEhd8j) | 3:13 | 2023-04-27 | 2025-06-04 |

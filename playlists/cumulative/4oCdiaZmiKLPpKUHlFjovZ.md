@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring, Babyface Ray, Ski Mask The Slump God, XXXTENTACION &amp; Rio Da Yung Og.
 
-179 songs - 7 hr 56 min
+180 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HOME SWEET HOME \(feat\. TAEYANG & DAESUNG\)](https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq) | 3:31 | 2024-11-25 |  |
 | [Hood Cry](https://open.spotify.com/track/04hszpzZPMijTmaknHOyL4) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Hood Cry](https://open.spotify.com/album/7nA9R4BnhumlEE68gO461G) | 3:25 | 2025-07-07 |  |
 | [Hot Sauce](https://open.spotify.com/track/5Lt20ho1AmhFJt56F1M7dS) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Hot Sauce](https://open.spotify.com/album/2WuTEjbwU7oIc0rFOFVVAV) | 2:15 | 2024-03-25 | 2024-06-19 |
+| [I Don't Care...](https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [I Don't Care...](https://open.spotify.com/album/1utha3BJLakow5UUB8fdYM) | 3:35 | 2025-08-25 |  |
 | [I Got You](https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [I Got You](https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa) | 2:14 | 2024-12-03 | 2025-03-05 |
 | [I Might Be \(feat\. Michael Prince\)](https://open.spotify.com/track/7M4kPlrBBAafltT5tY3DLf) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb), [Michael Prince](https://open.spotify.com/artist/2fHlRBNOU7dkeZ2nOFBewO) | [I Might Be \(feat\. Michael Prince\)](https://open.spotify.com/album/1zr37zJFBR9r0uYDa7YDfz) | 3:28 | 2025-03-04 |  |
 | [I WANNA WIN \- from the Short Film "Red Clay"](https://open.spotify.com/track/7GDLVeFKh19LB06KnBGUIi) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [I WANNA WIN \(from the Short Film "Red Clay"\)](https://open.spotify.com/album/39GdbIA43YHkD02Gih3GjX) | 2:48 | 2025-07-15 | 2025-07-31 |

@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-430 songs - 1 day 2 hr 7 min
+432 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb) | 4:22 | 2025-08-11 |  |
 | [Fireball Whiskey](https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Fireball Whiskey](https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO) | 3:29 | 2023-09-22 | 2024-02-17 |
 | [First Breath](https://open.spotify.com/track/318w7tTXrLWyNBFokyumUh) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [First Breath](https://open.spotify.com/album/5BM8EIcNMdIpzd5of7jR7Q) | 6:11 | 2024-10-21 |  |
+| [Fleeting](https://open.spotify.com/track/14Dbj4bqFTu3AfIACMaf4V) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Fleeting](https://open.spotify.com/album/6rPPRIOeC5Jfw7Mxx5rKf6) | 2:53 | 2025-08-25 |  |
 | [Flicker](https://open.spotify.com/track/6IKIBXhk00Fjw3FnThgcLB) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Flicker](https://open.spotify.com/album/2b1jvG1C9t49L6toD1k9RX) | 3:14 | 2025-04-22 |  |
 | [Follow](https://open.spotify.com/track/47NgbR06AR35k3toFdfbdJ) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Follow](https://open.spotify.com/album/67nebtIbhaxi5rOqfA6mSM) | 4:26 | 2025-08-11 |  |
 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 | 2025-01-07 |  |
@@ -307,7 +308,7 @@
 | [Same Things](https://open.spotify.com/track/3x2yirfV6nasZqmQ67PD1y) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/6P5iR01v1KjmALN4bwkIKD) | 2:49 | 2024-04-04 | 2024-07-13 |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2022-03-25 | 2024-04-03 |
 | [Sapphire](https://open.spotify.com/track/1Yg5DqsXXDLs5mPXwvNMaq) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Parasol](https://open.spotify.com/album/1ntSdj9zOCjVuV2wSxG1GQ) | 3:44 | 2025-08-11 |  |
-| [Say It](https://open.spotify.com/track/0nNDLjah0PaOFn2j7sMsF0) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS) | [Say It](https://open.spotify.com/album/2S7LjOBbcZZe1qPCrUekuY) | 4:12 | 2025-03-24 |  |
+| [Say It](https://open.spotify.com/track/0nNDLjah0PaOFn2j7sMsF0) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS) | [Say It](https://open.spotify.com/album/2S7LjOBbcZZe1qPCrUekuY) | 4:12 | 2025-03-24 | 2025-08-26 |
 | [Scared To Start \- Sun Mountain Sessions](https://open.spotify.com/track/0xVwILVFkJ1JECDhRUQB57) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Scared To Start \(Sun Mountain Sessions\)](https://open.spotify.com/album/2qO3jeAQVCgoECuwTOohmw) | 2:58 | 2024-02-29 | 2024-11-19 |
 | [See You Soon](https://open.spotify.com/track/6J0iDtlXabHqZizUKWUAX8) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [See You Soon](https://open.spotify.com/album/3RnZzFLaoswdse4TKBEmmH) | 3:14 | 2024-02-22 | 2025-01-08 |
 | [Shiva](https://open.spotify.com/track/42oPBjCm3xqOfevxJcjhdO) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Shiva](https://open.spotify.com/album/3Q8CPszxKBHYKSMNlv5wrf) | 3:02 | 2024-06-18 |  |
@@ -389,7 +390,7 @@
 | [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 | 2024-12-09 |  |
 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 | 2024-03-14 | 2024-04-19 |
 | [Too Good to be True](https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Too Good to be True](https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft) | 2:40 | 2024-02-29 | 2024-07-10 |
-| [Touch Down](https://open.spotify.com/track/5VEcg5TxnBvRDqryNTCnS3) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Touch Down](https://open.spotify.com/album/04SAfdUPgrwWwKm0enzwMo) | 2:39 | 2024-10-21 |  |
+| [Touch Down](https://open.spotify.com/track/5VEcg5TxnBvRDqryNTCnS3) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Touch Down](https://open.spotify.com/album/04SAfdUPgrwWwKm0enzwMo) | 2:39 | 2024-10-21 | 2025-08-26 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-19 |  |
 | [Tourniquet](https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:09 | 2023-09-22 | 2024-06-19 |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-04-25 | 2025-03-25 |
@@ -409,6 +410,7 @@
 | [We Gotta Go](https://open.spotify.com/track/7yhMzOtnrsZUULmpRpIBA8) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [We Gotta Go](https://open.spotify.com/album/1Gat8TNCnjHiGx1bWV1ZCZ) | 4:12 | 2022-03-25 | 2024-04-12 |
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-24 |  |
 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 | 2022-08-25 | 2024-04-12 |
+| [Well](https://open.spotify.com/track/50bJQnG3wWB64iVe6F007S) | [lindsay](https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS) | [Well](https://open.spotify.com/album/3QciLyRHKRwOGZ59HJN9Vv) | 2:40 | 2025-08-25 |  |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2022-03-25 | 2023-01-27 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-18 | 2025-04-23 |
 | [When the Fire Started](https://open.spotify.com/track/7IjFo0MOjOZlR3qNtGL5Hq) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc), [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [When the Fire Started](https://open.spotify.com/album/73fAX5gOXYgocUjqbrLIFw) | 2:28 | 2024-04-11 | 2024-09-23 |

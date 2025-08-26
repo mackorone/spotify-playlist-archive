@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,567,577 likes - 98 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,572,626 likes - 98 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 7 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
 | 8 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 |
 | 9 | [FUNK SIGILO \- ULTRA SLOWED](https://open.spotify.com/track/4kyDzE3UwJLoT3iImSh9Tj) | [h6itam](https://open.spotify.com/artist/0exQbKNFd9pLmdIGycwmlf) | [FUNK SIGILO](https://open.spotify.com/album/3gciIH7IvN83uLz6Ay983i) | 2:18 |
-| 10 | [DOORS LIGHT FUNK \- SLOWED](https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F) | [DOORS LIGHT FUNK](https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV) | 1:43 |
+| 10 | [DOORS LIGHT FUNK \- SLOWED](https://open.spotify.com/track/3sRLayspROqc62YZ0DhEdR) | [DJ VTTT77](https://open.spotify.com/artist/7shWhQM6jbjhxG7TF6ae8X), [DJ VYZ](https://open.spotify.com/artist/7cIqiNrqyr9yAGv7e1WJ8F), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d) | [DOORS LIGHT FUNK](https://open.spotify.com/album/1oH6V6BqazPBkXKAbGuDZV) | 1:43 |
 | 11 | [MONTAGEM XONADA](https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [DJ Javi26](https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj) | [MONTAGEM XONADA](https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7) | 1:15 |
 | 12 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 |
 | 13 | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/track/7IBqHkoP94VrgYKVns4eNz) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [FUNK DO BOUNCE \(Slowed\)](https://open.spotify.com/album/6Zd0Hg3HKVH7xhBPgESQy1) | 1:47 |

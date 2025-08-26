@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: People R Ugly",
+  "description": "A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Peep",
   "name": "Varsity Bars",
   "tracks": [
     {
@@ -6376,7 +6376,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 200860,
       "name": "I'll Take Care of You (feat. Yebba)",
       "url": "https://open.spotify.com/track/4waPZF96vX1Oz5pzH6dB0h"
@@ -10171,6 +10171,32 @@
     },
     {
       "album": {
+        "name": "we owe you an explanation",
+        "url": "https://open.spotify.com/album/0tGQmsJGYRXLXTEVyWZgM1"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        },
+        {
+          "name": "Jadagrace",
+          "url": "https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk"
+        },
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "poser",
+      "url": "https://open.spotify.com/track/13nMWX9yA13HoDvnQgmgSn"
+    },
+    {
+      "album": {
         "name": "Practically Strangers",
         "url": "https://open.spotify.com/album/2Hh1RsqsHsz80iosebrvob"
       },
@@ -12161,6 +12187,24 @@
     },
     {
       "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153332,
+      "name": "Sugar On My Tongue",
+      "url": "https://open.spotify.com/track/6xV7Be6XEvkSnighmh2Tzj"
+    },
+    {
+      "album": {
         "name": "SUMMER VIBES",
         "url": "https://open.spotify.com/album/437rnm8NI94QYbp38sMYR2"
       },
@@ -13168,7 +13212,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 133636,
       "name": "Too Easy",
       "url": "https://open.spotify.com/track/0NL9Bfuishm9oqCrzyvLCM"

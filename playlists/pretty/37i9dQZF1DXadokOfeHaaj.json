@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Fcukers",
-  "num_followers": 37805,
+  "num_followers": 37831,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
+        "name": "storm",
+        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 248264,
+      "name": "storm",
+      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/59luA9B4MimwKmvTt43lr8"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 222956,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/4iA5MckI9OGxFgNDGtuRoZ"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
-        "name": "storm",
-        "url": "https://open.spotify.com/album/1nI4gPdghiiOav4iubD6d3"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 248264,
-      "name": "storm",
-      "url": "https://open.spotify.com/track/7txKOajpjZ1ae6vDSnhliR"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
-      },
-      "artists": [
-        {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
-        }
-      ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/7EgXAEqEAPyvng9HshtIjM"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 189330,
       "name": "Running",
       "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
         "name": "Playa Paradiso",
         "url": "https://open.spotify.com/album/0yMyo1SmvIrGoVUHW37YuP"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 185353,
       "name": "Playa Paradiso",
       "url": "https://open.spotify.com/track/0l3T3j8Zr55SZbVZJEvpbU"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2025-08-22 11:22:41",
-      "album": {
         "name": "I Have a Love (Overmono Remix)",
         "url": "https://open.spotify.com/album/7kh2TPP7m852qfYZJuQRdA"
       },
@@ -1243,18 +1223,22 @@
     {
       "added_at": "2025-08-22 11:22:41",
       "album": {
-        "name": "Hey Hi Hello",
-        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
       },
       "artists": [
         {
-          "name": "Alison Goldfrapp",
-          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
         }
       ],
-      "duration_ms": 189066,
-      "name": "Hey Hi Hello",
-      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2025-08-22 11:22:41",
@@ -1275,6 +1259,22 @@
       "duration_ms": 260156,
       "name": "From The Stars",
       "url": "https://open.spotify.com/track/2wYtsbYJjltjeDyuAO0xBp"
+    },
+    {
+      "added_at": "2025-08-22 11:22:41",
+      "album": {
+        "name": "Hey Hi Hello",
+        "url": "https://open.spotify.com/album/4I8qs08X0oLRPetEQcNZ1p"
+      },
+      "artists": [
+        {
+          "name": "Alison Goldfrapp",
+          "url": "https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Hey Hi Hello",
+      "url": "https://open.spotify.com/track/6ExEV08wGlV5bLqtyRAsdJ"
     },
     {
       "added_at": "2025-08-22 11:22:41",

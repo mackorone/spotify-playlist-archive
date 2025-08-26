@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Mirage of the mind",
+        "url": "https://open.spotify.com/album/6g0dLOlVT78sPwUOAD1nEF"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2025-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159279,
+      "name": "Mirage of the mind",
+      "url": "https://open.spotify.com/track/2lp8TyBhONuPg1OYjbC92l"
+    },
+    {
+      "album": {
         "name": "Nameless Name",
         "url": "https://open.spotify.com/album/6Myp5WC1OARu3K7E8JMzCx"
       },

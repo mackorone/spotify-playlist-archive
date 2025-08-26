@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Angel Reese and Kamilla Cardoso
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Terry McLaurin and Jayden Daniels
 
 840 songs - 1 day 19 hr 3 min
 

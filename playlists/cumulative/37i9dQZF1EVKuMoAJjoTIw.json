@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWZsYkeM4kEO>Nosstress</a>, <a href=spotify:playlist:37i9dQZF1EIXMeL3314OeN>Au/Ra</a>, <a href=spotify:playlist:37i9dQZF1EIVhQyYFsE2oJ>BTS</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIW9Jqfb99tYe>Phoebe Bridgers</a>, <a href=spotify:playlist:37i9dQZF1EIVsRG8uM8iYo>Emcee L (Da LAB)</a>, <a href=spotify:playlist:37i9dQZF1EIWZo4Aq9dAjp>Bailey Zimmerman</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -968,6 +968,24 @@
       "duration_ms": 325466,
       "name": "Asi Fue",
       "url": "https://open.spotify.com/track/419FFiitGchOUaIMEY7Dqi"
+    },
+    {
+      "album": {
+        "name": "Different Night Same Rodeo",
+        "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177945,
+      "name": "At The Same Time",
+      "url": "https://open.spotify.com/track/2ret2nPzPwqkkcR61gulgz"
     },
     {
       "album": {
@@ -1995,6 +2013,32 @@
     },
     {
       "album": {
+        "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+        "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
+      },
+      "artists": [
+        {
+          "name": "Emcee L (Da LAB)",
+          "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
+        },
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Mu\u1ed9ii (Starry Night)",
+          "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208048,
+      "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+      "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
+    },
+    {
+      "album": {
         "name": "Footprints I Found",
         "url": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
       },
@@ -2400,7 +2444,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 323360,
       "name": "Crystal Snow",
       "url": "https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL"
@@ -8280,7 +8324,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 237772,
       "name": "Panic Room",
       "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
@@ -9590,6 +9634,24 @@
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
+    },
+    {
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "album": {
@@ -11408,7 +11470,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 139208,
       "name": "Tunjukkan Cintamu",
       "url": "https://open.spotify.com/track/1BsZS470FaEidqkZUPOwXN"

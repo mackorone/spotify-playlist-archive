@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Tuure Kilpeläinen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,370 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,373 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ikipuut](https://open.spotify.com/track/1PcPem1EN5DY6jDO2fq7pI) | [Tuure Kilpeläinen](https://open.spotify.com/artist/2inhO0GfiR0DhSGhPCwZZg) | [Ikipuut](https://open.spotify.com/album/3FPM3ZGoZZrVkj1hhq8yX4) | 3:13 |
 | 2 | [Pöllöille kyytiä](https://open.spotify.com/track/43FVVgktBO2x13dNjcecT4) | [Vesterinen Yhtyeineen](https://open.spotify.com/artist/5VqqouYMb1I1IZHzEGqkMh) | [Pöllöille kyytiä](https://open.spotify.com/album/7f3IEtFkwP1GGlRo7TgI89) | 3:25 |
-| 3 | [Oletko siellä](https://open.spotify.com/track/3EplszH4zG4GJFjmsiyVap) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Oletko siellä](https://open.spotify.com/album/5q4lviYJdKf8AIGmFLgNzX) | 3:54 |
-| 4 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
-| 5 | [Haavat](https://open.spotify.com/track/2Xp723l2bYsKGrieosITk5) | [Haavat](https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo) | [Haavat](https://open.spotify.com/album/6YBhxv7ZCGPAakltndNjxr) | 2:58 |
-| 6 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
-| 7 | [Kesävieraat](https://open.spotify.com/track/5nrCMYvV23bw9THeTgGFrW) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kesävieraat](https://open.spotify.com/album/5a8scIkc9EqfeJtpMnQmlL) | 3:06 |
+| 3 | [Kesävieraat](https://open.spotify.com/track/5nrCMYvV23bw9THeTgGFrW) | [Samuli Putro](https://open.spotify.com/artist/7c1LwhVSjP68zgMA7iqsC6) | [Kesävieraat](https://open.spotify.com/album/5a8scIkc9EqfeJtpMnQmlL) | 3:06 |
+| 4 | [Oletko siellä](https://open.spotify.com/track/3EplszH4zG4GJFjmsiyVap) | [Ursus Factory](https://open.spotify.com/artist/0Od2brltKfcyVsFOLmJqGA) | [Oletko siellä](https://open.spotify.com/album/5q4lviYJdKf8AIGmFLgNzX) | 3:54 |
+| 5 | [Kulkurin iltatähti](https://open.spotify.com/track/1fTg8S7Ql5SOHzDLdm6665) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Kunnes aurinko nielaisee maan](https://open.spotify.com/album/2t9jfZYDyLYB9DbzpxGIaS) | 4:25 |
+| 6 | [Haavat](https://open.spotify.com/track/2Xp723l2bYsKGrieosITk5) | [Haavat](https://open.spotify.com/artist/5kkqhzRK0Iq7REjdlz2Swo) | [Haavat](https://open.spotify.com/album/6YBhxv7ZCGPAakltndNjxr) | 2:58 |
+| 7 | [Paluu](https://open.spotify.com/track/5iJojAxH2TaKuNSL41QqqK) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Paluu](https://open.spotify.com/album/6Lc0k6FqITt4SCmDod9Z2A) | 3:03 |
 | 8 | [Tennis Roll](https://open.spotify.com/track/3DcvgZwdx6HwSaA5Uh66aM) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Tennis Roll](https://open.spotify.com/album/701mnbpeT8QOEAomJgcAM2) | 2:20 |
 | 9 | [Rock\-musiikkia](https://open.spotify.com/track/74yCJXK2QHV8RJceDR8dLL) | [Radio Rock Band](https://open.spotify.com/artist/7AKqB3rJHH92XIfPnnKZsp) | [Rock\-musiikkia](https://open.spotify.com/album/3CeREPAOcy7lEZ8r6Q6kSG) | 4:12 |
 | 10 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Liikkuva Linna](https://open.spotify.com/track/58SvOxXLT0373c96Y2VrFh) | [Harjula](https://open.spotify.com/artist/1gLpevGKJgl5g0oTqVbolp) | [Liikkuva Linna](https://open.spotify.com/album/0e1h1kTCHOPrIqKyP8Ryaf) | 3:11 |
 | 80 | [Yhen yön terapia](https://open.spotify.com/track/7qXuK2hqFCmIYvDrUJqpfX) | [MINÄMINÄ](https://open.spotify.com/artist/3xuRSjlTXFHrbECRrQLTdl) | [Pari terapiaa](https://open.spotify.com/album/1O6NJhNKL4TXcZa4x5nmQy) | 3:56 |
 
-Snapshot ID: `AAAAAEhkgf0DXv9Omy2f6fasI9qq8WAm`
+Snapshot ID: `AAAAAAoZsRbmy6mQY2if5fAeaJRmbeMT`

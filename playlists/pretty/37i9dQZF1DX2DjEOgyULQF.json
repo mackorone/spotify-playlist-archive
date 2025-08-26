@@ -1,6 +1,6 @@
 {
   "description": "Ambient with the soothing sounds of water, rain and birds. ",
-  "num_followers": 250551,
+  "num_followers": 250832,
   "original_name": "Nature Relaxation",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Fields Above",
-        "url": "https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth"
-      },
-      "artists": [
-        {
-          "name": "Sinnesro",
-          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
-        }
-      ],
-      "duration_ms": 153281,
-      "name": "Fields Above",
-      "url": "https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 160055,
       "name": "Eden",
       "url": "https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Fields Above",
+        "url": "https://open.spotify.com/album/5W62C0F87hdnKM7GWIfuth"
+      },
+      "artists": [
+        {
+          "name": "Sinnesro",
+          "url": "https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc"
+        }
+      ],
+      "duration_ms": 153281,
+      "name": "Fields Above",
+      "url": "https://open.spotify.com/track/1OTu5THgajjpDIgtdgGbyn"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Condensation",
-        "url": "https://open.spotify.com/album/5FH8oQ5l8qq8Twv0kr20lp"
-      },
-      "artists": [
-        {
-          "name": "Astee\u00f5s",
-          "url": "https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K"
-        }
-      ],
-      "duration_ms": 150003,
-      "name": "Condensation",
-      "url": "https://open.spotify.com/track/4DOqRbz7WqlvueNRCkTdCZ"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Spring Ambience",
         "url": "https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 151578,
       "name": "Spring Ambience",
       "url": "https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Condensation",
+        "url": "https://open.spotify.com/album/5FH8oQ5l8qq8Twv0kr20lp"
+      },
+      "artists": [
+        {
+          "name": "Astee\u00f5s",
+          "url": "https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K"
+        }
+      ],
+      "duration_ms": 150003,
+      "name": "Condensation",
+      "url": "https://open.spotify.com/track/4DOqRbz7WqlvueNRCkTdCZ"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -971,18 +971,18 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Halfmoon",
-        "url": "https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs"
+        "name": "Introspective Thoughts Gamma",
+        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
       },
       "artists": [
         {
-          "name": "Escix V",
-          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
         }
       ],
-      "duration_ms": 169250,
-      "name": "Halfmoon",
-      "url": "https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9"
+      "duration_ms": 168000,
+      "name": "Introspective Thoughts Gamma (88-176hz)",
+      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Introspective Thoughts Gamma",
-        "url": "https://open.spotify.com/album/6cEWrmi0Zw37PcVVRaOtS3"
+        "name": "Halfmoon",
+        "url": "https://open.spotify.com/album/3f4dbs1Vhi3VBJ121oobzs"
       },
       "artists": [
         {
-          "name": "Waves Of Sine",
-          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Introspective Thoughts Gamma (88-176hz)",
-      "url": "https://open.spotify.com/track/4Kd0E840XEJnAPxl1tktZY"
+      "duration_ms": 169250,
+      "name": "Halfmoon",
+      "url": "https://open.spotify.com/track/0AdOu6FCkWdtrCxPYP4yS9"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Natura Deambulatio",
-        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
-      },
-      "artists": [
-        {
-          "name": "Floating Portal",
-          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Natura Deambulatio",
-      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Fj\u00e4lldr\u00f6mmar",
         "url": "https://open.spotify.com/album/1vdbvO1wkYJghGNq7WPxJA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155874,
       "name": "Fj\u00e4lldr\u00f6mmar",
       "url": "https://open.spotify.com/track/6FFiYLvQAGVIwqsmVIZEgr"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Natura Deambulatio",
+        "url": "https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2"
+      },
+      "artists": [
+        {
+          "name": "Floating Portal",
+          "url": "https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Natura Deambulatio",
+      "url": "https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1095,6 +1095,22 @@
       "duration_ms": 230173,
       "name": "Misty Glade",
       "url": "https://open.spotify.com/track/3TCqP8YgwG2VCdhHF3bMzO"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9nter",
+          "url": "https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S"
+        }
+      ],
+      "duration_ms": 172020,
+      "name": "Woodland",
+      "url": "https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/6zDCP4I0ZFQCKBLcoQLSkW"
+        "name": "Garden of Calm",
+        "url": "https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq"
       },
       "artists": [
         {
-          "name": "C\u00e9nter",
-          "url": "https://open.spotify.com/artist/2pY8g248PiBjPTclQxaL0S"
+          "name": "Nature Pulse",
+          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
         }
       ],
-      "duration_ms": 172020,
-      "name": "Woodland",
-      "url": "https://open.spotify.com/track/7MG0wElZyCdYZg4qpBmcYS"
+      "duration_ms": 178333,
+      "name": "Garden of Calm",
+      "url": "https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1175,22 +1191,6 @@
       "duration_ms": 166229,
       "name": "Astral Awakening",
       "url": "https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
-        "name": "Garden of Calm",
-        "url": "https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq"
-      },
-      "artists": [
-        {
-          "name": "Nature Pulse",
-          "url": "https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Garden of Calm",
-      "url": "https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl"
-      },
-      "artists": [
-        {
-          "name": "D'Verti",
-          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
-        }
-      ],
-      "duration_ms": 130854,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Gentle Streams",
         "url": "https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 199798,
       "name": "Gentle Streams",
       "url": "https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl"
+      },
+      "artists": [
+        {
+          "name": "D'Verti",
+          "url": "https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu"
+        }
+      ],
+      "duration_ms": 130854,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Mitra\u00b4s Morning",
-        "url": "https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y"
-      },
-      "artists": [
-        {
-          "name": "Sangenjaya",
-          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Mitra\u00b4s Morning",
-      "url": "https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Sense",
         "url": "https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 188571,
       "name": "Sense",
       "url": "https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Mitra\u00b4s Morning",
+        "url": "https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Mitra\u00b4s Morning",
+      "url": "https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Revelation",
-        "url": "https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj"
-      },
-      "artists": [
-        {
-          "name": "Mindland",
-          "url": "https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Revelation",
-      "url": "https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Found the Moon",
         "url": "https://open.spotify.com/album/2jEcuWPdfuxdg71KTw0DbA"
       },
@@ -1627,18 +1611,18 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Falling Freely",
-        "url": "https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz"
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/0B7u4chWcq7fBvU7EAK3Fj"
       },
       "artists": [
         {
-          "name": "Joan Abe",
-          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+          "name": "Mindland",
+          "url": "https://open.spotify.com/artist/330UIau66ZSsEGlHH5Wwwg"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Falling Freely",
-      "url": "https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben"
+      "duration_ms": 190000,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/2kp3xWNh6qEZ8cNLbl5Cko"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -1671,6 +1655,22 @@
       "duration_ms": 156162,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/6uAzGHQ0CTL0ZmUcACijLc"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Falling Freely",
+        "url": "https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Falling Freely",
+      "url": "https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben"
     },
     {
       "added_at": "2025-08-13 15:03:29",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2025-08-13 15:03:29",
       "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D"
-      },
-      "artists": [
-        {
-          "name": "Devon Fall",
-          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Essence (Soundbath)",
-      "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
-    },
-    {
-      "added_at": "2025-08-13 15:03:29",
-      "album": {
         "name": "Chitwan Longing",
         "url": "https://open.spotify.com/album/6m6lONbEzbgiXCspvdaZ92"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 174191,
       "name": "Chitwan Longing",
       "url": "https://open.spotify.com/track/2HVEoqPXUYIVeshrfufq0u"
+    },
+    {
+      "added_at": "2025-08-13 15:03:29",
+      "album": {
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D"
+      },
+      "artists": [
+        {
+          "name": "Devon Fall",
+          "url": "https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Essence (Soundbath)",
+      "url": "https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN"
     },
     {
       "added_at": "2025-08-13 15:03:29",

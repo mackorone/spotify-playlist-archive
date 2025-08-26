@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIWmirmzMYQiV>Fracta Aurea</a>, <a href=spotify:playlist:37i9dQZF1EIX7AzDG44w4y>Kyle Hume</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZuxNm0o6kU8>Beny Jr</a>, <a href=spotify:playlist:37i9dQZF1EIUBWv23W5bJ1>Lorien Testard</a>, <a href=spotify:playlist:37i9dQZF1EIUpaKzSbGp7E>Quebonafide</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
-| 2 | [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 |
-| 3 | [Happy](https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA) | [Kyle Hume](https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I) | [Happy](https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9) | 2:13 |
+| 1 | [Dime si tú me quieres ver? \- Part 2](https://open.spotify.com/track/5Uz5WvNiUyAsAr0grkasfE) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Anti Social Cool Kid](https://open.spotify.com/album/6pisGd3CugRqlclq4yp308) | 2:36 |
+| 2 | [Gustave](https://open.spotify.com/track/0orrgD76lIubUjB1fg6o5I) | [Lorien Testard](https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8) | [Clair Obscur: Expedition 33 \(Original Soundtrack\)](https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc) | 3:48 |
+| 3 | [Refren trochę jak Lana Del Rey](https://open.spotify.com/track/0bJPQcJGw4G8ffS3VIjHWI) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Ka\-Meal](https://open.spotify.com/artist/7htKxTVi444ObFAOU0ahS9), [maszaitsme](https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN), [SecretiveSuicide](https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9) | [Refren trochę jak Lana Del Rey](https://open.spotify.com/album/6ZOivoC0hhmnauIIsyJ9FY) | 4:49 |
 | 4 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 5 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
 | 6 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 50 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 |
 
-Snapshot ID: `AAAAAAAAAABI5v5ybUUTIOao/Qu0u1gK`
+Snapshot ID: `AAAAAAAAAACJ7rmlyZcGKguhEgI+Hr45`

@@ -11315,6 +11315,24 @@
     },
     {
       "album": {
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6efJeGbPeyAkm2vXgq2nuw"
+      },
+      "artists": [
+        {
+          "name": "vonce",
+          "url": "https://open.spotify.com/artist/39ikAO5hhcTbDvGv2ndjbW"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153461,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz"
+    },
+    {
+      "album": {
         "name": "Solo (feat. Demi Lovato) [Wideboys Remix]",
         "url": "https://open.spotify.com/album/4buTKHbBsvpZBBS1Z5Z0N5"
       },

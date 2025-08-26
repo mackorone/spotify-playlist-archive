@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 50245,
+  "num_followers": 50274,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAAALD18GahdwlnCwaaRQ+AqJ",
+  "snapshot_id": "aKpWAAAAAAAYXvE7S/j+P/vqWs5IYMYr",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Wouldn't Do",
-        "url": "https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2"
+        "name": "Louisiana Stick (with Marcus King)",
+        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 183973,
-      "name": "Jesus Wouldn't Do",
-      "url": "https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux"
+      "duration_ms": 148120,
+      "name": "Louisiana Stick (with Marcus King)",
+      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
     },
     {
       "added_at": null,
@@ -439,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Louisiana Stick (with Marcus King)",
-        "url": "https://open.spotify.com/album/4O4DhX9FTNLzHyyds0IYgF"
+        "name": "Jesus Wouldn't Do",
+        "url": "https://open.spotify.com/album/23yzPzQnYJs50BrBeoInz2"
       },
       "artists": [
         {
           "name": "Jordan Davis",
           "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 148120,
-      "name": "Louisiana Stick (with Marcus King)",
-      "url": "https://open.spotify.com/track/1gbQ9iwuO9teaFieEwBLn8"
+      "duration_ms": 183973,
+      "name": "Jesus Wouldn't Do",
+      "url": "https://open.spotify.com/track/4yy06NXG2rBCOvcyMHAYux"
     },
     {
       "added_at": null,

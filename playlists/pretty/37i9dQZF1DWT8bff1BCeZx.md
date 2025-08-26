@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,101 likes - 150 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,104 likes - 150 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 4 | [Promise Keeper](https://open.spotify.com/track/4kQlvea7CbFtYSiy9t3ykj) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk) | [Dominion](https://open.spotify.com/album/6223AIJdGlffG41YN32ail) | 3:04 |
 | 5 | [Bigger Everyday](https://open.spotify.com/track/4VGnb9i2pDrPhppHLmfVHb) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [The membrane](https://open.spotify.com/artist/0XaFHkogeaW0EN4jeO0qI5), [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:12 |
 | 6 | [Eze Abata](https://open.spotify.com/track/1aQZLDDr7jzMNbU4pzv92M) | [Amb\. Sis\. Chinyere Udoma](https://open.spotify.com/artist/4IWeky4mkNYQ8mdYq8rqp6) | [Eze Abata](https://open.spotify.com/album/6FzzVeo6Mz3MNTOMu5fy1a) | 8:16 |
-| 7 | [Cover Me](https://open.spotify.com/track/6iBAbMB5ryUQKBFGTj7bvK) | [JohnTenkahkee](https://open.spotify.com/artist/037tuw882iye1AipqgleEN), [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [Cover Me](https://open.spotify.com/album/4a28YXcjrN5sHEiz488fMJ) | 2:17 |
+| 7 | [Cover Me](https://open.spotify.com/track/6iBAbMB5ryUQKBFGTj7bvK) | [MAKAMA](https://open.spotify.com/artist/4eBsXvGgVaTR199EPQUOec), [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [Cover Me](https://open.spotify.com/album/4a28YXcjrN5sHEiz488fMJ) | 2:17 |
 | 8 | [Miracles Like Lies](https://open.spotify.com/track/1xHczeiVLFFYxrdAQLVteY) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Miracles Like Lies](https://open.spotify.com/album/53r1RXoTN1VStVSsoNWoBo) | 4:12 |
 | 9 | [Onyeoma \(Good God\)](https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Onyeoma \(Good God\)](https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM) | 4:25 |
 | 10 | [We will be many](https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN) | [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [We will be many](https://open.spotify.com/album/4zBbD33yMF8YXqJPZDhAHX) | 3:14 |

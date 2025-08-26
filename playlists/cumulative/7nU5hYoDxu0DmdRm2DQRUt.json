@@ -3453,6 +3453,24 @@
     },
     {
       "album": {
+        "name": "Panorama X-Press",
+        "url": "https://open.spotify.com/album/58SohyalgUv1s6xjbsuq9x"
+      },
+      "artists": [
+        {
+          "name": "Gui Boratto",
+          "url": "https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325198,
+      "name": "Panorama X-Press",
+      "url": "https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP"
+    },
+    {
+      "album": {
         "name": "Parallel Shift",
         "url": "https://open.spotify.com/album/6zBA1eNLLUbB5AMeU0gVi1"
       },

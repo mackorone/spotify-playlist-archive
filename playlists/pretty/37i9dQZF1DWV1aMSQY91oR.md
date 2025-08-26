@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,734 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,748 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 11 | [U and Me \(feat\. BigXthaPlug\)](https://open.spotify.com/track/7wM7yo16WS6YLzRNwegByw) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Recess](https://open.spotify.com/album/5Bo68f3J0Ufnb0d9iHf4FZ) | 2:48 |
 | 12 | [Headphones](https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:41 |
 | 13 | [GHOST\. \(feat\. Samara Cyn\)](https://open.spotify.com/track/1RukMhDhOQ1lsAWfriPZB0) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [GHOST.](https://open.spotify.com/album/5ef38pXWigK1RHZ4SHEjyP) | 2:10 |
-| 14 | [I Can't Lie](https://open.spotify.com/track/5kKFLL9j3YdNttvgbuT65s) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Scotty ATL](https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa) | [I Can't Lie](https://open.spotify.com/album/2m89SA7B5kJb8Mh2DaHhia) | 3:35 |
+| 14 | [I Can't Lie](https://open.spotify.com/track/5kKFLL9j3YdNttvgbuT65s) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Scotty ATL](https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL) | [I Can't Lie](https://open.spotify.com/album/2m89SA7B5kJb8Mh2DaHhia) | 3:35 |
 | 15 | [Napoleon](https://open.spotify.com/track/328p9YLeNTjWUnL6qCXqmv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:36 |
 | 16 | [Iron Man](https://open.spotify.com/track/3isstW9QHdzIrD0vDDpZLA) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Supreme Clientele 2](https://open.spotify.com/album/0SHlsKruygN9cOfAnaLxvM) | 2:03 |
 | 17 | [Victory Lap Four](https://open.spotify.com/track/234SaqlzLfKAsE6gsmvMnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Victory Lap](https://open.spotify.com/album/1I9H3LIuf4zobz8RcUBIif) | 4:22 |

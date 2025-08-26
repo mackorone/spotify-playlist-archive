@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Tyler Childers",
-  "num_followers": 68559,
+  "num_followers": 68578,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -1037,6 +1037,22 @@
       "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
     },
     {
+      "added_at": "2025-08-22 00:01:30",
+      "album": {
+        "name": "Devil\u2019s Den",
+        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "duration_ms": 230112,
+      "name": "The Great Caucasian God",
+      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
+    },
+    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "In These Silent Days",
@@ -1051,22 +1067,6 @@
       "duration_ms": 185228,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Vampire Empire",
-        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 192127,
-      "name": "Vampire Empire",
-      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1103,6 +1103,22 @@
       "duration_ms": 253561,
       "name": "Don't Wake Me Up [Feat. Jesse Welles]",
       "url": "https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1185,22 +1201,6 @@
       "url": "https://open.spotify.com/track/2mXVXW1UWO1m4hFuqg4sRO"
     },
     {
-      "added_at": "2025-08-22 00:01:30",
-      "album": {
-        "name": "Devil\u2019s Den",
-        "url": "https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q"
-      },
-      "artists": [
-        {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
-        }
-      ],
-      "duration_ms": 230112,
-      "name": "The Great Caucasian God",
-      "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
-    },
-    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "Save Your Soul / Say Goodbye, Tell No One",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 250801,
       "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
       "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
+        "name": "Lonely Cowboy",
+        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 203235,
+      "name": "Lonely Cowboy - Radio Edit",
+      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
         "name": "Still What I'm Looking For",
         "url": "https://open.spotify.com/album/62TCGy8a80AqgHT4pjXLbE"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 187550,
       "name": "Still What I'm Looking For",
       "url": "https://open.spotify.com/track/2lb95IOpKT2LTy5SsY0Bne"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Lonely Cowboy",
-        "url": "https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 203235,
-      "name": "Lonely Cowboy - Radio Edit",
-      "url": "https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1459,6 +1459,22 @@
       "duration_ms": 247293,
       "name": "Big Time",
       "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
+    },
+    {
+      "added_at": "2025-08-22 00:01:30",
+      "album": {
+        "name": "Billionaire",
+        "url": "https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Billionaire",
+      "url": "https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2025-07-11 04:00:29",
       "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
         "name": "This Ol' Way",
         "url": "https://open.spotify.com/album/27cg3junq7poQIJoWeiSDu"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 229200,
       "name": "Just The Same",
       "url": "https://open.spotify.com/track/6PAkQjnygwuTV7iDmPtK82"
+    },
+    {
+      "added_at": "2025-07-11 04:00:29",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1573,22 +1589,6 @@
       "url": "https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu"
     },
     {
-      "added_at": "2025-07-25 04:01:35",
-      "album": {
-        "name": "Bibles In Hotel Rooms",
-        "url": "https://open.spotify.com/album/1fgVHSiwqDiUXIBYjYDy0m"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Bibles In Hotel Rooms",
-      "url": "https://open.spotify.com/track/5v3mD9mHWUY56yPDm0hHNt"
-    },
-    {
       "added_at": "2025-07-11 04:00:29",
       "album": {
         "name": "As It Ever Was, So It Will Be Again",
@@ -1603,6 +1603,22 @@
       "duration_ms": 229133,
       "name": "Long White Veil",
       "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
+    },
+    {
+      "added_at": "2025-07-25 04:01:35",
+      "album": {
+        "name": "Bibles In Hotel Rooms",
+        "url": "https://open.spotify.com/album/1fgVHSiwqDiUXIBYjYDy0m"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Bibles In Hotel Rooms",
+      "url": "https://open.spotify.com/track/5v3mD9mHWUY56yPDm0hHNt"
     },
     {
       "added_at": "2025-07-11 04:00:29",
@@ -1651,26 +1667,6 @@
       "duration_ms": 139333,
       "name": "Everywhere I Go",
       "url": "https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR"
-    },
-    {
-      "added_at": "2025-07-11 04:00:29",
-      "album": {
-        "name": "Don't Do Me Good",
-        "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Don't Do Me Good",
-      "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
     }
   ],
   "unique_name": "Renegades",

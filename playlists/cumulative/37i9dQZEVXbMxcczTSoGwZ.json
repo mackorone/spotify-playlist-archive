@@ -3309,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "album": {
         "name": "Back to Life (Birthdae)",
         "url": "https://open.spotify.com/album/6caxt5SHHvkw9hfTMMgRgt"
       },
@@ -11788,7 +11806,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 248213,
       "name": "Gardenia",
       "url": "https://open.spotify.com/track/7Ih2bWlEQU3vg2s28qw607"
@@ -17314,7 +17332,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 193600,
       "name": "Italia",
       "url": "https://open.spotify.com/track/5dSmtvguWDB0oXMFUbUyYK"
@@ -23836,7 +23854,7 @@
       ],
       "date_added": "2025-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 156110,
       "name": "Leima (feat. Turisti)",
       "url": "https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV"
@@ -28502,7 +28520,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 261466,
       "name": "Min\u00e4 Suojelen Sinua Kaikelta",
       "url": "https://open.spotify.com/track/3kCfILjLsow1AGSTp4apIz"
@@ -41862,7 +41880,7 @@
       ],
       "date_added": "2025-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"

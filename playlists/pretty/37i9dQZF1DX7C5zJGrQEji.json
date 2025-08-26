@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 7553,
+  "num_followers": 7575,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,26 @@
     {
       "added_at": "2025-07-23 12:37:33",
       "album": {
+        "name": "Hot Dog on a Stick (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
+      },
+      "artists": [
+        {
+          "name": "Quinn Christopherson",
+          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Hot Dog on a Stick (feat. NATURE)",
+      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
+    },
+    {
+      "added_at": "2025-07-23 12:37:33",
+      "album": {
         "name": "Darkness In Me (feat. NATURE and Modern Tales)",
         "url": "https://open.spotify.com/album/3YGvow5IPpEFripmURapJ7"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 210094,
       "name": "Darkness In Me (feat. NATURE and Modern Tales) - Regn Edit",
       "url": "https://open.spotify.com/track/0lezNKxBACQImI2PvSJLfK"
-    },
-    {
-      "added_at": "2025-07-23 12:37:33",
-      "album": {
-        "name": "Hot Dog on a Stick (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6quHYanKkIKirUeoNWJ3ew"
-      },
-      "artists": [
-        {
-          "name": "Quinn Christopherson",
-          "url": "https://open.spotify.com/artist/0tzC81XDBWtTPfJyUg6O2j"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "Hot Dog on a Stick (feat. NATURE)",
-      "url": "https://open.spotify.com/track/30Ebq0g8zqlTk074KyvfKh"
     },
     {
       "added_at": "2025-07-23 12:37:33",
@@ -907,30 +907,6 @@
     {
       "added_at": "2025-07-23 12:37:33",
       "album": {
-        "name": "You & I - Sounds Right (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3GGmipFQbETmm6Frc9v76M"
-      },
-      "artists": [
-        {
-          "name": "ONR",
-          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "You & I - Sounds Right (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2beuW2zkLOUDUcdaoACTuA"
-    },
-    {
-      "added_at": "2025-07-23 12:37:33",
-      "album": {
         "name": "We Can't Walk Away (feat. NATURE)",
         "url": "https://open.spotify.com/album/3xGkTOw4uW3y80ViuvcRsW"
       },
@@ -951,6 +927,30 @@
       "duration_ms": 241846,
       "name": "We Can't Walk Away (feat. NATURE)",
       "url": "https://open.spotify.com/track/7BNm9A4t8tSTrJve0iuiSB"
+    },
+    {
+      "added_at": "2025-07-23 12:37:33",
+      "album": {
+        "name": "You & I - Sounds Right (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3GGmipFQbETmm6Frc9v76M"
+      },
+      "artists": [
+        {
+          "name": "ONR",
+          "url": "https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "You & I - Sounds Right (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2beuW2zkLOUDUcdaoACTuA"
     },
     {
       "added_at": "2025-07-23 12:37:33",

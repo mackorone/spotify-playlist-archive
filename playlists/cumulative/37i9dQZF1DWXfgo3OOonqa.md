@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,997 songs - 3 day 13 hr 42 min
+1,998 songs - 3 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1904,6 +1904,7 @@
 | [VILKEN TID \(ATT VA VID LIV\)](https://open.spotify.com/track/3eHyeSi8Oqtrsar6JVolwv) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J) | [VILKEN TID \(ATT VA VID LIV\)](https://open.spotify.com/album/6Z1wnd76o2YWnPjbM9esqR) | 3:01 | 2023-01-26 | 2023-03-04 |
 | [VILL BARA PRATA UT](https://open.spotify.com/track/6Bd7XicVmCoEUxG7z3Zso7) | [Mick C](https://open.spotify.com/artist/2uzFPVGIqlTH5AnD0CKPtL), [Mowgly](https://open.spotify.com/artist/0vbhWRKaeWqeVNr6rXOo92) | [VILL BARA PRATA UT](https://open.spotify.com/album/1fCpPWN84cHojCzh5ptoLw) | 3:38 | 2025-01-30 | 2025-02-07 |
 | [Vill va med dig](https://open.spotify.com/track/56flxHBv6c08oCUjQhXeb1) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Vill va med dig](https://open.spotify.com/album/2kEXuEfiNApqFQHym7qXcI) | 2:48 | 2023-06-06 | 2023-09-08 |
+| [Vinnande Koncept](https://open.spotify.com/track/1oI0ZeW94TruyBLA7CJUPE) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Nya Skolans Ledare](https://open.spotify.com/album/1ptguIZWJepEbkOFyZ05SJ) | 2:11 | 2025-08-25 |  |
 | [VINNARE](https://open.spotify.com/track/5njMZDEAfA2iiN7bRrlC9S) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [VINNARE](https://open.spotify.com/album/1P0WOWHaL3k2dH9stguXXg) | 2:29 | 2025-02-07 | 2025-06-06 |
 | [Violence \(feat\. Branco\)](https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc) | [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FORZA](https://open.spotify.com/album/7mD8Ze6PRguxWvcTTpvhhi) | 2:30 | 2022-03-10 | 2022-03-24 |
 | [VISIONEN](https://open.spotify.com/track/6wIUztnmZoCdZ3wJxubpzO) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [VISIONEN](https://open.spotify.com/album/0APit5Uani0kBtXLgVeUGv) | 2:35 | 2023-11-23 | 2024-01-19 |

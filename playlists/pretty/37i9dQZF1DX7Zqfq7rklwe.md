@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🦇
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,479 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,484 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dancing Shadow](https://open.spotify.com/track/2yp3vlZi440JXxX1Mz2W4h) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [Dancing Shadow](https://open.spotify.com/album/5CoNRYYHILmFu0pmgA6YED) | 4:58 |
 | 2 | [The Catalyst](https://open.spotify.com/track/4UGvNbuucQ1mCf3tiq7ZuQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:40 |
 | 3 | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/track/2lQgqBaf5ie7LWiG8NsEGw) | [Timo Rautiainen & Trio Niskalaukaus](https://open.spotify.com/artist/6sJ8TvVdY3NLFxtG4TESzC), [Tomi Joutsen](https://open.spotify.com/artist/6XKm3Pn13Owwmtu4l23dui) | [Kohti tuhoa \(feat\. Tomi Joutsen\)](https://open.spotify.com/album/0hUlq2Cl3WB7n5yBWacztM) | 3:52 |
-| 4 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
-| 5 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 |
+| 4 | [Specter](https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Specter](https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4) | 4:34 |
+| 5 | [I Drove All Night](https://open.spotify.com/track/5lM4Pk0KXUzi8RFe18ObJX) | [Cemetery Skyline](https://open.spotify.com/artist/3FVIkWmqjcUbtIgS86bnab) | [I Drove All Night](https://open.spotify.com/album/3hYOAUXTZXskcbPEd5oIp3) | 4:27 |
 | 6 | [Whiteout Moon](https://open.spotify.com/track/5Wphkrmc1NYqFf4Geb1rFm) | [My Bloodline](https://open.spotify.com/artist/020hYe5zmCGRFWKCAs5eoe) | [Whiteout Moon](https://open.spotify.com/album/37pUcxYtnzQXAzbixEnXrV) | 3:58 |
 | 7 | [Peacefield](https://open.spotify.com/track/6KEMumkYvsrGsl485JwN0u) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Peacefield](https://open.spotify.com/album/5vNvNASfnf2MVIrnoLr1OE) | 5:40 |
 | 8 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 79 | [Code Of The Road](https://open.spotify.com/track/6KJfHOfaQ6vvU1wC8zOWku) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Never Too Loud](https://open.spotify.com/album/0Oa1LlbLyeccvhqH0sUL8O) | 2:57 |
 | 80 | [The Ring](https://open.spotify.com/track/3zEcOUkZuXfM9UBjEuyOxJ) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Ring](https://open.spotify.com/album/7JahzP1AdsdKlspPFNedVT) | 5:35 |
 
-Snapshot ID: `AAAAAEEDb1nB6nxkMfyU/LWwIAGK1ZNp`
+Snapshot ID: `AAAAALvG090Bf4qw8pU7cnKcgQkyLi9Q`

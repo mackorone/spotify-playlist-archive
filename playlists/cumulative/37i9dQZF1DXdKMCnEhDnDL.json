@@ -943,6 +943,32 @@
     },
     {
       "album": {
+        "name": "Beneden",
+        "url": "https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135325,
+      "name": "Beneden",
+      "url": "https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue"
+    },
+    {
+      "album": {
         "name": "Bennie",
         "url": "https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve"
       },
@@ -1020,6 +1046,28 @@
       "duration_ms": 179676,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/7EyvmcYx7WzeBi2cY9RmIi"
+    },
+    {
+      "album": {
+        "name": "Blijf Dan Hier (feat. Danique)",
+        "url": "https://open.spotify.com/album/5tIDCaNRuNQW39P0hbPUMv"
+      },
+      "artists": [
+        {
+          "name": "Ruben Annink",
+          "url": "https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ"
+        },
+        {
+          "name": "Danique",
+          "url": "https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134857,
+      "name": "Blijf Dan Hier (feat. Danique)",
+      "url": "https://open.spotify.com/track/0ZlOCk6sjUpJkMcFNszlmo"
     },
     {
       "album": {
@@ -1636,6 +1684,24 @@
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
+    },
+    {
+      "album": {
+        "name": "Deze Avond!",
+        "url": "https://open.spotify.com/album/7tycJAQ5061GWLZvYmXsuD"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175712,
+      "name": "Deze Avond!",
+      "url": "https://open.spotify.com/track/1JaI4md1z1GSClwSM8nx59"
     },
     {
       "album": {
@@ -2378,7 +2444,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 202943,
       "name": "Goud",
       "url": "https://open.spotify.com/track/3aViSiRTiK1e5OqJtUk3MS"
@@ -2840,6 +2906,32 @@
       "duration_ms": 171080,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
+    },
+    {
+      "album": {
+        "name": "Hoe Het Is",
+        "url": "https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151875,
+      "name": "Hoe Het Is",
+      "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
     },
     {
       "album": {
@@ -3737,6 +3829,24 @@
     },
     {
       "album": {
+        "name": "Kleine Vogel",
+        "url": "https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184007,
+      "name": "Kleine Vogel",
+      "url": "https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3"
+    },
+    {
+      "album": {
         "name": "Engel",
         "url": "https://open.spotify.com/album/5gwLv2qTDq4zJB1fPlmJam"
       },
@@ -4208,6 +4318,24 @@
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+    },
+    {
+      "album": {
+        "name": "Levenslang",
+        "url": "https://open.spotify.com/album/7GkEwAWC4mXglJjTl23wJi"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172790,
+      "name": "Levenslang",
+      "url": "https://open.spotify.com/track/0eoKebZgSvWn9Po7HWDHza"
     },
     {
       "album": {
@@ -5193,6 +5321,24 @@
     },
     {
       "album": {
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL"
+      },
+      "artists": [
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150340,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr"
+    },
+    {
+      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -5291,6 +5437,24 @@
     },
     {
       "album": {
+        "name": "Paraplu",
+        "url": "https://open.spotify.com/album/7BX3w6BBAz9Q0qlTuyHmtJ"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202708,
+      "name": "Paraplu",
+      "url": "https://open.spotify.com/track/1Mgx2NK4bNC1ulidw7JATx"
+    },
+    {
+      "album": {
         "name": "Best Of The 10s: Party Hits",
         "url": "https://open.spotify.com/album/5P65bxTP4Bq4f6EBhsuSMU"
       },
@@ -5338,7 +5502,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 180375,
       "name": "Perfect Voor Mij",
       "url": "https://open.spotify.com/track/5pkPQQaYEoHbSnVQoVbXs6"
@@ -6032,7 +6196,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
@@ -6552,7 +6716,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
@@ -6910,6 +7074,28 @@
       "duration_ms": 186671,
       "name": "Voor Wat Je Lief Is",
       "url": "https://open.spotify.com/track/5xX8QMZ3jjaW15xq46LPqz"
+    },
+    {
+      "album": {
+        "name": "Voorbestemd",
+        "url": "https://open.spotify.com/album/06MjGp4d3fO4J2nHM742RK"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf"
+        },
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178577,
+      "name": "Voorbestemd",
+      "url": "https://open.spotify.com/track/3R5EFrMrXlmmcOZ1GjbNKY"
     },
     {
       "album": {

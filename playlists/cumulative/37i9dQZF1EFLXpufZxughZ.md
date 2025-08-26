@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-172 songs - 10 hr 2 min
+174 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 | 2023-12-21 | 2025-01-27 |
 | [Bayside \(feat\. 24kGoldn\)](https://open.spotify.com/track/5BJHS602oaTKgosEBc4NMJ) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Free Skizzy Mars](https://open.spotify.com/album/06uilmMkjOIuifxVYJyqwD) | 2:41 | 2023-12-13 |  |
 | [Been Gone](https://open.spotify.com/track/7CWvBBYSGmwkteQ5IGg6V5) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [2U](https://open.spotify.com/album/0pd3q6RmQe1OzAg95pKkmM) | 3:35 | 2023-12-13 |  |
+| [BEND IT OVA](https://open.spotify.com/track/44L5TF8guyNIXcneFxS8jk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:27 | 2025-08-25 |  |
 | [Big Lyfe](https://open.spotify.com/track/0H4JxGArtYE3sH3BiW3pMb) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Khaza](https://open.spotify.com/album/5ob4kF4KkXFDqC5ysCdCV8) | 4:00 | 2023-12-13 |  |
 | [Big S\*\*t Poppin' \[Do It\]](https://open.spotify.com/track/5tEbnKMOMK8LLoOIsEkWRr) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [T.I\. VS T.I.P.](https://open.spotify.com/album/1TrOr46SzyI7z9C6YnMRnM) | 4:47 | 2023-12-13 | 2025-06-28 |
 | [Black Out](https://open.spotify.com/track/5oEvEPAkxybmcSiPYyi6dq) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Beauty & The Streets](https://open.spotify.com/album/2bw6heGWMS4RGyckFwlCfL) | 3:28 | 2023-12-13 |  |
@@ -87,6 +88,7 @@
 | [Japan](https://open.spotify.com/track/62CfIeX8B6AgWft6Ty1lO9) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:30 | 2023-12-13 |  |
 | [Jealousy](https://open.spotify.com/track/5GYWABR2YFICkSEYZ3nG1M) | [Bri Steves](https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj) | [Jealousy](https://open.spotify.com/album/7ylhykmmtmOvqBRRlDq2hf) | 3:06 | 2023-12-13 |  |
 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 | 2023-12-13 |  |
+| [KICK OUT](https://open.spotify.com/track/3AD73lKeY2c9JhsHRqWkOw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 2:50 | 2025-08-25 |  |
 | [Learn From This](https://open.spotify.com/track/2hqqEVmvgdQ9HETiYigMoG) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:41 | 2023-12-13 |  |
 | [Lion King On Ice](https://open.spotify.com/track/1ZvBVbsaNqHEP6ymXaPGlj) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Lewis Street](https://open.spotify.com/album/1wRfMGVxmo1Gokg7nUwHye) | 3:30 | 2023-12-13 |  |
 | [Look At My Swagg \(feat\. Rick Ross\) \- Radio Edit](https://open.spotify.com/track/5jmXs2fjFnMsIynxLCerYx) | [Papa Duck](https://open.spotify.com/artist/1EL9yJ4Qw69RSIqE8GwseG) | [Look At My Swagg \(Feat\. Rick Ross\)](https://open.spotify.com/album/6HVPCsQndloAnObNx5ecju) | 4:13 | 2023-12-13 |  |

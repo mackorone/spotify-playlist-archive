@@ -4,7 +4,7 @@
 
 > The ocean, the sun, your friends, the music.
 
-640 songs - 1 day 10 hr 28 min
+641 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -523,6 +523,7 @@
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2023-08-07 |  |
 | [SNAP \- Luca Schreiner Remix](https://open.spotify.com/track/4JGFQyEJXDLtB3kOL3M1F3) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 2:28 | 2023-05-22 |  |
 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 | 2021-04-09 | 2022-01-11 |
+| [Sofia](https://open.spotify.com/track/30uXgQ9zhjkYL0h5cqsaDz) | [vonce](https://open.spotify.com/artist/39ikAO5hhcTbDvGv2ndjbW) | [Sofia](https://open.spotify.com/album/6efJeGbPeyAkm2vXgq2nuw) | 2:33 | 2025-08-26 |  |
 | [Solo \(feat\. Demi Lovato\) \- Wideboys Remix](https://open.spotify.com/track/2CqnpBHeQGfgj8FDB7zuTv) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Wideboys](https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi) | [Solo \(feat\. Demi Lovato\) \[Wideboys Remix\]](https://open.spotify.com/album/4buTKHbBsvpZBBS1Z5Z0N5) | 3:08 | 2021-04-09 | 2023-03-03 |
 | [Solo Dance](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38) | 2:54 | 2021-04-09 | 2022-03-24 |
 | [Solo Dance \- Club Mix](https://open.spotify.com/track/4QwSTdANIulM4TP96Qcw2A) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \- From Morning Till Midnight](https://open.spotify.com/album/2cHikunURpC7UwZSxbJLv0) | 4:21 | 2022-03-29 | 2023-03-03 |

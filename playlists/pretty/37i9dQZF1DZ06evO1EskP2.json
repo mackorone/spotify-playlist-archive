@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2958,
+  "num_followers": 2959,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAAA6on4Ro+H1TTW8Ica9UTzw",
+  "snapshot_id": "aKpWAAAAAABgPqaHFG7EoxNtPY45qnDI",
   "tracks": [
     {
       "added_at": null,
@@ -603,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maui Rain",
-        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
+        "name": "Easier (Jr Blender RMX)",
+        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
       "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 217077,
-      "name": "Maui Rain",
-      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
+      "duration_ms": 198779,
+      "name": "Easier - Jr Blender RMX",
+      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
     },
     {
       "added_at": null,
@@ -635,22 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easier (Jr Blender RMX)",
-        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
+        "name": "Maui Rain",
+        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
       },
       "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 198779,
-      "name": "Easier - Jr Blender RMX",
-      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
+      "duration_ms": 217077,
+      "name": "Maui Rain",
+      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
+      "duration_ms": 284680,
+      "name": "Right Love, Wrong Time",
+      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 284680,
-      "name": "Right Love, Wrong Time",
-      "url": "https://open.spotify.com/track/1KgBgZkEXySiIfzCZ3CGkR"
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,

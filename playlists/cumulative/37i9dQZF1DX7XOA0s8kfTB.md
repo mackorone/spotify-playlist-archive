@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” ©東映アニメーション
 
-48 songs - 2 hr 8 min
+49 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ideal Paradox](https://open.spotify.com/track/5HDHZRpt9I7WS9hFm87ndM) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Ideal Paradox](https://open.spotify.com/album/0DMcETLiwTVRw4k2ZyY8vi) | 3:49 | 2024-04-04 | 2024-04-19 |
 | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/track/6qrAG1fMnWCzaTGsB5mES0) | [「ガールズバンドクライ」](https://open.spotify.com/artist/6XbhByybHgZbtvlEnCSrL1) | [Key\. 海老塚 智 ボイスメッセージ](https://open.spotify.com/album/0eQW6RYzETuvSjTKFEjM8P) | 0:50 | 2024-04-04 |  |
 | [Lonely fate to be destined](https://open.spotify.com/track/2DjM6CRKEhyfGQvedX5OWQ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Lonely fate to be destined](https://open.spotify.com/album/7B9ooveGROUk58lfDBjTkx) | 3:15 | 2024-04-04 | 2024-04-19 |
+| [Mirage of the mind](https://open.spotify.com/track/2lp8TyBhONuPg1OYjbC92l) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Mirage of the mind](https://open.spotify.com/album/6g0dLOlVT78sPwUOAD1nEF) | 2:39 | 2025-08-24 |  |
 | [Nameless Name](https://open.spotify.com/track/0T0dK76JcJxPKMCZxm3JPi) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Nameless Name](https://open.spotify.com/album/6Myp5WC1OARu3K7E8JMzCx) | 3:08 | 2024-04-04 | 2024-04-19 |
 | [no rhyme nor reason](https://open.spotify.com/track/2WccvtI4uw9LQxYM1hxYHo) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [no rhyme nor reason](https://open.spotify.com/album/3HoIOAqeFRIcp2F7k9PhwH) | 3:09 | 2024-04-04 | 2024-04-19 |
 | [Piercing the dawn of time](https://open.spotify.com/track/0xcgxihAa7z24vM0W8YZab) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Piercing the dawn of time](https://open.spotify.com/album/2MOH4POoX7n28RsM4EPhcG) | 3:09 | 2024-04-04 | 2024-04-19 |

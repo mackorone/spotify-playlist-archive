@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,919 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,747 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 2 | [Catalina](https://open.spotify.com/track/6K3q0P2b26jdHavK9iobSB) | [Cheu\-B](https://open.spotify.com/artist/2bbQRkTmEgKA1INGHeH7oT), [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Catalina](https://open.spotify.com/album/7GB37IgpriYrSRHhWTCKxN) | 2:53 |
 | 3 | [Adriano](https://open.spotify.com/track/16nyxKShgXn5qrh9zaHCGX) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Adriano](https://open.spotify.com/album/3mviCx0HV5EZMPUHPcxDfi) | 2:22 |
 | 4 | [Shatta Confessions](https://open.spotify.com/track/7zywuMtaJQL7Nz2aTCOBCU) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [N'Ken](https://open.spotify.com/artist/7CiDghduh4uqMn0zSkPx1p) | [Shatta Confessions](https://open.spotify.com/album/4mPjrlSA27gzo3nomTW6GP) | 2:01 |
-| 5 | [Nagasaki](https://open.spotify.com/track/51QxcyKFOnHGx2Ay12Fbhu) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr) | [Nagasaki](https://open.spotify.com/album/4y1mQndLY4i4DJky4XgFw5) | 2:37 |
+| 5 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 |
 | 6 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 |
-| 7 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 |
-| 8 | [Busy](https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Busy](https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu) | 2:35 |
-| 9 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
-| 10 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 |
+| 7 | [Nagasaki](https://open.spotify.com/track/51QxcyKFOnHGx2Ay12Fbhu) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr) | [Nagasaki](https://open.spotify.com/album/4y1mQndLY4i4DJky4XgFw5) | 2:37 |
+| 8 | [Impardonnable](https://open.spotify.com/track/6nkFbmDY84a9rejFSbIMdj) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:10 |
+| 9 | [Busy](https://open.spotify.com/track/1DVdbIySidKt0RdRrh7gg1) | [kulturr](https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Busy](https://open.spotify.com/album/6M9oPmqJzL4j4rQ2kZPPzu) | 2:35 |
+| 10 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 |
 | 11 | [ruiné \(comme un dj\)](https://open.spotify.com/track/73QO4ZPYZOm2t3F1kTC62j) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9](https://open.spotify.com/album/0UE21vCQWLqiruKJmX4Ihg) | 2:07 |
 | 12 | [Mood](https://open.spotify.com/track/2GJuXOJJEemxrTuKXyR23P) | [13 Block](https://open.spotify.com/artist/7rTPCNINGzMp3Hc8Xqht5Z) | [Mood](https://open.spotify.com/album/4mFUUjx1KljXBO00P6MDsN) | 3:43 |
 | 13 | [RUINART](https://open.spotify.com/track/0vZyOrmcNCzkz73HSEMfLk) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [RUINART](https://open.spotify.com/album/6DDz77QqTYGIWIj9g4fUN1) | 2:54 |

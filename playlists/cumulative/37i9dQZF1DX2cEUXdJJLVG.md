@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-433 songs - 1 day 1 hr 52 min
+434 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Along \(Kaytranada Remix\)](https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/3UtKaTe3ZGpNo0cVdffTCi) | 4:44 | 2022-09-15 | 2024-01-24 |
 | [All Along \- Kaytranada Remix](https://open.spotify.com/track/7wFcrixaohlV2kn5iDGORv) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [All Along \(Kaytranada Remix\)](https://open.spotify.com/album/1SFh4fpWMEThFiNnSAXLsg) | 4:44 | 2024-01-22 | 2024-02-09 |
 | [All for You](https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [All for You](https://open.spotify.com/album/7Ckd5Akndk0AC2HAhbQgdT) | 4:13 | 2024-02-01 | 2025-06-20 |
+| [All I Want](https://open.spotify.com/track/3vPYYwrB9LHc6qLH1GEXuJ) | [Daan Koekelkoren](https://open.spotify.com/artist/72D3GR4H3P5IUXR14gTCoF) | [All I Want](https://open.spotify.com/album/51HjZb1k7sjREueebFLWs5) | 6:31 | 2025-08-25 |  |
 | [All Made Up](https://open.spotify.com/track/3L5dOP6Ihkg8dxkMzxJUuc) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK) | 4:10 | 2023-11-02 | 2024-01-19 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2022-09-09 | 2023-11-05 |
 | [All the Time](https://open.spotify.com/track/19hkRoctnBAVQ7VnLYM6je) | [Later.](https://open.spotify.com/artist/1f5I47xuO3sDZm0hQ8y0nq) | [The Daydream](https://open.spotify.com/album/2iTYwxJ3AuZcxMCHlAsFuF) | 3:52 | 2022-09-09 | 2024-08-30 |

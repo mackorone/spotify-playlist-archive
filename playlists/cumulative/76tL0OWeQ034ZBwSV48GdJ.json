@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1, 2 Step (DJ HEARTSTRING Remix)",
+        "url": "https://open.spotify.com/album/4hQkp4wrJ62GnxujArUkQ5"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185953,
+      "name": "1, 2 Step - DJ HEARTSTRING Remix",
+      "url": "https://open.spotify.com/track/4IhCpufYdnbCIjwWw7tqty"
+    },
+    {
+      "album": {
         "name": "A Magic World",
         "url": "https://open.spotify.com/album/3uW3PwT40SJKQDfhrLvwNY"
       },
@@ -3270,6 +3292,24 @@
       "duration_ms": 334761,
       "name": "Split Wick",
       "url": "https://open.spotify.com/track/2DxlImGfZPKLLhqqEl1nbW"
+    },
+    {
+      "album": {
+        "name": "Staring Into The Sun",
+        "url": "https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196227,
+      "name": "Staring Into The Sun",
+      "url": "https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 18243,
+  "num_followers": 18247,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 354310,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 186709,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 354310,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -899,6 +899,26 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Como Deus Quiser",
+      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
         "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 294913,
       "name": "Vem Tranquilo",
       "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Como Deus Quiser",
-      "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "\"...Entre...\"",
-        "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
-      },
-      "artists": [
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Tulipa Ruiz",
-          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "L\u00e1grimas do Palha\u00e7o",
-      "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6Q2eI8igMSdvCHsyz9rkJ4"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 246866,
       "name": "\u00c9 o Moio",
       "url": "https://open.spotify.com/track/6gTqJukT2CudOlBIHQsipW"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "\"...Entre...\"",
+        "url": "https://open.spotify.com/album/4BXTL3vb3tzS05aLTRiosX"
+      },
+      "artists": [
+        {
+          "name": "Kamau",
+          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "L\u00e1grimas do Palha\u00e7o",
+      "url": "https://open.spotify.com/track/78qdx0sVnBYTGAKqnLHxcp"
     },
     {
       "added_at": "2024-08-16 20:28:24",

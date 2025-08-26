@@ -3529,6 +3529,28 @@
     },
     {
       "album": {
+        "name": "Classic Hits In A Reggae Groove",
+        "url": "https://open.spotify.com/album/42zRQ7Gr6lrJEa8mC85LlY"
+      },
+      "artists": [
+        {
+          "name": "Kingston Sound System",
+          "url": "https://open.spotify.com/artist/1YmCqinfQtDJdAnNas3WCc"
+        },
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194844,
+      "name": "Don't Get Me Wrong",
+      "url": "https://open.spotify.com/track/67bf9SCCZjfCQEE8DeAdFx"
+    },
+    {
+      "album": {
         "name": "Don't Go Changing",
         "url": "https://open.spotify.com/album/0dJk7K8gB2utiR1cUtWrzF"
       },

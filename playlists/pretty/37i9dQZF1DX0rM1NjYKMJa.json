@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Notting Hill Carnival 2025. The vibes start here.",
-  "num_followers": 246794,
+  "num_followers": 247096,
   "original_name": "Carnival Sounds",
   "owner": {
     "name": "Spotify",
@@ -510,6 +510,10 @@
         {
           "name": "Vybz Kartel",
           "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
         }
       ],
       "duration_ms": 174994,
@@ -803,26 +807,6 @@
     {
       "added_at": "2025-08-18 11:52:01",
       "album": {
-        "name": "Body Tea",
-        "url": "https://open.spotify.com/album/3R7DhMn2171sTQ4D4R4Y5T"
-      },
-      "artists": [
-        {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
-        },
-        {
-          "name": "Dan Sky",
-          "url": "https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad"
-        }
-      ],
-      "duration_ms": 177696,
-      "name": "Body Tea",
-      "url": "https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA"
-    },
-    {
-      "added_at": "2025-08-18 11:52:01",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -843,6 +827,26 @@
       "duration_ms": 199020,
       "name": "Famalay",
       "url": "https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA"
+    },
+    {
+      "added_at": "2025-08-18 11:52:01",
+      "album": {
+        "name": "Body Tea",
+        "url": "https://open.spotify.com/album/3R7DhMn2171sTQ4D4R4Y5T"
+      },
+      "artists": [
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        },
+        {
+          "name": "Dan Sky",
+          "url": "https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad"
+        }
+      ],
+      "duration_ms": 177696,
+      "name": "Body Tea",
+      "url": "https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA"
     },
     {
       "added_at": "2025-08-18 11:52:01",
@@ -919,22 +923,18 @@
     {
       "added_at": "2025-08-18 11:52:01",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+        "name": "Mr. Brooks...A Better Tomorrow",
+        "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
         }
       ],
-      "duration_ms": 245240,
-      "name": "We Caa Done (feat. Drake)",
-      "url": "https://open.spotify.com/track/11pzZVbS8g6g2tfgSQR4uG"
+      "duration_ms": 178840,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9"
     }
   ],
   "unique_name": "Carnival Sounds",

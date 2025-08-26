@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 
 > Classics are forever! Los clásicos no pasan de moda!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,252,951 likes - 54 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,253,213 likes - 54 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SfyqmSFDwe.md) - [plain]
 | 23 | [No Me Dejes Solo](https://open.spotify.com/track/2Ukr1iULFHGSJp0qPhiqc0) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 2:50 |
 | 24 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 |
 | 25 | [Zun Da Da](https://open.spotify.com/track/6DxS2ZRl8G3EagHkovYXA2) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 5:04 |
-| 26 | [Soy Una Gargola](https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 3:08 |
+| 26 | [Soy Una Gargola](https://open.spotify.com/track/6g8su55d5ZpbMw01J7YrgE) | [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Alex Gargolas Greatest Hits](https://open.spotify.com/album/6JmEk1yaNPn4LFx9YPcZXv) | 3:08 |
 | 27 | [Guatauba](https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Guatauba XXX](https://open.spotify.com/album/2VcnobeKvV4FPuENazZozO) | 2:42 |
 | 28 | [Aparentemente](https://open.spotify.com/track/5RCcvZz5i0rckjbCTSPL1s) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [La Reunion](https://open.spotify.com/album/7tZ6A3h843NyVgqtOD4e8Q) | 5:03 |
 | 29 | [Llamé Pa' Verte \(Bailando Sexy\)](https://open.spotify.com/track/5SgN4mSGVEZ8TZQ5YSsKKb) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 3:14 |

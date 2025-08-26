@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: 裘德 \(Jude Chiu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,595 likes - 152 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,598 likes - 152 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 10 | [亻厓 行个路](https://open.spotify.com/track/0xGvR7ayNnMeouh7y8uwcF) | [RIBINGU](https://open.spotify.com/artist/4Ea8yy2Fu3LpKeI865UWPI) | [亻厓 行个路](https://open.spotify.com/album/2o60evFPWahnnZo4I3PuyR) | 3:09 |
 | 11 | [Carmen 2025](https://open.spotify.com/track/4EPM8Q4vSTcFuNJNN6vnnM) | [Adai Song](https://open.spotify.com/artist/3qYbpNdU8ahCjy2d8is30I) | [Carmen 2025](https://open.spotify.com/album/14vFAWZmhOEXXPqVRekFKd) | 3:12 |
 | 12 | [我是Daddy](https://open.spotify.com/track/3BGGbPF8yYjAm9zQpBuWzT) | [潮州土狗](https://open.spotify.com/artist/7jMy8JE32Ck096LLh6Hy4L) | [我是Daddy](https://open.spotify.com/album/73Sy6P8vOgW0Q8UMS5WBGv) | 2:48 |
-| 13 | [Motion \- 流光](https://open.spotify.com/track/52tivYgA7mKMjBH41SQAgh) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [Motion \(流光\)](https://open.spotify.com/album/4JrwVwixA46qrq5ORA8Qao) | 2:26 |
+| 13 | [Motion \- 流光](https://open.spotify.com/track/52tivYgA7mKMjBH41SQAgh) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P), [Delf](https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO) | [Motion \(流光\)](https://open.spotify.com/album/4JrwVwixA46qrq5ORA8Qao) | 2:26 |
 | 14 | [靜音鍵](https://open.spotify.com/track/3ZSZYBHxq3ilUsTCGxs02K) | [stancsz](https://open.spotify.com/artist/3Yd1ranaGvAK5wtC7muHIV) | [靜音鍵](https://open.spotify.com/album/4jy72QtIGB4QogSDuVyIQp) | 3:54 |
 | 15 | [Nenenenepupu](https://open.spotify.com/track/1J0YrpptVFYqADSwg6E818) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [沙登一校合唱團](https://open.spotify.com/artist/7ehA0GVVb2NObGKv7ztyeG) | [Nenenenepupu](https://open.spotify.com/album/05YDrbvllWajQIp15q2uwx) | 2:46 |
 | 16 | [沒有如果](https://open.spotify.com/track/7mCoqI2KBUYN3cjzVO5Vts) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [如果我是外星人你會愛我嗎？](https://open.spotify.com/album/71uG7DE1weyiox68UmCHg4) | 2:32 |

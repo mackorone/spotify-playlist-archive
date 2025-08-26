@@ -1,6 +1,6 @@
 {
   "description": "Instrumental selections from the South Indian school of music.",
-  "num_followers": 58918,
+  "num_followers": 58933,
   "original_name": "Carnatic Instrumental",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Who's To Know - Indian Classical Music",
-        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
-      },
-      "artists": [
-        {
-          "name": "L. Shankar",
-          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
-        }
-      ],
-      "duration_ms": 1433426,
-      "name": "Ananda Nadamadum Tillai Sankara",
-      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Pancharatna Kritis - A Flute Duet",
         "url": "https://open.spotify.com/album/7LA4l7AXFVJmjlqTJoVQVQ"
       },
@@ -375,34 +359,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
-        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+        "name": "Who's To Know - Indian Classical Music",
+        "url": "https://open.spotify.com/album/3OMXlAb0CBDAq37LajekYQ"
       },
       "artists": [
         {
-          "name": "Ramachandra Murthy",
-          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+          "name": "L. Shankar",
+          "url": "https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr"
         }
       ],
-      "duration_ms": 324878,
-      "name": "Nagavulu Nijamani - Instrumental",
-      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "Amazing Veena",
-        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
-      },
-      "artists": [
-        {
-          "name": "Phani Narayana",
-          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
-        }
-      ],
-      "duration_ms": 314906,
-      "name": "Pibare Rama Rasam",
-      "url": "https://open.spotify.com/track/2qQY4aob8d9hyS7AZSUEEb"
+      "duration_ms": 1433426,
+      "name": "Ananda Nadamadum Tillai Sankara",
+      "url": "https://open.spotify.com/track/6n0zRU7mAzwLyuvswZM4Zq"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -423,18 +391,34 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "The Carnatic Violin",
-        "url": "https://open.spotify.com/album/2FCE6mcnD61Vm44xnEf6A1"
+        "name": "Amazing Veena",
+        "url": "https://open.spotify.com/album/3su37Cc76cLB5hIQgkDk1d"
       },
       "artists": [
         {
-          "name": "T. N. Krishnan",
-          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+          "name": "Phani Narayana",
+          "url": "https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0"
         }
       ],
-      "duration_ms": 1067280,
-      "name": "Raga Bhairavi / Raagam-Taanam",
-      "url": "https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF"
+      "duration_ms": 314906,
+      "name": "Pibare Rama Rasam",
+      "url": "https://open.spotify.com/track/2qQY4aob8d9hyS7AZSUEEb"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Soul of South India 2 - Instrumentals of the Greatest Traditional Melodies",
+        "url": "https://open.spotify.com/album/3bhZ3lkcwIyl51rnXq6oHy"
+      },
+      "artists": [
+        {
+          "name": "Ramachandra Murthy",
+          "url": "https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736"
+        }
+      ],
+      "duration_ms": 324878,
+      "name": "Nagavulu Nijamani - Instrumental",
+      "url": "https://open.spotify.com/track/5zmKyzppUB4Lv2DIzLV9j4"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -451,6 +435,22 @@
       "duration_ms": 579750,
       "name": "Jagadhanandha karaka - Nattai - Adi",
       "url": "https://open.spotify.com/track/7iEG1ZpQ6terq6mTrNdxU4"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "The Carnatic Violin",
+        "url": "https://open.spotify.com/album/2FCE6mcnD61Vm44xnEf6A1"
+      },
+      "artists": [
+        {
+          "name": "T. N. Krishnan",
+          "url": "https://open.spotify.com/artist/3I85A6wnNyjIh7RSlhCUmE"
+        }
+      ],
+      "duration_ms": 1067280,
+      "name": "Raga Bhairavi / Raagam-Taanam",
+      "url": "https://open.spotify.com/track/11N16vE0jjIFgLaz6jN4XF"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -743,6 +743,26 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
+        "name": "Mahathi Melodies",
+        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Kalaimamani Prabhavathi Ganesan",
+          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+        }
+      ],
+      "duration_ms": 318667,
+      "name": "Thevaram Mangayarkarasi Bowli Adi",
+      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
         "name": "South Indian Classical Music",
         "url": "https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1"
       },
@@ -755,22 +775,6 @@
       "duration_ms": 459173,
       "name": "Ramabhirama Darbar Misrachappu",
       "url": "https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
-        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
-        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
-      },
-      "artists": [
-        {
-          "name": "Ranganayaki Rajagopalan",
-          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
-        }
-      ],
-      "duration_ms": 468745,
-      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
-      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -815,22 +819,18 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Mahathi Melodies",
-        "url": "https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B"
+        "name": "South India: Ranganayaki Rajagopalan\u2014Continuity in the Karaikudi Vina Style",
+        "url": "https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv"
       },
       "artists": [
         {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Kalaimamani Prabhavathi Ganesan",
-          "url": "https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T"
+          "name": "Ranganayaki Rajagopalan",
+          "url": "https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi"
         }
       ],
-      "duration_ms": 318667,
-      "name": "Thevaram Mangayarkarasi Bowli Adi",
-      "url": "https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk"
+      "duration_ms": 468745,
+      "name": "R\u0101ga: Kharaharapriya / \u0100l\u0101pana",
+      "url": "https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6"
     },
     {
       "added_at": "2025-07-09 11:29:57",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-07-09 11:29:57",
       "album": {
-        "name": "Apoorva Thillanas",
-        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
-      },
-      "artists": [
-        {
-          "name": "Apoorva Krishna",
-          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "Vasantha (Violin Solo)",
-      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
-    },
-    {
-      "added_at": "2025-07-09 11:29:57",
-      "album": {
         "name": "Classical Flute Collections",
         "url": "https://open.spotify.com/album/2DFUYQeIfWSYgNGIzYeim2"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 562912,
       "name": "Vathapi - Hamsadwani - Adi",
       "url": "https://open.spotify.com/track/64LBObUGInjuCrGp0BdJUa"
+    },
+    {
+      "added_at": "2025-07-09 11:29:57",
+      "album": {
+        "name": "Apoorva Thillanas",
+        "url": "https://open.spotify.com/album/4yyj6gKZvVdbOuYqoqYa6b"
+      },
+      "artists": [
+        {
+          "name": "Apoorva Krishna",
+          "url": "https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Vasantha (Violin Solo)",
+      "url": "https://open.spotify.com/track/1jHkxPfy8qSle6FzOqeZZS"
     },
     {
       "added_at": "2025-07-09 11:29:57",

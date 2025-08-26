@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,536 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,537 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 7 | [Phases \- bad tuner Remix](https://open.spotify.com/track/1zk4lGFlhhWbwkE4vvXeYn) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 3:25 |
 | 8 | [Light It Up](https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [RINGOS DESERT](https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL) | 3:18 |
 | 9 | [Rose's Thorn](https://open.spotify.com/track/3r3XSRtRcpoQ87vcpYbP5h) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 4:24 |
-| 10 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 |
-| 11 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 |
-| 12 | [Get Me Some](https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:32 |
+| 10 | [Loved By U](https://open.spotify.com/track/0TRXeJE4GjC6hpX3WovRP9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/4taO2kN0bh4dQ2EgiTL4Nm) | 3:27 |
+| 11 | [Get Me Some](https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:32 |
+| 12 | [Remind U \(feat\. TOKiMONSTA\)](https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI) | [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Real Life](https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI) | 2:48 |
 | 13 | [Darkest \(Dim\)](https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 5:09 |
 | 14 | [On Sum \- MPH Remix](https://open.spotify.com/track/56McsSccOr6K5Pm8q2HZCP) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [On Sum \(MPH Remix\)](https://open.spotify.com/album/2GG04Ana1NWA4pScy2s0RO) | 3:52 |
 | 15 | [For You](https://open.spotify.com/track/1zFLpYeJLsjcde0tAqg3oy) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd) | [For You](https://open.spotify.com/album/3mnzFFCW2oWOIztupb9Ecp) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 49 | [Fried for the Night](https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Oasis Nocturno](https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T) | 3:11 |
 | 50 | [Early to Dawn \(feat\. Selah Sue\)](https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Lune Rouge](https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z) | 3:38 |
 
-Snapshot ID: `aKkEgAAAAADBEZwSfs/MZ6cGRkT3WJV2`
+Snapshot ID: `aKpWAAAAAAB+3wwysSbNaUkhEDZQQBqF`

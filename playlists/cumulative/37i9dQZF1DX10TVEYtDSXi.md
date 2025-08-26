@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-206 songs - 10 hr 46 min
+207 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Hver Er Sá Besti](https://open.spotify.com/track/2oZDf893nA2eQx8QvHT0qN) | [FM95BLÖ](https://open.spotify.com/artist/3gXJ7TV8KMtWQQvOv20mRh), [DJ Muscleboy](https://open.spotify.com/artist/0xDprXJm0c2N6J90T2zr3f), [Steindi Jr.](https://open.spotify.com/artist/4YXcE4pT7k4CLJ4SI9mtwE), [Fjallabræður](https://open.spotify.com/artist/4fIFqYMcJ9vc5mlRrvdRYj) | [Hver Er Sá Besti](https://open.spotify.com/album/5I8rBgIiVKiIYwdiinuEvk) | 2:43 | 2025-02-28 | 2025-06-20 |
 | [Hvert ertu að fara?](https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ) | [Háski](https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE), [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Hvert ertu að fara?](https://open.spotify.com/album/7M7X7jtPfIlgbgWx72hvOZ) | 2:37 | 2024-06-21 | 2024-08-16 |
 | [Hæ \- EM 2025](https://open.spotify.com/track/2GAR7xyr2OE07Q1cEabUOZ) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma) | [Hæ \(EM 2025\)](https://open.spotify.com/album/0CM3ucphUxyIQx46Deudy0) | 2:36 | 2025-05-16 |  |
+| [HÚN](https://open.spotify.com/track/0nrOaaTOaMAST9wLklXzEl) | [ISSI](https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL) | [HÚN](https://open.spotify.com/album/2oSXUyRqsm1PLkNcW1mEak) | 2:25 | 2025-08-25 |  |
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-18 |  |
 | [I Don't Wanna Talk](https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I Don't Wanna Talk](https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK) | 2:55 | 2025-04-18 | 2025-08-15 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 | 2025-04-18 |
@@ -206,7 +207,7 @@
 | [Wasted Love](https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Wasted Love](https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx) | 2:44 | 2025-05-23 |  |
 | [WE PRAY \- Single Version](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-23 | 2025-01-17 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2025-05-16 |  |
-| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 |  |
+| [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-25 | 2025-08-26 |
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-06-21 | 2024-08-16 |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-08-01 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-09 | 2024-11-22 |

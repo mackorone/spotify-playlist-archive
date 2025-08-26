@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Blond",
+        "url": "https://open.spotify.com/album/4UC9EKAqCblrz1YhAuJ5HN"
+      },
+      "artists": [
+        {
+          "name": "Brooke Alexx",
+          "url": "https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127947,
+      "name": "Blond",
+      "url": "https://open.spotify.com/track/7sif8MyTwCcd4iiYeBdG1v"
+    },
+    {
+      "album": {
         "name": "Commitment Issues",
         "url": "https://open.spotify.com/album/2eTS8YvTafTRUsqcMzTN9w"
       },

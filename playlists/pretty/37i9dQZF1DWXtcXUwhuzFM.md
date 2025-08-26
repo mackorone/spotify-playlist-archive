@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musiikkia tarjoilevat AHTI ja Behm, Pihlaja, Arppa, sombr, Ava Max ja moni muu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,631 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,630 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

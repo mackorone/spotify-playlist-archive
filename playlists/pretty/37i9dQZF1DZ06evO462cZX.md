@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,232 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,240 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 46 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
 | 47 | [Freak \(feat\. Steve Bays\)](https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Steve Bays](https://open.spotify.com/artist/6vomg8FUuwmHqjYSQXL6SO) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:41 |
 | 48 | [When The Funk Drops](https://open.spotify.com/track/6qPCcyAHEEvPp1QDCcMpPn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Uberjack'd](https://open.spotify.com/artist/0UyHJ2JEmDdl7xpVnF0r3H), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [When The Funk Drops](https://open.spotify.com/album/6SQPmAwz5G7gXNBB0TXTLl) | 3:58 |
-| 49 | [Cooler Than Me](https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Cooler Than Me](https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6) | 3:12 |
-| 50 | [Offspring](https://open.spotify.com/track/5NPZpywHJWVnesi5XdhAJC) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Offspring](https://open.spotify.com/album/1v78iUFk6XYJVjCsjg2n67) | 2:52 |
+| 49 | [Offspring](https://open.spotify.com/track/5NPZpywHJWVnesi5XdhAJC) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Offspring](https://open.spotify.com/album/1v78iUFk6XYJVjCsjg2n67) | 2:52 |
+| 50 | [Cooler Than Me](https://open.spotify.com/track/2o1ryWmt2wp521jtflMiYq) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Cooler Than Me](https://open.spotify.com/album/7LKF88fJJvIQIUVhTFXAl6) | 3:12 |
 
-Snapshot ID: `aKkEgAAAAABJ4U9Dj2vM2/nS+e9cnYZ8`
+Snapshot ID: `aKpWAAAAAAAyteyQ1etLK8iyfiLK/xi1`

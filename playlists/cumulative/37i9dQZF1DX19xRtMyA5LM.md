@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Josylvio
 
-96 songs - 4 hr 22 min
+97 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [LIES](https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [LIES](https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN) | 3:19 | 2025-07-17 |  |
 | [Lira Galore \- Remix](https://open.spotify.com/track/7EQaMPLaycCb7azZrBlQMR) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Loski](https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn) | [Lira Galore \(Remix\)](https://open.spotify.com/album/1RIBfx2LGcHp9O5BFAtOdk) | 2:31 | 2025-07-17 |  |
 | [Love Me](https://open.spotify.com/track/7yrAtv3ZzvMhc1H57aWZK2) | [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd) | [Love Me](https://open.spotify.com/album/1DePVl9EojfWwgqIDTh3mo) | 2:07 | 2025-08-04 | 2025-08-15 |
-| [Mainport](https://open.spotify.com/track/4e938d4sdR1R8hK6Dh6jPw) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Mainport](https://open.spotify.com/album/3PF9BwmEOTXvj4UR14rAP0) | 2:35 | 2025-07-17 |  |
+| [Mainport](https://open.spotify.com/track/4e938d4sdR1R8hK6Dh6jPw) | [Mario Cash](https://open.spotify.com/artist/1NmZEnCbCyf1O1bkTXZhDB), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Mainport](https://open.spotify.com/album/3PF9BwmEOTXvj4UR14rAP0) | 2:35 | 2025-07-17 | 2025-08-26 |
 | [Makkelijk](https://open.spotify.com/track/2gTKZKyPtfghl9NO7hIxmo) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu), [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [Kili](https://open.spotify.com/artist/6A9qX1ebPIWADHzSSOGh8S) | [Makkelijk](https://open.spotify.com/album/0LM7W6rBaEM7vs11d82l6M) | 2:31 | 2025-08-14 |  |
 | [Marlboro](https://open.spotify.com/track/06fLkEod1UrzAlDzUBeBMh) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Marlboro](https://open.spotify.com/album/29kW2ScJ6Fr6AAC1rh2XWm) | 2:07 | 2025-07-17 | 2025-08-15 |
 | [MARSEILLE](https://open.spotify.com/track/2u3xX0vQ8m4iYjzV1H3SGh) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [MARSEILLE](https://open.spotify.com/album/46bHlbcS8PVEzSUPJbq4Eo) | 2:53 | 2025-08-14 |  |
@@ -73,6 +73,7 @@
 | [OUT OF PLACE](https://open.spotify.com/track/3wpV3YcADlbf4AHXnjWtUo) | [Brokezart](https://open.spotify.com/artist/6L6GRikGI6S87FmKwsJxou), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [YGN KAMII](https://open.spotify.com/artist/4iMfjEfzdvY95eaxEAPar5) | [OUT OF PLACE](https://open.spotify.com/album/6lnC223P6J1eIUb4p17PUb) | 3:10 | 2025-07-17 |  |
 | [OVERDOSIS](https://open.spotify.com/track/57fi98erlDoM6LHYpk467g) | [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [OVERDOSIS](https://open.spotify.com/album/5dZVAd4Ke0V5IGuGgHn5QW) | 3:04 | 2025-08-14 |  |
 | [Palm Trees](https://open.spotify.com/track/4RMCIDqGIL9LoXE92rVtfg) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Palm Trees](https://open.spotify.com/album/7BmN7npCMYlQiozvHhVxLU) | 2:53 | 2025-08-21 |  |
+| [PAPARAPAPA](https://open.spotify.com/track/7yrfulAnWWotfb9hJBCnCt) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [PAPARAPAPA](https://open.spotify.com/album/2pwLnZEPCDZ2BUbmjTEyi1) | 1:36 | 2025-08-25 |  |
 | [Parasieten](https://open.spotify.com/track/5XYUBRG0Ot1mJVUvzTAwql) | [Willybeatsz](https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Jordymone9](https://open.spotify.com/artist/60gg31QLbNuGwl12YPBAUK), [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O) | [Parasieten](https://open.spotify.com/album/382WbLGkcmV0P3DIkjbwKs) | 3:12 | 2025-07-17 | 2025-08-08 |
 | [Parttime](https://open.spotify.com/track/58MfUokWWPz42ll8YTs7HG) | [Boufi](https://open.spotify.com/artist/2MdgZ3w54OVxWs8C0wdBFK) | [Parttime](https://open.spotify.com/album/7cqcpWvRJoOz3tkEID2Bxh) | 2:33 | 2025-07-17 |  |
 | [Peter](https://open.spotify.com/track/4FD2BCcJRzaWrDAtrr6sbQ) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Peter](https://open.spotify.com/album/2Tvw6sEI6oLXYYj2IABBR1) | 2:28 | 2025-07-17 |  |

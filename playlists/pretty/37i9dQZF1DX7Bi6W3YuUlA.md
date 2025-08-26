@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Inspirational hip\-hop\. Cover: Lecrae
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,347 likes - 103 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,380 likes - 103 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

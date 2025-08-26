@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,304 likes - 115 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,198 likes - 115 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

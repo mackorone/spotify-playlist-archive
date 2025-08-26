@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 20214,
+  "num_followers": 20229,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-08-21 18:59:24",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2025-08-21 18:59:24",
+      "album": {
         "name": "MACARRONES CON QUESO",
         "url": "https://open.spotify.com/album/1AWJf0i44FZsMwVC1hy6d7"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 147400,
       "name": "MACARRONES CON QUESO",
       "url": "https://open.spotify.com/track/5wI6KisgI3ZaFdbIzTxSjs"
-    },
-    {
-      "added_at": "2025-08-21 18:59:24",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2025-08-21 18:59:24",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-08-21 18:59:24",
       "album": {
-        "name": "Caf\u00e9 de Barcelona",
-        "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Caf\u00e9 de Barcelona",
-      "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
-    },
-    {
-      "added_at": "2025-08-21 18:59:24",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
+    },
+    {
+      "added_at": "2025-08-21 18:59:24",
+      "album": {
+        "name": "Caf\u00e9 de Barcelona",
+        "url": "https://open.spotify.com/album/452bQ6lylLJj26jbM3Z65c"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Caf\u00e9 de Barcelona",
+      "url": "https://open.spotify.com/track/2R8fCB5tCSU1XfgxzFQhQr"
     },
     {
       "added_at": "2025-08-21 18:59:24",

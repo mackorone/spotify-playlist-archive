@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 328 songs - 18 hr 37 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 330 songs - 18 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -336,5 +336,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 326 | [意識](https://open.spotify.com/track/0UWSwwUTnxnbu2KxonkoyF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 2:40 |
 | 327 | [熱愛発覚中](https://open.spotify.com/track/1nFrtehgfdwIFrA67nLxoF) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [Yasutaka Nakata](https://open.spotify.com/artist/2qNI3aGlywRzTkRBOy9YzG) | [熱愛発覚中](https://open.spotify.com/album/7vN8Vr63Thjf3i6u0K9L95) | 3:29 |
 | 328 | [machrie](https://open.spotify.com/track/6PRDtyRDRPdxE2y07h33Z3) | [Malace Mizer](https://open.spotify.com/artist/62rSOUXCfHFcckQN5NL9g6) | [ma chérie](https://open.spotify.com/album/1WtQZclqIcvSPTtutuSPuo) | 5:23 |
+| 329 | [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 |
+| 330 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 |
 
-Snapshot ID: `AAAJOGCKHG3bFuHIO9oRn5qbxOzp4ZF8`
+Snapshot ID: `AAAJOgAfXRph7jzxFueMinh5V3ouomif`

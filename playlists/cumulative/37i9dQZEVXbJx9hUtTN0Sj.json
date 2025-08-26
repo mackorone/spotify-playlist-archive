@@ -926,6 +926,24 @@
     {
       "album": {
         "name": "a good man with a broken heart",
+        "url": "https://open.spotify.com/album/1OT3nH3sg1BIaDkj3cCjy1"
+      },
+      "artists": [
+        {
+          "name": "LoVibe.",
+          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "a good man with a broken heart",
+      "url": "https://open.spotify.com/track/07fNxq0gkGFZpAYCTd0v2A"
+    },
+    {
+      "album": {
+        "name": "a good man with a broken heart",
         "url": "https://open.spotify.com/album/5iXPWxmR7FviawAtso2SWH"
       },
       "artists": [
@@ -954,7 +972,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 118726,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/2Is9PgrKMBJQscOjiAX1QB"
@@ -7918,7 +7936,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -19982,7 +20000,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -31130,7 +31148,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 133979,
       "name": "Seven Minutes in Heaven",
       "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
@@ -40646,7 +40664,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"

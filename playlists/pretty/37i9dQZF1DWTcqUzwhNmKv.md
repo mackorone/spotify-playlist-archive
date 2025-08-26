@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Deftones are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,590,388 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590,517 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 7 | [More Than Hate](https://open.spotify.com/track/4ham5VdW83cWTAQIOhqsGS) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [More Than Hate](https://open.spotify.com/album/2aYD2IelTU9Rd0iWH8iiZl) | 3:27 |
 | 8 | [SILOS](https://open.spotify.com/track/5tdXeZOLP0dUVhJ5tTxCJW) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [SILOS](https://open.spotify.com/album/5SsKMrXgdXKZOOST3UHQ1P) | 4:20 |
 | 9 | [one by one](https://open.spotify.com/track/4vWjhclo8wnfpllXhiefxx) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED](https://open.spotify.com/album/42KPmh26BJtkXWEQqsfIQ3) | 3:18 |
-| 10 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
-| 11 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 |
-| 12 | [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 |
+| 10 | [The Great Unknown](https://open.spotify.com/track/76Pd81B06OSC8AuuDWxsEQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Great Unknown](https://open.spotify.com/album/6fE894gRLhqsRjiW2sgLTP) | 3:01 |
+| 11 | [Children of the Grave](https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Children of the Grave](https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau) | 4:47 |
+| 12 | [Prison of Flesh](https://open.spotify.com/track/3cg3s4m9gQkV1Aqp0yBP56) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Prison of Flesh](https://open.spotify.com/album/2nyNqY9t8kn8m1nwLSxEtC) | 7:00 |
 | 13 | [Hydra](https://open.spotify.com/track/24hTw9XNGHcdxc3nukxy5S) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Hydra](https://open.spotify.com/album/3NvPdxexxCtj1dVdYXaPsk) | 4:47 |
 | 14 | [Imdead](https://open.spotify.com/track/26aLMyO5qLNTHCHqioC3bn) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m), [Ronnie Radke](https://open.spotify.com/artist/6fZEAUcjlTdVh66xQodmth) | [GRIZZLY](https://open.spotify.com/album/6RIsDIL38i8Z0ftmRChVf2) | 3:49 |
 | 15 | [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Cold](https://open.spotify.com/track/3JRiXx1S7BIxGgOBP3VeZ2) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Cold](https://open.spotify.com/album/1TkjAIrMg814YiEWyZPwV8) | 2:58 |
 | 80 | [Incinerate](https://open.spotify.com/track/4Y9958hlA4824tFCljgNXd) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Incinerate](https://open.spotify.com/album/0BJD0KxYywhhP4fVcbopPj) | 3:07 |
 
-Snapshot ID: `AAAAAF4TIdUQWhRW1Z1jUoZPGLYxset+`
+Snapshot ID: `AAAAALki3n4wFUf6ZR/ZJ0GTYnG2tMWe`

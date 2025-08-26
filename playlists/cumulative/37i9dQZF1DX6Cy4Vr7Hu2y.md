@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: aespa\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-484 songs - 1 day 2 hr 12 min
+485 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Wisue 햇빛처럼 빼어난](https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Cobalt Blue](https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0) | 3:37 | 2021-11-21 | 2022-07-23 |
 | [X](https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [X](https://open.spotify.com/album/4j6uSkOxQV2KKuSiGOQCHD) | 4:15 | 2021-11-21 | 2022-07-27 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-11-21 | 2024-01-03 |
+| [XOXZ](https://open.spotify.com/track/3L9KMc8ImDXgDYKwdqq01V) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SECRET](https://open.spotify.com/album/0gEu9SrHjLrpTemne6OO1L) | 2:34 | 2025-08-25 |  |
 | [XXL](https://open.spotify.com/track/05QXjyZgsAq6J84J6SlbyV) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff) | [XXL EP](https://open.spotify.com/album/0EbH9upNSg6zsdFZ8g11Yl) | 2:32 | 2024-03-27 | 2024-11-28 |
 | [Y.O.Universe](https://open.spotify.com/track/0es6ZsB0mFqnCAAMCHjVUO) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [SeVit \(NEW LIGHT\)](https://open.spotify.com/album/61JnxeeeqpmJ6rVBrfq4ak) | 2:34 | 2023-10-04 | 2023-11-25 |
 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 | 2022-07-07 | 2024-04-19 |
@@ -491,6 +492,6 @@
 | [아직 널 사랑하는데](https://open.spotify.com/track/6ZseYARPt1N8FpaAS8Yaml) | [morning coffee](https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4) | [아직 널 사랑하는데](https://open.spotify.com/album/5tmSa6Du8XMokLAmFCusSJ) | 3:13 | 2022-02-14 | 2022-04-20 |
 | [오늘부터 우리는 Me Gustas Tu](https://open.spotify.com/track/33dL21KeJquNsfOfacjU0q) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Flower Bud](https://open.spotify.com/album/1Qw4DsmdsXRiAHEIypy235) | 3:40 | 2021-11-21 | 2022-03-08 |
 | [올해 제일 잘한 일 The Best Thing I Ever Did](https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/7fk1Ss3LO6U2LYHb82z9zf) | 3:30 | 2021-11-21 | 2022-07-20 |
-| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-30 |  |
+| [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-04-30 | 2025-08-26 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Jutti Meri (Live)",
+        "url": "https://open.spotify.com/album/3R2cCLXlBCGtV7TKDN1AoE"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208381,
+      "name": "Jutti Meri (Live)",
+      "url": "https://open.spotify.com/track/6v4OWxDDulyvjWfRXPjA8Y"
+    },
+    {
+      "album": {
         "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
         "url": "https://open.spotify.com/album/68OViDFFwerfn315fcwwwl"
       },
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 180000,
       "name": "Naina (From \"Crew\")",
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 247794,
       "name": "Nee Singam Dhan",
       "url": "https://open.spotify.com/track/0vua5LbAth2HzKqpbnVRZk"
@@ -2248,6 +2266,24 @@
       "duration_ms": 227441,
       "name": "Winning Speech",
       "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "album": {

@@ -2285,6 +2285,24 @@
     },
     {
       "album": {
+        "name": "Fleeting",
+        "url": "https://open.spotify.com/album/6rPPRIOeC5Jfw7Mxx5rKf6"
+      },
+      "artists": [
+        {
+          "name": "Heath Lancaster",
+          "url": "https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173522,
+      "name": "Fleeting",
+      "url": "https://open.spotify.com/track/14Dbj4bqFTu3AfIACMaf4V"
+    },
+    {
+      "album": {
         "name": "Flicker",
         "url": "https://open.spotify.com/album/2b1jvG1C9t49L6toD1k9RX"
       },
@@ -5554,7 +5572,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 252555,
       "name": "Say It",
       "url": "https://open.spotify.com/track/0nNDLjah0PaOFn2j7sMsF0"
@@ -7090,7 +7108,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 159677,
       "name": "Touch Down",
       "url": "https://open.spotify.com/track/5VEcg5TxnBvRDqryNTCnS3"
@@ -7448,6 +7466,24 @@
       "duration_ms": 303173,
       "name": "Weird Goodbyes (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
+    },
+    {
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/3QciLyRHKRwOGZ59HJN9Vv"
+      },
+      "artists": [
+        {
+          "name": "lindsay",
+          "url": "https://open.spotify.com/artist/5rar25ejTh6Z3bZ2MhiAfS"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160667,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/50bJQnG3wWB64iVe6F007S"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 421117,
+  "num_followers": 421101,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "The Wire",
-        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 180440,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 180440,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Turn Off The News (Build A Garden)",
+        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 181349,
+      "name": "Turn Off The News (Build A Garden) - Acoustic",
+      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Back to Oz / Fictional California",
         "url": "https://open.spotify.com/album/5bHNKlDnqAtCASYdUr7FHM"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 252052,
       "name": "Back To Oz",
       "url": "https://open.spotify.com/track/0UWXrfsHsy2LUJWEbneShb"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Turn Off The News (Build A Garden)",
-        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 181349,
-      "name": "Turn Off The News (Build A Garden) - Acoustic",
-      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "midnight sun",
-        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "midnight sun",
-      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Shape of Silence",
         "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 200355,
       "name": "Causing Trouble",
       "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 219492,
+      "name": "Sunbathers",
+      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Subtitles",
         "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 219492,
-      "name": "Sunbathers",
-      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Good Luck, Kid",
-        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Side Effects",
-      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Are Olympians",
         "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
@@ -1611,6 +1595,58 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Black Eyed Dog",
+        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Black Eyed Dog",
+      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Good Luck, Kid",
+        "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Side Effects",
+      "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Everything Was Beautiful",
+        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 352333,
+      "name": "Best Thing You Never Had (The D Song)",
+      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Mecca",
         "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
       },
@@ -1639,42 +1675,6 @@
       "duration_ms": 269760,
       "name": "Loving You Is Lonely",
       "url": "https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Everything Was Beautiful",
-        "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
-      },
-      "artists": [
-        {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
-        }
-      ],
-      "duration_ms": 352333,
-      "name": "Best Thing You Never Had (The D Song)",
-      "url": "https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Black Eyed Dog",
-        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Black Eyed Dog",
-      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "pak it in // mama",
-        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
-      },
-      "artists": [
-        {
-          "name": "Uly",
-          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
-        }
-      ],
-      "duration_ms": 283518,
-      "name": "pak it in",
-      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "I Want The Door To Open",
         "url": "https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl"
       },
@@ -1779,22 +1763,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Love Without Possession",
-        "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
-      },
-      "artists": [
-        {
-          "name": "Scout Willis",
-          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
-        }
-      ],
-      "duration_ms": 241681,
-      "name": "Love Without Possession",
-      "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Storm Queen",
         "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
       },
@@ -1811,18 +1779,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Star Nation",
-        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
+        "name": "pak it in // mama",
+        "url": "https://open.spotify.com/album/7fbNuLkq7MOLzrajDNymJp"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Uly",
+          "url": "https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg"
         }
       ],
-      "duration_ms": 246364,
-      "name": "Star Nation",
-      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
+      "duration_ms": 283518,
+      "name": "pak it in",
+      "url": "https://open.spotify.com/track/2CBrwFbrNnzvikGZXq5j9l"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Love Without Possession",
+        "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
+      },
+      "artists": [
+        {
+          "name": "Scout Willis",
+          "url": "https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN"
+        }
+      ],
+      "duration_ms": 241681,
+      "name": "Love Without Possession",
+      "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1839,6 +1823,22 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Star Nation",
+        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 246364,
+      "name": "Star Nation",
+      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1891,38 +1891,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Begin Again - EP",
-        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Third Way",
-      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Northsiders",
-        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Wisteria",
         "url": "https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU"
       },
@@ -1935,22 +1903,6 @@
       "duration_ms": 169823,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "More Than a Love Song",
-        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "More Than a Love Song",
-      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1971,6 +1923,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Begin Again - EP",
+        "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Third Way",
+      "url": "https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "I Am Not There Anymore",
         "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
       },
@@ -1987,6 +1955,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Northsiders",
+        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Wary + Strange",
         "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "More Than a Love Song",
+        "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "More Than a Love Song",
+      "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2087,22 +2087,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "On A Beach",
-        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
       },
       "artists": [
         {
-          "name": "Hayden",
-          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
-        },
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 245656,
-      "name": "On A Beach",
-      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2123,18 +2119,54 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "All Now",
-        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
+        "name": "On A Beach",
+        "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Hayden",
+          "url": "https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp"
+        },
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 270026,
-      "name": "All Now",
-      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
+      "duration_ms": 245656,
+      "name": "On A Beach",
+      "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Bummer Year",
+        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
+      },
+      "artists": [
+        {
+          "name": "Good Looks",
+          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
+        }
+      ],
+      "duration_ms": 271120,
+      "name": "Bummer Year",
+      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Green to Gold",
+        "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
+      },
+      "artists": [
+        {
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+        }
+      ],
+      "duration_ms": 237985,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2163,22 +2195,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Bummer Year",
-        "url": "https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG"
-      },
-      "artists": [
-        {
-          "name": "Good Looks",
-          "url": "https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG"
-        }
-      ],
-      "duration_ms": 271120,
-      "name": "Bummer Year",
-      "url": "https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Green to Gold",
-        "url": "https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo"
-      },
-      "artists": [
-        {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
-        }
-      ],
-      "duration_ms": 237985,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Head of Roses: Phantom Limb",
-        "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
-      },
-      "artists": [
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 222371,
-      "name": "The Weakness in Me",
-      "url": "https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Regards to the End",
         "url": "https://open.spotify.com/album/1vhEXwW0WBxGiMBsL4ksaO"
       },
@@ -2291,34 +2275,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Big Star (Alt)",
-        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
+        "name": "Head of Roses: Phantom Limb",
+        "url": "https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
         }
       ],
-      "duration_ms": 244632,
-      "name": "Big Star - Alt",
-      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Home Truths",
-        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
-      },
-      "artists": [
-        {
-          "name": "Lucie Silvas",
-          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Home Truths",
-      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+      "duration_ms": 222371,
+      "name": "The Weakness in Me",
+      "url": "https://open.spotify.com/track/1cAKZih7f5kzaBDYPfCbdj"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2351,6 +2319,38 @@
       "duration_ms": 224666,
       "name": "Turn Away",
       "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Home Truths",
+        "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Home Truths",
+      "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Big Star (Alt)",
+        "url": "https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 244632,
+      "name": "Big Star - Alt",
+      "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Was Always You",
-        "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
-      },
-      "artists": [
-        {
-          "name": "Camille Jansen",
-          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
-        }
-      ],
-      "duration_ms": 196575,
-      "name": "Was Always You",
-      "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Greatest Weapon / Under The Water",
         "url": "https://open.spotify.com/album/0JsOZZPmy1Wqo1Pwqdmnoo"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 174156,
       "name": "Greatest Weapon",
       "url": "https://open.spotify.com/track/6LH9o8jYAr4J4k9eBXFKVY"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Was Always You",
+        "url": "https://open.spotify.com/album/5RMTf72VuU88OmhujQNiAS"
+      },
+      "artists": [
+        {
+          "name": "Camille Jansen",
+          "url": "https://open.spotify.com/artist/3fPap8kKuNMRn5PR06x0gN"
+        }
+      ],
+      "duration_ms": 196575,
+      "name": "Was Always You",
+      "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
     },
     {
       "added_at": "2025-02-07 05:00:36",

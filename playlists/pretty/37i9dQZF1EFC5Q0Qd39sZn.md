@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,214 likes - 572 songs - 1 day 15 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,220 likes - 572 songs - 1 day 15 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,8 +188,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 178 | [I Feel Beautiful](https://open.spotify.com/track/1AtjPqqE1L2QWWea0kCeQu) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Fantasia](https://open.spotify.com/album/42DybH3gl3WcfXAQySOEiX) | 3:31 |
 | 179 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 |
 | 180 | [Domino](https://open.spotify.com/track/1k9DmOy2H10taUtUwLeddI) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:24 |
-| 181 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 |
-| 182 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 181 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 |
+| 182 | [Give Me You](https://open.spotify.com/track/2rOrfNp466dn28CP01eVCa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Mary](https://open.spotify.com/album/4ypknDZM85vplzeVwQoxra) | 5:05 |
 | 183 | [Nasty One Remix \(feat\. Stefflon Don, Kranium, HoodCelebrityy\)](https://open.spotify.com/track/2RuX6HJFN85balcuYh981T) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [HoodCelebrityy](https://open.spotify.com/artist/3PKyxkWOWIJ2tUnUTTeFlk), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Nasty One \(Remix\) \[feat\. Stefflon Don, Kranium, HoodCelebrityy\]](https://open.spotify.com/album/4KbGqjjyT4K3wInlhAZS3X) | 4:00 |
 | 184 | [What Do I Do With The Love](https://open.spotify.com/track/6qwotLZ6V1QGoSTc6bGCaZ) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:46 |
 | 185 | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/track/4klRYIrW589OcfpGeWHR4M) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Found \(From the Netflix Film The Magician's Elephant\)](https://open.spotify.com/album/5owLRl1o3dNIzGQfi1d180) | 3:29 |
@@ -484,8 +484,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 474 | [I Can't Change The Way You Don't Feel](https://open.spotify.com/track/6T9FbUjgT6L73ze1aDFsP6) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [...To Make Me Who I Am](https://open.spotify.com/album/52TjEeeF9VQMBBtWcePxKy) | 4:43 |
 | 475 | [This Is For My Girls \- Workout Remix 128 Bpm](https://open.spotify.com/track/0TpMqAqSdt6xVcaKK4Qe0f) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [This Is For My Girls \(Workout Bundle / Even 32 Count Phrasing\)](https://open.spotify.com/album/4wwCxghE5PkCxPy2XuHbXs) | 4:50 |
 | 476 | [My Heart Stops \- Rare 1991 Single](https://open.spotify.com/track/3HZp3IlkLnFE4GmozyAwJW) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [And Now, Eric Carmen: The Arista Archive](https://open.spotify.com/album/5fUs01SES1Y4loD2Kg1TGr) | 3:25 |
-| 477 | [What If It Was You?](https://open.spotify.com/track/5osT7Os4ZzDAfvVC34hh3i) | [The 411](https://open.spotify.com/artist/0YtA5DdO2df8zIxpVdktqg) | [Between The Sheets](https://open.spotify.com/album/1Rhw85JG6ThsPLJoZmlUla) | 3:34 |
-| 478 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
+| 477 | [Tell It To The Moon](https://open.spotify.com/track/6VBDF1Q6du1T7p8LhyiblP) | [Martha Davis](https://open.spotify.com/artist/2ioCVuqjcRCoQPhEYY0kmg) | [Policy](https://open.spotify.com/album/3LYSK5WS0E3QigUu1mu0fs) | 4:11 |
+| 478 | [What If It Was You?](https://open.spotify.com/track/5osT7Os4ZzDAfvVC34hh3i) | [The 411](https://open.spotify.com/artist/0YtA5DdO2df8zIxpVdktqg) | [Between The Sheets](https://open.spotify.com/album/1Rhw85JG6ThsPLJoZmlUla) | 3:34 |
 | 479 | [Donne\-Moi Un Peu De Ta Peur](https://open.spotify.com/track/4OlrhtPFiyBhPZQtm0t5Dv) | [Martine Mai](https://open.spotify.com/artist/4QHbmOwEjkQj38G3ahoFjM) | [Voir Le Loup](https://open.spotify.com/album/06wgulZ9Uoxu2dAtWo2QuE) | 4:25 |
 | 480 | [Woman Up](https://open.spotify.com/track/0vfrSpF5CDzJwQd9mVtOPs) | [Tiffany Haddish](https://open.spotify.com/artist/0bfU48sSFFAhlaKCL05dTG) | [Woman Up](https://open.spotify.com/album/4ffdsTq7SUdO8I02yUxFsD) | 3:17 |
 | 481 | [Why Do We Hurt Each Other](https://open.spotify.com/track/5Fym0bTH1U8QysU2olEEEZ) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 5:59 |
@@ -581,4 +581,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 571 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 572 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 
-Snapshot ID: `Ab6YwAAAAADYo9t8rPuY3zD2Nn+1/hKE`
+Snapshot ID: `Ab6eiAAAAAABRvdTh2gfYJdrZ3ubxyyy`

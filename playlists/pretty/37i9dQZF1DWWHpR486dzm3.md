@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,018 likes - 78 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,019 likes - 78 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tennis Roll](https://open.spotify.com/track/3DcvgZwdx6HwSaA5Uh66aM) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv), [Jiri\-serkku](https://open.spotify.com/artist/4071MXoALZwLZM1v2c3JFM) | [Tennis Roll](https://open.spotify.com/album/701mnbpeT8QOEAomJgcAM2) | 2:20 |
 | 2 | [Idoli](https://open.spotify.com/track/2aozJ3HXMGekOMBowejNFV) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Idoli](https://open.spotify.com/album/0MWPc1vbzfz4LSElJWXI7R) | 2:50 |
-| 3 | [Äiti](https://open.spotify.com/track/1Rlo6dI4vCzTrUof9Uwubi) | [Alisa Leskinen](https://open.spotify.com/artist/3kW62f6Lunpcv3hIZ8lv5z) | [Äiti](https://open.spotify.com/album/79xAh76HFEpaZLXMkql5rc) | 2:39 |
-| 4 | [In the Dark](https://open.spotify.com/track/1BIvSvxc9GHQqeNwXk8tqZ) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [In the Dark](https://open.spotify.com/album/6OVccPSESvp4PEGGhs46WH) | 2:44 |
-| 5 | [Waterphile](https://open.spotify.com/track/554ZsaAx8gs8I0VqPg9tDe) | [Longing Louisa](https://open.spotify.com/artist/3XA3PiXHUOhlN2ZT4DngyC) | [Waterphile](https://open.spotify.com/album/0R1QE3gGElaNZ9ChrR5rSW) | 4:07 |
-| 6 | [Pillow Face](https://open.spotify.com/track/1eTAzknH2cG8V4vLiDGx3M) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Pillow Face](https://open.spotify.com/album/4dzIyCSBhc8lzL2FEcxfNq) | 2:18 |
-| 7 | [The Pacific](https://open.spotify.com/track/5F5RWNp6OH8ikDOQEVw5L9) | [Kyyhky](https://open.spotify.com/artist/4vNfleEK3kFDBE5EmQ0lVu), [Tutorial](https://open.spotify.com/artist/1ehmm9eylhtvBZW5PDP9yn) | [The Pacific](https://open.spotify.com/album/0gH2qQr37NjFYgK0cnlGIL) | 2:35 |
-| 8 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
-| 9 | [Musta ruuna](https://open.spotify.com/track/1fqGyhMkNKGn0wklpudLC8) | [Pekko Käppi](https://open.spotify.com/artist/0UMDxlQeIQO1ObwZ2cHrWd), [K:H:H:L](https://open.spotify.com/artist/4pDr5fZXLO5mlYWHa20tUN) | [Musta ruuna](https://open.spotify.com/album/43jgUDJnsAtm7gUiLqVizV) | 4:39 |
-| 10 | [Mut unohdettiin](https://open.spotify.com/track/57dBFXAzjtONsrKwAKwbO4) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Mut unohdettiin](https://open.spotify.com/album/13nTNyjLQdh7vrUkDtmkWu) | 3:32 |
-| 11 | [Rakkauden kesä '25](https://open.spotify.com/track/6voVmRAlJUGCZguqxLHG1g) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Rakkauden kesä '25](https://open.spotify.com/album/4gUaEueG35zVbHBleS7FGw) | 3:32 |
-| 12 | [On vain sinä](https://open.spotify.com/track/3OUxXZ2570SLbiQtFjJmKU) | [Ani Harmi](https://open.spotify.com/artist/3Y4vCRHMpmHluzFViYfyPl) | [On vain sinä](https://open.spotify.com/album/6yF9UexjCyqVKDn8PdBMqb) | 5:18 |
+| 3 | [On vain sinä](https://open.spotify.com/track/3OUxXZ2570SLbiQtFjJmKU) | [Ani Harmi](https://open.spotify.com/artist/3Y4vCRHMpmHluzFViYfyPl) | [On vain sinä](https://open.spotify.com/album/6yF9UexjCyqVKDn8PdBMqb) | 5:18 |
+| 4 | [Äiti](https://open.spotify.com/track/1Rlo6dI4vCzTrUof9Uwubi) | [Alisa Leskinen](https://open.spotify.com/artist/3kW62f6Lunpcv3hIZ8lv5z) | [Äiti](https://open.spotify.com/album/79xAh76HFEpaZLXMkql5rc) | 2:39 |
+| 5 | [In the Dark](https://open.spotify.com/track/1BIvSvxc9GHQqeNwXk8tqZ) | [Louie Blue](https://open.spotify.com/artist/06AJvANXmsNIEFFA00yhYf) | [In the Dark](https://open.spotify.com/album/6OVccPSESvp4PEGGhs46WH) | 2:44 |
+| 6 | [The Pacific](https://open.spotify.com/track/5F5RWNp6OH8ikDOQEVw5L9) | [Kyyhky](https://open.spotify.com/artist/4vNfleEK3kFDBE5EmQ0lVu), [Tutorial](https://open.spotify.com/artist/1ehmm9eylhtvBZW5PDP9yn) | [The Pacific](https://open.spotify.com/album/0gH2qQr37NjFYgK0cnlGIL) | 2:35 |
+| 7 | [Waterphile](https://open.spotify.com/track/554ZsaAx8gs8I0VqPg9tDe) | [Longing Louisa](https://open.spotify.com/artist/3XA3PiXHUOhlN2ZT4DngyC) | [Waterphile](https://open.spotify.com/album/0R1QE3gGElaNZ9ChrR5rSW) | 4:07 |
+| 8 | [Pillow Face](https://open.spotify.com/track/1eTAzknH2cG8V4vLiDGx3M) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Pillow Face](https://open.spotify.com/album/4dzIyCSBhc8lzL2FEcxfNq) | 2:18 |
+| 9 | [Raakut](https://open.spotify.com/track/08m6vj9JpQzCmmE5S8Ouoh) | [Tiisu](https://open.spotify.com/artist/5e4KRUBJ6zI9AjtDGXtkAT) | [Raakut](https://open.spotify.com/album/5DLsILgyUUb1dzt3eG92YR) | 3:41 |
+| 10 | [Musta ruuna](https://open.spotify.com/track/1fqGyhMkNKGn0wklpudLC8) | [Pekko Käppi](https://open.spotify.com/artist/0UMDxlQeIQO1ObwZ2cHrWd), [K:H:H:L](https://open.spotify.com/artist/4pDr5fZXLO5mlYWHa20tUN) | [Musta ruuna](https://open.spotify.com/album/43jgUDJnsAtm7gUiLqVizV) | 4:39 |
+| 11 | [Mut unohdettiin](https://open.spotify.com/track/57dBFXAzjtONsrKwAKwbO4) | [kukkatalo](https://open.spotify.com/artist/2PGMdEZQ77cq8niDgHe1X1) | [Mut unohdettiin](https://open.spotify.com/album/13nTNyjLQdh7vrUkDtmkWu) | 3:32 |
+| 12 | [Rakkauden kesä '25](https://open.spotify.com/track/6voVmRAlJUGCZguqxLHG1g) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Rakkauden kesä '25](https://open.spotify.com/album/4gUaEueG35zVbHBleS7FGw) | 3:32 |
 | 13 | [Chervona ruta](https://open.spotify.com/track/34SFyXyVFcMtvKAaragbPH) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR), [Vantaan Viihdeorkesteri](https://open.spotify.com/artist/6j2wnGMptlHeUeUeT0xxtz) | [Solovey \- Lauluja Ukrainasta](https://open.spotify.com/album/2cGIkil6v7zVbIAgehuU92) | 4:04 |
 | 14 | [Helppo lapsi](https://open.spotify.com/track/6WB1Gep2OkEYpK4HJKbI5P) | [Brian](https://open.spotify.com/artist/3RuPdmaVfN2BRUZlwDrljk) | [Helppo lapsi](https://open.spotify.com/album/1ZPY9iUUhhpnS3oBnXQzB3) | 2:34 |
 | 15 | [Sun tyttö](https://open.spotify.com/track/2jdzwygTOKriMLTilBhhcB) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Sun tyttö](https://open.spotify.com/album/3sn0vIRq13oKCgdz6WaPJ9) | 3:50 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 77 | [kaupunki](https://open.spotify.com/track/1UUF01o8BzFfQB4UsDLiWl) | [viola](https://open.spotify.com/artist/2Fqr0ihu3bCzXcY1j0gSyP) | [kaupunki](https://open.spotify.com/album/2tcXBlbPDnJXx9dIkbFYBT) | 3:47 |
 | 78 | [Vit eld](https://open.spotify.com/track/3Vh5LKTh4cEznVXW7EsV7H) | [Vasas flora och fauna](https://open.spotify.com/artist/0ZpIOvLXBgAdqQdG4FSOXc), [Folke Nikanor](https://open.spotify.com/artist/0nWS9zGIhQ7PTrfyxBDtHY) | [Vit eld](https://open.spotify.com/album/3PUml7UfD2WoFfMwdmtpeC) | 3:09 |
 
-Snapshot ID: `AAAAAGDyMdnvJDjA4KmE2C5yQ34F4NaY`
+Snapshot ID: `AAAAAKzOTcVvV1RSIsnhgvXp8irdSZ7n`

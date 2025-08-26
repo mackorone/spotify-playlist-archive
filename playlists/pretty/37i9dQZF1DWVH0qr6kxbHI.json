@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 100514,
+  "num_followers": 100541,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "En directo",
-        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
-      },
-      "artists": [
-        {
-          "name": "Paloma San Basilio",
-          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Beso a beso... dulcemente",
-      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
         "name": "Oraciones de amor",
         "url": "https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 281440,
       "name": "Te amar\u00e9, te amo, y te querr\u00e9",
       "url": "https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
+        "name": "En directo",
+        "url": "https://open.spotify.com/album/1deWXlYT0YUbKvR56Yv4IQ"
+      },
+      "artists": [
+        {
+          "name": "Paloma San Basilio",
+          "url": "https://open.spotify.com/artist/1QcwtcwAClkmeaVofZ4zUn"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Beso a beso... dulcemente",
+      "url": "https://open.spotify.com/track/5jY16zDOTWeHKArHy5Rjw3"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -1023,26 +1023,18 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "La Violetera (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/40w3Abk3i32h9Mylnn6Vrp"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
       },
       "artists": [
         {
           "name": "Sara Montiel",
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
-        },
-        {
-          "name": "Juan Quintero",
-          "url": "https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM"
-        },
-        {
-          "name": "Greg Segura",
-          "url": "https://open.spotify.com/artist/6c56bTIooYywJzaP8tURJ7"
         }
       ],
-      "duration_ms": 225613,
-      "name": "La Violetera",
-      "url": "https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24"
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -1115,18 +1107,26 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+        "name": "La Violetera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40w3Abk3i32h9Mylnn6Vrp"
       },
       "artists": [
         {
           "name": "Sara Montiel",
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
+        },
+        {
+          "name": "Juan Quintero",
+          "url": "https://open.spotify.com/artist/3No5HqLrMqJbmpJ1nUjUiM"
+        },
+        {
+          "name": "Greg Segura",
+          "url": "https://open.spotify.com/artist/6c56bTIooYywJzaP8tURJ7"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
+      "duration_ms": 225613,
+      "name": "La Violetera",
+      "url": "https://open.spotify.com/track/63OP6ToFMyPZJ8TFC0fm24"
     },
     {
       "added_at": "2025-03-13 23:00:12",

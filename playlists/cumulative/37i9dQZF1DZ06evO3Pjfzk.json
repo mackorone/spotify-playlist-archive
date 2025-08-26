@@ -695,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "King Ranch, King George, King James",
+      "url": "https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq"
+    },
+    {
+      "album": {
         "name": "Tougher",
         "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002cover: \u304a\u3044\u3057\u304f\u308b\u30e1\u30ed\u30f3\u30d1\u30f3",
-  "num_followers": 20474,
+  "num_followers": 20475,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba / \u58f0\u547d",
-        "url": "https://open.spotify.com/album/61e6CTEVRjsXQe4otjdMay"
+        "name": "\u83eb",
+        "url": "https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG"
       },
       "artists": [
         {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
         }
       ],
-      "duration_ms": 216920,
-      "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba - STRANGERZ",
-      "url": "https://open.spotify.com/track/4aKuPX8HsRhc2hy3ediVge"
+      "duration_ms": 176965,
+      "name": "\u83eb",
+      "url": "https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -543,18 +543,18 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "\u83eb",
-        "url": "https://open.spotify.com/album/216vfpaQDaZ4CbHMs7WRRG"
+        "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba / \u58f0\u547d",
+        "url": "https://open.spotify.com/album/61e6CTEVRjsXQe4otjdMay"
       },
       "artists": [
         {
-          "name": "Chevon",
-          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
         }
       ],
-      "duration_ms": 176965,
-      "name": "\u83eb",
-      "url": "https://open.spotify.com/track/4vVIlJbofRcrzIfNkgdFDK"
+      "duration_ms": 216920,
+      "name": "\u30b9\u30c8\u30ec\u30f3\u30b8\u30e3\u30fc\u30ba - STRANGERZ",
+      "url": "https://open.spotify.com/track/4aKuPX8HsRhc2hy3ediVge"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "Hey!Calling",
-        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
-      },
-      "artists": [
-        {
-          "name": "ChoQMay",
-          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Hey!Calling",
-      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
         "name": "\u5357\u65b0\u753a",
         "url": "https://open.spotify.com/album/7HiWvQwmkiS9lPUUMNq02N"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 247226,
       "name": "\u5357\u65b0\u753a",
       "url": "https://open.spotify.com/track/04UGIlD1giQFI4vwgZS6IS"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
+        "name": "Hey!Calling",
+        "url": "https://open.spotify.com/album/1GFijGd5eWRdJsZqH6gnmC"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Hey!Calling",
+      "url": "https://open.spotify.com/track/03NqG8N4NmnmATTayqmqFg"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
+        "name": "\u6708\u8755",
+        "url": "https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC"
+      },
+      "artists": [
+        {
+          "name": "krage",
+          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+        }
+      ],
+      "duration_ms": 197720,
+      "name": "\u6708\u8755",
+      "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
         "name": "POP OUT! \u2162",
         "url": "https://open.spotify.com/album/4s9LtekCnehmTAAGV2Y8Ts"
       },
@@ -879,18 +895,18 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "\u6708\u8755",
-        "url": "https://open.spotify.com/album/6bNFw6CsbTWoZB8yCeD6KC"
+        "name": "YURU FUWA",
+        "url": "https://open.spotify.com/album/4HvIZYDn9lP7DokbhBAwjv"
       },
       "artists": [
         {
-          "name": "krage",
-          "url": "https://open.spotify.com/artist/35jRIUtWCUITFLfjhYwkFx"
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
         }
       ],
-      "duration_ms": 197720,
-      "name": "\u6708\u8755",
-      "url": "https://open.spotify.com/track/53WB038hikUVUhjsR8T3GC"
+      "duration_ms": 218679,
+      "name": "YURU FUWA",
+      "url": "https://open.spotify.com/track/15kxYnOujPpPaKT9ogmnL1"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -975,18 +991,18 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "YURU FUWA",
-        "url": "https://open.spotify.com/album/4HvIZYDn9lP7DokbhBAwjv"
+        "name": "\u767d\u663c\u5922\u3001\u7d50\u3093\u3060\u8a00\u8449\u306f\u82b1\u675f\u306b",
+        "url": "https://open.spotify.com/album/1FtRY10kTG51GIhEZ0rn7T"
       },
       "artists": [
         {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
         }
       ],
-      "duration_ms": 218679,
-      "name": "YURU FUWA",
-      "url": "https://open.spotify.com/track/15kxYnOujPpPaKT9ogmnL1"
+      "duration_ms": 182532,
+      "name": "\u75b2\u308c\u3061\u3083\u3063\u305f",
+      "url": "https://open.spotify.com/track/3QrgJ2UZtCr7hj9oKaaW1p"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "\u767d\u663c\u5922\u3001\u7d50\u3093\u3060\u8a00\u8449\u306f\u82b1\u675f\u306b",
-        "url": "https://open.spotify.com/album/1FtRY10kTG51GIhEZ0rn7T"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 182532,
-      "name": "\u75b2\u308c\u3061\u3083\u3063\u305f",
-      "url": "https://open.spotify.com/track/3QrgJ2UZtCr7hj9oKaaW1p"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
         "name": "\u6708\u9762\u63a5\u543b",
         "url": "https://open.spotify.com/album/7zi4AejuS2PqMs084hmcjB"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 294053,
       "name": "\u6708\u9762\u63a5\u543b",
       "url": "https://open.spotify.com/track/1BVaTJoYRHVUFaLMyZYzCX"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
+        "name": "NEBULA",
+        "url": "https://open.spotify.com/album/35Q7g8tt4SpLNieBRmsziE"
+      },
+      "artists": [
+        {
+          "name": "CLAN QUEEN",
+          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+        }
+      ],
+      "duration_ms": 175193,
+      "name": "\u30a4\u30f3\u30d9\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/2WXOJAqPT1z0aWBErwBVXa"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "NEBULA",
-        "url": "https://open.spotify.com/album/35Q7g8tt4SpLNieBRmsziE"
+        "name": "\u611b\u60f3\u82b1\u706b",
+        "url": "https://open.spotify.com/album/0EPEKLTiD6vtjSGKKm1QM3"
       },
       "artists": [
         {
-          "name": "CLAN QUEEN",
-          "url": "https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY"
+          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
+          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
         }
       ],
-      "duration_ms": 175193,
-      "name": "\u30a4\u30f3\u30d9\u30a4\u30c0\u30fc",
-      "url": "https://open.spotify.com/track/2WXOJAqPT1z0aWBErwBVXa"
+      "duration_ms": 203018,
+      "name": "\u611b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/7hCpVVDceLNnjakgX430AW"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1099,6 +1115,22 @@
       "duration_ms": 177443,
       "name": "\u8133\u5185\u544a\u767d",
       "url": "https://open.spotify.com/track/47PGCHrBrpUWhAHeUrfMBV"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
+        "name": "WELCOME TO YOUR LIFE",
+        "url": "https://open.spotify.com/album/3RyDtT6C2tg7JF5FcnILWq"
+      },
+      "artists": [
+        {
+          "name": "shytaupe",
+          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
+        }
+      ],
+      "duration_ms": 224973,
+      "name": "\u5984\u60f3eden",
+      "url": "https://open.spotify.com/track/5ht8Bi9PhI6V68U48mlEbb"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1159,8 +1191,8 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "\u611b\u60f3\u82b1\u706b",
-        "url": "https://open.spotify.com/album/0EPEKLTiD6vtjSGKKm1QM3"
+        "name": "\u7d76\u547d",
+        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
       },
       "artists": [
         {
@@ -1168,25 +1200,9 @@
           "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
         }
       ],
-      "duration_ms": 203018,
-      "name": "\u611b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/7hCpVVDceLNnjakgX430AW"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
-        "name": "WELCOME TO YOUR LIFE",
-        "url": "https://open.spotify.com/album/3RyDtT6C2tg7JF5FcnILWq"
-      },
-      "artists": [
-        {
-          "name": "shytaupe",
-          "url": "https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg"
-        }
-      ],
-      "duration_ms": 224973,
-      "name": "\u5984\u60f3eden",
-      "url": "https://open.spotify.com/track/5ht8Bi9PhI6V68U48mlEbb"
+      "duration_ms": 276705,
+      "name": "\u7d76\u547d",
+      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/28baC7V4FwgVexR5fUo69Y"
+      },
+      "artists": [
+        {
+          "name": "Maverick Mom",
+          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
+        }
+      ],
+      "duration_ms": 228999,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5yx90eFseRyQdofa36yExj"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
         "name": "\u904b\u547d\u8ad6",
         "url": "https://open.spotify.com/album/5Cb6royNzyBSQlQLY45ojR"
       },
@@ -1235,22 +1267,6 @@
       "duration_ms": 221773,
       "name": "\u904b\u547d\u8ad6",
       "url": "https://open.spotify.com/track/0eP6SVHeDmQ6ihRprBEARX"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
-        "name": "\u7d76\u547d",
-        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
-          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "\u7d76\u547d",
-      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/28baC7V4FwgVexR5fUo69Y"
-      },
-      "artists": [
-        {
-          "name": "Maverick Mom",
-          "url": "https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb"
-        }
-      ],
-      "duration_ms": 228999,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5yx90eFseRyQdofa36yExj"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
         "name": "\u5e7d\u970a\u307e\u307c\u308d\u3057",
         "url": "https://open.spotify.com/album/5cvt0g4QiNPR3ti7qI1Kd6"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 130938,
       "name": "\u5e7d\u970a\u307e\u307c\u308d\u3057",
       "url": "https://open.spotify.com/track/1r1HD6uCMxqEoQ2iO2dyDY"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
+        "name": "Shake it!!",
+        "url": "https://open.spotify.com/album/0LrgPZQtArb1E4t4PJ9Q3A"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "duration_ms": 197642,
+      "name": "Shake it!!",
+      "url": "https://open.spotify.com/track/3fY16GnamzbOh3hFZ68INx"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "Shake it!!",
-        "url": "https://open.spotify.com/album/0LrgPZQtArb1E4t4PJ9Q3A"
+        "name": "5g\u306e\u5e73\u548c",
+        "url": "https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh"
       },
       "artists": [
         {
-          "name": "BILLY BOO",
-          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
         }
       ],
-      "duration_ms": 197642,
-      "name": "Shake it!!",
-      "url": "https://open.spotify.com/track/3fY16GnamzbOh3hFZ68INx"
+      "duration_ms": 215965,
+      "name": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "5g\u306e\u5e73\u548c",
-        "url": "https://open.spotify.com/album/5cQlQCLp87osNFGo5sxBnh"
-      },
-      "artists": [
-        {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
-        }
-      ],
-      "duration_ms": 215965,
-      "name": "\u30c8\u30e9\u30f3\u30b9\u30d5\u30a1\u30fc",
-      "url": "https://open.spotify.com/track/1eiRefLrtxufPxIhtLAocB"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
         "name": "Freeedom!",
         "url": "https://open.spotify.com/album/75eVmLkIJr5imUL4lqdDTe"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
-        "name": "\u604b\u7126\u304c\u308c",
-        "url": "https://open.spotify.com/album/677r9niptpT1tGkjU03kJj"
-      },
-      "artists": [
-        {
-          "name": "\u58f0\u306b\u306a\u3089\u306a\u3044\u3088",
-          "url": "https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F"
-        }
-      ],
-      "duration_ms": 173522,
-      "name": "\u604b\u7126\u304c\u308c",
-      "url": "https://open.spotify.com/track/4Ciwm63stEtGlvpEV4jWWx"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
         "name": "\u30cd\u30aa\u30f3\u30c6\u30c8\u30e9",
         "url": "https://open.spotify.com/album/5eBe2vfBo5KDCoTwC1vVGf"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 204736,
       "name": "aquarium",
       "url": "https://open.spotify.com/track/5BWT3Lvw8lwkhKHlz0EK7A"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
+        "name": "\u604b\u7126\u304c\u308c",
+        "url": "https://open.spotify.com/album/677r9niptpT1tGkjU03kJj"
+      },
+      "artists": [
+        {
+          "name": "\u58f0\u306b\u306a\u3089\u306a\u3044\u3088",
+          "url": "https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F"
+        }
+      ],
+      "duration_ms": 173522,
+      "name": "\u604b\u7126\u304c\u308c",
+      "url": "https://open.spotify.com/track/4Ciwm63stEtGlvpEV4jWWx"
     },
     {
       "added_at": "2025-08-19 17:40:34",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2025-08-19 17:40:34",
       "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/0WwWZiylypAxx30xKbeq9c"
+      },
+      "artists": [
+        {
+          "name": "Fish and Lips",
+          "url": "https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/1AwOWEOonwKelLpgUt2Xz6"
+    },
+    {
+      "added_at": "2025-08-19 17:40:34",
+      "album": {
         "name": "\u30e2\u30b9\u30ad\u30fc\u30c8",
         "url": "https://open.spotify.com/album/74H5qaEuzdpOjUWL6ALfaQ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 261750,
       "name": "\u308f\u305f\u3057\u306f\u79c1",
       "url": "https://open.spotify.com/track/5gy7wD3tqaTWKR8rul7jkT"
-    },
-    {
-      "added_at": "2025-08-19 17:40:34",
-      "album": {
-        "name": "\u30ad\u30df\u306b\u4f3c\u5408\u3046\u30ef\u30bf\u30b7",
-        "url": "https://open.spotify.com/album/6W7KBMDQNupEJRTwsCH0FX"
-      },
-      "artists": [
-        {
-          "name": "\u30ac\u30e9\u30af\u30bf",
-          "url": "https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA"
-        }
-      ],
-      "duration_ms": 210258,
-      "name": "\u30ad\u30df\u306b\u4f3c\u5408\u3046\u30ef\u30bf\u30b7",
-      "url": "https://open.spotify.com/track/2xrSxmUs0hCpUwrb9SKtXO"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

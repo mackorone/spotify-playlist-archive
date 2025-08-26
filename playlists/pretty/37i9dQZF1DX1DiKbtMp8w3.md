@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,585 likes - 158 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,600 likes - 158 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 157 | [At The Sea Rocks](https://open.spotify.com/track/2HNgwQEK8nMpZNDlPD41rU) | [Yajasu](https://open.spotify.com/artist/0RJnS6YtKMaiZl1m9IETdL) | [At The Sea Rocks](https://open.spotify.com/album/3l0yfnAZ2pJDHkh107mmAx) | 6:22 |
 | 158 | [Burger](https://open.spotify.com/track/51f4A9WcjkND9aGHpuAh8Q) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/1ZnN6DgqZVnxRHd6OxGsBh) | 4:06 |
 
-Snapshot ID: `AAAAAP+K6RvxeRqvOJ74CnocWD7CXaEE`
+Snapshot ID: `AAAAAD6SB4FYoioQgjVlv/WDIFBpgn7I`

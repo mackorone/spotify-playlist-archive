@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: OG",
-  "num_followers": 437300,
+  "num_followers": 437673,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxslp/66sf8+llgPj05ze+ltWIX",
+  "snapshot_id": "AAAAALAtkNUy7c9CLwjDT1YMlOO6ZQkO",
   "tracks": [
     {
       "added_at": "2025-08-04 05:46:30",
@@ -107,6 +107,22 @@
       "duration_ms": 202361,
       "name": "Vibe Undi (From \"Mirai\") [Telugu]",
       "url": "https://open.spotify.com/track/2N4dA1J0EkkXU7mRxtnfKv"
+    },
+    {
+      "added_at": "2025-08-25 10:02:31",
+      "album": {
+        "name": "Koyila",
+        "url": "https://open.spotify.com/album/1H0CDlteGaiXgj4ReSka7Z"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Koyila",
+      "url": "https://open.spotify.com/track/7qi2RGLDPwx2aXfknysYLw"
     },
     {
       "added_at": "2024-11-25 10:09:45",
@@ -843,34 +859,6 @@
       "duration_ms": 332013,
       "name": "Monna Kanipinchavu",
       "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"
-    },
-    {
-      "added_at": "2024-05-01 12:02:24",
-      "album": {
-        "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
-        "url": "https://open.spotify.com/album/18hhin8Y0j4EeOn3G2PYXX"
-      },
-      "artists": [
-        {
-          "name": "Nakash Aziz",
-          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
-        },
-        {
-          "name": "Deepak Blue",
-          "url": "https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 256032,
-      "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TELUGU]",
-      "url": "https://open.spotify.com/track/5bnxMZqd9Kpn9ByHj3Dc9C"
     },
     {
       "added_at": "2024-11-14 06:03:14",

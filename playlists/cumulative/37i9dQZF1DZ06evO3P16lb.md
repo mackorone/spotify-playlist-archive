@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 8 min
+59 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,13 +27,14 @@
 | [Dios Nunca Muere](https://open.spotify.com/track/3GX2IkCwAglVsnL7fgX3iK) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Dios Nunca Muere](https://open.spotify.com/album/4ADTs7kIW4dVdteX7sXYgy) | 3:08 | 2025-02-12 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/1SIuzHNrctmvWo5geNIFyi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Amor de Mi Vida](https://open.spotify.com/album/1FhXUMF28q1d6dJBl1Nj1S) | 3:06 | 2025-02-12 |  |
 | [El Amor Perfecto](https://open.spotify.com/track/5Kg8hGm0Hpya8UveUTElKz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:16 | 2025-02-12 | 2025-08-23 |
-| [El Motivo](https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:17 | 2025-05-21 | 2025-08-14 |
+| [El Motivo](https://open.spotify.com/track/59KuYnpIYmtanXQzJ7XTQa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:17 | 2025-05-21 |  |
 | [El Mundo \- En Vivo](https://open.spotify.com/track/6PIFSo9nndPgQzZrnvOGZc) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Mundo \(En Vivo\)](https://open.spotify.com/album/4iDJSotLOOfiPlHRNAjrpS) | 3:32 | 2025-04-10 |  |
 | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS) | 7:11 | 2025-02-12 |  |
 | [Ella \- Tu Recuerdo y Yo \- Canta, Canta, Canta \- En Vivo](https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 5:45 | 2025-02-12 |  |
 | [Flor Sin Retoño](https://open.spotify.com/track/2KDYFxmIMYR7qUO2IkG9jx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Flor Sin Retoño](https://open.spotify.com/album/1IBxPCtaWBMojqn7XkIiSy) | 3:16 | 2025-02-12 |  |
 | [Hay Unos Ojos](https://open.spotify.com/track/2exx2bfBKjdLwb47OdtBRC) | [Mariachi Herencia De Mexico](https://open.spotify.com/artist/47gu7rvIxNiBJdkPoYAsqW), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Herederos](https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY) | 2:36 | 2025-02-12 |  |
 | [Hazme Tuya](https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:24 | 2025-02-12 |  |
+| [Hermosa Ciudad](https://open.spotify.com/track/2LzmyRR9dDXZ4ceRllEw0D) | [Ana Victoria](https://open.spotify.com/artist/1Xc3X1FuRXrzFZ1C5BuCy5), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Pablo Hurtado](https://open.spotify.com/artist/27Ei0laozDcWwT4F9ASW54), [Daniel Willy](https://open.spotify.com/artist/717Rj9LBr7WCA2knqxbl90), [The Silver Lake Chorus](https://open.spotify.com/artist/5cHNjijphFOJ54tYw4Dv1c) | [Hermosa Ciudad](https://open.spotify.com/album/5O6phe5fXqOkbT2QPY3rV6) | 4:18 | 2025-08-26 |  |
 | [La Corona Es Mía](https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:24 | 2025-05-21 |  |
 | [Las Flores del Camposanto](https://open.spotify.com/track/6d96IsWXHitLBlHoWIgiML) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Las Flores del Camposanto](https://open.spotify.com/album/0o6I5jgXrSUaDgwBaenrxt) | 3:15 | 2025-02-12 | 2025-05-11 |
 | [Las Mexicanas](https://open.spotify.com/track/1CTROO8PaURfNU67CIHeRQ) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Nena Guzman](https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA), [Grupo Emperatriz](https://open.spotify.com/artist/1qxVgLo5z2WWqHSHq9MkR7) | [Duetos](https://open.spotify.com/album/6NflZIEwZGmXzGh3668MlD) | 3:11 | 2025-02-12 |  |
@@ -65,6 +66,6 @@
 | [Ya No Vuelvas](https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:54 | 2025-02-12 |  |
 | [Yo He Nacido Mexicana](https://open.spotify.com/track/1yejtctJKLV7weRjDLtwYx) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 2:40 | 2025-02-12 |  |
 | [¿Seguimos o No?](https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [¿Seguimos o No?](https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq) | 2:21 | 2025-02-12 | 2025-05-30 |
-| [¿Seguimos o No?](https://open.spotify.com/track/3RLXWvyoDxHzHEpmh1zFP1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:21 | 2025-05-30 |  |
+| [¿Seguimos o No?](https://open.spotify.com/track/3RLXWvyoDxHzHEpmh1zFP1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:21 | 2025-05-30 | 2025-08-26 |
 
 \*This playlist was first scraped on 2025-02-12. Prior content cannot be recovered.

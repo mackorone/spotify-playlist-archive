@@ -1,6 +1,6 @@
 {
   "description": "All your favourite pop songs, remixed to perfection. Cover: LISA",
-  "num_followers": 469533,
+  "num_followers": 469534,
   "original_name": "Massive Pop Remixes",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-08-11 13:08:34",
       "album": {
-        "name": "Wait So Long (RE\\MIND Remix)",
-        "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "RE\\MIND",
-          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
-        }
-      ],
-      "duration_ms": 289959,
-      "name": "Wait So Long - RE\\MIND Remix",
-      "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
-    },
-    {
-      "added_at": "2025-08-11 13:08:34",
-      "album": {
         "name": "Bruises EP",
         "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 212280,
       "name": "Bruises - Steve Void Remix",
       "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
+    },
+    {
+      "added_at": "2025-08-11 13:08:34",
+      "album": {
+        "name": "Wait So Long (RE\\MIND Remix)",
+        "url": "https://open.spotify.com/album/26xNafbC2ESdSmzYMsr0S0"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "RE\\MIND",
+          "url": "https://open.spotify.com/artist/3V9dIUKIoVArPUrt30P4XX"
+        }
+      ],
+      "duration_ms": 289959,
+      "name": "Wait So Long - RE\\MIND Remix",
+      "url": "https://open.spotify.com/track/0yZjFgJYHJwnMMBhzEBP7J"
     },
     {
       "added_at": "2025-08-11 13:08:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,089 likes - 100 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,086 likes - 100 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 92 | [Kingdom Come \(Live\)](https://open.spotify.com/track/0pyV6VNIlFlJ4EEZhwUG2X) | [Life Church Music](https://open.spotify.com/artist/2OTr2VfIBrI0y3rZPCSAe2) | [Kingdom Come \(Live\)](https://open.spotify.com/album/4i91anP2DihutCCgI2lyhv) | 3:36 |
 | 93 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
 | 94 | [Heaven On Earth](https://open.spotify.com/track/5Z2ozMu3NqiHO9OpOiBCR8) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Heaven On Earth](https://open.spotify.com/album/0hT8voRUPW74O7jzcFlP2k) | 4:27 |
-| 95 | [Victorious](https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k) | [Radiate Worship](https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju) | [Victorious](https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI) | 4:43 |
-| 96 | [Behold \(The King Is Calling\) \- Live](https://open.spotify.com/track/2p1MCZwVjTPOOaOGWov6eA) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [Behold \(The King Is Calling\) \[Live\]](https://open.spotify.com/album/6z8l97hpcXTNVvFp1rpjQP) | 13:29 |
+| 95 | [Behold \(The King Is Calling\) \- Live](https://open.spotify.com/track/2p1MCZwVjTPOOaOGWov6eA) | [Black Voices Movement](https://open.spotify.com/artist/4odU1y3H8hnH66mR4lhT3Y), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [Behold \(The King Is Calling\) \[Live\]](https://open.spotify.com/album/6z8l97hpcXTNVvFp1rpjQP) | 13:29 |
+| 96 | [Victorious](https://open.spotify.com/track/3vA31JbPn2wt9XtGF2jU3k) | [Radiate Worship](https://open.spotify.com/artist/3i5uup1PgNejl68RMu8kju) | [Victorious](https://open.spotify.com/album/4qTemhvdw7xJBAubwDBuXI) | 4:43 |
 | 97 | [We Adore You](https://open.spotify.com/track/3jNMRPHBzue94UVUGsF9d3) | [The Vigil Project](https://open.spotify.com/artist/2Qtvrlcjx83rryARiEIPeI), [Greg&Lizzy](https://open.spotify.com/artist/54xxNWktx50xuT5G2rOiZ2) | [We Adore You](https://open.spotify.com/album/0Xk4lFyKQ91MlURQwhi4Yw) | 3:13 |
 | 98 | [Name Above The Grave](https://open.spotify.com/track/4HfdA1C25uACbHoHTNBB7M) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Josh Farro](https://open.spotify.com/artist/4WT10NZoQlPGzXc74kvLZQ), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Volume 2](https://open.spotify.com/album/2YhG64spQTzW1fh4viu37j) | 6:39 |
 | 99 | [Lamb of God](https://open.spotify.com/track/6BbmCHAptJbkjAgvgoycMO) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Deeper \(Deluxe Edition\)](https://open.spotify.com/album/0vjN4mUe8AAB65YurWzP7v) | 4:17 |

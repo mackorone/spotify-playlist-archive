@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 168226,
+  "num_followers": 168247,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAAAA8/B0cjRedbAUNIGGrPj6",
+  "snapshot_id": "aKpWAAAAAADAXV8rUoYabaJXi/Uco4RK",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 345133,
-      "name": "RE:I AM",
-      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SCOPE",
         "url": "https://open.spotify.com/album/4En3BPOgBrfh5pZgN58fnp"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 175022,
       "name": "SCOPE",
       "url": "https://open.spotify.com/track/3Jo4XDtnSvgky2gC40gEwX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 345133,
+      "name": "RE:I AM",
+      "url": "https://open.spotify.com/track/4hps0PPTjr0C8gSGUq1Has"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 292760,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 360480,
       "name": "\u3042\u306a\u305f\u306b\u51fa\u4f1a\u308f\u306a\u3051\u308c\u3070\uff5e\u590f\u96ea\u51ac\u82b1\uff5e",
       "url": "https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 292760,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 338173,
       "name": "\u516d\u7b49\u661f\u306e\u591c",
       "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 328493,
-      "name": "ONE",
-      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genshin Impact - The Road Not Taken (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/5PXwOJuiro3ilsW6Y86cZV"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 150842,
       "name": "The Road Not Taken - Genshin Impact Animated Short \"The Road Not Taken\" Original Soundtrack",
       "url": "https://open.spotify.com/track/13ZiVkjad58eXSASbOFqwB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 328493,
+      "name": "ONE",
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
+        "url": "https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 245038,
+      "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
+      "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "800",
         "url": "https://open.spotify.com/album/0fdFWCHDh2eXlaPeR6v26h"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
-        "url": "https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 245038,
-      "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
-      "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep down",
         "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u9065\u304b / 800 / End of All / Ref:rain -3 nuits ver.-",
-        "url": "https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 219066,
-      "name": "End of All",
-      "url": "https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
         "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 281560,
       "name": "Blind to you (Remaster for \u661f\u306e\u6d88\u3048\u305f\u591c\u306b 2022)",
       "url": "https://open.spotify.com/track/3QrRKBM0VEI2aVIW29Fkp2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u9065\u304b / 800 / End of All / Ref:rain -3 nuits ver.-",
+        "url": "https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 219066,
+      "name": "End of All",
+      "url": "https://open.spotify.com/track/7cKsYrxKACCqAlefoECZcM"
     },
     {
       "added_at": null,

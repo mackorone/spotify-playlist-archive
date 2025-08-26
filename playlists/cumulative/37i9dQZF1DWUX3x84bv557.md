@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop: LUNA & Russo \(cover\), Pommelien Thijs, Ruben Annink & Danique en meer...
 
-1,032 songs - 2 day 1 hr 15 min
+1,034 songs - 2 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Alle sterke mensen](https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Alle sterke mensen](https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ) | 2:49 | 2024-06-20 | 2024-06-28 |
 | [Alleen](https://open.spotify.com/track/1SMbXa6Ri7Rg2lxsBbKvBB) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Alleen](https://open.spotify.com/album/3xbBtizQWbEZtmQrgK3jpA) | 3:19 | 2023-09-21 | 2023-10-13 |
 | [Alleen Aan Haar](https://open.spotify.com/track/1zsf8jW6awRZXmLYx9DyQC) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Alleen Aan Haar](https://open.spotify.com/album/5IoLPq5JBHEVoZjckG0sSP) | 3:12 | 2024-03-21 | 2024-05-07 |
-| [Alleen in bed](https://open.spotify.com/track/6XMWs2mwg7dYlR1uSLAjVv) | [Raoel](https://open.spotify.com/artist/0BMgHUFkZZAdzv6VNXoIv4) | [Alleen in bed](https://open.spotify.com/album/3ZZSk0Ps2BT0gbQVhqD06b) | 2:49 | 2025-05-15 |  |
+| [Alleen in bed](https://open.spotify.com/track/6XMWs2mwg7dYlR1uSLAjVv) | [Raoel](https://open.spotify.com/artist/0BMgHUFkZZAdzv6VNXoIv4) | [Alleen in bed](https://open.spotify.com/album/3ZZSk0Ps2BT0gbQVhqD06b) | 2:49 | 2025-05-15 | 2025-08-26 |
 | [Alleen Maar Jou](https://open.spotify.com/track/70AnDhv9j993sdGxAMpn9F) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Alleen Maar Jou](https://open.spotify.com/album/1B01Hg5J42wYdUgXiiCgm0) | 3:13 | 2025-06-05 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2024-09-26 | 2024-10-25 |
 | [Alleen op de wereld](https://open.spotify.com/track/1jf4FPYzBsk1fVer0iZWab) | [LUUK](https://open.spotify.com/artist/6mnQ1c9XT8X5tZ3pZYzue1) | [Alleen op de wereld](https://open.spotify.com/album/5MRBUpQbMCON0mx61DzAFL) | 2:14 | 2025-06-26 |  |
@@ -139,11 +139,13 @@
 | [Bel me niet](https://open.spotify.com/track/6NtORS6kdQnmBrAnbNPHTl) | [Edwin Evers](https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO) | [Levensdraden](https://open.spotify.com/album/6arLkm6MoS93r5rE50uNQJ) | 4:06 | 2023-10-12 | 2023-11-10 |
 | [Beloof Je Dat \(Live in de Ziggo Dome\)](https://open.spotify.com/track/70kfXjOOXt41h6c2zSj051) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Beloof Je Dat \(Live in de Ziggo Dome\)](https://open.spotify.com/album/2Q6t4oJAbaTjWOFyXXBVGi) | 4:22 | 2023-02-23 | 2023-06-09 |
 | [Ben je klaar?](https://open.spotify.com/track/5Zj0gTZAjXSHAaSxVtFVlq) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Ben je klaar?](https://open.spotify.com/album/1t75WIdwiHc9qTvv50RYRA) | 3:40 | 2025-08-14 |  |
+| [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-25 |  |
 | [Ben Je Wakker?](https://open.spotify.com/track/3ibGc2PLDs46Qa5FU870di) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ben Je Wakker?](https://open.spotify.com/album/6IVj4qgirdMuRZC70CAmc4) | 2:17 | 2023-02-23 | 2023-06-23 |
 | [Beneden](https://open.spotify.com/track/7ubZ97TycJ5fWKKgbFQlue) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Beneden](https://open.spotify.com/album/5Krch4sKh7GtD6gXdz4edE) | 2:15 | 2025-05-01 | 2025-06-27 |
 | [Bennie](https://open.spotify.com/track/4CI8h2cW6luzQtcJRr8ApQ) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Bennie](https://open.spotify.com/album/5wpuCWPH2uf6fVOQBLxWve) | 2:37 | 2025-03-20 | 2025-05-23 |
 | [Beschadigd](https://open.spotify.com/track/49IckSI3lJFl8ur1FdVFDj) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Beschadigd](https://open.spotify.com/album/2F1IuKpXFCGinGjbJbyFTC) | 2:18 | 2023-05-11 | 2023-07-21 |
 | [Beter Af Alleen](https://open.spotify.com/track/5JsAI0uoaOOCM3PncU5vm8) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Dit Is Het Levenslied](https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc) | 2:48 | 2023-08-24 | 2023-09-29 |
+| [Beter Alleen](https://open.spotify.com/track/2gSiteaLpasfaUCc6sMQQI) | [Hiske](https://open.spotify.com/artist/0pIDqclsUDmHZ6XAvVZp0D) | [Beter Alleen](https://open.spotify.com/album/2rjhBuXvNmxluV5O5qqCHp) | 3:26 | 2025-08-25 |  |
 | [Beter Met Z’n Tweeën](https://open.spotify.com/track/2716GiYd36LugxNYZB047Y) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Beter Met Z’n Tweeën](https://open.spotify.com/album/4mujtLSSs7gvBRs50JE4t0) | 3:10 | 2024-05-30 | 2024-06-28 |
 | [Bij Deze](https://open.spotify.com/track/4z4K2NBEoW9qugu9JfSYjZ) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Bij Deze](https://open.spotify.com/album/29h7wT24Rbq5nQz3thyXek) | 2:48 | 2024-11-21 | 2025-02-28 |
 | [Bijna Vergeten](https://open.spotify.com/track/1IHtQNtU0zjsEzxi5Or1Ik) | [Niels Destadsbader](https://open.spotify.com/artist/4AripACtwIVH69NdCbsJus), [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Bijna Vergeten](https://open.spotify.com/album/6GjSdIu502JeX82VWzfdRE) | 3:04 | 2025-02-22 | 2025-05-09 |
@@ -397,7 +399,7 @@
 | [Hier](https://open.spotify.com/track/0ARfM8J2uVN3pFojPpQLQ1) | [Pjotr](https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Hier](https://open.spotify.com/album/2uQth6Suifi8qSBIUdJIPJ) | 2:34 | 2024-06-13 | 2024-09-27 |
 | [Hier Blijft Het Bij](https://open.spotify.com/track/3oaANXjWB9RjSAvFFXpwhb) | [Iris Penning](https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G) | [Hier Blijft Het Bij](https://open.spotify.com/album/6MhXMY5K9atA8V7lobWbxd) | 2:57 | 2023-02-23 | 2023-03-10 |
 | [Hier En Nu](https://open.spotify.com/track/6hnYPBzulu0m7M18FwjD1m) | [Pauline](https://open.spotify.com/artist/4p13MevTYMG2CbQ9SGH5li) | [Hier En Nu](https://open.spotify.com/album/3UxXRJNpqbn2PTrWXn67LO) | 2:53 | 2025-08-07 |  |
-| [Hij Is Bij Mij](https://open.spotify.com/track/2ADmf2i7L4MYBMNB0xNewn) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hij Is Bij Mij](https://open.spotify.com/album/7wk2eO8BSm1Kb72zwITHX9) | 2:35 | 2025-06-26 |  |
+| [Hij Is Bij Mij](https://open.spotify.com/track/2ADmf2i7L4MYBMNB0xNewn) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Hij Is Bij Mij](https://open.spotify.com/album/7wk2eO8BSm1Kb72zwITHX9) | 2:35 | 2025-06-26 | 2025-08-26 |
 | [Hittegolf](https://open.spotify.com/track/4IhVjIC3Fg1q9eESBVjNPL) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Hittegolf](https://open.spotify.com/album/0kSAvFLsMtfRElvwYpeITz) | 2:36 | 2025-05-22 | 2025-08-05 |
 | [HJB](https://open.spotify.com/track/4ahoARJMAvNB6ovGUh5l7B) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM), [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [HJB](https://open.spotify.com/album/5o8DLeogUUq8Gdt0S49D8D) | 2:18 | 2023-05-25 | 2023-09-08 |
 | [HJB \(Stil\)](https://open.spotify.com/track/4iHggacNJlIn8m5qJzHqpE) | [Floris Keijzer](https://open.spotify.com/artist/2zkxesVPDKamfWSZwF3MGC) | [HJB \(Stil\)](https://open.spotify.com/album/0cLq1RpxhkE8tuA2hi6H7U) | 2:34 | 2024-05-30 | 2024-09-13 |

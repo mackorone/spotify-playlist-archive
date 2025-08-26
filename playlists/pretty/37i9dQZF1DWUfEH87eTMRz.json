@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 27, 28, 29 y 30. Foto: Olivia Rodrigo",
-  "num_followers": 45249,
+  "num_followers": 45246,
   "original_name": "Festival Est\u00e9reo Picnic 2025",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
         "name": "K.I.D.S. (Deluxe)",
         "url": "https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 175192,
       "name": "ma\u00f1ana",
       "url": "https://open.spotify.com/track/1BT8gWiMLQvN7oPQHS8RSR"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Veteran",
-        "url": "https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 157258,
-      "name": "1539 N. Calvert",
-      "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "A Crow Left Of The Murder...",
         "url": "https://open.spotify.com/album/6YQRPEkWRVCorkUoKDOdgC"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211813,
       "name": "Walk Idiot Walk",
       "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Veteran",
+        "url": "https://open.spotify.com/album/51WLEfPEEkzAWurvuY6Gco"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 157258,
+      "name": "1539 N. Calvert",
+      "url": "https://open.spotify.com/track/6XyxCBp6x3jvtxXvMN5sAA"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "EP!",
-        "url": "https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 153932,
-      "name": "BALD!",
-      "url": "https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5kL1tVuZuSNtfn9v4ZAdyY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 311240,
       "name": "Dublin in Ecstasy",
       "url": "https://open.spotify.com/track/3sjgaVtZIOEwR21pfM42Ly"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "EP!",
+        "url": "https://open.spotify.com/album/1uULaqGNfDrWb8pxKcxB9i"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 153932,
+      "name": "BALD!",
+      "url": "https://open.spotify.com/track/3djWekEDgbhAtkXGdFNbFt"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "How You Move",
-        "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 169614,
-      "name": "How You Move - Edit",
-      "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Harvest",
         "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 165712,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/3X41M8FCQJCuBWwIeKFQ3Q"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "How You Move",
+        "url": "https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 169614,
+      "name": "How You Move - Edit",
+      "url": "https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "ALGUIEN COMO T\u00da",
-        "url": "https://open.spotify.com/album/3iHs2KchXKwfLmEEyvxxef"
-      },
-      "artists": [
-        {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        }
-      ],
-      "duration_ms": 182151,
-      "name": "ALGUIEN COMO T\u00da",
-      "url": "https://open.spotify.com/track/5u3akOE4Rsf2rxeYWOjUPu"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Reloj Vital",
         "url": "https://open.spotify.com/album/3gNxPvdAjHGwAKPU0N08cX"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 224743,
       "name": "Reloj Vital",
       "url": "https://open.spotify.com/track/6Ai5U4htSh3Ln4QMqXYm7d"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "ALGUIEN COMO T\u00da",
+        "url": "https://open.spotify.com/album/3iHs2KchXKwfLmEEyvxxef"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        }
+      ],
+      "duration_ms": 182151,
+      "name": "ALGUIEN COMO T\u00da",
+      "url": "https://open.spotify.com/track/5u3akOE4Rsf2rxeYWOjUPu"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Me Hizo un Amarre",
-        "url": "https://open.spotify.com/album/0KMp7IvuciTWlK9D0o0is2"
-      },
-      "artists": [
-        {
-          "name": "Chell",
-          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
-        }
-      ],
-      "duration_ms": 200362,
-      "name": "Aunque No Est\u00e9s",
-      "url": "https://open.spotify.com/track/0N258TTgaufqYDGCtBEYZX"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Teddy Boy",
         "url": "https://open.spotify.com/album/1SbguC3zYCsklaIGThmoMt"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 208826,
       "name": "Testarossa Nightdrive",
       "url": "https://open.spotify.com/track/39ZvG3rdUhZFccoWnmejNu"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Me Hizo un Amarre",
+        "url": "https://open.spotify.com/album/0KMp7IvuciTWlK9D0o0is2"
+      },
+      "artists": [
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        }
+      ],
+      "duration_ms": 200362,
+      "name": "Aunque No Est\u00e9s",
+      "url": "https://open.spotify.com/track/0N258TTgaufqYDGCtBEYZX"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 283074,
-      "name": "How Music Makes You Feel Better",
-      "url": "https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/4c7fP0tUymaZcrEFIeIeZc"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 250836,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/6IBf1LqXwKmTLsKb6FK5Tb"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 283074,
+      "name": "How Music Makes You Feel Better",
+      "url": "https://open.spotify.com/track/2WNdPUwVf0OFsvWfpT6jKN"
     },
     {
       "added_at": "2025-03-28 16:02:55",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2025-03-28 16:02:55",
       "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204067,
-      "name": "Habla Con Ella",
-      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
-    },
-    {
-      "added_at": "2025-03-28 16:02:55",
-      "album": {
         "name": "Anaranjado",
         "url": "https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 196826,
       "name": "Planetas",
       "url": "https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z"
+    },
+    {
+      "added_at": "2025-03-28 16:02:55",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 204067,
+      "name": "Habla Con Ella",
+      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2025-03-28 16:02:55",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from sombr, Royel Otis, Doja Cat, Flume & Emma Louise, Dominic Fike + more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,128 likes - 96 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,129 likes - 96 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

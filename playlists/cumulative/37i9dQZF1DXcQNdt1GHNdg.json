@@ -2693,6 +2693,28 @@
     },
     {
       "album": {
+        "name": "P-POP CULTURE",
+        "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193263,
+      "name": "I'ma Do My Thiiing",
+      "url": "https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm"
+    },
+    {
+      "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS"
       },
@@ -4904,7 +4926,7 @@
       ],
       "date_added": "2025-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 168465,
       "name": "Shikari",
       "url": "https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL"

@@ -1,60 +1,72 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIWmirmzMYQiV>Fracta Aurea</a>, <a href=spotify:playlist:37i9dQZF1EIX7AzDG44w4y>Kyle Hume</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZuxNm0o6kU8>Beny Jr</a>, <a href=spotify:playlist:37i9dQZF1EIUBWv23W5bJ1>Lorien Testard</a>, <a href=spotify:playlist:37i9dQZF1EIUpaKzSbGp7E>Quebonafide</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABI5v5ybUUTIOao/Qu0u1gK",
+  "snapshot_id": "AAAAAAAAAACJ7rmlyZcGKguhEgI+Hr45",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "If You're Reading This It's Too Late",
-        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+        "name": "Anti Social Cool Kid",
+        "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
         }
       ],
-      "duration_ms": 320400,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
+      "duration_ms": 156694,
+      "name": "Dime si t\u00fa me quieres ver? - Part 2",
+      "url": "https://open.spotify.com/track/5Uz5WvNiUyAsAr0grkasfE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Arcticano",
-        "url": "https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V"
+        "name": "Clair Obscur: Expedition 33 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc"
       },
       "artists": [
         {
-          "name": "Fracta Aurea",
-          "url": "https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL"
+          "name": "Lorien Testard",
+          "url": "https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8"
         }
       ],
-      "duration_ms": 164500,
-      "name": "Arcticano",
-      "url": "https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR"
+      "duration_ms": 228000,
+      "name": "Gustave",
+      "url": "https://open.spotify.com/track/0orrgD76lIubUjB1fg6o5I"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/5vkTIncsqYZfSof8ys9ae9"
+        "name": "Refren troch\u0119 jak Lana Del Rey",
+        "url": "https://open.spotify.com/album/6ZOivoC0hhmnauIIsyJ9FY"
       },
       "artists": [
         {
-          "name": "Kyle Hume",
-          "url": "https://open.spotify.com/artist/0p3tzEAt0XWrBqbrwBoN1I"
+          "name": "Quebonafide",
+          "url": "https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R"
+        },
+        {
+          "name": "Ka-Meal",
+          "url": "https://open.spotify.com/artist/7htKxTVi444ObFAOU0ahS9"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        },
+        {
+          "name": "SecretiveSuicide",
+          "url": "https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9"
         }
       ],
-      "duration_ms": 133365,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/1WbjIWan3JBeOV4wrIveRA"
+      "duration_ms": 289742,
+      "name": "Refren troch\u0119 jak Lana Del Rey",
+      "url": "https://open.spotify.com/track/0bJPQcJGw4G8ffS3VIjHWI"
     },
     {
       "added_at": null,

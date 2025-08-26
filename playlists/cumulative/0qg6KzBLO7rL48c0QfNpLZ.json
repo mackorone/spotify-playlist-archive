@@ -9593,6 +9593,28 @@
     },
     {
       "album": {
+        "name": "Here For The Ride",
+        "url": "https://open.spotify.com/album/4ZWVf2KqWoVCiTUFH0VSpp"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        },
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Here For The Ride",
+      "url": "https://open.spotify.com/track/0l5WqVPcVc0vkIgeEmTDPY"
+    },
+    {
+      "album": {
         "name": "Here for you",
         "url": "https://open.spotify.com/album/6soIhLirVneDvgn3djJgx2"
       },

@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Murat Güneş x Aynur Aydın
 
-361 songs - 18 hr 9 min
+362 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Doktor](https://open.spotify.com/track/1J3VJgjaGKk35vmr83OSkz) | [Ragıb Narin](https://open.spotify.com/artist/3RcnnVusQQzqEtkvSVKPKg) | [Doktor](https://open.spotify.com/album/376HaLWaY21eGTdVWvZEmq) | 2:30 | 2025-07-10 | 2025-07-18 |
 | [Drama](https://open.spotify.com/track/48tlVF8yalrTqnikmO1p1O) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG) | [DRAMA](https://open.spotify.com/album/4WFyH3e9a02OlEwHaYcbax) | 2:34 | 2025-02-20 | 2025-03-11 |
 | [Durup Dururken](https://open.spotify.com/track/0aaIt2mbVvIhxoM8GhqyIk) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI) | [Durup Dururken](https://open.spotify.com/album/4KaJSLDTkDQDiKMvBuvKwT) | 2:16 | 2025-07-10 |  |
-| [Duymuyor Beni](https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Duymuyor Beni](https://open.spotify.com/album/3asOVgkMchNY4aukd8f90a) | 2:39 | 2025-07-10 |  |
+| [Duymuyor Beni](https://open.spotify.com/track/5WW1DoKTUataphGlJZNRUq) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Duymuyor Beni](https://open.spotify.com/album/3asOVgkMchNY4aukd8f90a) | 2:39 | 2025-07-10 | 2025-08-26 |
 | [Dön Bana](https://open.spotify.com/track/6GvIfVA9hyg0Y6IJBlfLTA) | [Irmak Arıcı](https://open.spotify.com/artist/3WKZeiNOV5dnANlQnjL95B) | [Dön Bana](https://open.spotify.com/album/2yBvYJQQ6tqBmUF4rki1Kw) | 3:54 | 2024-07-18 | 2024-09-13 |
 | [Dön Geri](https://open.spotify.com/track/4PQPUyhIjnw0QjTvqRVWWT) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Dön Geri](https://open.spotify.com/album/2MD0NhChyhyYmmvuIH6oWS) | 4:09 | 2024-06-27 | 2024-10-31 |
 | [Dönemem Ona](https://open.spotify.com/track/0KF1y5k6Q4mLfoDl3yGihn) | [Soner Sarıkabadayı](https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq) | [Dönemem Ona](https://open.spotify.com/album/5xSW1OcGtEBVlMX2Wurrgt) | 3:10 | 2025-03-27 |  |
@@ -274,6 +274,7 @@
 | [Seni Seven Kimdi](https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [Seni Seven Kimdi](https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML) | 4:00 | 2024-11-14 | 2025-07-18 |
 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-25 | 2025-06-27 |
 | [Sensiz](https://open.spotify.com/track/4XPLP02fM1sAAVkntJ8Huf) | [Berkay](https://open.spotify.com/artist/5juVQV1lGuA4o5IrLwpZar) | [Sensiz](https://open.spotify.com/album/2f8TlkD3FzqdTlsP1vJh0t) | 3:32 | 2025-07-31 |  |
+| [Sersem](https://open.spotify.com/track/0ryZM7pn8qOvUxudgYSHwf) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Sersem](https://open.spotify.com/album/4VvzbhojIXrULSGsbdJeSR) | 2:52 | 2025-08-21 |  |
 | [Sesini Duymadan](https://open.spotify.com/track/7rdh1nIXma6TGcAjUg73EP) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Eda Sakız](https://open.spotify.com/artist/43kof4zqki1s51xx3bX8wB) | [Sesini Duymadan](https://open.spotify.com/album/1inriD9tYt18qtoKy3lppN) | 2:53 | 2025-08-15 |  |
 | [Sesini Duymam Lazım](https://open.spotify.com/track/0RPc5Dd42QIxwXWWziBvCZ) | [Cem Belevi](https://open.spotify.com/artist/5yhN4qXpv9cghmJglovvmg) | [CEMiyet Beach](https://open.spotify.com/album/29irqiFigkCaqcK5d5Feej) | 2:20 | 2024-07-18 | 2024-08-20 |
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-06-27 |  |

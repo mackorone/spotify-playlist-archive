@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 411226,
+  "num_followers": 411275,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
-        "name": "Into Dust (Still Falling)",
-        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 333779,
-      "name": "Into Dust (Still Falling)",
-      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
+        "name": "Into Dust (Still Falling)",
+        "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 333779,
+      "name": "Into Dust (Still Falling)",
+      "url": "https://open.spotify.com/track/4kd3HIkMbwO4sVgkYkrBGo"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
         "name": "DO 4 LOVE (Black Coffee Remix)",
         "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
       },
@@ -463,42 +463,6 @@
       "duration_ms": 224281,
       "name": "DO 4 LOVE - Black Coffee Remix",
       "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 222701,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -527,6 +491,42 @@
       "duration_ms": 194380,
       "name": "Solfa (Tila)",
       "url": "https://open.spotify.com/track/0UjVEZKFVuWOiQwsrikOoP"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 222701,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
-        "name": "Kimpton",
-        "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "Kimpton",
-      "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
       },
@@ -815,6 +795,26 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
+        "name": "Kimpton",
+        "url": "https://open.spotify.com/album/4irD2QKX4eA49YhoAhUj21"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Kimpton",
+      "url": "https://open.spotify.com/track/1wxZ9pAu1nW79Toy255OFz"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
         "name": "Amman",
         "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
       },
@@ -827,26 +827,6 @@
       "duration_ms": 208290,
       "name": "Amman",
       "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
-        "name": "Begin Again",
-        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "JONAH",
-          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
-        }
-      ],
-      "duration_ms": 213507,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -867,6 +847,26 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
+        "name": "Begin Again",
+        "url": "https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "duration_ms": 213507,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
         "name": "Touching My Body / Down Shovel",
         "url": "https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 430727,
       "name": "Touching My Body",
       "url": "https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/3jL6JX0ASVF3UX9P8mZQdV"
-      },
-      "artists": [
-        {
-          "name": "Tripolism",
-          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
-        },
-        {
-          "name": "Nandu",
-          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
-        }
-      ],
-      "duration_ms": 195733,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5B4s1YdlPmrvw0ezwn4Dsb"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
-        "name": "NO SKIN",
-        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        },
-        {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
-        }
-      ],
-      "duration_ms": 278124,
-      "name": "NO SKIN",
-      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/5p5NImBlYoLIQDdI0wKzb7"
       },
@@ -1243,6 +1223,26 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
+        "name": "NO SKIN",
+        "url": "https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        },
+        {
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        }
+      ],
+      "duration_ms": 278124,
+      "name": "NO SKIN",
+      "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
         "name": "Protected",
         "url": "https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG"
       },
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
+        "name": "Pollen",
+        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 120508,
+      "name": "Pollen",
+      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
+    },
+    {
+      "added_at": "2025-06-23 14:00:07",
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0tdmeX1Dul9IyOVpVIy8Lt"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 230163,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1dgmyjd5qciNDLQcVd1aln"
-    },
-    {
-      "added_at": "2025-06-23 14:00:07",
-      "album": {
-        "name": "Pollen",
-        "url": "https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 120508,
-      "name": "Pollen",
-      "url": "https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC"
     },
     {
       "added_at": "2025-06-23 14:00:07",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2025-06-23 14:00:07",
       "album": {
-        "name": "Oceanside Girl",
-        "url": "https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv"
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
       "artists": [
         {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+          "name": "goodlife",
+          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 319551,
-      "name": "Oceanside Girl",
-      "url": "https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil"
+      "duration_ms": 167009,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
     }
   ],
   "unique_name": "Just Chill",

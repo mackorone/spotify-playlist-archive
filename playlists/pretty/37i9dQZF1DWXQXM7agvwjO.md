@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Uchu Yurei \(Hong Kong\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,974 likes - 114 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,961 likes - 114 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

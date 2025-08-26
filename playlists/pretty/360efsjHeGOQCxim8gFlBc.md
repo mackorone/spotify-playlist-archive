@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 495 likes - 299 songs - 12 hr 24 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 495 likes - 299 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 4 | [You are Loved](https://open.spotify.com/track/0vO56GkaA0kSTf5SJURKhO) | [Mariuga](https://open.spotify.com/artist/4IIFgXxuv62qZgOzQvDBoN) | [You are Loved](https://open.spotify.com/album/5koz67yNYMPL6J4wZSTpV5) | 2:12 |
 | 5 | [Dawn \(Refined\)](https://open.spotify.com/track/5e8OdUFaQwuoAe6W62xw0Q) | [Raban](https://open.spotify.com/artist/1jk3WOBFMcaQhQ4wbiKeiN) | [Heartfelt \(Refined\)](https://open.spotify.com/album/5NHJwg4tkGqHloJDbzFt83) | 3:03 |
 | 6 | [Onwards](https://open.spotify.com/track/3Fxeij5df6GMIs3z3swsPc) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Onwards](https://open.spotify.com/album/1WUhnpiGa6cRPo4H01Ytz5) | 2:53 |
-| 7 | [love story](https://open.spotify.com/track/3hiiDp2Wb8ljCRFUZfZg3t) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/7vWxv01MBk7Ln8cLbli2HG) | 1:34 |
+| 7 | [love story](https://open.spotify.com/track/0b8aXwsq9zeyOzHZ9ZP1Nx) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love story](https://open.spotify.com/album/1VczEbCVFcQ5Nt5IGfdiFw) | 1:34 |
 | 8 | [moments in between](https://open.spotify.com/track/5N2hvhGu7CJ2Bj4nwDkpiG) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [moments in between](https://open.spotify.com/album/40c32j8tzigbZNkKGGPQO4) | 2:32 |
 | 9 | [lost in thought](https://open.spotify.com/track/2i98t1liW7ImQ0YNlQi2Pj) | [stray](https://open.spotify.com/artist/6TZ7ImCY9aK3ZxpKLYSyHS) | [Lost In Thought](https://open.spotify.com/album/5sKPcXrq8x0QocY2EgjUrH) | 4:00 |
 | 10 | [In Motion](https://open.spotify.com/track/3YbLPdunkrKvdWC0N788Rw) | [Michael Borowski](https://open.spotify.com/artist/5Exg99fbiNIqGljM2QX72z) | [In Motion](https://open.spotify.com/album/6tPbNsMNB2igmqCuKEwWFj) | 4:45 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 34 | [bubbles](https://open.spotify.com/track/1paEjDJQ58aDfFRz85LOA0) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [bubbles](https://open.spotify.com/album/0PqMgfUT9vJHtiPBKM8U55) | 1:53 |
 | 35 | [Cascade](https://open.spotify.com/track/40ZufZh2MEI7DawsofsT31) | [Luca Verdant](https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7) | [Cascade](https://open.spotify.com/album/2lsZlj37xP7gtCadKICgsB) | 2:20 |
 | 36 | [Neptis rivularis](https://open.spotify.com/track/1D4CoZf1UNicasNH8DuxkE) | [Valentin Scholl](https://open.spotify.com/artist/31nziFCQXhUjs3mURgkS3j) | [Neptis rivularis](https://open.spotify.com/album/0TzPBadsJD4KuphwpbXl8w) | 1:48 |
-| 37 | [love song](https://open.spotify.com/track/7MF2wgf4zXyva3w3ntYm4X) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/7f6ek2nZdtjSQCce6L3jSn) | 2:05 |
+| 37 | [love song](https://open.spotify.com/track/2H8VEt9t6fTApmR2WdI4PR) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [love song](https://open.spotify.com/album/5DcrbNHusW1DQRuugdLdgV) | 2:05 |
 | 38 | [Conversation](https://open.spotify.com/track/4aH8Dv3waBBO328OEwW3yC) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [As It Goes](https://open.spotify.com/album/5Go73tCDhE3gZgmyaUck2r) | 2:56 |
 | 39 | [dichotomie](https://open.spotify.com/track/5SDT5L3nJfX5s0grLhIY66) | [dichotomie](https://open.spotify.com/artist/421le6xvPSyAh8diWo9TYP) | [dichotomie](https://open.spotify.com/album/1oczN9M5wH4tLjj8xnzzmE) | 1:09 |
 | 40 | [Resting Heart](https://open.spotify.com/track/0lsc85G1bGzdR75sIvFj9I) | [Luca Verdant](https://open.spotify.com/artist/1fL5eZC34fv79A9eUbCkp7) | [Resting Heart](https://open.spotify.com/album/0puPIz195r3B1tDVVC1mdO) | 2:26 |
@@ -164,7 +164,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 154 | [Always](https://open.spotify.com/track/5qOHkEUYqr0cT9GzTpp1B8) | [Amr Shalaby](https://open.spotify.com/artist/4oSK5XfYJE7VVMuMdbtp8h) | [Always](https://open.spotify.com/album/2WM213txiuG50rBI64yWrp) | 2:30 |
 | 155 | [Prelude](https://open.spotify.com/track/5HctISe1MUfPVZcRKwODGQ) | [Arrowsmith](https://open.spotify.com/artist/3JhSV8X6sETpGxgkz9y5Gn) | [Postlude](https://open.spotify.com/album/0jEclUW8zQqEfchXa0wZOr) | 2:11 |
 | 156 | [On a cloud](https://open.spotify.com/track/53IDkAzIOwH1z9mQtfhUpq) | [Paul\-Hervé KONATE](https://open.spotify.com/artist/069tBzVSWzAwbVcGqLM3RA), [Paul H.](https://open.spotify.com/artist/1u4bedZsxxMp55G9LBpjMi) | [warm](https://open.spotify.com/album/5OLKPyBppTi9URBhhXENRq) | 1:38 |
-| 157 | [Muse](https://open.spotify.com/track/6pqXCTbA18qyvSCF7NYpOF) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Muse](https://open.spotify.com/album/1EMv4htba5a2zITh5S46B0) | 1:58 |
+| 157 | [Muse](https://open.spotify.com/track/7EX9F48g8x02wHoLXv84ig) | [Helder Boutens](https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE) | [Muse](https://open.spotify.com/album/1PdozTVsnm6w5IHHDwGEyK) | 2:00 |
 | 158 | [Moon Gloom](https://open.spotify.com/track/3zr5TBvPW54B8Ou33rDoXL) | [Pierre Lebold](https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM) | [Moon Gloom](https://open.spotify.com/album/77cuMyyzaGNBcqrmh7JeA4) | 2:07 |
 | 159 | [New World](https://open.spotify.com/track/4olSG0llPmTh9TiDcnvSqx) | [Jakub Szybiak](https://open.spotify.com/artist/4kz7NgN823IKxhhOv08WQg) | [New World](https://open.spotify.com/album/3PnX0ZWH5aSCt5OxgzyhG7) | 2:41 |
 | 160 | [Solivagant](https://open.spotify.com/track/320xspXoAA5AZG19zepEO1) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Serene](https://open.spotify.com/album/2J4dkNU7NKXYXf3vnhX89d) | 2:01 |
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 298 | [Improv 6](https://open.spotify.com/track/4rdhv6ukBMLOlf8vBry9hS) | [Ojong](https://open.spotify.com/artist/4dTZemVIPE7mERe1klU9g0) | [Improv 6](https://open.spotify.com/album/3citQN7d1uid8nYyZne9er) | 1:38 |
 | 299 | [raindrops](https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [raindrops](https://open.spotify.com/album/7D0dlYz2XBjxINaBVrCzF2) | 2:04 |
 
-Snapshot ID: `AAAG6lSw4wX6FDeZHFMfsbQMKF5Z/nTa`
+Snapshot ID: `AAAG8bycSj0KgT33LFaealMvcembhNbk`

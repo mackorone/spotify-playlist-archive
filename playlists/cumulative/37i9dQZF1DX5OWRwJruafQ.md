@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Cheema Y
 
-688 songs - 1 day 8 hr 43 min
+689 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [45](https://open.spotify.com/track/5XnYIsiOHVKWx0pKCinsEP) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [45](https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt) | 2:26 | 2024-08-09 | 2024-08-23 |
 | [5 Raund](https://open.spotify.com/track/3CPhDJAUVVoXJ6AYv98grC) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [5 Raund](https://open.spotify.com/album/6EfljohQtKZhHwHOTpcmmy) | 3:00 | 2024-08-20 | 2024-09-11 |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 | 2024-08-27 |
+| [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 | 2025-08-25 |  |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
 | [8500](https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Auto Mode](https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat) | 2:08 | 2024-07-09 | 2024-07-19 |
 | [A Day In Merc](https://open.spotify.com/track/3k4O6pWyMt7kF60VT5Ww78) | [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Santali](https://open.spotify.com/artist/0TDpko4t3LQLlGuiG3mzwq) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:56 | 2025-08-11 |  |
@@ -448,7 +449,7 @@
 | [NH7](https://open.spotify.com/track/2loopFYh52aXLdtjN7477C) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg), [Sulfa](https://open.spotify.com/artist/3eHfEU2o61RWizp6PrD9T0) | [NH7](https://open.spotify.com/album/2a4nyc9fkABtmWBwKSIyoX) | 2:53 | 2023-10-23 | 2023-11-08 |
 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 | 2024-12-13 |  |
 | [No Complaints](https://open.spotify.com/track/6UCA9U9yzgw2ZCNXIeXAfQ) | [Simu Dhillon](https://open.spotify.com/artist/4J6ZAQTOOrnXrbo5Wffly1), [Dark Noise](https://open.spotify.com/artist/1EBUCOWmx3MM6QVeTWH5N3) | [No Complaints](https://open.spotify.com/album/0OtLOnVWbSfusWi7Zt0nu0) | 2:17 | 2024-08-14 | 2024-08-23 |
-| [No F's Given](https://open.spotify.com/track/7mxBAHfgnxA30KcdLCV4pu) | [DXL](https://open.spotify.com/artist/28CAvS6N4F6zGQR7vsB0fo), [Rommy](https://open.spotify.com/artist/1O7Az9ycbLsVAziRnPq6Ww) | [No F's Given](https://open.spotify.com/album/6IcB3C6N7mcTgX2UmBIafQ) | 2:12 | 2025-08-23 |  |
+| [No F's Given](https://open.spotify.com/track/7mxBAHfgnxA30KcdLCV4pu) | [DXL](https://open.spotify.com/artist/28CAvS6N4F6zGQR7vsB0fo), [Rommy](https://open.spotify.com/artist/1O7Az9ycbLsVAziRnPq6Ww) | [No F's Given](https://open.spotify.com/album/6IcB3C6N7mcTgX2UmBIafQ) | 2:12 | 2025-08-23 | 2025-08-26 |
 | [No Fake](https://open.spotify.com/track/4BKx5bluk9JK84PkzjIe4h) | [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5), [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr) | [No Fake](https://open.spotify.com/album/4wxbtYf37aiM1RF0Q1iGS2) | 3:01 | 2023-09-12 | 2024-03-14 |
 | [No Fluke](https://open.spotify.com/track/7BxjfUQbxoSSUewPey7S02) | [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK), [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [No Fluke](https://open.spotify.com/album/3OvjeBSGJnX2QAQKjGhz4n) | 2:55 | 2025-06-20 | 2025-07-12 |
 | [No Fucx Given](https://open.spotify.com/track/1d5Ov723H4HOGLxqR4YGI3) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [No Fucx Given](https://open.spotify.com/album/4zrNk8uBQ6rclwZqXYlI5r) | 3:42 | 2024-07-08 | 2024-07-19 |

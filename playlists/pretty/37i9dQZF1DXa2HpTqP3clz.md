@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Rhiannon Giddens & Justin Robinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,123 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,126 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 6 | [If I Don't Have You](https://open.spotify.com/track/4klp9IQkMHW90IK5BiY0fe) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [If I Don't Have You](https://open.spotify.com/album/11WUysU9e8taAGwsYgeZpc) | 3:36 |
 | 7 | [Not Broken](https://open.spotify.com/track/0mQTDyVOHUVmgAU17SP8uR) | [Alan Sparhawk](https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8), [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Alan Sparhawk with Trampled by Turtles](https://open.spotify.com/album/1x0de2EjrGot84ocdigfUa) | 3:22 |
 | 8 | [Wall Guitar \(Since You Said Goodbye\)](https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK), [Steve Martin](https://open.spotify.com/artist/1Bd4UVlqlaKEXYRG3wgrCK), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Wall Guitar \(Since You Said Goodbye\)](https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm) | 3:19 |
-| 9 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 |
+| 9 | [Leadfoot](https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Leadfoot](https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35) | 2:45 |
 | 10 | [Didn't Go Wrong](https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y) | [Yonder Mountain String Band](https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO) | [Nowhere Next](https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL) | 3:50 |
 | 11 | [Granite Mills](https://open.spotify.com/track/3MiSYmtNM9z7SIsNFLuSGN) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Granite Mills](https://open.spotify.com/album/4mEWJk9xqbyMMN1btlIGFM) | 3:40 |
 | 12 | [Everything Burns](https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:44 |
-| 13 | [Leadfoot](https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Leadfoot](https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35) | 2:45 |
+| 13 | [Mountain Banjo](https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [The Music of Red Dead Redemption 2 \(Original Soundtrack\)](https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW) | 2:41 |
 | 14 | [Working Man Blues](https://open.spotify.com/track/4QDFyUdP0ws9phMzr1HFoV) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Working Man Blues](https://open.spotify.com/album/4Nhgn4wHH4JTjMeN0r8WjJ) | 2:38 |
 | 15 | [Tired of Being Tired](https://open.spotify.com/track/6U6h6f5bl2rxh7exJWLsIN) | [Clay Street Unit](https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb) | [Introducing Clay Street Unit](https://open.spotify.com/album/07N5EEHNLkQWBYXeZXAz8Y) | 4:20 |
 | 16 | [I Almost Told Her](https://open.spotify.com/track/7lwlkiQlsIf8cgMi5mAVuG) | [East Nash Grass](https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl) | [Last Chance to Win](https://open.spotify.com/album/2GI681ZWobL28h0VOCkDlk) | 2:31 |

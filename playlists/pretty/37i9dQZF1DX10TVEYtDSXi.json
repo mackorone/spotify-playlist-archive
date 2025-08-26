@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGyp1vk3cKppVc9mdyajbU0cKP8q",
+  "snapshot_id": "AAAAAIdEL0+HJyR3Pe/PLynI6vUuP/SI",
   "tracks": [
     {
       "added_at": "2025-08-22 00:00:18",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/7rcbwjIaZ5jEgyFk35Bqfj"
     },
     {
+      "added_at": "2025-08-25 07:53:05",
+      "album": {
+        "name": "H\u00daN",
+        "url": "https://open.spotify.com/album/2oSXUyRqsm1PLkNcW1mEak"
+      },
+      "artists": [
+        {
+          "name": "ISSI",
+          "url": "https://open.spotify.com/artist/2Irligkck4dss52iaG1cXL"
+        }
+      ],
+      "duration_ms": 145838,
+      "name": "H\u00daN",
+      "url": "https://open.spotify.com/track/0nrOaaTOaMAST9wLklXzEl"
+    },
+    {
       "added_at": "2025-08-22 00:00:18",
       "album": {
         "name": "A Matter of Time",
@@ -107,26 +123,6 @@
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
-        "name": "ST\u00c9TTIN",
-        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
-      },
-      "artists": [
-        {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
-        },
-        {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        }
-      ],
-      "duration_ms": 141705,
-      "name": "SIGGA BEINTEINS",
-      "url": "https://open.spotify.com/track/2bCo33ql9gC0sUvhnObICz"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -167,6 +163,26 @@
     {
       "added_at": "2025-08-22 00:00:18",
       "album": {
+        "name": "ST\u00c9TTIN",
+        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
+      },
+      "artists": [
+        {
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        },
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        }
+      ],
+      "duration_ms": 141705,
+      "name": "SIGGA BEINTEINS",
+      "url": "https://open.spotify.com/track/2bCo33ql9gC0sUvhnObICz"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
         "name": "Vildi Bara Segja",
         "url": "https://open.spotify.com/album/4SO8Qt2v6DV9D2sGoQx9n4"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 183311,
       "name": "Vildi Bara Segja",
       "url": "https://open.spotify.com/track/6eT593LOWtnVYyfb9QeGHE"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -263,6 +263,22 @@
       "duration_ms": 135463,
       "name": "Huganum af \u00fe\u00e9r",
       "url": "https://open.spotify.com/track/1DhEvN0WRPxgfKVysCfEha"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -375,42 +391,6 @@
     {
       "added_at": "2025-08-22 00:00:18",
       "album": {
-        "name": "ST\u00c9TTIN",
-        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
-      },
-      "artists": [
-        {
-          "name": "Emmsj\u00e9 Gauti",
-          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
-        }
-      ],
-      "duration_ms": 165643,
-      "name": "KILL ME",
-      "url": "https://open.spotify.com/track/061LiXRcTbYAJYD8NNeraN"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
         "name": "St\u00f3rir Str\u00e1kar",
         "url": "https://open.spotify.com/album/63tO5mZENF526DHAbrrjoj"
       },
@@ -471,6 +451,22 @@
     {
       "added_at": "2025-08-22 00:00:18",
       "album": {
+        "name": "ST\u00c9TTIN",
+        "url": "https://open.spotify.com/album/6qzgkTBLS0dfa2LmykFoJa"
+      },
+      "artists": [
+        {
+          "name": "Emmsj\u00e9 Gauti",
+          "url": "https://open.spotify.com/artist/46VwdSiSccsgzNhJP9sGhQ"
+        }
+      ],
+      "duration_ms": 165643,
+      "name": "KILL ME",
+      "url": "https://open.spotify.com/track/061LiXRcTbYAJYD8NNeraN"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
         "name": "Ordinary",
         "url": "https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S"
       },
@@ -499,22 +495,6 @@
       "duration_ms": 190320,
       "name": "Mr Electric Blue",
       "url": "https://open.spotify.com/track/6V7bxWg4mmuU4ILbYPQJvd"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
-        "name": "Wasted Love",
-        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
-        }
-      ],
-      "duration_ms": 164998,
-      "name": "Wasted Love",
-      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -555,6 +535,26 @@
       "duration_ms": 208829,
       "name": "One Thing",
       "url": "https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-08-22 00:00:18",
       "album": {
-        "name": "Bloodline (with Jelly Roll)",
-        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 182008,
-      "name": "Bloodline (with Jelly Roll)",
-      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
         "name": "LYFTESSU",
         "url": "https://open.spotify.com/album/4SCGIctVtHj4PP5rLCacih"
       },
@@ -651,6 +631,22 @@
       "duration_ms": 125752,
       "name": "LYFTESSU",
       "url": "https://open.spotify.com/track/3TK7rt91upRhyDFScYcAn9"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
+        "name": "Wasted Love",
+        "url": "https://open.spotify.com/album/22GDpNfVvE2WYGTQMXeTJx"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "duration_ms": 164998,
+      "name": "Wasted Love",
+      "url": "https://open.spotify.com/track/321yySUTzRXUbzkRTeTzDB"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -683,26 +679,6 @@
       "duration_ms": 292544,
       "name": "Far",
       "url": "https://open.spotify.com/track/2bGufV5inUlCxbDZNuQGJr"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
-        "name": "Just Us (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172877,
-      "name": "Just Us (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -743,6 +719,26 @@
       "duration_ms": 156428,
       "name": "H\u00e6 - EM 2025",
       "url": "https://open.spotify.com/track/2GAR7xyr2OE07Q1cEabUOZ"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
+        "name": "Bloodline (with Jelly Roll)",
+        "url": "https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 182008,
+      "name": "Bloodline (with Jelly Roll)",
+      "url": "https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -815,6 +811,26 @@
       "duration_ms": 138430,
       "name": "Elli Egils",
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
+    },
+    {
+      "added_at": "2025-08-22 00:00:18",
+      "album": {
+        "name": "Just Us (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/6EIo8YVBZEHJFvX6xh9bMy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172877,
+      "name": "Just Us (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/1SVhTS4l0sLFsP2Abme05l"
     },
     {
       "added_at": "2025-08-22 00:00:18",
@@ -907,22 +923,6 @@
       "duration_ms": 187396,
       "name": "Drive (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
-    },
-    {
-      "added_at": "2025-08-22 00:00:18",
-      "album": {
-        "name": "What Was That",
-        "url": "https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 209286,
-      "name": "What Was That",
-      "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
     }
   ],
   "unique_name": "Hot Hits Iceland",

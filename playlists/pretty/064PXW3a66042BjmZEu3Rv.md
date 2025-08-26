@@ -4,9 +4,10 @@ pretty - [cumulative](/playlists/cumulative/064PXW3a66042BjmZEu3Rv.md) - [plain]
 
 > De beste nieuwe Nederlandse muziek vind je hier! Met o.a\. Zoë Tauran &amp; Frenna \(cover\), Noano, Kensington en meer
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,836 likes - 0 song - 0 sec
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 7,836 likes - 1 song - 2 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
+| 1 | [Overdosis](https://open.spotify.com/track/1PHlNckjnBedkWSNhQ6nvr) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K) | [Overdosis](https://open.spotify.com/album/32We7ASDADKiivoG5cJGhL) | 2:30 |
 
-Snapshot ID: `AAAbVT7WCfZ7Lc+XNTmfBF/LgT1sbCE5`
+Snapshot ID: `AAAbVuzfvsYLH3pPXjQw9y/aBETJn2ZS`

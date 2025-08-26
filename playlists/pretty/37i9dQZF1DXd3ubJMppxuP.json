@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 83034,
+  "num_followers": 83048,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI",
+  "snapshot_id": "AAAAAB0KzSld7I/WrNzkE59/fZ3kg7mQ",
   "tracks": [
     {
       "added_at": "2025-08-07 22:00:34",
@@ -771,6 +771,26 @@
     {
       "added_at": "2025-08-07 22:00:34",
       "album": {
+        "name": "Crazy Mega Cool",
+        "url": "https://open.spotify.com/album/5aQs4NYz6ZGWa5M96hdmp2"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Russian Village Boys",
+          "url": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "Crazy Mega Cool",
+      "url": "https://open.spotify.com/track/251SfwRqsmsDvndBNUI3QQ"
+    },
+    {
+      "added_at": "2025-08-07 22:00:34",
+      "album": {
         "name": "City Streets",
         "url": "https://open.spotify.com/album/0sXs88sWqgcucXTKC5bV6R"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 213088,
       "name": "City Streets",
       "url": "https://open.spotify.com/track/57tzA2bwjsgKZa3NBJvryR"
-    },
-    {
-      "added_at": "2025-08-07 22:00:34",
-      "album": {
-        "name": "Crazy Mega Cool",
-        "url": "https://open.spotify.com/album/5aQs4NYz6ZGWa5M96hdmp2"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Russian Village Boys",
-          "url": "https://open.spotify.com/artist/1AsruX0vcpmL1O82dfWZBD"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Crazy Mega Cool",
-      "url": "https://open.spotify.com/track/251SfwRqsmsDvndBNUI3QQ"
     },
     {
       "added_at": "2025-08-07 22:00:34",

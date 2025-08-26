@@ -4,7 +4,7 @@
 
 > Sweet R&B straight out of Africa\. Cover: Shekhina
 
-469 songs - 1 day 0 hr 43 min
+470 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [Lonely Hearts](https://open.spotify.com/track/5gJ4NfyXdhOWadofaIl3pL) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 3:01 | 2024-10-12 | 2025-05-09 |
 | [Look The Other Way](https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Look The Other Way](https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9) | 3:01 | 2025-07-18 |  |
 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-11-28 | 2024-12-07 |
-| [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 |  |
+| [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 | 2025-08-26 |
 | [Love & Romance](https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Love & Romance](https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1) | 2:13 | 2024-07-26 |  |
 | [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 | 2024-11-15 |  |
 | [Love Deep](https://open.spotify.com/track/1HOTWyi8QcBy2oRc2PeLRi) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Filah Lah Lah](https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw) | [Love Deep](https://open.spotify.com/album/1IkvotMy4iE2UMLEHvbivF) | 3:40 | 2025-03-21 |  |
@@ -439,6 +439,7 @@
 | [Unrelatable](https://open.spotify.com/track/6yzoGCk37lkUPvf16ZvInu) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Unrelatable](https://open.spotify.com/album/1GHNWbUWzVVlZ0pn9GXyKd) | 2:40 | 2022-11-04 | 2022-12-10 |
 | [Until Until](https://open.spotify.com/track/0UKaP4Oxb0BAif2emox76G) | [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Less Trouble](https://open.spotify.com/album/0Hz8dMfievPvgDBKII1Kgp) | 4:04 | 2025-08-08 |  |
 | [up](https://open.spotify.com/track/6VuhHbxyPmFu1AHxjCGR5Q) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [up](https://open.spotify.com/album/63CZFvH19X9b5y5vXQwDqv) | 2:53 | 2022-05-19 | 2022-06-17 |
+| [US III](https://open.spotify.com/track/1HHNy0QJKUL8uO6G750zp5) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [US III](https://open.spotify.com/album/2Dh75FbXSEiP3zs58Gf1KO) | 2:36 | 2025-08-25 |  |
 | [Uyazkhohlwa](https://open.spotify.com/track/2Z5dUCDAmotABDmBl9rNk2) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Twenty Four](https://open.spotify.com/album/7r7hgemJYXUDU2ztBVVGMY) | 4:17 | 2024-08-02 |  |
 | [Validation](https://open.spotify.com/track/7pG09NBFDlnWqJbzZhkrok) | [Amanda Mak](https://open.spotify.com/artist/3hijRjXXxU04yYuPRxKojg) | [Boxed Out](https://open.spotify.com/album/2dvxSFbGXXcXmvc26ixLh9) | 3:13 | 2022-02-17 | 2022-04-08 |
 | [Vibrate](https://open.spotify.com/track/0k4fBGbF0iRbfZWH3jHgfd) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [NUEVE](https://open.spotify.com/album/3gXJagiJdWcDak4otqcavq) | 2:23 | 2025-06-27 |  |

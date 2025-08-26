@@ -4,7 +4,7 @@
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Fernandinho
 
-182 songs - 19 hr 5 min
+183 songs - 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Casa É Sua](https://open.spotify.com/track/3h3fui1QXImL2zRcs9v2Lc) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [A Casa É Sua](https://open.spotify.com/album/041DXxbZVdCiO5ul5srRx1) | 9:22 | 2024-01-05 | 2024-09-14 |
 | [A Ele a Glória \- Ao Vivo](https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Ele a Glória \(Ao Vivo\)](https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY) | 7:17 | 2022-09-02 | 2025-06-07 |
 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 | 2024-11-22 |  |
+| [A Maior Honra](https://open.spotify.com/track/1C9gcXH4aJVwz7dr4JNnOG) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Guilherme Andrade](https://open.spotify.com/artist/6LFnFW6ECYKbvQ4QV4NwnH) | [A Maior Honra](https://open.spotify.com/album/4ILheZBIdfuSt6cjQRsWiB) | 11:22 | 2025-08-25 |  |
 | [A Promessa Nasceu](https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [A Promessa Nasceu](https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF) | 5:06 | 2025-06-02 |  |
 | [A Reforma](https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [A Reforma](https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ) | 5:20 | 2023-02-06 |  |
 | [Aba \- Ao Vivo](https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm), [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Aba \(Ao Vivo\)](https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey) | 5:48 | 2022-09-02 | 2025-02-22 |
@@ -50,7 +51,7 @@
 | [Deus Proverá](https://open.spotify.com/track/1XGPIdV19Qp3p7aBGhP6EQ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2ev97m3xXsyHzGiEH7iNiN) | 5:58 | 2022-09-02 | 2024-08-24 |
 | [Deus Vai Chegar Primeiro \- Ao Vivo](https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [A Igreja Canta \(Ao Vivo\)](https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq) | 5:47 | 2025-04-14 | 2025-05-24 |
 | [Deus É Quem Me Fortalece](https://open.spotify.com/track/4Gw8uK4h3jAu23UcpwITBS) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Deus É Quem Me Fortalece](https://open.spotify.com/album/60qFSdVT0RCmnJJlb2HmdP) | 6:23 | 2025-05-16 |  |
-| [Ele Cumprirá](https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Ele Cumprirá](https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk) | 7:36 | 2023-06-02 |  |
+| [Ele Cumprirá](https://open.spotify.com/track/1nQ0oeFFwRsW2h6PgZWmlo) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Ele Cumprirá](https://open.spotify.com/album/1zFNMpUmIvseacn9OFcJLk) | 7:36 | 2023-06-02 | 2025-08-26 |
 | [Ele Vem \- Ao Vivo](https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Eterno Presente \(Ao Vivo\)](https://open.spotify.com/album/2hK5ylp49oUsOJFfdpUqXf) | 8:38 | 2022-09-02 | 2024-12-07 |
 | [Ele é Exaltado \- Acústico](https://open.spotify.com/track/5Z1bAuX0pHETilmLlmUoFa) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Lukas Agustinho \(Acústico\)](https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b) | 2:19 | 2023-03-17 |  |
 | [Em Fervente Oração \- Acústico](https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Em Fervente Oração \(Acústico\)](https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx) | 4:53 | 2022-09-02 | 2023-02-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Katatonia
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,820 likes - 150 songs - 12 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,833 likes - 150 songs - 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,16 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 44 | [Doomsday](https://open.spotify.com/track/4hLvUbH5dkCByoNFsM02Js) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Doomsday](https://open.spotify.com/album/5xD9RF7OL25i2xOaCnzuf7) | 4:07 |
 | 45 | [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 |
 | 46 | [Babylon](https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Babylon](https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB) | 3:33 |
-| 47 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 |
-| 48 | [Damien](https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Cold Sanctuary](https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ) | 4:19 |
+| 47 | [Damien](https://open.spotify.com/track/56k68f1Csqmfx9vRXi9Jsl) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Cold Sanctuary](https://open.spotify.com/album/2OWZ870BnUw4v0Z9EBTekJ) | 4:19 |
+| 48 | [In Desolation](https://open.spotify.com/track/6WNd1QQFviipmakDqWQbrp) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [In Desolation](https://open.spotify.com/album/4521mRHZPtTd3JVNSJNDg3) | 3:41 |
 | 49 | [Dislocated](https://open.spotify.com/track/1Iw4yXNzBGnvxDfaNuMo3W) | [Midwinter](https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J) | [Dislocated](https://open.spotify.com/album/6Vr6pUhz1f9kKGSTvCAYVX) | 4:20 |
 | 50 | [Bleed](https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [ObZen](https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa) | 7:22 |
 | 51 | [Makeshift Harmony](https://open.spotify.com/track/5hT9plaY8kgBZSmCUpfV47) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [In Stasis](https://open.spotify.com/album/3Q0ElZiEA7GBDcqNyeF71r) | 4:30 |
 | 52 | [Wave](https://open.spotify.com/track/014c5V0EGCimDcpOHHollM) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CURE](https://open.spotify.com/album/1SOXDy18xKOgjygDKqCHWv) | 4:58 |
 | 53 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 54 | [Arrival](https://open.spotify.com/track/06Vnpa8wqFpQFJaRAA4oVC) | [Night Verses](https://open.spotify.com/artist/55GUoQ2E2hze3842bFs4bb) | [Every Sound Has A Color In The Valley Of Night](https://open.spotify.com/album/6vcoKJhkNPj3HeTOudcRLO) | 3:48 |
-| 55 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 |
-| 56 | [A Mind Short Circuiting](https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [A Mind Short Circuiting](https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ) | 4:27 |
+| 55 | [A Mind Short Circuiting](https://open.spotify.com/track/3oelMc06qyF7tuA55tPnJQ) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [A Mind Short Circuiting](https://open.spotify.com/album/3MZOhrdAca9B4N1gm15BZQ) | 4:27 |
+| 56 | [TIRED OF WINNING](https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TIRED OF WINNING](https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY) | 3:26 |
 | 57 | [Stonewalker](https://open.spotify.com/track/2P3OwLmz095p0PIMwkrQOh) | [I Built the Sky](https://open.spotify.com/artist/4URPAJlk8ay7npvNVVLpKN), [Jake Howsam Lowe](https://open.spotify.com/artist/4L53eKiTXJsZeaX0Q9jxMI) | [Stonewalker](https://open.spotify.com/album/0AfCFzK9Q86MY6sJgw70Gj) | 4:14 |
 | 58 | [Leviathan](https://open.spotify.com/track/6dfiHpYb2ciw2urKenpdyC) | [Monuments](https://open.spotify.com/artist/71IBhhBhtPLZ8OyVuXOw77) | [Phronesis](https://open.spotify.com/album/3TolVtFlrVEwzIwpOXEW75) | 4:34 |
 | 59 | [Kilonova](https://open.spotify.com/track/6AQk9MuNAClIEeXiBxYKUs) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [GREIF](https://open.spotify.com/album/1chw1DFmefTueG1VbNVoGN) | 4:07 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 67 | [Preboreal](https://open.spotify.com/track/6h4opbGz6a2CKw00Syr91I) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Holocene](https://open.spotify.com/album/1JS5Xf3DiLfVAb904ZGlyT) | 5:04 |
 | 68 | [Charcoal Grace I: Prey](https://open.spotify.com/track/5fQ53YX1adoTkNWuFeoGVu) | [Caligula's Horse](https://open.spotify.com/artist/6Zd7AjXsoLaweP9FHyudVC) | [Charcoal Grace](https://open.spotify.com/album/2XZiBGEBzo5PqSMjgGV6IS) | 7:47 |
 | 69 | [Carbonized](https://open.spotify.com/track/4kqYSyIRLk3rxgke3cWflX) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Carbonized](https://open.spotify.com/album/4ed59wqSiswxbsBfh2jP7r) | 3:45 |
-| 70 | [Martyr](https://open.spotify.com/track/3sRWzDsE5oZ0IKpJwpzpqn) | [REFORMED](https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Martyr](https://open.spotify.com/album/5GOEsQsOCKxSCmoszlAHyD) | 4:53 |
-| 71 | [Metamorph](https://open.spotify.com/track/5vAJ34CDAMijpywxBxyupZ) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Metamorph](https://open.spotify.com/album/21lxVQoHeVUJ74qKXO03NP) | 2:44 |
+| 70 | [Metamorph](https://open.spotify.com/track/5vAJ34CDAMijpywxBxyupZ) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Metamorph](https://open.spotify.com/album/21lxVQoHeVUJ74qKXO03NP) | 2:44 |
+| 71 | [Martyr](https://open.spotify.com/track/3sRWzDsE5oZ0IKpJwpzpqn) | [REFORMED](https://open.spotify.com/artist/1b36TEx0Pvv72Mn1WBwKfF), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Martyr](https://open.spotify.com/album/5GOEsQsOCKxSCmoszlAHyD) | 4:53 |
 | 72 | [Don't Wake The Dead](https://open.spotify.com/track/1AxTJaBxuMzdXFhRHQfUMz) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [I Am](https://open.spotify.com/album/7sJ0AkZceIdAKYiYYjKlwp) | 4:07 |
 | 73 | [Flow](https://open.spotify.com/track/0FB5RGj1qwh4x8grFbiYDn) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj), [Syncatto](https://open.spotify.com/artist/3CJshVeVyOmL8H1RlcXiIX) | [Flow](https://open.spotify.com/album/0tJxWTiYYvX7drrvzc2l5G) | 3:05 |
 | 74 | [Empire](https://open.spotify.com/track/16nbE9hcJZ8OIYxmtAFOio) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Charismatic Leaders](https://open.spotify.com/album/6cEt44K9fifMdnTxMEyds7) | 4:20 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 112 | [Neil](https://open.spotify.com/track/7wiVnVgNhPICJsAIf8O00A) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Talk](https://open.spotify.com/album/43pfkcNETmbajTLpxDfyMx) | 3:39 |
 | 113 | [At Races](https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0) | [Messa](https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D) | [At Races](https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3) | 5:59 |
 | 114 | [Fate of Man](https://open.spotify.com/track/2MGmRnEMvhnmXOwXZow44X) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Revel In Time](https://open.spotify.com/album/59eeYsYn4KBOtOtAPCESVW) | 5:29 |
-| 115 | [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:04 |
-| 116 | [Fend You Off](https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Fend You Off](https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV) | 3:51 |
+| 115 | [Fend You Off](https://open.spotify.com/track/2vw9pwB7AWwDENAmq1zBlV) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Fend You Off](https://open.spotify.com/album/7HFYz0fonPkHyxqAiJ1peV) | 3:51 |
+| 116 | [+ kristallfågel +](https://open.spotify.com/track/5x71gpk1LZjD92Vh5wwR97) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ kristallfågel +](https://open.spotify.com/album/3HfGHNagqAhlOcBTubVg3u) | 4:04 |
 | 117 | [Silently Walking Alone](https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Silently Walking Alone](https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J) | 4:05 |
 | 118 | [The Stargate \[Tablet I\]](https://open.spotify.com/track/6FCnWu5zcWDoeScwYayLv6) | [Blood Incantation](https://open.spotify.com/artist/6FGv87WQ3mJWn3cmLUww6x) | [The Stargate](https://open.spotify.com/album/74QYxU9qmoLzkuHp4RdCGP) | 8:20 |
 | 119 | [Presence](https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH) | [Rendezvous Point](https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp) | [Dream Chaser](https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE) | 4:40 |

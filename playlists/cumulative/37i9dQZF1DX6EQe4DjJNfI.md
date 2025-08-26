@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-303 songs - 15 hr 36 min
+304 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Cadê Aquele Nosso Amor \- Ao Vivo](https://open.spotify.com/track/422sUCkF4qs7gOImkoBhBw) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 3:04 | 2023-12-09 | 2024-03-02 |
 | [Caixa Postal](https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Caixa Postal](https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR) | 3:03 | 2023-09-01 |  |
 | [calma](https://open.spotify.com/track/5HDIwU7a2S5sfP7QMEgS9N) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Douglas Moda](https://open.spotify.com/artist/18q7YToGWoBgzYaveHz6HK) | [Dois](https://open.spotify.com/album/5NRBahRXTDabcbEVvCGtAm) | 4:03 | 2023-11-10 | 2024-03-09 |
+| [CAM GIRL](https://open.spotify.com/track/0b7fhIHDFwmzwOcVCQvB2Y) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [CAM GIRL](https://open.spotify.com/album/2UDItWXKVZ4hhrsjMR3xks) | 3:00 | 2025-08-25 |  |
 | [Cansei De Chorar Seu Nome](https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P) | [Rafael Stonne](https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj), [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [LAN](https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o) | [Cansei De Chorar Seu Nome](https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf) | 3:44 | 2024-12-06 |  |
 | [Caos](https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c) | [Annick](https://open.spotify.com/artist/7MBC4MpNfqH87jfzeZn3tE), [Lezin](https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Caos](https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD) | 3:00 | 2023-04-07 | 2023-06-24 |
 | [Casual](https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [Casual](https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu) | 3:30 | 2022-11-18 | 2024-03-23 |
@@ -292,7 +293,7 @@
 | [tudo com você vira arte](https://open.spotify.com/track/63qiEme3qWfjJlkcRqdhdk) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [tudo com você vira arte](https://open.spotify.com/album/1CyRf28cqFaHTeYvFgmuPq) | 2:40 | 2024-09-13 |  |
 | [Tudo Que Eu Sempre Quis](https://open.spotify.com/track/4fKDzsmTnCqFiRBZpReHiE) | [JovemBlues](https://open.spotify.com/artist/2ZHImurdtryvP7qUCFdDZH), [Dos Anjos](https://open.spotify.com/artist/1082w5hRcoRGY04f8T2Tmn) | [Tudo Que Eu Sempre Quis](https://open.spotify.com/album/5T2DVfz1CJguGF8AYiAOm5) | 2:33 | 2025-03-21 |  |
 | [Tudo Que Restou](https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA), [UGOTZ](https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625) | [Tudo Que Restou](https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK) | 3:18 | 2022-11-18 | 2024-12-21 |
-| [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 | 2024-09-13 |  |
+| [Tão Crazy](https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theodoro Nagô](https://open.spotify.com/artist/0vnGW0KMgsZeWNTHCQGTE4) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:09 | 2024-09-13 | 2025-08-26 |
 | [tô por você](https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc) | [NEM TUDO É AMOR](https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv) | 2:53 | 2024-09-27 |  |
 | [Uh Baby](https://open.spotify.com/track/4TFkGwVXA2bSTwjQIbRsy2) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Cuz I Feel It](https://open.spotify.com/album/5ssQTFJaXPzUpFLfe3doD3) | 3:13 | 2024-09-27 | 2024-10-05 |
 | [Uma Chance](https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO) | [Crod](https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j) | [Uma Chance Pra Ficar Tudo bem](https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3) | 2:34 | 2022-11-18 | 2024-09-14 |

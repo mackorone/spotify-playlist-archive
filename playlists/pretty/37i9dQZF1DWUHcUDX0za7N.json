@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: ODUMODUBLVCK",
-  "num_followers": 68325,
+  "num_followers": 68413,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 169285,
+      "name": "LEGOLAS",
+      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 138614,
       "name": "Al-Jannah",
       "url": "https://open.spotify.com/track/0mCxHKr5bp05PMdD7jU4rW"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "LEGOLAS",
-      "url": "https://open.spotify.com/track/0OWPr4POCQ7iH9BGmTxOZV"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
-        "name": "HEIS",
-        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 137684,
-      "name": "OZEBA",
-      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
         "name": "Free Service",
         "url": "https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW"
       },
@@ -375,26 +359,38 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
+        "name": "PITY THIS BOY",
+        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
       },
       "artists": [
         {
-          "name": "joki",
-          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Mugisho",
-          "url": "https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 153997,
-      "name": "Malaika",
-      "url": "https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi"
+      "duration_ms": 165000,
+      "name": "PITY THIS BOY (with Victony)",
+      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
+        "name": "HEIS",
+        "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 137684,
+      "name": "OZEBA",
+      "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -415,22 +411,26 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
-        "name": "PITY THIS BOY",
-        "url": "https://open.spotify.com/album/60XSboTgnZCbxyMfje4CPk"
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/7lL6Y1meW33YLH60oSaaoN"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "joki",
+          "url": "https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Mugisho",
+          "url": "https://open.spotify.com/artist/3KRCoMtReqUVKI38p5aWHw"
         }
       ],
-      "duration_ms": 165000,
-      "name": "PITY THIS BOY (with Victony)",
-      "url": "https://open.spotify.com/track/32ricrpPgci8zrxFBpLBI6"
+      "duration_ms": 153997,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/6OLsNF93NAkdaWJXQev6Xi"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -491,6 +491,30 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
+        "name": "THE MACHINE IS COMING",
+        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
+        },
+        {
+          "name": "Valentino Rose",
+          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "TOY GIRL (with Juno & Valentino Rose)",
+      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -507,6 +531,38 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
+        "name": "Hat-Trick",
+        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        }
+      ],
+      "duration_ms": 137892,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM"
+      },
+      "artists": [
+        {
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        }
+      ],
+      "duration_ms": 126214,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -547,62 +603,6 @@
       "duration_ms": 168138,
       "name": "Sin City",
       "url": "https://open.spotify.com/track/2Zju2Flw73tLPQNEfqu9gJ"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/2IYHliuJCkUkswU1sb3XHM"
-      },
-      "artists": [
-        {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        }
-      ],
-      "duration_ms": 126214,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/02h7LkDcneD5ucrBtWynF3"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "Hat-Trick",
-        "url": "https://open.spotify.com/album/3jSB9yCl5M97zQTNeR8DNo"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        }
-      ],
-      "duration_ms": 137892,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jEEHhGcHpAbzqQuQPylOT"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "THE MACHINE IS COMING",
-        "url": "https://open.spotify.com/album/36U8302LdYPvDkPFs8MlBZ"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        },
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is"
-        },
-        {
-          "name": "Valentino Rose",
-          "url": "https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "TOY GIRL (with Juno & Valentino Rose)",
-      "url": "https://open.spotify.com/track/3iHp95MVzN1hBiOuR0cJmy"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -707,26 +707,6 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
-        "name": "US",
-        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
-      },
-      "artists": [
-        {
-          "name": "Swayvee",
-          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        }
-      ],
-      "duration_ms": 139047,
-      "name": "US",
-      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 144657,
       "name": "Forget",
       "url": "https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
+        "name": "US",
+        "url": "https://open.spotify.com/album/1HpxshaCESBT4OA7i8mY7X"
+      },
+      "artists": [
+        {
+          "name": "Swayvee",
+          "url": "https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "duration_ms": 139047,
+      "name": "US",
+      "url": "https://open.spotify.com/track/2dVhrkNkcQQi4D3oLfxNkw"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 136732,
+      "name": "Hello Habibi",
+      "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
         "name": "G.O.A.T",
         "url": "https://open.spotify.com/album/6vNtI8WqFszCyAQhGlShtF"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 163444,
       "name": "THERAPY SESSION",
       "url": "https://open.spotify.com/track/6V25a6msBFeOLjIynVhWgx"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 136732,
-      "name": "Hello Habibi",
-      "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -919,6 +919,50 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
+        "name": "Lazy Baby",
+        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "duration_ms": 126131,
+      "name": "Lazy Baby",
+      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
+        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
+        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 163468,
+      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
+      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
         "name": "DSC",
         "url": "https://open.spotify.com/album/5yEQEggZjhNNLMz8jY4n3r"
       },
@@ -959,22 +1003,6 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
-        "name": "Lazy Baby",
-        "url": "https://open.spotify.com/album/4EAhkQ3E7yUXGMVYkgXTTh"
-      },
-      "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        }
-      ],
-      "duration_ms": 126131,
-      "name": "Lazy Baby",
-      "url": "https://open.spotify.com/track/5DaYJuywGnucxxv8HRlkUl"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
         "name": "444PLAY",
         "url": "https://open.spotify.com/album/2cPlLYr25YG9fHF0u2meRT"
       },
@@ -995,34 +1023,6 @@
       "duration_ms": 154960,
       "name": "i2SABI",
       "url": "https://open.spotify.com/track/2lp9VBNpTnwBkzexrdS2K4"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
-        "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 163468,
-      "name": "Synchro System (feat. Pheelz, Young Jonn & Lil Kesh)",
-      "url": "https://open.spotify.com/track/4OXlgrOv4FtLuMnuqsI69c"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
+        "name": "Folasade",
+        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Folasade",
+      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
         "name": "NOTHING CHANGED",
         "url": "https://open.spotify.com/album/3WzeQmmXZLjWi7VMt7Pl7S"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 180530,
       "name": "ASAMPETE",
       "url": "https://open.spotify.com/track/1J9cc7U4jyaOgoCJ7Nssmf"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "Folasade",
-        "url": "https://open.spotify.com/album/1M6bYAJ0BlpTvH9GpJBvPN"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Folasade",
-      "url": "https://open.spotify.com/track/4vSmuYwg5da3fheZ9HcNi5"
     },
     {
       "added_at": "2025-08-22 06:23:50",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
+        "name": "Vibration",
+        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        }
+      ],
+      "duration_ms": 181764,
+      "name": "Vibration",
+      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
         "name": "The Shift (feat. Cruel Santino, Knucks & Jeriq)",
         "url": "https://open.spotify.com/album/7kxwXRVkyYBzn3UgzmUdhP"
       },
@@ -1327,42 +1347,6 @@
     {
       "added_at": "2025-08-22 06:23:50",
       "album": {
-        "name": "Vibration",
-        "url": "https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
-        }
-      ],
-      "duration_ms": 181764,
-      "name": "Vibration",
-      "url": "https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
-        "name": "I No Be God",
-        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "I No Be God",
-      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
-    },
-    {
-      "added_at": "2025-08-22 06:23:50",
-      "album": {
         "name": "Forever (feat. Shallipopi)",
         "url": "https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 155883,
       "name": "Forever (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08"
+    },
+    {
+      "added_at": "2025-08-22 06:23:50",
+      "album": {
+        "name": "I No Be God",
+        "url": "https://open.spotify.com/album/1XXEd7C4V7evuhzCC1aYtw"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "I No Be God",
+      "url": "https://open.spotify.com/track/5UKw7UJwERhxfjftBGobDD"
     }
   ],
   "unique_name": "Naija Bars ",

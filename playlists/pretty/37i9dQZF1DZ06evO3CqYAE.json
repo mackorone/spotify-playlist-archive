@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 13335,
+  "num_followers": 13336,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAACr6wBrsTAcCrBKIGirr2Kc",
+  "snapshot_id": "aKpWAAAAAABM5kI+zq9R2a+2Zf3VBsPz",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
+        "name": "Oyoyo Chukwu",
+        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
       "artists": [
         {
-          "name": "Samsong",
-          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
-        },
-        {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Israel Dammy",
+          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
+        },
+        {
+          "name": "EeZee Tee",
+          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 375563,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
+      "duration_ms": 317986,
+      "name": "Oyoyo Chukwu",
+      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
     },
     {
       "added_at": null,
@@ -751,26 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oyoyo Chukwu",
-        "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/473sA5uXcDEmZaiyehhnOR"
       },
       "artists": [
         {
+          "name": "Samsong",
+          "url": "https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS"
+        },
+        {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Israel Dammy",
-          "url": "https://open.spotify.com/artist/0SQOumbt8n4qp5YkfG491a"
-        },
-        {
-          "name": "EeZee Tee",
-          "url": "https://open.spotify.com/artist/25LbjRDnpYV85ipbuIV5s7"
         }
       ],
-      "duration_ms": 317986,
-      "name": "Oyoyo Chukwu",
-      "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+      "duration_ms": 375563,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/4oaP5L5MMPyIjRKA7hr0ya"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAADWUkOahVRsh/9owKX7zOCy",
+  "snapshot_id": "aKpWAAAAAAA8O0+YUOEit+/rFnmtqoqI",
   "tracks": [
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acredite",
-        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 304210,
-      "name": "Acredite",
-      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 349984,
       "name": "Deus do Amanh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acredite",
+        "url": "https://open.spotify.com/album/64d1ePypGZFgGwXL2ZoWk7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 304210,
+      "name": "Acredite",
+      "url": "https://open.spotify.com/track/1mdMSYPevGNZMfGnSWCxzN"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Mais Que Vencedor",
-      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 424985,
       "name": "Cicatrizes - Ao Vivo",
       "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "Mais Que Vencedor",
+      "url": "https://open.spotify.com/track/2QBRoV43fAg9flDyVgos1C"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Far\u00e1s Outra Vez",
-        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
-      },
-      "artists": [
-        {
-          "name": "Marcos Freire",
-          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 246998,
-      "name": "Far\u00e1s Outra Vez",
-      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -503,6 +483,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Far\u00e1s Outra Vez",
+        "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
+      },
+      "artists": [
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 246998,
+      "name": "Far\u00e1s Outra Vez",
+      "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sempre Foi Deus",
-        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 284583,
-      "name": "Sempre Foi Deus",
-      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Limite (Ao Vivo)",
         "url": "https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 278613,
       "name": "Limite (Ao Vivo)",
       "url": "https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sempre Foi Deus",
+        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 284583,
+      "name": "Sempre Foi Deus",
+      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 294053,
-      "name": "Tudo que Deus Falou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
+      "duration_ms": 219906,
+      "name": "Cuidando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
     },
     {
       "added_at": null,
@@ -660,9 +660,29 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Cuidando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
+      "duration_ms": 294053,
+      "name": "Tudo que Deus Falou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4fjPQ2wFE3R3vYEXR0w4wd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
       "duration_ms": 393986,
       "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
       "url": "https://open.spotify.com/track/0jl5MElelZG8K8qH3XEn0L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 280615,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+        "name": "Vazio",
+        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 311450,
-      "name": "Barulho de Milagre",
-      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
+      "duration_ms": 309636,
+      "name": "Vazio",
+      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vazio",
-        "url": "https://open.spotify.com/album/2zfFusFI8xDJRGdDY1pyYR"
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 309636,
-      "name": "Vazio",
-      "url": "https://open.spotify.com/track/4GcFLWd9UDa55Hy8TAU0FE"
+      "duration_ms": 311450,
+      "name": "Barulho de Milagre",
+      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
     },
     {
       "added_at": null,

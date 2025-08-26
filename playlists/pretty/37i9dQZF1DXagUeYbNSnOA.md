@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring KORDELYA\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,457 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,465 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [idealizarte](https://open.spotify.com/track/0t7k9jXe66YTUDKN5hkemu) | [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu) | [idealizarte](https://open.spotify.com/album/4zZUqhrHQLKrwK2x6VURud) | 3:34 |
 | 50 | [Hago lo que sea](https://open.spotify.com/track/0evkpx5xUnRiwo6fbZF2Ov) | [Michi Sanz](https://open.spotify.com/artist/3upPawRH8B04mVJR5p0ZVx) | [Hago lo que sea](https://open.spotify.com/album/1iWLpyQGKIC2aRkI3c4cYZ) | 3:14 |
 
-Snapshot ID: `AAAAAMy8XXBxTWeEH6KmUG2ZP2wfNpct`
+Snapshot ID: `AAAAAPZTxvrwjU7d6dnlryaMbo/2jALu`

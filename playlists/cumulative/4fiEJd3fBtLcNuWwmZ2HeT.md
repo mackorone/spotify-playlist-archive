@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-333 songs - 18 hr 58 min
+335 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [S.A.D.](https://open.spotify.com/track/4OQmtaiFOKGOgkaw9urJ0B) | [nihosika](https://open.spotify.com/artist/7fUfK1XiSvJAVxIuqhjzL4) | [S.A.D.](https://open.spotify.com/album/2kL33iFtvDOCGOQB8wAUtk) | 3:13 | 2024-07-01 |  |
 | [Scorched Cranberries](https://open.spotify.com/track/7CFsEDBswHlZlC0tv6OJdd) | [Leon Riskin](https://open.spotify.com/artist/3sESZxzkq5C0PEceARiS4v) | [Five Nights at Freddy's: Help Wanted 2 \(Original Game Soundtrack\)](https://open.spotify.com/album/3Kpo1RHEdCHh9Fn8jbQUgA) | 1:37 | 2024-04-22 |  |
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
+| [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 | 2025-08-25 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-14 |  |
 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |
 | [SISTERS](https://open.spotify.com/track/4vvqRZm4dXnzP07bUGoCj5) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [misérable](https://open.spotify.com/album/1C8X9L62l1qMjyDQjqK5gt) | 2:59 | 2025-06-30 |  |
@@ -259,6 +260,7 @@
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2024-09-08 |  |
 | [ムーンライトロマンス](https://open.spotify.com/track/3p1mXMqfdh9Ehff5nFXm95) | [hockrockb](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [朝の迎え方](https://open.spotify.com/album/1DQo11k6IX9kBk3j7ZeCIb) | 3:08 | 2025-07-14 |  |
 | [メンヘラじゃないもん!](https://open.spotify.com/track/24E0iUwAK5CI2uUxucydxe) | [勇魚](https://open.spotify.com/artist/515c1YJxPvInDVwQbFvPvf) | [メンヘラじゃないもん!](https://open.spotify.com/album/1YO5k5RbPMiXCOp8YQG0vk) | 3:16 | 2024-08-06 |  |
+| [モニタリング](https://open.spotify.com/track/03xt11xuwiqUQBMYKwEWKz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [TRANSFORM](https://open.spotify.com/album/0hOIEdxWNyYEUrAjDNsphA) | 2:56 | 2025-08-25 |  |
 | [ラグトレイン](https://open.spotify.com/track/4bdwEiJuBhWIkPKSVjyjiA) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 4:12 | 2022-11-25 |  |
 | [ラストリゾート](https://open.spotify.com/track/5HcOVExZgUjPubONiRs7JB) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [幽霊東京 \(digital edition\)](https://open.spotify.com/album/6nYldEYDHm0Qjd5Cxhv321) | 3:08 | 2024-09-16 |  |
 | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/track/5R3XD7aR25OcI6qimQU91Z) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ラブカ？ \(feat\. Ado\)](https://open.spotify.com/album/54t8GGGwqraTv779NBRZas) | 3:05 | 2023-12-04 |  |

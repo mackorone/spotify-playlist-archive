@@ -2492,6 +2492,24 @@
     {
       "album": {
         "name": "a good man with a broken heart",
+        "url": "https://open.spotify.com/album/1OT3nH3sg1BIaDkj3cCjy1"
+      },
+      "artists": [
+        {
+          "name": "LoVibe.",
+          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "a good man with a broken heart",
+      "url": "https://open.spotify.com/track/07fNxq0gkGFZpAYCTd0v2A"
+    },
+    {
+      "album": {
+        "name": "a good man with a broken heart",
         "url": "https://open.spotify.com/album/5iXPWxmR7FviawAtso2SWH"
       },
       "artists": [
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 118726,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/2Is9PgrKMBJQscOjiAX1QB"
@@ -49749,6 +49767,24 @@
     },
     {
       "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
+    },
+    {
+      "album": {
         "name": "DIRTIESTNASTIEST$UICIDE",
         "url": "https://open.spotify.com/album/7mxSvZIgElLmVTdUfVNQFz"
       },
@@ -70528,7 +70564,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 182016,
       "name": "Takedown",
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
@@ -72672,7 +72708,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 255609,
       "name": "The Highs & The Lows (feat. Joey BadA$$)",
       "url": "https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18"
@@ -77622,10 +77658,28 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 283000,
       "name": "Unlike Me",
       "url": "https://open.spotify.com/track/2SynIirzfjbQE8fCAYlfRS"
+    },
+    {
+      "album": {
+        "name": "Melankton",
+        "url": "https://open.spotify.com/album/2NzMudtTNLFDvocuGWUKIX"
+      },
+      "artists": [
+        {
+          "name": "Kate Havnevik",
+          "url": "https://open.spotify.com/artist/6lb32Pf1I52GnEfnDlu9FR"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283014,
+      "name": "Unlike Me",
+      "url": "https://open.spotify.com/track/2wMFYDBxpzEzx7oaprQOjA"
     },
     {
       "album": {
@@ -80796,7 +80850,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 187600,
       "name": "Wet Hair",
       "url": "https://open.spotify.com/track/52do0UW8A6zxZaZh5ptCAg"

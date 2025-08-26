@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,885 likes - 175 songs - 10 hr 18 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 131,884 likes - 177 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 47 | [Thong Song](https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg) | [Unleash The Dragon](https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm) | 4:13 |
 | 48 | [PATCHWORK \- Radio Edit](https://open.spotify.com/track/2ac8KmR69enHJubRQpp4aW) | [CĖLINE CADDEÖ](https://open.spotify.com/artist/3JREZW2Twp1ppvXlRjRnrn) | [PATCHWORK \(Radio Edit\)](https://open.spotify.com/album/4385VlJrWJcltNcEjz4TXJ) | 3:05 |
 | 49 | [all i need](https://open.spotify.com/track/1zvGo8mzI4M0eAvqJcxoTE) | [DvDx](https://open.spotify.com/artist/3I82hW38FyHDbJXOmdH1h0) | [said2u](https://open.spotify.com/album/467PFkk4iTZMkoH6jk1igd) | 1:51 |
-| 50 | [WORTHY](https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5) | [Omari Dreams](https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3) | [WORTHY](https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG) | 2:09 |
+| 50 | [Little Bit of Light](https://open.spotify.com/track/71I1Yl9zOwXVoWu1GTl5Ll) | [Younger Sun](https://open.spotify.com/artist/6bJSDuXPtZoQbQHue5ABky) | [Little Bit of Light](https://open.spotify.com/album/2puUxRCJuIArUeCR8zeLfF) | 2:51 |
 | 51 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
 | 52 | [Good Grief](https://open.spotify.com/track/0OFOf0vAz1EL18MtIPRoOo) | [Mathilde Widding](https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb) | [Good Grief](https://open.spotify.com/album/3XrXDoZw5v4MDI9vlqhWyc) | 3:49 |
 | 53 | [Lie To Yourself](https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Apothecary \(Pt\. 1\)](https://open.spotify.com/album/4uNTvzrQZ2v3bHNlm6G0m9) | 2:32 |
@@ -172,16 +172,18 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 162 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
 | 163 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 164 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
-| 165 | [GIRLS GIRLS](https://open.spotify.com/track/1CDNquzBCY7VPkeajRLv18) | [Chase Mvsic](https://open.spotify.com/artist/5fsRbeNqh4oBtH3Bik1tI9) | [GIRLS GIRLS](https://open.spotify.com/album/1lwFBI1H9YE9wj7xc0MKST) | 2:47 |
-| 166 | [Cuddle Season \- Radio Edit](https://open.spotify.com/track/3lTiIzGTwNElDXxvy94yqx) | [Ntrēgue](https://open.spotify.com/artist/6lQ2lwY3u8CeLcovKsJ5LC) | [Cuddle Season \(Radio Edit\)](https://open.spotify.com/album/7bvYcnBJQYvZcpNj4d9iRe) | 4:50 |
-| 167 | [Casino](https://open.spotify.com/track/03qcruZcC6LWHlCNgHrZeC) | [McKay](https://open.spotify.com/artist/1QgAt97uRD3XY9G0YaL5Dp) | [Casino](https://open.spotify.com/album/4SIDoWmpa9cCFTO0jCT91N) | 3:39 |
-| 168 | [Reminisce](https://open.spotify.com/track/2e0codZw2FSkPASVDNii4w) | [DONNIE](https://open.spotify.com/artist/3R8rQ1tByOHfnPPEUosAtD), [Maejor Jermaine](https://open.spotify.com/artist/1NaFJVnocbOtyPouGNVeT9) | [Reminisce](https://open.spotify.com/album/5X2y2KkEomIXr9tw47BrbR) | 3:13 |
-| 169 | [Deep As You](https://open.spotify.com/track/4TZQfo8otB5FD4B1Zo3Fk7) | [Tommy Lee James](https://open.spotify.com/artist/2K3oUlBUYEhyiQvTK8xddm) | [Deep As You](https://open.spotify.com/album/579ZUkQk1qVNtBejOUzrv0) | 3:41 |
-| 170 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 |
-| 171 | [I Tried](https://open.spotify.com/track/3NkGOMpRYm1dvZbP4Ox3Qj) | [Abel Skarz](https://open.spotify.com/artist/5ELxc8Gdyad067U7AQlBgf) | [I Tried](https://open.spotify.com/album/1nZD23gPirMXGGV1TUafA1) | 2:45 |
-| 172 | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/track/7uGIrSB669kY1q65R1vRTQ) | [Alfreda](https://open.spotify.com/artist/76h1KZm11oBfisNBwHuBzA) | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/album/2NBpuxM6dy7ejJEFYUkjmP) | 3:52 |
-| 173 | [flying by](https://open.spotify.com/track/5Tu4wE6GBuI4N777jTlZjT) | [elle j.](https://open.spotify.com/artist/2NT7hw8RUTe0WWE8iH4SFg) | [.27 CRISIS](https://open.spotify.com/album/228SxGKprFbFfya5x45xd7) | 3:10 |
-| 174 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 |
-| 175 | [Refresh](https://open.spotify.com/track/3r1uZnqfCwUFK1KV3bjH42) | [Jawson Dell](https://open.spotify.com/artist/6qjNqBZgGz4gXV8puoJbXl) | [Refresh](https://open.spotify.com/album/0f563gNCAM6pSgqc36aiHb) | 4:09 |
+| 165 | [Throw My Head Out The Window](https://open.spotify.com/track/1EohPmtFryDTfEqgN09TaE) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Throw My Head Out The Window](https://open.spotify.com/album/73WJXd1GkYjvZOvBHEI7PK) | 4:52 |
+| 166 | [WORTHY](https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5) | [Omari Dreams](https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3) | [WORTHY](https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG) | 2:09 |
+| 167 | [GIRLS GIRLS](https://open.spotify.com/track/1CDNquzBCY7VPkeajRLv18) | [Chase Mvsic](https://open.spotify.com/artist/5fsRbeNqh4oBtH3Bik1tI9) | [GIRLS GIRLS](https://open.spotify.com/album/1lwFBI1H9YE9wj7xc0MKST) | 2:47 |
+| 168 | [Cuddle Season \- Radio Edit](https://open.spotify.com/track/3lTiIzGTwNElDXxvy94yqx) | [Ntrēgue](https://open.spotify.com/artist/6lQ2lwY3u8CeLcovKsJ5LC) | [Cuddle Season \(Radio Edit\)](https://open.spotify.com/album/7bvYcnBJQYvZcpNj4d9iRe) | 4:50 |
+| 169 | [Casino](https://open.spotify.com/track/03qcruZcC6LWHlCNgHrZeC) | [McKay](https://open.spotify.com/artist/1QgAt97uRD3XY9G0YaL5Dp) | [Casino](https://open.spotify.com/album/4SIDoWmpa9cCFTO0jCT91N) | 3:39 |
+| 170 | [Reminisce](https://open.spotify.com/track/2e0codZw2FSkPASVDNii4w) | [DONNIE](https://open.spotify.com/artist/3R8rQ1tByOHfnPPEUosAtD), [Maejor Jermaine](https://open.spotify.com/artist/1NaFJVnocbOtyPouGNVeT9) | [Reminisce](https://open.spotify.com/album/5X2y2KkEomIXr9tw47BrbR) | 3:13 |
+| 171 | [Deep As You](https://open.spotify.com/track/4TZQfo8otB5FD4B1Zo3Fk7) | [Tommy Lee James](https://open.spotify.com/artist/2K3oUlBUYEhyiQvTK8xddm) | [Deep As You](https://open.spotify.com/album/579ZUkQk1qVNtBejOUzrv0) | 3:41 |
+| 172 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 |
+| 173 | [I Tried](https://open.spotify.com/track/3NkGOMpRYm1dvZbP4Ox3Qj) | [Abel Skarz](https://open.spotify.com/artist/5ELxc8Gdyad067U7AQlBgf) | [I Tried](https://open.spotify.com/album/1nZD23gPirMXGGV1TUafA1) | 2:45 |
+| 174 | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/track/7uGIrSB669kY1q65R1vRTQ) | [Alfreda](https://open.spotify.com/artist/76h1KZm11oBfisNBwHuBzA) | [Ain't My Name \(You've Been Callin'\)](https://open.spotify.com/album/2NBpuxM6dy7ejJEFYUkjmP) | 3:52 |
+| 175 | [flying by](https://open.spotify.com/track/5Tu4wE6GBuI4N777jTlZjT) | [elle j.](https://open.spotify.com/artist/2NT7hw8RUTe0WWE8iH4SFg) | [.27 CRISIS](https://open.spotify.com/album/228SxGKprFbFfya5x45xd7) | 3:10 |
+| 176 | [Driving Me](https://open.spotify.com/track/2VCcKS1psI0VwShlWC8QYz) | [Ley.na](https://open.spotify.com/artist/08CRMVMr48KpO1CdmOBwvV) | [Driving Me](https://open.spotify.com/album/3fQBgPqmDy3YyE1JN6JP34) | 4:04 |
+| 177 | [Refresh](https://open.spotify.com/track/3r1uZnqfCwUFK1KV3bjH42) | [Jawson Dell](https://open.spotify.com/artist/6qjNqBZgGz4gXV8puoJbXl) | [Refresh](https://open.spotify.com/album/0f563gNCAM6pSgqc36aiHb) | 4:09 |
 
-Snapshot ID: `AAA0BmHgHBKHMzjGFCXueTZjDmKF7Nv/`
+Snapshot ID: `AAA0CiL/50CltTivNNpZOndJZkjwpikr`

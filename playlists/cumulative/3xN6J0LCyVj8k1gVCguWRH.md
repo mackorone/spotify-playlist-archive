@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,253 songs - 12 day 5 hr 49 min
+5,255 songs - 12 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2646,6 +2646,7 @@
 | [Literally](https://open.spotify.com/track/0piWzZREKci54dpb2ay9oj) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh), [Maya La Maya](https://open.spotify.com/artist/7Km6g29oJhd8E03jCeokoE) | [Remember What It Feels Like](https://open.spotify.com/album/1NeUgw9lTBNB91DNZU4loG) | 2:50 | 2023-07-15 | 2023-08-04 |
 | [Little Affliction](https://open.spotify.com/track/5kyiJcnXu1JtmvgcxTS2xv) | [Riyana Samrai](https://open.spotify.com/artist/7jlBEbJPrRMUbV65kZRt12) | [Little Affliction](https://open.spotify.com/album/2dDalBWcKKKaXwpJ7yhRNg) | 3:42 | 2025-08-22 |  |
 | [Little Beggar](https://open.spotify.com/track/60SneKsip9T4iQHvsLj4jO) | [california emo](https://open.spotify.com/artist/2eLr10Nes67zZtuXhX5e6t) | [little beggar eating staples](https://open.spotify.com/album/7BCPFu98C7N8qQ6XsEpnkb) | 3:43 | 2024-02-04 | 2024-02-16 |
+| [Little Bit of Light](https://open.spotify.com/track/71I1Yl9zOwXVoWu1GTl5Ll) | [Younger Sun](https://open.spotify.com/artist/6bJSDuXPtZoQbQHue5ABky) | [Little Bit of Light](https://open.spotify.com/album/2puUxRCJuIArUeCR8zeLfF) | 2:51 | 2025-08-25 |  |
 | [Little Miss](https://open.spotify.com/track/0UXyXVj5TRSuTRd0lU90xo) | [Naomi Jane](https://open.spotify.com/artist/24e3hF9IcHsGYNWMqwjIZv) | [Little Miss](https://open.spotify.com/album/1fXa9slJD0QvGCIhdTbVSR) | 2:25 | 2024-07-05 | 2024-07-17 |
 | [Little Ocean](https://open.spotify.com/track/0Op50dVnYV1xenZbxUzE4f) | [Jason Wade](https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE) | [Little Ocean](https://open.spotify.com/album/6ysOVcUjMykFkLJ6LH8Wp5) | 3:32 | 2023-09-23 | 2023-12-14 |
 | [Little Ol' Me](https://open.spotify.com/track/7HlrkOKdmC5QbY5SW6STm6) | [Qwiet Type](https://open.spotify.com/artist/32ikcN3vYKoOPBK3pJi69D) | [Little Ol' Me](https://open.spotify.com/album/2645Kw19YklOgfyU9k26d8) | 4:19 | 2020-05-02 | 2020-05-24 |
@@ -4611,6 +4612,7 @@
 | [throw away](https://open.spotify.com/track/7mTzqgm80Bu6WUZ4M3WltL) | [PRIV](https://open.spotify.com/artist/0jIqPF7laDAaZmSeoSzLlt) | [throw away](https://open.spotify.com/album/7awS0ZRELkB9z2dg9gnwKF) | 2:59 | 2024-06-29 | 2024-07-10 |
 | [Throw It All On Me](https://open.spotify.com/track/4EzYdkoohH5wJqccyNvChJ) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Just Shad](https://open.spotify.com/artist/6d4cow3OkL7leTkqKnQfad) | [Throw It All On Me](https://open.spotify.com/album/3u11QeneTdhktBLmrRVa6a) | 2:32 | 2024-05-20 | 2024-06-01 |
 | [Throw Me A Line](https://open.spotify.com/track/2B9BR45k0rmjGupMXyvUOM) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Sunshine Corner](https://open.spotify.com/album/3oqHKUUQalm8lqryVEt1ws) | 4:10 | 2022-01-28 | 2022-02-18 |
+| [Throw My Head Out The Window](https://open.spotify.com/track/1EohPmtFryDTfEqgN09TaE) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx) | [Throw My Head Out The Window](https://open.spotify.com/album/73WJXd1GkYjvZOvBHEI7PK) | 4:52 | 2025-08-25 |  |
 | [Throw Some Rope For Me](https://open.spotify.com/track/2B0oZFMH1QaQsHzq2xGPM5) | [James Casper](https://open.spotify.com/artist/4sWygbZempEoTjiMaIQtAO), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [Throw Some Rope For Me](https://open.spotify.com/album/6vIlkEJd52BJcUPlDwUIFU) | 1:47 | 2024-05-29 | 2024-06-10 |
 | [Thrown Down](https://open.spotify.com/track/4Jg2XNf1oHeVsGPXaIFYGC) | [Julia Logan](https://open.spotify.com/artist/1HWgpUIHDxJCLCFueK17D0) | [Faraway Nearby \(Extended Version\)](https://open.spotify.com/album/3Eg2cykX7WRdsCkkZ3VEVT) | 4:09 | 2025-01-24 | 2025-02-05 |
 | [Thunderhead](https://open.spotify.com/track/6yivu7IE6Qc8WYNovbIqd6) | [Paul Spring](https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew) | [Thunderhead](https://open.spotify.com/album/0LcI4O7Zn6bGrg55fSavVj) | 3:46 | 2022-12-09 | 2022-12-31 |

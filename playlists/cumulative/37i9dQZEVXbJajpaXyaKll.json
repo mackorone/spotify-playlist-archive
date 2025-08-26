@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Amor En Polvo",
+        "url": "https://open.spotify.com/album/0cROMxDByyxfI2kImFt2DJ"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256826,
+      "name": "Amor Loco",
+      "url": "https://open.spotify.com/track/1nTifwqhrcudWHEAJiGizN"
+    },
+    {
+      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -11574,7 +11592,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 187963,
       "name": "Free",
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
@@ -15174,7 +15192,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 178097,
       "name": "La Llaman Salvaje - Remix",
       "url": "https://open.spotify.com/track/3ic8YggPkNUAVpd1GjcN8p"
@@ -19662,7 +19680,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
@@ -20320,6 +20338,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
     },
     {
       "album": {
@@ -23664,7 +23700,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 218120,
       "name": "perfectas",
       "url": "https://open.spotify.com/track/2Syg7oH4lJ2yG2pE7QCcIv"
@@ -31779,7 +31815,7 @@
     },
     {
       "album": {
-        "name": "Tumedice <3",
+        "name": "Tumedice <3 (salas)",
         "url": "https://open.spotify.com/album/6BQrSkGTKtMXjo4kOhHrkg"
       },
       "artists": [
@@ -31792,7 +31828,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 99893,
-      "name": "Tumedice <3",
+      "name": "Tumedice <3 (salas)",
       "url": "https://open.spotify.com/track/4KDZa2tzUhSSzAmbaQPcIS"
     },
     {

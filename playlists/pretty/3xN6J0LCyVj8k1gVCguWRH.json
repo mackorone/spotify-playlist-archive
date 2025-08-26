@@ -1,12 +1,12 @@
 {
   "description": "What&#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&#x27;s taste in music. ",
-  "num_followers": 131885,
+  "num_followers": 131884,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA0BmHgHBKHMzjGFCXueTZjDmKF7Nv/",
+  "snapshot_id": "AAA0CiL/50CltTivNNpZOndJZkjwpikr",
   "tracks": [
     {
       "added_at": "2025-07-04 19:24:06",
@@ -837,20 +837,20 @@
       "url": "https://open.spotify.com/track/1zvGo8mzI4M0eAvqJcxoTE"
     },
     {
-      "added_at": "2025-08-24 23:05:17",
+      "added_at": "2025-08-25 23:51:26",
       "album": {
-        "name": "WORTHY",
-        "url": "https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG"
+        "name": "Little Bit of Light",
+        "url": "https://open.spotify.com/album/2puUxRCJuIArUeCR8zeLfF"
       },
       "artists": [
         {
-          "name": "Omari Dreams",
-          "url": "https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3"
+          "name": "Younger Sun",
+          "url": "https://open.spotify.com/artist/6bJSDuXPtZoQbQHue5ABky"
         }
       ],
-      "duration_ms": 129541,
-      "name": "WORTHY",
-      "url": "https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5"
+      "duration_ms": 171453,
+      "name": "Little Bit of Light",
+      "url": "https://open.spotify.com/track/71I1Yl9zOwXVoWu1GTl5Ll"
     },
     {
       "added_at": "2025-06-16 22:43:33",
@@ -2831,6 +2831,38 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2025-08-25 23:37:52",
+      "album": {
+        "name": "Throw My Head Out The Window",
+        "url": "https://open.spotify.com/album/73WJXd1GkYjvZOvBHEI7PK"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "Throw My Head Out The Window",
+      "url": "https://open.spotify.com/track/1EohPmtFryDTfEqgN09TaE"
+    },
+    {
+      "added_at": "2025-08-24 23:05:17",
+      "album": {
+        "name": "WORTHY",
+        "url": "https://open.spotify.com/album/1Ntld8jGPpqTLUgDKzN6dG"
+      },
+      "artists": [
+        {
+          "name": "Omari Dreams",
+          "url": "https://open.spotify.com/artist/7AoFYyqQ0e07ZclT0WNDq3"
+        }
+      ],
+      "duration_ms": 129541,
+      "name": "WORTHY",
+      "url": "https://open.spotify.com/track/1ph24gOnZKdTA8Fy9zNSB5"
     },
     {
       "added_at": "2025-08-23 23:19:51",

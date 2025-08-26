@@ -2,14 +2,15 @@
 
 ### [Best of: Coke Studio Bharat](https://open.spotify.com/playlist/37i9dQZF1DXbw9rGYPXetO)
 
-> Hottest tracks from Coke Studio Bharat\. Cover: Dhanda Nyoliwala & Xvir Grewal
+> Hottest tracks from Coke Studio Bharat\. Cover: Anuv Jain
 
-61 songs - 14 hr 38 min
+62 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahir Bhairav](https://open.spotify.com/track/1rAHJIHBTMxk5B30UzvIAZ) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/4YHYezIazOcE2FNuQr0APX) | 6:14 | 2022-07-08 | 2022-10-29 |
 | [Ahir Bhairav](https://open.spotify.com/track/3JLewKQMn2Xo9MPTFOTyFC) | [Pandit Brij Bhushan Kabra, Pandit Hariprasad Chaurasia & Pandit Shivkumar Sharma](https://open.spotify.com/artist/6MqnhMsiafcPAePqc1e22r) | [Rough Guide to Indian Classical Music](https://open.spotify.com/album/3hqdUUtLEQmxorRMI5hE0l) | 6:14 | 2022-03-03 | 2025-03-04 |
+| [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Arz Kiya Hai \| Coke Studio Bharat](https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h) | 4:54 | 2025-08-25 |  |
 | [Bayo \| Coke Studio Bharat](https://open.spotify.com/track/0tl9Sdjl9pEIhiymw1YMUy) | [Cyli Khare](https://open.spotify.com/artist/78n9RAOLkZtH6PMLf7LErN), [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M), [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS), [Curtain Blue](https://open.spotify.com/artist/6r8STBLeZpOSMiYySins15), [Girgaon Dhwajapathak](https://open.spotify.com/artist/3jn0g2zgPfjHKyX1fE5xsl) | [Bayo \| Coke Studio Bharat](https://open.spotify.com/album/1ILKU55wcEY2SHkDYZvuBJ) | 3:21 | 2025-03-03 |  |
 | [Bhimpalasri alap \(solo\)](https://open.spotify.com/track/4taHZBFG2m7D9MuSL8eLvU) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Salar Nader](https://open.spotify.com/artist/4N2l0MiamQ0lJ7vLcPSdc8) | [Shades of Sarode](https://open.spotify.com/album/2vLucVPJLppDLgSDgXEGuT) | 4:14 | 2022-03-03 | 2025-03-04 |
 | [Celebration: Raga manj khamaj](https://open.spotify.com/track/4eJ8C6nGTK7G8GtlgXpfW9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Tanmoy Bose](https://open.spotify.com/artist/3WQoD0L9z8eoD8b0m74dPl), [Kenji Ota](https://open.spotify.com/artist/040krAnKe0UWfJkm7NBMyT) | [Home](https://open.spotify.com/album/7yzxuIjdVvqj6xbT9N7G8X) | 18:25 | 2022-03-03 | 2025-03-04 |

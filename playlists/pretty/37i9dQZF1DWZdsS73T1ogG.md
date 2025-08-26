@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Danny Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,631 likes - 183 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,616 likes - 183 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 133 | [MUA](https://open.spotify.com/track/6pUNIWH6PDZ9QVdyupnDQy) | [SAI](https://open.spotify.com/artist/3hDZ1fLtdLgmpWkbpjaf3x), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Sergio Acosta](https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw), [Mauro Dembow](https://open.spotify.com/artist/0YMgAVpGRw5rTCBCC1YufD) | [MUA](https://open.spotify.com/album/29mwnVYD7cNR0uMsnBg8Fk) | 3:03 |
 | 134 | [FREEBARS \#3](https://open.spotify.com/track/704sCiLlE5FjPm3d4Gwxqt) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd) | [Trece](https://open.spotify.com/album/2WvPZwDVFO1r87hmaOWOP0) | 2:24 |
 | 135 | [YO y TÚ](https://open.spotify.com/track/7koAf6aZgjO6TS7bipfPD0) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [YO y TÚ](https://open.spotify.com/album/1PxEMXkwLR7sfCMAuX50jM) | 3:18 |
-| 136 | [Jetski](https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Jetski](https://open.spotify.com/album/4Dk1uW3ZKuBGVB7dzangr8) | 2:43 |
+| 136 | [Jetski](https://open.spotify.com/track/0M4FCnAqtMJUDwPEiK3hqz) | [Randy Nota Loca](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Jetski](https://open.spotify.com/album/4Dk1uW3ZKuBGVB7dzangr8) | 2:43 |
 | 137 | [Batería Baja](https://open.spotify.com/track/4ApaUjEsujno045MqbXAvY) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Batería Baja](https://open.spotify.com/album/6Ftsah4qbPB8y11hJgEkqo) | 2:59 |
 | 138 | [CHEROKEE RMX \- Remix](https://open.spotify.com/track/3sADWXuKGeGcprocykh67J) | [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Ak–Boyz](https://open.spotify.com/artist/3JerkQMiofnR6Ciot3l0bt) | [CHEROKEE RMX \(Remix\)](https://open.spotify.com/album/4U7MjT7JnGYGK3DL7VhLnu) | 3:52 |
 | 139 | [BVP](https://open.spotify.com/track/1QtMg0QdowEMy3FchaBU1Q) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [BVP](https://open.spotify.com/album/76eulCm4sfCu6gEciUVHbP) | 2:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,309 likes - 251 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,310 likes - 251 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,8 +231,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 221 | [Workin' Hard](https://open.spotify.com/track/30KHfXcIfKyiDBojwclxy7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box: 30th Anniversary Edition](https://open.spotify.com/album/1GzBLltCCKsiIJM3T3AWj3) | 3:29 |
 | 222 | [He Carves The Roast Beast \(Includes 'Welcome Christmas'\)](https://open.spotify.com/track/49FESktMRSRCny8wJmePIc) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Dr\. Seuss' How the Grinch Stole Christmas \(Original Motion Picture Soundtrack\) \- Expanded Edition](https://open.spotify.com/album/5UTagyRGjK71V8fzE1Q6XO) | 3:11 |
 | 223 | [Twister](https://open.spotify.com/track/6ir913NDSSNPEFrvoE3mwT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 2:26 |
-| 224 | [Triumphant \- Pulse Club Mix](https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Josh Abraham](https://open.spotify.com/artist/0fI7XTbV15bFnDfievQtmD), [Oligee](https://open.spotify.com/artist/1FR7xzV2leZ9lE9Ykqelyv), [U\-Tern](https://open.spotify.com/artist/2MOItYWcmLgA2E2OrjK759) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 5:28 |
-| 225 | [Secret Love](https://open.spotify.com/track/1jpQFCa60KDXScn2ZzvwUq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:10 |
+| 224 | [Secret Love](https://open.spotify.com/track/1jpQFCa60KDXScn2ZzvwUq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:10 |
+| 225 | [Triumphant \- Pulse Club Mix](https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Josh Abraham](https://open.spotify.com/artist/0fI7XTbV15bFnDfievQtmD), [Oligee](https://open.spotify.com/artist/1FR7xzV2leZ9lE9Ykqelyv), [U\-Tern](https://open.spotify.com/artist/2MOItYWcmLgA2E2OrjK759) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 5:28 |
 | 226 | [4real4real \- Bonus Track](https://open.spotify.com/track/7o4yb0AhZFmzsp19mlfiHq) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf) | [E=MC2 \(Deluxe Version\)](https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX) | 4:13 |
 | 227 | [Always In Love](https://open.spotify.com/track/3Pj348wAxa8u94WVinDcdp) | [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [Trey Lorenz](https://open.spotify.com/album/4AoQMFNjIDh3GxonncoMTd) | 5:14 |
 | 228 | [It's Like That \- Scott Storch Remix](https://open.spotify.com/track/4AFvskSTdjU85xOicoQX7w) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01) | [The Emancipation Of Mimi \(20th Anniversary Edition\)](https://open.spotify.com/album/0O4U8aVbBcWrq38ax0T6AO) | 3:32 |
@@ -260,4 +260,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 250 | [After \- Remix Version](https://open.spotify.com/track/4zWJMHgcBBUbntI1bFCHKz) | [7 Mile](https://open.spotify.com/artist/741EOXeKh7r66ZljsRSjn7) | [Trippin' Music From The Motion Picture](https://open.spotify.com/album/0GmbB24Ge8288gpTL8U565) | 3:59 |
 | 251 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `Ab6YwAAAAAAhCxTfWL6nd+sEApzEHNq6`
+Snapshot ID: `Ab6enAAAAABd6Liu9NAg6zKuNQB5fX9s`

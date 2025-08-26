@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: MB, Souldia, White\-B, Lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,995 likes - 77 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,999 likes - 77 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

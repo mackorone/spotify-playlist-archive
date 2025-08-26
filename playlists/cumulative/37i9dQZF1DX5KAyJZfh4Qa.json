@@ -4197,6 +4197,24 @@
     },
     {
       "album": {
+        "name": "superglue",
+        "url": "https://open.spotify.com/album/3O2mBT24C2iWfra9O9QuVY"
+      },
+      "artists": [
+        {
+          "name": "Cherry Blonde",
+          "url": "https://open.spotify.com/artist/25y7fG0CNjnRHUnT5ppyYa"
+        }
+      ],
+      "date_added": "2025-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154510,
+      "name": "superglue",
+      "url": "https://open.spotify.com/track/10KY26D84N1PcxpxGhz0Vr"
+    },
+    {
+      "album": {
         "name": "Old Clothes",
         "url": "https://open.spotify.com/album/5zeB1ZGALj3ynXlCeeeSMx"
       },
@@ -4784,7 +4802,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 204286,
       "name": "What Tomorrow Brings / Requiem - Acoustic",
       "url": "https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0"

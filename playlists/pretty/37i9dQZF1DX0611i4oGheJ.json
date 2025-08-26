@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 491349,
+  "num_followers": 491394,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Just One Break (with Mon Rov\u00eea)",
         "url": "https://open.spotify.com/album/2gJk7RfpGhCKYYMa5JGFOQ"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 169296,
       "name": "Just One Break (with Mon Rov\u00eea)",
       "url": "https://open.spotify.com/track/0freWEWPeC9gFw0hTUOh53"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Years On",
-        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Years On",
-      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "postcard season",
         "url": "https://open.spotify.com/album/1jrrjvl5djCDh5fBN8ZE0q"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 172300,
       "name": "sunflower \u201824",
       "url": "https://open.spotify.com/track/4B5bFK1CWLg3MHo56HNizi"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Waves (Guitar Acoustic)",
-        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 248427,
-      "name": "Waves - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 216781,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Waves (Guitar Acoustic)",
+        "url": "https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 248427,
+      "name": "Waves - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "Steady Now",
+        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
+      },
+      "artists": [
+        {
+          "name": "William Wild",
+          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
+        }
+      ],
+      "duration_ms": 262571,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Steady Now",
-        "url": "https://open.spotify.com/album/1QMXHfs6Gccs4rq6PxoqiY"
-      },
-      "artists": [
-        {
-          "name": "William Wild",
-          "url": "https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor"
-        }
-      ],
-      "duration_ms": 262571,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/3Gsuq6GGXfKB9AwNwL87NJ"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "awe",
         "url": "https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "i leave early",
-        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 193793,
-      "name": "i leave early",
-      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
         "name": "Desert Song",
         "url": "https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 235474,
       "name": "Desert Song",
       "url": "https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
+        "name": "i leave early",
+        "url": "https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 193793,
+      "name": "i leave early",
+      "url": "https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
+        "name": "God",
+        "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 212964,
+      "name": "God",
+      "url": "https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y"
+    },
+    {
+      "added_at": "2025-06-11 19:27:11",
+      "album": {
         "name": "Such Love Does",
         "url": "https://open.spotify.com/album/7qNbPyJsIY98uut0qke5PY"
       },
@@ -1743,18 +1759,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "God",
-        "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
+        "name": "TRANSA",
+        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
       },
       "artists": [
         {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 212964,
-      "name": "God",
-      "url": "https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y"
+      "duration_ms": 263933,
+      "name": "Feel Better",
+      "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "TRANSA",
-        "url": "https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
       "artists": [
         {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Feel Better",
-      "url": "https://open.spotify.com/track/0StzhtAAdEIAcAMwDWY0kV"
+      "duration_ms": 202336,
+      "name": "Baby You're Lying",
+      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1839,18 +1855,18 @@
     {
       "added_at": "2025-06-11 19:27:11",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "Stones & Waves",
+        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Elias Hix",
+          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
         }
       ],
-      "duration_ms": 202336,
-      "name": "Baby You're Lying",
-      "url": "https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK"
+      "duration_ms": 190714,
+      "name": "Stones & Waves",
+      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
     },
     {
       "added_at": "2025-06-11 19:27:11",
@@ -1867,22 +1883,6 @@
       "duration_ms": 178417,
       "name": "Sunwarmed",
       "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
-    },
-    {
-      "added_at": "2025-06-11 19:27:11",
-      "album": {
-        "name": "Stones & Waves",
-        "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
-      },
-      "artists": [
-        {
-          "name": "Elias Hix",
-          "url": "https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV"
-        }
-      ],
-      "duration_ms": 190714,
-      "name": "Stones & Waves",
-      "url": "https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y"
     },
     {
       "added_at": "2025-06-11 19:27:11",

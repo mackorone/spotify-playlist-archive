@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Armin van Buuren, Martin Garrix &amp; Libby Whitehouse
 
-1,544 songs - 3 day 10 hr 19 min
+1,545 songs - 3 day 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,6 +1382,7 @@
 | [Timeout](https://open.spotify.com/track/6nnqkWhUY9ccFF8xj0RFpN) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP), [Dustin Husain](https://open.spotify.com/artist/0klIzsZViJgJcCX4Wh0qKl) | [Timeout](https://open.spotify.com/album/5hOwI5cNycciAnA0svapqi) | 2:55 | 2022-06-09 | 2022-07-29 |
 | [To Live](https://open.spotify.com/track/5W3oXLcRmw5xyZEeay7rBH) | [Tommy Farrow](https://open.spotify.com/artist/48PJbNNOaXy5gbHGHlar5T), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [To Live](https://open.spotify.com/album/6kIxQnSZY1FKxSWi60jueE) | 4:02 | 2022-12-01 | 2023-01-13 |
 | [To The Club](https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V) | [To The Club](https://open.spotify.com/album/6FeEAKGv25NvQLMpopmu8o) | 3:00 | 2024-07-26 | 2025-04-04 |
+| [To The Club \- Dave Leatherman & Bruce Nolan Remix](https://open.spotify.com/track/428O8AZZnDaDiUjipDxiOp) | [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V), [Dave Leatherman](https://open.spotify.com/artist/6yIn9HZS8StotrpaKwAyzV), [Bruce Nolan](https://open.spotify.com/artist/5sKnJafPSfMttoO0ZqHMO8) | [To The Club \(Dave Leatherman & Bruce Nolan Remix\)](https://open.spotify.com/album/5fCf4jHZ3sozlVsxpc8UPt) | 2:52 | 2025-08-25 |  |
 | [To The Club \- Space Motion Remix](https://open.spotify.com/track/0IMZkwnhzc7uPymH9rtUE4) | [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Armada Music \- 20 Years \(Remixed\)](https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb) | 4:14 | 2023-12-07 | 2024-04-12 |
 | [To The Club \- Space Motion Remix](https://open.spotify.com/track/3onRPrM6Qvxeqjg7TqSnNo) | [Spankox](https://open.spotify.com/artist/15VeucLAy98diDPJ0T3J2V), [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [To The Club \(Space Motion Remix\)](https://open.spotify.com/album/646kzxwiMquDYvBWx5paYo) | 4:14 | 2023-07-13 | 2023-12-14 |
 | [To The Drum](https://open.spotify.com/track/4NEMVoMjqwr5saV77JuEI8) | [PAX](https://open.spotify.com/artist/3NYySx3H1V7zHemD9hmsQv) | [To The Drum](https://open.spotify.com/album/3ur4CVV93vxuczWOTxdErS) | 2:58 | 2024-05-07 | 2024-05-10 |

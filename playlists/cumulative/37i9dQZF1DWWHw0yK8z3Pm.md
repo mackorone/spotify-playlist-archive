@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Tyler Childers
 
-563 songs - 1 day 10 hr 20 min
+564 songs - 1 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Big in the USA](https://open.spotify.com/track/0tls7zg00mH4tv3OcBVDNU) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/07SmS9p826wQOrFBYLMhxN) | 3:03 | 2023-02-03 | 2023-05-01 |
 | [Big Time](https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:07 | 2023-04-21 |  |
 | [Big Winner](https://open.spotify.com/track/75YuTb8bJxKWvG2XoFUdiv) | [St.Arnaud](https://open.spotify.com/artist/320bGhRu3ZAem1ZWjXmRA5) | [Big Winner](https://open.spotify.com/album/2RqwUCA2scfelXCOSH29rt) | 3:53 | 2022-05-13 | 2022-06-28 |
+| [Billionaire](https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Billionaire](https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS) | 4:10 | 2025-08-22 |  |
 | [Birds Go Die Out Of Sight \(Don't Go Home\) \(feat\. Allison Russell\)](https://open.spotify.com/track/2ifZiKf2QSQV4yQQzUdyUo) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Birds Go Die Out Of Sight \(Don’t Go Home\)](https://open.spotify.com/album/6q96GD9tH8GoiSO3dN1Mc0) | 4:17 | 2023-03-03 | 2023-04-22 |
 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 | 2025-08-14 |  |
 | [Bitter Winds](https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Bitter Winds](https://open.spotify.com/album/3IMFjhO4GoOADq0tFXhvGg) | 4:21 | 2024-03-01 |  |
@@ -153,7 +154,7 @@
 | [Did You Say Such A Thing \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Strictly A One\-Eyed Jack](https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY) | 3:39 | 2022-05-13 | 2022-07-23 |
 | [Do About Her](https://open.spotify.com/track/71ALgRSQ1neaZmRT2Ivj0P) | [Amanda Rheaume](https://open.spotify.com/artist/3AolL1C2j6PAqp3BuWzsRZ) | [The Spaces In Between](https://open.spotify.com/album/7m0pjaaLCwCqT7dnF6uTfi) | 3:33 | 2022-05-27 | 2022-11-12 |
 | [Dollar Bill Bar](https://open.spotify.com/track/6YmqrvUwNRWZZWNvPuDpRT) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:29 | 2025-03-07 | 2025-07-26 |
-| [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 | 2023-11-17 |  |
+| [Don't Do Me Good](https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Don't Do Me Good](https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB) | 4:13 | 2023-11-17 | 2025-08-26 |
 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 | 2022-05-13 | 2025-04-12 |
 | [Don't Go to the Valley](https://open.spotify.com/track/44mJdujuZReqLhJngEWEwy) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Don't Go to the Valley](https://open.spotify.com/album/6whjQK3XHfN7b801yKIkuc) | 3:26 | 2025-04-11 | 2025-06-14 |
 | [Don't Let Me Go](https://open.spotify.com/track/60nFcqDHiuyvhkqA74rGtI) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Don't Let Me Go](https://open.spotify.com/album/1yJaFfWN0fAAdA2azfxbzD) | 2:18 | 2024-08-16 | 2024-10-14 |

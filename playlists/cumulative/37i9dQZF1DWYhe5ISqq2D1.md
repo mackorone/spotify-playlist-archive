@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: にしな
 
-807 songs - 2 day 2 hr 47 min
+808 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -552,7 +552,7 @@
 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 | 2025-02-04 |  |
 | [ユニーク](https://open.spotify.com/track/3606lmQ20hiNNkU48a6P0Z) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [インターセクション](https://open.spotify.com/album/4SvOsDHXrcQcZ0U0pdGaob) | 2:47 | 2025-04-08 | 2025-04-16 |
 | [ユーモア](https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ユーモア](https://open.spotify.com/album/2eHiBlntcUdCv5nGbGv8Vm) | 4:27 | 2025-02-18 | 2025-07-16 |
-| [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 |  |
+| [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 | 2025-08-26 |
 | [ラジオ](https://open.spotify.com/track/0emSoLWPfSLPZsxIwAOFpU) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ラジオ](https://open.spotify.com/album/3CwuCNP2CleLnFZaYLoLm8) | 2:34 | 2025-02-18 | 2025-02-26 |
 | [ラストティーン](https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ラストティーン](https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK) | 3:38 | 2025-01-07 |  |
 | [ラストルック](https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラストルック](https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS) | 3:07 | 2025-07-15 |  |
@@ -664,6 +664,7 @@
 | [快晴浪漫](https://open.spotify.com/track/19nqy9tmxZ7GvqesKym1PR) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [快晴浪漫](https://open.spotify.com/album/2ROR9v4EDlZOLiZKRPA5py) | 4:39 | 2024-07-09 | 2024-07-17 |
 | [怪物](https://open.spotify.com/track/048PMBca62rmCNnGt4eEp0) | [Shigeru Izumiya](https://open.spotify.com/artist/2cEudNpRawXl3CAGMNYsLS) | [怪物](https://open.spotify.com/album/3fITb3Ay7HqTO4ilSCJ3yP) | 8:36 | 2025-02-11 | 2025-02-19 |
 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 | 2024-07-02 | 2024-10-16 |
+| [恋の正解](https://open.spotify.com/track/00pE3lUcyBCKZycyQYfvEG) | [和輝](https://open.spotify.com/artist/6Qs0p28Gcj5ePiMAJ5igB7), [Ina](https://open.spotify.com/artist/0pTSGOKTrQKKDobbFeIwCy) | [恋の正解](https://open.spotify.com/album/1GT7rfZWtxVoOl9gc48dS4) | 3:48 | 2025-08-19 |  |
 | [恋の量子論](https://open.spotify.com/track/2oa3Ptzoen1ePjXCzprMx3) | [渡會将士](https://open.spotify.com/artist/5K7H099LpKza4vc1cwttDe) | [恋の量子論](https://open.spotify.com/album/7aqtLymJ97ZZWg9fVfi53O) | 4:40 | 2025-04-08 | 2025-04-16 |
 | [恋をひそめて](https://open.spotify.com/track/7KfcUxHjapiDyb2nGXF0Lr) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [恋をひそめて](https://open.spotify.com/album/00qlpQtxDa0GGAtoHRaGHO) | 4:05 | 2025-01-14 | 2025-07-16 |
 | [恋心は踊る](https://open.spotify.com/track/4YbaGfMsfQi4Jj4mgQ0Qf2) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [恋心は踊る](https://open.spotify.com/album/2dSc5CdE0noNk8UYjdQvZP) | 4:47 | 2025-01-28 |  |

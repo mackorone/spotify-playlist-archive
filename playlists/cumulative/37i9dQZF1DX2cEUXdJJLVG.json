@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/51HjZb1k7sjREueebFLWs5"
+      },
+      "artists": [
+        {
+          "name": "Daan Koekelkoren",
+          "url": "https://open.spotify.com/artist/72D3GR4H3P5IUXR14gTCoF"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391451,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/3vPYYwrB9LHc6qLH1GEXuJ"
+    },
+    {
+      "album": {
         "name": "All Made Up",
         "url": "https://open.spotify.com/album/4jCnOBRxxucPjnNMr1NYGK"
       },

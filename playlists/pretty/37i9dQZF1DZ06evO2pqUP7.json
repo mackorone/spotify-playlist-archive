@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69400,
+  "num_followers": 69399,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAACQH2T9ibJ7vzjVbbDfUI+A",
+  "snapshot_id": "aKpWAAAAAADxFlEy4cuCMRMt+XlEIlXO",
   "tracks": [
     {
       "added_at": null,
@@ -1179,18 +1179,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fin De Semana",
-        "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
+        "name": "Mojadero",
+        "url": "https://open.spotify.com/album/2n9ld2fC8zstqwJmMG2z0s"
       },
       "artists": [
         {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
           "name": "Lunay",
           "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
         }
       ],
-      "duration_ms": 151562,
-      "name": "Fin De Semana",
-      "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
+      "duration_ms": 235897,
+      "name": "Mojadero",
+      "url": "https://open.spotify.com/track/5uNOpdHMpFV9RxZ0qgNGcD"
     },
     {
       "added_at": null,

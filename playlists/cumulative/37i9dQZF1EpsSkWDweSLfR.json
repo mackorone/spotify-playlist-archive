@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 177637,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/3ldc3Y0Oz8FVaXIutOSCaD"
@@ -2271,6 +2271,24 @@
     },
     {
       "album": {
+        "name": "BITE ME",
+        "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192967,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2lVgHyQt2Jp5GbcNzjqls4"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
@@ -2416,7 +2434,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 183253,
       "name": "Hallucination",
       "url": "https://open.spotify.com/track/07JJ7J8JhEztiEcczioBws"
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 193554,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/4SLDGKjU79rLXfSDWsUFXt"
@@ -4192,7 +4210,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-02",
+      "date_removed": null,
       "duration_ms": 207296,
       "name": "Music",
       "url": "https://open.spotify.com/track/4kfaLw8sMFbZ1LQxlTaS2y"
@@ -5176,6 +5194,24 @@
       "duration_ms": 220589,
       "name": "Rare",
       "url": "https://open.spotify.com/track/33iba4j2ywXqTQNEpGbfra"
+    },
+    {
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Red (Taylor's Version)",
+      "url": "https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6"
     },
     {
       "album": {
@@ -6194,7 +6230,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 204928,
       "name": "THE ONE.",
       "url": "https://open.spotify.com/track/0hEd3sp8R2i0nSvRqG6W2E"
@@ -6338,7 +6374,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 156631,
       "name": "Too Well",
       "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"

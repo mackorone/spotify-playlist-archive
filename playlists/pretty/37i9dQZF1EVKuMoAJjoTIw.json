@@ -1,60 +1,68 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWZsYkeM4kEO>Nosstress</a>, <a href=spotify:playlist:37i9dQZF1EIXMeL3314OeN>Au/Ra</a>, <a href=spotify:playlist:37i9dQZF1EIVhQyYFsE2oJ>BTS</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIW9Jqfb99tYe>Phoebe Bridgers</a>, <a href=spotify:playlist:37i9dQZF1EIVsRG8uM8iYo>Emcee L (Da LAB)</a>, <a href=spotify:playlist:37i9dQZF1EIWZo4Aq9dAjp>Bailey Zimmerman</a> and more",
   "num_followers": 0,
   "original_name": "Moody Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABqVVF9o9kXXM8TZiKtz0uv",
+  "snapshot_id": "AAAAAAAAAACpY+y+CA2UStfBIAumFRzI",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Tunjukkan Cintamu",
-        "url": "https://open.spotify.com/album/46jp728sMcelvfQkvcZhnt"
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 139208,
-      "name": "Tunjukkan Cintamu",
-      "url": "https://open.spotify.com/track/1BsZS470FaEidqkZUPOwXN"
+      "duration_ms": 264372,
+      "name": "Sidelines",
+      "url": "https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Panic Room",
-        "url": "https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM"
+        "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+        "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
       },
       "artists": [
         {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "Emcee L (Da LAB)",
+          "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
+        },
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Mu\u1ed9ii (Starry Night)",
+          "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
         }
       ],
-      "duration_ms": 237772,
-      "name": "Panic Room",
-      "url": "https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS"
+      "duration_ms": 208048,
+      "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
+      "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "FACE YOURSELF",
-        "url": "https://open.spotify.com/album/66J1OXSaS3hBZASOV3el8t"
+        "name": "Different Night Same Rodeo",
+        "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 323360,
-      "name": "Crystal Snow",
-      "url": "https://open.spotify.com/track/6NbfFVZ01Ttvvqmcok8DxL"
+      "duration_ms": 177945,
+      "name": "At The Same Time",
+      "url": "https://open.spotify.com/track/2ret2nPzPwqkkcR61gulgz"
     },
     {
       "added_at": null,

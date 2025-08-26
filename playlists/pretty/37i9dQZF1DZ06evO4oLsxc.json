@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 779,
+  "num_followers": 783,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAADalKoLur5WTWEWJkKfkc57",
+  "snapshot_id": "aKpWAAAAAADCGdBzb34QcSB1tl8KGNPu",
   "tracks": [
     {
       "added_at": null,
@@ -506,11 +506,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+      "duration_ms": 212520,
+      "name": "Perfect Divide",
+      "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
     },
     {
       "added_at": null,
@@ -578,15 +582,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 212520,
-      "name": "Perfect Divide",
-      "url": "https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv"
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
     },
     {
       "added_at": null,

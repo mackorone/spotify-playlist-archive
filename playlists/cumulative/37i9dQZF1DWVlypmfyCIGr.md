@@ -2,7 +2,7 @@
 
 ### [キラキラポップ：ジャパン](https://open.spotify.com/playlist/37i9dQZF1DWVlypmfyCIGr)
 
-> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Awesome City Club
+> 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Mega Shinnosuke
 
 9,666 songs - 24 day 0 hr 35 min
 

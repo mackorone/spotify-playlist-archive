@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 131335,
+  "num_followers": 131349,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAACdupjBviwploMmDWY/Bbxs",
+  "snapshot_id": "aKpWAAAAAACoWOrVRdipco98OWWJ4WAr",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
         "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 166573,
       "name": "The Hideous Exhibitions Of A Dedicated Gore Whore",
       "url": "https://open.spotify.com/track/372ouFqFzQKr9ZdV2HUpk2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,

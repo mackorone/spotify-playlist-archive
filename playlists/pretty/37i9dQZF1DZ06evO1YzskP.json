@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 59973,
+  "num_followers": 60009,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAABZGd+xkx7Lzo1N2kpyR/fS",
+  "snapshot_id": "aKpWAAAAAADM/K8xBqFyaB512ylqnlMt",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Alguien Me Amaba",
-        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
+        "name": "Somos Mayiza",
+        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
       },
       "artists": [
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 144514,
-      "name": "Cuando Alguien Me Amaba",
-      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+      "duration_ms": 192600,
+      "name": "Somos Mayiza",
+      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
     },
     {
       "added_at": null,
@@ -759,18 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Mayiza",
-        "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
+        "name": "Cuando Alguien Me Amaba",
+        "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
       "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Somos Mayiza",
-      "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
+      "duration_ms": 144514,
+      "name": "Cuando Alguien Me Amaba",
+      "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
     },
     {
       "added_at": null,

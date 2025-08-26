@@ -4,7 +4,7 @@
 
 > The new wave of Latin pop 🌊 Cover: Joaquina
 
-1,029 songs - 2 day 3 hr 28 min
+1,030 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,6 +618,7 @@
 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 | 2022-03-21 | 2022-04-02 |
 | [Nena](https://open.spotify.com/track/3HyPmMTJCrV6DlTYQVqIGN) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Nena](https://open.spotify.com/album/3ySFOPY56x68lcMXvpMNAX) | 3:15 | 2022-09-23 | 2022-12-26 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 | 2024-10-19 |
+| [Nicole](https://open.spotify.com/track/4SVqVfRj8G5ekh2HqobV0o) | [Patrick Luna](https://open.spotify.com/artist/7KEMfmb4M0f0H9vOwqzgAy), [SANTANDER](https://open.spotify.com/artist/2kZALmgpdHQQH5bNUiw26K) | [Nicole](https://open.spotify.com/album/1Emercc6tSRhNo13uQkyMI) | 2:34 | 2025-08-25 |  |
 | [Niña de Mis Ojos](https://open.spotify.com/track/2fVw5ymYUWzKAj0FFOyArF) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Niña de Mis Ojos](https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET) | 2:42 | 2022-03-21 | 2022-04-16 |
 | [niño azul](https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [niño azul](https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk) | 2:25 | 2024-03-01 | 2024-03-17 |
 | [NIÑO BUENO](https://open.spotify.com/track/5MgiVCBrzpYAtjArJbOD8R) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO \- Lado B](https://open.spotify.com/album/5hG0O2DM6NZtHoUUEUSREM) | 3:43 | 2025-03-14 | 2025-05-03 |
@@ -918,7 +919,7 @@
 | [Timeless](https://open.spotify.com/track/7KlW2RiPAWFNT75f216VgH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Timeless](https://open.spotify.com/album/4LQTxLRClMkSo9df6X8S1g) | 3:38 | 2022-08-11 | 2022-10-29 |
 | [tiroteAo](https://open.spotify.com/track/0HG1ISOw3yzzKxWbgOxBb0) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [tiroteAo](https://open.spotify.com/album/79shU5fy5HE8MJp05fYeOh) | 2:33 | 2023-12-08 | 2024-04-06 |
 | [Titiritar](https://open.spotify.com/track/7cJDcvC6nSbkx4quEn7vTk) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Titiritar](https://open.spotify.com/album/55kodOr5aKPVSKUuHa608P) | 3:01 | 2024-05-17 | 2024-06-22 |
-| [tk mas](https://open.spotify.com/track/5oUTYZtClmb7dmogLv7BwP) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [tk mas](https://open.spotify.com/album/7GRXfQmXgosPLBHtkVbmtW) | 2:30 | 2025-06-27 |  |
+| [tk mas](https://open.spotify.com/track/5oUTYZtClmb7dmogLv7BwP) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [tk mas](https://open.spotify.com/album/7GRXfQmXgosPLBHtkVbmtW) | 2:30 | 2025-06-27 | 2025-08-26 |
 | [TKILA](https://open.spotify.com/track/1NLyVRa0aPtZXjw9XMZZCX) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [TKILA](https://open.spotify.com/album/2SvKuNmLXp4a9zt2BpCf5h) | 2:36 | 2024-01-19 | 2024-04-02 |
 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 | 2022-05-20 | 2022-06-18 |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2022-04-15 | 2022-05-21 |

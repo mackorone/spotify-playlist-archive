@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 10216,
+  "num_followers": 10220,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAADM0jU/CtWr8K6gSNF5IY2+",
+  "snapshot_id": "aKpWAAAAAAAZgxTLMgQdCtzj8p9csf1m",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Access All Areas",
-        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
+        "name": "God Only Knows (feat. yMusic)",
+        "url": "https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU"
       },
       "artists": [
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        {
+          "name": "yMusic",
+          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
         }
       ],
-      "duration_ms": 160289,
-      "name": "Intro (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
+      "duration_ms": 201800,
+      "name": "God Only Knows (feat. yMusic)",
+      "url": "https://open.spotify.com/track/4mhcNoThsVSE1Mpnb7Wnj6"
     },
     {
       "added_at": null,
@@ -319,26 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Only Knows (feat. yMusic)",
-        "url": "https://open.spotify.com/album/4xZ8OVKJlywZLIe2O8zeJU"
+        "name": "Access All Areas",
+        "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
       "artists": [
         {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        },
-        {
-          "name": "yMusic",
-          "url": "https://open.spotify.com/artist/4h7DUL1L3RrCzquDp8xQXY"
         }
       ],
-      "duration_ms": 201800,
-      "name": "God Only Knows (feat. yMusic)",
-      "url": "https://open.spotify.com/track/4mhcNoThsVSE1Mpnb7Wnj6"
+      "duration_ms": 160289,
+      "name": "Intro (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She is Risen: Volume One",
-        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STEP (Music From and Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/0Mq5k6flqV4doXtSQvNpuG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 359706,
       "name": "Jump",
       "url": "https://open.spotify.com/track/2Y8G0g8ob0QfL8mubxi6bA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "She is Risen: Volume One",
+        "url": "https://open.spotify.com/album/2uJcWqNs9jz23tEzpXe6IE"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 259900,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/1L0hiMmrYoWBn5NKOECpKF"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
       "duration_ms": 56547,
       "name": "All We Got to Say",
       "url": "https://open.spotify.com/track/0tDVQfAbyFyF7RUFNxIAgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wicked: The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/3SKe78ljCWiaGA2znAmGEs"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 46367,
+      "name": "The Wizard And I - Commentary",
+      "url": "https://open.spotify.com/track/6jjHITTvyWcUboN8o7Pvcz"
     },
     {
       "added_at": null,

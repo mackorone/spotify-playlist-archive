@@ -1,6 +1,6 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 106333,
+  "num_followers": 106324,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Black & Gold",
-        "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
-      },
-      "artists": [
-        {
-          "name": "Sam Sparro",
-          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
-        }
-      ],
-      "duration_ms": 274426,
-      "name": "Black & Gold",
-      "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "how i'm feeling now",
         "url": "https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 171813,
       "name": "anthems",
       "url": "https://open.spotify.com/track/2ljvO8ZpKFMT3HXwCjW4Yw"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Sparro",
+          "url": "https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y"
+        }
+      ],
+      "duration_ms": 274426,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "Purple Yellow Red and Blue",
-      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Ignorance is Bliss",
         "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200933,
       "name": "Same Old Story",
       "url": "https://open.spotify.com/track/6kh17zXl4MM4AzSeJP02hB"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "Purple Yellow Red and Blue",
+      "url": "https://open.spotify.com/track/4WMuY659P2MKnoW40oGXe8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Trick To Life",
-        "url": "https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH"
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
       "artists": [
         {
-          "name": "The Hoosiers",
-          "url": "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         }
       ],
-      "duration_ms": 266813,
-      "name": "Goodbye Mr A",
-      "url": "https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF"
+      "duration_ms": 220040,
+      "name": "papi bones (feat. shygirl)",
+      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+        "name": "The Trick To Life",
+        "url": "https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "The Hoosiers",
+          "url": "https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4"
         }
       ],
-      "duration_ms": 220040,
-      "name": "papi bones (feat. shygirl)",
-      "url": "https://open.spotify.com/track/5W2s4S60GoNsUthU51aUb8"
+      "duration_ms": 266813,
+      "name": "Goodbye Mr A",
+      "url": "https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "International Love",
+        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "International Love",
+      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "6AM",
         "url": "https://open.spotify.com/album/4xI6l2LtSRt7yslMslT0wz"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 245533,
       "name": "Postpone",
       "url": "https://open.spotify.com/track/1IMtCtSqlw3VJv3IvCxkaz"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "International Love",
-        "url": "https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48"
-      },
-      "artists": [
-        {
-          "name": "Fidel Nadal",
-          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "International Love",
-      "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Talkie Walkie",
-        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
-      },
-      "artists": [
-        {
-          "name": "Air",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Surfing on a Rocket",
-      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 174653,
       "name": "Malemolencia",
       "url": "https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Talkie Walkie",
+        "url": "https://open.spotify.com/album/0hQOqvZv1nQvPiBjzyn363"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "duration_ms": 223373,
+      "name": "Surfing on a Rocket",
+      "url": "https://open.spotify.com/track/0RFduQOfkrP1jhoV0m8US2"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1531,6 +1531,22 @@
       "duration_ms": 227318,
       "name": "When the Day Comes",
       "url": "https://open.spotify.com/track/0P2HAFu7RnkfPnkimNi7I5"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1619,6 +1635,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Rips in Jeans",
+        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "duration_ms": 163459,
+      "name": "Rips in Jeans",
+      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "> album title goes here <",
         "url": "https://open.spotify.com/album/5cpwmGEav9fYtQi33w0YTj"
       },
@@ -1635,38 +1667,6 @@
       "duration_ms": 246295,
       "name": "Professional Griefers",
       "url": "https://open.spotify.com/track/47WNjXohtA1A6gY2zTKZ91"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Scatter",
-      "url": "https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "Rips in Jeans",
-        "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
-      },
-      "artists": [
-        {
-          "name": "Niko B",
-          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
-        }
-      ],
-      "duration_ms": 163459,
-      "name": "Rips in Jeans",
-      "url": "https://open.spotify.com/track/7K0ga2R3IgiwDOZlk9SC9n"
     },
     {
       "added_at": "2022-11-02 14:00:00",

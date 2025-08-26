@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Los Primos del Este
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,859 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,903 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 46 | [La Escuelita](https://open.spotify.com/track/06o6SMJTgOf4R8082WMEnG) | [Luis Sandoval](https://open.spotify.com/artist/29CZrQcy62hjQLwfp1oZl0) | [La Escuelita](https://open.spotify.com/album/3FQ6zxjl64QUclXLg1N3yN) | 2:24 |
 | 47 | [GUASAVE](https://open.spotify.com/track/0CcrCbifGpD6peI0ToiaaC) | [Bruno Brunette](https://open.spotify.com/artist/4rBLu7EtzIkpCuVSqYXTtc), [Rafa López](https://open.spotify.com/artist/2p7TDgWQS2yxNNSbc62RpW) | [GUASAVE](https://open.spotify.com/album/36fTBHyuvwY7Lj3JGfZR6O) | 2:08 |
 | 48 | [10mil mariposas](https://open.spotify.com/track/3BkGLp35J2olBfyAM2l1gN) | [Kevin Aguilar](https://open.spotify.com/artist/1z9SxBHvg62Cq1nMCDPL6y) | [10mil mariposas](https://open.spotify.com/album/2wYQWA9oYmL4BI4tDwPEW1) | 2:06 |
-| 49 | [Que te lleve la tristeza](https://open.spotify.com/track/5yY0QNiRkrEJcciGcScpJR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7) | [Que te lleve la tristeza](https://open.spotify.com/album/0U8YiBJJzjH1LixVaqPFOC) | 3:28 |
+| 49 | [QUE TE LLEVE LA TRISTEZA](https://open.spotify.com/track/5yY0QNiRkrEJcciGcScpJR) | [Lalo Capetillo](https://open.spotify.com/artist/6u4vthpKyJ2lF3o9nTorR7) | [QUE TE LLEVE LA TRISTEZA](https://open.spotify.com/album/0U8YiBJJzjH1LixVaqPFOC) | 3:28 |
 | 50 | [El Descuido de Rafai](https://open.spotify.com/track/1yAHuY5gIXQjwN2DYESvRh) | [El Bandolero “Meño Sanchez”](https://open.spotify.com/artist/1XMtJ87SixVfw7rWRBaxEi) | [El Descuido de Rafai](https://open.spotify.com/album/3RtHYOReRru5f5nlMruov0) | 2:57 |
 
 Snapshot ID: `AAAAAHLBZdjgbqt074rPBx8PmZXP61nE`

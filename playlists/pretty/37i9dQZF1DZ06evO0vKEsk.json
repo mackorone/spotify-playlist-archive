@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAABih2zOIcT+d63ewirImjy3",
+  "snapshot_id": "aKpWAAAAAADAmGTQiC0npfJy11E/f5ol",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siga em Frente",
+        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Lugar Santo",
+      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -503,26 +519,6 @@
       "duration_ms": 278500,
       "name": "Toca-me, Pai",
       "url": "https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 307999,
-      "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siga em Frente",
-        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+        "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo"
       },
       "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 253004,
-      "name": "Lugar Santo",
-      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+      "duration_ms": 307999,
+      "name": "O Teu Poder (Creio Em Ti) | Famous For (I Believe) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siga em Frente",
+        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 214041,
+      "name": "Cante Aleluia",
+      "url": "https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Com Muito Louvor",
         "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 321039,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siga em Frente",
-        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 214041,
-      "name": "Cante Aleluia",
-      "url": "https://open.spotify.com/track/1we1NWFLA0wSGasHXKAo82"
     },
     {
       "added_at": null,

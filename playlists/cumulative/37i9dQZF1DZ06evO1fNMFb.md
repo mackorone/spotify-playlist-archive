@@ -4,7 +4,7 @@
 
 > This is Natania\. The essential tracks, all in one playlist.
 
-47 songs - 2 hr 11 min
+48 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Show Me](https://open.spotify.com/track/604BDNGxzL9IyKMFODcZpV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 2:44 | 2025-07-04 |  |
 | [Show Me More](https://open.spotify.com/track/4mOFh28Qu0BnvgyqxJBesJ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 3:07 | 2025-07-04 |  |
 | [Sixteen](https://open.spotify.com/track/4EpGifx88ufDYV0h7QrB3A) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40), [Medha Sahi](https://open.spotify.com/artist/0YT2qePIbiaMO1d54yR9K6) | [Four More Shots Please! Season 2 \(Original Series Soundtrack\)](https://open.spotify.com/album/2VmahNskoUK0FWJKa1bUH8) | 2:52 | 2025-07-04 |  |
-| [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-07-04 |  |
+| [Subho Shaam](https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:56 | 2025-08-26 |  |
+| [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-07-04 | 2025-08-26 |
 | [Talking](https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Talking](https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY) | 3:04 | 2025-07-04 |  |
 | [Team](https://open.spotify.com/track/5SpumGg7FWWSS2yB644e5l) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Team](https://open.spotify.com/album/2QX2f0v9LlzAxvxTgQkdcU) | 3:41 | 2025-07-04 |  |
 | [Turn It Up](https://open.spotify.com/track/0j4LCT2EV0rDKBE9Qp34o2) | [Pinky Maidasani](https://open.spotify.com/artist/2umaOFeLVYvdsDfmhhlmuf), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Four More Shots Please! \(Original Series Soundtrack\)](https://open.spotify.com/album/5tPTepsnKKIx3wFoqX3dxt) | 2:07 | 2025-07-04 |  |

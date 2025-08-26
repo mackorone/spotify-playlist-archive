@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Focus More On Me (Deluxe)",
+        "url": "https://open.spotify.com/album/3gZnlSztK59g5CpK308bfg"
+      },
+      "artists": [
+        {
+          "name": "Dee Mula",
+          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149163,
+      "name": "Blow My High",
+      "url": "https://open.spotify.com/track/65wJpouyr3pA2Bua9c6WJ7"
+    },
+    {
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/1PJEjRyI5FCOqFf6QbWnlf"
       },
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 282968,
       "name": "I Forgive That Man",
       "url": "https://open.spotify.com/track/70tfLMv2PcUtCLAJ6Nmeoh"
@@ -3198,7 +3216,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 84977,
       "name": "TRALALERO TRALALA x Sigma Boy",
       "url": "https://open.spotify.com/track/6cOQaNa4pcL7mLRK2vIJBA"
@@ -3732,7 +3750,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 173037,
       "name": "\u516b\u65b9\u4f86\u8ca1(Stacks from All Sides)",
       "url": "https://open.spotify.com/track/7jm2PueKmv4EOHfdbdXMKT"

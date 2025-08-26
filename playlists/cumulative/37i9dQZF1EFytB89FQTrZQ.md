@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-540 songs - 1 day 6 hr 50 min
+541 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Koala \- Radio Edit](https://open.spotify.com/track/2LsKvF1f5PVm18UZgQrwml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Koala \(Radio Edit\) \[feat\. KStewart\]](https://open.spotify.com/album/7CG4gKjF3XMrIZ0DUwCxkl) | 3:15 | 2022-09-08 |  |
 | [KUSTOM MADE \- EDIT](https://open.spotify.com/track/2CPdJWF0XqbjVHOLs2eX5w) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Bee's Knees](https://open.spotify.com/artist/0HUVKb4z6JicOGlIpibvF0) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/4bt2RbZCIr06s5jsdabX4U) | 3:40 | 2022-09-08 | 2022-10-23 |
 | [KUSTOM MADE \- EDIT](https://open.spotify.com/track/3AxZWZr6cnNrXvQ9A54qoO) | [Brayton Bowman](https://open.spotify.com/artist/2PLMuRIKJKvwg3rOGr2MuK), [Bee's Knees](https://open.spotify.com/artist/0HUVKb4z6JicOGlIpibvF0) | [CHAPTER 23 \(THE EDITS\)](https://open.spotify.com/album/57gwOGPtX7vOYJgH9faPFk) | 3:40 | 2022-10-22 |  |
+| [Last Chance With You](https://open.spotify.com/track/7pcOpIuZdi1A8z0GOXzrkF) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:02 | 2025-08-25 |  |
 | [Late At Night \(feat\. MNEK\)](https://open.spotify.com/track/6dtZRCZ6XdBHIycJbsRDtE) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Patience](https://open.spotify.com/album/4yXbhrPMl0cqMW1xTXFqxG) | 3:22 | 2022-09-08 |  |
 | [Let Love Go \(feat\. Lil Tecca\)](https://open.spotify.com/track/6Dfi1zryJF6c5DoW0JHl7u) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:53 | 2022-09-08 |  |
 | [Let Them Know](https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:28 | 2022-09-08 |  |

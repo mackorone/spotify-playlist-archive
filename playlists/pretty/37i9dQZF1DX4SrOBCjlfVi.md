@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Flo Milli, Offset, 2 Chainz and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,096 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,234 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 35 | [Height](https://open.spotify.com/track/2ed6DDwemB2h2HPNWL9uSl) | [MexikoDro](https://open.spotify.com/artist/6VTn4Wmhm4uD4UNFcEIkEP) | [Height](https://open.spotify.com/album/1NreRqm13Iv5nuHs4fEsxJ) | 2:08 |
 | 36 | [Knock Knock \(feat\. Myaap\)](https://open.spotify.com/track/5FNwEb8ZcavTVtTBt0OVF1) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [FENDI VS FENDO \(Expanded\)](https://open.spotify.com/album/7dfrnYZPwVv7ZBq3JQFwsP) | 2:08 |
 | 37 | [P Funkentelechy](https://open.spotify.com/track/16yct5fkjANUFLCkZiJrhZ) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [P Funkentelechy](https://open.spotify.com/album/62QfXirH9e2XrP7hNPVbcv) | 3:40 |
-| 38 | [I Can't Lie](https://open.spotify.com/track/5kKFLL9j3YdNttvgbuT65s) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Scotty ATL](https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa) | [I Can't Lie](https://open.spotify.com/album/2m89SA7B5kJb8Mh2DaHhia) | 3:35 |
+| 38 | [I Can't Lie](https://open.spotify.com/track/5kKFLL9j3YdNttvgbuT65s) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Scotty ATL](https://open.spotify.com/artist/5kf5KPLB7nXG4xYdI1QXoa), [Cory Mo](https://open.spotify.com/artist/257XxBli1wEFEvEuPAaCEL) | [I Can't Lie](https://open.spotify.com/album/2m89SA7B5kJb8Mh2DaHhia) | 3:35 |
 | 39 | [Obvious](https://open.spotify.com/track/39ZMiAM0uCFQf5YtmC2Pmk) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Obvious](https://open.spotify.com/album/5zY1OZmfK6bArsCzE8hNGw) | 1:42 |
 | 40 | [Book Me For A Show](https://open.spotify.com/track/4ZDalmoxma3fyX66dWOCue) | [Big Sad 1900](https://open.spotify.com/artist/6CPTMFjo7Sq3ACuzHsXVkt), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [Die A Legend 2](https://open.spotify.com/album/0Ln4zkmtNMKsM7mtdpK2BQ) | 3:36 |
 | 41 | [Mo Money Mo Problemss](https://open.spotify.com/track/1yAUMu9FNYSP38NiphsGV3) | [Younginsosleaze](https://open.spotify.com/artist/02M8bIxB70TDLqRZGS5g3o) | [Still Sleazin](https://open.spotify.com/album/1pdAuHvHQPiPS5D3n5QTMh) | 2:18 |

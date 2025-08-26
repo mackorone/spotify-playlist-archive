@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 138305,
       "name": "2:30",
       "url": "https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 143225,
       "name": "B.T.S {Burst Their Speakers}",
       "url": "https://open.spotify.com/track/0B9MUEcDmz5oWvDLPO9QXP"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 174062,
       "name": "C'mon Look! (feat. Asake)",
       "url": "https://open.spotify.com/track/0PmnXWLh2KXKF4K65HH0SY"
@@ -2138,7 +2138,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-08",
+      "date_removed": null,
       "duration_ms": 164240,
       "name": "Colors (My Baby)",
       "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
@@ -5396,7 +5396,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 197328,
       "name": "Kabiyesi",
       "url": "https://open.spotify.com/track/4iY85F4rh71tpgAGS5qxjO"
@@ -5482,7 +5482,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-05",
+      "date_removed": null,
       "duration_ms": 220714,
       "name": "Kautaka - Remix",
       "url": "https://open.spotify.com/track/39I8t43OotxYXjhEG1jfxZ"
@@ -5526,7 +5526,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 172069,
       "name": "KELEBU",
       "url": "https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj"
@@ -6754,7 +6754,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 163633,
       "name": "Money Moves",
       "url": "https://open.spotify.com/track/4otA4JHWkokv4qAj1Pp2U5"
@@ -7364,7 +7364,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 147040,
       "name": "OBELEKE",
       "url": "https://open.spotify.com/track/7E4lPHzqCxfYxZRXfklyst"
@@ -7682,7 +7682,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-01",
+      "date_removed": null,
       "duration_ms": 133285,
       "name": "Orobo",
       "url": "https://open.spotify.com/track/16iNDnZBlHEDPg8ZBAX9LC"
@@ -8117,6 +8117,24 @@
     },
     {
       "album": {
+        "name": "Porom Po",
+        "url": "https://open.spotify.com/album/2oZOfzUL66QT9eKUYZPlrv"
+      },
+      "artists": [
+        {
+          "name": "Logos olori",
+          "url": "https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Porom Po",
+      "url": "https://open.spotify.com/track/2PloRGdzL1nJlxYZAfVRwL"
+    },
+    {
+      "album": {
         "name": "Power (Remember Who You Are) [From The Flipper\u2019s Skate Heist Short Film]",
         "url": "https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq"
       },
@@ -8348,7 +8366,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-18",
+      "date_removed": null,
       "duration_ms": 143756,
       "name": "Rodo",
       "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
@@ -8726,7 +8744,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -8806,7 +8824,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-01",
+      "date_removed": null,
       "duration_ms": 163361,
       "name": "Sharpally",
       "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
@@ -8936,7 +8954,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 185396,
       "name": "Sober",
       "url": "https://open.spotify.com/track/5at2Abc6gzWtxakXn7GNfE"
@@ -9448,7 +9466,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 150651,
       "name": "TaTaTa (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2JkIrQmiFXvqYQHhnPiY5D"
@@ -9466,7 +9484,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-15",
+      "date_removed": null,
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
@@ -9778,7 +9796,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
@@ -10214,7 +10232,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 163790,
       "name": "wande's bop (feat. SPINALL)",
       "url": "https://open.spotify.com/track/0Zf1H3gTJqVDG2SYvCsO9g"
@@ -10288,7 +10306,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 135652,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"

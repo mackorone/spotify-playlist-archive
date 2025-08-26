@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Doja Cat, M\. Pokora, Joé Dwèt Filé et sombr au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,468 likes - 93 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,439 likes - 93 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

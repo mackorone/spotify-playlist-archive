@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,213 songs - 2 day 5 hr 33 min
+1,214 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Here Comes The Sun](https://open.spotify.com/track/55WP69Nc3TLamqr4laTPjK) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Here Comes The Sun](https://open.spotify.com/album/19V9spxcU6OOzdqQq63q0F) | 1:55 | 2024-10-11 | 2024-11-18 |
 | [Here Comes The Sun](https://open.spotify.com/track/08bxp2Z6aASsZHINQ5tanv) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [Here Comes The Sun](https://open.spotify.com/album/1q3B6NIZAiJIk6bmBSYxif) | 2:10 | 2024-06-07 | 2025-03-14 |
 | [Here For It All](https://open.spotify.com/track/28O7jeuU5qSlCLyB7DJMqy) | [Tom Platts](https://open.spotify.com/artist/59UD0lnD3PozhhXlMQcAgP) | [Here For It All](https://open.spotify.com/album/1D7UWz4wjz8IQF2brMBHOa) | 2:59 | 2024-10-18 | 2024-11-18 |
+| [Here For The Ride](https://open.spotify.com/track/0l5WqVPcVc0vkIgeEmTDPY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Here For The Ride](https://open.spotify.com/album/4ZWVf2KqWoVCiTUFH0VSpp) | 2:30 | 2025-08-25 |  |
 | [Here for you](https://open.spotify.com/track/3sYrYJnln59SHVSQYpFBJo) | [Buenton](https://open.spotify.com/artist/66vVwYLcNJ7lNJsWimKBDJ) | [Here for you](https://open.spotify.com/album/6soIhLirVneDvgn3djJgx2) | 3:22 | 2025-08-22 |  |
 | [Here for You](https://open.spotify.com/track/7E5KuXifEZu6duxZKg8sGs) | [Luna Blue](https://open.spotify.com/artist/1JNyuExWIvx8kH5NOlSBuA) | [Here for You](https://open.spotify.com/album/6zDV6j17HLX6sxpmz5g3JF) | 2:27 | 2025-01-24 | 2025-02-18 |
 | [Here With Me](https://open.spotify.com/track/2Qe5u5veZVJXwl1DJJyvSE) | [Lilly Bay](https://open.spotify.com/artist/638CAHfkNvK7AEpXSqWB31) | [Here With Me](https://open.spotify.com/album/0QBz8VlPcghsKe4132L5IV) | 2:06 | 2024-09-20 | 2024-11-21 |

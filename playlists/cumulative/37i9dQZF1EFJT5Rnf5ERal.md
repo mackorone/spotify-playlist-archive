@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-319 songs - 15 hr 18 min
+321 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [FEIGNING](https://open.spotify.com/track/7qaoXmlsSrndaQeDRPpOeW) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:45 | 2024-06-11 |  |
 | [First Day Bacc On Da Bloc](https://open.spotify.com/track/47sHdZnja3YBuGtaTBMqpX) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU) | [Who Am I 3](https://open.spotify.com/album/5vCT8VY0nSeLUZge8NRVMZ) | 2:15 | 2024-06-11 | 2025-06-28 |
 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2024-06-11 |  |
+| [FLORIDA FLOW](https://open.spotify.com/track/5VIaKcmQyU9dt4DKN1NOlm) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [JACKBOYS 2](https://open.spotify.com/album/1Fj25TwO1GL490NL5cFVnb) | 5:28 | 2025-08-25 |  |
 | [Fraud](https://open.spotify.com/track/070RY72MRmoCVpGS7nuR0b) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 3:10 | 2024-06-11 |  |
 | [Fraud](https://open.spotify.com/track/6prHdB9LKkpMRzCbCfDrIl) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [They Got Amnesia](https://open.spotify.com/album/1kraCYAyFRzWXvfftapJZp) | 3:10 | 2024-07-28 | 2024-08-02 |
 | [Freak](https://open.spotify.com/track/53Z2zWV2bz7vKonoN31xV9) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Petty Levels](https://open.spotify.com/artist/2y8EbgWOOmUkyUAo5V9N5J), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [In The Name Of Gee](https://open.spotify.com/album/4Ux9gzMHX26RVFAro1uFFk) | 2:20 | 2024-06-11 |  |
@@ -248,6 +249,7 @@
 | [Say That Shit \(feat\. K Carbon\)](https://open.spotify.com/track/6co7b9zSYqldsecNzzIQYS) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [The Purple M&M 2](https://open.spotify.com/album/1Dyhf2sffhUOYe2dz1NGhu) | 2:47 | 2025-05-31 |  |
 | [ScOrEbOaRd](https://open.spotify.com/track/7eOyaFgc1AJ1wBX20iPS4W) | [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Foolhardy](https://open.spotify.com/album/0uXgNssRMoB2clRboMKeM8) | 3:07 | 2024-06-11 |  |
 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 | 2024-06-11 |  |
+| [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 | 2025-08-25 |  |
 | [Sexyy Love Money \(feat\. VonOff1700\)](https://open.spotify.com/track/0wrhW3tAAt7w9Y09CazT16) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:44 | 2025-01-28 |  |
 | [Shake Dat Ass](https://open.spotify.com/track/5L7uORAm7jmXwMMOSaPweR) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Zed Zilla](https://open.spotify.com/artist/5ygIMAnMVdeTje3JtDjUTU) | [Shake Dat Ass](https://open.spotify.com/album/2yjWswH8LZnfUGVLKa3an1) | 3:00 | 2025-05-19 |  |
 | [SHINE](https://open.spotify.com/track/1yHdfeCpeKPmSzQdfqHtq8) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [QUAVO HUNCHO](https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1) | 2:43 | 2024-06-11 |  |

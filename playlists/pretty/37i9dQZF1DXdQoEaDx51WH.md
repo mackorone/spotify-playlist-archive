@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQoEaDx51WH.md) - [plain]
 
 > All\-new tracks by Coke Studio Pakistan Season 14.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,199 likes - 14 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,214 likes - 14 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > R&B gems that South Africa loves from across the decades\. Cover: <a href="https://open.spotify.com/artist/2mmqVFK5tacUQOfldCNeaX?si=CPaffh8ASK\-3n9\-jibiwsQ">Keisha White</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,714 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,747 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

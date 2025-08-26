@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9115,
+  "num_followers": 9120,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAAD/NOAiyjss0sG6XFpYsAOK",
+  "snapshot_id": "aKpWAAAAAABwdRtl3CfrG3eCYJMuTy/z",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Temptations",
+        "url": "https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LOST IN PARADISE",
         "url": "https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 262506,
       "name": "MOONBEAMS SATELLITE",
       "url": "https://open.spotify.com/track/2Qz5Jj0U1poQ6uZwWyemeK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Temptations",
-        "url": "https://open.spotify.com/album/6vR3bL2HLIKKWpukolyqbM"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Temptations",
-      "url": "https://open.spotify.com/track/2HyCSbrfRjy0smkJMol7Oy"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "THE SWEETEST TABOO",
-      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u8e0a\u6551\u6025\u7bb1",
         "url": "https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 166850,
       "name": "KID feat. LEO (ALI)",
       "url": "https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "THE SWEETEST TABOO",
+      "url": "https://open.spotify.com/track/554GjmgJLkRvxvovKMMpbb"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 180766,
-      "name": "I Want A Chance For Romance",
-      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STAYING IN THE GROOVE",
         "url": "https://open.spotify.com/album/0G6HaT2usfAR4Y7WmFPp1q"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 290833,
       "name": "STAYING IN THE GROOVE",
       "url": "https://open.spotify.com/track/2nQFemzvvRyC2B6UM0zRME"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 180766,
+      "name": "I Want A Chance For Romance",
+      "url": "https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "GABBA GABBA HEY HEY",
-      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vim",
         "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 314282,
       "name": "Vim",
       "url": "https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 194733,
+      "name": "GABBA GABBA HEY HEY",
+      "url": "https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 316833,
-      "name": "Funky Nassau",
-      "url": "https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LONELY LONELY",
         "url": "https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 386933,
       "name": "LONELY LONELY -ULTRA HEAVEN REMIX by ALI\u00d7\u92ed\u5150-",
       "url": "https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 316833,
+      "name": "Funky Nassau",
+      "url": "https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe"
     },
     {
       "added_at": null,

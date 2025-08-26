@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-200 songs - 22 hr 20 min
+201 songs - 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Maula Mere Maula](https://open.spotify.com/track/5KNuHsIeFtD0oukst77hBi) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa) | [Anwar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MTyvN8DogBzkLz8ThUKuc) | 6:04 | 2022-08-02 |  |
 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 | 2024-01-05 |  |
 | [Maula\-E\-Kull](https://open.spotify.com/track/6uAhKs1xbzs4QIREQzHXb1) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Maula\-E\-Kull](https://open.spotify.com/album/4Gb6vs7OZiB2WDExrgRAdl) | 9:52 | 2024-01-05 | 2024-06-22 |
+| [Mee Raqsam](https://open.spotify.com/track/1szkFgc12IkhomwVaXLGdP) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Mee Raqsam](https://open.spotify.com/album/0UyC4LKCF25GCYj6R9MKqZ) | 5:03 | 2025-08-25 |  |
 | [Mera Khuda](https://open.spotify.com/track/4YEyTF1ojosAcTldLWJhKr) | [Rafaqat Ali Khan](https://open.spotify.com/artist/5gb3fWXn6yqB3bztWCc3wz) | [Mera Khuda](https://open.spotify.com/album/6TVa0BaHhcqzANHOm0bxhw) | 5:51 | 2024-04-26 | 2024-06-22 |
 | [Mere Ali Moula Ali](https://open.spotify.com/track/0j0oUCC2zHb2vCSUULqqDL) | [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W), [Jaan Nissar Lone](https://open.spotify.com/artist/61d8y45wk2tqiXKcebtev7) | [Mere Ali Moula Ali](https://open.spotify.com/album/6jvA9YEttzrot17nFihVcj) | 5:00 | 2022-08-02 | 2024-01-06 |
 | [Mere Sarkaar \(feat\. Ali Brothers, Raj Pandit & Shivam Bhardwaj\)](https://open.spotify.com/track/1xPvMc7UCIUxQ6GP2DIyng) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ali Brothers](https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Shivam Bhardwaj](https://open.spotify.com/artist/1jhRh4hiFlCDxzEnwDQrDA) | [Mere Sarkaar](https://open.spotify.com/album/57gn0V9OURh6d3Gg2BWGkL) | 6:49 | 2024-01-05 | 2024-06-22 |

@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 445000,
       "name": "A Night on Bald Mountain",
       "url": "https://open.spotify.com/track/4OLiT1v6Kyoz0oJKpha5Yj"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 347386,
       "name": "Coco - D\u00eda de los Muertos Suite",
       "url": "https://open.spotify.com/track/3BY6XoTTapX2tV9qQCCsFW"
@@ -2195,6 +2195,28 @@
     },
     {
       "album": {
+        "name": "Disney Halloween",
+        "url": "https://open.spotify.com/album/2rTXmuNjiVhF0ig1WflV2p"
+      },
+      "artists": [
+        {
+          "name": "Richard Bellis",
+          "url": "https://open.spotify.com/artist/2AvjWonQaWlRkaolk2NCxe"
+        },
+        {
+          "name": "Marious Constant",
+          "url": "https://open.spotify.com/artist/3n9cVWs0spyjg2feaCScV7"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102053,
+      "name": "The Twilight Zone Tower of Terror Theme - From \"The Twilight Zone Tower of Terror\"",
+      "url": "https://open.spotify.com/track/3Jfwv4pTT40NFoXMgl8Dem"
+    },
+    {
+      "album": {
         "name": "Walt Disney World Official Album",
         "url": "https://open.spotify.com/album/6lMJcDBuF11ofh3RcY5JIC"
       },
@@ -2210,7 +2232,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 102053,
       "name": "The Twilight Zone Tower of Terror Theme - From \"The Twilight Zone Tower of Terror\"",
       "url": "https://open.spotify.com/track/69nE1ldzcv0vcF2m1t4ys2"

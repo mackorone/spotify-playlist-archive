@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 308911,
+  "num_followers": 309065,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAAAIYDH7jkCd4VFMzjAvSF6b",
+  "snapshot_id": "aKpWAAAAAADU0fsqwJ2tWkIMPTt2LZrp",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crosses and Crossroads",
-        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 206285,
-      "name": "Same Asshole",
-      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Therapeutic Music 5",
         "url": "https://open.spotify.com/album/2djiUl5MCOJWODl4KTw5Tn"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 181933,
       "name": "Dreams Don\u2019t Die",
       "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crosses and Crossroads",
+        "url": "https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 206285,
+      "name": "Same Asshole",
+      "url": "https://open.spotify.com/track/1b4KQGFYbRqRe2Bx818Kqb"
     },
     {
       "added_at": null,
@@ -579,6 +579,26 @@
       "duration_ms": 249302,
       "name": "Fall in the Fall",
       "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Box Me Up (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
     },
     {
       "added_at": null,
@@ -723,26 +743,6 @@
       "duration_ms": 163103,
       "name": "Hate Goes On",
       "url": "https://open.spotify.com/track/2MZyHeZDXnvF6TWfCw18wB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope You're Happy",
-        "url": "https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Box Me Up (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7JjciUzSALsonXv6MukgrP"
     },
     {
       "added_at": null,

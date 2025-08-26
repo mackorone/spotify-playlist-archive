@@ -4,7 +4,7 @@
 
 > 
 
-1,159 songs - 2 day 10 hr 47 min
+1,164 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [9k Freestyle](https://open.spotify.com/track/3P2g3b9uT8k2SoOmGbDco4) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [9k Freestyle](https://open.spotify.com/album/0av82aRcZgT5tDynSdVThi) | 2:12 | 2024-08-02 | 2024-11-06 |
 | [\[ADL IS COMING\]](https://open.spotify.com/track/0F31Vz4Lw1EPXF0vKPAa7Z) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:40 | 2025-08-02 |  |
 | [A Fan's Mail \(Tron Song Suite II\)](https://open.spotify.com/track/6qXNCWY49AaZ5nfp9AJIc5) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 2:38 | 2023-12-22 | 2024-11-06 |
+| [A Glimpse at the Struggle](https://open.spotify.com/track/4wIkYezlk3dmMM8sWhbTSn) | [Mr\. Lif](https://open.spotify.com/artist/6qbtuhThjXYnpldXCczlDd) | [I Phantom](https://open.spotify.com/album/5EfbptW3itd44wEY7joR1g) | 3:28 | 2025-08-25 |  |
 | [A Goat & A Dolphin](https://open.spotify.com/track/3jIngQ3hgLgIv3tMSzrQa6) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Dum and Dummer 2](https://open.spotify.com/album/1XKOXluL7TbCpPVsX4dqXv) | 2:29 | 2024-05-30 | 2024-11-06 |
 | [A Goat Speaking](https://open.spotify.com/track/2e2T1HIpVG8XIu3tcLaKJf) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:23 | 2023-03-20 | 2023-12-14 |
 | [A Minute\(lone\)](https://open.spotify.com/track/7t9cWdvscrbqrsSigEV0Dv) | [vjac0b](https://open.spotify.com/artist/2dSAZN7PmMiI5UCTJUALer) | [A Minute\(lone\)](https://open.spotify.com/album/4FAeomp0gCXLl0hAR5FsFn) | 2:38 | 2022-07-28 | 2023-05-09 |
@@ -533,6 +534,7 @@
 | [KEEP IT COOL](https://open.spotify.com/track/53lS5rsYcbEMtpM2grepw5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [KEEP IT COOL](https://open.spotify.com/album/1SZbj4GIaOIABSvRPhua4c) | 1:46 | 2024-08-16 | 2024-11-06 |
 | [Keep K's Around](https://open.spotify.com/track/78ILWhXPA1AMiSlarH2blU) | [TSM Beeezy](https://open.spotify.com/artist/6AdVDVZvw0ZOUiGoQa15pS), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Me Myself & I](https://open.spotify.com/album/13WTY3Gwax7hLHpNhX4vVI) | 1:49 | 2022-08-04 | 2023-04-24 |
 | [Keep My Spirit Alive pt 2](https://open.spotify.com/track/2CxKBeqB9MPl8aT12ukLjF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 3:41 | 2023-10-03 | 2024-03-05 |
+| [Keep On](https://open.spotify.com/track/2NKD1Laac0JAQIRw1ky5Ar) | [Grand Puba](https://open.spotify.com/artist/6IjhOxJSTPh15KgFTSZ68K) | [2000](https://open.spotify.com/album/32JCQPzflPiUX9weKyUrFZ) | 5:04 | 2025-08-25 |  |
 | [Kickback](https://open.spotify.com/track/5HtOazXOK8uc3FNRhDClDg) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Kickback](https://open.spotify.com/album/6chHTU4nfoCUxxKiuO2as0) | 1:58 | 2022-06-19 | 2023-05-09 |
 | [KickDoe](https://open.spotify.com/track/7mhfizYrxgcpYq1IQjBZFI) | [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Can't Tame Us](https://open.spotify.com/album/2Rl6vSmXW8PicPAfxScT87) | 2:04 | 2024-12-29 | 2025-05-21 |
 | [kill em](https://open.spotify.com/track/4QtB7BKYHpFP8xywUyev9g) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh) | [birds.](https://open.spotify.com/album/372OLql24SIHHbLAZgzoow) | 1:52 | 2022-07-28 | 2023-05-09 |
@@ -676,6 +678,7 @@
 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 | 2022-11-18 | 2023-05-09 |
 | [New Drank](https://open.spotify.com/track/3icILkEkTKNPaPQ5usTbsw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [New Drank](https://open.spotify.com/album/0tQDck9jmRmZNuXh1j3wJI) | 1:28 | 2022-09-01 | 2023-05-09 |
 | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz), [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [New Friends \(feat\. Eem Triplin\)](https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM) | 2:10 | 2024-02-26 | 2024-11-06 |
+| [New Man Theme](https://open.spotify.com/track/7EBL70qWPF2ufiF9UbL9Eo) | [Mr\. Lif](https://open.spotify.com/artist/6qbtuhThjXYnpldXCczlDd) | [I Phantom](https://open.spotify.com/album/5EfbptW3itd44wEY7joR1g) | 3:23 | 2025-08-25 |  |
 | [New Seal](https://open.spotify.com/track/5w5EkYQ3pxcFiQPw3SGdDl) | [Kankan](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:33 | 2025-05-30 |  |
 | [New Semi](https://open.spotify.com/track/6ekOd6GLZJ3PZwyMmbZVGY) | [Slimesito](https://open.spotify.com/artist/1qIl64lvKUWBbNRuUOImVh) | [New Semi](https://open.spotify.com/album/3gEdxJx0fDwv40orvc784Y) | 2:19 | 2023-01-07 | 2023-05-09 |
 | [New X](https://open.spotify.com/track/0oQpl483Gv7eaHRGCrOpaD) | [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi) | [New X](https://open.spotify.com/album/4Uexof7Pt88YnxmXGibdi5) | 2:12 | 2025-05-16 |  |
@@ -752,6 +755,7 @@
 | [Ordinary Pain](https://open.spotify.com/track/1TF3L6npXn08LjwRdQGBww) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:23 | 2025-04-14 |  |
 | [Orion's Belt](https://open.spotify.com/track/26ppRCIIgFDWmZbP3NAxUu) | [Dammntc](https://open.spotify.com/artist/5fusLQAgJkYQ9NeC0TaVDJ), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Orion's Belt](https://open.spotify.com/album/0M2HmW5ebgoukPvZe5YZyT) | 2:33 | 2023-02-25 | 2023-12-14 |
 | [OT](https://open.spotify.com/track/3yEHC0WyZRUnpNVmIYSSmL) | [Rmc Mike](https://open.spotify.com/artist/1j9595o6FMO4iLwci19nvo), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Dum and Dumber Too](https://open.spotify.com/album/36t3hvr9NDOKn6y3NVBAlu) | 2:12 | 2022-09-29 | 2023-05-09 |
+| [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 | 2025-08-25 |  |
 | [out da window](https://open.spotify.com/track/3Vt5YK1tzOQ6pxOSCbtLRA) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [What We Have](https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2) | 2:44 | 2023-03-30 | 2023-12-14 |
 | [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2022-09-09 | 2023-05-09 |
 | [Out West](https://open.spotify.com/track/17WQkOlartDUNoZAM2iihK) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Goodbye Horses](https://open.spotify.com/album/0I3cC1B19vTlERLgrYkeU9) | 2:06 | 2024-10-23 |  |
@@ -849,6 +853,7 @@
 | [Remind Me Of The Summer](https://open.spotify.com/track/1ygKFnCswaecNGoDCe1S4R) | [1Huntxr](https://open.spotify.com/artist/2HQTplk1FBI562SZfiAAH4) | [Remind Me Of The Summer](https://open.spotify.com/album/5I3svUTCPnECckzaOY2R0Z) | 3:39 | 2022-12-21 | 2023-08-20 |
 | [Reminiscing \- Remastered 2010](https://open.spotify.com/track/7i3xpu7SFWvzhGa9AZyySR) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered 2022\)](https://open.spotify.com/album/5XXymqS9NunPlUbovZK8WJ) | 4:17 | 2025-06-02 |  |
 | [Rental](https://open.spotify.com/track/0rDLJbeXXNLZ2gbPOm87Ar) | [Lunarrr](https://open.spotify.com/artist/0Tlfd0GGFcWZxrbdkykoxn) | [Rental](https://open.spotify.com/album/70ODUDHIEOZ96NJMSgBPSn) | 4:43 | 2023-03-20 | 2023-12-14 |
+| [Retaliation](https://open.spotify.com/track/07CDOoR2MkkMM8OWUjMrRU) | [Jedi Mind Tricks](https://open.spotify.com/artist/0PI3pXpUMScjweiw3IbADc) | [Violent By Design](https://open.spotify.com/album/68e1Ou1jnKgDwLkCsOPc4M) | 3:44 | 2025-08-25 |  |
 | [Rich As Hell](https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:35 | 2022-08-26 | 2025-05-21 |
 | [Rich Muthafucka](https://open.spotify.com/track/3rlFWxApRYFp56vXCqt5fO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God 2](https://open.spotify.com/album/327qRhLMXOOwsx3IXxZZxM) | 3:18 | 2025-05-07 | 2025-05-21 |
 | [Ride Around Shining \(feat\. Ab\-Liva\)](https://open.spotify.com/track/40RYtDQwVLnfH4WzhxEqOQ) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Ab Liva](https://open.spotify.com/artist/53WOQvBO23MHgjpnpjYVTi) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:56 | 2025-08-14 |  |

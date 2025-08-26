@@ -20765,6 +20765,24 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "Espejito, Espejito",
+      "url": "https://open.spotify.com/track/2eHMLFAJeCA3OdDBNUUEPP"
+    },
+    {
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
@@ -20962,10 +20980,28 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 296266,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/0WCJWPeQXE0TRguyX9b3nU"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n Esencial",
+        "url": "https://open.spotify.com/album/16enqgbeozM84qvT9RExiy"
+      },
+      "artists": [
+        {
+          "name": "coda",
+          "url": "https://open.spotify.com/artist/42EYlRJ0y8D9OiusmVNl8r"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298097,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/0IupdJCkhXeLAdGk5F81x4"
     },
     {
       "album": {
@@ -22800,7 +22836,7 @@
           "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
         },
         {
-          "name": "Randy",
+          "name": "Randy Nota Loca",
           "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
         },
         {
@@ -24486,7 +24522,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 147613,
       "name": "Hasta Donde Te Quiero",
       "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
@@ -64436,7 +64472,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 191537,
       "name": "Your Idol",
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
@@ -64746,6 +64782,24 @@
       "duration_ms": 182946,
       "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
       "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "album": {
+        "name": "\u00bfHasta D\u00f3nde Te Quiero?",
+        "url": "https://open.spotify.com/album/0GvY08SzYQFZZJRKvRZ58F"
+      },
+      "artists": [
+        {
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146246,
+      "name": "\u00bfHasta D\u00f3nde Te Quiero?",
+      "url": "https://open.spotify.com/track/1licjid99qj1BFIYGb3wZC"
     },
     {
       "album": {

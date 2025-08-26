@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1T7Hkfs6QmizPlOCzs08LS">Max Martin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,570 likes - 479 songs - 1 day 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,608 likes - 479 songs - 1 day 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -291,8 +291,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 281 | [It's All Your Fault](https://open.spotify.com/track/5ciiAMuyWB4r17mnYsev31) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse](https://open.spotify.com/album/21tsMIrRLUKFwfvX9oxQZR) | 3:52 |
 | 282 | [I Will Be](https://open.spotify.com/track/1ERza8JzFin9c3Keo8XQEX) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 3:59 |
 | 283 | [Tommie Sunshine's Megasix Smash\-Up](https://open.spotify.com/track/0xJCJbY4Qpdq5Vc3q2aMT3) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/4zLOhyT4XIzyyl7KoSHWcE) | 7:03 |
-| 284 | [Codes](https://open.spotify.com/track/4s7HDBfWKvfTsG9IE8cw83) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:16 |
-| 285 | [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 |
+| 284 | [Polka Face](https://open.spotify.com/track/2ELqO1C2U6vhg1BfYp7QhG) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Alpocalypse](https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz) | 4:47 |
+| 285 | [Codes](https://open.spotify.com/track/4s7HDBfWKvfTsG9IE8cw83) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:16 |
 | 286 | [Crazy Beautiful Life](https://open.spotify.com/track/1YcOjtjiwwiwlrzmeueQ45) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 2:50 |
 | 287 | [Masquerade](https://open.spotify.com/track/4mNDJjAllo55akNIewGJxT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 3:48 |
 | 288 | [Admit It \(u dont want 2\)](https://open.spotify.com/track/3p6raxOehdqXB2tq1yCC6a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [USB](https://open.spotify.com/album/1sSoDKCPSMPQ8CMAWYUabB) | 6:25 |
@@ -488,4 +488,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCXQeQGoO7Oj.md) - [plain]
 | 478 | [Love Like Sunshine \- Extended Mix](https://open.spotify.com/track/2iR1ZEcz7jp6uQKCqD91Ju) | [Laughing Boy](https://open.spotify.com/artist/2fjHh41HxxZyqoEmCGu5da) | [Love Like Sunshine \(The Mixes\)](https://open.spotify.com/album/5Ccyus1hzkaY2JzmvnpqsN) | 6:35 |
 | 479 | [Io Non Piango Più](https://open.spotify.com/track/6dVtYE87ODIScZkBLM6nX8) | [Clara Moroni](https://open.spotify.com/artist/1xIa0kM33TSTfQvIeC7Ib8) | [Bambina Brava](https://open.spotify.com/album/4ELJA6fChKI9P7HeuP55gj) | 3:30 |
 
-Snapshot ID: `Ab6YygAAAADev+TJgJNOLPaHWUGXWQ7Q`
+Snapshot ID: `Ab6eiAAAAACP3nE3WzRftlicpow7zRC1`

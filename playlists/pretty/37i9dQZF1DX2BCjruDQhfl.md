@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving feelings\. Cover: CHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,115 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,107 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 99 | [Hoelang](https://open.spotify.com/track/3mbE896tJCeMFT2gBUtwuR) | [Dammie](https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb) | [Hoelang](https://open.spotify.com/album/0XMlh8RJF5RqNaX6D1bbLg) | 2:53 |
 | 100 | [Manipulatie](https://open.spotify.com/track/6zV4NmnsRaXyhYzsQEwAGA) | [Suzet Lichel](https://open.spotify.com/artist/5RFg8in8qWOJ0MpTxeG1hW), [Ais](https://open.spotify.com/artist/5ITcpkjwtPSftZ1CzGTMFm), [Ds19](https://open.spotify.com/artist/5xxoHs0vedMntAhEaMLt4e) | [Manipulatie](https://open.spotify.com/album/2FkemzTo3lHamOALV14vPk) | 2:10 |
 
-Snapshot ID: `AAAAAPBqGhqoN89TqBaYngBr/tznvtH0`
+Snapshot ID: `AAAAAAEBGD/hGQCOWnCO/4vcmxDGp0UE`

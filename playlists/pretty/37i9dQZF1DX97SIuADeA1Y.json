@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 342700,
+  "num_followers": 342698,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Mask Off",
+        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
+      },
+      "artists": [
+        {
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 168300,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Mask Off",
-        "url": "https://open.spotify.com/album/11Ukp4nDxuGrgtURyEd0Tl"
-      },
-      "artists": [
-        {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/3uA38fIbQ1m9WcgAmWGPo5"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "One In A Million",
+        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One In A Million",
+      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "I'm Okay",
         "url": "https://open.spotify.com/album/2mLBy9PXobrVjSWHMHk1En"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 151723,
       "name": "I'm Okay",
       "url": "https://open.spotify.com/track/4bt67pD5FiKIV5kn8ej38d"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "One In A Million",
-        "url": "https://open.spotify.com/album/7Ag8oU7nc3fjRB2567eN1f"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One In A Million",
-      "url": "https://open.spotify.com/track/18bNlfQ64iSkaSeye4IGHw"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Speed of Light",
         "url": "https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 176347,
       "name": "Speed of Light",
       "url": "https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -807,26 +807,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Alone Again (feat. PollyAnna)",
-        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
       },
       "artists": [
         {
-          "name": "Yves V",
-          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         },
         {
-          "name": "SESA",
-          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 157560,
-      "name": "Alone Again (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
+      "duration_ms": 182506,
+      "name": "Better Place - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -851,22 +847,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+        "name": "Alone Again (feat. PollyAnna)",
+        "url": "https://open.spotify.com/album/4C37xotyTsiNmWBppkv6cO"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "SESA",
+          "url": "https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Better Place - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
+      "duration_ms": 157560,
+      "name": "Alone Again (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "Ride Ride Ride",
+        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
+      },
+      "artists": [
+        {
+          "name": "Victoria Kern",
+          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
+        },
+        {
+          "name": "Anna Grey",
+          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Ride Ride Ride",
+      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "Shooting Darts (with R3HAB & Prezioso)",
         "url": "https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 152903,
       "name": "Shooting Darts (with R3HAB & Prezioso)",
       "url": "https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "Ride Ride Ride",
-        "url": "https://open.spotify.com/album/6TgRlzezBctLSkimeChvCg"
-      },
-      "artists": [
-        {
-          "name": "Victoria Kern",
-          "url": "https://open.spotify.com/artist/2urS0Cb0MlOXiBod34tyyv"
-        },
-        {
-          "name": "Anna Grey",
-          "url": "https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ride Ride Ride",
-      "url": "https://open.spotify.com/track/0eJR1Clmkx9HiVy1mSpUWz"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -1195,26 +1195,18 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Raindrops (feat. Jessica Chertock)",
-        "url": "https://open.spotify.com/album/0TXJLXPHhsYpHPAK0s3E1S"
+        "name": "Wishing Well",
+        "url": "https://open.spotify.com/album/6b5C6CPcnegIA3E2vvAseH"
       },
       "artists": [
         {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Stefy De Cicco",
-          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
-        },
-        {
-          "name": "Jessica Chertock",
-          "url": "https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h"
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
         }
       ],
-      "duration_ms": 166887,
-      "name": "Raindrops (feat. Jessica Chertock)",
-      "url": "https://open.spotify.com/track/0mBmEZlBoEU7ofwOSYVPcj"
+      "duration_ms": 142000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/7CSxGi1PHj8ypY4KnFqTSc"
     }
   ],
   "unique_name": "SLAP!",

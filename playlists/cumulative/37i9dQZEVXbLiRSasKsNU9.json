@@ -1950,6 +1950,24 @@
     {
       "album": {
         "name": "a good man with a broken heart",
+        "url": "https://open.spotify.com/album/1OT3nH3sg1BIaDkj3cCjy1"
+      },
+      "artists": [
+        {
+          "name": "LoVibe.",
+          "url": "https://open.spotify.com/artist/1NLyehNkC7wzb5FLW4uYjc"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "a good man with a broken heart",
+      "url": "https://open.spotify.com/track/07fNxq0gkGFZpAYCTd0v2A"
+    },
+    {
+      "album": {
+        "name": "a good man with a broken heart",
         "url": "https://open.spotify.com/album/5iXPWxmR7FviawAtso2SWH"
       },
       "artists": [
@@ -1978,7 +1996,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 118726,
       "name": "a good man with a broken heart",
       "url": "https://open.spotify.com/track/2Is9PgrKMBJQscOjiAX1QB"
@@ -7169,6 +7187,24 @@
     },
     {
       "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
+    },
+    {
+      "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
       },
@@ -10456,7 +10492,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
@@ -10708,7 +10744,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 176800,
       "name": "Bitin' List",
       "url": "https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq"
@@ -29532,6 +29568,28 @@
       "duration_ms": 264920,
       "name": "G\u00f6nl\u00fcm",
       "url": "https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9"
+    },
+    {
+      "album": {
+        "name": "G\u00f6zler",
+        "url": "https://open.spotify.com/album/3cXZMVNUyIrwOPIJZ94Ic1"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        },
+        {
+          "name": "Mavi",
+          "url": "https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144159,
+      "name": "G\u00f6zler",
+      "url": "https://open.spotify.com/track/3Hvn1ASL6A9m921Y99Hdm4"
     },
     {
       "album": {

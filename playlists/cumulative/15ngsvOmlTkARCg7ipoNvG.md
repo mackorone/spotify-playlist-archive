@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,005 songs - 1 day 16 hr 32 min
+2,006 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1833,6 +1833,7 @@
 | [Under The Waterfall](https://open.spotify.com/track/01NOJ8gPtsKAjK8dhy1aN5) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Remembering](https://open.spotify.com/album/5qmhssquVh9HVjWh1Y5lA3) | 1:14 | 2022-01-12 |  |
 | [Under The Waterfall Together](https://open.spotify.com/track/5nfU8qR3alrbiRWFsqRB1B) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Under The Waterfall Together](https://open.spotify.com/album/58W1f79fp2qas5qPv0jE6w) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Under The Waterfall Together Arr\. For Strings](https://open.spotify.com/track/0C2xRfELpsU9gjbYxqVZi6) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Under The Waterfall Together Arr\. For Strings](https://open.spotify.com/album/1fG6OE6Sd3fp3QsFOTKVsq) | 1:00 | 2024-02-09 | 2024-02-13 |
+| [Understanding](https://open.spotify.com/track/6j1CYkMrn87gIvLyNKF0wI) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Understanding](https://open.spotify.com/album/74JlV5gZRP7dTAsZ2ZzoyP) | 1:00 | 2025-08-26 |  |
 | [Unending Moment](https://open.spotify.com/track/1yt7flEbKzxhSB5DpqyuSP) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Unending Moment](https://open.spotify.com/album/5cEALCyLTDhYuXkh5mvmLB) | 1:00 | 2023-04-08 | 2024-02-13 |
 | [Unending Moment \- Strings Version](https://open.spotify.com/track/20UtkjS3JoywvDuf0o1Vef) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Unending Moment \(Strings Version\)](https://open.spotify.com/album/14H9gWmeQRQYYaErgOZeuL) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Unending Moment Arr\. For Cello And Felt Piano](https://open.spotify.com/track/7GvxOctcXMk5x6yzvyuof8) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Unending Moment Arr\. For Cello And Felt Piano](https://open.spotify.com/album/0mTjOvi09l7npQA8xobeiw) | 1:00 | 2024-02-09 | 2024-02-13 |

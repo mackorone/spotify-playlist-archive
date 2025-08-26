@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,282 likes - 178 songs - 11 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,367 likes - 178 songs - 11 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

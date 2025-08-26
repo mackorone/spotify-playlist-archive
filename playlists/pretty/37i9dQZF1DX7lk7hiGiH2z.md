@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,764 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,772 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 57 | [Disco Kinder \(Minis Maxis\)](https://open.spotify.com/track/6eEyiLb4fZxdBZ6vWJMr5G) | [Isa Glücklich](https://open.spotify.com/artist/2qLRWpOpxPKpyVW3GdGVHh) | [Disco Kinder](https://open.spotify.com/album/3H4zFfJdiScYlYTARQBjPs) | 2:49 |
 | 58 | [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 |
 | 59 | [Liebesdusche](https://open.spotify.com/track/0M1F8GVMNhz4mTceABRmtd) | [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU), [Phela](https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O) | [Liebesdusche](https://open.spotify.com/album/2uuHniEZdvH69ldP6RztzC) | 2:03 |
-| 60 | [Urlaubskoffer](https://open.spotify.com/track/5TAxZVVxlQTZWzZSQhkuQ7) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kinderdisco \- Das Original](https://open.spotify.com/album/34PrK0cbxMsYRunUvZ5m9y) | 1:57 |
+| 60 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 |
 | 61 | [Urlaub unter Freunden](https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR) | [Die Lollipops](https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt) | [Zusammen sind wir doppelt stark\-Unser Freundschaftsalbum](https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS) | 3:33 |
 | 62 | [Ohne dich hätt' ich mich nicht getraut](https://open.spotify.com/track/5dlhNyHb5S9AuixZqnPaNY) | [Christopher Annen](https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE) | [Unter meinem Bett 5](https://open.spotify.com/album/5JYmSMR3duFBHnSIKumZtG) | 4:13 |
 | 63 | [Contigo en la playa](https://open.spotify.com/track/5YZpIO8LYmAuHY6RshKAgL) | [Kira Kolumna](https://open.spotify.com/artist/4ZRVadQQ7rbyhiGZurqb72) | [Contigo en la playa](https://open.spotify.com/album/3hFrMthztGPiBeedZoMyIS) | 2:21 |
 | 64 | [Ich lass mich nicht ärgern](https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [Berlin Radio Children's Choir](https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ) | [Ich lass mich nicht ärgern](https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N) | 3:19 |
-| 65 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 |
+| 65 | [Urlaubskoffer](https://open.spotify.com/track/5TAxZVVxlQTZWzZSQhkuQ7) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Kinderdisco \- Das Original](https://open.spotify.com/album/34PrK0cbxMsYRunUvZ5m9y) | 1:57 |
 | 66 | [Ida's Sommerlied](https://open.spotify.com/track/32rYNfv14cF2dDdAu1WCkL) | [Sonia Liebing](https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 7 \- Die große Geburtstagsfeier \(Party mit Schlagerstars\)](https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy) | 1:53 |
 | 67 | [Hund und Katze](https://open.spotify.com/track/75wYu5BBtsTFp6yaguVJO3) | [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Unter meinem Bett 6](https://open.spotify.com/album/5T56fAdOETGPwEWYReIesL) | 3:57 |
 | 68 | [Drachenwind](https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5) | [Berend Intelmann](https://open.spotify.com/artist/7bHnUZwNT0xHUAUpNUNJ1v) | [Unter meinem Bett 7](https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy) | 3:40 |
 | 69 | [Sommerbrille](https://open.spotify.com/track/1iLdE6oZKQTijqzo5WNc7C) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Sommerbrille](https://open.spotify.com/album/42Zwv4MVwF55fo7GAjPtgO) | 2:36 |
 | 70 | [Raumschiff](https://open.spotify.com/track/0LqVqtvi6cnPEIOpxIVN1I) | [Anton](https://open.spotify.com/artist/4W56IJDi1Hn7IAYXXQkYte), [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [Raumschiff](https://open.spotify.com/album/0RvaLDbmx9L8P3gLvQU69N) | 3:03 |
 
-Snapshot ID: `AAAAADFgmeuq1iBYajYlKLngJMVD5GrX`
+Snapshot ID: `AAAAAL879AKLjxguEczm31TUV8oBj77n`

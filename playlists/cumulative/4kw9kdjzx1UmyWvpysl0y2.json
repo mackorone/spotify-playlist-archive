@@ -15795,6 +15795,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162206,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe"
+    },
+    {
+      "album": {
         "name": "wonder years pt. 2",
         "url": "https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG"
       },

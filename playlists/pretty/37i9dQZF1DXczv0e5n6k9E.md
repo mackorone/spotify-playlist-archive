@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Saske
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,161 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,163 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FOTIA](https://open.spotify.com/track/5KD5e1AcZvf8cDvk9lMFIt) | [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [FOTIA](https://open.spotify.com/album/018vgFG2q7Gru59X6YVu2u) | 2:30 |
 | 2 | [PERCO](https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [ICE C.R.E.A.M.](https://open.spotify.com/album/2kdQSVWNpmSFk1y4g2DQDl) | 2:10 |
 | 3 | [OLA GYRNANE](https://open.spotify.com/track/5BVgJNCCdehaMG51MC7xme) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [OLA GYRNANE](https://open.spotify.com/album/0q6aT0ze14Va7UuTDSI82I) | 2:47 |
-| 4 | [SYNTAGH](https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a) | [SYNTAGH](https://open.spotify.com/album/1RW7ZSxu05jD61IOeydBAi) | 2:18 |
+| 4 | [SYNTAGH](https://open.spotify.com/track/48ZHtSECQg0LISXnGrHSum) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [SYNTAGH](https://open.spotify.com/album/1RW7ZSxu05jD61IOeydBAi) | 2:18 |
 | 5 | [ME TYRANNAEI](https://open.spotify.com/track/0CyZfSYQXaHMqeCscmbiEA) | [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX), [Pindos Atletico](https://open.spotify.com/artist/5EmSSYID5WjlrKDf5Sv0ck), [ENEM](https://open.spotify.com/artist/6ASifUtmNbT4u8x7O8YBHW), [Mpelafon](https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F), [Thel](https://open.spotify.com/artist/2NO9RoBxLVhsnFOvAKYIzE) | [ME TYRANNAEI](https://open.spotify.com/album/0uAladPvBpmmCc9VvojuJW) | 4:09 |
 | 6 | [Thelw Na Se Dw](https://open.spotify.com/track/6vSy6np4X6taAUmk8R1DTp) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Thelw Na Se Dw](https://open.spotify.com/album/6vTLwPmhUJKlUtNeUedsQw) | 2:37 |
 | 7 | [Erhmia](https://open.spotify.com/track/2UePKNtKiYpgxpAhuDOxzS) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [Erhmia](https://open.spotify.com/album/3XQSiiFtEjajpU2BHfATAf) | 2:11 |

@@ -1,6 +1,6 @@
 {
   "description": "Music from \u201cGirls Band Cry\u201d \u00a9\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-  "num_followers": 28086,
+  "num_followers": 28123,
   "original_name": "Girls Band Cry",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAGMfUCThPbG6b+MqnSPPoRIXFe/D",
   "tracks": [
+    {
+      "added_at": "2025-08-24 15:00:17",
+      "album": {
+        "name": "Mirage of the mind",
+        "url": "https://open.spotify.com/album/6g0dLOlVT78sPwUOAD1nEF"
+      },
+      "artists": [
+        {
+          "name": "TOGENASHI TOGEARI",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "duration_ms": 159279,
+      "name": "Mirage of the mind",
+      "url": "https://open.spotify.com/track/2lp8TyBhONuPg1OYjbC92l"
+    },
     {
       "added_at": "2025-08-24 15:00:17",
       "album": {

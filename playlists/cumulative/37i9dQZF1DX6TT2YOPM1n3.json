@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Home to Pakistani Hits. Cover: Afusic",
+  "description": "Home to Pakistani Hits. Cover: Asim Azhar",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -2996,12 +2996,12 @@
           "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
         },
         {
-          "name": "Justin Bibis",
-          "url": "https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5"
-        },
-        {
           "name": "Shehryar Khan",
           "url": "https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp"
+        },
+        {
+          "name": "Justin Bibis",
+          "url": "https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5"
         }
       ],
       "date_added": "2025-06-29",
@@ -3943,6 +3943,28 @@
     },
     {
       "album": {
+        "name": "thikaana",
+        "url": "https://open.spotify.com/album/3ylcDNCFhIYXlJkk66ysQe"
+      },
+      "artists": [
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Turhan James",
+          "url": "https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177499,
+      "name": "savera",
+      "url": "https://open.spotify.com/track/6F2M6zx8uXuPo5XAVsbBiV"
+    },
+    {
+      "album": {
         "name": "Saza",
         "url": "https://open.spotify.com/album/0Zybm7phKiGuSripA2hqDd"
       },
@@ -4596,7 +4618,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-26",
       "duration_ms": 175714,
       "name": "wafa",
       "url": "https://open.spotify.com/track/6e67YKatjuUkPlpey45vVU"

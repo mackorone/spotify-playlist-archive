@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\.  Cover: <a href="spotify:artist:7dsfjJOEJ0naEgecbf0lol">Btb Dezz</a>
 
-1,981 songs - 3 day 13 hr 6 min
+1,982 songs - 3 day 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,6 +1072,7 @@
 | [Make It Bang](https://open.spotify.com/track/2DdDnIzv6sxDz6iKvaeawN) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Make It Bang](https://open.spotify.com/album/172yOhWk3RJs8eoTltPhao) | 2:35 | 2024-05-24 | 2024-06-01 |
 | [Make It Boom](https://open.spotify.com/track/4skAu73SkZYXC7qpDn0fnh) | [LeVeon Bell](https://open.spotify.com/artist/7DNfpmCwtLVE6RVFYWaN5w) | [Make It Boom](https://open.spotify.com/album/0svUbzZ908kF2f6AcAs8j4) | 2:20 | 2023-08-02 | 2023-08-31 |
 | [Make It Look Sexy](https://open.spotify.com/track/03Sgcs0ua5GfNSj6nxUMvG) | [Stunna Sandy](https://open.spotify.com/artist/5M4V7RDb1KJHbuHLn1XEh0) | [Make It Look Sexy](https://open.spotify.com/album/4NGww4sc0PTeW47dsAtALE) | 2:38 | 2025-03-07 | 2025-08-01 |
+| [Make Me Better](https://open.spotify.com/track/4p41g8VwYFKu3EVOOdqpX0) | [Kaygo Gotti](https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS) | [Make Me Better](https://open.spotify.com/album/34Un35HHWrvZU0eihADXCE) | 2:14 | 2025-08-25 |  |
 | [Make Sum](https://open.spotify.com/track/1KQdJN9k9ecC1C5criS21R) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7), [Amg Twinz](https://open.spotify.com/artist/3OfCA48fJTYJMwt0ljHMhE) | [Paid Life 2](https://open.spotify.com/album/7FG8UxsUdRxrCePZ6QXqhI) | 2:42 | 2024-08-14 | 2024-09-12 |
 | [Makin It Sound](https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Makin It Sound](https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj) | 2:17 | 2023-05-17 | 2024-04-19 |
 | [Making Love](https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H) | [Treety](https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL) | [Making Love](https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9) | 2:58 | 2023-07-12 | 2024-03-21 |

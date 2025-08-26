@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-307 songs - 17 hr 18 min
+308 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Coração Radiante](https://open.spotify.com/track/1TtDOwQNcxT3YJjXcHUo80) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Coração Radiante](https://open.spotify.com/album/4TDg5WJgrlQVTWKwT6bMEg) | 3:11 | 2024-10-25 |  |
 | [Corcovado](https://open.spotify.com/track/5y4OLeQ9cwyhFXQgdOQgSY) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Corcovado](https://open.spotify.com/album/5hhug6SmgmQh1NDueAwCgA) | 2:31 | 2022-02-18 | 2022-07-29 |
 | [Cortejo](https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ), [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [Cortejo](https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF) | 2:49 | 2023-12-01 | 2024-01-13 |
-| [Cruel](https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Cruel](https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H) | 3:40 | 2022-04-01 |  |
+| [Cruel](https://open.spotify.com/track/3xJygPEkeDUonwKS5rnn7j) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [Cruel](https://open.spotify.com/album/4cdC6A0Dhofn5M0Qm1tr6H) | 3:40 | 2022-04-01 | 2025-08-26 |
 | [Cuida](https://open.spotify.com/track/7GgHgbGXgb306cL2FkD0TD) | [Fernando Pivelli](https://open.spotify.com/artist/3H6J7EMkKAnFukJQwpk0j9), [Brolo Gonzalez](https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg) | [Cuida](https://open.spotify.com/album/6sBPgcZUeScOtbUBUN5ZgF) | 2:59 | 2022-02-18 | 2022-06-24 |
 | [Céu Azul](https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Céu Azul](https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N) | 3:28 | 2022-02-18 |  |
 | [da primeira vez \(from the first time\)](https://open.spotify.com/track/63qOBLF8403qXWcfi4sAQx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [da primeira vez \(from the first time\)](https://open.spotify.com/album/2p7xzOUtZyKit5rZLfwGfY) | 3:21 | 2022-02-18 |  |
@@ -220,6 +220,7 @@
 | [PALCO](https://open.spotify.com/track/3zMgTQolE201ZTHvxWltkq) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [PALCO](https://open.spotify.com/album/11D3RPdsEaovaCBPks0908) | 4:38 | 2025-01-02 |  |
 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 | 2022-02-18 |  |
 | [Pedir Clareza](https://open.spotify.com/track/4DB37KtXBEVfn5AgZB9IDP) | [Bia Gullo](https://open.spotify.com/artist/6HYA0DTA1u3csAMBMouN5F) | [Pedir Clareza](https://open.spotify.com/album/0TRqYrYlgjIXhYVPxcm4Ke) | 3:03 | 2022-04-01 | 2022-07-03 |
+| [Pensando em Você](https://open.spotify.com/track/28SnPmRvZwsd4KtyENLWZd) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Cursi](https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC) | 2:40 | 2025-08-01 |  |
 | [Perdoa](https://open.spotify.com/track/7HZKPjrStKgnQSigwWEvia) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Perdoa](https://open.spotify.com/album/3xe8Wut7JdhvJEgOQ9V0n6) | 3:42 | 2022-04-01 | 2022-04-18 |
 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-08-25 | 2023-09-23 |
 | [Pode Se Achegar](https://open.spotify.com/track/5pmBfQ7bewBJR9dhVnqMHU) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Bagua Records](https://open.spotify.com/artist/7jwWP3mw7kRr5JitmtPItU) | [Pode Se Achegar](https://open.spotify.com/album/1ProWdFTYf1k8czB43FVge) | 3:48 | 2022-02-18 |  |

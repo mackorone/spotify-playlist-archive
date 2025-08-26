@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1093934,
+  "num_followers": 1094034,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKkEgAAAAACW/AYJ0MZYKbXSr8JnZk9G",
+  "snapshot_id": "aKpWAAAAAAAcpSWDc8TFwH0pj50BC5cN",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
-      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hijo Del Pueblo",
         "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 160866,
       "name": "El Hijo del Pueblo",
       "url": "https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estatua De Marfil",
-        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 184426,
-      "name": "Nos Estorbo la Ropa",
-      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
+      "duration_ms": 167026,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amigo El Tordillo",
-        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
+        "name": "Estatua De Marfil",
+        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 167026,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
+      "duration_ms": 184426,
+      "name": "Nos Estorbo la Ropa",
+      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Del Pueblo",
-        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "La Ley de la Vida",
-      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mexicano en la M\u00e9xico",
         "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 154733,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Hijo Del Pueblo",
+        "url": "https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "La Ley de la Vida",
+      "url": "https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr"
     },
     {
       "added_at": null,

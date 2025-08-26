@@ -4,7 +4,7 @@
 
 > ストロボライトのように光り輝く楽曲で、今日という日をスタートしよう。 Cover art painted by <a href="spotify:artist:2IUl3m1H1EQ7QfNbNWvgru">Vaundy</a>
 
-465 songs - 1 day 2 hr 56 min
+466 songs - 1 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [ひつじのショーン（Life's a Treat）\[English Cover\]](https://open.spotify.com/track/4S6bmn7y8pdotEBA7h5AMe) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [ひつじのショーン（Life's a Treat）\[English Cover\]](https://open.spotify.com/album/1EHfP9ipb4HweCWgUAee8c) | 2:37 | 2024-06-12 | 2024-07-03 |
 | [ひゅるりらぱっぱ](https://open.spotify.com/track/0J8JXuvQADkec6AThPGzjR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ひゅるりらぱっぱ](https://open.spotify.com/album/44GzMAdLPt9Yc0cIKGIYGY) | 3:20 | 2024-07-24 | 2024-12-03 |
 | [ぼくらが旅に出る理由](https://open.spotify.com/track/2rl6rmyVqCnPDJcWJvmJtC) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [ぼくらが旅に出る理由](https://open.spotify.com/album/1dUNZj0LeUM18cQLITyCpD) | 3:05 | 2023-12-19 | 2023-12-21 |
-| [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 | 2025-08-06 |  |
+| [まなざしは光](https://open.spotify.com/track/0HI4lUmOWpFzxPB5NMlAXW) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [まなざしは光](https://open.spotify.com/album/7gZ6GXk5BJNcQZfEGjiiZC) | 3:27 | 2025-08-06 | 2025-08-26 |
 | [もうどうなってもいいや](https://open.spotify.com/track/17oTdCFRG5Vp4381jehV3U) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [もうどうなってもいいや](https://open.spotify.com/album/6XMeBVW9xA5buvS6EAVbGG) | 3:23 | 2025-04-13 | 2025-08-04 |
 | [わたし、蝶々。](https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [わたし、蝶々。](https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp) | 4:24 | 2024-03-05 | 2024-05-15 |
 | [アイオライト](https://open.spotify.com/track/3Vy8LQ1tRy5GEmd7guZMee) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [アイオライト](https://open.spotify.com/album/6Mb5zRDQpkC5C8o1nUKdOI) | 2:56 | 2024-12-03 | 2024-12-18 |
@@ -398,6 +398,7 @@
 | [夜凪 \(feat\. にしな\)](https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU), [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜凪 \(feat\. にしな\)](https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU) | 3:27 | 2025-01-21 | 2025-02-26 |
 | [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 | 2024-08-28 | 2024-10-23 |
 | [実感](https://open.spotify.com/track/4WNEZez1VdU0iCJox2SYDF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [実感](https://open.spotify.com/album/2UK51SZ1pcCWX4OSKzNcA8) | 2:44 | 2024-04-23 | 2024-07-18 |
+| [幕が上がる](https://open.spotify.com/track/4yJgSqf89poSNC6zIAwMQP) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [幕が上がる](https://open.spotify.com/album/7EMnnvi7tiuruBRbW9Zr92) | 4:42 | 2025-08-20 |  |
 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 | 2024-04-23 | 2024-05-15 |
 | [幸せと災難](https://open.spotify.com/track/3kHevdk2wXCnW24J8qL1TE) | [cherie](https://open.spotify.com/artist/1nNlKcJf1h43ksIjVFKF7e) | [誰よりも幸せになれ、報われろアタシ](https://open.spotify.com/album/4AddiZdg0gTeC8V5ao9Yyi) | 4:17 | 2024-06-12 | 2024-07-03 |
 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 | 2024-02-09 | 2025-08-22 |

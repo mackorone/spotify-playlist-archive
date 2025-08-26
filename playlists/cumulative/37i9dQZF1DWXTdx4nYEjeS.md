@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-1,036 songs - 2 day 14 hr 59 min
+1,037 songs - 2 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [María \(full mix\)](https://open.spotify.com/track/69PCPRiRiVQyjnVruZIiN8) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 4:04 | 2022-04-08 | 2022-04-15 |
 | [Matando \(feat\. Vic Mirallas\)](https://open.spotify.com/track/2rEqcZX1epDxWwhOZN3UnS) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [JUAN PABLO VEGA](https://open.spotify.com/album/3EKzsn6lugXcs8C7qj7jpR) | 3:20 | 2022-04-08 | 2022-04-14 |
 | [Mba'e pa' Doña Froilana](https://open.spotify.com/track/1Lobn6i0a408P7fYWJTmMb) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mba'e pa' Doña Froilana](https://open.spotify.com/album/56sqC93aecg1ykFuBFF2Kx) | 2:30 | 2022-04-01 | 2022-04-19 |
+| [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2025-07-22 |  |
 | [Me Conquistaste](https://open.spotify.com/track/4OVZC2Ai5RXaOrmDCArYfk) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Me Conquistaste](https://open.spotify.com/album/1pC9AtIIdWrCj4bS73E6AW) | 3:51 | 2024-02-16 | 2024-04-27 |
 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 | 2022-07-04 | 2022-07-08 |
 | [Me Estoy Enamorando](https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Me Estoy Enamorando](https://open.spotify.com/album/290mTa3886xNkEyOVtC53k) | 3:35 | 2023-02-17 | 2023-05-06 |
@@ -717,7 +718,7 @@
 | [PASAN LAS HORAS](https://open.spotify.com/track/3fVPkWEVpbw5thhFAVQ7bG) | [Otro Mambo](https://open.spotify.com/artist/2A97aqvY9ztir1zVoTPF1D) | [PASAN LAS HORAS](https://open.spotify.com/album/0n4eBtlnABntIPzFj3puCP) | 4:27 | 2022-03-24 | 2022-04-02 |
 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 | 2022-01-07 | 2022-07-11 |
 | [Pasos Al Costado](https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Para Mi para Vos](https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu) | 4:16 | 2021-12-24 |  |
-| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-11-07 |  |
+| [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-11-07 | 2025-08-26 |
 | [Paternal](https://open.spotify.com/track/556UZvMxp7lWHy4tBGzYGo) | [La Chicana](https://open.spotify.com/artist/5G6S0tVzlQJD709dvAvOyQ) | [Paternal](https://open.spotify.com/album/4NfStIMnAw8JPSy1DCQ3r8) | 3:12 | 2022-04-01 | 2022-04-18 |
 | [Pediste flores \(con Loli Molina\)](https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Pediste flores \(con Loli Molina\)](https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5) | 3:13 | 2022-03-28 | 2022-04-17 |
 | [Pegaditos](https://open.spotify.com/track/64vB9IDAqDz4n03nvTENdM) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Pegaditos](https://open.spotify.com/album/4NBVHXZYaajo2hcsiU9BRl) | 3:21 | 2021-12-24 | 2022-07-29 |

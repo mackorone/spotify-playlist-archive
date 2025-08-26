@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-283 songs - 1 day 3 hr 54 min
+284 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Our Sector](https://open.spotify.com/track/67SdvYau4vfF8A3qudmcZ5) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Our Sector](https://open.spotify.com/album/2yEkcwx4spbcT8SZfmFT4s) | 3:51 | 2024-11-27 |  |
 | [Palloon](https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ) | [LWS](https://open.spotify.com/artist/1txjnpEcHM03wCprQmWxVl) | [Palloon EP](https://open.spotify.com/album/2TecJf7xnoNCZr3apHiQt3) | 8:55 | 2024-10-26 |  |
 | [Pancake](https://open.spotify.com/track/17LDWpBi3zbsQPYkbvfFYx) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Pancake](https://open.spotify.com/album/1iMxcm9GPL4sX49KIC6Mvr) | 3:47 | 2025-06-24 |  |
+| [Panorama X\-Press](https://open.spotify.com/track/01JhRTReJZFt2qPsp7nUJP) | [Gui Boratto](https://open.spotify.com/artist/27LGatz1m8aJ7ZaVVWEphc) | [Panorama X\-Press](https://open.spotify.com/album/58SohyalgUv1s6xjbsuq9x) | 5:25 | 2025-08-25 |  |
 | [Parallel Shift](https://open.spotify.com/track/2fcB7MXaQZ6ybAUiO46kHU) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Parallel Shift](https://open.spotify.com/album/6zBA1eNLLUbB5AMeU0gVi1) | 4:39 | 2024-11-11 |  |
 | [Paris, Rome](https://open.spotify.com/track/6IhbLWII6pzavV5k7Iiv6m) | [DJ CITY](https://open.spotify.com/artist/52c8wOVJiBoVy5csR9SSWj) | [Paris, Rome](https://open.spotify.com/album/3HOkXlBoFObzpIlKNP94KA) | 4:43 | 2024-11-25 |  |
 | [Pastoral Blend](https://open.spotify.com/track/63oPptuC03xg5oTNXemb9r) | [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t), [Magnus Bang Olsen](https://open.spotify.com/artist/1Q3SVJX8CjdAU14in5l0YH) | [Pastoral Blend](https://open.spotify.com/album/3w0Pq8K2dLV199ACDcsX81) | 3:36 | 2025-07-04 |  |

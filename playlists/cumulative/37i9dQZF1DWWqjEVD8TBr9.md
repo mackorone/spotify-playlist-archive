@@ -2,7 +2,7 @@
 
 ### [This Is Stray Kids](https://open.spotify.com/playlist/37i9dQZF1DWWqjEVD8TBr9)
 
-> Play the <a href="https://open.spotify.com/presents/skzstaydium"> STAYdium Champions Quiz!</a><br/>Stray Kids everywhere all around the world\. You make Stray Kids STAY.
+> Play the <a href="spotify:site:skzstaydium"> STAYdium Champions Quiz!</a><br/>Stray Kids everywhere all around the world\. You make Stray Kids STAY.
 
 363 songs - 19 hr 35 min
 

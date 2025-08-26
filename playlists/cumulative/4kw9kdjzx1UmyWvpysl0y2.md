@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,055 songs - 2 day 11 hr 8 min
+1,056 songs - 2 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -765,6 +765,7 @@
 | [RIOT \- RAIZHELL Remix](https://open.spotify.com/track/4wivSJRYwhnWeuKW3TjIEp) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [RIOT \(RAIZHELL Remix\)](https://open.spotify.com/album/2qTppH4c5EhgknBK4P8JRN) | 2:33 | 2024-05-08 | 2024-07-31 |
 | [RIOT \- Riot Ten Remix](https://open.spotify.com/track/4VmAeZuMIl1uAXtmTJe17E) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ) | [RIOT \(Riot Ten Remix\)](https://open.spotify.com/album/07QcNt9Vy78uxGc198SiYO) | 3:30 | 2024-03-15 | 2024-06-05 |
 | [Risk It All](https://open.spotify.com/track/71TPyvUHZO7tNTWjERvvwv) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18), [Deagon](https://open.spotify.com/artist/34h3uv9dVLZqv4chYpSXWw), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Risk It All](https://open.spotify.com/album/0bpxJRyDJ22ph6NOhHwpLB) | 3:44 | 2025-02-18 | 2025-05-13 |
+| [Ritual](https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Ritual](https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep) | 2:42 | 2025-08-25 |  |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
 | [Rocka](https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [No Etiquette](https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Rocka](https://open.spotify.com/album/2yzOSjguTqnEt0SbVMC5aJ) | 3:13 | 2024-09-11 | 2024-12-04 |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |

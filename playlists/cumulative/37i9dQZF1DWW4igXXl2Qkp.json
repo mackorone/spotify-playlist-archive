@@ -20641,6 +20641,24 @@
     },
     {
       "album": {
+        "name": "Make Me Better",
+        "url": "https://open.spotify.com/album/34Un35HHWrvZU0eihADXCE"
+      },
+      "artists": [
+        {
+          "name": "Kaygo Gotti",
+          "url": "https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134883,
+      "name": "Make Me Better",
+      "url": "https://open.spotify.com/track/4p41g8VwYFKu3EVOOdqpX0"
+    },
+    {
+      "album": {
         "name": "Paid Life 2",
         "url": "https://open.spotify.com/album/7FG8UxsUdRxrCePZ6QXqhI"
       },

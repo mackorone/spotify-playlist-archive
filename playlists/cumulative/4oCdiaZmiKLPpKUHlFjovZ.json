@@ -1907,6 +1907,28 @@
     },
     {
       "album": {
+        "name": "I Don't Care...",
+        "url": "https://open.spotify.com/album/1utha3BJLakow5UUB8fdYM"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215031,
+      "name": "I Don't Care...",
+      "url": "https://open.spotify.com/track/5RRIO4JSQyAEdiivATnXUq"
+    },
+    {
+      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
       },

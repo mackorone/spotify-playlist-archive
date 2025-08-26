@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 32485,
+  "num_followers": 32498,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -95,8 +95,8 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Jatra (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
         }
       ],
-      "duration_ms": 323184,
-      "name": "Ye Go Ye Ye Maina",
-      "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -195,8 +195,8 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+        "name": "Jatra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7yxiEuwgIxdPldUFVSKNGv"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
         }
       ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
+      "duration_ms": 323184,
+      "name": "Ye Go Ye Ye Maina",
+      "url": "https://open.spotify.com/track/4fKxzNxlp8vsR8Lm0pPxAV"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Pawankhind",
-        "url": "https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        },
-        {
-          "name": "Devdutta Manisha Baji",
-          "url": "https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76"
-        }
-      ],
-      "duration_ms": 260943,
-      "name": "Raja Aala",
-      "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
-    },
-    {
-      "added_at": "2025-07-29 10:53:17",
-      "album": {
         "name": "Zindagi Virat",
         "url": "https://open.spotify.com/album/3u5zc2DFWyWph8CZSW96ra"
       },
@@ -587,6 +567,38 @@
       "duration_ms": 249444,
       "name": "Malhar",
       "url": "https://open.spotify.com/track/6ULjFqw6RqaadGwCMFT3wJ"
+    },
+    {
+      "added_at": "2025-07-29 10:53:17",
+      "album": {
+        "name": "Meri Madhubala",
+        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
+      },
+      "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        }
+      ],
+      "duration_ms": 238864,
+      "name": "Meri Madhubala",
+      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
+    },
+    {
+      "added_at": "2025-07-29 10:53:17",
+      "album": {
+        "name": "Punyachi Maina",
+        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Abhijeet",
+          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
+        }
+      ],
+      "duration_ms": 96052,
+      "name": "Punyachi Maina",
+      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
     },
     {
       "added_at": "2025-07-29 10:53:17",
@@ -635,38 +647,6 @@
     {
       "added_at": "2025-07-29 10:53:17",
       "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
-        }
-      ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
-    },
-    {
-      "added_at": "2025-07-29 10:53:17",
-      "album": {
-        "name": "Meri Madhubala",
-        "url": "https://open.spotify.com/album/4IOVD2NuekSEuw2iw3IJt9"
-      },
-      "artists": [
-        {
-          "name": "Avadhoot Gupte",
-          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
-        }
-      ],
-      "duration_ms": 238864,
-      "name": "Meri Madhubala",
-      "url": "https://open.spotify.com/track/0G9uQeadXj2cGbnejEMoet"
-    },
-    {
-      "added_at": "2025-07-29 10:53:17",
-      "album": {
         "name": "Pinnak",
         "url": "https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 390321,
       "name": "Pinnak",
       "url": "https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19"
+    },
+    {
+      "added_at": "2025-07-29 10:53:17",
+      "album": {
+        "name": "Pawankhind",
+        "url": "https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em"
+      },
+      "artists": [
+        {
+          "name": "Avadhoot Gupte",
+          "url": "https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock"
+        },
+        {
+          "name": "Devdutta Manisha Baji",
+          "url": "https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76"
+        }
+      ],
+      "duration_ms": 260943,
+      "name": "Raja Aala",
+      "url": "https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8"
     },
     {
       "added_at": "2025-07-29 10:53:17",

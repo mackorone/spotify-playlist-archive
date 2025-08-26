@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e8\u05d5\u05e2\u05d9 \u05e8\u05d9\u05e7",
-  "num_followers": 32445,
+  "num_followers": 32450,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -599,46 +599,6 @@
     {
       "added_at": "2025-08-21 21:00:13",
       "album": {
-        "name": "Home \"La La La\"",
-        "url": "https://open.spotify.com/album/1vfFaZBZz6lKMfeU6cMPDT"
-      },
-      "artists": [
-        {
-          "name": "Red Axes",
-          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Home \"La La La\"",
-      "url": "https://open.spotify.com/track/56ftzomXxvahAqZlFcBsaO"
-    },
-    {
-      "added_at": "2025-08-21 21:00:13",
-      "album": {
-        "name": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
-        "url": "https://open.spotify.com/album/3S11uzkgVR29uNb1mefSZs"
-      },
-      "artists": [
-        {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        },
-        {
-          "name": "\u05e8\u05d5\u05e2\u05d9 \u05d3\u05d5\u05e8\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/1qYmjyniKKhfp73s35QPq2"
-        },
-        {
-          "name": "Quami",
-          "url": "https://open.spotify.com/artist/0dfoFqLi3zwNrUy8Q0CjyB"
-        }
-      ],
-      "duration_ms": 316206,
-      "name": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
-      "url": "https://open.spotify.com/track/6NQfMQ8TwaSOgxwoz4CBvu"
-    },
-    {
-      "added_at": "2025-08-21 21:00:13",
-      "album": {
         "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
         "url": "https://open.spotify.com/album/0SqhafySwFDOGMyvEnGF8n"
       },
@@ -667,6 +627,46 @@
       "duration_ms": 195818,
       "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05e8\u05d2\u05d9\u05e9 \u05d0\u05ea \u05d6\u05d4",
       "url": "https://open.spotify.com/track/1nJ4abP7EBzDQGRHWeK1QX"
+    },
+    {
+      "added_at": "2025-08-21 21:00:13",
+      "album": {
+        "name": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
+        "url": "https://open.spotify.com/album/3S11uzkgVR29uNb1mefSZs"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "\u05e8\u05d5\u05e2\u05d9 \u05d3\u05d5\u05e8\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/1qYmjyniKKhfp73s35QPq2"
+        },
+        {
+          "name": "Quami",
+          "url": "https://open.spotify.com/artist/0dfoFqLi3zwNrUy8Q0CjyB"
+        }
+      ],
+      "duration_ms": 316206,
+      "name": "\u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7",
+      "url": "https://open.spotify.com/track/6NQfMQ8TwaSOgxwoz4CBvu"
+    },
+    {
+      "added_at": "2025-08-21 21:00:13",
+      "album": {
+        "name": "Home \"La La La\"",
+        "url": "https://open.spotify.com/album/1vfFaZBZz6lKMfeU6cMPDT"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Home \"La La La\"",
+      "url": "https://open.spotify.com/track/56ftzomXxvahAqZlFcBsaO"
     },
     {
       "added_at": "2025-08-21 21:00:13",
@@ -783,6 +783,22 @@
     {
       "added_at": "2025-08-21 21:00:13",
       "album": {
+        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
+      },
+      "artists": [
+        {
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+        }
+      ],
+      "duration_ms": 245600,
+      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
+      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
+    },
+    {
+      "added_at": "2025-08-21 21:00:13",
+      "album": {
         "name": "\u05dc\u05d9 \u05e2\u05d5\u05d3 \u05d9\u05e9 \u05d9\u05dd \u05d1\u05ea\u05d5\u05db\u05d9",
         "url": "https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 205496,
       "name": "\u05d4\u05d1\u05e0\u05d9\u05d9\u05df \u05d4\u05d0\u05d7\u05e8\u05d5\u05df \u05d1\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1",
       "url": "https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE"
-    },
-    {
-      "added_at": "2025-08-21 21:00:13",
-      "album": {
-        "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-        "url": "https://open.spotify.com/album/7m3gaePnpW2B21eBfDMZH4"
-      },
-      "artists": [
-        {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
-        }
-      ],
-      "duration_ms": 245600,
-      "name": "\u05d1\u05d9\u05e7\u05d5\u05e8 \u05de\u05d5\u05dc\u05d3\u05ea",
-      "url": "https://open.spotify.com/track/4rT56VSPuaAJMbK73oHxzy"
     },
     {
       "added_at": "2025-08-21 21:00:13",
@@ -903,22 +903,26 @@
     {
       "added_at": "2025-08-21 21:00:13",
       "album": {
-        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
+        "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
+        "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Pulkes",
+          "url": "https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP"
         },
         {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        },
+        {
+          "name": "Tuval Haim",
+          "url": "https://open.spotify.com/artist/7bV9WTLQ86dYHoz6xFRSSH"
         }
       ],
-      "duration_ms": 196262,
-      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
+      "duration_ms": 239411,
+      "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
+      "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
