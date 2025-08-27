@@ -1,4 +1,4 @@
-## Playlists \(8754\)
+## Playlists \(8755\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8228,6 +8228,7 @@
 - [hot girl bops](/playlists/pretty/37i9dQZF1DWSoyxGghlqv5.md)
 - [hot girl sh\*t](/playlists/pretty/37i9dQZF1DWSnLm8DcIg6D.md)
 - [hyperpop](/playlists/pretty/37i9dQZF1DX7HOk71GPfSw.md)
+- [i wanna make these songs juno](/playlists/pretty/5FlKpxuzXQrDXGPrCps9zR.md)
 - [iced matcha dreams 💫](/playlists/pretty/37i9dQZF1DWWMOVAIsOBIW.md)
 - [idk.](/playlists/pretty/37i9dQZF1DX59NCqCqJtoH.md)
 - [im not gay but this doesnt help](/playlists/pretty/0gOulRKExULOXb2olkSdfa.md)
