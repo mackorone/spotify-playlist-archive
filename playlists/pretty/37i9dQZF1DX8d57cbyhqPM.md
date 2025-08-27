@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,106 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,145 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 6 | [PAY!](https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [PAY!](https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI) | 2:10 |
 | 7 | [BADMAN GANGSTA](https://open.spotify.com/track/0FU7ERQTOECwmEIaWDgdIG) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [BADMAN GANGSTA](https://open.spotify.com/album/2SbCA6xhQQ2cvE5yylnl01) | 2:23 |
 | 8 | [Touch me \(feat\. Ya Levis\)](https://open.spotify.com/track/2mYS9GGRZANA3SyzKDtRGk) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [9PM IN PARIS](https://open.spotify.com/album/4bgCdzu5K57RiKxvMM1om9) | 2:39 |
-| 9 | [Body Count](https://open.spotify.com/track/7fzclQRVoYohfPDMOx9Py8) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Classik \(Gold Réedition\)](https://open.spotify.com/album/0qZhYg7UIUqNk2W65pcEhV) | 2:40 |
+| 9 | [Body Count](https://open.spotify.com/track/7fzclQRVoYohfPDMOx9Py8) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Classik \(Gold Réédition\)](https://open.spotify.com/album/0qZhYg7UIUqNk2W65pcEhV) | 2:40 |
 | 10 | [SANGOTE](https://open.spotify.com/track/5UiZkzHdC4MXZ3Sley68VU) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [SANGOTE](https://open.spotify.com/album/3RWSwTXwgyk9eFi90b8k67) | 2:13 |
 | 11 | [MBIFE](https://open.spotify.com/track/4ooqTbjU8YF488u6WEV8v2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [FARA FARA GANG \- BDLM EXTENSION](https://open.spotify.com/album/0IbS9cqUZDG1E8ZwkZW3mO) | 3:49 |
 | 12 | [Dans la vie](https://open.spotify.com/track/0qIXtDE3VllX2AAIt8rnw5) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Dans la vie](https://open.spotify.com/album/5kM8325p1LlgJw25RxzFDl) | 2:49 |

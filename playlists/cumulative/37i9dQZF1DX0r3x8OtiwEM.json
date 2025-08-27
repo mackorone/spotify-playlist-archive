@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-18",
+      "date_removed": null,
       "duration_ms": 208264,
       "name": "In My Place - Edit",
       "url": "https://open.spotify.com/track/0AaeFlBxNLeaQelNSP9CTb"
@@ -6950,7 +6950,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
@@ -7088,6 +7088,32 @@
       "duration_ms": 215322,
       "name": "Longlivedad",
       "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
+    },
+    {
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Dinia",
+          "url": "https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198764,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
     },
     {
       "album": {
@@ -7574,7 +7600,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 255483,
       "name": "Million Miles Away",
       "url": "https://open.spotify.com/track/4wDM0nGseA8k7Eh6fHMk5w"
@@ -10764,7 +10790,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 191946,
       "name": "Senses of Comfort",
       "url": "https://open.spotify.com/track/79HByFhZMjYkMGRT5xQiDl"
@@ -12714,6 +12740,24 @@
       "duration_ms": 508786,
       "name": "The Religion of Love",
       "url": "https://open.spotify.com/track/5ySZlUYq41Pj9XV59dEoBh"
+    },
+    {
+      "album": {
+        "name": "The Remedy",
+        "url": "https://open.spotify.com/album/0IaYbZzTVe1ipJ4yn3eMXu"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "date_added": "2025-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221130,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/7lzWB5OQsulccR6ywX4JjM"
     },
     {
       "album": {

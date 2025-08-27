@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,738 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,737 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 37 | [Misage](https://open.spotify.com/track/2ed8ct9ysWH6Cp7DquMSiQ) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Randana](https://open.spotify.com/album/0RB1X637etjmDDy5bzkfVw) | 4:56 |
 | 38 | [iSVEÇ BAHARI](https://open.spotify.com/track/0qInJsghBH20hwv1yQkaUr) | [ismet Demirhan](https://open.spotify.com/artist/6JmJZt2L5BFINYsz9IldUV) | [ISMET DEMIRHAN](https://open.spotify.com/album/2N3iaWdPPDxXuMukwkdlOo) | 3:30 |
 | 39 | [Hilal As Sabá](https://open.spotify.com/track/7GqdEUaekycg98zQWpBONf) | [Naseer Shamma](https://open.spotify.com/artist/57NW7ND6Cdzrj5z8ARvUEZ) | [Maquamat Zíryáb \- Desde El Eúfrates Al Guadalquivir](https://open.spotify.com/album/1mLFGodMEuv4TqazLXlZaq) | 8:11 |
-| 40 | [El\-Fagr \(Dawn\)](https://open.spotify.com/track/0JSAqiLstBIkWDs9n5ho4D) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 7:01 |
+| 40 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
 
 Snapshot ID: `AAAAALGo33CILLSdfu4WEzC05OJAI6KM`

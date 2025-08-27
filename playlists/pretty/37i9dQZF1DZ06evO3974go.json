@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 20394,
+  "num_followers": 20398,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACRDxKW8utJdxawvUd+w2I6",
+  "snapshot_id": "aKungAAAAAB6cmg2HpeXmVlQxUpaiOhJ",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Got Yo Wingz",
+        "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Got Yo Wingz",
+      "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got Yo Wingz",
-        "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Got Yo Wingz",
-      "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 281704,
       "name": "No Way",
       "url": "https://open.spotify.com/track/25qyaJi5AbHAMhUYMDVvPF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Label Vol. 2",
-        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/65LaTW7Q12QKrF9xcMFN8M"
       },
@@ -691,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Label Vol. 2",
+        "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6DBEM7SPgNvLTDowgmxvwN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coma",
         "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 253452,
       "name": "RedBone",
       "url": "https://open.spotify.com/track/2tEvKwNUradPTkXpGnbDyv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wish Me Well",
-        "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
-      },
-      "artists": [
-        {
-          "name": "YFN Lucci",
-          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 196343,
-      "name": "Exactly How It Was",
-      "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 222720,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/48SBWnRiIs0SNfCRzM3kiN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wish Me Well",
+        "url": "https://open.spotify.com/album/3ttXfU9PV0Wkwc231ZM7cZ"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 196343,
+      "name": "Exactly How It Was",
+      "url": "https://open.spotify.com/track/2DKpn2F7S62Yr5rY89H0M6"
     },
     {
       "added_at": null,

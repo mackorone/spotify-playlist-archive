@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 685321,
+  "num_followers": 685518,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
+        "name": "The Bay (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 204820,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
+      "duration_ms": 223824,
+      "name": "The Bay - Purple Disco Machine Edit",
+      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -483,22 +487,18 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "The Bay (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
+        "name": "ON THE MOVE",
+        "url": "https://open.spotify.com/album/6qROZKGlX13YQlWjo5kYGu"
       },
       "artists": [
         {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 223824,
-      "name": "The Bay - Purple Disco Machine Edit",
-      "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
+      "duration_ms": 204820,
+      "name": "ON THE MOVE",
+      "url": "https://open.spotify.com/track/1V7f4rTLNYwRIWfEWAgtjF"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Pull Together",
-        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Pull Together",
-      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 214108,
       "name": "Money",
       "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Pull Together",
+        "url": "https://open.spotify.com/album/3vguocDvbu7tZKGu36Clun"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Pull Together",
+      "url": "https://open.spotify.com/track/4En0kUtwgYue2FoxmoEXc4"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "I Don't Mind",
         "url": "https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw"
       },
@@ -939,22 +919,6 @@
       "duration_ms": 215602,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "u can get it",
-        "url": "https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "u can get it",
-      "url": "https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -983,6 +947,42 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
+        "name": "u can get it",
+        "url": "https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "u can get it",
+      "url": "https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -995,22 +995,6 @@
       "duration_ms": 185191,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/1j7ll1vNFLdgU7XUagyFV0"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 281780,
-      "name": "Vesuvio",
-      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1031,6 +1015,22 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 281780,
+      "name": "Vesuvio",
+      "url": "https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1067,46 +1067,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Thunder",
-          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
-        }
-      ],
-      "duration_ms": 226929,
-      "name": "So High",
-      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "The Way That I Found You",
-        "url": "https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        },
-        {
-          "name": "Val Fritz",
-          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
-        }
-      ],
-      "duration_ms": 170163,
-      "name": "The Way That I Found You",
-      "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Disco Nap",
         "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
@@ -1127,6 +1087,26 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/4YFj85jwzHy0AWP31k6ux5"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt"
+        }
+      ],
+      "duration_ms": 226929,
+      "name": "So High",
+      "url": "https://open.spotify.com/track/1ndtJsgD7D4ISU5RvwQAYt"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "The Way That I Found You",
+        "url": "https://open.spotify.com/album/6dHZdDeUlrfsMgPhrdPaKs"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        },
+        {
+          "name": "Val Fritz",
+          "url": "https://open.spotify.com/artist/4SX7Vo1jIHktl3a0tveyp6"
+        }
+      ],
+      "duration_ms": 170163,
+      "name": "The Way That I Found You",
+      "url": "https://open.spotify.com/track/2xNBJd0R1881hLsFgKC9f6"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
+        "name": "That's Right (Edit)",
+        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "That's Right - Edit",
+      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2"
       },
@@ -1227,18 +1243,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "That's Right (Edit)",
-        "url": "https://open.spotify.com/album/5ffuXlm1J5vYUqWl2ODj6Z"
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 276000,
-      "name": "That's Right - Edit",
-      "url": "https://open.spotify.com/track/5kCmJdIdFqKQiiCYYpa0xo"
+      "duration_ms": 230942,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1279,46 +1299,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/0P0VBIrpCxyu6TxMwHUtAl"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 230942,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/35kNHTPFci21ZMwL7njQB9"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "SUBURBIA (after dark)",
-        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        },
-        {
-          "name": "Sonan",
-          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
-        }
-      ],
-      "duration_ms": 208200,
-      "name": "california",
-      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Please Be Mine",
         "url": "https://open.spotify.com/album/3wA7Go5n1saPzSPAzHN4B8"
       },
@@ -1343,26 +1323,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Watching Me Dance",
-        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
-      },
-      "artists": [
-        {
-          "name": "Jackson Homer",
-          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 213688,
-      "name": "Watching Me Dance",
-      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Come in, We're Open !",
         "url": "https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH"
       },
@@ -1383,6 +1343,66 @@
       "duration_ms": 231040,
       "name": "Caroline (Hold Tight)",
       "url": "https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 204366,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "SUBURBIA (after dark)",
+        "url": "https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "duration_ms": 208200,
+      "name": "california",
+      "url": "https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Watching Me Dance",
+        "url": "https://open.spotify.com/album/42ucuZRxHBLIfFDUJZoRxg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Homer",
+          "url": "https://open.spotify.com/artist/0W9bMhPWFmnO2u2ejaVDlC"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Watching Me Dance",
+      "url": "https://open.spotify.com/track/70grXZuSATODDUCXoH7MLM"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1427,26 +1447,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 204366,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Know Me",
         "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 207561,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "cinematic love",
-        "url": "https://open.spotify.com/album/5C6TUoCrNGmGCGVLYEwJ94"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 129075,
-      "name": "cinematic love",
-      "url": "https://open.spotify.com/track/69Wb51WdMcjZa1Z4O9QLHP"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
+        "name": "cinematic love",
+        "url": "https://open.spotify.com/album/5C6TUoCrNGmGCGVLYEwJ94"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 129075,
+      "name": "cinematic love",
+      "url": "https://open.spotify.com/track/69Wb51WdMcjZa1Z4O9QLHP"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/1VR8EBcLwAWs7NEg6z7Mgh"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Alsace",
-        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
-      },
-      "artists": [
-        {
-          "name": "dublon",
-          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
-        }
-      ],
-      "duration_ms": 117454,
-      "name": "Alsace",
-      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 186000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Alsace",
+        "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
+      },
+      "artists": [
+        {
+          "name": "dublon",
+          "url": "https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD"
+        }
+      ],
+      "duration_ms": 117454,
+      "name": "Alsace",
+      "url": "https://open.spotify.com/track/4JFtsiOtsOXbuXPg1qXjBX"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Take You Higher",
-        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 195944,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "Sweet Side",
         "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 225414,
       "name": "Leave Me Behind",
       "url": "https://open.spotify.com/track/4dbUtdJDtqjHEgOxt2a4Dp"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Take You Higher",
+        "url": "https://open.spotify.com/album/5cYXmvJLFKChvebPxEY4dZ"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 195944,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3Ku4AjVUdvIhXPGlytVrEe"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        }
+      ],
+      "duration_ms": 190948,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
         "name": "Wish I Knew You (Poolside Remix)",
         "url": "https://open.spotify.com/album/52aFI5IPlk9WyLyAf1qbAj"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 245938,
       "name": "Wish I Knew You - Poolside Remix",
       "url": "https://open.spotify.com/track/5WpnhoTlDXIQUk9zLuHlrx"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
-      },
-      "artists": [
-        {
-          "name": "AUGUST 08",
-          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
-        }
-      ],
-      "duration_ms": 190948,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -2087,26 +2087,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Devin Tracy",
-          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
-        }
-      ],
-      "duration_ms": 159498,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "If You Need Me",
         "url": "https://open.spotify.com/album/1npdyzxzfo4TXfzBwFbtHV"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 166341,
       "name": "If You Need Me",
       "url": "https://open.spotify.com/track/6rvaiUbF6hzi08yhGyBAfd"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
+      },
+      "artists": [
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "Devin Tracy",
+          "url": "https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT"
+        }
+      ],
+      "duration_ms": 159498,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/7t2dfE8eb0UsVYaQvDpV9d"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -2171,42 +2171,6 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 236307,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
         "name": "One On One (Cerrone Remix)",
         "url": "https://open.spotify.com/album/7oNkv3hDFC2IhcwaLWnUDi"
       },
@@ -2227,6 +2191,42 @@
       "duration_ms": 204318,
       "name": "One On One (Cerrone Remix)",
       "url": "https://open.spotify.com/track/3Ca9i2FRXcN3sWDS83rcDM"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "Hey Baby",
+        "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
+      },
+      "artists": [
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Hey Baby",
+      "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        }
+      ],
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+    },
+    {
+      "added_at": "2025-08-22 04:00:18",
+      "album": {
         "name": "Lovers In A Past Life (with Rag'n'Bone Man) [LP Giobbi Remix]",
         "url": "https://open.spotify.com/album/6LnXGn4Jb2lSb819kklrgn"
       },
@@ -2339,34 +2355,18 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+        "name": "Into the Ether",
+        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
-    },
-    {
-      "added_at": "2025-08-22 04:00:18",
-      "album": {
-        "name": "Out Of My Mind",
-        "url": "https://open.spotify.com/album/20Aptp7qjkR10TZjVCx6B2"
-      },
-      "artists": [
-        {
-          "name": "Tiffy Vera",
-          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
-        }
-      ],
-      "duration_ms": 219095,
-      "name": "Out Of My Mind",
-      "url": "https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL"
+      "duration_ms": 191061,
+      "name": "Raining in LA",
+      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -2387,18 +2387,22 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "Into the Ether",
-        "url": "https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d"
+        "name": "My All",
+        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Turbotito",
+          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
         }
       ],
-      "duration_ms": 191061,
-      "name": "Raining in LA",
-      "url": "https://open.spotify.com/track/2ZnMtfCwbUgVWIWfmEBHCv"
+      "duration_ms": 240691,
+      "name": "My All",
+      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
     },
     {
       "added_at": "2025-08-22 04:00:18",
@@ -2423,22 +2427,18 @@
     {
       "added_at": "2025-08-22 04:00:18",
       "album": {
-        "name": "My All",
-        "url": "https://open.spotify.com/album/1OcLyVBjgU7apJ6hAumLkH"
+        "name": "Out Of My Mind",
+        "url": "https://open.spotify.com/album/20Aptp7qjkR10TZjVCx6B2"
       },
       "artists": [
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
-        },
-        {
-          "name": "Turbotito",
-          "url": "https://open.spotify.com/artist/7KDd0UFR6IpSRnZmvu1CM5"
+          "name": "Tiffy Vera",
+          "url": "https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0"
         }
       ],
-      "duration_ms": 240691,
-      "name": "My All",
-      "url": "https://open.spotify.com/track/59InWAMIhtGPeN29gH5DjH"
+      "duration_ms": 219095,
+      "name": "Out Of My Mind",
+      "url": "https://open.spotify.com/track/6oyXV4ppRcEPGOkgSK68CL"
     }
   ],
   "unique_name": "Poolside Disco",

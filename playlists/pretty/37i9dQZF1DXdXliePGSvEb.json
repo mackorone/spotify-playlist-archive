@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: Jamie xx",
-  "num_followers": 73728,
+  "num_followers": 73742,
   "original_name": "Editors' picks: Best Electronic Songs of 2024",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ice Cream Dream Boy",
-        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
-      },
-      "artists": [
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Ice Cream Dream Boy",
-      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "ok </3",
         "url": "https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 204760,
       "name": "ok </3",
       "url": "https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ice Cream Dream Boy",
+        "url": "https://open.spotify.com/album/70E6Zd4UT91pZfikVcWzvQ"
+      },
+      "artists": [
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Ice Cream Dream Boy",
+      "url": "https://open.spotify.com/track/6333e0rxhxAPOz1z0pxD6j"
     },
     {
       "added_at": "2024-12-04 12:15:00",

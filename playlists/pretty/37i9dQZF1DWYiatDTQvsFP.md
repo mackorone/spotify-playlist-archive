@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop with Brandy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,125 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,595 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 74 | [No More \(Baby I'ma Do Right\)](https://open.spotify.com/track/5zn1hpm9N0ylKB7kOtpCw2) | [3LW](https://open.spotify.com/artist/2lFHVcUeJ9Gq6AZiU3ZAOa) | [3LW](https://open.spotify.com/album/7l1ra4zaCXyfr4yTby63t7) | 4:23 |
 | 75 | [All Night Long \(feat\. Puff Daddy\)](https://open.spotify.com/track/4Bh83s84d9YUiuLzeuF24N) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 3:54 |
 
-Snapshot ID: `AAAAANGvnV0BGmo07uX9xmB7yiViApi6`
+Snapshot ID: `AAAAALwRZ0tL4e3JHKoXnsXQMC3QbDj+`

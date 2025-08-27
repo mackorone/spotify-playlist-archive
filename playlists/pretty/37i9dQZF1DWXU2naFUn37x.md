@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Artie 5ive in cover della playlist con il top dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,646 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,675 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 50 | [MUSTANG](https://open.spotify.com/track/0u5PoDpDJrnVs22BPYMj3b) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ) | [MUSTANG](https://open.spotify.com/album/0JDhmVdj8E8fdUvPan7fcw) | 2:18 |
 | 51 | [Guardie & Ladri](https://open.spotify.com/track/3PTzBN7OZdyPoA60tnjIxw) | [Abby 6ix](https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P) | [The Wire: Vol 2](https://open.spotify.com/album/5dVyT0bUn4CWR4heCwfQPt) | 2:23 |
 
-Snapshot ID: `AAAAAMhJjFyAninuYUA+e51ATE8qxhmk`
+Snapshot ID: `AAAAAMSNBCVYO0+sEvKoH7LDTPiSjlwO`

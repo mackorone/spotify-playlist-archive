@@ -1,12 +1,12 @@
 {
   "description": "This is Deorro. The essential tracks, all in one playlist.",
-  "num_followers": 44240,
+  "num_followers": 44242,
   "original_name": "This Is Deorro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAAAyteyQ1etLK8iyfiLK/xi1",
+  "snapshot_id": "aKungAAAAADrmm5Y+9wZj5BeD+fHTs63",
   "tracks": [
     {
       "added_at": null,
@@ -647,42 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Front To Back",
-        "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Polar Bears",
-          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
-        }
-      ],
-      "duration_ms": 147323,
-      "name": "Front To Back",
-      "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bootie in Your Face (No Rock Drop)",
-        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        }
-      ],
-      "duration_ms": 221236,
-      "name": "Bootie in Your Face - No Rock Drop",
-      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Da Floor",
         "url": "https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L"
       },
@@ -707,22 +671,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
+        "name": "Bootie in Your Face (No Rock Drop)",
+        "url": "https://open.spotify.com/album/4hgj3VBjPw9O7buz4GlFt9"
       },
       "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         }
       ],
-      "duration_ms": 159172,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
+      "duration_ms": 221236,
+      "name": "Bootie in Your Face - No Rock Drop",
+      "url": "https://open.spotify.com/track/7HsBPZz9DNjSoknVFsOwAh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Front To Back",
+        "url": "https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "Polar Bears",
+          "url": "https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI"
+        }
+      ],
+      "duration_ms": 147323,
+      "name": "Front To Back",
+      "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
       "duration_ms": 154761,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/4OqHEI5UzCzBhFMQ8lGTk5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 159172,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s"
     },
     {
       "added_at": null,
@@ -787,26 +787,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "PINK",
-        "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
+        "name": "Shakalaka (feat. Max Styler)",
+        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
       },
       "artists": [
         {
-          "name": "8onthebeat",
-          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 221428,
-      "name": "PINK",
-      "url": "https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA"
+      "duration_ms": 176571,
+      "name": "Shakalaka (feat. Max Styler)",
+      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
     },
     {
       "added_at": null,
@@ -855,30 +859,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakalaka (feat. Max Styler)",
-        "url": "https://open.spotify.com/album/7eeEr1m8ULIGEzoYLNh4HY"
+        "name": "PINK",
+        "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+          "name": "8onthebeat",
+          "url": "https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473"
         },
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
         },
         {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Shakalaka (feat. Max Styler)",
-      "url": "https://open.spotify.com/track/6d1fBXY4DRbPPzQTMYN0ap"
+      "duration_ms": 221428,
+      "name": "PINK",
+      "url": "https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Out",
+        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "duration_ms": 172115,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
     },
     {
       "added_at": null,
@@ -907,30 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Knockout",
-        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "MAKJ",
-          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
-        },
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 143359,
-      "name": "Knockout",
-      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORRO",
         "url": "https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB"
       },
@@ -951,18 +943,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burn Out",
-        "url": "https://open.spotify.com/album/5xRfp5sHno98WcDvqYNp1x"
+        "name": "Knockout",
+        "url": "https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2"
       },
       "artists": [
         {
           "name": "Deorro",
           "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
         }
       ],
-      "duration_ms": 172115,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/0eESYf7QdT53PPSj67d87u"
+      "duration_ms": 143359,
+      "name": "Knockout",
+      "url": "https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus"
     },
     {
       "added_at": null,

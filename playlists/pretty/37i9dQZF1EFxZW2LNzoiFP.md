@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120 likes - 261 songs - 14 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 261 songs - 14 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 130 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 |
 | 131 | [Palomita Negrita](https://open.spotify.com/track/7xcBQkWMbxAvYO03q5K4YQ) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Palomita Negrita](https://open.spotify.com/album/4fz3NUIBxQlzgAX5ztB1uz) | 4:05 |
 | 132 | [Late](https://open.spotify.com/track/5HdUkEux2rUBknvnaAZdCO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:57 |
-| 133 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
-| 134 | [Black Shoes](https://open.spotify.com/track/51rMSVVM8ouSttSLL9UVsW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:14 |
+| 133 | [Black Shoes](https://open.spotify.com/track/51rMSVVM8ouSttSLL9UVsW) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:14 |
+| 134 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
 | 135 | [Twelvemonth](https://open.spotify.com/track/06Szv3oSZ2KINnzvjM2lCd) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:08 |
 | 136 | [In My Head](https://open.spotify.com/track/6UQy3o1wtZP4LUBhG1dCFQ) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [In My Head](https://open.spotify.com/album/4cgbsjwhZDUJPSMQsUX0EP) | 3:51 |
 | 137 | [Thief](https://open.spotify.com/track/0eHWxFk3UOYVGMti6sehBV) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:34 |
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 169 | [Let the Water Run](https://open.spotify.com/track/1tMTOjJqXwXDSLpNEbBNjn) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Let the Water Run](https://open.spotify.com/album/2toyRx7ndM44FiZZKIzJq7) | 3:09 |
 | 170 | [Shoes in a Glasshouse](https://open.spotify.com/track/46iD05N1ZmG3putXiUPrBg) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:52 |
 | 171 | [Desire, Momentum](https://open.spotify.com/track/4P0EFpzUBgpbZDUHE0dnsf) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:33 |
-| 172 | [I Want You](https://open.spotify.com/track/1j3AbAkEy194UQFoW8Bigh) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [I Want You](https://open.spotify.com/album/14QtxU4a0xbhJLhlRgoo2V) | 2:36 |
-| 173 | [Emmy](https://open.spotify.com/track/0mKpPlBFQEydSThgi2ar10) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:19 |
+| 172 | [Emmy](https://open.spotify.com/track/0mKpPlBFQEydSThgi2ar10) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:19 |
+| 173 | [I Want You](https://open.spotify.com/track/1j3AbAkEy194UQFoW8Bigh) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [I Want You](https://open.spotify.com/album/14QtxU4a0xbhJLhlRgoo2V) | 2:36 |
 | 174 | [The Party And The Mess](https://open.spotify.com/track/6c9IJprTmafdnhgmgEJBKq) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:57 |
 | 175 | [Chocolate Pretzels](https://open.spotify.com/track/3k542OKfoZalubk2HiTVnp) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Jigsaw](https://open.spotify.com/album/1rrNnHglilWPmloQpvMLiy) | 2:53 |
 | 176 | [Haiku](https://open.spotify.com/track/1l7KcIjZ5z43LUOSr3VPQ7) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:44 |
@@ -251,12 +251,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 241 | [Heaven](https://open.spotify.com/track/26EFvel8n1Ky0uba3Ll67H) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:38 |
 | 242 | [Pressure](https://open.spotify.com/track/6i6dlak8cGUP1I9Owj9zPq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:19 |
 | 243 | [Facade](https://open.spotify.com/track/3SyN9yQx2FHkKJd9hEG9X8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 2:02 |
-| 244 | [Lethally Reckless](https://open.spotify.com/track/7kYPGj3KX1PcnSSzge0lWn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:25 |
-| 245 | [Come Into The Light](https://open.spotify.com/track/3kjDnoYuBJ2hyU5A18GGRt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:48 |
-| 246 | [You Messed up](https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:25 |
-| 247 | [Jerks](https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:10 |
-| 248 | [Heart of Mine](https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau) | [Still Eye](https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL) | [Heart of Mine](https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg) | 3:06 |
-| 249 | [Same God](https://open.spotify.com/track/6PESnSfYX2RyK3pnCTevb0) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Same God](https://open.spotify.com/album/12FwGjEpIHteKWG3V5Kv6a) | 3:37 |
+| 244 | [Same God](https://open.spotify.com/track/6PESnSfYX2RyK3pnCTevb0) | [Ray Silvers](https://open.spotify.com/artist/1KMzsmemrnRNGISrqjaxsa) | [Same God](https://open.spotify.com/album/12FwGjEpIHteKWG3V5Kv6a) | 3:37 |
+| 245 | [Lethally Reckless](https://open.spotify.com/track/7kYPGj3KX1PcnSSzge0lWn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 2:25 |
+| 246 | [Come Into The Light](https://open.spotify.com/track/3kjDnoYuBJ2hyU5A18GGRt) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:48 |
+| 247 | [You Messed up](https://open.spotify.com/track/71Fd6U35FeS9eZnPXZWz2c) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:25 |
+| 248 | [Jerks](https://open.spotify.com/track/2mRqulmiK3UKOMZcEHWX2v) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:10 |
+| 249 | [Heart of Mine](https://open.spotify.com/track/1JTeVyVOUcSJhlWsJc2dau) | [Still Eye](https://open.spotify.com/artist/6DWaAKLqOqWs7GvEoslkTL) | [Heart of Mine](https://open.spotify.com/album/3Cy3PAQStwxw9PGvkogTBg) | 3:06 |
 | 250 | [That's Being You](https://open.spotify.com/track/5hKkEEiLxz5kJSMZblMOep) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [That's Being You](https://open.spotify.com/album/2XUDKyZObzSKbR0TmBtBlC) | 3:50 |
 | 251 | [When I Come Back](https://open.spotify.com/track/0GCHW7uIaVh4WBUI2QIkSO) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:44 |
 | 252 | [Alright Baby](https://open.spotify.com/track/1c2KKxEs9EP8xudOpiVwZi) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:28 |
@@ -270,4 +270,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 260 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 261 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `Ab6eiAAAAADJ3ORySPZxRoXv4aF/zAn0`
+Snapshot ID: `Ab6kHgAAAADAY0Pg1hPip/lF2IVKeMn0`

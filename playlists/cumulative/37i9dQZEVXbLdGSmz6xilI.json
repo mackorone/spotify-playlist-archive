@@ -4464,7 +4464,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "CH\u00c2N TH\u00c0NH (feat. RHYDER, Captain, Quang H\u00f9ng MasterD, WEAN & Ali Ho\u00e0ng D\u01b0\u01a1ng)",
       "url": "https://open.spotify.com/track/26zqmmkqUK6mCc87XDzPym"
@@ -8034,7 +8034,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 163754,
       "name": "Feel At Home",
       "url": "https://open.spotify.com/track/7uulTURh3qtUEUnMNtgcA6"
@@ -10210,7 +10210,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 222000,
       "name": "H\u1eb9n G\u1eb7p Em D\u01b0\u1edbi \u00c1nh Tr\u0103ng",
       "url": "https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n"
@@ -14758,7 +14758,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 235315,
       "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y - Extended Version",
       "url": "https://open.spotify.com/track/36fgG6NiEuQXznNgf5y2Ck"
@@ -22008,7 +22008,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 224761,
       "name": "Th\u1ea3 Anh Ra",
       "url": "https://open.spotify.com/track/01oJRNQrFwJu3jgGVo8K58"
@@ -23468,7 +23468,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 252500,
       "name": "T\u1eebng L\u00e0",
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
@@ -23774,7 +23774,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/5PLjpBivzvuaIIqqkQgnRK"
@@ -24220,6 +24220,28 @@
       "duration_ms": 177230,
       "name": "V\u1ec0 QU\u00ca (feat. Mikelodic & \u0110\u1eb7ng Th\u00e1i B\u00ecnh)",
       "url": "https://open.spotify.com/track/4UOxcZqszxN9FD42DqHrVi"
+    },
+    {
+      "album": {
+        "name": "EM XINH \"SAY HI\", T\u1eacP 13",
+        "url": "https://open.spotify.com/album/4dOJ0eyndNfKQnrpDoFS0e"
+      },
+      "artists": [
+        {
+          "name": "EM XINH \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/1I5CkmtLVWLUygTT3cLr5X"
+        },
+        {
+          "name": "Ph\u01b0\u01a1ng Ly",
+          "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241024,
+      "name": "V\u1ed6 TAY",
+      "url": "https://open.spotify.com/track/4NLtxANI9YZgZbrZdOaSZJ"
     },
     {
       "album": {

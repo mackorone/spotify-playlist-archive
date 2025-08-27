@@ -4,7 +4,7 @@
 
 > Classical music to help children and young minds focus.
 
-102 songs - 7 hr 8 min
+103 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Carmen Suite No\. 1 \(Arr\. E\. Guiraud\): III\. Intermezzo](https://open.spotify.com/track/1XYP1otdfll3bjyBTLn9kM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orquestra Simfònica de Barcelona i Nacional de Catalunya](https://open.spotify.com/artist/3JMtC2Qi46h2vcbJfVYlgy), [Pablo González](https://open.spotify.com/artist/5cbPW0TtDXFDVlFHlUMPjD) | [Bizet: Carmen & L'arlésienne Suites](https://open.spotify.com/album/2T30CdjZ39L3feUj5gJubB) | 2:48 | 2024-09-12 |  |
 | [Carmen Suite No\. 2: 2\. Habanera](https://open.spotify.com/track/0H7LRye21kQjDfHVqnGoiM) | [Georges Bizet](https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [Semyon Bychkov](https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht) | [Bizet: Carmen Suites; L'Arlésienne Suites](https://open.spotify.com/album/5RAc2jGlZHSTa0ADz4antD) | 2:02 | 2024-09-12 |  |
 | [Carnival of the Animals: XIII\. The Swan](https://open.spotify.com/track/7wlb5ql7qloOg9OjEN9PXg) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Barry Wordsworth](https://open.spotify.com/artist/5sjJnaI3YhaO8KylpJk3gN), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Saint\-Saëns: Carnival of the Animals; Bizet: Jeux d'enfants; Ravel: Mother Goose](https://open.spotify.com/album/4Qx7DzoPlvbA4z7e6JUf9R) | 2:58 | 2024-09-12 |  |
+| [Children's Album, Op\. 39: No\. 21, Sweet Dreams](https://open.spotify.com/track/3RcqfI7qd4jYgdReTnTPR7) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Tchaikovsky: Children's Album, Op\. 39: No\. 21, Sweet Dreams](https://open.spotify.com/album/10mpmaq2FmGOM3HeUHtis0) | 3:01 | 2025-08-26 |  |
 | [Comptine d'un autre été : L'Après\-midi \(Arr\. for Guitar by Sérgio Assad\) \- From "Amelie"](https://open.spotify.com/track/7skAmwWY8U9hD2BJiyb9SW) | [Plínio Fernandes](https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8) | [Comptine d'un autre été : L'Après\-midi \(Arr\. for Guitar by Sérgio Assad\) \[From "Amelie"\]](https://open.spotify.com/album/3wAhKFSXQpMQ4sC3xkii5T) | 3:36 | 2024-09-12 |  |
 | [Dance of the Hours from Act III of "La Gioconda"](https://open.spotify.com/track/1soMXO5dHguB4ZVTVhcces) | [Amilcare Ponchielli](https://open.spotify.com/artist/088fpww3Ae4U9cMZv5O6m8), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv) | [Bizet: Carmen Suites No\. 1 & No\. 2, L'Arlésienne Suites No\. 1 & No\. 2, Dance of the Hours from La Gioconda](https://open.spotify.com/album/6O4ef7EDUtGvVeouYeLU4r) | 10:20 | 2024-09-12 |  |
 | [Deep Sea Pastures](https://open.spotify.com/track/4F8yEnyAZOQHkgb3oW7xhu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Ponyo on the Cliff by the Sea Soundtrack](https://open.spotify.com/album/15rOJIfBtL56saE9EIlocm) | 4:18 | 2024-09-12 | 2024-11-09 |

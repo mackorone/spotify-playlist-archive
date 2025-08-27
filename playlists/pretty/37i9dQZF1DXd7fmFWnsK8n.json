@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3\u306e\u714c\u3073\u3084\u304b\u306a\u7269\u8a9e\u3092\u5f69\u308b\u697d\u66f2\u305f\u3061\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Enjoy Music from the game & anime series of \u201cIDOLiSH 7\u201d!  \u00a9\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3",
-  "num_followers": 71629,
+  "num_followers": 71632,
   "original_name": "\u30a2\u30a4\u30c9\u30ea\u30c3\u30b7\u30e5\u30bb\u30d6\u30f3 -IDOLiSH7-",
   "owner": {
     "name": "Spotify",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
-      },
-      "artists": [
-        {
-          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
-          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
-        }
-      ],
-      "duration_ms": 258385,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "REGALITY",
         "url": "https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 251520,
       "name": "Risky\u306a\u5f7c\u5973",
       "url": "https://open.spotify.com/track/27uRFGVGrkUACe5EvS35ah"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM"
+      },
+      "artists": [
+        {
+          "name": "\u9022\u5742\u58ee\u4e94 (CV.\u963f\u90e8 \u6566)",
+          "url": "https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5"
+        }
+      ],
+      "duration_ms": 258385,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc"
     },
     {
       "added_at": "2025-06-09 15:00:27",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-06-09 15:00:27",
       "album": {
-        "name": "SEPTET for...",
-        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
-      },
-      "artists": [
-        {
-          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
-          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "SEPTET for...",
-      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
-    },
-    {
-      "added_at": "2025-06-09 15:00:27",
-      "album": {
         "name": "100%\u30cf\u30d4\u30cd\u30b9",
         "url": "https://open.spotify.com/album/2PrKTNIToXC8a8oZLAAQOG"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 269160,
       "name": "100%\u30cf\u30d4\u30cd\u30b9",
       "url": "https://open.spotify.com/track/5UNiqysZNXw5IBHnMQ5G4w"
+    },
+    {
+      "added_at": "2025-06-09 15:00:27",
+      "album": {
+        "name": "SEPTET for...",
+        "url": "https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u702c \u9678 (CV.\u5c0f\u91ce\u8ce2\u7ae0)",
+          "url": "https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "SEPTET for...",
+      "url": "https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb"
     },
     {
       "added_at": "2025-06-09 15:00:27",

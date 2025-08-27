@@ -1,29 +1,13 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 147864,
+  "num_followers": 147878,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACUT4nzBMqIIH8mmW7DwoSE",
+  "snapshot_id": "aKungAAAAAAL7H85pY+gPj6CwdgbSSIR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Moment",
-        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 361466,
-      "name": "The Moment",
-      "url": "https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 179573,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Moment",
+        "url": "https://open.spotify.com/album/49jsFbezskbuL7UtICmrJp"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 361466,
+      "name": "The Moment",
+      "url": "https://open.spotify.com/track/2YpjoEkXlkT5TBM2T7Hzkh"
     },
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 252866,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/0Wt0LiQPwDLEu6d1iH4b1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/4wukH3ea6NqekDg98qB9F2"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultimate Kenny G",
-        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
-      "url": "https://open.spotify.com/track/5U1K5WABwd5WF63b1Nd7ej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 194373,
       "name": "You Raise Me Up",
       "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ultimate Kenny G",
+        "url": "https://open.spotify.com/album/6lVaVyy7ehMXdT2sAJek0P"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 261453,
+      "name": "My Heart Will Go On (Love Theme from \"Titanic\")",
+      "url": "https://open.spotify.com/track/5U1K5WABwd5WF63b1Nd7ej"
     },
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
+        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "If",
+      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Time, Love & Tenderness",
         "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 273306,
       "name": "Missing You Now (feat. Kenny G)",
       "url": "https://open.spotify.com/track/7ho5FKdNqmmbCpXYcyDH8c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
-        "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "If",
-      "url": "https://open.spotify.com/track/05CovbrGQALQUh4yVonNfa"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 256506,
-      "name": "Going Home - Edit",
-      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 170360,
       "name": "The Way We Were",
       "url": "https://open.spotify.com/track/2jpLlNuAPP7vZY7ohQh5ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "duration_ms": 256506,
+      "name": "Going Home - Edit",
+      "url": "https://open.spotify.com/track/7klcN1Hjle0xBe2KQsYGxY"
     },
     {
       "added_at": null,
@@ -339,26 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
-      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm In The Mood For Love ... The Most Romantic Melodies Of All Time",
         "url": "https://open.spotify.com/album/1rmAJAh6Q0AeJHetJPaMvM"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 281906,
       "name": "Heart And Soul - Live",
       "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
+      },
+      "artists": [
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "How Could an Angel Break My Heart (with Toni Braxton)",
+      "url": "https://open.spotify.com/track/4ViVDWlmKfGff25okNzGcC"
     },
     {
       "added_at": null,

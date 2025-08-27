@@ -21697,6 +21697,24 @@
     },
     {
       "album": {
+        "name": "Hot In This",
+        "url": "https://open.spotify.com/album/4824pzDFUulf6WpYaRw3la"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Hot In This",
+      "url": "https://open.spotify.com/track/03MlbQtvE4QD9gdjFAhZqg"
+    },
+    {
+      "album": {
         "name": "Hot Wax On The Floor",
         "url": "https://open.spotify.com/album/0WBZ95dM6ce5Ik7orirt85"
       },

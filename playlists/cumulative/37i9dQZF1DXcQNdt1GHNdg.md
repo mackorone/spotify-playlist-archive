@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-261 songs - 12 hr 31 min
+262 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-07-01 | 2025-01-18 |
 | [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-04 | 2025-07-12 |
 | [5 Goliya](https://open.spotify.com/track/1gYzYz5QwLSW29CEQo1jvy) | [PATHAN](https://open.spotify.com/artist/6ZovwTuFyxarrAz7BWaitv), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [5 Goliya](https://open.spotify.com/album/5UBGakWYeuKkA3YaPsn37p) | 2:21 | 2025-08-20 |  |
+| [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 | 2025-08-26 |  |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-01-30 | 2025-02-04 |
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2025-01-28 |  |
 | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/track/6uwfPoH4JwdtD9b4mjZeZz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Aaye Haaye \(Feat\. Nora Fatehi\)](https://open.spotify.com/album/7hBrHnIBbiPhV0mCKZZvdC) | 3:15 | 2024-12-05 | 2025-03-11 |
@@ -267,7 +268,7 @@
 | [WEEKEND](https://open.spotify.com/track/48etPdlHxXdmOEVB7xf334) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [WEEKEND](https://open.spotify.com/album/5CbFlQymrBrU41FMAhMhrR) | 1:58 | 2025-03-21 | 2025-05-25 |
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-05-16 | 2024-06-04 |
 | [Without You](https://open.spotify.com/track/6WAe9XRAVyTzPjIAi6mQin) | [Ali Brothers](https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Shah Ali](https://open.spotify.com/artist/1akQWAZNKrFJWxqVQDiTa4) | [Without You](https://open.spotify.com/album/0zlxA5zhujNqOVerHKI9zN) | 3:27 | 2024-11-06 | 2024-11-21 |
-| [Wzr Tank](https://open.spotify.com/track/7mElRKzovHlGtMzdzbB1N0) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:22 | 2025-08-13 |  |
+| [Wzr Tank](https://open.spotify.com/track/7mElRKzovHlGtMzdzbB1N0) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [WZR TANK](https://open.spotify.com/album/10yWo0RWJqR7XCSN9rU3gw) | 2:22 | 2025-08-13 | 2025-08-27 |
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-07-18 | 2024-12-06 |
 
 \*This playlist was first scraped on 2023-07-25. Prior content cannot be recovered.

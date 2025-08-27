@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mervin Mayo, Dottie Peoples & The Peoples Choice Chorale, Kurt Carr and more
+> With Tramaine Hawkins, Tasha Page\-Lockhart, Dottie Peoples & The Peoples Choice Chorale and more
 
 1,829 songs - 5 day 18 hr 44 min
 

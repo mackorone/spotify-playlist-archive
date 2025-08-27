@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Peer Kusiv
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,607 likes - 90 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,836 likes - 90 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

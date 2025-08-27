@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165349,
+  "num_followers": 165359,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,50 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "SUUNE",
+          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 186751,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "Hijack",
+        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 155913,
+      "name": "Hijack",
+      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
         "name": "Stop & Search",
         "url": "https://open.spotify.com/album/1tcqS2dDfgCNfSDnBeMbPa"
       },
@@ -395,50 +439,6 @@
       "duration_ms": 202858,
       "name": "Stop & Search",
       "url": "https://open.spotify.com/track/2Vo4v0z35aGBQ5uSyfiE2k"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
-        "name": "Hijack",
-        "url": "https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h"
-      },
-      "artists": [
-        {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
-        },
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 155913,
-      "name": "Hijack",
-      "url": "https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "SUUNE",
-          "url": "https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 186751,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 205517,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/3KVezVSkQD5E4l4sMVZEKm"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 208457,
       "name": "Voices",
       "url": "https://open.spotify.com/track/542RuKAa7204eeEjbAm9Vh"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3pNxlmza89XpVlLGlQ8JRM"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 205517,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/1gewxLCOFAUMimCaClzZEc"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -907,30 +907,6 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "We Love Drum & Bass",
-        "url": "https://open.spotify.com/album/29z2vONpk9RyvPueUGwTNF"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 165257,
-      "name": "We Love Drum & Bass",
-      "url": "https://open.spotify.com/track/31DqPeaEO0tiYLz4u1U4mb"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
         "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
         "url": "https://open.spotify.com/album/3c7tJnWUuYVCpcmeia459g"
       },
@@ -955,6 +931,30 @@
       "duration_ms": 226022,
       "name": "Brick Lane (feat. D Double E, Morrisson & Catching Cairo)",
       "url": "https://open.spotify.com/track/6FR9pKjugKwdb4JQcrVizK"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "We Love Drum & Bass",
+        "url": "https://open.spotify.com/album/29z2vONpk9RyvPueUGwTNF"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 165257,
+      "name": "We Love Drum & Bass",
+      "url": "https://open.spotify.com/track/31DqPeaEO0tiYLz4u1U4mb"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -991,6 +991,22 @@
       "duration_ms": 189500,
       "name": "Frequency",
       "url": "https://open.spotify.com/track/1CpWvNIGcsDYHd1ZL7uY9v"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "Royalties and Loyalties",
+        "url": "https://open.spotify.com/album/1qIvbtMe37FM7JfAZY9o9p"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "duration_ms": 130444,
+      "name": "Royalties & Loyalties",
+      "url": "https://open.spotify.com/track/25rivsEvf6kh1XwgyR4CUr"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -1115,26 +1131,6 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "MMM",
-        "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
-      },
-      "artists": [
-        {
-          "name": "L\u00c4UFF",
-          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
-        },
-        {
-          "name": "Queen Millz",
-          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "MMM",
-      "url": "https://open.spotify.com/track/0rmAW2aJTudKM6uoknmYVw"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
         "name": "Mob Deep",
         "url": "https://open.spotify.com/album/2TjLCvrgccR5RjdACRDZgC"
       },
@@ -1159,6 +1155,26 @@
       "duration_ms": 237267,
       "name": "Mob Deep",
       "url": "https://open.spotify.com/track/0WpgioIi0lNOaYHrMaRn2S"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "MMM",
+        "url": "https://open.spotify.com/album/4RCXmMIMNSRZZauSVHjSkw"
+      },
+      "artists": [
+        {
+          "name": "L\u00c4UFF",
+          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
+        },
+        {
+          "name": "Queen Millz",
+          "url": "https://open.spotify.com/artist/2pFjYsNEe6hIBcRH4PT8m0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "MMM",
+      "url": "https://open.spotify.com/track/0rmAW2aJTudKM6uoknmYVw"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "Royalties and Loyalties",
-        "url": "https://open.spotify.com/album/1qIvbtMe37FM7JfAZY9o9p"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 130444,
-      "name": "Royalties & Loyalties",
-      "url": "https://open.spotify.com/track/25rivsEvf6kh1XwgyR4CUr"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
         "name": "CHA",
         "url": "https://open.spotify.com/album/2suaRLhY4QywdFZztYoEAw"
       },
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "Freak Out",
-        "url": "https://open.spotify.com/album/6YCaD2ZExyy10c99NxKVBD"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 LaVice",
-          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
-        },
-        {
-          "name": "Spor",
-          "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
-        }
-      ],
-      "duration_ms": 245517,
-      "name": "Freak Out",
-      "url": "https://open.spotify.com/track/0CCf2rqQQj1f49fFGmcLe8"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
         "name": "If We Ever (Remixes)",
         "url": "https://open.spotify.com/album/3yyGJtGzasr89dJ117h2ML"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 367976,
       "name": "If We Ever - Unglued VIP Remix",
       "url": "https://open.spotify.com/track/0b6KX6JqqiFt4T1yWwr4LD"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "Freak Out",
+        "url": "https://open.spotify.com/album/6YCaD2ZExyy10c99NxKVBD"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 LaVice",
+          "url": "https://open.spotify.com/artist/0e5WyCWPCJT91whT3lFT4v"
+        },
+        {
+          "name": "Spor",
+          "url": "https://open.spotify.com/artist/42EZt9LfgsaF0WHlDC3FoM"
+        }
+      ],
+      "duration_ms": 245517,
+      "name": "Freak Out",
+      "url": "https://open.spotify.com/track/0CCf2rqQQj1f49fFGmcLe8"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
+        "name": "Champion Ting / Mouse Trap",
+        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Champion Ting",
+      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV"
       },
@@ -1559,26 +1575,6 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5OFYWIaj2LruCihkQipBgQ"
-      },
-      "artists": [
-        {
-          "name": "SIREN",
-          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 226206,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/2nthNUBMT1nrgZII1mopKM"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
         "name": "Bad Boy Sound",
         "url": "https://open.spotify.com/album/0u8ZhD9UF6avntLFjY48im"
       },
@@ -1595,6 +1591,26 @@
       "duration_ms": 201600,
       "name": "Bad Boy Sound",
       "url": "https://open.spotify.com/track/01lMETOJim0OHTjm58kTpP"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5OFYWIaj2LruCihkQipBgQ"
+      },
+      "artists": [
+        {
+          "name": "SIREN",
+          "url": "https://open.spotify.com/artist/5GCrxFLckjsBYwr3FTQWir"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2nthNUBMT1nrgZII1mopKM"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -1627,78 +1643,6 @@
       "duration_ms": 166285,
       "name": "Everybody Over",
       "url": "https://open.spotify.com/track/4No1alSr6ux0ttjJqjAx8A"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/6dWdwYTjtfCc7rw2EHnZpC"
-      },
-      "artists": [
-        {
-          "name": "Diagnostix",
-          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
-        },
-        {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3nr89FMtKOMBj2hIe2uzIG"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/6H4Ty8tWDmDZLWe6zckXSi"
-      },
-      "artists": [
-        {
-          "name": "Blooom",
-          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
-        },
-        {
-          "name": "Phace",
-          "url": "https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5"
-        }
-      ],
-      "duration_ms": 174418,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/3ltMH0Qk0hp8diFx60ioIb"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
-        "name": "Champion Ting / Mouse Trap",
-        "url": "https://open.spotify.com/album/7z4JzoJBb3pgCPIbhGpmQl"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Champion Ting",
-      "url": "https://open.spotify.com/track/1suL6QTR6nYHmvLkWaRMGs"
-    },
-    {
-      "added_at": "2025-08-22 09:12:01",
-      "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/0rCsWD9BEuZ0f1B30WAFyM"
-      },
-      "artists": [
-        {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        }
-      ],
-      "duration_ms": 180862,
-      "name": "Rewind",
-      "url": "https://open.spotify.com/track/3A46AtPYhGUejVm1ooJurs"
     },
     {
       "added_at": "2025-08-22 09:12:01",
@@ -1739,6 +1683,58 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/6H4Ty8tWDmDZLWe6zckXSi"
+      },
+      "artists": [
+        {
+          "name": "Blooom",
+          "url": "https://open.spotify.com/artist/3Xtaqhj8MygkfndSArQOOS"
+        },
+        {
+          "name": "Phace",
+          "url": "https://open.spotify.com/artist/3o46xaXZd75wUeb2Zfc4o5"
+        }
+      ],
+      "duration_ms": 174418,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/3ltMH0Qk0hp8diFx60ioIb"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/0rCsWD9BEuZ0f1B30WAFyM"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        }
+      ],
+      "duration_ms": 180862,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3A46AtPYhGUejVm1ooJurs"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
+        "name": "Loud Enuff",
+        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Loud Enuff",
+      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
+    },
+    {
+      "added_at": "2025-08-22 09:12:01",
+      "album": {
         "name": "From The Dirt",
         "url": "https://open.spotify.com/album/5a87llnssLqkYFKLD0pqoL"
       },
@@ -1759,18 +1755,22 @@
     {
       "added_at": "2025-08-22 09:12:01",
       "album": {
-        "name": "Loud Enuff",
-        "url": "https://open.spotify.com/album/25qNcSGObLXHH3xu76ZmPR"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/6dWdwYTjtfCc7rw2EHnZpC"
       },
       "artists": [
         {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+          "name": "Diagnostix",
+          "url": "https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
         }
       ],
-      "duration_ms": 177977,
-      "name": "Loud Enuff",
-      "url": "https://open.spotify.com/track/10sy3wFzQSZGUyFZ60quBP"
+      "duration_ms": 178000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3nr89FMtKOMBj2hIe2uzIG"
     },
     {
       "added_at": "2025-08-22 09:12:01",

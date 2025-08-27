@@ -1,12 +1,12 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 90436,
+  "num_followers": 90462,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAADTv9XQndGLIVavC0tDrRhj",
+  "snapshot_id": "aKungAAAAABlp+6Jv20sF9Tm8t53vZjo",
   "tracks": [
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life (with Stick Figure) [2017]",
-        "url": "https://open.spotify.com/album/5X1KWRLAGVcqe4OIgFI23P"
-      },
-      "artists": [
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "Good Life (with Stick Figure) - 2017",
-      "url": "https://open.spotify.com/track/7GM1icCPWW3nRxa9p1mS3B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 255986,
       "name": "Mind Block (with Eric Rachmany)",
       "url": "https://open.spotify.com/track/6aZGYH9pDOFew9SvIKwi5M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Life (with Stick Figure) [2017]",
+        "url": "https://open.spotify.com/album/5X1KWRLAGVcqe4OIgFI23P"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Good Life (with Stick Figure) - 2017",
+      "url": "https://open.spotify.com/track/7GM1icCPWW3nRxa9p1mS3B"
     },
     {
       "added_at": null,

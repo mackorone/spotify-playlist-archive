@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-393 songs - 1 day 1 hr 12 min
+394 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bad \(feat\. Tiara Thomas\)](https://open.spotify.com/track/19JoqD0UEmqnQ0ynmCAQwp) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [The Gifted](https://open.spotify.com/album/2m1DkB7oqaZu8BzAAUfwlq) | 4:15 | 2025-03-20 |  |
 | [BAD LUCK](https://open.spotify.com/track/5YbHnEYZFkOxLsp5syLMLy) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2024-01-31 | 2025-05-03 |
 | [Baddest In The Room](https://open.spotify.com/track/6bAhP5wDZy04YjQ1NTcyO5) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Baddest In The Room](https://open.spotify.com/album/0JRe0RRdmICAqEL2lRHozi) | 2:38 | 2024-09-20 |  |
-| [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2024-01-31 |  |
+| [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2024-01-31 | 2025-08-27 |
 | [Beauty](https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:32 | 2021-12-15 |  |
 | [Belong To You \(feat\. Babyface Ray\)](https://open.spotify.com/track/4qulzmZFfKLVcfpGXXCP9H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 | 2025-04-15 | 2025-05-24 |
 | [Best I Ever Had](https://open.spotify.com/track/4AcScHuxr9xAqqyxxTMAhu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [So Far Gone](https://open.spotify.com/album/2podUJIFG8hLfFz7Kqe8yJ) | 4:17 | 2023-02-10 | 2023-02-14 |
@@ -377,6 +377,7 @@
 | [Wanna Get To Know You](https://open.spotify.com/track/1dHJETCn2X1R1YwVlMvSza) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 4:25 | 2023-02-10 | 2024-02-01 |
 | [Want You To Know](https://open.spotify.com/track/6IVLiauRmCuD8m3po0iIgN) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You](https://open.spotify.com/album/7MXxt6ult07PrDraCxb5EK) | 2:48 | 2024-09-06 | 2025-02-15 |
 | [WEDDING RING](https://open.spotify.com/track/7boDJJgJGKjpoCLoSMcN8S) | [Angelo LeRoi](https://open.spotify.com/artist/4hLayOyRTBsFvYKkYQFyU7) | [eLRoi](https://open.spotify.com/album/50cscoH3EOtUERQOhfc8Iq) | 2:43 | 2025-08-15 |  |
+| [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 | 2025-08-25 |  |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-02-11 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [New Light](https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4) | 3:08 | 2021-12-15 | 2022-10-15 |
 | [What You Deserve](https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:55 | 2021-12-15 | 2022-07-29 |

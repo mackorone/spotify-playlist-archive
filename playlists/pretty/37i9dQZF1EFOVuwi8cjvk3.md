@@ -177,8 +177,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 167 | [Multifaceted](https://open.spotify.com/track/5j0Vc0Kw3lZ8yBDXDGvMzd) | [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [Real Back In Style](https://open.spotify.com/album/4ZXd1RIxHGNExQjajXcdV3) | 2:57 |
 | 168 | [Since You Asked Kindly](https://open.spotify.com/track/3vybpXzMgBMsK9Nd2Ce7qh) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [III](https://open.spotify.com/album/4E8q20fmm8onDCc7NK217d) | 4:41 |
 | 169 | [Drama Never Ends](https://open.spotify.com/track/6814K8HVe6Kof32m54iFMf) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Southpaw \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/21CZUn61aoVz08xU4wwfru) | 3:16 |
-| 170 | [I Lie Awake Every Night](https://open.spotify.com/track/1a5jmqiiVfoNmAjy9Y0F6h) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/0ogfX6dIoYgTRhgnwrkaEn) | 3:19 |
-| 171 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
+| 170 | [Rich Boy](https://open.spotify.com/track/6TJcnosIlDjN5RBdkCphXJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:21 |
+| 171 | [I Lie Awake Every Night](https://open.spotify.com/track/1a5jmqiiVfoNmAjy9Y0F6h) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [We Move](https://open.spotify.com/album/0ogfX6dIoYgTRhgnwrkaEn) | 3:19 |
 | 172 | [The Hearse](https://open.spotify.com/track/4m5FWGEd8DfUc07FvXxfeU) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/031aHK0JF964V8dBPtQ51u) | 2:04 |
 | 173 | [Bish Bounce](https://open.spotify.com/track/20HlDD6s3Twz0cslCXUxZJ) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:59 |
 | 174 | [Anyone Else](https://open.spotify.com/track/1eODKJsDYI8nIiRDYRP4IO) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [These Days](https://open.spotify.com/album/2kNenbLKTv6Ip65v6nWmF0) | 3:43 |
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVuwi8cjvk3.md) - [plain]
 | 241 | [Get Yo Change \(feat\. Pheo.\)](https://open.spotify.com/track/5qXQhyfZlMwAtnP0H9YEqr) | [Cashius Green](https://open.spotify.com/artist/5D85yGRQivakow0BIzakBn), [Pheo](https://open.spotify.com/artist/6xVKebTvUskmVsvIZpK0jy) | [Right Now](https://open.spotify.com/album/3MxSNUbyJGRI8ERAaHHWmb) | 3:06 |
 | 242 | [Lost](https://open.spotify.com/track/6agJafc27z0MwdEDyaVGPN) | [Kateel](https://open.spotify.com/artist/4egOVLqYZVVI4gwzMAcRlT) | [Lost](https://open.spotify.com/album/7xkfLCegBO0SnTIJ1qzChA) | 2:07 |
 
-Snapshot ID: `Ab6efgAAAADtQxAWkMr+xwrCXV7ham6B`
+Snapshot ID: `Ab6kHgAAAAA39fcosXKifstMJ4Df76Q9`

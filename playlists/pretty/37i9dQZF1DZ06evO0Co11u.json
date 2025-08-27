@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 194396,
+  "num_followers": 194408,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAAD23lf3zGtRKaWKZ29L0JeM",
+  "snapshot_id": "aKungAAAAAAK0socsJVAcQDik8yFANP1",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Great Reunion",
+        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 240040,
+      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
         "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
@@ -699,22 +719,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Reunion",
-        "url": "https://open.spotify.com/album/6wzvXoJA93qyTqjf4Ebeoz"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
         }
       ],
-      "duration_ms": 240040,
-      "name": "It Don't Mean a Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/4M5Mnz9ORqaMMUAgKtv3bI"
+      "duration_ms": 221173,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 119026,
+      "name": "Give Me Your Kisses",
+      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
     },
     {
       "added_at": null,
@@ -743,38 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 119026,
-      "name": "Give Me Your Kisses",
-      "url": "https://open.spotify.com/track/4yUtq7b6NX0zDGKUsgQIzG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Satchmo Serenades",
         "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
       },
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Decca Singles 1935-1946",
-        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 190976,
-      "name": "The Frim Fram Sauce",
-      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
+      "duration_ms": 133266,
+      "name": "I Still Get Jealous",
+      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
     },
     {
       "added_at": null,
@@ -831,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
+        "name": "The Decca Singles 1935-1946",
+        "url": "https://open.spotify.com/album/7FGPCE2hkcKrlGIpfnOSdW"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 133266,
-      "name": "I Still Get Jealous",
-      "url": "https://open.spotify.com/track/5OBriDrN0dLdVcPyuGS5m8"
+      "duration_ms": 190976,
+      "name": "The Frim Fram Sauce",
+      "url": "https://open.spotify.com/track/0uWKUvPVyxWT6NOmRoDyzf"
     },
     {
       "added_at": null,

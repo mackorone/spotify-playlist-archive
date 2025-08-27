@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Omar Mukhtar
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,065 likes - 101 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,069 likes - 101 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 100 | [Ashna](https://open.spotify.com/track/6STG64AUnwdk6zQuNyK2lC) | [Zahoor](https://open.spotify.com/artist/3ghaUlIMSuUGOowj9wdUoD), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Ashna](https://open.spotify.com/album/3AqFFDWxqHQTpXYktGeObV) | 3:05 |
 | 101 | [Kaleji](https://open.spotify.com/track/3ZQWPz5ggiFgRPHrpQ2doQ) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 2:58 |
 
-Snapshot ID: `AAAAAL4xodqnybXQqzTy6jF/koABHhPi`
+Snapshot ID: `AAAAABeGtw+2s+e2lZ/8pZ1aBzelKr9T`

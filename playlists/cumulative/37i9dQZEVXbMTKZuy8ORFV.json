@@ -339,6 +339,32 @@
     },
     {
       "album": {
+        "name": "2 pa 1",
+        "url": "https://open.spotify.com/album/7skQPB9PUxafPYhjfOEaQP"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/5I7CLVc8zfo3FvdFn7Nc2n"
+        },
+        {
+          "name": "Sopholov",
+          "url": "https://open.spotify.com/artist/5YPbRfy2YxNs2rWJc63gdE"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "2 pa 1",
+      "url": "https://open.spotify.com/track/7mY74CfnMf1d7fvusV2IVQ"
+    },
+    {
+      "album": {
         "name": "2+2",
         "url": "https://open.spotify.com/album/08ejWNU2TO4m9h4tUhUQKG"
       },
@@ -610,7 +636,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 214933,
       "name": "5 Years Time",
       "url": "https://open.spotify.com/track/12je8giC2S9smUHJ81tpiL"
@@ -1084,7 +1110,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 61269,
       "name": "ACELERADA",
       "url": "https://open.spotify.com/track/5R9FQXymzyhxjAYAkdbq5Q"
@@ -2704,7 +2730,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-20",
+      "date_removed": null,
       "duration_ms": 146938,
       "name": "Ba Ba Bad Remix",
       "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
@@ -5566,7 +5592,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 243914,
       "name": "Cerca de Ti",
       "url": "https://open.spotify.com/track/5a6LnRyelq6jXaFdn4rh9l"
@@ -8619,6 +8645,24 @@
     },
     {
       "album": {
+        "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238010,
+      "name": "Destello...",
+      "url": "https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d"
+    },
+    {
+      "album": {
         "name": "LO MISMO DE SIEMPRE",
         "url": "https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6"
       },
@@ -9844,10 +9888,28 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 175516,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/39EwNrszVvAPchyRWetG3v"
+    },
+    {
+      "album": {
+        "name": "El Mismo Aire",
+        "url": "https://open.spotify.com/album/3LFzFmKr1znDRqb5tX6ZVY"
+      },
+      "artists": [
+        {
+          "name": "Tiziano El Bomb\u00f3n de la Cumbia",
+          "url": "https://open.spotify.com/artist/3VQ35PnyCi0bUcfF9P2sxs"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175523,
+      "name": "El Mismo Aire",
+      "url": "https://open.spotify.com/track/2McSOWA5zlh0y5Gfv9lBhs"
     },
     {
       "album": {
@@ -12501,6 +12563,28 @@
     },
     {
       "album": {
+        "name": "Gabriela (with Young Miko) [Young Miko Remix]",
+        "url": "https://open.spotify.com/album/787QaYqz3Cfh4XcM4EeEv1"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198809,
+      "name": "Gabriela (with Young Miko) - Young Miko Remix",
+      "url": "https://open.spotify.com/track/31C7psknR5LicjpCqtH9aw"
+    },
+    {
+      "album": {
         "name": "Gal\u00e1ctico",
         "url": "https://open.spotify.com/album/4RnZyEY7wdU2cZeUEFZnuQ"
       },
@@ -13076,7 +13160,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 179946,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3U6y2oi1po07erzVwJUQyc"
@@ -13626,7 +13710,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 152734,
       "name": "Hecho para ti",
       "url": "https://open.spotify.com/track/712KzUVmtBeFXgJhbMJY5o"
@@ -14307,6 +14391,24 @@
     },
     {
       "album": {
+        "name": "Hunting Soul (from \"Dan Da Dan\" Season 2 Soundtrack)",
+        "url": "https://open.spotify.com/album/3QkZZnO3Sr4GPqovo1FrKI"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b7\u30ed\u30a6\uff08CV.\u8c37\u5c71\u7d00\u7ae0\uff09",
+          "url": "https://open.spotify.com/artist/3SQQcJqSiQ4ytuStSlvwNU"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239872,
+      "name": "Hunting Soul",
+      "url": "https://open.spotify.com/track/3xavvpT54qq3TZJLNjBn7Z"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -14972,7 +15074,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 171892,
       "name": "Insuperable",
       "url": "https://open.spotify.com/track/1ivbpcbZlCnqjvv6UjUDTe"
@@ -16987,6 +17089,28 @@
     },
     {
       "album": {
+        "name": "lo que pase",
+        "url": "https://open.spotify.com/album/6aDe1OWrKvkDcpc48gmgRO"
+      },
+      "artists": [
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152784,
+      "name": "lo que pase",
+      "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
+    },
+    {
+      "album": {
         "name": "Lo Que Tiene",
         "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
       },
@@ -17592,7 +17716,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 160260,
       "name": "LOVE PA TI NO HAY",
       "url": "https://open.spotify.com/track/67MBhIes3QKhQDuZWKHKBw"
@@ -20556,7 +20680,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 75682,
       "name": "MONTAGEM XONADA",
       "url": "https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg"
@@ -21712,7 +21836,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 93066,
       "name": "NO ERA AMOR - Slowed",
       "url": "https://open.spotify.com/track/3rv9X334doTsKBfgFVfIbH"
@@ -22872,7 +22996,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
@@ -22890,7 +23014,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 186000,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/35dfKQxGu54W4ZwQGnCFrB"
@@ -27654,7 +27778,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 133979,
       "name": "Seven Minutes in Heaven",
       "url": "https://open.spotify.com/track/2t7B8DDBgLbMcYVMTo8vd5"
@@ -29180,6 +29304,24 @@
       "duration_ms": 209360,
       "name": "Spanish Girl",
       "url": "https://open.spotify.com/track/60lXQloflVWfcu7KkhlE6G"
+    },
+    {
+      "album": {
+        "name": "Specter",
+        "url": "https://open.spotify.com/album/3fYDQx9Lr6QC9uikAPx6H4"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274408,
+      "name": "Specter",
+      "url": "https://open.spotify.com/track/5krhWYmWIKJhI96deUujm8"
     },
     {
       "album": {
@@ -31224,7 +31366,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 252276,
       "name": "The Subway",
       "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"

@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: Mary J. Blige",
-  "num_followers": 3776380,
+  "num_followers": 3776664,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "All-4-One",
-        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "The Writing's On The Wall",
@@ -343,6 +327,22 @@
       "duration_ms": 256026,
       "name": "Bills, Bills, Bills",
       "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "All-4-One",
+        "url": "https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy"
+      },
+      "artists": [
+        {
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "I Swear",
+      "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
     },
     {
       "added_at": "2023-08-25 07:08:29",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
-      },
-      "artists": [
-        {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "Maxwell's Urban Hang Suite",
@@ -511,6 +495,22 @@
       "duration_ms": 345975,
       "name": "Ascension (Don't Ever Wonder) - Remastered 2021",
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Jade To The Max",
-        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
-      },
-      "artists": [
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
-    },
-    {
       "added_at": "2023-06-09 16:00:00",
       "album": {
         "name": "Never Say Never",
@@ -835,6 +819,22 @@
       "duration_ms": 273440,
       "name": "Have You Ever",
       "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Jade To The Max",
+        "url": "https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc"
+      },
+      "artists": [
+        {
+          "name": "Jade",
+          "url": "https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
-      "album": {
-        "name": "Candy Rain",
-        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
-      },
-      "artists": [
-        {
-          "name": "Soul For Real",
-          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
-        }
-      ],
-      "duration_ms": 260066,
-      "name": "Every Little Thing I Do",
-      "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
-    },
-    {
       "added_at": "2022-09-16 08:12:46",
       "album": {
         "name": "Baduizm",
@@ -979,6 +963,22 @@
       "duration_ms": 386626,
       "name": "Next Lifetime",
       "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "Candy Rain",
+        "url": "https://open.spotify.com/album/0GmC4fd7RwxsFoo5Ht4nKp"
+      },
+      "artists": [
+        {
+          "name": "Soul For Real",
+          "url": "https://open.spotify.com/artist/296LotOmbj7eOX7r9l46fK"
+        }
+      ],
+      "duration_ms": 260066,
+      "name": "Every Little Thing I Do",
+      "url": "https://open.spotify.com/track/5u3rsmRYRSKJpFHXPT4p07"
     },
     {
       "added_at": "2023-08-25 07:08:29",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi"
     },
     {
-      "added_at": "2022-07-28 15:25:39",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Back & Forth",
-      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "R&B Hits",
@@ -1195,6 +1179,22 @@
       "duration_ms": 295386,
       "name": "Come and Talk to Me - Remix",
       "url": "https://open.spotify.com/track/5xE7sFTlv2yrG9mmhDSpdq"
+    },
+    {
+      "added_at": "2022-07-28 15:25:39",
+      "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Back & Forth",
+      "url": "https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0"
     },
     {
       "added_at": "2022-10-27 04:00:00",

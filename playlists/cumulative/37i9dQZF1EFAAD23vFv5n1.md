@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 7 hr 46 min
+163 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Fossi come te](https://open.spotify.com/track/4z9uPOAzOmvrvK2myXTBvx) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [Fossi come te](https://open.spotify.com/album/2lxg3drmCXXmZxVcDKRr1P) | 3:03 | 2024-04-29 | 2024-05-13 |
 | [Fossi come te](https://open.spotify.com/track/5pafOHmAwdomCxamPvH4Rv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/3JzyaYeVAQhbiq3ALmlneb) | 3:03 | 2024-05-12 | 2024-07-18 |
 | [Fossi come te](https://open.spotify.com/track/1FsO5N8jJ12vSq2LLhmTlv) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [FLASH](https://open.spotify.com/album/208QVntLWsx44R2Eb0Hm81) | 3:03 | 2024-09-14 |  |
+| [Fuck You Vincenzo](https://open.spotify.com/track/4Y6eSG3Zl01ixdi8hjpPP3) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:13 | 2025-08-26 |  |
 | [Funerale](https://open.spotify.com/track/5ryZexJBkb3yB3UjKBJ4J7) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:45 | 2024-04-29 |  |
 | [GAS](https://open.spotify.com/track/4l39vgGIQZWebaucRfYlLd) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro) | [GAS](https://open.spotify.com/album/4CF7kAZmISuatwQnfi7quy) | 2:39 | 2024-09-09 |  |
 | [GBYE](https://open.spotify.com/track/1GBVRVUJUzp0tzRtrCGYw5) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DRAMA COMPILATION](https://open.spotify.com/album/4os2EOzm1iLqH0kEqHWJGm) | 2:51 | 2024-04-29 |  |
@@ -101,6 +102,7 @@
 | [Mommy](https://open.spotify.com/track/7uZc3XPxJgJj1eOFFNIuyN) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 1:59 | 2024-04-29 |  |
 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 | 2025-01-09 |  |
 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 | 2024-04-29 |  |
+| [Nevica](https://open.spotify.com/track/3xPLkr2ZxSsIBxbTv0zluy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:08 | 2025-08-26 |  |
 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 | 2024-06-06 |  |
 | [Non mi piace](https://open.spotify.com/track/0DLwxlZjOmt6Z92Ak7L3qc) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS) | [Nessun dramma](https://open.spotify.com/album/2nLthNcyxaakh1MUSR5Tze) | 3:04 | 2024-05-25 |  |
 | [Non mi va](https://open.spotify.com/track/1i5KZuk9052PeWBEOgTbkG) | [Colla Zio](https://open.spotify.com/artist/5b7RP4RDJ37q5EPUs4nf59) | [ROCKABILLY CARTER](https://open.spotify.com/album/4JhRql5w7yWaRipBuUM7ar) | 2:29 | 2024-04-29 |  |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-570 songs - 1 day 21 hr 49 min
+571 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Once in a Lifetime](https://open.spotify.com/track/4jKE8iBxRkU7clFMh8B3wv) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc), [The Social Singing Choir](https://open.spotify.com/artist/357xJ6cz2aICpIdrRt5LsD) | [Mum Does the Washing EP](https://open.spotify.com/album/3EGVHi8RO2XZzfpI6SmM9C) | 3:38 | 2024-11-08 | 2025-03-25 |
 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/6YI3KiHDnuJ2rX3cPn7MJW) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 | 2024-04-26 | 2025-05-09 |
 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 | 2023-09-15 | 2024-03-16 |
-| [Only True God](https://open.spotify.com/track/69WFEelgESt4kp7i4vztT4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Only True God](https://open.spotify.com/album/00AEVFFGn8eBq6V0dbhNFK) | 4:48 | 2025-06-27 |  |
+| [Only True God](https://open.spotify.com/track/69WFEelgESt4kp7i4vztT4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Only True God](https://open.spotify.com/album/00AEVFFGn8eBq6V0dbhNFK) | 4:48 | 2025-06-27 | 2025-08-27 |
 | [Only You](https://open.spotify.com/track/3eKKye2VqbHzLcV6TL4vlD) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Only You](https://open.spotify.com/album/4Y0rWF0O7sQuXHyfVYMkUy) | 3:53 | 2025-08-08 |  |
 | [Only You](https://open.spotify.com/track/2PT3ESq3qvlwT2r7JPIG3b) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Only You](https://open.spotify.com/album/3bChpC9nlS2fsxYJ6mmjh7) | 2:26 | 2023-12-01 | 2023-12-20 |
 | [Only You](https://open.spotify.com/track/5lADkecaaJM5qXqkHttL5e) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Only You](https://open.spotify.com/album/0tKAmb7p8E4hG1djPYb3aC) | 2:39 | 2025-08-01 | 2025-08-26 |
@@ -535,6 +535,7 @@
 | [When I Rise](https://open.spotify.com/track/6Vcb3GG1I9Chhwcc4OFEVS) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [Find Me](https://open.spotify.com/album/2i6vGDEC1cSBDqNOanDu5b) | 2:54 | 2023-10-20 | 2023-11-03 |
 | [When You Are There \- Piano Ballad](https://open.spotify.com/track/2YhDgRSPNjwttKOLLcwkoQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [When You Are There \(Piano Ballad\)](https://open.spotify.com/album/5CiQkbQmr7rtnjgK1p808b) | 5:09 | 2024-10-11 | 2025-06-20 |
 | [When You Say A Thing](https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [When You Say A Thing](https://open.spotify.com/album/58KaH3OCajM4VlwWV2XhXY) | 3:59 | 2025-07-04 |  |
+| [Who Is Like The Lord \- LIVE](https://open.spotify.com/track/73TY0ezTyS10sBzN61ULS9) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Who Is Like The Lord \(LIVE\)](https://open.spotify.com/album/1BlFPOk2ErZz4GVi9Lbdqe) | 9:49 | 2025-08-22 |  |
 | [Who Is Like You \- Live](https://open.spotify.com/track/2gbB7Qux8u6qCZhGxlEKFo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Who Is Like You \(Live\)](https://open.spotify.com/album/4Z7NcJsD3IbJRCGalgEyW9) | 19:01 | 2025-03-07 | 2025-06-27 |
 | [WINNER](https://open.spotify.com/track/0viS773I33X8MFp3yufGEf) | [Naomi Classik](https://open.spotify.com/artist/6UvgdnOto2BWiiK8ycagqW) | [WINNER](https://open.spotify.com/album/1gYrOC1z0daWT2ncgCOctt) | 3:32 | 2025-06-27 |  |
 | [Winning](https://open.spotify.com/track/3RdQGVFW3pNwPumUyuPyo7) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Winning](https://open.spotify.com/album/2EjWjbyglvdIhk6OrnjWaL) | 2:44 | 2025-06-06 | 2025-08-26 |

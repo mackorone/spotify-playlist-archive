@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 774797,
+  "num_followers": 774766,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,26 @@
     {
       "added_at": "2025-08-21 22:00:29",
       "album": {
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 118449,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
+    },
+    {
+      "added_at": "2025-08-21 22:00:29",
+      "album": {
         "name": "Hollow (feat. Bonn)",
         "url": "https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 200859,
       "name": "Hollow (feat. Bonn)",
       "url": "https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa"
-    },
-    {
-      "added_at": "2025-08-21 22:00:29",
-      "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 118449,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq"
     },
     {
       "added_at": "2025-08-21 22:00:29",
@@ -879,26 +879,6 @@
     {
       "added_at": "2025-08-21 22:00:29",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
-    },
-    {
-      "added_at": "2025-08-21 22:00:29",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 151858,
       "name": "Together",
       "url": "https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t"
+    },
+    {
+      "added_at": "2025-08-21 22:00:29",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
       "added_at": "2025-08-21 22:00:29",
@@ -991,6 +991,22 @@
     {
       "added_at": "2025-08-21 22:00:29",
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
+    },
+    {
+      "added_at": "2025-08-21 22:00:29",
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/0S1SKVI7D7OKqSgTVFQeku"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 202047,
       "name": "Let It Be For Love",
       "url": "https://open.spotify.com/track/4oCWAv1wVeJ3Wk3irk8e5o"
-    },
-    {
-      "added_at": "2025-08-21 22:00:29",
-      "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv"
     },
     {
       "added_at": "2025-08-21 22:00:29",

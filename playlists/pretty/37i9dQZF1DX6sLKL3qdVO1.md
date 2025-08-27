@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Anuel AA y Blessd en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,945 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,965 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Portate Bonito](https://open.spotify.com/track/4XGFya44QyFTbB1pBT1TLi) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Portate Bonito](https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm) | 3:29 |
 | 2 | [BYONCE](https://open.spotify.com/track/4Uf3qct71nYsNivPLFK3pZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy) | [BYONCE](https://open.spotify.com/album/0ksDLflW5ukV4g2kruaktp) | 2:19 |
 | 3 | [MUÑECOTA](https://open.spotify.com/track/0TQAhtR3faikBDjzFyis4f) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MUÑECOTA](https://open.spotify.com/album/4anQADYMI44HzlZM98d7r2) | 2:55 |
-| 4 | [HONEY MOODS](https://open.spotify.com/track/3dO1hhwrRpytM6YWsvU1CQ) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Shisosaloud](https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD), [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [HONEY MOODS](https://open.spotify.com/album/4jb9p3hUGQu74K5cmcq2K7) | 3:37 |
+| 4 | [HONEY MOODS](https://open.spotify.com/track/3dO1hhwrRpytM6YWsvU1CQ) | [Kreamly](https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk), [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Shisosaloud](https://open.spotify.com/artist/6TBZdTaCa4lbCCi8BQemuD) | [HONEY MOODS](https://open.spotify.com/album/4jb9p3hUGQu74K5cmcq2K7) | 3:37 |
 | 5 | [BRONCEADOR](https://open.spotify.com/track/6LYg8Ks95O7GNNLfB6kh4j) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [BRONCEADOR](https://open.spotify.com/album/1xMXyKKRsXoPe34kS7w2SF) | 2:29 |
 | 6 | [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 |
 | 7 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 |

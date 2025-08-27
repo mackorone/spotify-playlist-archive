@@ -1,6 +1,6 @@
 {
   "description": "it was never just a phase ",
-  "num_followers": 3668,
+  "num_followers": 3684,
   "original_name": "dear diary",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-08-16 22:06:35",
       "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "NO VANITY",
-      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
-    },
-    {
-      "added_at": "2022-08-16 22:06:35",
-      "album": {
         "name": "The Rift",
         "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
+    },
+    {
+      "added_at": "2022-08-16 22:06:35",
+      "album": {
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 205723,
+      "name": "NO VANITY",
+      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
     },
     {
       "added_at": "2023-05-19 14:21:26",

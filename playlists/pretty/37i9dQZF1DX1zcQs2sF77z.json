@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 272613,
+  "num_followers": 272663,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/2eEnzl61veDi3zQylslIap"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2025-04-04 14:59:32",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-04-04 14:59:32",
       "album": {
-        "name": "Schubert Dip",
-        "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
-      },
-      "artists": [
-        {
-          "name": "EMF",
-          "url": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Unbelievable",
-      "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
-    },
-    {
-      "added_at": "2025-04-04 14:59:32",
-      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 161271,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/0whmIaItqkT8e5PVuPyhvT"
+    },
+    {
+      "added_at": "2025-04-04 14:59:32",
+      "album": {
+        "name": "Schubert Dip",
+        "url": "https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe"
+      },
+      "artists": [
+        {
+          "name": "EMF",
+          "url": "https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Unbelievable",
+      "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
     },
     {
       "added_at": "2025-04-04 14:59:32",

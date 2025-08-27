@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Banda Mix & Eugenia Quevedo.",
-  "num_followers": 764148,
+  "num_followers": 764282,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,26 @@
     {
       "added_at": "2025-08-22 19:16:20",
       "album": {
+        "name": "Si Me Disculpo Ahora",
+        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 120759,
+      "name": "Si Me Disculpo Ahora",
+      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
+    },
+    {
+      "added_at": "2025-08-22 19:16:20",
+      "album": {
         "name": "Olvidarte de Mi Jamas Podras",
         "url": "https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 193358,
       "name": "Olvidarte de Mi Jamas Podras",
       "url": "https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny"
-    },
-    {
-      "added_at": "2025-08-22 19:16:20",
-      "album": {
-        "name": "Si Me Disculpo Ahora",
-        "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        }
-      ],
-      "duration_ms": 120759,
-      "name": "Si Me Disculpo Ahora",
-      "url": "https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF"
     },
     {
       "added_at": "2025-08-22 19:16:20",
@@ -1887,18 +1887,22 @@
     {
       "added_at": "2025-08-22 19:16:20",
       "album": {
-        "name": "No me restes (En Vivo)",
-        "url": "https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW"
+        "name": "Somos lo Que Fuimos (Remix)",
+        "url": "https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx"
       },
       "artists": [
         {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 188000,
-      "name": "No me restes - En Vivo",
-      "url": "https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj"
+      "duration_ms": 233287,
+      "name": "Somos lo Que Fuimos - Remix",
+      "url": "https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF"
     }
   ],
   "unique_name": "100% Cuarteto",

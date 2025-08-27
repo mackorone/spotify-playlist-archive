@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Match My Speed",
+        "url": "https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P"
+      },
+      "artists": [
+        {
+          "name": "ZULAN",
+          "url": "https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF"
+        },
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117988,
+      "name": "Match My Speed",
+      "url": "https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX"
+    },
+    {
+      "album": {
         "name": "Privity (Extented Version)",
         "url": "https://open.spotify.com/album/1dND1YOVxq16W6mrEnJxBn"
       },

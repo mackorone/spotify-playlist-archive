@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: back number
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: 乃紫
 
-1,600 songs - 4 day 3 hr 13 min
+1,602 songs - 4 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [crash](https://open.spotify.com/track/4e5kKctP1oVPUvST4Dto1o) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/56TSISxm1MrlCkokyAD7UT) | 2:46 | 2022-06-12 | 2022-07-04 |
 | [Crayon](https://open.spotify.com/track/3ZEdrRIGjFpXZSzfjwWmDQ) | [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f) | [Crayon](https://open.spotify.com/album/1VlDPGkPriiK2uj3bFxyHE) | 2:56 | 2022-06-05 | 2022-07-25 |
 | [Cry Baby](https://open.spotify.com/track/6wDntdm888mDo458RaYjGl) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1) | 4:01 | 2021-12-19 | 2022-01-10 |
+| [CUBE](https://open.spotify.com/track/0Utf1kTcynD7Fg5u2NXtZC) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [CUBE](https://open.spotify.com/album/0Pjd5SU2gAPoFnwnYj5x9C) | 3:22 | 2025-08-26 |  |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-19 | 2023-12-11 |
 | [curtain](https://open.spotify.com/track/4j8eZkDhi4ppiNhSkIR4Up) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [curtain](https://open.spotify.com/album/5X3NbcqfS8gwMPf5YXjvjW) | 2:43 | 2022-09-25 | 2022-10-09 |
 | [Curtain Call \(feat\. KEIJU, Ryohu & IO\)](https://open.spotify.com/track/53bGUdj88QxmpuFnjc3YUx) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U) | [Curtain Call \(feat\. KEIJU, Ryohu & IO\)](https://open.spotify.com/album/6RAISYWCOPi2y7E3EMYNWP) | 3:43 | 2022-09-25 | 2022-10-17 |
@@ -430,6 +431,7 @@
 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 | 2023-08-20 | 2023-10-16 |
 | [Life is Romance](https://open.spotify.com/track/1ZVECsyPiW5IBpzEsGplE9) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09) | [Remember Me?](https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2) | 3:10 | 2024-12-24 | 2025-05-07 |
 | [Life still goes on](https://open.spotify.com/track/6gtvI5tGM2H4jpg5kNvULL) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Life still goes on](https://open.spotify.com/album/1s10852zhLGEoWZCFAU7Jl) | 3:27 | 2022-01-16 | 2022-02-14 |
+| [Like 1](https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Like 1](https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO) | 3:06 | 2025-08-26 |  |
 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 | 2023-12-10 | 2023-12-18 |
 | [Link Up](https://open.spotify.com/track/08fh3LXCZvDV6jgGwC2Usf) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 3:44 | 2022-04-06 | 2022-04-25 |
 | [Listen](https://open.spotify.com/track/5rtulpUZ7hinDGwe46ondS) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Listen](https://open.spotify.com/album/5duMvcqwktn0TEvcoRkDJm) | 4:10 | 2023-03-05 | 2023-03-13 |
@@ -810,7 +812,7 @@
 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 | 2022-08-07 | 2022-08-29 |
 | [This Hell](https://open.spotify.com/track/6A6yKpsgFr4gIKd7gsfHhm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [This Hell](https://open.spotify.com/album/0U4egSSjgOOcAO7Qmj189E) | 3:56 | 2022-11-23 | 2023-01-16 |
 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 | 2024-04-11 | 2024-08-07 |
-| [THIS IS ME:I](https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [THIS IS ME:I](https://open.spotify.com/album/1EJTdy5dolIq6V6pk4CWmL) | 2:59 | 2025-08-05 |  |
+| [THIS IS ME:I](https://open.spotify.com/track/0HitU68kvJIg3ykgYwsKzQ) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [THIS IS ME:I](https://open.spotify.com/album/1EJTdy5dolIq6V6pk4CWmL) | 2:59 | 2025-08-05 | 2025-08-27 |
 | [This Kiss](https://open.spotify.com/track/40DAmimMs6oT7dsScFTCBC) | [Vickeblanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [This Kiss](https://open.spotify.com/album/2xJ9ttPAKlrV7k9X9JDXHO) | 4:20 | 2022-07-24 | 2022-08-15 |
 | [Tiger](https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [ROSE](https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk) | 3:10 | 2025-05-13 | 2025-06-11 |
 | [Time Machine/Kazokuno Fukei](https://open.spotify.com/track/341Yx5D0ebbX7FcWDEHtRp) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Time Machine/Kazokuno Fukei](https://open.spotify.com/album/5fB1LmRdJBtp4qZ6990791) | 3:37 | 2023-03-26 | 2023-05-01 |
@@ -1479,7 +1481,7 @@
 | [生きる者](https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [生きる者](https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi) | 4:41 | 2023-01-29 | 2023-02-27 |
 | [生活](https://open.spotify.com/track/1TAF4rJSiwHVCw7usEp7ae) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [生活](https://open.spotify.com/album/4z9GVOoie1BZseiBIXKbnc) | 4:39 | 2023-01-01 | 2023-01-11 |
 | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/track/2YaWdN5tieE4Ntorawbbvq) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [異世界混合大舞踏会 \(feat\. おばけ\)](https://open.spotify.com/album/48aHoa0UvjChDUllkQZoaX) | 3:45 | 2022-07-17 | 2022-07-29 |
-| [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 | 2025-08-12 |  |
+| [白日のもと](https://open.spotify.com/track/12NL4lcmDpoWwFNyq0lf1d) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [実験中 / 白日のもと](https://open.spotify.com/album/1vVyhztEqbzHqPLKsGjIk9) | 3:30 | 2025-08-12 | 2025-08-27 |
 | [白色蜉蝣](https://open.spotify.com/track/6g4LVUmjflm93R0T8GkvtF) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [白色蜉蝣](https://open.spotify.com/album/1QZOlZ7LLH6QVmFxVGWk7X) | 3:11 | 2023-10-08 | 2023-11-16 |
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-14 | 2025-06-18 |
 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 | 2023-07-16 | 2023-07-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 355828,
+  "num_followers": 355869,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "go",
+        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
+      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
-      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
     },
     {
       "added_at": "2024-07-05 19:40:49",

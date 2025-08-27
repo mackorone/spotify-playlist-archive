@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 24012,
+  "num_followers": 24013,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,26 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 03",
+        "url": "https://open.spotify.com/album/0f7ipGixpoqOH09KNBGAUk"
+      },
+      "artists": [
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D"
+        },
+        {
+          "name": "W",
+          "url": "https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "\u30ab\u30ec\u30a4\u30c9 TOURHYTHM",
+      "url": "https://open.spotify.com/track/2Zy5r8fEzg5hdJMcxmH0lN"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
         "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
       },
@@ -651,34 +671,18 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders",
-        "url": "https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE"
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 02",
+        "url": "https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n"
       },
       "artists": [
         {
-          "name": "Legenders",
-          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
+          "name": "DRAMATIC STARS",
+          "url": "https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43"
         }
       ],
-      "duration_ms": 220026,
-      "name": "Time Before Time",
-      "url": "https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Pav\u00e9 \u00c9toiles",
-      "url": "https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP"
+      "duration_ms": 257626,
+      "name": "ASTERISK",
+      "url": "https://open.spotify.com/track/71jyefeEadd0UsFqQ6heNy"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -727,18 +731,34 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 17",
-        "url": "https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY"
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders",
+        "url": "https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE"
       },
       "artists": [
         {
-          "name": "Beit",
-          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
+          "name": "Legenders",
+          "url": "https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR"
         }
       ],
-      "duration_ms": 224053,
-      "name": "MIRROR of TRUTH",
-      "url": "https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58"
+      "duration_ms": 220026,
+      "name": "Time Before Time",
+      "url": "https://open.spotify.com/track/3u2raQM6PDsLd263rRniC9"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 04 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Pav\u00e9 \u00c9toiles",
+      "url": "https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -759,18 +779,42 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM ST@RTING LINE-10 Caf\u00e9 Parade",
-        "url": "https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f"
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 05",
+        "url": "https://open.spotify.com/album/02Ppn2Q2dEIOHEMBtrdVVj"
       },
       "artists": [
         {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
+          "url": "https://open.spotify.com/artist/0SOZQEEUmzX3VAtAAApU2q"
+        },
+        {
+          "name": "\u59eb\u91ce\u304b\u306e\u3093 (CV.\u6751\u702c \u6b69)",
+          "url": "https://open.spotify.com/artist/6iwwou4dCBVUQEZPAgxhHW"
+        },
+        {
+          "name": "\u821e\u7530 \u985e (CV.\u698e\u6728\u6df3\u5f25)",
+          "url": "https://open.spotify.com/artist/3I60yHBjKRDuGBcDsW3S98"
         }
       ],
-      "duration_ms": 284946,
-      "name": "Caf\u00e9 Parade!",
-      "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
+      "duration_ms": 256880,
+      "name": "ALOHA! HAPPY CREATOR!",
+      "url": "https://open.spotify.com/track/10UEvm0LZb8dZs4GKVyXol"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM GROWING SIGN@L 17",
+        "url": "https://open.spotify.com/album/43eYRzEUdFH4IpDIHm4vjY"
+      },
+      "artists": [
+        {
+          "name": "Beit",
+          "url": "https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah"
+        }
+      ],
+      "duration_ms": 224053,
+      "name": "MIRROR of TRUTH",
+      "url": "https://open.spotify.com/track/7hcP3Casqwb82ce7AByA58"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -807,6 +851,38 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "VOY@GER (SideM\u76e4)",
+        "url": "https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r"
+      },
+      "artists": [
+        {
+          "name": "315 STARS",
+          "url": "https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO"
+        }
+      ],
+      "duration_ms": 339640,
+      "name": "VOY@GER - SideM Ver.",
+      "url": "https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM ST@RTING LINE-10 Caf\u00e9 Parade",
+        "url": "https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 284946,
+      "name": "Caf\u00e9 Parade!",
+      "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!",
         "url": "https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG"
       },
@@ -827,38 +903,6 @@
       "duration_ms": 245786,
       "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "VOY@GER (SideM\u76e4)",
-        "url": "https://open.spotify.com/album/0mkPu5zgu9SYoC2gysAZ4r"
-      },
-      "artists": [
-        {
-          "name": "315 STARS",
-          "url": "https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO"
-        }
-      ],
-      "duration_ms": 339640,
-      "name": "VOY@GER - SideM Ver.",
-      "url": "https://open.spotify.com/track/5Tsnl9c09tYPKmFIKEMQne"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
-        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Parade",
-          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
-        }
-      ],
-      "duration_ms": 320733,
-      "name": "Reversed Masquerade",
-      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -895,30 +939,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 05",
-        "url": "https://open.spotify.com/album/02Ppn2Q2dEIOHEMBtrdVVj"
-      },
-      "artists": [
-        {
-          "name": "\u6c34\u5d8b \u54b2 (CV.\u5c0f\u6797\u5927\u7d00)",
-          "url": "https://open.spotify.com/artist/0SOZQEEUmzX3VAtAAApU2q"
-        },
-        {
-          "name": "\u59eb\u91ce\u304b\u306e\u3093 (CV.\u6751\u702c \u6b69)",
-          "url": "https://open.spotify.com/artist/6iwwou4dCBVUQEZPAgxhHW"
-        },
-        {
-          "name": "\u821e\u7530 \u985e (CV.\u698e\u6728\u6df3\u5f25)",
-          "url": "https://open.spotify.com/artist/3I60yHBjKRDuGBcDsW3S98"
-        }
-      ],
-      "duration_ms": 256880,
-      "name": "ALOHA! HAPPY CREATOR!",
-      "url": "https://open.spotify.com/track/10UEvm0LZb8dZs4GKVyXol"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM 49 ELEMENTS -08 Caf\u00e9 Parade",
         "url": "https://open.spotify.com/album/00vbT7zTPrbtgaaAQom31L"
       },
@@ -931,6 +951,22 @@
       "duration_ms": 240746,
       "name": "Make up Magic",
       "url": "https://open.spotify.com/track/1J3l1IsCB7ZvEZksEdbl7X"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM 3rd ANNIVERSARY 01",
+        "url": "https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Parade",
+          "url": "https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe"
+        }
+      ],
+      "duration_ms": 320733,
+      "name": "Reversed Masquerade",
+      "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1319,46 +1355,6 @@
       "duration_ms": 295400,
       "name": "LIVE in your SMILE",
       "url": "https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 03",
-        "url": "https://open.spotify.com/album/2600B026iZThRT78I7Xjlk"
-      },
-      "artists": [
-        {
-          "name": "\u6a58 \u5fd7\u72fc (CV.\u53e4\u7551\u6075\u4ecb)",
-          "url": "https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2"
-        },
-        {
-          "name": "\u7872 \u9053\u592b (CV.\u4f0a\u6771\u5065\u4eba)",
-          "url": "https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq"
-        },
-        {
-          "name": "\u7259\u5d0e \u6f23 (CV.\u5c0f\u677e\u660c\u5e73)",
-          "url": "https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx"
-        }
-      ],
-      "duration_ms": 248333,
-      "name": "Baile Apasionado",
-      "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME",
-        "url": "https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv"
-      },
-      "artists": [
-        {
-          "name": "FRAME",
-          "url": "https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Plus 1 Good Day!",
-      "url": "https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM",

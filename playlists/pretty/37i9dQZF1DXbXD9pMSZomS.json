@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 517424,
+  "num_followers": 517502,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
-        "name": "The Hills / True Fours",
-        "url": "https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp"
-      },
-      "artists": [
-        {
-          "name": "Major Tweaks",
-          "url": "https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh"
-        }
-      ],
-      "duration_ms": 160301,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq"
-    },
-    {
-      "added_at": "2025-08-22 20:02:06",
-      "album": {
         "name": "wandering",
         "url": "https://open.spotify.com/album/1wcy3owX9Vu3C9G0J4Gstl"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 196173,
       "name": "wandering",
       "url": "https://open.spotify.com/track/2WjG4e7q79njtAPGzW6tGb"
+    },
+    {
+      "added_at": "2025-08-22 20:02:06",
+      "album": {
+        "name": "The Hills / True Fours",
+        "url": "https://open.spotify.com/album/3onF7nhMqEh590IaLt6ZMp"
+      },
+      "artists": [
+        {
+          "name": "Major Tweaks",
+          "url": "https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh"
+        }
+      ],
+      "duration_ms": 160301,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/5dCkryH3vx41J2FDsbmxqq"
     },
     {
       "added_at": "2025-08-22 20:02:06",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
-        "name": "About Our Amore",
-        "url": "https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw"
-      },
-      "artists": [
-        {
-          "name": "KOKO.IT",
-          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
-        }
-      ],
-      "duration_ms": 304272,
-      "name": "About Our Amore",
-      "url": "https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF"
-    },
-    {
-      "added_at": "2025-08-22 20:02:06",
-      "album": {
         "name": "Shy (Aguava Remix)",
         "url": "https://open.spotify.com/album/72Dk90mT6aqQh0Q4qTonkZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 201120,
       "name": "Shy - Aguava Remix",
       "url": "https://open.spotify.com/track/7d79740Liavq38J1JDXkCz"
+    },
+    {
+      "added_at": "2025-08-22 20:02:06",
+      "album": {
+        "name": "About Our Amore",
+        "url": "https://open.spotify.com/album/0jsv1TDKAKtpfHCIZitBkw"
+      },
+      "artists": [
+        {
+          "name": "KOKO.IT",
+          "url": "https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC"
+        }
+      ],
+      "duration_ms": 304272,
+      "name": "About Our Amore",
+      "url": "https://open.spotify.com/track/5KcLeL5iMfETgyRHnSD9zF"
     },
     {
       "added_at": "2025-08-22 20:02:06",
@@ -519,22 +519,6 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
-        "name": "Ocean Drift",
-        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Ocean Drift",
-      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
-    },
-    {
-      "added_at": "2025-08-22 20:02:06",
-      "album": {
         "name": "Pup Slushy",
         "url": "https://open.spotify.com/album/407R4waIBdW2CZewg2RAUP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 329462,
       "name": "Pup Slushy",
       "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
+    },
+    {
+      "added_at": "2025-08-22 20:02:06",
+      "album": {
+        "name": "Ocean Drift",
+        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Ocean Drift",
+      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
     },
     {
       "added_at": "2025-08-22 20:02:06",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
+    },
+    {
+      "added_at": "2025-08-22 20:02:06",
+      "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 130388,
       "name": "Pigments",
       "url": "https://open.spotify.com/track/627bEjAmoEbLa4hVA04W3R"
-    },
-    {
-      "added_at": "2025-08-22 20:02:06",
-      "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2025-08-22 20:02:06",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
+        "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c"
+      },
+      "artists": [
+        {
+          "name": "Ayla Nova",
+          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
+    },
+    {
+      "added_at": "2025-08-22 20:02:06",
+      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/2okzARk2QDGDKlFoQOjEJA"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 130867,
       "name": "I Do",
       "url": "https://open.spotify.com/track/15aMiMUQgoy2a43ov9Cqnp"
-    },
-    {
-      "added_at": "2025-08-22 20:02:06",
-      "album": {
-        "name": "In Your Arms",
-        "url": "https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c"
-      },
-      "artists": [
-        {
-          "name": "Ayla Nova",
-          "url": "https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "In Your Arms",
-      "url": "https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE"
     },
     {
       "added_at": "2025-08-22 20:02:06",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
+        "name": "U Will Change My Mind",
+        "url": "https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV"
+      },
+      "artists": [
+        {
+          "name": "Bootie Grove",
+          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "U Will Change My Mind",
+      "url": "https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE"
+    },
+    {
+      "added_at": "2025-08-22 20:02:06",
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/7e0D7KQ2eReVxh23jN56an"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 221900,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/4YiAmotbXcIwFkDNRd2tQw"
-    },
-    {
-      "added_at": "2025-08-22 20:02:06",
-      "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Loveless",
-          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
-        }
-      ],
-      "duration_ms": 349455,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp"
     },
     {
       "added_at": "2025-08-22 20:02:06",
@@ -923,18 +923,18 @@
     {
       "added_at": "2025-08-22 20:02:06",
       "album": {
-        "name": "U Will Change My Mind",
-        "url": "https://open.spotify.com/album/1jv5dzYHOkS3QniizFCaeV"
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV"
       },
       "artists": [
         {
-          "name": "Bootie Grove",
-          "url": "https://open.spotify.com/artist/7b3MjfPcwO92rJ1FfxXcZ3"
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
         }
       ],
-      "duration_ms": 234000,
-      "name": "U Will Change My Mind",
-      "url": "https://open.spotify.com/track/7nKci17fhYfBbkhQBZy4KE"
+      "duration_ms": 349455,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp"
     },
     {
       "added_at": "2025-08-22 20:02:06",

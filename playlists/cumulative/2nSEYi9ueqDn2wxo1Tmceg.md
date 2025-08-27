@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Hot Chip</a>
 
-1,466 songs - 4 day 3 hr 40 min
+1,467 songs - 4 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Marcy Av](https://open.spotify.com/track/2TZUwW4IMvd6UPRPPGAj7I) | [M Wagner](https://open.spotify.com/artist/2ImX7Nb8z1FDH27oSef7XO) | [We Could Stay](https://open.spotify.com/album/00kx30qwLzxUweXw56Ms53) | 4:41 | 2024-05-29 | 2024-06-27 |
 | [Marriage](https://open.spotify.com/track/2CfnrMyZWIKY5ye4xCeqB9) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Marriage](https://open.spotify.com/album/1cBIwSwCQLAbLOx4lQBKNX) | 3:36 | 2023-09-06 | 2023-10-19 |
 | [Masquerade](https://open.spotify.com/track/3Xk4QYUoZ1TszBMINEHkUa) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Masquerade](https://open.spotify.com/album/4RFi9MnCrBsxIM01Vq9hdy) | 3:47 | 2025-03-19 | 2025-04-24 |
+| [Math Equation](https://open.spotify.com/track/2r6yEYmV8vu1pjVHmKEr0f) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Math Equation](https://open.spotify.com/album/5XJQpbZe0z4S7NlQjkb30y) | 4:12 | 2025-08-26 |  |
 | [Math of You](https://open.spotify.com/track/6uhjxe81Ma9hhdFulcKc36) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Myuthafoo](https://open.spotify.com/album/2FjmTMHO8nwgpUewiIXr5q) | 5:39 | 2023-07-12 | 2023-08-31 |
 | [Matter Of Time](https://open.spotify.com/track/2oH1iO9pkKFrQR76q2XPVz) | [Christopher Ledger](https://open.spotify.com/artist/7E23JdeLeRkzJFuIY5KUwA) | [Matter Of Time](https://open.spotify.com/album/5m8mxTCBVqheJGKPC8hpX8) | 5:22 | 2025-08-13 |  |
 | [Max Potential](https://open.spotify.com/track/0zzmjCGOlgAsErLtTIfZa6) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Max Potential](https://open.spotify.com/album/5uheFqtWRggoJOZqdIkcIU) | 3:52 | 2025-05-14 | 2025-06-12 |

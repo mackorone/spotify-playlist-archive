@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Los Rojos en portada.",
-  "num_followers": 517115,
+  "num_followers": 517120,
   "original_name": "Norte\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Si Estuviera el G\u00fcero",
         "url": "https://open.spotify.com/album/1nlJJxuK9NlGUVwOCvLkee"
       },
@@ -1275,6 +1259,38 @@
       "duration_ms": 245632,
       "name": "Si Estuviera el G\u00fcero",
       "url": "https://open.spotify.com/track/2llTfNMuotrHlU6ZtOaYUb"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1299,22 +1315,6 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
-        "name": "Trilog\u00eda, Vol. 2",
-        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 157645,
-      "name": "Un Amor Bonito",
-      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "B.M.T",
-        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 156578,
-      "name": "Inconcluso",
-      "url": "https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "PARIENTON",
         "url": "https://open.spotify.com/album/08cEDf8JBIoxWEtMAZDHvR"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 149265,
       "name": "PARIENTON",
       "url": "https://open.spotify.com/track/1EpNEqoFxHZk5U3StFC1H9"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "B.M.T",
+        "url": "https://open.spotify.com/album/3LcuQGx8YAispGsomWu2fF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 156578,
+      "name": "Inconcluso",
+      "url": "https://open.spotify.com/track/2ZkpJVo7z6UdGjaXz5qiCN"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Desde Que La Vi",
-        "url": "https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        }
-      ],
-      "duration_ms": 168749,
-      "name": "Desde Que La Vi",
-      "url": "https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Mi Mula",
         "url": "https://open.spotify.com/album/77ZUyIptzqnASMixrm9dtU"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 123906,
       "name": "900 Cigarros",
       "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "Desde Que La Vi",
+        "url": "https://open.spotify.com/album/0mfQ214VTepNIL0IKFMG64"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        }
+      ],
+      "duration_ms": 168749,
+      "name": "Desde Que La Vi",
+      "url": "https://open.spotify.com/track/2yvIZ52EKT3kNAwzKj292i"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1847,18 +1847,22 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "NO TE HUBIERA BESADO",
-        "url": "https://open.spotify.com/album/2plPejGZIWWggruY0NizsL"
+        "name": "Ni Que Tuvieras Tanta Suerte",
+        "url": "https://open.spotify.com/album/513ie7iLGv8o3ZS7T9BEMz"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Explosion Nortena",
+          "url": "https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9"
+        },
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 139894,
-      "name": "NO TE HUBIERA BESADO",
-      "url": "https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM"
+      "duration_ms": 182141,
+      "name": "Ni Que Tuvieras Tanta Suerte",
+      "url": "https://open.spotify.com/track/72jGlGdhSiCHhwAdRbDPXA"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -1879,22 +1883,18 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "Ni Que Tuvieras Tanta Suerte",
-        "url": "https://open.spotify.com/album/513ie7iLGv8o3ZS7T9BEMz"
+        "name": "NO TE HUBIERA BESADO",
+        "url": "https://open.spotify.com/album/2plPejGZIWWggruY0NizsL"
       },
       "artists": [
         {
-          "name": "Explosion Nortena",
-          "url": "https://open.spotify.com/artist/3iAoPIsx4h1blFVmNMSJG9"
-        },
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 182141,
-      "name": "Ni Que Tuvieras Tanta Suerte",
-      "url": "https://open.spotify.com/track/72jGlGdhSiCHhwAdRbDPXA"
+      "duration_ms": 139894,
+      "name": "NO TE HUBIERA BESADO",
+      "url": "https://open.spotify.com/track/6mHtY4wKseGpQWxXTxH9EM"
     },
     {
       "added_at": "2025-08-15 21:00:25",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2025-08-15 21:00:25",
       "album": {
-        "name": "El Gallo De Sinaloa",
-        "url": "https://open.spotify.com/album/6sJEZiaadyIN0MVzrI8BbM"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 196513,
-      "name": "El Gallo De Sinaloa",
-      "url": "https://open.spotify.com/track/4Ea4BWsBhOE5A9Qn7Q3YgX"
-    },
-    {
-      "added_at": "2025-08-15 21:00:25",
-      "album": {
         "name": "Ajustad\u00f3n",
         "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 159685,
       "name": "Ajustad\u00f3n",
       "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
+    },
+    {
+      "added_at": "2025-08-15 21:00:25",
+      "album": {
+        "name": "El Gallo De Sinaloa",
+        "url": "https://open.spotify.com/album/6sJEZiaadyIN0MVzrI8BbM"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 196513,
+      "name": "El Gallo De Sinaloa",
+      "url": "https://open.spotify.com/track/4Ea4BWsBhOE5A9Qn7Q3YgX"
     },
     {
       "added_at": "2025-08-15 21:00:25",

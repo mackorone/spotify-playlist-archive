@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover:CENT",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover:\u30ed\u30af\u30c7\u30ca\u30b7",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -13978,7 +13978,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 195789,
       "name": "I'm Not Going Anywhere - feat. Maika Loubt\u00e9",
       "url": "https://open.spotify.com/track/4eTfj5KINgPYkg7nYqeGJi"
@@ -16180,7 +16180,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 91560,
       "name": "Kiseki",
       "url": "https://open.spotify.com/track/6bQ788swk0VR4DISxGxs5w"
@@ -38018,7 +38018,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 253037,
       "name": "\u3053\u306e\u307e\u307e\u3067\u3044\u3044\u306e\u3055baby",
       "url": "https://open.spotify.com/track/73lC9Cx0htFjuTXY5qvQiH"
@@ -41398,6 +41398,24 @@
       "duration_ms": 235185,
       "name": "\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8",
       "url": "https://open.spotify.com/track/7s5lA70AK4nnSI50tdvPsh"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30aa",
+        "url": "https://open.spotify.com/album/4xNg6oWMihtDxAg6zttebV"
+      },
+      "artists": [
+        {
+          "name": "Rokudenashi",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183664,
+      "name": "\u30a4\u30aa",
+      "url": "https://open.spotify.com/track/39VPDfAqvjOhiA4EmikYeD"
     },
     {
       "album": {
@@ -49031,6 +49049,24 @@
     },
     {
       "album": {
+        "name": "\u516b\u6708\u306e\u82b1\u706b",
+        "url": "https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "\u516b\u6708\u306e\u82b1\u706b",
+      "url": "https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN"
+    },
+    {
+      "album": {
         "name": "\u516d\u672c\u6728\u5fc3\u4e2d",
         "url": "https://open.spotify.com/album/7KhTYq7EOmAjvZburvqIha"
       },
@@ -55206,6 +55242,24 @@
       "duration_ms": 256465,
       "name": "\u66f4\u8863\u5ba4\u30c7\u30a3\u30b9\u30c8\u30d4\u30a2",
       "url": "https://open.spotify.com/track/7K1pvJmrvgKuC0TMW73Wgi"
+    },
+    {
+      "album": {
+        "name": "\u6700\u4f4e\u754c\u9688 - Saitei Kaiwai",
+        "url": "https://open.spotify.com/album/5KtONgHCOttcGD4Y1lsXpC"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "\u6700\u4f4e\u754c\u9688 - Saitei Kaiwai",
+      "url": "https://open.spotify.com/track/6LQMfHAZYxaX2AyRDnHp4K"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 138714,
+  "num_followers": 138731,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAAD5KbxT13rglP+5hxPx+nT1",
+  "snapshot_id": "aKungAAAAAChMk4kJWgOSB7MOyX+PtMU",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 288657,
-      "name": "Vanishing",
-      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
+      "duration_ms": 239940,
+      "name": "Grayscale",
+      "url": "https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 239940,
-      "name": "Grayscale",
-      "url": "https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C"
+      "duration_ms": 288657,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Still Echoes",
+      "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lamb of God (Deluxe Version)",
         "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 245948,
       "name": "Ghost Shaped People",
       "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omens",
-        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 223661,
-      "name": "To The Grave",
-      "url": "https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+        "name": "Omens",
+        "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Still Echoes",
-      "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
+      "duration_ms": 223661,
+      "name": "To The Grave",
+      "url": "https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz"
     },
     {
       "added_at": null,

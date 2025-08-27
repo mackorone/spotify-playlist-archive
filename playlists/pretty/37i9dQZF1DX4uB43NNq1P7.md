@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,121 likes - 93 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,168 likes - 93 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 7 | [Lluvia Suave \- Nature](https://open.spotify.com/track/7iKHNnNBUJ8PvWxcH2yUcw) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Lluvia Suave](https://open.spotify.com/album/1ZOvYb0aFVlgXd6vv2Wo1e) | 2:24 |
 | 8 | [Even Closer](https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Even Closer](https://open.spotify.com/album/3xUOgQaLR9uXyfI560LnRM) | 2:15 |
 | 9 | [Reverie Lumière](https://open.spotify.com/track/1GiCh355SNasTTFWd9IzZs) | [Lunea Noire](https://open.spotify.com/artist/38RM8utORSPD2zicPYBdGZ) | [Reverie Lumière](https://open.spotify.com/album/3usVry8px7MeN7vXXVrSPY) | 2:24 |
-| 10 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 |
-| 11 | [Fog Over the Marsh \(in the Rain\)](https://open.spotify.com/track/3BImjeUZ6rRxmY3ggSuiz3) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Fog Over the Marsh \(in the Rain\)](https://open.spotify.com/album/3tqOMw03onIgge9LBg09dr) | 2:16 |
-| 12 | [Together Again](https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Together Again](https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867) | 2:18 |
-| 13 | [Pines \(in the Rain\)](https://open.spotify.com/track/0nt6QhWLebtNMXQSyJ1CeO) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Pines \(in the Rain\)](https://open.spotify.com/album/1DpKF15JeyUbbgxXrcqCsx) | 2:15 |
+| 10 | [Together Again](https://open.spotify.com/track/5UvBUGrB1sUCJgJ6fyZaa5) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [Together Again](https://open.spotify.com/album/7edx4a6OyN2gtpzInf8867) | 2:18 |
+| 11 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 |
+| 12 | [Pines \(in the Rain\)](https://open.spotify.com/track/0nt6QhWLebtNMXQSyJ1CeO) | [Benjamin Martins](https://open.spotify.com/artist/5oqbogYQRxno77NT1FFrt5) | [Pines \(in the Rain\)](https://open.spotify.com/album/1DpKF15JeyUbbgxXrcqCsx) | 2:15 |
+| 13 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 |
 | 14 | [portraits \(rain\)](https://open.spotify.com/track/2ITDiZJX8N5tDpPteiqsvW) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [portraits \(rain\)](https://open.spotify.com/album/2e2RKbGI55KjdR3VbZiagA) | 2:18 |
-| 15 | [Slightest Notice](https://open.spotify.com/track/15C1OatsS1ShCOQ00K2Q5i) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Slightest Notice](https://open.spotify.com/album/5UfEdJ6eIXU2cVN6ogz07g) | 2:53 |
-| 16 | [Cosy Day](https://open.spotify.com/track/16wvTJtKC9P8V31kDUERXZ) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Cosy Day](https://open.spotify.com/album/0L1vwvEbLPiUEXgUjSuJE0) | 2:26 |
+| 15 | [Fog Over the Marsh \(in the Rain\)](https://open.spotify.com/track/3BImjeUZ6rRxmY3ggSuiz3) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Fog Over the Marsh \(in the Rain\)](https://open.spotify.com/album/3tqOMw03onIgge9LBg09dr) | 2:16 |
+| 16 | [Slightest Notice](https://open.spotify.com/track/15C1OatsS1ShCOQ00K2Q5i) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Slightest Notice](https://open.spotify.com/album/5UfEdJ6eIXU2cVN6ogz07g) | 2:53 |
 | 17 | [Second Spring](https://open.spotify.com/track/4Jaqk77HmKoCar4hKMBw8t) | [Novielle](https://open.spotify.com/artist/2du0EHVj1RbqO4q7mcL50s) | [Second Spring](https://open.spotify.com/album/4mBZg2CK8jCyTGiDFZoNZz) | 2:42 |
 | 18 | [undeviating beauty \(in the Rain\)](https://open.spotify.com/track/1a03QfCnKv6gJWtbmTnhAs) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [unknown answer \(in the Rain\)](https://open.spotify.com/album/5LAok3f6UKeywR1S7MAmSL) | 2:24 |
 | 19 | [Soft Rain On The Pane](https://open.spotify.com/track/1XbbW2IdFethsMfNKPWSWu) | [The Gustaf](https://open.spotify.com/artist/10CHzX0eZwBquNxVAxKpv2) | [Soft Rain On The Pane](https://open.spotify.com/album/0UUJEjqBJsEN9KgUs7BWDK) | 2:18 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 92 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 93 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `AAAAAFR2oxeo1TamWGXyfLshT+x3AvyP`
+Snapshot ID: `AAAAANgGqOeH+pxuNXTjHKQzvm8lWQXc`

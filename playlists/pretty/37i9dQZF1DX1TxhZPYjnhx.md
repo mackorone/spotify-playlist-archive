@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Sezairi
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,602 likes - 124 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,603 likes - 124 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

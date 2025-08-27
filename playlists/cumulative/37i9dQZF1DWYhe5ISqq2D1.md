@@ -2,7 +2,7 @@
 
 ### [ブルーにこんがらがって](https://open.spotify.com/playlist/37i9dQZF1DWYhe5ISqq2D1)
 
-> たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: にしな
+> たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: tonun
 
 808 songs - 2 day 2 hr 51 min
 
@@ -223,7 +223,7 @@
 | [Muse](https://open.spotify.com/track/3kxWlWgC3xOyJo7udidnLS) | [Broken Kangaroo](https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo) | [Muse](https://open.spotify.com/album/5tfZXsANtBfqdHcbtESQsX) | 4:16 | 2024-07-09 | 2024-07-17 |
 | [My Special Romance](https://open.spotify.com/track/2DWMHm73Z8mrmE5giCew1j) | [tabehiro](https://open.spotify.com/artist/74LzKWRK1RXCRSw4O1PHeb) | [My Special Romance](https://open.spotify.com/album/3umHPbrPmULpyoqp8HOfGt) | 2:49 | 2025-06-11 | 2025-06-18 |
 | [Nakasu Night.](https://open.spotify.com/track/6u2UqLsva95PjzVqwTSYZ5) | [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY) | [Nakasu Night.](https://open.spotify.com/album/7Fd1uHCJUa9m1vMrtFcsS6) | 2:16 | 2025-05-07 | 2025-05-14 |
-| [Near Pin Romance](https://open.spotify.com/track/2uWy0KHw5LZmnlBPUU55r4) | [Niina](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Near Pin Romance](https://open.spotify.com/album/2o3z0YEdacUCfnVVaPyDVV) | 3:34 | 2025-08-19 |  |
+| [Near Pin Romance](https://open.spotify.com/track/2uWy0KHw5LZmnlBPUU55r4) | [Niina](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [Near Pin Romance](https://open.spotify.com/album/2o3z0YEdacUCfnVVaPyDVV) | 3:34 | 2025-08-19 | 2025-08-27 |
 | [Neko Mitaina Kanojyo \- demo](https://open.spotify.com/track/2FgEx69gkzc6eCbS2RXkyl) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Neko Mitaina Kanojyo \- demo](https://open.spotify.com/album/4Swf3YByzBu98C7k0JvLDB) | 3:10 | 2025-03-11 | 2025-03-19 |
 | [Nerd](https://open.spotify.com/track/58enSgNcXIbpVlMZvgojOw) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [Nerd](https://open.spotify.com/album/3tv0cOXvWrXyDoVRwFHHP9) | 3:29 | 2025-06-24 |  |
 | [Nerd and Angel](https://open.spotify.com/track/6l9faWYYWmzhi6GwstLygb) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Nerd and Angel](https://open.spotify.com/album/2pxLQEKMnLKY2zq5o6GsBh) | 2:23 | 2025-07-29 | 2025-08-20 |
@@ -552,7 +552,7 @@
 | [モルト](https://open.spotify.com/track/5eY0O5x5oKAFZOYqDX5CpU) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [モルト](https://open.spotify.com/album/0zWrZx0f4gxrhNzbdqOVuy) | 2:29 | 2025-02-04 |  |
 | [ユニーク](https://open.spotify.com/track/3606lmQ20hiNNkU48a6P0Z) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [インターセクション](https://open.spotify.com/album/4SvOsDHXrcQcZ0U0pdGaob) | 2:47 | 2025-04-08 | 2025-04-16 |
 | [ユーモア](https://open.spotify.com/track/11PjPUWOqFDsuMllKqGZsB) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ユーモア](https://open.spotify.com/album/2eHiBlntcUdCv5nGbGv8Vm) | 4:27 | 2025-02-18 | 2025-07-16 |
-| [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 | 2025-08-26 |
+| [ライフスタイル](https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [元気でいてね。](https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x) | 2:49 | 2024-11-05 |  |
 | [ラジオ](https://open.spotify.com/track/0emSoLWPfSLPZsxIwAOFpU) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ラジオ](https://open.spotify.com/album/3CwuCNP2CleLnFZaYLoLm8) | 2:34 | 2025-02-18 | 2025-02-26 |
 | [ラストティーン](https://open.spotify.com/track/16LZJJN61lQjFxtvNzhU9d) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [ラストティーン](https://open.spotify.com/album/4dqUl348QY8vyDhornJnAK) | 3:38 | 2025-01-07 |  |
 | [ラストルック](https://open.spotify.com/track/2L4YerbAdOwJCaFrZ88UFT) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ラストルック](https://open.spotify.com/album/2B6eAg7z7p2jOx6EFUhnQS) | 3:07 | 2025-07-15 |  |

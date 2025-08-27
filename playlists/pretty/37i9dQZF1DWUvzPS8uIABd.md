@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Pihlaja.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,122 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,121 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 3 | [Mun Type](https://open.spotify.com/track/44utwvtrKuniXc5xfA98uA) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c) | [Mun Type](https://open.spotify.com/album/2edOoYsJpaIONpdl7opOT9) | 2:29 |
 | 4 | [Sata Enkelii](https://open.spotify.com/track/4kyyeD1eO2wR6VfRKh4gkq) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sata Enkelii](https://open.spotify.com/album/0qNFBKhnuzQDDgHtXzO2D8) | 2:54 |
 | 5 | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Meidän tässä kuuluisi rakastuu](https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR) | 3:08 |
-| 6 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |
-| 7 | [Elokuu](https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Elokuu](https://open.spotify.com/album/6R117BmNLL04GB9YobAwON) | 2:21 |
-| 8 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
-| 9 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
-| 10 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
-| 11 | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/track/5WfCy8iS2IOdwnLuJktPJX) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab), [Antti](https://open.spotify.com/artist/4tIEawwvJlYytKn6WXxviI) | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/album/5kftHf2AemMf3oP1gNGDs8) | 3:26 |
-| 12 | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS) | 2:48 |
-| 13 | [Haluun elää](https://open.spotify.com/track/1ycZc1mTlBaMUG9XhcUCDQ) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Haluun elää](https://open.spotify.com/album/0WuEH3SQr8ZM6tItDQMZ4U) | 3:13 |
-| 14 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
-| 15 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
-| 16 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
-| 17 | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 |
-| 18 | [Paperihaavoja](https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Paperihaavoja](https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd) | 3:15 |
+| 6 | [Paperihaavoja](https://open.spotify.com/track/7GdqPP7jriHMeDlXIMpZ7l) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Paperihaavoja](https://open.spotify.com/album/4VmHhco0tZOG1aAbrNOkZd) | 3:15 |
+| 7 | [Unelmavävy](https://open.spotify.com/track/30PxjCTzmiPZslrW3YNgwm) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Unelmavävy](https://open.spotify.com/album/5fEjkf1IlOceOJzRGMT2uX) | 2:33 |
+| 8 | [Elokuu](https://open.spotify.com/track/7AsOdfsfWyYoOJPix4lVIt) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Elokuu](https://open.spotify.com/album/6R117BmNLL04GB9YobAwON) | 2:21 |
+| 9 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 |
+| 10 | [Valoa varten](https://open.spotify.com/track/6ZBvGogC8NYOUXFRTaxVTq) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Valoa varten](https://open.spotify.com/album/1RUTppaKrlMH27m0E4Y6lP) | 3:18 |
+| 11 | [Mun ihminen](https://open.spotify.com/track/3VEV0SQHNl533SrB6bbIPY) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Mun ihminen](https://open.spotify.com/album/4f3ETbbOr26nV6wlK4KoNl) | 2:33 |
+| 12 | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/track/5WfCy8iS2IOdwnLuJktPJX) | [Niilo](https://open.spotify.com/artist/49g8AvlUgRjVAO0h219rab), [Antti](https://open.spotify.com/artist/4tIEawwvJlYytKn6WXxviI) | [Paha vaanii \(feat\. Antti\)](https://open.spotify.com/album/5kftHf2AemMf3oP1gNGDs8) | 3:26 |
+| 13 | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/track/0kK2tWDGg7XFnPKV4YZSIO) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Kellon suuntaa \(feat\. JVG\)](https://open.spotify.com/album/5TB2VuFmGALE6GXp3L7vmS) | 2:48 |
+| 14 | [Haluun elää](https://open.spotify.com/track/1ycZc1mTlBaMUG9XhcUCDQ) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Haluun elää](https://open.spotify.com/album/0WuEH3SQr8ZM6tItDQMZ4U) | 3:13 |
+| 15 | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/track/5bQUx5zYTuZnMRlpIk1V6x) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Mitä mul ei oo \(feat\. Mirella\)](https://open.spotify.com/album/6cdvpSeqA8b1bqMvoDAjPP) | 2:41 |
+| 16 | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/track/0qhInLAWcI38LnFEcKa2FV) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Äiti Teresa \(feat\. Bizi\)](https://open.spotify.com/album/49KPpjc1firTCQNTJAGn1i) | 2:44 |
+| 17 | [10 000 tuntii](https://open.spotify.com/track/6xLnpRH0AICTolSlPERAJK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [10 000 tuntii](https://open.spotify.com/album/6EgRhNmKgqozqEPgPBa0Xq) | 2:15 |
+| 18 | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/track/4CV6CKX2rRNLbfUH0PN3yL) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj), [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O) | [Naadindoo \(feat\. Ege Zulu\)](https://open.spotify.com/album/5qIgADv917SGS6fqhguuZz) | 2:37 |
 | 19 | [Epäreilu maailma](https://open.spotify.com/track/3bjBf94QpKfOnXjc6a1tZx) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Epäreilu maailma](https://open.spotify.com/album/1X5AFKgpaJdTWMjAEd7O7e) | 3:25 |
 | 20 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
 | 21 | [Sori rakas](https://open.spotify.com/track/6FBXR79IkXG5buvnkAiuoB) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Sori rakas](https://open.spotify.com/album/0Ig0JcsvzM5zHCp1iQjhUu) | 2:04 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 69 | [Leima \(feat\. Turisti\)](https://open.spotify.com/track/57Stuvnw9HYOTKsmHxk9gV) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ORIGO](https://open.spotify.com/album/7bH5zo9yUlF6TXk8SpfxPt) | 2:36 |
 | 70 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 |
 
-Snapshot ID: `AAAAAA8vafVmaaxHfdr5p1XkN6VnyXaN`
+Snapshot ID: `AAAAAIOt7pi3nJXZAve4+3gqQ0+Z6UfV`

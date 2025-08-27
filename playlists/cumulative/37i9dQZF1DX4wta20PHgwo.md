@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-519 songs - 1 day 22 hr 43 min
+520 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [In Your Own Sweet Way](https://open.spotify.com/track/0KRjJtrKMJRngSPr4jp1Dl) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [The Incredible Jazz Guitar \(Keepnews Collection\)](https://open.spotify.com/album/30mblWCqLxIB9uHZlI1VtO) | 4:53 | 2020-05-02\* | 2020-12-04 |
 | [Indigo to Azure](https://open.spotify.com/track/0MY10WJooMIOytAyLr726p) | [Steve Davis](https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD) | [Bluesthetic](https://open.spotify.com/album/2tZHNGvlT6w8AQkK2lzQv5) | 5:22 | 2023-06-01 | 2024-04-19 |
 | [Indigo to Azure](https://open.spotify.com/track/4hmnc2MsOM1kNiElChEGho) | [Steve Davis](https://open.spotify.com/artist/37SVnwHrnnfBR1Gb0Yq7GD) | [Indigo to Azure](https://open.spotify.com/album/5wRuVlDktjQAieIaWcG1yd) | 5:22 | 2022-05-02 | 2022-10-08 |
+| [Infant Eyes](https://open.spotify.com/track/45hxUyJyJHO7rucki6bxGD) | [Out Of/Into](https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux), [Matt Brewer](https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU) | [Infant Eyes](https://open.spotify.com/album/31yX0v70atTbKjAl8i06ZN) | 4:27 | 2025-08-25 |  |
 | [Infant Eyes \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 6:54 | 2021-03-07 | 2023-04-13 |
 | [Into Forever](https://open.spotify.com/track/5qw9Dh37lQISrMDlGnLga3) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46), [The Gondwana Orchestra](https://open.spotify.com/artist/19yM7q6cq3QGb7V67Czgm8), [Josephine Oniyama](https://open.spotify.com/artist/00HXdZ3u5T2JTtdGER4xVe) | [Into Forever](https://open.spotify.com/album/7klGigU0pxgmHH3cgru6Hk) | 3:38 | 2020-05-07 | 2021-08-20 |
 | [Is There a Way](https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Is There a Way](https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS) | 4:05 | 2022-01-13 | 2022-07-29 |
@@ -312,7 +313,7 @@
 | [Nocturno](https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [ARTEMIS](https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP) | 5:27 | 2020-09-12 |  |
 | [Oblique Two\-Step](https://open.spotify.com/track/02McZ2EWQf34IsdK8P3FjB) | [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Oblique Two\-Step](https://open.spotify.com/album/0mbTP0QGR7WRF7bDkYelW6) | 3:40 | 2023-08-03 |  |
 | [Of Our Children](https://open.spotify.com/track/0Er3yzZ0wnpToUIuYc9Rzi) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 6:00 | 2023-12-06 | 2025-05-24 |
-| [Office Party Music](https://open.spotify.com/track/7CQzimsY5qxGkRXVaYkcUW) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Office Party Music](https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ) | 4:22 | 2024-09-13 |  |
+| [Office Party Music](https://open.spotify.com/track/7CQzimsY5qxGkRXVaYkcUW) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Office Party Music](https://open.spotify.com/album/55KuwnjdlmkjUDM1adx1pZ) | 4:22 | 2024-09-13 | 2025-08-27 |
 | [Old Ballad For Hawk](https://open.spotify.com/track/4Sz591Jq6KpuWT7QiChF79) | [Andrew Rathbun](https://open.spotify.com/artist/4TvpnNUi8RXqHR6drFUalx) | [Semantics](https://open.spotify.com/album/6DtFw78eERNlr0JlAjuzWZ) | 8:21 | 2022-09-15 |  |
 | [Old Folks](https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Old Folks](https://open.spotify.com/album/74XZhsk5g0Mm6Pf7vX6VuT) | 5:50 | 2023-08-18 | 2024-12-21 |
 | [Old Folks](https://open.spotify.com/track/42Xv2whNPhZtJv9z0DvyVA) | [Chris Botti](https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a) | [Paris](https://open.spotify.com/album/0or0gacjz3Rx1mTw4DrVnX) | 5:50 | 2023-10-06 | 2023-10-23 |

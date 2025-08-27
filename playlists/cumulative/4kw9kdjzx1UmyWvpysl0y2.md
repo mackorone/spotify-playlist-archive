@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,056 songs - 2 day 11 hr 11 min
+1,057 songs - 2 day 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
 | [Feel Ur Luv](https://open.spotify.com/track/1pmn3XAFp1H1rJdyBB9dpN) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Feel Ur Luv](https://open.spotify.com/album/6IM2n8xlbXMefM1fXRxI40) | 3:06 | 2025-02-07 | 2025-05-03 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
+| [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 | 2025-08-26 |  |
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-05 | 2023-12-14 |
 | [Feeling Low](https://open.spotify.com/track/4tVVyEKRJZCyoEWC3rqy8t) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Feeling Low](https://open.spotify.com/album/2j2CO9BIpL1aGgVtKqvqqp) | 2:55 | 2024-06-10 | 2024-09-04 |
 | [Feelings](https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Feelings](https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l) | 3:52 | 2023-02-17 | 2023-05-09 |

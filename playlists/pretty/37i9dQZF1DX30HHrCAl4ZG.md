@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Greg Freeman
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,922 likes - 137 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,818 likes - 137 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

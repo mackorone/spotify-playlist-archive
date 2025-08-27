@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 43380,
+  "num_followers": 43402,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Oh Honey",
-        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -723,22 +723,6 @@
     {
       "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
         "name": "Aijuswanaseing",
         "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 251426,
       "name": "Just Friends (Sunny)",
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 319893,
-      "name": "Remind Me - Remastered",
-      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "4",
@@ -947,6 +931,22 @@
       "duration_ms": 245480,
       "name": "Party (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 319893,
+      "name": "Remind Me - Remastered",
+      "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
-      },
-      "artists": [
-        {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "People Everyday - Metamorphosis Mix",
-      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
-    },
-    {
       "added_at": "2025-07-14 16:53:39",
       "album": {
         "name": "Boots on the Ground",
@@ -1115,6 +1099,22 @@
       "duration_ms": 203209,
       "name": "Boots on the Ground",
       "url": "https://open.spotify.com/track/3cycM517xaQKXyUhcCEuN6"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4KqorQ6C7yDXvqgfgGrnvm"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "People Everyday - Metamorphosis Mix",
+      "url": "https://open.spotify.com/track/5thts3213xwSroRd11fv5A"
     },
     {
       "added_at": "2020-07-23 21:45:59",

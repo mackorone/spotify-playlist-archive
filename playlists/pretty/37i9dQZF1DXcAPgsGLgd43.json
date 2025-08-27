@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 95766,
+  "num_followers": 95921,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Lo Que Soy",
         "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 170953,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Rintintin",
+        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
+      },
+      "artists": [
+        {
+          "name": "M\u00cbSTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Rintintin",
+      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1443,22 +1459,6 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "Rintintin",
-        "url": "https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73"
-      },
-      "artists": [
-        {
-          "name": "M\u00cbSTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Rintintin",
-      "url": "https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Se Va (feat. Cumbiafrica)",
-        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 196750,
-      "name": "Se Va (feat. Cumbiafrica)",
-      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "La Buena Vida (feat. Tayson Kryss)",
         "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 137963,
       "name": "La Buena Vida (feat. Tayson Kryss)",
       "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "Se Va (feat. Cumbiafrica)",
+        "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 196750,
+      "name": "Se Va (feat. Cumbiafrica)",
+      "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "duration_ms": 155202,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
         "name": "Al Ritmo",
         "url": "https://open.spotify.com/album/3RGDu7Pxih1KKGsdXJGQsY"
       },
@@ -1859,30 +1875,6 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "El Baile",
-        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Novak",
-          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
-        },
-        {
-          "name": "Fonsa",
-          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
         "name": "Bailame",
         "url": "https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw"
       },
@@ -1919,34 +1911,26 @@
     {
       "added_at": "2025-08-22 04:00:25",
       "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/4n9gt1qeX4Pdb4Vr9P8L7K"
+        "name": "El Baile",
+        "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
       "artists": [
         {
-          "name": "Leandro Da Silva",
-          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
-        }
-      ],
-      "duration_ms": 155202,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/2w18aoWAqasGEgIP8kXGQh"
-    },
-    {
-      "added_at": "2025-08-22 04:00:25",
-      "album": {
-        "name": "HER NAME IS JUANA",
-        "url": "https://open.spotify.com/album/37pTwGQwsoSHEBrauJMVcq"
-      },
-      "artists": [
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
         {
-          "name": "FLAKO STIK",
-          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+          "name": "Novak",
+          "url": "https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy"
+        },
+        {
+          "name": "Fonsa",
+          "url": "https://open.spotify.com/artist/74HgHiHyAfNJkfJlIk6uAU"
         }
       ],
-      "duration_ms": 225942,
-      "name": "HER NAME IS JUANA",
-      "url": "https://open.spotify.com/track/1G7W43KfjMY8nl0N8t68WF"
+      "duration_ms": 174880,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
     },
     {
       "added_at": "2025-08-22 04:00:25",
@@ -1983,6 +1967,22 @@
       "duration_ms": 123697,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/4K1RBpUlnpZkNZjNu8ixAZ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:25",
+      "album": {
+        "name": "HER NAME IS JUANA",
+        "url": "https://open.spotify.com/album/37pTwGQwsoSHEBrauJMVcq"
+      },
+      "artists": [
+        {
+          "name": "FLAKO STIK",
+          "url": "https://open.spotify.com/artist/2ltTl7JjDstSA7QcXCn5ff"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "HER NAME IS JUANA",
+      "url": "https://open.spotify.com/track/1G7W43KfjMY8nl0N8t68WF"
     },
     {
       "added_at": "2025-08-22 04:00:25",

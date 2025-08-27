@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 545719,
+  "num_followers": 545680,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MD/T+AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MEEjIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Maskulin",
+        "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
+      },
+      "artists": [
+        {
+          "name": "Ylva",
+          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Maskulin",
+      "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Maskulin",
-        "url": "https://open.spotify.com/album/1yyhzVZMl7jRc8bHaRTKxX"
-      },
-      "artists": [
-        {
-          "name": "Ylva",
-          "url": "https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Maskulin",
-      "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Tobias Sten (Utvida)",
         "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1hdy7Ve9G9RBHas7kWegk6"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
@@ -109,7 +109,87 @@
       "url": "https://open.spotify.com/track/2p4HaYc7zQLWXrf4gHIrnf"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Tobias Sten (Utvida)",
+        "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 234252,
+      "name": "Hymne",
+      "url": "https://open.spotify.com/track/1r4yk3P9ZO0mYokO58pidh"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Tobias Sten",
+        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Eli",
+      "url": "https://open.spotify.com/track/5iw7PzTQdsg2FVhR14cgGw"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "You'll Be Alright, Kid (Chapter 1)",
+        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 186964,
+      "name": "Ordinary",
+      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Tobias Sten (Utvida)",
+        "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Tretten tapte anrop",
+      "url": "https://open.spotify.com/track/7jxVfKAl4TTvnWPQMCuFz9"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -149,23 +229,23 @@
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "Tobias Sten (Utvida)",
-        "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
+        "name": "Valget \u00e5 g\u00e5, og vi gikk",
+        "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
       },
       "artists": [
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
         }
       ],
-      "duration_ms": 234252,
-      "name": "Hymne",
-      "url": "https://open.spotify.com/track/1r4yk3P9ZO0mYokO58pidh"
+      "duration_ms": 208280,
+      "name": "Hvis jeg kunne fly",
+      "url": "https://open.spotify.com/track/65kF2jDvLKN7OSfpb8glPk"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -176,28 +256,12 @@
           "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 205454,
-      "name": "Eli",
-      "url": "https://open.spotify.com/track/5iw7PzTQdsg2FVhR14cgGw"
+      "duration_ms": 233500,
+      "name": "Ka visste eg",
+      "url": "https://open.spotify.com/track/2TSMITTX23lCiUbNb4eizY"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "You'll Be Alright, Kid (Chapter 1)",
-        "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 186964,
-      "name": "Ordinary",
-      "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "I Barely Know Her",
         "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
@@ -208,12 +272,32 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 242903,
-      "name": "12 to 12",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+      "duration_ms": 199032,
+      "name": "back to friends",
+      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Alle vil til himmelen",
+        "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 145733,
+      "name": "Alle vil til himmelen",
+      "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -253,7 +337,23 @@
       "url": "https://open.spotify.com/track/1I37Zz2g3hk9eWxaNkj031"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "SWAG",
+        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "DAISIES",
+      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -285,39 +385,7 @@
       "url": "https://open.spotify.com/track/3RXUgPNIbUgFxsDWuBQEt6"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Tobias Sten (Utvida)",
-        "url": "https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Tretten tapte anrop",
-      "url": "https://open.spotify.com/track/7jxVfKAl4TTvnWPQMCuFz9"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -349,59 +417,99 @@
       "url": "https://open.spotify.com/track/5sBDrrtLGbV64QJnEqfjer"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "Tobias Sten",
-        "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
       },
       "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "LENGE LEVE LIVET",
+        "url": "https://open.spotify.com/album/4hka0YqBcLB9uWydvhcx0R"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        },
         {
           "name": "Tobias Sten",
           "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 233500,
-      "name": "Ka visste eg",
-      "url": "https://open.spotify.com/track/2TSMITTX23lCiUbNb4eizY"
+      "duration_ms": 203693,
+      "name": "hvem kan seile foruten vind?",
+      "url": "https://open.spotify.com/track/5E5GQ6dnxc5PpvMcN9U3fX"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "Valget \u00e5 g\u00e5, og vi gikk",
-        "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Hvis jeg kunne fly",
-      "url": "https://open.spotify.com/track/65kF2jDvLKN7OSfpb8glPk"
+      "duration_ms": 182088,
+      "name": "undressed",
+      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "Alle vil til himmelen",
-        "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
+        "name": "Friskis",
+        "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
       },
       "artists": [
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "Kjartan Lauritzen",
+          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
         },
         {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 145733,
-      "name": "Alle vil til himmelen",
-      "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
+      "duration_ms": 168774,
+      "name": "Friskis",
+      "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Overfladisk",
+        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Overfladisk",
+      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -433,43 +541,95 @@
       "url": "https://open.spotify.com/track/0MHStU0muAIEMbwdnebYu2"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "SWAG",
-        "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "DAISIES",
-      "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "LENGE LEVE LIVET",
-        "url": "https://open.spotify.com/album/4hka0YqBcLB9uWydvhcx0R"
-      },
-      "artists": [
-        {
-          "name": "lille Caesar",
-          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         },
         {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 203693,
-      "name": "hvem kan seile foruten vind?",
-      "url": "https://open.spotify.com/track/5E5GQ6dnxc5PpvMcN9U3fX"
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Svagare \u00e4n jag",
+        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 187076,
+      "name": "Svagare \u00e4n jag",
+      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Skrubbs\u00e5r og Skallebank 2",
+        "url": "https://open.spotify.com/album/0MPHCS5KaZiZei1JEiioLy"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        },
+        {
+          "name": "Chris Abolade",
+          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
+        }
+      ],
+      "duration_ms": 162651,
+      "name": "Putt Diamanter Opp",
+      "url": "https://open.spotify.com/track/5EvBoKgVNrMp3NNSSaLqFB"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "You'll Be Alright, Kid",
+        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 189553,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -501,82 +661,10 @@
       "url": "https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Friskis",
-        "url": "https://open.spotify.com/album/34GDL15iOZdbCknRQjgpGu"
-      },
-      "artists": [
-        {
-          "name": "Kjartan Lauritzen",
-          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 168774,
-      "name": "Friskis",
-      "url": "https://open.spotify.com/track/7v9T6N0q35ZwpqdN7Ln2xs"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Overfladisk",
-        "url": "https://open.spotify.com/album/7A0qirXHhtlcgnsk4f5I34"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Overfladisk",
-      "url": "https://open.spotify.com/track/5TrYG1brmOJcqtOFXhLaMm"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/0Rfqw98N7kZ4qVPGWvt8Gn"
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
       "artists": [
         {
@@ -584,100 +672,12 @@
           "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 208226,
+      "duration_ms": 208211,
       "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "You'll Be Alright, Kid",
-        "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 189553,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/6wHpLMmp98aHcV8L1JFrj8"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Svagare \u00e4n jag",
-        "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Svagare \u00e4n jag",
-      "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "rosie",
-        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Valget \u00e5 g\u00e5, og vi gikk",
         "url": "https://open.spotify.com/album/5L8V2Gwsd6jyyPGQwPPCqn"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/6kHrtlTkNbQl0cD6I6t7pC"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "FRIHET I LENKER",
         "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
@@ -713,27 +713,7 @@
       "url": "https://open.spotify.com/track/7px3lmdf4nzNEMt6zaQ5yJ"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Skrubbs\u00e5r og Skallebank 2",
-        "url": "https://open.spotify.com/album/0MPHCS5KaZiZei1JEiioLy"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        },
-        {
-          "name": "Chris Abolade",
-          "url": "https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB"
-        }
-      ],
-      "duration_ms": 162651,
-      "name": "Putt Diamanter Opp",
-      "url": "https://open.spotify.com/track/5EvBoKgVNrMp3NNSSaLqFB"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Ekko",
         "url": "https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA"
@@ -753,7 +733,43 @@
       "url": "https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "No Broke Boys",
+        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "No Broke Boys",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Misforst\u00e5tt (Juggernaut)",
+        "url": "https://open.spotify.com/album/1GV8E7CR5apRie0sWItWF1"
+      },
+      "artists": [
+        {
+          "name": "Streetboys",
+          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Misforst\u00e5tt (Juggernaut)",
+      "url": "https://open.spotify.com/track/1Ia7Mk2djngsXBlVWf28NJ"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Paradox Freestyle",
         "url": "https://open.spotify.com/album/1AjY7znzLxYOwjh5MmoFbo"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/3QhlAdc6shfPm2Rv5wBfAu"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Galopp",
         "url": "https://open.spotify.com/album/5Kc2vzQnDo9AInTgxixR4n"
@@ -797,39 +813,7 @@
       "url": "https://open.spotify.com/track/6kx2yUfhcc372Iknjrx6YK"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Azizam",
-        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 162029,
-      "name": "Azizam",
-      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Tobias Sten",
         "url": "https://open.spotify.com/album/6I1HbLIOKk2yrM6zlR7yuH"
@@ -845,7 +829,75 @@
       "url": "https://open.spotify.com/track/2sglQ4dXRweQoFkpSNjEzw"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Azizam",
+        "url": "https://open.spotify.com/album/37HwcDtLqY2WXN7NArODvI"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 162029,
+      "name": "Azizam",
+      "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "rosie",
+        "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+    },
+    {
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Utested",
         "url": "https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu"
@@ -861,23 +913,7 @@
       "url": "https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Misforst\u00e5tt (Juggernaut)",
-        "url": "https://open.spotify.com/album/1GV8E7CR5apRie0sWItWF1"
-      },
-      "artists": [
-        {
-          "name": "Streetboys",
-          "url": "https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Misforst\u00e5tt (Juggernaut)",
-      "url": "https://open.spotify.com/track/1Ia7Mk2djngsXBlVWf28NJ"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "F\u00e5 det p\u00e5",
         "url": "https://open.spotify.com/album/3Uo9CGyJAC7gjPRRY0zJGN"
@@ -901,23 +937,7 @@
       "url": "https://open.spotify.com/track/7b2BJHw0HsBBHdojXWe4fA"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Testament",
         "url": "https://open.spotify.com/album/6DwjU4rv6RmhzjnwZ9CakG"
@@ -933,43 +953,39 @@
       "url": "https://open.spotify.com/track/76bzz3PjIUz8bAzrbSDOeM"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "No Broke Boys",
-        "url": "https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N"
+        "name": "Heim te st\u00e5vo",
+        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
         }
       ],
-      "duration_ms": 163994,
-      "name": "No Broke Boys",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+      "duration_ms": 196758,
+      "name": "Heim te st\u00e5vo",
+      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
-        "name": "THIS IS FOR (DELUXE)",
-        "url": "https://open.spotify.com/album/4vk90WpE6wOlE3wCO0md1U"
+        "name": "G\u00e5r det bra?",
+        "url": "https://open.spotify.com/album/77Dqvy9w0TCF3eT9RJGnYp"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
         }
       ],
-      "duration_ms": 180293,
-      "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
-      "url": "https://open.spotify.com/track/6eBYkBuDknRmKLj68hIfWW"
+      "duration_ms": 143314,
+      "name": "G\u00e5r det bra?",
+      "url": "https://open.spotify.com/track/70wiewm1Q3ivY2dqTDTFzP"
     },
     {
-      "added_at": "2025-08-25 13:30:45",
+      "added_at": "2025-08-26 13:37:06",
       "album": {
         "name": "Djevelens Salong",
         "url": "https://open.spotify.com/album/37LVW3GvXut6cdPr89QHRn"
@@ -987,22 +1003,6 @@
       "duration_ms": 161571,
       "name": "Djevelens Salong",
       "url": "https://open.spotify.com/track/5D6svoWxjXsiSDc5iBfeNT"
-    },
-    {
-      "added_at": "2025-08-25 13:30:45",
-      "album": {
-        "name": "Heim te st\u00e5vo",
-        "url": "https://open.spotify.com/album/05u8TF0hM8smBXuomQeVDi"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 196758,
-      "name": "Heim te st\u00e5vo",
-      "url": "https://open.spotify.com/track/07F3aHvvLxqV5Fp49pkwpZ"
     }
   ],
   "unique_name": "Top 50 - Norway",

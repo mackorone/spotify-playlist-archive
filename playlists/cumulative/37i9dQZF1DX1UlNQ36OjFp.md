@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2Yz9F5lQVc0p6SDxkw2BvF">ZULAN</a>'s favorite tracks\. Updated regularly\. Curated by ZULAN\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-22 songs - 1 hr 24 min
+23 songs - 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2025-06-27 |  |
 | [LONG DISTANCE](https://open.spotify.com/track/5vG7iwUFxDI8xSDfya1Ist) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Escapism](https://open.spotify.com/album/2IY7M0PuMq7TltqtwFAzh8) | 3:39 | 2025-06-27 |  |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2025-06-27 |  |
+| [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 | 2025-08-26 |  |
 | [Privity \- Extented Version](https://open.spotify.com/track/6wR6WdlYHHWPbsq7MHye02) | [Anthony Godfather](https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Privity \(Extented Version\)](https://open.spotify.com/album/1dND1YOVxq16W6mrEnJxBn) | 6:35 | 2025-06-27 |  |
 | [Shake Body](https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man of the Year](https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2) | 3:28 | 2025-06-27 |  |
 | [Shake It To The Max \(FLY\)](https://open.spotify.com/track/5JgNxMf1Z9oksGKidbFAUq) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt) | [Shake It To The Max \(FLY\)](https://open.spotify.com/album/51PKtPHDhKtnN0Ev2rx8zG) | 2:07 | 2025-06-27 | 2025-07-10 |

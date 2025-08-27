@@ -4,7 +4,7 @@
 
 > New music from Offset, Gunna and Young Nudy.
 
-2,483 songs - 5 day 8 hr 46 min
+2,483 songs - 5 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,7 @@
 | [Changed On Me \(feat\. Vory & Polo G\)](https://open.spotify.com/track/0aJMggmjMva3QFnAbmM2U9) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:01 | 2022-04-08 | 2022-06-11 |
 | [Chateau](https://open.spotify.com/track/2mbAFKj9gePjW91G1WH3sp) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 2:15 | 2019-07-06 | 2019-08-13 |
 | [Check Please \(feat\. Lil Jairmy & MG Lil Bubba\)](https://open.spotify.com/track/7FoPnPOvJk2WsgPz9YPd3B) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb), [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [Check Please \(feat\. Lil Jairmy & MG Lil Bubba\)](https://open.spotify.com/album/1xVoXzCE71rSv8YrwPp1Xd) | 3:25 | 2025-03-14 | 2025-03-22 |
-| [Checkmate \(Smooth\)](https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:19 | 2025-08-22 |  |
+| [Checkmate \(Smooth\)](https://open.spotify.com/track/56zevNb53xLMwZGRWfGfSi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:12 | 2025-08-22 |  |
 | [Cherchez LaGhost \(feat\. U\-God\)](https://open.spotify.com/track/5OsVXAWDMK7v37MwKEDjcD) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [U\-God](https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx) | [Supreme Clientele](https://open.spotify.com/album/7eaQqVyq6xzAVgsxSzSP83) | 3:11 | 2025-01-30 | 2025-02-01 |
 | [Cherish The Moment](https://open.spotify.com/track/6CnU6dQJJVtUyCuFfdKkQd) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 3:25 | 2024-11-29 | 2024-12-07 |
 | [Chicago Freestyle \(feat\. Giveon\)](https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:40 | 2020-05-15 | 2020-08-14 |

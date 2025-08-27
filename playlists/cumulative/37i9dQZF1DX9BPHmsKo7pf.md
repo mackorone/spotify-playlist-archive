@@ -2,7 +2,7 @@
 
 ### [Hot Hits România](https://open.spotify.com/playlist/37i9dQZF1DX9BPHmsKo7pf)
 
-> Cele mai de succes 50 de hituri în România\. Cover: Aerozen
+> Cele mai de succes 50 de hituri în România\. Cover: RAVA
 
 212 songs - 10 hr 13 min
 

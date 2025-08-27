@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Badem",
+        "url": "https://open.spotify.com/album/5NhE8aUF0EHa5lh9YijL8B"
+      },
+      "artists": [
+        {
+          "name": "Melek Mosso",
+          "url": "https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223655,
+      "name": "Badem",
+      "url": "https://open.spotify.com/track/2x3Sioq1PLzQmomVYvXaui"
+    },
+    {
+      "album": {
         "name": "Baksana Bana",
         "url": "https://open.spotify.com/album/0SRLj5x7TcO8LbS65oPzbF"
       },
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 155043,
       "name": "Nazar",
       "url": "https://open.spotify.com/track/4AS8vEfzhPvYp68yRLkXnv"
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 251733,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/69cGGsyc5A7OJRkjsUxWho"
@@ -5586,6 +5604,24 @@
       "duration_ms": 240181,
       "name": "T\u00fckeniyor \u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/5rnnwt1ZN5lAW5keo5DmQF"
+    },
+    {
+      "album": {
+        "name": "Unutulmuyor",
+        "url": "https://open.spotify.com/album/7md4fYG2lWiKS09tq13Ll4"
+      },
+      "artists": [
+        {
+          "name": "Funda Arar",
+          "url": "https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW"
+        }
+      ],
+      "date_added": "2025-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Unutulmuyor",
+      "url": "https://open.spotify.com/track/69WJKtNwwQ5ST9y34lpp8g"
     },
     {
       "album": {

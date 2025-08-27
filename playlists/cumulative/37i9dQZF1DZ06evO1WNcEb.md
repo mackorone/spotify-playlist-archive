@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-82 songs - 7 hr 14 min
+83 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Sonhos Não Tem Fim](https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 6:42 | 2023-07-09 |  |
 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \- Na Igreja \(In Memoriam Ludmila Ferber\)](https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i) | 5:26 | 2024-05-27 | 2024-12-07 |
 | [Sopra Espírito \- Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo](https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Sopra Espírito \(Na Igreja \- In Memoriam Ludmila Ferber, Ao Vivo\)](https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo) | 5:26 | 2024-12-09 |  |
-| [Te Amo Espírito Santo](https://open.spotify.com/track/2jRwkKXt0cSk6AtpKcjm4q) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 5:48 | 2025-04-17 |  |
+| [Te Amo Espírito Santo](https://open.spotify.com/track/2jRwkKXt0cSk6AtpKcjm4q) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 5:48 | 2025-04-17 | 2025-08-27 |
+| [Te Amo, Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/03rp1BMHAODIfnCUyY7ZfH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Te Amo, Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/1iTqTLsqHqoiSnegmU6fUr) | 5:53 | 2025-08-27 |  |
 | [Terremoto](https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:15 | 2023-07-09 |  |
 | [Tira\-me do Vale](https://open.spotify.com/track/4JeWq3J6kEjJ1O7fATN3G4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:27 | 2023-07-18 | 2023-07-20 |
 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Cassiane](https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 | 2023-07-09 |  |

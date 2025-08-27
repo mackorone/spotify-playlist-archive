@@ -4,7 +4,7 @@
 
 > De 50 grootste hits in NL\. Cover: Roxy Dekker, Idaly & Ronnie Flex
 
-494 songs - 1 day 0 hr 14 min
+496 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/track/0fROjdyTv6S6E65qpQfwHa) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Ik Zing \(feat\. Snelle\)](https://open.spotify.com/album/0mGKEPfav9UHa2wssnrruz) | 2:54 | 2025-03-27 |  |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-07-10 | 2025-08-08 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-18 | 2024-06-28 |
-| [in love with us](https://open.spotify.com/track/44onYrHxP7S8kIrv779m6H) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/6o1OUM1A0nCVCYD7QGFsld) | 2:40 | 2025-08-07 |  |
+| [in love with us](https://open.spotify.com/track/44onYrHxP7S8kIrv779m6H) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/6o1OUM1A0nCVCYD7QGFsld) | 2:40 | 2025-08-07 | 2025-08-27 |
+| [in love with us](https://open.spotify.com/track/4A4yZT3xCHxwgkwYZyf0z4) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:41 | 2025-08-26 |  |
 | [Industry Plant](https://open.spotify.com/track/31EsbpCFl01yQtLncNdjSz) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Industry Plant](https://open.spotify.com/album/2pTk2jxZu1vnVybVRyBToh) | 2:20 | 2024-09-26 | 2024-12-06 |
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-11-16 | 2024-03-29 |
 | [It All Means Nothing \(You're Not Here Now\)](https://open.spotify.com/track/1dRzBmvoqrvae5m9xBpnK4) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX), [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [It All Means Nothing \(You're Not Here Now\)](https://open.spotify.com/album/2yjRkTjVcDyShIFyvGcPT9) | 3:27 | 2024-12-19 | 2024-12-27 |
@@ -494,7 +495,8 @@
 | [Wolken](https://open.spotify.com/track/3PSIMMmMWMHrQUzY46hVC4) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Wolken](https://open.spotify.com/album/436JddM1AQ7Owp2IIAxiFv) | 2:31 | 2025-04-17 | 2025-07-04 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-12 | 2024-04-05 |
 | [You & Me](https://open.spotify.com/track/6sX8CkFopBSOHX7PFS4VpI) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [You & Me](https://open.spotify.com/album/49Qtp4b1FhN4DNcjCW9qnJ) | 4:42 | 2024-04-04 | 2024-05-17 |
-| [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-29 |  |
+| [ZAAZAA](https://open.spotify.com/track/1ViD8tjPZVFZKAC8O7Gmfi) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:34 | 2025-08-26 |  |
+| [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-29 | 2025-08-27 |
 | [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 | 2025-06-26 |  |
 | [Zin In De Zomer Man](https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Zin In De Zomer Man](https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG) | 2:15 | 2023-05-11 | 2023-09-01 |
 | [Zoet, Zout, Zuur](https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zoet, Zout, Zuur](https://open.spotify.com/album/6FrJb3MtWlu4EQNbXZsN1P) | 3:00 | 2024-05-16 | 2024-09-20 |

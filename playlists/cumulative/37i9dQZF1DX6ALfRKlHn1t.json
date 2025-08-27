@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "The Sound a Body Makes When It's Still",
+        "url": "https://open.spotify.com/album/0HMgzw7KIZ7gnmkfeOxCs6"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173791,
+      "name": "And a Big Load",
+      "url": "https://open.spotify.com/track/2Oo8nMqcHm1pKZUgm4l3ln"
+    },
+    {
+      "album": {
         "name": "Another Man's Jeans",
         "url": "https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 188400,
       "name": "Communicating",
       "url": "https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1"
@@ -3138,7 +3156,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-22",
+      "date_removed": null,
       "duration_ms": 223626,
       "name": "Johnson Song",
       "url": "https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 181135,
       "name": "Out Of My League",
       "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"

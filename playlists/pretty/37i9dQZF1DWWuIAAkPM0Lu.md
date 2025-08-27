@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra sombr, Bette, Florence + The Machine og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,537 likes - 105 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,533 likes - 105 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

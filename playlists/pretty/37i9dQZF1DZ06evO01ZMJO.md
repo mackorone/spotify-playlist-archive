@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,210 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,218 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 12 | [Ruinen Dieser Welt](https://open.spotify.com/track/0M6Ev2Pkm72m8t13siJPDp) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Ruinen Dieser Welt](https://open.spotify.com/album/2JPl1Vfq5p6MtZ3re2QD6J) | 3:10 |
 | 13 | [Kiss Kiss Bang](https://open.spotify.com/track/17De5987piqgYQbQdmBghP) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Kiss Kiss Bang](https://open.spotify.com/album/3WdMedDrbNcQKShxzhfK29) | 2:34 |
 | 14 | [Huichelaar \- Original Mix](https://open.spotify.com/track/6DflceCvdqHim83bvk1gSA) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Huichelaar \(Original Mix\)](https://open.spotify.com/album/3J6dxb61uLzT9OahWB4xDI) | 3:00 |
-| 15 | [Kali \- Outsiders Remix](https://open.spotify.com/track/5i0Okd7ctP2yCq2fHERUMw) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali \(Outsiders Remix\)](https://open.spotify.com/album/2zE6YSa25Sqd9dIjxAaVuk) | 4:09 |
-| 16 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
+| 15 | [Good Times](https://open.spotify.com/track/3VCaR5Bpx3oQL0tlPYM8iX) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Good Times](https://open.spotify.com/album/09dUWdtksSC3W84JcWRRd3) | 2:38 |
+| 16 | [Kali \- Outsiders Remix](https://open.spotify.com/track/5i0Okd7ctP2yCq2fHERUMw) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [Kali \(Outsiders Remix\)](https://open.spotify.com/album/2zE6YSa25Sqd9dIjxAaVuk) | 4:09 |
 | 17 | [Rebls 4 Life](https://open.spotify.com/track/632MogW61VKRFtmvYuY8jV) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebls 4 Life](https://open.spotify.com/album/7y6SPprhgZXGYlzADaw8AP) | 3:31 |
 | 18 | [Dromendans \(Outsiders Remix\)](https://open.spotify.com/track/3pR5AcJQBYpD7GX7koQoJl) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [Dromendans \(Outsiders Remix\)](https://open.spotify.com/album/5YWyGJZBMUHDGgmbACLSfS) | 3:34 |
 | 19 | [Popcorn](https://open.spotify.com/track/2WEAjQeoTRm7T3leqV2YfQ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [Anita Doth](https://open.spotify.com/artist/7xhR4wM8X8SeGTKKPujotA) | [Popcorn](https://open.spotify.com/album/2pM2KhElow7DCyDuf1vZ4O) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 49 | [Rebel Baby](https://open.spotify.com/track/2M5mu6nJEFbq6Z6shY3WSZ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Rebel Baby](https://open.spotify.com/album/7hk0hPdYtMeqT1rdANRbne) | 4:12 |
 | 50 | [Dubbel Zo Hard \(Weet Je Nog?\)](https://open.spotify.com/track/0CH8thpsIg9MH1dZfha5EJ) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Dubbel Zo Hard \(Weet Je Nog?\)](https://open.spotify.com/album/2RpiHlolipt2Toep6JQ738) | 4:02 |
 
-Snapshot ID: `aKpWAAAAAAAb5WAbVyRhiifG0bzKpTo+`
+Snapshot ID: `aKungAAAAABGOZrX+pV7tJxyR8RZLfin`

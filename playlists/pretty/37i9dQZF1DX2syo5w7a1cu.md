@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547,407 likes - 150 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,317 likes - 150 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 66 | [25 Minutes \- 2014 Remaster](https://open.spotify.com/track/7z3DihhdVRFn7kn4paPdgV) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Colours \(2014 Remaster\)](https://open.spotify.com/album/4oCSKLvBrG13DKEXtkkkY9) | 4:24 |
 | 67 | [Beauty and the Beast \- from the Soundtrack "Beauty and the Beast"](https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 4:09 |
 | 68 | [Hazard](https://open.spotify.com/track/1ntKYuqLlmV3sTZoNyeHhM) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Rush Street](https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F) | 5:17 |
-| 69 | [Angels](https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:25 |
-| 70 | [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 |
+| 69 | [I Belong To You](https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI) | 4:17 |
+| 70 | [Angels](https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:25 |
 | 71 | [That's Why You Go Away](https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Strange Foreign Beauty](https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO) | 4:13 |
 | 72 | [Immortality \(feat\. Bee Gees\)](https://open.spotify.com/track/0HuNPrWCyZpCx59pu9ON99) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:10 |
-| 73 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
-| 74 | [Never Ever](https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Saints](https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF) | 6:27 |
-| 75 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
+| 73 | [Never Ever](https://open.spotify.com/track/7ziHnshbknkpFLDW5yGBjO) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [All Saints](https://open.spotify.com/album/73aw7T2ZpoDvcPe2uSlWxF) | 6:27 |
+| 74 | [Stay \(I Missed You\)](https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Stay \(I Missed You\)](https://open.spotify.com/album/0candONErDvN9wWFhOWXrS) | 3:04 |
+| 75 | [Mmm Mmm Mmm Mmm](https://open.spotify.com/track/31v2AQlx4pDI7kmnLxBkem) | [Crash Test Dummies](https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL) | [God Shuffled His Feet](https://open.spotify.com/album/03dlqdFWY9gwJxGl3AREVy) | 3:55 |
 | 76 | [Take Me to Your Heart](https://open.spotify.com/track/7rdtBpPpe4knfd7aD98h9X) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Michael Learns To Rock](https://open.spotify.com/album/1QIn6Ei16FidIGiHgylZDB) | 4:00 |
 | 77 | [To Be With You](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 78 | [Viva Forever](https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 5:10 |
@@ -150,13 +150,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 140 | [Release Me](https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:55 |
 | 141 | [Let's Make A Night To Remember](https://open.spotify.com/track/3wgNhWuV5gkcEkTgMBNcoA) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 6:18 |
 | 142 | [7 Seconds \(feat\. Neneh Cherry\)](https://open.spotify.com/track/0PrlpSOlCkA1SJlqaSzpou) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [The Guide \(Wommat\)](https://open.spotify.com/album/4K2xwEC31lTt6sFfC4tYoM) | 5:06 |
-| 143 | [Crush](https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Flowers \- the Hits Collection](https://open.spotify.com/album/6n58xEuzzCQJZ68dady1x0) | 3:20 |
-| 144 | [Father And Son](https://open.spotify.com/track/0zyHakmAg2HQaFjCyMgiOZ) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Said And Done](https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4) | 2:46 |
+| 143 | [Father And Son](https://open.spotify.com/track/0zyHakmAg2HQaFjCyMgiOZ) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Said And Done](https://open.spotify.com/album/3N73NWzGPFcMZ23e0xPSX4) | 2:46 |
+| 144 | [Crush](https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp) | [Jennifer Paige](https://open.spotify.com/artist/26PDtWYDJ1KD0brukKsJH1) | [Flowers \- the Hits Collection](https://open.spotify.com/album/6n58xEuzzCQJZ68dady1x0) | 3:20 |
 | 145 | [Stay Another Day](https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:27 |
 | 146 | [I'm Ready \- MTV Unplugged](https://open.spotify.com/track/3dy6IEnBzDOYj5zYJaVpQW) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:28 |
 | 147 | [Rain](https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Erotica \(PA Version\)](https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ) | 5:24 |
-| 148 | [Sleeping Child \- 2014 Remaster](https://open.spotify.com/track/19Md3QtTuHJyxptkRKf15p) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Colours](https://open.spotify.com/album/15X5BqlPEMcr748gxnWCny) | 3:36 |
-| 149 | [All That I Need \- Edit](https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS), [Rude Boy](https://open.spotify.com/artist/7KIa6BEXjk29IxNNeANzXq), [Andy Bradfield](https://open.spotify.com/artist/5RdqlEgTX8i8kUM5x3EDX1) | [Where We Belong](https://open.spotify.com/album/0CIOLuLFn9fzEltziUqJyz) | 3:40 |
+| 148 | [All That I Need \- Edit](https://open.spotify.com/track/2ZXJFFf0bisA3TtGUP0hZ9) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS), [Rude Boy](https://open.spotify.com/artist/7KIa6BEXjk29IxNNeANzXq), [Andy Bradfield](https://open.spotify.com/artist/5RdqlEgTX8i8kUM5x3EDX1) | [Where We Belong](https://open.spotify.com/album/0CIOLuLFn9fzEltziUqJyz) | 3:40 |
+| 149 | [Sleeping Child \- 2014 Remaster](https://open.spotify.com/track/19Md3QtTuHJyxptkRKf15p) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Colours](https://open.spotify.com/album/15X5BqlPEMcr748gxnWCny) | 3:36 |
 | 150 | [I Will Come To You](https://open.spotify.com/track/6ZIuoDs3i1KjKurJf9miSs) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:11 |
 
 Snapshot ID: `AAAAAMvgUJJPvSfprOoD/GkMMKxR0bQk`

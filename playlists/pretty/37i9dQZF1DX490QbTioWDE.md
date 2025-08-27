@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,148 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,282 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 43 | [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 |
 | 44 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 |
 | 45 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 |
-| 46 | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF) | 3:13 |
-| 47 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
+| 46 | [Si Me Disculpo Ahora](https://open.spotify.com/track/3O9U11gu6g9yzYaOta36fF) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Si Me Disculpo Ahora](https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi) | 2:00 |
+| 47 | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/track/7iSjpEVClrTJ490HArIKny) | [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo), [Taweno](https://open.spotify.com/artist/2KVjU9zRtlHYjglHWKMyez), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Olvidarte de Mi Jamas Podras](https://open.spotify.com/album/6vjNYZjE6MCDbEGSQM4mwF) | 3:13 |
 | 48 | [Convénceme](https://open.spotify.com/track/3Oa9oxOLUYGQgzKXGIMpWy) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Convénceme](https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO) | 3:10 |
 | 49 | [Fuego y Pasion](https://open.spotify.com/track/0SBHkYiZh8ih1RHoOcDtHl) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 4:21 |
 | 50 | [ME DUELE TU TRAICIÓN](https://open.spotify.com/track/6HegiTRemAAx7CN8tHqRta) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [ME DUELE TU TRAICIÓN](https://open.spotify.com/album/30DgBlS7pFZFRnkbum26E8) | 3:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 97 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 98 | [Buena Vida](https://open.spotify.com/track/4pX3kxNJoNdGRH36OYN6PV) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Buena Vida](https://open.spotify.com/album/0CQ1aqCKrx6aEJGbZnsaJu) | 2:22 |
 | 99 | [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 |
-| 100 | [No me restes \- En Vivo](https://open.spotify.com/track/2IahAkegVhDZOc2agK8cGj) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [No me restes \(En Vivo\)](https://open.spotify.com/album/72JhIBL4vCHIPJTyJq0mFW) | 3:08 |
+| 100 | [Somos lo Que Fuimos \- Remix](https://open.spotify.com/track/1NMLQOcIXPRwYXh9P8BycF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Somos lo Que Fuimos \(Remix\)](https://open.spotify.com/album/3qqA25D7Ml4EywTyEJMVCx) | 3:53 |
 
 Snapshot ID: `AAAAAM77R5B83r63rAXn2rGbpoAVhyJa`

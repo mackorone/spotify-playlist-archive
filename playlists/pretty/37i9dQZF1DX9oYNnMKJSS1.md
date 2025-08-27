@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oYNnMKJSS1.md) - [plain]
 
 > The songs that got us to sleep this year\. \#spotifywrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,016 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,018 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1542,7 +1542,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 181239,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/0qoSVsQJOTINFkkux2lbJj"
@@ -1852,6 +1852,28 @@
       "duration_ms": 167997,
       "name": "Washington Lilacs",
       "url": "https://open.spotify.com/track/1w17Cv2Q2cbyoN8HZrX4Da"
+    },
+    {
+      "album": {
+        "name": "We're Onto Something (feat. Zach Bryan)",
+        "url": "https://open.spotify.com/album/0qKyNTZc8qx2ZuuvXzoqb4"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        },
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222721,
+      "name": "We're Onto Something (feat. Zach Bryan)",
+      "url": "https://open.spotify.com/track/3QTKTf9CGTzMKSu2NSoq8R"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2llutr"

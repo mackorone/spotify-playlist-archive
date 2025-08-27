@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Misty Collage",
+        "url": "https://open.spotify.com/album/5GFaazAujbBQzqSvXKU4DD"
+      },
+      "artists": [
+        {
+          "name": "Brian Bennett",
+          "url": "https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp"
+        },
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Dave Richmond",
+          "url": "https://open.spotify.com/artist/1RE4iKcjwjxa44j99hYLsI"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230338,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2lYj4BP7p2JvdzM0a4NO2z"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: The Road Forward",
         "url": "https://open.spotify.com/album/6xdnLajMDIof5HwgTokRLp"
       },
@@ -1788,7 +1814,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-26",
+      "date_removed": null,
       "duration_ms": 97106,
       "name": "Meet the Family",
       "url": "https://open.spotify.com/track/3GZdcQO0QSSZGPzN7Gi8uB"
@@ -2546,7 +2572,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 172266,
       "name": "Senior Thump",
       "url": "https://open.spotify.com/track/4vUTy6NLKpoBah5dpNQ1ZD"
@@ -2694,7 +2720,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 177426,
       "name": "Soul Organ Impromptu",
       "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"

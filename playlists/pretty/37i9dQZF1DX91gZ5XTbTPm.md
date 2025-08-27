@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: LUCKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,878 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,911 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 16 | [Kentucky Love](https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [KrispyLife Kidd](https://open.spotify.com/artist/0nsO60VA1qoO308e9cYEPR) | [Kentucky Love](https://open.spotify.com/album/2kh30VwYJ7fwfoEszdMOg0) | 3:51 |
 | 17 | [Opiate](https://open.spotify.com/track/2vIxd21sesIFNmCR86rFtm) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/3yIoR95GUrZRdQr4HujvaF) | 2:56 |
 | 18 | [High Note \(feat\. Luv Moore\)](https://open.spotify.com/track/41Z9lE5UD4SW09lpHiY358) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Luv Moore](https://open.spotify.com/artist/705QcQplV3yNmmRIBOpjnS) | [Samurai DX](https://open.spotify.com/album/63I6z4nAbUE4Q3sMiJjJAG) | 3:55 |
-| 19 | [Gun In Yo Purse \(feat\. Young Thug & TiaCorine\)](https://open.spotify.com/track/4yu8ksN5jqrQBDBa3pkhFa) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:37 |
+| 19 | [Gun In Yo Purse \(feat\. Young Thug & TiaCorine\)](https://open.spotify.com/track/4yu8ksN5jqrQBDBa3pkhFa) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 3:39 |
 | 20 | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/track/3C6F5YZOGUVURgkkgLzwa2) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [No Sharing \(feat\. Luh Tyler\)](https://open.spotify.com/album/4r7ka5fpiOgHI2DuE3nqLT) | 3:31 |
 | 21 | [DAMN SHORTY \(feat\. Sexyy Red\)](https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [DIRTY NACHOS](https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3) | 3:06 |
 | 22 | [All That](https://open.spotify.com/track/167vDGiHC4msGIrVPPZMA9) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Chicken P](https://open.spotify.com/artist/1a4lUV1KZJoCAkTUMu7zlr) | [All That](https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do) | 2:38 |

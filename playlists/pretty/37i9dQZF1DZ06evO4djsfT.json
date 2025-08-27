@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 27414,
+  "num_followers": 27420,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACWP0jjReclhLJ/O7ZGzFIH",
+  "snapshot_id": "aKungAAAAABEkdD+MIZjuvdp5a15IUIm",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Did II",
-        "url": "https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE"
-      },
-      "artists": [
-        {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 159621,
-      "name": "God Did II",
-      "url": "https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REVIVAL!",
         "url": "https://open.spotify.com/album/0JSsdXUSWuoMbmA8yPisMR"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 184865,
       "name": "REVIVAL!",
       "url": "https://open.spotify.com/track/2Cy8awXmK3RJvwZrDHIqOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Did II",
+        "url": "https://open.spotify.com/album/7gMTESXBOPAYVNs72sEKhE"
+      },
+      "artists": [
+        {
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 159621,
+      "name": "God Did II",
+      "url": "https://open.spotify.com/track/57TsydrFWLVhEFtJZTVcWB"
     },
     {
       "added_at": null,
@@ -590,11 +590,15 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
     },
     {
       "added_at": null,
@@ -658,15 +662,11 @@
         {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worship in the Moshpit",
+        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Worship in the Moshpit",
+      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Start Right Here (HGA Version)",
         "url": "https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ"
       },
@@ -811,30 +827,6 @@
       "duration_ms": 173575,
       "name": "Start Right Here (HGA Version)",
       "url": "https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHECK",
-        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
-      },
-      "artists": [
-        {
-          "name": "DEON",
-          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "CHECK",
-      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
     },
     {
       "added_at": null,
@@ -863,18 +855,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worship in the Moshpit",
-        "url": "https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX"
+        "name": "CHECK",
+        "url": "https://open.spotify.com/album/6b6dgDphNvK0ezuuaIwoCN"
       },
       "artists": [
         {
+          "name": "DEON",
+          "url": "https://open.spotify.com/artist/4kt0dkHxgthY7GMdG4G5dh"
+        },
+        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Worship in the Moshpit",
-      "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"
+      "duration_ms": 207000,
+      "name": "CHECK",
+      "url": "https://open.spotify.com/track/7oFYMJwyIYZJyKpPjEjSZK"
     },
     {
       "added_at": null,

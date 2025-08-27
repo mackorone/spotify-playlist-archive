@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا 🤩 الغلاف: روبي
+> أحدث الأغاني المصرية هنا 🤩 الغلاف: ليجي\-سي
 
-1,565 songs - 3 day 15 hr 19 min
+1,566 songs - 3 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [Moody Aali](https://open.spotify.com/track/1JIeyLYiovSeXrj3EONekE) | [Dalida Khalil](https://open.spotify.com/artist/43frAQLY3YdRaaGTt2Jobb) | [Moody Aali](https://open.spotify.com/album/7nZflWlZjFWWwY3iL864hh) | 2:48 | 2021-12-23 | 2022-03-03 |
 | [Moog \- Red Bull Sada Sot](https://open.spotify.com/track/5biAZYSL9ujS1A87ZHm3Y0) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Moog \(Red Bull Sada Sot\)](https://open.spotify.com/album/3s4lJrMp7HSVKf6mT4AbzU) | 3:22 | 2024-04-18 | 2024-06-27 |
 | [Mosalsalat](https://open.spotify.com/track/7rbl7UQRa8MLltMQW29edv) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Mosalsalat](https://open.spotify.com/album/0qyEh9mvyiq8rLJ5fG5Z2g) | 3:11 | 2024-12-06 | 2025-01-17 |
+| [Mosh Safilak](https://open.spotify.com/track/39lSNpu5staspRnapwoB5v) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Mosh Safilak](https://open.spotify.com/album/7Cp8WhgogGatlQSzEjq3yh) | 3:30 | 2025-08-26 |  |
 | [Moshkela](https://open.spotify.com/track/2oEmfzq2ock6yHhDFwgFr8) | [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Moshkela](https://open.spotify.com/album/315aM5HIUJ1kspFYNSxCEa) | 2:50 | 2025-05-08 | 2025-07-04 |
 | [Msh 2Ad El Ma2am](https://open.spotify.com/track/3HC6Cy165NIrN3uOPAAfBY) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Msh 2Ad El Ma2am](https://open.spotify.com/album/1SnMnQAvI7oQEAwcJAbk1F) | 2:46 | 2024-05-08 | 2024-07-12 |
 | [MSH 3AYZAK](https://open.spotify.com/track/0WDz7KOiwEdORLIo92ByWx) | [Lella Fadda](https://open.spotify.com/artist/2yV4zQzvNPMyHncf60u9sr) | [MSH 3AYZAK](https://open.spotify.com/album/1UhM55r4MlBnSV2RYSXTkm) | 2:23 | 2024-02-29 | 2024-03-07 |
@@ -1424,7 +1425,7 @@
 | [ماليش في القفش](https://open.spotify.com/track/4nSB4EJoJBdFHVKiZGooa8) | [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [ماليش في القفش](https://open.spotify.com/album/7zY2CdxjCPh0WFO7BUz6ZC) | 2:27 | 2023-07-28 | 2023-08-18 |
 | [مبهتمش](https://open.spotify.com/track/4BKOtec0onTzosQFlOO9g3) | [زينة](https://open.spotify.com/artist/4xZjS8kM1HwJBnfn7IcPio) | [مبهتمش](https://open.spotify.com/album/4WFxZukuTollg6diHGcP5j) | 3:26 | 2024-05-02 | 2024-07-05 |
 | [متجوزين](https://open.spotify.com/track/6BZqaxQwlLqzJfF2ZlNmvp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [متجوزين](https://open.spotify.com/album/1PIUoeP4nwOencNnzJksee) | 2:46 | 2025-03-21 | 2025-06-10 |
-| [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 | 2025-06-19 |  |
+| [متسبنيش](https://open.spotify.com/track/3qurTdaglT8lhKMV0RvHQh) | [ليل المحمدي](https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd) | [متسبنيش](https://open.spotify.com/album/18F9gCtFiJkUX1uxI5TJZ3) | 3:47 | 2025-06-19 | 2025-08-27 |
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-20 | 2022-11-11 |
 | [متمكنه](https://open.spotify.com/track/0PVMxcSgu03i6UugxfJJYO) | [Lamis Kan](https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj) | [متمكنه](https://open.spotify.com/album/3eIYaoQVdl5hEXXzPT0uum) | 2:38 | 2021-12-30 | 2022-03-18 |
 | [متوحشنيش](https://open.spotify.com/track/6HWEWQCMRLwMORtD3jhctO) | [محمد رأفت](https://open.spotify.com/artist/4ajYL048ZjqxaXrLJ5MvfY) | [متوحشنيش](https://open.spotify.com/album/5Pujg0oHcMpdupvuopV3T5) | 3:58 | 2023-08-03 | 2023-08-24 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Mervin Mayo, Dottie Peoples & The Peoples Choice Chorale, Kurt Carr and more
+> With Tramaine Hawkins, Tasha Page\-Lockhart, Dottie Peoples & The Peoples Choice Chorale and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 250 likes - 50 songs - 4 hr 3 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Let Go, Let God](https://open.spotify.com/track/6tu73buys3HNLiAbLmsxvX) | [Erica Reed](https://open.spotify.com/artist/7lfpWOo8hmR6p4NPjmiycF), [Mark Kibble](https://open.spotify.com/artist/2Y1i9kUcdbp6sId4y2D57X) | [Let Go, Let God](https://open.spotify.com/album/7BdIjvkHkg3fyGOBPmUgMk) | 5:03 |
 | 50 | [Call Him Up](https://open.spotify.com/track/0RlJdVpgOjyQ6AOtxP3b7y) | [Minister Keith Pringle and The Pentecostal Community Choir](https://open.spotify.com/artist/3WhXewZzWfXUaQWmtnYvhI) | [True Victory](https://open.spotify.com/album/58x5siJulRy5RNv5SdJ7na) | 6:55 |
 
-Snapshot ID: `aK0HYwAAAAAgw9FALAm055jVSYcVXtZO`
+Snapshot ID: `aK5bswAAAACFGoPaie7K4PQHPFoJ3H00`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,777 likes - 122 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,757 likes - 122 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Summer In Central Park](https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc) | [Dan Cray Trio](https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l) | [Save US](https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze) | 6:41 |
 | 2 | [There Is No Greater Love](https://open.spotify.com/track/20QtsyfQSYCwBwBI0RPnbL) | [Sentimental Mood Trio](https://open.spotify.com/artist/3P5GWV6ACWtiwq71Y5KYcD) | [There Is No Greater Love](https://open.spotify.com/album/6sXQudVL8RMOdKugfDEeJ0) | 4:19 |
-| 3 | [In a Sentimental Mood](https://open.spotify.com/track/1o8BJyTuOsMatD3RQp9NWB) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF), [Steen Rasmussen](https://open.spotify.com/artist/7kvb2zmHjkod1tXqbJVEga), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 5:40 |
+| 3 | [In a Sentimental Mood](https://open.spotify.com/track/1o8BJyTuOsMatD3RQp9NWB) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF), [Johnny Åman](https://open.spotify.com/artist/1eAt5Qjg9RPfYAhxl723YW), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [In a Sentimental Mood](https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l) | 5:40 |
 | 4 | [I'll Never Stop Loving You](https://open.spotify.com/track/19eGuwgMWn7huIkQ5qqfcs) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [I'll Never Stop Loving You](https://open.spotify.com/album/2CfvJoDEni8SoCkzdXsV8i) | 2:53 |
 | 5 | [It's a Blue World](https://open.spotify.com/track/24FZPmTSx4fba5N24y9rNp) | [Massimo Faraò](https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI), [Carmelo Leotta](https://open.spotify.com/artist/5XjdbxwJFTIrDkSVQNhn0k), [Bobo Facchinetti](https://open.spotify.com/artist/1WiARZlaiu6ZXMmEVFeFqP) | [Barcode](https://open.spotify.com/album/36Xt075p8VSDs0wTkfcciE) | 4:24 |
 | 6 | [The Shape of Blue](https://open.spotify.com/track/11oZK9EdlMVLqVIIxkUFVx) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh) | [Stardust](https://open.spotify.com/album/2wfDE3UXThq9OPW1dCRIit) | 3:17 |

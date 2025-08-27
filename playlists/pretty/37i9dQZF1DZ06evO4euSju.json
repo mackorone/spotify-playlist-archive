@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAAC8EXBm0D7KNA0wSwScAdT4",
+  "snapshot_id": "aKungAAAAADVFAhfRqLv87jwrIsp82rG",
   "tracks": [
     {
       "added_at": null,
@@ -332,17 +332,13 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "Fear Before The March Of Flames",
-          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
-        },
-        {
-          "name": "David Marion",
-          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
+          "name": "Sister Void",
+          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
         }
       ],
-      "duration_ms": 235565,
-      "name": "Cigarette Two Step",
-      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
+      "duration_ms": 213863,
+      "name": "Wax Poetic",
+      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
     },
     {
       "added_at": null,
@@ -404,13 +400,17 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         },
         {
-          "name": "Sister Void",
-          "url": "https://open.spotify.com/artist/3DpwZLxTvFL01VP4qPfRjn"
+          "name": "Fear Before The March Of Flames",
+          "url": "https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq"
+        },
+        {
+          "name": "David Marion",
+          "url": "https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k"
         }
       ],
-      "duration_ms": 213863,
-      "name": "Wax Poetic",
-      "url": "https://open.spotify.com/track/5FOvWDm4PrPchyHMDOQiXs"
+      "duration_ms": 235565,
+      "name": "Cigarette Two Step",
+      "url": "https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP"
     },
     {
       "added_at": null,

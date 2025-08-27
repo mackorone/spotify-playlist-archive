@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 777578,
+  "num_followers": 777709,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
+        "name": "Muy Agradecido",
+        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "La Salsa Vive",
+      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
         "name": "Nacimiento Y Recuerdos",
         "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
       },
@@ -863,6 +879,22 @@
       "duration_ms": 307200,
       "name": "Mirandote",
       "url": "https://open.spotify.com/track/3JbPsz4vSiFDJ64PLODktv"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Lo Mio Es Amor",
+        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 309826,
+      "name": "Lo M\u00edo Es Amor",
+      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -899,38 +931,6 @@
       "duration_ms": 324240,
       "name": "No Le Temas A El",
       "url": "https://open.spotify.com/track/6uI5fS4AMfwzogYg5bt5jK"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Muy Agradecido",
-        "url": "https://open.spotify.com/album/2kn0CaGJauvm8apjq6a08i"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "La Salsa Vive",
-      "url": "https://open.spotify.com/track/2CwVYhTdEkCWF1qNkkAa3M"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
-        "name": "Lo Mio Es Amor",
-        "url": "https://open.spotify.com/album/4Bncf3gkuJc3p3W2DKMpGK"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 309826,
-      "name": "Lo M\u00edo Es Amor",
-      "url": "https://open.spotify.com/track/5TenfxSo2F8ugYyAeUgNwm"
     },
     {
       "added_at": "2024-07-12 19:20:44",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "A Pesar De Todo",
-        "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 305200,
-      "name": "Dile a Ella",
-      "url": "https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "Otra Nota",
         "url": "https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 293266,
       "name": "Necesito Amarte",
       "url": "https://open.spotify.com/track/6k7mfR2JMnfyLb2t3mcTJo"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "A Pesar De Todo",
+        "url": "https://open.spotify.com/album/5kRD3WwNuUNVk2ig8PIw5t"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 305200,
+      "name": "Dile a Ella",
+      "url": "https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD"
     },
     {
       "added_at": "2024-07-12 19:20:44",

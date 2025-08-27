@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Khamari
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,375,466 likes - 205 songs - 10 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,375,452 likes - 205 songs - 10 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

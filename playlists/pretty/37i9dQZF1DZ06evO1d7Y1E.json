@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 118513,
+  "num_followers": 118506,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABfFwchoSZnAINiq3df6WUH",
+  "snapshot_id": "aKungAAAAACz6HQjjwQO5VXxSGqXVVQ3",
   "tracks": [
     {
       "added_at": null,
@@ -1223,6 +1223,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 142564,
+      "name": "Metflix - Remix",
+      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O S\u00e1bio",
         "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
@@ -1247,30 +1271,6 @@
       "duration_ms": 223689,
       "name": "Frio e Calculista",
       "url": "https://open.spotify.com/track/57nvtO3EJuh6zuB67R3QeF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Metflix - Remix",
-      "url": "https://open.spotify.com/track/0o1FzBVTQhHBjwxaNko4Jh"
     },
     {
       "added_at": null,
@@ -1347,30 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ Nemo NTR",
-          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
-        },
-        {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Talvez",
-      "url": "https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Nova Era",
         "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
       },
@@ -1391,6 +1367,30 @@
       "duration_ms": 206557,
       "name": "O Chamado",
       "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ Nemo NTR",
+          "url": "https://open.spotify.com/artist/7LioJE25SJYNLAFe1Opar0"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Talvez",
+      "url": "https://open.spotify.com/track/4LiVUPK4lUqO8yrRw9wOiu"
     },
     {
       "added_at": null,

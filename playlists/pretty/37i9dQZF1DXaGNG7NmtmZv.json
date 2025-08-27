@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 238724,
+  "num_followers": 238760,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-02-07 16:33:52",
       "album": {
+        "name": "Manic Compression",
+        "url": "https://open.spotify.com/album/2C26LLKc9asNxs9uXDyt9Q"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 156693,
+      "name": "Thorn In My Side",
+      "url": "https://open.spotify.com/track/2H7ECJNsqQDxOlisHd5n6k"
+    },
+    {
+      "added_at": "2024-02-07 16:33:52",
+      "album": {
         "name": "The Current Will Carry Us",
         "url": "https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 220453,
       "name": "Shark Ethic",
       "url": "https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm"
-    },
-    {
-      "added_at": "2024-02-07 16:33:52",
-      "album": {
-        "name": "Solid Bond: The Complete Discography",
-        "url": "https://open.spotify.com/album/4e36aYT7dRveOWWd5HPAgY"
-      },
-      "artists": [
-        {
-          "name": "CIV",
-          "url": "https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9"
-        }
-      ],
-      "duration_ms": 148880,
-      "name": "Choices Made",
-      "url": "https://open.spotify.com/track/6RwlqbbXVy8DjRmTgxxRx5"
     }
   ],
   "unique_name": "Classic Hardcore",

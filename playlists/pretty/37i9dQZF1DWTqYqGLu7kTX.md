@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > Best of Punjabi Hip\-Hop! Cover:  Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,520 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,523 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [NO MIDMAN](https://open.spotify.com/track/4vrnlcjMrRpTecEvdiuiAv) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [NO MIDMAN](https://open.spotify.com/album/3z7Qb70k9Q3jIB8q5pjfko) | 3:38 |
-| 2 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 |
-| 3 | [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 |
-| 4 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 |
-| 5 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 |
-| 6 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |
+| 2 | [7.7 Magnitude](https://open.spotify.com/track/1xofPJhZcfJCc66P1UAh28) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 4:03 |
+| 3 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 |
+| 4 | [Aura](https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:45 |
+| 5 | [Sarkar](https://open.spotify.com/track/60suOlM8VpTVITPFeqth8r) | [Jaura Phagwara](https://open.spotify.com/artist/2NV7RSOqlCvigkJ9xMBxDW) | [Sarkar](https://open.spotify.com/album/231Z0iuk1T5XtEIFAnRil0) | 3:30 |
+| 6 | [What We Do](https://open.spotify.com/track/10Pjg6e1n3KdNfRryu5j8F) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:36 |
 | 7 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |
-| 8 | [Buckle Up](https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:52 |
-| 9 | [Shoes Off](https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Shoes Off](https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH) | 3:49 |
+| 8 | [I'ma Do My Thiiing](https://open.spotify.com/track/2zIwRUw5iCpgElrEMdPHJm) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:13 |
+| 9 | [Buckle Up](https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 2:52 |
 | 10 | [Takde Gharde](https://open.spotify.com/track/18TVdBUP2gSyo6hLsieay8) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:14 |
 | 11 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 |
 | 12 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 74 | [TOP DAWG](https://open.spotify.com/track/6utrzFB2h4OTocXYng2V4M) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 2:49 |
 | 75 | [Gold](https://open.spotify.com/track/4ETdkgVhgDqmhNtEgwUSpT) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Gold](https://open.spotify.com/album/7b4OXYvqJhqS2insyXyUn9) | 2:19 |
 
-Snapshot ID: `AAAAAEWsLHFJgH7wZpgpT7Y/UyUOwW30`
+Snapshot ID: `AAAAAE48Q286VyEQt2puOj173nK77Svv`

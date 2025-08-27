@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 131349,
+  "num_followers": 131390,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACoWOrVRdipco98OWWJ4WAr",
+  "snapshot_id": "aKungAAAAAB6VUalDfobu6vGnMGBjBF/",
   "tracks": [
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "Hands Of Death (Burn Baby Burn)",
-      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mondo Sex Head",
         "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 229080,
       "name": "Thunder Kiss '65 - JDevil Number Of The Beast Remix",
       "url": "https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "Hands Of Death (Burn Baby Burn)",
+      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
     },
     {
       "added_at": null,

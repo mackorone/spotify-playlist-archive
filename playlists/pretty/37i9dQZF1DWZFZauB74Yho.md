@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,460 likes - 132 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,481 likes - 132 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

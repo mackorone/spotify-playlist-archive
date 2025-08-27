@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2959,
+  "num_followers": 2960,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABgPqaHFG7EoxNtPY45qnDI",
+  "snapshot_id": "aKungAAAAAB9PP5Wz/uggXFJZJ2tDH51",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 201978,
+      "name": "You Had Me at Aloha",
+      "url": "https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4ngV4717539caCp8SVI35A"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 292863,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 201978,
-      "name": "You Had Me at Aloha",
-      "url": "https://open.spotify.com/track/66cPmDSgKLBfzp1Fl8Jkk0"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Love",
-        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Mr. Mellow",
-      "url": "https://open.spotify.com/track/5q4dhGsoDC6mAJgLwDefKF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Deluxe Hawai'i Edition)",
         "url": "https://open.spotify.com/album/4c4vgaWEUemG8kwaTXf2Ro"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 174706,
       "name": "Like the Way It Feels",
       "url": "https://open.spotify.com/track/4dl2PZzixLdrAOKlNfUCdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Love",
+        "url": "https://open.spotify.com/album/5KCgRuLSFl362EGsD1asNE"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Mr. Mellow",
+      "url": "https://open.spotify.com/track/5q4dhGsoDC6mAJgLwDefKF"
     },
     {
       "added_at": null,
@@ -603,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easier (Jr Blender RMX)",
-        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
+        "name": "Maui Rain",
+        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
       },
       "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 198779,
-      "name": "Easier - Jr Blender RMX",
-      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
+      "duration_ms": 217077,
+      "name": "Maui Rain",
+      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
     },
     {
       "added_at": null,
@@ -639,18 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maui Rain",
-        "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
+        "name": "Easier (Jr Blender RMX)",
+        "url": "https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6"
       },
       "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
         {
           "name": "Anuhea",
           "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
         }
       ],
-      "duration_ms": 217077,
-      "name": "Maui Rain",
-      "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
+      "duration_ms": 198779,
+      "name": "Easier - Jr Blender RMX",
+      "url": "https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moku Soul",
+        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
+      },
+      "artists": [
+        {
+          "name": "Tripp Wilson",
+          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 190463,
+      "name": "Underrated",
+      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anuhea",
         "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
       },
@@ -743,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moku Soul",
-        "url": "https://open.spotify.com/album/5lub4VYUShQhVn5mbXI9C4"
-      },
-      "artists": [
-        {
-          "name": "Tripp Wilson",
-          "url": "https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 190463,
-      "name": "Underrated",
-      "url": "https://open.spotify.com/track/09VTT2i6TQDW7odyZ81wlR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/7buSBKgqzmaxh2UM6GqPsG"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anuhea",
-        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Remix)",
         "url": "https://open.spotify.com/album/6DUpPkAl2tVjIzqUTKmqqQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 195789,
       "name": "Follow Me - Remix",
       "url": "https://open.spotify.com/track/1YwVSEF0WqYqVMn4Rrp94o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anuhea",
+        "url": "https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f"
     },
     {
       "added_at": null,

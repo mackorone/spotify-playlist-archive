@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 42490,
+  "num_followers": 42522,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAADsoJRCHQvEqUkEbe69wbxv",
+  "snapshot_id": "aKungAAAAAD74c/2y0B1bZ8YsRuGQ8RO",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comin' In Cold",
-        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Comin' In Cold",
-      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 221698,
       "name": "Chevy Silverado",
       "url": "https://open.spotify.com/track/2g91Y7tUI0xBX7ZdlkSCLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comin' In Cold",
+        "url": "https://open.spotify.com/album/1uQBHhAn0qX4MPbjIR9qDK"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Comin' In Cold",
+      "url": "https://open.spotify.com/track/3smDl9Xz8eC2ldlkVFk5xM"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 177945,
-      "name": "At The Same Time",
-      "url": "https://open.spotify.com/track/2ret2nPzPwqkkcR61gulgz"
+      "duration_ms": 192828,
+      "name": "When It Was",
+      "url": "https://open.spotify.com/track/2xCfc80xHLlq4Cff7P3atn"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 192828,
-      "name": "When It Was",
-      "url": "https://open.spotify.com/track/2xCfc80xHLlq4Cff7P3atn"
+      "duration_ms": 177945,
+      "name": "At The Same Time",
+      "url": "https://open.spotify.com/track/2ret2nPzPwqkkcR61gulgz"
     },
     {
       "added_at": null,

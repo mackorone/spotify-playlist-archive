@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 
 > Échate un zapateo al ritmo del tribal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,575 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,614 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWS4QNfVp7YQ.md) - [plain]
 | 11 | [L0JI](https://open.spotify.com/track/71ZRd9N8f5p1Z4u1vXwdxI) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [L0JI](https://open.spotify.com/album/7uHP8GP7cWkmour80PaxiG) | 3:00 |
 | 12 | [Pasito Chacalon](https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Pasito Chacalon](https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW) | 3:12 |
 | 13 | [El Pesero](https://open.spotify.com/track/05KHhBPrEYhSVnmrWfFXVk) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [El Pesero](https://open.spotify.com/album/1hA3LlcZ0EvtHfLoruHI2z) | 3:28 |
-| 14 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
+| 14 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
 | 15 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 |
-| 16 | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/track/0766dWnKeukIIjBIOzlt1U) | [Dj Moys](https://open.spotify.com/artist/0Fj0ovIqmQntVci9RoTxHa) | [Aqui Llego Tu Tiburon Huapango \(Tribal MIX\)](https://open.spotify.com/album/5lWHBNxc6TJE5SXS3Y1N4C) | 1:30 |
+| 16 | [Mi Trompeta](https://open.spotify.com/track/0QNljcLUmisv00QqepKK4t) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Yer Cortez](https://open.spotify.com/artist/1PaP0yYtwyr8l6RUNtNwlw) | [Mi Trompeta](https://open.spotify.com/album/5pdUlJrrGMnktuwbeU5nmI) | 3:58 |
 | 17 | [Baila Tribal](https://open.spotify.com/track/2MGSQFNoGCmkX4eduyeZUv) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Huapango Tribal](https://open.spotify.com/album/2mIbKhtHembnY7MpRyewj4) | 3:19 |
 | 18 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 |
 | 19 | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/track/4vPRVHNmPf310sQRYJmSQO) | [Dj Gecko](https://open.spotify.com/artist/6nYkQZXt1BPbVrmd4vAXJZ) | [Chiquetere vs Rockstar Tribal Mix](https://open.spotify.com/album/2NBtKwtr7Nd38M6wKlRYDn) | 3:23 |

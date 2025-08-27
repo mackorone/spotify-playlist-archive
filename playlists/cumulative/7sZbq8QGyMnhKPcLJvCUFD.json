@@ -669,6 +669,28 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/7bdARQWhxFMtiSxinwPUD5"
+      },
+      "artists": [
+        {
+          "name": "Karyuu",
+          "url": "https://open.spotify.com/artist/3uqDkh9EZU2GDSjvzdP0Yk"
+        },
+        {
+          "name": "jaylenn",
+          "url": "https://open.spotify.com/artist/5hUkcECT7APNs5c0qVQkcx"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6MsnJjoC2pEFcHOstWBzlQ"
+    },
+    {
+      "album": {
         "name": "Another Way",
         "url": "https://open.spotify.com/album/5WZ9xj15bKwHuVb9WXiPBv"
       },

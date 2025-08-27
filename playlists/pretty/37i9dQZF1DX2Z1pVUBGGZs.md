@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring Laufey ⏳
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,019 likes - 119 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,995 likes - 119 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

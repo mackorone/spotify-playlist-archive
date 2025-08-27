@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 남규리\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 이석훈\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,533 songs - 4 day 3 hr 26 min
+1,535 songs - 4 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Adore \(with Choi moonseok\)](https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [Adore \(with Choi moonseok\)](https://open.spotify.com/album/02RJLVNAY5wEJCrWIhR6jq) | 3:52 | 2023-02-24 | 2023-06-23 |
 | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/track/73ByHWU9prg74XMJHM6Nfy) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [After A Long Time \(Our Secret Diary X ZIA\)](https://open.spotify.com/album/2n59KRYHmLnU3SxfzRHKWv) | 3:30 | 2023-12-28 | 2024-05-18 |
 | [After All This Time](https://open.spotify.com/track/0ubeu6gkOuh7u2bSI1JVLQ) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [After All This Time](https://open.spotify.com/album/6cpEkxNAxbC0iPMrtn8BvN) | 3:25 | 2023-11-29 | 2024-03-29 |
+| [AFTER GROWING UP](https://open.spotify.com/track/7s6FOADTsp4wGwACGrCgXc) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON 5th EP Album 'Renewed Purpose'](https://open.spotify.com/album/7eBHjT8ryuqMRELgv3mpWS) | 3:48 | 2025-08-26 |  |
 | [After Love](https://open.spotify.com/track/34tpa7ePGVugKLVq9aFjnh) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Our D\-Day \(Original Web Drama Soundtrack, Pt\. 1\)](https://open.spotify.com/album/4CIuoaHz8qZ6NbUI8Lb4K4) | 4:07 | 2023-02-14 | 2023-06-23 |
 | [After Love](https://open.spotify.com/track/3eEKcca6IwOKPXXrouAoyK) | [송혜교](https://open.spotify.com/artist/6bp7dB59ro00zAjfDlFODH) | [After Love](https://open.spotify.com/album/7oESt39xBvM5Ok6VIna7HP) | 3:30 | 2025-01-11 | 2025-05-26 |
 | [After Resignation](https://open.spotify.com/track/4VlTkxdN8up3zdaeqHp0zp) | [Mingyu](https://open.spotify.com/artist/07s1hDc1qCKvsglKf5B6X5) | [After Resignation : Re+Project ‘Re+Call’](https://open.spotify.com/album/1YeUugiuIG08qtZyeLpjK9) | 4:41 | 2023-01-10 | 2023-02-25 |
@@ -392,7 +393,7 @@
 | [Foolish Love](https://open.spotify.com/track/7I7TTfKcDDAeSf6HPgbdPT) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [MSG WANNABE 1st Album](https://open.spotify.com/album/5nQYzPDlW9yVnBxsaRzg5C) | 3:32 | 2021-12-23 | 2022-07-04 |
 | [For My Love\(2023\)](https://open.spotify.com/track/3V8fMqqEnhsUuG77YXQMeY) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3DXEGzNiQ0rq9BlRNHy1bZ) | 4:20 | 2023-07-17 | 2023-09-15 |
 | [For no reason](https://open.spotify.com/track/7lyB88DUokYgUAjvryjjjQ) | [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [For no reason](https://open.spotify.com/album/71Qvxa1Ap9g8RSnstES2WJ) | 4:52 | 2023-01-20 | 2023-02-25 |
-| [For the first time, I'll try to forget you](https://open.spotify.com/track/0fXzDaoyKKjfDN6Rk1L7cs) | [Jeong Dong Won](https://open.spotify.com/artist/229KhSrjWsm62jVuSpQsBZ) | [For the first time, I'll try to forget you](https://open.spotify.com/album/5SK8NFtDTRhkex2vv1wuBZ) | 4:09 | 2025-04-22 |  |
+| [For the first time, I'll try to forget you](https://open.spotify.com/track/0fXzDaoyKKjfDN6Rk1L7cs) | [Jeong Dong Won](https://open.spotify.com/artist/229KhSrjWsm62jVuSpQsBZ) | [For the first time, I'll try to forget you](https://open.spotify.com/album/5SK8NFtDTRhkex2vv1wuBZ) | 4:09 | 2025-04-22 | 2025-08-27 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-10 | 2022-08-12 |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-09-05 | 2022-12-27 |
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-12-20 | 2022-06-27 |
@@ -842,7 +843,7 @@
 | [Missing You](https://open.spotify.com/track/0nrajlDiEVcM02yBE1QfPp) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Missing You](https://open.spotify.com/album/1wr58bJGrqTDI8iQTqHXaE) | 4:17 | 2023-11-02 | 2024-02-02 |
 | [Missing You](https://open.spotify.com/track/0A2ACmUVc888pTMWoEuudH) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Missing You](https://open.spotify.com/album/0lWZLCo1EjB8gTL3KHAwun) | 4:11 | 2025-08-08 |  |
 | [Mom](https://open.spotify.com/track/7bGQ0dO8Phe5kcx6HkwwuT) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Mom](https://open.spotify.com/album/4TNELYnbl0wPEg81pTQimm) | 5:40 | 2022-07-26 | 2022-10-27 |
-| [Moment](https://open.spotify.com/track/1c457YjuGKkjZluzd6zLuf) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Moment](https://open.spotify.com/album/2q3PlEyPPjONpuZPh83XWz) | 4:03 | 2025-03-31 |  |
+| [Moment](https://open.spotify.com/track/1c457YjuGKkjZluzd6zLuf) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Moment](https://open.spotify.com/album/2q3PlEyPPjONpuZPh83XWz) | 4:03 | 2025-03-31 | 2025-08-27 |
 | [Moments of Our Love](https://open.spotify.com/track/4QZwV8ynbo8u2HVGLWR8fU) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [End of a Day](https://open.spotify.com/album/6LJAXPvSt6UYHogAWJPCMr) | 4:13 | 2024-04-15 | 2024-08-11 |
 | [Monthly Project 2022 October Yoon Jong Shin \- Island](https://open.spotify.com/track/0wkdaGYXz1jRKZYlqhS2Ot) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2022 October Yoon Jong Shin \- Island](https://open.spotify.com/album/5kKaGfyHpg7vTZwClw7cTc) | 5:02 | 2022-10-26 | 2023-01-11 |
 | [Monthly Project 2023 August Yoon Jong Shin \- HEEKAK](https://open.spotify.com/track/3bxZL7GTRzd58F3hqobv1R) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 August Yoon Jong Shin \- HEEKAK](https://open.spotify.com/album/26Imwvx2Z6xc7CPe0WFxcS) | 4:31 | 2023-09-18 | 2023-11-14 |
@@ -1454,6 +1455,7 @@
 | [You're My First Love](https://open.spotify.com/track/1yoEYdoA0EuNiz2eL4W06P) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [You're My First Love](https://open.spotify.com/album/4ZHA2FFtyTuov2u3j9nivZ) | 4:01 | 2023-03-27 | 2023-08-25 |
 | [You're the prettiest to me](https://open.spotify.com/track/1JbvdwvlMVqB15xBMWidIo) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [You're the prettiest to me](https://open.spotify.com/album/1azG9sC2F6b0PUPSRzBcHr) | 3:50 | 2025-07-10 |  |
 | [You, Clouds, Rain](https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:25 | 2021-12-20 | 2022-07-08 |
+| [Your Letter](https://open.spotify.com/track/3w1Q9xlMlm4NeG5ydVSfwP) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Your Letter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jds8P9MpsOKTJzmBXCMM1) | 4:56 | 2025-08-26 |  |
 | [Your memory \(feat\. Lee Yoon Hee\)](https://open.spotify.com/track/61OvyItM7Ti2ylIjmEaIJe) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK), [Lee Yoon Hee](https://open.spotify.com/artist/6rMOqDK6wY9ZdwtFoNO6e4) | [Your memory \(Original Soundtrack from the Webtoon “The returned duke"\)](https://open.spotify.com/album/7k5Oyq2yBXgQHa4JyhVmYy) | 3:59 | 2022-07-07 | 2022-10-08 |
 | [Your Name](https://open.spotify.com/track/71DES833owRpiPW6LXEKyD) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [Your Name](https://open.spotify.com/album/65ncVJepMyFjjCEoMGUzCA) | 2:48 | 2023-02-24 | 2023-05-16 |
 | [Your River In Me](https://open.spotify.com/track/5HXsVPuYRetTawWcU4hB9K) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/2UV7qUU9tgPwbf2PUHYPiC) | 4:48 | 2022-07-07 | 2022-09-06 |

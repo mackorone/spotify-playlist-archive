@@ -1,6 +1,6 @@
 {
   "description": "Feeling like summer in 03'",
-  "num_followers": 7258,
+  "num_followers": 7267,
   "original_name": "Summer Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-06-19 01:52:12",
       "album": {
-        "name": "Truthfully Speaking",
-        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
-      },
-      "artists": [
-        {
-          "name": "Truth Hurts",
-          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Addictive",
-      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
-    },
-    {
-      "added_at": "2023-06-19 01:52:12",
-      "album": {
         "name": "The King Of Crunk & BME Recordings Present: Welcome to Trillville USA",
         "url": "https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 283386,
       "name": "Some Cut (feat. Cutty)",
       "url": "https://open.spotify.com/track/07u02f6biDHx5VexfAs41b"
+    },
+    {
+      "added_at": "2023-06-19 01:52:12",
+      "album": {
+        "name": "Truthfully Speaking",
+        "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
+      },
+      "artists": [
+        {
+          "name": "Truth Hurts",
+          "url": "https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Addictive",
+      "url": "https://open.spotify.com/track/36jSIOSE72neBbKntCthqw"
     },
     {
       "added_at": "2023-06-19 01:52:12",

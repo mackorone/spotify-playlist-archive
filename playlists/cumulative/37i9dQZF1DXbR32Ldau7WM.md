@@ -2,9 +2,9 @@
 
 ### [Big in Japan](https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM)
 
-> The biggest rock artists in Japan right now!  Cover: ART\-SCHOOL
+> The biggest rock artists in Japan right now!  Cover: kurayamisaka
 
-1,362 songs - 3 day 17 hr 26 min
+1,364 songs - 3 day 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T) | 3:55 | 2025-07-15 |  |
 | [Kowareso](https://open.spotify.com/track/3Z3RDXIcMsCQ3GJB32Q5qg) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [DOKI DOKI](https://open.spotify.com/album/0ahFITufRRpuHUXx2REpDq) | 3:55 | 2022-11-01 | 2024-01-24 |
 | [Kujira no Stage](https://open.spotify.com/track/4QYow0TygMiFEJYyQbewak) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [Kujira no Stage](https://open.spotify.com/album/6i1bkPuMVk0eSbBpmQK3NL) | 5:24 | 2023-02-07 | 2023-02-15 |
+| [kurayamisaka yori ai wo komete](https://open.spotify.com/track/15hpvTLNSvSMOHby6SSBGt) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/1dcM74wiEAmeUhlSJVJJrO) | 3:13 | 2025-08-26 |  |
 | [Kyo no Tsuzuki o](https://open.spotify.com/track/3GUxnsyhw0sBlHB5w0Y01o) | [SCOOBIE DO](https://open.spotify.com/artist/5W6Mi5J8L2fUefI1Krcacu) | [Tough Layer](https://open.spotify.com/album/7g8uOemIk4xT5HqaKEtPX5) | 3:32 | 2022-08-23 | 2022-09-07 |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2023-06-27 | 2024-04-19 |
 | [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 | 2024-04-23 | 2024-06-12 |
@@ -507,7 +508,7 @@
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-09-13 |
 | [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-15 | 2024-11-06 |
 | [O•TA•KUラブリー伝説 \- WAZGOGG Remix](https://open.spotify.com/track/1imI1S8hasltuLm4soq4E2) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [おいしいサバイバー](https://open.spotify.com/album/3dGJibXKM0J2axOfKP9wmA) | 3:52 | 2025-03-11 | 2025-03-19 |
-| [pained](https://open.spotify.com/track/4fLu1o9tL4Fg7Zh7y4P7mK) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [pained](https://open.spotify.com/album/7xNiLmGaSSoAwNw0d9btaM) | 4:12 | 2025-06-17 |  |
+| [pained](https://open.spotify.com/track/4fLu1o9tL4Fg7Zh7y4P7mK) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [pained](https://open.spotify.com/album/7xNiLmGaSSoAwNw0d9btaM) | 4:12 | 2025-06-17 | 2025-08-27 |
 | [PANDORA](https://open.spotify.com/track/0t5oZjUlb7aWEA5Hq0NAHT) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [PANDORA](https://open.spotify.com/album/5TGGYuJI3ajYoww04In6m6) | 3:56 | 2022-10-20 | 2022-11-18 |
 | [Papersky](https://open.spotify.com/track/27Aet7xWrKxC6Yvw6S6Si3) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Papersky](https://open.spotify.com/album/0O07iy0DxbwL1TGOntCBIq) | 4:16 | 2022-05-12 | 2022-12-21 |
 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/1YLnHvUtdMN91dmwFE5ueh) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [PARADISE \(Kill The Silence\)](https://open.spotify.com/album/6SdcvS3W4Rhs36uOpb3gb7) | 3:43 | 2022-05-10 | 2024-02-07 |
@@ -836,6 +837,7 @@
 | [ZERO](https://open.spotify.com/track/5XdByWSKX0rkqG3YkNTjDh) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [ZERO](https://open.spotify.com/album/76kQt4pqSy9i9TB3L2aQ2q) | 3:07 | 2024-02-20 | 2024-04-24 |
 | [Zero Gravity](https://open.spotify.com/track/5dxykjAA2ZILvMotcj9SyQ) | [Mari Hamada](https://open.spotify.com/artist/2lQwmHGmTnEu1jjfAgUAcq) | [Zero Gravity](https://open.spotify.com/album/5Z9WpciNxn8RhCqBaPnwrb) | 5:53 | 2023-04-04 | 2023-04-12 |
 | [Zetsubou Billy](https://open.spotify.com/track/3XurIE0l1l09XBxWmr4ubL) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:44 | 2024-04-23 | 2025-08-02 |
+| [zutto love song](https://open.spotify.com/track/5sotruxtVBUsYrmnRvRhgW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [zutto love song](https://open.spotify.com/album/3emgAsjS97UgKw0MuxTO2W) | 3:32 | 2025-08-26 |  |
 | [○か×](https://open.spotify.com/track/2VbxCJgAXOYcf5ashGYuHh) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [○か×](https://open.spotify.com/album/0Ew3ozhOSJz96Np4YTWPXB) | 3:51 | 2022-05-12 | 2022-07-26 |
 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2024-04-23 | 2025-08-02 |
 | [あおにもどる](https://open.spotify.com/track/46lu106wmysXsOp6zDw1UC) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [BLUE](https://open.spotify.com/album/20AsUOZVegUSO3JC2oTZVb) | 6:08 | 2025-03-04 | 2025-04-02 |
@@ -978,7 +980,7 @@
 | [シンシャ](https://open.spotify.com/track/5jAHFipcLURLl4NiEWpjaV) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [シンシャ](https://open.spotify.com/album/2Wbjn9gW8to9OtHHzcNkHF) | 3:56 | 2023-11-14 | 2023-11-22 |
 | [シーグラス](https://open.spotify.com/track/75ydSk3JU7hqJFhyGQyhPZ) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [COLD DISC](https://open.spotify.com/album/14tPmXY2n8LjZezKrMDhCQ) | 3:02 | 2024-02-27 | 2024-09-18 |
 | [シーズンエンド](https://open.spotify.com/track/7pdMesCX4Vulq75t7wb6bZ) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [FRIENDS Ⅲ](https://open.spotify.com/album/1GphZ6CslazKeXBAnmWPj3) | 4:37 | 2022-05-22 | 2022-07-12 |
-| [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-06-27 |  |
+| [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2023-06-27 | 2025-08-27 |
 | [ジャガーノート](https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ジャガーノート](https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH) | 3:11 | 2023-11-08 | 2024-04-24 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-04-23 | 2024-07-06 |
 | [ジューシーマーマレード](https://open.spotify.com/track/5WDwzXGICt44ZaDEAuODHX) | [THE COLLECTORS](https://open.spotify.com/artist/3OV5dcuHvNPXmgPFwXLf37) | [ジューシーマーマレード](https://open.spotify.com/album/1Ag9kXkDqWOZLNHHWJG7yu) | 4:38 | 2022-11-22 | 2022-11-30 |

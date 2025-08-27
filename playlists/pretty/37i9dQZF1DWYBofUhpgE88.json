@@ -1,6 +1,6 @@
 {
   "description": "per spingere come veri gym bro e gym sis",
-  "num_followers": 361347,
+  "num_followers": 361354,
   "original_name": "ADRENALINA",
   "owner": {
     "name": "Spotify",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2025-08-08 08:43:01",
       "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Sirah",
+          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Bangarang (feat. Sirah)",
+      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
+    },
+    {
+      "added_at": "2025-08-08 08:43:01",
+      "album": {
         "name": "Born To Love Ya",
         "url": "https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
-    },
-    {
-      "added_at": "2025-08-08 08:43:01",
-      "album": {
-        "name": "Bangarang EP",
-        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Sirah",
-          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
-        }
-      ],
-      "duration_ms": 215253,
-      "name": "Bangarang (feat. Sirah)",
-      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
     },
     {
       "added_at": "2025-08-08 08:43:01",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2025-08-08 08:43:01",
       "album": {
-        "name": "Make It Bun Dem",
-        "url": "https://open.spotify.com/album/381oom8nio77eU6BuUb4UO"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Damian \"Jr Gong\" Marley",
-          "url": "https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN"
-        }
-      ],
-      "duration_ms": 213696,
-      "name": "Make It Bun Dem",
-      "url": "https://open.spotify.com/track/6AbVJjzv7thIvmMCuhZrmK"
-    },
-    {
-      "added_at": "2025-08-08 08:43:01",
-      "album": {
         "name": "Gecko (Overdrive) [Radio Edit]",
         "url": "https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 165440,
       "name": "Gecko (Overdrive) - Radio Edit",
       "url": "https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml"
+    },
+    {
+      "added_at": "2025-08-08 08:43:01",
+      "album": {
+        "name": "Make It Bun Dem",
+        "url": "https://open.spotify.com/album/381oom8nio77eU6BuUb4UO"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Damian \"Jr Gong\" Marley",
+          "url": "https://open.spotify.com/artist/3QWR83BS6UYBWy8wWkm1nN"
+        }
+      ],
+      "duration_ms": 213696,
+      "name": "Make It Bun Dem",
+      "url": "https://open.spotify.com/track/6AbVJjzv7thIvmMCuhZrmK"
     },
     {
       "added_at": "2025-08-08 08:43:01",

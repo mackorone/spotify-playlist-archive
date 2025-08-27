@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to Women at Full Volume\. Cover: Tissa Biani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,783 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,529 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 39 | [Thought You'd Know By Now](https://open.spotify.com/track/3r3Q5fZSk15DX2bJI12Mz6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO), [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Thought You'd Know By Now](https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ) | 2:57 |
 | 40 | [Lay Your Light](https://open.spotify.com/track/537zoPq0ugohYdOvOSyR5y) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [No, I'm Not Crying](https://open.spotify.com/album/4Zlk0ggvfpHAPlexTOF35u) | 2:53 |
 | 41 | [For it's You and Me](https://open.spotify.com/track/0OMNwTkKdMx0adtJZ7EdCZ) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [For it's You and Me](https://open.spotify.com/album/5l1ZgeL2iyryAajOQiGvA7) | 2:33 |
-| 42 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
-| 43 | [Hooked](https://open.spotify.com/track/2eCESimcY5kb5j6EwR4E4E) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Hooked](https://open.spotify.com/album/259hWQhXBOcAcNMM299FbZ) | 2:24 |
+| 42 | [Hooked](https://open.spotify.com/track/2eCESimcY5kb5j6EwR4E4E) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Hooked](https://open.spotify.com/album/259hWQhXBOcAcNMM299FbZ) | 2:24 |
+| 43 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
 | 44 | [Todo Cambia](https://open.spotify.com/track/4PWGbZMeQc8j9rP8sIOc3T) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Todo Cambia](https://open.spotify.com/album/7mOYdrybPcpsHDxCKXAXXo) | 3:24 |
 | 45 | [Bólogatós Anya Mondd Meg](https://open.spotify.com/track/3BoU4JyuzaaAHT8AxxHZpn) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f), [Hundred Sins](https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28), [WaTa](https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0) | [Mixát EP](https://open.spotify.com/album/2Vi8goRDK6ffjl6piULB8B) | 2:55 |
 | 46 | [Forever Person](https://open.spotify.com/track/5D3WS25ZPlgUVp3vDyPFH8) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's Pouring](https://open.spotify.com/album/60u6CvUZEwYU5Q0u3n7i7N) | 2:34 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 57 | [RAW](https://open.spotify.com/track/0eHbc0W67AaJzVkU6icQlI) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [RAW](https://open.spotify.com/album/2yOW0TPyll2p2PFriw7A0C) | 3:36 |
 | 58 | [Doru' ca Pădurea](https://open.spotify.com/track/4rfdzFCHH1xVWVZRYh04U2) | [IOANA](https://open.spotify.com/artist/3qklIH2njhPzgNGZVIUeeX) | [I Mare De La Ioana](https://open.spotify.com/album/2WX5cgTAaFX6itwTg71ERB) | 3:03 |
 | 59 | [intuition](https://open.spotify.com/track/0PYSOQ5lB21W59L5xQ8P1C) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [intuition](https://open.spotify.com/album/2skKy8ko4caAopJQlqP6FV) | 3:02 |
-| 60 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
-| 61 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 60 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
+| 61 | [TEREKETENA](https://open.spotify.com/track/1GtNJvTStnIRaIeuh8iCDa) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Lettre à l'Univers](https://open.spotify.com/album/01wqFQmJuBRCDLAP3gvJxm) | 2:17 |
 | 62 | [control](https://open.spotify.com/track/5ulpPkBYYuWI3nECebDfIt) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [control](https://open.spotify.com/album/3wrlN3pFbnt6jgdjc14H1m) | 2:53 |
 | 63 | [V\-01C3](https://open.spotify.com/track/0YXRaYipPDPeRbEpNk6Rdy) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [V\-01C3](https://open.spotify.com/album/6UUhe3GaKiEezMo4tfkiBZ) | 2:32 |
 | 64 | [Porcelán](https://open.spotify.com/track/0FNjdCG1BYCOH2YjStCH9P) | [Loophia](https://open.spotify.com/artist/3Y1l1roXoFoKXUO5EPUecM) | [Porcelán](https://open.spotify.com/album/2GuTg0jTvXKFyVMk6VregQ) | 4:00 |

@@ -4,7 +4,7 @@
 
 > This is Panteon Rococo\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 39 min
+73 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [No Sé Porque](https://open.spotify.com/track/3aElJpnMXSNwF2SmjiDFSA) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [María Barracuda](https://open.spotify.com/artist/39wff4xdW1Xg88XzoTvySv) | [Ni Carne Ni Pescado](https://open.spotify.com/album/04HBP9fEv4mvhtBV0DPrm6) | 2:40 | 2023-01-14 | 2023-12-14 |
 | [No Te Recuerdo](https://open.spotify.com/track/11HEIqmrGM1hh1KW63DGdi) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:53 | 2023-01-14 | 2024-11-26 |
 | [No Voy A Llorar](https://open.spotify.com/track/3RDP3KKRKq8gJGx5J4G57u) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Piel A Piel](https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA) | 4:46 | 2023-01-14 |  |
-| [Parison](https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Parison](https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm) | 4:51 | 2025-06-22 |  |
+| [Parison](https://open.spotify.com/track/3JaKelhIeMYrDoyglzqzLl) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Parison](https://open.spotify.com/album/3GJi4Wwqd9ieXuTeuSfnKm) | 4:51 | 2025-06-22 | 2025-08-27 |
+| [Parison](https://open.spotify.com/track/1pJcdJf4xze1Ziqaq5ALyd) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Parison](https://open.spotify.com/album/3EAf44JW0P4Vge33QSOJAK) | 4:51 | 2025-08-27 |  |
 | [Pequeño Tratado de un Adiós](https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:06 | 2024-04-02 |  |
 | [Pequeño Tratado de un Adiós \- En Vivo](https://open.spotify.com/track/3wnYJQgekSJTh52hrEYIfr) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [XX Años \(En Vivo\)](https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V) | 8:04 | 2023-01-14 | 2024-04-03 |
 | [Que Pasará](https://open.spotify.com/track/4DVU0z4zLAqPq2ShvB7Hl3) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 4:00 | 2023-01-14 |  |

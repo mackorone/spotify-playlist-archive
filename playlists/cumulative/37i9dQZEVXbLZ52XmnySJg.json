@@ -5819,6 +5819,28 @@
     },
     {
       "album": {
+        "name": "Besharam",
+        "url": "https://open.spotify.com/album/0Lt9E5HOztunSW8sveIAbd"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302609,
+      "name": "Dil Kaa Jo Haal Hai",
+      "url": "https://open.spotify.com/track/3IZhkhpuGU7iNWDcQ30nZm"
+    },
+    {
+      "album": {
         "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
         "url": "https://open.spotify.com/album/3PRk98aAwGeeXQsoDa5DGe"
       },
@@ -9510,7 +9532,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 303640,
       "name": "Ishq Bulaava",
       "url": "https://open.spotify.com/track/1fkjRQA8wXPPyxqYLbxuqy"
@@ -12546,7 +12568,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 256148,
       "name": "Laal Pari (From \"Housefull 5\")",
       "url": "https://open.spotify.com/track/2oJxsbdvHuzkQ44hoyMsis"
@@ -14564,7 +14586,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-26",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
@@ -14692,7 +14714,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States\")",
       "url": "https://open.spotify.com/track/4wIWWEhbdgKAxhR68eE0Ye"
@@ -22784,7 +22806,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/37j9F77SglsxJruWdGUxIY"
@@ -22814,7 +22836,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 309640,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
@@ -24794,7 +24816,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-24",
+      "date_removed": null,
       "duration_ms": 230086,
       "name": "Tumhare Hi Rahenge Hum",
       "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"

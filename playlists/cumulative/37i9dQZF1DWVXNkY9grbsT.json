@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "GUSH",
+        "url": "https://open.spotify.com/album/4s6VTVytCKSC0ZrRZMg6J6"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138241,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/2xxoRQnaIjFgWLIS4YsNwf"
+    },
+    {
+      "album": {
         "name": "Alyosha Lying",
         "url": "https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh"
       },
@@ -8110,7 +8128,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 574000,
       "name": "Sit Down and Play",
       "url": "https://open.spotify.com/track/6cZVmYX7alw9JONCRhN4YQ"

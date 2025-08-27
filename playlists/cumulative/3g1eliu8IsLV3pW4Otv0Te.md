@@ -4,7 +4,7 @@
 
 > 
 
-237 songs - 16 hr 3 min
+238 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Give It To Me](https://open.spotify.com/track/3ebvEbKKCzxCmNUvrYIKUq) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Give It To Me](https://open.spotify.com/album/61zZi6lk2jkwQmCfvrvQG6) | 3:26 | 2024-08-04 |  |
 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 | 2025-01-22 |  |
 | [Go Back Home](https://open.spotify.com/track/0aE7qPNrkCTkQonbeUKoNF) | [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Sepia](https://open.spotify.com/album/6pzKfy0Kv18joeyt46ZGy4) | 3:45 | 2016-07-15 |  |
+| [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 | 2025-08-26 |  |
 | [Gold](https://open.spotify.com/track/6WhzFzROw3aq3rPWjgYlxr) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Gold](https://open.spotify.com/album/4sbZHOW6I2LTTjlRJbhVtA) | 3:45 | 2016-01-17 |  |
 | [Got Me Thinking](https://open.spotify.com/track/3iKBtYoamggdtSbDL9FUCa) | [Maduk](https://open.spotify.com/artist/6TaaqqCMRMSpvNHClfnbEL), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Give Up](https://open.spotify.com/album/0icAK90Eiv6ImfkI1k5HQF) | 3:32 | 2016-08-27 |  |
 | [Habit \- T\-Mass Remix](https://open.spotify.com/track/0UmEBl3nxQJoDWDBosOtZE) | [Rain Man](https://open.spotify.com/artist/6J4zegMTYP4nGJSpSDvy49), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf), [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF) | [Habit \(The Remixes\)](https://open.spotify.com/album/5ujsYbmeXdTzzDp6vTHXt1) | 3:53 | 2018-02-16 |  |

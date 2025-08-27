@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > not a thing about the way you is
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,079 likes - 181 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,235 likes - 181 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

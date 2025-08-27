@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Jan Marczewski, Hugo Tarres",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Krzyk Mody",
   "name": "up next",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 164869,
       "name": "bar",
       "url": "https://open.spotify.com/track/2bQ13mtxi4q94lETwm3rln"
@@ -779,6 +779,28 @@
     },
     {
       "album": {
+        "name": "Berek",
+        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "Berek",
+      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
+    },
+    {
+      "album": {
         "name": "sp\u0119dzam dni sam",
         "url": "https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd"
       },
@@ -844,7 +866,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 232950,
       "name": "Bez",
       "url": "https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04"
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 184560,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/6xW03IbLmuw5vQc6jELnm1"
@@ -1618,7 +1640,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 151978,
       "name": "co ty na to?",
       "url": "https://open.spotify.com/track/2IC10VSx7soc9pPdEpmZ6A"
@@ -1836,6 +1858,28 @@
       "duration_ms": 201141,
       "name": "Czu\u0142e S\u0142\u00f3wka",
       "url": "https://open.spotify.com/track/1tS7Lrzv09BhDshHTi4ZiO"
+    },
+    {
+      "album": {
+        "name": "Czu\u0142y punkt",
+        "url": "https://open.spotify.com/album/2pt9ofYyr8H5RFG7kngEVJ"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194880,
+      "name": "Czu\u0142y punkt",
+      "url": "https://open.spotify.com/track/2lszUq5AKP7gsC2ICpCs3S"
     },
     {
       "album": {
@@ -2175,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "dirty shirley / no thoughts",
+        "url": "https://open.spotify.com/album/5gDIcJCHbtgTgPR30MsfDk"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136119,
+      "name": "dirty shirley",
+      "url": "https://open.spotify.com/track/6kMRCc9RQCseorIJFn0sJn"
+    },
+    {
+      "album": {
         "name": "Instalacja IV",
         "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
       },
@@ -2270,6 +2332,28 @@
       "duration_ms": 184137,
       "name": "Dom",
       "url": "https://open.spotify.com/track/7fSOxNZk4L5pY6dFri7BRA"
+    },
+    {
+      "album": {
+        "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/6NhKBbD2p8ZxiYzYbcKwFE"
+      },
+      "artists": [
+        {
+          "name": "Kachus",
+          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281200,
+      "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
     },
     {
       "album": {
@@ -3578,7 +3662,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 168507,
       "name": "Jest jak jest",
       "url": "https://open.spotify.com/track/2mFa5j7qkgBevlL3nvemWO"
@@ -3650,7 +3734,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 152481,
       "name": "Jeszcze raz",
       "url": "https://open.spotify.com/track/6n6sEKy1885BNIXiapog4E"
@@ -4655,6 +4739,32 @@
     },
     {
       "album": {
+        "name": "Mam plan",
+        "url": "https://open.spotify.com/album/61Jx55O9PNSYVEnqvvl0nu"
+      },
+      "artists": [
+        {
+          "name": "zuziula",
+          "url": "https://open.spotify.com/artist/4QlrRdWN1OxIPPK5tWWang"
+        },
+        {
+          "name": "Young Leosia",
+          "url": "https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ"
+        },
+        {
+          "name": "Mjonszu",
+          "url": "https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Mam plan",
+      "url": "https://open.spotify.com/track/5ycvga5pEdxkEGoUsh12gx"
+    },
+    {
+      "album": {
         "name": "Mam talent",
         "url": "https://open.spotify.com/album/3elZnF5IQwic5oaEoGAP2A"
       },
@@ -4699,6 +4809,28 @@
     },
     {
       "album": {
+        "name": "MAMY CZAS",
+        "url": "https://open.spotify.com/album/2UNYyT3D4fSiWT8H5er3uH"
+      },
+      "artists": [
+        {
+          "name": "NEWSKIN",
+          "url": "https://open.spotify.com/artist/5Mjmvf4xclnuWsy6MGuxW6"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "MAMY CZAS",
+      "url": "https://open.spotify.com/track/158kRJZfrHHbL7LXT6UlSh"
+    },
+    {
+      "album": {
         "name": "mamy siebie",
         "url": "https://open.spotify.com/album/2VtVTHgyjHXBnXqkdqmrYU"
       },
@@ -4714,6 +4846,24 @@
       "duration_ms": 156760,
       "name": "mamy siebie",
       "url": "https://open.spotify.com/track/05TlRHEcFWIDdDgcweyCvE"
+    },
+    {
+      "album": {
+        "name": "Man I Need",
+        "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Man I Need",
+      "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
     },
     {
       "album": {
@@ -5407,6 +5557,28 @@
     },
     {
       "album": {
+        "name": "Na dno",
+        "url": "https://open.spotify.com/album/78fK0P2m4ktGeSPSbSX9bs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Na dno",
+      "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
+    },
+    {
+      "album": {
         "name": "Czekam na \u015bwit",
         "url": "https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n"
       },
@@ -5864,6 +6036,28 @@
       "duration_ms": 168294,
       "name": "nie p\u0142acz dziewczyno",
       "url": "https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t"
+    },
+    {
+      "album": {
+        "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
+        "url": "https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me"
+      },
+      "artists": [
+        {
+          "name": "Krzyk Mody",
+          "url": "https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
+      "url": "https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM"
     },
     {
       "album": {
@@ -7034,7 +7228,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 157621,
       "name": "piosenka o smutnych ludziach",
       "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
@@ -7092,7 +7286,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 222222,
       "name": "Plot Twist",
       "url": "https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE"
@@ -7132,7 +7326,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 159529,
       "name": "pod kinem ars",
       "url": "https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2"

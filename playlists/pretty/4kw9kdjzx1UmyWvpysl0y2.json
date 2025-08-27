@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125029,
+  "num_followers": 125027,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAUgiMWb0lCNuQKmOBwA0+jbVq5u3RI",
+  "snapshot_id": "AAAUgxAaQc76yRKunG77nBUk0KkeJr65",
   "tracks": [
+    {
+      "added_at": "2025-08-26 15:04:21",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
+    },
     {
       "added_at": "2025-08-25 14:09:51",
       "album": {

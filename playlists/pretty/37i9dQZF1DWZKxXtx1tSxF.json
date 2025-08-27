@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 52356,
+  "num_followers": 52372,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Caribe\u00f1a",
-      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "El Pr\u00f3ximo Viernes",
         "url": "https://open.spotify.com/album/2nZfBiQN0iuWmUvsyRMpfA"
       },
@@ -1011,22 +991,6 @@
       "duration_ms": 259092,
       "name": "El Pr\u00f3ximo Viernes",
       "url": "https://open.spotify.com/track/4DuOAJZhVrzH1mrIePb2tO"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1051,6 +1015,42 @@
       "duration_ms": 160900,
       "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
       "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Caribe\u00f1a",
+      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2024-06-12 21:02:48",

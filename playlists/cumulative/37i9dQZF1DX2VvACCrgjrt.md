@@ -4,7 +4,7 @@
 
 > Real nasty house 🔥🔥 with Dillon Francis & Marten Hørger
 
-1,128 songs - 2 day 9 hr 27 min
+1,129 songs - 2 day 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [4Ever](https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [4Ever](https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib) | 2:39 | 2022-06-10 | 2023-06-23 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-08-30 |  |
 | [64 Impala](https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [64 Impala](https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs) | 2:11 | 2024-07-26 | 2025-06-07 |
-| [7 Days a Freak](https://open.spotify.com/track/4XUWMmvW4nM4ahnwTm05u9) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [shy niko](https://open.spotify.com/artist/1P43aPJUVcI2XzVJ9QtK2j), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [7 Days a Freak](https://open.spotify.com/album/0PUR6EyFylp9ScdueGEBuk) | 3:10 | 2025-02-07 |  |
+| [7 Days a Freak](https://open.spotify.com/track/4XUWMmvW4nM4ahnwTm05u9) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [shy niko](https://open.spotify.com/artist/1P43aPJUVcI2XzVJ9QtK2j), [Datti](https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q) | [7 Days a Freak](https://open.spotify.com/album/0PUR6EyFylp9ScdueGEBuk) | 3:10 | 2025-02-07 | 2025-08-27 |
 | [A Prayer](https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [A Prayer](https://open.spotify.com/album/40iAAGAi3UrRd3WwGkJLbD) | 3:30 | 2023-10-20 | 2025-02-24 |
 | [Aarena \(Knock2 Remix\)](https://open.spotify.com/track/3QdNlDA5ZYzg99r1eafrO8) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [niteharts](https://open.spotify.com/album/73pupZEDJHSNWZTZgN2gQH) | 3:27 | 2023-11-03 | 2024-04-19 |
 | [Aarena \(Knock2 Remix\)](https://open.spotify.com/track/61xflUm94Khk7PVeyJIyJ3) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [niteharts](https://open.spotify.com/album/6cCrdstrak2Yk4iITOOy7B) | 3:27 | 2022-10-28 | 2023-12-11 |
@@ -517,6 +517,7 @@
 | [I see your fire](https://open.spotify.com/track/54MXw0U5wahTgzPE9M7cuG) | [Nander](https://open.spotify.com/artist/5lth5exCCuO17ghh75C5KZ), [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z) | [I see your fire](https://open.spotify.com/album/3D5LZHlXrLumjtl4wduauU) | 3:08 | 2023-03-31 | 2023-04-07 |
 | [I Wanna](https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [I Wanna](https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR) | 2:35 | 2022-12-02 | 2024-04-06 |
 | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/track/0WW8txqecanm76y5Je34nf) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu), [AMY MIYÚ](https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl) | [I'm Drunk \(feat\. AMY MIYÚ\)](https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta) | 2:30 | 2023-07-21 | 2024-10-01 |
+| [I'm Stuntin](https://open.spotify.com/track/68epriGDAlU3MMmrkOMJIE) | [DnD Music](https://open.spotify.com/artist/5pvrmYxaemx0t9sQTkZnex) | [I'm Stuntin](https://open.spotify.com/album/2EpvNQE3dAoNGPaUepPB3B) | 2:32 | 2025-08-08 |  |
 | [I'm The Most Wanted](https://open.spotify.com/track/7hwCox7RGu8s1TInDoFwtA) | [HOBIN ROOD](https://open.spotify.com/artist/3fXOalppivovgebzJRNv3w) | [I'm The Most Wanted](https://open.spotify.com/album/5Tih83xfSOTxl1EWSLDSjG) | 2:21 | 2021-10-29 | 2022-01-01 |
 | [Ice V Neck](https://open.spotify.com/track/5ddCzdDoTEFGbWrwS4CNsb) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Ice V Neck](https://open.spotify.com/album/4c63uPnOgH59qVDGaJHYmC) | 3:54 | 2021-10-29 | 2022-04-21 |
 | [Iced Out](https://open.spotify.com/track/1sKfY2RpM8j3DXnAloIqRP) | [BROHUG](https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab) | [Iced Out](https://open.spotify.com/album/6UrZSqYcKBJRfJWaeZScT1) | 2:45 | 2024-10-04 | 2024-10-26 |

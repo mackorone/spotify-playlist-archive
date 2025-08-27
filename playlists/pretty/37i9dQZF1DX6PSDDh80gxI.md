@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > C'è qualcosa di grande tra noi e Coez quest'estate ♥‿♥
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,797 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,788 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 | 69 | [Gelosissima](https://open.spotify.com/track/4zkGZ4utSxlzdDEYh8LOqm) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Gelosissima](https://open.spotify.com/album/6dEX7XwOpZQ2mtYC6Sq5z6) | 2:07 |
 | 70 | [Marco](https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Marco](https://open.spotify.com/album/07HKCzahOB4OhaZseqGVSP) | 2:59 |
 
-Snapshot ID: `AAAAAK0rfAwq/a7qtcRhspkSHRnmakXd`
+Snapshot ID: `AAAAACVAh0hu6UoPB0KHNZNXwPgpmROC`

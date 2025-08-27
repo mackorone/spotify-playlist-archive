@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 109586,
+  "num_followers": 109596,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAAB4+LUfMoTuX14Tye8ziVTr",
+  "snapshot_id": "aKungAAAAAB7JXVj8NDcqDne+yBT6MPZ",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+        "name": "L'apocalypse des animaux (Remastered)",
+        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 212680,
-      "name": "Early Years",
-      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
+      "duration_ms": 185226,
+      "name": "La mort du loup - Remastered",
+      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'apocalypse des animaux (Remastered)",
-        "url": "https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 185226,
-      "name": "La mort du loup - Remastered",
-      "url": "https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093"
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
+        "name": "Rosetta",
+        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 546106,
-      "name": "To the Unknown Man",
-      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
+      "duration_ms": 302112,
+      "name": "Rosetta",
+      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosetta",
-        "url": "https://open.spotify.com/album/6ROeoiTdZBO7N5C8gC2xix"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 302112,
-      "name": "Rosetta",
-      "url": "https://open.spotify.com/track/1O9rxgijWmS9jXksIXbxw8"
+      "duration_ms": 546106,
+      "name": "To the Unknown Man",
+      "url": "https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 252293,
-      "name": "Across the Mountains",
-      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Albedo 0.39",
         "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 344293,
       "name": "Alpha",
       "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Across the Mountains",
+      "url": "https://open.spotify.com/track/77AdHF6krPumIKlANWeRsC"
     },
     {
       "added_at": null,

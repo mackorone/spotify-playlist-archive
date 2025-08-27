@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,658 likes - 180 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,659 likes - 180 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 53 | [Make Me Forget](https://open.spotify.com/track/2KRKTdbS0U1KTIKvZQJ9sj) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:58 |
 | 54 | [Living Out Loud](https://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Living Out Loud](https://open.spotify.com/album/0t7EBnbzVx0Ekhi6PHsyrh) | 3:59 |
 | 55 | [Black & White \(feat\. Muni Long\)](https://open.spotify.com/track/2tH9DTuje2kxAKIT85vLnY) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 3:00 |
-| 56 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
-| 57 | [Superpowers](https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 56 | [Superpowers](https://open.spotify.com/track/7KaM1Tz8Jsv6m2lUsmUy4z) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 3:38 |
+| 57 | [I Do \(feat\. Muni Long\)](https://open.spotify.com/track/5TbYIeYkGgGtYL7sms7m9N) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [JADED](https://open.spotify.com/album/1XcpYmfE4vYCKeLQYINlO7) | 2:46 |
 | 58 | [When I Met You](https://open.spotify.com/track/3rcawAZAKd8Ryi30fSHclr) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 4:33 |
 | 59 | [Gang Bang](https://open.spotify.com/track/2ySP177IDeiXXOy92Gad9s) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA](https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0) | 5:26 |
 | 60 | [Naked Truth](https://open.spotify.com/track/5vf6J4SM5SZ2I87jA2juK2) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:58 |
@@ -133,8 +133,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 123 | [Forgiveness](https://open.spotify.com/track/0DAg2J8vCjoGKOq04ZbD5J) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0xC84rKqnKhwJBy0xlZX1C) | 3:20 |
 | 124 | [Runway \(feat\. KOHH\)](https://open.spotify.com/track/1kJSojPbDdE8mvCcbwqK7Z) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [KOHH](https://open.spotify.com/artist/3MUcTGmdb4on8WHhIhPkzK) | [Caution \(Japan Version\)](https://open.spotify.com/album/2VtWkFLhMJAFsWkHAXwosS) | 3:41 |
 | 125 | [Running](https://open.spotify.com/track/2BRmr1sQbbwbJSomLfxoTC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [The MF Life \(Deluxe Version\)](https://open.spotify.com/album/3PWwOV9kUSHZ4EvFFKWLLY) | 5:29 |
-| 126 | [Nuttin Like This](https://open.spotify.com/track/4PCN1dzVU2BLRlZb27Bctv) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:15 |
-| 127 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 126 | [Walk Over](https://open.spotify.com/track/2aUqsU0TGHC8ggDINWPC7l) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Walk Over](https://open.spotify.com/album/3IKSvw0ySq4gPmxMzb5sZY) | 2:39 |
+| 127 | [Nuttin Like This](https://open.spotify.com/track/4PCN1dzVU2BLRlZb27Bctv) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 3:15 |
 | 128 | [Lease My Love](https://open.spotify.com/track/4cLT5APf2lMRZ5EOf6Zv6I) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:40 |
 | 129 | [Type Questions](https://open.spotify.com/track/7uDBTbCy7mgDZkeL3cTVqa) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:38 |
 | 130 | [Heart Speak](https://open.spotify.com/track/67UseCceVwy85F0WTVCJEH) | [PLTO](https://open.spotify.com/artist/6hwmVgDzlDpUNt6LkJBPvV) | [Heart Speak](https://open.spotify.com/album/0vzeJbAr57WxNMSPJvlv7D) | 4:22 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 179 | [Baby Boo \- Workout Remix 134 BPM](https://open.spotify.com/track/3tZEV74gCQZIt0yVuWPX1c) | [Power Music Workout](https://open.spotify.com/artist/3GghVvugpv9nXQ2YFzZNzN) | [Songs of Fall 2022](https://open.spotify.com/album/48HC6047249VkSzqDxG5uA) | 4:32 |
 | 180 | [In Love](https://open.spotify.com/track/3kgxoIxhSa1BA1GxPUAG7J) | [Ruby Murray](https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn) | [Anthology](https://open.spotify.com/album/4xVzLBLJcAn5gwFeeFsk9c) | 2:21 |
 
-Snapshot ID: `Ab6eiAAAAADqapRL91g10AGAxzGKJnib`
+Snapshot ID: `Ab6kHgAAAAAJfKjAXEAWfCY4pQTQzGhx`

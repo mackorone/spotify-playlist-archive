@@ -2,7 +2,7 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Nina Chuba, makko
+> 50 Hits in einer Playlist! Cover: reezy
 
 247 songs - 11 hr 47 min
 

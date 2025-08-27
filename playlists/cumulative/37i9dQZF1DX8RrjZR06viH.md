@@ -4,7 +4,7 @@
 
 > Sommeren er her!🍹
 
-237 songs - 12 hr 17 min
+238 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,10 +113,11 @@
 | [i'm in the corner, alone](https://open.spotify.com/track/4u8Ul6jrHW8tngY9iHNHzh) | [Iris Caltwait](https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz) | [i'm in the corner, alone](https://open.spotify.com/album/5E1tZLSJJNzzu8WQCqaxIv) | 2:20 | 2025-05-02 | 2025-06-28 |
 | [Ikke lenger din](https://open.spotify.com/track/0Cngp8NHwtpB9bEtEvjr5P) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Indre liv](https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb) | 2:31 | 2024-10-24 | 2025-03-20 |
 | [Ingen her e deg](https://open.spotify.com/track/3eR6Hc3POZkClqpCsUy0qL) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz), [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Tobias Sten \(Utvida\)](https://open.spotify.com/album/2amxjhjDQaFYho4orTUehy) | 4:00 | 2025-08-14 |  |
-| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 |  |
+| [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/track/3yjLOG1b2sCVBrXw0tIpWh) | [Regnvær](https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki), [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [Ingen vil elsk dæ \(feat\. Sval\)](https://open.spotify.com/album/437l13e8pR43UXQXYSqAQy) | 2:18 | 2024-10-17 | 2025-08-27 |
 | [Iskrem på pinne](https://open.spotify.com/track/0q2YHUCIKxUx0LLkg9TUKy) | [Aryaan](https://open.spotify.com/artist/7GfpTDYmPjWyGlJcOkMnfy) | [Iskrem på pinne](https://open.spotify.com/album/6rN6EpfHhVUkssQPwdxo1E) | 2:10 | 2025-06-24 | 2025-07-18 |
 | [It´s Ok If You Forget Me \(feat\. Emma Jensen\)](https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [It's Ok If You Forget Me](https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG) | 2:56 | 2025-01-16 | 2025-08-18 |
 | [jeg holder pusten til du drar](https://open.spotify.com/track/17p6Y3tYZpnESAcFIMDPOJ) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [jeg holder pusten til du drar](https://open.spotify.com/album/3o43FGM9DQK2wqq27KBUxx) | 3:05 | 2025-04-10 |  |
+| [Jeg tar deg imot](https://open.spotify.com/track/3rcVyuZ0No5sP78pzKud25) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Jeg tar deg imot](https://open.spotify.com/album/348MaQv1g119x9tSvy27Qk) | 3:06 | 2025-08-21 |  |
 | [jeg vil ligge med deg](https://open.spotify.com/track/5o2xmURvl3LwBmLe34gEPj) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [jeg vil ligge med deg](https://open.spotify.com/album/7B5U8GPorGyO7pT8DmXGbA) | 2:52 | 2025-05-29 |  |
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2024-06-27 | 2025-05-03 |
 | [Ka visste eg](https://open.spotify.com/track/3EG3vnspSaUzPDHDF1m33l) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tobias Sten](https://open.spotify.com/album/3gRDXNWDqg08Hd1Ty1kusl) | 3:53 | 2025-05-08 | 2025-08-09 |

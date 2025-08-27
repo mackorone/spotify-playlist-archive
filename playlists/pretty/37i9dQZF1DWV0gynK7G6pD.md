@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Daniil Trifonov
 
-[Spotify](https://open.spotify.com/user/spotify) - 742,564 likes - 82 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 742,543 likes - 82 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,6 +89,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 79 | [Alzira: "Risorge ne‘ tuoi lumi" \(Alzira, Zamoro\) \- Live, Heidenheim, 2024](https://open.spotify.com/track/26RAcQpE2eZhpdVEfajOH2) | [Giuseppe Verdi](https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o), [Marcus Bosch](https://open.spotify.com/artist/1MJ8RQmqS1Bp7HE7LUL3SU), [Cappella Aquileia](https://open.spotify.com/artist/2s40Jo8ExFcmO3hV3rPlhK), [Sung Kyu Park](https://open.spotify.com/artist/5ZWihjgywPT7qoqUin7Sqx), [Ania Jeruc](https://open.spotify.com/artist/4FbEAO2WdHioCqkZd7aspw) | [Alzira: "Risorge ne‘ tuoi lumi" \(Alzira, Zamoro\) \[Live, Heidenheim, 2024\]](https://open.spotify.com/album/7nOJ6ooQnDdLmu85kinKv0) | 2:22 |
 | 80 | [Tenori e contrabassi intabulati col sopran in canto: No\. 41, Dolermi sempre voglio](https://open.spotify.com/track/4EjfI5i6tgqsrStB7j0vVB) | [Bartolomeo Tromboncino](https://open.spotify.com/artist/3gS8jiqbP522qTnCFyHi8A), [Hopkinson Smith](https://open.spotify.com/artist/7zcQ4msi1fjUPlCYypzkNy), [Sophie Klussmann](https://open.spotify.com/artist/7fQQCcXwJ5qdJux8y5Z55k) | [Dolermi sempre voglio \(in Tenori e contrabassi intabulati col sopran in canto\)](https://open.spotify.com/album/2ACtSajiS0pTsbC5eRD059) | 3:03 |
 | 81 | [Unity](https://open.spotify.com/track/6vibv8PBwrD8ZfCh9jlqEB) | [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Unity](https://open.spotify.com/album/6uTchVyIP9F8Naoia5Dlta) | 5:28 |
-| 82 | [The Journey Of A Butterfly](https://open.spotify.com/track/5PG1cSpaPeS1YfAetcO742) | [Millicent B\. James](https://open.spotify.com/artist/7jdvxQIg9muNcGN4XL6qD6), [National Youth Choir Of Great Britain](https://open.spotify.com/artist/3G9OQrxIMNUgdBqb8NtkWG), [Olivia Shotton](https://open.spotify.com/artist/2VXp2Kzgppmtg87EfkeDjE), [James Botcher](https://open.spotify.com/artist/1Tih1dNuCU0e4UGamJoBbM) | [Millicent B\. James: The Journey of a Butterfly](https://open.spotify.com/album/3Zg8PXWSCsPqeYcoe5MWuJ) | 5:03 |
+| 82 | [The Journey Of A Butterfly](https://open.spotify.com/track/5PG1cSpaPeS1YfAetcO742) | [Millicent B James](https://open.spotify.com/artist/66zAjCJuswZvGrtWLdI4Nt), [National Youth Choir Of Great Britain](https://open.spotify.com/artist/3G9OQrxIMNUgdBqb8NtkWG), [Olivia Shotton](https://open.spotify.com/artist/2VXp2Kzgppmtg87EfkeDjE), [James Botcher](https://open.spotify.com/artist/1Tih1dNuCU0e4UGamJoBbM) | [Millicent B\. James: The Journey of a Butterfly](https://open.spotify.com/album/3Zg8PXWSCsPqeYcoe5MWuJ) | 5:03 |
 
 Snapshot ID: `AAAAAHvYenJX5ktck4/Pa6rxAtmaNoEI`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Joaquina
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,167 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,172 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [amarillo](https://open.spotify.com/track/6ULnlEp0Oto5F7fMQaokwD) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [amarillo](https://open.spotify.com/album/794XwJmivFd9maFbt8EPUb) | 3:30 |
-| 2 | [Quiero Olvidarte \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Quiero Olvidarte \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
+| 2 | [QUIERO OLVIDARTE \- Respuesta \#1](https://open.spotify.com/track/6XRf6qExxVGfMgrmzSuwUT) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [QUIERO OLVIDARTE \(Respuesta \#1\)](https://open.spotify.com/album/03nmaVWuIXQDmjKgY6Q1R0) | 2:42 |
 | 3 | [AURA](https://open.spotify.com/track/35O5u1etohDjHX2km9YItO) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [AURA](https://open.spotify.com/album/2hpXtYEpMEI5bAPZE1eouN) | 2:21 |
 | 4 | [Amaya Papaya \(No Me Digas Bebé\)](https://open.spotify.com/track/1JYCqTzn5vXmTOAF0Ptg6D) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Amaya Papaya \(No Me Digas Bebé\)](https://open.spotify.com/album/769CJdpfN03cloNudEloUh) | 2:46 |
 | 5 | [contraste](https://open.spotify.com/track/2nxDBchv9ZAYLfkr7l33Gt) | [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [NIÑO BUENO](https://open.spotify.com/album/4WTG7l2mJEcwUdt2aIiL1e) | 3:11 |

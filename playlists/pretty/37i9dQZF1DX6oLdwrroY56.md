@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 
 > pinoy alternative music \. Cover: ena mori
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,485 likes - 58 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,471 likes - 58 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oLdwrroY56.md) - [plain]
 | 2 | [basura](https://open.spotify.com/track/0WCtuhRtnDCKQYZUT3GcQX) | [Sandwich](https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5), [SUYEN](https://open.spotify.com/artist/2k0vf45LoEKtyGiGnyJ4Vv) | [basura](https://open.spotify.com/album/1Ce54hcVgiEP7JDgVxATkw) | 2:37 |
 | 3 | [otw](https://open.spotify.com/track/3Wh9QrUzz5sEkiZAVUB9o1) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [otw](https://open.spotify.com/album/1yRluH890LAb0yIo1Ce2GV) | 3:32 |
 | 4 | [Sweet Like Sunshine](https://open.spotify.com/track/4S6bmWdDRNCwfE19faLxln) | [AEUNA](https://open.spotify.com/artist/1w922m1J6GxqQsH7IdLO1Y), [Martinightz](https://open.spotify.com/artist/3LJkjwvkOVLkVF2lMKO9vu), [Kief Kionisala](https://open.spotify.com/artist/1hCM6QcqM7ONnhBLyNDm1a) | [Sweet Like Sunshine](https://open.spotify.com/album/62NMYMEy00pQJCI5527L8u) | 2:54 |
-| 5 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 |
+| 5 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 |
 | 6 | [boy](https://open.spotify.com/track/10XkxldeH7vbHetDoTlKpr) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [boy](https://open.spotify.com/album/4He3KAbu09Wion9GRyZm6W) | 3:42 |
 | 7 | [Palaging Masaya](https://open.spotify.com/track/4I7T76QWKWEjCpPTfGP6jq) | [John Sam](https://open.spotify.com/artist/31KxamKxGgb248l4QlDc35) | [Palaging Masaya](https://open.spotify.com/album/4R60jek85Uw3wF6Wq4RyXc) | 3:58 |
 | 8 | [little sunny baby](https://open.spotify.com/track/2DLIiAWaKquMARkg1k6RpG) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [little sunny baby](https://open.spotify.com/album/5j9LCrE1Pfu23acGv9nXR4) | 2:11 |

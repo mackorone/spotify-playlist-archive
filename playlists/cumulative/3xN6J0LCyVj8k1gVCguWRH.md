@@ -4,7 +4,7 @@
 
 > What&\#x27;s gonna be the song of the Summer 2025!? A prediction playlist created by us based on Obama&\#x27;s taste in music.
 
-5,255 songs - 12 day 5 hr 57 min
+5,257 songs - 12 day 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -919,6 +919,7 @@
 | [Come Down](https://open.spotify.com/track/4VlyGw3pzkZ5ZKmeST3XYG) | [Jacob Fleming](https://open.spotify.com/artist/0OmkCIXIHSOOP24pKklKlr) | [Come Down](https://open.spotify.com/album/3MbHSaFdb7OwYeK9T8gMjo) | 4:05 | 2024-01-30 | 2024-02-11 |
 | [Come Jesus Come](https://open.spotify.com/track/72aFaoWMcBGR7UopMR92ra) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Come Jesus Come](https://open.spotify.com/album/5aAwnlcci0dIlIuMxroAGR) | 3:32 | 2022-11-22 | 2022-12-11 |
 | [Come on Down](https://open.spotify.com/track/5VPQhnJrUqYW2RpT8DnzPD) | [Barry and the Fountains](https://open.spotify.com/artist/61hGCc3LoReqvm3EkT9jkt) | [Come on Down](https://open.spotify.com/album/4mTzoTQnG71Rwjxa42Ubl5) | 4:50 | 2020-07-07 | 2020-07-28 |
+| [Come on Right Over](https://open.spotify.com/track/4ClxwgoKXvIOTyvGk17NGh) | [Tala Silva](https://open.spotify.com/artist/2WW3NQReKL2aFlel3xBL4J) | [Come on Right Over](https://open.spotify.com/album/1NiysIRPWjtbSar1dEsDXw) | 2:38 | 2025-08-26 |  |
 | [Come Over](https://open.spotify.com/track/4xVDmOcIJL1I8A70eULgvG) | [Keely](https://open.spotify.com/artist/6O22NnZ7zH3nosk9yfKMIx), [PeterFeelGood](https://open.spotify.com/artist/4nMh2wu3UzcEhfkp1X7VjJ) | [Come Over](https://open.spotify.com/album/3yvVLABNrIfpqr8KZ5dFIF) | 2:20 | 2024-10-18 | 2024-11-02 |
 | [Come Over](https://open.spotify.com/track/2wPb2XUn1zJC1eoZLL3ayu) | [Makeda](https://open.spotify.com/artist/0VJ0hhALBSwCZsSaRpA7yB) | [Come Over](https://open.spotify.com/album/7206RW4lLDPLFtlyvcyVBy) | 2:52 | 2023-08-25 | 2023-09-26 |
 | [Come Slide](https://open.spotify.com/track/7r5VnXW5NvS4vATIXvJK7u) | [C.LACY](https://open.spotify.com/artist/55OzuHxRarLnJR84UCnjdV), [Fedarro](https://open.spotify.com/artist/3Ar4dDBQq9d65WCMB3edaw) | [Come Slide](https://open.spotify.com/album/2ZJcQlxNlZ1JL99hWMOcAe) | 2:34 | 2025-05-07 | 2025-05-19 |
@@ -2787,6 +2788,7 @@
 | [Lovin\` You Again](https://open.spotify.com/track/00ClqkBHpFLMmZIS8qPPnh) | [Eve Gallagher](https://open.spotify.com/artist/3qnAV28sOSJx6Y0LzDbl65), [Uli Heinzler](https://open.spotify.com/artist/4jxBj2bCdew7wFVtC7X6VD) | [Lovin\` You Again](https://open.spotify.com/album/38uubdJwiFa2RQyrwsCJ6k) | 3:51 | 2023-05-25 | 2023-06-17 |
 | [Loving It Too](https://open.spotify.com/track/0wnKIXdgR8V2yWdLySGKU8) | [Kappekoff](https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ), [Marte Eberson](https://open.spotify.com/artist/5DvFRKXZ3PVC2MXDCmCsbr) | [Loving It Too](https://open.spotify.com/album/6bPp4uv0O3egI6pyQNdYQc) | 3:45 | 2025-07-18 |  |
 | [Loving You](https://open.spotify.com/track/6uutleDCByPGUqZB03Sj4Q) | [Tory Raymer](https://open.spotify.com/artist/1pA1gXf7jOgDbovhE1FtR0) | [Loving You](https://open.spotify.com/album/0zttpGSQSSPwRedEfz063U) | 2:36 | 2025-07-13 | 2025-07-29 |
+| [Loving You Is Wild](https://open.spotify.com/track/712OyohxFMjVF2BAa48rLh) | [Sharlette](https://open.spotify.com/artist/5KHPJepzNZtQCNXnansIVZ) | [Loving You Is Wild](https://open.spotify.com/album/25f3ytaOei1xNZuWVjygLn) | 3:26 | 2025-08-26 |  |
 | [Lovu \- Whim Therapy Remix](https://open.spotify.com/track/2MUYD8IWgXd1I1CDpY8zGk) | [Romane Santarelli](https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN), [Whim Therapy](https://open.spotify.com/artist/5AKY45d5N3kOFln1vXsQ5h) | [Lovu \(Whim Therapy Remix\)](https://open.spotify.com/album/4m290meGLCj5e0WErWGK68) | 3:51 | 2020-12-18 | 2021-01-03 |
 | [LTWYLM](https://open.spotify.com/track/4TWJvu5iSNYhUgVBnqWvBY) | [Abi Ocia](https://open.spotify.com/artist/4xiByOtOqXPUQU9wV4sMUb) | [LTWYLM](https://open.spotify.com/album/1FyweOrZCXoEc8xQMHjW1h) | 4:30 | 2021-11-13 | 2021-11-28 |
 | [Lucid](https://open.spotify.com/track/5X9MCQkOzaDtvL5coFMdLs) | [McKenna Mix](https://open.spotify.com/artist/6mPTxtgVTryDZe5QF2y53G) | [Lucid](https://open.spotify.com/album/37809nVEgEhjfONXyfYc6l) | 3:11 | 2023-07-04 | 2023-07-18 |
@@ -4031,7 +4033,7 @@
 | [Skeptical](https://open.spotify.com/track/2bTxWZMcOAbpfQRD0anbrc) | [The Active Set](https://open.spotify.com/artist/0WucsHpocbdOmgk4LuRCXO) | [Skeptical](https://open.spotify.com/album/5hHkijxg9HICw15ciAAsEv) | 3:26 | 2025-01-14 | 2025-01-26 |
 | [Skies](https://open.spotify.com/track/5WXwK38Qay3CXF0pG3BOWr) | [Daniel Fin](https://open.spotify.com/artist/6K1DLmkclHEoHMrO1mqb5z) | [Skies](https://open.spotify.com/album/3FNrGC942gQ92OwEWOEaiY) | 3:23 | 2021-12-24 | 2022-01-09 |
 | [Skinny Dipping](https://open.spotify.com/track/5lwsly944rxlv6o2ool4C9) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Skinny Dipping](https://open.spotify.com/album/5rohcX0M6cNgydvdgbpChC) | 3:10 | 2025-07-04 | 2025-08-08 |
-| [Skinny Love](https://open.spotify.com/track/0LTagj5gWcnyvh6TdMLBZ6) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Skinny Love](https://open.spotify.com/album/780xAjKlHtUR6o5qzMUzHc) | 2:51 | 2025-08-01 |  |
+| [Skinny Love](https://open.spotify.com/track/0LTagj5gWcnyvh6TdMLBZ6) | [Estella Dawn](https://open.spotify.com/artist/00SIMc8XBD6NezPkMpkMcL) | [Skinny Love](https://open.spotify.com/album/780xAjKlHtUR6o5qzMUzHc) | 2:51 | 2025-08-01 | 2025-08-27 |
 | [Skull Cup](https://open.spotify.com/track/2YfNgAiHIBrYqu8plFclq6) | [Dr\. Apeman](https://open.spotify.com/artist/4QKhseyZBnZgBDGhl2yydH) | [Silk Road](https://open.spotify.com/album/2FJdRWMCsR2jAme7ms9v3a) | 2:25 | 2020-04-14 | 2020-04-22 |
 | [Sky Meets The Water](https://open.spotify.com/track/18d9BbwniBUyWW89NLN69p) | [Rio Sterling](https://open.spotify.com/artist/1Zf0m40qFe3lRQwhknz9yd) | [Sky Meets The Water](https://open.spotify.com/album/50NpwAZUVevndGt0NXf3KX) | 3:56 | 2025-05-15 | 2025-06-01 |
 | [Sky's in View](https://open.spotify.com/track/0cWNKUhFHaBpEsCymJo6e3) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Sky's in View](https://open.spotify.com/album/4DJDKcqroJC6nOhOWWZ7Yb) | 2:56 | 2020-05-09 | 2020-05-24 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 19142,
+  "num_followers": 19143,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABJ9NwVwtYxC/YQT/90gIQk",
+  "snapshot_id": "aKungAAAAAC0P14pMiwGtFxFEUJmXm8H",
   "tracks": [
     {
       "added_at": null,
@@ -560,9 +560,29 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 406586,
-      "name": "Moon-Silvered Clouds",
-      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "duration_ms": 625760,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
     },
     {
       "added_at": null,
@@ -599,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "duration_ms": 406586,
+      "name": "Moon-Silvered Clouds",
+      "url": "https://open.spotify.com/track/5IxzBnaLKCgtUNgaUVLq3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Illumination of the Heart",
         "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
       },
@@ -611,42 +647,6 @@
       "duration_ms": 566813,
       "name": "Schein und Widerschein",
       "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "East of the Full Moon",
-        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        }
-      ],
-      "duration_ms": 420160,
-      "name": "Black Velvet Flirt",
-      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Garden of the Gods",
-        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
-      },
-      "artists": [
-        {
-          "name": "Deuter",
-          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
-        },
-        {
-          "name": "Annette Cantor",
-          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
-        }
-      ],
-      "duration_ms": 625760,
-      "name": "Seashell",
-      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
     },
     {
       "added_at": null,

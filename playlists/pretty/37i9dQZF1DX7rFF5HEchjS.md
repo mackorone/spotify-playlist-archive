@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rFF5HEchjS.md) - [plain]
 
 > and so the lion fell in love with the lamb.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,604 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,715 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

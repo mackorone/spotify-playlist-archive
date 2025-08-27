@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 73544,
+  "num_followers": 73540,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABg3TLOG2zXyCRyWBG4lY0f",
+  "snapshot_id": "aKungAAAAACz9uXphqsF51QXof5Eel1N",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye's Sentry",
-        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
+        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
+        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 251546,
-      "name": "Eye's Sentry",
-      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
+      "duration_ms": 291800,
+      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
+      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
-        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
+        "name": "Eye's Sentry",
+        "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 291800,
-      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
-      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
+      "duration_ms": 251546,
+      "name": "Eye's Sentry",
+      "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PHOENIX",
+        "url": "https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "PHOENIX",
+      "url": "https://open.spotify.com/track/6x4Ic92TnTIG6uJHi2VoXy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "7\uff54\uff48 Trigger",
         "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 312746,
       "name": "AFTER LIFE",
       "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PHOENIX",
-        "url": "https://open.spotify.com/album/21JuxhUEdvFZRPav9wDDjc"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "PHOENIX",
-      "url": "https://open.spotify.com/track/6x4Ic92TnTIG6uJHi2VoXy"
     },
     {
       "added_at": null,

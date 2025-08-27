@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec\u2014riprendiamo il 27 agosto! <a href=\"spotify:artist:1pRhf8tFJk2k1ejw6sRqQK\">IDDA</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:1ORfD7Cf5AiwKcIikkTY7n\">Francesca Everly</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 152928,
       "name": "\"solo a guardarti mi annoio\"",
       "url": "https://open.spotify.com/track/2BBDcNUVBewdGGkKOsLkzQ"
@@ -784,6 +784,28 @@
       "duration_ms": 218000,
       "name": "32 Agosto",
       "url": "https://open.spotify.com/track/5T0uSPBfOY0SRg0nCWaQVE"
+    },
+    {
+      "album": {
+        "name": "32 denti",
+        "url": "https://open.spotify.com/album/0HERfVhaDzAqdKcqaXbD2h"
+      },
+      "artists": [
+        {
+          "name": "millepaure",
+          "url": "https://open.spotify.com/artist/7Ch7MLfFSiVCLWYnX7a7sH"
+        },
+        {
+          "name": "steee",
+          "url": "https://open.spotify.com/artist/7a8lQ49m8Drh1VyYouoBZL"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "32 denti",
+      "url": "https://open.spotify.com/track/7lryExfvt5484BVo3FT1J8"
     },
     {
       "album": {
@@ -4432,7 +4454,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 145248,
       "name": "Bruised",
       "url": "https://open.spotify.com/track/7dR0EkYVsyCFrWJ28xmsJJ"
@@ -6939,6 +6961,24 @@
     },
     {
       "album": {
+        "name": "novocaine",
+        "url": "https://open.spotify.com/album/6M61wa3cysiuh80xbWSb8t"
+      },
+      "artists": [
+        {
+          "name": "nunfrizz",
+          "url": "https://open.spotify.com/artist/1mo5WFDtzt5DrLTUcezySr"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71489,
+      "name": "come stai",
+      "url": "https://open.spotify.com/track/4Of2lF5T0haGWF0AHTnr8i"
+    },
+    {
+      "album": {
         "name": "Come ti pare.",
         "url": "https://open.spotify.com/album/3YPQq2ZZUeRCNe3eAEFTs9"
       },
@@ -7008,6 +7048,24 @@
       "duration_ms": 218766,
       "name": "Come vorrei",
       "url": "https://open.spotify.com/track/7tsODSyklruhthzaXOczUq"
+    },
+    {
+      "album": {
+        "name": "La mia stella aggressiva si nasconde nelle virgole e nei punti",
+        "url": "https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt"
+      },
+      "artists": [
+        {
+          "name": "irossa",
+          "url": "https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Come vuoi",
+      "url": "https://open.spotify.com/track/1XxmjndkkiVXGzNb08EaG0"
     },
     {
       "album": {
@@ -7987,6 +8045,24 @@
     },
     {
       "album": {
+        "name": "Dentro un altro film",
+        "url": "https://open.spotify.com/album/6IW1LC4poBoBOah9clUAlt"
+      },
+      "artists": [
+        {
+          "name": "KISME",
+          "url": "https://open.spotify.com/artist/4Q43UcD41lfyVsZ7oh4Q1a"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154703,
+      "name": "Dentro un altro film",
+      "url": "https://open.spotify.com/track/7HoX3x1NFugzHnCagj0XKb"
+    },
+    {
+      "album": {
         "name": "Depressi",
         "url": "https://open.spotify.com/album/0avgzKVzqjR8LPjFzQ2ova"
       },
@@ -8330,7 +8406,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 240857,
       "name": "DIAVULU",
       "url": "https://open.spotify.com/track/2oj4GPBAq2YP5xvAt8rWrn"
@@ -8626,7 +8702,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 175200,
       "name": "Distante",
       "url": "https://open.spotify.com/track/5LqRFf2IYXlNh9WuhQYjdw"
@@ -9130,7 +9206,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 130757,
       "name": "down!",
       "url": "https://open.spotify.com/track/4iJOtAsDk7qKlecYF21wTj"
@@ -10032,7 +10108,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 126282,
       "name": "Fai piano",
       "url": "https://open.spotify.com/track/5VHa2zXPoKYMEXQfMckddL"
@@ -10295,6 +10371,24 @@
     },
     {
       "album": {
+        "name": "FARFALLE NELL'ANSIA",
+        "url": "https://open.spotify.com/album/1yT3otTRVBNUtzYxd2QY2m"
+      },
+      "artists": [
+        {
+          "name": "Toto",
+          "url": "https://open.spotify.com/artist/0ieTdLUfm0IVcLu8bbGWZx"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154488,
+      "name": "FARFALLE NELL'ANSIA",
+      "url": "https://open.spotify.com/track/49WEmCjLnNX4xrnXZnAWt7"
+    },
+    {
+      "album": {
         "name": "FARI ROTTI",
         "url": "https://open.spotify.com/album/00WSFTYwU9U1m1OAuF0kkt"
       },
@@ -10554,6 +10648,24 @@
       "duration_ms": 129519,
       "name": "feste per i vivi",
       "url": "https://open.spotify.com/track/1UDazJR4C8lcH6jAVVit2s"
+    },
+    {
+      "album": {
+        "name": "Fever Dream",
+        "url": "https://open.spotify.com/album/6jOwDCzJxkwLdgfUvNnBVi"
+      },
+      "artists": [
+        {
+          "name": "Davide Dalmonte",
+          "url": "https://open.spotify.com/artist/1RSqmcLE8D3i6NTXiCTDfj"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208283,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/1WYsUg4HLmoPB63rN0RKLZ"
     },
     {
       "album": {
@@ -10824,6 +10936,24 @@
       "duration_ms": 124700,
       "name": "Fine",
       "url": "https://open.spotify.com/track/7Go6mSWwO2Al51GLzM8PwX"
+    },
+    {
+      "album": {
+        "name": "fine del giorno",
+        "url": "https://open.spotify.com/album/2NPUpFmPykswloH3ULHsE2"
+      },
+      "artists": [
+        {
+          "name": "GAVIO",
+          "url": "https://open.spotify.com/artist/05qqxI69VrwHBVt2SC8J0M"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183385,
+      "name": "fine del giorno",
+      "url": "https://open.spotify.com/track/04Y2Etijw0vUBsXjHbdOPP"
     },
     {
       "album": {
@@ -11167,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "forget",
+        "url": "https://open.spotify.com/album/20Z93Bm69nZvJMy5rxcLym"
+      },
+      "artists": [
+        {
+          "name": "Torzi",
+          "url": "https://open.spotify.com/artist/2rsu13VNGzmC5llLQrpp0c"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "forget",
+      "url": "https://open.spotify.com/track/0Rn9pkfhWmwtgvCvI3HChj"
+    },
+    {
+      "album": {
         "name": "Formato tascabile",
         "url": "https://open.spotify.com/album/59ltmDbYN3c54HblKLXc63"
       },
@@ -11214,7 +11362,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 182088,
       "name": "forse si o forse no",
       "url": "https://open.spotify.com/track/4JjmOmkTXKELRBFJogLXkW"
@@ -11272,7 +11420,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 228542,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/7CxJbkf97yE1yQBUZBAx3j"
@@ -13427,6 +13575,24 @@
     },
     {
       "album": {
+        "name": "Gimmy Glauco",
+        "url": "https://open.spotify.com/album/6z9veasf20bXNzg65YHgsi"
+      },
+      "artists": [
+        {
+          "name": "Glauco",
+          "url": "https://open.spotify.com/artist/6zRPngg8Akh7YyNy18Pkm4"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172559,
+      "name": "Il Campo \u00c8 Nostro",
+      "url": "https://open.spotify.com/track/7LKgvG6IZZti9SJGeJ8DwT"
+    },
+    {
+      "album": {
         "name": "IL CIELO SOPRA BERLINO",
         "url": "https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n"
       },
@@ -13598,7 +13764,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 180220,
       "name": "Il mondo non ha gli occhi",
       "url": "https://open.spotify.com/track/59BXctKNyOByqpFA5oSwcS"
@@ -17164,7 +17330,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 162857,
       "name": "ma mo no",
       "url": "https://open.spotify.com/track/6oLBH11Rwo8vbuHPgT4oEV"
@@ -17218,7 +17384,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 139203,
       "name": "macchina da corsa",
       "url": "https://open.spotify.com/track/5LAsCISaBOOS60uNlVvdUI"
@@ -17530,6 +17696,24 @@
       "duration_ms": 203294,
       "name": "Male d'amore (una canzone cretina)",
       "url": "https://open.spotify.com/track/3WlpXhNXs7SImueEfq2LE6"
+    },
+    {
+      "album": {
+        "name": "Male di te",
+        "url": "https://open.spotify.com/album/1XFJk53PDpwn7ND0s3yFrh"
+      },
+      "artists": [
+        {
+          "name": "HEVA",
+          "url": "https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146291,
+      "name": "Male di te",
+      "url": "https://open.spotify.com/track/7Ec7IO9nRpGt33WiC8GihP"
     },
     {
       "album": {
@@ -18309,6 +18493,24 @@
     },
     {
       "album": {
+        "name": "Metal Baby",
+        "url": "https://open.spotify.com/album/5nbPTQ637U2b2G6c6jF2Tk"
+      },
+      "artists": [
+        {
+          "name": "Lisa Laner",
+          "url": "https://open.spotify.com/artist/2Modg36iLszUzX5r1DjMlz"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153830,
+      "name": "Metal Baby",
+      "url": "https://open.spotify.com/track/3GY3L48tzZBLriijHdsFKh"
+    },
+    {
+      "album": {
         "name": "Meteore",
         "url": "https://open.spotify.com/album/0bCzwE7yHmLiplQPCtnkS3"
       },
@@ -18410,7 +18612,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 132922,
       "name": "Mi Ero Promesso :(",
       "url": "https://open.spotify.com/track/2YpraDcCZ40LzTsDHAEOeu"
@@ -18786,6 +18988,24 @@
       "duration_ms": 124000,
       "name": "mirtilli rossi pandemia",
       "url": "https://open.spotify.com/track/5dOaNSVYHDB9PzKoJDk6Gg"
+    },
+    {
+      "album": {
+        "name": "miss u ;(",
+        "url": "https://open.spotify.com/album/3dn98wuoZsvY1qsUZvDJZN"
+      },
+      "artists": [
+        {
+          "name": "SAN JUNO",
+          "url": "https://open.spotify.com/artist/7HIpFHpLPz4sBqLVdd8Zjz"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "miss u ;(",
+      "url": "https://open.spotify.com/track/3QTuUPE9s0GeMRFvikSsb7"
     },
     {
       "album": {
@@ -19386,7 +19606,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 178062,
       "name": "Muy Poca Tierra",
       "url": "https://open.spotify.com/track/2WzEQUR0PSf8guGTFmliVc"
@@ -20456,7 +20676,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 182142,
       "name": "nomade",
       "url": "https://open.spotify.com/track/3XH7b9f1Q55kZz2ob3dlTU"
@@ -22575,6 +22795,32 @@
     },
     {
       "album": {
+        "name": "OVERTHINK",
+        "url": "https://open.spotify.com/album/3aCTgZkoV3wj5bVEUqhVmA"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Lenola",
+          "url": "https://open.spotify.com/artist/2ZcZ2OBjYjxxIfAXyumxJu"
+        },
+        {
+          "name": "Giulia Gentile",
+          "url": "https://open.spotify.com/artist/7JbwWU3XpzJGDBKMesXECT"
+        },
+        {
+          "name": "Gorbaciof",
+          "url": "https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138401,
+      "name": "OVERTHINK",
+      "url": "https://open.spotify.com/track/7dJsKfjhJWUutRd86QM4O0"
+    },
+    {
+      "album": {
         "name": "PA PAROLE",
         "url": "https://open.spotify.com/album/60auI9SKqnL4QKMgLSa8IA"
       },
@@ -22926,7 +23172,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 187266,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/2EEyCQ0KavmFW5pIfiV3pf"
@@ -23086,6 +23332,24 @@
       "duration_ms": 132000,
       "name": "Parte di me",
       "url": "https://open.spotify.com/track/3VC01HXk6LfTLMOdkYUMnI"
+    },
+    {
+      "album": {
+        "name": "PARTENOPE",
+        "url": "https://open.spotify.com/album/46HNlqA3hRB7b8rSBR14v9"
+      },
+      "artists": [
+        {
+          "name": "TALYRA",
+          "url": "https://open.spotify.com/artist/2jw1LJcvAbLNku8JE765p2"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146688,
+      "name": "PARTENOPE",
+      "url": "https://open.spotify.com/track/2cLhmX9IiiarAdCGOP7pzA"
     },
     {
       "album": {
@@ -23352,7 +23616,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 116312,
       "name": "Pela Luz",
       "url": "https://open.spotify.com/track/24tZEegTWP8QOF9EP09oqk"
@@ -24126,7 +24390,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 238000,
       "name": "Pisciacane",
       "url": "https://open.spotify.com/track/5C3dL3CvycjVoV07aSZVLn"
@@ -25028,6 +25292,32 @@
       "duration_ms": 187874,
       "name": "Punto e a capo",
       "url": "https://open.spotify.com/track/5avRtlxCtBeeGKqTilmkeq"
+    },
+    {
+      "album": {
+        "name": "AI BIANCHI E' RIMASTO SOLO DI EMOZIONARSI NELLE CANZONI",
+        "url": "https://open.spotify.com/album/2cEj3gVb4h8Mssca7ZOzMp"
+      },
+      "artists": [
+        {
+          "name": "Mamma",
+          "url": "https://open.spotify.com/artist/3jewhSYI0R0aG4NPyLDKSq"
+        },
+        {
+          "name": "OKEYCHICO",
+          "url": "https://open.spotify.com/artist/6jCsBoJ2KxXA5Su6gXANIq"
+        },
+        {
+          "name": "DDiT",
+          "url": "https://open.spotify.com/artist/05YBH3IiYnMkug1O9aQo3Z"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188003,
+      "name": "PUZZA DI MARKETING",
+      "url": "https://open.spotify.com/track/5yt1ZzicTyF5GyQV0JAErL"
     },
     {
       "album": {
@@ -26608,7 +26898,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 171870,
       "name": "Salvami 2 Volte, Perfavore",
       "url": "https://open.spotify.com/track/2h6dGXeYgnDN3z3geWtm3L"
@@ -26662,7 +26952,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 135652,
       "name": "SANGUE E BENZINA",
       "url": "https://open.spotify.com/track/2qDizh5fGwpevQ2H88gJr3"
@@ -26680,7 +26970,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 157535,
       "name": "SANGUE!",
       "url": "https://open.spotify.com/track/0Yl8ws9zdu9daE9Vo7RyHk"
@@ -28928,7 +29218,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 221000,
       "name": "Sottopelle",
       "url": "https://open.spotify.com/track/1MX5AXB9OJlJTmnh2HwlG5"
@@ -29568,7 +29858,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 178977,
       "name": "Stare Con Te",
       "url": "https://open.spotify.com/track/0HT5SmVUWHfhUJtfvrjNzs"
@@ -30228,6 +30518,28 @@
       "duration_ms": 189091,
       "name": "Super9",
       "url": "https://open.spotify.com/track/3hqhK6p7w8dobyP6nlTRjN"
+    },
+    {
+      "album": {
+        "name": "SUPERFICIE",
+        "url": "https://open.spotify.com/album/4tXpTjhlZmZ6CdmMoUGVAm"
+      },
+      "artists": [
+        {
+          "name": "Dheo",
+          "url": "https://open.spotify.com/artist/4cqOx4TqvaYkvSBIjoaeCf"
+        },
+        {
+          "name": "22.22",
+          "url": "https://open.spotify.com/artist/5nH1KKtheWPPjHGaQESRfQ"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155716,
+      "name": "SUPERFICIE",
+      "url": "https://open.spotify.com/track/6jcjWk77hqbnmlvhsK92e4"
     },
     {
       "album": {
@@ -31270,6 +31582,28 @@
       "duration_ms": 150260,
       "name": "Traffico Moderno",
       "url": "https://open.spotify.com/track/0bMIpF2k9bNPXmGu8sLkd8"
+    },
+    {
+      "album": {
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/5dY2qizbHFrIZm3HMPZXJZ"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Transit (feat. Killa P)",
+      "url": "https://open.spotify.com/track/7mR1z8YGtFKBEJ8Y0lIg7E"
     },
     {
       "album": {

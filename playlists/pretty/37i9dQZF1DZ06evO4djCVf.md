@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 
 > This is Suzan & Freek\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,790 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,821 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 25 | [Dit Is Voor Jou \- Uit Liefde Voor Muziek](https://open.spotify.com/track/2X8NkOztikX2ilO0QkeLvl) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 3:33 |
 | 26 | [De Helft Van Wat Je Doet](https://open.spotify.com/track/7f2rMSEF8WLqcbd6tvwlH1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:23 |
 | 27 | [Iemand Van Vroeger](https://open.spotify.com/track/3UQxsixsTnS8vbtQLgAO29) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 2:56 |
-| 28 | [Als Ik Mezelf Verlies \- uit Liefde Voor Muziek](https://open.spotify.com/track/6BVWC6f3rZwBjgtbrsdSC1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:19 |
-| 29 | [Altijd Wel Iemand](https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 3:11 |
+| 28 | [Altijd Wel Iemand](https://open.spotify.com/track/1wRIRVwfQS1rE99l0owSjc) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 3:11 |
+| 29 | [Als Ik Mezelf Verlies \- uit Liefde Voor Muziek](https://open.spotify.com/track/6BVWC6f3rZwBjgtbrsdSC1) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:19 |
 | 30 | [Straks Is Het Te Laat](https://open.spotify.com/track/7EDgU3nwMkU9YesCHKz6Io) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 2:51 |
 | 31 | [Genoten \- Uit Liefde Voor Muziek](https://open.spotify.com/track/4Xcb21WNsntJfKAeyPTf3V) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 3:18 |
-| 32 | [Passie \- uit Liefde Voor Muziek](https://open.spotify.com/track/18J7FNm30eEK4FBtbMMrtA) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 4:11 |
-| 33 | [Jolene](https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 2:42 |
+| 32 | [Jolene](https://open.spotify.com/track/0pLJnBuPRp0waRkDwZoHYM) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Glass House Sessions](https://open.spotify.com/album/10d5ZDkdrat8nyLmUvcgYc) | 2:42 |
+| 33 | [Passie \- uit Liefde Voor Muziek](https://open.spotify.com/track/18J7FNm30eEK4FBtbMMrtA) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 4:11 |
 | 34 | ['t Geeft Niet](https://open.spotify.com/track/2kWjR4AwkP46dDV7WuEYEI) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Beste Zangers Seizoen 2020 \(Suzan & Freek\)](https://open.spotify.com/album/1WN1OQhwJ4yOjZlVWgUxFo) | 3:31 |
 | 35 | [Waarom \- Uit Liefde Voor Muziek](https://open.spotify.com/track/0BqpBJqJSuWOFfZG87qSYe) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:42 |
 | 36 | [Op Deze Dag \- uit Liefde Voor Muziek](https://open.spotify.com/track/2qfckSYDNIFrEWgONKHUpH) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:52 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djCVf.md) - [plain]
 | 40 | [Dicht Bij Mij \- Uit Liefde Voor Muziek](https://open.spotify.com/track/00x0bTQ3qpObskwuhCnaBg) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2022](https://open.spotify.com/album/3sj3oTFpGrwbIVxNiUROZX) | 2:44 |
 | 41 | [Elke Keer \- uit Liefde Voor Muziek](https://open.spotify.com/track/3pi2w1mCahYRU8ZzLmI3Im) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/2Z8qdGPSpLwxOm9ekV3jXW) | 3:11 |
 
-Snapshot ID: `aKpWAAAAAADKLYARaSKan74AFYQ21vAw`
+Snapshot ID: `aKungAAAAAAmELDY+seuulRkNuOHsPV1`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Dive into Kitsuné’s ultimate summer soundtrack, a sunny blend of timeless hits and fresh discoveries from across the years.☀️🎶
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,814 likes - 52 songs - 3 hr 6 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 49,818 likes - 52 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GET LOST](https://open.spotify.com/track/3lOH1zjcMl32bwnaCi8VHK) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [GET LOST](https://open.spotify.com/album/55xkAVaINyTwteO7nsBnWp) | 3:05 |
-| 2 | [What You Say \- Yamagucci Remix](https://open.spotify.com/track/2i5UgE1uYmpeDdXdBSGKOn) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [What You Say \(Remix\)](https://open.spotify.com/album/2DV99rB1aRNM8GyV9EvWZF) | 5:04 |
+| 2 | [What You Say \- Yamagucci Remix](https://open.spotify.com/track/2i5UgE1uYmpeDdXdBSGKOn) | [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [What You Say](https://open.spotify.com/album/2DV99rB1aRNM8GyV9EvWZF) | 5:04 |
 | 3 | [My Soul \(Yet More Remix\)](https://open.spotify.com/track/5J1nCiMfZ2ztS1hT6bFN4A) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt), [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C) | [My Soul](https://open.spotify.com/album/2X60mBUbVzSGBLn5kVNj7N) | 4:38 |
 | 4 | [REGRESO \- warner case Remix](https://open.spotify.com/track/3U7ZzaQjslHlHybw9jXQI8) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01) | [REGRESO \(warner case Remix\)](https://open.spotify.com/album/1sM6L8knIz2qufXE6wi9TD) | 3:15 |
 | 5 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 |

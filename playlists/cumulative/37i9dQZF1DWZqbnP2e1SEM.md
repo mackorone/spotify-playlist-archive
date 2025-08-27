@@ -4,7 +4,7 @@
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-502 songs - 1 day 2 hr 36 min
+503 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Afraid \(feat\. HARLEE\)](https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Afraid](https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz) | 2:22 | 2021-07-09 | 2023-09-12 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-06-20 | 2024-08-03 |
 | [After Hours](https://open.spotify.com/track/6qLkMLUIkdtX34gHF9sPFL) | [M\-22](https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw), [Kiara Nelson](https://open.spotify.com/artist/1OtLLpkbo3xLGlPUQV4YHa) | [After Hours](https://open.spotify.com/album/1LD7wfM8EYjricnmu1EpWQ) | 2:44 | 2021-07-09 | 2022-05-11 |
+| [Afters](https://open.spotify.com/track/3zBgyblLVca62srEQa1RPC) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Afters](https://open.spotify.com/album/1ijY6TU6pZ8AtvwnWnLip1) | 2:04 | 2025-08-14 |  |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-09-11 | 2024-08-03 |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-06-14 |  |
 | [All Day And Night](https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:49 | 2021-07-09 | 2022-05-03 |
@@ -233,7 +234,7 @@
 | [If You Let Me](https://open.spotify.com/track/0RsViKNsOgDim3FeU2smxX) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [If You Let Me](https://open.spotify.com/album/2EiPW2PhjYzXtq3EikOg96) | 2:37 | 2025-08-04 |  |
 | [If You Wanna](https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [If You Wanna](https://open.spotify.com/album/7yicRngbUo5uEPuCK2WpRy) | 3:00 | 2021-07-09 | 2022-05-11 |
 | [In My Room](https://open.spotify.com/track/5Yqqm8RJ5Rm7FDAv3g1obU) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [In My Room](https://open.spotify.com/album/4EslqDlOgXkIhbEQHHjl3g) | 2:39 | 2025-05-08 | 2025-07-20 |
-| [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 | 2025-05-08 |  |
+| [Indestructible](https://open.spotify.com/track/4SBuL5T5CGhl3k9w7PLf8a) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Indestructible](https://open.spotify.com/album/11azJx0sq9HvxhC47bJRQ7) | 2:40 | 2025-05-08 | 2025-08-27 |
 | [It Gets Better \- Forever Mix](https://open.spotify.com/track/1e2n2qovOIYRJZZm875RHo) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [It Gets Better \(Forever Mix\)](https://open.spotify.com/album/1nQ8tCFXhFZ8RXJbqTPplO) | 4:12 | 2025-05-08 |  |
 | [It's A Killa](https://open.spotify.com/track/2cAYjs1WvosMFadzTDmmzD) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [It's A Killa](https://open.spotify.com/album/1ogCIMBO0ju1EP18pir9Tt) | 3:20 | 2022-05-10 | 2024-06-14 |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2024-06-14 |  |

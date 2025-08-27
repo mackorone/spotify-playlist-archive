@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-492 songs - 1 day 7 hr 17 min
+493 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 | 2023-06-09 | 2024-04-19 |
 | [Get Back Again](https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Get Back Again](https://open.spotify.com/album/6JbOujEXT2WHe21VJhS7Z9) | 4:10 | 2024-06-21 |  |
 | [getting over you](https://open.spotify.com/track/5rhdJxTqcyKOVifBh59TLK) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [clean hands dirty water](https://open.spotify.com/album/2FUHjr1aci78MwzBTsLM91) | 3:07 | 2024-05-17 | 2025-08-08 |
-| [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 | 2024-06-21 |  |
+| [give me one more night](https://open.spotify.com/track/07IHD3tqFjJ7ZqBf0YytJZ) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [if this is it..\. \- E.P.](https://open.spotify.com/album/7kZvuaNfHeDkuUEBBbcQXJ) | 3:22 | 2024-06-21 | 2025-08-27 |
 | [glhf<3](https://open.spotify.com/track/55SQgo2TTd0cjiWGzY2Q9A) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [glhf<3](https://open.spotify.com/album/1JzWf2Fd4ZhFeWsEFUkClh) | 2:56 | 2024-07-19 |  |
 | [Glory Days](https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:14 | 2022-09-10 | 2022-09-15 |
 | [Go Find Yourself or Whatever](https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loneliest Time](https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ) | 4:44 | 2023-06-28 | 2023-08-26 |
@@ -366,6 +366,7 @@
 | [Sleeping Sickness](https://open.spotify.com/track/4psyBFNYRPKIfLbo6ecStY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/0zS5ngmIaTbvNL1PnM0D9f) | 4:07 | 2022-05-02 | 2022-07-28 |
 | [Sleeping Sickness](https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 4:08 | 2022-05-02 | 2023-03-10 |
 | [Sleeping Sickness](https://open.spotify.com/track/5y2H3YMH4BcIVMYaqr7NPB) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love](https://open.spotify.com/album/2GQBFqddL3YTmdNmt8Su0r) | 4:08 | 2022-09-13 | 2024-04-19 |
+| [Slow Down](https://open.spotify.com/track/1c756pSFp2qAACGZx7oNz4) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Eye of the Storm](https://open.spotify.com/album/77VQ2I9lStc8xdvLCra1RE) | 3:41 | 2025-08-21 |  |
 | [Smile & Wave](https://open.spotify.com/track/7MSyM30ogofEgnXT4Bv6nv) | [Headstones](https://open.spotify.com/artist/3yfNNHn865Z5J05WhWLa00) | [Smile And Wave](https://open.spotify.com/album/3Om67mhzyElGs4kUfwmM13) | 4:07 | 2022-05-02 | 2022-07-29 |
 | [So Far Gone](https://open.spotify.com/track/0A3pqTKOrKsJwZe6mlYhK7) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Outta Sight](https://open.spotify.com/album/7bTPEsKhpCQbM36uZLA40j) | 3:43 | 2023-10-06 | 2023-10-14 |
 | [So Gently We Go](https://open.spotify.com/track/4JVVfuSEJLPzmLiWlw8oo5) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Dig](https://open.spotify.com/album/0nUW7lioZIQNMXlsXjaOxy) | 7:04 | 2022-05-02 | 2022-07-25 |

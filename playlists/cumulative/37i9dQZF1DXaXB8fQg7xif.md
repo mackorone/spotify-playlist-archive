@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,255 songs - 2 day 19 hr 11 min
+1,256 songs - 2 day 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Castles In The Sky](https://open.spotify.com/track/4xZax8srPgsXV2mpMerqEk) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG) | [Castles In The Sky](https://open.spotify.com/album/3TolDOsMadcVP94ucEJEqU) | 3:43 | 2020-12-05 | 2021-12-09 |
 | [Catania](https://open.spotify.com/track/5t8ya2Qx7Xc6bG53piXMYY) | [Södermalm](https://open.spotify.com/artist/0oNBRfSsZBHcgFGcWaVr0R) | [Catania](https://open.spotify.com/album/3PO7P1e9CiJlzKBCqL9pg3) | 3:40 | 2020-07-01 | 2021-10-12 |
 | [Catch My Love](https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [MOYA](https://open.spotify.com/artist/7EyM0gQyMeaeQzslOFZaCq) | [Catch My Love](https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs) | 2:28 | 2021-11-19 | 2022-07-29 |
-| [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-18 |  |
+| [CAVE \(with Tove Lo\)](https://open.spotify.com/track/2kZ0cv0J6lRQxep2nA3Ilm) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [CAVE \(with Tove Lo\)](https://open.spotify.com/album/5fgi2q4lebowq1bWTV0YRY) | 3:00 | 2024-10-18 | 2025-08-27 |
 | [Cha Cha Cha \- Alan Walker Remix](https://open.spotify.com/track/7wnrrEdwxQWZsDjW7rGZZc) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Cha Cha Cha \(Alan Walker Remix\)](https://open.spotify.com/album/130t4RQBSL7wRJC2JGTFNP) | 2:28 | 2023-06-09 | 2023-09-09 |
 | [Chameleon](https://open.spotify.com/track/6400BZ7REh8DshcZKU7Pfp) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Chameleon](https://open.spotify.com/album/6vdxUCoudeeMJ8dv0iXA2S) | 3:18 | 2020-05-22\* | 2020-09-20 |
 | [Chance](https://open.spotify.com/track/4oVp2A9Ud4hV27Kr5bByCQ) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp) | [Chance](https://open.spotify.com/album/0MFfVEtQD82fGQCpc4lvel) | 3:26 | 2020-12-12 | 2021-11-20 |
@@ -215,6 +215,7 @@
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-07-14 | 2022-07-30 |
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-24 |  |
 | [Cola](https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Cola](https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi) | 3:43 | 2020-05-22\* | 2021-12-21 |
+| [Cola \- ARTBAT Remix](https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Cola \(ARTBAT Remix\)](https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ) | 3:08 | 2025-08-22 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2021-08-31 |  |
 | [COLLECT THE COMMAS](https://open.spotify.com/track/5e3NwBC0E6xjX9c1Uc8RHy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [COLLECT THE COMMAS](https://open.spotify.com/album/6AVl6czEyN0v5GRaeCr4WY) | 3:41 | 2024-10-04 | 2025-06-01 |
 | [Colourblind](https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i) | [Jess Bays](https://open.spotify.com/artist/5xEJ7FQOtIUMLdnKyZrvPB), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Colourblind](https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy) | 3:05 | 2023-03-31 | 2023-08-13 |

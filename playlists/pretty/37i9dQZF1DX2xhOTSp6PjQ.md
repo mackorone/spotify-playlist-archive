@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover:  <a href="https://open.spotify.com/artist/3aznFYhXZNLiZYfF2nIt6K?si=yBMDlGZ\-RnaWxyvWgg6krg">Umafikizolo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,193 likes - 80 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,363 likes - 80 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

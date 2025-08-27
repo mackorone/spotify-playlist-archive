@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > Get ready for Notting Hill Carnival 2025\. The vibes start here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,096 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,218 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 9 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 |
 | 10 | [Hit & Run \(feat\. Masicka & Di Genius\)](https://open.spotify.com/track/0ZozwNxlrIRfBAhAibtM4M) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Di Genius](https://open.spotify.com/artist/08erObvNX7rs7d4pbuaRCQ) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:49 |
 | 11 | [So Mi Like It](https://open.spotify.com/track/6rgSSesTJGyjQuvx06l3jU) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [10](https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP) | 2:34 |
-| 12 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
-| 13 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
+| 12 | [Whine & Kotch](https://open.spotify.com/track/5o5yQsdZblzaqzgBFDVJTv) | [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Whine & Kotch](https://open.spotify.com/album/6rWFf1oVidy2nKpf1w53bQ) | 3:37 |
+| 13 | [Turn Me On](https://open.spotify.com/track/0RmXtDH1cBMGImRrmn5xL6) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [Turn Me On \(Online Music\)](https://open.spotify.com/album/4SxJ71noA4wcd03JfJVkKT) | 3:12 |
 | 14 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |
 | 15 | [The Greatest Bend Over \(Take It Easy\)](https://open.spotify.com/track/5eCp47PfcZy61mDNdCZz1X) | [Full Blown](https://open.spotify.com/artist/3zbOZ8HVaeogc99IuaBinC), [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [The Greatest Bend Over \(Take It Easy\)](https://open.spotify.com/album/2FTBVtk2epsaWph60TJBPL) | 2:50 |
 | 16 | [Bruk off Yuh Back](https://open.spotify.com/track/2O8oFfQOzt6Q9G69XBQdIG) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk off Yuh Back](https://open.spotify.com/album/1yDKRNLbUWFF68muRwElC0) | 2:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 45 | [Body Tea](https://open.spotify.com/track/4XKImaOoG0LNPktXJEyGNA) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW), [Dan Sky](https://open.spotify.com/artist/2G5UBBE85rjbKweC4P24ad) | [Body Tea](https://open.spotify.com/album/3R7DhMn2171sTQ4D4R4Y5T) | 2:57 |
 | 46 | [What's Up \(Big Buddy\)](https://open.spotify.com/track/2Zqi4KB2Wl0Luxwwx4qEM7) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [What's Up \(Big Buddy\)](https://open.spotify.com/album/2Mee0OzBr15EoIr0CYuwwh) | 2:21 |
 | 47 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
-| 48 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 |
-| 49 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
+| 48 | [Shh](https://open.spotify.com/track/23Csr5XN6KE16e0IiKCY7s) | [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Free Hit Riddim](https://open.spotify.com/album/55cIRop9TAk7no2wv45rTB) | 3:00 |
+| 49 | [All Over the World \(with Protoje\)](https://open.spotify.com/track/24l2QCibtKyZa5ZoUg6tcw) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [All Over the World \(with Protoje\)](https://open.spotify.com/album/4Bw9pphblZoZOKwpTIJFjT) | 2:51 |
 | 50 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
 
 Snapshot ID: `AAAAAFQdJOtW6328uuAosj6k7SrgnCwo`

@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Marie Vaunt
 
-299 songs - 21 hr 14 min
+300 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beat Back](https://open.spotify.com/track/09p4eclqTGbBzstGGAp6EC) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Beat Back](https://open.spotify.com/album/5ImWcsae8kUiIYZ3eN4uHt) | 2:29 | 2025-05-16 | 2025-08-08 |
 | [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 |  |
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
+| [Berserk](https://open.spotify.com/track/3zz6aAkhSdYLZCO8CLG2an) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Berserk](https://open.spotify.com/album/7F6zcr0bT4lMVblKSd3sUo) | 3:15 | 2025-08-22 |  |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 | 2024-09-27 |
 | [Black Hole](https://open.spotify.com/track/4zHpgtUnq6ukjCBoB3bsuP) | [Anxhela](https://open.spotify.com/artist/2GqUrgjv3nl7JBCJ26ky5n) | [Black Hole](https://open.spotify.com/album/0fEQO1ruegqY6Mq5Wsa1mN) | 6:20 | 2024-12-13 |  |
 | [BLOW IT UP](https://open.spotify.com/track/3vqRYeWGfQli1HlRKgsrSA) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [BLOW IT UP](https://open.spotify.com/album/5hwnKzCJXnIFdvbrziT6si) | 2:38 | 2025-06-20 |  |
@@ -99,7 +100,7 @@
 | [Energy](https://open.spotify.com/track/5ZRJhwwzvgK5iDGtxFRECM) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Stisema](https://open.spotify.com/artist/3zXtPNCNWggzI962k6qxF1), [Lulu Voxx](https://open.spotify.com/artist/1keBRPzdIKuZBH5z074dBu) | [Energy](https://open.spotify.com/album/7tZwMkGiFKw9ZZWijnaV2O) | 2:48 | 2025-03-19 |  |
 | [Enigma](https://open.spotify.com/track/7aJjuyJAZvQpk24yZc65Ok) | [Isabelle Beaucamp](https://open.spotify.com/artist/4RrxhOmXj9bjyb5kXwt3Pz) | [Enigma](https://open.spotify.com/album/2hgRK4yXgaj2PYu3THxc7q) | 4:55 | 2025-04-04 |  |
 | [ESSEM!NJO](https://open.spotify.com/track/4sm8GdxepC7g9P9PKPgf3t) | [Noneoftheabove](https://open.spotify.com/artist/3O02ateaX0BgRKwB3D53Oa), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [TAR VARIOUS ARTISTS](https://open.spotify.com/album/1EcILTSariejjul2lWn1kl) | 6:30 | 2024-04-09 | 2024-04-19 |
-| [Fake Like That](https://open.spotify.com/track/1us1kcmAd3FUPJuMtEA57G) | [Azulo](https://open.spotify.com/artist/1T4SBodPtb9Wy2uLUEIF0I), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fake Like That](https://open.spotify.com/album/2GBtW5IAow0eNJVeCw5inu) | 3:44 | 2024-04-09 |  |
+| [Fake Like That](https://open.spotify.com/track/1us1kcmAd3FUPJuMtEA57G) | [Azulo](https://open.spotify.com/artist/1T4SBodPtb9Wy2uLUEIF0I), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Fake Like That](https://open.spotify.com/album/2GBtW5IAow0eNJVeCw5inu) | 3:44 | 2024-04-09 | 2025-08-27 |
 | [Fall Down](https://open.spotify.com/track/3Gh49ji5wft1WtdQqfEHrj) | [Frankyeffe](https://open.spotify.com/artist/1YeRLPqVEJIpa6jstdiD0O), [MOTVS](https://open.spotify.com/artist/11jBSslmTEkEGXxpFfy91F) | [Fall Down](https://open.spotify.com/album/4HvRF2t748T2rcwMftPFoO) | 2:52 | 2024-09-27 | 2024-11-07 |
 | [Fall In Love](https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Fall In Love](https://open.spotify.com/album/4S5m723e0p5GYuRWMeo8GY) | 4:04 | 2024-04-09 | 2025-02-10 |
 | [Fcking Vibe](https://open.spotify.com/track/35Acdjh9WTxS1hBpOz1nWf) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Fcking Vibe](https://open.spotify.com/album/77VfLClb68k3fMXtsnBTBm) | 2:53 | 2024-10-24 | 2024-12-13 |

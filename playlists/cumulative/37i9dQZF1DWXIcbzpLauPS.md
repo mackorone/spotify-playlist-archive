@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: The Devil Wears Prada
 
-1,308 songs - 3 day 8 hr 6 min
+1,309 songs - 3 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,7 +386,7 @@
 | [Dying To Let You Go](https://open.spotify.com/track/6f1IhEc4JMoy6uQASbqTg2) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Second Shadow](https://open.spotify.com/album/1cdRg39GmeTgmrVZJphhKP) | 3:00 | 2024-11-22 | 2024-12-19 |
 | [DYSTOPIA](https://open.spotify.com/track/7jJ5zfsqNO1o85PlepGLxm) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa) | [DYSTOPIA](https://open.spotify.com/album/2oJJxFn3IOAlbvdX6cS2BH) | 4:37 | 2024-11-08 |  |
 | [Earn It](https://open.spotify.com/track/1dEDi8paa8WJCnt42Rkb8W) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Earn It](https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s) | 3:06 | 2023-07-21 | 2024-02-10 |
-| [EARN YOUR FLOWERS](https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m) | 3:04 | 2025-05-09 |  |
+| [EARN YOUR FLOWERS](https://open.spotify.com/track/7phSReNlStY9XckxYd7ZnB) | [Monument Of A Memory](https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ) | [CYNICAL SAVIOR](https://open.spotify.com/album/3HT9dHaFwzou0WDz0dn98m) | 3:04 | 2025-05-09 | 2025-08-27 |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2022-09-03 |
 | [Earthless](https://open.spotify.com/track/6wfsGSh10ij43EgcEXjpZK) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Earthless](https://open.spotify.com/album/3AfOJfWXUeMc9QUl1vtPpQ) | 4:57 | 2022-07-13 | 2022-07-20 |
 | [Earthquake](https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Earthquake](https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1) | 3:49 | 2021-12-17 | 2022-01-08 |
@@ -522,6 +522,7 @@
 | [Golden Scars](https://open.spotify.com/track/2KyAab4ZrEARQsfl6QZLut) | [Outmayr](https://open.spotify.com/artist/1oazqYNFCBucvbVitAHB4C) | [Golden Scars](https://open.spotify.com/album/5y8JZW3y2uyAhAxneSJfwX) | 3:57 | 2022-07-13 | 2022-07-17 |
 | [Goliath](https://open.spotify.com/track/55Ii97UbyIZUnetbkDGqEi) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Goliath](https://open.spotify.com/album/0gwrB0QxrhKb2U5Jr1PF2i) | 5:09 | 2024-11-22 | 2024-12-19 |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-14 | 2025-03-31 |
+| [Gone Too Soon](https://open.spotify.com/track/1nJSbkUStfQgIuArPvjoiV) | [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Gone Too Soon](https://open.spotify.com/album/1Cl49JgMu0nn4IO4N8KyBy) | 3:45 | 2025-08-22 |  |
 | [Good People](https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Peter Rono](https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j) | [Empty Heaven](https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf) | 2:51 | 2022-07-13 | 2022-07-19 |
 | [GOODBYE](https://open.spotify.com/track/33UpuHGggCndb1SLEQwgNw) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Devon Duarte](https://open.spotify.com/artist/5HgWYtdIGEFeNSFWpxqQl5) | [GOODBYE](https://open.spotify.com/album/7B6d0sG6UgKyhHwsHQF8LC) | 3:12 | 2022-07-13 | 2022-07-22 |
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-03-31 | 2025-01-18 |

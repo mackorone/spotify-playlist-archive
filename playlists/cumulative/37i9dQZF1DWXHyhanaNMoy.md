@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Architrackz & JayKoppig ✨
 
-1,473 songs - 2 day 17 hr 42 min
+1,475 songs - 2 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,8 @@
 | [Celebrate life](https://open.spotify.com/track/0vNfTAirPF0M1hmGQoomoo) | [Demmaa & Javé](https://open.spotify.com/artist/44j3SrDZgV0BhbXNaDjHj6) | [Celebrate life](https://open.spotify.com/album/6ObkxETtSitsiLHqQIBCVh) | 3:20 | 2024-02-29 | 2024-03-22 |
 | [Chamo](https://open.spotify.com/track/3A3Wzv53cuG2bk75R5NDkF) | [Eli Demillion](https://open.spotify.com/artist/2rBaw5BHvM2ZNTydsl5vsc), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Marver](https://open.spotify.com/artist/7niJWSs6JBoxU1TYnZr9Uk) | [Chamo](https://open.spotify.com/album/7Gw0OLF8UEJ194o00QNFTd) | 2:12 | 2023-09-07 | 2023-09-29 |
 | [Champagnepapi](https://open.spotify.com/track/6CxRNe0C4QW18wzvAcOxkM) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg) | [Champagnepapi](https://open.spotify.com/album/544LI0WlNrtjbeOqYJuCiT) | 2:29 | 2023-03-09 | 2023-03-25 |
-| [CHAMPION FLOW](https://open.spotify.com/track/6ATbwycCQuR1rPN4Lsnrhk) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [CHAMPION FLOW](https://open.spotify.com/album/1tyC2BlCMz0hr8oJIbR1Lj) | 2:44 | 2025-08-04 |  |
+| [CHAMPION FLOW](https://open.spotify.com/track/5dsUFwWl5U8336RqCX0YRX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:40 | 2025-08-26 |  |
+| [CHAMPION FLOW](https://open.spotify.com/track/6ATbwycCQuR1rPN4Lsnrhk) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [CHAMPION FLOW](https://open.spotify.com/album/1tyC2BlCMz0hr8oJIbR1Lj) | 2:44 | 2025-08-04 | 2025-08-27 |
 | [Champions League](https://open.spotify.com/track/30e8Ji7u4fAFT8XtW2Kiu9) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Champions League](https://open.spotify.com/album/0GJlMARczaI0QeQAshY5EN) | 2:26 | 2025-04-03 | 2025-05-30 |
 | [Chan Chan](https://open.spotify.com/track/7iZYncMhI8CqagRHRYHiRy) | [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [Team Rush Hour](https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP), [Ori](https://open.spotify.com/artist/4yAg1949MQjAQD087hLdt1) | [Chan Chan](https://open.spotify.com/album/1VK803L3dAZiA00JjijuDG) | 2:32 | 2022-12-08 | 2023-01-20 |
 | [Charger](https://open.spotify.com/track/1mvzvLW9nFujgS2VNKnToJ) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB) | [Franchement !](https://open.spotify.com/album/5q9kubDULXW158U4tk7eXD) | 2:35 | 2025-08-14 |  |
@@ -614,7 +615,8 @@
 | [IN DIE BAK](https://open.spotify.com/track/6nJm5nYyx40MN9mdNJOI9g) | [Chip Charlez](https://open.spotify.com/artist/2gnD9CeLx3IlYO2zz0DEqH) | [IN DIE BAK](https://open.spotify.com/album/7amaiETFhArUc2iRhpEk70) | 1:53 | 2024-05-02 | 2024-05-24 |
 | [In Een Model](https://open.spotify.com/track/4gn2FQ04eSJeVwjo2AFFgV) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [In Een Model](https://open.spotify.com/album/3jpsjgmcPZNMLuOQoDhPhj) | 2:30 | 2023-08-03 | 2023-09-01 |
 | [In Je Mind](https://open.spotify.com/track/6LmmErWZWg7gIJp0Rfe912) | [Dreyh](https://open.spotify.com/artist/2UsHIQht15KwZwz0UzxLuF), [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go), [Jonna Rincon](https://open.spotify.com/artist/6o3BlWTeK4EKUyByo35y6F) | [In Je Mind](https://open.spotify.com/album/4w00Agk91HQckztbw50HSw) | 2:13 | 2025-03-13 | 2025-03-28 |
-| [in love with us](https://open.spotify.com/track/2oqn2SM8KnJeYIQMTboKAX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/0IlLTDo99PpMqQKMnvLN3f) | 2:40 | 2025-07-17 |  |
+| [in love with us](https://open.spotify.com/track/2oqn2SM8KnJeYIQMTboKAX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [in love with us](https://open.spotify.com/album/0IlLTDo99PpMqQKMnvLN3f) | 2:40 | 2025-07-17 | 2025-08-27 |
+| [in love with us](https://open.spotify.com/track/4A4yZT3xCHxwgkwYZyf0z4) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:41 | 2025-08-26 |  |
 | [In M'n Mind](https://open.spotify.com/track/0U4aE9KIaHW1DgzlxWfIkR) | [Dani Deaux](https://open.spotify.com/artist/7kCYdycnUmRJJX8cllnq9H), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [In M'n Mind](https://open.spotify.com/album/39MT1sBbQoTZQR7QZlN1f5) | 2:27 | 2022-07-14 | 2022-08-26 |
 | [In Mijn Hoofd](https://open.spotify.com/track/2mYRIubhyxtSDtQevdyKiT) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ) | [Noncha De EP](https://open.spotify.com/album/0pHgtWrTTVXWOkJT2qCVao) | 2:24 | 2022-12-15 | 2023-01-10 |
 | [IN MY BED](https://open.spotify.com/track/0T89DfrygjPoXr6ReujDHj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IN MY BED](https://open.spotify.com/album/3FgnEyop6crJ7ZJ4n82txz) | 2:58 | 2024-09-26 | 2024-11-08 |

@@ -1,28 +1,44 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXJ8Jmz0Vwik>Walls</a>, <a href=spotify:playlist:37i9dQZF1EIZwgv15ZOqpq>unshackled</a>, <a href=spotify:playlist:37i9dQZF1EIX2QXhDkCBLK>MARINA</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVgJMU3kfwWs>aespa</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIUEGce6tWWEi>Moby</a> and more",
   "num_followers": 0,
   "original_name": "Pop Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACwuXbdcSMqyXST03G++DaO",
+  "snapshot_id": "AAAAAACHlxxFRR5gMEB5JIrQKl48k9kz",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Mi nena",
-        "url": "https://open.spotify.com/album/0y0uxUtH57bWINrULxDZdu"
+        "name": "Il corpo umano VOL. 1",
+        "url": "https://open.spotify.com/album/5wmEx3LNBWO5ayUKVyoV0a"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 164193,
-      "name": "Mi nena",
-      "url": "https://open.spotify.com/track/2VdSwHCNfiQKK9ZUaPNRSN"
+      "duration_ms": 240572,
+      "name": "Un mondo a parte",
+      "url": "https://open.spotify.com/track/1feP5zBuIOG0IXSTzsfyPh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/3zkAWa490tzBYIEEG7heay"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 236903,
+      "name": "Extra\u00f1o",
+      "url": "https://open.spotify.com/track/5UUIqKFpTq2Ri3YvFcof5c"
     },
     {
       "added_at": null,
@@ -39,22 +55,6 @@
       "duration_ms": 58305,
       "name": "Lonely Lonely - Nightcore",
       "url": "https://open.spotify.com/track/5eRZ7SwM9l5M4CXLdEAT6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Family Jewels",
-        "url": "https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 215960,
-      "name": "Hermit the Frog",
-      "url": "https://open.spotify.com/track/4Zcz6saEkOII3PlXd9gN3o"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1199348,
+  "num_followers": 1200195,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -1219,6 +1219,34 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "The Best Of Suzanne Vega - Tried And True",
+        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
+        },
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        },
+        {
+          "name": "Neal Slateford",
+          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
+        },
+        {
+          "name": "Nick Batt",
+          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Tom's Diner - 7\" Version",
+      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -1263,34 +1291,6 @@
       "duration_ms": 260973,
       "name": "Think About the Way",
       "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "The Best Of Suzanne Vega - Tried And True",
-        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
-      },
-      "artists": [
-        {
-          "name": "DNA",
-          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
-        },
-        {
-          "name": "Suzanne Vega",
-          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
-        },
-        {
-          "name": "Neal Slateford",
-          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
-        },
-        {
-          "name": "Nick Batt",
-          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Tom's Diner - 7\" Version",
-      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 290493,
       "name": "Hey Boy Hey Girl",
       "url": "https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 252306,
       "name": "I Wish - Radio Edit",
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Back For Good",
-        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 230266,
-      "name": "You're My Heart, You're My Soul '98",
-      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Back For Good",
+        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 230266,
+      "name": "You're My Heart, You're My Soul '98",
+      "url": "https://open.spotify.com/track/1bNYIF1HZlWJe8ZKmTIFfT"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Music For The People",
         "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Homework",
-        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
       },
       "artists": [
         {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
         }
       ],
-      "duration_ms": 328680,
-      "name": "Da Funk",
-      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+      "duration_ms": 252133,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1723,6 +1707,22 @@
       "duration_ms": 200440,
       "name": "I Want You Back - Radio Edit",
       "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
         }
       ],
-      "duration_ms": 269973,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
+      "duration_ms": 219466,
+      "name": "We've Got It Goin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H"
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 219466,
-      "name": "We've Got It Goin' On - Radio Edit",
-      "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"
+      "duration_ms": 269973,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/3XG801WWhqC753dekEBkMt"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Feel the heat of the night",
-        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
-      },
-      "artists": [
-        {
-          "name": "Masterboy",
-          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Feel the heat of the night - Radio Edit",
-      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 216626,
       "name": "Lollipop (Candyman)",
       "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+      },
+      "artists": [
+        {
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "In Stereo",
-        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
-      },
-      "artists": [
-        {
-          "name": "Bomfunk MC's",
-          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "Freestyler",
-      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 269706,
       "name": "Love Is All Around",
       "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "In Stereo",
+        "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
+      },
+      "artists": [
+        {
+          "name": "Bomfunk MC's",
+          "url": "https://open.spotify.com/artist/0NeC6ploeJUq8oDwYQjNPS"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Freestyler",
+      "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
     },
     {
       "added_at": "2024-07-12 16:20:49",

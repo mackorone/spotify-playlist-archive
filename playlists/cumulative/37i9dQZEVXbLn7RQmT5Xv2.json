@@ -4692,7 +4692,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-25",
+      "date_removed": null,
       "duration_ms": 186233,
       "name": "Etabelna",
       "url": "https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr"
@@ -5662,6 +5662,24 @@
     {
       "album": {
         "name": "Yaah",
+        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Ghebet El Habayeb",
+      "url": "https://open.spotify.com/track/12PmfaF3ubVoSbhSH11tSk"
+    },
+    {
+      "album": {
+        "name": "Yaah",
         "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
       },
       "artists": [
@@ -5672,7 +5690,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 243500,
       "name": "Ghebet El Habayeb",
       "url": "https://open.spotify.com/track/6EBKXT2EYYX4f0hqJCuDT0"
@@ -8750,10 +8768,28 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 212112,
       "name": "Makrehtosh",
       "url": "https://open.spotify.com/track/01O9Ijz8tcyllso5VJ6w75"
+    },
+    {
+      "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/2oqZuAGuCqR2aYrfrUBXzR"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212112,
+      "name": "Makrehtosh",
+      "url": "https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g"
     },
     {
       "album": {
@@ -12616,10 +12652,28 @@
       ],
       "date_added": "2025-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 204272,
       "name": "Shams W Hawa",
       "url": "https://open.spotify.com/track/5KUBjmdPpamovUuXEit9z2"
+    },
+    {
+      "album": {
+        "name": "Qarar Shakhsy",
+        "url": "https://open.spotify.com/album/52iql3iDoRyGH1tBQ2dgkP"
+      },
+      "artists": [
+        {
+          "name": "Hamza Namira",
+          "url": "https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204272,
+      "name": "Shams W Hawa",
+      "url": "https://open.spotify.com/track/5i6s4j2uZCnFXrZXIKsYbX"
     },
     {
       "album": {
@@ -18958,7 +19012,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 204817,
       "name": "\u0639\u0641\u0627\u0631\u064a\u062a \u0627\u0644\u0623\u0633\u0641\u0644\u062a",
       "url": "https://open.spotify.com/track/02G9n2WgsNd2j7CqTmcDR2"

@@ -59293,6 +59293,24 @@
     },
     {
       "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
+    },
+    {
+      "album": {
         "name": "Town I Called My Home",
         "url": "https://open.spotify.com/album/0I0oknA0jgSUFwYDrcZNhz"
       },

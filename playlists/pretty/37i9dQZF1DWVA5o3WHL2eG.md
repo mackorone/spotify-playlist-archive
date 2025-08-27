@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Blush Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,156 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,155 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 13 | [Ottić](https://open.spotify.com/track/3uGOm9FHDf9pk8ashpwp4P) | [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [Ottić](https://open.spotify.com/album/2jqelSP8ryG4KfZEuvuiIG) | 2:06 |
 | 14 | [Ich nehm die Sonne mit](https://open.spotify.com/track/1gx7oxnWR9Aiw9CiMh2idj) | [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Ich nehm die Sonne mit](https://open.spotify.com/album/4HBIImyViKdxKae8JzvlUQ) | 2:50 |
 | 15 | [Begging](https://open.spotify.com/track/6OyVm6NMV3aMNGiI1yn2iI) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Begging](https://open.spotify.com/album/79sVfNpFmrcJyZdOS9jnMC) | 3:02 |
-| 16 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
-| 17 | [Königin von Deutschland](https://open.spotify.com/track/1LV8CBywlpM080hUT3GlsJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Königin von Deutschland](https://open.spotify.com/album/2hR4SYvRt87E2HAggT9ZQY) | 2:21 |
+| 16 | [Königin von Deutschland](https://open.spotify.com/track/1LV8CBywlpM080hUT3GlsJ) | [Deine Cousine](https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y) | [Königin von Deutschland](https://open.spotify.com/album/2hR4SYvRt87E2HAggT9ZQY) | 2:21 |
+| 17 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
 | 18 | [Kopf gegen die Wand](https://open.spotify.com/track/11FgjKX6bMIKDg3lN5la0f) | [Lara Hulo](https://open.spotify.com/artist/7uIuNffVj9hfFYnh8r27P0) | [Kopf gegen die Wand](https://open.spotify.com/album/2XocjA7TpKr6P2pLzU6Tz3) | 3:07 |
 | 19 | [lieder für mich](https://open.spotify.com/track/3LNj4hrELd4NcX1C7NpaLB) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [lieder für mich](https://open.spotify.com/album/6rdmFRBVdS5wxFCgXuns2k) | 3:28 |
 | 20 | [Million de Mois](https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Million de Mois](https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D) | 2:57 |
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [So nah](https://open.spotify.com/track/3jiTUSjtdSekmfgZYkGjKl) | [Die P](https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ) | [So nah](https://open.spotify.com/album/0agCKmXl2ELu2n6a3sRMhg) | 3:26 |
 | 30 | [Flowers](https://open.spotify.com/track/4Pg6FADKibZHJmEnBRViOp) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [Flowers](https://open.spotify.com/album/6dCQafnwoCpmMmtFZ2QAPD) | 3:18 |
 | 31 | [Spaced Out](https://open.spotify.com/track/7vYmUJGmiTVsAT01XgomoR) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv) | [Spaced Out](https://open.spotify.com/album/6s2p8xSPITwt9PqCNb4A8I) | 3:57 |
-| 32 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
-| 33 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 |
+| 32 | [ten years time](https://open.spotify.com/track/3zwOqHFnMOFP5BWZAL4Cxn) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [ten years time](https://open.spotify.com/album/2KS00P0TaswDOaTBNc6KVj) | 2:59 |
+| 33 | [blonded radio](https://open.spotify.com/track/3IOmPZ1vcncCHZKUTxKVFX) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [blonded radio](https://open.spotify.com/album/1Ad5Lvdxh1Zt68BZZksIIp) | 2:47 |
 | 34 | [ich glaub ich](https://open.spotify.com/track/1mVADHCWdiSsCQdtTlgppI) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [ich glaub ich](https://open.spotify.com/album/4the8S6XlsLrZMkgGzkLMN) | 2:46 |
-| 35 | [Bitter Pill](https://open.spotify.com/track/4mWzxSV8E5QkaH2y97jBCy) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Missed Connections Collection](https://open.spotify.com/album/3VbZpY0kD7Ghx81QS8XMkC) | 2:45 |
-| 36 | [Blahblahblahblahblahblahblah](https://open.spotify.com/track/2Wo588JNslT1vc43DHbB0l) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Blahblahblahblahblahblahblah](https://open.spotify.com/album/15Tg9w7bqaa7Va72BbyMW7) | 2:21 |
+| 35 | [Blahblahblahblahblahblahblah](https://open.spotify.com/track/2Wo588JNslT1vc43DHbB0l) | [Hanna Rautzenberg](https://open.spotify.com/artist/4KsVHZ3XBKV7bIXF8x8q3y) | [Blahblahblahblahblahblahblah](https://open.spotify.com/album/15Tg9w7bqaa7Va72BbyMW7) | 2:21 |
+| 36 | [Bitter Pill](https://open.spotify.com/track/4mWzxSV8E5QkaH2y97jBCy) | [Laura Nahr](https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV) | [Missed Connections Collection](https://open.spotify.com/album/3VbZpY0kD7Ghx81QS8XMkC) | 2:45 |
 | 37 | [wie wir uns verlieren](https://open.spotify.com/track/44q6ciob0fFJJFl87lmchb) | [fiora](https://open.spotify.com/artist/757EH7oogI3l10jrOicVzE) | [wie wir uns verlieren](https://open.spotify.com/album/1AvqTJjVeH5jEd4V89efQl) | 2:49 |
 | 38 | [Kommst du vorbei](https://open.spotify.com/track/1S8DPjb8gCjDxU0jrXMjPb) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [Kommst du vorbei](https://open.spotify.com/album/3QhiCdOkc6bFLKuwcul2VU) | 2:53 |
 | 39 | [An Stichen kratzen](https://open.spotify.com/track/4RpAmNYmY48DcOYYbW5WDs) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [An Stichen kratzen](https://open.spotify.com/album/71wDdteSCY9he9RjSQ7OTH) | 2:06 |

@@ -6,7 +6,7 @@
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AAA9vZlwqcNpkqGb5OGHk8zGaThxgpaQ",
+  "snapshot_id": "AAA90CKqw/ggAFTJAccNwnRcGFgnIs/S",
   "tracks": [
     {
       "added_at": "2025-07-14 09:13:38",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/1lvBVtU6beiq5UzUZRDHfk"
     },
     {
+      "added_at": "2025-06-10 12:08:33",
+      "album": {
+        "name": "6 DE FEBRERO",
+        "url": "https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 175584,
+      "name": "6 DE FEBRERO",
+      "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
+    },
+    {
       "added_at": "2025-06-10 12:09:09",
       "album": {
         "name": "Espresso Macchiato",
@@ -41,20 +57,20 @@
       "url": "https://open.spotify.com/track/4zpNfuWJA3K4d9TS4qnOIB"
     },
     {
-      "added_at": "2025-06-10 12:08:33",
+      "added_at": "2025-07-14 09:13:27",
       "album": {
-        "name": "6 DE FEBRERO",
-        "url": "https://open.spotify.com/album/6sD0JDqmxDkCDs74Jy6wFu"
+        "name": "T\u00e0ndem",
+        "url": "https://open.spotify.com/album/5c4zkjuL3XBfYs04f3czAU"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
         }
       ],
-      "duration_ms": 175584,
-      "name": "6 DE FEBRERO",
-      "url": "https://open.spotify.com/track/2TCUMmklsJTLWHnoU4mSQ4"
+      "duration_ms": 139136,
+      "name": "T\u00e0ndem",
+      "url": "https://open.spotify.com/track/0dMUu2aq0c7H1Axfo41bHZ"
     },
     {
       "added_at": "2025-06-02 10:15:14",
@@ -97,22 +113,6 @@
       "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe"
     },
     {
-      "added_at": "2025-07-14 09:13:27",
-      "album": {
-        "name": "T\u00e0ndem",
-        "url": "https://open.spotify.com/album/5c4zkjuL3XBfYs04f3czAU"
-      },
-      "artists": [
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
-        }
-      ],
-      "duration_ms": 139136,
-      "name": "T\u00e0ndem",
-      "url": "https://open.spotify.com/track/0dMUu2aq0c7H1Axfo41bHZ"
-    },
-    {
       "added_at": "2025-06-02 10:15:49",
       "album": {
         "name": "Estrella",
@@ -133,22 +133,6 @@
       "url": "https://open.spotify.com/track/7C21gNXsV6dKk8fnCenDof"
     },
     {
-      "added_at": "2025-04-22 08:33:51",
-      "album": {
-        "name": "End of the World",
-        "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 250483,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
-    },
-    {
       "added_at": "2025-06-30 08:25:08",
       "album": {
         "name": "DAISY",
@@ -165,6 +149,22 @@
       "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
+      "added_at": "2025-04-22 08:33:51",
+      "album": {
+        "name": "End of the World",
+        "url": "https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 250483,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c"
+    },
+    {
       "added_at": "2025-04-15 14:19:20",
       "album": {
         "name": "Azizam",
@@ -179,26 +179,6 @@
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
-    },
-    {
-      "added_at": "2025-04-07 10:09:58",
-      "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "added_at": "2025-06-30 08:25:21",
@@ -219,6 +199,42 @@
       "duration_ms": 154000,
       "name": "Vitamina de l'amor",
       "url": "https://open.spotify.com/track/3u3w9X0EZe5kn70By9P41Q"
+    },
+    {
+      "added_at": "2025-07-14 09:14:22",
+      "album": {
+        "name": "Manchild",
+        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 213645,
+      "name": "Manchild",
+      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+    },
+    {
+      "added_at": "2025-04-07 10:09:58",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "added_at": "2025-03-30 16:44:42",
@@ -257,20 +273,20 @@
       "url": "https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC"
     },
     {
-      "added_at": "2025-07-14 09:14:22",
+      "added_at": "2025-07-14 09:13:53",
       "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
+        "name": "MOJA1TA",
+        "url": "https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
+      "duration_ms": 144230,
+      "name": "MOJA1TA",
+      "url": "https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM"
     },
     {
       "added_at": "2025-05-19 08:39:53",
@@ -305,20 +321,24 @@
       "url": "https://open.spotify.com/track/6WL39rlC5iLZKwa4BfCmXA"
     },
     {
-      "added_at": "2025-07-14 09:13:53",
+      "added_at": "2025-07-28 10:56:11",
       "album": {
-        "name": "MOJA1TA",
-        "url": "https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D"
+        "name": "QUE HACES",
+        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 144230,
-      "name": "MOJA1TA",
-      "url": "https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM"
+      "duration_ms": 171813,
+      "name": "QUE HACES",
+      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
     },
     {
       "added_at": "2025-05-19 08:39:36",
@@ -361,6 +381,70 @@
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
+      "added_at": "2025-05-26 08:35:38",
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 165746,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    },
+    {
+      "added_at": "2025-07-21 10:04:04",
+      "album": {
+        "name": "Sapphire",
+        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 179082,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+    },
+    {
+      "added_at": "2025-07-14 09:14:39",
+      "album": {
+        "name": "LA PEN\u00daLTIMA",
+        "url": "https://open.spotify.com/album/0tSKYxVFEgEk1nJr6KKKGi"
+      },
+      "artists": [
+        {
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
+        }
+      ],
+      "duration_ms": 172448,
+      "name": "LA PEN\u00daLTIMA",
+      "url": "https://open.spotify.com/track/325EdbgVQeYH0teOJwR4zV"
+    },
+    {
+      "added_at": "2025-07-21 10:03:52",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 188952,
+      "name": "Zombie Lady",
+      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
+    },
+    {
       "added_at": "2025-06-25 12:04:46",
       "album": {
         "name": "Caf\u00e8 pels m\u00e9s cafeteros",
@@ -381,104 +465,20 @@
       "url": "https://open.spotify.com/track/778GQ3Md4lKITSgMPdHU1l"
     },
     {
-      "added_at": "2025-07-28 10:56:11",
+      "added_at": "2025-08-04 10:01:21",
       "album": {
-        "name": "QUE HACES",
-        "url": "https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ"
+        "name": "A Minute...",
+        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 171813,
-      "name": "QUE HACES",
-      "url": "https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5"
-    },
-    {
-      "added_at": "2025-05-26 08:35:38",
-      "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 165746,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
-    },
-    {
-      "added_at": "2025-07-14 09:14:39",
-      "album": {
-        "name": "LA PEN\u00daLTIMA",
-        "url": "https://open.spotify.com/album/0tSKYxVFEgEk1nJr6KKKGi"
-      },
-      "artists": [
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        }
-      ],
-      "duration_ms": 172448,
-      "name": "LA PEN\u00daLTIMA",
-      "url": "https://open.spotify.com/track/325EdbgVQeYH0teOJwR4zV"
-    },
-    {
-      "added_at": "2025-07-21 10:04:04",
-      "album": {
-        "name": "Sapphire",
-        "url": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 179082,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
-    },
-    {
-      "added_at": "2025-07-21 10:03:52",
-      "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 188952,
-      "name": "Zombie Lady",
-      "url": "https://open.spotify.com/track/1fUZ5sHQqV6AMCwV5KtbgV"
-    },
-    {
-      "added_at": "2025-01-26 16:20:04",
-      "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 183685,
-      "name": "NUEVAYoL",
-      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
     },
     {
       "added_at": "2025-03-30 16:44:27",
@@ -501,6 +501,22 @@
       "url": "https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W"
     },
     {
+      "added_at": "2025-01-26 16:20:04",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 183685,
+      "name": "NUEVAYoL",
+      "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
+    },
+    {
       "added_at": "2025-03-02 18:28:21",
       "album": {
         "name": "Abracadabra",
@@ -517,20 +533,20 @@
       "url": "https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI"
     },
     {
-      "added_at": "2025-08-04 10:01:21",
+      "added_at": "2025-07-14 09:14:09",
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+        "name": "Millor amb ell",
+        "url": "https://open.spotify.com/album/3Fy0E5mS1F4FFfRcJyRCCI"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "La Ludwig Band",
+          "url": "https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+      "duration_ms": 211464,
+      "name": "Millor amb ell",
+      "url": "https://open.spotify.com/track/6xHpkXcQ4hvWdtl2qs4Unk"
     },
     {
       "added_at": "2024-11-10 16:19:00",
@@ -553,22 +569,6 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2025-07-14 09:14:09",
-      "album": {
-        "name": "Millor amb ell",
-        "url": "https://open.spotify.com/album/3Fy0E5mS1F4FFfRcJyRCCI"
-      },
-      "artists": [
-        {
-          "name": "La Ludwig Band",
-          "url": "https://open.spotify.com/artist/1hOwyBjBzD71G76KApDEy5"
-        }
-      ],
-      "duration_ms": 211464,
-      "name": "Millor amb ell",
-      "url": "https://open.spotify.com/track/6xHpkXcQ4hvWdtl2qs4Unk"
-    },
-    {
       "added_at": "2025-01-19 16:58:40",
       "album": {
         "name": "Messy",
@@ -583,6 +583,38 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2025-08-18 08:27:12",
+      "album": {
+        "name": "Fruit del Deliri",
+        "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
+      },
+      "artists": [
+        {
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
+        }
+      ],
+      "duration_ms": 172945,
+      "name": "MOLTA TRALLA",
+      "url": "https://open.spotify.com/track/3WqsYnIplEVhnsPp9oUnIf"
+    },
+    {
+      "added_at": "2025-08-11 10:20:55",
+      "album": {
+        "name": "Poquet a Poquet",
+        "url": "https://open.spotify.com/album/48WQLL3k3832YJhs9Bvoj1"
+      },
+      "artists": [
+        {
+          "name": "Flashy Ice Cream",
+          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
+        }
+      ],
+      "duration_ms": 163824,
+      "name": "Poquet a Poquet",
+      "url": "https://open.spotify.com/track/6yoiXEkArH3S2b2fU34hIK"
     },
     {
       "added_at": "2025-03-09 17:15:02",
@@ -617,6 +649,26 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
+      "added_at": "2025-08-11 10:20:42",
+      "album": {
+        "name": "Hot summer night (Oh La La La)",
+        "url": "https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG"
+      },
+      "artists": [
+        {
+          "name": "Smil",
+          "url": "https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI"
+        },
+        {
+          "name": "Just Ben",
+          "url": "https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Hot summer night - Oh La La La",
+      "url": "https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN"
+    },
+    {
       "added_at": "2025-03-24 09:04:00",
       "album": {
         "name": "LA FORTUNA",
@@ -631,22 +683,6 @@
       "duration_ms": 201764,
       "name": "LA FORTUNA",
       "url": "https://open.spotify.com/track/4t8rCI5xepgmjr8vRwK27z"
-    },
-    {
-      "added_at": "2025-08-11 10:20:55",
-      "album": {
-        "name": "Poquet a Poquet",
-        "url": "https://open.spotify.com/album/48WQLL3k3832YJhs9Bvoj1"
-      },
-      "artists": [
-        {
-          "name": "Flashy Ice Cream",
-          "url": "https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR"
-        }
-      ],
-      "duration_ms": 163824,
-      "name": "Poquet a Poquet",
-      "url": "https://open.spotify.com/track/6yoiXEkArH3S2b2fU34hIK"
     },
     {
       "added_at": "2025-04-22 08:34:17",
@@ -669,22 +705,6 @@
       "url": "https://open.spotify.com/track/15zP4RrHdgk2cDjsgCoWD9"
     },
     {
-      "added_at": "2025-05-12 11:31:49",
-      "album": {
-        "name": "R31",
-        "url": "https://open.spotify.com/album/7zqr5WoKRLsNXvz2ZdX3gC"
-      },
-      "artists": [
-        {
-          "name": "31 FAM",
-          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "TOSSUDA PT. 2",
-      "url": "https://open.spotify.com/track/5VFQ2WarGuzkdg5TLST6tW"
-    },
-    {
       "added_at": "2024-10-20 15:39:35",
       "album": {
         "name": "Die With A Smile",
@@ -705,6 +725,22 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
+      "added_at": "2025-05-12 11:31:49",
+      "album": {
+        "name": "R31",
+        "url": "https://open.spotify.com/album/7zqr5WoKRLsNXvz2ZdX3gC"
+      },
+      "artists": [
+        {
+          "name": "31 FAM",
+          "url": "https://open.spotify.com/artist/0LweECx5LKm6I3gIcWMdpB"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "TOSSUDA PT. 2",
+      "url": "https://open.spotify.com/track/5VFQ2WarGuzkdg5TLST6tW"
+    },
+    {
       "added_at": "2025-05-12 11:32:04",
       "album": {
         "name": "T'estiu",
@@ -719,26 +755,6 @@
       "duration_ms": 168998,
       "name": "T'estiu",
       "url": "https://open.spotify.com/track/6lgMnEEcSsptqmPEuU6vrw"
-    },
-    {
-      "added_at": "2025-08-11 10:20:42",
-      "album": {
-        "name": "Hot summer night (Oh La La La)",
-        "url": "https://open.spotify.com/album/3OwwK4RPKg0xubd8IFMjoG"
-      },
-      "artists": [
-        {
-          "name": "Smil",
-          "url": "https://open.spotify.com/artist/6QjHYUiCpQbhpD7eVApnQI"
-        },
-        {
-          "name": "Just Ben",
-          "url": "https://open.spotify.com/artist/1yYacwL1sMAVv0fGYPmFxL"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Hot summer night - Oh La La La",
-      "url": "https://open.spotify.com/track/23uAM0P7BzfC2Vf5qVrczN"
     },
     {
       "added_at": "2024-11-10 16:18:49",
@@ -771,22 +787,6 @@
       "duration_ms": 303130,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
-    },
-    {
-      "added_at": "2025-08-18 08:27:12",
-      "album": {
-        "name": "Fruit del Deliri",
-        "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
-      },
-      "artists": [
-        {
-          "name": "Oques Grasses",
-          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
-        }
-      ],
-      "duration_ms": 172945,
-      "name": "MOLTA TRALLA",
-      "url": "https://open.spotify.com/track/3WqsYnIplEVhnsPp9oUnIf"
     }
   ],
   "unique_name": "LA LLISTA DE FLAIXBAC (24/8/2025)",

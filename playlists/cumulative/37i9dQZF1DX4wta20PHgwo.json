@@ -4539,6 +4539,44 @@
     },
     {
       "album": {
+        "name": "Infant Eyes",
+        "url": "https://open.spotify.com/album/31yX0v70atTbKjAl8i06ZN"
+      },
+      "artists": [
+        {
+          "name": "Out Of/Into",
+          "url": "https://open.spotify.com/artist/59COS6dQZSpIn9uz7BPgVT"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Kendrick Scott",
+          "url": "https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux"
+        },
+        {
+          "name": "Matt Brewer",
+          "url": "https://open.spotify.com/artist/2lbkXLlMyaHxra7bczgRqU"
+        }
+      ],
+      "date_added": "2025-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267880,
+      "name": "Infant Eyes",
+      "url": "https://open.spotify.com/track/45hxUyJyJHO7rucki6bxGD"
+    },
+    {
+      "album": {
         "name": "Speak No Evil",
         "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
       },
@@ -6488,7 +6526,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 262546,
       "name": "Office Party Music",
       "url": "https://open.spotify.com/track/7CQzimsY5qxGkRXVaYkcUW"

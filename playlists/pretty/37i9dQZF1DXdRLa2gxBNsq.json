@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia con Laura Dsk.",
-  "num_followers": 112588,
+  "num_followers": 112586,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Enemigo Publico",
-      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "\u00a1Vaya Full!",
         "url": "https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 134920,
       "name": "Loko Kuerdo",
       "url": "https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Enemigo Publico",
+      "url": "https://open.spotify.com/track/2U79EanNfw7bRqC68Jnfgf"
     },
     {
       "added_at": "2025-08-21 22:00:34",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "Ya No Me Divierto",
-        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Ya No Me Divierto",
-      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "Corona de espinas",
         "url": "https://open.spotify.com/album/5eFZW2T1SMudjllwNJVzkB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217466,
       "name": "Corona de espinas",
       "url": "https://open.spotify.com/track/42Xb3dYl5XRoD9PQMB8JUL"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
+        "name": "Ya No Me Divierto",
+        "url": "https://open.spotify.com/album/0jPYDc9Kf4VKxd0VSVX8HL"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 223200,
+      "name": "Ya No Me Divierto",
+      "url": "https://open.spotify.com/track/4VRq1m4iV8NTZ4tzm423qS"
     },
     {
       "added_at": "2025-08-21 22:00:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "Putos Nazis",
         "url": "https://open.spotify.com/album/5GjkNvM0gCulaXudP2BDZO"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 137963,
       "name": "Putos Nazis",
       "url": "https://open.spotify.com/track/5JG9QWTdBjfjJnXSDRWP1h"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2025-08-21 22:00:34",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "Blasfemia",
-        "url": "https://open.spotify.com/album/4GMnftnnC0PUmqjTz4G5Ac"
-      },
-      "artists": [
-        {
-          "name": "Manolo Kabezabolo",
-          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
-        },
-        {
-          "name": "Petra de fenetra",
-          "url": "https://open.spotify.com/artist/3R5QOgbyvfHegJPkBEtGxs"
-        },
-        {
-          "name": "13 Bats",
-          "url": "https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt"
-        }
-      ],
-      "duration_ms": 142171,
-      "name": "Blasfemia",
-      "url": "https://open.spotify.com/track/133UobBv6GGvg39faYqIEf"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "Ser Libre",
         "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 118173,
       "name": "Preso",
       "url": "https://open.spotify.com/track/42TVfH4Q0zv21NQKHsum8U"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
+        "name": "Blasfemia",
+        "url": "https://open.spotify.com/album/4GMnftnnC0PUmqjTz4G5Ac"
+      },
+      "artists": [
+        {
+          "name": "Manolo Kabezabolo",
+          "url": "https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M"
+        },
+        {
+          "name": "Petra de fenetra",
+          "url": "https://open.spotify.com/artist/3R5QOgbyvfHegJPkBEtGxs"
+        },
+        {
+          "name": "13 Bats",
+          "url": "https://open.spotify.com/artist/1XnPCxWUJkHpz91H21lKbt"
+        }
+      ],
+      "duration_ms": 142171,
+      "name": "Blasfemia",
+      "url": "https://open.spotify.com/track/133UobBv6GGvg39faYqIEf"
     },
     {
       "added_at": "2025-08-21 22:00:34",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "Insolente",
-        "url": "https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8"
-      },
-      "artists": [
-        {
-          "name": "V\u00f3mito",
-          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Insolente",
-      "url": "https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "Zapatillas de Trabajo",
         "url": "https://open.spotify.com/album/1zhbIxRJeZrpU4ngBPlTcl"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 197250,
       "name": "Zapatillas de Trabajo",
       "url": "https://open.spotify.com/track/3djdtKPUNhsyclEAhqrgRo"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
+        "name": "Insolente",
+        "url": "https://open.spotify.com/album/6fknpxNtfzKeGqp5XGNHq8"
+      },
+      "artists": [
+        {
+          "name": "V\u00f3mito",
+          "url": "https://open.spotify.com/artist/675aWo0roLT6t4NY7pguXr"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Insolente",
+      "url": "https://open.spotify.com/track/3kPfpAXC0jv4ygeEmGRvfG"
     },
     {
       "added_at": "2025-08-21 22:00:34",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
+        "name": "Un, Dos, Tres, Fuego",
+        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
+      },
+      "artists": [
+        {
+          "name": "Segismundo Toxic\u00f3mano",
+          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
+        }
+      ],
+      "duration_ms": 142373,
+      "name": "Las Drogas",
+      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
         "name": "Ladr\u00f3n de Almas",
         "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 249719,
       "name": "Kualkier D\u00eda",
       "url": "https://open.spotify.com/track/1I9u9TGitfcJzOXV1fCM9B"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
     },
     {
       "added_at": "2025-08-21 22:00:34",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Su Falso Mundo - original",
-      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
         "name": "Bienvenidos al Infierno (En Directo)",
         "url": "https://open.spotify.com/album/3axjsEhBZr1lXitt0YWgFF"
       },
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-08-21 22:00:34",
       "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
+    },
+    {
+      "added_at": "2025-08-21 22:00:34",
+      "album": {
         "name": "Quiero Romper",
         "url": "https://open.spotify.com/album/2AxiRxorGQFjoND2xTwyDI"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 212293,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1IEAdc4FWEDCAydBnvVsli"
-    },
-    {
-      "added_at": "2025-08-21 22:00:34",
-      "album": {
-        "name": "Un, Dos, Tres, Fuego",
-        "url": "https://open.spotify.com/album/6KqECOoCoekQjpDd0oIYxS"
-      },
-      "artists": [
-        {
-          "name": "Segismundo Toxic\u00f3mano",
-          "url": "https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U"
-        }
-      ],
-      "duration_ms": 142373,
-      "name": "Las Drogas",
-      "url": "https://open.spotify.com/track/12UZTr5xsKm79TzQkmYRUf"
     },
     {
       "added_at": "2025-08-21 22:00:34",

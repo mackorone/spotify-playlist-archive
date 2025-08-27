@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAAB998QyKskLjx/c3rQOaMLY",
+  "snapshot_id": "aKungAAAAACHM2cWLnT4GHNttOd+ofpf",
   "tracks": [
     {
       "added_at": null,
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 269200,
-      "name": "Great Change/God's Army",
-      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
+      "duration_ms": 312653,
+      "name": "Hosannah",
+      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
     },
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 312653,
-      "name": "Hosannah",
-      "url": "https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw"
+      "duration_ms": 269200,
+      "name": "Great Change/God's Army",
+      "url": "https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire In Soweto",
-        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 479120,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
+      "duration_ms": 311986,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 1108400,
-      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
-      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
+      "duration_ms": 321386,
+      "name": "Arise",
+      "url": "https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+        "name": "Fire In Soweto",
+        "url": "https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 497560,
-      "name": "Papa's Land",
-      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
+      "duration_ms": 479120,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44"
     },
     {
       "added_at": null,
@@ -408,9 +408,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 321386,
-      "name": "Arise",
-      "url": "https://open.spotify.com/track/1fO7iQpiieaVv20BCxwiIF"
+      "duration_ms": 1108400,
+      "name": "Jesus Christ Super Star/Miracle In Praise/Don't Be Afraid/Jesus Is The Victory/The Lord Is Good/The Lord Reigneth/F'oyin Si Aiyemi (Yoruba)/Chuku Nke Bi Nigwe (Igbo)",
+      "url": "https://open.spotify.com/track/1GvopR7PYlYcsEsXF9gouH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Papa's Land",
+        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 497560,
+      "name": "Papa's Land",
+      "url": "https://open.spotify.com/track/6TuDhb3IC3BrIdVmgzEWd5"
     },
     {
       "added_at": null,
@@ -447,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papa's Land",
-        "url": "https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 311986,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ozziddi For Sale",
         "url": "https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy Wars",
-        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Holy Mass",
-      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3rd World",
         "url": "https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE"
       },
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
-        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 377960,
-      "name": "Oba Erediauwa",
-      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
+      "duration_ms": 377093,
+      "name": "Holy Mass",
+      "url": "https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68"
     },
     {
       "added_at": null,
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 417493,
-      "name": "Mohammed",
-      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+      "duration_ms": 289573,
+      "name": "Jesus King Of Kings",
+      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
     },
     {
       "added_at": null,
@@ -616,9 +600,25 @@
           "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
         }
       ],
-      "duration_ms": 289573,
-      "name": "Jesus King Of Kings",
-      "url": "https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6"
+      "duration_ms": 417493,
+      "name": "Mohammed",
+      "url": "https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul Jazz Records presents Nigeria Soul Power 70 - Afro-Funk, Afro-Rock, Afro-Disco",
+        "url": "https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "duration_ms": 377960,
+      "name": "Oba Erediauwa",
+      "url": "https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
       "duration_ms": 448026,
       "name": "Dance Of The Elephants",
       "url": "https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mother & Child",
-        "url": "https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ"
-      },
-      "artists": [
-        {
-          "name": "Sonny Okosun",
-          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
-        }
-      ],
-      "duration_ms": 478786,
-      "name": "Olu Ebube (Ibo Language)",
-      "url": "https://open.spotify.com/track/13rgDlBHtMTI3dBPvrb0C9"
     }
   ],
   "unique_name": "This Is Sonny Okosun",

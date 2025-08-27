@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11191,
+  "num_followers": 11196,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAADX3HwMfeyvClJyjyMMbbAT",
+  "snapshot_id": "aKungAAAAABrsKbzSweU8mTx3aJu+ZZG",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fell So Hard, Felt So Right (feat. Story Of The Year)",
         "url": "https://open.spotify.com/album/7n9UbsXl8JjbGhi1eStE3t"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 182266,
       "name": "Fell So Hard, Felt So Right - feat. Story Of The Year",
       "url": "https://open.spotify.com/track/2u8zwyH0Kwgs43ZMI4ikQw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 231137,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 164621,
       "name": "Real Life",
       "url": "https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 231137,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176805,
       "name": "Tear Me to Pieces",
       "url": "https://open.spotify.com/track/4o8iQ9HKmZP0D7eRcTnW0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 171729,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 211813,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 178318,
-      "name": "Take the Ride",
-      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 178318,
+      "name": "Take the Ride",
+      "url": "https://open.spotify.com/track/2jCiOgOBe4U3OCk3OQXGVC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In the Wake of Determination",
         "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 211373,
       "name": "We Don't Care Anymore",
       "url": "https://open.spotify.com/track/0UflERiYbsLO8gIAv7JLiC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 171729,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf"
     },
     {
       "added_at": null,
@@ -355,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tear Me to Pieces",
+        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 209897,
+      "name": "Sorry About Me",
+      "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Slow Down",
         "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 230666,
       "name": "Can't Slow Down",
       "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tear Me to Pieces",
-        "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 209897,
-      "name": "Sorry About Me",
-      "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
     },
     {
       "added_at": null,

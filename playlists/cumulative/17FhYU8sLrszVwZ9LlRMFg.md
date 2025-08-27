@@ -4,7 +4,7 @@
 
 > 
 
-33 songs - 1 hr 48 min
+34 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Freaks](https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Freaks](https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5) | 2:27 | 2023-12-12 |  |
 | [Give Me More \- Just Rawer](https://open.spotify.com/track/0ftAkkQNjX4dsQlJYIlhMm) | [Aloboi](https://open.spotify.com/artist/4Lfqvnzd6MN7hmHJt6LfcY) | [Just DnB Flips \(Give Me More\)](https://open.spotify.com/album/2roHHy2ZllCttCNOW1eGcd) | 2:28 | 2025-08-25 |  |
 | [green to blue](https://open.spotify.com/track/4zzxSXdXK4gLEOyGpPpb9v) | [daniel.mp3](https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC) | [Backroom](https://open.spotify.com/album/7z42veG3zikTkobdHGvgwt) | 3:09 | 2023-10-16 |  |
+| [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2025-08-26 |  |
 | [Hide \- CS01 Version](https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Hide \(CS01 Version\)](https://open.spotify.com/album/245oQswZLETcE6V7aEdNWG) | 3:01 | 2024-07-23 |  |
 | [Homage](https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Skiptracing](https://open.spotify.com/album/6O9YDn12I4WQxUBQE9tpnN) | 2:57 | 2025-08-25 |  |
 | [i was only temporary](https://open.spotify.com/track/0X4YYZtZcvqNqYIpMd93IT) | [my head is empty](https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy) | [i was only temporary](https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m) | 1:38 | 2024-07-16 |  |
@@ -33,7 +34,7 @@
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2024-06-02 |  |
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-04-29 |  |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2023-10-13 |  |
-| [SARAVIA FUNK \- Ultra Slowed](https://open.spotify.com/track/1XzGRimMhfS0mNppq862w9) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q), [Dj Funks](https://open.spotify.com/artist/4v2ai25nhHzTue4JhbCMCn), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee) | [SARAVIA FUNK](https://open.spotify.com/album/276gm48gL8sSKBQGOo3pK4) | 2:24 | 2025-06-12 |  |
+| [SARAVIA FUNK \- Ultra Slowed](https://open.spotify.com/track/1XzGRimMhfS0mNppq862w9) | [RD12](https://open.spotify.com/artist/62D4KEvQMmmK88mTkkWx6Q), [Dj Funks](https://open.spotify.com/artist/4v2ai25nhHzTue4JhbCMCn), [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [0to8](https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g) | [SARAVIA FUNK](https://open.spotify.com/album/276gm48gL8sSKBQGOo3pK4) | 2:24 | 2025-06-12 |  |
 | [secrets](https://open.spotify.com/track/2ABwmC6R0EqTwGjdOduoD7) | [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH) | [secrets](https://open.spotify.com/album/28qAR0pihpYG5aOocXNH5r) | 1:37 | 2025-08-25 |  |
 | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/track/1S7ca5mJlpHn7GCE88jejz) | [Izzamuzzic](https://open.spotify.com/artist/5EiDVD35ofoSKq1KE0jcs8), [Julien Marchal](https://open.spotify.com/artist/7e4AmALFiKR69Xra2EksPU) | [Shootout \(Slowed + Reverb\)](https://open.spotify.com/album/6yRgFDV8SK8RfzAIwRcTPG) | 2:20 | 2023-10-16 |  |
 | [snowfall](https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall](https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH) | 2:04 | 2023-09-24 |  |

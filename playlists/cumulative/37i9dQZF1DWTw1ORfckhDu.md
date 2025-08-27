@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯  Kannessa Senya.
 
-966 songs - 1 day 21 hr 52 min
+967 songs - 1 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -868,6 +868,7 @@
 | [TURVAT KII](https://open.spotify.com/track/4SgZSrBAplEFnqIW9btpVM) | [KähinäPate](https://open.spotify.com/artist/6rA8aAvLetQJNi8Dp8L01c) | [TURVAT KII](https://open.spotify.com/album/069qbLMU4TU7tUPwo2gXh0) | 2:55 | 2024-03-07 | 2024-03-22 |
 | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/track/7Hmw2A09c7o9g9SbtRT5ca) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuu hakee sun mies \(feat\. Senya\)](https://open.spotify.com/album/6DzW026bWi2rrGLDryPsIP) | 2:29 | 2025-04-17 | 2025-06-06 |
 | [Tyhjä](https://open.spotify.com/track/0cDiCLdv3DR0KObUE4L3Zm) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Tyhjä](https://open.spotify.com/album/3q3y3cfi1JhuksxXlEPyPv) | 3:21 | 2025-03-06 | 2025-04-04 |
+| [Tyttö maan pääl](https://open.spotify.com/track/3YN9slNzWqj1r7yHV8ldji) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Tyttö maan pääl](https://open.spotify.com/album/1brYwLALGoOLWjwdCoM1WT) | 2:41 | 2025-08-26 |  |
 | [tyttö sä oot tähti](https://open.spotify.com/track/3C8cDaDbL8Rq8shmjFt9Pu) | [sane](https://open.spotify.com/artist/4NcPJzVZA5NDH8LeHOt5Ax) | [tyttö sä oot tähti](https://open.spotify.com/album/1tctLEbFz0CTLxyUmdoPiT) | 2:27 | 2024-04-25 | 2024-06-21 |
 | [Tytöt](https://open.spotify.com/track/3lVdB3do6VSU0sQgf6ADKL) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Tytöt](https://open.spotify.com/album/7uVzBsj23arhg3SA6dOZi0) | 2:31 | 2023-09-21 | 2023-10-13 |
 | [Tytöt tietää](https://open.spotify.com/track/4jWL1qqesCvi9DafuJ5238) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tytöt tietää](https://open.spotify.com/album/5drhXGx6ojIgQzoLWJXMXc) | 2:34 | 2025-05-08 | 2025-07-04 |
@@ -903,7 +904,7 @@
 | [Valemuisto](https://open.spotify.com/track/3IUhwoOQwo1zuR0PJz6pFl) | [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi), [Opaali](https://open.spotify.com/artist/1dk4PjZTvrWlSPhBFXy7VM) | [Valemuisto](https://open.spotify.com/album/0CNewSF0x0PKnUaXaChbWt) | 3:14 | 2023-10-05 | 2023-10-20 |
 | [Valinnu mun tien](https://open.spotify.com/track/3oKey2erW2wHwlOWV8ZGg9) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Valinnu mun tien](https://open.spotify.com/album/1QY3G5eZsIXAaoMj1luctp) | 3:01 | 2025-02-27 | 2025-04-04 |
 | [Valosaa & pimeää](https://open.spotify.com/track/4OpwprytYGc4zncT3HPl8t) | [Pessa](https://open.spotify.com/artist/6x70S4pPU0H7zmYSdRn6Ba) | [Valosaa & pimeää](https://open.spotify.com/album/0MsPiDtyxVkYlqUC3aa114) | 3:33 | 2023-09-21 | 2023-10-13 |
-| [Valtakunnallinen](https://open.spotify.com/track/46Up6QBRplYT8BTX25jusP) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Valtakunnallinen](https://open.spotify.com/album/11zYJJk0J1xsegVGMvppI2) | 2:25 | 2025-05-08 |  |
+| [Valtakunnallinen](https://open.spotify.com/track/46Up6QBRplYT8BTX25jusP) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Valtakunnallinen](https://open.spotify.com/album/11zYJJk0J1xsegVGMvppI2) | 2:25 | 2025-05-08 | 2025-08-27 |
 | [Vampyyrit](https://open.spotify.com/track/00tdWbLkXLbQgUjPlASRUS) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Vampyyrit](https://open.spotify.com/album/3cthnJNmrkmSCSBG9cF15v) | 2:26 | 2023-09-21 | 2023-11-17 |
 | [Vanhasta Uuteen](https://open.spotify.com/track/0UxaNxUNLleuXOPtnPnCTZ) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Vanhasta Uuteen](https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb) | 2:49 | 2025-04-03 | 2025-06-27 |
 | [Vanilj \- Remix](https://open.spotify.com/track/07xksEq7diDcVRd1MfXucZ) | [BoBa](https://open.spotify.com/artist/4Ui11oqvDCTqw4fxX2XkFW), [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Vanilj \(Remix\)](https://open.spotify.com/album/4mjr0e368diVypsHITzvul) | 2:07 | 2025-01-23 | 2025-02-28 |

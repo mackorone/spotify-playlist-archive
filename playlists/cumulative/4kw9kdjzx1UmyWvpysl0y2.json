@@ -6605,6 +6605,28 @@
     },
     {
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx"
+      },
+      "artists": [
+        {
+          "name": "Shingo Nakamura",
+          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
+        },
+        {
+          "name": "Warung",
+          "url": "https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk"
+    },
+    {
+      "album": {
         "name": "Feeling Free",
         "url": "https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB"
       },

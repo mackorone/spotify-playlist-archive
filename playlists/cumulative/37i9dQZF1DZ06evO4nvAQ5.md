@@ -4,7 +4,7 @@
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 45 min
+79 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Good Cry \(feat\. Chaka Demus\)](https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Chaka Demus](https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 3:41 | 2024-01-29 |  |
 | [Hawaiian Pakalolo](https://open.spotify.com/track/33wJTyMde69nSAreVisHlk) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Spawnbreezie](https://open.spotify.com/artist/0BvwGBAFqNeDqjkeoxRlm6), [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:01 | 2024-01-29 |  |
 | [Hear Me Roar](https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:12 | 2024-01-29 | 2025-02-04 |
+| [Heartbeat](https://open.spotify.com/track/1FZcMIsN76Fo1X0j4GHiWv) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:35 | 2025-08-27 |  |
 | [Heartbeat](https://open.spotify.com/track/2tRhRg1VpTSZnB5AVVPy0i) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/5lMVd72TszpNSh7tjeeDm0) | 3:35 | 2025-03-30 | 2025-08-04 |
 | [Here I Am \(with Fiji\)](https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:33 | 2024-01-29 |  |
 | [If I Ever](https://open.spotify.com/track/3UKwvOFBizVnVKBQ6ZqG0Y) | [Jah Maoli](https://open.spotify.com/artist/1xr92u8uPinpRXsjZbgGKw), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [If I Ever](https://open.spotify.com/album/5y0grjfOFtNTBP4rOLtzKb) | 4:42 | 2024-10-26 |  |
@@ -52,7 +53,7 @@
 | [Long Way Home \(with J Boog & Iyaz\) \- Island Kartel Version](https://open.spotify.com/track/3z4QVE99lov7iwDzaBEFlV) | [DMP](https://open.spotify.com/artist/7pNbAaBrIRKErypLJiIrQ4), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Long Way Home \(with J Boog & Iyaz\) \[Island Kartel Version\]](https://open.spotify.com/album/1Ar612oi661zHzRbwL8jB4) | 3:42 | 2025-07-20 |  |
 | [Love Affair \(with Fiji\)](https://open.spotify.com/track/78ptPusn6DU9Lh2mDLYn9P) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:50 | 2025-07-31 |  |
 | [Love Season](https://open.spotify.com/track/2GpKIU4njRoMFndGdVPwfd) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:46 | 2024-01-29 |  |
-| [Love's Close Around](https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:43 | 2025-06-10 |  |
+| [Love's Close Around](https://open.spotify.com/track/0ZrAAJ6u6IlukqFbHK3RIA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Heartbeat](https://open.spotify.com/album/1uGwZldzs5sxIrSHFH7SpD) | 3:43 | 2025-06-10 | 2025-08-27 |
 | [Mama Roots](https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Marching Orders](https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO) | 3:50 | 2024-01-29 |  |
 | [My Audio](https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [My Audio](https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24) | 3:55 | 2024-01-29 |  |
 | [Mystery](https://open.spotify.com/track/696bLELRbQE6K4l3rJODMj) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:22 | 2024-01-29 |  |

@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: Kep1er
+> グローバルで活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Girls groups/solo artists shining beyond borders\. Cover: TWICE
 
-1,552 songs - 3 day 10 hr 24 min
+1,555 songs - 3 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Blue Flame \- Japanese ver.](https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 3:21 | 2023-01-24 | 2023-05-17 |
 | [Blue Jeans](https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [Blue Jeans](https://open.spotify.com/album/0VAZse9RXTDM3rOavD1tw6) | 3:26 | 2025-07-13 |  |
 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 | 2023-07-20 | 2023-08-17 |
+| [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 |  |
 | [Bomb](https://open.spotify.com/track/14lY3e4KuLUT46WQWfKYKb) | [NIK](https://open.spotify.com/artist/69SEqE4oh5qoU6hHbebPvg) | [Bomb](https://open.spotify.com/album/5irXJnIU6jn0pBqRbe4z3c) | 3:05 | 2021-12-23 | 2022-01-05 |
 | [BONA BONA](https://open.spotify.com/track/0IkWksfw3Qxob96bjFKhyF) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [2ND FULL ALBUM 'REBOOT'](https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR) | 3:32 | 2023-07-28 | 2023-10-13 |
 | [BONA BONA \- JP ver.](https://open.spotify.com/track/6MHC1y7Gd5U1aX2hsuTPBC) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [BONA BONA \(JP ver.\)](https://open.spotify.com/album/50GXqalTtZzcK9wjXu4gSK) | 3:32 | 2023-09-21 | 2023-10-31 |
@@ -475,7 +476,7 @@
 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 | 2024-03-19 | 2024-06-01 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2023-04-17 | 2023-06-28 |
 | [from](https://open.spotify.com/track/0SeorUWLzzIhccMySrbZ87) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from](https://open.spotify.com/album/1vheN8jdfNco8S7HOVpJv2) | 3:21 | 2024-12-24 | 2025-06-25 |
-| [From a seed called ‘Hey, what’s up?’](https://open.spotify.com/track/6178sEhq3xNsMFD6JcFXxy) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-15 |  |
+| [From a seed called ‘Hey, what’s up?’](https://open.spotify.com/track/6178sEhq3xNsMFD6JcFXxy) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [The 2nd Mini Album 'SWICY'](https://open.spotify.com/album/3S4N457QDAQonUfQU2ACj9) | 3:03 | 2025-04-15 | 2025-08-27 |
 | [From here](https://open.spotify.com/track/7AlohrhCwefYKYKZSlUl3b) | [WOOYOUNG](https://open.spotify.com/artist/16iaWzk4PHL4GCjzyT6zZn) | [Off the record](https://open.spotify.com/album/643Nk6PgeQs2Tzp9YgxzVm) | 3:12 | 2023-06-06 | 2023-06-21 |
 | [Future \(Lollapalooza ver.\)](https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box \(HOPE Edition\)](https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6) | 4:18 | 2023-08-18 | 2023-09-22 |
 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 | 2022-07-04 | 2022-09-09 |
@@ -542,7 +543,7 @@
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-06-29 | 2023-09-06 |
 | [Groove Back \(Feat\. Gaeko\)](https://open.spotify.com/track/6ee02p5ioFpkeKDdDGOhkJ) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Groove Missing](https://open.spotify.com/album/4GLHfJaztzxV9FVsL5yef0) | 3:32 | 2022-11-21 | 2023-03-15 |
 | [Groovy](https://open.spotify.com/track/7I2ue60s8PvCbc1Oovt5ph) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [MASTER : PIECE](https://open.spotify.com/album/6vlYZzNPs1SCafyLKbmUrC) | 3:22 | 2023-03-06 | 2023-05-10 |
-| [GROSS](https://open.spotify.com/track/010b7ratgDLYeyd2RWYlhB) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [GROSS](https://open.spotify.com/album/6zWi4hKDM1SazA0UD1gD6Q) | 2:08 | 2025-07-03 |  |
+| [GROSS](https://open.spotify.com/track/010b7ratgDLYeyd2RWYlhB) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [GROSS](https://open.spotify.com/album/6zWi4hKDM1SazA0UD1gD6Q) | 2:08 | 2025-07-03 | 2025-08-27 |
 | [Growls and Purrs](https://open.spotify.com/track/2ZlzUxSV0Pir7oBn28OZCg) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Growls and Purrs](https://open.spotify.com/album/7HFJhqSpdSVSHbjKjYnl9F) | 3:19 | 2025-07-07 | 2025-07-15 |
 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 | 2023-06-13 | 2023-08-04 |
 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 | 2022-07-28 | 2022-10-26 |
@@ -728,7 +729,7 @@
 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/5fHS1iSqjQfrQ7D0iLykav) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short \(English Version\)](https://open.spotify.com/album/3CwbWCk3lGoKaqdQ4Qtpkq) | 2:58 | 2022-06-23 | 2022-07-29 |
 | [Light Of My life](https://open.spotify.com/track/6s1NRTGpaaRqgfh8bpn8mv) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [ポラリス](https://open.spotify.com/album/5J5odxYlO6OBDmN6bzeb3Y) | 4:43 | 2023-08-18 | 2023-09-15 |
 | [Lighthouse](https://open.spotify.com/track/77FgO272LaNIQklzQIVlJt) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Life goes on](https://open.spotify.com/album/0f7HOkgm4MtnKgtVlcQqnK) | 4:09 | 2022-06-28 | 2022-08-12 |
-| [Like 1](https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Like 1](https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO) | 3:06 | 2025-08-19 |  |
+| [Like 1](https://open.spotify.com/track/7gLw3Zh9o0giJ2YSjFKY1V) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Like 1](https://open.spotify.com/album/6m1tTBNtQtBtNeDLhVm3bO) | 3:06 | 2025-08-19 | 2025-08-27 |
 | [Like A Dream](https://open.spotify.com/track/4Kw1ykVLHoFQxOPSVd8R2E) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Lovely Runner, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/5fqhw5RIuAu14Na1ld2FFC) | 4:09 | 2024-04-18 | 2024-07-24 |
 | [Like A Flower](https://open.spotify.com/track/2ivhjourUwztR3kmz575KV) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Like A Flower \- The 1st Mini Album](https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw) | 3:12 | 2024-11-26 | 2025-06-27 |
 | [Like a Friend](https://open.spotify.com/track/2fuEJNnPaWZrfWavac4V8X) | [8TURN](https://open.spotify.com/artist/7tCg9aiVKZ5Cmhbfb7UoqM) | [Like a Friend](https://open.spotify.com/album/4UDetRAo2MF2dDMiUvjjTf) | 2:52 | 2024-12-09 | 2025-02-25 |
@@ -1371,6 +1372,7 @@
 | [UNTOUCHABLE](https://open.spotify.com/track/2CnJMXdMj1uytoZbs4MPbO) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC) | 3:14 | 2024-04-18 | 2024-08-30 |
 | [UNTOUCHABLE](https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [BORN TO BE](https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz) | 3:14 | 2024-01-09 | 2024-04-19 |
 | [UP \- KARINA Solo](https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [SYNK : PARALLEL LINE \- Special Digital Single](https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU) | 2:46 | 2024-10-08 | 2025-04-21 |
+| [Up to you](https://open.spotify.com/track/0M518NEgun9RkYwxozJBic) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [ENEMY](https://open.spotify.com/album/18v5nf750qcff18B0a6WmG) | 2:58 | 2025-08-26 |  |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-28 | 2022-09-07 |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Up! \(Japanese version\)](https://open.spotify.com/track/7m78ItawUTPntyWYjdF8LS) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<FLY\-UP> \- Special Edition \-](https://open.spotify.com/album/2vVvnTCd3Nazq9eC7RKMHL) | 3:12 | 2022-09-06 | 2022-11-16 |
@@ -1532,6 +1534,7 @@
 | [六等星](https://open.spotify.com/track/7DUin3zPxgW9vD4NnhSlkk) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [六等星](https://open.spotify.com/album/63cB2tLiZJdgy8jN7O4Qx4) | 3:29 | 2022-04-12 | 2022-06-21 |
 | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/track/5yR9bGLr8Zz2EndMrthui1) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [君じゃない誰かの愛し方 \(Ring\)](https://open.spotify.com/album/4i69b6pT4wIAIkoYGA71Um) | 3:24 | 2022-08-23 | 2023-01-13 |
 | [君の声 \(Your voice\)](https://open.spotify.com/track/1eRlhfcn1xtBeCcayadirV) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [iKON JAPAN TOUR 2022 \[FLASHBACK\] \(Live\)](https://open.spotify.com/album/2vvQxmQOjAgMrlU1MT0qcC) | 3:20 | 2022-10-11 | 2023-01-10 |
+| [君は夏だった](https://open.spotify.com/track/7a92Qs5gDSauMqPgqgcfaN) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Lovestruck \- Japanese ver\. \-](https://open.spotify.com/album/5vQGM25m58pPu7j241O0Zu) | 3:12 | 2025-08-26 |  |
 | [呼んで\(Blur\)](https://open.spotify.com/track/2SNquIiDoUWBtfjgnNykVS) | [UNICODE](https://open.spotify.com/artist/3dX0pAE3FigjTzBiHajRra) | [HELLO WORLD](https://open.spotify.com/album/3aixxl8ncnD4dFE6eFQ6ll) | 3:03 | 2024-07-23 | 2024-08-21 |
 | [声変わり](https://open.spotify.com/track/3hUKhjEg9uLC1YOZIjUuEl) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [声変わり](https://open.spotify.com/album/689I7v5nepCZzdmbffRHWu) | 3:18 | 2024-07-19 | 2024-10-11 |
 | [寄り道 \-Take it easy baby\-](https://open.spotify.com/track/58FcDwLUvKxRtj0sHphH9W) | [Girls2](https://open.spotify.com/artist/7vilEuvwalwkL7OxM9UuHR) | [寄り道 \-Take it easy baby\-](https://open.spotify.com/album/6sR7WJEwGf9Vs7IvxrD4bq) | 3:11 | 2025-03-06 | 2025-03-18 |

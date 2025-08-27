@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/zackbia/\">Zack Bia</a>",
-  "num_followers": 1853,
+  "num_followers": 1851,
   "original_name": "Zack Bia's Taste",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "Me, Myself & I",
+        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
+      },
+      "artists": [
+        {
+          "name": "BashfortheWorld",
+          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
+        }
+      ],
+      "duration_ms": 224365,
+      "name": "50-0",
+      "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 255773,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "Me, Myself & I",
-        "url": "https://open.spotify.com/album/3SoT68kHV9Q8Y3NR3Bo7Ok"
-      },
-      "artists": [
-        {
-          "name": "BashfortheWorld",
-          "url": "https://open.spotify.com/artist/2304Hcgi7OV6YL5Omhx6A4"
-        }
-      ],
-      "duration_ms": 224365,
-      "name": "50-0",
-      "url": "https://open.spotify.com/track/1Smhzk6DHo8aR11SkZAtEY"
     },
     {
       "added_at": "2022-10-01 17:37:57",
@@ -727,6 +727,26 @@
     {
       "added_at": "2022-10-01 17:37:57",
       "album": {
+        "name": "UNDERWATER",
+        "url": "https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4"
+      },
+      "artists": [
+        {
+          "name": "sharkboy",
+          "url": "https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 165107,
+      "name": "Yam",
+      "url": "https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I"
+    },
+    {
+      "added_at": "2022-10-01 17:37:57",
+      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/3CPGfq4GT326ZiecqegH2t"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/67gsMz7IUC9sun9DuUqVDE"
-    },
-    {
-      "added_at": "2022-10-01 17:37:57",
-      "album": {
-        "name": "UNDERWATER",
-        "url": "https://open.spotify.com/album/4UP2s4n7nyzHPYpNh7qfH4"
-      },
-      "artists": [
-        {
-          "name": "sharkboy",
-          "url": "https://open.spotify.com/artist/7eEiDNxx0ZlaXHkn74qOrM"
-        },
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 165107,
-      "name": "Yam",
-      "url": "https://open.spotify.com/track/1RE3rZvv6kImf4fIZCjs2I"
     },
     {
       "added_at": "2022-10-01 17:37:57",

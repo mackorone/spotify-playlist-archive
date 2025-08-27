@@ -4,7 +4,7 @@
 
 > Kom maar op met de zon ☀️🌼🌻
 
-723 songs - 1 day 12 hr 29 min
+724 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,8 @@
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-05-02 | 2024-10-22 |
 | [Hoop Dat Jij Me Mist](https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hoop Dat Jij Me Mist](https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj) | 2:45 | 2024-05-31 | 2024-10-18 |
 | [Hopes Up High](https://open.spotify.com/track/5mIx6DqNDX5g7Ms29tCQAB) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Hopes Up High](https://open.spotify.com/album/7yvTMWbeey4t2c1PenHJPU) | 2:43 | 2024-07-31 | 2025-04-04 |
-| [hopi amor](https://open.spotify.com/track/0l5e9jvV40WXQFn5adOuSM) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [hopi amor](https://open.spotify.com/album/36rLxateZqIxhnM5hPgHMu) | 2:30 | 2025-07-10 |  |
+| [hopi amor](https://open.spotify.com/track/7G7dRiRalK7CGSKBUHp90j) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:30 | 2025-08-26 |  |
+| [hopi amor](https://open.spotify.com/track/0l5e9jvV40WXQFn5adOuSM) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [hopi amor](https://open.spotify.com/album/36rLxateZqIxhnM5hPgHMu) | 2:30 | 2025-07-10 | 2025-08-27 |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2024-08-29 | 2025-01-16 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-09 | 2024-05-04 |
 | [How 2 Dance](https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [How 2 Dance](https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp) | 2:43 | 2023-02-23 | 2023-05-03 |

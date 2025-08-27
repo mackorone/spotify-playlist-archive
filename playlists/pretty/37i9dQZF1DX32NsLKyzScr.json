@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2612883,
+  "num_followers": 2612690,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 154139,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
         "name": "light years (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 220978,
       "name": "light years (feat. In\u00e9z)",
       "url": "https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
-        "name": "Don't Wake Me Up",
-        "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 154139,
-      "name": "Don't Wake Me Up",
-      "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "tell you straight",
-        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        }
-      ],
-      "duration_ms": 124864,
-      "name": "tell you straight",
-      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "3am",
         "url": "https://open.spotify.com/album/4iwqQzA2I4bjGedTQjCKQV"
       },
@@ -1011,22 +995,18 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "Avicii Forever",
-        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+        "name": "tell you straight",
+        "url": "https://open.spotify.com/album/7r9czA9MzTXbIRv27OtxGq"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 173217,
-      "name": "Let's Ride Away",
-      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
+      "duration_ms": 124864,
+      "name": "tell you straight",
+      "url": "https://open.spotify.com/track/1Cheunopig5ZrxuGe94MtX"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -1047,6 +1027,26 @@
       "duration_ms": 236000,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Avicii Forever",
+        "url": "https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 173217,
+      "name": "Let's Ride Away",
+      "url": "https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "All I Know (with Khalid)",
-        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 176046,
-      "name": "All I Know (with Khalid)",
-      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 170270,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "All I Know (with Khalid)",
+        "url": "https://open.spotify.com/album/1TNPKEmo5TSj8NpXpDgMsf"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 176046,
+      "name": "All I Know (with Khalid)",
+      "url": "https://open.spotify.com/track/2rgWhlzASxN4MKk7c3RAGP"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -1683,30 +1683,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Nu-La",
-          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
-        }
-      ],
-      "duration_ms": 215930,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "I Adore You (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/5kRla1xPI51kTotmC4nW6j"
       },
@@ -1735,6 +1711,30 @@
       "duration_ms": 270967,
       "name": "I Adore You - ARTBAT Remix",
       "url": "https://open.spotify.com/track/1Zg16X9sBXpfQbs6fgVJzH"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        }
+      ],
+      "duration_ms": 215930,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -1943,58 +1943,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 249140,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
-        "name": "One Night Of Love",
-        "url": "https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl"
-      },
-      "artists": [
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "One Night Of Love",
-      "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "Cola (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ"
       },
@@ -2015,6 +1963,58 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 249140,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "One Night Of Love",
+        "url": "https://open.spotify.com/album/1zez4j3KxpibZsH4ztNerl"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "One Night Of Love",
+      "url": "https://open.spotify.com/track/0yKN9B3jYONUyvqrGkNUPX"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -2075,30 +2075,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "Blessings (Cassian Remix)",
-        "url": "https://open.spotify.com/album/5IyXTV39CmbRwp9Xibpwoy"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 248365,
-      "name": "Blessings - Cassian Remix",
-      "url": "https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/34XrK5yFLziX15BSjDDiyO"
       },
@@ -2119,6 +2095,30 @@
       "duration_ms": 148930,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/0IAFmrpi9KF0PP3LONJonm"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Blessings (Cassian Remix)",
+        "url": "https://open.spotify.com/album/5IyXTV39CmbRwp9Xibpwoy"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "duration_ms": 248365,
+      "name": "Blessings - Cassian Remix",
+      "url": "https://open.spotify.com/track/3GpNIq74pzLjdIKplMvSV2"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -2263,26 +2263,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "The End Of Genesys",
-        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Luke Steele",
-          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
-        }
-      ],
-      "duration_ms": 190726,
-      "name": "Human Now (feat. Luke Steele)",
-      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -2303,18 +2283,22 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
+        "name": "The End Of Genesys",
+        "url": "https://open.spotify.com/album/5S4MqmLI8xaLzLBH0wgxEu"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Luke Steele",
+          "url": "https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0"
         }
       ],
-      "duration_ms": 169950,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
+      "duration_ms": 190726,
+      "name": "Human Now (feat. Luke Steele)",
+      "url": "https://open.spotify.com/track/3Ta75DXRTpZ0XieWHuhjE4"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -2335,6 +2319,22 @@
       "duration_ms": 268359,
       "name": "Waste my time",
       "url": "https://open.spotify.com/track/4xCLq4cUWXD5FZS7sRImSL"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/7qypDB2lziFK99YnsYkGIn"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 169950,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3cgrymk2BMWQQR1flg9q6n"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
         "name": "Like A Prayer",
         "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
@@ -2491,22 +2507,6 @@
     {
       "added_at": "2025-08-22 04:00:19",
       "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
         "name": "Supersonic / Hands Up In The Sky",
         "url": "https://open.spotify.com/album/0x72kHM5nCDu7qtoIJcnfT"
       },
@@ -2523,6 +2523,26 @@
       "duration_ms": 188108,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/01jx3vXwUaw9cfFeBk8sJQ"
+    },
+    {
+      "added_at": "2025-08-22 04:00:19",
+      "album": {
+        "name": "Sleepyhead 2025",
+        "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 245713,
+      "name": "Sleepyhead 2025",
+      "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
       "added_at": "2025-08-22 04:00:19",
@@ -2547,26 +2567,6 @@
       "duration_ms": 170322,
       "name": "Nomacita",
       "url": "https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt"
-    },
-    {
-      "added_at": "2025-08-22 04:00:19",
-      "album": {
-        "name": "Sleepyhead 2025",
-        "url": "https://open.spotify.com/album/3Tq2PZjUqnJ5rJWlmku0Oc"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        },
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 245713,
-      "name": "Sleepyhead 2025",
-      "url": "https://open.spotify.com/track/4aSyYc1rWc2KhTknSfpx9H"
     },
     {
       "added_at": "2025-08-22 04:00:19",

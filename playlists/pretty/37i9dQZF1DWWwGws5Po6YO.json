@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: JakoJako",
-  "num_followers": 130395,
+  "num_followers": 130428,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Analemma",
+        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Analemma",
-        "url": "https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Kumquat",
         "url": "https://open.spotify.com/album/7BaGosxL813cLEW8SNXaBr"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 196296,
       "name": "Kumquat",
       "url": "https://open.spotify.com/track/3DUhHvuVo5shRpJO61BrJ7"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Air / Fire",
+      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 288693,
       "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Air / Fire",
-      "url": "https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Keep Pulling Me In",
-        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 372430,
-      "name": "Keep Pulling Me In",
-      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "Springtime in Croatia",
         "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Marina`s Song",
-        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+        "name": "Keep Pulling Me In",
+        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
       },
       "artists": [
         {
-          "name": "EIRLYS",
-          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
         }
       ],
-      "duration_ms": 303828,
-      "name": "Marina`s Song",
-      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
+      "duration_ms": 372430,
+      "name": "Keep Pulling Me In",
+      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1483,6 +1467,22 @@
       "duration_ms": 229521,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/1TnEVTlFobaQCRYIXr1Ctc"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Marina`s Song",
+        "url": "https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g"
+      },
+      "artists": [
+        {
+          "name": "EIRLYS",
+          "url": "https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l"
+        }
+      ],
+      "duration_ms": 303828,
+      "name": "Marina`s Song",
+      "url": "https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "World Breathes",
         "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
         "name": "Humidity",
         "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
-        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
-      },
-      "artists": [
-        {
-          "name": "Marta Salogni",
-          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
-        }
-      ],
-      "duration_ms": 236286,
-      "name": "Cross-Contamination",
-      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
-    },
-    {
-      "added_at": "2025-06-19 09:48:26",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 296681,
       "name": "Lost At Sea - Kelly Moran remix",
       "url": "https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY"
+    },
+    {
+      "added_at": "2025-06-19 09:48:26",
+      "album": {
+        "name": "Flux Gourmet - Original Motion Soundtrack Early Taste",
+        "url": "https://open.spotify.com/album/6gEUqqA2KBWcG5K3Cl6z6u"
+      },
+      "artists": [
+        {
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+        }
+      ],
+      "duration_ms": 236286,
+      "name": "Cross-Contamination",
+      "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
     },
     {
       "added_at": "2025-06-19 09:48:26",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2025-06-19 09:48:26",
       "album": {
-        "name": "Nine Spells",
-        "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
+        "name": "Littoral States",
+        "url": "https://open.spotify.com/album/2UEVHGwydI2fZEKNUJgmL2"
       },
       "artists": [
         {
-          "name": "Jolanda Moletta",
-          "url": "https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1"
+          "name": "Sarah Pag\u00e9",
+          "url": "https://open.spotify.com/artist/045JYB2I42fQLnNRJQSvdN"
+        },
+        {
+          "name": "Patrick Graham",
+          "url": "https://open.spotify.com/artist/1t12LNlov46lEKhE8yiaYt"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Spell I: Let the Waves In",
-      "url": "https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg"
+      "duration_ms": 352947,
+      "name": "Tempest",
+      "url": "https://open.spotify.com/track/30eqBSvHnfXwBRS5vclue7"
     }
   ],
   "unique_name": "Women of Ambient",

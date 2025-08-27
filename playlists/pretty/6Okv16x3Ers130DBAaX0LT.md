@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Okv16x3Ers130DBAaX0LT.md) - [plain]
 
 > it&\#x27;s not a complex if you believe in it&\#x27;s reality
 
-[Shockey Sanders](https://open.spotify.com/user/f62zncbwrnxowy80bfkgqf4oz) - 241 likes - 76 songs - 4 hr 13 min
+[Shockey Sanders](https://open.spotify.com/user/f62zncbwrnxowy80bfkgqf4oz) - 240 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

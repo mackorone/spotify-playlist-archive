@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 205669,
+  "num_followers": 205726,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACOqhYvfN88SqbvRUV9EKQo",
+  "snapshot_id": "aKungAAAAAB6f+gPGp1Fc+46QOvkBAwo",
   "tracks": [
     {
       "added_at": null,
@@ -783,17 +783,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo x Nada",
-        "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
+        "name": "Flaco Pesado (Remix)",
+        "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
       },
       "artists": [
         {
-          "name": "El Pinche Mara",
-          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
         },
         {
           "name": "Lefty Sm",
@@ -802,11 +798,15 @@
         {
           "name": "Gera MX",
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
         }
       ],
-      "duration_ms": 374571,
-      "name": "Todo x Nada",
-      "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
+      "duration_ms": 227631,
+      "name": "Flaco Pesado (Remix)",
+      "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
     },
     {
       "added_at": null,
@@ -847,13 +847,17 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flaco Pesado (Remix)",
-        "url": "https://open.spotify.com/album/3hTjN8cWHoSCvb2vMaHUGg"
+        "name": "Todo x Nada",
+        "url": "https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe"
       },
       "artists": [
         {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         },
         {
           "name": "Lefty Sm",
@@ -862,15 +866,11 @@
         {
           "name": "Gera MX",
           "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Jay Romero",
-          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
         }
       ],
-      "duration_ms": 227631,
-      "name": "Flaco Pesado (Remix)",
-      "url": "https://open.spotify.com/track/70ZMJoLYis23b3YFWEQRI0"
+      "duration_ms": 374571,
+      "name": "Todo x Nada",
+      "url": "https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7"
     },
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ingrata",
-        "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 214471,
-      "name": "Ingrata",
-      "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Sali\u00f3 Caro",
         "url": "https://open.spotify.com/album/452UvA8ezntpnKuferwxay"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 177312,
       "name": "Me Sali\u00f3 Caro",
       "url": "https://open.spotify.com/track/2lj7jB5D4OuurRaynHAW8y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ingrata",
+        "url": "https://open.spotify.com/album/6SNEqAhkOIaXgEeQEhrA9b"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 214471,
+      "name": "Ingrata",
+      "url": "https://open.spotify.com/track/14Z6lwzx8eYwEpkzel6ldV"
     },
     {
       "added_at": null,

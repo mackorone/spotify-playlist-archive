@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 13692,
+  "num_followers": 13711,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABmiQzKzB4rljO5w1+gQxZy",
+  "snapshot_id": "aKungAAAAADuteF2SrQqNp+e7/mMJwiQ",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Not You, It's Summer",
         "url": "https://open.spotify.com/album/1hge2FgayfY4zOTLKwUbxV"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 192822,
       "name": "Special",
       "url": "https://open.spotify.com/track/6vR6tnHPody1hK6pU2Orw3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": null,
@@ -691,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
+      "duration_ms": 108823,
+      "name": "NAIJA SHAWTY (feat. Victony)",
+      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/460Np75NnukNf4BZpXZUuy"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/07wR2inlrmqLtGYSCARtHg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Darling + Angelus",
         "url": "https://open.spotify.com/album/7E5NyqTBqxn8SvkwznzgvY"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 186000,
       "name": "Angelus",
       "url": "https://open.spotify.com/track/2oR4N3EY05WLEotPoMLRJ6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 108823,
-      "name": "NAIJA SHAWTY (feat. Victony)",
-      "url": "https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nataraja",
-        "url": "https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L"
-      },
-      "artists": [
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uburu",
         "url": "https://open.spotify.com/album/3fP1YnnwAk3LQQSGvmGjvR"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 127424,
       "name": "Cover Me",
       "url": "https://open.spotify.com/track/0ksY8q00uW9wfMDqrOVNsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nataraja",
+        "url": "https://open.spotify.com/album/0wBT3opCuWp1j8dJcmjn9L"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/3zhxppezoI2NUf2iecI44f"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,883 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,882 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 13 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
 | 14 | [La Bohemia](https://open.spotify.com/track/59IVKAGNRh8KtmDT0AZUf1) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Electro Dub Tango](https://open.spotify.com/album/7hQ3XsiHgR5NFNF3MHHvBQ) | 3:59 |
 | 15 | [Chiqué](https://open.spotify.com/track/11XWTsiSeaIhv6nvYoaKIP) | [Ramiro Boero](https://open.spotify.com/artist/06yGc3ObG7hzni93vyv6Gb) | [Chiqué](https://open.spotify.com/album/5pxeddULMTojRNkSmSJyjB) | 3:42 |
-| 16 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 |
+| 16 | [La Cumparsita](https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7) | [bulevard tango club](https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5) | [Tango On The Dance Floor](https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94) | 3:26 |
 | 17 | [Intentos del abrigo](https://open.spotify.com/track/1aqFFIRrzynC0F418qgF1D) | [Lakes](https://open.spotify.com/artist/4XkqhcDENtW6pqFQmYG47L) | [Intentos del abrigo](https://open.spotify.com/album/10GbbqcnA4vFqO6hpjTcAM) | 3:42 |
 | 18 | [Sonido Nativo del Río](https://open.spotify.com/track/74yqyT2QjK9CZJcK6szEqD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [Sonido Nativo del Río](https://open.spotify.com/album/4tDzS7KjJcwKdeEZXoErsl) | 3:18 |
 | 19 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
-| 20 | [La Cumparsita](https://open.spotify.com/track/3YPPSOb7gaR8BTm52YHcc7) | [bulevard tango club](https://open.spotify.com/artist/57uCjKMQo88UcRsvUbOgD5) | [Tango On The Dance Floor](https://open.spotify.com/album/50gdTPBTIv93tWQhJqCQ94) | 3:26 |
+| 20 | [La Milonga](https://open.spotify.com/track/5ObJaXEtpdxxkU4K6FrcTg) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Mas Alla Del Sur](https://open.spotify.com/album/73bcUROeKMvqzGHAiwO73F) | 3:28 |
 | 21 | [Peligro](https://open.spotify.com/track/1wJ8rjz2m9fv1X8TmKICWh) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP) | [Best of Gotan Project](https://open.spotify.com/album/2LVpoh6UUJpRMvxR3CqsRc) | 3:58 |
-| 22 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 |
-| 23 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 |
-| 24 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 |
+| 22 | [Canopus](https://open.spotify.com/track/7MmhdgP3Fw2P51C1aBuroS) | [Electro Dub Tango](https://open.spotify.com/artist/5Lgxp1cY9aLySrsmoWtQ3x) | [Tango on Mars](https://open.spotify.com/album/1KQHFteiA1B5H1N47BdZsq) | 3:19 |
+| 23 | [Oblivion](https://open.spotify.com/track/745ECNomCDA8KOMUM1sMdR) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:03 |
+| 24 | [Hotel Victoria \- original](https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0) | [San Telmo Lounge](https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4) | [Madrugada En Backcelonia](https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY) | 3:22 |
 | 25 | [Naufragio \(TANGO\)](https://open.spotify.com/track/2AuZEVc5E1EC7tq7dwseYd) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:51 |
-| 26 | [Hotel Victoria \- original](https://open.spotify.com/track/1QeIGML6ntT3Ml8uFy4Kr0) | [San Telmo Lounge](https://open.spotify.com/artist/30HyR7VywzVrsKvpl2vXu4) | [Madrugada En Backcelonia](https://open.spotify.com/album/6pptnPvirGvArFZd0cYwmY) | 3:22 |
+| 26 | [Bahia Blanca](https://open.spotify.com/track/7djvoHOtL85rHJtwOgmCAW) | [Tanghetto](https://open.spotify.com/artist/2NCZVzchxvVxlKDd05bcHC) | [Milonguero](https://open.spotify.com/album/3k4njpRBXJDfFvZljMXK7g) | 2:50 |
 | 27 | [Milonga Sentimental](https://open.spotify.com/track/0VwavJHr7O1yHBwQ7VtJVr) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Vivo en Otros Aires](https://open.spotify.com/album/17Ww9QMOZszSmfguKkUKWZ) | 3:53 |
-| 28 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 |
-| 29 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 |
+| 28 | [Cafe 1930](https://open.spotify.com/track/1hHhJm5ghxlAYagj8hQgww) | [Al Di Meola](https://open.spotify.com/artist/3bBWKHfpepPOychRNFzg4q) | [Di Meola Plays Piazzolla](https://open.spotify.com/album/1z737UccnQ0DiLcSIdrpw0) | 6:15 |
+| 29 | [Tango De Crueldad](https://open.spotify.com/track/2yuoFc7FMd31eA0gaMmHxq) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Tango De Crueldad](https://open.spotify.com/album/5zZOvM2FlIBpEADJHkUjH1) | 2:23 |
 | 30 | [La Gloria](https://open.spotify.com/track/450mTC6yBia1bnYIvkOlxG) | [Gotan Project](https://open.spotify.com/artist/44ejFPE33H5aOInxNV2BFP), [Victor Hugo Morales](https://open.spotify.com/artist/3ZnvtDHj0Wn6u3d1cm8cxz) | [Tango 3.0](https://open.spotify.com/album/3rII5jVhcZdgz4itaYn7vX) | 3:47 |
 | 31 | [Plano Secuencia](https://open.spotify.com/track/5yDSP6ATR47lNYsLVCaAat) | [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n) | [Narcotango](https://open.spotify.com/album/38eacUHVe4O9Ovy7YxhedA) | 4:12 |
 | 32 | [Milongon](https://open.spotify.com/track/3my9g8hSHnxMO6HiWu53qD) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 2:50 |

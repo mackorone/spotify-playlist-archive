@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 59960,
+  "num_followers": 59988,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABMdi5v8GcXFjHnZf3dIXoJ",
+  "snapshot_id": "aKungAAAAACpmM1UdZNL6uj1MRWZ5D6F",
   "tracks": [
     {
       "added_at": null,
@@ -118,11 +118,15 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Armando Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0e57NG7eXcc9cj1q4sWN7k"
         }
       ],
-      "duration_ms": 185806,
-      "name": "Suero Casero",
-      "url": "https://open.spotify.com/track/69PGSvAuNIxQFIqTmaAdYZ"
+      "duration_ms": 244137,
+      "name": "El Remate",
+      "url": "https://open.spotify.com/track/4aJ1o4U8XpUMj8ZMAwZ9KD"
     },
     {
       "added_at": null,
@@ -186,15 +190,11 @@
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Armando Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/0e57NG7eXcc9cj1q4sWN7k"
         }
       ],
-      "duration_ms": 244137,
-      "name": "El Remate",
-      "url": "https://open.spotify.com/track/4aJ1o4U8XpUMj8ZMAwZ9KD"
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/69PGSvAuNIxQFIqTmaAdYZ"
     },
     {
       "added_at": null,

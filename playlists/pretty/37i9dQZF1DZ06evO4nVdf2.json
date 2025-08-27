@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64095,
+  "num_followers": 64099,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAADgGHqlgg7HzhmjGY1oiqDn",
+  "snapshot_id": "aKungAAAAABGloziv+1uV916AIJd4oBd",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diosa",
-        "url": "https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd"
-      },
-      "artists": [
-        {
-          "name": "Paty Cant\u00fa",
-          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 175113,
-      "name": "Diosa",
-      "url": "https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La M\u00e1quina Persona",
         "url": "https://open.spotify.com/album/4CKMDfvdrGb71J8GoUqDPP"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 163846,
       "name": "Si Esto Es",
       "url": "https://open.spotify.com/track/00YJ1m8El41cHi3airbL0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diosa",
+        "url": "https://open.spotify.com/album/0WG2OF3Lzwm9uOH79quIAd"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 175113,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/2ME99qrLtxZRaCwGKdEY3O"
     },
     {
       "added_at": null,
@@ -631,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viendo Vemos",
+        "url": "https://open.spotify.com/album/5VffydBNDq78uI8GH22itk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 198650,
+      "name": "Viendo Vemos",
+      "url": "https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malcriado",
         "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
@@ -651,22 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viendo Vemos",
-        "url": "https://open.spotify.com/album/5VffydBNDq78uI8GH22itk"
+        "name": "Mediocre",
+        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
       "artists": [
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 198650,
-      "name": "Viendo Vemos",
-      "url": "https://open.spotify.com/track/2YuAAzb6H7V4h2nxH0IIdH"
+      "duration_ms": 256640,
+      "name": "Mediocre",
+      "url": "https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/6YkjeXjD4WHs2tVsoiDSwM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre",
-        "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 256640,
-      "name": "Mediocre",
-      "url": "https://open.spotify.com/track/5076rB7ftd19k0jFNhWr7f"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 218479,
       "name": "No S\u00e9 (feat. Girl Ultra)",
       "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+        "name": "Amor Adolescente",
+        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
       },
       "artists": [
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jay De La Cueva",
-          "url": "https://open.spotify.com/artist/4a7QiZ8zRt2fXpYYryd6jy"
         }
       ],
-      "duration_ms": 221253,
-      "name": "Si nos dejan",
-      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
+      "duration_ms": 193684,
+      "name": "Bailas",
+      "url": "https://open.spotify.com/track/2gGo1gC6YhBn1zZ2SgQuGZ"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

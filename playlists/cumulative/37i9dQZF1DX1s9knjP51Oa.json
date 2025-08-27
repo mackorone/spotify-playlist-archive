@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 140102,
       "name": "Calm Wind",
       "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 130013,
       "name": "Distance",
       "url": "https://open.spotify.com/track/2kfYhnurfTZzBOei3IxO6K"
@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 132000,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7uJUjaDOHi6KH5QUExlhmM"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 134428,
       "name": "Et l\u00f8fte",
       "url": "https://open.spotify.com/track/4KB0FsNnaynCa0Zx8V6h9C"
@@ -6804,7 +6804,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 145657,
       "name": "Introvert",
       "url": "https://open.spotify.com/track/255aV1UNNwLHwkqBAfInaW"
@@ -7740,7 +7740,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 178000,
       "name": "Letting you Go",
       "url": "https://open.spotify.com/track/2ZEYGe4Cwp63NJK7GffB4Q"
@@ -10380,7 +10380,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 136427,
       "name": "Quietly Into The Night",
       "url": "https://open.spotify.com/track/63qPLmDnmhKZbzisq6i03B"
@@ -11172,7 +11172,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 147874,
       "name": "R\u00eaveuse",
       "url": "https://open.spotify.com/track/3IrhvylMyORrBvLbqVR1KM"
@@ -11838,7 +11838,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 150967,
       "name": "Shiranai uta",
       "url": "https://open.spotify.com/track/5hsndwmsZbaqwpnlMuKFFk"
@@ -14618,6 +14618,24 @@
       "duration_ms": 194948,
       "name": "Velez-Malaga",
       "url": "https://open.spotify.com/track/2vevoLZEoZTCAYsvc1TDnq"
+    },
+    {
+      "album": {
+        "name": "Velvet Dusk",
+        "url": "https://open.spotify.com/album/3WHLgkPHToeTjcaWPStWqu"
+      },
+      "artists": [
+        {
+          "name": "Opal",
+          "url": "https://open.spotify.com/artist/1GkiBY8d6lkwJvWb6YFlzS"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138772,
+      "name": "Velvet Dusk",
+      "url": "https://open.spotify.com/track/2WGN0S9K8oAVpYoZaBnq5j"
     },
     {
       "album": {

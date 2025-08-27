@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130022,
+  "num_followers": 130026,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
-        "name": "\u8ddf\u8457\u611f\u89ba\u8d70",
-        "url": "https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1"
-      },
-      "artists": [
-        {
-          "name": "Zhang Zhen Yue",
-          "url": "https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt"
-        }
-      ],
-      "duration_ms": 251434,
-      "name": "\u6885\u96e8\u5b63",
-      "url": "https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6"
-    },
-    {
-      "added_at": "2025-08-21 16:00:38",
-      "album": {
         "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
         "url": "https://open.spotify.com/album/14eqbT2btTxs7iSKz4FhYK"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 251175,
       "name": "\u53bb\u5317\u6975\u5fd8\u8a18\u4f60",
       "url": "https://open.spotify.com/track/0qBH1UQxdvqYyZrFQUBFno"
+    },
+    {
+      "added_at": "2025-08-21 16:00:38",
+      "album": {
+        "name": "\u8ddf\u8457\u611f\u89ba\u8d70",
+        "url": "https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1"
+      },
+      "artists": [
+        {
+          "name": "Zhang Zhen Yue",
+          "url": "https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt"
+        }
+      ],
+      "duration_ms": 251434,
+      "name": "\u6885\u96e8\u5b63",
+      "url": "https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6"
     },
     {
       "added_at": "2025-08-21 16:00:38",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
-        "name": "\u611b\u7684\u5c0d\u767d",
-        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
+        "name": "\u5de6\u908a\u7684\u4eba",
+        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
       },
       "artists": [
         {
-          "name": "The Chairs",
-          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
         }
       ],
-      "duration_ms": 185077,
-      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
-      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
+      "duration_ms": 216585,
+      "name": "\u5de6\u908a\u7684\u4eba",
+      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
     },
     {
       "added_at": "2025-08-21 16:00:38",
@@ -451,18 +451,18 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
-        "name": "\u5de6\u908a\u7684\u4eba",
-        "url": "https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq"
+        "name": "\u611b\u7684\u5c0d\u767d",
+        "url": "https://open.spotify.com/album/6LHSVcmUUJuSVuBt14uGEV"
       },
       "artists": [
         {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
         }
       ],
-      "duration_ms": 216585,
-      "name": "\u5de6\u908a\u7684\u4eba",
-      "url": "https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6"
+      "duration_ms": 185077,
+      "name": "\u60f3\u548c\u4f60\u8aaa\u8aaa\u8a71",
+      "url": "https://open.spotify.com/track/1Z3aEPuzNCiOcECvOGUDwf"
     },
     {
       "added_at": "2025-08-21 16:00:38",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
-        "name": "\u7a7a\u62cd / \u7c73\u87f2 (Pause ll / Bugtato)",
-        "url": "https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "\u7a7a\u62cd (Pause ll)",
-      "url": "https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs"
-    },
-    {
-      "added_at": "2025-08-21 16:00:38",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 187369,
       "name": "If Only...",
       "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+    },
+    {
+      "added_at": "2025-08-21 16:00:38",
+      "album": {
+        "name": "\u7a7a\u62cd / \u7c73\u87f2 (Pause ll / Bugtato)",
+        "url": "https://open.spotify.com/album/49PataWKutkBZV6zzjMmy3"
+      },
+      "artists": [
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "\u7a7a\u62cd (Pause ll)",
+      "url": "https://open.spotify.com/track/18Wo0xpaHdT0p5ay6mnJjs"
     },
     {
       "added_at": "2025-08-21 16:00:38",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
+        "name": "T.I.A.",
+        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+      },
+      "artists": [
+        {
+          "name": "TIA RAY",
+          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
+      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+    },
+    {
+      "added_at": "2025-08-21 16:00:38",
+      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
-    },
-    {
-      "added_at": "2025-08-21 16:00:38",
-      "album": {
-        "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
-        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u9752\u5cf0",
-          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
-        }
-      ],
-      "duration_ms": 295025,
-      "name": "\u5e74\u8f2a\u8aaa",
-      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2025-08-21 16:00:38",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
-        "name": "T.I.A.",
-        "url": "https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi"
+        "name": "\u518a\u8449\u4e00\uff1a\u4e00\u8207\u4e00",
+        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
       },
       "artists": [
         {
-          "name": "TIA RAY",
-          "url": "https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL"
+          "name": "\u5433\u9752\u5cf0",
+          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
         }
       ],
-      "duration_ms": 234828,
-      "name": "\u65c5\u884c\u4e2d\u5fd8\u8a18",
-      "url": "https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA"
+      "duration_ms": 295025,
+      "name": "\u5e74\u8f2a\u8aaa",
+      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2025-08-21 16:00:38",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-08-21 16:00:38",
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A"
-      },
-      "artists": [
-        {
-          "name": "\u9ad8\u771f TRU",
-          "url": "https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3"
-        }
-      ],
-      "duration_ms": 295601,
-      "name": "\u95dc\u65bc\u611b\u60c5",
-      "url": "https://open.spotify.com/track/39TtAOjGM22FiDN0CKQ5En"
-    },
-    {
-      "added_at": "2025-08-21 16:00:38",
-      "album": {
         "name": "\u8f38\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224653,
       "name": "\u8f38\u60c5\u6b4c",
       "url": "https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8"
+    },
+    {
+      "added_at": "2025-08-21 16:00:38",
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/15NHua85t5PCRuJj98Fy9A"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u771f TRU",
+          "url": "https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3"
+        }
+      ],
+      "duration_ms": 295601,
+      "name": "\u95dc\u65bc\u611b\u60c5",
+      "url": "https://open.spotify.com/track/39TtAOjGM22FiDN0CKQ5En"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

@@ -4,7 +4,7 @@
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-254 songs - 12 hr 15 min
+255 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Marbella Waves](https://open.spotify.com/track/1XNFdJdT38oeeNZiDM4PRM) | [Waves Of Costa Del Sol](https://open.spotify.com/artist/1M88QW89XCkoeVoKiNZOEM) | [Volume 1](https://open.spotify.com/album/26SVFl72zzs2pKMcQ7Hp0x) | 3:10 | 2021-11-10 |  |
 | [Massive Waves](https://open.spotify.com/track/1vPIDPxEUnDnCWxp9Ffu1S) | [Sundays By The Ocean](https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg) | [Volume Two](https://open.spotify.com/album/7tUbD65VOcEepfGQ6LVrd5) | 3:10 | 2021-11-10 |  |
 | [Meditation Waves](https://open.spotify.com/track/69Piw2qUQQBIWdSIhHWzaO) | [Japanese Garden](https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ) | [Stream Of Life](https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN) | 2:18 | 2021-11-10 |  |
-| [Melodic Sounds of the Rolling Waves](https://open.spotify.com/track/3rOYb2f2nDC3seenMlYqfX) | [Ocean Makers](https://open.spotify.com/artist/7boWOAsP1MHqkTWt8fyMO1) | [Serene Waves of the Pacific](https://open.spotify.com/album/05q6PAOZTKTHivzgVHSXwp) | 2:08 | 2023-06-19 |  |
+| [Melodic Sounds of the Rolling Waves](https://open.spotify.com/track/3rOYb2f2nDC3seenMlYqfX) | [Ocean Makers](https://open.spotify.com/artist/7boWOAsP1MHqkTWt8fyMO1) | [Serene Waves of the Pacific](https://open.spotify.com/album/05q6PAOZTKTHivzgVHSXwp) | 2:08 | 2023-06-19 | 2025-08-27 |
 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 | 2021-11-10 | 2024-03-26 |
 | [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2021-11-10 |  |
 | [Morning Waves](https://open.spotify.com/track/5INDVNIG8V2KNJxqVqhEPy) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Morning Waves](https://open.spotify.com/album/1dnyX6de5FxDDkQOdvK0Hj) | 1:49 | 2021-11-10 | 2023-06-20 |
@@ -215,6 +215,7 @@
 | [The Relaxing Waves](https://open.spotify.com/track/2BxtM2sfnbMeybXiaOCXZJ) | [Wavezze](https://open.spotify.com/artist/3o5UfxtSucVNHzD7L4uyRT) | [The Relaxing Waves](https://open.spotify.com/album/3bWHpzKQHZJPVmjIVEGiao) | 2:39 | 2021-11-10 | 2024-03-26 |
 | [Three Minutes By The Ocean](https://open.spotify.com/track/0Rq7hjlS4yPq2VW2DsRLy6) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 | 2021-11-10 | 2024-03-26 |
 | [Three Minutes Of Breathing Waves](https://open.spotify.com/track/31SevMkEKupBNpthM8Zkja) | [next nature](https://open.spotify.com/artist/0GsJOKuWnueBiINONW4yhg) | [Ocean Sounds](https://open.spotify.com/album/0ridirYvKxFJckbFONyav5) | 3:06 | 2021-11-10 |  |
+| [Tides of Ruissalo](https://open.spotify.com/track/7v8Wp2fSy6gQ4O8vncxJnF) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Tides of Ruissalo](https://open.spotify.com/album/1wEcDkUoIETJlmJylUxjtZ) | 2:49 | 2025-07-21 |  |
 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 | 2021-11-10 |  |
 | [Vagues Secrètes](https://open.spotify.com/track/1SJWEPfDt9U4t9q2w2UtXv) | [Vagues Dans La Mer](https://open.spotify.com/artist/6DxfAk7g7J4PUg4zFvOK9t) | [Surfez Sur Les Vagues](https://open.spotify.com/album/11VPKyawPrb6lOe2fGQZVZ) | 1:43 | 2021-11-10 | 2023-06-20 |
 | [Venice Beach Waves](https://open.spotify.com/track/7hyGZCYCcnBWpvMrnTpFjC) | [Pacific Ocean Wave Sounds](https://open.spotify.com/artist/5xS7pgxPJgT5afkIppVezB) | [Volume 1](https://open.spotify.com/album/3RSVUGZJ3Zc0iEKZG5mvf9) | 3:09 | 2021-11-10 |  |

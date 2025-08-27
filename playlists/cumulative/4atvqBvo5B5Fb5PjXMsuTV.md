@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Aug 08:07 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 27 Aug 22:06 UTC.
 
-5,385 songs - 12 day 12 hr 21 min
+5,387 songs - 12 day 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [10 Days In Atlanta](https://open.spotify.com/track/2bREFdRHdEVzK3JwH0kwqs) | [Cody Ray](https://open.spotify.com/artist/7nqVEhD14JLieCcN2n3CiB), [DreTL](https://open.spotify.com/artist/5298BtBsIkjSsWwvpRR7sg) | [10 Days In Atlanta](https://open.spotify.com/album/0BSffTYY0pkQNgr7F5nblB) | 2:25 | 2024-12-19 | 2024-12-21 |
 | [10 PERCS](https://open.spotify.com/track/6kUG8UG5fovxdzw5N9WJw2) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [10 PERCS](https://open.spotify.com/album/2dNJwZQuhgvuNzqNnZ3mtC) | 2:34 | 2024-10-04 | 2024-10-06 |
 | [100 bux](https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [100 bux](https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz) | 3:15 | 2024-08-27 | 2024-08-30 |
+| [100 Horses](https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [100 Horses](https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG) | 3:46 | 2025-08-26 |  |
 | [1000 de parai](https://open.spotify.com/track/71XZRfa9KwmwnUm0sOmOXv) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Advok](https://open.spotify.com/artist/7FWzGkDtMU6QHAjagAUTDf) | [1000 de parai](https://open.spotify.com/album/50nzYgknIsGteVKVYHXUNP) | 3:14 | 2024-06-20 | 2024-06-22 |
 | [101Barz, Pt\. 1](https://open.spotify.com/track/6yIPgknrLoK57VuEVkwbAn) | [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [101Barz Freestyle](https://open.spotify.com/album/6riKjGM4Wtzm7w6Mzdx8xX) | 2:28 | 2024-12-12 | 2024-12-14 |
 | [10’000 Steps But Still Biting My Nails](https://open.spotify.com/track/450UurhtzSWoX9PhnsRsyV) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI) | [10'000 Steps But Still Biting My Nails](https://open.spotify.com/album/6oLCks3gDn17lXS9BO7Ok1) | 5:12 | 2024-10-22 | 2024-10-25 |
@@ -294,7 +295,7 @@
 | [Ankaran](https://open.spotify.com/track/6oXl3uSpSodmkClmCP16Nt) | [Hiljson Mandela](https://open.spotify.com/artist/05RXYlsCKzkb418GEvYCip), [Biba](https://open.spotify.com/artist/2AVWBp9fVh1GOCQflKM7wo) | [Ankaran](https://open.spotify.com/album/08n7jrfr0xzBjE7PvpgY1S) | 2:08 | 2024-05-16 | 2024-05-18 |
 | [Ankles](https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P) | 3:11 | 2025-01-15 | 2025-01-23 |
 | [Ann Demeulemeester](https://open.spotify.com/track/4TGG2aGxc7wVDdTn8cG4MD) | [Turnabout](https://open.spotify.com/artist/2crhDD8M5Zg3Q5MzOA5VYn) | [Ann Demeulemeester](https://open.spotify.com/album/5wjdd8WsQvtg8MMO21JClI) | 2:26 | 2025-07-28 | 2025-08-03 |
-| [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-15 |  |
+| [Annihilate Me](https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Annihilate Me](https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc) | 3:22 | 2025-08-15 | 2025-08-27 |
 | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/track/2MYh0CcF8dGciG2JoZtAX7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ivory Nwigwe](https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ), [Yael Hilton](https://open.spotify.com/artist/3Gl0EmGURWi1cO7N9GXIwF) | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/album/7jxkQioIJb8LrVQZpe3u4w) | 1:39 | 2024-08-25 | 2024-08-30 |
 | [anointment](https://open.spotify.com/track/5oA1G5wko4qIZE3VokD3uC) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [anointment](https://open.spotify.com/album/2ErOik3Sm5yDZCFkDWZ3co) | 3:49 | 2025-03-09 | 2025-03-18 |
 | [Another Miracle](https://open.spotify.com/track/5Y3hPT9upS62nApMxP2sr0) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Another Miracle](https://open.spotify.com/album/4iSSSXoL42ku91qTT2dyeb) | 3:10 | 2025-05-08 | 2025-05-17 |
@@ -610,6 +611,7 @@
 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-01-27 | 2025-02-06 |
 | [Blue Kite](https://open.spotify.com/track/3mmPVTmjCRIa7p7cA8lDTh) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [Blue Kite](https://open.spotify.com/album/22RNSXaulZOIgT9aA8XaTu) | 6:11 | 2024-05-15 | 2024-05-18 |
 | [Blue Moon](https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Blue Moon](https://open.spotify.com/album/5Eg6oyQd5RJS7KuGooq5iJ) | 3:17 | 2024-11-08 | 2024-11-12 |
+| [BLUE!](https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [BLUE!](https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM) | 3:16 | 2025-08-26 |  |
 | [blue.](https://open.spotify.com/track/783zypfamIgItGAHk32Kc0) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [blue.](https://open.spotify.com/album/41sd8E6f7QS9lAel96Y3qY) | 2:05 | 2025-06-06 | 2025-06-16 |
 | [blueberry skies](https://open.spotify.com/track/7N1oFigY2Pgza5CV3b50Mz) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [blueberry skies](https://open.spotify.com/album/08F7tSrEiaxAgtkwt3eGPf) | 2:27 | 2024-09-20 | 2024-09-22 |
 | [Blueberry Syrup](https://open.spotify.com/track/6qJiJZ9aeorNSFiWMAIFBg) | [Twelve'len](https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Blueberry Syrup](https://open.spotify.com/album/3IB1E648JnENA7Z3wJkuwk) | 3:25 | 2024-10-21 | 2024-10-24 |
@@ -1886,7 +1888,7 @@
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-06-18 | 2024-06-20 |
 | [God Gets You Back](https://open.spotify.com/track/0nGjGqo75o3dBKnBMPdr8K) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [God Gets You Back](https://open.spotify.com/album/469HjcDuXmmeyQrx2mWhWD) | 6:40 | 2024-09-17 | 2024-09-20 |
 | [God Is A Weapon](https://open.spotify.com/track/0mROspyBziPHPyxTPFvKaH) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [God Is A Weapon](https://open.spotify.com/album/4VzRZ2DzakebhZtsmG42lw) | 3:35 | 2025-05-20 | 2025-05-31 |
-| [GOD IS AN ANIMAL](https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOD IS AN ANIMAL](https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF) | 3:55 | 2025-08-16 |  |
+| [GOD IS AN ANIMAL](https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [GOD IS AN ANIMAL](https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF) | 3:55 | 2025-08-16 | 2025-08-27 |
 | [GOD LEVEL](https://open.spotify.com/track/11VVyQon40HQu03a0arxlT) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [GOD LEVEL](https://open.spotify.com/album/4m7EvGWRtPbnJvbwgOfbuH) | 3:18 | 2024-08-30 | 2024-09-04 |
 | [God Of Everything Else](https://open.spotify.com/track/1FdNGkakDRkiySWwQMhn35) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [God Of Everything Else](https://open.spotify.com/album/0DR9Msk0sSnmxlVN52exYN) | 3:24 | 2024-10-16 | 2024-10-18 |
 | [God Speed](https://open.spotify.com/track/7wghH6oB5YTfYHW6C0dLrW) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [God Speed](https://open.spotify.com/album/3DFGO7JzRYsggCrwukYKYr) | 3:18 | 2024-05-15 | 2024-05-18 |

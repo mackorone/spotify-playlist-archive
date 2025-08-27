@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Mark Carpio
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,695 likes - 141 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,744 likes - 141 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 109 | [If You're Not Mine](https://open.spotify.com/track/5qrjL6IfWM5nWERpxn2M0B) | [12th Street](https://open.spotify.com/artist/1WzkRNh7qkdpJIIuJ0ZWWG) | [If You're Not Mine](https://open.spotify.com/album/481SI0H0rW3KnjlvxVFNVt) | 4:09 |
 | 110 | [Hardin](https://open.spotify.com/track/1WVHEZbUfXIR0pvyVn3aAf) | [Luna and Apollo](https://open.spotify.com/artist/3lGTdR80bbZBncRYdXOwy8), [Fred Engay](https://open.spotify.com/artist/007MmXwT1HwcXwuyROgNJb) | [Hardin](https://open.spotify.com/album/6AiYfAPOpO10WD6Rnu6lEl) | 5:43 |
 | 111 | [Gently](https://open.spotify.com/track/4OGqCQKB2e867ucmL23qPf) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Gently](https://open.spotify.com/album/2CNDVJNk6clHni9na9ceXt) | 2:58 |
-| 112 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0ih2mQrqesmfugYZ2WNLJZ) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 |
+| 112 | [AKIN](https://open.spotify.com/track/5MT8VS94CftuX3KdPZdBUn) | [LUMI](https://open.spotify.com/artist/0iXMbg56YghBO3Fx2dZFwA) | [AKIN](https://open.spotify.com/album/4KKSk2igvtrIzzb2AtoxJX) | 3:04 |
 | 113 | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/track/521fDEPuyS2szREJ9NkMDs) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Loonie](https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc) | [Ikigai \(feat\. Loonie\)](https://open.spotify.com/album/4XkhhI9dq3Dr2IJGpiXpBf) | 4:05 |
 | 114 | [Rosas](https://open.spotify.com/track/3kedvnPWaRcrshtiV6e6Z3) | [Jenzen Guino](https://open.spotify.com/artist/3jkBa6etjIDCdf13YXJ0pS) | [Rosas](https://open.spotify.com/album/6dAmnkJugmwr6Db7HLuqHr) | 3:23 |
 | 115 | [Kape](https://open.spotify.com/track/3GeVvV5HZGJh57wz9CS5ZF) | [Destiny Palisoc](https://open.spotify.com/artist/5pEHj8qSCc3G2S5mXZWoWj) | [Kape](https://open.spotify.com/album/6zxSfy6cYswUt1TpOcJ49e) | 3:19 |

@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-552 songs - 1 day 4 hr 59 min
+554 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Celebration Time](https://open.spotify.com/track/6u3Eq36eKVkgPruG8oeInb) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Dj Wiz](https://open.spotify.com/artist/4Ol5bbif4i2bUJSABdm62F) | [Celebration Time](https://open.spotify.com/album/5QwmkRNrKmaN6uJDHP92wZ) | 3:09 | 2024-05-30 | 2024-08-20 |
 | [Champion](https://open.spotify.com/track/4jyh0DRepnfq6yLKXEPQv2) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Champion](https://open.spotify.com/album/2EmksNEKe2Fxg5xqIaJ8ai) | 6:21 | 2024-10-04 |  |
 | [Champion Body](https://open.spotify.com/track/1kBg2zpHm5pM23sYbxmXWs) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Champion Body](https://open.spotify.com/album/3Ap1vptQs3YAdnbXld9kOz) | 2:29 | 2022-02-01 | 2022-02-24 |
-| [CHAMPION FLOW](https://open.spotify.com/track/6ATbwycCQuR1rPN4Lsnrhk) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [CHAMPION FLOW](https://open.spotify.com/album/1tyC2BlCMz0hr8oJIbR1Lj) | 2:44 | 2025-08-04 |  |
+| [CHAMPION FLOW](https://open.spotify.com/track/5dsUFwWl5U8336RqCX0YRX) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:40 | 2025-08-26 |  |
+| [CHAMPION FLOW](https://open.spotify.com/track/6ATbwycCQuR1rPN4Lsnrhk) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [CHAMPION FLOW](https://open.spotify.com/album/1tyC2BlCMz0hr8oJIbR1Lj) | 2:44 | 2025-08-04 | 2025-08-27 |
 | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Cheat On Me \(feat\. Dave\)](https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi) | 3:42 | 2024-03-28 |  |
 | [Check \(with RAYE\)](https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Golden Boy](https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P) | 3:35 | 2021-12-16 | 2022-01-26 |
 | [Chikita Mala](https://open.spotify.com/track/5BSdnQ5XmAggtbbH0uccSM) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Chikita Mala](https://open.spotify.com/album/7xQXeap3WXC7oBzPYRne1K) | 3:21 | 2022-03-10 | 2022-07-29 |
@@ -558,7 +559,8 @@
 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 | 2024-03-25 | 2025-02-23 |
 | [Your Number](https://open.spotify.com/track/5J4FiKDJIdJ8AKx2gaWMt4) | [Ayo Jay](https://open.spotify.com/artist/1V6rvT87qMQvo6HAixjlpY) | [Your Number](https://open.spotify.com/album/2dusPkqFxxdOtmG1JpKFFN) | 3:24 | 2021-12-16 | 2021-12-29 |
 | [Yuh Know](https://open.spotify.com/track/5Ymzzusy4IzDkh9an3nOxW) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Yuh Know](https://open.spotify.com/album/7g3ZwGUMF0bVg9VXXSuPXm) | 3:19 | 2021-12-16 | 2022-07-26 |
-| [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-22 |  |
+| [ZAAZAA](https://open.spotify.com/track/1ViD8tjPZVFZKAC8O7Gmfi) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [bLoOdLine](https://open.spotify.com/album/5yXbtQeFi51B9YKn1X5SR6) | 2:34 | 2025-08-26 |  |
+| [ZAAZAA](https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [ZAAZAA](https://open.spotify.com/album/0XkWzZBBmgflP8EycXeaFB) | 2:36 | 2025-05-22 | 2025-08-27 |
 | [Ça Sert à Rien](https://open.spotify.com/track/0FmQ6iu0RCCUdIntK2q2eL) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Emms](https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Ça Sert à Rien](https://open.spotify.com/album/2GIqPe6SrTBebOm1DCgJG5) | 2:50 | 2021-12-16 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

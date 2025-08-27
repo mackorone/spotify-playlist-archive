@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Vesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,019 likes - 78 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,020 likes - 78 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

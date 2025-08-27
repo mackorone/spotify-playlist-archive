@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 195480,
       "name": "One Light (feat. Yung Bleu) - Remix",
       "url": "https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA"
@@ -1984,7 +1984,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 161538,
       "name": "Sex Lies (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
@@ -2332,6 +2332,32 @@
     {
       "album": {
         "name": "This Right Here (feat. Latto)",
+        "url": "https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189871,
+      "name": "This Right Here (feat. Latto)",
+      "url": "https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG"
+    },
+    {
+      "album": {
+        "name": "This Right Here (feat. Latto)",
         "url": "https://open.spotify.com/album/1ZyoeTI4JofLA7tBGMFgvY"
       },
       "artists": [
@@ -2350,7 +2376,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 189871,
       "name": "This Right Here (feat. Latto)",
       "url": "https://open.spotify.com/track/3yHDVUcMXHbuCOIl2E1at5"

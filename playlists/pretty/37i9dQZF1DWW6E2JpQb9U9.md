@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,012 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,015 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 38 | [Demoliendo Hoteles \- Live](https://open.spotify.com/track/15dNGPxvzuCvTBzFGmveZi) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 5:29 |
 | 39 | [Traicionero \- En Vivo en el Estadio Único](https://open.spotify.com/track/64ovzYdza1i6uCLVxp7qWb) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [En Vivo en el Estadio Único](https://open.spotify.com/album/7GYnlBfQuUjK8ArBRMtYxp) | 5:41 |
 | 40 | [Yo Tomo \- Live In Buenos Aires / 2001](https://open.spotify.com/track/3AjtTcyP76C5Cwb0qfvPM6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 3:46 |
-| 41 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 |
-| 42 | [Reyes de la Noche](https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Rock De Mi Vida](https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym) | 4:23 |
+| 41 | [Reyes de la Noche](https://open.spotify.com/track/5BtQSJAmxP3ezx5ZXR2p8s) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [El Rock De Mi Vida](https://open.spotify.com/album/5UjmKvT1dxShYW7hbLRrym) | 4:23 |
+| 42 | [Ya No Estás \- En Vivo en el Luna Park](https://open.spotify.com/track/3c8v1vkAFkEMn17asSMldf) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Vivo](https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o) | 3:34 |
 | 43 | [Roxana Porcellana \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Roxana Porcellana \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i) | 4:05 |
 | 44 | [Esquina de la Sombra \- Vivo en Buenos Aires](https://open.spotify.com/track/1sefKirdjupi5Ai7rUjIck) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Correntada \(Vivo en Buenos Aires\)](https://open.spotify.com/album/0oEqZVAVscxdXe7kLDtJGI) | 4:02 |
 | 45 | [Tan Lejos](https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 4:44 |

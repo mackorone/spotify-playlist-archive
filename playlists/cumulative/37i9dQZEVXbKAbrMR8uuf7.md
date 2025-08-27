@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,947 songs - 4 day 6 hr 6 min
+1,948 songs - 4 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1371,9 +1371,10 @@
 | [POLARIS \- Remix](https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [POLARIS \(Remix\)](https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv) | 4:48 | 2023-06-10 | 2023-06-12 |
 | [Polvo](https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Polvo](https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB) | 3:31 | 2021-03-27\* | 2021-04-21 |
 | [Ponte Pa Mi Remake](https://open.spotify.com/track/0kMrdZdfknPK3xXZrDj2Nw) | [Nya Shanell](https://open.spotify.com/artist/1CoUAJLs76z5knmQizczJX) | [Ponte Pa Mi Remake](https://open.spotify.com/album/45eBsid76c7SpzYVQpSaIV) | 2:57 | 2021-08-28 | 2021-09-03 |
+| [Por Llamada](https://open.spotify.com/track/7kvWZ4slpqrJLl7oWuTqq3) | [Starlin LaTinta](https://open.spotify.com/artist/2xn5qFbm4QMH0k7IaoOdIZ) | [Por Llamada](https://open.spotify.com/album/300Go2SaRFmKiTV2CFfJr5) | 2:43 | 2025-08-26 |  |
 | [Por Que Te Niegas](https://open.spotify.com/track/1DAwpBU2JANIwrT5xT6K3U) | [Mickey Then](https://open.spotify.com/artist/6Xu0RsSkyZCkBUXDiRvyMT), [JR](https://open.spotify.com/artist/3XH9HjOmomIwvkGpYRKIGl) | [Por Que Te Niegas](https://open.spotify.com/album/7zLEJEnyS2GBvIhmcds16F) | 3:43 | 2023-08-01 | 2023-09-04 |
 | [Por Ti](https://open.spotify.com/track/38aDYQkkB3DzbF2Rl8lugB) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp) | [Colapso](https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX) | 3:49 | 2022-09-11 | 2022-10-02 |
-| [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 | 2024-11-10 |  |
+| [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 | 2024-11-10 | 2025-08-27 |
 | [Porsche Carrera](https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:14 | 2024-09-07 | 2024-09-09 |
 | [PortoBello](https://open.spotify.com/track/4HXcnBfKuqGC2fIYXquurs) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:46 | 2022-12-03 | 2022-12-06 |
 | [Posa](https://open.spotify.com/track/1JIzw3BtVuntj30MKNhoLt) | [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Joey Calveiro](https://open.spotify.com/artist/0gBGs4D4ABcc4TiW8O2z1e), [Omi Hernandez](https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA) | [Posa](https://open.spotify.com/album/51vnZDO3B9fX0zakxM7MDy) | 3:01 | 2023-12-03 | 2023-12-05 |

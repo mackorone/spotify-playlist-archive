@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Rah43YvyO765e4gACIDef.md) - [plain]
 
 > Wake up in your makeup? Rock it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82 likes - 24 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83 likes - 24 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

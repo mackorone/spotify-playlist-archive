@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0C4j07kqyaF5WR5MXiRpz8"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Akhtar Chinnal",
+          "url": "https://open.spotify.com/artist/0rCstvhcy1BZyDomzN0YPE"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224206,
+      "name": "Afghan Jalebi (Film Version)",
+      "url": "https://open.spotify.com/track/1rEVydQSe04NJUqyyEyeEq"
+    },
+    {
+      "album": {
         "name": "Band Baaja Baaraat",
         "url": "https://open.spotify.com/album/7AYweNv9TK4bWe1zP2rcRU"
       },
@@ -112,6 +134,36 @@
       "duration_ms": 267624,
       "name": "Ainvayi Ainvayi",
       "url": "https://open.spotify.com/track/74AqVxZ3oXwJ8olHssBUG3"
+    },
+    {
+      "album": {
+        "name": "Akeli Laila (From \"Baaghi 4\")",
+        "url": "https://open.spotify.com/album/5iIS0NcWZwGT466STrwCRN"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Danish Sabri",
+          "url": "https://open.spotify.com/artist/1d1zBysvyutA5en7DZnvJW"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168027,
+      "name": "Akeli Laila (From \"Baaghi 4\")",
+      "url": "https://open.spotify.com/track/7ecJf6mEelIuxKhY3bQFXy"
     },
     {
       "album": {
@@ -526,7 +578,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 216081,
       "name": "Chikitu (From \"Coolie The Powerhouse\") (Hindi)",
       "url": "https://open.spotify.com/track/2ChW4bTtgYuf0nLel7dKMf"
@@ -1326,7 +1378,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 152188,
       "name": "Jaadu (From \"Jewel Thief: The Heist Begins\")",
       "url": "https://open.spotify.com/track/1DRWjFJHyJJy4S0FB9MdD5"

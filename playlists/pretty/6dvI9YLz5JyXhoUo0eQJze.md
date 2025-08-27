@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,767 likes - 55 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,766 likes - 55 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/6dvI9YLz5JyXhoUo0eQJze.md) - [plain]
 | 2 | [Strawberry Letter 23](https://open.spotify.com/track/1DmdXg5mmFOvlRvHYPjRU8) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Jackie Brown \(Music from the Miramax Motion Picture\)](https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8) | 4:58 |
 | 3 | [Unchained \(The Payback / Untouchable\)](https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 2:51 |
 | 4 | [Too Old To Die Young](https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp) | [Brother Dege](https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR) | [Quentin Tarantino’s Django Unchained Original Motion Picture Soundtrack](https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L) | 3:43 |
-| 5 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo) | [Santa Esmeralda](https://open.spotify.com/artist/1QZVO3O03uJ61pX7Heo5qx) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 10:28 |
+| 5 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo) | [Santa Esmeralda](https://open.spotify.com/artist/0iGmfKLgK5eSMgHp8YgLnS) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 10:28 |
 | 6 | [Cat People \(Putting Out The Fire\)](https://open.spotify.com/track/6HXvGhmrsMEZ9AxD1Vjejz) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Quentin Tarantino's Inglourious Basterds \(Motion Picture Soundtrack\)](https://open.spotify.com/album/4bjjJu3euJ6tVIeobbhwRO) | 4:10 |
 | 7 | [Miserlou](https://open.spotify.com/track/1MLUxFwS1d4eY0JWIEkn4X) | [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Surfer's Choice](https://open.spotify.com/album/4VhkkcKpV1ObX5OXrBNY7f) | 2:15 |
 | 8 | [Son Of A Preacher Man](https://open.spotify.com/track/0scrtPmtlIVwwk9s4LXJ8n) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Silver Collection](https://open.spotify.com/album/6t4BECovfkgGTrtbqmTlZf) | 2:26 |

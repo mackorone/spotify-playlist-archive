@@ -1,6 +1,6 @@
 {
   "description": "pi\u00e3o na jacu p\u00eassego ali, fk nos falante alt\u00e3o pensa?",
-  "num_followers": 1405153,
+  "num_followers": 1405061,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -727,66 +727,6 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
-        "name": "Veterano",
-        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
-      },
-      "artists": [
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        },
-        {
-          "name": "Vinicin",
-          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
-        },
-        {
-          "name": "Surfista",
-          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
-        },
-        {
-          "name": "Ryuchi",
-          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
-        },
-        {
-          "name": "Ian Durso",
-          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
-        },
-        {
-          "name": "JVMVO",
-          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Veterano",
-      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
-    },
-    {
-      "added_at": "2025-08-22 03:01:24",
-      "album": {
-        "name": "A Cara do Enquadro",
-        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        },
-        {
-          "name": "Yokame",
-          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
-        }
-      ],
-      "duration_ms": 155315,
-      "name": "Concreto e A\u00e7o",
-      "url": "https://open.spotify.com/track/2P2BS5z7grEIOGTvBH3Mhn"
-    },
-    {
-      "added_at": "2025-08-22 03:01:24",
-      "album": {
         "name": "Eu Odeio o Dia dos Namorados",
         "url": "https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu"
       },
@@ -827,6 +767,66 @@
       "duration_ms": 255000,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/2fUBYMrJ968lLDHH8o3ocg"
+    },
+    {
+      "added_at": "2025-08-22 03:01:24",
+      "album": {
+        "name": "A Cara do Enquadro",
+        "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "Yokame",
+          "url": "https://open.spotify.com/artist/4IEFTmI2K5xj488kIn268F"
+        }
+      ],
+      "duration_ms": 155315,
+      "name": "Concreto e A\u00e7o",
+      "url": "https://open.spotify.com/track/2P2BS5z7grEIOGTvBH3Mhn"
+    },
+    {
+      "added_at": "2025-08-22 03:01:24",
+      "album": {
+        "name": "Veterano",
+        "url": "https://open.spotify.com/album/215PUKKoEsit8HmWhUhcnl"
+      },
+      "artists": [
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Surfista",
+          "url": "https://open.spotify.com/artist/5AMeLwKDeR7h8z6ai0IPnX"
+        },
+        {
+          "name": "Ryuchi",
+          "url": "https://open.spotify.com/artist/1hRr8Cy8VOjr7qdw1Z52OU"
+        },
+        {
+          "name": "Ian Durso",
+          "url": "https://open.spotify.com/artist/6fSoEkQM8gF5YhRV5fIDj3"
+        },
+        {
+          "name": "JVMVO",
+          "url": "https://open.spotify.com/artist/08F5AzsBBUfIxbtQzUIZQ9"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Veterano",
+      "url": "https://open.spotify.com/track/0RkL3poajWMDLB7Q90cpjr"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
+        "name": "808 CLUB: AFTER",
+        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 213681,
+      "name": "Drive-In",
+      "url": "https://open.spotify.com/track/337ctDJq6yBjGmHuN3AYCX"
+    },
+    {
+      "added_at": "2025-08-22 03:01:24",
+      "album": {
         "name": "MAIOR QUE O TEMPO",
         "url": "https://open.spotify.com/album/3Cjn6aliQrVp6MPiU4oAdw"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 164307,
       "name": "PRETTY LET GIRL",
       "url": "https://open.spotify.com/track/5UBCGftdDXdaxomn1eloLC"
-    },
-    {
-      "added_at": "2025-08-22 03:01:24",
-      "album": {
-        "name": "808 CLUB: AFTER",
-        "url": "https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 213681,
-      "name": "Drive-In",
-      "url": "https://open.spotify.com/track/337ctDJq6yBjGmHuN3AYCX"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -1071,30 +1071,30 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+        "name": "Eh Noiz Ki T\u00e1",
+        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
       "artists": [
         {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "MC Rah",
+          "url": "https://open.spotify.com/artist/6ySG9bDJ4Da8NWBQqmlWKa"
         },
         {
-          "name": "DJ Yago",
-          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
         },
         {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Modelo Brasileiro",
-      "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
+      "duration_ms": 206843,
+      "name": "Sem Sentir Saudade",
+      "url": "https://open.spotify.com/track/5NTjJOysVSlvIm8S7asj94"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -1127,13 +1127,13 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
-        "name": "M\u00d3 CASTIGO",
-        "url": "https://open.spotify.com/album/1AZwt72me6GhRLGN2tY0aN"
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
       "artists": [
         {
-          "name": "tarisiix",
-          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
           "name": "Yuri Redicopa",
@@ -1144,13 +1144,13 @@
           "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
         },
         {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 160000,
-      "name": "M\u00d3 CASTIGO",
-      "url": "https://open.spotify.com/track/6pBWbU4PABU5JmxwWMbpbR"
+      "duration_ms": 153600,
+      "name": "Modelo Brasileiro",
+      "url": "https://open.spotify.com/track/1eUroITcNroW3plXlvt6ZV"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -1203,6 +1203,34 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
+        "name": "M\u00d3 CASTIGO",
+        "url": "https://open.spotify.com/album/1AZwt72me6GhRLGN2tY0aN"
+      },
+      "artists": [
+        {
+          "name": "tarisiix",
+          "url": "https://open.spotify.com/artist/4b5I4xEeXjnhiWqMFQU3Si"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ Yago",
+          "url": "https://open.spotify.com/artist/4tdmp3YXtKZU6mk91K9yJb"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "M\u00d3 CASTIGO",
+      "url": "https://open.spotify.com/track/6pBWbU4PABU5JmxwWMbpbR"
+    },
+    {
+      "added_at": "2025-08-22 03:01:24",
+      "album": {
         "name": "Eh Noiz Ki T\u00e1",
         "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
       },
@@ -1212,21 +1240,21 @@
           "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "MC Rah",
-          "url": "https://open.spotify.com/artist/6ySG9bDJ4Da8NWBQqmlWKa"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         },
         {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
         }
       ],
-      "duration_ms": 206843,
-      "name": "Sem Sentir Saudade",
-      "url": "https://open.spotify.com/track/5NTjJOysVSlvIm8S7asj94"
+      "duration_ms": 203244,
+      "name": "Sede de Vencer",
+      "url": "https://open.spotify.com/track/645YQL4pTFeA8Ob1bsPL42"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -1348,21 +1376,21 @@
           "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         },
         {
           "name": "Murillo e LT no Beat",
           "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         },
         {
-          "name": "Duani",
-          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         }
       ],
-      "duration_ms": 203244,
-      "name": "Sede de Vencer",
-      "url": "https://open.spotify.com/track/645YQL4pTFeA8Ob1bsPL42"
+      "duration_ms": 186273,
+      "name": "Cifr\u00e3o",
+      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -1463,6 +1491,30 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
+        "name": "Amor & \u00d3dio",
+        "url": "https://open.spotify.com/album/6qa7AIOL20gRcwJ2xxA16B"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Franco",
+          "url": "https://open.spotify.com/artist/29bHvBNqGzhD2axXzvOQuA"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "ATLXTA",
+          "url": "https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "Dualidade",
+      "url": "https://open.spotify.com/track/2CpRXLNwk5PWJdqKZiAddZ"
+    },
+    {
+      "added_at": "2025-08-22 03:01:24",
+      "album": {
         "name": "Deekapz FM",
         "url": "https://open.spotify.com/album/6zQcMQWv3Enxg4OtMTJmm7"
       },
@@ -1479,58 +1531,6 @@
       "duration_ms": 138235,
       "name": "Ego",
       "url": "https://open.spotify.com/track/3pD4cjOEhgaKOVXEZCZRhR"
-    },
-    {
-      "added_at": "2025-08-22 03:01:24",
-      "album": {
-        "name": "Eh Noiz Ki T\u00e1",
-        "url": "https://open.spotify.com/album/5NEKhgyL8iv2HoXI0xqBk1"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "AJULIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 186273,
-      "name": "Cifr\u00e3o",
-      "url": "https://open.spotify.com/track/2ulOb2FxUIozj13jKNmMu5"
-    },
-    {
-      "added_at": "2025-08-22 03:01:24",
-      "album": {
-        "name": "Alvo",
-        "url": "https://open.spotify.com/album/40kVaqAwkXZqex3ZNkcVoD"
-      },
-      "artists": [
-        {
-          "name": "Cashley",
-          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
-        },
-        {
-          "name": "WillsBife",
-          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
-        },
-        {
-          "name": "DSR",
-          "url": "https://open.spotify.com/artist/79TTYxMKrND5NcKFUbpuTQ"
-        }
-      ],
-      "duration_ms": 94222,
-      "name": "Alvo",
-      "url": "https://open.spotify.com/track/3fu29XDWtWRxc78fJ7Lc54"
     },
     {
       "added_at": "2025-08-22 03:01:24",
@@ -1555,26 +1555,26 @@
     {
       "added_at": "2025-08-22 03:01:24",
       "album": {
-        "name": "Amor & \u00d3dio",
-        "url": "https://open.spotify.com/album/6qa7AIOL20gRcwJ2xxA16B"
+        "name": "Alvo",
+        "url": "https://open.spotify.com/album/40kVaqAwkXZqex3ZNkcVoD"
       },
       "artists": [
         {
-          "name": "Cassiano Franco",
-          "url": "https://open.spotify.com/artist/29bHvBNqGzhD2axXzvOQuA"
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
         },
         {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "WillsBife",
+          "url": "https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3"
         },
         {
-          "name": "ATLXTA",
-          "url": "https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL"
+          "name": "DSR",
+          "url": "https://open.spotify.com/artist/79TTYxMKrND5NcKFUbpuTQ"
         }
       ],
-      "duration_ms": 194769,
-      "name": "Dualidade",
-      "url": "https://open.spotify.com/track/2CpRXLNwk5PWJdqKZiAddZ"
+      "duration_ms": 94222,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/3fu29XDWtWRxc78fJ7Lc54"
     },
     {
       "added_at": "2025-08-22 03:01:24",

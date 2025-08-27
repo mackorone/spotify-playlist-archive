@@ -1555,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532266,
+      "name": "God Is Dead?",
+      "url": "https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/4sbZHOW6I2LTTjlRJbhVtA"
       },

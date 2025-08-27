@@ -403,7 +403,7 @@
     },
     {
       "album": {
-        "name": "Luv Is Rage 2 - Deluxe",
+        "name": "Luv Is Rage 2 (Deluxe)",
         "url": "https://open.spotify.com/album/0zicd2mBV8HTzSubByj4vP"
       },
       "artists": [
@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 220586,
       "name": "20 Min",
       "url": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-11",
+      "date_removed": null,
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
@@ -2821,6 +2821,24 @@
     },
     {
       "album": {
+        "name": "To Dry a Tear",
+        "url": "https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251281,
+      "name": "Apollo Eighteen",
+      "url": "https://open.spotify.com/track/6iFDEchx7A9uPI7n6yBSN8"
+    },
+    {
+      "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/7viNUmZZ8ztn2UB4XB3jIL"
       },
@@ -3434,6 +3452,28 @@
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/0Tgm7wkLb0AfAHAZDschvD"
+    },
+    {
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260736,
+      "name": "Back To The Go (feat. VIC MENSA)",
+      "url": "https://open.spotify.com/track/12FnOWzpxUtOj5hW1xhV6A"
     },
     {
       "album": {
@@ -4326,7 +4366,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 236843,
       "name": "Big Ass Bracelet",
       "url": "https://open.spotify.com/track/2Eqi2k0OdJSz1xMNU48twQ"
@@ -5278,7 +5318,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 253673,
       "name": "Both Eyes Closed (From \"Highest 2 Lowest\")",
       "url": "https://open.spotify.com/track/5UmAGADfwg1TDCjcHlBChF"
@@ -6016,7 +6056,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 129697,
       "name": "C U Girl",
       "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
@@ -6082,6 +6122,24 @@
       "duration_ms": 201830,
       "name": "California Dream",
       "url": "https://open.spotify.com/track/0mckqlVJEcHHFk7EQUKAWa"
+    },
+    {
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169294,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC"
     },
     {
       "album": {
@@ -6186,7 +6244,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 221466,
       "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
       "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
@@ -8484,7 +8542,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 173856,
       "name": "DARK AURA",
       "url": "https://open.spotify.com/track/7rAP7mtyWDhUPkOVBqIVLs"
@@ -8510,6 +8568,24 @@
       "duration_ms": 295072,
       "name": "dark days",
       "url": "https://open.spotify.com/track/02Cp3VTUWNed8hr69BhKz6"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280786,
+      "name": "Dark Fantasy",
+      "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm"
     },
     {
       "album": {
@@ -8600,7 +8676,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 253834,
       "name": "Darling, I (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0VaeksJaXy5R1nvcTMh3Xk"
@@ -9713,6 +9789,28 @@
     },
     {
       "album": {
+        "name": "AIN'T NO DAMN WAY!",
+        "url": "https://open.spotify.com/album/1GVQPCNOTppRtpLTBL8Qot"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215927,
+      "name": "DO IT! (AGAIN!) (feat. TLC)",
+      "url": "https://open.spotify.com/track/0KETXFuMOtCvNoE9V3ZvTx"
+    },
+    {
+      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
@@ -10026,7 +10124,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 192020,
       "name": "DON'T WORRY BABE / I GOT U BABE",
       "url": "https://open.spotify.com/track/1MvNOZHoT08BFRlDyMiM4k"
@@ -10256,7 +10354,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 420258,
       "name": "Doves",
       "url": "https://open.spotify.com/track/7lusrgZAgl54xwzRl2g9yR"
@@ -11371,6 +11469,24 @@
     },
     {
       "album": {
+        "name": "EVERYBODY ROUND HERE KNOWS",
+        "url": "https://open.spotify.com/album/4XLU6e6jAjKbY12U0UGa5k"
+      },
+      "artists": [
+        {
+          "name": "Carter Ace",
+          "url": "https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222595,
+      "name": "EVERYBODY ROUND HERE KNOWS",
+      "url": "https://open.spotify.com/track/3CCY27mL6XKNHfCfSLQmvM"
+    },
+    {
+      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -11584,6 +11700,24 @@
       "duration_ms": 238053,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/3I8MbKRkS2IBDuslhCS3iT"
+    },
+    {
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149463,
+      "name": "exhaust",
+      "url": "https://open.spotify.com/track/6OMq061PfK52o7zvJBwNHP"
     },
     {
       "album": {
@@ -11812,7 +11946,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 213080,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/13YyYNBofurxZCNYiFDibB"
@@ -11936,6 +12070,28 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
+        "name": "The Lost Boy",
+        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210779,
+      "name": "Family Matters (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/6dp8BFpvGV7DdwxyDYL5y7"
     },
     {
       "album": {
@@ -12064,7 +12220,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 222497,
       "name": "Father Time (feat. Sampha)",
       "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
@@ -12774,7 +12930,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 193288,
       "name": "For: You",
       "url": "https://open.spotify.com/track/6L1xZIyw9U8kICunpmDvq4"
@@ -13595,6 +13751,42 @@
     },
     {
       "album": {
+        "name": "Supreme Clientele 2",
+        "url": "https://open.spotify.com/album/0SHlsKruygN9cOfAnaLxvM"
+      },
+      "artists": [
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153762,
+      "name": "Georgy Porgy",
+      "url": "https://open.spotify.com/track/46eBvXW6JrEGT5hQPpVMWu"
+    },
+    {
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247586,
+      "name": "Georgy Porgy",
+      "url": "https://open.spotify.com/track/5jQcJ2st6yHWhUBjoDoZPH"
+    },
+    {
+      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -14034,7 +14226,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 239566,
       "name": "Glory",
       "url": "https://open.spotify.com/track/2hplcKUnz9EuePPNiz2FRH"
@@ -15039,6 +15231,24 @@
     },
     {
       "album": {
+        "name": "CRYSALIS",
+        "url": "https://open.spotify.com/album/18OM4kStC0UfGiJZcqePgX"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "Head Over Heels",
+      "url": "https://open.spotify.com/track/6scAxpEPBWSJAEs8DGhW9x"
+    },
+    {
+      "album": {
         "name": "head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)",
         "url": "https://open.spotify.com/album/0u3PlMuxnHdhKTuKnPnDWL"
       },
@@ -15258,6 +15468,24 @@
       "duration_ms": 260632,
       "name": "Heavenly Father",
       "url": "https://open.spotify.com/track/0qLt7pQhm8LDxFgI0YXdlY"
+    },
+    {
+      "album": {
+        "name": "Live Laugh Love",
+        "url": "https://open.spotify.com/album/45aldsXQsGrQxpst6z2hfR"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186753,
+      "name": "Heavy Metal aka ejecto seato!",
+      "url": "https://open.spotify.com/track/6mxO6T82rU5bfVA6inlfDq"
     },
     {
       "album": {
@@ -16106,7 +16334,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 228010,
       "name": "HOP OUT CHO FEELINS",
       "url": "https://open.spotify.com/track/1Cm65uSMLvlvSKupG9w2Kz"
@@ -16420,6 +16648,28 @@
       "duration_ms": 261746,
       "name": "How Much A Dollar Cost",
       "url": "https://open.spotify.com/track/4tQcyj5488alHT1ZgFduzn"
+    },
+    {
+      "album": {
+        "name": "From The Private Collection of Saba and No ID",
+        "url": "https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No ID",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "How to Impress God",
+      "url": "https://open.spotify.com/track/1A9NdpGfoDP1369R1xZ4mZ"
     },
     {
       "album": {
@@ -16946,7 +17196,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 187242,
       "name": "I Don't Wanna Cry (2024 Remaster)",
       "url": "https://open.spotify.com/track/71xANIKwm4XYcPit65B6Lr"
@@ -18476,7 +18726,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 394266,
       "name": "Isn't She Lovely",
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
@@ -20497,6 +20747,32 @@
     },
     {
       "album": {
+        "name": "The Forever Story",
+        "url": "https://open.spotify.com/album/3QVjpIxcksDkJmOnvlOJjg"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233077,
+      "name": "Lauder Too (feat. Ravyn Lenae & Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/5XCRe3sFlMuVfQAvv3JBwF"
+    },
+    {
+      "album": {
         "name": "Alone At Prom",
         "url": "https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2"
       },
@@ -21078,7 +21354,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 198200,
       "name": "Life Will Be",
       "url": "https://open.spotify.com/track/4ZTC6KvnQxloiwmT0Yhypy"
@@ -23978,7 +24254,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 194946,
       "name": "Missing Persons",
       "url": "https://open.spotify.com/track/6Av4na55D5OeljhnIyfErJ"
@@ -24004,6 +24280,28 @@
       "duration_ms": 237144,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6iX8voVaI4qOf9KCvaItZh"
+    },
+    {
+      "album": {
+        "name": "RHODA",
+        "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
+      },
+      "artists": [
+        {
+          "name": "Kal Banx",
+          "url": "https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "MOB",
+      "url": "https://open.spotify.com/track/0wtOA2sG0eRXadcW2WAg6f"
     },
     {
       "album": {
@@ -24754,7 +25052,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 226373,
       "name": "Naive",
       "url": "https://open.spotify.com/track/02jzA2f77Jj8QKHLLsrFBk"
@@ -25402,7 +25700,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 293050,
       "name": "No More Old Men (feat. Jamila Woods)",
       "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
@@ -28467,6 +28765,24 @@
     },
     {
       "album": {
+        "name": "Act Like You Know (Explicit Version)",
+        "url": "https://open.spotify.com/album/4eKcz8mSIGrPkibjjwRXqF"
+      },
+      "artists": [
+        {
+          "name": "MC Lyte",
+          "url": "https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270093,
+      "name": "Poor Georgie",
+      "url": "https://open.spotify.com/track/0wIEQYOLgV9TneTgM3aRVE"
+    },
+    {
+      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -29859,6 +30175,28 @@
     },
     {
       "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271573,
+      "name": "Really Wanna Be With You",
+      "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
+    },
+    {
+      "album": {
         "name": "Rearrange My World / There\u2019s a Field (That's Only Yours)",
         "url": "https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn"
       },
@@ -30176,6 +30514,24 @@
       "duration_ms": 98152,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/55u5QIlEuzCipJBtZPdJio"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
       "album": {
@@ -31630,7 +31986,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 249667,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
@@ -32362,6 +32718,24 @@
       "duration_ms": 158048,
       "name": "Silver and Gold",
       "url": "https://open.spotify.com/track/1q36zOqNClSmF0JJwFb30q"
+    },
+    {
+      "album": {
+        "name": "A Matter of Time",
+        "url": "https://open.spotify.com/album/5rMOCuiWWbEBcHaKM69Hmv"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/4tyjNEHKos3lZPYAfTiMKH"
     },
     {
       "album": {
@@ -33838,7 +34212,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 316886,
       "name": "Speed Of Love (feat. Jazmine Sullivan)",
       "url": "https://open.spotify.com/track/1rYyFL5CsEtYA9S616jhqU"
@@ -34208,7 +34582,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 223746,
       "name": "Star Side Intro",
       "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
@@ -35288,7 +35662,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 205800,
       "name": "Sunday (feat. Frank Ocean)",
       "url": "https://open.spotify.com/track/0fAehaneUJdlSlWXYe1KZp"
@@ -36722,7 +37096,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 135066,
       "name": "THAT'S THAT",
       "url": "https://open.spotify.com/track/2Vy16OMt19FH30uQNTFdLk"
@@ -37006,7 +37380,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
@@ -38082,7 +38456,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 174673,
       "name": "Time",
       "url": "https://open.spotify.com/track/0UfiLEHHKzibhZDgPe8f2W"
@@ -39440,7 +39814,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 238272,
       "name": "VCRs (with Vince Staples)",
       "url": "https://open.spotify.com/track/1U1ulJ1H9eXkrVTW8ot0T3"
@@ -40000,6 +40374,24 @@
       "duration_ms": 181573,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+    },
+    {
+      "album": {
+        "name": "Hotel 1105",
+        "url": "https://open.spotify.com/album/0XTBFwTiGlQ4dfEMni1T7f"
+      },
+      "artists": [
+        {
+          "name": "D2x",
+          "url": "https://open.spotify.com/artist/39Cb8HYiuT4clBeNABSjPA"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177957,
+      "name": "Waves & Moonlights",
+      "url": "https://open.spotify.com/track/62GuWzaucWqu48mk6TkRNT"
     },
     {
       "album": {
@@ -41136,6 +41528,24 @@
       "duration_ms": 240800,
       "name": "Why I do em Like that (feat. Billie Essco)",
       "url": "https://open.spotify.com/track/1zBPkwg2oEh760w20qbJ9E"
+    },
+    {
+      "album": {
+        "name": "Why Worry",
+        "url": "https://open.spotify.com/album/7GAOMkrIBSwqvC28f8bXTj"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150561,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/0M5pEUmRD3b4nP31L88IdL"
     },
     {
       "album": {

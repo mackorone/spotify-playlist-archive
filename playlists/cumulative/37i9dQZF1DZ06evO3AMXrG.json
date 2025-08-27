@@ -1630,6 +1630,28 @@
     {
       "album": {
         "name": "Desahogo",
+        "url": "https://open.spotify.com/album/3NKiKaXsCZTih6ZklMdJBN"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316720,
+      "name": "Te Me Puedo Escapar",
+      "url": "https://open.spotify.com/track/762XrYAcOYyYTQl9Ziypct"
+    },
+    {
+      "album": {
+        "name": "Desahogo",
         "url": "https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN"
       },
       "artists": [

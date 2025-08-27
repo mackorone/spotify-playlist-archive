@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-443 songs - 19 hr 2 min
+444 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-21 | 2023-08-26 |
 | [Songs of the Giants](https://open.spotify.com/track/5bs6sJukJu0UiFsyzVfH4K) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Songs of the Giants](https://open.spotify.com/album/2HNBzLQD5Vf4bczp7ewJr5) | 2:00 | 2024-02-02 | 2025-05-29 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-03-04 | 2025-05-29 |
+| [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 | 2025-08-26 |  |
 | [Source of Life](https://open.spotify.com/track/3voH9yp1ODCRVsNThXY0jF) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Source of Life](https://open.spotify.com/album/5qebnBsLWyrj5AlpQfJYRV) | 2:19 | 2025-04-22 |  |
 | [Spinning](https://open.spotify.com/track/4tFdMgQKqe72jfD6W4t2bO) | [Esbjörn Öhrwall](https://open.spotify.com/artist/5ugCpOAuzxIERU70NtSLjz) | [Spinning](https://open.spotify.com/album/2xMh235QkHAAwy0mrKQLHY) | 1:39 | 2022-06-24 | 2022-07-22 |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-21 | 2025-05-14 |

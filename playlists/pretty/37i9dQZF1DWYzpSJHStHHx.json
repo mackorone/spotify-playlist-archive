@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 487796,
+  "num_followers": 487794,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/4g0e1m76WY9MLq5gDZ5OLI"
     },
     {
-      "added_at": "2025-03-27 13:00:14",
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
-      },
-      "artists": [
-        {
-          "name": "Offthewally",
-          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
-        }
-      ],
-      "duration_ms": 171884,
-      "name": "Riding the Wind",
-      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
-    },
-    {
       "added_at": "2025-02-07 17:00:04",
       "album": {
         "name": "For The Dreams",
@@ -423,6 +407,22 @@
       "duration_ms": 225198,
       "name": "Southerly",
       "url": "https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv"
+    },
+    {
+      "added_at": "2025-03-27 13:00:14",
+      "album": {
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/2fYv0avSo1PrUgyjH3DHew"
+      },
+      "artists": [
+        {
+          "name": "Offthewally",
+          "url": "https://open.spotify.com/artist/5szdoaeT1yHXbbj6w6z2eD"
+        }
+      ],
+      "duration_ms": 171884,
+      "name": "Riding the Wind",
+      "url": "https://open.spotify.com/track/1NnjM3Bm59KAmSRYjcKCgM"
     },
     {
       "added_at": "2025-02-07 17:00:04",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "twenty bucks (the friend song)",
+        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
+      },
+      "artists": [
+        {
+          "name": "boxboys",
+          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
+        }
+      ],
+      "duration_ms": 113232,
+      "name": "twenty bucks (the friend song)",
+      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Mushroom",
         "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
       },
@@ -683,6 +699,22 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
         "name": "Small Fry",
         "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
       },
@@ -711,38 +743,6 @@
       "duration_ms": 116202,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/26VZTImRTslsn5pT0xvqhG"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "twenty bucks (the friend song)",
-        "url": "https://open.spotify.com/album/1IFu8i2vYo9zKkOR8xc8yB"
-      },
-      "artists": [
-        {
-          "name": "boxboys",
-          "url": "https://open.spotify.com/artist/0Gz3QLw26RL5BtFXy1TIq9"
-        }
-      ],
-      "duration_ms": 113232,
-      "name": "twenty bucks (the friend song)",
-      "url": "https://open.spotify.com/track/3ROzSBuKT50Wo4oSghz89V"
     },
     {
       "added_at": "2025-05-22 14:00:15",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Freaks Feel Like Divas",
-        "url": "https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn"
-      },
-      "artists": [
-        {
-          "name": "Fast Color",
-          "url": "https://open.spotify.com/artist/7rUKNZlWNCbukbYpEBdEL5"
-        }
-      ],
-      "duration_ms": 150733,
-      "name": "Natasha Lyonne",
-      "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Carol",
         "url": "https://open.spotify.com/album/2HdWhxRkD2gNGVwV7Xd1X7"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 210640,
       "name": "Bali Nights",
       "url": "https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Freaks Feel Like Divas",
+        "url": "https://open.spotify.com/album/2IMm87TKaeVvI5BIWrGjpn"
+      },
+      "artists": [
+        {
+          "name": "Fast Color",
+          "url": "https://open.spotify.com/artist/7rUKNZlWNCbukbYpEBdEL5"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Natasha Lyonne",
+      "url": "https://open.spotify.com/track/2tkkq1HsyZ7gtkNVgX6dWm"
     },
     {
       "added_at": "2025-03-27 13:00:14",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Surfin' Detective",
-        "url": "https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi"
-      },
-      "artists": [
-        {
-          "name": "The Meerkats",
-          "url": "https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB"
-        }
-      ],
-      "duration_ms": 296809,
-      "name": "Surfin' Detective",
-      "url": "https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/1hxVcO8zlWM6XV4H264ig5"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 140848,
       "name": "Fever Dream",
       "url": "https://open.spotify.com/track/6898BcNygl1YiW8Fabu5E2"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Surfin' Detective",
+        "url": "https://open.spotify.com/album/0wi5PBc2ky3AqYHpMW7Woi"
+      },
+      "artists": [
+        {
+          "name": "The Meerkats",
+          "url": "https://open.spotify.com/artist/21FvT1hAvCEanOkMyDsFuB"
+        }
+      ],
+      "duration_ms": 296809,
+      "name": "Surfin' Detective",
+      "url": "https://open.spotify.com/track/2Y3y0b07K01haCxhgn5Iy3"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Can You See The Sunshine? (EP)",
-        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
-      },
-      "artists": [
-        {
-          "name": "Gerf",
-          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
-        }
-      ],
-      "duration_ms": 205376,
-      "name": "Couch Sex",
-      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
         "name": "Ceviche",
         "url": "https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 245853,
       "name": "Ceviche",
       "url": "https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Can You See The Sunshine? (EP)",
+        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
+      },
+      "artists": [
+        {
+          "name": "Gerf",
+          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
+        }
+      ],
+      "duration_ms": 205376,
+      "name": "Couch Sex",
+      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
-        "name": "Spice It Up",
-        "url": "https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ"
+        "name": "The Way You Talk",
+        "url": "https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq"
       },
       "artists": [
         {
-          "name": "Surf Trash",
-          "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
+          "name": "The Red Pears",
+          "url": "https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT"
         }
       ],
-      "duration_ms": 146651,
-      "name": "Spice It Up",
-      "url": "https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH"
+      "duration_ms": 198420,
+      "name": "The Way You Talk",
+      "url": "https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

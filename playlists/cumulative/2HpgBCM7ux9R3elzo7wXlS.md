@@ -4,7 +4,7 @@
 
 > All of it
 
-937 songs - 2 day 10 hr 17 min
+938 songs - 2 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -728,6 +728,7 @@
 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 | 2025-06-02 |  |
 | [Space Oddity](https://open.spotify.com/track/3gl8UEsyIXrMnPjEAr0hhZ) | [Lady Heroine](https://open.spotify.com/artist/59POfoqauOGtNtpV52bval) | [When We Were Drunk](https://open.spotify.com/album/6mPfOBBAzLrWEpWzRwEsjK) | 5:13 | 2025-06-02 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2025-06-02 |  |
+| [Spanish Castle Magic](https://open.spotify.com/track/2KFE98Iw0X23sf4vJYcbLH) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:03 | 2025-08-27 |  |
 | [SPEED IS LIFE](https://open.spotify.com/track/3YmhbpVrcl3mhVPOQWNJU8) | [lykia](https://open.spotify.com/artist/4ZIERQTvWH2EbE5kyQmQTy) | [SPEED IS LIFE](https://open.spotify.com/album/6uuRDbClnDrChvBAxl7VtJ) | 1:23 | 2025-06-02 |  |
 | [Spell of Absurdity](https://open.spotify.com/track/43zXfMVPAWCCXh9UfXbfgJ) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Diane Aragona](https://open.spotify.com/artist/14VL9c5tSsMRRURrS0Ywkv) | [Absent Moon, A Hylics Song Cycle](https://open.spotify.com/album/5K0ItWsPb3xMrGExPBsevy) | 4:52 | 2025-06-02 |  |
 | [Spicy](https://open.spotify.com/track/3gtlthEgyulDfT8dWdKsnv) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [iScreaM Vol.26 : Spicy Remix](https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9) | 3:17 | 2025-06-02 |  |

@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Amor Adolescente",
+        "url": "https://open.spotify.com/album/1JSWqKre0vDwPfDohpfyqt"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2025-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193684,
+      "name": "Bailas",
+      "url": "https://open.spotify.com/track/2gGo1gC6YhBn1zZ2SgQuGZ"
+    },
+    {
+      "album": {
         "name": "Bombas",
         "url": "https://open.spotify.com/album/0Vp8jumrRYGxtWkCZgNswV"
       },
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 221253,
       "name": "Si nos dejan",
       "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"

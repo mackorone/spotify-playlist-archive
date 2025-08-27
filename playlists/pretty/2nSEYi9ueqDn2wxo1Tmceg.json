@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a>Hot Chip</a>",
-  "num_followers": 63159,
+  "num_followers": 63128,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQ56aODU+7tm1WBlnZpeHmTaT6FHVr",
+  "snapshot_id": "AAAQ6E+JB8bmQ76nXOs5tKDmC9KfcNN+",
   "tracks": [
+    {
+      "added_at": "2025-08-26 14:03:29",
+      "album": {
+        "name": "Math Equation",
+        "url": "https://open.spotify.com/album/5XJQpbZe0z4S7NlQjkb30y"
+      },
+      "artists": [
+        {
+          "name": "Austra",
+          "url": "https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g"
+        }
+      ],
+      "duration_ms": 252263,
+      "name": "Math Equation",
+      "url": "https://open.spotify.com/track/2r6yEYmV8vu1pjVHmKEr0f"
+    },
     {
       "added_at": "2025-08-20 14:17:54",
       "album": {

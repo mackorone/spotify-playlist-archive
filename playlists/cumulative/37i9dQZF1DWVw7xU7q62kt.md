@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-594 songs - 1 day 2 hr 35 min
+595 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [Talk About It](https://open.spotify.com/track/5jCSyRjdrIqiw1NQH36zlY) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Hanni](https://open.spotify.com/artist/14E7RzXOsb9iMithqexVOd) | [Talk About It](https://open.spotify.com/album/5Vdt6fWIBQVdGi1xWew1hT) | 1:51 | 2025-07-25 |  |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-01-24 |  |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-08-22 | 2025-04-12 |
-| [TDNM, Pt\. I](https://open.spotify.com/track/43tOzr3KFjnxMkhfR8q01u) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI) | [TDNM](https://open.spotify.com/album/6FauWsdnBkwmM4nDSj1rKg) | 2:39 | 2025-01-10 |  |
+| [TDNM, Pt\. I](https://open.spotify.com/track/43tOzr3KFjnxMkhfR8q01u) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI) | [TDNM](https://open.spotify.com/album/6FauWsdnBkwmM4nDSj1rKg) | 2:39 | 2025-01-10 | 2025-08-27 |
 | [Tea Ceremony](https://open.spotify.com/track/23cLHNTqtU9BjKoLUgD1c0) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Tea Ceremony](https://open.spotify.com/album/3UtYd1smJnxZX5jGRuHRo3) | 2:36 | 2024-09-20 |  |
 | [Tears of Fate](https://open.spotify.com/track/4zrlJ5ukxX2dDxgPAcSZiw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 4:33 | 2023-10-13 | 2024-09-28 |
 | [tempeh's blues](https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2) | [jetfueljayy](https://open.spotify.com/artist/70ovbvXoXJ33c8zTKFFHw2), [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [tempeh's blues](https://open.spotify.com/album/2unzpgV37RboGqTjsp7HIG) | 1:51 | 2024-09-06 | 2025-05-10 |
@@ -567,6 +567,7 @@
 | [Valued Forces](https://open.spotify.com/track/4uvgcOFDXvJpX6wIInjPJ4) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Valued Forces](https://open.spotify.com/album/6GhOVp3OF0XqudwFUNgAyL) | 2:36 | 2025-05-16 | 2025-05-26 |
 | [Velvet Keys](https://open.spotify.com/track/2lLWYl54En7wmYWO5FVhOf) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Velvet Keys](https://open.spotify.com/album/7wHdZd8aY5ivOMG7phgPTD) | 2:22 | 2024-09-06 |  |
 | [Velvet Mirage](https://open.spotify.com/track/1GiAPEbgGs8Md8p6iqIuc0) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Velvet Mirage](https://open.spotify.com/album/0lsIevcJhwXkyP78zRvgOP) | 1:58 | 2025-04-11 | 2025-04-27 |
+| [vento](https://open.spotify.com/track/19EzCbGr0oAHNimhMPIiM3) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [vento](https://open.spotify.com/album/0MOy8r1FSzmU6dpgwkSOTj) | 2:11 | 2025-08-22 |  |
 | [Verano](https://open.spotify.com/track/1i5dxe63PNyL7Ofvy6GtLR) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3) | [Verano](https://open.spotify.com/album/0emU3hp1Cq68y6T7Wrh8Cq) | 2:19 | 2024-10-04 | 2025-05-24 |
 | [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 | 2025-04-12 |
 | [Verdant](https://open.spotify.com/track/2HWjYlDWKuAF9KWxwLPXBB) | [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs), [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP) | [Verdant](https://open.spotify.com/album/1m86OJ9K6rQD4rpJM9aoXx) | 2:30 | 2024-11-29 | 2025-06-07 |

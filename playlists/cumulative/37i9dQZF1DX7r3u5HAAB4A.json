@@ -337,6 +337,36 @@
     },
     {
       "album": {
+        "name": "Ba Ba Bad Remix",
+        "url": "https://open.spotify.com/album/4uINomjZHEhXFLHTTCgoPt"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Ba Ba Bad Remix",
+      "url": "https://open.spotify.com/track/2RnCVOUcOaPeTlFRW3NHQJ"
+    },
+    {
+      "album": {
         "name": "Back Dat Azz Up",
         "url": "https://open.spotify.com/album/2bUCslx9ooPd8FcbkcYux8"
       },
@@ -2911,6 +2941,28 @@
     },
     {
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150997,
+      "name": "Nightmares (feat. Byron Messia)",
+      "url": "https://open.spotify.com/track/2H69x1l1ioPGZ6EuFx4Rm8"
+    },
+    {
+      "album": {
         "name": "NIGHTS LIKE THIS",
         "url": "https://open.spotify.com/album/0EjMJ9VwUScWujQJ95kx6x"
       },
@@ -4316,7 +4368,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 176453,
       "name": "Talibans II - Bonus Track",
       "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"

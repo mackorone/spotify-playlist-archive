@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: White Chorus
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,239 likes - 91 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,254 likes - 91 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 31 | [Sin](https://open.spotify.com/track/5k59VaLMbV9UsrEPasU5me) | [Santamonica](https://open.spotify.com/artist/2wFJwReSekCDUH8ncvHPou) | [Sin](https://open.spotify.com/album/2x9OXzRHaYZ3tmTLVaXSLF) | 6:49 |
 | 32 | [THUNDER!!!!!!!!!!](https://open.spotify.com/track/5XzURZIO52HHAN5pWaglnH) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [THUNDER!!!!!!!!!!](https://open.spotify.com/album/5z3Jb4z7T5G8DzrWQY2dr5) | 3:25 |
 | 33 | [Piala Kosong](https://open.spotify.com/track/6AOVgWnk9JVlKKtr4Gg9mt) | [Tigapagi](https://open.spotify.com/artist/0S8tTc2LntsnsJtkDUToKp) | [Rukiah's Suites](https://open.spotify.com/album/74WFw45lZDdqhpb5iI1jz8) | 6:03 |
-| 34 | [Filsafat Cinta](https://open.spotify.com/track/3TzsJgxnPv3yZiRMlzXx41) | [Aldy Amis](https://open.spotify.com/artist/5KLh2npT4jlBSC0Fq6LIvn) | [Filsafat Cinta](https://open.spotify.com/album/619Kne2BRlX23Zd2TD1ioc) | 3:02 |
+| 34 | [Filsafat Cinta](https://open.spotify.com/track/3TzsJgxnPv3yZiRMlzXx41) | [Aldy Amis](https://open.spotify.com/artist/1cH4Kfu1QYyTnmAgEt1j8V) | [Filsafat Cinta](https://open.spotify.com/album/619Kne2BRlX23Zd2TD1ioc) | 3:02 |
 | 35 | [DI MASA DEPAN KITA TAK LAGI BERMIMPI](https://open.spotify.com/track/3kK1SGaRSXNIpeGTAL26KN) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [DI MASA DEPAN KITA TAK LAGI BERMIMPI](https://open.spotify.com/album/7xuQNbeCFsnAuJin9o0KXc) | 4:00 |
 | 36 | [Pasar Malam](https://open.spotify.com/track/4kzxuE6oUN30Zma1CoB78Q) | [Adrian Yunan](https://open.spotify.com/artist/25ex997B5aNaPvmqEO9AsJ), [Reda Gaudiamo](https://open.spotify.com/artist/6AVyhMrVK2RbcsBomY40QV) | [Pasar Malam](https://open.spotify.com/album/3CiG6oAptjTYiYzPSTXefE) | 5:03 |
 | 37 | [Quick! Love!](https://open.spotify.com/track/0CE0mnqq5w0UhKCmvguoxW) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Quick! Love!](https://open.spotify.com/album/6J2hFA8D9077BTfNX8SEbt) | 3:23 |

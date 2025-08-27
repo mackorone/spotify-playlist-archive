@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: Ánh Sáng AZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,086 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,085 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 37 | [Leo Thăng](https://open.spotify.com/track/0lL8WwEu7WGPDTQ7GP5IxR) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt) | [Leo Thăng](https://open.spotify.com/album/50qdwg6GoEAZpWDCmIJcBN) | 2:43 |
 | 38 | [SOS](https://open.spotify.com/track/39G4yRRwHxOHKp6t7fdiqG) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 3:40 |
 | 39 | [chanh tuyết](https://open.spotify.com/track/0i3kkjdLLumFcDIPwIY8b4) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [chanh tuyết](https://open.spotify.com/album/0pJIWUfipTVXuJ4ivTe8xy) | 2:40 |
-| 40 | [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 |
+| 40 | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD) | 3:30 |
 | 41 | [có nhau](https://open.spotify.com/track/6j4VC5GSlWoNTkyGVm3plH) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 3:07 |
 | 42 | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/track/1Si3UwZHOEUvayn45lcwqA) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [NÂN](https://open.spotify.com/artist/7mFCX07lzCFLpHm72R93oB) | [Hanoi 12AM \(Prod\. by Maiki, Hallowed\)](https://open.spotify.com/album/5mDCuDFwhlhKlmUBILSoRZ) | 3:07 |
 | 43 | [Bạch Nguyệt Quang](https://open.spotify.com/track/5eR0WC8y4VLeRQouyV0tIW) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb), [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:05 |
 | 44 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/22zJA0YrEtlklcbU8jXTVr) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Bài Hát Hay Nhất \- Big Song Big Deal \(Tập 18\)](https://open.spotify.com/album/4CgePAYAxf7QmlJqPS5kor) | 4:07 |
-| 45 | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/track/1ZxpSNbBpfk8q3CHtwXx3U) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [TINLE](https://open.spotify.com/artist/1jLYYT9QNuDI4zz4Ky9fyq) | [U Can Call Me \(feat\. TINLE\)](https://open.spotify.com/album/6pzaaoHJc6aXHK3IRyb8dD) | 3:30 |
+| 45 | [ON MY WAY](https://open.spotify.com/track/0NKYhzHVkjRXipH1hFC5xT) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [M NAIVE](https://open.spotify.com/artist/2wqbmDDGHOrzvdOxAPe4JS) | [ON MY WAY](https://open.spotify.com/album/38eH6xovyDMbMXglge5ZNw) | 3:05 |
 | 46 | [5 10](https://open.spotify.com/track/6H5bXIY2XMaCZMn2O8HSG4) | [m tú](https://open.spotify.com/artist/7a6FvNRlbkR8oBXKIHUGr6) | [chơi trò yêu](https://open.spotify.com/album/5ojdqidRsbjusXhT3oEir2) | 2:25 |
 | 47 | [Normal Day](https://open.spotify.com/track/3jLeGUZkKriqfiddJmrH5Z) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Mon Dương](https://open.spotify.com/artist/4JUvycEAovQNosslTeQ2tS) | [Normal Day](https://open.spotify.com/album/2G6EwsdS3RsXmpTP4sjajk) | 4:16 |
 | 48 | [Thua Người Ta](https://open.spotify.com/track/0jtKXWSesIai271sQT6VBC) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [Thua Người Ta](https://open.spotify.com/album/3SFXrBYmq1KiykPeasXh1L) | 3:14 |

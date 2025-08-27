@@ -4,7 +4,7 @@
 
 > 
 
-7,657 songs - 19 day 18 hr 21 min
+7,661 songs - 19 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,6 +401,7 @@
 | [American Girls](https://open.spotify.com/track/2k1PUdpVQbeJYSkQm50zLO) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Ambitions](https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i) | 2:48 | 2025-01-04 |  |
 | [American Hypnosis \(feat\. Akenya\)](https://open.spotify.com/track/4h014ooixJqVNWDheIXsRP) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Akenya](https://open.spotify.com/artist/2pHQOZq131jMXYSTjP3Ncx) | [Bucket List Project](https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM) | 4:12 | 2025-01-15 |  |
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2025-01-03 |  |
+| [AMERICAN MUSCLE](https://open.spotify.com/track/1cUJ8uWfmk5RFaaX3LyhHW) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [CLAIRVOYANCE](https://open.spotify.com/album/3ErJTcUCdhLkXikZbQ10UQ) | 2:36 | 2025-08-26 |  |
 | [American Teen](https://open.spotify.com/track/312WNtMs3F28cUukaPY9bo) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 4:10 | 2025-01-03 |  |
 | [AMERIKKKAN IDOL](https://open.spotify.com/track/6U8SOvBY0zz8hKkSwOaOej) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 6:11 | 2025-01-03 |  |
 | [Amnesia](https://open.spotify.com/track/4q7XqQGps1iaghH4bpy4aG) | [Kitt](https://open.spotify.com/artist/1hsAuVzLaC3fM5xk2PpdSy) | [Amnesia](https://open.spotify.com/album/5leSoxg1r3mrS2UzLtKHnt) | 4:50 | 2025-01-03 |  |
@@ -513,6 +514,7 @@
 | [Awful Things](https://open.spotify.com/track/1YlqTH4bqZHOlqj16Fznuh) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Come Over When You're Sober, Pt\. 1](https://open.spotify.com/album/6GkrA9XjOpEFkep0TIfFB8) | 3:34 | 2025-01-03 |  |
 | [Aww Man](https://open.spotify.com/track/79Re7M6qqhCBIQYjexeXl4) | [Fat Money](https://open.spotify.com/artist/0vN8FecyEFbVIlauLaqByt) | [Money Got Wings](https://open.spotify.com/album/4l9Ypxth4ONS53vpbVfAJZ) | 2:09 | 2025-01-03 |  |
 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 | 2025-01-04 |  |
+| [Ayano No Koufukuriron](https://open.spotify.com/track/4jcyxykbZGgu72DY7zl2vu) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [Okui Aki](https://open.spotify.com/artist/0D1vK3SxxPezAurBjxzMOZ) | [Mekakucity M's 1 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm) | 5:37 | 2025-08-26 |  |
 | [Azucar](https://open.spotify.com/track/1mAEQbdq0dZQWfujWG6rCd) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 1:25 | 2025-01-03 |  |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2025-01-03 |  |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2025-04-21 |  |
@@ -6039,6 +6041,7 @@
 | [Tokyo Drifting](https://open.spotify.com/track/2MA6YoaFF7fnWqkuOAWjUg) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:36 | 2025-01-03 |  |
 | [Tokyo Flash](https://open.spotify.com/track/1Sem1dIkjX7tA8Nf5hEy8R) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 4:18 | 2025-01-15 |  |
 | [TOMBOY](https://open.spotify.com/track/6DA7kCWYMggJjqPM84V2Ng) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [23](https://open.spotify.com/album/2VDNZYzubQxFNOR3qD1K9B) | 4:01 | 2025-01-03 |  |
+| [Tomei Answer](https://open.spotify.com/track/2p4s3x2hPk2eNGGiipHEqR) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [Taguchi Shoichi](https://open.spotify.com/artist/0qYAvN2qzhg7qfi3fDYvVG), [Annabel](https://open.spotify.com/artist/0WZNVNfmdWW8kDbkOXHroi) | [Mekakucity M's 2 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m) | 4:30 | 2025-08-26 |  |
 | [Tomorrow](https://open.spotify.com/track/50roAvTkc8CUW5eCpq1TCd) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [Catherine & Catherine Full Body Soundtrack Set](https://open.spotify.com/album/0X0ZWOmMDsAJW7NDeMXIN4) | 1:51 | 2025-05-19 |  |
 | [Tomorrow 'Til Infinity \(feat\. Gunna\)](https://open.spotify.com/track/6Zm6fxOVPzyArjrNPx9LRe) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Beautiful Thugger Girls](https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt) | 3:48 | 2025-01-15 |  |
 | [Tomorrow Comes I Will](https://open.spotify.com/track/1Tii3aXrNzb8IDXs6cxfZz) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [For Lovers](https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2) | 3:51 | 2025-01-03 |  |
@@ -6670,6 +6673,7 @@
 | [Yesterday](https://open.spotify.com/track/1kMlcLyljkrShV0LSdSGBz) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/17gzvH2FPpVhpuqalLFi9j) | 4:59 | 2025-01-04 |  |
 | [Yikes](https://open.spotify.com/track/1qsHYUd2c1wFGcn7e63QmG) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 3:08 | 2025-01-03 |  |
 | [YO \- Acid Jazz ver](https://open.spotify.com/track/3rlgjn1WeG5kfKSqQmeccV) | [冥月](https://open.spotify.com/artist/1Dxks5ixFTqeK87l6Jcz4C) | [Catherine & Catherine Full Body Soundtrack Set](https://open.spotify.com/album/0X0ZWOmMDsAJW7NDeMXIN4) | 1:36 | 2025-05-19 |  |
+| [Yobanashi Deseive](https://open.spotify.com/track/0mkNGxmIlBCtkNeWr0PY0n) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Maria](https://open.spotify.com/artist/4BaJdxkFoGLQFYOwcg2ik4) | [Mekakucity M's 2 ～Mekakucity Actors Vocal & Sound Collection～](https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m) | 3:21 | 2025-08-26 |  |
 | [Yoino Myojo](https://open.spotify.com/track/3tFq9arkcubkFhDswd43nw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:16 | 2025-01-03 |  |
 | [YOKAZE](https://open.spotify.com/track/6tkSMR8bEIfEcJn7ybJtSP) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [ZURUMUKE](https://open.spotify.com/album/0BZl0i4DnH6TMpkdK5aqNV) | 4:29 | 2025-01-03 |  |
 | [Yokubou ni michita seinendan](https://open.spotify.com/track/4Gaco6SiHpZhnPvNsXH6Iy) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Zeitakubyō](https://open.spotify.com/album/5vG1nA5IR7bIv9mfhjGKNd) | 3:22 | 2025-01-04 |  |

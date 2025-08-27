@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover:  Kenji
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,555 likes - 200 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,567 likes - 200 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

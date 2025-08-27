@@ -187,6 +187,26 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
+        "name": "Escape Room",
+        "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 158115,
+      "name": "Hard Part (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
@@ -215,26 +235,6 @@
       "duration_ms": 228842,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
-        "name": "Escape Room",
-        "url": "https://open.spotify.com/album/7Aya7D6bm5P2iRrlnNsFQf"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 158115,
-      "name": "Hard Part (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/6ykfyiNkupYNQqcgym28Ak"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Die For This",
-        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Die For This",
-      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Lil' Obsession",
         "url": "https://open.spotify.com/album/4w5kf2SU2JQ6NV0CZcTpTt"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 181921,
       "name": "Lil' Obsession",
       "url": "https://open.spotify.com/track/0GCXmACrAH2yDE8g3Fvuqn"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Die For This",
+        "url": "https://open.spotify.com/album/2d9ivt8jmlcj3iUdQBno5q"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 155200,
+      "name": "Die For This",
+      "url": "https://open.spotify.com/track/2W88vRSJ8BJQbUjyW6ibSj"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -335,6 +335,22 @@
       "duration_ms": 219000,
       "name": "Slow Grind",
       "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -379,22 +395,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Don't Forget About Us (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/5WOY8ePlLY1zOSekVvnyZy"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "What I Didn\u2019t Tell You (Deluxe)",
-        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 162188,
-      "name": "Fallin",
-      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "November",
         "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 229879,
       "name": "Summer in November",
       "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "What I Didn\u2019t Tell You (Deluxe)",
+        "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 162188,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Almost There",
-        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 238070,
-      "name": "Almost There",
-      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 231733,
       "name": "Julie.",
       "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4AlvjBUahp8fqMwRComFi5"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 238070,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/5CNZ8lcCKd4bwsZydWwiM1"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Distant Lover",
-        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
-      },
-      "artists": [
-        {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        }
-      ],
-      "duration_ms": 178085,
-      "name": "Distant Lover",
-      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 265906,
       "name": "New Type (feat. Childish Gambino)",
       "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Distant Lover",
+        "url": "https://open.spotify.com/album/0oz4ODkiBDQxvR1t3XIy9J"
+      },
+      "artists": [
+        {
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        }
+      ],
+      "duration_ms": 178085,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/6Eknh5d7pw38C7ZqhydyKj"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -691,30 +691,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Back To Love [Feat. SiR & Alex Isley]",
-        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Back To Love [Feat. SiR & Alex Isley]",
-      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 234498,
       "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Back To Love [Feat. SiR & Alex Isley]",
+        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Back To Love [Feat. SiR & Alex Isley]",
+      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Thinking Less",
-        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Thinking Less",
-      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Good Morning Gorgeous (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/5VfXGrGi9QZ2TmL2c9KLLg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 174636,
       "name": "Good Morning Gorgeous (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3xZ2C6ccqjPQ5f3gQzqPM2"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Thinking Less",
+        "url": "https://open.spotify.com/album/3nlJCjmJXerAEitId6gwFW"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Thinking Less",
+      "url": "https://open.spotify.com/track/4QDAVHo7gtwrRp3aNpHdZm"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
+        "name": "Took A Turn",
+        "url": "https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3"
+      },
+      "artists": [
+        {
+          "name": "J.P.",
+          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
+        }
+      ],
+      "duration_ms": 292923,
+      "name": "Took A Turn",
+      "url": "https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
         "name": "All Pride Aside with Summer Walker",
         "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 244412,
       "name": "Hoodie",
       "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
-        "name": "Took A Turn",
-        "url": "https://open.spotify.com/album/7j7SE11VfvddibAxMpWeJ3"
-      },
-      "artists": [
-        {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
-        }
-      ],
-      "duration_ms": 292923,
-      "name": "Took A Turn",
-      "url": "https://open.spotify.com/track/0FCQBDrtFSPkEt5M6qDqiQ"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "11th Hour",
-        "url": "https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH"
-      },
-      "artists": [
-        {
-          "name": "Lynda Dawn",
-          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
-        }
-      ],
-      "duration_ms": 251794,
-      "name": "11th Hour",
-      "url": "https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Right Time (feat. Reggie Becton)",
         "url": "https://open.spotify.com/album/68GpIwLR39Lkm6B5QqmEIi"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 177371,
       "name": "Right Time",
       "url": "https://open.spotify.com/track/279rl4oKt4TZGxMOaQa34T"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "11th Hour",
+        "url": "https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH"
+      },
+      "artists": [
+        {
+          "name": "Lynda Dawn",
+          "url": "https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM"
+        }
+      ],
+      "duration_ms": 251794,
+      "name": "11th Hour",
+      "url": "https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "A Muse",
-        "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 222089,
-      "name": "A Muse",
-      "url": "https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Nu Beginning",
         "url": "https://open.spotify.com/album/3TJ8K56Zo9QRiUH3F39XXO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 234943,
       "name": "Nu Beginning",
       "url": "https://open.spotify.com/track/0y02zQ9NMivG2bJvhYshY4"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "A Muse",
+        "url": "https://open.spotify.com/album/3hVw6V8hze4yXUGfkO1gE2"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 222089,
+      "name": "A Muse",
+      "url": "https://open.spotify.com/track/7AOIpGjtubeC0uSiMEhOyR"
     },
     {
       "added_at": "2025-08-22 16:58:57",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2025-08-22 16:58:57",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "All That Matters - Spotify Singles",
-      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
-    },
-    {
-      "added_at": "2025-08-22 16:58:57",
-      "album": {
         "name": "Ready",
         "url": "https://open.spotify.com/album/4VEmS1AQqFKNhCCtmp2R0E"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 181533,
       "name": "Ready",
       "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
+    },
+    {
+      "added_at": "2025-08-22 16:58:57",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jsHeeW2DY8HuwZWmU1dvc"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "All That Matters - Spotify Singles",
+      "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
     },
     {
       "added_at": "2025-08-22 16:58:57",

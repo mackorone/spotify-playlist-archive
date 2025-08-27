@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Shingo Suzuki
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: fox capture plan, ヒグチアイ
 
-439 songs - 1 day 11 hr 39 min
+440 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Daydream](https://open.spotify.com/track/1SGuM7OqpvyU4F5vIUEfTU) | [渡辺翔太](https://open.spotify.com/artist/6v8wDyIrJSvfY7lFIX4Byr) | [Landed on the Moon](https://open.spotify.com/album/77VLkt74v9MQlxa3i83ZJC) | 4:46 | 2023-08-29 | 2023-11-16 |
 | [Death by Glamour \(with Jacob Koller\)](https://open.spotify.com/track/4YtvTTg4uE31kyFhCRC9Vw) | [瀬戸一王](https://open.spotify.com/artist/05QyI8tKAUSMa2H8WRI8v1), [Jacob Koller](https://open.spotify.com/artist/5WurrE6cmmCQDP151eki1o) | [PIANOTALE](https://open.spotify.com/album/0FtP1dhqgP2gS2hKkSAMnO) | 2:18 | 2022-10-25 | 2022-12-07 |
 | [Decade of Decadence](https://open.spotify.com/track/3ofL9RisfvItfSvpUy7QN1) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [3×3](https://open.spotify.com/album/71XFsx5nXao1DJ5DY9k02t) | 5:22 | 2025-05-20 | 2025-06-16 |
-| [Deep Inside](https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Deep Inside](https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR) | 4:00 | 2024-07-30 |  |
+| [Deep Inside](https://open.spotify.com/track/7C2gjabTwmzyQrIvGC6wUW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Deep Inside](https://open.spotify.com/album/2usPSIpXRyGHSg2TQPL5WR) | 4:00 | 2024-07-30 | 2025-08-27 |
 | [Delight](https://open.spotify.com/track/5X0b33rwOYBzCf9GlumgqP) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Delight](https://open.spotify.com/album/0HCLpvF3ydPqboT0ZOVDfX) | 5:10 | 2023-10-31 | 2024-07-10 |
 | [Departure](https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Moonlit](https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy) | 10:58 | 2023-11-21 | 2024-05-29 |
 | [Deviation](https://open.spotify.com/track/1SowJLvffS3DpdSZSo7Dqp) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Deviation](https://open.spotify.com/album/0yu1Tjyt3bfdxTnwtiyUug) | 6:57 | 2024-11-05 | 2024-11-13 |
@@ -414,6 +414,7 @@
 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 | 2022-09-06 | 2024-12-18 |
 | [今夜はブギー・バック](https://open.spotify.com/track/5FGYRvymVBG0Fbhje3unXJ) | [Wa Yo Set](https://open.spotify.com/artist/1H0RbzDqHyLsIWxIsh86Fs) | [Don't let me down / 今夜はブギー・バック](https://open.spotify.com/album/3djgKDFOpfICX31bkOZ9uN) | 4:16 | 2024-12-17 | 2024-12-31 |
 | [今日、明日](https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [今日、明日](https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E) | 4:47 | 2022-10-04 | 2022-11-16 |
+| [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 | 2025-08-26 |  |
 | [光の果実](https://open.spotify.com/track/0PMLzMjMlNTHQqrJ1cAJE1) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Reiya The P.A.V.E.](https://open.spotify.com/album/28Xjlj4ghnuLTI5Co2bStf) | 4:42 | 2025-05-13 |  |
 | [具縄](https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [具縄](https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL) | 5:00 | 2022-10-18 | 2022-11-28 |
 | [冬芽](https://open.spotify.com/track/1WK88cyLnq7C3KZEZ3dfme) | [橋本芳](https://open.spotify.com/artist/1w2jeP5GS2uAD6zvs0M9dj) | [One Step Beyond](https://open.spotify.com/album/6C5hS53oCZ67Vz7M9gEAeW) | 6:41 | 2023-04-18 | 2023-05-10 |

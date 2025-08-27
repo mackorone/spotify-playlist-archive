@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 ### [J\-Rock ON!!](https://open.spotify.com/playlist/37i9dQZF1DX6ntWKaOqGAp)
 
-> 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: 乃紫 noa
+> 日本ロックシーンの最新話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,470 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,612 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Natsu no Saibu](https://open.spotify.com/track/63QfN1eAvWSDnPMRxJbGTS) | [Base Ball Bear](https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt) | [Natsu no Saibu](https://open.spotify.com/album/33rdhNaIEYvznVw2hVF183) | 3:53 |
 | 100 | [リンダ リンダ](https://open.spotify.com/track/5xO0ynhnuVy9dLLOTAabac) | [パ\-ランマウム](https://open.spotify.com/artist/5I1aEYkdNib5fVrGMyREVy) | [映画「リンダ リンダ リンダ」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf) | 2:38 |
 
-Snapshot ID: `AAAAAGz++HUPU/VKBI6vV7snivsQiRLr`
+Snapshot ID: `AAAAAJ1FsGp0kSmzfom9YbFkzwBQQgUE`

@@ -1,12 +1,12 @@
 {
   "description": "This is Herbie Hancock. The essential tracks, all in one playlist.",
-  "num_followers": 40270,
+  "num_followers": 40283,
   "original_name": "This Is Herbie Hancock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACFfjQRr7u4w0hwFOjsjSnN",
+  "snapshot_id": "aKungAAAAADrnauQ1qS0iO+Dv41oLwVa",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 361453,
-      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
+      "duration_ms": 527266,
+      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
       "duration_ms": 470853,
       "name": "Speak Like A Child",
       "url": "https://open.spotify.com/track/6GSBBmqOX009TUtParZf2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 408466,
+      "name": "The Maze - Remastered 2007",
+      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takin' Off (Expanded Edition)",
-        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 408466,
-      "name": "The Maze - Remastered 2007",
-      "url": "https://open.spotify.com/track/65CdHWCm59ybWzrLEnjKuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maiden Voyage (Remastered 1999/Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/7huPJTTsWVt854oZkr88mf"
       },
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 527266,
-      "name": "Little One - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1D8x6XmpSuobQopGIXRo8u"
+      "duration_ms": 361453,
+      "name": "The Eye Of The Hurricane - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3FBHUgNaKpWvTn9ArrGFmH"
     },
     {
       "added_at": null,
@@ -635,6 +635,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cantaloupe Island",
+        "url": "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 395266,
+      "name": "And What If I Don't - Remastered",
+      "url": "https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gershwin's World",
+        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 115733,
+      "name": "My Man's Gone Now",
+      "url": "https://open.spotify.com/track/02Ma3Y0oxEfBDEfJj4EhMg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorcerer",
         "url": "https://open.spotify.com/album/4ONkvBCQrd2A8qJ5Cw6FYo"
       },
@@ -667,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gershwin's World",
-        "url": "https://open.spotify.com/album/6IySeurw1LfTolgz9EjUSG"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 115733,
-      "name": "My Man's Gone Now",
-      "url": "https://open.spotify.com/track/02Ma3Y0oxEfBDEfJj4EhMg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' Off (Expanded Edition)",
         "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 326746,
       "name": "Three Bags Full - Remastered 2007",
       "url": "https://open.spotify.com/track/6Vo7ibExbzASwGuuJ2dLtl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cantaloupe Island",
-        "url": "https://open.spotify.com/album/1IDF7HrugntNS4NeuzYWgQ"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 395266,
-      "name": "And What If I Don't - Remastered",
-      "url": "https://open.spotify.com/track/3rQWPfEMS81vNrCIOd2lS2"
     },
     {
       "added_at": null,

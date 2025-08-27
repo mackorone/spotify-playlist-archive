@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 86795,
+  "num_followers": 86836,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAACBApoII8MT2PaoaYC+9rFo",
+  "snapshot_id": "aKungAAAAAAFS69e6TEg7WLdgNa7cX2K",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Fletes",
-        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 111186,
-      "name": "Los Fletes",
-      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Punto Y Aparte",
         "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 158918,
       "name": "Punto Y Aparte",
       "url": "https://open.spotify.com/track/0pXE345pmmhZfG5zDCtSTr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Fletes",
+        "url": "https://open.spotify.com/album/6p0JJEYyKuye29FRF4P9K4"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 111186,
+      "name": "Los Fletes",
+      "url": "https://open.spotify.com/track/60er4C2AYs1FIXpgbPWOs4"
     },
     {
       "added_at": null,
@@ -415,58 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ramo Buch\u00f3n",
-        "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
-      },
-      "artists": [
-        {
-          "name": "Montana",
-          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Ramo Buch\u00f3n",
-      "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos (En Vivo)",
-      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },
@@ -507,6 +455,58 @@
       "duration_ms": 245915,
       "name": "Blindajes Pe\u00f1a (En Vivo)",
       "url": "https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos (En Vivo)",
+      "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ramo Buch\u00f3n",
+        "url": "https://open.spotify.com/album/3XszKeKNdXtEMRKBhThpi8"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Ramo Buch\u00f3n",
+      "url": "https://open.spotify.com/track/4Td2A1bW1NP1Utc9WZDfWr"
     },
     {
       "added_at": null,

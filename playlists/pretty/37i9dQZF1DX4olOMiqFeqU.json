@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2476108,
+  "num_followers": 2476343,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Umaasa",
-        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
-      },
-      "artists": [
-        {
-          "name": "Calein",
-          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
-        }
-      ],
-      "duration_ms": 335624,
-      "name": "Umaasa",
-      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
         "name": "Soapdish Reloaded",
         "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 196693,
       "name": "Tensionado",
       "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
+        "name": "Umaasa",
+        "url": "https://open.spotify.com/album/5CoCHo5Uln3nDpd1q2aewW"
+      },
+      "artists": [
+        {
+          "name": "Calein",
+          "url": "https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y"
+        }
+      ],
+      "duration_ms": 335624,
+      "name": "Umaasa",
+      "url": "https://open.spotify.com/track/4AULw1VRyJP17zMvwgTIUs"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
         "name": "Sa Susunod Na Lang",
         "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 214606,
       "name": "Sa Susunod Na Lang",
       "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Tanong",
-        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Kailan?",
-      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
         "name": "Pa-umaga",
         "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 189019,
       "name": "Pa-umaga",
       "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
+        "name": "Tanong",
+        "url": "https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Kailan?",
+      "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -671,18 +671,18 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+        "name": "BANDROOM SESSIONS EPISODE 1",
+        "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Khel Pangilinan",
+          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
         }
       ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+      "duration_ms": 234500,
+      "name": "Alipin",
+      "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -703,6 +703,22 @@
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -739,22 +755,6 @@
     {
       "added_at": "2025-08-23 11:48:20",
       "album": {
-        "name": "BANDROOM SESSIONS EPISODE 1",
-        "url": "https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2"
-      },
-      "artists": [
-        {
-          "name": "Khel Pangilinan",
-          "url": "https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Alipin",
-      "url": "https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
         "name": "Ang Mutya Ng Section E (A Viva One Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/3C0w3s7OOjdzyxnzT04Tvl"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 326666,
       "name": "Tibok",
       "url": "https://open.spotify.com/track/0Tuo5hZJi0f9InKf4NAtZt"
-    },
-    {
-      "added_at": "2025-08-23 11:48:20",
-      "album": {
-        "name": "Kisame",
-        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
-      },
-      "artists": [
-        {
-          "name": "rhodessa",
-          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "Kisame",
-      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
     },
     {
       "added_at": "2025-08-23 11:48:20",
@@ -835,6 +819,22 @@
       "duration_ms": 210586,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
+    },
+    {
+      "added_at": "2025-08-23 11:48:20",
+      "album": {
+        "name": "Kisame",
+        "url": "https://open.spotify.com/album/0a0UdCKsKEGjFGBi9mGAMe"
+      },
+      "artists": [
+        {
+          "name": "rhodessa",
+          "url": "https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "Kisame",
+      "url": "https://open.spotify.com/track/4XSIv5hJzP6kEQqsLli1eE"
     },
     {
       "added_at": "2025-08-23 11:48:20",

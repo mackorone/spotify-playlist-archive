@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Miel San Marcos",
-  "num_followers": 38069,
+  "num_followers": 38068,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Navidad En Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 272250,
       "name": "Buscando Al Rey",
       "url": "https://open.spotify.com/track/1dmXJtSQFcMt5GycIwhz0K"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Navidad En Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Venid Adoremos",
-        "url": "https://open.spotify.com/album/69wGxND0aHSUyxOwNgeoh4"
-      },
-      "artists": [
-        {
-          "name": "Celines",
-          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
-        },
-        {
-          "name": "Via Cantus",
-          "url": "https://open.spotify.com/artist/69sPIyuRT6adJGWHUQsSi0"
-        }
-      ],
-      "duration_ms": 286058,
-      "name": "Venid Adoremos",
-      "url": "https://open.spotify.com/track/3RDCKY0YJ9eJCfoup9VgFv"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Venid Adoremos",
+        "url": "https://open.spotify.com/album/69wGxND0aHSUyxOwNgeoh4"
+      },
+      "artists": [
+        {
+          "name": "Celines",
+          "url": "https://open.spotify.com/artist/7scGS3XtZtyCB5kXESpINl"
+        },
+        {
+          "name": "Via Cantus",
+          "url": "https://open.spotify.com/artist/69sPIyuRT6adJGWHUQsSi0"
+        }
+      ],
+      "duration_ms": 286058,
+      "name": "Venid Adoremos",
+      "url": "https://open.spotify.com/track/3RDCKY0YJ9eJCfoup9VgFv"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "La Navidad es para Compartir (Por Caminos)",
-        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
-      },
-      "artists": [
-        {
-          "name": "Raya Real",
-          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "La Navidad es para Compartir - Por Caminos",
-      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Noche de Paz",
         "url": "https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 286454,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "La Navidad es para Compartir (Por Caminos)",
+        "url": "https://open.spotify.com/album/1Egmb6O2baoibe4iTLfIVn"
+      },
+      "artists": [
+        {
+          "name": "Raya Real",
+          "url": "https://open.spotify.com/artist/6B0tiYh9aXjEkmNp6LhGjk"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "La Navidad es para Compartir - Por Caminos",
+      "url": "https://open.spotify.com/track/6QPuWOvJztTktxDwkBaFSG"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Pa'que Mi Pueblo Cante",
+        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "V\u00edstete",
+      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Emmanuel (Radio Edit)",
         "url": "https://open.spotify.com/album/3QOBk0cVV6JcDipDOxIKSh"
       },
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Pa'que Mi Pueblo Cante",
-        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "V\u00edstete",
-      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Plena Que Se Pega",
         "url": "https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um"
       },
@@ -1043,26 +1043,6 @@
       "duration_ms": 208453,
       "name": "Plena Que Adora a Dios",
       "url": "https://open.spotify.com/track/4rBxK37YIwtn2vonTCDL93"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noche De Paz (feat. Betsy)",
-      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1087,6 +1067,26 @@
       "duration_ms": 214068,
       "name": "La Promesa",
       "url": "https://open.spotify.com/track/7HDMZd8wP4rN7ldtoeUAXC"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noche De Paz (feat. Betsy)",
+      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "El Ni\u00f1o del Tambor",
+        "url": "https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b"
+      },
+      "artists": [
+        {
+          "name": "Ecos",
+          "url": "https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7"
+        },
+        {
+          "name": "Richard Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1"
+        }
+      ],
+      "duration_ms": 204583,
+      "name": "El Ni\u00f1o del Tambor",
+      "url": "https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 187204,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/02fQRYfhJpd7yWd4HJgLHd"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "El Ni\u00f1o del Tambor",
-        "url": "https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b"
-      },
-      "artists": [
-        {
-          "name": "Ecos",
-          "url": "https://open.spotify.com/artist/7z9IcVBNyznHTkGeDb3EH7"
-        },
-        {
-          "name": "Richard Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/15EUbMhzUZlOf6mFBBzrD1"
-        }
-      ],
-      "duration_ms": 204583,
-      "name": "El Ni\u00f1o del Tambor",
-      "url": "https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1327,42 +1327,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Este Amor",
-        "url": "https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa"
-      },
-      "artists": [
-        {
-          "name": "Leah Gourlie",
-          "url": "https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX"
-        },
-        {
-          "name": "Nathan Ironside",
-          "url": "https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8"
-        }
-      ],
-      "duration_ms": 323750,
-      "name": "Este Amor - Ambient Mix",
-      "url": "https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Un A\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/1YibNRYLpKLEOt0LNkpCvf"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        }
-      ],
-      "duration_ms": 192078,
-      "name": "Un A\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Navidad Lleg\u00f3",
         "url": "https://open.spotify.com/album/31wvx0Y94BXHUCfufKV4u8"
       },
@@ -1387,6 +1351,42 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Un A\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/1YibNRYLpKLEOt0LNkpCvf"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "duration_ms": 192078,
+      "name": "Un A\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Este Amor",
+        "url": "https://open.spotify.com/album/5ZuB3x8p9wZ7wE3brMzPBa"
+      },
+      "artists": [
+        {
+          "name": "Leah Gourlie",
+          "url": "https://open.spotify.com/artist/03YBwHES4V6lFxEhg0u0ZX"
+        },
+        {
+          "name": "Nathan Ironside",
+          "url": "https://open.spotify.com/artist/61tv5wBp8BSzZ1S6mNqvJ8"
+        }
+      ],
+      "duration_ms": 323750,
+      "name": "Este Amor - Ambient Mix",
+      "url": "https://open.spotify.com/track/5cCma1QpQPBQAOclyR93cu"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Happy Birthday Jesus (Merry Christmas)",
         "url": "https://open.spotify.com/album/2MPDwgwrUSkLkaxDQraZ0x"
       },
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Hosanna (Vamos a Bel\u00e9n)",
-        "url": "https://open.spotify.com/album/3Wj0Xa2Efq9RXCjVkgjCya"
-      },
-      "artists": [
-        {
-          "name": "MISSION MUSICA",
-          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
-        }
-      ],
-      "duration_ms": 226870,
-      "name": "Hosanna (Vamos a Bel\u00e9n)",
-      "url": "https://open.spotify.com/track/0ndeBrUagppnWpvpw01u0j"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "El Primer Noel",
         "url": "https://open.spotify.com/album/1WyAyfFCEueRiYIMQHD1LF"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 190253,
       "name": "El Primer Noel",
       "url": "https://open.spotify.com/track/4fZ2d5dIeg5WJS3dze89hL"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Hosanna (Vamos a Bel\u00e9n)",
+        "url": "https://open.spotify.com/album/3Wj0Xa2Efq9RXCjVkgjCya"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        }
+      ],
+      "duration_ms": 226870,
+      "name": "Hosanna (Vamos a Bel\u00e9n)",
+      "url": "https://open.spotify.com/track/0ndeBrUagppnWpvpw01u0j"
     },
     {
       "added_at": "2024-12-13 04:11:31",

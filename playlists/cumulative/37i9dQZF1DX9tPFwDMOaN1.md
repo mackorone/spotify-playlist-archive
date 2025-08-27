@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: Stray Kids\)
+> Turn on the movement with the latest and greatest in K\-Pop! \(Cover: Saja Boys\(K\-Pop Demon Hunters\)\)
 
 710 songs - 1 day 12 hr 53 min
 

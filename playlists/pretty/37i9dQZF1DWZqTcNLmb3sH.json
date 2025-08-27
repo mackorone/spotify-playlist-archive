@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Elumale",
-  "num_followers": 63989,
+  "num_followers": 63988,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeXdv8Z8p5XjSZtr3m4T/6xUeCQ",
+  "snapshot_id": "AAAAAJCf7FpJE32Wx6M5Pyzb0qw/6IVh",
   "tracks": [
+    {
+      "added_at": "2025-08-26 09:44:52",
+      "album": {
+        "name": "Aanumale Jenumale (From \"Elumale\")",
+        "url": "https://open.spotify.com/album/19eCUknJ4hPZPIe9E2n6Lh"
+      },
+      "artists": [
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        },
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Punit Rangaswamy",
+          "url": "https://open.spotify.com/artist/5jLM92FXj9wSeixav9uYyd"
+        }
+      ],
+      "duration_ms": 271568,
+      "name": "Aanumale Jenumale (From \"Elumale\")",
+      "url": "https://open.spotify.com/track/3o18UPOdvdrpQRsRnTNlHK"
+    },
     {
       "added_at": "2025-08-18 10:52:39",
       "album": {

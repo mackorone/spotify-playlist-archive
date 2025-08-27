@@ -2053,6 +2053,24 @@
     },
     {
       "album": {
+        "name": "CAPRIS",
+        "url": "https://open.spotify.com/album/38Xl71sl7TZvDEKrxDTYk6"
+      },
+      "artists": [
+        {
+          "name": "SHOOP",
+          "url": "https://open.spotify.com/artist/5PbXbjuSwJlEhKN3nmneuq"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198923,
+      "name": "CAPRIS",
+      "url": "https://open.spotify.com/track/1ZFUNIg9u95wtA0D6Vgs4d"
+    },
+    {
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg"
       },
@@ -7088,7 +7106,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 176132,
       "name": "Lady Killers III",
       "url": "https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR"

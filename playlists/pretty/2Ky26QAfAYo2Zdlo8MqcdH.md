@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Ky26QAfAYo2Zdlo8MqcdH.md) - [plain]
 
 > Listen the best of punk pop during your breakfast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

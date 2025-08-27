@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,530 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,686 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 36 | [SIKI SIKI](https://open.spotify.com/track/3DglPTNRNLC9y58fq8WFGs) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [SIKI SIKI](https://open.spotify.com/album/4aGy5USowubQuzRZL08Blw) | 2:33 |
 | 37 | [One Condition](https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [One Condition](https://open.spotify.com/album/4SUUObOcjEt3MtDwKReCCD) | 3:54 |
 | 38 | [FASHION DESIGNA](https://open.spotify.com/track/6wggq2ikhLMnS0o1deK2Xz) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [BAD BOY LOVESTORY](https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi) | 3:04 |
-| 39 | [DD](https://open.spotify.com/track/0R8joRAs4i3zmiPDPReOJL) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [DD](https://open.spotify.com/album/7lOGhoBQ4XvmhbjpY6vdiA) | 2:45 |
-| 40 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
-| 41 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |
-| 42 | [Tout doux](https://open.spotify.com/track/4jeWr8Mgj1MEpJozUPl1qZ) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Tout doux](https://open.spotify.com/album/3CBLiK43DPiISKyDvfMz2I) | 3:13 |
-| 43 | [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 |
-| 44 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 |
-| 45 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
-| 46 | [PÉLÉLÉ](https://open.spotify.com/track/1ty1KGq9vkeJtdMbWlayy3) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [ÉTÉ 2015](https://open.spotify.com/album/2v5GHFsBWSsajT1gJbBYXm) | 3:13 |
-| 47 | [Samedi soir](https://open.spotify.com/track/6c5Acg0PycVeEolq6zuJ9w) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my) | [Samedi soir](https://open.spotify.com/album/739kyrPOPh8SRyfKhl7NOr) | 2:08 |
-| 48 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 |
-| 49 | [Le monde est méchant \- Au Pays Des Merveilles](https://open.spotify.com/track/3ETrzTJqBCpkdgm6cyXnH4) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Le monde est méchant](https://open.spotify.com/album/3KwYUFLFlrRahedORZQNFv) | 2:02 |
-| 50 | [Genkidama](https://open.spotify.com/track/09n6Y0EosYBt0SDyPlwNu2) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Genkidama](https://open.spotify.com/album/2YToMjpcRUMwan7Zy7Qyia) | 2:33 |
+| 39 | [KELEBU](https://open.spotify.com/track/6aoKNOL481xVNuqeayQjPj) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [KELEBU](https://open.spotify.com/album/0dTlxJzKKFaUdPoW7aIQIa) | 2:52 |
+| 40 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 |
+| 41 | [Tout doux](https://open.spotify.com/track/4jeWr8Mgj1MEpJozUPl1qZ) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Tout doux](https://open.spotify.com/album/3CBLiK43DPiISKyDvfMz2I) | 3:13 |
+| 42 | [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 |
+| 43 | [J'ai ce qu'il faut](https://open.spotify.com/track/5Z15WSSa7fvaPJZRI4OgDS) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [J'ai ce qu'il faut](https://open.spotify.com/album/19tjQ0TPFX7z1h6eKM6qre) | 3:21 |
+| 44 | [Baby \(Is it a Crime\)](https://open.spotify.com/track/6NOrpcicPUh2eaj8bAD44u) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Baby \(Is it a Crime\)](https://open.spotify.com/album/6UyYWiOrIJMlccE1DmNRHK) | 2:44 |
+| 45 | [PÉLÉLÉ](https://open.spotify.com/track/1ty1KGq9vkeJtdMbWlayy3) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [ÉTÉ 2015](https://open.spotify.com/album/2v5GHFsBWSsajT1gJbBYXm) | 3:13 |
+| 46 | [Samedi soir](https://open.spotify.com/track/6c5Acg0PycVeEolq6zuJ9w) | [Jeady Jay](https://open.spotify.com/artist/4hXDK6hpOhP5dW2kuWZ6my) | [Samedi soir](https://open.spotify.com/album/739kyrPOPh8SRyfKhl7NOr) | 2:08 |
+| 47 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 |
+| 48 | [Le monde est méchant \- Au Pays Des Merveilles](https://open.spotify.com/track/3ETrzTJqBCpkdgm6cyXnH4) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Le monde est méchant](https://open.spotify.com/album/3KwYUFLFlrRahedORZQNFv) | 2:02 |
+| 49 | [Genkidama](https://open.spotify.com/track/09n6Y0EosYBt0SDyPlwNu2) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Genkidama](https://open.spotify.com/album/2YToMjpcRUMwan7Zy7Qyia) | 2:33 |
 
-Snapshot ID: `AAAAAJw1ICuVKdNJGB4LhI3LMSTkUAul`
+Snapshot ID: `AAAAADfoxVme+KIPm6AvDBDQ3FWAbchs`

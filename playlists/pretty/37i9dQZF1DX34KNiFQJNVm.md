@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grupo Menos É Mais com NATTAN, MC Hariel, LUDMILLA, Pabllo Vittar e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,140,688 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,140,675 likes - 77 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 57 | [Passar de Camionete](https://open.spotify.com/track/75APrWGDzkjRHVDcul0146) | [João Dalzoto](https://open.spotify.com/artist/43JXBc7dCdCdg7pW4viP3Q), [Brenno & Matheus](https://open.spotify.com/artist/5aC2LaswbZgcf1G2uxqBxF), [DJ Ari SL](https://open.spotify.com/artist/3la3vRfIuDMsydpPfUBryR) | [Passar de Camionete](https://open.spotify.com/album/2yPKQsy0enHK0CjhqLWcki) | 2:31 |
 | 58 | [Festa Violenta \- Ao Vivo](https://open.spotify.com/track/6lSls0O8U5DcL1yPSWxqst) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef), [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Bora Vê \(Ao Vivo\)](https://open.spotify.com/album/2yoRumu8kaWl6Wlk7RCEKG) | 3:06 |
 | 59 | [Alucinação](https://open.spotify.com/track/1v9BvVS1oiDAUMH0cRGjU7) | [Mc Dudu HR](https://open.spotify.com/artist/5ns2xQTTi31FM4VfETb4ft), [Dj L Martins](https://open.spotify.com/artist/4MQAbRFF5xtTAIYG8jzfZm), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Alucinação](https://open.spotify.com/album/27QDmiq76u2wymXecpuhz9) | 2:12 |
-| 60 | [Buzios](https://open.spotify.com/track/64iR1z2JQbXMFtXEG03L5w) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [Mc Vh Diniz](https://open.spotify.com/artist/5jJWDuZUhCy7cP7BH6Thf0), [CORDIAL](https://open.spotify.com/artist/4uiYbPQuTukuX0lTmFpjLT) | [Buzios](https://open.spotify.com/album/5E9v0RGrjGip6bZS0cWqZZ) | 2:09 |
+| 60 | [Buzios](https://open.spotify.com/track/64iR1z2JQbXMFtXEG03L5w) | [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB), [Mc Vh Diniz](https://open.spotify.com/artist/5jJWDuZUhCy7cP7BH6Thf0), [CORDIAL](https://open.spotify.com/artist/4uiYbPQuTukuX0lTmFpjLT) | [Buzios](https://open.spotify.com/album/5E9v0RGrjGip6bZS0cWqZZ) | 2:38 |
 | 61 | [Farol Aceso](https://open.spotify.com/track/1YubQ5Quk83Iue0yv3sJD4) | [Puterrier](https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Farol Aceso](https://open.spotify.com/album/6EsMfcdvc4juCzrX7MiaAX) | 2:00 |
 | 62 | [Baile Em Chamas](https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [DJ 2L da Rocinha](https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP) | [Baile Em Chamas](https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV) | 2:53 |
 | 63 | [Nós Dois](https://open.spotify.com/track/0jnyTNxMmniFQrPG98yw06) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu) | [Nós Dois](https://open.spotify.com/album/0BJCJ9dLDwiifvqHUKnEwk) | 2:15 |

@@ -4,7 +4,7 @@
 
 > Loksins New Music Friday! Ný tónlist Of Laufey, sombr, Daði Freyr og mörgum fleiri!
 
-7,462 songs - 16 day 17 hr 18 min
+7,463 songs - 16 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3714,7 +3714,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-05-23 | 2025-05-30 |
 | [Leave me out to dry](https://open.spotify.com/track/0Rmv7L0FdIgsOASN1iS2ge) | [Red Langur](https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9) | [Leave me out to dry](https://open.spotify.com/album/53mRQgyYfwQpWhH8pJvgtc) | 3:14 | 2025-05-16 | 2025-05-23 |
 | [Leave Tonight](https://open.spotify.com/track/00CxTPBETcBko91D5mkIDh) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Leave Tonight](https://open.spotify.com/album/1IYBvgDWiy04zCbJXvUyoJ) | 2:33 | 2024-04-26 | 2024-05-01 |
-| [LEAVES](https://open.spotify.com/track/5OuY69KFlck3cxf5abrzF5) | [Paradísa](https://open.spotify.com/artist/5GAXJ03ZrgXGglGZMmGzwl) | [LEAVES](https://open.spotify.com/album/222ulddI86CNWXIZuu0M8O) | 3:06 | 2025-08-22 |  |
+| [LEAVES](https://open.spotify.com/track/5OuY69KFlck3cxf5abrzF5) | [Paradísa](https://open.spotify.com/artist/5GAXJ03ZrgXGglGZMmGzwl) | [LEAVES](https://open.spotify.com/album/222ulddI86CNWXIZuu0M8O) | 3:06 | 2025-08-22 | 2025-08-27 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-25 | 2024-11-01 |
 | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Leaveyourlove \(with King Stingray\)](https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR) | 3:40 | 2024-11-29 | 2024-12-06 |
 | [Leaving](https://open.spotify.com/track/4Lx4JNpzGR2wdybtpJ0H6S) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leaving](https://open.spotify.com/album/6ZzLU7iR4jpbNrEt8mXYsu) | 3:34 | 2025-02-14 | 2025-02-21 |
@@ -7467,6 +7467,7 @@
 | [Þú Elskar Mig](https://open.spotify.com/track/5pYDjmT4RAA3tqk4jkXk8F) | [GELLAN](https://open.spotify.com/artist/3Dpjb6ohfb17Cull6HE6en) | [Þú Elskar Mig](https://open.spotify.com/album/36jvYZZGi4COHl6zo5Dd7Z) | 2:26 | 2025-03-14 | 2025-03-21 |
 | [Þú fyllir hjartað](https://open.spotify.com/track/0mUlT95nmaQESU86MDGM3V) | [Bjarni Ómar](https://open.spotify.com/artist/30NBEBMzDmnnw5lvs5yE90) | [Þú fyllir hjartað](https://open.spotify.com/album/6K7Y9NAri1cUFhsw3eh25g) | 4:25 | 2025-04-11 | 2025-04-18 |
 | [ÞÚ VERÐUR EITT AÐ VITA](https://open.spotify.com/track/4YFrSHh8L1IUzreR780dwL) | [Holy Hrafn](https://open.spotify.com/artist/4gTgF0htbvM8auxIGvylcB), [Dr\. Vigdís Vala](https://open.spotify.com/artist/7ij7Mo6RtcPhu9u8wqtWMP) | [BERMÚDA TVÍHYRNINGURINN](https://open.spotify.com/album/6cIdW7Fn5ZUQXyjiJDPxtM) | 3:20 | 2024-09-27 | 2024-09-29 |
+| [Þú átt eitthvað bágt](https://open.spotify.com/track/66nTBAODZtD7gndyrTk9FS) | [Moskvít](https://open.spotify.com/artist/0KWaX4tqlCnjivWDKa0wLQ) | [Þú átt eitthvað bágt](https://open.spotify.com/album/77wbynU8MKiOTWElzVbre6) | 3:06 | 2025-08-22 |  |
 | [ᚦᚦᚦᚦperfect violation ᚦᚦ](https://open.spotify.com/track/2cYMjWS76gzfWUQAb2AbdE) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1), [VS\-55](https://open.spotify.com/artist/2OkvEMID0ukuuRijJJwExF) | [ᚦ](https://open.spotify.com/album/0rVcW5vYBivXuERqeYF50o) | 4:58 | 2025-02-28 | 2025-03-07 |
 | [健忘者たち](https://open.spotify.com/track/5pPvVb1woBjn86gnNsbBg2) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [健忘者たち](https://open.spotify.com/album/2vAlIqHLL3NnHay18v8zTP) | 3:46 | 2025-08-01 | 2025-08-09 |
 | [形](https://open.spotify.com/track/0m5ZpQtTjdoH4eXeygFRFZ) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [形](https://open.spotify.com/album/2lZN1RhKVBH5DkmelKX3Aw) | 3:20 | 2025-06-13 | 2025-06-20 |

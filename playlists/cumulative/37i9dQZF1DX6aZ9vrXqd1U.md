@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-372 songs - 1 day 1 hr 14 min
+373 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2022-07-27 | 2023-06-16 |
 | [暁の車](https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [Destination](https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB) | 5:03 | 2023-04-21 | 2024-04-19 |
 | [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 | 2024-01-25 |  |
+| [次回予告](https://open.spotify.com/track/435iqKPYzxAsQ4ErI0GLWB) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | [『機動戦士Gundam GQuuuuuuX』オリジナルサウンドトラック](https://open.spotify.com/album/23nzlse5G0LPv09eQE80ni) | 0:14 | 2025-08-26 |  |
 | [水の星へ愛をこめて](https://open.spotify.com/track/2dzF7OvfbI8Cu3NGnNT1Ix) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/6eCYVaZelUiLzRxbrqmnjo) | 3:39 | 2024-01-27 | 2024-04-19 |
 | [水の星へ愛をこめて](https://open.spotify.com/track/49dRdtIMmYGAeMr6hcwKyi) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [水の星へ愛をこめて](https://open.spotify.com/album/51sr6QLv4BNQFokua1xFFB) | 3:41 | 2022-07-27 |  |
 | [水の証](https://open.spotify.com/track/6xwmNJopUWsknupGG3kTUQ) | [ラクス・クライン \(CV: 田中理恵\)](https://open.spotify.com/artist/7MnUOaYaLcbvdOQ5J1cpy0) | [水の証](https://open.spotify.com/album/5YNdnDhVQsf6cyWqanKgXH) | 4:27 | 2024-01-27 |  |

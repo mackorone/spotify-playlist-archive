@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-819 songs - 1 day 18 hr 16 min
+820 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,12 +779,13 @@
 | [Virgin Denim](https://open.spotify.com/track/69g0enFvUbtdKi5e84frgc) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [Virgin Denim](https://open.spotify.com/album/3ET9072AROvw8sqz1Ar2uS) | 3:10 | 2024-05-31 | 2024-06-15 |
 | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/track/43ZEiGYEJ5vcmjlBwanwyW) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Vision Remix \(feat\. Chlöe\)](https://open.spotify.com/album/1cdHnVkU4QloSiH06bI8pA) | 2:46 | 2024-05-03 | 2025-08-15 |
 | [Wait On Me](https://open.spotify.com/track/5o79AnyhGqX0LlBb1am1pV) | [Mayten](https://open.spotify.com/artist/2qr7RzXXdIkZfcjsw5oA6K), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Wait On Me](https://open.spotify.com/album/2RtxSIZ156yT9DSAQS2BBE) | 4:07 | 2022-09-02 | 2022-10-22 |
-| [Wait!](https://open.spotify.com/track/7BQFFxWrQmrB89mVKBgSfo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Casa Mira Mar](https://open.spotify.com/album/1Z5GWD6FWevXrscgPDmwIO) | 2:17 | 2025-07-11 |  |
+| [Wait!](https://open.spotify.com/track/7BQFFxWrQmrB89mVKBgSfo) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [Casa Mira Mar](https://open.spotify.com/album/1Z5GWD6FWevXrscgPDmwIO) | 2:17 | 2025-07-11 | 2025-08-27 |
 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 | 2024-08-02 | 2024-11-07 |
 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 | 2023-06-09 | 2024-05-09 |
 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 | 2022-06-24 | 2022-11-26 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-07-28 | 2023-10-27 |
 | [Water](https://open.spotify.com/track/1OTnajlDj0KrMMkhtlc7uY) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [In A Perfect World](https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI) | 2:52 | 2023-09-14 | 2023-10-13 |
+| [Way2Yung](https://open.spotify.com/track/1y3AUUZnhIUJBzEAIKwrUw) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [W2Y](https://open.spotify.com/album/0AGOILqd2XSV5yts7QQquz) | 2:18 | 2025-08-22 |  |
 | [Wayside](https://open.spotify.com/track/5FEkkvBVBH50vtpxWQ1ctV) | [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Wayside](https://open.spotify.com/album/7M3HnxJBwhzNqTLNPBnAcJ) | 2:12 | 2025-07-18 | 2025-08-01 |
 | [WE \(Warm Embrace\)](https://open.spotify.com/track/7rTzmiwE6lmBG8vQvBzNg7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [WE \(Warm Embrace\)](https://open.spotify.com/album/25OWLDhL6VjUn6ZqUqWVoV) | 3:54 | 2022-06-24 | 2023-02-11 |
 | [We Don't Make Sense](https://open.spotify.com/track/25WdkhsSsNdc0Fa2EjfLim) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [We Don't Make Sense](https://open.spotify.com/album/212WkWG04xW3rGE2JN4sL2) | 4:03 | 2024-06-14 | 2024-07-21 |

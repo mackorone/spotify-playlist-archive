@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Photo by David Wolff via Getty Images
 
-537 songs - 1 day 20 hr 55 min
+538 songs - 1 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [All the Mornings in the World](https://open.spotify.com/track/67S6sKois8qE4nQ5nBPLM2) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/6uAP7KQU1Q3KQoB1eW3fHl) | 6:41 | 2023-01-20 | 2023-08-12 |
 | [All Things Burn](https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/0a48X39VME2QhWVEASztpm) | 5:41 | 2021-12-26 | 2023-06-28 |
 | [All Things Burn](https://open.spotify.com/track/2NVRwrkHjiwfB1EIDLH3p7) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [How Do You Live](https://open.spotify.com/album/6X3Csq02B7dRFU1yaa7GVV) | 5:41 | 2023-07-13 | 2023-08-12 |
+| [Almost](https://open.spotify.com/track/2xxoRQnaIjFgWLIS4YsNwf) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [GUSH](https://open.spotify.com/album/4s6VTVytCKSC0ZrRZMg6J6) | 2:18 | 2025-08-26 |  |
 | [Alyosha Lying](https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Alyosha Lying](https://open.spotify.com/album/7f2iPwLQp0qiCdiZy986Fh) | 2:59 | 2023-11-24 |  |
 | [Am I Human?](https://open.spotify.com/track/6i0Dqt3YJu8XWJuQxHs80v) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Am I Human?](https://open.spotify.com/album/5GLoTVT2wyfvVkIY3ORkNB) | 4:49 | 2025-06-28 |  |
 | [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 | 2025-01-17 |  |
@@ -423,7 +424,7 @@
 | [Sine Waves](https://open.spotify.com/track/3iLbERuL98HVj4utkn7U04) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1), [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 4:38 | 2022-09-20 | 2025-05-13 |
 | [Singularity](https://open.spotify.com/track/5H7MkToBZTfphmaYyCFNWS) | [Germind](https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh) | [My Space](https://open.spotify.com/album/4u1IvjuiRix1rN7ZoVxVzv) | 6:37 | 2022-01-23 | 2023-07-06 |
 | [Sinnessprung](https://open.spotify.com/track/2eQrONgbuSbwrXZO5cZklm) | [Mareena](https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s), [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Atlas der Gedanken](https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe) | 5:06 | 2023-08-11 | 2025-01-15 |
-| [Sit Down and Play](https://open.spotify.com/track/6cZVmYX7alw9JONCRhN4YQ) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Sit Down and Play](https://open.spotify.com/album/4Jm4KmC1D5D2alu1CdnxNm) | 9:34 | 2025-07-16 |  |
+| [Sit Down and Play](https://open.spotify.com/track/6cZVmYX7alw9JONCRhN4YQ) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt) | [Sit Down and Play](https://open.spotify.com/album/4Jm4KmC1D5D2alu1CdnxNm) | 9:34 | 2025-07-16 | 2025-08-27 |
 | [Sleepless](https://open.spotify.com/track/4IIo7qJZkfUIDJJWK3PjdJ) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate Deluxe](https://open.spotify.com/album/2qtHPZM9dpKraDzJzbKzzR) | 3:05 | 2023-12-01 | 2024-04-19 |
 | [Sleepless](https://open.spotify.com/track/7KB4CfwXx6fdzGvLo4JKsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Fate \(B\-Sides\)](https://open.spotify.com/album/6Ny5wg4YYEqZJvjkhNtHYJ) | 3:05 | 2023-03-23 | 2025-05-24 |
 | [Solace](https://open.spotify.com/track/0DKA1qiyVR9AQ2ZpDkkvbc) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/44XBWRiDn05a4ECHyTQWPl) | 2:44 | 2023-01-20 | 2024-03-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuwe muziek: Doja Cat, sombr, Florence + The Machine, Bankzitters & Ronnie Flex en meer
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,699 likes - 87 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,680 likes - 87 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 86 | [MALEFIKA](https://open.spotify.com/track/38KIzV28jPFwf8j84Hoz2x) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [DESDE EL COMA](https://open.spotify.com/album/7GlWfnHMjoxbS5qdbVpADR) | 2:33 |
 | 87 | [ascension](https://open.spotify.com/track/64I6rOFgXK6XzElgsF4moV) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [ascension](https://open.spotify.com/album/2ATV1vTGeO6H7nMwo2cIAN) | 3:02 |
 
-Snapshot ID: `AAAAAAVF+Pw4KfJEDpYQTNFz8S65HDDQ`
+Snapshot ID: `AAAAAMoCHd/rhJ2uwsdYhH+3YvpcofLm`

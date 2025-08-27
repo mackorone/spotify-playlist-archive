@@ -6,7 +6,7 @@
     "name": "Adrian",
     "url": "https://open.spotify.com/user/31626gky5snq4aklpfcfmh6arhoa"
   },
-  "snapshot_id": "AAAAO0eoZc9k09fp1XxjwvPDGVX5sCJi",
+  "snapshot_id": "AAAAPBxLGXk10cP4vgVmZ76+saRETtY2",
   "tracks": [
     {
       "added_at": "2023-09-24 03:38:37",
@@ -518,6 +518,10 @@
         {
           "name": "DJ DYLANFK",
           "url": "https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee"
+        },
+        {
+          "name": "0to8",
+          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
         }
       ],
       "duration_ms": 144839,
@@ -571,6 +575,22 @@
       "duration_ms": 97446,
       "name": "secrets",
       "url": "https://open.spotify.com/track/2ABwmC6R0EqTwGjdOduoD7"
+    },
+    {
+      "added_at": "2025-08-26 06:09:35",
+      "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
     }
   ],
   "unique_name": "Ultra Sigma Patrick Bateman",

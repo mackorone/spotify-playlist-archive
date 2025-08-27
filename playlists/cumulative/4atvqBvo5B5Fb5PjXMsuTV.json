@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Aug 08:07 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:06 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -486,6 +486,24 @@
       "duration_ms": 195093,
       "name": "100 bux",
       "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
+    },
+    {
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
     },
     {
       "album": {
@@ -5488,7 +5506,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 202073,
       "name": "Annihilate Me",
       "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
@@ -11534,6 +11552,24 @@
       "duration_ms": 197257,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/6bCE0p7QX3Tx4rZGDyaJ1U"
+    },
+    {
+      "album": {
+        "name": "BLUE!",
+        "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196013,
+      "name": "BLUE!",
+      "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
     },
     {
       "album": {
@@ -35916,7 +35952,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 235745,
       "name": "GOD IS AN ANIMAL",
       "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"

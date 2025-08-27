@@ -4,7 +4,7 @@
 
 > 🔥🎉
 
-88 songs - 3 hr 50 min
+89 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-17 |  |
 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-25 |  |
 | [Bitterzoet](https://open.spotify.com/track/6PbDcr3zfITA3j3MO4OIOu) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Bitterzoet](https://open.spotify.com/album/5Y2YwJG3v0WISIGLxoAbbR) | 2:35 | 2025-07-17 |  |
-| [Blauwe Maandag](https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Blauwe Maandag](https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK) | 2:19 | 2025-07-17 |  |
+| [Blauwe Maandag](https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Blauwe Maandag](https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK) | 2:19 | 2025-07-17 | 2025-08-27 |
 | [Boefie Energy](https://open.spotify.com/track/44F9SRrFGPoonfy6Qr3TBZ) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Boefie Energy](https://open.spotify.com/album/3ztj0tlN2qqJn6VbZJkQ2P) | 2:30 | 2025-07-17 |  |
 | [Boerenland](https://open.spotify.com/track/6JPS6X6k4Xpk8yu8fJkpPZ) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Boerenland](https://open.spotify.com/album/1HgJ0ncLENyQ6kSWjwbxzE) | 2:22 | 2025-07-17 | 2025-08-26 |
 | [Boevenpad](https://open.spotify.com/track/7M8oLiR9q2He0mnJVLYYYj) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [5 Sterren](https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox) | 1:57 | 2025-07-17 |  |
@@ -41,6 +41,7 @@
 | [Hart In Brand](https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Hart In Brand](https://open.spotify.com/album/5Gtvc0bWyrMfYqJwAKup8V) | 2:26 | 2025-07-17 |  |
 | [Haver Cappu \(feat\. Milolaathetlukken & ADF Samski\)](https://open.spotify.com/track/645mR9ln7ISijLQJDq1a3M) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8) | [Haver Cappu \(feat\. Milolaathetlukken & ADF Samski\)](https://open.spotify.com/album/6vVMdhEOvfcVh7YDqLRaKl) | 2:24 | 2025-07-17 |  |
 | [Helemaal Naar De Klote \(feat\. Jayh, Sjaak & Reverse\) \- LA$$A Remix](https://open.spotify.com/track/0XgKJ8I7qlGBMBCAYjzUb7) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Reverse](https://open.spotify.com/artist/4B4ON3QQ4AoObbF1jGOzJK) | [Helemaal Naar De Klote \(feat\. Jayh, Sjaak & Reverse\) \[LA$$A Remix\]](https://open.spotify.com/album/7GcYEFyUEQCGTraXQJg4Ag) | 2:08 | 2025-07-17 |  |
+| [High On Me](https://open.spotify.com/track/3Z23sDc2J9ZkmFiMStRoIp) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [High On Me](https://open.spotify.com/album/2fpKAar1kXe4bWkzZSX88J) | 3:09 | 2025-08-25 |  |
 | [Hockeymeisjes](https://open.spotify.com/track/4zEd7WF0nAVfW46Ephechi) | [Romeijn](https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B) | [Hockeymeisjes](https://open.spotify.com/album/4SyYfLDhrE8q9oLLejtZmp) | 2:49 | 2025-07-17 | 2025-08-05 |
 | [Hoe Het Is](https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Hoe Het Is](https://open.spotify.com/album/1Aws29gVZW0pvOZtx1aMlC) | 2:31 | 2025-07-17 |  |
 | [Hoodini](https://open.spotify.com/track/4vNNkabzgxPmvUqaLd0RgB) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Daaf](https://open.spotify.com/artist/04rlEGOdxYkuwXsjB9SlnZ) | [Hoodini](https://open.spotify.com/album/7uJCm0jgU41Vk92wj7QN1R) | 2:40 | 2025-07-17 | 2025-08-26 |

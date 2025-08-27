@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Nourished by Time
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,335,705 likes - 170 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,335,671 likes - 170 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

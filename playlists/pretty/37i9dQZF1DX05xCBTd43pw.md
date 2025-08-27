@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 
 > Grüezi! This is 100% made in Switzerland\.  Cover: Kings Elliot
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,005 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,007 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [What If This World](https://open.spotify.com/track/5iij775fYn7KUTYJPX9SSw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [What If This World](https://open.spotify.com/album/1sIyk17IVWsl7l5OGd8ZRr) | 3:39 |
-| 2 | [Million de Mois](https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Million de Mois](https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D) | 2:57 |
-| 3 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 |
-| 4 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
-| 5 | [Devil On My Back](https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Devil On My Back](https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj) | 3:14 |
-| 6 | [Wanted To Know](https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Wanted To Know](https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR) | 2:21 |
-| 7 | [Good](https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Good](https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI) | 3:47 |
-| 8 | [Drama Baby](https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Drama Baby](https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW) | 2:57 |
-| 9 | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 |
-| 10 | [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 |
-| 11 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
-| 12 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 |
-| 13 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |
-| 14 | [In Case I Fall for You](https://open.spotify.com/track/2qz7KoWTLGuWuIfwqZmk4y) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [White Creatures](https://open.spotify.com/album/268yXVSyVaHmdualmsd1Ve) | 5:04 |
-| 15 | [Happy Here](https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp) | [Happy Here](https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9) | 2:54 |
+| 2 | [kissing you at midnight](https://open.spotify.com/track/2OHAY6SRLLk7coxKtopMg7) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [kissing you at midnight](https://open.spotify.com/album/0Himmw4SE7A47WjLZLiCdf) | 3:13 |
+| 3 | [Drama Baby](https://open.spotify.com/track/3szgIcVPUrNCHIiwdoQ6RN) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Drama Baby](https://open.spotify.com/album/6GOdxHEqZ0UBgVpEf5x4MW) | 2:57 |
+| 4 | [Wanted To Know](https://open.spotify.com/track/5JCaPtPEol2nS4Hyuhri6R) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Wanted To Know](https://open.spotify.com/album/6vW1NPnaoqWqQ8wgBnM4wR) | 2:21 |
+| 5 | [Good](https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Good](https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI) | 3:47 |
+| 6 | [Devil On My Back](https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9) | [Argyle](https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg) | [Devil On My Back](https://open.spotify.com/album/2JbmroGB0UrTPICePQXARj) | 3:14 |
+| 7 | [Wolke](https://open.spotify.com/track/18ObNcLsXmhbkka7oeOsNh) | [Gigi Malua](https://open.spotify.com/artist/4i3FpW16bE9c9TxNvvDs82) | [Wolke](https://open.spotify.com/album/6k7DbfYsI3OEt3pEK22fXX) | 3:09 |
+| 8 | [Too Late](https://open.spotify.com/track/3ujKtX9veDSd8L7xsghjx3) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Too Late](https://open.spotify.com/album/47Klgsbt8GiMzK2c7N5xrU) | 3:06 |
+| 9 | [Million de Mois](https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Million de Mois](https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D) | 2:57 |
+| 10 | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/track/7sN8cPi1YSSXxluyVCl7YQ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [KOOLKID](https://open.spotify.com/artist/0WBAJsJSN2RtYuWVa1aRCY) | [Gold \(feat\. KOOLKID\)](https://open.spotify.com/album/6cnA84PlNGIXkMCs7oglJw) | 3:20 |
+| 11 | [Don't Stop The Car](https://open.spotify.com/track/4TGFS6BL59tuRSjBByZ3A4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Don't Stop The Car](https://open.spotify.com/album/0cWThtdC9EYUPQMGAivj7m) | 3:14 |
+| 12 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 |
+| 13 | [In Case I Fall for You](https://open.spotify.com/track/2qz7KoWTLGuWuIfwqZmk4y) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [White Creatures](https://open.spotify.com/album/268yXVSyVaHmdualmsd1Ve) | 5:04 |
+| 14 | [Happy Here](https://open.spotify.com/track/2HmUgFWhCMs44ONcQAFhkm) | [Remady](https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc), [MaWayy](https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp) | [Happy Here](https://open.spotify.com/album/5SoVqbsyAO0Qplj4hxT7Z9) | 2:54 |
+| 15 | [Voyage](https://open.spotify.com/track/4Y0lQy86Qz9ncQwgTTS2rc) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Voyage](https://open.spotify.com/album/6aM4gYhFn5aPsngmnKCDVm) | 2:59 |
 | 16 | [No Quiero Perderte](https://open.spotify.com/track/3LJDNWMVVP5i5qvWIvcuma) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [No Quiero Perderte](https://open.spotify.com/album/57HnrjBWppxIkQCYxRUk5b) | 3:31 |
-| 17 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 |
-| 18 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
-| 19 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
-| 20 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 |
+| 17 | [Caroline](https://open.spotify.com/track/0Y3OX3KZVsyG23qyV1JgYp) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Caroline](https://open.spotify.com/album/2t6x3lyAeeHDtPG8gfguE8) | 3:22 |
+| 18 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 |
+| 19 | [Casanova](https://open.spotify.com/track/7DKqquL8njykv59YgLtJU9) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Casanova](https://open.spotify.com/album/6iELgLhTy8AzINTUH2PQ1c) | 3:02 |
+| 20 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
 | 21 | [Fire To The Sky](https://open.spotify.com/track/64z7HtT0PDMdlWaUwacAuz) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Fire To The Sky](https://open.spotify.com/album/1Fz5JAZlatqEDYC9gpThwl) | 2:45 |
 | 22 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 |
 | 23 | [One Day Will Be All I Have](https://open.spotify.com/track/19wPR7FOTGE51RNh9h5ze3) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [One Day Will Be All I Have](https://open.spotify.com/album/6P51bLceVuWLrKxm4C0mIQ) | 5:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05xCBTd43pw.md) - [plain]
 | 99 | [Someone](https://open.spotify.com/track/0qUS7YhYhGM9Zrv0wdssC0) | [Linda Wolf](https://open.spotify.com/artist/5k0bwTI10kfhSyDkg0fvEo) | [What if It All Works Out](https://open.spotify.com/album/7hko53MusmAbvlXYlFtIxA) | 3:33 |
 | 100 | [Talk](https://open.spotify.com/track/0CrrdcP4QLXeDylIfHqMaC) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Talk](https://open.spotify.com/album/25u5zS0KnYONzjB0uT6QyU) | 3:07 |
 
-Snapshot ID: `AAAAADI+vfyy5loc4gEGRpMS5TAWQiDC`
+Snapshot ID: `AAAAAPBbqYl/N8/FEKWTxK4LMTcwVbGg`

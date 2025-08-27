@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8232,
+  "num_followers": 8231,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAADkaiG2sU+FMQ4k8bFmpboe",
+  "snapshot_id": "aKungAAAAAC0NPQvoFLAQdYdoVT03EN0",
   "tracks": [
     {
       "added_at": null,
@@ -595,22 +595,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+        "name": "Dona de Mim (Novela)",
+        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
       },
       "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
         }
       ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
+      "duration_ms": 151737,
+      "name": "Dona de Mim - Novela",
+      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
     },
     {
       "added_at": null,
@@ -635,26 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dona de Mim (Novela)",
-        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
       },
       "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
         }
       ],
-      "duration_ms": 151737,
-      "name": "Dona de Mim - Novela",
-      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -1231,30 +1231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arquivos",
-        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
-      },
-      "artists": [
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Arquivos",
-      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arquivos",
+        "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Arquivos",
+      "url": "https://open.spotify.com/track/5oQaUfLbBhR4yVla3O7jLS"
     },
     {
       "added_at": null,
@@ -1411,26 +1411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Te Envolver",
-        "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 135517,
-      "name": "Pra Te Envolver",
-      "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
         "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 214772,
       "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
       "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pra Te Envolver",
+        "url": "https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 135517,
+      "name": "Pra Te Envolver",
+      "url": "https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2"
     }
   ],
   "unique_name": "This Is Azzy",

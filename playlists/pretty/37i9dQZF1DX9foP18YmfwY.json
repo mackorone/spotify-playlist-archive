@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Herrison Pontes, Jessica Dias",
-  "num_followers": 358698,
+  "num_followers": 358810,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -203,18 +203,18 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+        "name": "Tudo \u00c9 do Pai",
+        "url": "https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X"
       },
       "artists": [
         {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
         }
       ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+      "duration_ms": 396777,
+      "name": "Tudo \u00c9 do Pai",
+      "url": "https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -235,6 +235,22 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
         "name": "Cheiro de Rosas",
         "url": "https://open.spotify.com/album/49TJc13HQdIadmP3e7hbnY"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 279835,
       "name": "Cheiro de Rosas",
       "url": "https://open.spotify.com/track/3lGX7tLWbcvDay0Ya0PFF7"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Tudo \u00c9 do Pai",
-        "url": "https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X"
-      },
-      "artists": [
-        {
-          "name": "Eliana Ribeiro",
-          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
-        }
-      ],
-      "duration_ms": 396777,
-      "name": "Tudo \u00c9 do Pai",
-      "url": "https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "Erguei as M\u00e3os",
-        "url": "https://open.spotify.com/album/48je1xG8rIdqQQ0nxFPVNI"
-      },
-      "artists": [
-        {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 272511,
-      "name": "Erguei as M\u00e3os",
-      "url": "https://open.spotify.com/track/1V7DNnVaW7qgSwUFJDEzSR"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
         "name": "Acalma o Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 262000,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Erguei as M\u00e3os",
+        "url": "https://open.spotify.com/album/48je1xG8rIdqQQ0nxFPVNI"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 272511,
+      "name": "Erguei as M\u00e3os",
+      "url": "https://open.spotify.com/track/1V7DNnVaW7qgSwUFJDEzSR"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -655,26 +655,6 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "Estou Orando por Voc\u00ea",
-        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        },
-        {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
-        }
-      ],
-      "duration_ms": 337168,
-      "name": "Estou Orando por Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
         "name": "Nada Temerei",
         "url": "https://open.spotify.com/album/66tSxggLjDFU9NX7AYoGHQ"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 286000,
       "name": "Nada Temerei",
       "url": "https://open.spotify.com/track/0Az43n8eLEaGhnayh3MBK2"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Estou Orando por Voc\u00ea",
+        "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        },
+        {
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+        }
+      ],
+      "duration_ms": 337168,
+      "name": "Estou Orando por Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "Cantai a Deus Com Alegria 2023",
-        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 308875,
-      "name": "Louvor dos Pequenos",
-      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
         "name": "M\u00e3e, Me Defende do Mal",
         "url": "https://open.spotify.com/album/5B1AJ6eP1KI2BBy4qZLP2K"
       },
@@ -783,76 +767,8 @@
     {
       "added_at": "2025-08-01 19:04:05",
       "album": {
-        "name": "Gba Stage, Vol. 13",
-        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 294101,
-      "name": "Deixa Deus Sonhar em Ti",
-      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
-    },
-    {
-      "added_at": "2025-08-01 19:04:05",
-      "album": {
-        "name": "Gl\u00f3ria de Deus",
-        "url": "https://open.spotify.com/album/4xxnwl9YQtyFYzdBDJzxAQ"
+        "name": "Cantai a Deus Com Alegria 2023",
+        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
       },
       "artists": [
         {
@@ -860,9 +776,9 @@
           "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 348541,
-      "name": "Celeste Jerusal\u00e9m",
-      "url": "https://open.spotify.com/track/7gE27RUFCSgZS0wPdLQTsp"
+      "duration_ms": 308875,
+      "name": "Louvor dos Pequenos",
+      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
     },
     {
       "added_at": "2025-08-01 19:04:05",
@@ -883,6 +799,90 @@
       "duration_ms": 256824,
       "name": "Milagre de Amor",
       "url": "https://open.spotify.com/track/5u162KDc5vVtLW8NVxvVgg"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Gl\u00f3ria de Deus",
+        "url": "https://open.spotify.com/album/4xxnwl9YQtyFYzdBDJzxAQ"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 348541,
+      "name": "Celeste Jerusal\u00e9m",
+      "url": "https://open.spotify.com/track/7gE27RUFCSgZS0wPdLQTsp"
+    },
+    {
+      "added_at": "2025-08-01 19:04:05",
+      "album": {
+        "name": "Gba Stage, Vol. 13",
+        "url": "https://open.spotify.com/album/3V1ekSQMLF1h4b0TIz4o8l"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 294101,
+      "name": "Deixa Deus Sonhar em Ti",
+      "url": "https://open.spotify.com/track/1xdjbJGbPih26RBuvyImI2"
     },
     {
       "added_at": "2025-08-01 19:04:05",

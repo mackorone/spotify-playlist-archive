@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 74113,
+  "num_followers": 74148,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
+        "name": "The Touch Of Your Lips",
+        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 520173,
+      "name": "Blue room",
+      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "The Touch Of Your Lips",
-        "url": "https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 520173,
-      "name": "Blue room",
-      "url": "https://open.spotify.com/track/7tIOwGFRTM08JdAeKOELGp"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Sketches of Spain",
-        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
-      },
-      "artists": [
-        {
-          "name": "Gil Evans",
-          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
-        },
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 734764,
-      "name": "Solea",
-      "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Diane",
         "url": "https://open.spotify.com/album/0FNrlhmr94IAOIFCNCvoDp"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 436426,
       "name": "If I should lose you",
       "url": "https://open.spotify.com/track/37YN6evH0mNQjgyvKPXJcy"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Sketches of Spain",
+        "url": "https://open.spotify.com/album/2xyhltm9XWSQ5xok4C81BD"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 734764,
+      "name": "Solea",
+      "url": "https://open.spotify.com/track/07EI4s3foxxuMdQTkk6MZA"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Dizzy 100",
-        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 303522,
-      "name": "Con Alma",
-      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Oscar Peterson Trio Plus One",
         "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 208240,
       "name": "Squeaky's Blues",
       "url": "https://open.spotify.com/track/5p80CvVYuscVV6ErkZhjpx"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Dizzy 100",
+        "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 303522,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 509373,
-      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/3sKFT6DFw4kMA5DxvhmRjL"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 448386,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1iBzsbnJTL3RoWrv3zAXkE"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Byrd In Hand",
+        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 509373,
+      "name": "Witchcraft - Rudy Van Gelder Edition/Remastered 2003",
+      "url": "https://open.spotify.com/track/51dXsvAZy7hsyvSuQNlai2"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1159,6 +1159,30 @@
       "duration_ms": 453146,
       "name": "What Is This Thing Called Love",
       "url": "https://open.spotify.com/track/3zqVCujN4nNryzTCwLGO3G"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Cat's in the Alley",
+        "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
+      },
+      "artists": [
+        {
+          "name": "Cat Anderson & His Orchestra",
+          "url": "https://open.spotify.com/artist/4XurbHWJ8ybBqnz9dcYT2Z"
+        },
+        {
+          "name": "Jimmy Jones",
+          "url": "https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P"
+        },
+        {
+          "name": "Jimmy Cleveland",
+          "url": "https://open.spotify.com/artist/6O7VJ0WMXn3zPa5X59iimd"
+        }
+      ],
+      "duration_ms": 192626,
+      "name": "You're the Cream in My Coffee",
+      "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1191,30 +1215,6 @@
       "duration_ms": 571863,
       "name": "The Gift That Keeps on Giving",
       "url": "https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
-        "name": "Cat's in the Alley",
-        "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
-      },
-      "artists": [
-        {
-          "name": "Cat Anderson & His Orchestra",
-          "url": "https://open.spotify.com/artist/4XurbHWJ8ybBqnz9dcYT2Z"
-        },
-        {
-          "name": "Jimmy Jones",
-          "url": "https://open.spotify.com/artist/0VKW7nrPpyh3PDmMUiZv9P"
-        },
-        {
-          "name": "Jimmy Cleveland",
-          "url": "https://open.spotify.com/artist/6O7VJ0WMXn3zPa5X59iimd"
-        }
-      ],
-      "duration_ms": 192626,
-      "name": "You're the Cream in My Coffee",
-      "url": "https://open.spotify.com/track/7qknVmDKIi9ml9qhyatq8g"
     },
     {
       "added_at": "2024-11-08 10:26:51",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-11-08 10:26:51",
       "album": {
-        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
-        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
-      },
-      "artists": [
-        {
-          "name": "Bubber Miley",
-          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
-        }
-      ],
-      "duration_ms": 179840,
-      "name": "I Lost My Gal from Memphis",
-      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
-    },
-    {
-      "added_at": "2024-11-08 10:26:51",
-      "album": {
         "name": "A Rift In Decorum: Live At The Village Vanguard",
         "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 337893,
       "name": "Response - Live",
       "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
+    },
+    {
+      "added_at": "2024-11-08 10:26:51",
+      "album": {
+        "name": "Thumpin' & Bumpin' - New York, Vol. 2",
+        "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
+      },
+      "artists": [
+        {
+          "name": "Bubber Miley",
+          "url": "https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT"
+        }
+      ],
+      "duration_ms": 179840,
+      "name": "I Lost My Gal from Memphis",
+      "url": "https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK"
     },
     {
       "added_at": "2024-11-08 10:26:51",

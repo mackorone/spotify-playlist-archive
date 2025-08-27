@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZuxNm0o6kU8>Beny Jr</a>, <a href=spotify:playlist:37i9dQZF1EIUBWv23W5bJ1>Lorien Testard</a>, <a href=spotify:playlist:37i9dQZF1EIUpaKzSbGp7E>Quebonafide</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXVnLRCMUkdm>rumahsakit</a>, <a href=spotify:playlist:37i9dQZF1EIUnf4ZBgCh8S>Mark Ronson</a>, <a href=spotify:playlist:37i9dQZF1EIVGMPo9pz2W2>YoungBoy Never Broke Again</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dime si tú me quieres ver? \- Part 2](https://open.spotify.com/track/5Uz5WvNiUyAsAr0grkasfE) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Anti Social Cool Kid](https://open.spotify.com/album/6pisGd3CugRqlclq4yp308) | 2:36 |
-| 2 | [Gustave](https://open.spotify.com/track/0orrgD76lIubUjB1fg6o5I) | [Lorien Testard](https://open.spotify.com/artist/5ahmcjOOZ9FkOwTZqTRAZ8) | [Clair Obscur: Expedition 33 \(Original Soundtrack\)](https://open.spotify.com/album/5epJvt9jHbYI1j6WqCppGc) | 3:48 |
-| 3 | [Refren trochę jak Lana Del Rey](https://open.spotify.com/track/0bJPQcJGw4G8ffS3VIjHWI) | [Quebonafide](https://open.spotify.com/artist/1fxbULcd6ryMNc1usHoP0R), [Ka\-Meal](https://open.spotify.com/artist/7htKxTVi444ObFAOU0ahS9), [maszaitsme](https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN), [SecretiveSuicide](https://open.spotify.com/artist/16VLZykOWwmhqR60Y5n2z9) | [Refren trochę jak Lana Del Rey](https://open.spotify.com/album/6ZOivoC0hhmnauIIsyJ9FY) | 4:49 |
+| 1 | [Panasea](https://open.spotify.com/track/2v0vKdardqBzAPhObJyAvd) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [Panasea](https://open.spotify.com/album/4AYMOjjlMd1wQxLmWTtsqq) | 4:31 |
+| 2 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 |
+| 3 | [Cross Me \(feat\. Lil Baby and Plies\)](https://open.spotify.com/track/3V3JxDpiUg0RAt1Mfbn6Ht) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [Realer](https://open.spotify.com/album/3o5se5blwiAdJPk8yAw1EQ) | 3:53 |
 | 4 | [YUKON](https://open.spotify.com/track/29iva9idM6rFCPUlu7Rhxl) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 2:43 |
 | 5 | [Nope your too late i already died](https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G) | [wifiskeleton](https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62), [i wanna be a jack\-o\-lantern](https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg) | [suburban daredevil](https://open.spotify.com/album/16g3MJk9OmtNXwRrrPMPUK) | 1:30 |
 | 6 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 |
 | 50 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 |
 
-Snapshot ID: `AAAAAAAAAACJ7rmlyZcGKguhEgI+Hr45`
+Snapshot ID: `AAAAAGEAgRwKhOJw5gHeAAX0zEG//2oU`

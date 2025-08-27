@@ -1,6 +1,6 @@
 {
   "description": "Try a little tenderness. Cover: Don West",
-  "num_followers": 51496,
+  "num_followers": 51500,
   "original_name": "soulful",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,38 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 314075,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "Keep Walkin'",
+        "url": "https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 210313,
+      "name": "Keep Walkin'",
+      "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -339,38 +371,6 @@
       "duration_ms": 215200,
       "name": "Xxplosive",
       "url": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Keep Walkin'",
-        "url": "https://open.spotify.com/album/6c5OThz1oFTpUzXQzKmyXb"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 210313,
-      "name": "Keep Walkin'",
-      "url": "https://open.spotify.com/track/78eKLWFEiP9QigCvronTXN"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 314075,
-      "name": "Nikes",
-      "url": "https://open.spotify.com/track/19YKaevk2bce4odJkP5L22"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "RATHER BE",
-        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 171873,
-      "name": "RATHER BE",
-      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 209160,
       "name": "Didn't I",
       "url": "https://open.spotify.com/track/6Dq2LzijkY9WNPwBGDah4L"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "RATHER BE",
+        "url": "https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 171873,
+      "name": "RATHER BE",
+      "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -631,6 +631,22 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
+        "name": "Summerinlove",
+        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 271047,
+      "name": "Summerinlove",
+      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 342999,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3HC6U39266ytr7fMW9M2Mz"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Summerinlove",
-        "url": "https://open.spotify.com/album/4kNKyptBSEV8C2aUCjrRo4"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 271047,
-      "name": "Summerinlove",
-      "url": "https://open.spotify.com/track/5Me9CVP8sqZvuhtFMOKQoU"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "MIAMI",
-        "url": "https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 181395,
-      "name": "MIAMI",
-      "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Con Todo El Mundo",
         "url": "https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 265410,
       "name": "August 10",
       "url": "https://open.spotify.com/track/2MIavWMdvbYuRoA2Cw6VkN"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "MIAMI",
+        "url": "https://open.spotify.com/album/46Aw6DwBHIqyFVHhljg8la"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 181395,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/3KH7W2zKlPHeLc2dS9UQe4"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
+        "name": "Music and Me",
+        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
+      },
+      "artists": [
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Music & Me",
+      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
         "name": "FREEDOM (feat. Jorja Smith)",
         "url": "https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 160455,
       "name": "FREEDOM (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
-        "name": "Music and Me",
-        "url": "https://open.spotify.com/album/1MCA50GzswxscAouRWnrES"
-      },
-      "artists": [
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Music & Me",
-      "url": "https://open.spotify.com/track/2212oBX0YELcs0sr6DqGer"
     },
     {
       "added_at": "2025-08-22 01:38:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-08-22 01:38:54",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
-      "added_at": "2025-08-22 01:38:54",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 213400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2025-08-22 01:38:54",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
     },
     {
       "added_at": "2025-08-22 01:38:54",

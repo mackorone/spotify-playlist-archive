@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 71651,
+  "num_followers": 71653,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 230640,
-      "name": "Can't Get You out of My Head",
-      "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Can't Get You out of My Head",
+      "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Sneaky Sound System",
-        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
+        "name": "Watching Angels Mend",
+        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
       "artists": [
         {
-          "name": "Sneaky Sound System",
-          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
+          "name": "Alex Lloyd",
+          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
         }
       ],
-      "duration_ms": 269200,
-      "name": "UFO",
-      "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
+      "duration_ms": 203213,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Watching Angels Mend",
-        "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
+        "name": "Sneaky Sound System",
+        "url": "https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j"
       },
       "artists": [
         {
-          "name": "Alex Lloyd",
-          "url": "https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy"
+          "name": "Sneaky Sound System",
+          "url": "https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko"
         }
       ],
-      "duration_ms": 203213,
-      "name": "Amazing",
-      "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
+      "duration_ms": 269200,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4"
     },
     {
       "added_at": "2024-08-05 06:00:58",

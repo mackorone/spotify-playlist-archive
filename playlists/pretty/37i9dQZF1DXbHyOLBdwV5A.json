@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 129574,
+  "num_followers": 129582,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-08-15 15:43:47",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2025-08-15 15:43:47",
+      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 216470,
       "name": "Respirar e Confiar",
       "url": "https://open.spotify.com/track/0Z5DQErCulcYwwstMWIMjl"
-    },
-    {
-      "added_at": "2025-08-15 15:43:47",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2025-08-15 15:43:47",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-08-15 15:43:47",
       "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2025-08-15 15:43:47",
-      "album": {
         "name": "Ruah, Vento de Deus",
         "url": "https://open.spotify.com/album/0y3JnRAjkfu2HxZuerRXKS"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 180000,
       "name": "Ruah, Vento de Deus - Padre Jucinei Vilpert Natal CSJ Remix",
       "url": "https://open.spotify.com/track/33896eXL0XhGPH1OvpB9rB"
+    },
+    {
+      "added_at": "2025-08-15 15:43:47",
+      "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2025-08-15 15:43:47",

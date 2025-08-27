@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69399,
+  "num_followers": 69403,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAADxFlEy4cuCMRMt+XlEIlXO",
+  "snapshot_id": "aKungAAAAADA6JuxL1K6l4cv/Ja7VVhN",
   "tracks": [
     {
       "added_at": null,
@@ -1147,38 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "360",
-      "url": "https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "ENERO",
-      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mojadero",
         "url": "https://open.spotify.com/album/2n9ld2fC8zstqwJmMG2z0s"
       },
@@ -1199,6 +1167,38 @@
       "duration_ms": 235897,
       "name": "Mojadero",
       "url": "https://open.spotify.com/track/5uNOpdHMpFV9RxZ0qgNGcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "ENERO",
+      "url": "https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "360",
+      "url": "https://open.spotify.com/track/0wGoOwOvLGCZqz8mNFMpAC"
     },
     {
       "added_at": null,

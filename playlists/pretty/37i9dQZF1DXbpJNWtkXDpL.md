@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Doony Graff
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,953 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,964 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 44 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
 | 45 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
 | 46 | [caratrapo](https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [tragaperras](https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6) | 3:28 |
-| 47 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
-| 48 | [Entresueños](https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Entresueños](https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz) | 2:56 |
-| 49 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
-| 50 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
+| 47 | [Entresueños](https://open.spotify.com/track/1hZfTTvkoxecJCqEqaoYqq) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Entresueños](https://open.spotify.com/album/0Jsc0pQII2vfnBV1fWKZIz) | 2:56 |
+| 48 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
+| 49 | [Rinconcito en el Cielo](https://open.spotify.com/track/0W3gf3txFJ6i5pzAzBVHVc) | [Soyiby](https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn) | [Rinconcito en el Cielo](https://open.spotify.com/album/6Lg4611g3RNYjn8oe9zcsL) | 3:42 |
+| 50 | [Chaka](https://open.spotify.com/track/2JQEpanfnk5EGSzFPiN09U) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [Chaka](https://open.spotify.com/album/78TZTD87Y1ibfuCADAanDA) | 2:28 |
 | 51 | [Un Error](https://open.spotify.com/track/4nQWqFS9685r2ZyYSkQ0Sr) | [Monte Carlo](https://open.spotify.com/artist/7IQKn1xlyJJ6hHTP2nrq0K) | [Un Error](https://open.spotify.com/album/16onl3sub2I1ZjnnTKNd0b) | 3:59 |
 | 52 | [Buenos Aires](https://open.spotify.com/track/0rpDCKxlhQYbUbGVPi6JZL) | [Tony Mils](https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt) | [Buenos Aires](https://open.spotify.com/album/2yVinEvqFnj39CdY8oRDl7) | 2:48 |
 | 53 | [antonio banderas](https://open.spotify.com/track/0f5OsrCA49IeHZS2omDSB5) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [antonio banderas](https://open.spotify.com/album/06qlB6sf07ldcmzoN9wGSh) | 4:08 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 69 | [Colibrí](https://open.spotify.com/track/0FQrn8ItavKqvvjGodzMHa) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Colibrí](https://open.spotify.com/album/7A05hfSc8V8dCptrSoOiKI) | 3:14 |
 | 70 | [Tropezar](https://open.spotify.com/track/4w3byyP9z4d9jm92ngRuI1) | [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R) | [Ausente](https://open.spotify.com/album/3JtrimyGOgrXVjvggjZYdy) | 2:44 |
 | 71 | [Demasiado Tarde](https://open.spotify.com/track/53ULbrvKX18BbLz6Ix2jl0) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [LaPeste](https://open.spotify.com/artist/0MLJlEbWNHBCfK1TcdjYMl) | [Demasiado Tarde](https://open.spotify.com/album/00DTKL77gqElBR0IeO6y4z) | 2:45 |
-| 72 | [Jump](https://open.spotify.com/track/6ni8qcoN39HFcw7efzdsQW) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Jump](https://open.spotify.com/album/0ZblXy5C5Po8ltwW7KxOIc) | 2:17 |
+| 72 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
 | 73 | [Cocodrilos](https://open.spotify.com/track/4wlEzNBPccyqMESEq1IS7B) | [Oveja](https://open.spotify.com/artist/3XhLzBXSvRtyTI1scZa2mX) | [Cocodrilos](https://open.spotify.com/album/5K55oM6XujNajJ1NPlvOSA) | 2:46 |
-| 74 | [Al Infinito y Más Allá](https://open.spotify.com/track/3itJh3lyzrgusEw6IWcyvx) | [La Cuadrilla Oficial](https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI) | [Al Infinito y Más Allá](https://open.spotify.com/album/0Ojdj5QNpitRcKJrahEtBZ) | 2:22 |
-| 75 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
+| 74 | [Viento Feroz](https://open.spotify.com/track/3fgBsRXe6SGYBoGeQMYlkr) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Viento Feroz](https://open.spotify.com/album/2x6dCggxmwMu1uKdwisC3X) | 3:16 |
+| 75 | [Jump](https://open.spotify.com/track/6ni8qcoN39HFcw7efzdsQW) | [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2), [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv) | [Jump](https://open.spotify.com/album/0ZblXy5C5Po8ltwW7KxOIc) | 2:17 |
 
 Snapshot ID: `AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe`

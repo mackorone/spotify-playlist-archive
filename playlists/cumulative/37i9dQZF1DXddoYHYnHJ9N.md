@@ -2,7 +2,7 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Manuel
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: DESH
 
 134 songs - 6 hr 40 min
 

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Asha Bhat, Patrick Abraham
 
-541 songs - 1 day 6 hr 44 min
+542 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
 | [En Anthira](https://open.spotify.com/track/4ri4RGGpeNd7ZlbPVHEtX8) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [En Anthira](https://open.spotify.com/album/2Zl9D0MjkLy20kAjAlP6EW) | 2:55 | 2024-05-13 | 2024-12-20 |
 | [Enagide Nanna Hrudaya](https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS), [Sharath KN](https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb), [Shwetha Guru](https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1) | [Enagide Nanna Hrudaya](https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK) | 5:54 | 2023-12-22 | 2024-06-12 |
-| [EVERYTHING](https://open.spotify.com/track/4qGinE4ZrCOLKwTLTRly5A) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [EVERYTHING](https://open.spotify.com/album/6AD50kjpIxCdruzfbQctE5) | 4:00 | 2025-03-26 |  |
+| [EVERYTHING](https://open.spotify.com/track/4qGinE4ZrCOLKwTLTRly5A) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [EVERYTHING](https://open.spotify.com/album/6AD50kjpIxCdruzfbQctE5) | 4:00 | 2025-03-26 | 2025-08-27 |
 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 | 2024-02-28 |
 | [Fall in love](https://open.spotify.com/track/3XJFWpFQ1mmfsnLAmzoku6) | [Shiva Ranna](https://open.spotify.com/artist/6fOpr6oChdGNK3Ypi9d6CJ) | [Fall in love](https://open.spotify.com/album/26yNQkxd0J2MB6nioywD5U) | 3:44 | 2025-04-23 |  |
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 | 2023-07-04 |
@@ -164,6 +164,7 @@
 | [Good Vibe](https://open.spotify.com/track/1sAUWodQtglnQ3RqVbRLxj) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Good Vibe](https://open.spotify.com/album/52RcOVDsrNbqrDAnCesUnq) | 2:17 | 2024-02-26 | 2024-08-13 |
 | [Gundige](https://open.spotify.com/track/4Bo1YL88CMFQHL8XbjL3jT) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Gundige](https://open.spotify.com/album/3RGZ5Ru3es7BmdlKM4Eq1A) | 2:51 | 2025-02-24 | 2025-07-17 |
 | [Gutuku Namma Baalu](https://open.spotify.com/track/1cGWcK60YEqsjLjZvr5vq9) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Lovv Pran Mehta](https://open.spotify.com/artist/6Vlrxk75BYiCSp5YvqipC7) | [Gutuku Namma Baalu](https://open.spotify.com/album/292V9IeU6FaH9qkskq0JKy) | 4:05 | 2025-03-17 | 2025-05-17 |
+| [H Town Legacy](https://open.spotify.com/track/0lo4MbmWyWfTh8Xs17locq) | [Dydx](https://open.spotify.com/artist/5LV2eUKMYtUPjA0jino6hL) | [H Town Legacy](https://open.spotify.com/album/3fiTHZuIpYg3ibx4r8pU2A) | 2:14 | 2025-08-26 |  |
 | [Haala](https://open.spotify.com/track/3Toq09j2dRtOfMMeikNEJh) | [Lil\-G](https://open.spotify.com/artist/3Fv07lTLwkjvYHWW4dibXQ) | [Haala](https://open.spotify.com/album/0NjBDS09YIeB5km2sEalGb) | 4:52 | 2024-06-11 | 2024-11-20 |
 | [Haaralu](https://open.spotify.com/track/1s29dZ1OkcqBe4kzD3T0zB) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/3YBOimXmFBCUNR53TlUDPX) | 2:57 | 2023-06-29 | 2024-01-19 |
 | [Haaralu](https://open.spotify.com/track/75EX7KicIHR8oJeJsnhFOv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/45lp8EknJduEep8k5wrb6Z) | 2:57 | 2023-06-29 | 2024-01-05 |

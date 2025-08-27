@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Aug 08:07 UTC.",
-  "num_followers": 100,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:06 UTC.",
+  "num_followers": 99,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAUOdJJm/Dpk+UMli1s8zWvxCjBZDxl",
+  "snapshot_id": "AAAUPXSHFbLEOGm2tKN4MmujUAE4q11c",
   "tracks": [
+    {
+      "added_at": "2025-08-26 22:06:11",
+      "album": {
+        "name": "BLUE!",
+        "url": "https://open.spotify.com/album/4WzgkY9lqsZ4A8ZrT9PegM"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 196013,
+      "name": "BLUE!",
+      "url": "https://open.spotify.com/track/6S5e72PcYpNHTGxTtAYUyg"
+    },
+    {
+      "added_at": "2025-08-26 13:06:58",
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
+    },
     {
       "added_at": "2025-08-22 08:04:42",
       "album": {
@@ -787,38 +819,6 @@
       "duration_ms": 158414,
       "name": "The Devil Is A Democrat",
       "url": "https://open.spotify.com/track/6Pghr6YCqFmGyS3Jg6jii4"
-    },
-    {
-      "added_at": "2025-08-15 22:03:39",
-      "album": {
-        "name": "Annihilate Me",
-        "url": "https://open.spotify.com/album/1rjNoRofF8n9tZHyU6tqPc"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 202073,
-      "name": "Annihilate Me",
-      "url": "https://open.spotify.com/track/7lWgoPdOX6T6xsqoVRHQmy"
-    },
-    {
-      "added_at": "2025-08-16 13:04:06",
-      "album": {
-        "name": "GOD IS AN ANIMAL",
-        "url": "https://open.spotify.com/album/5FQNBkCCMPNsFqHak4qFXF"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 235745,
-      "name": "GOD IS AN ANIMAL",
-      "url": "https://open.spotify.com/track/2ofQD99VWjC8SOM3vqLjw9"
     }
   ],
   "unique_name": "New Singles Now",

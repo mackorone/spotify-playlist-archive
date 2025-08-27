@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 
 > With Sonder, Summer Walker, Jhené Aiko and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,028 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,083 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4sPTJXAlqbkG.md) - [plain]
 | 49 | [Sorrows](https://open.spotify.com/track/5TXQCMKN6TgemTL3c4wRTn) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 3:13 |
 | 50 | [FLORIDA BABY](https://open.spotify.com/track/2KGhXTEvSQ2SlW1sH9nb2h) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Drugs n' Lullabies](https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8) | 2:20 |
 
-Snapshot ID: `aK0I3wAAAACbuGYpUI7w1y/Ocs7MBIOc`
+Snapshot ID: `aK5T0wAAAADJr9jLUTmOL3Xhp2DheoUi`

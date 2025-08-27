@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Doja Cat, sombr, Florence + The Machine, Netsky & Bebe Rexha and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,058 likes - 82 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,056 likes - 82 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

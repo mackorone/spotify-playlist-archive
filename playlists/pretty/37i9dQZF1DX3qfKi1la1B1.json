@@ -1,6 +1,6 @@
 {
   "description": "\u6df1\u591c\u306e\u8aad\u66f8\u3001\u304a\u9152\u3092\u98f2\u307f\u306a\u304c\u3089\u30cd\u30c3\u30c8\u30b5\u30fc\u30d5\u30a3\u30f3 ....\u305d\u3093\u306a\u30ea\u30e9\u30c3\u30af\u30b9\u30bf\u30a4\u30e0\u306e\u304a\u4f9b\u306b\u3002",
-  "num_followers": 127019,
+  "num_followers": 127029,
   "original_name": "Midnight Chill",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
-        "name": "Before & After You",
-        "url": "https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 228960,
-      "name": "Before & After You",
-      "url": "https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif"
+      "duration_ms": 245720,
+      "name": "Drunk, Running",
+      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
     },
     {
       "added_at": "2025-08-20 01:43:48",
@@ -683,18 +683,18 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+        "name": "Before & After You",
+        "url": "https://open.spotify.com/album/7tkmHJLmcowIUfp7unuckc"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 245720,
-      "name": "Drunk, Running",
-      "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
+      "duration_ms": 228960,
+      "name": "Before & After You",
+      "url": "https://open.spotify.com/track/7sdKAteX5dtVv7Aopkgyif"
     },
     {
       "added_at": "2025-08-20 01:43:48",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
-      },
-      "artists": [
-        {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
-        }
-      ],
-      "duration_ms": 364333,
-      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
-    },
-    {
-      "added_at": "2025-08-20 01:43:48",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D"
       },
@@ -747,26 +731,34 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
-        "name": "Air Maxes",
-        "url": "https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK"
+        "name": "3",
+        "url": "https://open.spotify.com/album/6wiUifStt7pdwsn1k3ROfH"
       },
       "artists": [
         {
-          "name": "KETTAMA",
-          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
-        },
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
         }
       ],
-      "duration_ms": 181172,
-      "name": "Air Maxes",
-      "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
+      "duration_ms": 364333,
+      "name": "\u30a8\u30a4\u30ea\u30a2\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/5NclFtKE9l08xM8XhDKyzx"
+    },
+    {
+      "added_at": "2025-08-20 01:43:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 164586,
+      "name": "ceilings - Spotify Singles",
+      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
     },
     {
       "added_at": "2025-08-20 01:43:48",
@@ -795,18 +787,26 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+        "name": "Air Maxes",
+        "url": "https://open.spotify.com/album/3uJi79dqEa5suZaCg5DTGK"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 164586,
-      "name": "ceilings - Spotify Singles",
-      "url": "https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY"
+      "duration_ms": 181172,
+      "name": "Air Maxes",
+      "url": "https://open.spotify.com/track/1Lqe8uCWPfAjjuztMplsYA"
     },
     {
       "added_at": "2025-08-20 01:43:48",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
+        "name": "IS THIS LOVE",
+        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 156880,
+      "name": "IS THIS LOVE (Piano Ver.)",
+      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
+    },
+    {
+      "added_at": "2025-08-20 01:43:48",
+      "album": {
         "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
         "url": "https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 181714,
       "name": "\u5931\u7720\u822a\u73ed\uff08Sleepless on the plane)",
       "url": "https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl"
-    },
-    {
-      "added_at": "2025-08-20 01:43:48",
-      "album": {
-        "name": "IS THIS LOVE",
-        "url": "https://open.spotify.com/album/46e5x2psGWtzCZc96Xi3Kt"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 156880,
-      "name": "IS THIS LOVE (Piano Ver.)",
-      "url": "https://open.spotify.com/track/6Stw2SepJwrkjT60fusHxR"
     },
     {
       "added_at": "2025-08-20 01:43:48",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-08-20 01:43:48",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 220945,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
+    },
+    {
+      "added_at": "2025-08-20 01:43:48",
+      "album": {
         "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 223443,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc"
-    },
-    {
-      "added_at": "2025-08-20 01:43:48",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/53m3RvFPacVDijPuDabf0Y"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 220945,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0prsE9X5dqceSEuxKNRyHp"
     }
   ],
   "unique_name": "Midnight Chill",

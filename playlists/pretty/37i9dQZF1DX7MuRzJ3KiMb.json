@@ -1,6 +1,6 @@
 {
   "description": "pa' no pensar en nada ",
-  "num_followers": 101461,
+  "num_followers": 101479,
   "original_name": "existir",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 228746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2025-07-08 18:53:20",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Exit Music (For A Film)",
+      "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
         "name": "Mrs Magic",
         "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 198213,
       "name": "I Can't Handle Change",
       "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 267186,
-      "name": "Exit Music (For A Film)",
-      "url": "https://open.spotify.com/track/0z1o5L7HJx562xZSATcIpY"
     },
     {
       "added_at": "2025-07-08 18:53:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
-        "name": "Nadie Nos Va A Extra\u00f1ar (Banda Sonora De La Serie Original De Prime)",
-        "url": "https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento",
-      "url": "https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
+        "name": "Nadie Nos Va A Extra\u00f1ar (Banda Sonora De La Serie Original De Prime)",
+        "url": "https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento",
+      "url": "https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy"
     },
     {
       "added_at": "2025-07-08 18:53:20",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 283573,
       "name": "Empire Ants (feat. Little Dragon)",
       "url": "https://open.spotify.com/track/3a6PN6BRB8PP3ms48s7kU1"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
     },
     {
       "added_at": "2025-07-08 18:53:20",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-07-08 18:53:20",
       "album": {
-        "name": "La Sintesis O'Konor",
-        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 327739,
-      "name": "La Noche Eterna",
-      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
-    },
-    {
-      "added_at": "2025-07-08 18:53:20",
-      "album": {
         "name": "Artaud",
         "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 295826,
       "name": "Cementerio Club",
       "url": "https://open.spotify.com/track/0O9BqfU1Cdm7YqmD0TrT9i"
+    },
+    {
+      "added_at": "2025-07-08 18:53:20",
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 327739,
+      "name": "La Noche Eterna",
+      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
     },
     {
       "added_at": "2025-07-08 18:53:20",

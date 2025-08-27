@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uad6d \ud799\ud569\uc758 \ubfcc\ub9ac, \uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d \ud799\ud569\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (\ucee4\ubc84: Tiger JK)",
-  "num_followers": 4826,
+  "num_followers": 4827,
   "original_name": "\uc62c\ub4dc\uc2a4\ucfe8 \ud55c\uad6d\ud799\ud569 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
+        "name": "Positive Mind",
+        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
       },
       "artists": [
         {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
         },
         {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
         }
       ],
-      "duration_ms": 272213,
-      "name": "Three Pirates (Feat. YDG)",
-      "url": "https://open.spotify.com/track/3SpidEKQSR7EqL6qA0ueny"
+      "duration_ms": 254640,
+      "name": "\ub208\uc744 \ub728\uba74",
+      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -511,22 +511,22 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Positive Mind",
-        "url": "https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e"
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0"
       },
       "artists": [
         {
-          "name": "ILLSON",
-          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
-        },
-        {
           "name": "Dynamicduo",
           "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
         }
       ],
-      "duration_ms": 254640,
-      "name": "\ub208\uc744 \ub728\uba74",
-      "url": "https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6"
+      "duration_ms": 272213,
+      "name": "Three Pirates (Feat. YDG)",
+      "url": "https://open.spotify.com/track/3SpidEKQSR7EqL6qA0ueny"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -747,6 +747,26 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
+        "name": "Fanatic",
+        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
+      },
+      "artists": [
+        {
+          "name": "Fana",
+          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
+        },
+        {
+          "name": "Kebee & The Quiett",
+          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
+      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
         "name": "Thunderground",
         "url": "https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw"
       },
@@ -759,6 +779,22 @@
       "duration_ms": 223640,
       "name": "You Don\u2019t Know",
       "url": "https://open.spotify.com/track/2uXFpDJqHr1fgaHmYIoozA"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Yangdonggeun a.k.a Madman",
+        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+        }
+      ],
+      "duration_ms": 243621,
+      "name": "\uc120\ubb38\ub2f5",
+      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -815,42 +851,6 @@
     {
       "added_at": "2024-11-20 08:34:55",
       "album": {
-        "name": "Yangdonggeun a.k.a Madman",
-        "url": "https://open.spotify.com/album/305r3dhQ3aVqsfwHCf531R"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
-        }
-      ],
-      "duration_ms": 243621,
-      "name": "\uc120\ubb38\ub2f5",
-      "url": "https://open.spotify.com/track/5I4uO1Ff81E0ltkPbQl5Uw"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Fanatic",
-        "url": "https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO"
-      },
-      "artists": [
-        {
-          "name": "Fana",
-          "url": "https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT"
-        },
-        {
-          "name": "Kebee & The Quiett",
-          "url": "https://open.spotify.com/artist/19FusVEESEp7aIW8ZNORim"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Brutal Treatment (Part. 1) [feat. Kebee & The Quiett]",
-      "url": "https://open.spotify.com/track/4HJZszQCz2viSCi0qlHSIR"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
         "name": "Massmediah",
         "url": "https://open.spotify.com/album/0Su0Fa7STgIBkhoBS036nb"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 260062,
       "name": "compass",
       "url": "https://open.spotify.com/track/0WqpJcQ3k9Kr2bUuywKPaw"
+    },
+    {
+      "added_at": "2024-11-20 08:34:55",
+      "album": {
+        "name": "Bizzionary",
+        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
+      },
+      "artists": [
+        {
+          "name": "Bizzy",
+          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
+        }
+      ],
+      "duration_ms": 477231,
+      "name": "Movement 4",
+      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -887,22 +903,6 @@
       "duration_ms": 218893,
       "name": "Stars (feat. Verbal Jint & Swings)",
       "url": "https://open.spotify.com/track/06zn2az5EBXfRSmWJMQ4iZ"
-    },
-    {
-      "added_at": "2024-11-20 08:34:55",
-      "album": {
-        "name": "Bizzionary",
-        "url": "https://open.spotify.com/album/6iEkOP0oNzQz7yiJNHhoOM"
-      },
-      "artists": [
-        {
-          "name": "Bizzy",
-          "url": "https://open.spotify.com/artist/4w7y9BkDnf9hhjzQH6Br41"
-        }
-      ],
-      "duration_ms": 477231,
-      "name": "Movement 4",
-      "url": "https://open.spotify.com/track/6kXS78PdKrHwpzTnAtKp13"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1074,15 +1074,11 @@
         {
           "name": "Verbal Jint",
           "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        },
-        {
-          "name": "Realslow",
-          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 241263,
-      "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
+      "duration_ms": 164354,
+      "name": "Radio - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1198,11 +1194,15 @@
         {
           "name": "Verbal Jint",
           "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        },
+        {
+          "name": "Realslow",
+          "url": "https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn"
         }
       ],
-      "duration_ms": 164354,
-      "name": "Radio - 2021 Remaster",
-      "url": "https://open.spotify.com/track/6ab2jyJt8BN7oW2OYTMKao"
+      "duration_ms": 241263,
+      "name": "Love & Hip-Hop (Feat. Whee Sung) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/6hA73cIYwRLL0LDI95B9FL"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1268,13 +1268,13 @@
       },
       "artists": [
         {
-          "name": "Side B",
-          "url": "https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy"
+          "name": "K.O.D",
+          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
         }
       ],
-      "duration_ms": 263186,
-      "name": "Platonic",
-      "url": "https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4"
+      "duration_ms": 276306,
+      "name": "Around Us",
+      "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
     },
     {
       "added_at": "2024-11-20 08:34:55",
@@ -1300,13 +1300,13 @@
       },
       "artists": [
         {
-          "name": "K.O.D",
-          "url": "https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u"
+          "name": "Side B",
+          "url": "https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy"
         }
       ],
-      "duration_ms": 276306,
-      "name": "Around Us",
-      "url": "https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy"
+      "duration_ms": 263186,
+      "name": "Platonic",
+      "url": "https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4"
     },
     {
       "added_at": "2024-11-20 08:34:55",

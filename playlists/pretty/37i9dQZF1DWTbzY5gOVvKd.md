@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,455 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,437 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 74 | [You Taught My Heart to Sing](https://open.spotify.com/track/6ZZSi4URY8EIS6xOWkmhdV) | [Lucía](https://open.spotify.com/artist/4pJ0viHUYhSn2o4OhaFKii) | [Lucía](https://open.spotify.com/album/0jEIDaWNl4OHLebprJV0Y7) | 4:38 |
 | 75 | [I'll Love You Just The Same](https://open.spotify.com/track/55UPUHJa2r4j1ePS071Hik) | [Kieran Brown](https://open.spotify.com/artist/08MDssyQv84tafDVq5QmWJ) | [Loving You](https://open.spotify.com/album/3XSf8Unnnx22syZW9ILEtR) | 3:20 |
 | 76 | [Day by Day](https://open.spotify.com/track/7nCLWAwlLfJgg4xDm4qjyA) | [Brandon Estrada](https://open.spotify.com/artist/32s9nbMhyhXRKma5C6VusV), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [Day By Day](https://open.spotify.com/album/2gVd0QcZkUBmJJSD6AL9do) | 3:05 |
-| 77 | [My Funny Valentine](https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:32 |
-| 78 | [Thank You for Everything](https://open.spotify.com/track/3qgoNaFcs3cYUmPOD0gMKL) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Mellow Tones](https://open.spotify.com/album/3b6kIkydadwHO9xberFMQ5) | 5:55 |
+| 77 | [Thank You for Everything](https://open.spotify.com/track/3qgoNaFcs3cYUmPOD0gMKL) | [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3) | [Mellow Tones](https://open.spotify.com/album/3b6kIkydadwHO9xberFMQ5) | 5:55 |
+| 78 | [My Funny Valentine](https://open.spotify.com/track/0ULm3rFCZSbIZcdFUOrgSm) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Standards](https://open.spotify.com/album/2Fd1KIL5aUNTl40H3OkOQi) | 4:32 |
 | 79 | [I've Been Kicking Myself](https://open.spotify.com/track/0yllbeI1EJEx9kFn5jVgN2) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [I've Been Kicking Myself](https://open.spotify.com/album/0qZYvYJsrTrGUz4XxgMBsq) | 3:14 |
 | 80 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 |
 | 81 | [Bewitched](https://open.spotify.com/track/2ofpYfMA5QKWkyuZmSId8R) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [For You](https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL) | 3:49 |

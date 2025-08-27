@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: JOSH
+> Songs from LGBTQIA+ artists\. Cover: Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,124 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,058 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Control](https://open.spotify.com/track/2GXT5unTnuzQ7wYAm28Y4s) | [Marcin Maciejczak](https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2) | [Control](https://open.spotify.com/album/5BL10vhOovuT7w7HzgxCH1) | 2:18 |
 | 50 | [Wody odeszły](https://open.spotify.com/track/6vRtXj4gYSY96X5MPUES4J) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Wody odeszły](https://open.spotify.com/album/1MfHtnGP5xjQ6GemJLvKIK) | 4:28 |
 
-Snapshot ID: `AAAAAOCz6EseqcsxF+Azhr3khJB6ZQi/`
+Snapshot ID: `AAAAAMX9CjLjQ6gFsFzlwOOz/xgeK8tu`

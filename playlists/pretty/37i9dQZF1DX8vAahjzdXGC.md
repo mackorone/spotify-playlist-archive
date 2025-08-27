@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Laufey, sombr, Lyodra, Judika & Andi Rianto dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,016 likes - 108 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,036 likes - 108 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

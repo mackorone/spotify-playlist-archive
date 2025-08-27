@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 
 > Nosotros ponemos la música y tú los pasos ;\)<br/>Can't stop, won't stop dancing!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,846,863 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,846,687 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSX4baQVDQut.md) - [plain]
 | 89 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
 | 90 | [TOY PERDIO](https://open.spotify.com/track/3JXGcoxUTyBU7AYdpsLdH6) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [TOY PERDIO](https://open.spotify.com/album/41Fx3xFa1msZKkLGXVgm4t) | 2:55 |
 | 91 | [INSOMNIO](https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC) | 3:38 |
-| 92 | [Juan Dolio](https://open.spotify.com/track/5pvVKuzdF6u5pi5emaiOXH) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Playita Vibes](https://open.spotify.com/album/1OaP1oGcNYzygU1P2O1vtw) | 3:16 |
-| 93 | [Nos Duele Tanto](https://open.spotify.com/track/5Qpe34hyuUgb83zeNk3q5u) | [Pascal](https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu) | [Nos Duele Tanto](https://open.spotify.com/album/2JZ4R0tmYJu7Wk7TuE4jX5) | 2:21 |
+| 92 | [Nos Duele Tanto](https://open.spotify.com/track/5Qpe34hyuUgb83zeNk3q5u) | [Pascal](https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu) | [Nos Duele Tanto](https://open.spotify.com/album/2JZ4R0tmYJu7Wk7TuE4jX5) | 2:21 |
+| 93 | [Juan Dolio](https://open.spotify.com/track/5pvVKuzdF6u5pi5emaiOXH) | [Mark B.](https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu) | [Playita Vibes](https://open.spotify.com/album/1OaP1oGcNYzygU1P2O1vtw) | 3:16 |
 | 94 | [Amor Material](https://open.spotify.com/track/6E36Zi4KEGsFEpMKbAzMtH) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Ataca Sergio Presents: Urban Salsa Sessions Volume 1](https://open.spotify.com/album/7tflY9bdORYFpXVnhQtzAn) | 2:49 |
 | 95 | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Fux Beat](https://open.spotify.com/artist/6hftbcqGKIFB01XfseVMN1), [KRZ](https://open.spotify.com/artist/4zXYopQxFWB8DCsjm6nOM8), [Diana Landa](https://open.spotify.com/artist/38eUnGsqHpaZ2nXaLjF36s) | [Fiesta En La Ciudad \(feat\. KRZ & Diana Landa\)](https://open.spotify.com/album/4iem4izhogumCHM1HWwhjG) | 3:33 |
 | 96 | [Tragao](https://open.spotify.com/track/0GfMryZdmz6CrgabqCTauq) | [Sebas R](https://open.spotify.com/artist/4cPU16HmYdEqsnrhZ06UjU) | [Tragao](https://open.spotify.com/album/3cxmQ6iAnjJKnjKnlvBf5l) | 2:41 |

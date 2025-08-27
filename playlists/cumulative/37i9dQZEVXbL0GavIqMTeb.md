@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-1,375 songs - 3 day 3 hr 49 min
+1,376 songs - 3 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Conmigo Se Escapa](https://open.spotify.com/track/7cY0AqrTZRFMCPy2DRrShi) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:31 | 2025-06-28 | 2025-07-23 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-16 | 2024-04-28 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-01 | 2023-07-03 |
-| [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-05-09 |  |
+| [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-05-09 | 2025-08-27 |
 | [COQUETA](https://open.spotify.com/track/0ZeObZ4dRDyJluQhHow90a) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T), [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ) | [COQUETA](https://open.spotify.com/album/4Rs0gyENJHnyeVjEh6OhuM) | 2:39 | 2025-05-31 | 2025-06-27 |
 | [Cora Roto](https://open.spotify.com/track/35fSKiaVknkbEBJxvqKuHU) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Cora Roto](https://open.spotify.com/album/0kuwC399JZDrmSjbGa6nCl) | 3:37 | 2023-08-05 | 2024-03-03 |
 | [Cora Roto \(feat\. Pailita\)](https://open.spotify.com/track/4V3Rot65GZVEryNNwJ16HZ) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:37 | 2024-03-30 | 2024-05-05 |
@@ -1075,6 +1075,7 @@
 | [Se Cansó](https://open.spotify.com/track/7wAgHMlG5DyyElIfBAjyQk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Asere de Aseres](https://open.spotify.com/album/2uLjoKjhHdm6iZaovBuQE7) | 3:01 | 2024-02-10 | 2024-02-15 |
 | [SE ENDIABLA](https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [SE ENDIABLA](https://open.spotify.com/album/6cnpSkpsSBOUM8cBvu2dXp) | 2:39 | 2022-09-23 | 2022-12-06 |
 | [Se Le Ve](https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Se Le Ve](https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s) | 4:37 | 2021-12-21 | 2022-04-23 |
+| [SE LO JURO MOR](https://open.spotify.com/track/3AoF1Fd8rWPBTIfGkcxdQM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE LO JURO MOR](https://open.spotify.com/album/2MY3id8pkDEBtF9lomDQHr) | 2:50 | 2025-08-26 |  |
 | [SE ME OLVIDA](https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SE ME OLVIDA](https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3) | 3:45 | 2024-08-27 | 2024-12-29 |
 | [Se Menea](https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Se Menea](https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5) | 3:10 | 2021-11-21 | 2021-12-04 |
 | [Se Murió Tite](https://open.spotify.com/track/1qkPcJhexpzPEbaDdpudty) | [La Sonora De Tommy Rey](https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv) | [Celebramos el Bicentenario](https://open.spotify.com/album/2BEJItkFZR9q40XXIKN6yg) | 2:58 | 2022-01-02 | 2022-01-04 |

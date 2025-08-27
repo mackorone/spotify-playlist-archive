@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\. Cover: JOSH
+> Songs from LGBTQIA+ artists\. Cover: Ambré
 
 1,572 songs - 3 day 12 hr 58 min
 

@@ -28455,6 +28455,24 @@
     },
     {
       "album": {
+        "name": "Por Llamada",
+        "url": "https://open.spotify.com/album/300Go2SaRFmKiTV2CFfJr5"
+      },
+      "artists": [
+        {
+          "name": "Starlin LaTinta",
+          "url": "https://open.spotify.com/artist/2xn5qFbm4QMH0k7IaoOdIZ"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Por Llamada",
+      "url": "https://open.spotify.com/track/7kvWZ4slpqrJLl7oWuTqq3"
+    },
+    {
+      "album": {
         "name": "Por Que Te Niegas",
         "url": "https://open.spotify.com/album/7zLEJEnyS2GBvIhmcds16F"
       },
@@ -28506,7 +28524,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"

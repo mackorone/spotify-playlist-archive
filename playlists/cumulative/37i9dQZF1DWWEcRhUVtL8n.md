@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Dominic Fike
 
-2,183 songs - 4 day 19 hr 44 min
+2,185 songs - 4 day 19 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Damn Shame](https://open.spotify.com/track/5XP4NbKorAE3mMl5gcuQW6) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Damn Shame](https://open.spotify.com/album/4kMW4QkHFBOBvx5wIn8uDF) | 2:48 | 2024-12-13 | 2025-03-03 |
 | [Dance No More](https://open.spotify.com/track/1MgfRvRsXVIsSYsCgCAtM7) | [Swaine Delgado](https://open.spotify.com/artist/1RZtEnSRJblsLRzGNrCGof) | [Dance No More](https://open.spotify.com/album/2SQfMYYWtX9Y2pNv57Z3gq) | 3:12 | 2021-02-24 | 2021-02-26 |
 | [Dance When You Cry](https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Dance When You Cry](https://open.spotify.com/album/5SYrSxBRPN8VDdzDf2IshW) | 2:52 | 2022-05-20 | 2022-08-06 |
+| [Dancer](https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Dancer](https://open.spotify.com/album/21WB3xmAukyafQysJdV8C9) | 3:00 | 2025-08-22 |  |
 | [dancing in the kitchen](https://open.spotify.com/track/0ohcCrxZkBfFbkuRPOZQZX) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [dancing in the kitchen](https://open.spotify.com/album/3fHkjpHZjohpdtiJJdVtez) | 3:28 | 2021-06-25 | 2022-08-27 |
 | [dancing in the kitchen](https://open.spotify.com/track/7yw1S0euAJViNQ6cEUXuEh) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [dancing in the kitchen](https://open.spotify.com/album/7Ge6ILkZgdQoNavqhPU0Wa) | 2:57 | 2021-06-04 | 2022-06-01 |
 | [Dandelion](https://open.spotify.com/track/5wC3UC33J8qiKRl3ecFaA3) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dandelion](https://open.spotify.com/album/1oOykmxvMTXnYOoHpySLCD) | 2:43 | 2022-07-01 | 2022-07-23 |
@@ -745,7 +746,7 @@
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-02-08 | 2021-10-28 |
 | [Gasoline](https://open.spotify.com/track/5tVbKij7vNLI0psFkkzyew) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/6NtEjhPWfZcvJQuvjGX4bk) | 3:13 | 2020-10-20 | 2021-06-03 |
 | [Gave U My Love](https://open.spotify.com/track/3Q4Pa5EybvFw8O5P3eVrMW) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 1:38 | 2023-09-22 | 2023-11-03 |
-| [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-13 |  |
+| [Geezer](https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Geezer](https://open.spotify.com/album/7ludJVUn2P4sfeQPzQ62eO) | 2:49 | 2025-06-13 | 2025-08-27 |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-06-17 | 2022-10-28 |
 | [Georgia](https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Georgia](https://open.spotify.com/album/5PLNgWXs7Hq6RHgFetDAtJ) | 2:56 | 2022-11-11 | 2022-12-22 |
 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 | 2021-10-14 | 2021-10-16 |
@@ -1076,6 +1077,7 @@
 | [Just Like Me](https://open.spotify.com/track/5CMgV1SsMDRFyeM10Al6NL) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Just Like Me](https://open.spotify.com/album/0EeEkFwvT9QbI5y5CeUMq6) | 2:50 | 2022-08-26 | 2022-09-09 |
 | [JUST ME & FRIENDS](https://open.spotify.com/track/110C4JUqwl9bAxr830GaaI) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [JUST ME & FRIENDS](https://open.spotify.com/album/7nsSHLGAccfsmwjIUAIuYk) | 2:48 | 2023-08-25 | 2023-09-09 |
 | [Just Move](https://open.spotify.com/track/0zfrIxHvYUAp8wAIQlAKj0) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/30wUyky9CMZydC8QrX3RFH) | 3:06 | 2020-10-13\* | 2020-11-17 |
+| [Just Two Girls](https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing](https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV) | 3:49 | 2025-08-22 |  |
 | [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 | 2023-03-31 | 2023-07-10 |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-24 | 2023-04-04 |
 | [kaleidoscope](https://open.spotify.com/track/0gKFdeEir1HGakZnACHIps) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 3:05 | 2022-12-16 | 2023-01-15 |
@@ -2085,7 +2087,7 @@
 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 | 2023-06-16 | 2023-09-30 |
 | [Weirdo](https://open.spotify.com/track/2bXZrZbhRU6IQha9s5I2X2) | [More Fatter](https://open.spotify.com/artist/2pM3a5lWWUSNOPRGYcmGqT) | [Weirdo](https://open.spotify.com/album/2vmFFnnKahsKFQ4xeQhf9N) | 3:01 | 2020-11-03 | 2022-04-16 |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-21 | 2024-10-26 |
-| [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-25 |  |
+| [Wet Hair](https://open.spotify.com/track/28g2ptfHl9P6VJrIwPDHKn) | [Audrey Hobert](https://open.spotify.com/artist/4N0TAwz9vhnQtjCqS65aKS) | [Wet Hair](https://open.spotify.com/album/25Y5fgIAftGWw3W0ghPNTK) | 3:07 | 2025-07-25 | 2025-08-27 |
 | [We’re So In Tune](https://open.spotify.com/track/7wjusjmjeqGJmuoGFYnMeM) | [Kississippi](https://open.spotify.com/artist/6t0a2t1BXxTQvAkxReClPm) | [Mood Ring](https://open.spotify.com/album/2HkSVEfE1lpIE616W2tWB5) | 4:00 | 2021-10-11 | 2021-10-16 |
 | [What I Want](https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 4:03 | 2022-06-24 | 2023-06-17 |
 | [What If I Love You](https://open.spotify.com/track/26kVXR9aQXzDiKggPGnUQR) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/7cf0JlwRmn6rEcKlxhj4za) | 2:38 | 2021-05-04 | 2022-04-11 |

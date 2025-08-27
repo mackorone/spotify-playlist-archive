@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-3,709 songs - 8 day 9 hr 43 min
+3,710 songs - 8 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3516,6 +3516,7 @@
 | [Water](https://open.spotify.com/track/1t2uj1Zi30FMZZoUkbwYCx) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [Water](https://open.spotify.com/album/6XlPmC4mWrWpJdfC3eT1kO) | 3:59 | 2024-10-11 | 2024-10-22 |
 | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/track/1OcV53oesLQw3VTW9I3uD3) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe), [Bobby Harvey](https://open.spotify.com/artist/2biXipa3IRLZUOnXgtKmXc) | [Waterfalls \(feat\. Sam Harper & Bobby Harvey\)](https://open.spotify.com/album/1iEczV3pKJ9MPmRvYGB9bz) | 2:00 | 2025-08-08 | 2025-08-16 |
 | [Wave](https://open.spotify.com/track/5msO1c9VNP14k2t4EvXEsi) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Wave](https://open.spotify.com/album/3DKPygymXWTbAyxp30AbAp) | 2:43 | 2024-07-12 | 2024-07-19 |
+| [Waves](https://open.spotify.com/track/6nAqsKeHckfJkY1hEEVeZO) | [DJDIRTO](https://open.spotify.com/artist/5YGn6qYrkliCQR0brS1C3A) | [Waves](https://open.spotify.com/album/07uxpXdF6kjL5AohKzV00f) | 3:09 | 2025-08-26 |  |
 | [Waves](https://open.spotify.com/track/6pi7EjSL5OAJpruuNwCcUe) | [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9), [Aneym](https://open.spotify.com/artist/1OCU1A4K76uiFICVDRTSBB) | [Waves](https://open.spotify.com/album/1g4EtGz01QO0Sdy9VOk7CS) | 3:38 | 2025-02-13 | 2025-02-22 |
 | [Wavey](https://open.spotify.com/track/5wJFkZDL82O4kx0N8dhoL1) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Wavey](https://open.spotify.com/album/6VoVaB3wSd3zIaxfSK0FEB) | 2:23 | 2025-05-09 | 2025-05-17 |
 | [Wayfarer](https://open.spotify.com/track/6kH1sp90xc4OONF65WJDnO) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [Ingenta](https://open.spotify.com/artist/3GBihcRzwY9qeZxvJVp0y9) | [Wayfarer](https://open.spotify.com/album/5iry8mDu4n7f5hTdLBb0nJ) | 4:38 | 2025-05-29 | 2025-06-07 |

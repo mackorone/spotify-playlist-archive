@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap, a little bit of country? Cover: Lil Peep
 
-764 songs - 1 day 10 hr 54 min
+765 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Camo and Chrome](https://open.spotify.com/track/2JLxvAaBUHeje9WzilAmZ6) | [501Bryze](https://open.spotify.com/artist/0C07HpMBzSy9NWj98eod3R) | [Camo and Chrome \(Deluxe\)](https://open.spotify.com/album/5ctv3ZWr9UkIqOgrZ7pw59) | 2:45 | 2025-05-27 | 2025-08-09 |
 | [Can't Get This Right](https://open.spotify.com/track/2u38tTBCk0OBbjLBM9GoBU) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Can't Get This Right](https://open.spotify.com/album/6OQg7gd7Y0E6f8Gp8LQ1uN) | 2:25 | 2023-01-27 | 2024-02-23 |
 | [Cape Cod](https://open.spotify.com/track/4NwylqX02BEv6yuMdGFUj5) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [Cape Cod](https://open.spotify.com/album/50IWjX5dsIcNq2qqf7Tg3h) | 2:45 | 2021-11-16 | 2022-02-26 |
+| [CAPRIS](https://open.spotify.com/track/1ZFUNIg9u95wtA0D6Vgs4d) | [SHOOP](https://open.spotify.com/artist/5PbXbjuSwJlEhKN3nmneuq) | [CAPRIS](https://open.spotify.com/album/38Xl71sl7TZvDEKrxDTYk6) | 3:18 | 2025-08-26 |  |
 | [Carefree](https://open.spotify.com/track/0UfB1oHKwWuBTBAuIZc0V7) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Carefree](https://open.spotify.com/album/0CqaHkcLlm6Q3JQNsF74bg) | 2:59 | 2022-04-04 | 2022-06-11 |
 | [careless](https://open.spotify.com/track/0SBylBekAoBQ6JpYtGDaCA) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 9](https://open.spotify.com/album/0mRfxUrN7BUkxOv0ms0wdj) | 2:06 | 2022-10-14 | 2023-04-09 |
 | [Carry On](https://open.spotify.com/track/0GEQmn1fPbeQOHVT6YDgFR) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Carry On](https://open.spotify.com/album/3emv6G7Uouh1i9TjWA15Ue) | 3:57 | 2023-03-24 | 2024-06-01 |
@@ -374,7 +375,7 @@
 | [Know Better](https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Know Better](https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu) | 3:19 | 2022-01-14 | 2022-05-20 |
 | [la di da \- acoustic](https://open.spotify.com/track/5bNjrg9hIcDqb2OLttzxlN) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 3](https://open.spotify.com/album/3Q05Dy5yX20ByC4pRz5zI5) | 1:28 | 2022-04-08 | 2022-05-07 |
 | [La La Land](https://open.spotify.com/track/7taeV6Kz3xIgjx5QR0eG8p) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Carnival](https://open.spotify.com/album/1gTkvHFHZhcFMhpy0Ko2Ln) | 2:37 | 2022-07-12 | 2022-11-22 |
-| [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 | 2024-05-31 |  |
+| [Lady Killers III](https://open.spotify.com/track/3WqnBqYNdMlNBX4xNkOhrR) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Lady Killers III](https://open.spotify.com/album/3RCknpgHZcaBHdLSmXU2Cb) | 2:56 | 2024-05-31 | 2025-08-27 |
 | [Lalala](https://open.spotify.com/track/51Fjme0JiitpyXKuyQiCDo) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4WlC4FXhonJhNTXCQPGP3r) | 2:40 | 2022-09-23 | 2022-10-08 |
 | [lame ass](https://open.spotify.com/track/3A4yOd5WdPDW8o7YihEKA7) | [gianni & kyle](https://open.spotify.com/artist/5i4BaWy8YIun1u3RXwmlWn) | [lame ass](https://open.spotify.com/album/0kr9yyqkAmBrla1OEgfvaz) | 1:59 | 2022-12-09 | 2023-04-05 |
 | [Latency](https://open.spotify.com/track/24bcu7IGNipuid5nU7oqgU) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Latency](https://open.spotify.com/album/4cOomZu7ZP0IZdcuSy15sh) | 2:52 | 2022-06-03 | 2022-11-22 |

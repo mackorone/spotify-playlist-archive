@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://loremandfriends.substack.com/p/at-least-we-have-music\">Check out our latest newsletter!</a> Cover: Water From Your Eyes",
-  "num_followers": 1189005,
+  "num_followers": 1189289,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALeWwybdVgZF7Lvy++jkXITu4LMO",
+  "snapshot_id": "AAAAAIKvHhgSRkblZgIhHOD6mpu2dti+",
   "tracks": [
     {
       "added_at": "2025-08-22 04:00:32",
@@ -139,6 +139,38 @@
       "duration_ms": 302408,
       "name": "canal street",
       "url": "https://open.spotify.com/track/0KtV18BLmyIOYHCSISmVl9"
+    },
+    {
+      "added_at": "2025-08-22 22:34:05",
+      "album": {
+        "name": "hickey",
+        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 211221,
+      "name": "i hate this tune",
+      "url": "https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG"
+    },
+    {
+      "added_at": "2025-08-27 00:59:19",
+      "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
     },
     {
       "added_at": "2025-08-22 22:34:05",
@@ -303,22 +335,6 @@
       "duration_ms": 124453,
       "name": "I like to touch people",
       "url": "https://open.spotify.com/track/43Cx7YPYDXC1MIAbHzHYg7"
-    },
-    {
-      "added_at": "2025-08-22 22:34:05",
-      "album": {
-        "name": "hickey",
-        "url": "https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 211221,
-      "name": "i hate this tune",
-      "url": "https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG"
     },
     {
       "added_at": "2025-08-15 04:00:26",

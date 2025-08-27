@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 155341,
+  "num_followers": 155349,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aKpWAAAAAABmA07Kqo/5DaV8LlJUn0FL",
+  "snapshot_id": "aKungAAAAAB0PiH6j4Wz4g9BYGurhZZi",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193177,
+      "name": "Adi\u00f3s, Adi\u00f3s - Remastered 2025",
+      "url": "https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "Una Tarde Como Cualquiera",
+      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -535,38 +567,6 @@
       "duration_ms": 194875,
       "name": "Andamos Borrachos Todos (En Vivo)",
       "url": "https://open.spotify.com/track/3w5D4oqMwV9D3WJl0CsiuH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "Una Tarde Como Cualquiera",
-      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193177,
-      "name": "Adi\u00f3s, Adi\u00f3s - Remastered 2025",
-      "url": "https://open.spotify.com/track/5M9l7wWUD1PrgJO3ZOs300"
     },
     {
       "added_at": null,

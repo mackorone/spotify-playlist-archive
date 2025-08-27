@@ -2455,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "DATT JA",
+        "url": "https://open.spotify.com/album/4m1AjOzRoda7SCZ7AHdtQc"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93919,
+      "name": "DATT JA",
+      "url": "https://open.spotify.com/track/3NmB8tmeEpUYj4Q0fhFckK"
+    },
+    {
+      "album": {
         "name": "Daur",
         "url": "https://open.spotify.com/album/1jTz29GE5Wk7iyM0FhiPHQ"
       },
@@ -7012,7 +7030,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 184941,
       "name": "Near By Me",
       "url": "https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU"
@@ -8478,6 +8496,24 @@
       "duration_ms": 166336,
       "name": "Saat Samunder",
       "url": "https://open.spotify.com/track/40PqdL77XGJjupj7ZP5YQ4"
+    },
+    {
+      "album": {
+        "name": "Sabhi Khaas",
+        "url": "https://open.spotify.com/album/10EEfkiWhyjxdL9oINNWvY"
+      },
+      "artists": [
+        {
+          "name": "Sumit Parta",
+          "url": "https://open.spotify.com/artist/3b3PfZsOrb3cPzSCZjawbr"
+        }
+      ],
+      "date_added": "2025-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146511,
+      "name": "Sabhi Khaas",
+      "url": "https://open.spotify.com/track/5KHVVqnqVgIKDrZtNRcXA9"
     },
     {
       "album": {
@@ -10110,7 +10146,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-08-27",
       "duration_ms": 148846,
       "name": "What Else",
       "url": "https://open.spotify.com/track/0mjlnTz7oroxQwKsR6iNJQ"
